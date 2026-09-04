@@ -1,0 +1,170 @@
+{
+ "P01": {
+  "indus": "030",
+  "rongorongo": "076",
+  "how": "reviewed",
+  "note": "Indus: man with diamond at right is Mahadevan 30 (auto pick 28 lacks the diamond).",
+  "confidence": "ok"
+ },
+ "P02": {
+  "indus": "007",
+  "rongorongo": "195",
+  "how": "auto",
+  "note": "",
+  "confidence": "ok"
+ },
+ "P03": {
+  "indus": "031",
+  "rongorongo": "729",
+  "how": "reviewed",
+  "note": "Indus: man with circle at right is Mahadevan 31.",
+  "confidence": "ok"
+ },
+ "P04": {
+  "indus": "034",
+  "rongorongo": "169",
+  "how": "reviewed",
+  "note": "Indus: man holding U is Mahadevan 34.",
+  "confidence": "ok"
+ },
+ "P05": {
+  "indus": "021",
+  "rongorongo": "172",
+  "how": "auto",
+  "note": "",
+  "confidence": "ok"
+ },
+ "P06": {
+  "indus": "187",
+  "rongorongo": "386",
+  "how": "auto",
+  "note": "auto pick weak (z 1.2): the chart drawing does not closely resemble any catalogue sign.",
+  "confidence": "low"
+ },
+ "P07": {
+  "indus": "400",
+  "rongorongo": "745",
+  "how": "auto",
+  "note": "auto pick weak (z 1.2).",
+  "confidence": "low"
+ },
+ "P08": {
+  "indus": "028",
+  "rongorongo": "469",
+  "how": "auto",
+  "note": "auto pick weak (z 1.1).",
+  "confidence": "low"
+ },
+ "P09": {
+  "indus": "007",
+  "rongorongo": "511",
+  "how": "auto",
+  "note": "",
+  "confidence": "ok"
+ },
+ "P10": {
+  "indus": "032",
+  "rongorongo": "285",
+  "how": "reviewed",
+  "note": "Indus: man with U at right hand, arms raised; Mahadevan 32.",
+  "confidence": "ok"
+ },
+ "P11": {
+  "indus": "027",
+  "rongorongo": "729",
+  "how": "auto",
+  "note": "",
+  "confidence": "ok"
+ },
+ "P12": {
+  "indus": "035",
+  "rongorongo": "376",
+  "how": "auto",
+  "note": "",
+  "confidence": "ok"
+ },
+ "P13": {
+  "indus": "037",
+  "rongorongo": "662",
+  "how": "auto",
+  "note": "",
+  "confidence": "ok"
+ },
+ "P14": {
+  "indus": "064",
+  "rongorongo": "461",
+  "how": "reviewed",
+  "note": "Rongorongo: paired figures; Barthel 461 is a two-figure compound (auto pick 376 is a single figure). Indus auto pick weak (z 1.5): compound of two figures not clearly in the sign list.",
+  "confidence": "low"
+ },
+ "P15": {
+  "indus": "400",
+  "rongorongo": "134",
+  "how": "auto",
+  "note": "rongorongo auto pick very weak (z 0.6): tiny drawing.",
+  "confidence": "low"
+ },
+ "P16": {
+  "indus": "187",
+  "rongorongo": "474",
+  "how": "auto",
+  "note": "auto picks weak.",
+  "confidence": "low"
+ },
+ "P17": {
+  "indus": "375",
+  "rongorongo": "154",
+  "how": "reviewed",
+  "note": "Indus: oval with a single vertical stroke is Mahadevan 375 (auto pick 385 has a forked stroke).",
+  "confidence": "ok"
+ },
+ "P18": {
+  "indus": "415",
+  "rongorongo": "024",
+  "how": "reviewed",
+  "note": "Both: the figure-eight. Mahadevan 415; Barthel 24 (auto picks were a boxed sign and an arrow).",
+  "confidence": "ok"
+ },
+ "P19": {
+  "indus": "343",
+  "rongorongo": "027",
+  "how": "reviewed",
+  "note": "Both: U with an inner bar. Mahadevan 343 and Barthel 27 are the closest catalogue forms; identification uncertain.",
+  "confidence": "ok"
+ },
+ "P20": {
+  "indus": "396",
+  "rongorongo": "046",
+  "how": "reviewed",
+  "note": "Rongorongo: circle on a stem; Barthel 46 (auto pick 86 is a paddle/arrow).",
+  "confidence": "ok"
+ },
+ "P21": {
+  "indus": "296",
+  "rongorongo": "159",
+  "how": "auto",
+  "note": "",
+  "confidence": "ok"
+ },
+ "P22": {
+  "indus": "168",
+  "rongorongo": "129",
+  "how": "reviewed",
+  "note": "Rongorongo: fir-tree/feather form is Barthel 129 (auto pick 106 is a stem with a knob).",
+  "confidence": "ok"
+ },
+ "P23": {
+  "indus": "167",
+  "rongorongo": "440",
+  "how": "auto",
+  "note": "rongorongo auto pick weak (z 1.2).",
+  "confidence": "low"
+ },
+ "P24": {
+  "indus": "328",
+  "rongorongo": "026",
+  "how": "reviewed",
+  "note": "Both: the plain U. Mahadevan 328; Barthel 26 (auto picks add inner strokes).",
+  "confidence": "ok"
+ }
+}

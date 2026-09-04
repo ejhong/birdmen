@@ -1,0 +1,134 @@
+{
+ "egyptian": {
+  "font": "NotoSansEgyptianHieroglyphs-Regular.ttf",
+  "label": "Egyptian hieroglyphs",
+  "note": "Egypt, c. 3200 BCE - 400 CE",
+  "count": 1072
+ },
+ "anatolian": {
+  "font": "NotoSansAnatolianHieroglyphs-Regular.ttf",
+  "label": "Anatolian (Luwian) hieroglyphs",
+  "note": "Anatolia, c. 1400 - 700 BCE",
+  "count": 583
+ },
+ "linear_a": {
+  "font": "NotoSansLinearA-Regular.ttf",
+  "label": "Linear A",
+  "note": "Crete, c. 1800 - 1450 BCE",
+  "count": 341
+ },
+ "linear_b": {
+  "font": "NotoSansLinearB-Regular.ttf",
+  "label": "Linear B",
+  "note": "Crete and Greece, c. 1450 - 1200 BCE",
+  "count": 211
+ },
+ "cypro_minoan": {
+  "font": "NotoSansCyproMinoan-Regular.ttf",
+  "label": "Cypro-Minoan",
+  "note": "Cyprus, c. 1550 - 1050 BCE",
+  "count": 97
+ },
+ "cuneiform": {
+  "font": "NotoSansCuneiform-Regular.ttf",
+  "label": "Sumero-Akkadian cuneiform",
+  "note": "Mesopotamia, c. 3200 BCE - 100 CE",
+  "count": 922
+ },
+ "ugaritic": {
+  "font": "NotoSansUgaritic-Regular.ttf",
+  "label": "Ugaritic",
+  "note": "Syria, c. 1400 - 1200 BCE",
+  "count": 30
+ },
+ "old_persian": {
+  "font": "NotoSansOldPersian-Regular.ttf",
+  "label": "Old Persian cuneiform",
+  "note": "Persia, c. 525 - 330 BCE",
+  "count": 44
+ },
+ "phoenician": {
+  "font": "NotoSansPhoenician-Regular.ttf",
+  "label": "Phoenician",
+  "note": "Levant, c. 1050 - 150 BCE",
+  "count": 22
+ },
+ "old_italic": {
+  "font": "NotoSansOldItalic-Regular.ttf",
+  "label": "Old Italic",
+  "note": "Italy, c. 700 - 100 BCE",
+  "count": 35
+ },
+ "carian": {
+  "font": "NotoSansCarian-Regular.ttf",
+  "label": "Carian",
+  "note": "Anatolia, c. 700 - 300 BCE",
+  "count": 49
+ },
+ "lycian": {
+  "font": "NotoSansLycian-Regular.ttf",
+  "label": "Lycian",
+  "note": "Anatolia, c. 500 - 300 BCE",
+  "count": 29
+ },
+ "old_south_arabian": {
+  "font": "NotoSansOldSouthArabian-Regular.ttf",
+  "label": "Old South Arabian",
+  "note": "Arabia, c. 900 BCE - 600 CE",
+  "count": 29
+ },
+ "meroitic": {
+  "font": "NotoSansMeroitic-Regular.ttf",
+  "label": "Meroitic",
+  "note": "Sudan, c. 300 BCE - 400 CE",
+  "count": 58
+ },
+ "runic": {
+  "font": "NotoSansRunic-Regular.ttf",
+  "label": "Runic",
+  "note": "Northern Europe, c. 150 - 1100 CE",
+  "count": 83
+ },
+ "old_turkic": {
+  "font": "NotoSansOldTurkic-Regular.ttf",
+  "label": "Old Turkic",
+  "note": "Central Asia, c. 700 - 1000 CE",
+  "count": 73
+ },
+ "tifinagh": {
+  "font": "NotoSansTifinagh-Regular.ttf",
+  "label": "Tifinagh",
+  "note": "North Africa, c. 300 BCE - present",
+  "count": 57
+ },
+ "vai": {
+  "font": "NotoSansVai-Regular.ttf",
+  "label": "Vai",
+  "note": "Liberia, 1830s - present",
+  "count": 287
+ },
+ "mende_kikakui": {
+  "font": "NotoSansMendeKikakui-Regular.ttf",
+  "label": "Mende Kikakui",
+  "note": "Sierra Leone, 1920s - present",
+  "count": 197
+ },
+ "pahawh_hmong": {
+  "font": "NotoSansPahawhHmong-Regular.ttf",
+  "label": "Pahawh Hmong",
+  "note": "Laos, 1959 - present",
+  "count": 97
+ },
+ "nushu": {
+  "font": "NotoSansNushu-Regular.ttf",
+  "label": "N\u00fcshu",
+  "note": "Hunan, China, c. 1600s - present",
+  "count": 396
+ },
+ "yi": {
+  "font": "NotoSansYi-Regular.ttf",
+  "label": "Yi syllabary",
+  "note": "Sichuan, China, 1970s standardisation",
+  "count": 1165
+ }
+}
