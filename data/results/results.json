@@ -1,0 +1,9857 @@
+{
+ "n_traditions": 926,
+ "n_motifs": 2138,
+ "classes": {
+  "bird_people": 27,
+  "cosmic_serpent": 9,
+  "world_centre": 11
+ },
+ "rates": {
+  "bird_people": 0.5464362850971922,
+  "cosmic_serpent": 0.3747300215982721,
+  "world_centre": 0.37904967602591794
+ },
+ "bundle_count": 131,
+ "bundle_rate": 0.14146868250539957,
+ "independence_expected": 71.8728944017092,
+ "doc_median_all": 56.0,
+ "doc_median_bundle": 122.0,
+ "curveball": {
+  "n": 300,
+  "mean": 176.41333333333333,
+  "sd": 7.656097061964551,
+  "p_ge": 1.0,
+  "rates": {
+   "bird_people": 0.6238120950323974,
+   "cosmic_serpent": 0.3914254859611231,
+   "world_centre": 0.4308855291576674
+  },
+  "hist": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   2,
+   0,
+   0,
+   0,
+   6,
+   2,
+   5,
+   3,
+   7,
+   3,
+   5,
+   9,
+   11,
+   14,
+   12,
+   10,
+   12,
+   15,
+   19,
+   18,
+   18,
+   13,
+   18,
+   12,
+   9,
+   14,
+   6,
+   7,
+   10,
+   9,
+   6,
+   3,
+   7,
+   3,
+   4,
+   1,
+   1,
+   4,
+   1
+  ]
+ },
+ "surprise": {
+  "real_excess": 6.974355047543476,
+  "real_count": 131,
+  "real_expected": 71.8728944017092,
+  "rank": 2996,
+  "n_random": 5000,
+  "random_excess_quantiles": [
+   3.7032121836077736,
+   5.955082344626577,
+   7.543758746447548,
+   9.220238485381467,
+   11.721019127900847
+  ],
+  "random_count_median": 75.0
+ },
+ "named": {
+  "Sumer": {
+   "bird_people": 0,
+   "cosmic_serpent": 0,
+   "world_centre": 1,
+   "bundle": 0,
+   "n_motifs": 23
+  },
+  "Akkad / Assyria / Babylon": {
+   "bird_people": 0,
+   "cosmic_serpent": 1,
+   "world_centre": 0,
+   "bundle": 0,
+   "n_motifs": 38
+  },
+  "Ancient Egypt": {
+   "bird_people": 0,
+   "cosmic_serpent": 1,
+   "world_centre": 1,
+   "bundle": 0,
+   "n_motifs": 45
+  },
+  "Hittite / Hurrian": {
+   "bird_people": 0,
+   "cosmic_serpent": 0,
+   "world_centre": 1,
+   "bundle": 0,
+   "n_motifs": 16
+  },
+  "Aztec": {
+   "bird_people": 0,
+   "cosmic_serpent": 1,
+   "world_centre": 1,
+   "bundle": 0,
+   "n_motifs": 68
+  },
+  "Yucatec Maya": {
+   "bird_people": 1,
+   "cosmic_serpent": 1,
+   "world_centre": 1,
+   "bundle": 1,
+   "n_motifs": 62
+  },
+  "Kechua (Cuzco region)": {
+   "bird_people": 1,
+   "cosmic_serpent": 1,
+   "world_centre": 1,
+   "bundle": 1,
+   "n_motifs": 102
+  },
+  "Easter Island": {
+   "bird_people": 0,
+   "cosmic_serpent": 1,
+   "world_centre": 0,
+   "bundle": 0,
+   "n_motifs": 14
+  }
+ },
+ "named_test": {
+  "k": 8,
+  "observed_bundle": 2,
+  "observed_any": {
+   "bird_people": 2,
+   "cosmic_serpent": 6,
+   "world_centre": 6
+  },
+  "random_mean": 1.12875,
+  "random_p_ge": 0.317,
+  "matched_mean": 0.57325,
+  "matched_p_ge": 0.1005
+ },
+ "geography": {
+  "bird_people": {
+   "moran": 0.2030851416141967,
+   "moran_null_mean": 0.16252968777183938,
+   "moran_null_sd": 0.05186782991614178,
+   "moran_pct": 0.7933333333333333,
+   "nn_median_km": 271.34059213692154,
+   "nn_null_median_km": 258.27816275434554,
+   "prevalence": 0.5464362850971922
+  },
+  "cosmic_serpent": {
+   "moran": 0.0870840123878229,
+   "moran_null_mean": 0.20328788235683137,
+   "moran_null_sd": 0.06540994014172785,
+   "moran_pct": 0.02666666666666667,
+   "nn_median_km": 277.0110822034572,
+   "nn_null_median_km": 315.62895646918076,
+   "prevalence": 0.3747300215982721
+  },
+  "world_centre": {
+   "moran": 0.17730712276883503,
+   "moran_null_mean": 0.20053073700113083,
+   "moran_null_sd": 0.06732152851657747,
+   "moran_pct": 0.36333333333333334,
+   "nn_median_km": 275.1504694251715,
+   "nn_null_median_km": 299.3491091469637,
+   "prevalence": 0.37904967602591794
+  },
+  "bundle": {
+   "moran": 0.11499863454823604,
+   "moran_null_mean": 0.14171818367383965,
+   "moran_null_sd": 0.0765654713008927,
+   "moran_pct": 0.4066666666666667,
+   "nn_median_km": 345.2695050267003,
+   "nn_null_median_km": 413.56694017701466,
+   "prevalence": 0.14146868250539957
+  }
+ },
+ "traditions": [
+  {
+   "name": "Bushmen",
+   "lat": -26.0,
+   "lon": 20.0,
+   "n": 54,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "1"
+  },
+  {
+   "name": "Khoikhoi",
+   "lat": -32.0,
+   "lon": 21.0,
+   "n": 61,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Xhosa",
+   "lat": -32.5,
+   "lon": 26.5,
+   "n": 56,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Zulu,Swasi",
+   "lat": -28.5,
+   "lon": 30.5,
+   "n": 46,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Sotho, Tswana",
+   "lat": -27.5,
+   "lon": 26.5,
+   "n": 58,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Tonga, Ndebele",
+   "lat": -23.0,
+   "lon": 32.0,
+   "n": 66,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Shona",
+   "lat": -18.0,
+   "lon": 31.0,
+   "n": 73,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Bemba,Kaonde,Lamba",
+   "lat": -11.5,
+   "lon": 28.0,
+   "n": 81,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Tsonga,Soli,Sala,Lenje",
+   "lat": -17.0,
+   "lon": 28.0,
+   "n": 30,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Ila",
+   "lat": -15.5,
+   "lon": 27.0,
+   "n": 38,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Malawi",
+   "lat": -15.0,
+   "lon": 34.0,
+   "n": 50,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Nyungwe",
+   "lat": -16.7,
+   "lon": 33.0,
+   "n": 10,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Yao, Macua",
+   "lat": -12.5,
+   "lon": 37.5,
+   "n": 25,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Herrero",
+   "lat": -21.5,
+   "lon": 18.0,
+   "n": 15,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "1"
+  },
+  {
+   "name": "Lozi,Rotse,Lui,Subia",
+   "lat": -15.0,
+   "lon": 22.5,
+   "n": 23,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Mbundu, Owambo",
+   "lat": -13.5,
+   "lon": 17.5,
+   "n": 66,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Chokwe,Luchazi",
+   "lat": -12.0,
+   "lon": 22.0,
+   "n": 24,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Lunda",
+   "lat": -10.0,
+   "lon": 23.0,
+   "n": 14,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "1"
+  },
+  {
+   "name": "Kongo",
+   "lat": -6.5,
+   "lon": 14.0,
+   "n": 108,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "1"
+  },
+  {
+   "name": "Sakata",
+   "lat": -3.4,
+   "lon": 18.0,
+   "n": 61,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Kuba,Dengese",
+   "lat": -4.0,
+   "lon": 21.5,
+   "n": 16,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Lingala",
+   "lat": 2.0,
+   "lon": 19.0,
+   "n": 29,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Soko",
+   "lat": 1.0,
+   "lon": 24.0,
+   "n": 5,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Kete,Luba-Kasai,Kaniok",
+   "lat": -7.0,
+   "lon": 22.5,
+   "n": 47,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Luba,Bena,Tabwa",
+   "lat": -7.0,
+   "lon": 26.0,
+   "n": 76,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Lega, Bangubangu",
+   "lat": -3.0,
+   "lon": 27.0,
+   "n": 6,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Songe",
+   "lat": -5.5,
+   "lon": 25.5,
+   "n": 26,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Yaka",
+   "lat": -7.0,
+   "lon": 17.0,
+   "n": 15,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Boa,Komo,Nyanga",
+   "lat": 0.0,
+   "lon": 27.0,
+   "n": 19,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Mongo,Tetela,Kuba,Nkundu",
+   "lat": -2.0,
+   "lon": 22.0,
+   "n": 41,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Rwanda,Shi,Rundi",
+   "lat": -3.0,
+   "lon": 29.0,
+   "n": 46,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Ganda,Nyoro",
+   "lat": 0.0,
+   "lon": 31.5,
+   "n": 49,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Niamwesi,Sumbwa",
+   "lat": -5.0,
+   "lon": 33.0,
+   "n": 31,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "1"
+  },
+  {
+   "name": "Nyaturu,Isanzu,Nilamba",
+   "lat": -5.0,
+   "lon": 34.8,
+   "n": 52,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Sukuma,Gusii,Kumbi",
+   "lat": -3.0,
+   "lon": 33.0,
+   "n": 60,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Fipa,Bende,Iramba",
+   "lat": -7.0,
+   "lon": 31.0,
+   "n": 12,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Kamba",
+   "lat": -2.0,
+   "lon": 39.0,
+   "n": 46,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Kikuyu",
+   "lat": -1.0,
+   "lon": 37.0,
+   "n": 51,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Chagga, Digo",
+   "lat": -4.0,
+   "lon": 38.0,
+   "n": 56,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "1"
+  },
+  {
+   "name": "Gogo,Zaramo,Kaguru",
+   "lat": -7.0,
+   "lon": 38.0,
+   "n": 84,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Ngonde,Safwa.Mkulwe,Kinga",
+   "lat": -9.0,
+   "lon": 33.0,
+   "n": 51,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Konde,Matumbi,Pangwe",
+   "lat": -9.0,
+   "lon": 37.0,
+   "n": 29,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "1"
+  },
+  {
+   "name": "Swahili",
+   "lat": -5.0,
+   "lon": 40.0,
+   "n": 85,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "1"
+  },
+  {
+   "name": "Comoros Islands",
+   "lat": -12.0,
+   "lon": 44.0,
+   "n": 30,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Duala,Basa,Kwiri",
+   "lat": 5.0,
+   "lon": 10.0,
+   "n": 42,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Makaa, Kaka",
+   "lat": 4.0,
+   "lon": 14.0,
+   "n": 13,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Fang,Bube,Bulu,Tanga",
+   "lat": 3.0,
+   "lon": 12.0,
+   "n": 88,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "1"
+  },
+  {
+   "name": "Mpongwe,Nkomi,Mindumu",
+   "lat": -2.0,
+   "lon": 12.0,
+   "n": 48,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Aka,Baka a.o.Western Pygmies",
+   "lat": 2.0,
+   "lon": 17.0,
+   "n": 48,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Yambasa, Banen",
+   "lat": 4.4,
+   "lon": 11.0,
+   "n": 28,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Tiv,Jukun,Bete,Wute",
+   "lat": 7.0,
+   "lon": 10.0,
+   "n": 79,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Efik, Ibibio, Ikom",
+   "lat": 5.5,
+   "lon": 8.0,
+   "n": 30,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Igbo; Isoko",
+   "lat": 5.5,
+   "lon": 7.0,
+   "n": 55,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Yoruba,Nupe,Bini",
+   "lat": 8.0,
+   "lon": 4.5,
+   "n": 70,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Ijaw",
+   "lat": 5.0,
+   "lon": 6.5,
+   "n": 18,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Hausa",
+   "lat": 12.0,
+   "lon": 7.0,
+   "n": 143,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "1"
+  },
+  {
+   "name": "Biu-Mandara",
+   "lat": 10.0,
+   "lon": 13.0,
+   "n": 79,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "1"
+  },
+  {
+   "name": "Lele, Tobanga",
+   "lat": 9.5,
+   "lon": 16.0,
+   "n": 6,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Buduma",
+   "lat": 12.8,
+   "lon": 14.4,
+   "n": 3,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Bole, Tangale",
+   "lat": 10.3,
+   "lon": 10.8,
+   "n": 34,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Baule, Nzema, Agni",
+   "lat": 7.5,
+   "lon": -4.0,
+   "n": 58,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Akan,Ashanti,Akwapim,Tvi",
+   "lat": 6.5,
+   "lon": -1.5,
+   "n": 61,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Krache; Ga",
+   "lat": 8.0,
+   "lon": 0.0,
+   "n": 29,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Fon",
+   "lat": 7.0,
+   "lon": 2.0,
+   "n": 62,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Ewe",
+   "lat": 6.0,
+   "lon": 1.0,
+   "n": 61,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Akposo,Akebu,Santrokofi",
+   "lat": 7.0,
+   "lon": 0.5,
+   "n": 19,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Northern Gur (Oti-Volta)",
+   "lat": 13.0,
+   "lon": -0.5,
+   "n": 130,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Southern Gur",
+   "lat": 11.0,
+   "lon": -4.0,
+   "n": 33,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Lobi",
+   "lat": 10.5,
+   "lon": -3.4,
+   "n": 13,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Senufo",
+   "lat": 10.5,
+   "lon": -5.5,
+   "n": 23,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Dogon",
+   "lat": 15.0,
+   "lon": -4.0,
+   "n": 34,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "1"
+  },
+  {
+   "name": "Songhai",
+   "lat": 16.5,
+   "lon": 0.0,
+   "n": 37,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Fulbe,Wolof,Serer",
+   "lat": 11.0,
+   "lon": -13.0,
+   "n": 56,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "1"
+  },
+  {
+   "name": "Manjak, Balant, Papel,Felupe",
+   "lat": 12.5,
+   "lon": -16.0,
+   "n": 23,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Tenda, Biafada, Nalu",
+   "lat": 12.5,
+   "lon": -13.5,
+   "n": 44,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Temne",
+   "lat": 8.5,
+   "lon": -12.5,
+   "n": 42,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "1"
+  },
+  {
+   "name": "Limba",
+   "lat": 9.5,
+   "lon": -11.8,
+   "n": 10,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Gola",
+   "lat": 7.4,
+   "lon": -10.7,
+   "n": 12,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Kissi",
+   "lat": 8.4,
+   "lon": -10.2,
+   "n": 4,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Kru",
+   "lat": 6.0,
+   "lon": -8.0,
+   "n": 53,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Vai, Kone",
+   "lat": 7.0,
+   "lon": -11.5,
+   "n": 33,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Kpelle, Kono",
+   "lat": 8.0,
+   "lon": -9.0,
+   "n": 58,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Mende,Bandi,Loma",
+   "lat": 8.0,
+   "lon": -12.0,
+   "n": 55,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "1"
+  },
+  {
+   "name": "Manden,Bamana,Malinke,Diula",
+   "lat": 13.0,
+   "lon": -8.0,
+   "n": 106,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "1"
+  },
+  {
+   "name": "Susu",
+   "lat": 9.8,
+   "lon": -13.5,
+   "n": 8,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Soninke",
+   "lat": 14.4,
+   "lon": -12.2,
+   "n": 31,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Bozo,Sorko",
+   "lat": 14.0,
+   "lon": -5.0,
+   "n": 6,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Bobo",
+   "lat": 11.5,
+   "lon": -4.5,
+   "n": 13,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Dan,Guro,Mano,Sapa,Ngere",
+   "lat": 9.0,
+   "lon": -7.0,
+   "n": 63,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Nuba",
+   "lat": 21.0,
+   "lon": 30.0,
+   "n": 68,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Arabs: Sudan",
+   "lat": 15.0,
+   "lon": 30.0,
+   "n": 109,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Nuer,Dinka",
+   "lat": 8.0,
+   "lon": 30.5,
+   "n": 37,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "1"
+  },
+  {
+   "name": "Anuak, Shilluk",
+   "lat": 7.5,
+   "lon": 33.5,
+   "n": 52,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Bari, Kakwa",
+   "lat": 5.5,
+   "lon": 31.0,
+   "n": 13,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Nyangi",
+   "lat": 3.0,
+   "lon": 33.0,
+   "n": 4,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Bongo",
+   "lat": 7.5,
+   "lon": 28.0,
+   "n": 6,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Uduk",
+   "lat": 5.5,
+   "lon": 35.4,
+   "n": 7,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Nyimang",
+   "lat": 12.3,
+   "lon": 30.8,
+   "n": 6,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Murle, Me'en, Didinga",
+   "lat": 11.0,
+   "lon": 35.0,
+   "n": 22,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "1"
+  },
+  {
+   "name": "Turkana, Toposa",
+   "lat": 2.8,
+   "lon": 36.8,
+   "n": 2,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Acoli,Alur,Lango",
+   "lat": 2.7,
+   "lon": 32.5,
+   "n": 43,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Dholuo",
+   "lat": -0.2,
+   "lon": 34.6,
+   "n": 40,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Masai",
+   "lat": -5.0,
+   "lon": 37.0,
+   "n": 54,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "1"
+  },
+  {
+   "name": "Kalenjin,Nande,Arusha",
+   "lat": 1.0,
+   "lon": 35.0,
+   "n": 33,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Irakw",
+   "lat": -4.5,
+   "lon": 35.2,
+   "n": 17,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Mangbetu,Lugbara,Madi",
+   "lat": 3.0,
+   "lon": 29.0,
+   "n": 27,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Mbuti & Efe Pigmies",
+   "lat": 1.0,
+   "lon": 29.5,
+   "n": 26,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Banda,Gbaya,Ngbandi,Manja",
+   "lat": 7.0,
+   "lon": 20.0,
+   "n": 17,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Zande,Nzakara",
+   "lat": 4.5,
+   "lon": 25.0,
+   "n": 51,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Mbum,Mundang",
+   "lat": 9.5,
+   "lon": 14.0,
+   "n": 35,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Maba",
+   "lat": 14.0,
+   "lon": 21.0,
+   "n": 4,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Sara",
+   "lat": 10.0,
+   "lon": 18.0,
+   "n": 14,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Zaghawa",
+   "lat": 16.0,
+   "lon": 22.0,
+   "n": 17,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Kanuri",
+   "lat": 13.0,
+   "lon": 13.0,
+   "n": 5,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Teda",
+   "lat": 18.0,
+   "lon": 21.0,
+   "n": 8,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Hadza",
+   "lat": -3.6,
+   "lon": 34.8,
+   "n": 20,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "1"
+  },
+  {
+   "name": "Sandawe",
+   "lat": -5.3,
+   "lon": 35.5,
+   "n": 36,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "1"
+  },
+  {
+   "name": "Malagasy",
+   "lat": -19.0,
+   "lon": 47.0,
+   "n": 103,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "2"
+  },
+  {
+   "name": "Ancient Egypt",
+   "lat": 27.5,
+   "lon": 30.7,
+   "n": 45,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "3"
+  },
+  {
+   "name": "Arabs: Egypt",
+   "lat": 31.0,
+   "lon": 31.0,
+   "n": 170,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "3"
+  },
+  {
+   "name": "Arabs: Libya",
+   "lat": 30.0,
+   "lon": 17.0,
+   "n": 52,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Tunisia Berber",
+   "lat": 33.3,
+   "lon": 9.5,
+   "n": 8,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Kabyle",
+   "lat": 36.2,
+   "lon": 3.3,
+   "n": 204,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "3"
+  },
+  {
+   "name": "Berber (Morocco,SW Algeria)",
+   "lat": 35.0,
+   "lon": -5.0,
+   "n": 98,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "3"
+  },
+  {
+   "name": "Western Sahara & Mauritania",
+   "lat": 21.0,
+   "lon": -16.0,
+   "n": 42,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Morocco Arabs",
+   "lat": 33.5,
+   "lon": -8.0,
+   "n": 156,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "3"
+  },
+  {
+   "name": "Algeria Arabs",
+   "lat": 35.0,
+   "lon": 2.0,
+   "n": 131,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "3"
+  },
+  {
+   "name": "Tunisia Arabs",
+   "lat": 36.5,
+   "lon": 10.0,
+   "n": 171,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "3"
+  },
+  {
+   "name": "Tuareg",
+   "lat": 21.0,
+   "lon": 5.0,
+   "n": 44,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "3"
+  },
+  {
+   "name": "Kunama",
+   "lat": 15.0,
+   "lon": 37.3,
+   "n": 4,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Bedja",
+   "lat": 19.5,
+   "lon": 36.5,
+   "n": 1,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Saho, Afar",
+   "lat": 13.0,
+   "lon": 41.0,
+   "n": 40,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Bilin",
+   "lat": 15.5,
+   "lon": 38.0,
+   "n": 19,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Somali",
+   "lat": 4.0,
+   "lon": 46.0,
+   "n": 54,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Sanye",
+   "lat": -3.0,
+   "lon": 39.9,
+   "n": 8,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Amhara",
+   "lat": 11.5,
+   "lon": 38.0,
+   "n": 52,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Tigre, Tigrigna",
+   "lat": 15.0,
+   "lon": 39.0,
+   "n": 38,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Tsamai",
+   "lat": 5.5,
+   "lon": 37.0,
+   "n": 10,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Oromo,Konso,Sidamo",
+   "lat": 6.0,
+   "lon": 38.0,
+   "n": 31,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Omotic",
+   "lat": 6.6,
+   "lon": 36.5,
+   "n": 12,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Spain",
+   "lat": 39.3,
+   "lon": -4.5,
+   "n": 264,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Portugal,Galicia",
+   "lat": 40.5,
+   "lon": -8.0,
+   "n": 230,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Catalonia",
+   "lat": 41.3,
+   "lon": 2.0,
+   "n": 208,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Aragon",
+   "lat": 42.2,
+   "lon": 0.0,
+   "n": 42,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Basque",
+   "lat": 43.0,
+   "lon": -1.5,
+   "n": 174,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Italians",
+   "lat": 44.0,
+   "lon": 11.5,
+   "n": 242,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Sicilia",
+   "lat": 37.5,
+   "lon": 14.0,
+   "n": 136,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Sardinia, Corsica",
+   "lat": 40.0,
+   "lon": 9.0,
+   "n": 81,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Romansh",
+   "lat": 46.6,
+   "lon": 9.6,
+   "n": 35,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Maltese",
+   "lat": 36.0,
+   "lon": 14.2,
+   "n": 90,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Bretagne",
+   "lat": 48.5,
+   "lon": -4.0,
+   "n": 89,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "France",
+   "lat": 47.0,
+   "lon": 2.0,
+   "n": 281,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Ireland",
+   "lat": 53.0,
+   "lon": -8.0,
+   "n": 190,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Wales",
+   "lat": 52.0,
+   "lon": -4.0,
+   "n": 33,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Scotland",
+   "lat": 57.0,
+   "lon": -4.0,
+   "n": 133,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "England",
+   "lat": 52.5,
+   "lon": -1.0,
+   "n": 102,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Dutch, Flemish, Frisians",
+   "lat": 52.0,
+   "lon": 4.5,
+   "n": 152,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Germans",
+   "lat": 51.0,
+   "lon": 10.0,
+   "n": 316,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "3"
+  },
+  {
+   "name": "Ancient Greece",
+   "lat": 37.5,
+   "lon": 24.0,
+   "n": 173,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "3"
+  },
+  {
+   "name": "Ancient Italy",
+   "lat": 42.0,
+   "lon": 13.5,
+   "n": 34,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Greek (modern)",
+   "lat": 39.0,
+   "lon": 23.0,
+   "n": 313,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "3"
+  },
+  {
+   "name": "Bulgaria",
+   "lat": 42.5,
+   "lon": 25.0,
+   "n": 420,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "3"
+  },
+  {
+   "name": "Macedonia",
+   "lat": 41.7,
+   "lon": 22.0,
+   "n": 181,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "3"
+  },
+  {
+   "name": "Albanians",
+   "lat": 41.5,
+   "lon": 20.0,
+   "n": 189,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Serbs",
+   "lat": 44.0,
+   "lon": 20.5,
+   "n": 221,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "3"
+  },
+  {
+   "name": "Bosnia Muslims",
+   "lat": 44.0,
+   "lon": 18.0,
+   "n": 62,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "3"
+  },
+  {
+   "name": "Croatians",
+   "lat": 44.5,
+   "lon": 15.5,
+   "n": 123,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Slovenians",
+   "lat": 46.0,
+   "lon": 14.0,
+   "n": 146,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "3"
+  },
+  {
+   "name": "Hungary",
+   "lat": 47.0,
+   "lon": 19.5,
+   "n": 239,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "3"
+  },
+  {
+   "name": "Romanians",
+   "lat": 46.0,
+   "lon": 27.0,
+   "n": 332,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "3"
+  },
+  {
+   "name": "Gagauz",
+   "lat": 46.2,
+   "lon": 28.7,
+   "n": 142,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "3"
+  },
+  {
+   "name": "Cyprus  Greeks",
+   "lat": 34.8,
+   "lon": 33.0,
+   "n": 5,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "3"
+  },
+  {
+   "name": "Poles",
+   "lat": 52.0,
+   "lon": 21.0,
+   "n": 221,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "4"
+  },
+  {
+   "name": "Kashubians",
+   "lat": 54.3,
+   "lon": 18.0,
+   "n": 22,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "4"
+  },
+  {
+   "name": "Sorbs",
+   "lat": 51.5,
+   "lon": 14.4,
+   "n": 65,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "4"
+  },
+  {
+   "name": "Czech",
+   "lat": 49.8,
+   "lon": 15.0,
+   "n": 208,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "4"
+  },
+  {
+   "name": "Slovakians",
+   "lat": 48.7,
+   "lon": 19.5,
+   "n": 159,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "4"
+  },
+  {
+   "name": "Ukrainians",
+   "lat": 49.0,
+   "lon": 29.0,
+   "n": 407,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "4"
+  },
+  {
+   "name": "Byelorussians",
+   "lat": 53.0,
+   "lon": 27.0,
+   "n": 296,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "4"
+  },
+  {
+   "name": "Russians",
+   "lat": 57.5,
+   "lon": 40.0,
+   "n": 426,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "4"
+  },
+  {
+   "name": "Edda,Saxo Grammaticus",
+   "lat": 65.0,
+   "lon": -20.0,
+   "n": 68,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "4"
+  },
+  {
+   "name": "Norwegians,Islanders",
+   "lat": 62.0,
+   "lon": 5.0,
+   "n": 210,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "4"
+  },
+  {
+   "name": "Danes",
+   "lat": 56.0,
+   "lon": 10.0,
+   "n": 163,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "4"
+  },
+  {
+   "name": "Swedes",
+   "lat": 59.0,
+   "lon": 16.0,
+   "n": 193,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "4"
+  },
+  {
+   "name": "Western Sami",
+   "lat": 66.0,
+   "lon": 18.0,
+   "n": 173,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "4"
+  },
+  {
+   "name": "Eastern Sami",
+   "lat": 68.0,
+   "lon": 33.0,
+   "n": 102,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "4"
+  },
+  {
+   "name": "Finns",
+   "lat": 61.0,
+   "lon": 24.0,
+   "n": 269,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "4"
+  },
+  {
+   "name": "Karelians",
+   "lat": 62.0,
+   "lon": 32.0,
+   "n": 184,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "4"
+  },
+  {
+   "name": "Vepsians",
+   "lat": 60.5,
+   "lon": 35.5,
+   "n": 98,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "4"
+  },
+  {
+   "name": "Ingrians",
+   "lat": 59.5,
+   "lon": 30.0,
+   "n": 15,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "4"
+  },
+  {
+   "name": "Wotians",
+   "lat": 59.8,
+   "lon": 28.5,
+   "n": 54,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "4"
+  },
+  {
+   "name": "Estonians",
+   "lat": 58.7,
+   "lon": 25.0,
+   "n": 316,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "4"
+  },
+  {
+   "name": "Setu",
+   "lat": 57.5,
+   "lon": 27.35,
+   "n": 135,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "4"
+  },
+  {
+   "name": "Livonians",
+   "lat": 57.7,
+   "lon": 22.6,
+   "n": 135,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "4"
+  },
+  {
+   "name": "Latvians",
+   "lat": 56.5,
+   "lon": 23.5,
+   "n": 294,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "4"
+  },
+  {
+   "name": "Lithuanians",
+   "lat": 55.3,
+   "lon": 24.0,
+   "n": 352,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "4"
+  },
+  {
+   "name": "Prussians",
+   "lat": 54.5,
+   "lon": 20.4,
+   "n": 6,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "4"
+  },
+  {
+   "name": "Komi",
+   "lat": 63.0,
+   "lon": 55.0,
+   "n": 214,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "4"
+  },
+  {
+   "name": "Udmurt",
+   "lat": 57.5,
+   "lon": 52.5,
+   "n": 190,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "4"
+  },
+  {
+   "name": "Mari",
+   "lat": 57.0,
+   "lon": 48.0,
+   "n": 262,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "4"
+  },
+  {
+   "name": "Mordvins",
+   "lat": 53.0,
+   "lon": 45.0,
+   "n": 218,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "4"
+  },
+  {
+   "name": "Chuvash",
+   "lat": 55.0,
+   "lon": 47.5,
+   "n": 223,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "4"
+  },
+  {
+   "name": "Volga (Kazan) Tatars",
+   "lat": 55.0,
+   "lon": 51.0,
+   "n": 268,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "4"
+  },
+  {
+   "name": "Astrakhan Tatars and Nogai",
+   "lat": 47.0,
+   "lon": 47.5,
+   "n": 15,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "4"
+  },
+  {
+   "name": "Bashkir",
+   "lat": 54.0,
+   "lon": 57.0,
+   "n": 335,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "4"
+  },
+  {
+   "name": "Kalmyk",
+   "lat": 47.0,
+   "lon": 45.5,
+   "n": 183,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Crimea Tatars",
+   "lat": 45.0,
+   "lon": 34.0,
+   "n": 91,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Abkhaz",
+   "lat": 43.2,
+   "lon": 40.8,
+   "n": 242,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Adyghe, Kabardin",
+   "lat": 44.0,
+   "lon": 42.5,
+   "n": 221,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Abaza (Abazins)",
+   "lat": 44.2,
+   "lon": 42.0,
+   "n": 153,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Karachays,Balkar",
+   "lat": 44.0,
+   "lon": 42.0,
+   "n": 203,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Ossetians",
+   "lat": 43.0,
+   "lon": 44.0,
+   "n": 262,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Stavropol Turkmen",
+   "lat": 45.0,
+   "lon": 43.0,
+   "n": 27,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Nogai",
+   "lat": 44.5,
+   "lon": 46.0,
+   "n": 122,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Kumyk",
+   "lat": 43.0,
+   "lon": 47.2,
+   "n": 163,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Ingush",
+   "lat": 43.3,
+   "lon": 45.0,
+   "n": 166,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Chechen",
+   "lat": 43.0,
+   "lon": 46.0,
+   "n": 101,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Avar,Andi,Akhvakh",
+   "lat": 42.4,
+   "lon": 46.7,
+   "n": 182,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Dido,Khvarshi,Hunzib",
+   "lat": 42.2,
+   "lon": 45.9,
+   "n": 26,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Dargin (Dargwa)",
+   "lat": 42.2,
+   "lon": 47.6,
+   "n": 132,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Laks",
+   "lat": 42.1,
+   "lon": 47.1,
+   "n": 106,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Lezgians,Kiurin; Archin",
+   "lat": 41.4,
+   "lon": 47.6,
+   "n": 140,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Rutul, Tsahur",
+   "lat": 41.6,
+   "lon": 47.2,
+   "n": 70,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Tabasaran, Agul",
+   "lat": 41.95,
+   "lon": 47.8,
+   "n": 57,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Udin",
+   "lat": 41.0,
+   "lon": 47.5,
+   "n": 22,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Tats",
+   "lat": 41.0,
+   "lon": 48.4,
+   "n": 47,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Georgians",
+   "lat": 42.0,
+   "lon": 44.0,
+   "n": 373,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Mingrelians",
+   "lat": 42.3,
+   "lon": 42.3,
+   "n": 62,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Svan",
+   "lat": 42.8,
+   "lon": 42.8,
+   "n": 37,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Armenians",
+   "lat": 40.5,
+   "lon": 43.5,
+   "n": 307,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Azerbaijan",
+   "lat": 39.0,
+   "lon": 48.0,
+   "n": 187,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Turks",
+   "lat": 38.0,
+   "lon": 34.0,
+   "n": 295,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Talysh",
+   "lat": 38.0,
+   "lon": 48.5,
+   "n": 48,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Kurd",
+   "lat": 35.0,
+   "lon": 46.0,
+   "n": 172,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Hittite, Hurrit",
+   "lat": 39.0,
+   "lon": 38.0,
+   "n": 16,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Old Testament",
+   "lat": 32.5,
+   "lon": 35.5,
+   "n": 34,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Ugarit, Phoenicia",
+   "lat": 33.0,
+   "lon": 35.0,
+   "n": 22,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Sumer",
+   "lat": 31.5,
+   "lon": 46.5,
+   "n": 23,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Akkad,Assiria,Babylon",
+   "lat": 33.0,
+   "lon": 44.0,
+   "n": 38,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Syria (Aramaic)",
+   "lat": 33.5,
+   "lon": 36.5,
+   "n": 53,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "1001 nights",
+   "lat": 32.0,
+   "lon": 40.0,
+   "n": 40,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Arabs: Palestine,Syria,Lebanon",
+   "lat": 34.0,
+   "lon": 36.5,
+   "n": 241,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Arabs: Iraq, Kuwait",
+   "lat": 32.0,
+   "lon": 46.0,
+   "n": 190,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Saudia",
+   "lat": 24.0,
+   "lon": 44.0,
+   "n": 60,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Yemen",
+   "lat": 14.0,
+   "lon": 46.0,
+   "n": 92,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Mehri,Jibbali,Harsusi",
+   "lat": 17.0,
+   "lon": 52.2,
+   "n": 79,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Soqotri",
+   "lat": 12.4,
+   "lon": 53.8,
+   "n": 47,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Avesta; Pekhlevi texts",
+   "lat": 36.0,
+   "lon": 61.0,
+   "n": 52,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Persians",
+   "lat": 34.0,
+   "lon": 54.0,
+   "n": 277,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Luri, Bakhtiari",
+   "lat": 33.0,
+   "lon": 48.5,
+   "n": 42,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Ormuzd strait, Saheli",
+   "lat": 27.0,
+   "lon": 55.0,
+   "n": 2,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Tajik",
+   "lat": 38.0,
+   "lon": 69.5,
+   "n": 225,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Highland Tajik",
+   "lat": 38.5,
+   "lon": 71.5,
+   "n": 91,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Baluch",
+   "lat": 28.0,
+   "lon": 63.0,
+   "n": 83,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Pashto",
+   "lat": 33.0,
+   "lon": 67.0,
+   "n": 46,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Bukhara Arabs",
+   "lat": 39.8,
+   "lon": 64.5,
+   "n": 49,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Uzbek",
+   "lat": 39.0,
+   "lon": 66.0,
+   "n": 185,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Khwarezm Uzbek",
+   "lat": 41.7,
+   "lon": 60.5,
+   "n": 19,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Turkmen",
+   "lat": 39.0,
+   "lon": 60.0,
+   "n": 146,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Yaghnobi",
+   "lat": 39.3,
+   "lon": 69.0,
+   "n": 74,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Shughni,Rushani",
+   "lat": 38.0,
+   "lon": 72.0,
+   "n": 94,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Yazguliami",
+   "lat": 38.4,
+   "lon": 71.6,
+   "n": 54,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Sarikoli",
+   "lat": 36.8,
+   "lon": 75.8,
+   "n": 49,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Wahki,Ishkashimi,Munji",
+   "lat": 37.0,
+   "lon": 73.0,
+   "n": 90,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Kafirs",
+   "lat": 35.5,
+   "lon": 70.5,
+   "n": 39,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Dards",
+   "lat": 35.8,
+   "lon": 74.5,
+   "n": 63,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Burusho",
+   "lat": 36.6,
+   "lon": 75.0,
+   "n": 27,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Brahui",
+   "lat": 29.0,
+   "lon": 66.0,
+   "n": 4,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Kazakh",
+   "lat": 48.0,
+   "lon": 69.0,
+   "n": 349,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Kara Kalpak",
+   "lat": 43.0,
+   "lon": 60.0,
+   "n": 90,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Kirghiz",
+   "lat": 41.5,
+   "lon": 75.0,
+   "n": 165,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Uyghur",
+   "lat": 41.0,
+   "lon": 86.0,
+   "n": 127,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Yogur",
+   "lat": 39.0,
+   "lon": 100.0,
+   "n": 40,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Dungan",
+   "lat": 37.0,
+   "lon": 107.0,
+   "n": 107,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "India, literary sources",
+   "lat": 26.0,
+   "lon": 78.0,
+   "n": 136,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Hindi, Chhattisgarhi",
+   "lat": 24.0,
+   "lon": 78.0,
+   "n": 163,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Kumaoni,Pahari",
+   "lat": 29.7,
+   "lon": 80.0,
+   "n": 73,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Dhanwar",
+   "lat": 17.3,
+   "lon": 74.7,
+   "n": 13,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Balahi",
+   "lat": 21.8,
+   "lon": 76.5,
+   "n": 10,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Bhil, Barela-Bhilala",
+   "lat": 23.4,
+   "lon": 74.4,
+   "n": 22,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Warli",
+   "lat": 20.2,
+   "lon": 73.0,
+   "n": 26,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Nepali, Tharu",
+   "lat": 28.0,
+   "lon": 83.0,
+   "n": 87,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Kashmiri",
+   "lat": 33.5,
+   "lon": 75.5,
+   "n": 71,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Panjabi",
+   "lat": 31.0,
+   "lon": 72.0,
+   "n": 106,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Sindhi",
+   "lat": 25.5,
+   "lon": 68.5,
+   "n": 46,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Gujarati",
+   "lat": 22.0,
+   "lon": 72.0,
+   "n": 21,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Marathi",
+   "lat": 20.0,
+   "lon": 75.0,
+   "n": 75,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Rajasthani",
+   "lat": 27.0,
+   "lon": 75.0,
+   "n": 11,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Bengali",
+   "lat": 23.0,
+   "lon": 89.0,
+   "n": 93,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Assamese",
+   "lat": 25.0,
+   "lon": 91.0,
+   "n": 38,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Konkani",
+   "lat": 15.0,
+   "lon": 74.2,
+   "n": 23,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Oriya",
+   "lat": 20.0,
+   "lon": 86.0,
+   "n": 44,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Sinhalese",
+   "lat": 7.5,
+   "lon": 80.5,
+   "n": 139,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Telugu",
+   "lat": 16.0,
+   "lon": 79.5,
+   "n": 23,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Malayali",
+   "lat": 9.0,
+   "lon": 77.0,
+   "n": 7,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Kannada; Tulu",
+   "lat": 13.5,
+   "lon": 76.5,
+   "n": 12,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Tamil",
+   "lat": 12.0,
+   "lon": 79.0,
+   "n": 77,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Toda,Kota,Pulaya,Nayar,Kadar",
+   "lat": 10.0,
+   "lon": 76.5,
+   "n": 34,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "5"
+  },
+  {
+   "name": "Santali,Turi",
+   "lat": 24.0,
+   "lon": 87.0,
+   "n": 131,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Korku",
+   "lat": 22.0,
+   "lon": 77.0,
+   "n": 10,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Mundari,Ho,Asur,Birhor",
+   "lat": 22.5,
+   "lon": 85.3,
+   "n": 103,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Baiga,Bhuiya,Bhumiya",
+   "lat": 23.0,
+   "lon": 81.0,
+   "n": 99,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Kharia",
+   "lat": 21.4,
+   "lon": 86.1,
+   "n": 25,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Juang",
+   "lat": 23.25,
+   "lon": 85.25,
+   "n": 23,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Bondo,Didayi,Gadaba",
+   "lat": 18.25,
+   "lon": 82.18,
+   "n": 59,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Sora",
+   "lat": 19.5,
+   "lon": 85.0,
+   "n": 66,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Chero",
+   "lat": 22.5,
+   "lon": 87.0,
+   "n": 8,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Dhoba,Ahir,Halba,Lohar,etc.",
+   "lat": 21.0,
+   "lon": 79.0,
+   "n": 17,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "5"
+  },
+  {
+   "name": "Oraon (Kurukh)",
+   "lat": 22.4,
+   "lon": 85.0,
+   "n": 59,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Kond, Kui",
+   "lat": 20.8,
+   "lon": 84.0,
+   "n": 69,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Gondi",
+   "lat": 21.4,
+   "lon": 79.5,
+   "n": 90,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Muria,Maria,Pardhan",
+   "lat": 18.5,
+   "lon": 81.0,
+   "n": 129,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Tibet (U-Tsang)",
+   "lat": 31.0,
+   "lon": 92.0,
+   "n": 159,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Tibetans: Amdo",
+   "lat": 36.0,
+   "lon": 98.0,
+   "n": 127,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Tibetans: Kham",
+   "lat": 30.0,
+   "lon": 97.0,
+   "n": 38,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Lavrung,Jiarong,Qiang",
+   "lat": 31.5,
+   "lon": 103.0,
+   "n": 32,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Tibetans: Ladakh",
+   "lat": 34.1,
+   "lon": 77.34,
+   "n": 7,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Mustang",
+   "lat": 28.5,
+   "lon": 84.0,
+   "n": 70,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Lepcha",
+   "lat": 27.1,
+   "lon": 83.7,
+   "n": 102,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Kirati (Rai,Limbu,Newar)",
+   "lat": 27.2,
+   "lon": 87.0,
+   "n": 49,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Khasi",
+   "lat": 25.0,
+   "lon": 92.0,
+   "n": 39,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Abor,Gallong,Tani",
+   "lat": 28.5,
+   "lon": 95.0,
+   "n": 154,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Tawang,Miji,Aka,Sherdukpen",
+   "lat": 27.2,
+   "lon": 94.5,
+   "n": 50,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Chin-Naga(Rengma,Ao,Angami etc",
+   "lat": 26.0,
+   "lon": 95.0,
+   "n": 126,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Northern Naga (Konyak etc.)",
+   "lat": 27.0,
+   "lon": 95.5,
+   "n": 36,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Garo,Bodo,Hami,Riga",
+   "lat": 24.8,
+   "lon": 92.5,
+   "n": 89,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Chin,Lakher,Mizo,Lushei",
+   "lat": 23.0,
+   "lon": 93.0,
+   "n": 85,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Mikir",
+   "lat": 26.3,
+   "lon": 93.0,
+   "n": 8,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Kachin",
+   "lat": 26.0,
+   "lon": 97.5,
+   "n": 84,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Rawang, Anong, Drung",
+   "lat": 28.0,
+   "lon": 98.0,
+   "n": 22,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Burmese,Intha,Arakan",
+   "lat": 20.0,
+   "lon": 95.0,
+   "n": 109,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Karen",
+   "lat": 18.0,
+   "lon": 97.0,
+   "n": 55,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Shan,Khampti",
+   "lat": 22.0,
+   "lon": 98.0,
+   "n": 76,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Thai (Thailand)",
+   "lat": 15.0,
+   "lon": 101.0,
+   "n": 78,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Lao",
+   "lat": 17.0,
+   "lon": 104.8,
+   "n": 38,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Tai,Zhuang,Nung,Kho",
+   "lat": 22.5,
+   "lon": 105.5,
+   "n": 87,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Khmer",
+   "lat": 13.0,
+   "lon": 104.0,
+   "n": 71,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Banar,Moi,Sedang",
+   "lat": 16.0,
+   "lon": 108.5,
+   "n": 50,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Stieng,Chrau,Sre",
+   "lat": 11.5,
+   "lon": 107.0,
+   "n": 25,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Katu, Bru",
+   "lat": 16.2,
+   "lon": 107.4,
+   "n": 13,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Mon",
+   "lat": 16.5,
+   "lon": 96.5,
+   "n": 29,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Khmu",
+   "lat": 20.0,
+   "lon": 102.0,
+   "n": 56,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Palaung",
+   "lat": 22.0,
+   "lon": 97.0,
+   "n": 26,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Wa, Bulang",
+   "lat": 23.0,
+   "lon": 99.5,
+   "n": 32,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Tjam,Ede,Jarai",
+   "lat": 13.0,
+   "lon": 108.5,
+   "n": 65,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Viets",
+   "lat": 20.7,
+   "lon": 107.5,
+   "n": 136,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Andaman",
+   "lat": 12.0,
+   "lon": 92.5,
+   "n": 29,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Nicobar",
+   "lat": 7.5,
+   "lon": 93.0,
+   "n": 13,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Semang,Senoi",
+   "lat": 5.0,
+   "lon": 102.0,
+   "n": 69,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Muslim Malay",
+   "lat": 2.3,
+   "lon": 103.3,
+   "n": 69,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Aceh",
+   "lat": 5.3,
+   "lon": 95.6,
+   "n": 23,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Batak; Gayo",
+   "lat": 2.3,
+   "lon": 98.9,
+   "n": 54,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Minangkabau",
+   "lat": -2.0,
+   "lon": 101.5,
+   "n": 16,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Lampung",
+   "lat": -5.0,
+   "lon": 105.0,
+   "n": 9,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Kubu",
+   "lat": -2.5,
+   "lon": 103.5,
+   "n": 7,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Nias,Simeulue",
+   "lat": 1.5,
+   "lon": 97.2,
+   "n": 58,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Mentawai",
+   "lat": -2.5,
+   "lon": 99.5,
+   "n": 53,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Ngaju",
+   "lat": -3.0,
+   "lon": 114.5,
+   "n": 49,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Kayan,Kenya,Bahau",
+   "lat": 0.0,
+   "lon": 116.0,
+   "n": 35,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Murut,Dusun,Tombonuvo,Bajau",
+   "lat": 5.0,
+   "lon": 117.0,
+   "n": 74,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Other Dayak",
+   "lat": 1.0,
+   "lon": 111.0,
+   "n": 74,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Palawan",
+   "lat": 9.0,
+   "lon": 117.7,
+   "n": 13,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Yava",
+   "lat": -8.0,
+   "lon": 110.0,
+   "n": 90,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Bali, Lombok",
+   "lat": -9.0,
+   "lon": 115.0,
+   "n": 66,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Toradja, Mori",
+   "lat": -3.0,
+   "lon": 122.0,
+   "n": 144,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Minahasa",
+   "lat": 1.0,
+   "lon": 125.0,
+   "n": 66,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Balantak,Loinang,Banggai",
+   "lat": -1.0,
+   "lon": 122.5,
+   "n": 18,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Bugi, Macassar",
+   "lat": -5.0,
+   "lon": 119.7,
+   "n": 31,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Northern Luzon",
+   "lat": 17.0,
+   "lon": 121.0,
+   "n": 133,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Southern Luzon",
+   "lat": 14.0,
+   "lon": 120.7,
+   "n": 43,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Luzon Negritos",
+   "lat": 14.0,
+   "lon": 123.0,
+   "n": 17,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Central islands Philippines",
+   "lat": 12.0,
+   "lon": 122.5,
+   "n": 49,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Mindanao",
+   "lat": 8.0,
+   "lon": 125.0,
+   "n": 100,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Sulu, Mapun",
+   "lat": 6.0,
+   "lon": 120.0,
+   "n": 11,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Yami",
+   "lat": 22.0,
+   "lon": 121.5,
+   "n": 14,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Sumbawa",
+   "lat": -9.0,
+   "lon": 118.0,
+   "n": 12,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Sumba",
+   "lat": -9.0,
+   "lon": 120.0,
+   "n": 13,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Flores",
+   "lat": -9.0,
+   "lon": 122.0,
+   "n": 36,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Timor,Leti,Lomblen",
+   "lat": -9.0,
+   "lon": 125.5,
+   "n": 125,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Roti",
+   "lat": -10.9,
+   "lon": 123.0,
+   "n": 22,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Bunak",
+   "lat": -9.3,
+   "lon": 125.2,
+   "n": 12,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Fataluku",
+   "lat": -8.4,
+   "lon": 127.0,
+   "n": 5,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Alor, Solor",
+   "lat": -8.3,
+   "lon": 124.0,
+   "n": 34,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "6"
+  },
+  {
+   "name": "Sangir Islands",
+   "lat": 3.6,
+   "lon": 125.5,
+   "n": 35,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Halmahera",
+   "lat": 1.0,
+   "lon": 128.4,
+   "n": 63,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Ceram",
+   "lat": -3.3,
+   "lon": 128.0,
+   "n": 30,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Kei,Tanimbar,Babar,Watubela",
+   "lat": -7.0,
+   "lon": 132.5,
+   "n": 28,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Numfoor,Warope",
+   "lat": -1.5,
+   "lon": 135.0,
+   "n": 16,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "6"
+  },
+  {
+   "name": "Trans New Guinea West",
+   "lat": -4.0,
+   "lon": 137.0,
+   "n": 78,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Trans New Guinea East",
+   "lat": -7.0,
+   "lon": 143.0,
+   "n": 170,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "7"
+  },
+  {
+   "name": "Torricelli Papuans",
+   "lat": -3.7,
+   "lon": 142.5,
+   "n": 79,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Sepik-Ramu Papuans",
+   "lat": -4.3,
+   "lon": 143.0,
+   "n": 52,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Torres Strait Islands",
+   "lat": -10.0,
+   "lon": 142.5,
+   "n": 32,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "North New Guinea Melanesians",
+   "lat": -6.0,
+   "lon": 146.0,
+   "n": 90,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "7"
+  },
+  {
+   "name": "SE New Guinea Melanesians",
+   "lat": -10.0,
+   "lon": 148.0,
+   "n": 57,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Massim district",
+   "lat": -10.0,
+   "lon": 154.0,
+   "n": 51,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "N.Britain,N.Ireland",
+   "lat": -5.0,
+   "lon": 152.0,
+   "n": 66,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Admiralty islands",
+   "lat": -2.0,
+   "lon": 147.0,
+   "n": 31,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Buka, Bougenville",
+   "lat": -6.0,
+   "lon": 155.0,
+   "n": 28,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Central Solomons",
+   "lat": -8.0,
+   "lon": 157.0,
+   "n": 45,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Southern Solomons",
+   "lat": -9.5,
+   "lon": 161.0,
+   "n": 59,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "7"
+  },
+  {
+   "name": "Santa-Cruz islands",
+   "lat": -11.0,
+   "lon": 166.0,
+   "n": 19,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Banks, Torres islands",
+   "lat": -13.0,
+   "lon": 167.5,
+   "n": 30,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Central Vanuatu",
+   "lat": -15.0,
+   "lon": 167.5,
+   "n": 70,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Southern Vanuatu",
+   "lat": -19.4,
+   "lon": 169.5,
+   "n": 24,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "New Caledonia",
+   "lat": -21.5,
+   "lon": 164.5,
+   "n": 27,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Loyalty",
+   "lat": -21.0,
+   "lon": 167.2,
+   "n": 21,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Fiji",
+   "lat": -17.5,
+   "lon": 178.5,
+   "n": 20,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Kapingamarangi",
+   "lat": 1.4,
+   "lon": 154.5,
+   "n": 19,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Ontong Java, Nukumanu",
+   "lat": -5.16,
+   "lon": 159.21,
+   "n": 28,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Tuvalu (Ellice)",
+   "lat": -7.5,
+   "lon": 173.8,
+   "n": 62,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Tokelau",
+   "lat": -9.5,
+   "lon": -172.0,
+   "n": 18,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Samoa",
+   "lat": -13.3,
+   "lon": -172.0,
+   "n": 45,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "7"
+  },
+  {
+   "name": "Tonga",
+   "lat": -20.5,
+   "lon": -174.0,
+   "n": 29,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "7"
+  },
+  {
+   "name": "Rotuma",
+   "lat": -2.5,
+   "lon": -177.2,
+   "n": 21,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Niue",
+   "lat": -19.1,
+   "lon": -169.2,
+   "n": 22,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Wallis, Futuna",
+   "lat": -13.0,
+   "lon": -178.0,
+   "n": 8,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Rennel,Tikopia,Taku,etc.",
+   "lat": -12.0,
+   "lon": -163.0,
+   "n": 55,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "7"
+  },
+  {
+   "name": "Maori,Moriori",
+   "lat": -40.0,
+   "lon": 175.0,
+   "n": 64,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "7"
+  },
+  {
+   "name": "Tahiti, Society islands",
+   "lat": -17.0,
+   "lon": -152.0,
+   "n": 40,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "7"
+  },
+  {
+   "name": "Cook islands northern",
+   "lat": -10.0,
+   "lon": -160.0,
+   "n": 9,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Cook islands southern",
+   "lat": -20.0,
+   "lon": -158.3,
+   "n": 48,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Tuamotu",
+   "lat": -17.0,
+   "lon": -141.0,
+   "n": 37,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Mangareva",
+   "lat": -23.0,
+   "lon": -135.0,
+   "n": 19,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Marquesas",
+   "lat": -9.0,
+   "lon": -140.0,
+   "n": 33,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Hawaii",
+   "lat": 21.0,
+   "lon": -157.0,
+   "n": 48,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "7"
+  },
+  {
+   "name": "Easter Island",
+   "lat": -27.0,
+   "lon": -110.0,
+   "n": 14,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Chamorro",
+   "lat": 15.0,
+   "lon": 145.5,
+   "n": 5,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Palau",
+   "lat": 6.54,
+   "lon": 134.8,
+   "n": 44,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Yap",
+   "lat": 9.31,
+   "lon": 138.6,
+   "n": 52,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "7"
+  },
+  {
+   "name": "Meriri, Pulo Anna",
+   "lat": 4.5,
+   "lon": 131.6,
+   "n": 4,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Ulithi, Ngulu",
+   "lat": 10.5,
+   "lon": 138.5,
+   "n": 40,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Ifaluk, Lamotrek, Satawan",
+   "lat": 6.5,
+   "lon": 144.0,
+   "n": 31,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Truk district",
+   "lat": 6.0,
+   "lon": 151.0,
+   "n": 46,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Ponape district",
+   "lat": 6.3,
+   "lon": 159.0,
+   "n": 24,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "7"
+  },
+  {
+   "name": "Marshal Islands",
+   "lat": 9.0,
+   "lon": 168.0,
+   "n": 58,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "7"
+  },
+  {
+   "name": "Gilbert,Nauru,Banaba",
+   "lat": -2.0,
+   "lon": 177.0,
+   "n": 67,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "7"
+  },
+  {
+   "name": "Tasmania",
+   "lat": -42.0,
+   "lon": 146.5,
+   "n": 5,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "8"
+  },
+  {
+   "name": "SE Australia",
+   "lat": -34.0,
+   "lon": 145.0,
+   "n": 75,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "8"
+  },
+  {
+   "name": "Arnham Land",
+   "lat": -14.0,
+   "lon": 133.0,
+   "n": 61,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "8"
+  },
+  {
+   "name": "Kimberley Plateau",
+   "lat": -16.0,
+   "lon": 126.0,
+   "n": 9,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "8"
+  },
+  {
+   "name": "Queensland",
+   "lat": -17.0,
+   "lon": 143.0,
+   "n": 15,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "8"
+  },
+  {
+   "name": "Central Australia",
+   "lat": -23.5,
+   "lon": 133.0,
+   "n": 37,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "8"
+  },
+  {
+   "name": "Southern Australia",
+   "lat": -32.0,
+   "lon": 134.0,
+   "n": 20,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "8"
+  },
+  {
+   "name": "Western Australia",
+   "lat": -27.0,
+   "lon": 117.0,
+   "n": 33,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "8"
+  },
+  {
+   "name": "Altai (Southern)",
+   "lat": 50.0,
+   "lon": 88.0,
+   "n": 234,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "9"
+  },
+  {
+   "name": "Kumandin,Chelkan,Tubalar,Teleut",
+   "lat": 52.0,
+   "lon": 86.0,
+   "n": 105,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "9"
+  },
+  {
+   "name": "Chulym Turks",
+   "lat": 57.0,
+   "lon": 86.0,
+   "n": 51,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "9"
+  },
+  {
+   "name": "Siberian Tatars",
+   "lat": 54.0,
+   "lon": 80.0,
+   "n": 66,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "9"
+  },
+  {
+   "name": "Shor",
+   "lat": 53.0,
+   "lon": 88.5,
+   "n": 77,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "9"
+  },
+  {
+   "name": "Khakas",
+   "lat": 53.5,
+   "lon": 90.0,
+   "n": 172,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "9"
+  },
+  {
+   "name": "Tuvinians",
+   "lat": 51.0,
+   "lon": 94.0,
+   "n": 203,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "9"
+  },
+  {
+   "name": "Tuvinians South Altai",
+   "lat": 48.7,
+   "lon": 88.5,
+   "n": 86,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "9"
+  },
+  {
+   "name": "Tofa",
+   "lat": 53.0,
+   "lon": 99.0,
+   "n": 79,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "9"
+  },
+  {
+   "name": "Buryat",
+   "lat": 52.0,
+   "lon": 107.0,
+   "n": 285,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "9"
+  },
+  {
+   "name": "Darkhad",
+   "lat": 51.0,
+   "lon": 100.0,
+   "n": 79,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "9"
+  },
+  {
+   "name": "Oirat",
+   "lat": 49.0,
+   "lon": 92.0,
+   "n": 101,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "9"
+  },
+  {
+   "name": "Mongols (Khalkha)",
+   "lat": 49.0,
+   "lon": 107.0,
+   "n": 289,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "9"
+  },
+  {
+   "name": "Mongols (Inner Mongolia)",
+   "lat": 40.0,
+   "lon": 108.0,
+   "n": 96,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "9"
+  },
+  {
+   "name": "Dahur",
+   "lat": 50.5,
+   "lon": 125.0,
+   "n": 97,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "9"
+  },
+  {
+   "name": "Dongxiang",
+   "lat": 36.0,
+   "lon": 103.0,
+   "n": 18,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "9"
+  },
+  {
+   "name": "Monguor,Shirongol",
+   "lat": 37.2,
+   "lon": 100.2,
+   "n": 84,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "9"
+  },
+  {
+   "name": "Mansi",
+   "lat": 63.0,
+   "lon": 64.0,
+   "n": 199,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "9"
+  },
+  {
+   "name": "Hanty",
+   "lat": 61.0,
+   "lon": 75.0,
+   "n": 199,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "9"
+  },
+  {
+   "name": "Ket, Yug",
+   "lat": 66.0,
+   "lon": 88.0,
+   "n": 123,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "9"
+  },
+  {
+   "name": "Southern Sel'kup",
+   "lat": 58.5,
+   "lon": 116.0,
+   "n": 146,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "9"
+  },
+  {
+   "name": "Northern Sel'kup",
+   "lat": 64.7,
+   "lon": 82.0,
+   "n": 132,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "9"
+  },
+  {
+   "name": "Forest Nenets",
+   "lat": 64.0,
+   "lon": 73.0,
+   "n": 51,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "9"
+  },
+  {
+   "name": "Tundra Nenets",
+   "lat": 68.0,
+   "lon": 67.0,
+   "n": 172,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "9"
+  },
+  {
+   "name": "Enets",
+   "lat": 71.0,
+   "lon": 83.0,
+   "n": 81,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "9"
+  },
+  {
+   "name": "Nganasan",
+   "lat": 72.0,
+   "lon": 94.0,
+   "n": 121,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "9"
+  },
+  {
+   "name": "Yakut",
+   "lat": 65.0,
+   "lon": 127.0,
+   "n": 238,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "9"
+  },
+  {
+   "name": "Dolgan",
+   "lat": 71.5,
+   "lon": 102.0,
+   "n": 72,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "9"
+  },
+  {
+   "name": "Western Evenki",
+   "lat": 64.0,
+   "lon": 100.0,
+   "n": 181,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "9"
+  },
+  {
+   "name": "Sym Evenki",
+   "lat": 60.5,
+   "lon": 88.5,
+   "n": 82,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "9"
+  },
+  {
+   "name": "Baikal Evenki",
+   "lat": 55.0,
+   "lon": 115.0,
+   "n": 159,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "9"
+  },
+  {
+   "name": "Far East Evenki",
+   "lat": 54.0,
+   "lon": 132.0,
+   "n": 107,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "9"
+  },
+  {
+   "name": "Evenki of China",
+   "lat": 51.5,
+   "lon": 123.0,
+   "n": 36,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "9"
+  },
+  {
+   "name": "Evens (Lamuts)",
+   "lat": 63.0,
+   "lon": 144.0,
+   "n": 149,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "9"
+  },
+  {
+   "name": "Kamchatka Evens",
+   "lat": 55.7,
+   "lon": 158.6,
+   "n": 17,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "9"
+  },
+  {
+   "name": "Nanai",
+   "lat": 47.4,
+   "lon": 135.0,
+   "n": 203,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "9"
+  },
+  {
+   "name": "Olcha",
+   "lat": 52.3,
+   "lon": 140.2,
+   "n": 42,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "9"
+  },
+  {
+   "name": "Udihe",
+   "lat": 45.0,
+   "lon": 134.5,
+   "n": 170,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "9"
+  },
+  {
+   "name": "Oroch",
+   "lat": 48.0,
+   "lon": 138.0,
+   "n": 124,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "9"
+  },
+  {
+   "name": "Uilta",
+   "lat": 51.0,
+   "lon": 142.0,
+   "n": 34,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "9"
+  },
+  {
+   "name": "Negidals",
+   "lat": 52.5,
+   "lon": 138.0,
+   "n": 80,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "9"
+  },
+  {
+   "name": "Nivkh",
+   "lat": 53.0,
+   "lon": 141.5,
+   "n": 125,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "9"
+  },
+  {
+   "name": "Manchu",
+   "lat": 45.5,
+   "lon": 127.0,
+   "n": 26,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "9"
+  },
+  {
+   "name": "Atayal,Sedeq,Saisiyat",
+   "lat": 24.4,
+   "lon": 121.4,
+   "n": 51,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "10"
+  },
+  {
+   "name": "Bunun,Tsou,Kanabu",
+   "lat": 23.4,
+   "lon": 121.0,
+   "n": 48,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "10"
+  },
+  {
+   "name": "Paiwan,Puyuma,Rukay",
+   "lat": 22.5,
+   "lon": 120.8,
+   "n": 69,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "10"
+  },
+  {
+   "name": "Ami",
+   "lat": 23.4,
+   "lon": 121.35,
+   "n": 30,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "10"
+  },
+  {
+   "name": "Ancient China",
+   "lat": 34.0,
+   "lon": 110.0,
+   "n": 115,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "10"
+  },
+  {
+   "name": "Chinese folklore",
+   "lat": 32.0,
+   "lon": 112.0,
+   "n": 171,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "10"
+  },
+  {
+   "name": "Lisu, Lolo,Naxi,Yi,Achang",
+   "lat": 26.0,
+   "lon": 101.0,
+   "n": 108,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "10"
+  },
+  {
+   "name": "Lahu,Sani,Hani,Nasu,Jino",
+   "lat": 23.0,
+   "lon": 102.0,
+   "n": 107,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "10"
+  },
+  {
+   "name": "Namuzi, Pumi",
+   "lat": 27.0,
+   "lon": 102.0,
+   "n": 34,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "10"
+  },
+  {
+   "name": "Miao,Yao (South China)",
+   "lat": 25.0,
+   "lon": 109.0,
+   "n": 144,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "10"
+  },
+  {
+   "name": "Meo,Dao,Man (Vietnam,Laos)",
+   "lat": 19.0,
+   "lon": 103.0,
+   "n": 49,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "10"
+  },
+  {
+   "name": "Li,Dong,Maonan",
+   "lat": 19.0,
+   "lon": 109.5,
+   "n": 15,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "10"
+  },
+  {
+   "name": "Korea",
+   "lat": 38.0,
+   "lon": 127.5,
+   "n": 178,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "10"
+  },
+  {
+   "name": "Ainu",
+   "lat": 43.0,
+   "lon": 143.0,
+   "n": 125,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "10"
+  },
+  {
+   "name": "Japan",
+   "lat": 35.0,
+   "lon": 135.0,
+   "n": 236,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "10"
+  },
+  {
+   "name": "Northern Ryukyu; Awami Islands",
+   "lat": 30.0,
+   "lon": 130.0,
+   "n": 56,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "10"
+  },
+  {
+   "name": "Okinawa,Miyako,Yaeyama",
+   "lat": 26.5,
+   "lon": 127.5,
+   "n": 55,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "10"
+  },
+  {
+   "name": "Yukaghir",
+   "lat": 67.0,
+   "lon": 154.0,
+   "n": 151,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "11"
+  },
+  {
+   "name": "Chukchi",
+   "lat": 67.0,
+   "lon": -179.0,
+   "n": 211,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "11"
+  },
+  {
+   "name": "Reindeer Koryak",
+   "lat": 63.0,
+   "lon": 165.0,
+   "n": 76,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "11"
+  },
+  {
+   "name": "Maritime Koryak",
+   "lat": 60.0,
+   "lon": 165.0,
+   "n": 80,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "11"
+  },
+  {
+   "name": "Kerek",
+   "lat": 62.6,
+   "lon": 178.0,
+   "n": 21,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "11"
+  },
+  {
+   "name": "Kamchadal",
+   "lat": 53.0,
+   "lon": 158.0,
+   "n": 61,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "11"
+  },
+  {
+   "name": "Russkoye Ustie",
+   "lat": 71.08,
+   "lon": 149.17,
+   "n": 18,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "11"
+  },
+  {
+   "name": "Markovo",
+   "lat": 64.5,
+   "lon": 170.0,
+   "n": 29,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "11"
+  },
+  {
+   "name": "AsiaticEskimo",
+   "lat": 65.0,
+   "lon": -173.0,
+   "n": 117,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "11"
+  },
+  {
+   "name": "St.Lawrence Eskimo",
+   "lat": 63.0,
+   "lon": -170.0,
+   "n": 44,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "11"
+  },
+  {
+   "name": "Aleut",
+   "lat": 54.0,
+   "lon": -170.0,
+   "n": 59,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "11"
+  },
+  {
+   "name": "Central Yupiq",
+   "lat": 60.0,
+   "lon": -160.0,
+   "n": 95,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "11"
+  },
+  {
+   "name": "Nunivak",
+   "lat": 60.1,
+   "lon": -167.0,
+   "n": 33,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "11"
+  },
+  {
+   "name": "Kodiak",
+   "lat": 57.5,
+   "lon": -154.5,
+   "n": 66,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "11"
+  },
+  {
+   "name": "Chugach",
+   "lat": 60.2,
+   "lon": -148.0,
+   "n": 47,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "11"
+  },
+  {
+   "name": "Bering Strait Inupiat",
+   "lat": 65.5,
+   "lon": -166.0,
+   "n": 96,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "11"
+  },
+  {
+   "name": "North Alaskan Inupiat",
+   "lat": 68.0,
+   "lon": -161.0,
+   "n": 172,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "11"
+  },
+  {
+   "name": "Mackenzie Delta Eskimo",
+   "lat": 69.5,
+   "lon": -135.0,
+   "n": 49,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "11"
+  },
+  {
+   "name": "Copper Eskimo",
+   "lat": 68.5,
+   "lon": -108.0,
+   "n": 69,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "11"
+  },
+  {
+   "name": "Netsilik",
+   "lat": 68.5,
+   "lon": -97.0,
+   "n": 81,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "11"
+  },
+  {
+   "name": "Caribou",
+   "lat": 65.0,
+   "lon": -97.0,
+   "n": 45,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "11"
+  },
+  {
+   "name": "Iglulik",
+   "lat": 69.5,
+   "lon": -84.0,
+   "n": 88,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "11"
+  },
+  {
+   "name": "Baffin Land Eskimo",
+   "lat": 65.0,
+   "lon": -66.0,
+   "n": 67,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "11"
+  },
+  {
+   "name": "Labrador Eskimo",
+   "lat": 59.0,
+   "lon": -70.0,
+   "n": 56,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "11"
+  },
+  {
+   "name": "Polar Eskimo",
+   "lat": 77.5,
+   "lon": -68.0,
+   "n": 77,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "11"
+  },
+  {
+   "name": "West Greenland Eskimo",
+   "lat": 67.0,
+   "lon": -53.0,
+   "n": 86,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "11"
+  },
+  {
+   "name": "Eest Greenland Eskimo",
+   "lat": 66.0,
+   "lon": -37.0,
+   "n": 38,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "11"
+  },
+  {
+   "name": "Ingalik",
+   "lat": 62.0,
+   "lon": -160.0,
+   "n": 45,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Kolchan",
+   "lat": 62.5,
+   "lon": -155.0,
+   "n": 56,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Koyukon",
+   "lat": 65.6,
+   "lon": -154.0,
+   "n": 114,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Tanana",
+   "lat": 64.5,
+   "lon": -147.5,
+   "n": 53,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Dena'ina",
+   "lat": 61.5,
+   "lon": -152.0,
+   "n": 89,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Kutchin",
+   "lat": 68.0,
+   "lon": -141.0,
+   "n": 135,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Han",
+   "lat": 62.8,
+   "lon": -142.0,
+   "n": 45,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Athna",
+   "lat": 62.0,
+   "lon": -145.0,
+   "n": 65,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Upper Tanana,Tanacross",
+   "lat": 64.0,
+   "lon": -142.0,
+   "n": 99,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Tutchone",
+   "lat": 61.8,
+   "lon": -137.5,
+   "n": 94,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Tagish",
+   "lat": 60.0,
+   "lon": -134.0,
+   "n": 132,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Inland Tlingit",
+   "lat": 60.0,
+   "lon": -132.0,
+   "n": 76,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Tahltan",
+   "lat": 57.5,
+   "lon": -129.5,
+   "n": 133,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Tsetsot",
+   "lat": 55.5,
+   "lon": -129.8,
+   "n": 32,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Kaska",
+   "lat": 60.5,
+   "lon": -129.0,
+   "n": 100,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Beaver",
+   "lat": 57.0,
+   "lon": -120.0,
+   "n": 52,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Hare",
+   "lat": 67.0,
+   "lon": -125.0,
+   "n": 37,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Yellowknife",
+   "lat": 65.0,
+   "lon": -110.0,
+   "n": 22,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Chipewyan",
+   "lat": 60.0,
+   "lon": -106.0,
+   "n": 87,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Slavey, Dogrib",
+   "lat": 62.0,
+   "lon": -119.0,
+   "n": 57,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Eyak",
+   "lat": 60.5,
+   "lon": -144.0,
+   "n": 60,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Tlingit",
+   "lat": 58.0,
+   "lon": -136.0,
+   "n": 189,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Haida",
+   "lat": 53.0,
+   "lon": -132.0,
+   "n": 184,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Tsimshian",
+   "lat": 54.5,
+   "lon": -129.0,
+   "n": 140,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Heiltsuk,Oowekeeno",
+   "lat": 51.7,
+   "lon": -128.0,
+   "n": 78,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Kwakiutl",
+   "lat": 51.0,
+   "lon": -127.3,
+   "n": 155,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Bella Coola",
+   "lat": 51.8,
+   "lon": -127.0,
+   "n": 174,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Nootka,Makah",
+   "lat": 49.0,
+   "lon": -125.5,
+   "n": 103,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Carrier",
+   "lat": 53.5,
+   "lon": -123.0,
+   "n": 149,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Chilcotin",
+   "lat": 52.0,
+   "lon": -124.0,
+   "n": 100,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Shuswap",
+   "lat": 52.0,
+   "lon": -120.0,
+   "n": 162,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Thompson",
+   "lat": 50.0,
+   "lon": -121.2,
+   "n": 184,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "13"
+  },
+  {
+   "name": "Lillooet",
+   "lat": 50.5,
+   "lon": -122.8,
+   "n": 105,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Okanagon,Sanpoil",
+   "lat": 49.0,
+   "lon": -118.5,
+   "n": 105,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Kalispel,Coeur d'Alene",
+   "lat": 47.5,
+   "lon": -117.0,
+   "n": 103,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Chelan, Wenatchi",
+   "lat": 47.5,
+   "lon": -120.0,
+   "n": 3,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Flathead",
+   "lat": 47.5,
+   "lon": -113.5,
+   "n": 27,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Comox",
+   "lat": 50.0,
+   "lon": -125.0,
+   "n": 91,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Halkomelem,Sechelt,Pentl",
+   "lat": 49.0,
+   "lon": -123.3,
+   "n": 107,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Lushootseed",
+   "lat": 48.0,
+   "lon": -122.0,
+   "n": 186,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Twana",
+   "lat": 47.6,
+   "lon": -123.3,
+   "n": 36,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Klallam,Lkungen",
+   "lat": 48.1,
+   "lon": -123.7,
+   "n": 60,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Chehalis, Cowlitz",
+   "lat": 47.0,
+   "lon": -123.5,
+   "n": 156,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Quinault",
+   "lat": 47.2,
+   "lon": -124.0,
+   "n": 91,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Quileute, Chemakum",
+   "lat": 47.6,
+   "lon": -124.0,
+   "n": 81,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Western Sahaptin",
+   "lat": 46.0,
+   "lon": -120.5,
+   "n": 164,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Nez Perce",
+   "lat": 46.0,
+   "lon": -117.0,
+   "n": 119,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Upper Chinook",
+   "lat": 45.6,
+   "lon": -122.0,
+   "n": 177,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Lower Chinook",
+   "lat": 46.0,
+   "lon": -123.0,
+   "n": 55,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Tillamook",
+   "lat": 45.5,
+   "lon": -124.0,
+   "n": 116,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Coos",
+   "lat": 43.4,
+   "lon": -124.2,
+   "n": 96,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Alsea",
+   "lat": 44.5,
+   "lon": -123.9,
+   "n": 35,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Kalapuya",
+   "lat": 44.6,
+   "lon": -123.0,
+   "n": 63,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Takelma",
+   "lat": 42.4,
+   "lon": -123.5,
+   "n": 54,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Umpqua,Coquille,Tututni",
+   "lat": 42.5,
+   "lon": -124.5,
+   "n": 99,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Klamath, Modoc",
+   "lat": 43.5,
+   "lon": -122.0,
+   "n": 112,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Kutenai",
+   "lat": 50.0,
+   "lon": -116.0,
+   "n": 109,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Winnebago",
+   "lat": 44.0,
+   "lon": -89.0,
+   "n": 93,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Menomini",
+   "lat": 45.5,
+   "lon": -88.5,
+   "n": 186,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Northern Saulteaux",
+   "lat": 52.5,
+   "lon": -95.0,
+   "n": 31,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Northern Ojibwa",
+   "lat": 53.0,
+   "lon": -90.0,
+   "n": 93,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Ojibwa (Western)",
+   "lat": 48.0,
+   "lon": -89.0,
+   "n": 222,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Ojibwa (Eastern)",
+   "lat": 47.0,
+   "lon": -80.0,
+   "n": 85,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Ottawa",
+   "lat": 44.0,
+   "lon": -81.0,
+   "n": 20,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Algonkian proper",
+   "lat": 47.0,
+   "lon": -77.0,
+   "n": 34,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Fox,Sauk,Kikapoo",
+   "lat": 42.7,
+   "lon": -84.0,
+   "n": 128,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Potawatomi",
+   "lat": 44.5,
+   "lon": -85.0,
+   "n": 46,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Miami, Illini",
+   "lat": 40.0,
+   "lon": -87.5,
+   "n": 17,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Attikamek",
+   "lat": 47.5,
+   "lon": -74.0,
+   "n": 13,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Montagnais",
+   "lat": 51.0,
+   "lon": -67.0,
+   "n": 89,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Naskapi",
+   "lat": 56.5,
+   "lon": -70.0,
+   "n": 91,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Eastern Cree",
+   "lat": 52.0,
+   "lon": -75.0,
+   "n": 35,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Swampy Cree (Eastern)",
+   "lat": 54.0,
+   "lon": -84.0,
+   "n": 78,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Swampy Cree (Western)",
+   "lat": 58.0,
+   "lon": -94.0,
+   "n": 94,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Western Wood Cree",
+   "lat": 56.0,
+   "lon": -112.0,
+   "n": 20,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Plains Cree",
+   "lat": 54.0,
+   "lon": -109.0,
+   "n": 148,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Plains Ojibwa",
+   "lat": 49.5,
+   "lon": -98.0,
+   "n": 63,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Micmac",
+   "lat": 46.0,
+   "lon": -63.0,
+   "n": 121,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Maliseet,Passamaquoddy",
+   "lat": 46.5,
+   "lon": -67.5,
+   "n": 83,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Abenaki,Penobscot",
+   "lat": 44.5,
+   "lon": -70.5,
+   "n": 64,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Lenape",
+   "lat": 40.5,
+   "lon": -74.5,
+   "n": 76,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Mahican",
+   "lat": 42.5,
+   "lon": -73.5,
+   "n": 4,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Huron, Wyandot",
+   "lat": 44.0,
+   "lon": -79.0,
+   "n": 65,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Five Nations Iroquois",
+   "lat": 42.7,
+   "lon": -76.0,
+   "n": 181,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Tuscarora",
+   "lat": 36.0,
+   "lon": -77.0,
+   "n": 36,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Yurok",
+   "lat": 41.5,
+   "lon": -124.0,
+   "n": 109,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Wiyot",
+   "lat": 40.5,
+   "lon": -124.2,
+   "n": 36,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Karok",
+   "lat": 42.0,
+   "lon": -123.5,
+   "n": 90,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Shasta,Chimariko",
+   "lat": 42.0,
+   "lon": -122.8,
+   "n": 68,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Hupa,Chilula",
+   "lat": 41.0,
+   "lon": -123.5,
+   "n": 44,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Lassik,Catho",
+   "lat": 40.5,
+   "lon": -124.0,
+   "n": 64,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Yuki",
+   "lat": 39.5,
+   "lon": -123.0,
+   "n": 53,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Yana",
+   "lat": 40.3,
+   "lon": -122.0,
+   "n": 48,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Achomavi",
+   "lat": 40.14,
+   "lon": -120.5,
+   "n": 53,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Atsugevi",
+   "lat": 40.08,
+   "lon": -121.0,
+   "n": 31,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Pomo",
+   "lat": 38.5,
+   "lon": -123.5,
+   "n": 114,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Wappo",
+   "lat": 38.2,
+   "lon": -122.5,
+   "n": 29,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Wintu",
+   "lat": 39.5,
+   "lon": -122.5,
+   "n": 121,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Maidu",
+   "lat": 39.0,
+   "lon": -121.5,
+   "n": 114,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Sierra Miwok",
+   "lat": 37.8,
+   "lon": -121.0,
+   "n": 55,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Lake Miwok",
+   "lat": 38.5,
+   "lon": -122.7,
+   "n": 5,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Coast Miwok",
+   "lat": 38.0,
+   "lon": -122.8,
+   "n": 32,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Costanoan",
+   "lat": 36.8,
+   "lon": -122.0,
+   "n": 12,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Yokuts",
+   "lat": 36.5,
+   "lon": -120.0,
+   "n": 49,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "NorthernFoothillsYokuts",
+   "lat": 36.8,
+   "lon": -119.5,
+   "n": 29,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Salinan",
+   "lat": 35.6,
+   "lon": -121.0,
+   "n": 21,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Monache",
+   "lat": 36.8,
+   "lon": -119.0,
+   "n": 33,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Tubatulabal",
+   "lat": 36.0,
+   "lon": -118.2,
+   "n": 25,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Kawaiisu",
+   "lat": 36.5,
+   "lon": -118.0,
+   "n": 60,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Chumash",
+   "lat": 34.5,
+   "lon": -120.0,
+   "n": 58,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Kitanemuk",
+   "lat": 35.0,
+   "lon": -117.3,
+   "n": 19,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Serrano",
+   "lat": 34.7,
+   "lon": -117.0,
+   "n": 36,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Gabrielino",
+   "lat": 34.0,
+   "lon": -118.0,
+   "n": 6,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Luiseno, Juaneno",
+   "lat": 33.5,
+   "lon": -117.5,
+   "n": 58,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Cahuilla, Cupeno",
+   "lat": 34.0,
+   "lon": -116.0,
+   "n": 43,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Northern Paiute",
+   "lat": 42.0,
+   "lon": -119.0,
+   "n": 130,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Owens Valley Mono",
+   "lat": 37.2,
+   "lon": -118.5,
+   "n": 9,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Bannock",
+   "lat": 43.0,
+   "lon": -112.0,
+   "n": 10,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Washo",
+   "lat": 39.0,
+   "lon": -120.0,
+   "n": 24,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Eastern Shohone",
+   "lat": 43.0,
+   "lon": -109.0,
+   "n": 24,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Northern Shoshone",
+   "lat": 44.0,
+   "lon": -114.0,
+   "n": 80,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Western Shoshoni,Gosiute",
+   "lat": 40.0,
+   "lon": -115.0,
+   "n": 130,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Panamint",
+   "lat": 36.5,
+   "lon": -117.2,
+   "n": 13,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Ute",
+   "lat": 39.0,
+   "lon": -109.0,
+   "n": 160,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Southern Paiute",
+   "lat": 37.0,
+   "lon": -114.0,
+   "n": 88,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Chemehuevi",
+   "lat": 34.7,
+   "lon": -115.3,
+   "n": 67,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Hopi",
+   "lat": 36.5,
+   "lon": -110.0,
+   "n": 125,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Zuni",
+   "lat": 35.0,
+   "lon": -109.0,
+   "n": 101,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Western Keres",
+   "lat": 35.0,
+   "lon": -108.0,
+   "n": 75,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Eastern Keres",
+   "lat": 35.5,
+   "lon": -107.0,
+   "n": 70,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Tiwa,Tewa,Towa",
+   "lat": 35.0,
+   "lon": -106.5,
+   "n": 134,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Navajo",
+   "lat": 36.0,
+   "lon": -108.0,
+   "n": 178,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Jicarilla Apache",
+   "lat": 36.5,
+   "lon": -104.0,
+   "n": 123,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Chiricahua Apache",
+   "lat": 33.0,
+   "lon": -108.0,
+   "n": 70,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Mescalero Apache",
+   "lat": 32.8,
+   "lon": -105.0,
+   "n": 26,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Western Apache",
+   "lat": 33.5,
+   "lon": -110.5,
+   "n": 100,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Lipan Apache",
+   "lat": 30.0,
+   "lon": -100.0,
+   "n": 98,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Walapai,Havasupai,Yavapai",
+   "lat": 34.5,
+   "lon": -113.0,
+   "n": 114,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Diegueno",
+   "lat": 32.6,
+   "lon": -116.5,
+   "n": 48,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Cocopa",
+   "lat": 32.2,
+   "lon": -115.0,
+   "n": 21,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Yuma,Mohave,Maricopa",
+   "lat": 33.0,
+   "lon": -114.6,
+   "n": 82,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Paipai",
+   "lat": 31.8,
+   "lon": -115.8,
+   "n": 9,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Kiliwa",
+   "lat": 31.0,
+   "lon": -115.4,
+   "n": 19,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "12"
+  },
+  {
+   "name": "Pima",
+   "lat": 32.8,
+   "lon": -112.0,
+   "n": 71,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Papago",
+   "lat": 32.0,
+   "lon": -113.0,
+   "n": 46,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Seri",
+   "lat": 29.0,
+   "lon": -112.5,
+   "n": 33,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "12"
+  },
+  {
+   "name": "Blackfoot",
+   "lat": 51.0,
+   "lon": -112.5,
+   "n": 180,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Sarsi",
+   "lat": 52.5,
+   "lon": -116.0,
+   "n": 114,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "GrosVentre",
+   "lat": 50.0,
+   "lon": -109.0,
+   "n": 106,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Assiniboine",
+   "lat": 50.0,
+   "lon": -104.5,
+   "n": 166,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Crow",
+   "lat": 47.0,
+   "lon": -109.0,
+   "n": 130,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Hidatsa",
+   "lat": 47.0,
+   "lon": -102.0,
+   "n": 66,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Mandan",
+   "lat": 46.5,
+   "lon": -101.5,
+   "n": 72,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Arikara",
+   "lat": 45.0,
+   "lon": -100.5,
+   "n": 110,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Teton",
+   "lat": 44.0,
+   "lon": -102.0,
+   "n": 110,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Yankton",
+   "lat": 45.5,
+   "lon": -98.0,
+   "n": 22,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Santee",
+   "lat": 45.0,
+   "lon": -92.5,
+   "n": 112,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "13"
+  },
+  {
+   "name": "Osage, Kansa",
+   "lat": 37.3,
+   "lon": -93.7,
+   "n": 70,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Qwapaw",
+   "lat": 33.3,
+   "lon": -91.4,
+   "n": 13,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Omaha, Ponka",
+   "lat": 42.5,
+   "lon": -98.0,
+   "n": 95,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Oto",
+   "lat": 42.0,
+   "lon": -96.3,
+   "n": 39,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Iowa",
+   "lat": 41.5,
+   "lon": -94.0,
+   "n": 108,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Arapaho",
+   "lat": 40.0,
+   "lon": -103.0,
+   "n": 153,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Cheyenne",
+   "lat": 43.0,
+   "lon": -104.0,
+   "n": 92,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "13"
+  },
+  {
+   "name": "Pawnee",
+   "lat": 41.0,
+   "lon": -99.0,
+   "n": 154,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "13"
+  },
+  {
+   "name": "Wichita",
+   "lat": 33.0,
+   "lon": -97.0,
+   "n": 115,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Caddo",
+   "lat": 33.0,
+   "lon": -95.0,
+   "n": 81,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Kiowa-Apache",
+   "lat": 36.0,
+   "lon": -98.0,
+   "n": 53,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Kiowa",
+   "lat": 35.0,
+   "lon": -100.0,
+   "n": 80,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Comanche",
+   "lat": 32.0,
+   "lon": -102.0,
+   "n": 34,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Tonkawa",
+   "lat": 30.0,
+   "lon": -97.0,
+   "n": 22,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Shawnee",
+   "lat": 40.0,
+   "lon": -83.0,
+   "n": 24,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "13"
+  },
+  {
+   "name": "Yuchi",
+   "lat": 30.5,
+   "lon": -81.5,
+   "n": 47,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Tunica",
+   "lat": 32.8,
+   "lon": -91.2,
+   "n": 24,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Natchez",
+   "lat": 31.4,
+   "lon": -91.4,
+   "n": 66,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Chitimacha",
+   "lat": 28.5,
+   "lon": -89.9,
+   "n": 13,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Biloxi",
+   "lat": 30.5,
+   "lon": -89.0,
+   "n": 31,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Creek, Seminole",
+   "lat": 33.0,
+   "lon": -86.0,
+   "n": 96,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Alabama,Koasati",
+   "lat": 32.0,
+   "lon": -87.0,
+   "n": 117,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Hitchiti",
+   "lat": 31.5,
+   "lon": -85.0,
+   "n": 18,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Choktaw,Chichasaw",
+   "lat": 33.0,
+   "lon": -88.5,
+   "n": 42,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Catawba",
+   "lat": 36.0,
+   "lon": -79.5,
+   "n": 19,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "13"
+  },
+  {
+   "name": "Cherokee",
+   "lat": 35.0,
+   "lon": -83.5,
+   "n": 130,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "13"
+  },
+  {
+   "name": "Tarahumara,Warihio",
+   "lat": 27.5,
+   "lon": -107.6,
+   "n": 48,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Opata",
+   "lat": 30.5,
+   "lon": -109.5,
+   "n": 2,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Yaqui,Mayo,Sinaloa",
+   "lat": 26.5,
+   "lon": -109.0,
+   "n": 30,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Huichol",
+   "lat": 22.5,
+   "lon": -104.5,
+   "n": 65,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Cora",
+   "lat": 22.0,
+   "lon": -104.8,
+   "n": 43,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Tepecano,Tepehuan",
+   "lat": 23.0,
+   "lon": -104.0,
+   "n": 13,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Durango Nahua",
+   "lat": 22.7,
+   "lon": -104.6,
+   "n": 20,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Tarascan",
+   "lat": 19.0,
+   "lon": -102.0,
+   "n": 15,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Aztec",
+   "lat": 19.5,
+   "lon": -99.0,
+   "n": 68,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Puebla & Huasteca Nahua",
+   "lat": 19.0,
+   "lon": -98.0,
+   "n": 72,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Tlapanec; Popoloca",
+   "lat": 17.5,
+   "lon": -99.0,
+   "n": 30,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Otomi,Pame,Jonaz",
+   "lat": 20.5,
+   "lon": -99.5,
+   "n": 38,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Huastec",
+   "lat": 21.5,
+   "lon": -98.0,
+   "n": 37,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Totonac, Tepehua",
+   "lat": 20.0,
+   "lon": -97.0,
+   "n": 99,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Veracruz Nahuatl",
+   "lat": 17.8,
+   "lon": -94.0,
+   "n": 47,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Popoluca",
+   "lat": 18.0,
+   "lon": -95.0,
+   "n": 72,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Chinantec,Mazatec",
+   "lat": 17.0,
+   "lon": -97.5,
+   "n": 98,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Mixtec,Trique",
+   "lat": 16.7,
+   "lon": -98.0,
+   "n": 64,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Zapotec,Chatino",
+   "lat": 16.5,
+   "lon": -96.5,
+   "n": 42,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Oaxaca Mixe",
+   "lat": 17.0,
+   "lon": -95.5,
+   "n": 40,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Tequstlatec",
+   "lat": 16.6,
+   "lon": -95.8,
+   "n": 32,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Huave",
+   "lat": 16.4,
+   "lon": -94.7,
+   "n": 12,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Chontal",
+   "lat": 18.0,
+   "lon": -93.0,
+   "n": 21,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Zoque",
+   "lat": 16.5,
+   "lon": -92.5,
+   "n": 56,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Soconuzco Mestizos",
+   "lat": 14.5,
+   "lon": -92.4,
+   "n": 7,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Tzotzil",
+   "lat": 17.0,
+   "lon": -93.0,
+   "n": 98,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Tseltal",
+   "lat": 16.5,
+   "lon": -92.6,
+   "n": 48,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Chol",
+   "lat": 17.7,
+   "lon": -91.5,
+   "n": 41,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Chorti",
+   "lat": 15.2,
+   "lon": -89.0,
+   "n": 36,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Yucatec, Itza",
+   "lat": 20.0,
+   "lon": -88.5,
+   "n": 62,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Lacandon",
+   "lat": 17.2,
+   "lon": -91.5,
+   "n": 68,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Kekchi; Mopan",
+   "lat": 16.5,
+   "lon": -89.8,
+   "n": 81,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Tzutujil",
+   "lat": 14.5,
+   "lon": -91.7,
+   "n": 24,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Quiche,Pocomam",
+   "lat": 15.0,
+   "lon": -91.0,
+   "n": 88,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Kanjobal,Chuj,Mocho",
+   "lat": 16.0,
+   "lon": -92.0,
+   "n": 57,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Mam, Ixil",
+   "lat": 15.5,
+   "lon": -92.5,
+   "n": 25,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Pipil",
+   "lat": 13.5,
+   "lon": -89.5,
+   "n": 16,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Lenca",
+   "lat": 14.2,
+   "lon": -87.5,
+   "n": 6,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Jicaque",
+   "lat": 15.1,
+   "lon": -88.0,
+   "n": 32,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Paya,Sumu,Misquito",
+   "lat": 14.0,
+   "lon": -85.0,
+   "n": 53,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Rama,Guatuso",
+   "lat": 10.7,
+   "lon": -84.5,
+   "n": 24,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Bribri,Cabecar",
+   "lat": 9.5,
+   "lon": -83.4,
+   "n": 69,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Boruca",
+   "lat": 8.9,
+   "lon": -83.3,
+   "n": 4,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Guaymi,Bocota",
+   "lat": 8.5,
+   "lon": -82.5,
+   "n": 21,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Kuna",
+   "lat": 3.5,
+   "lon": -78.0,
+   "n": 88,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Choco",
+   "lat": 7.0,
+   "lon": -77.0,
+   "n": 100,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Kogi",
+   "lat": 11.0,
+   "lon": -74.0,
+   "n": 80,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Ijka",
+   "lat": 10.5,
+   "lon": -73.5,
+   "n": 14,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Guajiro",
+   "lat": 12.0,
+   "lon": -72.0,
+   "n": 80,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Chimila",
+   "lat": 9.5,
+   "lon": -74.5,
+   "n": 20,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Yukpa",
+   "lat": 9.5,
+   "lon": -76.0,
+   "n": 86,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Bari",
+   "lat": 9.5,
+   "lon": -73.0,
+   "n": 19,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Tunebo",
+   "lat": 6.8,
+   "lon": -72.3,
+   "n": 8,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Muisca",
+   "lat": 5.3,
+   "lon": -73.5,
+   "n": 48,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Paez,Guambia",
+   "lat": 2.5,
+   "lon": -76.5,
+   "n": 24,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Kamsa, Ingano",
+   "lat": 1.0,
+   "lon": -77.0,
+   "n": 19,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Cayapa (Chachi)",
+   "lat": 1.0,
+   "lon": -79.0,
+   "n": 18,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Colorado (Tsachila)",
+   "lat": -0.4,
+   "lon": -79.0,
+   "n": 67,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Highland Ecuador",
+   "lat": -1.0,
+   "lon": -78.5,
+   "n": 39,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Northern Peru: Costa",
+   "lat": -7.0,
+   "lon": -79.8,
+   "n": 42,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Northern Peru: Sierra",
+   "lat": -8.5,
+   "lon": -77.3,
+   "n": 69,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Lima dep.",
+   "lat": -11.8,
+   "lon": -77.0,
+   "n": 56,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Pasco,Junin,Huancavelica dep.",
+   "lat": -11.7,
+   "lon": -76.8,
+   "n": 65,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Ica dep.",
+   "lat": -14.0,
+   "lon": -75.0,
+   "n": 6,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Ayacucho dep.",
+   "lat": -14.0,
+   "lon": -74.3,
+   "n": 24,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Kechua: South Peru, Bolivia",
+   "lat": -14.0,
+   "lon": -71.5,
+   "n": 102,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "14"
+  },
+  {
+   "name": "Aimara",
+   "lat": -16.5,
+   "lon": -69.0,
+   "n": 50,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Chipaya",
+   "lat": -18.5,
+   "lon": -67.0,
+   "n": 15,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Atacameno",
+   "lat": -23.5,
+   "lon": -70.0,
+   "n": 8,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "14"
+  },
+  {
+   "name": "Yaruro",
+   "lat": 6.0,
+   "lon": -69.0,
+   "n": 42,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Sicuani",
+   "lat": 5.0,
+   "lon": -69.0,
+   "n": 159,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Cuiva",
+   "lat": 8.0,
+   "lon": -72.0,
+   "n": 37,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Guayabero",
+   "lat": 2.2,
+   "lon": -73.0,
+   "n": 34,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Makiritare",
+   "lat": 5.5,
+   "lon": -65.0,
+   "n": 85,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Piaroa",
+   "lat": 5.0,
+   "lon": -67.5,
+   "n": 31,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Saliva",
+   "lat": 5.0,
+   "lon": -71.3,
+   "n": 7,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Yabarana",
+   "lat": 5.5,
+   "lon": -66.3,
+   "n": 17,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Panare (E'napa)",
+   "lat": 7.0,
+   "lon": -66.0,
+   "n": 13,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Hoti",
+   "lat": 5.5,
+   "lon": -65.5,
+   "n": 4,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Yanomamo",
+   "lat": 2.0,
+   "lon": -64.5,
+   "n": 100,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Sanema",
+   "lat": 4.3,
+   "lon": -64.5,
+   "n": 75,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Cuba Mestizos",
+   "lat": 18.5,
+   "lon": -71.0,
+   "n": 6,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Taino",
+   "lat": 21.0,
+   "lon": -77.0,
+   "n": 12,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Warao",
+   "lat": 9.0,
+   "lon": -61.5,
+   "n": 164,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Pemon",
+   "lat": 6.0,
+   "lon": -62.3,
+   "n": 138,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Akawai",
+   "lat": 7.0,
+   "lon": -60.0,
+   "n": 31,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Locono",
+   "lat": 6.0,
+   "lon": -57.0,
+   "n": 89,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Palikur",
+   "lat": 4.0,
+   "lon": -51.8,
+   "n": 6,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Island Caribs",
+   "lat": 16.0,
+   "lon": -62.0,
+   "n": 30,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Karina, Galibi",
+   "lat": 5.0,
+   "lon": -59.0,
+   "n": 140,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Orinoco Caribs",
+   "lat": 8.0,
+   "lon": -64.0,
+   "n": 37,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Makuxi",
+   "lat": 4.5,
+   "lon": -59.6,
+   "n": 83,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Wapishana",
+   "lat": 3.0,
+   "lon": -59.0,
+   "n": 88,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Trio",
+   "lat": 2.0,
+   "lon": -56.0,
+   "n": 103,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Akuriyo",
+   "lat": 3.2,
+   "lon": -55.4,
+   "n": 11,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Waiwai",
+   "lat": -0.5,
+   "lon": -58.0,
+   "n": 60,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Hixkaryana",
+   "lat": -1.0,
+   "lon": -59.0,
+   "n": 39,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Kaxuyana",
+   "lat": 1.0,
+   "lon": -57.5,
+   "n": 27,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Wayana, Aparai",
+   "lat": 3.0,
+   "lon": -54.0,
+   "n": 119,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Wayampi, Emerillon",
+   "lat": 3.0,
+   "lon": -52.0,
+   "n": 110,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Siona,Coreguaje",
+   "lat": 0.5,
+   "lon": -75.5,
+   "n": 125,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Mai Huna (Coto)",
+   "lat": -1.0,
+   "lon": -74.0,
+   "n": 60,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Cofan",
+   "lat": 0.3,
+   "lon": -77.0,
+   "n": 73,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Napo,Kanelo",
+   "lat": -2.0,
+   "lon": -76.0,
+   "n": 158,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Waorani",
+   "lat": -1.1,
+   "lon": -77.0,
+   "n": 20,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Candoshi",
+   "lat": -4.0,
+   "lon": -77.0,
+   "n": 18,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Zaparo",
+   "lat": -2.5,
+   "lon": -75.0,
+   "n": 14,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Shuar,Achuar,Huambiza",
+   "lat": -3.0,
+   "lon": -77.0,
+   "n": 160,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Aguaruna",
+   "lat": -5.0,
+   "lon": -78.5,
+   "n": 115,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Carijona",
+   "lat": 0.0,
+   "lon": -72.0,
+   "n": 74,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Barasana,Taibano,Makuna",
+   "lat": 0.2,
+   "lon": -70.4,
+   "n": 131,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Desana,Siriano,Tatuyo,Bara",
+   "lat": 0.3,
+   "lon": -70.0,
+   "n": 101,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Uanano,Tucano proper,Arapaso",
+   "lat": -0.2,
+   "lon": -69.0,
+   "n": 43,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Letuama,Ufaina,Yahuna",
+   "lat": -0.6,
+   "lon": -69.7,
+   "n": 70,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Cubeo",
+   "lat": 1.3,
+   "lon": -70.4,
+   "n": 37,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Tariana",
+   "lat": 1.0,
+   "lon": -69.5,
+   "n": 64,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Yucuna, Kabiyari",
+   "lat": -1.0,
+   "lon": -70.0,
+   "n": 84,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Macu",
+   "lat": -1.0,
+   "lon": -68.0,
+   "n": 26,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Puinave",
+   "lat": 2.8,
+   "lon": -68.5,
+   "n": 12,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Baniwa, Bare, Piapoco",
+   "lat": 1.5,
+   "lon": -68.5,
+   "n": 91,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Witoto,Ocaina",
+   "lat": -2.0,
+   "lon": -73.0,
+   "n": 122,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Bora",
+   "lat": -2.5,
+   "lon": -72.0,
+   "n": 45,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Andoque",
+   "lat": -0.5,
+   "lon": -73.5,
+   "n": 54,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Ticuna",
+   "lat": -4.0,
+   "lon": -70.5,
+   "n": 120,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Yagua",
+   "lat": -3.0,
+   "lon": -71.5,
+   "n": 89,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Omagua, Cocama",
+   "lat": -4.0,
+   "lon": -64.5,
+   "n": 7,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Chayahuita",
+   "lat": -5.8,
+   "lon": -77.0,
+   "n": 51,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Urarina",
+   "lat": -4.2,
+   "lon": -75.7,
+   "n": 18,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Katawishi,Manao etc.",
+   "lat": -3.0,
+   "lon": -62.0,
+   "n": 91,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Mura",
+   "lat": -5.0,
+   "lon": -60.0,
+   "n": 12,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Mawe",
+   "lat": -3.5,
+   "lon": -57.0,
+   "n": 52,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Juruna",
+   "lat": -7.0,
+   "lon": -52.0,
+   "n": 37,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Shipaya",
+   "lat": -4.5,
+   "lon": -54.0,
+   "n": 97,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Anambe",
+   "lat": -2.5,
+   "lon": -49.5,
+   "n": 5,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Asurini,Paracana.",
+   "lat": -5.0,
+   "lon": -51.5,
+   "n": 14,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Lower Amazon",
+   "lat": -2.0,
+   "lon": -53.0,
+   "n": 7,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Tenetehara",
+   "lat": -3.0,
+   "lon": -48.0,
+   "n": 84,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Urubu (Kaapor)",
+   "lat": -3.0,
+   "lon": -45.0,
+   "n": 94,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Tupinamba",
+   "lat": -23.0,
+   "lon": -42.2,
+   "n": 1,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Amuesha",
+   "lat": -9.5,
+   "lon": -75.5,
+   "n": 37,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Ashaninca",
+   "lat": -11.5,
+   "lon": -74.4,
+   "n": 56,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Machiguenga",
+   "lat": -11.5,
+   "lon": -72.9,
+   "n": 76,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Piro",
+   "lat": -12.0,
+   "lon": -70.0,
+   "n": 30,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Culina,Ipurina",
+   "lat": -11.0,
+   "lon": -71.0,
+   "n": 21,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Kanamari",
+   "lat": -7.0,
+   "lon": -68.0,
+   "n": 16,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Shipibo-Conibo",
+   "lat": -7.0,
+   "lon": -75.0,
+   "n": 104,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Cashibo",
+   "lat": -8.8,
+   "lon": -75.5,
+   "n": 34,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Marubo",
+   "lat": -6.0,
+   "lon": -72.5,
+   "n": 10,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Cashinahua,Mayoruna",
+   "lat": -8.0,
+   "lon": -72.5,
+   "n": 107,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Harakmbet",
+   "lat": -12.0,
+   "lon": -71.0,
+   "n": 45,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Tacana",
+   "lat": -14.0,
+   "lon": -68.0,
+   "n": 115,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Moseten,Chimane",
+   "lat": -15.5,
+   "lon": -67.5,
+   "n": 46,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Yuracare",
+   "lat": -17.0,
+   "lon": -67.0,
+   "n": 18,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Chiriguano",
+   "lat": -17.0,
+   "lon": -64.0,
+   "n": 122,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Chacobo",
+   "lat": -12.0,
+   "lon": -66.0,
+   "n": 47,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Ese'ejja",
+   "lat": -12.0,
+   "lon": -68.5,
+   "n": 28,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Siriono",
+   "lat": -14.0,
+   "lon": -65.0,
+   "n": 12,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Mojo,Manasi,etc.",
+   "lat": -16.0,
+   "lon": -64.0,
+   "n": 23,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Parintintin",
+   "lat": -9.0,
+   "lon": -62.0,
+   "n": 35,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Tupari,Makurap,Ajuru",
+   "lat": -13.0,
+   "lon": -64.0,
+   "n": 32,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Itene,Wari,other Rondonia",
+   "lat": -11.0,
+   "lon": -63.0,
+   "n": 41,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Surui,Zoro,Arua,Cinta Larga",
+   "lat": -11.0,
+   "lon": -61.0,
+   "n": 83,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Mundurucu",
+   "lat": -11.0,
+   "lon": -58.0,
+   "n": 118,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Kamaiura",
+   "lat": -12.5,
+   "lon": -54.0,
+   "n": 101,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Bakairi",
+   "lat": -14.0,
+   "lon": -55.0,
+   "n": 32,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Kalapalo, Kuikuru",
+   "lat": -13.5,
+   "lon": -54.5,
+   "n": 69,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Waura,Mehinaku",
+   "lat": -13.0,
+   "lon": -54.0,
+   "n": 88,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Trumai",
+   "lat": -13.5,
+   "lon": -53.5,
+   "n": 53,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Rikbaktsa",
+   "lat": -13.0,
+   "lon": -57.0,
+   "n": 78,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Kayabi",
+   "lat": -12.0,
+   "lon": -55.5,
+   "n": 65,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Iranxe",
+   "lat": -13.0,
+   "lon": -57.5,
+   "n": 101,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Nambikwara",
+   "lat": -14.0,
+   "lon": -59.0,
+   "n": 71,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Paresi",
+   "lat": -15.0,
+   "lon": -55.5,
+   "n": 164,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Bororo",
+   "lat": -15.5,
+   "lon": -54.0,
+   "n": 69,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Umotina",
+   "lat": -16.0,
+   "lon": -58.5,
+   "n": 40,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Karaja",
+   "lat": -10.5,
+   "lon": -50.5,
+   "n": 61,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Tapirape",
+   "lat": -12.5,
+   "lon": -51.5,
+   "n": 33,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Cayapo",
+   "lat": -8.0,
+   "lon": -51.0,
+   "n": 102,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Suya,Txukarramae",
+   "lat": -13.0,
+   "lon": -52.0,
+   "n": 35,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Ramkokamekra,Apaniekra",
+   "lat": -6.5,
+   "lon": -44.5,
+   "n": 50,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Craho",
+   "lat": -8.3,
+   "lon": -48.0,
+   "n": 57,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Crenye",
+   "lat": -4.0,
+   "lon": -45.0,
+   "n": 11,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Apinaye",
+   "lat": -6.0,
+   "lon": -48.0,
+   "n": 68,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Shavante",
+   "lat": -14.0,
+   "lon": -51.7,
+   "n": 26,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Sherente",
+   "lat": -10.5,
+   "lon": -48.0,
+   "n": 31,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Kariri",
+   "lat": -11.5,
+   "lon": -40.3,
+   "n": 7,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Ofaie",
+   "lat": -22.0,
+   "lon": -53.0,
+   "n": 23,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Guarani",
+   "lat": -25.5,
+   "lon": -54.0,
+   "n": 81,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Ache",
+   "lat": -25.0,
+   "lon": -55.5,
+   "n": 17,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Kaingang",
+   "lat": -24.5,
+   "lon": -50.0,
+   "n": 26,
+   "b": 0,
+   "s": 0,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Sheta",
+   "lat": -25.5,
+   "lon": -51.5,
+   "n": 6,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Botocudo",
+   "lat": -17.0,
+   "lon": -41.0,
+   "n": 37,
+   "b": 0,
+   "s": 1,
+   "c": 1,
+   "area": "15"
+  },
+  {
+   "name": "Kamakan",
+   "lat": -14.5,
+   "lon": -40.5,
+   "n": 13,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Maxakali",
+   "lat": -18.0,
+   "lon": -42.0,
+   "n": 12,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "15"
+  },
+  {
+   "name": "Caduveo",
+   "lat": -22.0,
+   "lon": -57.0,
+   "n": 50,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "16"
+  },
+  {
+   "name": "Tereno",
+   "lat": -19.5,
+   "lon": -57.0,
+   "n": 15,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "16"
+  },
+  {
+   "name": "Ayoreo",
+   "lat": -20.0,
+   "lon": -60.0,
+   "n": 40,
+   "b": 1,
+   "s": 0,
+   "c": 0,
+   "area": "16"
+  },
+  {
+   "name": "Chamacoco",
+   "lat": -21.0,
+   "lon": -59.0,
+   "n": 107,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "16"
+  },
+  {
+   "name": "Nivakle",
+   "lat": -23.0,
+   "lon": -60.5,
+   "n": 104,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "16"
+  },
+  {
+   "name": "Chorote",
+   "lat": -21.5,
+   "lon": -62.0,
+   "n": 91,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "16"
+  },
+  {
+   "name": "Mataco",
+   "lat": -23.3,
+   "lon": -63.0,
+   "n": 126,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "16"
+  },
+  {
+   "name": "Makka",
+   "lat": -23.5,
+   "lon": -59.0,
+   "n": 80,
+   "b": 1,
+   "s": 0,
+   "c": 1,
+   "area": "16"
+  },
+  {
+   "name": "Lengua, Sanapana",
+   "lat": -24.0,
+   "lon": -59.5,
+   "n": 36,
+   "b": 1,
+   "s": 1,
+   "c": 0,
+   "area": "16"
+  },
+  {
+   "name": "Toba",
+   "lat": -26.0,
+   "lon": -59.0,
+   "n": 132,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "16"
+  },
+  {
+   "name": "Mocovi",
+   "lat": -27.5,
+   "lon": -62.0,
+   "n": 86,
+   "b": 1,
+   "s": 1,
+   "c": 1,
+   "area": "16"
+  },
+  {
+   "name": "Vilela",
+   "lat": -24.5,
+   "lon": -64.5,
+   "n": 11,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "16"
+  },
+  {
+   "name": "Mapuche",
+   "lat": -39.0,
+   "lon": -72.5,
+   "n": 36,
+   "b": 0,
+   "s": 1,
+   "c": 0,
+   "area": "16"
+  },
+  {
+   "name": "Puelche",
+   "lat": -42.0,
+   "lon": -67.5,
+   "n": 9,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "16"
+  },
+  {
+   "name": "Tehuelche",
+   "lat": -47.0,
+   "lon": -69.0,
+   "n": 58,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "16"
+  },
+  {
+   "name": "Selknam",
+   "lat": -54.5,
+   "lon": -68.5,
+   "n": 32,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "16"
+  },
+  {
+   "name": "Yamana",
+   "lat": -55.0,
+   "lon": -71.0,
+   "n": 43,
+   "b": 0,
+   "s": 0,
+   "c": 0,
+   "area": "16"
+  }
+ ],
+ "motif_prevalence": {
+  "bird_people": [
+   {
+    "code": "a26",
+    "name": "The Sun-bird",
+    "n": 4
+   },
+   {
+    "code": "a43a",
+    "name": "Person with a shoe on one foot",
+    "n": 18
+   },
+   {
+    "code": "b34",
+    "name": "Overtaken by the first night",
+    "n": 9
+   },
+   {
+    "code": "b62",
+    "name": "Buzzard husband",
+    "n": 20
+   },
+   {
+    "code": "b72",
+    "name": "The thirsty cuckoo",
+    "n": 20
+   },
+   {
+    "code": "b72b",
+    "name": "Offended one turns into bird",
+    "n": 22
+   },
+   {
+    "code": "b73a",
+    "name": "The cuchoo: in search of lost horse",
+    "n": 7
+   },
+   {
+    "code": "b73b",
+    "name": "The cuckoo: in search of lost sibling",
+    "n": 15
+   },
+   {
+    "code": "e9g",
+    "name": "Vulture-wife",
+    "n": 16
+   },
+   {
+    "code": "e9i",
+    "name": "Swan-wife",
+    "n": 65
+   },
+   {
+    "code": "f42a",
+    "name": "Men turn into birds",
+    "n": 8
+   },
+   {
+    "code": "f52",
+    "name": "Pubic hair for a bird\u2019s crest",
+    "n": 10
+   },
+   {
+    "code": "i1",
+    "name": "The thunderbirds",
+    "n": 166
+   },
+   {
+    "code": "j12m",
+    "name": "Woman turns into duck",
+    "n": 4
+   },
+   {
+    "code": "k1j",
+    "name": "A marooned man returns home before his adversary",
+    "n": 6
+   },
+   {
+    "code": "k22aa",
+    "name": "Humans in the south, birds in the north",
+    "n": 3
+   },
+   {
+    "code": "k24",
+    "name": "Stolen clothes of supernatural woman",
+    "n": 205
+   },
+   {
+    "code": "k25",
+    "name": "Woman from sky-world marries mortal man",
+    "n": 281
+   },
+   {
+    "code": "k25a1",
+    "name": "Magic wife finds her clothes",
+    "n": 80
+   },
+   {
+    "code": "k32c",
+    "name": "True wife turns into owl",
+    "n": 8
+   },
+   {
+    "code": "k42",
+    "name": "Bird-woman kills men (The loon-woman)",
+    "n": 10
+   },
+   {
+    "code": "k53",
+    "name": "Animal skins as metamorphosis amulets",
+    "n": 21
+   },
+   {
+    "code": "k80d",
+    "name": "The stuck in pin",
+    "n": 28
+   },
+   {
+    "code": "k127",
+    "name": "Brothers transform into swans",
+    "n": 52
+   },
+   {
+    "code": "m81a",
+    "name": "Blind duck-women cured",
+    "n": 10
+   },
+   {
+    "code": "m123",
+    "name": "Raven marries goose",
+    "n": 22
+   },
+   {
+    "code": "m123c",
+    "name": "Unlucky flight with migratory birds",
+    "n": 16
+   }
+  ],
+  "cosmic_serpent": [
+   {
+    "code": "b77c",
+    "name": "Serpent pushes sky up",
+    "n": 4
+   },
+   {
+    "code": "i7",
+    "name": "The cloud serpent",
+    "n": 70
+   },
+   {
+    "code": "i7a",
+    "name": "The lightning- serpent",
+    "n": 9
+   },
+   {
+    "code": "i13a",
+    "name": "The horned serpent",
+    "n": 124
+   },
+   {
+    "code": "i13b",
+    "name": "A horned snake",
+    "n": 26
+   },
+   {
+    "code": "i41",
+    "name": "Rainbow serpent",
+    "n": 178
+   },
+   {
+    "code": "i43b",
+    "name": "Milky Way is a serpent or fish",
+    "n": 38
+   },
+   {
+    "code": "i44",
+    "name": "Chthonic serpent",
+    "n": 44
+   },
+   {
+    "code": "i111",
+    "name": "The earth is a reptile",
+    "n": 8
+   }
+  ],
+  "world_centre": [
+   {
+    "code": "b21",
+    "name": "Destruction of the world tree",
+    "n": 8
+   },
+   {
+    "code": "g6",
+    "name": "Primeval tree",
+    "n": 133
+   },
+   {
+    "code": "i8e",
+    "name": "Four supports of the world",
+    "n": 99
+   },
+   {
+    "code": "i8f",
+    "name": "One support of the world",
+    "n": 65
+   },
+   {
+    "code": "i8g",
+    "name": "Atlas",
+    "n": 64
+   },
+   {
+    "code": "i8h",
+    "name": "A man and a woman hold the earth",
+    "n": 5
+   },
+   {
+    "code": "i12",
+    "name": "The world axis",
+    "n": 41
+   },
+   {
+    "code": "i51a",
+    "name": "Bull the earth-holder",
+    "n": 79
+   },
+   {
+    "code": "i52",
+    "name": "Fish the earth-holder",
+    "n": 67
+   },
+   {
+    "code": "i85",
+    "name": "Polaris is a pole, a nail",
+    "n": 49
+   },
+   {
+    "code": "j58b",
+    "name": "The sky door",
+    "n": 7
+   }
+  ]
+ }
+}

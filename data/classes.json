@@ -1,0 +1,321 @@
+{
+ "bird_people": [
+  {
+   "code": "a26",
+   "name": "The Sun-bird",
+   "rule": "thunderbird|sun-bird|bird[\\s-]*man\\b|bird[\\s-]*headed|winged (man|woman|people|person)"
+  },
+  {
+   "code": "a43a",
+   "name": "Person with a shoe on one foot",
+   "rule": "(turn|transform|become|change)\\w*\\s+(into\\s+)?(a\\s+)?(bird|swan|eagle|vulture|crow|raven|owl|hawk|duck|goose|geese|heron|crane|condor)"
+  },
+  {
+   "code": "b34",
+   "name": "Overtaken by the first night",
+   "rule": "(turn|transform|become|change)\\w*\\s+(into\\s+)?(a\\s+)?(bird|swan|eagle|vulture|crow|raven|owl|hawk|duck|goose|geese|heron|crane|condor)"
+  },
+  {
+   "code": "b60",
+   "name": "Offended children abandon parents",
+   "rule": "(turn|transform|become|change)\\w*\\s+(into\\s+)?(a\\s+)?(bird|swan|eagle|vulture|crow|raven|owl|hawk|duck|goose|geese|heron|crane|condor)",
+   "excluded": "offended children abandon parents: transformation is incidental and not necessarily into birds"
+  },
+  {
+   "code": "b62",
+   "name": "Buzzard husband",
+   "rule": "(bird|swan|eagle|vulture|buzzard|condor|crow|raven|owl|hawk|goose|duck)[\\s-]*(wife|husband|woman|man|maiden|lover|paramour|spouse|people|person|mother|father)"
+  },
+  {
+   "code": "b72",
+   "name": "The thirsty cuckoo",
+   "rule": "(turn|transform|become|change)\\w*\\s+(into\\s+)?(a\\s+)?(bird|swan|eagle|vulture|crow|raven|owl|hawk|duck|goose|geese|heron|crane|condor)"
+  },
+  {
+   "code": "b72b",
+   "name": "Offended one turns into bird",
+   "rule": "(turn|transform|become|change)\\w*\\s+(into\\s+)?(a\\s+)?(bird|swan|eagle|vulture|crow|raven|owl|hawk|duck|goose|geese|heron|crane|condor)"
+  },
+  {
+   "code": "b73a",
+   "name": "The cuchoo: in search of lost horse",
+   "rule": "(turn|transform|become|change)\\w*\\s+(into\\s+)?(a\\s+)?(bird|swan|eagle|vulture|crow|raven|owl|hawk|duck|goose|geese|heron|crane|condor)"
+  },
+  {
+   "code": "b73b",
+   "name": "The cuckoo: in search of lost sibling",
+   "rule": "(turn|transform|become|change)\\w*\\s+(into\\s+)?(a\\s+)?(bird|swan|eagle|vulture|crow|raven|owl|hawk|duck|goose|geese|heron|crane|condor)"
+  },
+  {
+   "code": "e9g",
+   "name": "Vulture-wife",
+   "rule": "(bird|swan|eagle|vulture|buzzard|condor|crow|raven|owl|hawk|goose|duck)[\\s-]*(wife|husband|woman|man|maiden|lover|paramour|spouse|people|person|mother|father)"
+  },
+  {
+   "code": "e9i",
+   "name": "Swan-wife",
+   "rule": "(bird|swan|eagle|vulture|buzzard|condor|crow|raven|owl|hawk|goose|duck)[\\s-]*(wife|husband|woman|man|maiden|lover|paramour|spouse|people|person|mother|father)"
+  },
+  {
+   "code": "e15",
+   "name": "Ducks and canoes",
+   "rule": "(turn|transform|become|change)\\w*\\s+(into\\s+)?(a\\s+)?(bird|swan|eagle|vulture|crow|raven|owl|hawk|duck|goose|geese|heron|crane|condor)",
+   "excluded": "ducks and canoes: people learn from birds; no bird-person"
+  },
+  {
+   "code": "f42a",
+   "name": "Men turn into birds",
+   "rule": "(turn|transform|become|change)\\w*\\s+(into\\s+)?(a\\s+)?(bird|swan|eagle|vulture|crow|raven|owl|hawk|duck|goose|geese|heron|crane|condor)"
+  },
+  {
+   "code": "f52",
+   "name": "Pubic hair for a bird\u2019s crest",
+   "rule": "(bird|swan|eagle|vulture|buzzard|condor|crow|raven|owl|hawk|goose|duck)[\\s-]*(wife|husband|woman|man|maiden|lover|paramour|spouse|people|person|mother|father)"
+  },
+  {
+   "code": "i1",
+   "name": "The thunderbirds",
+   "rule": "thunderbird|sun-bird|bird[\\s-]*man\\b|bird[\\s-]*headed|winged (man|woman|people|person)"
+  },
+  {
+   "code": "i86",
+   "name": "Hairs into animals, scales into fish",
+   "rule": "(turn|transform|become|change)\\w*\\s+(into\\s+)?(a\\s+)?(bird|swan|eagle|vulture|crow|raven|owl|hawk|duck|goose|geese|heron|crane|condor)",
+   "excluded": "hairs into animals: creator makes birds, no bird-person"
+  },
+  {
+   "code": "j12m",
+   "name": "Woman turns into duck",
+   "rule": "(turn|transform|become|change)\\w*\\s+(into\\s+)?(a\\s+)?(bird|swan|eagle|vulture|crow|raven|owl|hawk|duck|goose|geese|heron|crane|condor)"
+  },
+  {
+   "code": "k1j",
+   "name": "A marooned man returns home before his adversary",
+   "rule": "(turn|transform|become|change)\\w*\\s+(into\\s+)?(a\\s+)?(bird|swan|eagle|vulture|crow|raven|owl|hawk|duck|goose|geese|heron|crane|condor)"
+  },
+  {
+   "code": "k10f",
+   "name": "Nestlings turn into eagles",
+   "rule": "(turn|transform|become|change)\\w*\\s+(into\\s+)?(a\\s+)?(bird|swan|eagle|vulture|crow|raven|owl|hawk|duck|goose|geese|heron|crane|condor)",
+   "excluded": "nestlings turn into eagles: birds into birds"
+  },
+  {
+   "code": "k11a",
+   "name": "Feathers turn into birds",
+   "rule": "(turn|transform|become|change)\\w*\\s+(into\\s+)?(a\\s+)?(bird|swan|eagle|vulture|crow|raven|owl|hawk|duck|goose|geese|heron|crane|condor)",
+   "excluded": "feathers turn into birds: birds into birds"
+  },
+  {
+   "code": "k22aa",
+   "name": "Humans in the south, birds in the north",
+   "rule": "(turn|transform|become|change)\\w*\\s+(into\\s+)?(a\\s+)?(bird|swan|eagle|vulture|crow|raven|owl|hawk|duck|goose|geese|heron|crane|condor)"
+  },
+  {
+   "code": "k24",
+   "name": "Stolen clothes of supernatural woman",
+   "rule": "feather(s|ed)?\\s+(dress|garment|cloak|coat|costume|skin|clothes)|bird[\\s-]*(skin|costume|dress|garment)|put(s|ting)? on (the )?feathers"
+  },
+  {
+   "code": "k25",
+   "name": "Woman from sky-world marries mortal man",
+   "rule": "(bird|swan|eagle|vulture|buzzard|condor|crow|raven|owl|hawk|goose|duck)[\\s-]*(wife|husband|woman|man|maiden|lover|paramour|spouse|people|person|mother|father)"
+  },
+  {
+   "code": "k25a1",
+   "name": "Magic wife finds her clothes",
+   "rule": "(bird|swan|eagle|vulture|buzzard|condor|crow|raven|owl|hawk|goose|duck)[\\s-]*(wife|husband|woman|man|maiden|lover|paramour|spouse|people|person|mother|father)"
+  },
+  {
+   "code": "k32c",
+   "name": "True wife turns into owl",
+   "rule": "(turn|transform|become|change)\\w*\\s+(into\\s+)?(a\\s+)?(bird|swan|eagle|vulture|crow|raven|owl|hawk|duck|goose|geese|heron|crane|condor)"
+  },
+  {
+   "code": "k42",
+   "name": "Bird-woman kills men (The loon-woman)",
+   "rule": "(bird|swan|eagle|vulture|buzzard|condor|crow|raven|owl|hawk|goose|duck)[\\s-]*(wife|husband|woman|man|maiden|lover|paramour|spouse|people|person|mother|father)"
+  },
+  {
+   "code": "k53",
+   "name": "Animal skins as metamorphosis amulets",
+   "rule": "(turn|transform|become|change)\\w*\\s+(into\\s+)?(a\\s+)?(bird|swan|eagle|vulture|crow|raven|owl|hawk|duck|goose|geese|heron|crane|condor)"
+  },
+  {
+   "code": "k80d",
+   "name": "The stuck in pin",
+   "rule": "(turn|transform|become|change)\\w*\\s+(into\\s+)?(a\\s+)?(bird|swan|eagle|vulture|crow|raven|owl|hawk|duck|goose|geese|heron|crane|condor)"
+  },
+  {
+   "code": "k127",
+   "name": "Brothers transform into swans",
+   "rule": "(turn|transform|become|change)\\w*\\s+(into\\s+)?(a\\s+)?(bird|swan|eagle|vulture|crow|raven|owl|hawk|duck|goose|geese|heron|crane|condor)"
+  },
+  {
+   "code": "m81a",
+   "name": "Blind duck-women cured",
+   "rule": "(turn|transform|become|change)\\w*\\s+(into\\s+)?(a\\s+)?(bird|swan|eagle|vulture|crow|raven|owl|hawk|duck|goose|geese|heron|crane|condor)"
+  },
+  {
+   "code": "m123",
+   "name": "Raven marries goose",
+   "rule": "(bird|swan|eagle|vulture|buzzard|condor|crow|raven|owl|hawk|goose|duck)[\\s-]*(wife|husband|woman|man|maiden|lover|paramour|spouse|people|person|mother|father)"
+  },
+  {
+   "code": "m123c",
+   "name": "Unlucky flight with migratory birds",
+   "rule": "(bird|swan|eagle|vulture|buzzard|condor|crow|raven|owl|hawk|goose|duck)[\\s-]*(wife|husband|woman|man|maiden|lover|paramour|spouse|people|person|mother|father)"
+  }
+ ],
+ "cosmic_serpent": [
+  {
+   "code": "b77c",
+   "name": "Serpent pushes sky up",
+   "rule": "(serpent|snake|dragon)\\s+(pushes|holds|supports|carries|surrounds|encircles|girds)\\s+(the\\s+)?(sky|earth|world)"
+  },
+  {
+   "code": "i7",
+   "name": "The cloud serpent",
+   "rule": "(rainbow|horned|cloud|lightning|celestial|sky|cosmic|chthonic|world|feathered|plumed|winged|giant)[\\s-]*(serpent|snake|dragon)"
+  },
+  {
+   "code": "i7a",
+   "name": "The lightning- serpent",
+   "rule": "(rainbow|horned|cloud|lightning|celestial|sky|cosmic|chthonic|world|feathered|plumed|winged|giant)[\\s-]*(serpent|snake|dragon)"
+  },
+  {
+   "code": "i13a",
+   "name": "The horned serpent",
+   "rule": "(rainbow|horned|cloud|lightning|celestial|sky|cosmic|chthonic|world|feathered|plumed|winged|giant)[\\s-]*(serpent|snake|dragon)"
+  },
+  {
+   "code": "i13b",
+   "name": "A horned snake",
+   "rule": "(rainbow|horned|cloud|lightning|celestial|sky|cosmic|chthonic|world|feathered|plumed|winged|giant)[\\s-]*(serpent|snake|dragon)"
+  },
+  {
+   "code": "i13c",
+   "name": "Snake\u2019s crown",
+   "rule": "snake turns into dragon|snake.?s crown|snake bridge",
+   "excluded": "snake's crown: treasure-guarding snake, not cosmic scale"
+  },
+  {
+   "code": "i24",
+   "name": "A snake bridge",
+   "rule": "snake turns into dragon|snake.?s crown|snake bridge",
+   "excluded": "snake bridge: a snake as a rope over a river, not cosmic scale"
+  },
+  {
+   "code": "i41",
+   "name": "Rainbow serpent",
+   "rule": "(rainbow|horned|cloud|lightning|celestial|sky|cosmic|chthonic|world|feathered|plumed|winged|giant)[\\s-]*(serpent|snake|dragon)"
+  },
+  {
+   "code": "i43b",
+   "name": "Milky Way is a serpent or fish",
+   "rule": "(earth|world|milky way) is a (serpent|snake|reptile)"
+  },
+  {
+   "code": "i44",
+   "name": "Chthonic serpent",
+   "rule": "(rainbow|horned|cloud|lightning|celestial|sky|cosmic|chthonic|world|feathered|plumed|winged|giant)[\\s-]*(serpent|snake|dragon)"
+  },
+  {
+   "code": "i76a",
+   "name": "Snake turns into dragon",
+   "rule": "snake turns into dragon|snake.?s crown|snake bridge",
+   "excluded": "snake turns into dragon: no cosmic role stated"
+  },
+  {
+   "code": "i111",
+   "name": "The earth is a reptile",
+   "rule": "(earth|world|milky way) is a (serpent|snake|reptile)"
+  }
+ ],
+ "world_centre": [
+  {
+   "code": "b21",
+   "name": "Destruction of the world tree",
+   "rule": "world[\\s-]*(axis|tree|pillar|column|mountain|navel|centre|center)|axis mundi|primeval tree|cosmic tree"
+  },
+  {
+   "code": "b42s",
+   "name": "Hit with a projectile",
+   "rule": "(hole|door|opening|window) (in|of) the sky|sky door|sky hole|polaris",
+   "excluded": "hit with a projectile: Polaris as a struck animal, not an axis"
+  },
+  {
+   "code": "g6",
+   "name": "Primeval tree",
+   "rule": "world[\\s-]*(axis|tree|pillar|column|mountain|navel|centre|center)|axis mundi|primeval tree|cosmic tree"
+  },
+  {
+   "code": "i8e",
+   "name": "Four supports of the world",
+   "rule": "support(s)? of the (world|earth|sky)|earth[\\s-]*holder|holds? (up )?the (earth|sky|world)|atlas"
+  },
+  {
+   "code": "i8f",
+   "name": "One support of the world",
+   "rule": "support(s)? of the (world|earth|sky)|earth[\\s-]*holder|holds? (up )?the (earth|sky|world)|atlas"
+  },
+  {
+   "code": "i8g",
+   "name": "Atlas",
+   "rule": "support(s)? of the (world|earth|sky)|earth[\\s-]*holder|holds? (up )?the (earth|sky|world)|atlas"
+  },
+  {
+   "code": "i8h",
+   "name": "A man and a woman hold the earth",
+   "rule": "support(s)? of the (world|earth|sky)|earth[\\s-]*holder|holds? (up )?the (earth|sky|world)|atlas"
+  },
+  {
+   "code": "i12",
+   "name": "The world axis",
+   "rule": "world[\\s-]*(axis|tree|pillar|column|mountain|navel|centre|center)|axis mundi|primeval tree|cosmic tree"
+  },
+  {
+   "code": "i51a",
+   "name": "Bull the earth-holder",
+   "rule": "support(s)? of the (world|earth|sky)|earth[\\s-]*holder|holds? (up )?the (earth|sky|world)|atlas"
+  },
+  {
+   "code": "i52",
+   "name": "Fish the earth-holder",
+   "rule": "support(s)? of the (world|earth|sky)|earth[\\s-]*holder|holds? (up )?the (earth|sky|world)|atlas"
+  },
+  {
+   "code": "i68",
+   "name": "Opening of the sky",
+   "rule": "(hole|door|opening|window) (in|of) the sky|sky door|sky hole|polaris",
+   "excluded": "opening of the sky: calendrical wish-granting, not a centre"
+  },
+  {
+   "code": "i72",
+   "name": "Stars are people",
+   "rule": "(hole|door|opening|window) (in|of) the sky|sky door|sky hole|polaris",
+   "excluded": "stars are people: rule fired on 'Polaris' in a parenthesis"
+  },
+  {
+   "code": "i85",
+   "name": "Polaris is a pole, a nail",
+   "rule": "(hole|door|opening|window) (in|of) the sky|sky door|sky hole|polaris"
+  },
+  {
+   "code": "i85a",
+   "name": "Horses around Polaris",
+   "rule": "(hole|door|opening|window) (in|of) the sky|sky door|sky hole|polaris",
+   "excluded": "horses around Polaris: circumpolar animals, not an axis"
+  },
+  {
+   "code": "i85b",
+   "name": "Polaris is a man",
+   "rule": "(hole|door|opening|window) (in|of) the sky|sky door|sky hole|polaris",
+   "excluded": "Polaris is a man: personification, not an axis"
+  },
+  {
+   "code": "j58b",
+   "name": "The sky door",
+   "rule": "(hole|door|opening|window) (in|of) the sky|sky door|sky hole|polaris"
+  }
+ ]
+}

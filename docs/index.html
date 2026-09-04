@@ -1,0 +1,221 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bird-men, Serpents and the Navel of the World</title>
+<meta name="description" content="Do bird-man, cosmic-serpent and world-centre myths cluster in the cultures the internet says they do? A test on 926 traditions and 2,138 motifs, with every step published.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<style>
+.map { width: 100%; max-width: 1040px; display: block; }
+.map .coast { fill: none; stroke: #c9bfaa; stroke-width: .6; }
+.map .dot { stroke: #fff; stroke-width: .4; }
+.gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; }
+.gallery figure { margin: 0; }
+.gallery img { border: 1px solid var(--rule); border-radius: 4px; }
+table.inv td.desc { font-family: var(--serif); font-size: .95rem; color: var(--ink-soft); }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { font-family: var(--mono); font-size: .68rem; border: 1px solid var(--rule); border-radius: 3px; padding: 2px 7px; color: var(--ink-soft); background: #fff; }
+.chip.on { background: var(--copper); color: var(--paper); border-color: var(--copper); }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="wrap">
+    <div class="eyebrow">Deep Memory test bench &middot; case study 2</div>
+    <h1 style="margin-top:14px">Bird-men, serpents and the navel of the world</h1>
+    <p class="deck">A bird-headed figure with a bag, a serpent, a sacred centre called a navel: the internet finds them in Iran, Assyria, Egypt, Mexico, Anatolia, the Andes and Easter Island, and asks how that could be coincidence. We took the one part of the claim that can be tested against a complete inventory, the myths, and tested it on 926 traditions.</p>
+    <div class="meta">
+      <span><b>Status</b> v0 &middot; narrative motifs only</span>
+      <span><b>Data</b> Berezkin &amp; Duvakin catalogue, 926 traditions &times; 2,138 motifs</span>
+      <span><b>Code &amp; data</b> <a href="https://github.com/ejhong/birdmen">github.com/ejhong/birdmen</a></span>
+      <span><b>Sibling study</b> <a href="https://ejhong.github.io/rongo/">Indus and rongorongo</a></span>
+      <span><b>Built</b> September 2026</span>
+    </div>
+  </div>
+</header>
+
+<nav class="toc"><div class="wrap"><ol>
+  <li><a href="#claim">The claim</a></li>
+  <li><a href="#verdict">Verdict</a></li>
+  <li><a href="#scope">What can be tested</a></li>
+  <li><a href="#data">Data</a></li>
+  <li><a href="#classes">Three motif classes</a></li>
+  <li><a href="#maps">Maps</a></li>
+  <li><a href="#r1">Co-occurrence</a></li>
+  <li><a href="#r2">Named cultures</a></li>
+  <li><a href="#r3">Geography</a></li>
+  <li><a href="#limits">Limits</a></li>
+  <li><a href="#repro">Reproduce</a></li>
+</ol></div></nav>
+
+<main>
+
+<section class="part" id="claim"><div class="wrap">
+  <div class="part-head"><div class="n">01</div><h2>The claim</h2></div>
+  <div class="two">
+    <div class="prose">
+      <p class="lede">The posts pair a Jiroft chlorite "handbag" from Iran (about 3000 BCE) with an Olmec relief from Mexico (about 900 BCE); an Assyrian bird-headed apkallu holding a bucket with Thoth and with a bird-costumed figure from Cacaxtla; the Vulture Stone of Göbekli Tepe (about 9500 BCE) with the carved back of a moai on Easter Island (after 1400 CE). The recurring elements: a bird-man, a serpent, a bag, and a sacred centre named "the navel of the world", as at Cusco and Rapa Nui.</p>
+      <p>The argument is the same one made for the Indus and rongorongo scripts: too many matches to be chance, therefore contact or a shared source. And the reply has to be the same one: "too many" compared to what? Nobody has counted how often these elements co-occur in cultures that had no possible contact, because there was no inventory to count over. For the mythic layer of the claim, there is.</p>
+    </div>
+    <div class="gallery">
+      <figure><img src="img/claim_jiroft_olmec.jpg" alt="Post pairing a Jiroft handbag with an Olmec relief" loading="lazy"><figcaption>Jiroft, Iran, and La Venta, Mexico, as posted.</figcaption></figure>
+      <figure><img src="img/apkallu.jpg" alt="Assyrian bird-headed apkallu with bucket" loading="lazy"><figcaption>Assyrian apkallu with bucket and cone, Nimrud, 9th century BCE.</figcaption></figure>
+      <figure><img src="img/gobekli_moai_poster.jpg" alt="Poster comparing the Göbekli Tepe Vulture Stone and a moai" loading="lazy"><figcaption>A circulating poster: Göbekli Tepe's Pillar 43 beside the back of a moai.</figcaption></figure>
+      <figure><img src="img/cacaxtla.jpg" alt="Cacaxtla bird-man mural" loading="lazy"><figcaption>The Bird Man mural, Cacaxtla, Mexico, c. 700 CE.</figcaption></figure>
+    </div>
+  </div>
+</div></section>
+
+<section class="part" id="verdict"><div class="wrap">
+  <div class="part-head"><div class="n">02</div><h2>The verdict, for the part that can be tested</h2></div>
+  <div class="prose">
+    <div class="verdict">
+      <div class="eyebrow">In one paragraph</div>
+      <p>Myths of people who are or become birds occur in <span data-v="rate_b"></span> of the world's documented traditions, cosmic serpents in <span data-v="rate_s"></span>, and a world axis, tree, pillar or support in <span data-v="rate_c"></span>. All three together occur in <span data-v="bundle_count"></span> traditions, on every inhabited continent. That is more than the <span data-v="indep"></span> expected if the three were independent, but <b>fewer</b> than the <span data-v="curve_mean"></span> expected once you account for the fact that well-documented traditions have more of everything; against 5,000 random three-motif bundles of the same sizes the real bundle ranks <span data-v="surprise_rank"></span> of 5,000, dead average. Of the eight named cultures, only two, the Yucatec Maya and the Cuzco Quechua, carry the full bundle in the catalogue, which random sets of eight cultures match or beat <span data-v="named_p"></span> of the time. And the cosmic-serpent motif is <em>less</em> geographically clustered than a random motif of the same frequency: the signature of independent invention, not of a chain of transmission.</p>
+    </div>
+    <div class="stats">
+      <div class="stat"><div class="num"><span data-v="bundle_count"></span><small> of 926</small></div><div class="lbl">Traditions with bird-people, cosmic serpent and world-centre myths together.</div></div>
+      <div class="stat"><div class="num"><span data-v="surprise_rank"></span><small> / 5,000</small></div><div class="lbl">Rank of the real bundle's co-occurrence excess among random bundles of the same sizes. 1 would be exceptional.</div></div>
+      <div class="stat"><div class="num"><span data-v="named_bundle"></span><small> of 8</small></div><div class="lbl">Named cultures with the full bundle. Random eights of documentation-matched traditions get <span data-v="matched_mean"></span> on average.</div></div>
+      <div class="stat"><div class="num"><span data-v="serpent_pct"></span><small> pct</small></div><div class="lbl">Spatial clustering of the cosmic serpent, as a percentile among random motifs of equal frequency. Low means scattered.</div></div>
+    </div>
+    <p>What this does not touch is the iconography: the bags, the bird costumes carved in stone, the hands on the belly. Section 3 says why, and section 10 says what it would take.</p>
+  </div>
+</div></section>
+
+<section class="part" id="scope"><div class="wrap">
+  <div class="part-head"><div class="n">03</div><h2>What can be tested, and what cannot yet</h2></div>
+  <div class="prose">
+    <p>The Indus and rongorongo test worked because both sides were closed inventories: every sign in each catalogue, and unrelated scripts as controls. Iconographic motifs have no inventory. "Bird-man", "handbag" and "navel" were assembled from all of world art after the fact, each culture contributing its single best-fitting artifact, and the definitions stretched as needed: a chlorite weight, a ritual bucket and a basket become one thing. That is selection from an unbounded set, and no statistic can be computed on it until someone codes a fixed sample of cultures for a fixed list of features without knowing the hypothesis.</p>
+    <p>The mythic layer is different. Yuri Berezkin and Evgeny Duvakin have spent decades coding the presence of roughly 2,500 narrative motifs across about a thousand traditions worldwide, from some 80,000 summarised texts. Their analytical catalogue is public and licensed for non-commercial research. It contains the motifs this claim is about: people who are or become birds, cosmic serpents that hold up the sky or arch as the rainbow, and the world's axis, tree, pillar and supports. So the testable question becomes: <em>do these three motif classes co-occur across the world's traditions more than three unrelated classes would, and do they cluster in the cultures the posts name?</em></p>
+    <p>Two things it cannot say. Göbekli Tepe and Jiroft left no texts, so they are not in any myth catalogue. And "the navel of the world" as a place name, at Cusco or Rapa Nui, is a toponym, not a narrative motif; the catalogue has the world-axis family of motifs instead. Both limits are honest reasons the verdict is narrower than the claim.</p>
+  </div>
+</div></section>
+
+<section class="part" id="data"><div class="wrap">
+  <div class="part-head"><div class="n">04</div><h2>The data</h2></div>
+  <div class="prose">
+    <p>The matrix used here is a 2016 snapshot of the catalogue, parsed into a table by Dmitry Nikolaev's mythology-queries project: 926 traditions by 2,138 motifs, present or absent, with a coordinate for every tradition and English names and definitions for every motif. Each tradition is an ethnolinguistic group or an ancient literary corpus, from the Bushmen to Sumer to the Yamana of Tierra del Fuego. The median tradition has 56 coded motifs; the best documented have over 400 and the thinnest a handful. That unevenness matters and is controlled for below.</p>
+  </div>
+  <figure>
+    <div class="frame plain" id="map-all"></div>
+    <figcaption><b>The 926 traditions.</b> Dot size is the number of motifs coded for the tradition, a measure of how well its folklore is documented. Hover for names. Sixteen macro-areas, coloured.</figcaption>
+  </figure>
+</div></section>
+
+<section class="part" id="classes"><div class="wrap">
+  <div class="part-head"><div class="n">05</div><h2>Three motif classes, defined before looking</h2></div>
+  <div class="prose">
+    <p>Each class is defined by keyword rules applied to the English motif names and definitions, written down before any distribution was examined. A handful of motifs the rules caught on incidental wording were excluded, each with a one-line reason; they are listed here too, struck through, so the choice is auditable. A tradition "has" a class if it has at least one motif in it.</p>
+  </div>
+  <div id="class-tables"></div>
+</div></section>
+
+<section class="part" id="maps"><div class="wrap">
+  <div class="part-head"><div class="n">06</div><h2>Where the motifs are</h2></div>
+  <div class="prose"><p>The maps are the most useful thing on this page. The question "is it strange that culture X and culture Y both have bird-men?" answers itself once you see how much of the world has bird-men.</p></div>
+  <figure>
+    <div class="chart-controls" id="map-controls"></div>
+    <div class="frame plain" id="map-class"></div>
+    <figcaption id="map-cap"></figcaption>
+  </figure>
+</div></section>
+
+<section class="part" id="r1"><div class="wrap">
+  <div class="part-head"><div class="n">07</div><h2>Result 1: do the three classes travel together?</h2></div>
+  <div class="prose">
+    <p>If the bundle were a package handed from culture to culture, traditions that have one part should have the others more often than chance predicts. Two nulls are used, and they disagree in an instructive way.</p>
+    <p><b>Independence.</b> Multiply the three base rates and the number of traditions: <span data-v="indep"></span> traditions would have all three by luck. The observed <span data-v="bundle_count"></span> is more. On its own that looks like a package.</p>
+    <p><b>Documentation-preserving null.</b> But the traditions with the bundle are not a random sample; their median motif count is <span data-v="doc_bundle"></span>, against <span data-v="doc_all"></span> overall. Rich corpora contain everything. The curveball algorithm randomises the whole matrix while keeping every tradition's number of motifs and every motif's number of traditions exactly as they are, then recounts. Across 300 such matrices the bundle appears in <span data-v="curve_mean"></span> ± <span data-v="curve_sd"></span> traditions. The real world has fewer, not more. Given how well each tradition is documented, the three classes co-occur slightly <em>less</em> than they would by chance.</p>
+  </div>
+  <figure>
+    <div class="frame plain" id="fig-curveball"></div>
+    <figcaption><b>Bundle count in 300 documentation-preserving random matrices, with the observed count marked.</b></figcaption>
+  </figure>
+  <div class="prose">
+    <p><b>Random bundles.</b> A second check that needs no model: draw three random motif sets of the same sizes as the real classes (27, 9 and 11 motifs) and measure their co-occurrence excess over independence, 5,000 times. The real bundle ranks <span data-v="surprise_rank"></span> of 5,000. Half of all random three-motif bundles look at least this "connected".</p>
+  </div>
+  <figure>
+    <div class="frame plain" id="fig-surprise"></div>
+    <figcaption><b>Co-occurrence excess of 5,000 random bundles, with the real bundle marked.</b> Excess is (observed − expected) / √expected. The random bundles' median is above the real one.</figcaption>
+  </figure>
+</div></section>
+
+<section class="part" id="r2"><div class="wrap">
+  <div class="part-head"><div class="n">08</div><h2>Result 2: the named cultures</h2></div>
+  <div class="prose">
+    <p>Eight traditions in the catalogue stand for the cultures in the posts. Jiroft and Göbekli Tepe have no texts and are absent; the Olmec are represented by their successors in Mesoamerica, and Cusco by the southern Quechua.</p>
+  </div>
+  <figure>
+    <div class="frame plain"><table class="inv" id="named-table"></table></div>
+    <figcaption><b>Which classes each named tradition holds.</b> The right-hand column is how many motifs the catalogue codes for that tradition at all. Easter Island has fourteen; Sumer twenty-three. Absence there says as much about the corpus as about the culture.</figcaption>
+  </figure>
+  <div class="prose">
+    <p>Two of the eight hold the full bundle. Random sets of eight traditions hold it <span data-v="random_mean"></span> times on average, and random sets matched to these eight on documentation hold it <span data-v="matched_mean"></span> times; the named set matches or exceeds two in <span data-v="named_p"></span> of the matched draws. Not surprising. Note also what is missing: none of the four ancient Near Eastern and Egyptian corpora has a bird-people motif at all in this coding, though the bird-headed apkallu and Thoth are iconographic commonplaces. The myths and the pictures are not the same evidence, which is the point of section 3.</p>
+  </div>
+</div></section>
+
+<section class="part" id="r3"><div class="wrap">
+  <div class="part-head"><div class="n">09</div><h2>Result 3: transmission or convergence?</h2></div>
+  <div class="prose">
+    <p>Berezkin's own headline finding is that motif distributions carry the shape of ancient migrations: motifs cluster along the routes people took. A trait that spread by contact should therefore be spatially clumped; a trait that any culture can invent should be scattered. Moran's I measures clumping, here over each tradition's ten nearest neighbours, and each class is compared with 300 random motif sets of the same frequency.</p>
+  </div>
+  <figure>
+    <div class="frame plain" id="fig-geo"></div>
+    <figcaption><b>Spatial clustering of each class and of the bundle, against random motif sets of equal frequency.</b> Bars are the class; the whisker is the random range. A bar beyond the whisker on the right would suggest a transmitted package.</figcaption>
+  </figure>
+  <div class="prose">
+    <p>Bird-people myths cluster a little more than random, at the <span data-v="bird_pct"></span>th percentile; they are dense in Siberia, the Arctic and the Americas, the path Berezkin associates with the peopling of the New World. The cosmic serpent is the opposite: at the <span data-v="serpent_pct"></span>th percentile it is <em>less</em> clustered than almost any random motif of its frequency, present in Australia, Africa, both Americas and Asia in scattered patches. That is what a motif looks like when it is invented independently wherever there are rainbows and snakes. The world-centre class and the bundle are unremarkable.</p>
+  </div>
+</div></section>
+
+<section class="part" id="limits"><div class="wrap">
+  <div class="part-head"><div class="n">10</div><h2>What this does and does not show</h2></div>
+  <div class="prose">
+    <p><b>It tests myths, not pictures.</b> The bags, the bird costumes and the hands on the belly are untouched. Testing them needs a fixed sample of cultures coded for a fixed feature list by people who do not know the hypothesis, from museum collections chosen in advance. The pipeline for that exists in outline; the coding does not.</p>
+    <p><b>The catalogue is a 2016 snapshot.</b> Berezkin and Duvakin have added several thousand texts a year since; the current catalogue has about 2,500 motifs and nearly a thousand traditions. Rerunning on a fresh parse is the first thing to do, and the classification rules are written so that it is mechanical.</p>
+    <p><b>Ancient corpora are thin.</b> Sumer, Egypt, the Hittites and Easter Island have between fourteen and forty-five coded motifs each. Their absences are weak evidence; their presences are what they are.</p>
+    <p><b>The classes are keyword rules.</b> They are written down, every included and excluded motif is listed, and anyone can propose a different rule and rerun. What cannot be done is to adjust the rules after seeing the maps, which is why they are fixed here.</p>
+    <p><b>What would change the verdict.</b> A bundle count well above the documentation-preserving null; a rank near 1 among random bundles; the named cultures holding the bundle far more often than matched random sets; and spatial clustering of the bundle beyond random, aligned with a plausible route. None of the four appeared.</p>
+  </div>
+</div></section>
+
+<section class="part" id="repro"><div class="wrap">
+  <div class="part-head"><div class="n">11</div><h2>Reproduce it</h2></div>
+  <div class="two">
+    <div class="prose">
+<pre>python -m venv .venv &amp;&amp; . .venv/bin/activate &amp;&amp; pip install numpy
+cd pipeline
+python classes.py      # keyword rules -> data/classes.json (lists every included and excluded motif)
+python analysis.py     # base rates, curveball null, random bundles, named cultures, Moran's I -> data/results/results.json
+python build_site.py   # docs/data/site.json for this page</pre>
+      <p>Runs in under a minute on a laptop. Seeds are fixed. The only judgement calls are the keyword rules and the thirteen exclusions in <code>classes.py</code>, and the mapping of the posts' cultures to catalogue traditions in <code>analysis.py</code>.</p>
+    </div>
+    <div>
+      <table class="inv">
+        <tr><th>Source</th><th>Used for</th></tr>
+        <tr><td><a href="https://www.ruthenia.ru/folklore/berezkin/">Berezkin &amp; Duvakin, Analytical catalogue</a> (CC BY-NC-SA 4.0)</td><td>Motifs, definitions, distributions</td></tr>
+        <tr><td><a href="https://github.com/macleginn/mythology-queries">mythology-queries (D. Nikolaev)</a></td><td>2016 parse of the catalogue into a matrix with coordinates</td></tr>
+        <tr><td><a href="https://www.naturalearthdata.com/">Natural Earth</a></td><td>Coastlines (public domain)</td></tr>
+        <tr><td>Strona et al. 2014, <em>Nature Communications</em> 5:4114</td><td>Curveball randomisation</td></tr>
+      </table>
+    </div>
+  </div>
+  <h3>Appendix: the <span data-v="bundle_count"></span> traditions with all three classes</h3>
+  <div id="bundle-list" class="small"></div>
+</div></section>
+
+</main>
+
+<footer><div class="wrap">
+  Built by Eugene Hong with Claude, September 2026. Second case study of a test bench for claims of long-distance transmission; the first is <a href="https://ejhong.github.io/rongo/">Indus and rongorongo</a>. Corrections welcome: <a href="https://github.com/ejhong/birdmen/issues">open an issue</a>.
+</div></footer>
+
+<script src="app.js"></script>
+</body>
+</html>
