@@ -42,6 +42,7 @@ python pipeline/wobble.py    egyptian anatolian linear_a linear_b cuneiform vai 
 python pipeline/features.py  egyptian_w anatolian_w linear_a_w linear_b_w cuneiform_w vai_w mende_kikakui_w nushu_w yi_w
 cd pipeline && python experiments.py && python -c "import experiments as E; E.wobble_block()" && cd ..
 cd pipeline && python fidelity.py && python fidelity_stats.py && cd ..
+python pipeline/validate_metric.py       # metric sanity check: retrieve each glyph from an independent low-res rendition
 python pipeline/build_site.py
 ```
 
