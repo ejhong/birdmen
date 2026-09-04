@@ -163,7 +163,7 @@
     const all = { ...D.galleries, ...D.wobble_galleries };
     const keys = Object.keys(all);
     const box = document.getElementById("tournament");
-    let hidden = true;
+    let hidden = !(new URLSearchParams(location.search).get("reveal") === "1");   // ?reveal=1 starts with labels shown
     function panel(key) {
       const [a, b] = key.split("|"); const g = all[key];
       const p = el("div", { class: "panel" + (hidden ? " hidden-label" : "") });
