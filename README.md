@@ -1,4 +1,4 @@
-# birdmen — bird-men, serpents and the navel of the world
+# Deep Memory — bird-men, handbags and the navel of the world
 
 Case study 2 of a test bench for claims of long-distance motif transmission (case study 1:
 [Indus and rongorongo](https://github.com/ejhong/rongo)). Social-media posts pair bird-headed
@@ -8,7 +8,11 @@ the myths do. This repo tests whether bird-people, cosmic-serpent and world-cent
 co-occur across the world's traditions more than unrelated motifs would, using the
 Berezkin–Duvakin analytical catalogue (926 traditions × 2,138 motifs, 2016 snapshot).
 
-Results and the full write-up: **https://ejhong.github.io/birdmen/**
+Site: **https://ejhong.github.io/birdmen/**
+
+- `docs/index.html` — the overview: every recurring picture and story (bird-men, handbags, the navel, hands on the belly, serpents, the civilisers), what the lost-source and scholarly accounts each say, what can be tested, and the design of study 3 (the pictures).
+- `docs/myths.html` — study 2: the motif co-occurrence test on the Berezkin catalogue (the results below).
+- Study 1, Indus and rongorongo, lives in its own repo: https://github.com/ejhong/rongo
 
 **Note: this tests myths only, on a 2016 snapshot with thin coverage of the ancient Near East and Easter Island. It does not test the similarity of the pictures, which is the stronger part of the claim and remains open.**
 
