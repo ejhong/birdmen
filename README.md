@@ -10,6 +10,8 @@ Berezkin–Duvakin analytical catalogue (926 traditions × 2,138 motifs, 2016 sn
 
 Results and the full write-up: **https://ejhong.github.io/birdmen/**
 
+**Note: this tests myths only, on a 2016 snapshot with thin coverage of the ancient Near East and Easter Island. It does not test the similarity of the pictures, which is the stronger part of the claim and remains open.**
+
 Short version: all three motif classes are widespread (55%, 37%, 38% of traditions); they
 co-occur in 131 traditions, which is *fewer* than a documentation-preserving null predicts;
 the real bundle ranks 2,996 of 5,000 random bundles; two of the eight named cultures carry
