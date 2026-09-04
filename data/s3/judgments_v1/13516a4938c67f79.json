@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "low-relief carving on a stone surface",
+  "animal figure in profile",
+  "curving or serpentine form",
+  "circular or ring-like motif"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The strongest correspondence is the use of shallow relief to show profile animal/curving forms on a tan stone face, with a circular or ring-like motif also visible in both. The biggest difference is compositional: A is a dense, vertically stacked arrangement with multiple figures and patterned horizontal bands, while B is a much sparser single-panel design with few motifs and little register structure.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0207",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  597
+ ]
+}

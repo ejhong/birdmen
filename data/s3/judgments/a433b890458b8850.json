@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "low relief carved figures on an architectural wall surface",
+  "standing human figures in profile",
+  "bearded male figures with elaborate hair/beard rendering",
+  "figures wearing long garments with patterned pleats/fringes",
+  "registers or horizontal bands of figures",
+  "animal (quadruped) shown in profile",
+  "procession-like alignment of figures along a horizontal band"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both surfaces show low-relief bearded human figures in strict profile with carefully patterned garments and hair, set on large architectural wall panels, and both include animals in profile among the figures. However, A depicts a pair of large-scale supernatural beings \u2014 a griffin-demon with multiple wings and a winged, horned-helmeted figure raising weapons in combat gesture \u2014 whereas B shows small-scale repeated files of unwinged attendants and led animals in stacked processional registers, so the relationships (confrontation of monsters vs. orderly procession) and scale/arrangement differ markedly.",
+ "a": "assyria_0059",
+ "b": "persepolis_0051",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  379
+ ]
+}

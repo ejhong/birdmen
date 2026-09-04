@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  8,
+  2,
+  4,
+  5,
+  6,
+  10,
+  3,
+  9,
+  7
+ ],
+ "most_similar_reason": "Candidate 1 is most similar because it shows a vertical surface covered with multiple schematic low-relief pictographic figures\u2014especially animal-like forms and repeated sign-like elements\u2014arranged in a stacked, non-naturalistic manner much like the target\u2019s registered animal-and-symbol composition.",
+ "least_similar_reason": "Candidate 7 is least similar because it is dominated by an abstract interlace/cross-and-triangle geometric design rather than the target\u2019s combination of stylized animals, possible human forms, and repeated pictorial signs.",
+ "set": "moai_iso_among_random",
+ "i": 32,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0152",
+  "maya_0011",
+  "tanum_0325",
+  "maya_0051",
+  "assyria_0051",
+  "gotland_0113",
+  "gotland_0005",
+  "rapa_nui_hoa_iso",
+  "tanum_0339",
+  "persepolis_0004"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "tanum",
+  "gotland",
+  "maya",
+  "persepolis",
+  "tanum",
+  "gotland",
+  "maya",
+  "assyria",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 2
+}

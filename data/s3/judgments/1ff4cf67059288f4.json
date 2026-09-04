@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "profile bird or bird-like animal",
+  "profile quadruped/animal figures",
+  "snake-like or curved linear animal forms",
+  "small circles or discs",
+  "horizontal bands/registers",
+  "rows of repeated abstract rectilinear signs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "The strongest correspondence is the combination of schematic profile animals\u2014especially bird-like figures\u2014small discs, snake-like curves, and repeated rectilinear signs organized in horizontal registers. The biggest difference is that A is dominated by a dense lower scene with a large winged bird/scorpion-like and human-like forms, while B has a different vertical sequence of panels with large birds/quadrupeds and more separated emblematic motifs.",
+ "a": "maya_0083",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  1210
+ ]
+}

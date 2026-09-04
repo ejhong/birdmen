@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  3,
+  10,
+  4,
+  8,
+  2,
+  7,
+  9,
+  1,
+  5
+ ],
+ "most_similar_reason": "Candidate 6, like the target, shows animals rendered in shallow low relief in strict profile, stacked and overlapping in a horizontal band across a large stone surface, with the animal bodies given simple outlined, schematically patterned interiors rather than modelled naturalism.",
+ "least_similar_reason": "Candidate 5 shows only a faint, largely featureless surface with a single indistinct figural relief and no animals, snakes, birds or geometric sign-bands of the kind that dominate the target.",
+ "set": "moai_among_random",
+ "i": 0,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "egypt_0014",
+  "maya_0130",
+  "assyria_0112",
+  "assyria_0088",
+  "assyria_0134",
+  "persepolis_0084",
+  "maya_0094",
+  "tanum_0325",
+  "maya_0048",
+  "rapa_nui_0113"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "maya",
+  "tanum",
+  "assyria",
+  "assyria",
+  "persepolis",
+  "assyria",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 3
+}

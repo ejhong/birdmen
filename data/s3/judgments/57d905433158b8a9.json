@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figure in profile, striding, bearded, wearing headgear",
+  "quadruped animal in profile with legs shown striding",
+  "figures arranged in a single horizontal register on a ground line",
+  "low-relief profile composition with all figures facing the same direction",
+  "decorative border band at the base"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show a horizontal frieze of profile figures striding on a ground line, combining a bearded, capped human figure with a large quadruped rendered in profile with carefully articulated legs and hooves/paws, in a comparable naturalistic low-relief convention with anatomical detail. The decisive difference is that B's beings are hybrid and winged (bird-headed lion-body, horned-helmeted winged man with weapon) and are juxtaposed without interaction, whereas A shows a naturalistic burden animal being led by a human attendant holding its lead, above a rosette border, i.e. a tribute/procession relationship rather than a pair of supernatural guardians.",
+ "a": "persepolis_0030",
+ "b": "assyria_0059",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  858
+ ]
+}

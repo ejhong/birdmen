@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "upright carved stone surface",
+  "horizontal band/register of repeated pattern",
+  "animal or creature forms in profile",
+  "round eye/disc-like details"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of carved relief on an upright stone with horizontal patterned bands separating or framing figural motifs. The biggest difference is that A is dominated by a dense, frontal anthropomorphic figure with high-relief modeling, while B is organized as flatter, incised registers of profile animals and abstract signs.",
+ "a": "maya_0019",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1230,
+  647
+ ]
+}

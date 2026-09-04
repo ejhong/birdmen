@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  1,
+  10,
+  3,
+  5,
+  9,
+  4,
+  2,
+  7,
+  8
+ ],
+ "most_similar_reason": "Candidate 6 features a similar arrangement of stylized animal forms in low relief.",
+ "least_similar_reason": "Candidate 8 depicts a ship in a fundamentally different linear style.",
+ "set": "hard",
+ "i": 8,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "tanum_0359",
+  "gotland_0116",
+  "egypt_0012",
+  "gotland_0115",
+  "egypt_0027",
+  "maya_0047",
+  "gotland_0125",
+  "gotland_0123",
+  "gotland_0133",
+  "rapa_nui_0113"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "gotland",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "gemini",
+ "planted_rank": 3
+}

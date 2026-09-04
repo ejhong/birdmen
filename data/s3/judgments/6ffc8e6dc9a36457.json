@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "profile creatures",
+  "bird-like forms in profile",
+  "standing anthropomorphic figure",
+  "rows or bands of repeated signs or motifs",
+  "linear schematic symbols"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific overlap is that both surfaces include schematic profile beings and repeated sign-like motifs arranged in ordered bands or fields. The major difference is that A shows a highly organized scene with standing human figures, a large disc emitting rays, and dense columns of script-like signs, while B is dominated by stacked animal/symbol reliefs without the same disc-and-figures composition or relationships.",
+ "a": "egypt_0028",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  670
+ ]
+}

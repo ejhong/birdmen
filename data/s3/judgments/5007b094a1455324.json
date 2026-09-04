@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "round-topped stele field with figural scene above and text below",
+  "human figures in profile, standing",
+  "figure with arms raised in adoration/gesture toward another figure",
+  "figures facing one another across the scene",
+  "offering stand / altar-like support between figures",
+  "hieroglyph-like script signs arranged in horizontal ruled lines",
+  "short vertical/columnar label inscriptions beside figures",
+  "solar disc motif (winged disc in A, disc-topped headgear in A)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "7",
+ "justification": "Both surfaces use the same distinctive scheme: an arched panel whose upper field holds schematic profile human figures confronting each other across a small offering stand, with one party gesturing/raising hands toward the other, while the lower field is filled with several ruled horizontal lines of the same kind of pictographic script, plus short vertical label texts beside the figures. The main differences in depicted content are the winged sun disc spanning the top of A and its crowded row of many small paired figures, against B's single large pair of figures at near-full panel height with no winged disc.",
+ "a": "egypt_0070",
+ "b": "egypt_0071",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  2974,
+  779
+ ]
+}

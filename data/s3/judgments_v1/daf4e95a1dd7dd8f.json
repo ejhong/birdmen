@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "quadruped animal shown in profile",
+  "horizontal band of repeating motifs running across the surface",
+  "plant or tree motif with radiating branches",
+  "stone carved in low/mid relief",
+  "registers stacked above one another",
+  "small animal figures in a row"
+ ],
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces organise their imagery into stacked horizontal registers separated by a band of repeating motif, with profile quadrupeds and a branching plant/tree form appearing below the band. The rendering, however, is utterly different: A is a smooth, precisely modelled, evenly spaced processional frieze of clothed human figures and modelled beasts, while B is a coarse, weathered, flat-cut pillar with schematic, irregularly placed animals and no human procession.",
+ "a": "persepolis_0000",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2058,
+  649
+ ]
+}

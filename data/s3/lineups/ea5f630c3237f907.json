@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  10,
+  1,
+  8,
+  2,
+  7,
+  3,
+  9,
+  4,
+  5
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it also presents a vertically organized, highly schematic frontal supernatural/anthropomorphic form with a prominent mask-like upper face, paired eye motifs, banded/curving facial elements, and stacked relief details on a narrow upright surface.",
+ "least_similar_reason": "Candidate 5 is least similar because it shows essentially an undecorated upright slab in a landscape setting, with none of the target\u2019s distinctive frontal mask, circular facial elements, or carved iconographic arrangement.",
+ "set": "p43_iso_among_monoliths",
+ "i": 27,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0088",
+  "maya_0138",
+  "egypt_0046",
+  "egypt_0064",
+  "maya_0000",
+  "anatolia_ppn_p43iso",
+  "maya_0092",
+  "maya_0136",
+  "egypt_0066",
+  "maya_0087"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

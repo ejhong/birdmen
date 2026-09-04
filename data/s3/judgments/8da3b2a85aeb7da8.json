@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "human figures in profile",
+  "bearded male figures with elaborately patterned hair/headdress",
+  "figures with one arm raised/extended forward",
+  "patterned, fringed or detailed garments",
+  "low relief frieze arranged in a single horizontal register",
+  "figures aligned along a common groundline",
+  "framing horizontal bands/borders"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces show a horizontal frieze of strictly profile, bearded male figures in low relief with the same conventions of finely incised hair, beard and patterned drapery, arms extended forward at chest height along a shared groundline. The subjects differ substantially, however: A centres on an enthroned figure holding a bowl attended by a standing servant with a staff, while B is a procession of attendants leading horned rams beside a stylised tree with rosette-band borders and no seated figure or animals in common.",
+ "a": "assyria_0138",
+ "b": "persepolis_0075",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3174,
+  740
+ ]
+}

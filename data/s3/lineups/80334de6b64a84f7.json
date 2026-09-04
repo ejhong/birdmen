@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  3,
+  6,
+  2,
+  9,
+  8,
+  1,
+  5,
+  10,
+  4
+ ],
+ "most_similar_reason": "Candidate 7 shows a single full-length standing human figure occupying the surface, with an elaborate headdress and dense costume ornaments, matching the target's anthropomorphic form, headdress-like upper mass, and large ornamental disk.",
+ "least_similar_reason": "Candidate 4 shows only repeating geometric triangles and diamonds with no human figure, disk, headdress, or any comparable figurative or symbolic arrangement.",
+ "set": "p43_iso_among_monoliths",
+ "i": 7,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "gotland_0128",
+  "egypt_0067",
+  "maya_0136",
+  "egypt_0045",
+  "egypt_0061",
+  "maya_0097",
+  "maya_0094",
+  "anatolia_ppn_p43iso",
+  "egypt_0046",
+  "gotland_0007"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "egypt",
+  "gotland",
+  "maya",
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt"
+ ],
+ "model": "grok",
+ "planted_rank": 6
+}

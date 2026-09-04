@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief carving on a monument surface",
+  "circular/disc motifs with interior detail",
+  "curvilinear scroll-like forms",
+  "stylized face or mask-like features (eye, brow)",
+  "dense overlapping motifs covering the field"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces show shallow relief carving of curvilinear, rounded motifs including discs with interior dots and mask/eye-like elements filling the field, and both use a schematic outline-and-boss convention rather than naturalistic modelling. However, A presents a legible composition of glyph-like blocks arranged in ordered columns beside a costumed figure, while B shows only a few large, isolated, ambiguous rounded forms with no comparable register or glyphic ordering, so the shared traits are generic rather than a common scheme.",
+ "a": "maya_0039",
+ "b": "rapa_nui_0052",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3224,
+  320
+ ]
+}

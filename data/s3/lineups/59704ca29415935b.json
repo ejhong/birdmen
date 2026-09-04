@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  9,
+  10,
+  1,
+  3,
+  6,
+  5,
+  7,
+  2,
+  4
+ ],
+ "most_similar_reason": "Candidate 8 shows the same thing: a large upright stone block/pillar bearing a low-relief, rounded, schematic animal-like form carved directly on its face, with no figural scene, no text register and no framing border.",
+ "least_similar_reason": "Candidate 4 is a rectangular framed panel dominated by a human figure standing before an offering table with an attendant and multiple ruled lines of dense sign-writing, which shares none of the target's single abstract animal-form relief on an unframed block.",
+ "set": "same_control_monoliths",
+ "i": 38,
+ "target": "anatolia_ppn_0244",
+ "planted": "anatolia_ppn_0179",
+ "cands": [
+  "maya_0106",
+  "egypt_0072",
+  "maya_0158",
+  "egypt_0071",
+  "egypt_0039",
+  "egypt_0046",
+  "egypt_0066",
+  "anatolia_ppn_0179",
+  "egypt_0061",
+  "gotland_0128"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "egypt",
+  "gotland",
+  "maya",
+  "egypt",
+  "egypt",
+  "egypt",
+  "egypt",
+  "egypt",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

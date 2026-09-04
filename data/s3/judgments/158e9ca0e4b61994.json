@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "standing frontal human figure occupying most of the field",
+  "elaborate headdress above the figure",
+  "tall vertical slab-shaped surface with single dominant figure",
+  "band of glyph-like signs along the lower edge",
+  "ornate costume elements / dangling regalia at the figure's sides",
+  "held or cradled object across the figure's body"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "3",
+ "style_similarity": "2",
+ "gestalt_similarity": "3",
+ "overall": "7",
+ "justification": "Both depict a single standing, frontally posed elaborately costumed human figure filling a tall upright field, with a large headdress at the top, ornamented regalia flanking the body, and a basal register of glyph-like signs beneath the feet \u2014 a highly specific and conventional scheme unlikely to arise independently. The main difference is that A's low-relief detail (serpentine/mask motifs in the headdress, a distinct bar-like item held across the chest) is legible while B's figure is far more summarily readable, so finer relationships between the figure's hands and attributes cannot be matched confidently.",
+ "a": "maya_0027",
+ "b": "maya_0082",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  2999,
+  365
+ ]
+}

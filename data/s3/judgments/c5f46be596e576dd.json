@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "standing/frontal human figure carved on an upright monolithic slab",
+  "figure occupying the full height of the surface",
+  "large head with prominent headdress or headgear at top",
+  "low-relief circular disc/rosette ornaments on the chest or torso",
+  "broad band across the lower body (belt/loincloth or apron)",
+  "schematic, low-relief carving of body ornament rather than modelled anatomy",
+  "legs/feet rendered small at the base"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "3",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both depict a single frontal standing personage carved in low relief over the whole face of a tall upright slab, with a large elaborated head at the top, disc-like ornaments on the chest, and a broad band across the hips above stubby legs \u2014 a fairly specific shared scheme of a figure defined by ornament rather than modelled anatomy. The main differences are that A shows a densely detailed costume with hanging plumes, elaborate panels and much finer surface incision, while B is far more reduced and blocky, with a jutting beak-like head and only a few isolated motifs on an otherwise plain torso.",
+ "a": "maya_0101",
+ "b": "rapa_nui_0034",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2999,
+  403
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  5,
+  9,
+  7,
+  10,
+  3,
+  2,
+  8,
+  4,
+  6
+ ],
+ "most_similar_reason": "Both somewhat utilize horizontal divisions to organize profile figures and smaller symbolic motifs on a vertical surface.",
+ "least_similar_reason": "It entirely lacks figurative or recognizable geometric imagery, consisting only of dense horizontal script.",
+ "set": "moai_iso_among_monoliths",
+ "i": 9,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0073",
+  "gotland_0111",
+  "gotland_0116",
+  "gotland_0131",
+  "maya_0137",
+  "egypt_0069",
+  "maya_0101",
+  "rapa_nui_hoa_iso",
+  "maya_0053",
+  "maya_0147"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "egypt",
+  "gotland",
+  "maya",
+  "gotland",
+  "maya",
+  "maya",
+  "egypt"
+ ],
+ "model": "gemini",
+ "planted_rank": 8
+}

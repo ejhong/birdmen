@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  2,
+  5,
+  8,
+  4,
+  10,
+  3,
+  7,
+  9,
+  1
+ ],
+ "most_similar_reason": "Candidate 6 is closest because it shows the same kind of narrow upright surface bearing schematic raised animal figures arranged vertically, including a prominent elongated profile creature with comparable simplified body and limbs.",
+ "least_similar_reason": "Candidate 1 is least similar because it depicts a detailed frontal human/divine figure with elaborate costume and headdress rather than a sparse vertical pillar surface with schematic animal reliefs.",
+ "set": "same_control_monoliths",
+ "i": 8,
+ "target": "anatolia_ppn_0027",
+ "planted": "anatolia_ppn_0086",
+ "cands": [
+  "maya_0052",
+  "rapa_nui_0054",
+  "egypt_0046",
+  "rapa_nui_0046",
+  "maya_0047",
+  "anatolia_ppn_0086",
+  "egypt_0044",
+  "maya_0069",
+  "rapa_nui_0006",
+  "egypt_0048"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "rapa_nui",
+  "maya",
+  "egypt",
+  "maya",
+  "rapa_nui",
+  "egypt",
+  "rapa_nui",
+  "maya",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

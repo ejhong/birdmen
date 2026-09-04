@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  1,
+  8,
+  9,
+  5,
+  6,
+  2,
+  3,
+  10,
+  4
+ ],
+ "most_similar_reason": "Candidate 7 is, like the target, a tall upright monolithic stone slab covered in shallow, densely packed low-relief carving arranged in stacked registers, with the same raking light picking out worn, softly rounded forms.",
+ "least_similar_reason": "Candidate 4 is a smooth arched slab bearing only ruled lines of incised script with no animal or figural imagery at all, lacking the target's bold pictorial relief of creatures and banded motifs.",
+ "set": "moai_among_random",
+ "i": 13,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "maya_0085",
+  "persepolis_0069",
+  "persepolis_0043",
+  "egypt_0049",
+  "egypt_0046",
+  "egypt_0074",
+  "maya_0138",
+  "egypt_0068",
+  "rapa_nui_0113",
+  "tanum_0078"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "tanum",
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "persepolis",
+  "persepolis",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

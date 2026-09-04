@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "profile bird or animal figures",
+  "circular or oval forms",
+  "horizontal bands or registers",
+  "incised/relief carving on an upright stone surface"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both are upright stone surfaces divided or structured by horizontal zones and populated with profile creatures and small carved signs or forms. The biggest difference is that A is a dense, orderly field of small linear signs and repeated seated figures, while B is dominated by larger, rougher animal reliefs arranged more sparsely and irregularly.",
+ "a": "egypt_0064",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  654
+ ]
+}

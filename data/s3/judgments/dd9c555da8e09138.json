@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "standing figure in profile",
+  "one hand raised holding an object",
+  "detailed pleated/fringed garment",
+  "single figure composition on a vertical panel"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both panels show a single large standing figure in profile, rendered in low relief with intricately carved pleated garments and one arm extended holding an object, giving a superficially similar processional composition. However, the specific iconography differs sharply: A depicts a winged, eagle-headed composite being holding a bucket and cone within a floral/rosette border under an inscription band, while B shows a fully human guard wearing a crenellated crown and gripping a long vertical spear, with no wings, animal features, floral framing, or text.",
+ "a": "assyria_0120",
+ "b": "persepolis_0035",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  3099,
+  913
+ ]
+}

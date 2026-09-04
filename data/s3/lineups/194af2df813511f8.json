@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  5,
+  4,
+  3,
+  7,
+  1,
+  2,
+  6,
+  10,
+  9
+ ],
+ "most_similar_reason": "Candidate 8, like the target, is a tall upright stone carved as a single frontal schematic anthropomorph occupying the whole shaft \u2014 a broad headdress/head zone above, a prominent circular disc or boss at the chest, and curved banded elements framing the torso below \u2014 rather than a picture-panel of separate scene figures.",
+ "least_similar_reason": "Candidate 9 shows essentially a bare, unworked stone surface with no identifiable figures, discs, bands or motifs at all, so there is nothing in its depicted content that corresponds to the target's schematic body imagery.",
+ "set": "p43_iso_among_monoliths",
+ "i": 26,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "egypt_0047",
+  "egypt_0074",
+  "anatolia_ppn_p43iso",
+  "gotland_0131",
+  "gotland_0007",
+  "egypt_0071",
+  "egypt_0041",
+  "maya_0130",
+  "maya_0125",
+  "egypt_0064"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "gotland",
+  "egypt",
+  "maya",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

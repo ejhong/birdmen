@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human or anthropomorphic figure",
+  "head or face",
+  "circle or disc motif",
+  "incised linear details"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The only real correspondences are generic: both include human/anthropomorphic imagery and circular forms, such as the discs on A and the wheel or round details in B. A is a single frontal, highly abstract body covered with simple motifs, while B is a crowded narrative scene with profile humans, horses, a chariot, weapons, and a winged/bird-like emblem, so the depicted content and arrangement are fundamentally different.",
+ "a": "rapa_nui_0113",
+ "b": "assyria_0047",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  446
+ ]
+}

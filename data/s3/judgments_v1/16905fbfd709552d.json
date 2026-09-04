@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "horizontal band or line with repeated short strokes",
+  "schematic animal-like figure in profile",
+  "curved or serpentine line",
+  "small round mark or disc"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "3",
+ "justification": "The most specific visible correspondence is the use of horizontal linear bands carrying repeated short vertical or oblique strokes, with some nearby schematic animal-like and curved motifs. The biggest difference is that A is a loose field of thin red painted line drawings, including long boat-like forms, while B is a deeply carved upright stone organized into stacked relief panels.",
+ "a": "tanum_0338",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  654
+ ]
+}

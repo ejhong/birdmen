@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic human or anthropomorphic figure",
+  "circular marks or discs",
+  "curved linear/geometric bands"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The only real overlap is generic schematic anthropomorphic imagery and simple circular/curved linear marks; A has stick-like human figures while B has a frontal anthropomorphic body or face with circular features. The biggest difference is that A is dominated by repeated long boat-like forms with ribbing and rows of dots, whereas B centers on a single large frontal figure with facial/body features and no comparable boats or repeated scene structure.",
+ "a": "tanum_0328",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  530
+ ]
+}

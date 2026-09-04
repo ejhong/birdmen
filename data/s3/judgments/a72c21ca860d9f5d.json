@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "animal shown in profile",
+  "curvilinear/spiral body forms"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces show curvilinear, sinuous forms suggestive of an animal-like body in profile, but image A's carving is abstract and eroded enough that specific anatomy is hard to confirm, while image B clearly depicts a horse-like animal with a rider holding reins, framed by a geometric border. The specific combination in B (mounted rider, reins, bordered panel) has no clear counterpart in A, making the correspondence generic rather than iconographically specific.'}",
+ "a": "rapa_nui_0070",
+ "b": "gotland_0115",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  3349,
+  252
+ ]
+}

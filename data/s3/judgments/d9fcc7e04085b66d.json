@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low-relief carved figures on a stone surface",
+  "animals shown in profile",
+  "quadrupeds/creatures in a row",
+  "bird-like head with beak in profile",
+  "repeated figures arranged in a horizontal frieze band",
+  "raised-arm / upward-reaching limbs motif"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces present low-relief figures arranged as a horizontal frieze of repeated creatures in profile, with beaked/animal heads and limbs raised upward, and both combine animal and quasi-anthropomorphic bodies in a single register. However, A stacks several distinct registers with a large predator/bird above a smaller crouching figure and a separate long-necked bird below, plus abstract linear motifs, while B shows a single continuous row of near-identical dancing-like figures with arms lifted overhead and no comparable multi-register or symbolic elements.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0218",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  344
+ ]
+}

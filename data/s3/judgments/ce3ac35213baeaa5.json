@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "quadruped animal in profile",
+  "human figure",
+  "horizontal band or register",
+  "repeated geometric/pattern motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest correspondence is that both include profile quadrupeds and some human/anthropomorphic figures arranged with horizontal bands or registers. The biggest difference is that A shows a relatively coherent procession of horned animals associated with two human figures and a tree, while B is a stacked field of schematic animals and signs without the same human-animal grouping or procession.",
+ "a": "persepolis_0020",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  659
+ ]
+}

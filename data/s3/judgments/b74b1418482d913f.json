@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "human figures in strict profile",
+  "low-relief carving with flat raised planes",
+  "elaborately curled/beaded hair and beards rendered as regular rows of curls",
+  "long fringed or patterned garments on standing figures",
+  "figures holding objects in outstretched hands",
+  "procession of figures facing in one direction",
+  "register organisation with a horizontal border band at top and bottom"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both show bearded male figures in strict profile with stylised rows of tight curls in hair and beard, wearing long garments and carrying/holding objects, set in a horizontal register bounded by decorative bands, with figures facing and advancing in one direction \u2014 a conventional, non-universal combination of traits suggesting a shared relief tradition. The main differences in content are that A is a close confrontation of two large facing figures with drinking/pouring vessels and a weapon, while B is a multi-figure procession that includes led rams and a stylised tree, plus rosette borders absent from A.",
+ "a": "assyria_0095",
+ "b": "persepolis_0000",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  372
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "standing human figure, frontal/upright",
+  "head with headgear or cap-like top",
+  "arms bent with hands brought to the front of the torso",
+  "single figure occupying the full height of the field"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict a single upright human figure filling the field, with a distinct head covering and arms bent so the hands meet in front of the body, which is the only real correspondence. Otherwise A is a highly schematic, near-abstract three-dimensional figure with featureless face and no attributes, while B is a detailed profile figure in a pleated robe holding a long spear with a bow and quiver at the shoulder \u2014 different conventions and a different iconographic content.",
+ "a": "anatolia_ppn_0121",
+ "b": "persepolis_0037",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3024,
+  274
+ ]
+}

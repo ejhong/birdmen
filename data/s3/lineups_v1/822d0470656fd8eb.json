@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  8,
+  5,
+  3,
+  1,
+  7,
+  9,
+  6,
+  10,
+  2
+ ],
+ "most_similar_reason": "Candidate 4, like the target, is a free-standing monolithic stone pillar whose whole body is covered in shallow, weathered low-relief motifs that follow the block's contours rather than a flat framed panel.",
+ "least_similar_reason": "Candidate 2 shows only a rough, largely undecorated stone construction with no carved figures, rings or curvilinear reliefs, so it shares neither the target's imagery nor its sculpted monolithic form.",
+ "set": "p43_among_random",
+ "i": 7,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "assyria_0071",
+  "catalhoyuk_0065",
+  "assyria_0000",
+  "anatolia_ppn_p43full",
+  "tanum_0321",
+  "persepolis_0099",
+  "assyria_0151",
+  "assyria_0122",
+  "persepolis_0071",
+  "persepolis_0012"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "persepolis",
+  "assyria",
+  "tanum",
+  "persepolis",
+  "assyria",
+  "persepolis",
+  "assyria",
+  "assyria",
+  "catalhoyuk"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

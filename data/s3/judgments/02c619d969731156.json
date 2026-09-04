@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "frontal anthropomorphic figure or idol",
+  "face with eyes and mouth",
+  "bilaterally symmetrical body layout",
+  "paired round/circular elements on upper torso",
+  "central circular disc or medallion on torso",
+  "linear/geometric ornament on the body",
+  "horizontal or curved bands across the torso"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show a vertically oriented, frontal anthropomorphic idol-like figure with a face above a decorated torso, including paired circular elements and a central round motif arranged symmetrically. The biggest difference is that A is a sparse, highly schematic torso/head with simple incised bands and discs, while B is a densely filled standing figure with explicit limbs, hands, headdress, flanking/stacked figures, and elaborate zoomorphic or scroll ornament.",
+ "a": "rapa_nui_0113",
+ "b": "maya_0106",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1804,
+  710
+ ]
+}

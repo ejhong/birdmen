@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  3,
+  9,
+  8,
+  2,
+  10,
+  6,
+  7,
+  1,
+  5
+ ],
+ "most_similar_reason": "Candidate 4 likewise shows a tall upright pillar whose whole face is covered with low-relief figures stacked in vertical registers, the same combination of monolith-as-body and carved creatures that defines the target.",
+ "least_similar_reason": "Candidate 5 shows only a blank, featureless surface with no identifiable animals, figures or motifs at all, so there is nothing in its depicted content to correspond with the target's registers of animals.",
+ "set": "moai_close_among_random",
+ "i": 5,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "egypt_0009",
+  "tanum_0074",
+  "rapa_nui_0004",
+  "maya_0152",
+  "egypt_0035",
+  "egypt_0037",
+  "catalhoyuk_0025",
+  "assyria_0135",
+  "catalhoyuk_0039",
+  "gotland_0133"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "tanum",
+  "maya",
+  "catalhoyuk",
+  "assyria",
+  "catalhoyuk",
+  "egypt",
+  "gotland",
+  "egypt",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

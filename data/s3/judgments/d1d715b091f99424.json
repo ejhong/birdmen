@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "human figure in strict profile, low relief",
+  "elaborately patterned hair and beard rendered as rows of curls",
+  "stylized plant/tree with schematic foliage",
+  "rosette / multi-petalled flower motif",
+  "bare muscular arm with defined wrist and hand",
+  "textured infill conventions (fleece, feathers, hair as repeated pattern units)",
+  "figure facing and gesturing/holding toward an object"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict profile human figures in shallow relief with the same conventions \u2014 curled beard/hair rendered as regimented rows, defined bare forearms, and dense patterned infill for hair, fleece or feathers \u2014 and both include stylised plants and multi-petalled rosettes, which together suggests a shared carving idiom. The depicted subjects differ substantially, however: A is a horizontal processional register of ordinary men leading rams past a tree, framed by rosette borders, whereas B is a single large winged, elaborately crowned figure raising a hand toward a stylised palmette-rosette plant, with no procession, animals or border bands.",
+ "a": "persepolis_0082",
+ "b": "assyria_0160",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  783
+ ]
+}

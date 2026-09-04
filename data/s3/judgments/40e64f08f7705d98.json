@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "bearded male human figure in strict profile",
+  "hair and beard rendered as rows of tight curls",
+  "headband/fillet around head",
+  "arm extended forward with hand grasping/held out",
+  "fringed or patterned garment",
+  "surface texture rendered as repeated scale/feather-like units",
+  "low-relief figure against blank ground",
+  "earring/armlet-type ornament (B) and headdress detail (A)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict bearded men in strict profile with the same distinctive convention of hair and beard as dense rows of tight curls, a fillet on the head, forward-extended grasping arm and richly patterned fringed dress, with textured surfaces built from repeated scale-like units (fleece in A, feathers in B) \u2014 a fairly specific shared repertoire of figural conventions. The subjects differ substantially, however: A is a horizontal procession of two men leading a pair of horned rams, while B is a single tall wing-bearing figure holding a staff and small objects, with no animals and a vertical single-figure panel format.",
+ "a": "persepolis_0064",
+ "b": "assyria_0158",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3124,
+  810
+ ]
+}

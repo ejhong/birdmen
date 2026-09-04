@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "carved stone surface",
+  "repeated chevron or V-shaped pattern",
+  "horizontal bands or registers",
+  "incised/low-relief linear carving",
+  "circle or disc-like marks"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of repeated chevron/V motifs and band-like organization carved in shallow relief on stone. The biggest difference is that A is a fairly symmetrical, inscription-like panel centered on an oval cartouche-like frame with flanking vertical pattern columns, while B is a tall pillar face with stacked figural scenes and large profile animals.",
+ "a": "egypt_0037",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  615
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  1,
+  9,
+  10,
+  7,
+  5,
+  3,
+  2,
+  6,
+  4
+ ],
+ "most_similar_reason": "Candidate 8 comes closest because, like the target, it packs multiple creature forms and zoomorphic heads together with a human-like figure into a bordered, register-like composition that includes a band of repeated triangular/geometric motifs framing the scene.",
+ "least_similar_reason": "Candidate 4 is least similar because it shows only faint scratched striations on a rock face with no identifiable creatures, figures or ordered motifs to compare with the target's registers of profile animals.",
+ "set": "moai_among_random",
+ "i": 39,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "maya_0050",
+  "rapa_nui_0113",
+  "maya_0060",
+  "catalhoyuk_0026",
+  "maya_0106",
+  "mississippian_0001",
+  "maya_0053",
+  "maya_0028",
+  "maya_0070",
+  "assyria_0000"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "mississippian",
+  "maya",
+  "maya",
+  "maya",
+  "catalhoyuk",
+  "maya",
+  "assyria",
+  "maya",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 8
+}

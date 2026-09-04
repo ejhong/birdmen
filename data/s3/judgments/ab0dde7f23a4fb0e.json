@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic anthropomorphic or body-like figure",
+  "circle or disc motifs",
+  "curving linear/geometric incised motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main correspondences are generic: both include schematic body-like imagery, circular marks, and curving incised linear motifs rendered in a simplified outline style. The biggest difference is that B is organized as a single frontal anthropomorphic figure with facial/torso features and bands across the body, while A appears as a dense field of loosely arranged outline creatures or abstract motifs around a central area rather than the same iconographic scheme.",
+ "a": "maya_0162",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  674
+ ]
+}

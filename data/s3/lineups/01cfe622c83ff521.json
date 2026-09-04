@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  6,
+  8,
+  3,
+  10,
+  2,
+  7,
+  5,
+  9,
+  4
+ ],
+ "most_similar_reason": "Candidate 1 is the only one that, like the target, fills its field with rows of small schematic animals rendered in flat profile silhouette within horizontal bands, with no dominant human figure, so the organizing idea (registers of repeated creature signs plus abstract motifs) matches closely.",
+ "least_similar_reason": "Candidate 4 shows a single frontal, elaborately costumed human personage with headdress and held object filling the whole shaft in deep sculptural relief, which shares none of the target's stacked bands of profile animals and abstract signs.",
+ "set": "moai_iso_among_monoliths",
+ "i": 39,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "gotland_0113",
+  "maya_0092",
+  "maya_0081",
+  "maya_0060",
+  "rapa_nui_hoa_iso",
+  "egypt_0068",
+  "maya_0097",
+  "maya_0066",
+  "maya_0054",
+  "gotland_0133"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "maya",
+  "gotland",
+  "maya",
+  "gotland",
+  "egypt",
+  "maya",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 8
+}

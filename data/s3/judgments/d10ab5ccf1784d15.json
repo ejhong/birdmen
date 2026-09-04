@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "repeated schematic figures arranged side by side in a row",
+  "hatched/striated infill within outlined forms",
+  "frontal schematic anthropomorphic body with head and limbs",
+  "framed rectangular panel enclosing figures"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces show schematic outlined figures with parallel-line hatched infill, and both include a row of similar figures placed side by side within a bounded panel (A's file of small anthropomorphs; B's pair of confronted birds). Beyond these generic conventions the content diverges sharply: B is a vertically stacked column of a hook-beaked raptor, a cross-armed figure and paired birds, while A shows a single horizontal band of small repeated humanlike forms over a boat-like curve and zigzag border, with no birds and no vertical stacking.",
+ "a": "gotland_0125",
+ "b": "anatolia_ppn_0174",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2874,
+  830
+ ]
+}

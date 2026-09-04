@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "human figure shown standing/walking",
+  "quadruped animal in profile",
+  "figures arranged in a horizontal row"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "Both surfaces show human figures and quadrupeds arranged along a horizontal line, but that is as generic as depicted content gets; A presents a large, naturalistic camel led in profile by a detailed costumed attendant beneath a rosette frieze, while B shows only tiny stick-like matchstick figures and rows of small schematic signs with no comparable attributes or framing motifs. The rendering conventions are opposite poles \u2014 modelled anatomy with articulated eye, mouth, hair and staff versus a few painted strokes \u2014 and no specific motif or relationship is shared.",
+ "a": "persepolis_0062",
+ "b": "tanum_0126",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  305
+ ]
+}

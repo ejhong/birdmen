@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  8,
+  4,
+  9,
+  3,
+  1,
+  10,
+  2,
+  5,
+  7
+ ],
+ "most_similar_reason": "Candidate 6 is, like the target, a freestanding upright monolith whose whole rounded stone face is covered with shallow, flatly carved curvilinear motifs left in the raw stone with no paint or framing.",
+ "least_similar_reason": "Candidate 7 is a flat, brightly coloured modern line drawing of symmetrical costumed figures, sharing neither the carved stone medium, the monochrome weathered surface, nor the animal imagery of the target.",
+ "set": "moai_among_random",
+ "i": 23,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0068",
+  "persepolis_0066",
+  "assyria_0102",
+  "gotland_0133",
+  "tanum_0087",
+  "maya_0114",
+  "mississippian_0052",
+  "rapa_nui_0113",
+  "maya_0053",
+  "assyria_0035"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "mississippian",
+  "assyria",
+  "maya",
+  "maya",
+  "persepolis",
+  "tanum",
+  "gotland",
+  "persepolis",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

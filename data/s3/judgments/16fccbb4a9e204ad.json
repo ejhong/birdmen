@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief carving of figures in profile",
+  "human legs/lower bodies in striding profile",
+  "animal in profile at ground level",
+  "ground line / base register beneath figures",
+  "procession-style composition reading horizontally"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both are shallow relief friezes with profile figures advancing along a common ground line, and both include an animal shown in profile low in the field beside human legs, which is a loose but real correspondence in scheme. However, A depicts a file of robed human tribute-bearers carrying vessels above a rosette border, while B shows a large hoofed animal (bull) with a crouching feline and only fragmentary human legs, so the actual subjects and the relationships between them differ substantially.",
+ "a": "persepolis_0097",
+ "b": "assyria_0110",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  289
+ ]
+}

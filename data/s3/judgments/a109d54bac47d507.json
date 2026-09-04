@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "single large anthropomorphic figure filling the field",
+  "head with elaborate headdress/headgear at top",
+  "ornament worn on the body (disc pendant on chest / earring and necklace)",
+  "incised surface patterning indicating garment or ornament",
+  "head-and-upper-body composition occupying the whole surface"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict a single dominant human(oid) figure with a distinct headdress and worn ornaments occupying the entire field, which is about as generic as figural iconography gets. They differ fundamentally in the specific forms: A is a frontal, blocky, heavily schematic figure with a large circular chest disc and no rendered facial or feather detail, while B is a strict profile head-and-shoulders with naturalistic eye, nose, ringleted beard, earring and a densely feathered wing \u2014 no shared distinctive motif or relationship beyond \"a figure wearing a headdress.\"",
+ "a": "rapa_nui_0113",
+ "b": "assyria_0128",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3099,
+  706
+ ]
+}

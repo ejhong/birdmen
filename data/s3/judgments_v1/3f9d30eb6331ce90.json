@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "carved stone relief surface",
+  "profile figure or creature",
+  "bird/wing or feather-like motif",
+  "circle/disc or rosette-like round motif",
+  "horizontal band or border of repeated pattern"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces use low-relief carving with profile forms and repeated linear/geometric bands, including round motifs and bird/feather-like imagery. The biggest difference is compositional: A is a tall, divided surface with small schematic signs and animals arranged in registers, while B is a rectangular panel dominated by one large, detailed kneeling winged figure beside plants.",
+ "a": "anatolia_ppn_p43full",
+ "b": "assyria_0079",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  671
+ ]
+}

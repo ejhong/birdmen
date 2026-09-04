@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human figures shown in profile",
+  "large horned quadruped in profile",
+  "humans in proximity to/interacting with animals",
+  "animals with prominent horns/antlers"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both show human figures together with large horned quadrupeds seen in strict profile, and in both the humans appear to lead or engage the animals, which is the only real correspondence. Otherwise they differ sharply: A is a lively, chaotic hunt scene of tiny stick-like silhouette figures with flailing limbs scattered around an oversized antlered stag, while B is a calm, orderly processional file of two large, naturalistically modelled rams walked by robed bearded men beside a stylised tree above a rosette border.",
+ "a": "catalhoyuk_0039",
+ "b": "persepolis_0020",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  291
+ ]
+}

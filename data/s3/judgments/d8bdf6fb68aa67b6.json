@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "standing human figures in profile arranged in file",
+  "horizontal frieze band(s) of figures",
+  "horses shown in profile",
+  "men leading/handling animals by rein or tether",
+  "figures carrying long staffs/spears",
+  "overlapping figures in low relief",
+  "procession moving in a single direction",
+  "detailed patterned garments and beards/headgear"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict continuous low-relief friezes of profile human figures marching in file, overlapping one another, with bearded men leading or attending horses and carrying long shafted implements, rendered in a comparably detailed, semi-naturalistic profile convention. The biggest difference in content is subject: A is a peaceable multi-register procession of delegations bearing gifts and led animals, while B shows a martial scene with archers drawing bows, armed spearmen and a wheeled chariot, elements entirely absent from A.",
+ "a": "persepolis_0104",
+ "b": "assyria_0047",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  608
+ ]
+}

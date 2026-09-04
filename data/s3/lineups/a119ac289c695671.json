@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  8,
+  2,
+  1,
+  10,
+  6,
+  7,
+  3,
+  4,
+  5
+ ],
+ "most_similar_reason": "Candidate 9 fills a plain rectangular slab with rows of repeated elongated, serpentine/limbed forms in low relief running in registers, closely echoing the target's stacked bands of snake-like and animal motifs covering a monolithic panel without narrative human actors.",
+ "least_similar_reason": "Candidate 5 depicts an elaborate human narrative scene \\u2014 seated, ornately costumed figures flanking a central tree within a decorated glyphic border \\u2014 which shares no motif, arrangement or drawing convention with the target's frieze of isolated animals in profile.",
+ "set": "moai_among_random",
+ "i": 9,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "maya_0138",
+  "persepolis_0030",
+  "egypt_0044",
+  "tanum_0128",
+  "maya_0129",
+  "maya_0136",
+  "rapa_nui_0113",
+  "assyria_0100",
+  "assyria_0142",
+  "maya_0137"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "maya",
+  "assyria",
+  "persepolis",
+  "tanum",
+  "maya",
+  "assyria",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 7
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  2,
+  4,
+  8,
+  7,
+  9,
+  6,
+  1,
+  3,
+  5
+ ],
+ "most_similar_reason": "Candidate 10 is, like the target, a tall free-standing monolith treated as a body, with carved arms bent onto the shaft and a belt-like band and disc at the waist, the same distinctive convention of a stone pillar bearing low-relief limbs and ornament rather than a framed pictorial scene.",
+ "least_similar_reason": "Candidate 5 shows a rayed sun-disc with hands, robed royal figures making offerings and dense columns of script \u2014 an entirely different repertoire from the target's stacked profile animals (quadruped, snakes, bird) and abstract bands on a pillar.",
+ "set": "moai_among_random",
+ "i": 10,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "assyria_0139",
+  "tanum_0007",
+  "egypt_0014",
+  "maya_0092",
+  "egypt_0056",
+  "assyria_0111",
+  "tanum_0079",
+  "persepolis_0084",
+  "assyria_0041",
+  "rapa_nui_0113"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "tanum",
+  "egypt",
+  "persepolis",
+  "assyria",
+  "maya",
+  "tanum",
+  "assyria",
+  "assyria",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

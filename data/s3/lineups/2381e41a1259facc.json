@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  1,
+  10,
+  6,
+  3,
+  9,
+  8,
+  2,
+  4,
+  7
+ ],
+ "most_similar_reason": "Both feature red painted boat forms.",
+ "least_similar_reason": "It is a sculpted head.",
+ "set": "same_control",
+ "i": 10,
+ "target": "tanum_0324",
+ "planted": "tanum_0238",
+ "cands": [
+  "gotland_0131",
+  "maya_0091",
+  "persepolis_0097",
+  "egypt_0014",
+  "tanum_0238",
+  "egypt_0002",
+  "anatolia_ppn_0240",
+  "maya_0110",
+  "assyria_0035",
+  "anatolia_ppn_0072"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "maya",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "gotland",
+  "maya",
+  "assyria",
+  "persepolis",
+  "egypt",
+  "egypt"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

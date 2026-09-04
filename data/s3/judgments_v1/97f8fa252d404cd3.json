@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "quadruped animal in profile",
+  "standing human figure in profile",
+  "horizontal register or band of repeated pattern"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest correspondence is that both surfaces use relief/linear carving with profile animals and profile human figures, plus some horizontal banding or patterned registers. The biggest difference is compositional: A is a broad, pale, relatively naturalistic frieze dominated by one large animal and a floral border, while B is a rougher vertical slab divided into stacked, crowded, schematic registers.",
+ "a": "persepolis_0063",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  653
+ ]
+}

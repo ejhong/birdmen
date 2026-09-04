@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "bird forms in profile",
+  "other animal figures in profile",
+  "rows or bands of repeated signs/motifs",
+  "horizontal divisions/register-like bands",
+  "schematic linear relief drawing"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest shared content is the use of profile animal/bird forms together with horizontal bands of repeated schematic signs. The major difference is that A is dominated by ordered registers of small human figures and text-like signs, while B is dominated by larger isolated animal figures with little or no comparable human-offering scene structure.",
+ "a": "egypt_0045",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  662
+ ]
+}

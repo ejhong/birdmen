@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "animal figure in profile",
+  "quadruped/creature with visible limbs",
+  "relief carving of figures on a flat vertical field",
+  "arms/hands rendered with articulated fingers"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "A shows a densely worked narrative scene of human/winged figures with an inscription band above, arranged in registers, whereas B shows a solitary high-relief animal descending head-down on a pillar with a low-relief animal below it. The only real correspondences are the generic facts of relief-carved living creatures on a vertical field and depicted limbs with fingers/paws; the compositional schemes, subjects and level of naturalism differ entirely.",
+ "a": "assyria_0116",
+ "b": "anatolia_ppn_0086",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3024,
+  281
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "frontal anthropomorphic head/face",
+  "paired eyes",
+  "nose or central facial ridge",
+  "mouth area",
+  "curving incised arcs/lines used as facial or head details"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The clearest shared content is a frontal, highly stylized anthropomorphic face/head with paired eyes and other facial features indicated by incised or raised lines. The major difference is that A presents a full frontal figure or body-like slab with torso markings and large body discs, while B is essentially an isolated head or mask with prominent brow/hair, ears, and a gridded mouth.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_0129",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  614
+ ]
+}

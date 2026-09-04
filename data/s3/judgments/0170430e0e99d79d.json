@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "standing human figures in profile",
+  "figures wearing distinctive headgear/headdress",
+  "low-relief figures aligned along a single ground line",
+  "a band of small repeated signs/ornament running along the bottom",
+  "figures whose arms extend forward toward something"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both show profile human figures in shallow relief standing on a single ground line with a bottom register of small repeated signs, and in both cases the figures reach forward with their arms toward the object of the scene. But the content differs fundamentally: A is a procession of attendants leading two large horned rams, while B is a worship/offering scene centred on a rayed disc above an offering table with no animals at all.",
+ "a": "persepolis_0100",
+ "b": "egypt_0000",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  560
+ ]
+}

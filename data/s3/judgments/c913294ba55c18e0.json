@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "quadruped animal shown with prominent head and limbs",
+  "predatory animal head with visible teeth/muzzle",
+  "paws or hands with clearly separated digits",
+  "small human or humanoid figure combined with animals",
+  "vertically stacked registers of figures on a tall shaft",
+  "animal placed directly above a human/anthropomorphic element"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces stack animal figures in superimposed tiers on a tall vertical shaft and both combine a large-headed predatory beast with splayed, clearly-digited paws over a small subordinate humanoid figure, which is a fairly specific shared scheme. The biggest difference in depicted content is that A presents flat profile silhouettes including birds, snakes and a net/zigzag band with a row of identical quadrupeds, while B depicts bulky frontal figures in the round with no bird, snake or patterned band at all.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0175",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  913
+ ]
+}

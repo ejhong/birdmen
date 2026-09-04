@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "anthropomorphic or human-like figure",
+  "head or face features, including eyes",
+  "circular or disc-like motifs",
+  "linear/geometric incised details"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main correspondence is that both surfaces include a schematic anthropomorphic figure with facial features and some circular/linear motifs worked into the design. The biggest difference is iconographic: A shows a standing profile figure apparently holding a vertical staff or standard within a framed scene, while B shows a frontal, mask-like or torso-like figure dominated by large facial/body features and bands, with no comparable held object or narrative arrangement.",
+ "a": "maya_0105",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  678
+ ]
+}

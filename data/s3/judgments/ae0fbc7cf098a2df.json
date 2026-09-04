@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "standing human figures in profile",
+  "file/procession of figures moving in one direction",
+  "bearded figures in long garments",
+  "figures carrying handheld objects (staffs/weapons)",
+  "continuous horizontal relief frieze band",
+  "overlapping figures in ranks",
+  "architectural/structural motif rendered in profile"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show low-relief horizontal friezes of bearded, profile-view human figures in long garments arranged in overlapping files advancing in a single direction and carrying objects in their hands, with similar shallow-carving conventions, flat overlapping planes and consistent figure proportions. The subject matter differs sharply, however: A is a peaceful multi-register procession including a tree and led animals (ram/bovid), while B is a single-register military assault with drawn bows, a wheeled siege engine and a crenellated fortification.",
+ "a": "persepolis_0051",
+ "b": "assyria_0041",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  670
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  2,
+  7,
+  8,
+  6,
+  1,
+  9,
+  5,
+  4,
+  10
+ ],
+ "most_similar_reason": "Candidate 3 most closely matches the target\u2019s distinctive schematic animal imagery, especially the large outlined, segmented creature with a row of repeated vertical/fringe-like marks beneath it.",
+ "least_similar_reason": "Candidate 10 is least similar because it depicts a naturalistic standing human-like figure holding objects, with none of the target\u2019s schematic profile animals, repeated sign band, or crowded relief-style symbolic arrangement.",
+ "set": "moai_close_among_random",
+ "i": 22,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "egypt_0039",
+  "egypt_0000",
+  "tanum_0119",
+  "rapa_nui_0004",
+  "assyria_0011",
+  "assyria_0047",
+  "maya_0005",
+  "tanum_0005",
+  "egypt_0050",
+  "mississippian_0015"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "mississippian",
+  "assyria",
+  "tanum",
+  "assyria",
+  "egypt",
+  "egypt",
+  "egypt",
+  "tanum",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 9
+}

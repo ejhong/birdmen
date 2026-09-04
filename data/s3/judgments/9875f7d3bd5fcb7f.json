@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "T-shaped field divided by horizontal bands",
+  "row of repeated arched or U-shaped motifs across the top",
+  "horizontal band of repeated triangular/chevron-like signs",
+  "multiple animals shown in profile",
+  "curved bird- or snake-like forms",
+  "small rectangular/square sign in the central field",
+  "large elongated animal figure on the lower vertical shaft"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "9",
+ "justification": "The strongest correspondence is the highly specific scheme: a top row of arched/U-shaped signs above a patterned horizontal band, with profile animals and a small rectangular sign below, continuing onto a lower shaft with a large elongated animal. The main difference is that some individual animal forms are clearer or more complete in A than in B, so not every depicted detail can be matched with certainty.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0004",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  709
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "animal or creature forms in profile",
+  "repeated signs or patterned bands",
+  "horizontal register divisions",
+  "linear relief-style outlines with internal detail"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces organize schematic profile creatures and repeated linear signs into horizontal/vertical registers on a decorated upright panel. The biggest difference is that A is dominated by an elaborate standing anthropomorphic figure with headdress, ornaments, held objects, and glyph-like signs, while B is dominated by separate animal figures arranged in stacked panels with no comparable central human/deity figure or glyphic program.",
+ "a": "maya_0137",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  673
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  8,
+  5,
+  9,
+  4,
+  1,
+  2,
+  10,
+  3,
+  7
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it uses the same kind of schematic incised symbol vocabulary arranged vertically, including distinctive paired circular/spiral forms and a broad crescent-like motif with crossing rods/linear bands, closely matching the target\u2019s abstract iconographic layout.",
+ "least_similar_reason": "Candidate 7 is least similar because it depicts a relatively naturalistic standing human figure holding objects, with none of the target\u2019s large schematic circular, crescentic, and rod-like surface symbols.",
+ "set": "p43_iso_among_monoliths",
+ "i": 4,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0113",
+  "maya_0085",
+  "maya_0110",
+  "maya_0053",
+  "gotland_0007",
+  "gotland_0000",
+  "mississippian_0015",
+  "gotland_0112",
+  "gotland_0133",
+  "anatolia_ppn_p43iso"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "gotland",
+  "gotland",
+  "maya",
+  "maya",
+  "gotland",
+  "gotland",
+  "maya",
+  "maya",
+  "mississippian"
+ ],
+ "model": "gpt",
+ "planted_rank": 8
+}

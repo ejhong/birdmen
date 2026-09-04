@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  1,
+  2,
+  6,
+  7,
+  3,
+  8,
+  4,
+  10,
+  9
+ ],
+ "most_similar_reason": "Candidate 5 shares the same combination of a bird figure with hieroglyphic-style bands arranged in horizontal registers on a rounded stela, closely matching the target's layout of animals and script bands.",
+ "least_similar_reason": "Candidate 9 depicts a single blocky anthropomorphic stone figure with no register bands, animal motifs, or hieroglyphic elements, making its content unrelated to the target's layered animal-and-script relief.",
+ "set": "moai_iso_among_monoliths",
+ "i": 1,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0071",
+  "egypt_0044",
+  "maya_0045",
+  "maya_0114",
+  "egypt_0068",
+  "gotland_0116",
+  "gotland_0113",
+  "maya_0095",
+  "rapa_nui_hoa_iso",
+  "maya_0066"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt",
+  "gotland",
+  "maya",
+  "maya",
+  "maya",
+  "egypt"
+ ],
+ "model": "sonnet",
+ "planted_rank": 10
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "bearded male human figure shown in strict profile",
+  "head covering / tall headdress or cap",
+  "low-relief human head with visible eye rendered frontally in profile face",
+  "stylised hair and beard mass"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both depict bearded male figures in strict profile wearing a distinctive tall head covering, rendered in low relief with the eye and hair mass conventionally treated, which is a real but broadly shared correspondence. The differences dominate: A is a multi-figure processional frieze of small, coarsely modelled figures gesturing toward objects and a seated/enthroned form, while B is a single monumental head with meticulously patterned spiral curls and a fluted crown, with no scene or interaction shown.",
+ "a": "assyria_0013",
+ "b": "persepolis_0066",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3224,
+  600
+ ]
+}

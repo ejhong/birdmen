@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  4,
+  2,
+  3,
+  7,
+  5,
+  10,
+  9,
+  8,
+  6
+ ],
+ "most_similar_reason": "Candidate 1 shares a stylized low-relief approach featuring a prominent profile figure and patterned base elements.",
+ "least_similar_reason": "Candidate 6 is a three-dimensional sculptural form focused on a simple geometric circle, lacking flat narrative registers.",
+ "set": "moai_iso_among_monoliths",
+ "i": 7,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0097",
+  "egypt_0041",
+  "egypt_0073",
+  "maya_0066",
+  "egypt_0068",
+  "rapa_nui_hoa_iso",
+  "egypt_0076",
+  "maya_0085",
+  "egypt_0040",
+  "egypt_0067"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya",
+  "egypt"
+ ],
+ "model": "gemini",
+ "planted_rank": 10
+}

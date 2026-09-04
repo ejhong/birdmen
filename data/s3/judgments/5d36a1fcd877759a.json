@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "circle or disc motifs",
+  "curving incised/relief lines",
+  "horizontal band or register-like divider",
+  "schematic linear decoration"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is the use of schematic curvilinear relief/incision with occasional circular motifs and a broad horizontal dividing band across the decorated surface. The major difference is that A is organized as a frontal anthropomorphic figure with head, torso, breasts, and belt-like bands, while B is a rectangular panel of register-like abstract or animal-like motifs with no comparable human body scheme.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_0045",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  549
+ ]
+}

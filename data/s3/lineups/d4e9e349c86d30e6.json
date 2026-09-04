@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  8,
+  5,
+  4,
+  6,
+  2,
+  3,
+  7,
+  10,
+  9
+ ],
+ "most_similar_reason": "Candidate 1 is most similar because it shows a tall decorated upright surface covered with the same kind of schematic, low-relief animal and sign motifs arranged vertically in stacked zones, closely matching the target\u2019s profile creatures and repeated abstract bands.",
+ "least_similar_reason": "Candidate 9 is least similar because it depicts a single naturalistic standing human figure holding an object, with none of the target\u2019s dense schematic animal reliefs, repeated sign-like bands, or stacked surface arrangement.",
+ "set": "moai_among_random",
+ "i": 15,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "maya_0054",
+  "assyria_0123",
+  "persepolis_0018",
+  "tanum_0129",
+  "maya_0130",
+  "persepolis_0027",
+  "rapa_nui_0113",
+  "maya_0138",
+  "mississippian_0015",
+  "egypt_0038"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "persepolis",
+  "egypt",
+  "mississippian",
+  "tanum",
+  "maya",
+  "assyria",
+  "maya",
+  "persepolis",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 8
+}

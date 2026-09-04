@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  10,
+  9,
+  5,
+  1,
+  8,
+  3,
+  4,
+  6,
+  7
+ ],
+ "most_similar_reason": "Candidate 2, like the target, is a fully three-dimensional sculpture of a large hook-beaked bird with its folded wing rendered as rows of overlapping incised feathers, matching the target's dominant winged creature in both form and carving convention.",
+ "least_similar_reason": "Candidate 7 shows only a plain upright slab seen from a distance with no legible creature, figure or motif at all, so it shares none of the target's bird-over-figure imagery or feather rendering.",
+ "set": "same_control_monoliths",
+ "i": 27,
+ "target": "anatolia_ppn_0263",
+ "planted": "anatolia_ppn_0142",
+ "cands": [
+  "egypt_0048",
+  "anatolia_ppn_0142",
+  "gotland_0009",
+  "maya_0111",
+  "maya_0087",
+  "maya_0054",
+  "maya_0000",
+  "maya_0149",
+  "rapa_nui_0069",
+  "mississippian_0015"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "rapa_nui",
+  "maya",
+  "mississippian"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

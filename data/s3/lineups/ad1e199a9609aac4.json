@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  5,
+  10,
+  3,
+  2,
+  9,
+  6,
+  4,
+  7,
+  1
+ ],
+ "most_similar_reason": "Candidate 8 is most similar because it combines a raised, schematic profile figure with prominent wing/bird-like forms and surrounding blocky pictorial signs arranged in a panelled relief, closely matching the target\u2019s registered relief layout and iconographic vocabulary.",
+ "least_similar_reason": "Candidate 1 is least similar because it shows only indistinct, unstructured linear scratches with no comparable registers, profile figures, winged/bird motifs, or repeated pictorial signs.",
+ "set": "moai_iso_among_random",
+ "i": 0,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "tanum_0100",
+  "assyria_0151",
+  "assyria_0021",
+  "rapa_nui_hoa_iso",
+  "egypt_0040",
+  "persepolis_0018",
+  "tanum_0328",
+  "maya_0048",
+  "assyria_0118",
+  "maya_0147"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "assyria",
+  "persepolis",
+  "assyria",
+  "assyria",
+  "tanum",
+  "maya",
+  "maya",
+  "tanum",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 8
+}

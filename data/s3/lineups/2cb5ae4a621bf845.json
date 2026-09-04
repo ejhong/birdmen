@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  8,
+  6,
+  1,
+  10,
+  2,
+  3,
+  4,
+  7,
+  5
+ ],
+ "most_similar_reason": "Candidate 9 is most similar because it shows a vertical decorated stone surface filled with schematic low-relief animal-like figures and signs arranged in stacked positions, closely matching the target\u2019s profile animal motifs and non-narrative vertical layout.",
+ "least_similar_reason": "Candidate 5 is least similar because it depicts a single naturalistic standing human figure holding objects, with none of the target\u2019s stacked profile animals, repeated signs, or carved iconographic field.",
+ "set": "moai_close_among_random",
+ "i": 23,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "persepolis_0058",
+  "assyria_0112",
+  "egypt_0071",
+  "tanum_0054",
+  "mississippian_0015",
+  "egypt_0024",
+  "rapa_nui_0004",
+  "maya_0130",
+  "maya_0066",
+  "persepolis_0000"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "persepolis",
+  "maya",
+  "persepolis",
+  "assyria",
+  "egypt",
+  "tanum",
+  "egypt",
+  "maya",
+  "mississippian"
+ ],
+ "model": "gpt",
+ "planted_rank": 9
+}

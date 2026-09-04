@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "frontal anthropomorphic figure or body with arms/hands",
+  "belt or waist ornament",
+  "animal figures in profile",
+  "curving/serpentine motifs",
+  "repeated linear/geometric bands or borders"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both include a frontal anthropomorphic presence with arms/hands and a waist/belt area, accompanied by profile animals and linear patterned carving. The biggest difference is that A is dominated by a dense, frontal, ornate human/supernatural figure with headdress and enclosing decoration, while B is organized in sparse horizontal registers of mostly schematic profile animals around a much less explicit anthropomorphic form.",
+ "a": "maya_0019",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1883,
+  686
+ ]
+}

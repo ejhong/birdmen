@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  6,
+  2,
+  10,
+  5,
+  8,
+  3,
+  9,
+  1,
+  4
+ ],
+ "most_similar_reason": "Candidate 7, like the target, is a monolithic anthropomorphic upright block whose body surface carries schematic low-relief creatures, arms/hands and symbolic signs wrapped around and integrated with the stone's own body form, rather than a flat picture panel.",
+ "least_similar_reason": "Candidate 4 shows only ruled rows of repeated written signs with no figures, creatures, rings or body-related imagery, so it shares almost nothing with the target's schematic bird-like beings and curved ring motifs.",
+ "set": "p43_among_random",
+ "i": 20,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "gotland_0005",
+  "egypt_0072",
+  "gotland_0000",
+  "egypt_0042",
+  "egypt_0077",
+  "maya_0101",
+  "anatolia_ppn_p43full",
+  "egypt_0048",
+  "mississippian_0045",
+  "gotland_0009"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "gotland",
+  "egypt",
+  "mississippian",
+  "gotland",
+  "egypt",
+  "egypt",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

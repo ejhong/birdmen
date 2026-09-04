@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  5,
+  1,
+  4,
+  2,
+  8,
+  3,
+  10,
+  6,
+  7
+ ],
+ "most_similar_reason": "Candidate 9, like the target, is an upright anthropomorphic monolith whose body surface itself carries low-relief symbolic motifs (arm/hand-like elements, bands and discs) arranged vertically on the pillar rather than a scene set within a framed panel.",
+ "least_similar_reason": "Candidate 7 shows only simple linear boat-like outlines with tick marks and dots on an open rock surface, sharing none of the target's standing humanoid form, disc/spiral emblems, belt band or relief figures.",
+ "set": "p43_among_random",
+ "i": 9,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "egypt_0072",
+  "gotland_0000",
+  "persepolis_0075",
+  "maya_0023",
+  "maya_0158",
+  "assyria_0047",
+  "tanum_0324",
+  "persepolis_0095",
+  "anatolia_ppn_p43full",
+  "persepolis_0026"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "persepolis",
+  "persepolis",
+  "egypt",
+  "persepolis",
+  "gotland",
+  "assyria",
+  "maya",
+  "tanum",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

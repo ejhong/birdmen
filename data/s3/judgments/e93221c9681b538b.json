@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "low-relief carving on a tall upright stone monolith",
+  "registers/bands of motifs stacked vertically",
+  "repeated row of similar units across a horizontal band",
+  "animal figures in profile"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces are tall standing slabs carved in low relief with vertically stacked bands, and both include a horizontal row of repeated similar units near the top, which is the most specific shared trait. But A is filled with dense, blocky, abstract glyph-like cartouches in paired columns, while B shows recognisable animals \u2014 a row of arched quadrupeds, a crouching predator, a long-legged bird, a scorpion-like creature \u2014 plus a fringe/net band, so the actual subject matter is almost entirely different.",
+ "a": "maya_0152",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2799,
+  301
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "human figure(s) in low relief",
+  "carved stone imagery on a monumental surface",
+  "curved/rounded incised motifs (rosettes in A, discs/rings in B)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both depict human forms and rounded/circular motifs rendered in shallow relief on stone, but A is a narrative procession scene of profile figures leading a camel beneath a repeating rosette border, while B is a single frontal three-dimensional torso-and-head figure with scattered incised discs, arcs and a belt-like band on its back. There is no shared scene, no shared relationship between elements, and the conventions (profile narrative frieze vs. frontal monolithic body with isolated symbols) are quite different.",
+ "a": "persepolis_0007",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3174,
+  295
+ ]
+}

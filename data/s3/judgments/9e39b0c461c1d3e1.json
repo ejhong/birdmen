@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low relief carving on a flat stone surface",
+  "animals shown in profile",
+  "horizontal register bands framing figural content",
+  "repeated row of similar motifs along a band",
+  "quadruped/mammal figure",
+  "bird-like creature"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces present low-relief figures in profile organised into horizontal registers, with a repeated row of like motifs running along an upper band, which is the most specific shared trait. But the content differs sharply: A shows a naturalistic procession of clothed human tribute-bearers leading a camel with a rosette border, while B shows schematic, isolated animals (crouching feline-like beast, birds, a snake-like sinuous form) and abstract loop/H-shaped signs with no human figures or narrative procession.",
+ "a": "persepolis_0010",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  308
+ ]
+}

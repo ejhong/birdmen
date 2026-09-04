@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "human figure"
+ ],
+ "element_similarity": "0",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "Image A depicts a naturalistic relief procession of human attendants leading rams in profile, while Image B is a small stacked figural sculpture with an abstracted human head and an ambiguous upper element, sharing no specific motifs like animals, procession, or profile orientation. The rendering conventions differ entirely: A uses detailed low-relief carving with textured wool and facial features typical of narrative relief art, whereas B uses a blocky, schematic three-dimensional form with minimal facial detail.",
+ "a": "persepolis_0108",
+ "b": "anatolia_ppn_0264",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  3174,
+  249
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  10,
+  5,
+  9,
+  1,
+  7,
+  6,
+  3,
+  4,
+  8
+ ],
+ "most_similar_reason": "Both depict an abstract vertical form with arms wrapping around the sides to hands resting near a belt.",
+ "least_similar_reason": "It consists only of linear script markings and lacks any monumental or anthropomorphic figures.",
+ "set": "p43_among_random",
+ "i": 24,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "assyria_0102",
+  "anatolia_ppn_p43full",
+  "tanum_0338",
+  "tanum_0237",
+  "maya_0130",
+  "persepolis_0082",
+  "persepolis_0097",
+  "egypt_0016",
+  "assyria_0139",
+  "maya_0149"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "assyria",
+  "maya",
+  "assyria",
+  "maya",
+  "tanum",
+  "persepolis",
+  "egypt",
+  "tanum",
+  "persepolis"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

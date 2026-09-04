@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "horizontal rows or bands of repeated short marks",
+  "simple schematic linear motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The only real correspondence is generic: both include horizontal linear rows with repeated small strokes or marks along them. The major difference is that B is dominated by long boat-like forms with upturned ends and repeated crew-like ticks, whereas A is a dense composition of animal/creature figures and geometric bands with no clear matching boat motif or shared scene.",
+ "a": "anatolia_ppn_p43full",
+ "b": "tanum_0076",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  649
+ ]
+}

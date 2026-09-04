@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "T-shaped monolithic pillar with broad flat shaft as the decorated surface",
+  "quadruped animal carved in relief on the pillar shaft",
+  "animal oriented along the vertical axis of the shaft, head downward/forward",
+  "more than one carving stacked vertically on the same face",
+  "plain undecorated broad head/capital above the carved shaft"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "3",
+ "style_similarity": "2",
+ "gestalt_similarity": "3",
+ "overall": "7",
+ "justification": "Both surfaces are T-shaped pillars whose narrow vertical shaft carries a quadruped animal aligned head-downward along the axis, with a further carving below it and an entirely plain capital above \u2014 a highly specific and arbitrary decorative scheme rather than a generic \"animal image\". The chief difference in depicted content is the manner of the animal: A shows a flat, low-relief profile quadruped with all four legs on the plane (plus a second, fainter creature lower down), whereas B's animal is a fully three-dimensional, almost sculptural body projecting from the shaft, making the shared scheme more similar than the shared rendering conventions.",
+ "a": "anatolia_ppn_0041",
+ "b": "anatolia_ppn_0037",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3149,
+  646
+ ]
+}

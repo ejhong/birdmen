@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "quadruped animal in profile",
+  "human figure",
+  "horizontal band or register line",
+  "linear incised surface patterning"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces use relief/incised lines to show profile quadrupeds and human figures within or near horizontal bands. The biggest difference is compositional: A is a spacious, orderly frieze with large naturalistic animals and attendants, while B is a rougher vertical slab divided into stacked registers with much more schematic, scattered figures.",
+ "a": "persepolis_0020",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  517
+ ]
+}

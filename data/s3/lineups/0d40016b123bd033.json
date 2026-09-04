@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  9,
+  7,
+  2,
+  1,
+  10,
+  3,
+  5,
+  4,
+  6
+ ],
+ "most_similar_reason": "Candidate 8, like the target, is a free-standing vertical slab whose whole face is covered in shallow, flat-relief carving organised into stacked registers, with a large frontal creature/figure above smaller subsidiary motifs and panels of repeated signs.",
+ "least_similar_reason": "Candidate 6 shows only a bare coursed wall surface with no creatures, figures, symbols or motifs at all, so it shares no depicted content with the target's animal-covered pillar.",
+ "set": "moai_close_among_random",
+ "i": 23,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "persepolis_0058",
+  "assyria_0112",
+  "egypt_0071",
+  "tanum_0054",
+  "mississippian_0015",
+  "egypt_0024",
+  "rapa_nui_0004",
+  "maya_0130",
+  "maya_0066",
+  "persepolis_0000"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "persepolis",
+  "maya",
+  "persepolis",
+  "assyria",
+  "egypt",
+  "tanum",
+  "egypt",
+  "maya",
+  "mississippian"
+ ],
+ "model": "opus",
+ "planted_rank": 3
+}

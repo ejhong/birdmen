@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  1,
+  9,
+  8,
+  6,
+  5,
+  4,
+  7,
+  3,
+  2
+ ],
+ "most_similar_reason": "Candidate 10, like the target, is a freestanding weathered stone monolith whose broad rounded face carries shallow, schematic low-relief motifs\u2014curving arm/band shapes and small animal-like signs\u2014spread over the block's natural surface rather than framed in a panel.",
+ "least_similar_reason": "Candidate 2 is a smoothly dressed flat wall slab bearing a finely modelled naturalistic scene of animals and a tree in continuous frieze format, sharing neither the target's rough boulder-like three-dimensional body nor its sparse abstract emblem carving.",
+ "set": "p43_among_random",
+ "i": 11,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "gotland_0026",
+  "persepolis_0020",
+  "assyria_0151",
+  "egypt_0049",
+  "egypt_0065",
+  "egypt_0070",
+  "maya_0026",
+  "egypt_0046",
+  "gotland_0133",
+  "anatolia_ppn_p43full"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "persepolis",
+  "egypt",
+  "gotland",
+  "gotland",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

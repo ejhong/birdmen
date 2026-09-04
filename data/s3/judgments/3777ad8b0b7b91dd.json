@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic animal or zoomorphic figures",
+  "human-like or anthropomorphic figures",
+  "rows of repeated short strokes or hatch-like marks",
+  "simple linear/geometric marks"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is the use of schematic outlined figures together with repeated short stroke motifs, including possible human-like and animal-like forms. The biggest difference is that B is dominated by boat-like curved forms with rows of crew or paddler marks, while A is a stacked register of animal, body-part, and geometric relief motifs with no comparable boat scene or overall arrangement.",
+ "a": "anatolia_ppn_p43full",
+ "b": "tanum_0079",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  671
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low-relief carving of figures in strict profile",
+  "standing human figure in profile with arm raised/extended",
+  "bearded figure with elaborately curled/patterned hair",
+  "long fringed robe with belted waist",
+  "stylized surface pattern used as infill (feathering / fleece rendered as repeated scale-like units)",
+  "hoofed animal in profile (implied in A only via winged genie? no) "
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces show low-relief profile figures with the same conventions: strictly lateral bodies, elaborately curled/beaded beards and hair, long belted garments, forward-extended arms, and dense repeated scale-like patterning used as infill (wings in A, fleece in B). But the subjects differ substantially: A shows a single raptor-headed winged genie beside a stylized sacred plant with rosettes, whereas B shows a procession of ordinary human tribute-bearers leading horned rams, with no wings, hybrid creatures or vegetal motifs.",
+ "a": "assyria_0090",
+ "b": "persepolis_0084",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3249,
+  382
+ ]
+}

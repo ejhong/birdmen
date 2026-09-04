@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "raptor/bird imagery (hooked beak)",
+  "wings with incised parallel lines indicating feathers",
+  "bird head shown in profile",
+  "avian legs/talons"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict a raptorial bird with a strongly hooked beak in profile and wings rendered with rows of parallel incised lines for feathers, which is a moderately specific shared motif. However, A is a flat openwork disc showing a composite bird-human figure seated in a costume with arms, hands and ornaments filling a circular frame, while B is a fully three-dimensional, naturalistic perched bird with no human elements or enclosing frame, so the compositions and rendering conventions differ greatly.",
+ "a": "mississippian_0005",
+ "b": "anatolia_ppn_0142",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2974,
+  288
+ ]
+}

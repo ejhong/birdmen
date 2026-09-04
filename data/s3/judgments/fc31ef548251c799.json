@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "dense field of carved script signs covering the whole surface",
+  "signs organized in regular rows/columns",
+  "relief-carved glyph blocks in a grid-like text layout",
+  "no figural scene, purely inscriptional surface"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces depict nothing but a dense, gridded inscription: rows of small carved signs filling the entire field with no figures or ornament, and both keep strict horizontal registers of repeated glyph units. However the sign forms themselves differ fundamentally \u2014 A shows small, sparse, linear signs in long horizontal lines, while B shows large, rounded, densely packed cartouche-like glyph blocks in paired vertical columns, so the shared trait is the generic idea of a text panel rather than any specific motif.",
+ "a": "egypt_0010",
+ "b": "maya_0147",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2749,
+  311
+ ]
+}

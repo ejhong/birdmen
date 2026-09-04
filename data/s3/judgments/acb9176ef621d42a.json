@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figure shown in profile",
+  "low-relief figure with extended arm holding/handling an object",
+  "long robe or garment with rows of repeated dotted/beaded ornament",
+  "rosette motif",
+  "patterned band or register of repeated ornament",
+  "fringed or layered textile detail rendered as parallel rows"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both show profile human figures in shallow relief with garments and accessories covered in rows of small repeated beaded/dotted ornament, and both include a rosette (a frieze of them in A, one on a disc-shaped ornament in B), plus arms reaching forward to hold or handle something. The decisive differences are that B's figure is winged, with large layered feather masses dominating the field, and is a single monumental figure, whereas A shows a repeating file of unwinged attendants carrying vessels in a processional register.",
+ "a": "persepolis_0105",
+ "b": "assyria_0122",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  633
+ ]
+}

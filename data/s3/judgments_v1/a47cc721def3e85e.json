@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "carved stone surface",
+  "standing or upright figure",
+  "profile figure or animal",
+  "linear border or framing edge",
+  "horizontal band or register"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both are upright stone surfaces with low-relief/incised figures arranged against a framed or registered field, including profile forms and horizontal divisions. The biggest difference is that A is dominated by one large, detailed, naturalistic standing figure beside a plant-like motif, while B is a more schematic surface crowded with multiple small animals/abstract signs in stacked bands.",
+ "a": "assyria_0115",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1151,
+  658
+ ]
+}

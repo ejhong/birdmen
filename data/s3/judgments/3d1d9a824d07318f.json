@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "schematic human figures in solid silhouette",
+  "standing figures with round/blob heads and stick limbs",
+  "boat with upturned prow and stern",
+  "crew figures standing on a boat hull",
+  "small strokes/cup-mark-like dots",
+  "figures rendered as flat monochrome infilled forms on a rock surface"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "7",
+ "justification": "Both show the same distinctive scheme of a boat with upturned terminals carrying standing schematic crew figures, drawn as solid infilled silhouettes with blob heads and stick limbs, and A also contains groups of similar armed stick figures plus dot/cup-like marks. The main difference is scope and density: A is a wide multi-figure panel with weapon-bearing groups and processional arrangement, while B isolates a single two-crew boat at large scale with no surrounding figures.",
+ "a": "tanum_0067",
+ "b": "tanum_0325",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3349,
+  619
+ ]
+}

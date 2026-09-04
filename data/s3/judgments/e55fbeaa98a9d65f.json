@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic circular or oval motifs",
+  "horizontal bands or rows of linear pattern",
+  "abstract signs rendered with simple outlines"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main correspondence is that both surfaces use schematic outlined motifs with circles/ovals and horizontal linear bands or repeated marks. The biggest difference is that A shows a multi-register composition with animal-like figures and arch-shaped signs, while B is dominated by a frontal anthropomorphic body/face scheme with paired eyes, mouth or navel-like circles, arms, and torso bands.",
+ "a": "anatolia_ppn_0272",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "target",
+ "usage": [
+  2015,
+  662
+ ]
+}

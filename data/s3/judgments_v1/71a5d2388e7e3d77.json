@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "decorated stone surface",
+  "animal figures in profile",
+  "horizontal division into registers or panels",
+  "linear carved/incised outlines"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest correspondence is that both surfaces are divided by horizontal lines into decorated zones containing outlined animal figures. The biggest difference is that A is a rectilinear low-relief stone carving with sparse, separate figures and a patterned band, while B is a drawn record of a rounded slab filled with dense, curvilinear, scroll-like and more symmetrical ornament.",
+ "a": "anatolia_ppn_p43full",
+ "b": "gotland_0122",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  528
+ ]
+}

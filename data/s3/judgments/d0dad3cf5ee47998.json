@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "anthropomorphic figure in low relief",
+  "elaborate headdress/headgear above the head",
+  "circular disc or medallion ornament on the chest",
+  "band-like ornaments across the torso/waist",
+  "paired small round bosses (eye-like or ornament pairs)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both depict a frontal costumed anthropomorphic figure whose torso carries a central circular medallion beneath a wide headdress, and both use shallow relief with paired round bosses as ornament, which is a moderately specific correspondence. The biggest difference is density and manner: A is a crowded intricate curvilinear composition including columns of rectangular sign blocks flanking the figure, while B is a single, extremely reduced blocky figure with a few plain incised bands and no signs or accompanying motifs.",
+ "a": "maya_0039",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3024,
+  681
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "frontal anthropomorphic figure carved in relief on a vertical stone monument",
+  "elaborate headdress or headgear above the face",
+  "low-relief carving covering the whole visible surface",
+  "curvilinear/scroll-like motifs",
+  "circular disc or medallion on the torso area",
+  "bands of ornament crossing the surface horizontally"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces show a frontal anthropomorphic being with a massive elaborated headdress occupying the upper zone, a chest ornament/disc, and low-relief curvilinear scrollwork filling the field on an upright monument, which is a fairly specific shared scheme. However, A is a sculpted three-dimensional body with sparse, broad incised motifs and a plain lower zone, while B is densely packed with small interlocking glyph-like panels, multiple subsidiary faces and a full standing figure below, so the density and number of depicted elements differ markedly.",
+ "a": "rapa_nui_0113",
+ "b": "maya_0094",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2824,
+  364
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  6,
+  8,
+  4,
+  2,
+  10,
+  7,
+  9,
+  5,
+  3
+ ],
+ "most_similar_reason": "Candidate 1 is most similar because it likewise shows schematic carved animal forms on a stone surface, with elongated profile bodies and simple linear detailing closest to the target\u2019s animal-based relief iconography.",
+ "least_similar_reason": "Candidate 3 is least similar because its content is dominated by a circular, radial geometric emblem with a central abstract figure, sharing little with the target\u2019s stacked profile animals and repeated linear bands.",
+ "set": "moai_close_among_random",
+ "i": 18,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "maya_0023",
+  "assyria_0153",
+  "mississippian_0018",
+  "tanum_0100",
+  "rapa_nui_0004",
+  "egypt_0038",
+  "egypt_0012",
+  "egypt_0043",
+  "maya_0069",
+  "persepolis_0047"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "maya",
+  "tanum",
+  "mississippian",
+  "egypt",
+  "maya",
+  "egypt",
+  "assyria",
+  "egypt",
+  "persepolis"
+ ],
+ "model": "gpt",
+ "planted_rank": 9
+}

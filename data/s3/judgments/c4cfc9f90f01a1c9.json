@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "abstract geometric signs",
+  "rounded oval or circular motifs",
+  "rectilinear/box-like motifs",
+  "elements arranged in loose horizontal rows or bands"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The main overlap is only generic: both surfaces include schematic carved-looking geometric marks such as rounded/circular and box-like forms, with some tendency toward horizontal grouping. The biggest difference is that B presents a dense figurative register system with recognizable animals, patterned bands, and interacting forms, while A appears mostly as sparse, weathered abstract glyph-like signs without the same animal iconography or structured scene.",
+ "a": "maya_0126",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  672
+ ]
+}

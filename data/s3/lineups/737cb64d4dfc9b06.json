@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  10,
+  4,
+  9,
+  6,
+  1,
+  8,
+  5,
+  7,
+  2
+ ],
+ "most_similar_reason": "Candidate 3 shows a single animal rendered in shallow relief with a bold outlined profile head, prominent eye and schematic surface patterning, matching the target's convention of carving animals in low relief as flat, outlined profile forms on a stone panel.",
+ "least_similar_reason": "Candidate 2 depicts an elaborate composite anthropomorphic figure loaded with ornaments and headgear, with no animals arranged in stacked relief registers and no shared motif or compositional convention with the target.",
+ "set": "moai_among_random",
+ "i": 1,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "tanum_0005",
+  "mississippian_0007",
+  "assyria_0099",
+  "catalhoyuk_0039",
+  "tanum_0119",
+  "persepolis_0099",
+  "tanum_0106",
+  "egypt_0066",
+  "assyria_0128",
+  "rapa_nui_0113"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "assyria",
+  "persepolis",
+  "mississippian",
+  "assyria",
+  "tanum",
+  "catalhoyuk",
+  "egypt",
+  "tanum",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

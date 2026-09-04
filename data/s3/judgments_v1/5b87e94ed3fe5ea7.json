@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "horizontal band of repeating geometric pattern",
+  "row of short vertical or rectangular marks",
+  "triangular or zigzag motif",
+  "central upright linear/cross-like mark"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is a horizontal register in which a row of short upright marks sits near or above a band of repeated triangular forms. The biggest difference is that A is a densely carved surface with multiple animal/figurative reliefs arranged in stacked fields, while B is a sparse rounded slab drawing dominated by a central cross-like sign and a small geometric band.",
+ "a": "anatolia_ppn_p43full",
+ "b": "gotland_0123",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  658
+ ]
+}

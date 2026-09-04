@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "carved stone relief surface",
+  "horizontal band of geometric pattern",
+  "profile animal or bird-like figures",
+  "repeated linear/incised motifs",
+  "register-like division of the surface"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is the use of carved, linear relief on stone with horizontal patterned bands and profile animal-like figures arranged in registers. The biggest difference is compositional: A is a compact, nearly symmetrical scene dominated by a central figure above a border band, while B is a tall vertical pillar with multiple stacked, irregular panels and no comparable central arrangement.",
+ "a": "maya_0115",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  474
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  3,
+  8,
+  5,
+  6,
+  10,
+  9,
+  7,
+  4,
+  2
+ ],
+ "most_similar_reason": "Both share a vertical arrangement of densely packed, rounded blocky motifs with complex internal details.",
+ "least_similar_reason": "This displays a simple, horizontal linear motif that lacks the structural density of the target.",
+ "set": "same_control",
+ "i": 13,
+ "target": "maya_0149",
+ "planted": "maya_0051",
+ "cands": [
+  "maya_0051",
+  "tanum_0238",
+  "egypt_0072",
+  "tanum_0100",
+  "anatolia_ppn_0261",
+  "assyria_0102",
+  "anatolia_ppn_0244",
+  "egypt_0017",
+  "anatolia_ppn_0122",
+  "persepolis_0000"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "tanum",
+  "persepolis",
+  "anatolia_ppn",
+  "egypt",
+  "anatolia_ppn",
+  "tanum",
+  "assyria",
+  "anatolia_ppn",
+  "egypt"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

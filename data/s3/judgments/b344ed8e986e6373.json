@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low relief carving of figures on a flat vertical surface",
+  "animals rendered in profile",
+  "a quadruped/predator-like creature in profile",
+  "repeated row of similar motifs forming a band",
+  "human or humanoid arms/hands rendered on the body"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both are low reliefs containing profile animal forms and a horizontally repeated band of similar motifs, but that is about as generic as shared content gets. A shows a single naturalistic, richly detailed standing human in patterned robe with headdress holding a spear and bow, while B shows a schematic abstracted pillar-like form with stacked registers of highly stylised beasts, birds and a snake-like creature, with no human figure of the same type and completely different proportion and detailing conventions.",
+ "a": "persepolis_0037",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3024,
+  307
+ ]
+}

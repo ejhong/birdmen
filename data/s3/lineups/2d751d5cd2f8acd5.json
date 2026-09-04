@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  3,
+  2,
+  5,
+  1,
+  4,
+  7,
+  6,
+  8,
+  9
+ ],
+ "most_similar_reason": "Both feature stylized animal forms positioned above curved geometric motifs on a rounded vertical surface.",
+ "least_similar_reason": "Displays a uniform, repeating horizontal pattern rather than a varied central composition.",
+ "set": "p43_among_random",
+ "i": 29,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "maya_0048",
+  "egypt_0013",
+  "anatolia_ppn_p43full",
+  "assyria_0078",
+  "egypt_0045",
+  "tanum_0347",
+  "persepolis_0110",
+  "tanum_0340",
+  "assyria_0069",
+  "gotland_0000"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "egypt",
+  "gotland",
+  "egypt",
+  "assyria",
+  "persepolis",
+  "tanum",
+  "assyria",
+  "tanum",
+  "maya"
+ ],
+ "model": "gemini",
+ "planted_rank": 2
+}

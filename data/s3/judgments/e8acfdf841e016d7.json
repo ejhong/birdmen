@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "anthropomorphic/human figure",
+  "linear or geometric markings/bands"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main shared content is a simplified anthropomorphic figure with indicated head/torso/limbs, plus some linear geometric markings. The biggest difference is that A is dominated by a single frontal body-like figure with facial and torso details, while B is a dispersed set of small pictographs including animals, a boat- or comb-like motif, and separate signs with no matching relationships to the figure.",
+ "a": "rapa_nui_0113",
+ "b": "tanum_0348",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  1111
+ ]
+}

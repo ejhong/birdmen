@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "small pictographic/hieroglyph-like signs",
+  "human figures rendered in profile",
+  "curved arc or dome-like line spanning the field",
+  "disc/circular element",
+  "incised outline drawing with fine linear interior detail",
+  "tall plume/feather-like or vegetal fan motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces show the same repertoire of finely incised outline profile figures accompanied by dense fields of small pictographic signs, and both include a broad curved arc with a disc set beneath or within it, a fairly specific shared convention rather than a generic one. The biggest difference in depicted content is that B presents a complete, strictly ordered scheme (arched lunette over a figural register over many ruled lines of text) whereas A shows only a crowded cluster of plumed/fan-like forms and figures with no visible register ordering.",
+ "a": "maya_0162",
+ "b": "egypt_0069",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  748
+ ]
+}

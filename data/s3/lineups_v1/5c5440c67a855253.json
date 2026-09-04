@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  7,
+  8,
+  4,
+  3,
+  10,
+  6,
+  5,
+  2,
+  9
+ ],
+ "most_similar_reason": "Candidate 1, like the target, is a weathered freestanding monolithic block whose rough stone face carries shallow, schematic low-relief motifs rather than a framed pictorial panel.",
+ "least_similar_reason": "Candidate 9 is a crisp, symmetrical, apparently computer-rendered ornamental emblem isolated on a blank ground, lacking the eroded stone mass, incised surface texture and irregular carving of the target.",
+ "set": "p43_among_random",
+ "i": 17,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "anatolia_ppn_p43full",
+  "gotland_0003",
+  "persepolis_0043",
+  "egypt_0000",
+  "persepolis_0047",
+  "persepolis_0020",
+  "egypt_0040",
+  "maya_0115",
+  "mississippian_0010",
+  "persepolis_0026"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "persepolis",
+  "persepolis",
+  "maya",
+  "gotland",
+  "mississippian",
+  "persepolis",
+  "egypt",
+  "persepolis",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

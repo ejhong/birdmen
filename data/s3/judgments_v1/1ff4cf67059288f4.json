@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "horizontal band or register near the top",
+  "repeated linear/rectangular patterning in a band",
+  "animal or bird-like figures in profile",
+  "circle or disc motifs",
+  "schematic low-relief/incised carving on stone"
+ ],
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "The strongest correspondence is the use of stacked horizontal zones, with patterned bands above and more freely placed animal-like profile figures and small circular marks below. The biggest difference is the overall composition and support shape: A is a rounded slab with crowded, worn, shallow imagery, while B is a taller upright block/pillar with larger, clearer figures organized around a different vertical structure.",
+ "a": "maya_0083",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  674
+ ]
+}

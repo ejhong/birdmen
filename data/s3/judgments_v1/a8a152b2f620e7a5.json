@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "horizontal band or division across the stone",
+  "profile animal/quadruped figures",
+  "sinuous curved form, possibly snake-like",
+  "oval or circular motifs/forms",
+  "carved relief on a vertical stone surface"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "The strongest correspondence is the broad scheme of a vertical stone face with a horizontal division and low-relief animal imagery below it, including profile animals and curved/oval forms. The biggest difference is that A is sparse, faint, and loosely organized, while B is densely filled with multiple registers, repeated motifs, and much sharper carving.",
+ "a": "anatolia_ppn_0205",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  663
+ ]
+}

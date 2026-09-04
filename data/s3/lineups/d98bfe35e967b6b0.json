@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  7,
+  9,
+  4,
+  1,
+  2,
+  6,
+  10,
+  3,
+  8
+ ],
+ "most_similar_reason": "Candidate 5 shows, like the target, a single frontal standing personage carved in low relief filling a slab, with a broad headdress above the head, the body shown with arms brought across the chest and ornaments across the torso, in the same blocky, shallow, frontal-figure convention.",
+ "least_similar_reason": "Candidate 8 shows no figure at all, only a narrow shaft covered with rows of small repeated sign-blocks, which shares none of the target's frontal personage, headdress or pectoral imagery.",
+ "set": "p43_iso_among_monoliths",
+ "i": 32,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "anatolia_ppn_p43iso",
+  "egypt_0039",
+  "maya_0057",
+  "maya_0111",
+  "maya_0087",
+  "egypt_0070",
+  "maya_0051",
+  "maya_0149",
+  "maya_0113",
+  "egypt_0042"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 5
+}

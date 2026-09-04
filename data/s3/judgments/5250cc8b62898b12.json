@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "low-relief carving of figures against a plain ground",
+  "profile-view depiction",
+  "curled/beaded hair or mane rendered as rows of tight curls",
+  "horizontal ground line / register base with a narrow patterned band"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both are shallow profile reliefs on a plain ground with a horizontal baseline and share the convention of rendering hair or mane as dense rows of tight curls, plus a small band of repeating ornament along a lower edge. But A shows a file of upright standing human figures processing and carrying vessels toward a seated/standing dignitary, while B shows a large collapsed quadruped (a lion-like beast) sprawled with head down, so the subjects and their relationships are quite different.",
+ "a": "persepolis_0080",
+ "b": "assyria_0011",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  297
+ ]
+}

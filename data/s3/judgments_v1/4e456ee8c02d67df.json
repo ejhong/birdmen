@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "relief carving on stone",
+  "profile animal figures",
+  "curving or serpentine forms",
+  "small rounded or disc-like forms"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest correspondence is that both surfaces appear to carry low-relief, mostly profile animal imagery with some curving linear motifs on a vertical stone face. The biggest difference is that B is a sharply organized, rectangular panel with clear horizontal registers and repeated patterned bands, while A is an eroded, irregular rock surface with much less legible and less orderly placement.",
+ "a": "maya_0081",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  652
+ ]
+}

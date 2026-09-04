@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "upright anthropomorphic torso or figure",
+  "arms/hands indicated on the front or sides of the body",
+  "horizontal waist/belt-like band",
+  "central hanging/vertical motif below the waist",
+  "sinuous linear motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "The strongest correspondence is an upright anthropomorphic scheme with a belt-like horizontal band and a central hanging or vertical motif below it, with arms/hands associated with the torso. The biggest difference is that B is crowded with many distinct animal figures arranged in registers, while A is dominated by a single human-like body with far fewer subsidiary motifs.",
+ "a": "rapa_nui_0025",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1725,
+  676
+ ]
+}

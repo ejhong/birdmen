@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  5,
+  6,
+  8,
+  3,
+  9,
+  4,
+  2,
+  7,
+  1
+ ],
+ "most_similar_reason": "Candidate 10 shares the same overall anthropomorphic stele outline\u2014rounded head, tapering shoulders\u2014with a central circular/geometric emblem placed on the torso, mirroring the target's composition of a schematic figure with a central disc motif.",
+ "least_similar_reason": "Candidate 1 depicts a horizontal frieze of repeated small standing figures in a banded arrangement, which bears no resemblance to the target's single anthropomorphic stele with a face, arms, and central disc/necklace motif.",
+ "set": "p43_iso_among_monoliths",
+ "i": 7,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "gotland_0128",
+  "egypt_0067",
+  "maya_0136",
+  "egypt_0045",
+  "egypt_0061",
+  "maya_0097",
+  "maya_0094",
+  "anatolia_ppn_p43iso",
+  "egypt_0046",
+  "gotland_0007"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "egypt",
+  "gotland",
+  "maya",
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt"
+ ],
+ "model": "sonnet",
+ "planted_rank": 4
+}

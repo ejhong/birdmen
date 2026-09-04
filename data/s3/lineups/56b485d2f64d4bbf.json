@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  2,
+  1,
+  10,
+  7,
+  8,
+  3,
+  4,
+  9,
+  6
+ ],
+ "most_similar_reason": "Both depict standing, vertical anthropomorphic figures on a monolithic scale with decorative elements on the body.",
+ "least_similar_reason": "It shows a repetitive row of identical, non-figurative motifs, lacking any anthropomorphic elements.",
+ "set": "p43_among_random",
+ "i": 23,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "maya_0152",
+  "anatolia_ppn_p43full",
+  "tanum_0359",
+  "tanum_0325",
+  "maya_0051",
+  "assyria_0069",
+  "gotland_0005",
+  "egypt_0051",
+  "tanum_0063",
+  "assyria_0015"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "gotland",
+  "assyria",
+  "tanum",
+  "tanum",
+  "egypt",
+  "assyria",
+  "maya",
+  "maya",
+  "tanum"
+ ],
+ "model": "gemini",
+ "planted_rank": 2
+}

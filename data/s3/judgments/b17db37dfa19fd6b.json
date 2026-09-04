@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figures in profile",
+  "bearded male figures",
+  "low-relief carving of figures on a flat ground",
+  "bow / weapons carried by figures",
+  "long garments with patterned edges",
+  "single-register frieze arrangement"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both surfaces show shallow-relief bearded male figures strictly in profile, with the same conventions for musculature, curled hair/beard, patterned garment hems and carried weapons including a bow, which suggests a shared manner of depiction. The scenes themselves differ sharply: A shows two static figures facing each other in a ceremonial exchange of held objects over an inscribed field, while B shows a dynamic chariot drawn by horses with an archer confronting animals, involving vehicle, wheel and animals absent from A.",
+ "a": "assyria_0008",
+ "b": "assyria_0012",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3349,
+  653
+ ]
+}

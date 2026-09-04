@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "human figure represented (head/torso in A; standing attendants in B)",
+  "frontal or profile depiction of a head with defined eyes"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "The only shared content is the presence of a human figure: A is a single crude, blocky head-and-torso statue in the round with schematically gouged eyes and no accompanying elements, while B is a narrative relief frieze of costumed attendants leading a two-humped camel between rosette borders. There is no shared relationship, arrangement or rendering convention \u2014 B is naturalistic, detailed and multi-figured in profile procession, A is a lone, highly reductive figure with no attributes.",
+ "a": "anatolia_ppn_0241",
+ "b": "persepolis_0058",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  270
+ ]
+}

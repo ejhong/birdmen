@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  1,
+  9,
+  4,
+  10,
+  3,
+  5,
+  2,
+  8,
+  7
+ ],
+ "most_similar_reason": "Candidate 6 shares the specific motif of a winged human figure wearing a patterned, fringed lower garment.",
+ "least_similar_reason": "Candidate 7 displays schematic linear boats, sharing no anatomical or compositional traits with the elaborate anthropomorphic figure.",
+ "set": "same_control",
+ "i": 38,
+ "target": "mississippian_0002",
+ "planted": "mississippian_0006",
+ "cands": [
+  "maya_0130",
+  "rapa_nui_0054",
+  "assyria_0012",
+  "mississippian_0006",
+  "gotland_0128",
+  "assyria_0135",
+  "tanum_0054",
+  "assyria_0015",
+  "maya_0136",
+  "persepolis_0073"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "gotland",
+  "persepolis",
+  "maya",
+  "assyria",
+  "assyria",
+  "tanum",
+  "assyria",
+  "rapa_nui",
+  "maya"
+ ],
+ "model": "gemini",
+ "planted_rank": 4
+}

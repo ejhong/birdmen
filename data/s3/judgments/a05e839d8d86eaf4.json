@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief figures shown in profile",
+  "overlapping pair of figures side by side",
+  "wing or fleece rendered as regular rows of overlapping feather/scale-like units",
+  "dense incised linear patterning covering the body",
+  "curled/hooked details rendered by concentric incised lines"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces show paired, overlapping profile figures whose bodies/wings are covered in the same convention of regular rows of overlapping feather- or scale-like units drawn with fine incised lines, a fairly specific shared carving idiom. The decisive difference is the subject: A depicts two horned animal heads with prominent spiralled horns and fleece, while B depicts anthropomorphic winged figures with arms and hands, so the actual creatures and their attributes do not match.",
+ "a": "persepolis_0085",
+ "b": "assyria_0032",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3299,
+  731
+ ]
+}

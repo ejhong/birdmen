@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  2,
+  9,
+  6,
+  1,
+  4,
+  3,
+  10,
+  5,
+  7
+ ],
+ "most_similar_reason": "Candidate 8 shows the same kind of highly schematic, red-filled stick-figure engravings pecked directly onto a natural rock surface, with small human and animal forms scattered in loose registers, matching the target's schematic boats with row-of-strokes crews in outline-and-line convention.",
+ "least_similar_reason": "Candidate 7 depicts a complex, densely populated ceremonial scene of naturalistically proportioned figures beneath a rayed disc surrounded by dense inscription panels, sharing no motif, arrangement or stylistic convention with the target's isolated schematic line-boats.",
+ "set": "same_control",
+ "i": 25,
+ "target": "tanum_0076",
+ "planted": "tanum_0037",
+ "cands": [
+  "egypt_0062",
+  "gotland_0018",
+  "persepolis_0015",
+  "assyria_0160",
+  "persepolis_0043",
+  "maya_0047",
+  "egypt_0056",
+  "tanum_0037",
+  "anatolia_ppn_0239",
+  "persepolis_0020"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "persepolis",
+  "gotland",
+  "persepolis",
+  "assyria",
+  "anatolia_ppn",
+  "egypt",
+  "egypt",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

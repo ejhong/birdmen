@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  9,
+  6,
+  3,
+  2,
+  7,
+  5,
+  10,
+  1,
+  4
+ ],
+ "most_similar_reason": "Candidate 8 is most similar because it likewise centers on large, bilaterally arranged abstract curvilinear symbols with circular/spiral elements and enclosing arcs rather than a narrative scene of people or animals.",
+ "least_similar_reason": "Candidate 4 is least similar because it depicts small human figures in a scene with an offering/table and inscription-like bands, with none of the target\u2019s dominant abstract face-like circular and arcing motifs.",
+ "set": "p43_iso_among_monoliths",
+ "i": 19,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0137",
+  "maya_0083",
+  "maya_0094",
+  "egypt_0066",
+  "anatolia_ppn_p43iso",
+  "gotland_0005",
+  "maya_0106",
+  "gotland_0117",
+  "maya_0066",
+  "maya_0138"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "maya",
+  "maya",
+  "maya",
+  "gotland",
+  "maya",
+  "egypt",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 7
+}

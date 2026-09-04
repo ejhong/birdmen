@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  7,
+  8,
+  3,
+  4,
+  1,
+  2,
+  10,
+  6,
+  9
+ ],
+ "most_similar_reason": "Candidate 5 shows the same distinctive arrangement of the whole surface into paired vertical columns of square, densely packed sign-blocks with rounded internal faces and scroll-like fillers, exactly the all-glyph column layout of the target shaft.",
+ "least_similar_reason": "Candidate 9 shows an essentially blank slab with only a single faint incised curve, with none of the figural sign-blocks, faces, scrollwork or columnar text organisation that fill the target.",
+ "set": "same_control_monoliths",
+ "i": 13,
+ "target": "maya_0053",
+ "planted": "maya_0149",
+ "cands": [
+  "rapa_nui_0022",
+  "anatolia_ppn_0263",
+  "egypt_0068",
+  "egypt_0050",
+  "maya_0149",
+  "anatolia_ppn_0212",
+  "egypt_0063",
+  "egypt_0074",
+  "anatolia_ppn_0186",
+  "rapa_nui_0122"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "rapa_nui",
+  "anatolia_ppn",
+  "egypt",
+  "egypt",
+  "anatolia_ppn",
+  "rapa_nui",
+  "anatolia_ppn",
+  "egypt",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

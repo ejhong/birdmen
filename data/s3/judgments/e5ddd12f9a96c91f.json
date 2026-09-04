@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "animal shown in profile",
+  "quadruped/mammal head with eye rendered as a carved oval",
+  "low-relief carving of animal subjects",
+  "repeated linear incised patterning as surface fill"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces depict animals in profile relief with incised linear detailing, but that is essentially all they share: A shows a multi-register composition of small schematic creatures (a row of hooded/arched forms, a striding quadruped, a bird-like figure, a long-necked bird, snake- or plant-like linear motifs) stacked in bands, while B is a single large, naturalistic ram-like head with curling horn and densely modelled fleece filling the whole field. The relationships (registers of many small separate creatures versus one isolated dominant beast) and the schematic-versus-naturalistic conventions are quite different, so nothing suggests a shared iconographic scheme.",
+ "a": "anatolia_ppn_p43full",
+ "b": "persepolis_0110",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  351
+ ]
+}

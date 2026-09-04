@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "animals shown in profile relief",
+  "large prominent round eye on an animal head",
+  "arm bent with hand and splayed fingers carved in low relief",
+  "curved/coiled or hook-shaped element (spiral, snake-like)",
+  "figures carved in raised relief against a plain ground",
+  "band or row of repeated smaller motifs above larger figures"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "The most specific correspondence is the combination of profile animals with strongly emphasised round eyes together with a bent human-like arm ending in a hand with clearly separated fingers, plus a coiled/hooked appendage nearby, all rendered as raised relief silhouettes with minimal interior detail against a smooth ground. The biggest difference in depicted content is organisation: B stacks its creatures in tiered registers, including an orderly row of small quadrupeds under arch-like frames above a zigzag band, and includes a distinct large bird, whereas A presents a few very large overlapping animal masses in a single horizontal, non-registered composition without any repeated ornamental band or bird.",
+ "a": "rapa_nui_0002",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  1096
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "schematic animal-like or limb-like form",
+  "curving elongated appendage or body"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The only possible overlap is that both include schematic, curving organic forms that could be read as animal or body-part-like, with B containing several outlined creatures and A showing one broad red silhouette. The biggest difference is that B is a complex panel of multiple distinct figures, signs, patterned bands, and interactions, while A appears to show a single ambiguous filled motif with no comparable scene or arrangement.",
+ "a": "tanum_0034",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  662
+ ]
+}

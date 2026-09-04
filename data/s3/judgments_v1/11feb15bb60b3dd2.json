@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "circle or disc",
+  "horizontal bands/registers of small repeated marks",
+  "snake-like curving forms",
+  "upright figure or creature forms"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is that both surfaces use shallow relief/incision organized into horizontal zones, with a circular motif near the upper part and some curving snake-like forms among repeated signs. The biggest difference is that A is a dense, fine-lined scene with a prominent standing human figure and extensive small inscription-like rows, while B is dominated by larger, rougher animal or abstract motifs on a freestanding stone face.",
+ "a": "egypt_0077",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1098,
+  1183
+ ]
+}

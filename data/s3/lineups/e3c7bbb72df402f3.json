@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  10,
+  4,
+  8,
+  5,
+  2,
+  1,
+  7,
+  6,
+  3
+ ],
+ "most_similar_reason": "Candidate 9 shares the target's overall form of a tall stone slab divided into horizontal registers with schematic figural elements, echoing the same compositional logic of stacked bands and figures.",
+ "least_similar_reason": "Candidate 3 shows only an abstract, undifferentiated surface with no recognizable figures, creatures, or symbolic motifs, making it the least comparable in depicted content to the richly figured target.",
+ "set": "moai_iso_among_random",
+ "i": 4,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "rapa_nui_hoa_iso",
+  "assyria_0032",
+  "tanum_0100",
+  "tanum_0076",
+  "persepolis_0007",
+  "catalhoyuk_0026",
+  "catalhoyuk_0110",
+  "assyria_0047",
+  "maya_0057",
+  "tanum_0050"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "tanum",
+  "tanum",
+  "catalhoyuk",
+  "tanum",
+  "catalhoyuk",
+  "maya",
+  "persepolis",
+  "assyria",
+  "assyria"
+ ],
+ "model": "sonnet",
+ "planted_rank": 7
+}

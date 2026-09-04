@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  5,
+  3,
+  7,
+  6,
+  4,
+  2,
+  8,
+  10,
+  1
+ ],
+ "most_similar_reason": "Candidate 9 is closest because it also presents a single upright slab-like surface dominated by a frontal, highly stylized anthropomorphic figure with compact body proportions and incised/relief linear internal details rather than a narrative scene.",
+ "least_similar_reason": "Candidate 1 is least similar because it shows mainly non-figural vertical streaks and simple banding, without the target\u2019s distinctive frontal anthropomorphic image, paired circular features, or organized body-like design.",
+ "set": "p43_among_random",
+ "i": 15,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "tanum_0126",
+  "gotland_0000",
+  "maya_0158",
+  "persepolis_0025",
+  "assyria_0051",
+  "anatolia_ppn_p43full",
+  "assyria_0071",
+  "maya_0147",
+  "maya_0092",
+  "tanum_0100"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "persepolis",
+  "assyria",
+  "tanum",
+  "maya",
+  "gotland",
+  "tanum",
+  "maya",
+  "assyria"
+ ],
+ "model": "gpt",
+ "planted_rank": 5
+}

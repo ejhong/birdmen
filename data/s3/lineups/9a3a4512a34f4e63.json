@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  5,
+  9,
+  7,
+  3,
+  6,
+  10,
+  4,
+  1,
+  8
+ ],
+ "most_similar_reason": "Candidate 2 is most similar because it shows the same distinctive schematic long boats with upturned ends and rows of short vertical strokes suggesting crew or oars, arranged as linear motifs on the surface.",
+ "least_similar_reason": "Candidate 8 is least similar because it has no comparable recognizable boat, crew-row, animal, or schematic figural arrangement, showing only vague surface features or simple marks rather than the target\u2019s iconography.",
+ "set": "same_control",
+ "i": 15,
+ "target": "tanum_0049",
+ "planted": "tanum_0076",
+ "cands": [
+  "rapa_nui_0065",
+  "tanum_0076",
+  "persepolis_0004",
+  "egypt_0064",
+  "gotland_0125",
+  "egypt_0053",
+  "persepolis_0000",
+  "catalhoyuk_0065",
+  "maya_0047",
+  "egypt_0066"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "egypt",
+  "gotland",
+  "catalhoyuk",
+  "egypt",
+  "rapa_nui",
+  "maya",
+  "persepolis",
+  "egypt",
+  "persepolis"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

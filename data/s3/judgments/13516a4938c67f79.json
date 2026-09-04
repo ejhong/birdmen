@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "profile animal figure/quadruped",
+  "curving serpentine line or snake-like form",
+  "rounded circle/disc or loop motif",
+  "schematic animal relief with simple outlines"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both surfaces include schematic profile animal imagery, with a quadruped-like figure and nearby curving or looped forms rendered in simple raised/outlined conventions. The biggest difference is that A is a dense multi-register composition with many different creatures and a horizontal patterned band, while B is a sparse panel dominated by one animal and a large circular/loop motif, with no matching sequence or scene structure.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0207",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  608
+ ]
+}

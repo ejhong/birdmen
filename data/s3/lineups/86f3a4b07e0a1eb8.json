@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  1,
+  5,
+  8,
+  9,
+  7,
+  3,
+  6,
+  4,
+  2
+ ],
+ "most_similar_reason": "Candidate 10 is, like the target, an upright slab whose face is divided by horizontal dividing lines into stacked registers filled with small schematic figures and repeated pictographic signs in shallow relief, the same combination of picture-scene and sign-row organisation.",
+ "least_similar_reason": "Candidate 2 shows a single large linear boat with crew-strokes and a few isolated figures drawn as flat painted outlines on open rock, with none of the target's register bands, relief-carved birds, animals or repeated sign-like motifs.",
+ "set": "moai_iso_among_random",
+ "i": 15,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0047",
+  "tanum_0238",
+  "persepolis_0047",
+  "tanum_0063",
+  "maya_0094",
+  "gotland_0004",
+  "rapa_nui_hoa_iso",
+  "egypt_0049",
+  "persepolis_0027",
+  "egypt_0039"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "gotland",
+  "persepolis",
+  "egypt",
+  "tanum",
+  "persepolis",
+  "maya",
+  "tanum",
+  "egypt",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 6
+}

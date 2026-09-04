@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  2,
+  6,
+  9,
+  3,
+  8,
+  7,
+  1,
+  5,
+  10
+ ],
+ "most_similar_reason": "Candidate 4 shows, like the target, a single squat blocky monument carved in low relief with one frontal human figure whose oversized elaborate headdress fills the upper zone and whose torso bears rounded ornament elements, in the same schematic, shallow-outlined carving manner.",
+ "least_similar_reason": "Candidate 10 shows nothing but a narrow vertical column of repeated abstract sign blocks with no human figure, headdress or pectoral, so it shares no depicted element with the target beyond being a carved upright.",
+ "set": "p43_iso_among_monoliths",
+ "i": 23,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0000",
+  "maya_0106",
+  "maya_0138",
+  "anatolia_ppn_p43iso",
+  "maya_0077",
+  "maya_0027",
+  "maya_0110",
+  "egypt_0074",
+  "maya_0113",
+  "maya_0149"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "egypt",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

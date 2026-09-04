@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low relief carving on a horizontal rectangular panel",
+  "human figures in profile",
+  "quadruped animals in profile (lion / feline, bovine, horse)",
+  "lion attacking or engaged with another animal",
+  "procession-like frieze running left to right",
+  "figures with beards and headdresses in profile"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both are horizontal low-relief friezes with strict profile human figures and quadrupeds, and both include the specific motif of a lion in combat with another animal, plus bearded profile heads with headgear. But A shows a static ceremonial procession of standing tribute-bearers set against architecture (columns, stairways, parapets), while B shows a dynamic hunt with a wheeled chariot, galloping horses and drawn bows \u2014 no chariot or motion in A, no architecture in B.",
+ "a": "persepolis_0029",
+ "b": "assyria_0040",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  321
+ ]
+}

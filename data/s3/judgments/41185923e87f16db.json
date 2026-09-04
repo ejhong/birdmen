@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "tall vertical slab/stele surface divided into stacked horizontal registers",
+  "animals rendered in profile (quadrupeds and birds)",
+  "bird in profile with prominent beak",
+  "repeated rows of small figures/signs",
+  "band of small repeated motifs across the width"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces are tall upright slabs whose content is organised into stacked horizontal bands containing rows of profile creatures, including birds with prominent beaks, which is the most specific correspondence but also a very generic one. Otherwise the depicted content diverges completely: B centres on human figures adoring a rayed disc above an offering table with dense columns of writing, while A shows large isolated animals (a bird of prey, a fox-like quadruped, a long-necked bird, a snake) and a chevron band with no human actors or scene of interaction, and the two use quite different rendering conventions (bold sparse animal reliefs versus fine dense linear signs).",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0013",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2924,
+  844
+ ]
+}

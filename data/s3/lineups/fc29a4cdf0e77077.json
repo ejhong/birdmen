@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  7,
+  3,
+  8,
+  2,
+  4,
+  1,
+  6,
+  10,
+  9
+ ],
+ "most_similar_reason": "Candidate 5 is closest because it shows a similarly rendered low-relief, profile, robed human figure with formal posture, detailed hair/headgear, and raised/held ritual attributes, matching the target\u2019s figural iconography and drawing conventions more than any other candidate.",
+ "least_similar_reason": "Candidate 9 is least similar because it shows no clear comparable iconographic subject\u2014no human figures, attributes, animals, symbols, or organized scene corresponding to the target\u2019s paired ceremonial figures.",
+ "set": "same_control",
+ "i": 28,
+ "target": "assyria_0095",
+ "planted": "assyria_0084",
+ "cands": [
+  "tanum_0034",
+  "maya_0045",
+  "maya_0027",
+  "anatolia_ppn_0205",
+  "persepolis_0067",
+  "maya_0095",
+  "assyria_0084",
+  "anatolia_ppn_0267",
+  "gotland_0133",
+  "egypt_0037"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "anatolia_ppn",
+  "maya",
+  "persepolis",
+  "egypt",
+  "anatolia_ppn",
+  "tanum",
+  "gotland"
+ ],
+ "model": "gpt",
+ "planted_rank": 2
+}

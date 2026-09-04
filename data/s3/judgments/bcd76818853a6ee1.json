@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "profile animal figures",
+  "standing/vertical human or human-like figures",
+  "horizontal bands or registers",
+  "repeated geometric or decorative patterning"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is that both surfaces include low-relief, outline-based figures with profile animals and some horizontal patterned/register-like organization. The biggest difference is that B shows an orderly procession of human figures with horned quadrupeds beside a tree and floral borders, while A is a much more schematic, stacked composition of disparate animal-like and abstract signs with no comparable procession or human-animal interaction.",
+ "a": "anatolia_ppn_p43full",
+ "b": "persepolis_0032",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  672
+ ]
+}

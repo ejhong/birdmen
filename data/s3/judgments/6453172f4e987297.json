@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "anthropomorphic or human figure",
+  "incised/outlined geometric marks",
+  "circular motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The main shared content is only broad: both include human or anthropomorphic forms and some linear/circular decorative marking. A shows a horizontal processional scene with multiple profile humans, an animal, and ornamental borders, while B shows a single frontal, highly schematic anthropomorphic figure with body/facial symbols, so the iconographic schemes and arrangements are fundamentally different.",
+ "a": "persepolis_0073",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  848
+ ]
+}

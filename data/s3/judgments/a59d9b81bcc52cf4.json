@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "human figure(s)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "1",
+ "justification": "Image A shows a row of roughly rendered, weathered anthropomorphic figures in a repeated frieze-like arrangement carved on a rough boulder surface, while Image B shows a single, detailed, finely modeled standing deity-like figure with wings, a horned crown, raised arm, and an attendant, carved on a smooth slab. The only broad commonality is the presence of human-like figures in relief, but their form, pose, number, attributes, and composition differ entirely, with no shared specific motifs such as headdress, wings, or gesture in A, and no repeated frieze structure in B.",
+ "a": "rapa_nui_0124",
+ "b": "assyria_0034",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  3149,
+  282
+ ]
+}

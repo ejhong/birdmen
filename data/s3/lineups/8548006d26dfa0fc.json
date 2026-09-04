@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  1,
+  9,
+  8,
+  7,
+  6,
+  2,
+  5,
+  10,
+  3
+ ],
+ "most_similar_reason": "Candidate 4 is most similar because it shows the same distinctive arrangement of a tall vertical, sign-filled upper/central element combined with a broad frontal mask-like creature face with paired circular eye forms and curving banded features below.",
+ "least_similar_reason": "Candidate 3 is least similar because it consists mainly of abstract incised arcs, circles, and dividing lines, without the target\u2019s frontal creature mask, glyph-like vertical column, or comparable figural/iconographic relationships.",
+ "set": "p43_iso_among_monoliths",
+ "i": 5,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0149",
+  "egypt_0072",
+  "gotland_0112",
+  "maya_0147",
+  "maya_0110",
+  "maya_0158",
+  "maya_0130",
+  "anatolia_ppn_p43iso",
+  "egypt_0068",
+  "maya_0115"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 4
+}

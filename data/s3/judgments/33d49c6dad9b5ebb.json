@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "frontal standing human figure with arms raised/bent outward",
+  "human figure with visible fingers/hands",
+  "schematic geometric ornament accompanying the figure"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "Both depict frontally posed anthropomorphic figures with arms bent and hands displayed, which is a near-universal convention rather than a distinctive shared motif; A additionally shows boats, a spiral, and a long line crossed by small stick figures, none of which appear in B. B is a single densely ornamented, elaborately costumed figure rendered with dense curvilinear infill and headdress detail, whereas A is a sparse multi-figure scene of matchstick silhouettes with no interior detail \u2014 the manner of depiction and scene structure are entirely different.",
+ "a": "tanum_0082",
+ "b": "maya_0056",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3099,
+  305
+ ]
+}

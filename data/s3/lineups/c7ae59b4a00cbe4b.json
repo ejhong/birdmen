@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  2,
+  10,
+  4,
+  3,
+  6,
+  7,
+  9,
+  1,
+  8
+ ],
+ "most_similar_reason": "Candidate 5 is most similar because it is dominated by frontal, highly schematic anthropomorphic/mask-like imagery with large round facial elements and curving incised features arranged vertically, echoing the target\u2019s front-facing abstract figure with circular eyes/mouth or torso marks and broad curved bands.",
+ "least_similar_reason": "Candidate 8 is least similar because it depicts a single naturalistic profile animal, lacking the target\u2019s frontal anthropomorphic/mask-like composition, circular facial or body symbols, and organized curvilinear patterning.",
+ "set": "p43_iso_among_monoliths",
+ "i": 31,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "anatolia_ppn_p43iso",
+  "maya_0060",
+  "egypt_0072",
+  "gotland_0113",
+  "maya_0019",
+  "maya_0092",
+  "egypt_0039",
+  "egypt_0061",
+  "maya_0110",
+  "gotland_0111"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "gotland",
+  "maya",
+  "gotland",
+  "maya",
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 9
+}

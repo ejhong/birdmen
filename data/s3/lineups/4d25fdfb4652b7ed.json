@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  3,
+  2,
+  9,
+  8,
+  4,
+  1,
+  6,
+  5,
+  10
+ ],
+ "most_similar_reason": "Candidate 7 is most similar because it shows a tall relief surface organized around a schematic profile human/creature figure with adjacent sign-like motifs in the same linear, shallow-carved style as the target\u2019s register-like figural-and-symbolic composition.",
+ "least_similar_reason": "Candidate 10 is least similar because it offers no clear comparable figural scene, repeated iconographic signs, animals, or structured relationships, unlike the target\u2019s organized relief of figures and motifs.",
+ "set": "moai_iso_among_random",
+ "i": 5,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "gotland_0112",
+  "assyria_0040",
+  "egypt_0042",
+  "egypt_0053",
+  "egypt_0075",
+  "rapa_nui_hoa_iso",
+  "maya_0111",
+  "persepolis_0017",
+  "persepolis_0027",
+  "tanum_0070"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "persepolis",
+  "egypt",
+  "persepolis",
+  "gotland",
+  "egypt",
+  "tanum",
+  "assyria"
+ ],
+ "model": "gpt",
+ "planted_rank": 8
+}

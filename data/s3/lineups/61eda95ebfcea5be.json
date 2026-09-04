@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  6,
+  7,
+  8,
+  4,
+  1,
+  10,
+  3,
+  9,
+  2
+ ],
+ "most_similar_reason": "Candidate 5 is most similar because it also presents a single, vertically centered, front-facing anthropomorphic figure on an upright surface, rendered schematically with a large head/upper body and carved internal details rather than a narrative scene.",
+ "least_similar_reason": "Candidate 2 is least similar because it shows no comparable anthropomorphic figure, mask-like face, circular body motif, or organized carved iconography matching the target.",
+ "set": "p43_iso_among_monoliths",
+ "i": 8,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "gotland_0026",
+  "egypt_0061",
+  "egypt_0073",
+  "maya_0087",
+  "maya_0101",
+  "maya_0106",
+  "maya_0051",
+  "maya_0060",
+  "egypt_0076",
+  "anatolia_ppn_p43iso"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "gotland",
+  "egypt",
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 7
+}

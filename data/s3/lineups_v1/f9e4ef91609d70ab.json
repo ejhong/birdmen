@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  5,
+  9,
+  6,
+  3,
+  1,
+  2,
+  7,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 4, like the target, is a free-standing weathered block of coarse stone whose whole rounded, irregular surface is covered with bold low-relief curvilinear scrolls and spiral-like motifs rather than a flat framed panel.",
+ "least_similar_reason": "Candidate 10 is a flat, horizontal expanse of rock incised with tiny linear stick-figure and boat outlines, sharing neither the monolithic three-dimensional block form nor the large-scale raised relief of the target.",
+ "set": "p43_among_random",
+ "i": 18,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "persepolis_0066",
+  "assyria_0105",
+  "gotland_0000",
+  "maya_0127",
+  "anatolia_ppn_p43full",
+  "egypt_0048",
+  "assyria_0118",
+  "egypt_0018",
+  "maya_0149",
+  "tanum_0061"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "tanum",
+  "assyria",
+  "persepolis",
+  "egypt",
+  "maya",
+  "egypt",
+  "gotland",
+  "maya",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

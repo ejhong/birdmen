@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "central anthropomorphic or human figure",
+  "head above torso in an upright/standing orientation",
+  "facial features",
+  "incised/geometric linear markings"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main correspondence is that both surfaces feature a prominent upright human or anthropomorphic figure with a head and torso, with some linear detailing. The biggest difference is that A is a highly schematic frontal body/idol-like figure covered with abstract body symbols and bands, while B shows a more naturalistic standing human figure in a surrounding relief field with other small forms, so the iconographic scheme is not shared.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_0011",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  674
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  2,
+  5,
+  6,
+  8,
+  10,
+  3,
+  1,
+  4,
+  9
+ ],
+ "most_similar_reason": "Candidate 7 shows the same thing as the target: a shallow relief panel filled with human figures in strict profile, arranged in a horizontal narrative band with figures, animals and vehicles processing in one direction in the same low-relief, outline-and-flat-plane carving style.",
+ "least_similar_reason": "Candidate 9 is a free-standing three-dimensional head-and-torso monolith with no scene, no procession and essentially no relief imagery, sharing none of the target's ranked rows of profile figures bearing objects.",
+ "set": "related_control",
+ "i": 13,
+ "target": "persepolis_0104",
+ "planted": "assyria_0088",
+ "cands": [
+  "anatolia_ppn_0103",
+  "egypt_0066",
+  "rapa_nui_0099",
+  "maya_0000",
+  "maya_0138",
+  "mississippian_0045",
+  "assyria_0088",
+  "anatolia_ppn_0045",
+  "rapa_nui_0045",
+  "tanum_0347"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "rapa_nui",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "maya",
+  "mississippian",
+  "egypt",
+  "rapa_nui",
+  "tanum",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "animal with large emphasized head",
+  "human or humanoid figure with visible arms/hands",
+  "snake-like elongated body with incised/hatched surface",
+  "hatched or netted band of pattern",
+  "stacked vertical arrangement of figures on an upright monolith",
+  "animal positioned above/over a human figure"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces present an upright monolith carrying a vertically stacked sequence in which big-headed animals occupy the upper zone directly above small schematic human figures with visible arms and hands, and both include an elongated hatched serpentine body and areas of net/hatch infill, a fairly specific combination. The main difference is the mode of depiction and content detail: A is a flat multi-register relief with distinct bands of birds, quadrupeds and a pattern strip read as a frieze, whereas B is a three-dimensional composite in which a single predator-headed creature is fused over a frontal human head, without registers or bird imagery.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0267",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  893
+ ]
+}

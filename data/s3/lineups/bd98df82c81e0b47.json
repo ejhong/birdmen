@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  10,
+  2,
+  1,
+  6,
+  8,
+  9,
+  7,
+  3,
+  5
+ ],
+ "most_similar_reason": "Candidate 4, like the target, is a single boulder-like block whose whole surface is given over to a large, bold, curvilinear stylized face/mask design with heavy brow and eye forms, with no narrative scene, figures or sign-rows accompanying it.",
+ "least_similar_reason": "Candidate 5 shows nothing but a grid of repeated inscribed sign blocks covering a slab, with no face, head or bodily form at all, which is the opposite of the target's single monumental schematic human visage.",
+ "set": "same_control_monoliths",
+ "i": 12,
+ "target": "anatolia_ppn_0155",
+ "planted": "anatolia_ppn_0205",
+ "cands": [
+  "anatolia_ppn_0205",
+  "mississippian_0015",
+  "maya_0147",
+  "maya_0114",
+  "maya_0005",
+  "egypt_0065",
+  "maya_0085",
+  "egypt_0044",
+  "egypt_0067",
+  "gotland_0007"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "egypt",
+  "mississippian",
+  "maya",
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt",
+  "maya",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

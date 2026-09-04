@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  2,
+  3,
+  5,
+  9,
+  1,
+  8,
+  7,
+  4,
+  10
+ ],
+ "most_similar_reason": "Candidate 6 shows an upright pillar-like stone bearing carved relief that turns the monolith itself into a schematic body with head and surface motifs, matching the target's tall carved pillar with reliefs applied to its faces.",
+ "least_similar_reason": "Candidate 10 shows only an undecorated masonry surface with no discernible creatures, figures or motifs to compare with the target's animals in relief.",
+ "set": "moai_among_random",
+ "i": 32,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0044",
+  "gotland_0124",
+  "assyria_0079",
+  "maya_0050",
+  "tanum_0240",
+  "rapa_nui_0113",
+  "tanum_0082",
+  "egypt_0013",
+  "persepolis_0066",
+  "egypt_0010"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "persepolis",
+  "egypt",
+  "gotland",
+  "tanum",
+  "tanum",
+  "egypt",
+  "assyria",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

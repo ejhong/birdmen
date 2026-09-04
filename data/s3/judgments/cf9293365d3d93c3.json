@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "quadruped animal in profile"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces depict quadruped animals shown in profile, which is the main point of correspondence. However, panel A renders them as thin, scratched linear outlines in an overlapping, schematic composition, while panel B shows a single large animal carved in true relief with volumetric modeling (bristled back, tusk, legs) plus a smaller separate figure below, giving a very different sense of arrangement and rendering technique.",
+ "a": "tanum_0359",
+ "b": "anatolia_ppn_0088",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  3349,
+  720
+ ]
+}

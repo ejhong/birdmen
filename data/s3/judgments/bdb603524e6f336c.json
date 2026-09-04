@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figures shown in profile",
+  "low relief carving of figures facing the same direction",
+  "raised/gesturing arms and hands",
+  "registers or panels of writing signs",
+  "procession or grouping of multiple attendant figures"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both depict human figures rendered in profile relief with raised hands and are accompanied by dense script signs, but these are near-universal conventions rather than a shared scheme. A shows only bearded heads and torsos of figures in tall headgear with elaborately curled hair, while B shows a full ritual scene with a rayed disc whose rays end in hands, an offering table, and slender elongated worshippers \u2014 no distinctive motif is shared.",
+ "a": "assyria_0111",
+ "b": "egypt_0028",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  281
+ ]
+}

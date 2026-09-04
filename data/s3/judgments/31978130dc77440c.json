@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human head in profile facing left",
+  "low-relief carving of a bearded/headdressed figure",
+  "patterned hair or headdress rendered as parallel incised strands",
+  "shoulder/torso of a figure at lower right of the head",
+  "rectangular framed element beside the figure"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both surfaces show a low-relief human head in strict left-facing profile with a tall headdress and hair rendered as fine parallel incised strands, the head set at upper left with the shoulder and body continuing to the lower right; B additionally has a rectangular panel or object at the right beside the figure. The differences are in specificity of detail: A shows an elaborately curled beard, ear with earring and richly patterned garment fringes, while B's figure is beardless and much plainer with fewer distinguishable attributes, so the shared scheme is a generic profile-portrait relief rather than a demonstrably identical scene.",
+ "a": "assyria_0128",
+ "b": "egypt_0053",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3299,
+  354
+ ]
+}

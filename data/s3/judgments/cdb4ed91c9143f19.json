@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human figure",
+  "circular/disc motif",
+  "low-relief carved detail on a flat surface",
+  "patterned/striated texture (fleece in A, incised bands in B)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "Both depict human forms and include roundel/disc motifs carved in relief, but that is about as generic as correspondences get: A shows a narrative procession of profile figures leading horned rams past a tree, framed above and below by continuous rosette borders, while B is a single frontal, blocky anthropomorphic figure whose surface bears isolated abstract signs (rings, curved bands, appendage-like shapes) with no scene, no animals and no register framing. The manner of depiction also differs sharply: fine, detailed, naturalistic profile carving with dense patterned infill versus massive, schematic, frontal body with sparse incised symbols.",
+ "a": "persepolis_0032",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3174,
+  566
+ ]
+}

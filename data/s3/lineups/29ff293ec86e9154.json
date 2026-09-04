@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  10,
+  1,
+  5,
+  4,
+  3,
+  2,
+  7,
+  9,
+  6
+ ],
+ "most_similar_reason": "Candidate 8 shows a vertical stone surface with multiple carved relief figures and creatures arranged in a comparable schematic style and stacked composition.",
+ "least_similar_reason": "Candidate 6 is a three-dimensional standing humanoid statue with no pictorial relief, birds, geometric infill, or multi-element scene.",
+ "set": "hard",
+ "i": 3,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0133",
+  "gotland_0125",
+  "gotland_0123",
+  "egypt_0027",
+  "egypt_0012",
+  "rapa_nui_0113",
+  "gotland_0115",
+  "maya_0047",
+  "gotland_0116",
+  "tanum_0359"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "gotland",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "grok",
+ "planted_rank": 10
+}

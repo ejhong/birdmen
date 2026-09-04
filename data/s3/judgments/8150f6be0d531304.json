@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief human figures in profile",
+  "bearded male figures",
+  "figures shown in a horizontal register/frieze",
+  "weapons or handheld implements (spear/staff, bow)",
+  "stylized surface detailing of hair and beard in rows of curls"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both show low-relief bearded men in profile arranged along a horizontal band, with hair and beards rendered as regular rows of curls and figures carrying weapons, which is a fairly specific shared convention. But the depicted subjects differ fundamentally: A is a static ceremonial procession of standing robed dignitaries with a rosette border above and below, while B is a crowded, dynamic battle/hunt scene with galloping horses, chariot wheels, fallen nude figures, animals and water or ground swirls filling the field.",
+ "a": "persepolis_0004",
+ "b": "assyria_0039",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3199,
+  321
+ ]
+}

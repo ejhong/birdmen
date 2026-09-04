@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "fanged/toothed predator or beast head shown frontally at the top",
+  "anthropomorphic figure with head and schematic arms placed below the beast head",
+  "figures stacked vertically one above another in registers",
+  "row of repeated animal heads / repeated motifs",
+  "schematic hands or limbs bent inward toward the body",
+  "large staring eyes rendered as ovals"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "3",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both surfaces present a vertically stacked hierarchy in which a toothed, wide-mouthed predatory head occupies the top and an anthropomorphic figure with schematic inward-bent arms and large oval eyes sits directly beneath it, a fairly specific and arbitrary combination rather than a generic animal-plus-human pairing. The main difference is that B additionally carries a whole population of secondary creatures (birds, snake-like and long-necked animals, a squatting figure) spread over a flat surface in bands, while A is reduced to just two or three superimposed heads/bodies with no accompanying fauna.",
+ "a": "anatolia_ppn_0264",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  753
+ ]
+}

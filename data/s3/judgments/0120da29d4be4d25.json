@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "large standing figure in strict profile filling the panel",
+  "bearded head with elaborately rendered hair/curls",
+  "figure holding a long vertical implement/object in the raised near hand",
+  "long fringed and pleated robe rendered with fine parallel lines",
+  "decorative/inscribed horizontal band running along the top edge of the panel",
+  "low-relief single-figure panel with the figure facing left/right in profile",
+  "detailed rendering of arm musculature and hands gripping objects"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show a single monumental profile figure, bearded and in a long fringed pleated robe, gripping an object with the raised hand, set beneath a horizontal band that caps the panel, and both render hair, fringe and drapery through fine repeated parallel/curl conventions in shallow relief. The decisive difference in content is that A's figure is a raptor-headed winged being holding a bucket and cone among stylised sacred plants beneath a text band, whereas B's is a wholly human head with a tall headdress holding a spear beneath a petal-arc border, with no wings or vegetation.",
+ "a": "assyria_0120",
+ "b": "persepolis_0035",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3099,
+  791
+ ]
+}

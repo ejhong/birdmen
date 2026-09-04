@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "row of arch-topped rectangular/loop-like motifs",
+  "horizontal band of repeated triangular/chevron or zigzag signs",
+  "profile animal figures beneath the patterned band",
+  "schematic bird-like or long-necked animal in profile",
+  "elongated snake-like or curved linear animal forms",
+  "outline/incised relief style with sparse internal detailing"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "8",
+ "justification": "The strongest correspondence is the distinctive combination of several arch-topped rectangular motifs set above a horizontal triangular/chevron band, with schematic profile animals occupying the zone below. The main difference is that B includes a more complex vertical arrangement with additional distinct creatures such as a scorpion and lower figures, while A is a shorter horizontal panel with fewer and less varied animal motifs.",
+ "a": "anatolia_ppn_0106",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  682
+ ]
+}

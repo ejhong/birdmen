@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  6,
+  9,
+  2,
+  7,
+  4,
+  1,
+  3,
+  5,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 shows animals depicted in profile in a carved relief format similar to the target's register-based arrangement of animal figures rendered in profile.",
+ "least_similar_reason": "Candidate 10 depicts a single freestanding carved figure/statue with no comparable animal iconography, registers, or narrative arrangement found in the target.",
+ "set": "moai_among_random",
+ "i": 10,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "assyria_0139",
+  "tanum_0007",
+  "egypt_0014",
+  "maya_0092",
+  "egypt_0056",
+  "assyria_0111",
+  "tanum_0079",
+  "persepolis_0084",
+  "assyria_0041",
+  "rapa_nui_0113"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "tanum",
+  "egypt",
+  "persepolis",
+  "assyria",
+  "maya",
+  "tanum",
+  "assyria",
+  "assyria",
+  "egypt"
+ ],
+ "model": "sonnet",
+ "planted_rank": 10
+}

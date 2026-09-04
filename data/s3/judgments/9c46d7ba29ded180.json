@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief carved panel with human figure",
+  "standing human figure in profile/frontal hybrid with elaborate headdress",
+  "glyph-like blocks or sign panel",
+  "kneeling or smaller subordinate figure at lower level",
+  "held staff/bar-like object"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both are shallow relief panels showing an elaborately headdressed standing human figure holding an object, accompanied by a smaller lower figure and a grid of square glyph-like signs, which is a fairly specific combination shared by both. The main difference is that A is largely eroded/incomplete, with a prominent radiating fan/plume motif at top and much of the field lost, so the number of figures, their postures and specific attributes cannot be matched in detail to B's two clearly interacting figures.",
+ "a": "egypt_0027",
+ "b": "maya_0110",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3224,
+  313
+ ]
+}

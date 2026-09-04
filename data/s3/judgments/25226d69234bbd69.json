@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "upright anthropomorphic figure or body",
+  "head/face at upper part of figure",
+  "arms or arm-like side appendages",
+  "circular or disc motifs on/near the torso",
+  "horizontal banding across the body",
+  "incised/relief curvilinear decorative lines"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both surfaces center an upright human-like body with a head above a torso and circular/body-band motifs integrated into the figure. The biggest difference is that A is a simple, schematic frontal torso-like figure, while B is a dense scene with an elaborately dressed standing figure, headdress, surrounding scrolls/serpent-like forms, and glyphic details not paralleled in A.",
+ "a": "rapa_nui_0113",
+ "b": "maya_0027",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1883,
+  701
+ ]
+}

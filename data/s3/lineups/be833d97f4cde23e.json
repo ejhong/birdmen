@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  10,
+  3,
+  8,
+  4,
+  7,
+  5,
+  1,
+  2,
+  9
+ ],
+ "most_similar_reason": "Candidate 6 shows the same core content as the target: shallow-relief animals rendered in strict profile with outlined bodies and interior patterning, set out in a horizontal band alongside other figures, matching the target's register-by-register parade of profile creatures.",
+ "least_similar_reason": "Candidate 9 shows no discernible figures, creatures, signs or ornamental bands at all, so it shares none of the target's depicted subject matter.",
+ "set": "moai_iso_among_random",
+ "i": 33,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0005",
+  "egypt_0035",
+  "rapa_nui_hoa_iso",
+  "tanum_0341",
+  "maya_0056",
+  "persepolis_0020",
+  "egypt_0046",
+  "tanum_0334",
+  "catalhoyuk_0065",
+  "persepolis_0075"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "persepolis",
+  "tanum",
+  "maya",
+  "catalhoyuk",
+  "egypt",
+  "maya",
+  "tanum",
+  "egypt",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 3
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "carved stone surface",
+  "figures/animals shown in profile",
+  "bird or bird-like form",
+  "horizontal band or register of patterning",
+  "tree/branch-like motif"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces use carved profile imagery with a horizontal patterned register above or among the figures, and both include bird- or branch-like forms. The biggest difference is that A is a carefully modelled, symmetrical relief dominated by one large standing hybrid figure, while B is a rougher, stacked composition of schematic animals and signs on separate stone blocks.",
+ "a": "assyria_0120",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1256,
+  663
+ ]
+}

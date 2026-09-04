@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "human head/face rendered frontally or in profile",
+  "incised linear detailing (rows of teeth / brickwork courses rendered as grids of short lines)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "The only real overlap is that both depict human heads/faces and use fine incised linear patterning (the grid of teeth in A, the grids of masonry and crenellation in B). Otherwise A is a single sculpted head in the round with a heavy lobed headdress and no scene, while B is a narrative low relief of a multi-figure siege with archers, a wheeled ram and fortified towers \u2014 different subject, arrangement and relational structure entirely.",
+ "a": "anatolia_ppn_0129",
+ "b": "assyria_0092",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  266
+ ]
+}

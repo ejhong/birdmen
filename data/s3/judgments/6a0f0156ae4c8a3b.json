@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "bearded male human figures in profile",
+  "conical/rounded headdress or cap",
+  "low-relief horizontal frieze on a single ground line",
+  "figures all facing the same direction",
+  "weapons (bow, spear/quiver)",
+  "stylised curled beard and hair rendered as regular rows of curls"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both are continuous low-relief friezes of strictly profile bearded men in tall caps with weapons, with beards and hair rendered as regular rows of tight curls, which is a fairly specific shared convention. But the subjects differ sharply: A is a dynamic hunt with a horse-drawn chariot, an archer drawing his bow and attacking lions, while B is a static procession of robed dignitaries touching one another and carrying no game or animals at all.",
+ "a": "assyria_0040",
+ "b": "persepolis_0047",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  735
+ ]
+}

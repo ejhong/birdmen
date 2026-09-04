@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "large single anthropomorphic figure filling the field",
+  "long stylized hair falling in ordered locks over the shoulders",
+  "disc/rosette pendant worn on the chest",
+  "necklace or collar band across the chest",
+  "patterned garment or body markings"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both depict a single dominant human figure with long, regularly ordered hair locks and a prominent disc pendant hung on the chest over a collar, a moderately specific combination. But A is a frontal, massive, largely undetailed figure with no arms or attributes visible, whereas B is a strict-profile winged figure with a raised hand, a bucket and cone, and elaborately patterned fringed dress, so the postures, attributes and rendering conventions differ sharply.",
+ "a": "rapa_nui_0113",
+ "b": "assyria_0146",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2949,
+  734
+ ]
+}

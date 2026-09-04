@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "repeated short vertical strokes along a horizontal line",
+  "long horizontal or curving linear forms",
+  "small isolated marks or short bars"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of comb-like rows of short vertical strokes attached to horizontal linear elements, visible on the boat-like forms in A and in the patterned band across B. The biggest difference is that A is a dispersed red painted linear composition on a broad sloping rock face, while B is a compact carved relief organized into stacked, framed areas with larger animal-like figures.",
+ "a": "tanum_0341",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  658
+ ]
+}

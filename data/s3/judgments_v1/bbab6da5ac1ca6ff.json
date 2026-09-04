@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "anthropomorphic or standing human-like figure",
+  "circle or disc/round protrusion",
+  "horizontal or parallel band of pattern"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both show a human-like stone form accompanied by repeated parallel/incised bands and a round disc-like feature. The biggest difference is that A is a flat, densely filled panel of many linear pictorial motifs in registers, while B is a single fragmentary, more three-dimensional figure with very sparse decoration.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0122",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  646
+ ]
+}

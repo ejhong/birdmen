@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "frontal standing/anthropomorphic figure occupying the whole monolith",
+  "elaborate headdress or headgear at the top",
+  "large ornament/pendant on the chest (disc or medallion)",
+  "carving in low relief on a tall upright slab-like stone",
+  "arms held against the body with hands near the waist/chest",
+  "symmetrical frontal composition with vertical axis"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict a single frontal anthropomorphic figure carved in low relief filling a tall upright monolith, with a broad headdress/cap above, a prominent circular chest ornament, and arms folded in toward the torso, and both use a rigid symmetrical vertical composition. However A shows a slender full-length figure in an ornate feathered costume with a fully articulated body and feet on a defined ground line plus flanking dense glyph-like detail, whereas B is a squat massive block with a huge simplified head, no legs, and much coarser, more abstract surface motifs, so the specific costume elements and proportions differ substantially.",
+ "a": "maya_0101",
+ "b": "rapa_nui_0045",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2999,
+  405
+ ]
+}

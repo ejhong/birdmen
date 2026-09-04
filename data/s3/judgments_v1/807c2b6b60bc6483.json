@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "animal/quadruped in profile",
+  "incised or low-relief linear decoration",
+  "groups of parallel or repeated lines"
+ ],
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The most specific correspondence is the presence of profile animal imagery combined with pecked/incised linear markings on rough stone. The biggest difference is compositional: A reads as a single worn, elongated animal-shaped or animal-dominated object with sparse decoration, while B is a tall rectangular surface densely organized into multiple registers with many figures and patterned bands.",
+ "a": "anatolia_ppn_0144",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  515
+ ]
+}

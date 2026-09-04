@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "profile animal/quadruped-like figure",
+  "horizontal band with repeated short vertical marks",
+  "schematic human or human-limb forms",
+  "linear decoration on a stone surface"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of a long horizontal band filled with repeated short upright marks, with small profile creatures or figures associated nearby. The biggest difference is that A is a sparse red painted composition dominated by a boat-like form, while B is a dense carved stone relief arranged in stacked registers with many separate figures.",
+ "a": "tanum_0237",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  595
+ ]
+}

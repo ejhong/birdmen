@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "standing figure(s) in strict profile",
+  "long fringed/pleated robe reaching the ankles",
+  "raised arm carrying or holding an object",
+  "curled/patterned hair and beard rendered as regular ordered rows",
+  "rosette / stylized floral motifs",
+  "low relief with figures on a single ground line",
+  "hands and feet shown in profile with detailed toes/nails"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict robed, profile human-bodied figures in low relief with strongly stylized, regularly patterned hair/beard and drapery, arms raised holding objects, accompanied by rosette/floral motifs, and both use the same conventions of ordered curl rows and anatomically detailed profile feet. The biggest differences in content are the number and organization \u2014 A is a repeating file of many identical human attendants processing along a band above a rosette frieze, while B is a single large bird-headed winged figure isolated beside a stylized plant, with no procession and no human head or wings in A.}",
+ "a": "persepolis_0097",
+ "b": "assyria_0071",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3249,
+  374
+ ]
+}

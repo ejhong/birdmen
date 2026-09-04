@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "cross motif",
+  "carved/inscribed surface"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "Panel A shows a worn, roughly hewn stone with faint traces of vertical elements and possibly figural or geometric carving in a coarse, weathered style, while panel B shows a smooth incised plaque with a clear horizontal inscription band and an elaborate interlace cross with foliate scrollwork. The only loose commonality is the general presence of a cross-like element and some kind of carved marking, but the specific forms, arrangement (inscription plus rosette-like cross vs. indistinct figural carving), and stylistic conventions (fine linear interlace vs. rough relief) are entirely different.",
+ "a": "rapa_nui_0053",
+ "b": "gotland_0003",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  3324,
+  295
+ ]
+}

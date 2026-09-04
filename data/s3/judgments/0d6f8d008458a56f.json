@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "bearded male figure in strict profile facing right",
+  "stylised beard rendered as rows of regular curls/beads",
+  "elaborate headdress/tall crown or cap",
+  "earring/ear ornament",
+  "patterned garment with beaded or fringed borders",
+  "low-relief carving of court figures on a stone panel",
+  "hair rendered as dotted/bead-like curls at the nape"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "7",
+ "justification": "Both depict bearded dignitaries in strict profile facing the same direction, with the identical conventions of beard and hair as rows of tight bead-like curls, an ear ornament, a tall headdress and beaded garment borders in shallow relief \u2014 an arbitrary and highly specific combination. The main difference is scope: A shows two full standing figures interacting, one presenting a round object to the other, while B is a single bust-length head and shoulders with no accompanying figure or held object.",
+ "a": "persepolis_0049",
+ "b": "assyria_0035",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3174,
+  342
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "standing human figures in profile relief",
+  "rows/procession of robed figures",
+  "long pleated garments with vertical folds",
+  "hands grasping a shaft-like object (spear/staff)",
+  "band of rosettes/floral discs below a figural register",
+  "horizontal register bands of low relief"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "6",
+ "justification": "Both depict low-relief robed standing figures in file with long vertically pleated garments, hands holding upright shafts, set above a horizontal band of rosette discs \ntemplate that is a fairly specific combination rather than a generic one. The biggest difference in depicted content is scope: A shows a whole architectural terrace scene with columns, staircases and a lion-attacking-bull group, while B shows only an isolated detail of one or two figures' torsos, arms and the rosette band, with no animal combat or architecture visible.",
+ "a": "persepolis_0029",
+ "b": "persepolis_0017",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3349,
+  827
+ ]
+}

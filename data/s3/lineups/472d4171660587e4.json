@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  5,
+  3,
+  1,
+  2,
+  7,
+  6,
+  8,
+  10,
+  9
+ ],
+ "most_similar_reason": "Candidate 4 is most similar because it shares the target\u2019s dense relief-like arrangement of stylized supernatural/zoomorphic imagery in horizontal zones, including large eye-like forms, repeated patterned bands, and profile animal bodies rendered with schematic carved outlines.",
+ "least_similar_reason": "Candidate 9 is least similar because its content is a human-and-inscription scene with relatively naturalistic standing figures and ordered text signs, lacking the target\u2019s composite zoomorphic forms, patterned animal bands, and abstracted relief style.",
+ "set": "moai_iso_among_monoliths",
+ "i": 6,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "gotland_0112",
+  "maya_0019",
+  "gotland_0131",
+  "maya_0045",
+  "gotland_0116",
+  "maya_0052",
+  "maya_0106",
+  "rapa_nui_hoa_iso",
+  "egypt_0050",
+  "egypt_0042"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "gotland",
+  "maya",
+  "gotland"
+ ],
+ "model": "gpt",
+ "planted_rank": 8
+}

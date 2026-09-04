@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "bearded male figure in strict profile facing right",
+  "hair and beard rendered as regular rows of tight curls",
+  "almond profile eye with brow ridge",
+  "headgear/band across the brow",
+  "low-relief figure with detailed patterned surface texture (feathers / fleece rendered as repeated overlapping scale-like units)",
+  "figure accompanied by held or led attributes"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show a bearded male head in strict profile facing right, with hair and beard rendered in the same convention of dense regular rows of tight curls under a banded headdress, carved in shallow relief with heavily patterned surfaces (feathering in A, fleece in B) \u2014 a fairly specific shared repertoire of conventions. The subjects differ substantially, however: A depicts a winged supernatural figure raising a hand and holding a vessel, while B depicts an ordinary attendant leading two rams whose horned heads dominate the lower field, so the depicted scenes and relationships are not the same.",
+ "a": "assyria_0034",
+ "b": "persepolis_0011",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3049,
+  765
+ ]
+}

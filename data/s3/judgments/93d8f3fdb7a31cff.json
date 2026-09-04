@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "frontal human face",
+  "pair of eyes symmetrically flanking a central vertical nose",
+  "mouth below the nose",
+  "framing headdress/wig with parallel linear striations around the face",
+  "bilateral symmetry about a vertical axis"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both can be read as a frontal human face flanked by a striated, arched framing headdress, with paired eyes either side of a central vertical nose and a mouth beneath, which is a reasonably specific shared scheme. However, A is a modelled, roughly naturalistic head in the round with plastic brow, eye sockets and lips, while B is a flat, wholly geometric rendering whose 'eyes' are crosshatched grid rectangles and whose framing is concentric ruled bands, so the conventions of depiction differ sharply and B's identification as a face is not certain.",
+ "a": "anatolia_ppn_0222",
+ "b": "gotland_0129",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  741
+ ]
+}

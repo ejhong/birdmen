@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "carved low-relief decoration on stone",
+  "standing human figure",
+  "animal in profile",
+  "horizontal band of pattern"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of shallow carved outlines on stone to show profile figures, including humans and animals, with horizontal ornamental banding. The biggest difference is compositional: A is a long, orderly horizontal procession with repeated standing figures and a large animal, while B is a vertical block with stacked, irregular motifs and a dense patterned register rather than a processional scene.",
+ "a": "persepolis_0073",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  473
+ ]
+}

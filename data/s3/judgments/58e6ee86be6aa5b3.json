@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figures in strict profile",
+  "procession/row of figures facing the same direction",
+  "figures holding objects in outstretched hands",
+  "low relief carving with incised surface detail",
+  "register-based horizontal organisation",
+  "winged/disc-like element (sun disc in B, none in A)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces show low-relief profile human figures arranged in a row along a horizontal register, with hands extended holding or presenting objects, a fairly generic processional convention. The dominant difference is that A is entirely a large-scale figural procession of bearded, robed attendants approaching a seated/standing dignitary, while B is overwhelmingly a dense field of small script signs with only a tiny figural lunette containing a winged disc, so the compositional purpose and content differ fundamentally.",
+ "a": "persepolis_0080",
+ "b": "egypt_0069",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  316
+ ]
+}

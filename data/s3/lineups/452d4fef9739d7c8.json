@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  1,
+  7,
+  9,
+  5,
+  4,
+  3,
+  10,
+  8,
+  6
+ ],
+ "most_similar_reason": "Candidate 2, like the target, is a freestanding monolith carved into an abstracted anthropomorphic body whose broad surfaces bear low-relief symbols, small creatures and curvilinear/arm-like bands laid out over the torso rather than a framed pictorial scene.",
+ "least_similar_reason": "Candidate 6 shows only ruled lines of repeated script-like signs on a flat slab, with no anthropomorphic form, no figures and none of the ring, crescent or spiral motifs that define the target.",
+ "set": "p43_among_random",
+ "i": 35,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "maya_0101",
+  "anatolia_ppn_p43full",
+  "maya_0095",
+  "persepolis_0084",
+  "maya_0129",
+  "gotland_0004",
+  "maya_0106",
+  "tanum_0030",
+  "gotland_0026",
+  "tanum_0119"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "gotland",
+  "persepolis",
+  "tanum",
+  "maya",
+  "maya",
+  "gotland",
+  "maya",
+  "maya",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

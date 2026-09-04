@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "low-relief human figures in strict profile",
+  "long curled/braided beard and elaborate coiffure or headdress",
+  "long fringed or patterned robes",
+  "animal shown in profile",
+  "stylized floral/rosette motif",
+  "figures with arms extended forward holding or gesturing",
+  "narrative frieze on a flat panel"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show shallow-relief bearded male figures in strict profile with elaborate headgear, patterned long garments and outstretched arms, and both include stylized floral/rosette ornament and a profile quadruped, which is a fairly specific shared repertoire of court relief imagery. The biggest differences are the compositional schemes: A is a multi-register frieze of processing attendants and a horse-drawn chariot with a crenellated architectural top and rosette borders, while B is a single large winged figure grasping a rearing beast beside a stylized plant, a combat/blessing motif absent in A.",
+ "a": "persepolis_0026",
+ "b": "assyria_0078",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3124,
+  377
+ ]
+}

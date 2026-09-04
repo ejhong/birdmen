@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  4,
+  10,
+  7,
+  3,
+  9,
+  2,
+  8,
+  1,
+  5
+ ],
+ "most_similar_reason": "Candidate 6 is a carved relief panel showing human figures in profile with detailed garments, hands and held attributes arranged in a bordered field, matching the target's low-relief profile figures with robes, hands and weapons.",
+ "least_similar_reason": "Candidate 5 is an essentially plain, undecorated upright stone with no discernible figures, garments, objects or ornamental motifs to compare with the target's detailed figural relief.",
+ "set": "related_control",
+ "i": 6,
+ "target": "persepolis_0017",
+ "planted": "assyria_0021",
+ "cands": [
+  "anatolia_ppn_0082",
+  "gotland_0008",
+  "gotland_0133",
+  "maya_0060",
+  "maya_0082",
+  "assyria_0021",
+  "maya_0047",
+  "gotland_0018",
+  "egypt_0053",
+  "mississippian_0007"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "egypt",
+  "gotland",
+  "maya",
+  "maya",
+  "mississippian",
+  "gotland",
+  "anatolia_ppn",
+  "maya",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  8,
+  7,
+  2,
+  1,
+  10,
+  5,
+  3,
+  6,
+  4
+ ],
+ "most_similar_reason": "Candidate 9, like the target, is a free-standing monolithic pillar/stele whose body itself carries low-relief carving of anatomical and belt-like elements arranged vertically down the shaft, matching the target's pillar-as-body scheme with arms, belt band and stacked motifs.",
+ "least_similar_reason": "Candidate 4 shows brightly patterned, frontally posed costumed human figures with headdresses arranged inside a circular field, sharing none of the target's profile animals, snakes, birds or banded pillar layout.",
+ "set": "moai_among_random",
+ "i": 18,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "egypt_0040",
+  "tanum_0074",
+  "egypt_0014",
+  "mississippian_0052",
+  "persepolis_0080",
+  "assyria_0035",
+  "persepolis_0064",
+  "assyria_0011",
+  "rapa_nui_0113",
+  "persepolis_0073"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "persepolis",
+  "egypt",
+  "persepolis",
+  "persepolis",
+  "assyria",
+  "mississippian",
+  "egypt",
+  "tanum",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

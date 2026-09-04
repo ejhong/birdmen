@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  3,
+  5,
+  10,
+  9,
+  7,
+  1,
+  4,
+  6,
+  8
+ ],
+ "most_similar_reason": "Candidate 2 is most similar because it shows the same kind of register-organized, incised scene with profile figures and distinctive bird/winged-animal motifs arranged around horizontal dividing bands in a very similar schematic style.",
+ "least_similar_reason": "Candidate 8 is least similar because its surface is dominated by stacked block-like geometric glyph panels rather than profile animals, winged creatures, or figure scenes arranged like the target.",
+ "set": "moai_iso_among_monoliths",
+ "i": 7,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0097",
+  "egypt_0041",
+  "egypt_0073",
+  "maya_0066",
+  "egypt_0068",
+  "rapa_nui_hoa_iso",
+  "egypt_0076",
+  "maya_0085",
+  "egypt_0040",
+  "egypt_0067"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 9
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "profile human or anthropomorphic figures",
+  "small profile animal or bird-like forms",
+  "horizontal bands of repeated signs or geometric motifs",
+  "small circular or oval marks"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both surfaces use schematic linear profile figures together with horizontal bands of repeated signs or geometric motifs. The biggest difference is that B is organized as a clear encounter or offering scene between two human figures with an object between them, while A is a stacked composition of larger hybrid/animal-like forms and dense abstract bands without the same narrative relationship.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0043",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  667
+ ]
+}

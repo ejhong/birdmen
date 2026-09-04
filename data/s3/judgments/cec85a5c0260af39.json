@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "single large standing figure in profile occupying the panel",
+  "bearded profile head with elaborate coiffure/headdress",
+  "long garment with fringed or pleated hem rendered as fine parallel lines",
+  "figure holding an implement in a raised/gripping hand",
+  "carried weapon-like or attribute object at the shoulder/back",
+  "detailed patterned textiles and jewellery (bracelet, armlet)",
+  "repeated petal/rosette-like decorative motifs as a field or border band",
+  "low-relief carving with profile head and legs, near-frontal shoulders"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show a single monumental profile-standing figure filling the panel, bearded, in a long fringed/pleated robe with bracelets and armlets, grasping an attribute in the raised hand with another object slung at the shoulder, and both include repeated rosette/petal ornament (as field filler in A, as a border band in B), with closely comparable low-relief conventions of profile head, near-frontal torso, striated hair and finely ruled drapery. The decisive difference is that A's figure is a bird-headed winged composite carrying a bucket amid a dense floral thicket, while B's is a wholly human figure with a tall headdress holding an upright spear against a plain ground.",
+ "a": "assyria_0021",
+ "b": "persepolis_0035",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3224,
+  877
+ ]
+}

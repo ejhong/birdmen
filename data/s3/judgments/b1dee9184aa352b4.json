@@ -1,0 +1,28 @@
+{
+ "shared_elements": [
+  "round-topped (arched) stele field",
+  "solar disc at the apex of the arch",
+  "cartouche/oval name-rings",
+  "standing human figures in profile",
+  "figures facing one another across a central element",
+  "figures wearing tall headdresses/crowns",
+  "registers of hieroglyphic-style sign rows and columns",
+  "offering/altar or staff-like object handled by a figure",
+  "framing line following the curve of the top"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "7",
+ "justification": "Both show the same distinctive scheme: an arched panel whose apex carries a sun disc with cartouche name-rings beneath it, below which profile human figures in tall headdresses confront each other across a central element, with rows of small script signs filling the remainder \u2014 a highly conventional and specific combination unlikely to arise independently. The main differences in content are that B devotes most of the surface to many packed lines of text with an offering table and subsidiary small figures, while A gives the confronting pair (one grasping a long staff, one with a raised disc-topped emblem) nearly the whole field with only a narrow inscribed strip.",
+ "a": "egypt_0048",
+ "b": "egypt_0015",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  2924,
+  914
+ ]
+}

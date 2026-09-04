@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "frontal anthropomorphic figure",
+  "head or face above a torso",
+  "circular or eye-like motifs on the torso",
+  "horizontal bands across the body",
+  "bilateral/symmetrical body arrangement",
+  "schematic geometric body details"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is a centrally placed frontal human-like figure with circular/eye-like motifs on the torso and horizontal banding across the body. The biggest difference is that A is a complex active figure with outstretched arms, held staffs, headdress, profile animal-like head, and hanging appendages, while B is a block-like standing figure or slab with sparse abstract carved facial and body signs and no comparable held objects or elaborate surrounding attributes.",
+ "a": "mississippian_0055",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1883,
+  698
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief carved narrative scene",
+  "animals in profile facing right",
+  "human figures in profile",
+  "procession/directional movement across the field",
+  "overlapping figures arranged in rows"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both are low-relief narrative friezes with profile human figures and profile animals moving in a common direction, with figures overlapped in layered registers and details such as fleece, hair and musculature rendered by fine incised patterning over modelled forms \u2014 a shared relief convention. The specific subjects differ: A shows a close-up file of horned rams led by attendants in an orderly procession, while B is a crowded battle/hunt scene with chariots, wheels, water swirls, falling and kneeling figures, so no single distinctive motif recurs in the same relationship.",
+ "a": "persepolis_0095",
+ "b": "assyria_0039",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  306
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "T-shaped monolithic pillar with broad head and narrower shaft",
+  "animal carved in relief on the pillar shaft",
+  "quadruped shown in profile/side view",
+  "animal oriented vertically along the shaft",
+  "otherwise blank ground around the figures"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both depict a T-headed pillar bearing carved animals, and in each case a quadruped in profile is placed on the shaft, which is a reasonably specific correspondence. But A is crowded with multiple registers \u2014 a fringed horizontal band, rows of quadrupeds, small human-like figures and large long-necked birds \u2014 rendered in flat, schematic low relief, whereas B shows a single rounded, almost sculptural animal descending head-first on an otherwise unornamented surface.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0037",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2823,
+  823
+ ]
+}

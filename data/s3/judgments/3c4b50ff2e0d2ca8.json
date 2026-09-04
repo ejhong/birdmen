@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "human figure with head, torso and limbs",
+  "elongated object held/extended from the figure (staff or weapon-like item)",
+  "figure occupying the upper portion of the field"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "Both show a single human figure with an extended linear object (a staff/spear in A, a rod-like item in B), which is a generic correspondence at best. A is a detailed naturalistic profile bust with elaborately curled hair and beard above two carefully modelled horned rams shown in profile, while B is a bare stick-like frontal figure with no animals and no interior detail, so subject matter, relationships and drawing conventions diverge almost entirely.",
+ "a": "persepolis_0011",
+ "b": "tanum_0050",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3074,
+  270
+ ]
+}

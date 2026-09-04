@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low-relief carved figural scene",
+  "human or anthropomorphic figures in profile",
+  "elaborate headdress/crown on figure",
+  "plant or foliate motifs",
+  "figures holding/carrying objects",
+  "framed rectangular panel with border"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both show low-relief profile anthropomorphic figures with elaborate headgear accompanied by plant-like or foliate motifs within a bordered panel, which is a generic correspondence available to many traditions. They differ sharply in specifics: B has a single large winged genius with a bucket beside a stylised rosette-bearing tree, rendered with muscular naturalism and neat parallel-line drapery, whereas A shows multiple small crowded figures with fan/feather-like plumes and curling scroll ornaments in a dense, flat, curvilinear incised idiom with no wings, tree or bucket.",
+ "a": "maya_0162",
+ "b": "assyria_0115",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3149,
+  358
+ ]
+}

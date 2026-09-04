@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "large decorated stone surface with a broader upper panel and narrower lower shaft",
+  "row of arched or head-like motifs along the top",
+  "horizontal band of repeated incised/hatched pattern",
+  "bird or long-necked animal in profile",
+  "small rectangular motif",
+  "scorpion- or many-legged creature at right",
+  "quadruped in profile on the lower part",
+  "sinuous snake-like line or animal form"
+ ],
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "9",
+ "justification": "The strongest correspondence is the very specific layout: a top row of arched motifs, a dense horizontal patterned band beneath it, then comparable animal figures including a bird-like profile, small rectangle, many-legged creature, and lower quadruped in matching relative positions. The biggest difference is condition and presentation: A is a lighter, more complete upright surface in situ, while B is darker, more fragmentary, and more eroded or contrast-enhanced, obscuring some details.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0004",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  731
+ ]
+}

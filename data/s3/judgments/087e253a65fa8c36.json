@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "human or humanoid figures rendered in schematic form",
+  "repeated vertical strokes in a row (crew strokes / linear repeated marks)",
+  "profile animal or quadruped (A) versus profile human figures (B) \u2014 both profile-oriented figures"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The only real correspondence is that both surfaces carry schematic profile figures and rows of repeated short strokes, which is a very generic trait; A is dominated by a large boat with upturned prow and a comb-like crew row plus a small quadruped, while B shows standing clothed human figures facing an offering or ritual assemblage with sign-like fields. No shared specific motif, relationship or arrangement supports a common iconographic tradition.",
+ "a": "tanum_0236",
+ "b": "egypt_0065",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  294
+ ]
+}

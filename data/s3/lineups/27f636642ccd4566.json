@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  1,
+  10,
+  3,
+  7,
+  2,
+  5,
+  6,
+  4,
+  8
+ ],
+ "most_similar_reason": "Candidate 9 is most similar because it also presents a vertically arranged, highly stylized frontal anthropomorphic or mask-like figure with rounded facial features and stacked relief motifs rather than a naturalistic narrative scene.",
+ "least_similar_reason": "Candidate 8 is least similar because the visible candidate surface shows little to no discernible carved iconography to compare with the target\u2019s distinctive frontal mask/figure and incised symbolic forms.",
+ "set": "p43_iso_among_monoliths",
+ "i": 38,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0092",
+  "maya_0060",
+  "maya_0095",
+  "egypt_0014",
+  "egypt_0065",
+  "egypt_0070",
+  "egypt_0074",
+  "maya_0000",
+  "maya_0019",
+  "anatolia_ppn_p43iso"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 3
+}

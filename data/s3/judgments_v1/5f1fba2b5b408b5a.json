@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "profile animal or bird-like figures/heads",
+  "round or circular motifs",
+  "horizontal bands or rows of decoration",
+  "curving linear forms"
+ ],
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The most specific correspondence is the use of profile animal/bird-like forms combined with circular details and some horizontal banding. The biggest difference is that A is a crisp, polychrome, frontally organized single figure, while B is a monochrome stone relief arranged in stacked registers of incised profile forms.",
+ "a": "mississippian_0000",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1256,
+  506
+ ]
+}

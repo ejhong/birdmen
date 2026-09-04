@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  7,
+  3,
+  2,
+  4,
+  1,
+  10,
+  6,
+  8,
+  5
+ ],
+ "most_similar_reason": "Candidate 9 shows the same core content as the target: a horizontal register filled with schematic profile animals rendered in shallow outline relief, combined with a human/standing element, arranged as a banded procession across the surface.",
+ "least_similar_reason": "Candidate 5 is an entirely text-covered slab with no creatures, figures, or pictorial motifs at all, so it shares none of the target's animal-and-symbol register imagery.",
+ "set": "moai_iso_among_random",
+ "i": 5,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "gotland_0112",
+  "assyria_0040",
+  "egypt_0042",
+  "egypt_0053",
+  "egypt_0075",
+  "rapa_nui_hoa_iso",
+  "maya_0111",
+  "persepolis_0017",
+  "persepolis_0027",
+  "tanum_0070"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "persepolis",
+  "egypt",
+  "persepolis",
+  "gotland",
+  "egypt",
+  "tanum",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 8
+}

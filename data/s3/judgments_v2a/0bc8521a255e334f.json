@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "quadruped animal in profile with predatory head",
+  "animal imagery generally",
+  "open-mouthed / snarling beast head",
+  "repeated animal figures (in B) vs single beast (in A)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict predatory quadrupeds seen in profile with pronounced heads and jaws, which is a real if broad correspondence in subject. But A is a single fully three-dimensional beast standing alone, whereas B is a multi-register composition of relief figures \u2014 rows of arch-like motifs, birds, a snake-like/plant form and small crouching creatures \u2014 arranged in stacked bands, so the composition, relationships and rendering conventions barely overlap.",
+ "a": "anatolia_ppn_0144",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3048,
+  281
+ ]
+}

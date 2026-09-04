@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  4,
+  6,
+  7,
+  3,
+  10,
+  8,
+  5,
+  2,
+  9
+ ],
+ "most_similar_reason": "Candidate 1 shows, like the target, a tall anthropomorphic pillar-figure carved in low relief with schematic bent arms and hands brought around the body above a belt-like band with a disc/ornament, the same distinctive convention of turning a standing stone into a body.",
+ "least_similar_reason": "Candidate 9 shows only dense rows of repeated written signs with no creatures, limbs, or figural scene at all, sharing nothing with the target's relief menagerie and body imagery.",
+ "set": "moai_among_random",
+ "i": 21,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "rapa_nui_0113",
+  "egypt_0016",
+  "catalhoyuk_0031",
+  "assyria_0112",
+  "maya_0011",
+  "mississippian_0009",
+  "tanum_0344",
+  "egypt_0060",
+  "egypt_0075",
+  "tanum_0341"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "assyria",
+  "tanum",
+  "egypt",
+  "mississippian",
+  "egypt",
+  "tanum",
+  "maya",
+  "catalhoyuk",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

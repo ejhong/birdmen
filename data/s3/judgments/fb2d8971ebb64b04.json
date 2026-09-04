@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human or humanlike figure in profile facing right",
+  "elaborately curled/stippled beard rendered in rows of small units",
+  "fringed and patterned garment",
+  "stylized long hair rendered as parallel wavy rows",
+  "raised arm with hand near the head level",
+  "low-relief panel with a single dominant figure filling the field"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "7",
+ "justification": "Both panels depict a single bearded profile figure facing right, with hair and beard rendered in the same distinctive convention of tight parallel rows of curls, wearing a patterned, fringed garment in shallow relief on a rectangular slab. A differs in showing a winged figure at full length holding a bucket-like handled vessel beside a stylized flowering plant, whereas B is a bust-level view with a tall headdress and no visible wings, attributes or accompanying motifs.",
+ "a": "assyria_0115",
+ "b": "assyria_0105",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3024,
+  327
+ ]
+}

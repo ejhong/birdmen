@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  1,
+  9,
+  3,
+  4,
+  5,
+  8,
+  10,
+  7,
+  2
+ ],
+ "most_similar_reason": "Candidate 6 shares the same overall composition as the target: a head-shaped stele topped by a schematic 'face' area and a broad decorated band (belt/sash) below, arranged in the same register-based layout as the target's animal-and-pattern bands.",
+ "least_similar_reason": "Candidate 2 is an almost featureless, heavily weathered stone slab with no discernible figures, patterns, or animal motifs, sharing none of the specific iconographic elements (animals, head-shape, banded registers) seen in the target.",
+ "set": "hard",
+ "i": 0,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0125",
+  "egypt_0027",
+  "maya_0047",
+  "gotland_0116",
+  "egypt_0012",
+  "gotland_0123",
+  "gotland_0133",
+  "rapa_nui_0113",
+  "tanum_0359",
+  "gotland_0115"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "gotland",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "sonnet",
+ "planted_rank": 7
+}

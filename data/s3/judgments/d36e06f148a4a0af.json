@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "human figures in strict profile",
+  "bearded male figures wearing headgear",
+  "large quadruped animal in profile",
+  "procession/frieze of figures moving in one direction",
+  "low-relief carving with linear interior detail (beards, hair, drapery rendered as parallel lines)",
+  "figures holding objects/implements",
+  "ground-line register with a decorative band below the scene"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show low-relief friezes of bearded male figures in strict profile moving in a single direction alongside a large profile quadruped, with the same conventions for rendering beards, hair and garments as fine parallel incised lines and with a patterned/foliate ground register beneath. The subject matter differs sharply, however: A is a violent action scene with a chariot, wheel, harnessed horse and armed soldiers over a marsh ground-line, whereas B is a calm procession of men leading a humped pack animal and carrying vessels between ornamental rosette borders.",
+ "a": "assyria_0131",
+ "b": "persepolis_0073",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  365
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "profile human or anthropomorphic figure",
+  "profile animal figure",
+  "tree or plant motif",
+  "horizontal band or register of repeated pattern"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces include profile figures, animals, plant/tree forms, and horizontal patterned/register elements, with the most specific overlap being a tree-like plant motif associated with nearby profile figures or animals. The major difference is that A depicts a coherent procession with humans riding or leading horned quadrupeds beside a large tree, whereas B is a stacked, schematic composition of separate signs, animals, and motifs with no comparable riding procession or figure-animal relationship.",
+ "a": "persepolis_0069",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  596
+ ]
+}

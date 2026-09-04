@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "cuneiform script/inscription"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces bear cuneiform inscriptions, but A is an inscribed surface filled edge-to-edge with dense script and no figural content, while B is a narrow text band flanked and bordered by figural and decorative elements (a hand, fringed garment edge, floral/rosette motifs). The presence of figural/ornamental framing in B with no counterpart in A is the major difference, while the shared cuneiform text is a very generic correspondence common to many such inscribed surfaces.",
+ "a": "egypt_0035",
+ "b": "assyria_0015",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  3224,
+  495
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "row of three arched or loop-shaped elements along the top edge",
+  "horizontal band filled with zigzag/triangle (chevron) pattern",
+  "quadruped animal in profile with open jaws facing left",
+  "small circle or disc held between figures",
+  "crouching/seated figure with raised arm",
+  "elongated reptile or lizard-like creature in profile",
+  "large bird-like head with long beak at lower left",
+  "herringbone/feathered lozenge motif in lower register",
+  "narrower shaft-like lower portion below a wider upper slab"
+ ],
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "9",
+ "justification": "Every motif in A recurs in B in the same register order and the same relative position \u2014 the three arches over a chevron band, the left-facing open-jawed quadruped with the disc and crouching figure beside it, and the long-beaked head over the herringbone lozenge on the narrower lower shaft \u2014 a correspondence far too specific to be coincidental. The only real differences are conditions of presentation and surface: A is a lighter, sunlit block seen in situ among rubble, while B is a darker, mottled, more granular surface isolated on a plain ground with slightly different broken edges along the lower right.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0004",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  1858,
+  614
+ ]
+}

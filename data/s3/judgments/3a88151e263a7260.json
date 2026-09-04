@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "stylized face or mask-like forms",
+  "circular eyes or discs",
+  "curvilinear incised/relief line motifs",
+  "geometric/glyph-like signs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is the use of schematic, glyph-like carved forms that include mask or face elements with circular eyes/discs and curving internal lines. The biggest difference is that A is organized as a dense grid of separate rectangular sign blocks, while B is dominated by a single frontal anthropomorphic/mask-like figure with only limited additional signs.",
+ "a": "maya_0085",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  667
+ ]
+}

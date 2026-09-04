@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  4,
+  2,
+  8,
+  6,
+  10,
+  5,
+  7,
+  3,
+  1
+ ],
+ "most_similar_reason": "Candidate 9 shows the same distinctive thing: a free-standing monolithic pillar whose whole body is treated as a schematic anthropomorphic figure, with low-relief arms bent inward across the front, a belt/pendant band and abstract emblems carved on the shaft, exactly as on the target.",
+ "least_similar_reason": "Candidate 1 shows only a small sketch of a bovine with a row of marks on a flat wall, with no anthropomorphic pillar-figure, arms, ornaments or any of the target's motifs.",
+ "set": "p43_among_random",
+ "i": 31,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "catalhoyuk_0102",
+  "maya_0087",
+  "assyria_0109",
+  "maya_0094",
+  "assyria_0146",
+  "mississippian_0010",
+  "assyria_0128",
+  "maya_0137",
+  "anatolia_ppn_p43full",
+  "mississippian_0055"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "maya",
+  "assyria",
+  "assyria",
+  "catalhoyuk",
+  "maya",
+  "mississippian",
+  "maya",
+  "assyria",
+  "mississippian"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  10,
+  8,
+  7,
+  6,
+  4,
+  1,
+  9,
+  5,
+  2
+ ],
+ "most_similar_reason": "Candidate 3 shares a formal, repeating linear arrangement of stylized upright elements in a decorative band.",
+ "least_similar_reason": "Candidate 2 depicts a natural landscape, lacking any discernible deliberate iconography or structured artwork.",
+ "set": "related_control",
+ "i": 23,
+ "target": "persepolis_0025",
+ "planted": "assyria_0140",
+ "cands": [
+  "rapa_nui_0069",
+  "rapa_nui_0079",
+  "assyria_0140",
+  "rapa_nui_0053",
+  "egypt_0007",
+  "rapa_nui_0047",
+  "anatolia_ppn_0155",
+  "rapa_nui_0080",
+  "egypt_0010",
+  "tanum_0063"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "egypt",
+  "rapa_nui",
+  "rapa_nui",
+  "tanum",
+  "anatolia_ppn",
+  "rapa_nui",
+  "rapa_nui",
+  "egypt",
+  "rapa_nui"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  1,
+  5,
+  3,
+  2,
+  6,
+  9,
+  7,
+  10,
+  4
+ ],
+ "most_similar_reason": "Candidate 8 shares the target's habit of covering a panel with small, highly schematic incised outline motifs \u2014 animals, birds/boat-like shapes, plants and repeated stroke-signs \u2014 loosely stacked in bands rather than a single unified naturalistic scene.",
+ "least_similar_reason": "Candidate 4 shows a monumental architectural procession of naturalistic robed human figures and animals within a columned setting, with none of the target's small schematic animals, birds, plants or ruled register bands.",
+ "set": "moai_iso_among_random",
+ "i": 35,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "gotland_0026",
+  "persepolis_0058",
+  "persepolis_0095",
+  "persepolis_0029",
+  "egypt_0073",
+  "assyria_0078",
+  "persepolis_0043",
+  "tanum_0060",
+  "rapa_nui_hoa_iso",
+  "assyria_0139"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "persepolis",
+  "tanum",
+  "persepolis",
+  "persepolis",
+  "egypt",
+  "gotland",
+  "persepolis",
+  "assyria",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 7
+}

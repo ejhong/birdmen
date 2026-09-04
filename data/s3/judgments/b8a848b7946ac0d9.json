@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figure(s) in profile with outstretched arm",
+  "hand/arm rendered in relief",
+  "disc or rounded form",
+  "carved hieroglyph-like signs / cartouche-shaped ovals",
+  "raised relief carving of figures and symbols"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both surfaces show relief-carved human figures in profile with extended arms alongside oval cartouche-like signs and disc forms, and A's fragmentary shapes (a disc, an arm reaching toward an oval) plausibly belong to the same sign-and-figure repertoire as B. However, B presents a fully legible composition \u2014 a rayed disc above an offering table flanked by adoring figures with dense columns of text \u2014 whereas A preserves only isolated, disconnected elements with no discernible scene structure, so relationships and arrangement can barely be matched.",
+ "a": "rapa_nui_0002",
+ "b": "egypt_0028",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  331
+ ]
+}

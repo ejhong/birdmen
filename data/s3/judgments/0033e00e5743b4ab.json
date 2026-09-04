@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "standing human figure in profile",
+  "elaborate headdress",
+  "figure holding or grasping an object/staff",
+  "low-relief carved figural scene",
+  "smaller subsidiary figure(s) beside a principal figure",
+  "densely filled field with little empty ground"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both show low-relief human figures in profile with prominent headdresses and held objects, along with smaller accompanying figures, which is a generic ceremonial-figure scheme many traditions produce. They differ strongly in specifics: A is a tall vertical panel with a single frontal-bodied, elaborately costumed figure surrounded by dense block-like glyph signs and interlocking ornament, while B is an arched horizontal-ish scene of several slender profile figures interacting around what looks like plant or offering elements, with no comparable sign blocks or costume conventions.",
+ "a": "maya_0137",
+ "b": "egypt_0065",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2974,
+  346
+ ]
+}

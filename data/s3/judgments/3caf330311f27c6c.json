@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "animal head with prominent rounded brow/eye rendered schematically",
+  "carved animal imagery in relief",
+  "raised rounded forms standing out from a flat ground"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both show an animal rendered in a bold, simplified, rounded-volume manner with a heavy brow arch over a drilled/incised eye, which is the closest specific correspondence, and both use raised relief forms projecting from a plain ground. But A is a complex multi-register composition combining several distinct creatures, a human-like figure, a long-necked bird and a band of repeated signs, whereas B depicts only a single isolated animal head with no accompanying figures, registers or ornament.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0244",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  691
+ ]
+}

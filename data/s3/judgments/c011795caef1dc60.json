@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "standing/seated human-like figure(s)",
+  "figure in profile",
+  "headwear on figure"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "Both show human-like figures rendered in profile, but A depicts a procession of standing robed men with tall crowns interacting hand-to-shoulder, while B depicts a single winged, kneeling or crouching figure with an animalistic or hybrid attribute enclosed in a circular border. There is no shared specific motif, pose, or compositional relationship beyond the generic use of profile figures, and the overall scene types (a linear procession versus an isolated composite creature in a roundel) are fundamentally different.",
+ "a": "persepolis_0047",
+ "b": "mississippian_0005",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  3149,
+  275
+ ]
+}

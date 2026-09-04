@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  1,
+  6,
+  4,
+  10,
+  9,
+  3,
+  7,
+  2,
+  5
+ ],
+ "most_similar_reason": "Candidate 8, like the target, is a free-standing monolithic pillar whose surface is carved with schematic low-relief motifs treated as an integral part of the upright block, giving the stone itself a quasi-figural presence rather than functioning as a flat picture panel.",
+ "least_similar_reason": "Candidate 5 shows an upright slab with no discernible carved creatures, figures or motifs at all, so there is nothing in its depicted content to correspond with the target's stacked animal reliefs.",
+ "set": "moai_among_random",
+ "i": 12,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0009",
+  "egypt_0012",
+  "persepolis_0077",
+  "persepolis_0069",
+  "maya_0000",
+  "persepolis_0089",
+  "assyria_0128",
+  "rapa_nui_0113",
+  "assyria_0041",
+  "tanum_0240"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "egypt",
+  "persepolis",
+  "assyria",
+  "persepolis",
+  "maya",
+  "tanum",
+  "assyria",
+  "gotland",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

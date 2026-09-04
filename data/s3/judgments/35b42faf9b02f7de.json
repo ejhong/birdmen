@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "relief carving on a flat stone slab",
+  "animals/creatures shown in profile",
+  "registers or vertical stacking of motifs",
+  "stylized bird head in profile",
+  "repeated linear incised patterning (rows of parallel lines/hatching)",
+  "plant-like or foliate motif"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both are low-relief carved slabs showing profile creatures and repeated incised linear patterning, and both include a plant-like element, but these are generic correspondences. A shows a stacked sequence of schematic animals (quadrupeds, birds, a snake-like form) with no human presence and highly abstracted outline-plus-flat-relief bodies, while B is dominated by a single large naturalistically modelled anthropomorphic winged figure with detailed beard, garment and feathered wings holding an object beside a stylized tree, an iconographic scheme absent from A.",
+ "a": "anatolia_ppn_p43full",
+ "b": "assyria_0079",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  344
+ ]
+}

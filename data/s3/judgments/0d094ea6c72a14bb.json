@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "standing human figure in profile",
+  "raised arm/hand gesture",
+  "long fringed or patterned garment",
+  "low-relief figures with profile head and eye",
+  "filler decorative motifs surrounding the figures",
+  "carved framing/border of the field"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both show profile-view standing figures in shallow relief with raised arms and long patterned garments, and both fill the surrounding field with repeated ornamental signs or motifs, which is a fairly generic correspondence. The content differs sharply: A is a multi-figure scene of people flanking a laden offering stand with a register of script signs, while B is a single dominant composite bird-headed winged figure carrying a handled bucket between vertical bands of rosette-and-scroll foliage.",
+ "a": "egypt_0065",
+ "b": "assyria_0021",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  712
+ ]
+}

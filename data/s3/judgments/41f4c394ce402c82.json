@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic face or eye-like circular motifs",
+  "incised/geometric line motifs",
+  "parallel curved bands",
+  "zigzag or angular patterning"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is the use of schematic linear decoration with circular eye/disc motifs and some angular or banded geometric patterning. The major difference is that A is organized as a single frontal anthropomorphic figure, while B shows multiple profile animal-like forms densely filled with repeated zigzag motifs.",
+ "a": "rapa_nui_0113",
+ "b": "mississippian_0075",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  606
+ ]
+}

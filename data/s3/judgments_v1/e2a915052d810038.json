@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "linear marks on a stone surface",
+  "zoomorphic or animal-like figures with legs",
+  "horizontal alignment or band-like linear elements"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces include animal-like figures arranged partly along horizontal axes, with legs or appendages indicated by simple lines. The biggest difference is that A is a dense, carved relief with multiple stacked registers and more modeled forms, while B is a sparse, flat red linear design on a dark ground.",
+ "a": "anatolia_ppn_p43full",
+ "b": "tanum_0037",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  616
+ ]
+}

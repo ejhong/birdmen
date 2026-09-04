@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "upright rectangular slab/monument bearing carved decoration",
+  "dense field of script-like signs arranged in ordered rows/columns",
+  "signs enclosed within a framed or bordered rectangular field",
+  "low-relief carved signs including human-face/head motifs",
+  "division of the field into repeated compartments"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "3",
+ "justification": "Both surfaces are upright framed slabs whose whole face is filled with ordered, compartmentalised script signs carved in low relief, which is a real but broad correspondence. They differ in nearly everything specific: A is exclusively two tall vertical columns of dense square sign-blocks with no scene, while B combines a single horizontal text band with a winged/eye emblem above and several registers of profile human figures kneeling, standing and presenting offerings.",
+ "a": "maya_0057",
+ "b": "egypt_0045",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2974,
+  906
+ ]
+}

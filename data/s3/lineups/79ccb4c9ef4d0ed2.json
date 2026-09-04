@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  4,
+  5,
+  7,
+  6,
+  3,
+  8,
+  10,
+  2,
+  1
+ ],
+ "most_similar_reason": "Both depict somewhat schematic animal figures in profile combined with a prominent geometric motif on a flat face.",
+ "least_similar_reason": "This is a three-dimensional figure lacking any flat surface with relief carvings of animals or geometric bands.",
+ "set": "moai_iso_among_monoliths",
+ "i": 13,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "rapa_nui_hoa_iso",
+  "egypt_0040",
+  "maya_0091",
+  "gotland_0116",
+  "gotland_0111",
+  "maya_0066",
+  "maya_0039",
+  "maya_0101",
+  "gotland_0026",
+  "maya_0060"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "gotland",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "gotland",
+  "gotland"
+ ],
+ "model": "gemini",
+ "planted_rank": 10
+}

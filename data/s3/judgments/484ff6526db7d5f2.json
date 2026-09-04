@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "single large standing/seated human-bodied figure in profile occupying most of the field",
+  "elaborate headdress or bird-like head element above the figure",
+  "raised arm with hand extended toward an object at left",
+  "richly patterned garment with fringed/decorated hem",
+  "ornate jewellery (bracelets, collar/necklace)",
+  "dense filler decoration in vertical bands beside the figure",
+  "low-relief carving on a rectangular panel with figure facing left"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both panels show a single elaborately costumed profile figure with a bird-like head/headdress, ornamented cuffs and a fringed patterned robe, arm raised toward a motif at the left, with dense repeated ornament filling the vertical space beside the body. But the specific content differs sharply: A has a raptor-headed winged being with large feathered wings reaching toward a stylized plant, while B's flanking bands are columns of block-shaped script signs and the figure is seated with no wings, rendered with flatter, denser, more geometric conventions rather than A's linear naturalistic musculature and feathering.",
+ "a": "assyria_0071",
+ "b": "maya_0026",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3249,
+  412
+ ]
+}

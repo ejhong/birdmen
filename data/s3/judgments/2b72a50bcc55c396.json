@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "circle or disc",
+  "curved horizontal arc or band",
+  "short transverse marks on/near a curved band",
+  "schematic linear signs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The most specific formal overlap is that both include schematic circular marks and curved horizontal bands or arcs with short cross-marks, although in A these are integrated into a frontal anthropomorphic body while in B similar arcs read as boat-like forms among animals and other signs. The biggest difference is that A is dominated by a single frontal human-like figure with body parts and torso markings, whereas B is a dispersed scene of boats, quadrupeds, dots, and small linear figures with no comparable central anthropomorphic scheme.",
+ "a": "rapa_nui_0113",
+ "b": "tanum_0087",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  693
+ ]
+}

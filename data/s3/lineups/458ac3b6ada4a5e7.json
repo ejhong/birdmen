@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  4,
+  5,
+  6,
+  3,
+  9,
+  2,
+  10,
+  7,
+  8
+ ],
+ "most_similar_reason": "Candidate 1 most closely matches the target\u2019s distinctive schematic ship motif: a long horizontal hull with upturned ends and a dense row of short vertical crew/mark strokes, accompanied by smaller simple signs in a comparable rock-art style.",
+ "least_similar_reason": "Candidate 8 is least similar because it shows a single naturalistic standing animal-headed human figure with staff-like attributes, rather than the target\u2019s schematic register-like arrangement of boats, animals, and repeated linear marks.",
+ "set": "moai_iso_among_random",
+ "i": 39,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "tanum_0074",
+  "persepolis_0097",
+  "rapa_nui_hoa_iso",
+  "tanum_0061",
+  "tanum_0325",
+  "gotland_0000",
+  "assyria_0160",
+  "assyria_0118",
+  "maya_0130",
+  "egypt_0056"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "assyria",
+  "tanum",
+  "maya",
+  "tanum",
+  "assyria",
+  "egypt",
+  "gotland",
+  "tanum",
+  "persepolis"
+ ],
+ "model": "gpt",
+ "planted_rank": 5
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  2,
+  7,
+  3,
+  10,
+  5,
+  4,
+  9,
+  6,
+  8
+ ],
+ "most_similar_reason": "Both show a single standing anthropomorphic figure as the main subject in schematic carved style, with a central body and lower linear or patterned zone.",
+ "least_similar_reason": "Candidate 8 depicts a boat as the primary subject and shares neither an anthropomorphic figure nor any comparable motifs or arrangement.",
+ "set": "p43_iso_among_monoliths",
+ "i": 4,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0113",
+  "maya_0085",
+  "maya_0110",
+  "maya_0053",
+  "gotland_0007",
+  "gotland_0000",
+  "mississippian_0015",
+  "gotland_0112",
+  "gotland_0133",
+  "anatolia_ppn_p43iso"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "gotland",
+  "gotland",
+  "maya",
+  "maya",
+  "gotland",
+  "gotland",
+  "maya",
+  "maya",
+  "mississippian"
+ ],
+ "model": "grok",
+ "planted_rank": 5
+}

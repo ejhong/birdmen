@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  8,
+  9,
+  2,
+  3,
+  5,
+  4,
+  6,
+  1,
+  7
+ ],
+ "most_similar_reason": "Candidate 10 shares the specific motif of stylized arms.",
+ "least_similar_reason": "Candidate 7 depicts unrelated boat motifs.",
+ "set": "p43_among_random",
+ "i": 8,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "maya_0125",
+  "gotland_0009",
+  "assyria_0111",
+  "egypt_0045",
+  "persepolis_0073",
+  "maya_0005",
+  "tanum_0049",
+  "egypt_0066",
+  "assyria_0138",
+  "anatolia_ppn_p43full"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "assyria",
+  "assyria",
+  "maya",
+  "persepolis",
+  "tanum",
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

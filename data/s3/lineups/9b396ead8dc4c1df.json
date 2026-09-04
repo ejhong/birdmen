@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  10,
+  9,
+  6,
+  4,
+  2,
+  7,
+  3,
+  1,
+  8
+ ],
+ "most_similar_reason": "Candidate 5 shows animals rendered in shallow, flat-relief profile on an upright carved slab, with beasts and a smaller figure combined in a band much like the target's stacked profile creatures.",
+ "least_similar_reason": "Candidate 8 depicts a single elaborately costumed human figure with an ornate plumed headdress and no profile animals, registers or schematic relief creatures, sharing nothing distinctive with the target's stacked animal imagery.",
+ "set": "moai_close_among_random",
+ "i": 8,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "gotland_0133",
+  "maya_0114",
+  "mississippian_0005",
+  "rapa_nui_0004",
+  "assyria_0110",
+  "assyria_0119",
+  "gotland_0131",
+  "mississippian_0045",
+  "persepolis_0058",
+  "gotland_0007"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "mississippian",
+  "assyria",
+  "mississippian",
+  "gotland",
+  "assyria",
+  "persepolis",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 5
+}

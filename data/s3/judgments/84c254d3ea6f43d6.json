@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "frontal human face/head",
+  "eyes rendered as bounded ovals",
+  "headdress or crown-like element above the head",
+  "frontal, symmetrical human representation"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both depict a frontal, symmetrical human face with a crown- or headdress-like structure above it, but that is a near-universal motif and the specific forms differ sharply: A is a naturalistic mask with modelled cheeks, nose, lips and painted facial markings, while B is a blocky, heavily schematic full torso with low-relief incised motifs (rings, curved bands, a central disc) across the chest and a flat slab-like head. The relationship of face to body and the incised body ornamentation of B have no counterpart in A, which shows only a face with painted zoning.",
+ "a": "mississippian_0008",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2899,
+  308
+ ]
+}

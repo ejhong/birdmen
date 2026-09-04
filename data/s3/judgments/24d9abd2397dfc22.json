@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "anthropomorphic or human-like body/head forms (at most, very general)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "The only possible overlap is a very broad interest in human-like or bodily forms: A depicts a single anthropomorphic figure with head, neck, torso and facial features, while B may include highly schematic body-like signs among many animal and abstract motifs. The biggest difference is that A is essentially one naturalized human-like figure, whereas B is a register-like composition of multiple schematic animals, symbols and repeated signs with no comparable single figure or scene.",
+ "a": "anatolia_ppn_0241",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  671
+ ]
+}

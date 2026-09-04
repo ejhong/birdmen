@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  6,
+  2,
+  9,
+  4,
+  5,
+  3,
+  8,
+  1,
+  10
+ ],
+ "most_similar_reason": "Candidate 7 is most similar because it shows a dense carved field of schematic relief motifs with profile animal/bird-like forms, glyphic signs, and register-like organization closely matching the target\u2019s combination of incised zoomorphic figures and abstract signs.",
+ "least_similar_reason": "Candidate 10 is least similar because it depicts a single frontal standing human figure in a naturalistic sculptural style, lacking the target\u2019s banded surface of profile animals, glyph-like motifs, and repeated abstract signs.",
+ "set": "moai_iso_among_monoliths",
+ "i": 13,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "rapa_nui_hoa_iso",
+  "egypt_0040",
+  "maya_0091",
+  "gotland_0116",
+  "gotland_0111",
+  "maya_0066",
+  "maya_0039",
+  "maya_0101",
+  "gotland_0026",
+  "maya_0060"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "gotland",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "gotland",
+  "gotland"
+ ],
+ "model": "gpt",
+ "planted_rank": 9
+}

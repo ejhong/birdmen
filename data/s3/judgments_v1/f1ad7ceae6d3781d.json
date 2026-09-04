@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "quadruped animal in profile",
+  "schematic standing human or human-like figure",
+  "circle or small disc",
+  "straight linear/shaft-like mark"
+ ],
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest visible correspondence is the presence of schematic figures on stone, especially profile quadrupeds accompanied by simple human-like and circular/linear marks. The biggest difference is that A is a loose, painted scatter of red line motifs across a sloping natural rock surface, while B is a carved, vertically organized stone face with dense relief panels and bands.",
+ "a": "tanum_0067",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  654
+ ]
+}

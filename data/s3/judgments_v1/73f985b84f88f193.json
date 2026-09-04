@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "circle or disc",
+  "horizontal or parallel bands of pattern",
+  "rows of short linear/incised marks",
+  "abstract carved signs on an upright stone surface"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The most specific correspondence is an upright stone surface carrying schematic carved motifs with a circular element in the central area and horizontal/parallel banding below or nearby. The biggest difference is that A is organized as a flatter, rectilinear, register-like relief with multiple small animal/abstract forms, while B reads as a single dark anthropomorphic monolith with symmetrical body-like features and fewer, larger incised motifs.",
+ "a": "anatolia_ppn_p43full2",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "target",
+ "usage": [
+  1204,
+  812
+ ]
+}

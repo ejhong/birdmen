@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "standing human figures shown in strict profile",
+  "figures wearing tall distinctive headdresses/crowns",
+  "figures holding objects in extended hands",
+  "row of figures facing the same direction",
+  "horizontal decorative/inscribed band framing the figural scene",
+  "figured scene enclosed within borders"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both show formal, profile-view standing human figures with tall headgear holding objects, aligned facing one direction within a bordered field, which is a broadly shared courtly convention rather than a specific motif match. The content differs fundamentally: A centres on a rayed sun disc above a laden offering table with columns of script, while B shows a plain file of bearded armed attendants between bands of rosettes, sharing no distinctive object, gesture or symbol.",
+ "a": "egypt_0028",
+ "b": "persepolis_0004",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3199,
+  765
+ ]
+}

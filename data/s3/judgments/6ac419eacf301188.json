@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "round-topped (arched) stela shape",
+  "incised border line following the arched top",
+  "a framed panel/register within the arched field"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both are round-topped stelae with an incised border echoing the arch and an inset framed field, which is a shared format rather than shared imagery. Beyond that the depicted content diverges completely: A shows a large lattice/net-like grid over a curved band with rounded lumps and a central vertical shaft, while B shows a figural lunette (human figures raising arms toward a rayed disc) above many dense rows of small sign-script, none of which appears in A.",
+ "a": "gotland_0111",
+ "b": "egypt_0032",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3074,
+  257
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "glyph-like abstract signs",
+  "curvilinear scroll motifs",
+  "circular or oval motifs",
+  "vertical stacking of signs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The clearest correspondence is the use of schematic carved glyph-like signs with rounded scrolls and circular/oval elements, some arranged vertically. The largest difference is that B is dominated by a frontal anthropomorphic face or mask with eyes and a large circular mouth, while A appears mainly to present stacked abstract signs without a comparable central figure.",
+ "a": "maya_0152",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1672,
+  654
+ ]
+}

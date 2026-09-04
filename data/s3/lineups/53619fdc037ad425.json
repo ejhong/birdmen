@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  8,
+  5,
+  2,
+  3,
+  6,
+  9,
+  10,
+  1,
+  7
+ ],
+ "most_similar_reason": "Candidate 4 shows the same kind of scene as the target: numerous tiny, highly schematic stick-like human figures with splayed limbs in lively, scattered, non-registered groupings across a flat surface, apparently in a hunting/dancing action scene, matching the target's small linear figures with outstretched arms and legs.",
+ "least_similar_reason": "Candidate 7 is a single sculpted head/bust in the round with no narrative scene, no groups of figures and no linear schematic drawing, sharing essentially nothing with the target's crowd of tiny active stick figures.",
+ "set": "same_control",
+ "i": 7,
+ "target": "catalhoyuk_0031",
+ "planted": "catalhoyuk_0025",
+ "cands": [
+  "rapa_nui_0101",
+  "assyria_0047",
+  "maya_0027",
+  "catalhoyuk_0025",
+  "assyria_0088",
+  "egypt_0043",
+  "anatolia_ppn_0155",
+  "tanum_0327",
+  "egypt_0045",
+  "gotland_0128"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "gotland",
+  "egypt",
+  "maya",
+  "assyria",
+  "anatolia_ppn",
+  "tanum",
+  "rapa_nui",
+  "egypt",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

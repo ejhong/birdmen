@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  6,
+  9,
+  1,
+  2,
+  4,
+  7,
+  5,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 3 is most similar because it shares the target\u2019s distinctive schematic horizontal boat- or bird-like motif with many repeated vertical strokes, curved/animal-like ends, and small surrounding signs or creatures arranged as a surface design.",
+ "least_similar_reason": "Candidate 10 is least similar because it depicts a single anthropomorphic figure or object with body markings rather than a register-like composition of schematic animal/boat forms and repeated linear motifs.",
+ "set": "moai_iso_among_random",
+ "i": 34,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "persepolis_0082",
+  "persepolis_0070",
+  "tanum_0237",
+  "gotland_0130",
+  "maya_0026",
+  "tanum_0328",
+  "assyria_0096",
+  "maya_0106",
+  "persepolis_0030",
+  "rapa_nui_hoa_iso"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "persepolis",
+  "tanum",
+  "gotland",
+  "assyria",
+  "tanum",
+  "persepolis",
+  "maya",
+  "persepolis",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 10
+}

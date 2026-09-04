@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "carved stone relief",
+  "horizontal bands/registers",
+  "animal figures in profile",
+  "repeated figures or motifs"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of carved horizontal registers on stone, with profile figures or animals arranged within them. The biggest difference is that A is a broad, densely populated processional scene with many human figures, while B is a narrow upright surface with larger, more schematic animal and sign-like motifs.",
+ "a": "persepolis_0104",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  638
+ ]
+}

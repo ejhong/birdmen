@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "frontal standing human figure carved on an upright monolithic slab/stela",
+  "large headdress or head covering framing the face",
+  "face with prominent eyes and nose rendered frontally",
+  "chest/torso ornament or pectoral disc",
+  "belt or horizontal band across the waist/abdomen",
+  "low-relief carving filling the whole vertical field"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict a single frontal standing human personage occupying an entire tall upright slab, with a broad head covering above the face, a disc-like ornament on the chest and a banded belt at the waist, which is a reasonably specific shared scheme. They differ greatly in execution: A is densely ornate with intricate interlaced regalia, held objects, glyph-like panels and subsidiary crouching figures at the base, whereas B is austere and schematic with a few shallow rounded motifs and no attendant figures or held attributes.",
+ "a": "maya_0060",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2924,
+  349
+ ]
+}

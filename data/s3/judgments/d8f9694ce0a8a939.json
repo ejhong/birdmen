@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "quadruped animal in profile in low relief",
+  "animal with head turned or lowered",
+  "multiple animals stacked vertically on a single upright slab",
+  "relief carving on a flat pillar face",
+  "limbs rendered as raised ridges with articulated joints"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces show low-relief profile quadrupeds arranged one above another on the broad face of an upright slab, rendered in the same schematic manner with raised outline bodies and stick-like ridged legs; the vertical stacking of separate animals on a single pillar face is a fairly specific shared scheme. A differs in also carrying a horizontal register band, a row of repeated boxed motifs across the top, birds and a possibly anthropomorphic squatting figure, none of which appear in B, which shows only the animals.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0088",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  320
+ ]
+}

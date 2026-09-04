@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "profile animal figures",
+  "bird-like figures in profile",
+  "schematic human or anthropomorphic figure",
+  "rows or bands of repeated signs/motifs",
+  "linear incised/outlined symbols arranged in registers"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both surfaces combine schematic, outlined figures and signs in horizontal registers, including profile animal or bird-like forms and repeated linear motifs. The biggest difference is that A is dominated by dense rows of small script-like signs and enclosed name-like ovals beneath larger formal figures, while B is organized around a few large animals and abstract emblematic motifs with no comparable dense textual field.",
+ "a": "egypt_0017",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  682
+ ]
+}

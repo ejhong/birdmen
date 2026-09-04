@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "schematic anthropomorphic or human-like form(s)",
+  "linear/geometric marks or bands"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The only plausible shared content is very generic: both include schematic, human-like or bodily forms rendered with simple linear/geometric conventions. The biggest difference is that B is dominated by a single frontal anthropomorphic figure with circular body features and curved bands, while A appears to show a loose field of pecked linear marks or small stick-like figures without the same body scheme, attributes, or arrangement.",
+ "a": "tanum_0000",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  663
+ ]
+}

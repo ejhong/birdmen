@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "bearded male figure in strict profile",
+  "elaborately curled/stylized beard rendered as rows of tight curls",
+  "stylized hair mass at back of head",
+  "large frontal-style eye in a profile face",
+  "low-relief panel with figure facing right/left in courtly composition",
+  "patterned headgear/crown or headdress element",
+  "repeated regular decorative texturing (curls, feather/flute rows)"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "7",
+ "justification": "Both show a bearded male head in strict profile in low relief, with the beard and hair mass rendered as dense regular rows of tight curls, an enlarged eye shown almost frontally within the profile, and an ornamented headdress above \u2014 a very specific and conventional combination unlikely to arise independently. The main differences are that A shows a full winged figure with an outstretched arm and large feathered wings filling the field, while B is a close head-and-shoulders view with a fluted crown and no wings visible, and B's curl rendering is far more precise and ornamental.",
+ "a": "assyria_0032",
+ "b": "persepolis_0066",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3149,
+  375
+ ]
+}

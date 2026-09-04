@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  10,
+  1,
+  9,
+  7,
+  2,
+  3,
+  4,
+  5,
+  8
+ ],
+ "most_similar_reason": "Candidate 6 shows the same thing as the target: a single frontal, full-length personage carved in relief filling a tall monolithic slab, with an oversized elaborate headdress at the top, arms brought to the chest and heavy ornaments/discs across the torso, rendered in the same blocky, symmetrical, ornament-crowded style rather than as a scene of interacting figures.",
+ "least_similar_reason": "Candidate 8 depicts a small rectangular panel with a two-figure offering scene in profile above several ruled lines of script, which shares neither the single massive frontal figure, the headdress-and-chest-disc iconography, nor the monolithic vertical composition of the target.",
+ "set": "p43_iso_among_monoliths",
+ "i": 10,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0097",
+  "egypt_0072",
+  "egypt_0074",
+  "egypt_0046",
+  "egypt_0076",
+  "maya_0056",
+  "maya_0146",
+  "egypt_0050",
+  "anatolia_ppn_p43iso",
+  "maya_0027"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "egypt",
+  "egypt",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

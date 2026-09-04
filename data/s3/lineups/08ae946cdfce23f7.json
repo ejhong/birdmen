@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  10,
+  4,
+  2,
+  8,
+  9,
+  3,
+  1,
+  5,
+  7
+ ],
+ "most_similar_reason": "Candidate 6 shows a single standing human figure in profile-ish pose wearing a towering elaborate headdress and ornaments, framed by columns of rectangular glyph-blocks, which is exactly the composition of the target stela (upright figure above a band of block-like signs).",
+ "least_similar_reason": "Candidate 7 shows only a repeated abstract band of identical vertical leaf/tongue motifs with no human figure, headdress or sign-blocks, sharing nothing specific with the target's single figured stela.",
+ "set": "same_control",
+ "i": 6,
+ "target": "maya_0066",
+ "planted": "maya_0158",
+ "cands": [
+  "persepolis_0110",
+  "persepolis_0035",
+  "rapa_nui_0111",
+  "persepolis_0067",
+  "tanum_0059",
+  "maya_0158",
+  "assyria_0069",
+  "anatolia_ppn_0276",
+  "anatolia_ppn_0155",
+  "assyria_0135"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "persepolis",
+  "anatolia_ppn",
+  "assyria",
+  "persepolis",
+  "anatolia_ppn",
+  "rapa_nui",
+  "tanum",
+  "assyria",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

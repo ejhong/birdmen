@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "low-relief human figures in strict profile",
+  "bearded/coiffed figures with patterned hair and headgear",
+  "figures holding objects in outstretched hands",
+  "rosette / floral motif used as a decorative border band",
+  "frieze bordered by a band of repeated ornament",
+  "garments rendered with fine parallel incised lines and fringes",
+  "procession/striding pose with one leg advanced"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both are shallow relief friezes of profile human figures with elaborately patterned hair/beard, fringed and finely-striated garments, arms extended holding objects, framed by a border band of repeated rosette/floral ornament \u2014 a fairly specific shared convention rather than a generic one. The biggest difference in content is that A shows a mundane procession of attendants leading a two-humped camel, while B shows a single large winged supernatural figure with a bucket-like vessel beside a stylised plant, with no animals and no procession.",
+ "a": "persepolis_0007",
+ "b": "assyria_0157",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3224,
+  360
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  3,
+  5,
+  6,
+  9,
+  2,
+  7,
+  4,
+  1,
+  8
+ ],
+ "most_similar_reason": "Both feature flat, raised relief carving on monumental pillars, indicating a shared stylistic and structural tradition.",
+ "least_similar_reason": "It depicts a simple, linear boat scene, lacking the target's dense arrangement of complex animal and abstract forms.",
+ "set": "moai_among_random",
+ "i": 0,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "egypt_0014",
+  "maya_0130",
+  "assyria_0112",
+  "assyria_0088",
+  "assyria_0134",
+  "persepolis_0084",
+  "maya_0094",
+  "tanum_0325",
+  "maya_0048",
+  "rapa_nui_0113"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "maya",
+  "tanum",
+  "assyria",
+  "assyria",
+  "persepolis",
+  "assyria",
+  "maya"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

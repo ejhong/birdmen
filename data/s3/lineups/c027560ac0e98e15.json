@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  6,
+  1,
+  7,
+  4,
+  2,
+  5,
+  9,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 3 is most similar because it shows schematically incised figures, including animal-like and human-like forms with simple linear limbs and adjacent abstract marks, much like the target\u2019s combination of stylized relief animals and repeated signs arranged across the surface.",
+ "least_similar_reason": "Candidate 10 is least similar because it has no clearly comparable depicted iconography\u2014no readable animal figures, human figures, repeated sign band, or organized pictorial arrangement like the target.",
+ "set": "moai_close_among_random",
+ "i": 1,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "tanum_0334",
+  "persepolis_0017",
+  "tanum_0007",
+  "maya_0105",
+  "egypt_0038",
+  "egypt_0060",
+  "egypt_0014",
+  "rapa_nui_0004",
+  "maya_0060",
+  "maya_0125"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "persepolis",
+  "tanum",
+  "egypt",
+  "tanum",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 9
+}

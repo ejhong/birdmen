@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "animal figure(s) in relief"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "1",
+ "justification": "Image A shows a horizontal relief panel with arched motifs above and small animal figures below arranged in a narrative frieze, while Image B shows a single freestanding anthropomorphic stone figure with carved facial and body features and a circular disc motif on the torso. The only loose commonality is that both use low-relief carving on stone to depict figural content, but the subject matter (narrative animal frieze vs. a standing humanoid figure with body ornamentation) and arrangement are fundamentally different.",
+ "a": "anatolia_ppn_0272",
+ "b": "rapa_nui_0004",
+ "model": "sonnet",
+ "set": "target",
+ "usage": [
+  3174,
+  254
+ ]
+}

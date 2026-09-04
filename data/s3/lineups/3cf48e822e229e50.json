@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  1,
+  2,
+  7,
+  9,
+  4,
+  3,
+  8,
+  6,
+  5
+ ],
+ "most_similar_reason": "Candidate 10 depicts the same profile ram and distinctive stylized fleece pattern.",
+ "least_similar_reason": "Candidate 5 features sparse, schematic stick figures that lack volume or detailed patterning.",
+ "set": "same_control",
+ "i": 22,
+ "target": "persepolis_0110",
+ "planted": "persepolis_0085",
+ "cands": [
+  "assyria_0123",
+  "assyria_0071",
+  "rapa_nui_0097",
+  "egypt_0065",
+  "tanum_0059",
+  "tanum_0063",
+  "assyria_0040",
+  "maya_0009",
+  "egypt_0073",
+  "persepolis_0085"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "assyria",
+  "maya",
+  "egypt",
+  "tanum",
+  "egypt",
+  "assyria",
+  "tanum",
+  "assyria",
+  "rapa_nui"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

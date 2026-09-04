@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  7,
+  3,
+  9,
+  5,
+  1,
+  4,
+  10,
+  2,
+  6
+ ],
+ "most_similar_reason": "Candidate 8 is, like the target, a monolithic upright pillar-shaped block whose surface bears shallow, softly modelled relief motifs (arms/bands and a disc) carved directly into the coarse stone body rather than a flat framed panel.",
+ "least_similar_reason": "Candidate 6 shows figures applied as flat red painted lines on a rock face, with no carved relief, no pillar form and no register-like arrangement, making its technique and format wholly unlike the target's sculpted stone.",
+ "set": "moai_among_random",
+ "i": 33,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "assyria_0078",
+  "maya_0106",
+  "assyria_0142",
+  "egypt_0002",
+  "assyria_0051",
+  "tanum_0236",
+  "maya_0088",
+  "rapa_nui_0113",
+  "assyria_0122",
+  "persepolis_0007"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "assyria",
+  "assyria",
+  "assyria",
+  "egypt",
+  "tanum",
+  "maya",
+  "assyria",
+  "maya",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

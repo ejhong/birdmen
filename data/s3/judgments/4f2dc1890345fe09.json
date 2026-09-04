@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "upright slab/stele with figural relief in registers",
+  "row of repeated figures in a horizontal band",
+  "animals/quadrupeds in profile",
+  "human figures with raised or extended arms",
+  "framing border band along an edge",
+  "stacked tiers of imagery on a tall vertical field"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both are tall upright slabs bearing figural imagery divided into stacked horizontal registers, with rows of repeated figures across an upper band and a framing/edging element, which gives a loose compositional echo. But the actual content differs almost completely: A shows profile animals (predator/canine, bird with long neck, snake-like and insect-like creatures) with crouching small human figures and a row of crouching beasts, while B shows a crowd of cloaked standing human figures with a boat and an interlace border; the drawing conventions (low naturalistic modelled relief vs flat silhouetted outline figures) are also unrelated.",
+ "a": "anatolia_ppn_p43full",
+ "b": "gotland_0009",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3049,
+  361
+ ]
+}

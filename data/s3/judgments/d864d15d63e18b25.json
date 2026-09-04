@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic standing human or anthropomorphic figures",
+  "animal figures in profile",
+  "repeated linear or geometric marks",
+  "outline-drawn figures"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main shared content is only generic: both include simplified human/anthropomorphic figures, profile animals, and repeated linear or geometric signs rendered schematically. The biggest difference is that A is dominated by long boat-like forms with upturned ends and sparse surrounding figures, while B is arranged in stacked registers of carved animals, humanoids, and patterned bands with no clear boat motif.",
+ "a": "tanum_0087",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  627
+ ]
+}

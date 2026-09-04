@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  10,
+  1,
+  4,
+  6,
+  5,
+  7,
+  3,
+  9,
+  2
+ ],
+ "most_similar_reason": "Candidate 8 is, like the target, a flat carved panel showing human figures in profile engaged with objects in a scene, combined with framed panels of script-like signs in the same low-relief, outline-drawn manner.",
+ "least_similar_reason": "Candidate 2 is a fully three-dimensional sculpture of a squatting creature supporting a head, with no figural scene, no profile human interaction and no sign-rows on a flat field, so it shares nothing distinctive with the target's incised narrative plaque.",
+ "set": "same_control",
+ "i": 32,
+ "target": "egypt_0074",
+ "planted": "egypt_0024",
+ "cands": [
+  "gotland_0111",
+  "anatolia_ppn_0259",
+  "rapa_nui_0045",
+  "assyria_0116",
+  "rapa_nui_0106",
+  "anatolia_ppn_0095",
+  "egypt_0024",
+  "assyria_0092",
+  "anatolia_ppn_0175",
+  "maya_0077"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "assyria",
+  "anatolia_ppn",
+  "gotland",
+  "rapa_nui",
+  "anatolia_ppn",
+  "rapa_nui",
+  "anatolia_ppn",
+  "maya",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 7
+}

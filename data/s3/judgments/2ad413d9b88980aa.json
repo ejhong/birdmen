@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "boat/ship in profile with upturned prow and stern",
+  "row of vertical crew-strokes rising from the hull line",
+  "schematic stick-like human figures",
+  "multiple ships of differing sizes on one rock surface",
+  "animal-head terminal on ship prow"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "8",
+ "justification": "Both surfaces depict the same highly conventional motif: a profile boat with strongly upturned prow and stern, its hull drawn as parallel lines with a comb-like row of short vertical crew-strokes above, plus schematic stick-figure humans and smaller repeated ships scattered over the same rock panel. The main difference is content emphasis and density: A is dominated by one very large, elaborately detailed vessel with a second smaller boat below, while B spreads several small ships, a horned/antlered quadruped-like figure and a line of three armed figures across an open surface.",
+ "a": "tanum_0054",
+ "b": "tanum_0061",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3349,
+  340
+ ]
+}

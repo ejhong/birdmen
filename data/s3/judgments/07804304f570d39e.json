@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "incised/relief carving on a flat rectangular stone surface",
+  "hieroglyphic-type script signs",
+  "framed rectangular panel of text or scene",
+  "standing human figures in profile (in B; possibly traces in A)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces bear low-relief carving in the same script/sign tradition arranged inside a rectangular framed field, which is a real but broad correspondence. A is essentially an unbroken block of horizontal text lines with no discernible figural scene, whereas B shows a specific composition \u2014 two figures in profile flanking a central offering emblem beneath a winged/uraeus lunette \u2014 so the figural iconography and its relationships are not shared.",
+ "a": "egypt_0002",
+ "b": "egypt_0048",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3024,
+  284
+ ]
+}

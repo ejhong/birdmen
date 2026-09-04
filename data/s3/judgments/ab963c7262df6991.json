@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "quadruped animal in profile",
+  "human or anthropomorphic figure",
+  "horizontal register or band",
+  "repeated linear/geometric markings"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main correspondence is that both surfaces include profile animals and human/anthropomorphic figures organized with horizontal bands or registers. The biggest difference is that A shows a coherent naturalistic procession of horned animals with riders/attendants and floral borders, while B shows a much more schematic set of separate signs, animals, and figures without the same riding/processional relationships.",
+ "a": "persepolis_0039",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  664
+ ]
+}

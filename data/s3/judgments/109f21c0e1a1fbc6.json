@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "anthropomorphic figure",
+  "repeated carved/incised sign-like motifs",
+  "circular or oval motifs",
+  "curving bands or lines on/near the figure"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest shared content is that both include an anthropomorphic figure associated with repeated sign-like motifs and some circular/curving forms. The biggest difference is that A shows a detailed profile standing figure flanked by dense columns of discrete signs, while B shows a single frontal, highly schematic body-like form with a few signs and simple circular/linear motifs placed on the figure itself.",
+ "a": "maya_0026",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  672
+ ]
+}

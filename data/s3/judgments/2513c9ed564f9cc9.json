@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figure in strict profile",
+  "bearded male figure",
+  "low-relief carving with incised interior detail (garment folds, hair/beard curls)",
+  "weapon/shaft held in hand (spear in A, bow and arrows in B)",
+  "patterned rendering of hair and beard",
+  "figures oriented along a horizontal register"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both show bearded male human figures in strict profile carved in shallow relief with fine incised detailing of hair, beard and drapery, and both include a hand-gripped shaft-like weapon, which is a real but fairly generic correspondence. The scenes differ fundamentally: A is a single static standing attendant with spear and bow slung on the back, filling the field vertically, while B is a multi-figure narrative of a chariot with wheel, horses and a wounded lion in violent action across a horizontal register.",
+ "a": "persepolis_0067",
+ "b": "assyria_0088",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3224,
+  336
+ ]
+}

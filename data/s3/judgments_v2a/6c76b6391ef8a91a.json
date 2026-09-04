@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "quadruped animal in profile in low relief",
+  "animals carved on a tall upright slab/pillar face",
+  "superimposed/stacked animal figures in vertical sequence",
+  "reptile or serpentine creature below the quadruped"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show low-relief animals in strict profile stacked vertically on the broad face of a tall upright slab, with a quadruped above and a lower elongated/reptilian creature beneath, rendered in the same flat, outlined, schematic relief convention with no infill detail. B is far richer, with a horizontal register of repeated arched-animal motifs and a zigzag band across the top plus birds and a snake-like descending form, whereas A shows only one or two isolated figures on an otherwise blank surface.",
+ "a": "anatolia_ppn_0205",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2848,
+  307
+ ]
+}

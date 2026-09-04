@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "standing human figure",
+  "horizontal bands/registers",
+  "repeated linear marks or inscription-like rows",
+  "carved relief on stone"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces combine carved figures with horizontal bands of repeated linear marks, and both appear to include upright human figures within a decorated stone surface. The biggest difference is compositional: A is a tall narrow slab with large, schematic animal-like forms in stacked registers, while B is a broad rock-cut monument dominated by a central inscription panel and more formal figural reliefs.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0033",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  659
+ ]
+}

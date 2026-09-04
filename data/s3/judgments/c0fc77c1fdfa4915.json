@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "anthropomorphic or human figure",
+  "head/face with facial features",
+  "arms or upper limbs",
+  "incised linear/geometric surface details"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both depict an anthropomorphic figure with a head/face, upper limbs, and some incised linear detailing. The biggest difference is that A is a frontal, highly schematic, symmetrical figure with geometric torso motifs, while B shows a more naturalistic profile head and bent limb with no comparable frontal body scheme or circular/banded motifs.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_0266",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  619
+ ]
+}

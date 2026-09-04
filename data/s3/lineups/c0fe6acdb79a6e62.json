@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  3,
+  6,
+  7,
+  2,
+  10,
+  1,
+  9,
+  8,
+  5
+ ],
+ "most_similar_reason": "Both depict male figures in profile sharing stylized facial features and carving conventions.",
+ "least_similar_reason": "It shows irregular marks lacking any recognizable figures or organized composition.",
+ "set": "related_control",
+ "i": 39,
+ "target": "persepolis_0012",
+ "planted": "assyria_0011",
+ "cands": [
+  "tanum_0074",
+  "tanum_0106",
+  "egypt_0062",
+  "assyria_0011",
+  "gotland_0018",
+  "egypt_0053",
+  "mississippian_0009",
+  "rapa_nui_0070",
+  "gotland_0123",
+  "tanum_0070"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "egypt",
+  "tanum",
+  "rapa_nui",
+  "tanum",
+  "tanum",
+  "egypt",
+  "gotland",
+  "gotland",
+  "mississippian"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

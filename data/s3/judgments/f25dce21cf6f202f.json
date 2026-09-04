@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "large bird/raptor with wing rendered as parallel incised lines (hatched feathers)",
+  "small human-like figure with arms bent and hands shown",
+  "animal head in profile with prominent round eye and beak/snout",
+  "vertically stacked registers of creatures on a tall upright form",
+  "human figure positioned beneath/adjacent to the bird",
+  "schematic quadruped/animal bodies in low relief"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both show a large raptor-like bird whose wing is conveyed by a fan of parallel incised feather-lines, placed above/over a small schematic human figure with bent arms and splayed hands, and both stack their creatures in vertical tiers on a tall upright form with prominent staring eyes and heavy schematic heads. The main difference is that A spreads several distinct animals (quadrupeds in a row, a hatched band, waterbird, snake-like elements) across a flat panel in relief registers, while B compresses only the bird and the crouching human into a single three-dimensional stacked group without the accompanying animal rows or ornamental band.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0263",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  751
+ ]
+}

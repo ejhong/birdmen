@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "single large anthropomorphic figure filling the field",
+  "frontal/profile face with elaborate headdress or crown",
+  "patterned garment with fringed or tasselled edges",
+  "dense low-relief surface ornament covering the body",
+  "raised arm/hand region with held or attached attributes",
+  "wing-like or feather-like fanning plumage forms"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces depict a single dominant standing anthropomorphic figure with an elaborate headdress, richly patterned fringed garment and feather-like fanning forms flanking the body, occupying the whole field in low relief \u2014 a broadly comparable 'ornate standing personage' scheme. But the treatments differ sharply: A is a clear-outlined profile figure with anatomically legible arms, beard and bird wings against empty ground, while B is a frontal, densely packed composition of interlocking masks, glyph-like blocks and ornaments in which the body is almost lost, and the specific attributes (bucket-like object, cone) have no counterpart.",
+ "a": "assyria_0034",
+ "b": "maya_0019",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3024,
+  391
+ ]
+}

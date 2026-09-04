@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "upright carved stone surface",
+  "anthropomorphic or human-like form",
+  "circle or oval motif",
+  "horizontal bands or parallel linear decoration",
+  "relief/incised carving"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The closest correspondence is that both are upright stone forms bearing low-relief/incised decoration, including human-like imagery, circular or oval motifs, and horizontal band-like linear features. The biggest difference is that A is a flat, densely filled, register-like decorated surface with many small profile figures, while B is a rounded sculptural monolith with sparse decoration organized around the body-like form.",
+ "a": "anatolia_ppn_p43full",
+ "b": "rapa_nui_0034",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  665
+ ]
+}

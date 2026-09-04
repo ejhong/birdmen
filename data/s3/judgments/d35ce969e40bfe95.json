@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "frontal anthropomorphic figure or body",
+  "circular/disc motifs associated with the head or upper body",
+  "schematic facial/body features",
+  "linear/geometric bands or incised/painted patterning"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both present a highly stylized frontal anthropomorphic form with prominent circular motifs and linear/geometric detailing on or around the body. The biggest difference is that A is a complex active figure with limbs, staff, headdress, wing-like or feathered elements and multiple surrounding ornaments, while B is a much more abstract block-like face/body with a few circles and curved bands and no comparable held objects, pose, or surrounding iconographic scheme.",
+ "a": "mississippian_0000",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1909,
+  576
+ ]
+}

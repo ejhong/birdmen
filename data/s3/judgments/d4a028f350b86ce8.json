@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "bearded male figure in strict profile",
+  "standing figure in long belted robe",
+  "row/frieze of figures facing the same direction",
+  "hand raised holding a bowl or vessel",
+  "curled/tiered hairstyle rendered as rows of ringlets",
+  "square curled beard",
+  "low-relief figures against a plain ground",
+  "overlapping figures in procession"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "7",
+ "justification": "Both surfaces depict a horizontal frieze of bearded men in strict profile, wearing long belted robes, walking in single file and raising a hand that holds a shallow bowl or vessel, with hair and beards rendered as regular rows of tight curls \u2014 a very specific and conventional processional/offering scheme. The main differences are in scale and variety: A shows fewer, larger figures with more differentiation (a prominent figure gesturing, a fringed garment, a lower register with subsidiary detail), while B is a tightly repeated, near-identical file of bearers with no hierarchy or additional accessories.",
+ "a": "assyria_0139",
+ "b": "persepolis_0012",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3174,
+  798
+ ]
+}

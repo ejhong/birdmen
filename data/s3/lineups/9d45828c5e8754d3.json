@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  10,
+  9,
+  8,
+  2,
+  5,
+  6,
+  1,
+  3,
+  4
+ ],
+ "most_similar_reason": "Candidate 7 is most similar because it shows a tall upright surface covered with similarly schematic, low-relief animal motifs arranged vertically, including profile creatures and compact symbolic figures rather than a human narrative scene.",
+ "least_similar_reason": "Candidate 4 is least similar because its depicted content is almost entirely dense horizontal writing or inscriptional lines on a rounded tablet, with no comparable profile animals, birds, serpentine forms, or stacked zoomorphic iconography.",
+ "set": "moai_among_random",
+ "i": 13,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "maya_0085",
+  "persepolis_0069",
+  "persepolis_0043",
+  "egypt_0049",
+  "egypt_0046",
+  "egypt_0074",
+  "maya_0138",
+  "egypt_0068",
+  "rapa_nui_0113",
+  "tanum_0078"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "tanum",
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "persepolis",
+  "persepolis",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 3
+}

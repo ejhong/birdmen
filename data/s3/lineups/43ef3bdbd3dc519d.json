@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  6,
+  3,
+  4,
+  8,
+  1,
+  2,
+  7,
+  5,
+  10
+ ],
+ "most_similar_reason": "Candidate 9 is an upright pillar-like monolith carved in the same low-relief idiom with the same distinctive schematic anthropomorphic conventions (arms folded to a belt-like band encircling the shaft), matching the target pillar's combination of a body-shaped stone with bands and relief motifs wrapping its faces.",
+ "least_similar_reason": "Candidate 10 shows only linear, drawn outline ships with rows of crew strokes on a rock face, sharing none of the target's carved-relief animals, snakes, birds or banded geometric registers on a shaped standing pillar.",
+ "set": "moai_close_among_random",
+ "i": 15,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "gotland_0009",
+  "assyria_0088",
+  "maya_0136",
+  "maya_0162",
+  "tanum_0054",
+  "maya_0045",
+  "egypt_0024",
+  "egypt_0004",
+  "rapa_nui_0004",
+  "tanum_0049"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "tanum",
+  "maya",
+  "maya",
+  "gotland",
+  "egypt",
+  "egypt",
+  "tanum",
+  "assyria",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

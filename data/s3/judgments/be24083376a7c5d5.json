@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "standing human figures with arms raised above the head",
+  "frontal schematic human figures with splayed legs",
+  "row/frieze of repeated human figures across a horizontal surface",
+  "figures shown side by side, arms nearly touching"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces show a horizontal sequence of frontal, schematic human figures with arms raised upward and legs apart, which is a reasonably specific shared posture and grouping rather than merely 'some people'. The differences are that A's figures are reduced to linear stick-like bodies isolated among unrelated linear/geometric marks (a long line, dots, small motifs), while B's figures are modelled with bulky bodies, visible faces and interlinked, overlapping arms forming a continuous chain.",
+ "a": "tanum_0008",
+ "b": "anatolia_ppn_0218",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  305
+ ]
+}

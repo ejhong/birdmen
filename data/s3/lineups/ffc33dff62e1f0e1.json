@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  3,
+  7,
+  1,
+  10,
+  9,
+  4,
+  5,
+  6,
+  2
+ ],
+ "most_similar_reason": "Candidate 8 shows, like the target, a low-relief panel combining an elaborately costumed human figure in profile with adjoining blocks of dense pictorial script signs arranged in ordered registers, the same figure-plus-inscription convention.",
+ "least_similar_reason": "Candidate 2 presents only a nearly blank surface with a few faint scratched marks, offering no figures, objects, script or organized composition to correspond with the target's peopled, inscribed scene.",
+ "set": "same_control",
+ "i": 26,
+ "target": "egypt_0041",
+ "planted": "egypt_0049",
+ "cands": [
+  "persepolis_0085",
+  "tanum_0070",
+  "egypt_0049",
+  "mississippian_0018",
+  "rapa_nui_0099",
+  "maya_0126",
+  "persepolis_0068",
+  "maya_0026",
+  "tanum_0324",
+  "mississippian_0010"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "maya",
+  "persepolis",
+  "rapa_nui",
+  "mississippian",
+  "persepolis",
+  "tanum",
+  "tanum",
+  "mississippian",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

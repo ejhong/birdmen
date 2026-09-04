@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "low-relief creature shown with splayed limbs / animals in relief",
+  "repeated geometric band or ring of regular units (toothed rim vs. row of chevrons/zigzags)",
+  "small circular bosses or discs",
+  "bilateral symmetry in at least one motif"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "Both surfaces carry schematic relief creatures accompanied by a repeated band of regular geometric units and small round bosses, which is about as generic a correspondence as two carving traditions could reach independently. The organising schemes are wholly different: A is a radially symmetric disc with concentric rings enclosing a single central arachnid-like body, while B stacks horizontal registers of profile quadrupeds, birds and a handled object down a rectangular field, with no shared specific motif or relationship.",
+ "a": "mississippian_0018",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2924,
+  704
+ ]
+}

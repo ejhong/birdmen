@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "bird in profile",
+  "quadruped animal in profile",
+  "low-relief figures arranged in horizontal registers/bands",
+  "schematic recurring signs/symbols (rectangles, H-like and hook shapes)",
+  "elongated serpentine/linear forms"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces carry schematic profile creatures (birds, quadrupeds) and abstract rectilinear signs cut in shallow relief and organised into horizontal bands, and both include serpentine linear elements. But A is a dense sequential text-like array of small uniform signs repeated in ruled lines, whereas B is a pictorial composition of a few large animals stacked one above another with a row of U-shaped motifs and a fringed band; the relationships (sequence of tiny signs vs. big animals confronting/superposed) are quite different.",
+ "a": "egypt_0016",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  654
+ ]
+}

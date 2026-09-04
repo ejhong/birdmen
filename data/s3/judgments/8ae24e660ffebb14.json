@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "anthropomorphic figure in profile-ish stance with raised arm",
+  "headgear/head projection on figure",
+  "figure with outstretched arm(s) toward an adjacent object",
+  "legs shown as an inverted-U/striding pair",
+  "secondary motif beside the figure"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both depict a single humanoid figure with a marked headgear and an arm extended toward a motif at one side, which is about as generic as figural imagery gets; A is a stick-like schematic silhouette with a horizontal bar and a small oval blob, while B is a densely detailed, naturalistically proportioned winged and bearded figure with muscled limbs, patterned kilt, feather-by-feather wing and a stylised flowering plant. Nothing in the specific attributes (wings, plant, beard, garment) is shared, and the drawing conventions are utterly different, so the resemblance is coincidental rather than traditional.",
+ "a": "tanum_0128",
+ "b": "assyria_0112",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  361
+ ]
+}

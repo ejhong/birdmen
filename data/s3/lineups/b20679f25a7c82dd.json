@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  7,
+  3,
+  1,
+  6,
+  10,
+  9,
+  4,
+  2,
+  5
+ ],
+ "most_similar_reason": "Both feature relief carvings that combine figures in profile with accompanying blocks of symbolic text or glyphs.",
+ "least_similar_reason": "This appears to be a roughly shaped natural stone mass lacking any distinct carved figures, text, or structured scenes.",
+ "set": "same_control",
+ "i": 26,
+ "target": "egypt_0041",
+ "planted": "egypt_0049",
+ "cands": [
+  "persepolis_0085",
+  "tanum_0070",
+  "egypt_0049",
+  "mississippian_0018",
+  "rapa_nui_0099",
+  "maya_0126",
+  "persepolis_0068",
+  "maya_0026",
+  "tanum_0324",
+  "mississippian_0010"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "maya",
+  "persepolis",
+  "rapa_nui",
+  "mississippian",
+  "persepolis",
+  "tanum",
+  "tanum",
+  "mississippian",
+  "maya"
+ ],
+ "model": "gemini",
+ "planted_rank": 3
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  4,
+  5,
+  3,
+  10,
+  2,
+  7,
+  9,
+  6,
+  8
+ ],
+ "most_similar_reason": "Candidate 1, like the target, presents a single frontal standing personage carved in low relief on an upright slab, with an oversized elaborate headdress dominating the upper zone and body ornaments (collar/pectoral, belt) laid out symmetrically down the torso.",
+ "least_similar_reason": "Candidate 8 shows no human figure at all, only a fan-shaped stone bearing thin incised abstract/geometric outlines, sharing none of the target's frontal costumed personage iconography.",
+ "set": "p43_iso_among_monoliths",
+ "i": 4,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0113",
+  "maya_0085",
+  "maya_0110",
+  "maya_0053",
+  "gotland_0007",
+  "gotland_0000",
+  "mississippian_0015",
+  "gotland_0112",
+  "gotland_0133",
+  "anatolia_ppn_p43iso"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "gotland",
+  "gotland",
+  "maya",
+  "maya",
+  "gotland",
+  "gotland",
+  "maya",
+  "maya",
+  "mississippian"
+ ],
+ "model": "opus",
+ "planted_rank": 5
+}

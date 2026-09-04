@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "schematic stick-figure humans with outstretched arms",
+  "rock-carved outline figures painted/filled in red",
+  "quadruped animal in profile",
+  "human figure holding or attached to a long linear object",
+  "figures scattered across an open rock surface without frame"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces show the same repertoire of highly schematic red-filled rock-carved figures: stick-like humans with straight outstretched arms and splayed legs, small profile quadrupeds, and long linear objects held or extended by the figures, drawn with identical linear/silhouette conventions and no framing or ground line. The decisive difference is that B is dominated by repeated crescent-hulled boats with rows of vertical crew-strokes, which are entirely absent from A, where the scene is a close-up group of large human figures and animals connected by a long horizontal line.",
+ "a": "tanum_0037",
+ "b": "tanum_0334",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3174,
+  335
+ ]
+}

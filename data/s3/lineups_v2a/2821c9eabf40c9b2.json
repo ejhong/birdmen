@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  3,
+  1,
+  7,
+  6,
+  5,
+  2,
+  9,
+  4,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 shows the same kind of shallow carved narrative relief with human figures in strict profile arranged in rows, combined with horses and wheeled vehicles, matching the target's processional file of profile figures with a horse's head.",
+ "least_similar_reason": "Candidate 10 is a single thin schematic incised squiggle/serpentine line with no human figures, animals in profile, garments or ordered registers, so it shares nothing with the target's crowded processional relief.",
+ "set": "related_control",
+ "i": 0,
+ "target": "persepolis_0044",
+ "planted": "assyria_0039",
+ "cands": [
+  "egypt_0009",
+  "tanum_0327",
+  "egypt_0074",
+  "anatolia_ppn_0155",
+  "egypt_0020",
+  "anatolia_ppn_0045",
+  "egypt_0048",
+  "assyria_0039",
+  "anatolia_ppn_0263",
+  "tanum_0059"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "egypt",
+  "egypt",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "tanum",
+  "tanum",
+  "egypt",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

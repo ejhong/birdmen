@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "carved stone monument with relief/sculpted imagery",
+  "zoomorphic creature with a large head and toothed/fanged mouth",
+  "reptilian or saurian jaws shown in profile",
+  "incised linear detailing (bands, teeth, scale-like markings)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict a large-headed zoomorph with an open, toothed profile snout and incised linear surface detail, which is a moderately specific shared motif. But A is a single low-relief creature spread horizontally along a boulder with elaborate scroll/panel motifs behind the head, while B is a three-dimensional composition of a crouching figure surmounted by a second, distinct creature head \u2014 a vertical stacked figural arrangement with no counterpart in A.",
+ "a": "maya_0023",
+ "b": "anatolia_ppn_0175",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  304
+ ]
+}

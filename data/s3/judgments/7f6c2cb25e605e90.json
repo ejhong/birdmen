@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figure in profile",
+  "curvilinear scroll / volute motifs",
+  "framing band or border of repeated motifs",
+  "glyph-like blocks or sign panels",
+  "low-relief carved scene on a slab"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both surfaces show low-relief compositions combining profile human figures, scroll/volute ornament and sign-like blocks arranged within framing bands, which is a reasonably specific shared repertoire. However, A's legible carving is only a narrow vertical strip of ornament and glyph-like elements along one edge, with no readable scene, whereas B shows a full narrative tableau of figures flanking a central tree-like element within a scrolled border, so the relationships and overall composition cannot be shown to match.",
+ "a": "gotland_0133",
+ "b": "maya_0129",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2824,
+  761
+ ]
+}

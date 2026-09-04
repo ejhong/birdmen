@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  8,
+  9,
+  4,
+  6,
+  5,
+  10,
+  3,
+  2,
+  7
+ ],
+ "most_similar_reason": "Both feature schematic, stylized relief elements on a prominent upright form.",
+ "least_similar_reason": "It exclusively depicts text without any figural iconography.",
+ "set": "p43_among_random",
+ "i": 17,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "anatolia_ppn_p43full",
+  "gotland_0003",
+  "persepolis_0043",
+  "egypt_0000",
+  "persepolis_0047",
+  "persepolis_0020",
+  "egypt_0040",
+  "maya_0115",
+  "mississippian_0010",
+  "persepolis_0026"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "persepolis",
+  "persepolis",
+  "maya",
+  "gotland",
+  "mississippian",
+  "persepolis",
+  "egypt",
+  "persepolis",
+  "egypt"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

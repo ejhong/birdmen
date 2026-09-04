@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "large frontal/standing anthropomorphic figure occupying whole surface",
+  "human head with headgear or headdress",
+  "wings or wing-like flanking forms at the shoulders",
+  "circular disc/rosette motif on the body",
+  "patterned bands across the torso"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict a single dominant humanoid figure with a headdress, wing-like elements spreading from the shoulders and round disc/rosette motifs set against the body, which is a moderately specific shared combination. But A is a low-relief figure in strict profile with a raised arm, detailed feathered wing rendered as ordered rows of feathers, a stylised curled beard and fine incised garment patterning, while B is a fully three-dimensional frontal figure with a broad blank face, no arms or gesture, and only sparse schematic circular bosses and ridged bands; the conventions of rendering and the relationships between parts are quite different.",
+ "a": "assyria_0034",
+ "b": "rapa_nui_0047",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2974,
+  369
+ ]
+}

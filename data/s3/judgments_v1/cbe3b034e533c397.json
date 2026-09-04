@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "vertical decorated stone surface",
+  "stacked horizontal registers or bands",
+  "repeated geometric banding/chevron-like pattern",
+  "profile animal or bird-like figures",
+  "circular or oval motifs"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "The strongest correspondence is that both surfaces organize carved, schematic figures and geometric motifs in horizontal bands on a vertical stone, with some profile animal/bird-like forms and round or oval signs. The biggest difference is compositional scale and density: A is a crowded column of small compartmentalized glyph-like reliefs, while B uses a few large, open figures and a prominent patterned band.",
+ "a": "maya_0005",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1019,
+  609
+ ]
+}

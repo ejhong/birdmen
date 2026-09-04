@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low-relief carved figures in strict profile",
+  "procession/row of standing human figures moving in one direction",
+  "bearded male figures with elaborate hair and long garments",
+  "figures carrying/holding objects (staffs, weapons, reins)",
+  "horizontal frieze band of repeated figures",
+  "overlapping figures suggesting ranks"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both are low-relief friezes of bearded male figures in strict profile, arranged in an overlapping procession moving in a single direction, holding staff-like or hand-held implements, with the same conventions of patterned hair/beard, long fringed robes and rank-file overlap. The clearest difference is that B includes horses, a chariot with a spoked wheel, archers and a narrative triumph/battle context, whereas A is a purely static file of unarmed attendants without animals or vehicles.",
+ "a": "persepolis_0070",
+ "b": "assyria_0052",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  334
+ ]
+}

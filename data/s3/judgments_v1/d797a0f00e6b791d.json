@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "carved/incised decoration on a stone surface",
+  "horizontal bands or registers of motifs",
+  "small animal or bird-like figures in profile",
+  "abstract signs or symbols"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces use shallow carved motifs arranged at least partly in horizontal bands, including small profile animal/bird-like forms mixed with signs. The biggest difference is that A is a broad, dense field of many small repeated inscription-like marks on a cliff face, while B is a narrow upright slab with a few large, bold figural scenes separated into registers.",
+ "a": "egypt_0018",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  565
+ ]
+}

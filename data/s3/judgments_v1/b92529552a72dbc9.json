@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "profile animal forms",
+  "horizontal band or register",
+  "repeated short strokes/comb-like patterning",
+  "small circular dot or disc"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the presence of simplified profile animals associated with horizontal linear bands and repeated short stroke patterns. The biggest difference is that A is a sparse red-painted cluster on a dark rock face, while B is a dense carved relief organized in stacked registers on a shaped stone surface.",
+ "a": "tanum_0129",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  638
+ ]
+}

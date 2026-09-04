@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "frontal schematic anthropomorphic figure carved in low relief on a block/slab",
+  "head or face at top with brow/eye features rendered as paired hollows or arcs",
+  "shoulders wider than the tapering base",
+  "arms as curved ridges bent inward across the chest/torso, converging toward the middle",
+  "raised ridge along the vertical midline (nose/spine)",
+  "rounded-topped rectangular body outline"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict a rigid, frontal, block-like anthropomorphic figure with a head at the top, wide shoulders, and curved arm-ridges bent inward to meet across the torso in very low relief, a fairly specific schematic convention. The main difference is that A carries additional distinct iconography \u2014 a large chest disc, belt/waist bands, and patterned incision on the head \u2014 while B shows only the bare facial hollows and limb ridges, with no discs, bands or ornament and a more ambiguous face-versus-body reading.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_0270",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2999,
+  769
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "horizontal patterned band/register",
+  "repeated angular triangular or chevron-like marks",
+  "straight vertical dividing lines"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of horizontal registers containing repeated angular marks, with some vertical line divisions on a carved stone surface. The biggest difference is that A is a sparse, centered, largely geometric and symmetrical incised design, while B is a dense relief composition with multiple stacked figurative and animal-like motifs.",
+ "a": "gotland_0131",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  565
+ ]
+}

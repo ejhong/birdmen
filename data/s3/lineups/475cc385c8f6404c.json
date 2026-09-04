@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  8,
+  6,
+  3,
+  1,
+  5,
+  2,
+  7,
+  9,
+  4
+ ],
+ "most_similar_reason": "Candidate 10 shows the same kind of upright pillar/slab carved in shallow relief with animals in profile (including a long-snouted quadruped and serpentine/bird forms) stacked over the face in registers, exactly the combination and arrangement seen on the target.",
+ "least_similar_reason": "Candidate 4 presents only a dark, largely featureless rock face with no legible creatures, figures or motifs that could correspond to the target's registered animal reliefs.",
+ "set": "hard",
+ "i": 6,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0115",
+  "gotland_0123",
+  "egypt_0012",
+  "egypt_0027",
+  "gotland_0125",
+  "rapa_nui_0113",
+  "gotland_0133",
+  "tanum_0359",
+  "gotland_0116",
+  "maya_0047"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "gotland",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 3
+}

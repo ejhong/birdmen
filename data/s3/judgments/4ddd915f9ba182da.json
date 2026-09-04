@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic animals in profile",
+  "linear anthropomorphic or human-like figures/signs",
+  "horizontal bands or rows of repeated short marks",
+  "simple geometric/linear symbols"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both surfaces combine schematic profile animals with linear signs, including rows or bands of repeated short marks. The major difference is that A centers on a sparse stick-like human/anthropomorph and a boat- or comb-like motif, while B is a dense register-based composition of carved animals and symbolic forms with no matching central scene or distinctive motif.",
+ "a": "tanum_0348",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  671
+ ]
+}

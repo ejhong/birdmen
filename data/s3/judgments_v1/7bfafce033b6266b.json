@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "rounded-topped stone monument/slab",
+  "low-relief carving on stone",
+  "disc or circular motif",
+  "horizontal banding dividing the surface",
+  "anthropomorphic figure",
+  "weathered, chipped edges",
+  "museum mount/plinth display"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "3",
+ "justification": "Both are rounded-topped stone monuments carved in low relief with a horizontally banded surface and circular/disc elements, displayed upright on museum mounts, which gives an immediate silhouette resemblance. Beyond that the schemes diverge sharply: A is a small pale slab with finely incised, register-organised seated figures above rows of script signs, while B is a massive dark boulder-like block whose carving forms a single frontal head-and-body figure with heavy modelled relief and no linear inscription.",
+ "a": "egypt_0043",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  1858,
+  558
+ ]
+}

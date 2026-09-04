@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  2,
+  1,
+  8,
+  3,
+  7,
+  5,
+  4,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it also presents a carved, rounded-topped field dominated by schematic human/figure imagery combined with compact symbolic motifs rather than a naturalistic scene.",
+ "least_similar_reason": "Candidate 10 is least similar because its visible content is mainly faint linear markings on a rock face, with no clear frontal anthropomorphic figure, circular body motifs, or organized symbolic arrangement like the target.",
+ "set": "p43_among_random",
+ "i": 28,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "anatolia_ppn_p43full",
+  "egypt_0047",
+  "maya_0147",
+  "tanum_0079",
+  "tanum_0085",
+  "egypt_0065",
+  "persepolis_0025",
+  "assyria_0123",
+  "tanum_0237",
+  "egypt_0020"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "assyria",
+  "tanum",
+  "egypt",
+  "tanum",
+  "egypt",
+  "maya",
+  "tanum",
+  "egypt",
+  "persepolis"
+ ],
+ "model": "gpt",
+ "planted_rank": 3
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  4,
+  9,
+  1,
+  7,
+  8,
+  5,
+  3,
+  2,
+  6
+ ],
+ "most_similar_reason": "Candidate 10 shows, like the target, a large bearded human-form figure carved in shallow relief in strict profile, with elaborately curled hair/beard, patterned garment and an arm raised holding/extending an attribute, matching the target's conventions for rendering an attendant-type figure.",
+ "least_similar_reason": "Candidate 6 presents only bare stone blocks and walling with no discernible figures, motifs or composed imagery at all, so it offers nothing that corresponds to the target's profile figure with spear and robe.",
+ "set": "related_control",
+ "i": 29,
+ "target": "persepolis_0067",
+ "planted": "assyria_0125",
+ "cands": [
+  "mississippian_0006",
+  "egypt_0042",
+  "maya_0011",
+  "maya_0047",
+  "tanum_0070",
+  "anatolia_ppn_0082",
+  "anatolia_ppn_0103",
+  "mississippian_0011",
+  "gotland_0009",
+  "assyria_0125"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "gotland",
+  "maya",
+  "egypt",
+  "mississippian",
+  "anatolia_ppn",
+  "maya",
+  "anatolia_ppn",
+  "mississippian",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

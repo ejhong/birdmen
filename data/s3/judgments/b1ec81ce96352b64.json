@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "low-relief carving on a rounded boulder/monument face",
+  "curvilinear glyph-like or emblematic motifs with rounded rectangular cartouches",
+  "volute/scroll elements",
+  "stacked or superimposed motifs filling the upper and lower halves of the surface"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces bear shallow relief carving on a rounded stone face composed of rounded-cornered cartouches, hooked scrolls and curvilinear glyph-like signs stacked in registers over the upper part of the block, which is a fairly specific shared convention. However, A reads as an orderly grid of repeated blocky sign-cartouches with no discernible creature, while B is dominated by a single large zoomorphic/masklike head with eye, snout and volutes below smaller elements, so the specific subject differs.",
+ "a": "maya_0076",
+ "b": "maya_0069",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3124,
+  330
+ ]
+}

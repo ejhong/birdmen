@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "procession of standing human figures in profile",
+  "animals shown in profile walking to the side",
+  "rosette band framing a relief panel",
+  "relief frieze along a stepped/architectural facade",
+  "robed figure with headgear",
+  "animal-and-attendant grouping",
+  "lion/quadruped attacking or led animal in profile"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "7",
+ "justification": "Both depict the same distinctive scheme: a horizontal relief frieze of profile robed attendants in procession accompanied by profile quadrupeds, bounded above and below by a band of rosettes, on a stepped facade \u2014 A shows this at small scale within a framed painted view while B is a close-up of a comparable frieze. The main difference in depicted content is that B foregrounds a specific two-humped camel led by an attendant, while A's frieze includes lion-attacking-bull groups and a wide architectural setting with columns and sky.",
+ "a": "persepolis_0029",
+ "b": "persepolis_0058",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3349,
+  342
+ ]
+}

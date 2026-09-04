@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  10,
+  3,
+  2,
+  7,
+  4,
+  1,
+  6,
+  9,
+  8
+ ],
+ "most_similar_reason": "Candidate 5 shows multiple stacked pictorial registers containing figures and motifs in relief, matching the target's vertical layering of several distinct creatures and a plant.",
+ "least_similar_reason": "Candidate 8 displays only a repetitive grid of circular symbols with no living creatures, plants, or scenic figural composition.",
+ "set": "moai_iso_among_monoliths",
+ "i": 7,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0097",
+  "egypt_0041",
+  "egypt_0073",
+  "maya_0066",
+  "egypt_0068",
+  "rapa_nui_hoa_iso",
+  "egypt_0076",
+  "maya_0085",
+  "egypt_0040",
+  "egypt_0067"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya",
+  "egypt"
+ ],
+ "model": "grok",
+ "planted_rank": 8
+}

@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "large antlered stag/deer in profile, solid dark silhouette",
+  "small schematic human figures running with flexed limbs",
+  "archers with bows",
+  "boar/bovid-like animal in dark silhouette, small scale, in profile",
+  "pale/lighter-coloured secondary animal and figure",
+  "figures with dotted/hatched decoration on limbs or garments",
+  "scattered composition of many small figures around a dominant large animal"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "9",
+ "justification": "Both show the same distinctive scheme: a single greatly oversized antlered stag rendered as a flat dark silhouette in profile, surrounded and dwarfed by numerous tiny, wiry, dynamically running human figures with bows, plus smaller silhouetted boar-like quadrupeds and occasional pale-coloured figures with dotted decoration on the limbs \u2014 a very specific and arbitrary combination of scale contrast, posture and infill convention. The only real difference is scope: A is a long panoramic frieze with additional rows of archers, bovids and canids extending well beyond the stag, whereas B presents only the stag-centred cluster, which appears to be essentially the same composition seen in detail.",
+ "a": "catalhoyuk_0110",
+ "b": "catalhoyuk_0039",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3349,
+  823
+ ]
+}

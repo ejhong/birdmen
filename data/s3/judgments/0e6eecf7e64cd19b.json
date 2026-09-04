@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "quadruped animal shown in profile with legs indicated",
+  "low-relief animal carved on a flat rectangular stone face",
+  "animal placed horizontally along the upper part of the surface",
+  "schematic linear/geometric marking accompanying the animal(s)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces present flat-relief quadrupeds in strict profile with schematically rendered limbs set along the upper zone of a rectangular face, and both combine those animals with abstract linear motifs, which is a reasonably specific shared convention. However, A shows a single isolated creature above one long sweeping curved line, whereas B stacks several registers of repeated animals over bands of zigzag/net pattern with a further bird-like figure below, so the compositional scheme and the relationships between elements differ substantially.",
+ "a": "anatolia_ppn_0103",
+ "b": "anatolia_ppn_0105",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3174,
+  602
+ ]
+}

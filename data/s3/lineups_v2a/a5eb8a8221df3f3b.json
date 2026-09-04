@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  2,
+  5,
+  3,
+  10,
+  8,
+  7,
+  9,
+  6,
+  1
+ ],
+ "most_similar_reason": "Candidate 4, like the target, is dominated by animals carved in shallow relief in strict profile with schematic bodies and outlined limbs, filling the field as the fox, snake and bird do on the target pillar.",
+ "least_similar_reason": "Candidate 1 shows an essentially blank rounded slab with only faint traces of markings, offering none of the target's distinct profile animals, stacked registers or repeated symbolic motifs.",
+ "set": "moai_among_random",
+ "i": 30,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "egypt_0040",
+  "assyria_0059",
+  "maya_0085",
+  "persepolis_0095",
+  "maya_0048",
+  "egypt_0077",
+  "rapa_nui_0113",
+  "egypt_0063",
+  "maya_0024",
+  "maya_0052"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "maya",
+  "persepolis",
+  "maya",
+  "egypt",
+  "assyria",
+  "maya",
+  "egypt",
+  "maya",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 7
+}

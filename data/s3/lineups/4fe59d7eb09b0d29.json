@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  6,
+  2,
+  4,
+  7,
+  3,
+  5,
+  8,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 1 shares the distinctive T-shaped structural format and features an animal carving on its surface.",
+ "least_similar_reason": "Candidate 10 consists of dense, small-scale text and figures on a rounded stela, contrasting completely with the target's large animal reliefs.",
+ "set": "same_control_monoliths",
+ "i": 2,
+ "target": "anatolia_ppn_0105",
+ "planted": "anatolia_ppn_0080",
+ "cands": [
+  "anatolia_ppn_0080",
+  "maya_0111",
+  "egypt_0042",
+  "gotland_0133",
+  "egypt_0043",
+  "rapa_nui_0049",
+  "maya_0087",
+  "egypt_0041",
+  "egypt_0063",
+  "egypt_0069"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "gotland",
+  "rapa_nui",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "egypt"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

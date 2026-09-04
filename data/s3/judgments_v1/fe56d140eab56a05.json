@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "profile animal or creature",
+  "horizontal band or frieze of repeated pattern",
+  "abstract geometric signs",
+  "curving or serpentine line"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest correspondence is that both surfaces combine profile creatures with horizontal patterned bands or friezes and other abstract linear signs. The biggest difference is that A is a dense, fine-line, largely symmetrical scene organized around a central tree-like form and many small figures, whereas B is a sparse relief on a vertical stone with large separated motifs stacked in registers.",
+ "a": "maya_0129",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1124,
+  601
+ ]
+}

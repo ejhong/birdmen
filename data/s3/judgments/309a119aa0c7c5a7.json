@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "standing human figure in profile",
+  "low-relief carved figures with detailed patterned garments",
+  "long robes with rendered pleats/fringe",
+  "stylized plant/tree motif",
+  "figures shown striding with one foot forward",
+  "procession-like arrangement of figures along a surface",
+  "hair and beard rendered as regular curled rows",
+  "horizontal register bands"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces show bearded human figures in strict profile, striding with long pleated/fringed robes, rendered in shallow relief with hair and beard as regular rows of curls, and both include a conventionalized tree/plant among the figures. The biggest difference is composition and content: A is a single large winged genius filling one panel beside a stylized tree, while B is a multi-register procession of many small unwinged figures leading animals along horizontal bands.",
+ "a": "assyria_0096",
+ "b": "persepolis_0051",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3174,
+  325
+ ]
+}

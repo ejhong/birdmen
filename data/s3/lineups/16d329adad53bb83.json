@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  3,
+  1,
+  6,
+  9,
+  4,
+  2,
+  8,
+  10,
+  5
+ ],
+ "most_similar_reason": "Both depict a stylized front-facing figure with a complex headdress and dense relief carvings.",
+ "least_similar_reason": "It features horizontal bands of text and a winged motif, lacking any central anthropomorphic figure.",
+ "set": "p43_iso_among_monoliths",
+ "i": 12,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0054",
+  "gotland_0112",
+  "maya_0091",
+  "maya_0082",
+  "egypt_0069",
+  "maya_0045",
+  "maya_0101",
+  "mississippian_0015",
+  "anatolia_ppn_p43iso",
+  "egypt_0050"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "egypt",
+  "mississippian",
+  "maya",
+  "maya",
+  "maya",
+  "egypt",
+  "maya"
+ ],
+ "model": "gemini",
+ "planted_rank": 5
+}

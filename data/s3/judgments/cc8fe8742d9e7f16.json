@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic animal in profile",
+  "elongated curved animal body or tail",
+  "angular bent legs/appendages",
+  "simple linear/relief outline style"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is a schematic profile animal rendered with an elongated curved body or tail and angular bent appendages, which resembles some of the profile creatures on B. The biggest difference is that A appears to show essentially one isolated arcing animal motif, while B is a crowded multi-register composition with repeated signs, bands, and several different animals or symbols.",
+ "a": "anatolia_ppn_0195",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  665
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "low-relief carving on stone surface",
+  "curvilinear incised motifs",
+  "circular/spiral element"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "A shows a large frontal anthropomorphic figure with a headdress and shallow, sparse geometric/emblematic motifs (a disc, bands, abstract signs) spread over a rounded body, while B shows a naturalistic profile ram's head with a densely rendered spiral horn and finely combed fleece; the only overlap is the very generic presence of shallow carved curvilinear forms and a roughly circular element (A's disc vs B's coiled horn). The subject matter (human-like standing figure vs horned animal), the density and naturalism of detail, and the compositional logic are entirely different.",
+ "a": "rapa_nui_0113",
+ "b": "persepolis_0110",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2974,
+  301
+ ]
+}

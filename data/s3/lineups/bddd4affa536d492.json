@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  9,
+  1,
+  3,
+  7,
+  8,
+  6,
+  10,
+  5,
+  2
+ ],
+ "most_similar_reason": "Candidate 4 shows a single, monumental, frontal standing stone figure carved with simplified, blocky features similar in overall gestalt to the target's large frontal humanoid statue, unlike the profile relief scenes in most other candidates.",
+ "least_similar_reason": "Candidate 2 depicts an empty excavated pit with no discernible figures, symbols, or iconographic content at all, making it the least comparable to the clearly anthropomorphic, symbol\u2011bearing target.",
+ "set": "p43_among_random",
+ "i": 7,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "assyria_0071",
+  "catalhoyuk_0065",
+  "assyria_0000",
+  "anatolia_ppn_p43full",
+  "tanum_0321",
+  "persepolis_0099",
+  "assyria_0151",
+  "assyria_0122",
+  "persepolis_0071",
+  "persepolis_0012"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "persepolis",
+  "assyria",
+  "tanum",
+  "persepolis",
+  "assyria",
+  "persepolis",
+  "assyria",
+  "assyria",
+  "catalhoyuk"
+ ],
+ "model": "sonnet",
+ "planted_rank": 1
+}

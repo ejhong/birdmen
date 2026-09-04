@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  10,
+  5,
+  2,
+  7,
+  3,
+  4,
+  8,
+  1,
+  9
+ ],
+ "most_similar_reason": "Candidate 6 is the most similar because it depicts a single prominent zoomorphic figure in a schematic, carved style with projecting body parts and a vertical standing arrangement, closest to the target\u2019s solitary stylized bird form with folded appendage-like detail.",
+ "least_similar_reason": "Candidate 9 is least similar because it is dominated by symmetrical abstract scroll and knot-like motifs on a flat slab, with no comparable animal body, bird profile, beak, wing, or standing creature iconography.",
+ "set": "same_control_monoliths",
+ "i": 34,
+ "target": "anatolia_ppn_0142",
+ "planted": "anatolia_ppn_0086",
+ "cands": [
+  "gotland_0005",
+  "maya_0137",
+  "maya_0053",
+  "egypt_0041",
+  "rapa_nui_0046",
+  "anatolia_ppn_0086",
+  "egypt_0064",
+  "maya_0085",
+  "gotland_0117",
+  "rapa_nui_0039"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "gotland",
+  "rapa_nui",
+  "egypt",
+  "rapa_nui",
+  "gotland",
+  "egypt",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

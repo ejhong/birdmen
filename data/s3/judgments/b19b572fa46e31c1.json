@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief carved standing human figure in elaborate costume",
+  "panel/block of glyph-like signs in a rectangular grid",
+  "profile head with headdress",
+  "figure with dangling costume elements (belt/apron ornaments)",
+  "framed vertical relief field on a monolithic slab"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both surfaces carry a shallow relief field combining an elaborately costumed human figure in profile/frontal stance with blocks of square, rounded-corner sign-cartouches arranged in columns beside the figure, and the rendering conventions (flat low relief, dense filling of the field, ornate headdress and hanging costume elements) match closely. The main difference is that B preserves a complete standing figure with paired glyph columns and clear body, while A shows mostly an eroded horizontal strip where only the sign-blocks and part of a headdress/head are legible, so the full composition and any specific interaction between figures cannot be matched.",
+ "a": "maya_0023",
+ "b": "maya_0088",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3174,
+  366
+ ]
+}

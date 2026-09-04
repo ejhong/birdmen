@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "human figures (schematic crew strokes in A; a frontal standing personage in B)",
+  "animal or animal-like form (quadruped in A; zoomorphic/mask motifs in B)",
+  "repeated series of short vertical elements"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "The only overlap is the generic presence of human forms and a row of repeated vertical strokes, which in A are crew marks along a boat hull and in B are simply parts of an ornate costume and background; nothing specific corresponds. A is a highly schematic silhouette scene dominated by a large upcurved boat with a quadruped above, while B is a densely detailed, naturalistic frontal standing figure laden with headdress, pectoral and hanging regalia on a monolithic shaft.",
+ "a": "tanum_0238",
+ "b": "maya_0060",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3124,
+  303
+ ]
+}

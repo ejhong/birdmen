@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  9,
+  6,
+  1,
+  4,
+  2,
+  5,
+  10,
+  8,
+  7
+ ],
+ "most_similar_reason": "Candidate 3 is most similar because it centers on an elaborately dressed human/divine figure with a tall headdress, formal linear rendering, extended arms holding ritual or staff-like objects, and wing-like elements comparable to the target\u2019s robed, profile, staff-bearing figure with a prominent headdress.",
+ "least_similar_reason": "Candidate 7 is least similar because it appears to show mainly rows of inscription-like marks on a rock surface, with no comparable standing figure, headdress, staff, robe, wings, animals, or organized figural scene.",
+ "set": "related_control",
+ "i": 35,
+ "target": "persepolis_0035",
+ "planted": "assyria_0052",
+ "cands": [
+  "egypt_0009",
+  "gotland_0129",
+  "mississippian_0007",
+  "tanum_0106",
+  "gotland_0113",
+  "assyria_0052",
+  "egypt_0018",
+  "tanum_0078",
+  "egypt_0013",
+  "anatolia_ppn_0111"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "gotland",
+  "mississippian",
+  "egypt",
+  "tanum",
+  "anatolia_ppn",
+  "gotland",
+  "egypt",
+  "tanum",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 3
+}

@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figures in strict profile",
+  "bearded male figures with elaborate curled hair/beard",
+  "procession of figures moving in one direction along a horizontal band",
+  "figures carrying objects/implements",
+  "low-relief frieze composition with figures at uniform scale on a common groundline",
+  "long garments with patterned hems"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both are horizontal low-relief friezes of bearded men shown in strict profile, uniformly scaled on a single groundline and moving in procession, with the same conventions for stylised curled hair/beards, patterned hems and overlapping ranks of near-identical figures. The biggest difference in content is subject: A shows a calm tribute/offering procession of unarmed attendants bearing vessels toward a robed figure, while B is a chariot-and-horse scene with archers, weapons and animals, including no vessel-bearing.",
+ "a": "persepolis_0080",
+ "b": "assyria_0052",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  340
+ ]
+}

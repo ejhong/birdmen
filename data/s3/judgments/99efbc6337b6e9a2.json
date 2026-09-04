@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figure in profile with elaborately patterned hair/beard",
+  "stylized tree with regular repeated foliage units",
+  "rosette / floral disc motif",
+  "low-relief figures facing in one direction",
+  "figure holding a handled object",
+  "fringed/patterned garment"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show profile human figures with the same conventions of curled patterned hair and beard, fringed robes and a schematic tree built of repeated rosette/leaf units, and in both a figure carries a handled vessel-like object beside that tree, which is a fairly specific shared scheme. The biggest differences in content are the large feathered wings and single vertical panel composition in B versus the horizontal procession of men leading horned rams framed by rosette borders in A.",
+ "a": "persepolis_0032",
+ "b": "assyria_0115",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3149,
+  706
+ ]
+}

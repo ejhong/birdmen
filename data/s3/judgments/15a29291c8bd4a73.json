@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "quadruped animals in profile relief",
+  "predatory/feline-like animal with head turned or facing viewer",
+  "bird-like creature with prominent beak",
+  "low-relief carving with raised outline and plain infill",
+  "animals arranged in horizontal registers/rows",
+  "snake or elongated serpentine creature"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "7",
+ "justification": "Both surfaces show the same repertoire of animals \u2014 profile quadrupeds/predators with heavy limbs and heads, plus a large beaked bird and serpentine forms \u2014 rendered as flat low relief with a raised smooth outline against an unmodelled ground, and stacked into horizontal registers on a monolithic block face. The main difference in content is that B includes a distinct top register of repeated arch/loop signs above a fringed band and a dense vertical column of separate creatures, whereas A shows a single crowded field of interlocking quadrupeds without the emblem row.",
+ "a": "anatolia_ppn_0078",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  353
+ ]
+}

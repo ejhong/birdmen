@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic animal figures in profile",
+  "horizontal row or band of repeated linear marks",
+  "simple linear/geometric motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is that both include schematic profile animals and horizontally organized rows of repeated linear marks. The major difference is that A is dominated by a long boat-like form with many repeated occupants or strokes, while B is organized as stacked registers of animals, humanoid/abstract figures, and geometric bands with no comparable boat scene.",
+ "a": "tanum_0074",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  654
+ ]
+}

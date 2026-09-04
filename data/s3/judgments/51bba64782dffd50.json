@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "horned ram in profile facing right",
+  "large spiral/curled horn rendered with parallel ridges",
+  "fleece rendered as dense rows of stylized crescent/comma curls",
+  "large almond eye with carved lid and brow",
+  "muzzle and mouth line in profile",
+  "low-relief animal on a plain ground"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "8",
+ "justification": "Both depict a profile ram with the same distinctive conventions: a tightly curled horn incised with parallel striations sweeping around a large lidded almond eye, and a fleece rendered as regular rows of overlapping comma-shaped curls, with the head turned in the same direction; this is a very specific shared formula rather than a generic 'animal'. The chief difference in content is that A shows a whole procession of two rams with human legs and a hand/arm above them (a leading figure), while B shows only the head and forequarters of one animal without any human element.",
+ "a": "persepolis_0095",
+ "b": "persepolis_0110",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3174,
+  518
+ ]
+}

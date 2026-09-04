@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  9,
+  7,
+  1,
+  5,
+  8,
+  3,
+  6,
+  4,
+  2
+ ],
+ "most_similar_reason": "Candidate 10 is most similar because it shows the same kind of rigid, frontal, highly schematic anthropomorphic monolith-like figure covered with incised geometric/body symbols arranged in stacked bands.",
+ "least_similar_reason": "Candidate 2 is least similar because it depicts a naturalistic narrative procession with profile human figures and animals, lacking the target\u2019s frontal schematic body, mask-like features, and dense abstract iconographic layout.",
+ "set": "p43_among_random",
+ "i": 11,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "gotland_0026",
+  "persepolis_0020",
+  "assyria_0151",
+  "egypt_0049",
+  "egypt_0065",
+  "egypt_0070",
+  "maya_0026",
+  "egypt_0046",
+  "gotland_0133",
+  "anatolia_ppn_p43full"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "persepolis",
+  "egypt",
+  "gotland",
+  "gotland",
+  "assyria"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

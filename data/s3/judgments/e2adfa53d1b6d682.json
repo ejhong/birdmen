@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "animal in profile (quadruped)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "Image A shows a simple, schematic profile of a horned quadruped carved in shallow low relief with minimal internal detail, while Image B shows a detailed, naturalistic winged human-headed figure with elaborate clothing, wings, jewelry, and a small kneeling figure at its feet. The only generic overlap is that both are figural relief carvings depicting a living creature in profile, but the specific subject matter (animal vs. composite divine/human figure with wings and attendant), relationships, and stylistic conventions are entirely different.'",
+ "a": "anatolia_ppn_0207",
+ "b": "assyria_0158",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  3124,
+  270
+ ]
+}

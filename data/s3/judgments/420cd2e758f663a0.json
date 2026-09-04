@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "anthropomorphic figure with elaborate headdress",
+  "low-relief incised human body with ornament/pectoral",
+  "circular disc motif",
+  "banded/striated garment or belt element"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict a human figure rendered in shallow incised relief with a tall elaborated headdress and worn ornaments, and both employ a circular disc motif (as a chest emblem in A, as the framing form and border in B). But A is a frontal, monolithic, largely static body covered with isolated symbols, while B shows an active seated/crouching figure with a feathered or winged arm, a second face confronting it, and an encircling openwork band \u2014 a narrative composition with no counterpart in A.",
+ "a": "rapa_nui_0113",
+ "b": "mississippian_0005",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2949,
+  630
+ ]
+}

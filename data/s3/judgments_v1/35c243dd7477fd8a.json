@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "upright stone surface/monument with carved decoration",
+  "circle or disc-like motifs",
+  "horizontal lines or bands",
+  "paired rounded forms near the upper part"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific visible correspondence is the use of round motifs and horizontal banding on an upright carved stone face, with some paired rounded forms high on the surface. The biggest difference is compositional: A reads as one large, frontal, roughly symmetrical anthropomorphic figure, while B is a rectangular surface filled with many smaller linear relief figures and registers.",
+ "a": "rapa_nui_0045",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  618
+ ]
+}

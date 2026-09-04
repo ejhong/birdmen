@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  2,
+  6,
+  10,
+  3,
+  8,
+  7,
+  5,
+  4,
+  1
+ ],
+ "most_similar_reason": "Both feature a horizontal procession of stylized human figures in profile.",
+ "least_similar_reason": "It contains only abstract line drawings without any human figures.",
+ "set": "related_control",
+ "i": 5,
+ "target": "persepolis_0080",
+ "planted": "assyria_0013",
+ "cands": [
+  "gotland_0002",
+  "egypt_0050",
+  "anatolia_ppn_0264",
+  "tanum_0126",
+  "tanum_0026",
+  "maya_0115",
+  "anatolia_ppn_0122",
+  "anatolia_ppn_0179",
+  "assyria_0013",
+  "maya_0094"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "tanum",
+  "maya",
+  "egypt",
+  "tanum",
+  "maya",
+  "anatolia_ppn",
+  "gotland"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

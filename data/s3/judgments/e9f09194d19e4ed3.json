@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "standing human figure in profile",
+  "bearded male figure with elaborately rendered curled hair/beard",
+  "stone relief with figures on a groundline",
+  "hand extended holding/carrying an object",
+  "patterned infill for hair, feathers, fleece rendered as rows of scales/curls",
+  "fringed garment details"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both depict low-relief profile male figures with meticulously patterned curled hair and beards, standing on a groundline and extending a hand toward an object, and both use dense repeating scale-like patterning to fill textured surfaces (wings in A, fleece and foliage in B). But A is a single frontal-bodied winged composite being with a bird-of-prey head holding a bucket, filling the whole panel, whereas B is a horizontal procession of several wingless human attendants leading rams past a tree with border bands \u2014 different subject and compositional scheme.",
+ "a": "assyria_0135",
+ "b": "persepolis_0075",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3174,
+  344
+ ]
+}

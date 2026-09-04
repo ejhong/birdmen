@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic human or anthropomorphic figure",
+  "animal figures in profile",
+  "small abstract signs or linear motifs",
+  "horizontal row or band of repeated marks"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest shared content is the presence of schematic anthropomorphic figures together with profile animals and small repeated linear signs or bands. The biggest difference is that A is dominated by a large human-associated, long horizontal animal/object motif, while B is organized into stacked registers with several separate animals and patterned bands, without the same central relationship.",
+ "a": "tanum_0016",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  659
+ ]
+}

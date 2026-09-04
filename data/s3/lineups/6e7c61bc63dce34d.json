@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  1,
+  2,
+  3,
+  10,
+  4,
+  7,
+  9,
+  6,
+  5
+ ],
+ "most_similar_reason": "Both share a specific T-shaped structural form that frames the depicted elements.",
+ "least_similar_reason": "Contains only text with no figurative or animal forms.",
+ "set": "same_control_monoliths",
+ "i": 3,
+ "target": "anatolia_ppn_0027",
+ "planted": "anatolia_ppn_0263",
+ "cands": [
+  "anatolia_ppn_0263",
+  "maya_0088",
+  "maya_0111",
+  "maya_0136",
+  "egypt_0049",
+  "rapa_nui_0063",
+  "egypt_0067",
+  "gotland_0112",
+  "egypt_0071",
+  "maya_0092"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "gotland",
+  "maya",
+  "maya",
+  "egypt",
+  "rapa_nui",
+  "maya",
+  "maya",
+  "egypt",
+  "egypt"
+ ],
+ "model": "gemini",
+ "planted_rank": 2
+}

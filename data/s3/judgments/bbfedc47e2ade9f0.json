@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "circular disc motif",
+  "horizontal band of geometric pattern"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces include a carved circular disc motif and bands of geometric patterning, but A depicts an abstracted anthropomorphic figure (head, arms, belt) while B depicts a register-based frieze with animal figures (bird-like creatures, a quadruped) and arch shapes, a fundamentally different iconographic program. The biggest difference is that A's composition is organized around a single human body plan, whereas B is a horizontal narrative sequence of animals and abstract bands with no human figure discernible.",
+ "a": "rapa_nui_0004",
+ "b": "anatolia_ppn_p43full",
+ "model": "sonnet",
+ "set": "target",
+ "usage": [
+  2974,
+  1142
+ ]
+}

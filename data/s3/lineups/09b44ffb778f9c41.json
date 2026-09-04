@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  1,
+  7,
+  2,
+  3,
+  8,
+  6,
+  10,
+  4,
+  9
+ ],
+ "most_similar_reason": "Candidate 5 shows the same kind of dense, stacked composition combining zoomorphic and human-like figures with symbolic glyph-like elements, echoing the target's layered arrangement of animals, birds, and figures carved in a similar naturalistic-schematic relief style.",
+ "least_similar_reason": "Candidate 9 depicts a plain, uncarved stela in its landscape setting with no visible figural or symbolic imagery, offering no comparable iconographic content to the richly detailed target relief.",
+ "set": "moai_iso_among_monoliths",
+ "i": 0,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0085",
+  "maya_0105",
+  "maya_0113",
+  "gotland_0130",
+  "maya_0047",
+  "gotland_0026",
+  "egypt_0041",
+  "maya_0057",
+  "maya_0000",
+  "rapa_nui_hoa_iso"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "gotland",
+  "maya",
+  "gotland"
+ ],
+ "model": "sonnet",
+ "planted_rank": 8
+}

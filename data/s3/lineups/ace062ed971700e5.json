@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  5,
+  9,
+  4,
+  8,
+  6,
+  7,
+  1,
+  10,
+  3
+ ],
+ "most_similar_reason": "Candidate 2 shows the same combination as the target: an upright slab bearing a human figure rendered in low relief in a formal, schematic pose, accompanied by panels of small repeated sign-like glyphs, so figure and script share the field in the same way.",
+ "least_similar_reason": "Candidate 3 is a free-standing animal sculpture in the round with no human figures, no offering scene and no sign-like inscription, sharing none of the target's depicted elements or their arrangement on a flat panel.",
+ "set": "same_control_monoliths",
+ "i": 7,
+ "target": "egypt_0073",
+ "planted": "egypt_0069",
+ "cands": [
+  "gotland_0117",
+  "maya_0092",
+  "anatolia_ppn_0144",
+  "maya_0087",
+  "maya_0097",
+  "maya_0057",
+  "gotland_0026",
+  "egypt_0069",
+  "gotland_0111",
+  "gotland_0128"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "gotland",
+  "maya",
+  "anatolia_ppn",
+  "gotland",
+  "maya",
+  "maya",
+  "gotland",
+  "maya",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 5
+}

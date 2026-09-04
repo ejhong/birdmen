@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "dense field of small repeated incised signs (script-like characters) covering the surface",
+  "writing organised in rows/registers across the surface",
+  "script overlaid on or adjacent to carved relief imagery"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces are dominated by a dense, uniform field of small repeated wedge-like/script signs arranged in horizontal ruled lines covering the entire available ground, a fairly specific convention of text-as-decoration. The chief difference is that B also includes figural relief content \u2014 a human hand/fist gripping an object, drapery, and large rosettes \u2014 over and around which the inscription runs, whereas A shows only the inscribed field with no discernible figures.",
+ "a": "egypt_0035",
+ "b": "assyria_0015",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3224,
+  283
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  1,
+  5,
+  9,
+  6,
+  3,
+  4,
+  2,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 7 is closest because it shows a profile horned animal head with a prominent tight spiral horn, matching the target\u2019s distinctive ram heads and curled-horn iconography more specifically than the other candidates.",
+ "least_similar_reason": "Candidate 10 is least similar because it consists mainly of stacked rectilinear signs or glyph-like panels, with no comparable profile animals, curled horns, legs, or human-animal arrangement.",
+ "set": "related_control",
+ "i": 26,
+ "target": "persepolis_0095",
+ "planted": "assyria_0063",
+ "cands": [
+  "rapa_nui_0100",
+  "assyria_0063",
+  "gotland_0131",
+  "maya_0056",
+  "gotland_0116",
+  "maya_0076",
+  "rapa_nui_0080",
+  "maya_0085",
+  "rapa_nui_0103",
+  "maya_0147"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "gotland",
+  "maya",
+  "rapa_nui",
+  "maya",
+  "maya",
+  "rapa_nui",
+  "gotland",
+  "rapa_nui",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 8
+}

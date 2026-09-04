@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "upright carved stone surface",
+  "low-relief/incised decoration",
+  "horizontal bands or registers",
+  "anthropomorphic/human-like figure",
+  "circular or disc-like motifs",
+  "linear implements or elongated objects"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest shared features are relief carving on an upright stone face and the use of horizontal divisions with some human-like and circular/linear motifs. The biggest difference is compositional: A is dominated by a single frontal standing figure with dense modeled detail, while B is organized as separated registers of profile animals and schematic signs with no comparable central figure.",
+ "a": "maya_0130",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1230,
+  664
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "quadruped animal shown in profile in low relief",
+  "angular, schematically bent legs on an animal",
+  "animal carved on the flat face of an upright rectangular slab/pillar",
+  "elongated body with outline-relief contour and flat interior"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces depict a profile quadruped in shallow outline relief on the flat face of an upright rectangular slab, with the same convention of a long body and sharply angled, stick-like limbs, and B contains a canid-like animal very close in posture to A's single beast. The biggest difference is density and composition: A shows one isolated animal on an otherwise blank field, while B is a crowded multi-register programme with an arcade-like band of animals at the top, additional birds, a snake-like form and further creatures stacked down the shaft.",
+ "a": "anatolia_ppn_0186",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  771
+ ]
+}

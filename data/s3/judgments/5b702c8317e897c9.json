@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "profile heads or figures",
+  "repeated linear/geometric details",
+  "headgear- or crest-like forms"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The only real correspondences are generic: both use outlined profile heads/figures and some repeated linear detailing, with possible headgear or crest forms. A is a dense register of schematic animal/bird-like and geometric motifs, while B is a procession or encounter of robed human figures with specific dress and gestures, so the depicted content and organization are fundamentally different.",
+ "a": "anatolia_ppn_p43full",
+ "b": "persepolis_0047",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  657
+ ]
+}

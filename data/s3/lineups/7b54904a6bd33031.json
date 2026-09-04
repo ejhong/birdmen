@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  6,
+  2,
+  9,
+  8,
+  10,
+  3,
+  4,
+  7,
+  1
+ ],
+ "most_similar_reason": "Candidate 5 is most similar because it shows an upright decorated surface covered with stacked, schematic low-relief animal and sign-like motifs arranged vertically, closely matching the target\u2019s profile animals and abstract bands on a pillar-like face.",
+ "least_similar_reason": "Candidate 1 is least similar because it depicts a human procession with robed figures and attributes, lacking the target\u2019s dominant vertical arrangement of stylized animals and abstract sign motifs.",
+ "set": "moai_among_random",
+ "i": 38,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0047",
+  "rapa_nui_0113",
+  "tanum_0126",
+  "assyria_0157",
+  "maya_0092",
+  "gotland_0122",
+  "persepolis_0035",
+  "persepolis_0063",
+  "tanum_0067",
+  "egypt_0070"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "tanum",
+  "tanum",
+  "persepolis",
+  "gotland",
+  "assyria",
+  "maya",
+  "egypt",
+  "persepolis",
+  "persepolis"
+ ],
+ "model": "gpt",
+ "planted_rank": 3
+}

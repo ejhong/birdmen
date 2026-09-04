@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  10,
+  4,
+  9,
+  8,
+  6,
+  1,
+  7,
+  3,
+  2
+ ],
+ "most_similar_reason": "Candidate 5 features a similarly stylized bas-relief depiction of a human figure in profile.",
+ "least_similar_reason": "Candidate 2 displays abstract glyphs without recognizable human or animal figures.",
+ "set": "related_control",
+ "i": 27,
+ "target": "persepolis_0089",
+ "planted": "assyria_0011",
+ "cands": [
+  "tanum_0060",
+  "maya_0009",
+  "maya_0149",
+  "anatolia_ppn_0027",
+  "assyria_0011",
+  "anatolia_ppn_0130",
+  "tanum_0079",
+  "anatolia_ppn_0266",
+  "tanum_0052",
+  "maya_0138"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "maya",
+  "tanum",
+  "maya",
+  "tanum",
+  "tanum",
+  "anatolia_ppn",
+  "maya",
+  "anatolia_ppn",
+  "anatolia_ppn"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

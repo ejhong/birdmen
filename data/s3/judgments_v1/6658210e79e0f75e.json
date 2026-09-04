@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "animal in profile",
+  "standing human figure",
+  "horizontal band of pattern",
+  "carved relief on stone",
+  "repeated border motifs"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest correspondence is that both surfaces use relief carving with profile figures, including animals and standing humans, set near horizontal decorative bands or registers. The biggest difference is compositional: A is a broad, orderly frieze with shallow, refined, linear figures, while B is a vertical pillar with stacked, rougher, more schematic carvings and no closely matching sequence of motifs.",
+ "a": "persepolis_0079",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  492
+ ]
+}

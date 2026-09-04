@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "schematic frontal human head with elongated form",
+  "eyes rendered as carved/incised ovals",
+  "long straight nose defined by ridges",
+  "columnar body/neck supporting the head",
+  "anthropomorphic standing statue"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict a frontal, schematic anthropomorphic figure whose flat-topped elongated head sits directly on a columnar body, with the face reduced to brow ridges, wide almond eyes and a long straight nose, and both handle the head as a block with minimal modelling. The clearest difference in content is that A shows a full torso covered with incised motifs (a prominent disc, curved bands, pendant ornaments and a headdress with linear designs) whereas B presents only the bare head and neck with no ornament, symbols or held objects.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_0240",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2974,
+  327
+ ]
+}

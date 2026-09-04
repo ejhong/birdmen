@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "animal figures in profile",
+  "standing human or anthropomorphic figure",
+  "horizontal division into zones or registers"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces include schematic profile animals and small upright human-like figures arranged around a horizontal division. The biggest difference is that A is a carved, vertically stacked stone relief with dense geometric bands, while B is a broad painted rock surface with sparse red figures organized more loosely around a natural crack.",
+ "a": "anatolia_ppn_p43full",
+ "b": "catalhoyuk_0026",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  590
+ ]
+}

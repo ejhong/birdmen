@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figures in strict profile facing the same direction",
+  "bearded male figures with elaborate curled/patterned hair and beards",
+  "low-relief carved procession of figures",
+  "figures wearing headgear/headbands",
+  "figures in a row moving in one direction",
+  "figures holding/carrying objects"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both show low-relief processions of bearded male figures in strict profile, all facing the same way, with the same conventions for rendering stylised curled hair and beards, patterned garments and a raised upper arm/hand carrying or gesturing. The clearest difference is that B includes a large naturalistic camel led by a figure and is framed above and below by bands of rosettes, whereas A shows only closely packed human heads and torsos with tall headdresses and no animal or border motif.",
+ "a": "assyria_0111",
+ "b": "persepolis_0079",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  313
+ ]
+}

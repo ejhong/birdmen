@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "standing/upright human-like figures",
+  "figures with raised arms",
+  "animals or animal features (bird head in B, quadrupeds in A)",
+  "plant-like or vegetal element (schematic in A vs stylized rosette tree in B)",
+  "rows of repeated small marks (crew strokes in A, sign-like rows in B)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "Both surfaces show upright figures with raised arms and bands of small repeated marks, but these are generic and their forms differ completely: A is a scattered field of tiny schematic stick-figures, cattle and multi-oared boats, while B is a single large, anatomically modelled bird-headed winged figure holding a bucket and cone beside a stylized flowering tree with rosettes. There is no shared relationship or compositional scheme \u2014 A has no dominant figure or ground line and no vegetal centrepiece, B has no boats, herds or crowded scatter.",
+ "a": "tanum_0017",
+ "b": "assyria_0102",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3074,
+  355
+ ]
+}

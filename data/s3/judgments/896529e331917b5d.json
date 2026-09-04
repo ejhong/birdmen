@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "animal head in strict profile facing left",
+  "curled/spiral horn or curl motif at side of head",
+  "large almond eye with defined lid in profile",
+  "rows of repeated small curls or scale-like units used as infill texture",
+  "relief figures oriented in a leftward procession/movement",
+  "partial human figure/limb behind or beside the animal"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show a large-headed creature in strict left-facing profile with a prominent curled horn-like spiral beside the eye, a big almond eye, and dense rows of small repeated curls/scales used as decorative infill on the body, in low relief with the body filling the field. The biggest difference in content is the subject itself: A is a pair of naturalistic horned rams walking, driven by a human whose legs and hands appear above, while B is a single winged raptor-headed anthropomorphic being with a hooked beak and multiple layered wings, with no herd or procession of real animals.",
+ "a": "persepolis_0095",
+ "b": "assyria_0119",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  361
+ ]
+}

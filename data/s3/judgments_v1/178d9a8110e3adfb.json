@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "quadruped animal in profile",
+  "human figure",
+  "horizontal band or register",
+  "repeated linear/geometric patterning"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific correspondence is that both are carved surfaces with profile figures, including humans and quadrupeds, organized at least partly by horizontal bands or registers. The biggest difference is that A is a long, naturalistic narrative frieze dominated by a chariot-and-animal action scene, while B is a vertical stone with schematic, separated motifs and geometric bands rather than a continuous scene.",
+ "a": "assyria_0040",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  657
+ ]
+}

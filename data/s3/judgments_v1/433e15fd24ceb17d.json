@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "profile human figure",
+  "profile quadruped animal",
+  "horizontal band of pattern",
+  "repeated geometric ornament",
+  "carved low-relief stone surface"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The clearest correspondences are the use of carved relief on stone, profile figures, profile animals, and horizontal ornamental bands or registers. The biggest difference is that A is a rough, crowded vertical arrangement of stacked motifs, while B is a more regular horizontal procession with finer, more naturalistic carving and a continuous decorative border.",
+ "a": "anatolia_ppn_p43full",
+ "b": "persepolis_0027",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  539
+ ]
+}

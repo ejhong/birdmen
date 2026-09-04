@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  10,
+  4,
+  8,
+  3,
+  2,
+  1,
+  9,
+  6,
+  7
+ ],
+ "most_similar_reason": "Candidate 5 shares the target's defining scheme of shallow relief scenes stacked in horizontal registers, with profile figures and animals combined into a narrative row and framed by ornamental banding, matching the target's rows of profile creatures separated by patterned dividers.",
+ "least_similar_reason": "Candidate 7 is a flat, brightly coloured symmetrical composition of costumed frontal figures with decorative ornaments, sharing none of the target's register-based profile animals, signs, or shallow modelled relief conventions.",
+ "set": "moai_iso_among_random",
+ "i": 17,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "catalhoyuk_0039",
+  "assyria_0069",
+  "rapa_nui_hoa_iso",
+  "assyria_0123",
+  "persepolis_0000",
+  "tanum_0351",
+  "mississippian_0052",
+  "persepolis_0070",
+  "tanum_0332",
+  "assyria_0122"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "tanum",
+  "assyria",
+  "assyria",
+  "assyria",
+  "catalhoyuk",
+  "mississippian",
+  "persepolis",
+  "tanum",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 5
+}

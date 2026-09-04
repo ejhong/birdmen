@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "quadruped animal in profile relief",
+  "low relief carving on a vertical pillar/slab",
+  "stacked/vertically arranged animal figures",
+  "narrow undecorated field beside carved figures"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show low-relief animals in strict profile arranged in a vertical stack along a tall slab, with one broad face left largely blank beside the carved zone, and in both the animals appear as sequential registers rather than a single scene. However, A's clear bull-like quadruped above a second animal is specific and readable, while B's carved band is a narrower strip of more angular, less identifiable forms (possibly limbs/arms and smaller creatures) confined to one edge, so the specific creature identities and combinations cannot be matched.",
+ "a": "anatolia_ppn_0205",
+ "b": "gotland_0133",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2874,
+  302
+ ]
+}

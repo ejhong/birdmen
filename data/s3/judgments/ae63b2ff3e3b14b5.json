@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "tall vertical upright form carrying figures stacked in tiers",
+  "animal head/creature shown frontally or in profile with emphasized eyes",
+  "small anthropomorphic figure with limbs",
+  "arms/hands rendered as thin curving elements against the body/surface",
+  "horizontal band of repeated geometric marks (zigzag/chevron row)",
+  "predator-like creature with prominent snout/head"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces stack creatures and small anthropomorphic figures in vertical tiers up a tall upright form, with schematic large-eyed, big-headed beings, thin curving arms laid against the surface, and a horizontal row of repeated chevron-like marks in the upper zone. The biggest difference is that A is a three-dimensional sequence of massive frontal heads (bared-teeth predator over a human face) while B is a flat relief panel populated by profile quadrupeds, birds and small figures with no equivalent giant frontal face.",
+ "a": "anatolia_ppn_0261",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  986
+ ]
+}

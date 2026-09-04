@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "worked stone surface",
+  "rectangular/vertical panel or face",
+  "horizontal division or band"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific visible correspondence is that both involve a worked upright stone surface with a roughly rectangular face and some horizontal division. The biggest difference is that B is densely carved with clear figurative reliefs and patterned registers, while A appears mostly as a weathered rock face with architectural or smoothed cut areas and no clearly legible shared figures.",
+ "a": "egypt_0006",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  641
+ ]
+}

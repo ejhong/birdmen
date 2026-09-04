@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "large-scale relief figure(s) shown in profile",
+  "bearded male figure with elaborate headdress",
+  "figure grasping a long shaft/spear-like weapon",
+  "patterned, detailed rendering of hair/beard in rows of curls",
+  "fringed or layered garment with rows of tassel-like detail",
+  "figure feet in profile on a groundline"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces show monumental profile relief figures with curled, patterned beards and elaborate headgear, and in each a male figure grips a long shaft/spear diagonally across the body, with garments rendered as rows of pleats and fringes \u2014 a fairly specific shared convention of royal/guardian relief imagery. The biggest difference in content is that B includes a hybrid winged, scaled lion-bird monster and a winged human-headed being locked in a confrontation, whereas A shows only a single calm standing attendant with no wings, no creature and no combat.",
+ "a": "persepolis_0037",
+ "b": "assyria_0059",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3224,
+  363
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "profile figure",
+  "human or anthropomorphic figure",
+  "horizontal band or register",
+  "repeated carved motifs"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The most specific correspondence is that both are carved relief surfaces organized at least partly by horizontal bands and containing profile/anthropomorphic figures. The biggest difference is that A is a regular procession of finely modeled standing people holding vessels, while B is a rougher vertical stone with varied animal-like and abstract motifs arranged in stacked registers rather than a single repeated human frieze.",
+ "a": "persepolis_0012",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  649
+ ]
+}

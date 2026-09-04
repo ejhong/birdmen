@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  1,
+  6,
+  3,
+  7,
+  4,
+  2,
+  5,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 9, like the target, shows a bearded/plumed figure in strict profile carved in shallow relief, with the same conventions of tightly patterned curls, layered feather-like detail and fine incised surface ornament on the body and garment.",
+ "least_similar_reason": "Candidate 10 shows only a few faint irregular incised lines with no recognisable figures, garments, headdresses or ornamental motifs, sharing nothing with the target's procession of richly detailed profile figures.",
+ "set": "related_control",
+ "i": 34,
+ "target": "persepolis_0071",
+ "planted": "assyria_0119",
+ "cands": [
+  "maya_0026",
+  "tanum_0238",
+  "mississippian_0010",
+  "tanum_0321",
+  "anatolia_ppn_0072",
+  "maya_0056",
+  "egypt_0015",
+  "gotland_0002",
+  "assyria_0119",
+  "tanum_0100"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "tanum",
+  "maya",
+  "tanum",
+  "anatolia_ppn",
+  "egypt",
+  "maya",
+  "tanum",
+  "mississippian",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

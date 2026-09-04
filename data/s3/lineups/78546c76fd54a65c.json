@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  10,
+  8,
+  5,
+  1,
+  3,
+  4,
+  2,
+  7,
+  9
+ ],
+ "most_similar_reason": "Both feature broadly stylized, non-naturalistic profile forms defined by prominent curved lines.",
+ "least_similar_reason": "It exhibits a naturalistic and detailed style that contrasts with the target's broad abstraction.",
+ "set": "p43_among_random",
+ "i": 25,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "maya_0026",
+  "mississippian_0000",
+  "maya_0085",
+  "maya_0092",
+  "anatolia_ppn_p43full",
+  "mississippian_0001",
+  "assyria_0091",
+  "tanum_0240",
+  "assyria_0035",
+  "tanum_0007"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "mississippian",
+  "assyria",
+  "maya",
+  "tanum",
+  "maya",
+  "mississippian",
+  "assyria",
+  "maya",
+  "tanum"
+ ],
+ "model": "gemini",
+ "planted_rank": 4
+}

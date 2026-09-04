@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  1,
+  8,
+  2,
+  6,
+  7,
+  4,
+  10,
+  3,
+  9
+ ],
+ "most_similar_reason": "Candidate 5, like the target, is an upright monolithic pillar carved in low relief into a schematic anthropomorphic form, with a head-like top, arms bent along the sides, hands meeting at the front and a belt/ornament band across the body.",
+ "least_similar_reason": "Candidate 9 shows only a plain eroded wall surface with no identifiable figures, symbols or motifs, so it shares none of the target's anthropomorphic imagery or ornament.",
+ "set": "p43_among_random",
+ "i": 33,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "assyria_0105",
+  "maya_0048",
+  "gotland_0004",
+  "tanum_0079",
+  "anatolia_ppn_p43full",
+  "persepolis_0011",
+  "maya_0081",
+  "gotland_0116",
+  "egypt_0018",
+  "tanum_0076"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "assyria",
+  "maya",
+  "tanum",
+  "gotland",
+  "egypt",
+  "maya",
+  "tanum",
+  "gotland",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

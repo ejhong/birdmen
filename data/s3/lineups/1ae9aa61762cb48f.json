@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  4,
+  3,
+  1,
+  7,
+  10,
+  9,
+  2,
+  6,
+  5
+ ],
+ "most_similar_reason": "Candidate 8 shares a distinct tradition of stylized animal figures carved in raised relief on a pillar format.",
+ "least_similar_reason": "Candidate 5 lacks any representational imagery, featuring only simple, abstract linear marks.",
+ "set": "moai_among_random",
+ "i": 8,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "egypt_0040",
+  "tanum_0054",
+  "assyria_0011",
+  "assyria_0021",
+  "gotland_0018",
+  "egypt_0010",
+  "persepolis_0035",
+  "rapa_nui_0113",
+  "gotland_0123",
+  "mississippian_0002"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "assyria",
+  "persepolis",
+  "tanum",
+  "egypt",
+  "gotland",
+  "gotland",
+  "assyria",
+  "egypt",
+  "mississippian"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low-relief carving on a tall upright monolith/stela",
+  "elaborately costumed anthropomorphic figure occupying the main field",
+  "large headdress or elaborate cranial ornament at the top",
+  "circular disc/medallion motif on the chest or torso region",
+  "curvilinear scroll-like emblematic motifs",
+  "vertical composition with figure filling the shaft"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces show a single frontal, elaborately adorned anthropomorphic figure carved in low relief filling a tall vertical shaft, with an ornate headdress at top and a prominent circular disc/medallion at the chest, plus curling scroll ornaments \u2014 a fairly specific shared scheme. The biggest difference in depicted content is that B's figure is a fully articulated standing personage with visible arms, legs, held implements and dense glyph-like signs and a secondary head, while A is a massive head-and-torso form whose lower body is undifferentiated and which lacks any comparable sign panels or limbs.",
+ "a": "rapa_nui_0113",
+ "b": "maya_0137",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2974,
+  389
+ ]
+}

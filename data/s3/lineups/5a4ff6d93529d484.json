@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  5,
+  10,
+  8,
+  4,
+  2,
+  7,
+  3,
+  1,
+  9
+ ],
+ "most_similar_reason": "Candidate 6 shows the same subject in the same manner: a low-relief profile scene of bearded human figures with a harnessed horse and chariot, rendered naturalistically with outlined bodies, reins and harness detail, exactly the combination of man-and-horse-in-profile seen in the target.",
+ "least_similar_reason": "Candidate 9 presents an essentially blank, undecorated slab with no depicted figures, animals, objects or motifs at all, so there is nothing iconographic to correspond with the target's horse-and-rider relief.",
+ "set": "related_control",
+ "i": 22,
+ "target": "persepolis_0089",
+ "planted": "assyria_0109",
+ "cands": [
+  "maya_0005",
+  "tanum_0324",
+  "egypt_0049",
+  "tanum_0054",
+  "egypt_0028",
+  "assyria_0109",
+  "tanum_0351",
+  "tanum_0325",
+  "rapa_nui_0082",
+  "anatolia_ppn_0240"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "egypt",
+  "tanum",
+  "tanum",
+  "anatolia_ppn",
+  "tanum",
+  "tanum",
+  "maya",
+  "egypt",
+  "rapa_nui"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

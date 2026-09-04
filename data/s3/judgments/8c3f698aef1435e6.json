@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "horizontal plain band dividing registers",
+  "row of repeated identical motifs aligned side by side",
+  "triangular/chevron forms filled with fine parallel hatching",
+  "low-relief schematic forms with linear interior hatching",
+  "band of small repeated units running along the top of a register"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both surfaces organise their content into horizontal registers separated by a plain raised band, and both include a row of identical repeated units capped by hatched triangular elements, rendered in flat low relief with fine parallel-line infill \u2014 a fairly specific shared decorative habit. The decisive difference is subject matter: A is a figural composition with a large profile quadruped, small human-like figure, birds and a row of crouching animals, while B contains no creatures at all, only an abstract file of repeated ribbed forms.",
+ "a": "anatolia_ppn_p43full",
+ "b": "assyria_0069",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  1030
+ ]
+}

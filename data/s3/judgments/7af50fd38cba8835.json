@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "bearded male figure in profile",
+  "elaborately curled hair and beard rendered as rows of tight curls",
+  "long fringed/pleated robe with parallel drapery lines",
+  "tall headdress/cap",
+  "figure holding an object in outstretched hand",
+  "low relief with figures on a plain ground, single register"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show striding bearded men in strict profile with stacked-curl beards, tall headgear, long fringed robes rendered in fine parallel folds, and an object carried in the extended hand, all in shallow relief on a blank ground \u2014 a very consistent set of figural conventions. The decisive differences in content are B's huge multi-register wings and stylised palmette tree, which have no counterpart in A's procession of wingless courtiers touching one another and carrying vessels.",
+ "a": "persepolis_0047",
+ "b": "assyria_0096",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3174,
+  798
+ ]
+}

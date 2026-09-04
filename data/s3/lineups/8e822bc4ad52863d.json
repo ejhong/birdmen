@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  8,
+  5,
+  6,
+  4,
+  10,
+  9,
+  7,
+  2,
+  1
+ ],
+ "most_similar_reason": "Candidate 3, like the target, is a flat relief slab organized into stacked registers filled with profile creatures and mask-like motifs rendered in the same schematic, outlined low-relief manner, with small elements packed side by side rather than a single dominant figure.",
+ "least_similar_reason": "Candidate 1 shows an essentially blank, featureless slab with no identifiable creatures, figures, signs or register divisions, so there is no depicted content to correspond with the target's dense animal registers.",
+ "set": "moai_iso_among_monoliths",
+ "i": 31,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0125",
+  "rapa_nui_hoa_iso",
+  "maya_0045",
+  "maya_0130",
+  "egypt_0066",
+  "egypt_0065",
+  "gotland_0133",
+  "egypt_0063",
+  "maya_0147",
+  "maya_0158"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "egypt",
+  "gotland",
+  "maya",
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 9
+}

@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "animal/quadruped in profile",
+  "standing or stick-like human/anthropomorphic figure",
+  "short linear marks or strokes"
+ ],
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is that both surfaces include profile animal figures alongside small linear or anthropomorphic marks. The biggest difference is that A is a loose, weathered painted composition on a flat rock face, while B is an organized carved relief on a pillar with clear horizontal registers and repeated motifs.",
+ "a": "catalhoyuk_0031",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  497
+ ]
+}

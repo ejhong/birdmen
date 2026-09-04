@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  7,
+  3,
+  4,
+  8,
+  10,
+  2,
+  5,
+  1,
+  9
+ ],
+ "most_similar_reason": "Candidate 6 features the identical sculpted figure and specific carved back motifs.",
+ "least_similar_reason": "Candidate 9 consists solely of horizontal text lines without large figural elements.",
+ "set": "same_control_monoliths",
+ "i": 1,
+ "target": "rapa_nui_0065",
+ "planted": "rapa_nui_0005",
+ "cands": [
+  "maya_0023",
+  "egypt_0045",
+  "gotland_0133",
+  "anatolia_ppn_0263",
+  "maya_0147",
+  "rapa_nui_0005",
+  "maya_0092",
+  "anatolia_ppn_0175",
+  "egypt_0069",
+  "egypt_0067"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "egypt",
+  "gotland"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

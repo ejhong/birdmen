@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic human figure with outstretched arms",
+  "figure holding/brandishing an elongated object",
+  "silhouette-style limbs rendered as thick bands",
+  "large curved/hooked forms"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces show highly schematic human figures reduced to thick band-like limbs, with at least one figure raising an arm to hold an elongated curved implement, and both use flat silhouette/outline conventions without interior detail. The decisive difference is content and composition: A is an unframed scatter of multiple standing human figures and small tools/objects across an open field, while B is a single framed panel dominated by one huge quadruped with a small figure above it, a scene type absent from A.",
+ "a": "tanum_0007",
+ "b": "gotland_0115",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  613
+ ]
+}

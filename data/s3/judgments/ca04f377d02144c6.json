@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human or humanoid figure in profile with outstretched arm",
+  "large wing with rows of parallel feathers",
+  "low-relief carving of figures on a flat panel",
+  "stylized headdress/tall head covering",
+  "raised arm gesture toward another element"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both show low-relief profile human-form figures with an extended arm and heavily striated feather/ray patterning, but in A the striations belong to a great wing attached to a bearded figure while in B they are rays radiating from a central disc onto figures at an offering table. The specific iconography differs entirely: A is a single large winged genius-type figure filling the panel; B is a multi-figure scene with sun-disc, altar with vessels, attendants and dense columns of sign-writing, none of which appears in A.",
+ "a": "assyria_0032",
+ "b": "egypt_0000",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3299,
+  311
+ ]
+}

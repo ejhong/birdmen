@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "upright monolithic slab/pillar bearing carved figural imagery",
+  "animals rendered in profile with prominent heads",
+  "stacked horizontal registers of motifs",
+  "repeated row of similar heads/faces across a band",
+  "low-relief carving with figures against a plain ground"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both are upright carved pillars organised into stacked horizontal registers, with a band of repeated similar heads near the top of each and animal/creature forms in relief, which is the strongest correspondence. But the specific content differs sharply: A shows sparse, highly schematic isolated animals (quadrupeds, birds, a long-necked creature) and abstract lines on an otherwise empty ground, while B shows dense, wholly filled interlocking foliate/masklike ornament with human-like faces embedded in scrollwork, leaving no blank field.",
+ "a": "anatolia_ppn_p43full",
+ "b": "maya_0053",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2949,
+  337
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human figure in profile",
+  "quadruped animal in profile",
+  "plant or tree motif",
+  "horizontal register or band-like organization"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest correspondences are the presence of profile human figures, profile quadrupeds, and plant/tree forms arranged at least partly in horizontal zones. The biggest difference is that A shows a coherent procession with humans walking and riding bovine-like animals beside formal trees and bordered by rosettes, while B shows much more schematic, separated animal, bird/plant, and sign-like figures stacked on a pillar with no comparable procession or riding relationship.",
+ "a": "persepolis_0082",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  645
+ ]
+}

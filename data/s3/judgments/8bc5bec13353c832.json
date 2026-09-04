@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "standing figure(s) in profile",
+  "winged figure",
+  "human figures"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "1",
+ "justification": "Panel A depicts a large winged genie facing a griffin-demon in a single narrative scene rendered in a naturalistic, high-relief carving style, while Panel B is a dense multi-register composition combining small rows of human figures with extensive columns of hieroglyphic-like script, resembling a stele or inscribed tablet rather than a figural relief. The only broad commonality is the presence of standing human-like figures in profile and a winged element, but the specific forms, proportions, relationships (confronting demon vs. flanking ritual figures under a sun disc), and overall arrangement (single large scene vs. registers of text and small figures) are entirely different.",
+ "a": "assyria_0059",
+ "b": "egypt_0014",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  3124,
+  307
+ ]
+}

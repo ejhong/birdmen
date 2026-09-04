@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "rounded glyph-like signs",
+  "circle or oval/disc motifs",
+  "curvilinear scroll-like motifs",
+  "schematic facial or eye-like elements"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest shared content is the use of schematic, rounded glyph-like motifs, including circles/ovals and scroll-like forms, rendered with similar curvilinear outline conventions. The biggest difference is that A is a dense, orderly grid of separate sign blocks, while B is dominated by a single frontal anthropomorphic figure or body form with motifs placed on it rather than an all-over inscriptional panel.",
+ "a": "maya_0011",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1883,
+  619
+ ]
+}

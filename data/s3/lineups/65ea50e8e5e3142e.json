@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  6,
+  4,
+  2,
+  9,
+  3,
+  5,
+  7,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 1 shows similarly schematic, incised animal figures (birds and quadrupeds rendered in simple profile outlines) carved directly into a rough stone surface, echoing the target's linear, low-relief animal iconography.",
+ "least_similar_reason": "Candidate 10 depicts free-standing anthropomorphic statues rather than a flat surface decorated with registers of animal and symbolic motifs, making its depicted content fundamentally different from the target.",
+ "set": "hard",
+ "i": 8,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "tanum_0359",
+  "gotland_0116",
+  "egypt_0012",
+  "gotland_0115",
+  "egypt_0027",
+  "maya_0047",
+  "gotland_0125",
+  "gotland_0123",
+  "gotland_0133",
+  "rapa_nui_0113"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "gotland",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "sonnet",
+ "planted_rank": 10
+}

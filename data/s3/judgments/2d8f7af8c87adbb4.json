@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "dense field of carved script signs arranged in ruled lines",
+  "flat inscribed panel filling the surface",
+  "small pictographic signs repeated in registers"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces are dominated by a ruled field of small pictographic script signs cut in low relief, which is a reasonably specific shared convention rather than mere generic patterning. However, B additionally carries a lower figural register with human figures facing one another across the text, and its lines run horizontally, whereas A's legible panel shows only vertically ruled columns of signs with no discernible figures.",
+ "a": "egypt_0021",
+ "b": "egypt_0075",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3174,
+  526
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  3,
+  2,
+  1,
+  8,
+  6,
+  9,
+  4,
+  10,
+  5
+ ],
+ "most_similar_reason": "Candidate 7 is most similar because it shows a horizontal frieze of repeated schematic animal/bird-like signs with adjacent zigzag or hatched bands, closely matching the target\u2019s register-based arrangement of incised, stylized creatures and linear patterned borders.",
+ "least_similar_reason": "Candidate 5 is least similar because it depicts a single anthropomorphic figure or statue-like body with bodily features and ornaments, rather than rows of schematic animals and geometric bands arranged across a flat decorated surface.",
+ "set": "moai_iso_among_monoliths",
+ "i": 20,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "gotland_0130",
+  "gotland_0009",
+  "maya_0092",
+  "egypt_0069",
+  "rapa_nui_hoa_iso",
+  "egypt_0050",
+  "gotland_0128",
+  "egypt_0066",
+  "egypt_0073",
+  "gotland_0005"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "egypt",
+  "gotland",
+  "gotland",
+  "gotland",
+  "maya",
+  "egypt",
+  "gotland",
+  "egypt",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 10
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  7,
+  5,
+  2,
+  9,
+  4,
+  3,
+  6,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 1, like the target, is an upright monolith carved as a stylised human body, with low-relief arms, hands and a belt-like band wrapping the block plus small subsidiary figures, matching the target's convention of shallow schematic body/emblem carvings on a standing anthropomorphic stone.",
+ "least_similar_reason": "Candidate 10 presents an essentially featureless, indistinct surface with no identifiable figures, body parts, rings or emblems, so it shares none of the target's specific iconography.",
+ "set": "p43_among_random",
+ "i": 36,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "anatolia_ppn_p43full",
+  "persepolis_0068",
+  "tanum_0338",
+  "tanum_0050",
+  "assyria_0000",
+  "tanum_0237",
+  "maya_0027",
+  "gotland_0004",
+  "maya_0024",
+  "gotland_0133"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "gotland",
+  "persepolis",
+  "gotland",
+  "maya",
+  "tanum",
+  "tanum",
+  "tanum",
+  "maya",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

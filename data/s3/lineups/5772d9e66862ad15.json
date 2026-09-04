@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  1,
+  9,
+  3,
+  5,
+  8,
+  7,
+  2,
+  6,
+  4
+ ],
+ "most_similar_reason": "Candidate 10 shows the same distinctive T-shaped anthropomorphic pillar with a rounded head-block, low-relief arms bending around the shaft to meet with long fingers over the abdomen, a belt-like band with hanging element, and small schematic animal/symbol reliefs on the upper body \u2014 an unusually specific combination matching the target.",
+ "least_similar_reason": "Candidate 4 depicts nothing but rows of inscribed script on a plain rounded slab, with no figures, animals, limbs or symbolic motifs to correspond to the target's anthropomorphic pillar imagery.",
+ "set": "p43_among_random",
+ "i": 11,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "gotland_0026",
+  "persepolis_0020",
+  "assyria_0151",
+  "egypt_0049",
+  "egypt_0065",
+  "egypt_0070",
+  "maya_0026",
+  "egypt_0046",
+  "gotland_0133",
+  "anatolia_ppn_p43full"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "persepolis",
+  "egypt",
+  "gotland",
+  "gotland",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

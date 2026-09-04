@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  7,
+  6,
+  1,
+  3,
+  9,
+  2,
+  5,
+  4,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 shares the target's convention of carved relief figures and animals arranged in horizontal registers with clear profile silhouettes, echoing the target's banded composition of birds and figures.",
+ "least_similar_reason": "Candidate 10 shows only a plain, undifferentiated textured surface with no discernible figural or geometric motifs, sharing no depicted content with the target's animal and pattern imagery.",
+ "set": "moai_iso_among_random",
+ "i": 2,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0045",
+  "rapa_nui_hoa_iso",
+  "maya_0050",
+  "egypt_0021",
+  "catalhoyuk_0039",
+  "maya_0028",
+  "maya_0105",
+  "persepolis_0022",
+  "tanum_0079",
+  "assyria_0100"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "egypt",
+  "persepolis",
+  "maya",
+  "maya",
+  "tanum",
+  "catalhoyuk",
+  "egypt",
+  "assyria",
+  "maya"
+ ],
+ "model": "sonnet",
+ "planted_rank": 7
+}

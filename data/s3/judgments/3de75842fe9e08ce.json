@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "animal figures in profile",
+  "bird-like or long-necked creatures",
+  "curving linear animal outlines"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific shared content is the presence of schematic profile animals, including forms that can be read as bird-like or long-necked creatures drawn with curving outlines. The biggest difference is that A is an organized multi-register composition with geometric bands and distinct animals arranged on a vertical surface, while B is a loose field of overlapping or scattered zoomorphic line figures without the same registers, symbols, or compositional relationships.",
+ "a": "anatolia_ppn_p43full",
+ "b": "rapa_nui_0096",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  668
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "low-relief carving on a rectangular slab",
+  "animal/creature in profile view",
+  "registers or stacked zones of imagery",
+  "repeated small units forming a textured band (row of animal heads / rows of curls)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both are shallow relief panels showing profile subjects with repeated small units arranged in bands (a row of crouching animals atop A, rows of beaded curls in B), but the actual content differs fundamentally: A depicts a stack of zoomorphic figures (quadrupeds, birds, snakes/wavy lines) in stratified registers with no human presence, while B is a single large naturalistic human head and shoulders in profile with an elaborate horned/rolled headdress and stylised beard. The rendering conventions also diverge sharply, A being flat, schematic and outline-driven, B being modelled, proportioned and heavily detailed with regular ornamental patterning.",
+ "a": "anatolia_ppn_p43full",
+ "b": "assyria_0084",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3049,
+  357
+ ]
+}

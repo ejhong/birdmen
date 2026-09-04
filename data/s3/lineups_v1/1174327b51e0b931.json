@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  2,
+  1,
+  5,
+  6,
+  3,
+  10,
+  8,
+  4,
+  7
+ ],
+ "most_similar_reason": "Candidate 9 is, like the target, a tall free-standing monolithic slab whose narrow face carries shallow low-relief figures stacked vertically within its stone outline, matching the target's pillar-with-carved-panel format.",
+ "least_similar_reason": "Candidate 7 shows only faint painted/stained marks on an uncarved natural rock face, lacking the target's crisp carved relief imagery and organized composition.",
+ "set": "moai_among_random",
+ "i": 35,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0128",
+  "rapa_nui_0113",
+  "persepolis_0043",
+  "tanum_0240",
+  "assyria_0084",
+  "tanum_0080",
+  "tanum_0126",
+  "assyria_0116",
+  "maya_0113",
+  "persepolis_0029"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "persepolis",
+  "maya",
+  "assyria",
+  "persepolis",
+  "gotland",
+  "assyria",
+  "tanum",
+  "tanum",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  5,
+  2,
+  3,
+  9,
+  10,
+  6,
+  4,
+  1,
+  8
+ ],
+ "most_similar_reason": "Candidate 7 is most similar because it also presents a single dominant frontal anthropomorphic sacred figure with a large stylized face, circular eye/mouth-like features, compact limbs, and stacked ornamental body details rather than a narrative scene.",
+ "least_similar_reason": "Candidate 8 is least similar because its depicted content is a formal scene with small human figures, a sun disk, and dense rows of writing, lacking the target\u2019s single monumental abstract frontal face/body with circular and arched motifs.",
+ "set": "p43_iso_among_monoliths",
+ "i": 17,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "egypt_0073",
+  "maya_0054",
+  "maya_0147",
+  "egypt_0048",
+  "maya_0066",
+  "egypt_0043",
+  "maya_0019",
+  "egypt_0014",
+  "anatolia_ppn_p43iso",
+  "egypt_0045"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "egypt",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "egypt",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 5
+}

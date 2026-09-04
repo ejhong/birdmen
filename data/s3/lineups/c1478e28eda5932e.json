@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  10,
+  1,
+  4,
+  9,
+  2,
+  5,
+  7,
+  3,
+  8
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it shows a stacked, banded surface filled with schematic pictorial signs and repeated figure-like/animal-like motifs, matching the target\u2019s register-based arrangement of incised/relief glyphic birds, bodies, and patterned strokes.",
+ "least_similar_reason": "Candidate 8 is least similar because it depicts a single frontal human torso/head with little comparable register structure, repeated pictorial signs, animal-bird motifs, or geometric banding.",
+ "set": "moai_iso_among_random",
+ "i": 24,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "persepolis_0068",
+  "persepolis_0064",
+  "tanum_0034",
+  "assyria_0115",
+  "assyria_0011",
+  "gotland_0125",
+  "assyria_0151",
+  "rapa_nui_hoa_iso",
+  "persepolis_0099",
+  "maya_0115"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "persepolis",
+  "assyria",
+  "maya",
+  "tanum",
+  "assyria",
+  "persepolis",
+  "assyria",
+  "gotland",
+  "persepolis"
+ ],
+ "model": "gpt",
+ "planted_rank": 10
+}

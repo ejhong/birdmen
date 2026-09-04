@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "multiple profile animal or animal-like figures",
+  "curving snake-like forms",
+  "bird-like profile figures",
+  "small repeated linear/geometric motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces appear to depict clusters of schematic profile animals, including curving snake-like forms and possible bird-like figures, in a low-relief outline style. The biggest difference is that B has a clear, ordered composition with a top row of handled sign-like forms, horizontal registers, and distinct animals, while A is a looser and less legible cluster without the same specific motifs or relationships.",
+ "a": "maya_0081",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  1907
+ ]
+}

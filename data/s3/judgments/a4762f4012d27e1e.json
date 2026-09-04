@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "schematic animal figures",
+  "human-like/anthropomorphic figures with splayed limbs",
+  "circular/oval motifs",
+  "linear ladder-like or comb-like patterning",
+  "multiple small figures scattered across a single surface"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces present an assortment of small schematic figures, including quadruped-like animals, stick-limbed anthropomorphs and circular/oval motifs, distributed over a single field rather than forming a unified scene. But the specifics diverge sharply: A shows registers with recognisable profile carnivores, birds and reptiles arranged in ordered bands around a large pendant-like carved panel, while B shows loose, ambiguous painted signs \u2014 paired concentric rings, arcs, comb-forms and splayed anthropomorphs \u2014 with no register structure or identifiable species, so the correspondences are of the generic sort any two traditions could reach independently.",
+ "a": "anatolia_ppn_p43full",
+ "b": "tanum_0066",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  367
+ ]
+}

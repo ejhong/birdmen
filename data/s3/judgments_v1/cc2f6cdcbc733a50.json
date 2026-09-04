@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "upright carved stone slab with relief decoration",
+  "standing human figure",
+  "profile animal or bird-like heads",
+  "curving serpent-like forms",
+  "circle/spiral or disc motifs",
+  "horizontal registers or bands"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both are upright stone slabs covered with low-relief imagery combining a standing human figure with profile zoomorphic/serpentine motifs and some circular or spiral forms. The biggest difference is compositional and stylistic: A is divided into rougher, more open horizontal registers with simple incised/geometric carving, while B is a dense, vertically organized, highly curvilinear scene centered on a richly detailed figure.",
+ "a": "anatolia_ppn_p43full",
+ "b": "maya_0027",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1230,
+  680
+ ]
+}

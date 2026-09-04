@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "profile animal figures",
+  "profile human or anthropomorphic figure",
+  "horizontal band or register of pattern",
+  "incised/low-relief carving on a stone surface",
+  "repeated linear texture used as decoration"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces combine profile living figures with carved linear patterning and at least some horizontal organization. The biggest difference is that A is a rough, crowded, schematic composition in stacked bands, while B is a spacious, naturalistic relief dominated by a large profile human and two large animal heads.",
+ "a": "anatolia_ppn_p43full",
+ "b": "persepolis_0011",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1256,
+  655
+ ]
+}

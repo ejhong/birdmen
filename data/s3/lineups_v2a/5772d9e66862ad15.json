@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  1,
+  9,
+  3,
+  8,
+  5,
+  2,
+  7,
+  6,
+  4
+ ],
+ "most_similar_reason": "Candidate 10 shows the same kind of tall anthropomorphic slab-pillar carved in low relief with arms bending to hands meeting at the front, a belt-like band, loop/necklace symbols and small schematic animals arranged vertically on the shaft \u2014 essentially the identical iconographic scheme as the target.",
+ "least_similar_reason": "Candidate 4 is an arched slab covered entirely with rows of written signs and no figural, animal or symbolic imagery at all, sharing nothing with the target's carved arms, belt, loops and creatures.",
+ "set": "p43_among_random",
+ "i": 11,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "gotland_0026",
+  "persepolis_0020",
+  "assyria_0151",
+  "egypt_0049",
+  "egypt_0065",
+  "egypt_0070",
+  "maya_0026",
+  "egypt_0046",
+  "gotland_0133",
+  "anatolia_ppn_p43full"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "persepolis",
+  "egypt",
+  "gotland",
+  "gotland",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

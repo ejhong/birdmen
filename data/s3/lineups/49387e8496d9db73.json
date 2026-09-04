@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  6,
+  3,
+  2,
+  7,
+  1,
+  4,
+  5,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 shares the same vertical stele format with multiple registers of small carved figures and hieroglyph-like symbols arranged in rows, closely matching the target's composition of stacked figural/symbolic bands on a flat stone surface.",
+ "least_similar_reason": "Candidate 10 depicts a circular painted disc with abstract geometric and radial line patterns, entirely unlike the target's vertical stele with figural and symbolic relief carving.",
+ "set": "same_control_monoliths",
+ "i": 10,
+ "target": "gotland_0133",
+ "planted": "gotland_0112",
+ "cands": [
+  "egypt_0061",
+  "anatolia_ppn_0205",
+  "maya_0091",
+  "anatolia_ppn_0121",
+  "anatolia_ppn_0037",
+  "maya_0113",
+  "anatolia_ppn_0186",
+  "egypt_0047",
+  "anatolia_ppn_0261",
+  "gotland_0112"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "egypt",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "egypt",
+  "maya",
+  "maya",
+  "anatolia_ppn"
+ ],
+ "model": "sonnet",
+ "planted_rank": 10
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  3,
+  1,
+  9,
+  5,
+  2,
+  7,
+  4,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 6 is, like the target, a single free-standing upright monolithic block whose broad face carries carved motifs in shallow relief with the stone's rough, weathered mass left visible, giving the same pillar-as-image effect rather than a wall panel.",
+ "least_similar_reason": "Candidate 10 is a thin, flat fragment with faint incised linear outlines only, lacking the raised relief animals, upright pillar format and bold sculptural modelling that characterise the target.",
+ "set": "moai_among_random",
+ "i": 20,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0027",
+  "persepolis_0063",
+  "gotland_0000",
+  "persepolis_0062",
+  "gotland_0117",
+  "rapa_nui_0113",
+  "persepolis_0007",
+  "persepolis_0071",
+  "persepolis_0082",
+  "gotland_0008"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "gotland",
+  "persepolis",
+  "persepolis",
+  "persepolis",
+  "persepolis",
+  "persepolis",
+  "gotland",
+  "persepolis",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

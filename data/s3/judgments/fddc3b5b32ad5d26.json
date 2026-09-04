@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figure in strict profile",
+  "low-relief carved figural scene",
+  "patterned/pleated garment with incised folds",
+  "detailed hair and beard rendering with regular incised curls",
+  "figure holding an object in the hand",
+  "registers bounded by horizontal framing lines"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both are low-relief profile scenes with human figures in patterned garments, careful incised curls of hair/beard, and objects held in the hand, and both organise the field with horizontal framing lines \u2014 a shared convention of profile figural relief. But A shows a single large winged, horned-crowned figure with elaborate feathered wings filling the panel, while B shows a small attendant leading a naturalistic two-humped camel between rosette borders, so the actual subjects, relationships (leading an animal vs. a solitary raised-arm figure) and register arrangement differ substantially.",
+ "a": "assyria_0034",
+ "b": "persepolis_0063",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3149,
+  339
+ ]
+}

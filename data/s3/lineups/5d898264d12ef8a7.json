@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  2,
+  10,
+  5,
+  8,
+  3,
+  6,
+  1,
+  4,
+  7
+ ],
+ "most_similar_reason": "Candidate 9 is most similar because it also presents a frontal, vertically organized anthropomorphic figure on a tall surface, with a prominent head/torso arrangement and dense incised decorative detailing around the body rather than a narrative scene.",
+ "least_similar_reason": "Candidate 7 is least similar because it is dominated by regular horizontal rows of inscription-like marks and lacks the target\u2019s frontal body/mask-like organization, paired circular features, central round motif, and curved banding.",
+ "set": "p43_iso_among_monoliths",
+ "i": 21,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "egypt_0066",
+  "maya_0051",
+  "egypt_0072",
+  "anatolia_ppn_p43iso",
+  "maya_0152",
+  "egypt_0073",
+  "egypt_0049",
+  "gotland_0026",
+  "maya_0052",
+  "maya_0149"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "gotland",
+  "maya",
+  "egypt",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 9
+}

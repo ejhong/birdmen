@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "standing/frontal human-like figure occupying the whole surface",
+  "head with elaborate headdress or cap",
+  "low-relief carving on a tall upright slab-like stone",
+  "arms brought across the chest/torso",
+  "incised details on chest and lower body"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both depict a single tall frontal anthropomorphic figure filling an upright monolithic surface, with a distinct headdress above and arms folded/held across the chest, plus incised ornament on the torso \u2014 a fairly generic monumental-figure scheme. They differ substantially in specific form and convention: A is a three-dimensional statue with a broad rounded body, curvilinear chest motifs (concentric rings, crescent) and no clear limbs or attributes, while B is a flat relief showing a figure in near-profile head with detailed costume, a held object and a subsidiary animal/figure at the lower right, and framed panels \u2014 features absent in A.",
+ "a": "rapa_nui_0054",
+ "b": "maya_0105",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2924,
+  359
+ ]
+}

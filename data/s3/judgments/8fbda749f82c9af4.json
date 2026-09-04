@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "bird in profile",
+  "horizontal bands or rows of repeated signs",
+  "schematic linear figures carved/drawn in relief",
+  "animal forms in profile"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The most specific overlap is that both surfaces include profile birds/animal forms and rows of small repeated signs or motifs arranged in horizontal bands. The major difference is that A is dominated by isolated schematic animals and abstract motifs, while B is an organized scene of human figures beneath a radiating disc with dense text-like registers, so the iconographic schemes and relationships are largely unrelated.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0032",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1883,
+  667
+ ]
+}

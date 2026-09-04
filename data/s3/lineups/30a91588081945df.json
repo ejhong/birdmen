@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  1,
+  10,
+  6,
+  3,
+  4,
+  2,
+  8,
+  9,
+  7
+ ],
+ "most_similar_reason": "Candidate 5 shows the same distinctive iconography: a long schematic boat with strongly upturned ends, a horizontal hull, and a row of repeated short vertical strokes along it, accompanied by similar simple red linear motifs.",
+ "least_similar_reason": "Candidate 7 is least similar because it depicts only a single frontal human head/face, with none of the target\u2019s elongated boat forms, repeated oar-like strokes, paired horizontal arrangement, or schematic vessel imagery.",
+ "set": "same_control",
+ "i": 10,
+ "target": "tanum_0324",
+ "planted": "tanum_0238",
+ "cands": [
+  "gotland_0131",
+  "maya_0091",
+  "persepolis_0097",
+  "egypt_0014",
+  "tanum_0238",
+  "egypt_0002",
+  "anatolia_ppn_0240",
+  "maya_0110",
+  "assyria_0035",
+  "anatolia_ppn_0072"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "maya",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "gotland",
+  "maya",
+  "assyria",
+  "persepolis",
+  "egypt",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

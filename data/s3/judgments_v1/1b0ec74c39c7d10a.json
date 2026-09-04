@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "profile animal/quadruped",
+  "standing anthropomorphic or human-like figure",
+  "carved relief on a stone surface"
+ ],
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest shared feature is the use of carved relief to show profile creatures, with at least some upright human-like or anthropomorphic forms also present. The biggest difference is compositional: A is a broad horizontal scene dominated by one large reclining animal flanked by standing figures, while B is a tall upright surface divided into stacked zones with many smaller, more schematic motifs.",
+ "a": "assyria_0110",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  653
+ ]
+}

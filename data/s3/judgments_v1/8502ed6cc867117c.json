@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "upright carved stone surface",
+  "low-relief/incised decoration",
+  "horizontal band or register",
+  "repeated small signs or patterned motifs",
+  "standing human or anthropomorphic form",
+  "animal or zoomorphic motifs"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The most specific correspondence is that both are upright carved stones with relief decoration arranged in stacked zones, including horizontal bands and some combination of anthropomorphic and animal/zoomorphic imagery. The biggest difference is compositional: A is dominated by sparse, schematic animal and pattern motifs on a T-shaped surface, while B is organized around a dense, centrally framed standing figure with surrounding small signs.",
+ "a": "anatolia_ppn_p43full",
+ "b": "maya_0092",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1230,
+  1079
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "standing/seated human figure in profile with elaborate headdress",
+  "large ornate headdress with scroll and plume elements",
+  "glyph-like signs in blocks or columns",
+  "ornamental band framing the figure",
+  "figure holding a bar or staff-like object across the body",
+  "low-relief carved panel with single dominant human figure"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "8",
+ "justification": "Both surfaces depict a single dominant elaborately costumed human figure in profile with an oversized plumed headdress and jewellery, holding a horizontal bar-like object across the chest, framed by columns/rows of small square glyph-blocks and a decorated border along the top and side \u2014 a very specific and conventional scheme unlikely to arise independently. The main differences are that A is far more eroded and shows the figure with a possible second smaller element at lower left, while B is more complete with a clearer full-length figure and a wider glyph column, but the underlying composition and relief conventions match closely.",
+ "a": "egypt_0012",
+ "b": "maya_0092",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3024,
+  360
+ ]
+}

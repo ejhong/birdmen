@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "profile bird or long-beaked/long-necked bird",
+  "profile quadruped animal",
+  "repeated bar- or H-like abstract signs",
+  "bands or rows of small repeated marks",
+  "multiple animal figures combined with geometric signs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "The strongest correspondence is that both surfaces combine schematic profile animals\u2014especially bird-like forms and quadrupeds\u2014with repeated bar/H-like signs and rows of small marks. The biggest difference is that B is organized in clear horizontal registers with a prominent sign-band and separated animal panels, while A is a denser, less regular field of overlapping or scattered animal figures and signs.",
+ "a": "maya_0047",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  1137
+ ]
+}

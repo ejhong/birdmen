@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  3,
+  2,
+  6,
+  1,
+  4,
+  8,
+  7,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 5 is closest because it shows the same distinctive combination of a broad upper zone, a horizontal band of repeated short pendant/linear motifs, and schematic profile animals or birds arranged below in a very similar layout to the target.",
+ "least_similar_reason": "Candidate 10 is least similar because its imagery is dominated by a single anthropomorphic body with arms, hands, and belt-like details, lacking the target\u2019s repeated band and stacked profile animal/bird motifs.",
+ "set": "hard",
+ "i": 2,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0133",
+  "maya_0047",
+  "gotland_0125",
+  "gotland_0116",
+  "gotland_0123",
+  "tanum_0359",
+  "egypt_0012",
+  "gotland_0115",
+  "egypt_0027",
+  "rapa_nui_0113"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "gotland",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "gpt",
+ "planted_rank": 10
+}

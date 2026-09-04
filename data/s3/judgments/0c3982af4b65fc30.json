@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "horizontal band of repeated rosettes/flowers",
+  "stepped or crenellated architectural motif",
+  "registers separated by plain horizontal fillets",
+  "low-relief carved ornament on a wall face",
+  "repeated stylized floral/palmette-like ornament in a frieze"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces show low-relief architectural friezes organized into stacked horizontal registers, and both include the same specific motif of a continuous row of multi-petalled rosettes bounded by plain fillets, with stylized vegetal/palmette-like and stepped geometric ornament nearby. The chief difference is that A also carries figural narrative content (a horse-drawn chariot and a procession of robed, capped human figures) that is entirely absent from B, which is purely ornamental.",
+ "a": "persepolis_0026",
+ "b": "assyria_0063",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3149,
+  317
+ ]
+}

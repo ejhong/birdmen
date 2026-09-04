@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "upright carved stone surface",
+  "rectangular framed/registered field",
+  "low-relief or incised linear motifs",
+  "human-like figure",
+  "geometric border or band pattern"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both are upright stone surfaces with shallow carved imagery organized by borders or registers, including at least one human-like form. The biggest difference is that A is dominated by a single central frontal figure within a framed panel, while B is divided into horizontal zones filled mainly with separate animal-like and geometric motifs rendered in a much more schematic linear manner.",
+ "a": "maya_0088",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  662
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "relief carving on stone",
+  "profile quadruped animal",
+  "human or anthropomorphic figure in profile",
+  "horizontal register or dividing band",
+  "repeated linear/patterned band",
+  "round/circular details"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces use shallow carved relief with profile figures and animals organized by horizontal bands or registers, with some repeated decorative patterning. The biggest difference is compositional: A is a long, orderly horizontal vehicle-and-animal scene with a large wheel and floral border, while B is a narrow upright slab with stacked, rougher, more schematic figures and no comparable chariot scheme.",
+ "a": "persepolis_0088",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  662
+ ]
+}

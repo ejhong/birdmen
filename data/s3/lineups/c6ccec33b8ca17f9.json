@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  7,
+  3,
+  10,
+  9,
+  2,
+  6,
+  5,
+  4,
+  8
+ ],
+ "most_similar_reason": "Candidate 1 shows the same schematic, linear red-painted humanoid figures with elongated limbs and simplified outline style directly matching the target's rock art convention.",
+ "least_similar_reason": "Candidate 8 depicts a stele covered in dense inscriptional script with no human, animal, or figural iconography comparable to the target's schematic humanoid figures.",
+ "set": "same_control",
+ "i": 4,
+ "target": "tanum_0050",
+ "planted": "tanum_0085",
+ "cands": [
+  "tanum_0085",
+  "anatolia_ppn_0205",
+  "persepolis_0066",
+  "anatolia_ppn_0247",
+  "egypt_0066",
+  "anatolia_ppn_0083",
+  "catalhoyuk_0025",
+  "maya_0057",
+  "gotland_0113",
+  "egypt_0056"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "gotland",
+  "anatolia_ppn",
+  "persepolis",
+  "anatolia_ppn",
+  "maya",
+  "egypt",
+  "egypt",
+  "catalhoyuk"
+ ],
+ "model": "sonnet",
+ "planted_rank": 1
+}

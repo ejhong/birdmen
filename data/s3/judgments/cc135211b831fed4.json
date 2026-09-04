@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human or humanoid figure in relief",
+  "carved stone monument with figural imagery",
+  "dense vegetal/floral or foliate ornament",
+  "stylized headdress or head covering on a figure",
+  "low-relief carving with outlined forms and patterned infill"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both depict a human-like figure rendered in low relief amid dense ornament, with elaborate headgear and plant-like or scroll-filled surrounding motifs, but that is about as generic as figural relief gets. A shows a single winged, bearded profile figure with an arm raised beside a stylized flowering plant, whereas B shows a tall vertical shaft crammed with frontal, stacked masklike and glyph-like blocks and a small seated onlooker beside it \u2014 the compositional schemes, figure orientation and ornamental vocabulary are quite unrelated.",
+ "a": "assyria_0078",
+ "b": "maya_0053",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3099,
+  336
+ ]
+}

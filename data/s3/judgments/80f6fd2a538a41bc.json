@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figure in profile",
+  "elaborate headdress/crown",
+  "royal figure with distinctive elongated skull and facial profile",
+  "hieroglyphic-style sign groups",
+  "uraeus/cobra element at brow",
+  "undulating (wavy) line motif at base"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both depict a human head in strict profile with a tall elaborate crown and a cobra at the brow, rendered with the same conventions of exaggerated profile (long chin, slanted eye, elongated skull) and accompanied by script-like signs, which is a specific shared figural convention. However, A shows only a single large bust in a fragmentary close-up with a wavy border, while B presents a full multi-figure round-topped scene with a rayed sun disc, offering tables, several attendant figures and many registers of text, so the compositional relationships and arrangement barely correspond.",
+ "a": "maya_0097",
+ "b": "egypt_0056",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3224,
+  338
+ ]
+}

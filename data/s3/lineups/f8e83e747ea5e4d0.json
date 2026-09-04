@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  1,
+  7,
+  3,
+  6,
+  10,
+  9,
+  8,
+  5,
+  2
+ ],
+ "most_similar_reason": "Both depict a stylized pillar form with arms and hands meeting at the front.",
+ "least_similar_reason": "It lacks anthropomorphic elements, showing only a painted architectural structure.",
+ "set": "p43_among_random",
+ "i": 7,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "assyria_0071",
+  "catalhoyuk_0065",
+  "assyria_0000",
+  "anatolia_ppn_p43full",
+  "tanum_0321",
+  "persepolis_0099",
+  "assyria_0151",
+  "assyria_0122",
+  "persepolis_0071",
+  "persepolis_0012"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "persepolis",
+  "assyria",
+  "tanum",
+  "persepolis",
+  "assyria",
+  "persepolis",
+  "assyria",
+  "assyria",
+  "catalhoyuk"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

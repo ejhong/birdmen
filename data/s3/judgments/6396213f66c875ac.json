@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "frontal anthropomorphic figure",
+  "circular disc or round feature on the body/face area",
+  "paired eye-like features",
+  "horizontal/curved bands",
+  "vertical linear/geometric markings"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both present a vertically oriented frontal anthropomorphic form with internal geometric markings, including round features and band-like linear motifs. The biggest difference is that A is a detailed full-bodied, limb-bearing, ornamented figure holding or flanked by implements, whereas B is a much more abstract block-like face/body image dominated by a large facial roundel and simple bands.",
+ "a": "mississippian_0007",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1804,
+  678
+ ]
+}

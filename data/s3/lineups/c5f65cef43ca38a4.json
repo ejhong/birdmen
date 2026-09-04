@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  8,
+  1,
+  4,
+  5,
+  7,
+  6,
+  10,
+  2,
+  9
+ ],
+ "most_similar_reason": "Candidate 3 is most similar because it shares the target\u2019s schematic, frontal, mask-like arrangement with prominent paired circular elements and horizontal curving bands combined on a rounded upright surface rather than a narrative scene of separate figures.",
+ "least_similar_reason": "Candidate 9 is least similar because it depicts a naturalistic full standing human figure with elaborate body ornament and headdress, lacking the target\u2019s abstract face-like composition of paired circles, central ring, and broad geometric bands.",
+ "set": "p43_iso_among_monoliths",
+ "i": 36,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0147",
+  "egypt_0071",
+  "maya_0083",
+  "maya_0137",
+  "anatolia_ppn_p43iso",
+  "egypt_0072",
+  "egypt_0065",
+  "gotland_0111",
+  "maya_0051",
+  "egypt_0046"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "gotland",
+  "maya",
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 5
+}

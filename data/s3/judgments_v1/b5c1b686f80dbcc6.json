@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "carved relief on a stone surface",
+  "horizontal band or border of repeated pattern",
+  "figures shown in profile or side view",
+  "long straight incised/relief lines"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific visible correspondence is a carved stone surface with a horizontal patterned band near the upper part and some profile/side-view figures or forms below it. The biggest difference is compositional and figural: A is dominated by a single refined standing human figure with staff-like verticals, while B is a rougher, more schematic surface organized into stacked registers with animal-like and abstract motifs.",
+ "a": "persepolis_0035",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1230,
+  559
+ ]
+}

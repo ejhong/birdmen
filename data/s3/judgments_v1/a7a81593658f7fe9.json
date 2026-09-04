@@ -1,0 +1,19 @@
+{
+ "shared_elements": [
+  "carved/incised zoomorphic figure in profile",
+  "curving linear motifs on stone"
+ ],
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific visible correspondence is that both surfaces include a simplified, curving animal-like figure carved into stone, possibly readable as a profile creature. The biggest difference is that A is a densely organized vertical relief with multiple registers, bands, and repeated figures, while B shows a sparse, weathered motif on an irregular natural boulder in an open landscape.",
+ "a": "anatolia_ppn_p43full",
+ "b": "rapa_nui_0109",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  531
+ ]
+}

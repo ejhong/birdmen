@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  3,
+  1,
+  9,
+  10,
+  2,
+  8,
+  4,
+  7,
+  5
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it also depicts a single stylized creature-like form in profile, with a rounded head/eye area attached to a curving body filled with incised linear/curvilinear markings.",
+ "least_similar_reason": "Candidate 5 is least similar because it is dominated by a rectilinear grid of repeated glyph-like signs rather than an isolated organic figure or body part with curving internal line details.",
+ "set": "same_control_monoliths",
+ "i": 6,
+ "target": "anatolia_ppn_0122",
+ "planted": "anatolia_ppn_0267",
+ "cands": [
+  "anatolia_ppn_0267",
+  "gotland_0009",
+  "rapa_nui_0122",
+  "egypt_0043",
+  "maya_0085",
+  "gotland_0000",
+  "gotland_0111",
+  "egypt_0076",
+  "rapa_nui_0063",
+  "maya_0105"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "rapa_nui",
+  "egypt",
+  "maya",
+  "gotland",
+  "maya",
+  "gotland",
+  "gotland",
+  "egypt",
+  "rapa_nui"
+ ],
+ "model": "gpt",
+ "planted_rank": 3
+}

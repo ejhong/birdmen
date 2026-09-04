@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "profile figures",
+  "bird or bird-headed form in profile",
+  "circle or disc sign",
+  "horizontal row of repeated signs or geometric marks near the upper part",
+  "schematic linear bodies with outlined limbs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest correspondence is that both surfaces use schematic profile figures beneath or beside rows of repeated small signs, with at least some bird-like/profile forms and circular signs. The biggest difference is that A is dominated by separate animals and geometric bands, while B shows a coherent human/anthropomorphic ritual scene with standing figures facing one another and holding or attending objects.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0046",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  1192
+ ]
+}

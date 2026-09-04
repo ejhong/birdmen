@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  9,
+  8,
+  10,
+  1,
+  5,
+  2,
+  3,
+  7,
+  6
+ ],
+ "most_similar_reason": "Candidate 4 shares the same medium and format as the target: a tall carved stone stela with a human figure whose body is divided into multiple stacked decorative registers (headdress, torso ornament, garment bands), closely mirroring the target's arrangement of carved figures and symbols in horizontal panels.",
+ "least_similar_reason": "Candidate 6 shows loosely scattered painted animal and human silhouettes on a flat rock surface with no register structure, carved relief, or symbolic glyphs, making its composition and iconographic conventions the least comparable to the target's structured, carved multi-panel stele.",
+ "set": "same_control",
+ "i": 11,
+ "target": "maya_0138",
+ "planted": "maya_0019",
+ "cands": [
+  "rapa_nui_0039",
+  "tanum_0348",
+  "tanum_0236",
+  "maya_0019",
+  "gotland_0111",
+  "catalhoyuk_0110",
+  "tanum_0129",
+  "egypt_0075",
+  "egypt_0053",
+  "assyria_0011"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "assyria",
+  "egypt",
+  "tanum",
+  "catalhoyuk",
+  "egypt",
+  "tanum",
+  "gotland",
+  "rapa_nui",
+  "tanum"
+ ],
+ "model": "sonnet",
+ "planted_rank": 1
+}

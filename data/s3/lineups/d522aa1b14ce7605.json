@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  10,
+  5,
+  4,
+  9,
+  1,
+  3,
+  2,
+  6,
+  7
+ ],
+ "most_similar_reason": "Candidate 8 is, like the target, a tall free-standing monolithic pillar carved in low relief with figural imagery stacked down its face in registers, giving the closest match in both depicted subject (relief creatures/figures on an upright stone shaft) and in overall compositional arrangement.",
+ "least_similar_reason": "Candidate 7 shows only rows of schematic linear boats with crew-strokes, sharing none of the target's animals, snakes, birds or register-organised relief imagery.",
+ "set": "moai_among_random",
+ "i": 29,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "tanum_0344",
+  "gotland_0123",
+  "tanum_0063",
+  "rapa_nui_0113",
+  "persepolis_0062",
+  "gotland_0131",
+  "tanum_0339",
+  "maya_0113",
+  "egypt_0076",
+  "assyria_0122"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "assyria",
+  "tanum",
+  "maya",
+  "persepolis",
+  "tanum",
+  "gotland",
+  "tanum",
+  "egypt",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

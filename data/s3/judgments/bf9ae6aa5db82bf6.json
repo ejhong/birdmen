@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic human/anthropomorphic figure",
+  "circular disc motif on the body/torso",
+  "stylized head with simplified facial features",
+  "abstract linear and geometric markings"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces present highly schematic anthropomorphic imagery with a prominent circular disc placed on the torso/body area, and both use simplified, non-naturalistic renderings of human form. However, A is a single monolithic frontal figure with relief motifs (bands, spirals, disc) distributed over a body, while B is a multi-figure narrative scene with boats crewed by rows of stroke-crew marks, a figure holding a horizontal bar, and rows of small repeated signs \u2014 none of which have any counterpart in A.",
+ "a": "rapa_nui_0113",
+ "b": "tanum_0327",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3174,
+  299
+ ]
+}

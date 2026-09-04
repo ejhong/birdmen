@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figures in strict profile",
+  "figures with arms extended forward/holding objects",
+  "offerings or vessels held or presented",
+  "registers with human figures aligned on a groundline",
+  "low relief carving with incised interior detail (garment lines, hair)",
+  "figures facing one another in an offering/presentation encounter"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show profile human figures in low relief, aligned on a common groundline, facing one another with arms extended and objects/vessels presented between them, an offering-presentation scheme rendered with flat outlines and incised interior detail. However, A shows seated figures at a laden offering table beneath registers of small sign-like glyphs, with squat proportions, whereas B shows tall standing figures in long fringed garments with elaborately dressed hair and no accompanying script band, and their proportions and detailing of hair and drapery follow different conventions.",
+ "a": "egypt_0043",
+ "b": "assyria_0139",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2974,
+  340
+ ]
+}

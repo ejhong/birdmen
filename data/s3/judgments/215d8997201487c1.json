@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "repeated jagged zigzag / toothed 'comb' motif",
+  "motifs arranged in multiple parallel registers or panels",
+  "linear outline drawing with no infill",
+  "surface largely filled with repeated angular pattern",
+  "bovine/horned skull (actual in A, no clear counterpart in B)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces are covered by repeated spiky, toothed zigzag motifs drawn as bare outlines and stacked in several parallel registers, a reasonably specific shared decorative scheme rather than a mere generic 'pattern'. The chief difference in depicted content is that B also carries recognisable schematic creatures with dot-eyes and striped bodies among the zigzags, while A shows only the abstract panels set beside a mounted horned skull, and A's registers run as vertical panels rather than sweeping bands.",
+ "a": "catalhoyuk_0102",
+ "b": "mississippian_0075",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  856
+ ]
+}

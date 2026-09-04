@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "schematic carved/incised motifs",
+  "oval or circular forms",
+  "horizontal bands/register-like divisions",
+  "short repeated vertical/linear strokes or hatching",
+  "possible face/eye-like arched or oval elements"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest overlap is only general: both use schematic outline carving with ovals/circles, repeated short strokes, and some horizontal banding or register-like organization. The biggest difference is that A is dominated by a single frontal anthropomorphic body/figure with facial and torso features, while B is a panel of separate signs and animal-like/profile figures arranged in registers, with no comparable central human-body scheme.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_0272",
+ "model": "gpt",
+ "set": "target",
+ "usage": [
+  1944,
+  687
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human figure(s)",
+  "head and arms indicated",
+  "circular motif",
+  "incised linear/geometric details"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The only meaningful overlaps are very general: both include human forms and circular/linear motifs, with the most specific shared content being a circular form associated somewhere in the composition. The major difference is that A is a single frontal, schematic anthropomorphic figure with body markings, while B is a narrative side-view chariot scene with multiple humans, horses, reins, wheels, and a ground pattern.",
+ "a": "rapa_nui_0113",
+ "b": "assyria_0131",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  665
+ ]
+}

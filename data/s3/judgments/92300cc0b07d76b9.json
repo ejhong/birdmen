@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "sculpture in the round of a creature",
+  "massive blocky body volume with rounded contours",
+  "facial features (eyes/mouth or beak) rendered by shallow incised lines on a smooth mass",
+  "schematic, non-naturalistic animal form"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict a creature as a heavy, block-like three-dimensional mass whose only detail is a set of lightly incised features on the head (eyes, mouth/beak), a shared schematic convention of volume-over-detail. But the subjects differ substantially: A is a full-bodied four-legged predator shown with elongated trunk, limbs and toothed jaws, while B is a frontal head/bust of a raptor- or owl-like being with paired eyes and a central beak and no body or legs, so there is no correspondence in the elements combined or their arrangement.",
+ "a": "anatolia_ppn_0144",
+ "b": "anatolia_ppn_0223",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3174,
+  680
+ ]
+}

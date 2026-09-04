@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "animal in profile",
+  "elongated body with tail/appendage"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main shared depicted content is a schematic profile animal form, apparently with an elongated body and tail or appendage. The biggest difference is that A presents a single isolated animal on an otherwise plain surface, while B is a dense composition of many different creatures and signs arranged in registers, with no comparable relationships or overall scene.",
+ "a": "anatolia_ppn_0083",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  643
+ ]
+}

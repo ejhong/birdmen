@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "horizontal band of pattern",
+  "standing human or humanoid figure",
+  "circle or disc"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest correspondence is that both are carved stone surfaces organized partly by horizontal registers, including a band of repeated marks and small human-like figures. The biggest difference is that A is a framed, largely symmetrical panel with rows of fine linear inscription-like marks and standing figures, while B is a blockier pillar surface dominated by large animal and abstract motifs in a much looser layout.",
+ "a": "egypt_0059",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  641
+ ]
+}

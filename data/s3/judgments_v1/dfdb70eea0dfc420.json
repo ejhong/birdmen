@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "upright decorated stone surface",
+  "shallow carved/relief linear imagery",
+  "horizontal registers or dividing bands",
+  "profile figures or creatures",
+  "small repeated signs or motifs"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both are upright stone surfaces covered with shallow carved imagery organized in horizontal zones, with profile figures/creatures and smaller repeated marks. The biggest difference is that A uses large, bold, sparse animal-like and patterned motifs on an irregular slab, while B is a denser, rounded-top composition of small framed scenes and sign-like inscriptions.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0067",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  660
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  7,
+  8,
+  6,
+  9,
+  10,
+  1,
+  2,
+  4,
+  3
+ ],
+ "most_similar_reason": "Candidate 5 is most similar because it also centers a highly schematic, frontal, mask-like arrangement of curving carved motifs with eye-like circular forms on a rounded vertical surface, rather than a narrative scene of separate figures.",
+ "least_similar_reason": "Candidate 3 is least similar because it shows no clear comparable iconography\u2014no recognizable frontal mask, paired circular features, organized symbols, figures, or repeated motifs matching the target\u2019s depicted design.",
+ "set": "p43_iso_among_monoliths",
+ "i": 11,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "egypt_0039",
+  "anatolia_ppn_p43iso",
+  "maya_0125",
+  "maya_0057",
+  "maya_0114",
+  "gotland_0000",
+  "maya_0094",
+  "maya_0052",
+  "maya_0130",
+  "egypt_0048"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "gotland",
+  "egypt",
+  "egypt",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 8
+}

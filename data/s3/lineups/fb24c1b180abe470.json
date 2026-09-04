@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  9,
+  1,
+  4,
+  5,
+  2,
+  6,
+  3,
+  10,
+  7
+ ],
+ "most_similar_reason": "Candidate 8 is most similar because it likewise presents a vertical slab-like field filled with schematic low-relief animal and sign motifs arranged as separate symbolic figures rather than as a narrative procession, closely matching the target\u2019s vocabulary of profile creatures and abstract marks.",
+ "least_similar_reason": "Candidate 7 is least similar because it appears to depict only a few naturalistic standing human figures, lacking the target\u2019s distinctive combination of schematic animals, isolated signs, and anthropomorphic pillar-like organization.",
+ "set": "moai_close_among_random",
+ "i": 14,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "rapa_nui_0004",
+  "maya_0052",
+  "persepolis_0015",
+  "egypt_0074",
+  "assyria_0158",
+  "persepolis_0043",
+  "persepolis_0071",
+  "assyria_0115",
+  "assyria_0032",
+  "persepolis_0080"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "assyria",
+  "persepolis",
+  "egypt",
+  "persepolis",
+  "persepolis",
+  "assyria",
+  "assyria",
+  "maya",
+  "persepolis"
+ ],
+ "model": "gpt",
+ "planted_rank": 3
+}

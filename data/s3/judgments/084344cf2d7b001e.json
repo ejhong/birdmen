@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figure shown in strict profile",
+  "low-relief scene with figures oriented to one side",
+  "multi-petalled rosette motif",
+  "horizontal band running along the bottom edge of the panel",
+  "patterned/textured infill (hair, fringes, harness detail)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces present shallow relief scenes with human figures rendered in rigid profile, dense patterned infill for hair/fringes/harness, a repeated multi-petalled rosette motif, and a distinct horizontal band closing the bottom of the panel. However, the subjects differ entirely: A shows a single winged, horned-capped figure with raised arm beside stylised rosette-bearing plants, while B shows a horse-drawn wheeled chariot with a driver and reins, so the relationships between elements share almost nothing specific.",
+ "a": "assyria_0160",
+ "b": "persepolis_0088",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  730
+ ]
+}

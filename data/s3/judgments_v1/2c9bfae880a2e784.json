@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "standing anthropomorphic figure",
+  "long straight/rod-like linear motif",
+  "small circle or disc"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific overlap is the presence of simplified human-like standing figures accompanied by long linear marks and occasional small round marks. The biggest difference is that A is a sparse red painted scene on a flat rock surface, while B is a densely carved, register-like relief on a shaped stone pillar with many additional animal and geometric motifs.",
+ "a": "tanum_0317",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  639
+ ]
+}

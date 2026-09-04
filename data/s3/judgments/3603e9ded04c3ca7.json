@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "standing/frontal anthropomorphic figure",
+  "elaborate headdress or head ornament",
+  "arms with hands rendered as attributes",
+  "ornament hanging on the chest (pendant/disc or necklace)",
+  "banded ornaments around limbs/waist",
+  "body surface covered with incised or painted linear motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both depict a single frontal anthropomorphic figure filling the field, with a marked headdress, body ornaments and a pendant/disc hanging on the chest, and a body surface covered with linear decorative motifs. But the postures and attributes differ sharply \u2014 A shows a naturalistically modelled, slender figure with one arm raised aloft grasping a flayed-skin-like object and a mask in the other hand, while B shows a blocky, heavily schematic torso with arms drawn in across the chest and no held objects.",
+ "a": "mississippian_0015",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3174,
+  762
+ ]
+}

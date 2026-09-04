@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "standing human figures in profile",
+  "row/procession of figures",
+  "relief carving on stone surface"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both show relief-carved processions of human figures in profile along a horizontal register, but A depicts a repetitive, static file of guards/attendants with staffs while B depicts a dynamic narrative scene with a chariot, horses, and figures in action poses. The specific content diverges sharply: A lacks any narrative action, animals, or chariotry, which are the central motifs of B.",
+ "a": "persepolis_0070",
+ "b": "assyria_0052",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  3174,
+  234
+ ]
+}

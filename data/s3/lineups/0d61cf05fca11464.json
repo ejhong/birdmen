@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  1,
+  7,
+  8,
+  3,
+  4,
+  9,
+  5,
+  6,
+  2
+ ],
+ "most_similar_reason": "Candidate 10 is the only one showing several human figures rendered in profile with elaborate headgear and garments, facing and interacting with one another around held objects, which parallels the target's row of profile attendants presenting bowls to a facing personage.",
+ "least_similar_reason": "Candidate 2 presents an essentially blank upright slab with no legible figures, objects or motifs at all, so it shares none of the target's processional human imagery.",
+ "set": "related_control",
+ "i": 24,
+ "target": "persepolis_0080",
+ "planted": "assyria_0111",
+ "cands": [
+  "maya_0106",
+  "maya_0000",
+  "anatolia_ppn_0205",
+  "assyria_0111",
+  "rapa_nui_0046",
+  "egypt_0040",
+  "mississippian_0009",
+  "tanum_0359",
+  "rapa_nui_0096",
+  "mississippian_0005"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "rapa_nui",
+  "maya",
+  "rapa_nui",
+  "maya",
+  "mississippian",
+  "mississippian",
+  "anatolia_ppn",
+  "egypt",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 6
+}

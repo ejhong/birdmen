@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic human or anthropomorphic figure",
+  "circle/loop motifs",
+  "linear bands or framed divisions"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The main overlap is only generic: both include highly schematic figural/anthropomorphic imagery and some circular or linear decorative motifs. A presents a single frontal monumental body-like figure with chest/torso markings, while B shows multiple small black figures arranged in framed compartments with border ornament, so the iconographic scheme and relationships are quite different.",
+ "a": "rapa_nui_0113",
+ "b": "gotland_0009",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1909,
+  653
+ ]
+}

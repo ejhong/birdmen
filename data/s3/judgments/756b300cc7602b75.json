@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "profile creature or figure",
+  "repeated geometric border/band with triangular or zigzag elements",
+  "short parallel-line or comb-like marks",
+  "schematic outline rendering"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is that both include schematic profile beings and repeated geometric bands or comb-like groups of short parallel strokes, including triangular/zigzag edging. The biggest difference is that A is a multi-register composition dominated by several separate animals and symbol bands, while B appears to show one large seated or crouching anthropomorphic/zoomorphic figure with only a lower border and no comparable animal sequence.",
+ "a": "anatolia_ppn_p43full",
+ "b": "maya_0097",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1883,
+  676
+ ]
+}

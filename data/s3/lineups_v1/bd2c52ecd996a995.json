@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  1,
+  5,
+  3,
+  6,
+  7,
+  10,
+  2,
+  9,
+  8
+ ],
+ "most_similar_reason": "Candidate 4 shares the target's defining traits: a flat stone slab carved in shallow low relief with stylized figural and animal motifs arranged in a stacked, register-like composition on a monochrome pale stone ground.",
+ "least_similar_reason": "Candidate 8 shows an almost featureless interior wall surface with no discernible carved animals, figures or relief patterning, so it shares neither the imagery nor the manner of rendering of the target pillar.",
+ "set": "moai_among_random",
+ "i": 21,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "rapa_nui_0113",
+  "egypt_0016",
+  "catalhoyuk_0031",
+  "assyria_0112",
+  "maya_0011",
+  "mississippian_0009",
+  "tanum_0344",
+  "egypt_0060",
+  "egypt_0075",
+  "tanum_0341"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "assyria",
+  "tanum",
+  "egypt",
+  "mississippian",
+  "egypt",
+  "tanum",
+  "maya",
+  "catalhoyuk",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

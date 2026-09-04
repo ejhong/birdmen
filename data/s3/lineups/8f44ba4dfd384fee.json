@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  6,
+  9,
+  1,
+  3,
+  7,
+  8,
+  5,
+  2,
+  10
+ ],
+ "most_similar_reason": "Both images feature identifiable animal forms arranged across a surface.",
+ "least_similar_reason": "This image presents a single, highly schematic linear form, diverging entirely from the target's dense cluster of solid motifs.",
+ "set": "moai_among_random",
+ "i": 12,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0009",
+  "egypt_0012",
+  "persepolis_0077",
+  "persepolis_0069",
+  "maya_0000",
+  "persepolis_0089",
+  "assyria_0128",
+  "rapa_nui_0113",
+  "assyria_0041",
+  "tanum_0240"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "egypt",
+  "persepolis",
+  "assyria",
+  "persepolis",
+  "maya",
+  "tanum",
+  "assyria",
+  "gotland",
+  "persepolis"
+ ],
+ "model": "gemini",
+ "planted_rank": 7
+}

@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "profile animal figures",
+  "long-necked or bird-like creature in profile",
+  "horizontal bands/registers separating imagery",
+  "repeated geometric patterning within a band",
+  "schematic outlined bodies with simple internal line details"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both surfaces combine schematic profile animals with horizontal register bands and repeated geometric infill, including chevron/crosshatched-looking patterning. The biggest difference is that A is organized as a fairly symmetrical, central scene above a decorated frieze with framed signs, while B is a stacked animal register with multiple separate creatures and no comparable central flanked composition.",
+ "a": "maya_0115",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  682
+ ]
+}

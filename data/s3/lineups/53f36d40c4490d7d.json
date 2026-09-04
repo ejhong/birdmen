@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  4,
+  3,
+  9,
+  6,
+  7,
+  5,
+  8,
+  1,
+  2
+ ],
+ "most_similar_reason": "Candidate 10 is most similar because it is dominated by a symmetrical, schematic arrangement of curving linear bands around a central circular/pendant-like motif on an upright surface, echoing the target\u2019s abstract front-facing composition of paired round forms, central circle, and arcing bands.",
+ "least_similar_reason": "Candidate 2 is least similar because it shows essentially a single isolated relief form without the target\u2019s paired circular elements, central emblem, repeated curved bands, or frontal symbolic layout.",
+ "set": "p43_iso_among_monoliths",
+ "i": 24,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "anatolia_ppn_p43iso",
+  "egypt_0061",
+  "gotland_0026",
+  "maya_0113",
+  "egypt_0073",
+  "egypt_0050",
+  "egypt_0070",
+  "gotland_0128",
+  "egypt_0048",
+  "gotland_0005"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "gotland",
+  "maya",
+  "gotland",
+  "egypt",
+  "gotland",
+  "egypt",
+  "egypt",
+  "egypt",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 9
+}

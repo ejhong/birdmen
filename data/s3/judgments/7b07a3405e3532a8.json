@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "animals in profile",
+  "bird-like/long-necked creature",
+  "anthropomorphic or human body parts",
+  "circle/disc or eye-like motifs",
+  "curving/serpentine linear form"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both surfaces combine schematic relief-like animal figures, including profile creatures and bird-like forms, with occasional circular/eye-like signs and possible human body parts. The biggest difference is that B is organized into clear horizontal registers with repeated signs and discrete profile animals, while A is a crowded, overlapping scene dominated by large irregular figures and limbs without the same register structure or specific repeated motifs.",
+ "a": "rapa_nui_0002",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  683
+ ]
+}

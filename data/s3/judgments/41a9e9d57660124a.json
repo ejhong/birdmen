@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "rectangular grid of script signs (glyph blocks) covering the surface",
+  "rows and columns reading order layout",
+  "rounded-corner cartouche-like sign forms",
+  "signs with infixed faces/heads in profile or frontal",
+  "small affix elements attached around a larger main sign",
+  "framed/bordered panel of text on an upright slab"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "3",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "7",
+ "justification": "Both surfaces are entirely given over to a gridded field of square-ish script blocks with rounded-corner cartouche outlines, small affixes clustered around a larger main sign, and occasional heads/faces infixed into the signs \\u2014 a very specific and shared writing-and-layout convention rather than a generic pattern. The main difference in depicted content is scale and density: A carries many dozens of tiny, closely packed blocks in numerous columns with no visible border emphasis, while B has only a few large blocks in two or three columns set within a distinct raised frame, and B's individual signs are legibly figural where A's are not.",
+ "a": "egypt_0035",
+ "b": "maya_0085",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3024,
+  708
+ ]
+}

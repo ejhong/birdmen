@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  4,
+  10,
+  3,
+  7,
+  9,
+  6,
+  1,
+  8,
+  5
+ ],
+ "most_similar_reason": "Candidate 2 shows a tall plain rectangular shaft bearing one large, relatively simple carved living form occupying the main face in a comparable sparse arrangement.",
+ "least_similar_reason": "Candidate 5 is filled with dense rows of written signs and contains no creature, figure, or comparable pictorial motif.",
+ "set": "same_control_monoliths",
+ "i": 3,
+ "target": "anatolia_ppn_0027",
+ "planted": "anatolia_ppn_0263",
+ "cands": [
+  "anatolia_ppn_0263",
+  "maya_0088",
+  "maya_0111",
+  "maya_0136",
+  "egypt_0049",
+  "rapa_nui_0063",
+  "egypt_0067",
+  "gotland_0112",
+  "egypt_0071",
+  "maya_0092"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "gotland",
+  "maya",
+  "maya",
+  "egypt",
+  "rapa_nui",
+  "maya",
+  "maya",
+  "egypt",
+  "egypt"
+ ],
+ "model": "grok",
+ "planted_rank": 8
+}

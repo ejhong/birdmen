@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "human figure(s)",
+  "animal(s)",
+  "registers/rows of figures on a flat surface"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "Both surfaces depict human figures and (in A) animals, but the only overlap is at the most generic level: A shows a naturalistic bearded man in profile with a bridled horse rendered with modelled musculature and detailed hair and harness, while B shows tiny stick-like human figures, many crewed boats with upcurved prows and rows of crew strokes, and a long line of cupmarks, all in flat schematic silhouette. There is no shared motif, no shared relationship between elements, and the conventions of depiction (modelled relief naturalism versus reductive stick-figure schematism) are opposite.",
+ "a": "persepolis_0089",
+ "b": "tanum_0328",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  298
+ ]
+}

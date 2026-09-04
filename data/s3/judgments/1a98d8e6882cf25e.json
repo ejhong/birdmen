@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic animal or bird-like figures in profile",
+  "simple incised/outlined linear motifs",
+  "short repeated parallel strokes or hatching"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main correspondence is that both surfaces include schematic outlined zoomorphic, possibly bird-like figures, with some simple repeated linear strokes. The biggest difference is that B is a dense, organized multi-register composition with many distinct animals and signs, while A shows only a few faint, isolated and less clearly identifiable figures without the same iconographic relationships or layout.",
+ "a": "rapa_nui_0021",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  597
+ ]
+}

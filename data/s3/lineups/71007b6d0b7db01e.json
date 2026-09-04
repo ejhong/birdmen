@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  1,
+  2,
+  6,
+  8,
+  3,
+  10,
+  5,
+  4,
+  7
+ ],
+ "most_similar_reason": "Candidate 9 is most similar because it shows an upright decorated surface with stacked, schematic low-relief animal/figure motifs and sign-like bands, closely matching the target\u2019s vertical arrangement of stylized creatures and repeated linear symbols.",
+ "least_similar_reason": "Candidate 7 is least similar because it contains only a few indistinct linear marks with no clear comparable animals, repeated bands, or structured iconographic composition like the target.",
+ "set": "moai_among_random",
+ "i": 35,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0128",
+  "rapa_nui_0113",
+  "persepolis_0043",
+  "tanum_0240",
+  "assyria_0084",
+  "tanum_0080",
+  "tanum_0126",
+  "assyria_0116",
+  "maya_0113",
+  "persepolis_0029"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "persepolis",
+  "maya",
+  "assyria",
+  "persepolis",
+  "gotland",
+  "assyria",
+  "tanum",
+  "tanum",
+  "tanum"
+ ],
+ "model": "gpt",
+ "planted_rank": 3
+}

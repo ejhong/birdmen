@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  2,
+  6,
+  9,
+  7,
+  3,
+  1,
+  10,
+  8,
+  5
+ ],
+ "most_similar_reason": "Both display a frontal standing figure wearing a large headdress and prominent chest ornaments.",
+ "least_similar_reason": "It features a boat instead of a humanoid figure, lacking shared subject matter.",
+ "set": "p43_iso_among_monoliths",
+ "i": 0,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0095",
+  "maya_0111",
+  "egypt_0073",
+  "maya_0051",
+  "gotland_0111",
+  "maya_0110",
+  "maya_0069",
+  "egypt_0049",
+  "anatolia_ppn_p43iso",
+  "egypt_0040"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "gotland",
+  "maya",
+  "maya"
+ ],
+ "model": "gemini",
+ "planted_rank": 4
+}

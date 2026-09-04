@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  4,
+  9,
+  3,
+  8,
+  2,
+  5,
+  6,
+  1,
+  10
+ ],
+ "most_similar_reason": "Candidate 7 depicts a carved figure with a large, prominent circular motif occupying the lower body area in a comparable relationship to the surrounding anthropomorphic forms.",
+ "least_similar_reason": "Candidate 10 shows only a dense rectangular grid of small repeated signs with no human figure, circular motif, or comparable arrangement of pictorial elements.",
+ "set": "p43_iso_among_monoliths",
+ "i": 9,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "egypt_0049",
+  "anatolia_ppn_p43iso",
+  "maya_0152",
+  "maya_0137",
+  "egypt_0073",
+  "egypt_0040",
+  "maya_0069",
+  "maya_0039",
+  "maya_0077",
+  "maya_0095"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "maya"
+ ],
+ "model": "grok",
+ "planted_rank": 6
+}

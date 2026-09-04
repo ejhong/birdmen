@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic anthropomorphic figure",
+  "circular or spiral motif associated with upper body/head",
+  "parallel incised/linear markings on the body",
+  "curving outline/limb-like forms"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The main correspondence is that both surfaces include a schematic human-like figure with circular/spiral detail near the upper part and linear incised markings forming or decorating the body. The biggest difference is that A presents a frontal, full-bodied idol-like torso with breasts, belly disc, and horizontal bands, while B shows a much more profile/abstract figure with a spiral head and comb-like vertical body lines, so the iconographic scheme is not closely shared.",
+ "a": "rapa_nui_0113",
+ "b": "rapa_nui_0101",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  680
+ ]
+}

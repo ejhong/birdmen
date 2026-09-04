@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  3,
+  8,
+  9,
+  1,
+  2,
+  7,
+  5,
+  6,
+  4
+ ],
+ "most_similar_reason": "Candidate 10 shares the depiction of a prominent, stylized arachnid viewed from above.",
+ "least_similar_reason": "Candidate 4 depicts a highly organized scene of human figures and a sun disc, which shares no elements with the target.",
+ "set": "moai_close_among_random",
+ "i": 24,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "assyria_0139",
+  "persepolis_0026",
+  "tanum_0078",
+  "egypt_0056",
+  "egypt_0002",
+  "gotland_0002",
+  "egypt_0033",
+  "rapa_nui_0004",
+  "egypt_0050",
+  "mississippian_0018"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "egypt",
+  "assyria",
+  "mississippian",
+  "tanum",
+  "egypt",
+  "egypt",
+  "egypt",
+  "persepolis",
+  "gotland"
+ ],
+ "model": "gemini",
+ "planted_rank": 3
+}

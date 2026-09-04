@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "profile animal or creature forms",
+  "head or face-like motifs",
+  "circular or oval signs",
+  "parallel bars or repeated linear marks",
+  "horizontal register or band divisions",
+  "dense abstract/geometric infill motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces include schematic profile creatures or heads mixed with circular/oval signs and repeated linear or geometric motifs, with some organization into horizontal bands or registers. The biggest difference is that A is a dense grid of compact glyph-like compartments, while B shows a few large profile animals and a prominent patterned band in a much more open figural composition.",
+ "a": "maya_0009",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1645,
+  673
+ ]
+}

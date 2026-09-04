@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  1,
+  7,
+  6,
+  5,
+  9,
+  10,
+  4,
+  8,
+  2
+ ],
+ "most_similar_reason": "Candidate 3 is most similar because it also presents a carved/incised human figure in a comparable ancient relief convention, with a profile-like pose and associated linear details/signs, closest to the target\u2019s profile winged human figure.",
+ "least_similar_reason": "Candidate 2 is least similar because its visible depicted content is mainly indistinct rock markings within a landscape view, with no clear anthropomorphic figure, wing, beard, costume, or comparable figural arrangement.",
+ "set": "same_control",
+ "i": 9,
+ "target": "assyria_0128",
+ "planted": "assyria_0034",
+ "cands": [
+  "egypt_0046",
+  "rapa_nui_0108",
+  "assyria_0034",
+  "tanum_0126",
+  "rapa_nui_0082",
+  "rapa_nui_0046",
+  "egypt_0051",
+  "maya_0024",
+  "anatolia_ppn_0041",
+  "tanum_0059"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "rapa_nui",
+  "tanum",
+  "tanum",
+  "rapa_nui",
+  "egypt",
+  "rapa_nui",
+  "maya",
+  "egypt",
+  "anatolia_ppn"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

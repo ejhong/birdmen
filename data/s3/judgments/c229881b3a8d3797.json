@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "standing human figures in ceremonial dress",
+  "low-relief carving of figures on a flat stone surface",
+  "figures carrying/holding objects",
+  "patterned bands or registers framing the figural field",
+  "elaborate headgear/headdress"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both show human figures in relief with headgear and held objects, framed by border bands, but that is about as generic as figural relief gets: A is a long horizontal procession of many small, uniform figures in strict profile with an animal, arranged in stacked registers, while B is a single monumental frontal figure filling the whole panel amid dense, ornate regalia and glyph-like blocks. The proportions, viewpoint (profile file vs frontal isolated figure), density of ornament and compositional logic differ completely, indicating no shared iconographic scheme.",
+ "a": "persepolis_0093",
+ "b": "maya_0087",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  322
+ ]
+}

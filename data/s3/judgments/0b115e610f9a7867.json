@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic animal in profile",
+  "rectangular/linear body outlines",
+  "repeated short strokes or hatching",
+  "horizontal band/register of marks"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest correspondence is that both surfaces include schematic, outline-based animal imagery with linear internal divisions or repeated hatching-like marks arranged along horizontal bands. The biggest difference is that A appears dominated by one large rectilinear animal-like figure, while B is a multi-register composition with several distinct creatures and patterned bands, so the iconographic scheme and relationships are not closely shared.",
+ "a": "tanum_0119",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  667
+ ]
+}

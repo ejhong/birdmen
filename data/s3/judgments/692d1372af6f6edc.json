@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "profile figures",
+  "bird-like forms or bird signs",
+  "horizontal bands/registers",
+  "rows of repeated small signs or geometric motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main overlap is generic: both surfaces organize schematic outlined figures and small repeated signs into horizontal registers, and both include some profile/bird-like forms. The biggest difference is that A is dominated by animals and abstract motifs scattered across stacked panels, while B shows a human ritual or offering scene with seated/standing figures, an offering arrangement, and inscription-like bands.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0066",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  662
+ ]
+}

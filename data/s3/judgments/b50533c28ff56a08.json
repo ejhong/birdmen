@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "profile quadruped",
+  "profile bird or long-necked bird",
+  "curving animal/serpentine form",
+  "stacked animal figures on an upright surface"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "The strongest shared content is the use of schematic profile animals, especially a profile quadruped and bird-like/long-necked figures, carved as isolated motifs stacked vertically. The biggest difference is that B is a dense, register-like composition with many distinct signs and creatures, while A is much sparser and dominated by a single large quadruped with only a few subsidiary figures.",
+ "a": "anatolia_ppn_0027",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  1191
+ ]
+}

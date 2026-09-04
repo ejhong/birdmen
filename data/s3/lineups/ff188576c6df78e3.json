@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  4,
+  9,
+  7,
+  5,
+  1,
+  3,
+  2,
+  6,
+  8
+ ],
+ "most_similar_reason": "Candidate 10, like the target, is a flat stone panel covered with schematic incised pictographic signs \u2014 animal/bird forms, a boat-like element and repeated small symbols \u2014 laid out in loose rows rather than as a single scene, matching the target's sign-like, outline-drawn register arrangement.",
+ "least_similar_reason": "Candidate 8 shows a bare, undecorated stone surface with no depicted creatures, figures, signs or motifs at all, so there is nothing iconographic to share with the target's registers of carved animal and plant signs.",
+ "set": "moai_iso_among_random",
+ "i": 31,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "persepolis_0087",
+  "assyria_0116",
+  "persepolis_0066",
+  "maya_0052",
+  "rapa_nui_hoa_iso",
+  "mississippian_0015",
+  "assyria_0059",
+  "egypt_0021",
+  "assyria_0112",
+  "tanum_0338"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "persepolis",
+  "assyria",
+  "assyria",
+  "mississippian",
+  "persepolis",
+  "tanum",
+  "maya",
+  "assyria",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 5
+}

@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "animal figures in profile",
+  "bird-like profile figures",
+  "circle or oval/disc motif",
+  "rows or bands of repeated short linear signs",
+  "serpentine or curved linear forms",
+  "schematic human/anthropomorphic figures"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest shared content is the presence of schematic profile creatures, including bird-like forms, together with repeated linear sign rows and occasional circular/oval motifs. The biggest difference is that B is dominated by boats, quadrupeds, stick-like humans and dispersed small signs, while A is organized in stacked carved panels with large bird/animal figures and dense geometric bands, so the relationships and overall iconographic scheme do not closely match.",
+ "a": "anatolia_ppn_p43full",
+ "b": "tanum_0017",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  694
+ ]
+}

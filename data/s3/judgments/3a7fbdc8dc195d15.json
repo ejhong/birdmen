@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "horizontal band of repeated angular triangular/chevron motifs",
+  "repeated abstract vertical or pendant-like forms"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest shared depicted content is a horizontal register of repeated angular triangular or chevron-like signs, with both surfaces also using schematic repeated abstract forms. The biggest difference is that A includes multiple animal or possibly anthropomorphic figures arranged in narrative-like registers, whereas B is essentially a close-up of a regular geometric/pendant pattern with no comparable creatures or scene.",
+ "a": "anatolia_ppn_p43full",
+ "b": "assyria_0069",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  555
+ ]
+}

@@ -37,7 +37,7 @@ table.feat tr.mismatch td { background: rgba(142, 74, 56, .07); }
   <div class="wrap">
     <div class="eyebrow"><a href="./" style="border:0">Deep Memory test bench</a> &middot; study 3 of 3 &middot; pilot</div>
     <h1 style="margin-top:14px">Study 3: is Pillar 43 unusually like the moai's back?</h1>
-    <p class="deck">The strongest image in the whole complex is a Göbekli Tepe pillar beside the carved back of an Easter Island statue. This pilot puts the pair inside a closed corpus of decorated surfaces from ten traditions, coded blind by two vision models against a pre-registered feature list, and asks how close any panel ordinarily gets to its best match in a foreign tradition.</p>
+    <p class="deck">The strongest image in the whole complex is a Göbekli Tepe pillar beside the carved back of an Easter Island statue. This page puts the pair inside a closed corpus of decorated surfaces from ten traditions and asks how alike any two foreign panels ordinarily are. Three pilots: the first coded composition into features and failed, instructively; the second asks vision models to score pairs side by side, blind; the third is a lineup, one target and ten candidates, which produced a false positive, caught it, and then answered the question with matched decoys. Five model families judged: Claude Opus 5, Claude Sonnet 5, GPT-5.5, Gemini 3.1 Pro and Grok 4.6.</p>
     <div class="meta">
       <span><b>Status</b> pilot &middot; pre-registered 4 Sept 2026</span>
       <span><b>Corpus</b> <span data-v="n_images"></span> Commons images &middot; <span data-v="n_coded"></span> coded</span>
@@ -51,6 +51,9 @@ table.feat tr.mismatch td { background: rgba(142, 74, 56, .07); }
 <nav class="toc"><div class="wrap"><ol>
   <li><a href="./">&larr; Overview</a></li>
   <li><a href="#verdict">Verdict</a></li>
+  <li><a href="#lineup">Pilot C: lineups</a></li>
+  <li><a href="#judge">Pilot B: direct judgment</a></li>
+  <li><a href="#pilotA">Pilot A: feature coding</a></li>
   <li><a href="#target">The pair</a></li>
   <li><a href="#corpus">Corpus</a></li>
   <li><a href="#coding">Coding and reliability</a></li>
@@ -64,69 +67,119 @@ table.feat tr.mismatch td { background: rgba(142, 74, 56, .07); }
 <main>
 
 <section class="part" id="verdict"><div class="wrap">
-  <div class="part-head"><div class="n">01</div><h2>The verdict, for the pilot</h2></div>
+  <div class="part-head"><div class="n">01</div><h2>The verdict, for the pilots</h2></div>
   <div class="prose">
-    <div class="verdict"><div class="eyebrow">In one paragraph</div>
-      <p><b>The pre-registered test returned no verdict, and the reason is the finding.</b> Of <span data-v="all"></span> composition features, only <span data-v="kept"></span> reached the pre-registered agreement threshold between the two blind coders, too few to compute the distance the plan required. The features that failed are the ones the claim is made of: whether a bird is present at all (alpha <span data-v="alpha_bird"></span>), a snake (<span data-v="alpha_snake"></span>), a container (<span data-v="alpha_bag"></span>), a headless human (<span data-v="alpha_headless"></span>), the bird's posture (<span data-v="alpha_posture"></span>). Two vision models looking at the same eroded surfaces do not agree on what is carved on them. Everything below the reliability table is therefore <b>exploratory</b>, labelled as such and logged in the pre-registration: with a relaxed threshold and disagreement kept as noise, Pillar 43 and the moai's back are farther apart than <span data-v="j_pct"></span>% of panels are from their own nearest foreign neighbour, Pillar 43's closest foreign match is a <span data-v="p43_nn_group"></span> and the moai's a <span data-v="hoa_nn_group"></span>, <span data-v="pc_both"></span>, and composition barely separates a tradition's own panels from foreign ones. Nothing in the pilot moves the pair toward "unusual"; what the pilot establishes is that the instrument has to be rebuilt before the question can be answered.</p>
-    </div>
+    <div class="verdict"><div class="eyebrow">In one paragraph</div><p id="verdict-b"></p></div>
+    <div class="stats" id="stats-b"></div>
+    <p>Three pilots, in the order they were run, all logged with their changes in the <a href="study3/preregistration.md">pre-registration</a>. Pilot A, blind feature coding, returned no verdict because the two coders could not agree on the features that matter; its results are kept below as a record of what did not work. Pilot B asks vision models to score two panels side by side, blind, on a fixed rubric, and compares the pair with 1,500 random foreign pairs, same-tradition pairs and a documented-descent control. Pilot C is the lineup: one target, ten candidates, rank them all, and see whether the planted one stands out. Its first round used random decoys and produced a false positive that the judges' own reasons exposed (both targets are carved standing stones, most decoys are not), so a second round matched every decoy on object type and removed the backgrounds from both photographs. The judges were told, at length, that they were comparing what is depicted and not the medium, the preservation or the photograph, and were given the standard of evidence: does the correspondence look like a shared tradition, or like something any two traditions could produce alone? They were not told the purpose of the study, any hypothesis or any culture.</p>
+  </div>
+</div></section>
+
+<section class="part" id="lineup"><div class="wrap">
+  <div class="part-head"><div class="n">02</div><h2>Pilot C: blind lineups</h2></div>
+  <div class="prose">
+    <p>The cleanest question to ask a judge is not "how similar are these two" but "pick it out of a lineup". A judge sees one target panel and ten numbered candidates, and ranks all ten by similarity of depicted content to the target, under the same instruction as pilot B: compare what is shown, ignore medium, preservation and photography. One candidate is planted; the other nine are random decoys from other traditions. If the planted candidate is nothing special it ranks first one time in ten and averages 5.5; if it stands out, it ranks first most of the time. The same design tests the controls: does a random Assyrian panel get picked out when the target is from Persepolis, and does a panel get picked out among strangers when the target is from its own tradition?</p>
+  </div>
+  <figure><div class="frame plain" id="fig-lineup"></div><figcaption id="cap-lineup"></figcaption></figure>
+  <figure><div class="frame plain"><table class="inv" id="lineup-table"></table></div><figcaption><b>Every lineup set, every judge.</b> Mean rank of the planted candidate (chance 5.5), how often it ranked first (chance 10%) with a one-sided binomial p, and how often it ranked in the top three (chance 30%).</figcaption></figure>
+  <div class="prose"><p id="lineup-text"></p></div>
+  <h3>What the judges were actually matching</h3>
+  <div class="prose">
+    <p>The first lineups were run with random decoys, and the moai and the pillar were picked out well above chance. Reading the judges' reasons showed why, and it was not what is carved. Opus's typical reason: "like the target, a free-standing anthropomorphic monolith whose body itself is the figure, with shallow low-relief motifs laid over its faces, rather than a scene set on a flat panel." Gemini: "shares the anthropomorphic pillar form with relief-carved arms." Pillar 43 has no arms, and the reason is about the kind of object: a carved standing stone against a lineup of wall reliefs, rock outcrops and drawings. Two things follow. First, every panel in the corpus was classified blind by object type (free-standing monolith, statue, wall or architectural relief, rock surface, portable object, drawing), and a second round of lineups draws all nine decoys from free-standing monoliths and statues: Maya stelae, Egyptian stelae, Gotland picture stones. Second, both target photographs carry backgrounds the judges could see, a museum display piece behind the statue and sky, wall and a neighbouring pillar behind the stone, so both were also used in an isolated form with the background removed and the carved surfaces untouched.</p>
+  </div>
+  <div class="pairrow" style="margin:18px 0 8px">
+    <div class="pcard"><div class="ph" style="height:420px"><img src="img/s3/anatolia_ppn_p43iso.jpg" alt="Pillar 43, background removed" loading="lazy" style="max-height:420px"></div><div class="cap"><b>Pillar 43</b>, whole, background removed</div></div>
+    <div class="pcard"><div class="ph" style="height:420px"><img src="img/s3/rapa_nui_hoa_iso.jpg" alt="Back of Hoa Hakananai'a, background removed" loading="lazy" style="max-height:420px"></div><div class="cap"><b>Hoa Hakananai'a</b>, back, background removed</div></div>
+  </div>
+  <figure style="margin-top:0"><figcaption><b>The isolated targets.</b> Backgrounds removed by GrabCut segmentation and hand-cleaned; nothing on the carved surfaces was altered. The Pillar 43 photograph is © DAI, reproduced for commentary.</figcaption></figure>
+  <figure><div class="frame plain"><table class="inv" id="objtype-table"></table></div><figcaption><b>Object types in the corpus, by tradition.</b> The classification is blind (Claude Sonnet 5, one image at a time). Only monoliths and statues can serve as decoys in the matched lineups, which limits them to Maya, Egypt and Gotland.</figcaption></figure>
+  <h3>One lineup, as the judges saw it</h3>
+  <figure><div class="frame"><img src="img/lineup_example.jpg" alt="Example lineup composite" loading="lazy"></div><figcaption id="cap-lineup-example"></figcaption></figure>
+  <figure><div class="frame"><img src="img/lineup_example_mono.jpg" alt="Example object-type-matched lineup composite" loading="lazy"></div><figcaption id="cap-lineup-example-mono"></figcaption></figure>
+  <h3>Which decoys beat the moai</h3>
+  <div class="prose"><p id="lineup-beat"></p></div>
+</div></section>
+
+<section class="part" id="judge"><div class="wrap">
+  <div class="part-head"><div class="n">03</div><h2>Pilot B: the pair judged directly, against everything else</h2></div>
+  <div class="prose">
+    <p>Each judgment shows a model two panels side by side, labelled A and B in random order, with no captions, names or places, and asks for a similarity score from 0 to 10 on a fixed rubric (shared elements and how specific they are, relationships between elements, arrangement, style of depiction, gestalt) with a two-sentence justification. The judge is told, at length, what it is comparing: <b>what is depicted</b>, the kinds of things shown, the forms they take, how they relate to each other, how they are arranged, and the style in which they are drawn; and what it must ignore: the medium, the material, erosion, and the photographs themselves (lighting, angle, crop, resolution, background). A crisp museum photograph of carved stone and a blurred field snapshot of painted clay are highly similar if they show the same scene; two stone slabs photographed the same way are not similar if they show different things. It is also given the standard of evidence: does the correspondence look like something two surfaces would share only if they shared an iconographic tradition, or like something any two unrelated traditions could produce independently? Arbitrary, specific, conventional correspondences score high; universal or obvious ones score low. The judge is not told the purpose of the study, any hypothesis, or any culture. Three judges: Claude Opus 5, Claude Sonnet 5, GPT-5.5. Opus is the primary judge for the null and the searches; GPT-5.5 repeats the searches and part of the null independently. Pillar 43 is judged from the excavators' photographs of the whole pillar, headless man included, and separately from the top-only Commons photograph used in pilot A, so the effect of that mistake is measured rather than assumed.</p>
+  </div>
+  <figure><div class="frame plain"><table class="inv" id="target-table"></table></div><figcaption id="cap-target"></figcaption></figure>
+  <figure><div class="frame plain" id="fig-judge-null"></div><figcaption id="cap-judge-null"></figcaption></figure>
+  <div class="prose"><p id="judge-context"></p></div>
+  <h3>What the judges said about the pair</h3>
+  <div id="target-quotes" class="prose"></div>
+  <h3>The best matches the judges could find</h3>
+  <div class="prose"><p>Pillar 43 and the moai's back were each compared with every other panel in the corpus. These are the highest-scoring foreign panels each judge found, with its own justification. If the pair were exceptional, the moai would sit at the top of Pillar 43's list and Pillar 43 at the top of the moai's.</p></div>
+  <div id="search-panels"></div>
+  <h3>Reliability</h3>
+  <div class="prose"><p id="rel-text"></p></div>
+</div></section>
+
+<section class="part" id="pilotA"><div class="wrap">
+  <div class="part-head"><div class="n">04</div><h2>Pilot A: feature coding, and why it failed</h2></div>
+  <div class="prose">
+    <p>The first design coded every panel into 36 composition features (which classes of thing are present, in which third of the panel, how many registers, symmetry, and so on) and measured distance between feature vectors. Two blind coders agreed on only <span data-v="kept"></span> of the 36 features to the pre-registered standard, and least of all on birds (<span data-v="alpha_bird"></span>), snakes (<span data-v="alpha_snake"></span>) and bird posture (<span data-v="alpha_posture"></span>). With a relaxed threshold the nearest neighbours it produced were not similar by any human standard: Pillar 43's was a <span data-v="p43_nn_group"></span>, the moai's a <span data-v="hoa_nn_group"></span>. The feature scheme threw away the gestalt, and matching on presence and absence rewarded shared generic values. The sections below keep that record; pilot B replaced the method.</p>
     <div class="stats" id="stats"></div>
-    <p>Everything was fixed before coding: the categories, the feature list, the reliability threshold, the distance, the null and the predictions. The <a href="study3/preregistration.md">pre-registration</a> logs one change made after a three-image dry run and the two exploratory variants added after the fact.</p>
   </div>
 </div></section>
 
 <section class="part" id="target"><div class="wrap">
-  <div class="part-head"><div class="n">02</div><h2>The pair, as coded</h2></div>
+  <div class="part-head"><div class="n">05</div><h2>The pair, as coded</h2></div>
   <div class="pairrow" id="pair"></div>
   <div class="prose"><p style="margin-top:18px">Each panel's card shows the two coders' one-sentence descriptions, written without any knowledge of what the object is. Below the cards, the nearest foreign neighbour each panel actually has in the corpus.</p></div>
   <div class="pairrow" id="pair-nn"></div>
 </div></section>
 
 <section class="part" id="corpus"><div class="wrap">
-  <div class="part-head"><div class="n">03</div><h2>The corpus</h2></div>
+  <div class="part-head"><div class="n">06</div><h2>The corpus</h2></div>
   <div class="prose"><p>Every file in the pre-registered Wikimedia Commons categories was fetched, then triaged blind by Sonnet 5 for whether it shows a single decorated surface that can be coded (site views, museum rooms, undecorated statues and unreadable fragments are dropped). Several photographs of the same object can survive triage; the pilot accepts that and the neighbour analysis is cross-group only.</p></div>
   <figure><div class="frame plain"><table class="inv" id="corpus-table"></table></div><figcaption><b>Images fetched and images that survived triage, by group.</b> The Mississippian and Çatalhöyük groups are thin on Commons; a full study would draw them from museum collections.</figcaption></figure>
 </div></section>
 
 <section class="part" id="coding"><div class="wrap">
-  <div class="part-head"><div class="n">04</div><h2>Coding, and how much the coders agreed</h2></div>
+  <div class="part-head"><div class="n">07</div><h2>Coding, and how much the coders agreed</h2></div>
   <div class="prose"><p>Opus 5 and Sonnet 5 coded every usable image independently, from the image and the feature definitions alone. Agreement per feature is Krippendorff's alpha; features under 0.67 were dropped before any distance was computed, as pre-registered. The retained features are what the whole analysis runs on.</p></div>
   <figure><div class="frame plain"><table class="inv" id="alpha-table"></table></div><figcaption><b>Inter-coder agreement.</b> Green rows were retained. Presence features agree far better than position features, which is expected: "is there a bird" is easier than "which third of the panel is the topmost bird in".</figcaption></figure>
 </div></section>
 
 <section class="part" id="null"><div class="wrap">
-  <div class="part-head"><div class="n">05</div><h2>The null: how close does any panel get to a foreign one? (exploratory)</h2></div>
+  <div class="part-head"><div class="n">08</div><h2>The null: how close does any panel get to a foreign one? (exploratory)</h2></div>
   <div class="prose"><p>The pre-registered version could not be computed. In the exploratory variant shown here, features with alpha ≥ 0.5 are kept, each coder's mismatch is averaged rather than requiring consensus, and shared absences are ignored so that sparsely coded panels do not become everyone's neighbour. For every coded panel, its distance to every panel in a different group was computed and the smallest kept. That distribution is the yardstick. The moai was chosen as Pillar 43's match from all of world art, so the fair question is not "how similar are these two" but "how similar is any panel to its best foreign match".</p></div>
   <figure><div class="frame plain" id="fig-null"></div><figcaption id="cap-null"></figcaption></figure>
 </div></section>
 
 <section class="part" id="groups"><div class="wrap">
-  <div class="part-head"><div class="n">06</div><h2>Groups, positive controls, and geography (exploratory)</h2></div>
+  <div class="part-head"><div class="n">09</div><h2>Groups, positive controls, and geography (exploratory)</h2></div>
   <div class="prose"><p>Mean composition distance between every pair of groups. The positive controls are the two pairs with documented descent or continuity, Assyria to Persepolis and Anatolian PPN to Çatalhöyük: they must be among each other's two closest groups for the method to be trusted.</p></div>
   <figure><div class="frame plain" id="fig-heat"></div><figcaption id="cap-heat"></figcaption></figure>
   <div class="prose"><p id="mantel-text"></p></div>
 </div></section>
 
 <section class="part" id="drivers"><div class="wrap">
-  <div class="part-head"><div class="n">07</div><h2>What drives the target pair's score (exploratory)</h2></div>
+  <div class="part-head"><div class="n">10</div><h2>What drives the target pair's score (exploratory)</h2></div>
   <div class="prose"><p>Feature by feature: the consensus code of Pillar 43, of the moai's back, whether they match, and how common that value is across the whole corpus. A match on a value that most panels share carries little information; a match on a rare value would.</p></div>
   <figure><div class="frame plain"><table class="inv feat" id="drivers-table"></table></div><figcaption id="cap-drivers"></figcaption></figure>
 </div></section>
 
 <section class="part" id="neighbours"><div class="wrap">
-  <div class="part-head"><div class="n">08</div><h2>Nearest foreign neighbours, sampled (exploratory)</h2></div>
+  <div class="part-head"><div class="n">11</div><h2>Nearest foreign neighbours, sampled (exploratory)</h2></div>
   <div class="prose"><p>What "close" looks like in this corpus. Each card is a panel and the foreign panel it is nearest to, with the distance. Shuffle to see others.</p></div>
   <div class="chart-controls"><button class="btn" id="btn-shuffle">Shuffle</button></div>
   <div class="nn-grid" id="nn-grid"></div>
 </div></section>
 
 <section class="part" id="limits"><div class="wrap">
-  <div class="part-head"><div class="n">09</div><h2>What this pilot does and does not show</h2></div>
+  <div class="part-head"><div class="n">12</div><h2>What these pilots do and do not show</h2></div>
   <div class="prose">
-    <p><b>It is a pilot on Commons photographs.</b> Coverage is uneven, several images show the same object from different angles, and the Orongo petroglyph corpus is far larger than what is photographed online. The full study needs the published corpora.</p>
-    <p><b>The coders are vision models, and they disagree.</b> They are blind to provenance, which humans rarely are, but they misread eroded surfaces, they read the three handled shapes on Pillar 43 as animals when shown it cold, and on the feature the whole claim turns on, "is there a bird", their agreement is <span data-v="alpha_bird"></span>. Where they agree well is on the easy things: text blocks (<span data-v="alpha_text"></span>), quadrupeds (<span data-v="alpha_quad"></span>), human figures (<span data-v="alpha_human"></span>). A full study needs human coders with a shared training set, higher-resolution images, and a feature list refined on the disagreements listed above.</p>
-    <p><b>Commons photographs are the wrong resolution for this.</b> Many are oblique, shadowed or partial, and the same object appears in several. The Pillar 43 photograph used here omits the headless man at the base, so the coded pillar has no human figure; the published drawing would. Published corpora and orthophotos are the fix.</p>
-    <p><b>Composition is not meaning.</b> Two panels can share "birds at the top and a snake at the bottom" because that is how the sky and the ground are, everywhere. The drivers table separates common values from rare ones for that reason.</p>
-    <p><b>What would change the verdict.</b> The pre-registration says it: the target pair in the closest 5% of nearest-foreign-neighbour distances, driven by features with corpus base rates under 25%, with the positive controls passing.</p>
+    <p><b>It is a pilot on Commons photographs.</b> Coverage is uneven, several images show the same object from different angles, and the Orongo petroglyph corpus is far larger than what is photographed online. Only Maya, Egypt and Gotland contribute enough free-standing monoliths to serve as matched decoys. The full study needs the published corpora and orthophotos.</p>
+    <p><b>The judges are vision models.</b> They are blind to provenance, which humans rarely are, and five families from four companies agree on the controls: a same-tradition panel is picked out of a lineup about half the time, a related-tradition panel three quarters of the time. But they are also easily led by what a photograph is of rather than what is carved on it. The first round of lineups showed that: the two carved standing stones found each other in a crowd of wall reliefs, and the judges said so in their reasons. Any similarity study that uses these models has to match its decoys on object type and strip its backgrounds, or it will measure the wrong thing.</p>
+    <p><b>Not every judge saw every set.</b> Opus, GPT-5.5 and Sonnet completed every lineup set. Gemini's key hit its quota and the Grok account ran out of credit part-way through the second round, so their counts in the table are smaller; nothing they did see points the other way. In pilot B, the OpenAI account ran out of credit before GPT-5.5's 500-pair null and its 200 reliability re-judgments, so GPT-5.5's agreement with Opus is measured on the 447 Pillar 43 search pairs and no GPT-5.5 null percentile is reported. Opus judged the full null, the controls and both searches.</p>
+    <p><b>Removing the backgrounds is an intervention.</b> It is documented, the carved surfaces are untouched, and the isolated targets are shown above so anyone can check them. The alternative, leaving a museum display piece in one photograph and a second pillar in the other, is a bigger intervention in the other direction.</p>
+    <p><b>Composition is not meaning.</b> Two panels can share "a bird at the top and a creature at the bottom" because that is how the sky and the ground are, everywhere. The judges were told to weigh arbitrary, specific correspondences over universal ones. Whether they did is checkable in their reasons, quoted throughout.</p>
+    <p><b>Pilot A's own limits stand.</b> Its coders disagreed on the features the claim turns on, above all "is there a bird", and it was run on a top-only photograph of Pillar 43 without the headless man; pilots B and C used the whole pillar and measured the difference.</p>
+    <p><b>What would change the verdict.</b> For the lineups: the moai ranked first for Pillar 43 in more than half of the object-type-matched lineups by at least two judges, and at least as often as the same-tradition control. For the direct scores: the pair above the 95th percentile of the foreign-pair null for two judges, with fewer than ten foreign panels rated above it in the searches. Neither happened.</p>
   </div>
 </div></section>
 

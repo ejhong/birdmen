@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  1,
+  6,
+  9,
+  8,
+  7,
+  3,
+  2,
+  5,
+  4
+ ],
+ "most_similar_reason": "Candidate 10 is, like the target, a tall free-standing rectangular stone pillar of warm pale stone whose broad face is covered with shallow, flat-toned low-relief motifs arranged in stacked registers up the shaft.",
+ "least_similar_reason": "Candidate 4 shows only a single spindly linear mark applied to an unworked reddish rock face, lacking the carved relief, animal imagery, and organized multi-register composition on a shaped monolith that define the target.",
+ "set": "moai_among_random",
+ "i": 9,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "maya_0138",
+  "persepolis_0030",
+  "egypt_0044",
+  "tanum_0128",
+  "maya_0129",
+  "maya_0136",
+  "rapa_nui_0113",
+  "assyria_0100",
+  "assyria_0142",
+  "maya_0137"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "maya",
+  "assyria",
+  "persepolis",
+  "tanum",
+  "maya",
+  "assyria",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 6
+}

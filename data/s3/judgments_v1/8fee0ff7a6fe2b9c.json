@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "upright decorated stone surface",
+  "human or human-like figure",
+  "profile animal or bird-like figures",
+  "horizontal band or register of repeated pattern",
+  "circle or oval motifs"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both show a tall stone surface covered with relief/incised imagery, including some human/animal-like forms and horizontal patterned zones. The biggest difference is compositional: A is dominated by one highly detailed, frontal, centralized standing figure, while B is a rougher low-relief surface with separated profile figures and bands arranged in registers.",
+ "a": "maya_0051",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1151,
+  660
+ ]
+}

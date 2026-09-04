@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "profile figures",
+  "horizontal band of pattern or border",
+  "incised/low-relief linear carving"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces use shallow linear carving with profile motifs and horizontal patterned/border bands. The biggest difference is compositional: A is a rough, stacked arrangement of schematic signs and animal-like forms, while B is a more continuous scene dominated by large naturalistic human figures and handled/vessel-like objects.",
+ "a": "anatolia_ppn_p43full",
+ "b": "assyria_0139",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  924
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  8,
+  10,
+  1,
+  5,
+  9,
+  6,
+  3,
+  2,
+  7
+ ],
+ "most_similar_reason": "Candidate 4 is most similar because it also presents a tall, vertically organized carved surface filled with stacked stylized anthropomorphic/creature forms and dense geometric or sign-like ornamentation rather than a single isolated motif.",
+ "least_similar_reason": "Candidate 7 is least similar because it shows a simple red outlined cart- or animal-like figure on an open field, lacking the target\u2019s vertical stela-like arrangement, prominent carved human figures, and glyph-like patterned registers.",
+ "set": "same_control",
+ "i": 11,
+ "target": "maya_0138",
+ "planted": "maya_0019",
+ "cands": [
+  "rapa_nui_0039",
+  "tanum_0348",
+  "tanum_0236",
+  "maya_0019",
+  "gotland_0111",
+  "catalhoyuk_0110",
+  "tanum_0129",
+  "egypt_0075",
+  "egypt_0053",
+  "assyria_0011"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "assyria",
+  "egypt",
+  "tanum",
+  "catalhoyuk",
+  "egypt",
+  "tanum",
+  "gotland",
+  "rapa_nui",
+  "tanum"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

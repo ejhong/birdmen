@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  10,
+  3,
+  2,
+  7,
+  8,
+  5,
+  6,
+  4,
+  9
+ ],
+ "most_similar_reason": "Candidate 1 shares the format of a horizontal register containing a detailed scene with figures.",
+ "least_similar_reason": "Candidate 9 consists only of a single isolated handprint, lacking the complex multi-figure composition.",
+ "set": "related_control",
+ "i": 1,
+ "target": "persepolis_0073",
+ "planted": "assyria_0012",
+ "cands": [
+  "assyria_0012",
+  "anatolia_ppn_0027",
+  "anatolia_ppn_0218",
+  "rapa_nui_0021",
+  "rapa_nui_0062",
+  "rapa_nui_0046",
+  "egypt_0037",
+  "mississippian_0045",
+  "tanum_0034",
+  "maya_0110"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "rapa_nui",
+  "tanum",
+  "anatolia_ppn",
+  "maya",
+  "mississippian",
+  "rapa_nui",
+  "anatolia_ppn",
+  "rapa_nui",
+  "egypt"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

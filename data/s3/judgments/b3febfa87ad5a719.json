@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human figure carved in stone",
+  "head with headdress/cap form",
+  "upper body/torso shown",
+  "carved relief detailing on the body surface"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both depict a single anthropomorphic figure's head and upper body with a distinct headgear form, and both carry incised surface detail over the torso. But A is a finely detailed profile bust in low relief with naturalistic eye, ear, ringlet beard and hair, patterned garment and earring, while B is a massive, blocky, near-featureless three-dimensional figure seen from behind with only sparse schematic carved motifs (a disc, curved bands) on a smooth back \u2014 the conventions of depiction and the viewpoint of the subject share almost nothing specific.",
+ "a": "assyria_0035",
+ "b": "rapa_nui_0049",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3124,
+  309
+ ]
+}

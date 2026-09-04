@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic human figure with stick-like limbs",
+  "concentric circles / cup-and-ring motif",
+  "linear grooved lines crossing the surface",
+  "curved arcs / hook-like forms"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces show highly schematic stick-limbed human-like figures combined with concentric-circle/ring motifs and long straight grooved lines, a fairly specific combination of rock-art conventions. However, A is a single isolated figure whose head IS the concentric circle, arranged with two isolated horizontal lines, while B is a crowded multi-figure composition with elongated limbs, arcs and scattered cupmarks, so the specific relationships and layout differ substantially.",
+ "a": "tanum_0351",
+ "b": "tanum_0359",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3174,
+  289
+ ]
+}

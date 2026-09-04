@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "low-relief carved human figures in strict profile",
+  "bearded male figures with patterned hair/beard treatment",
+  "horses/equids in profile",
+  "procession or file of figures moving in one direction",
+  "register bands stacked horizontally",
+  "figures carrying/holding objects",
+  "stylized vegetation or ground-line motif"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces show shallow relief friezes of bearded male figures in strict profile advancing in a single direction alongside horses, organized into horizontal registers with a stylized ground/plant motif, which is a fairly specific shared convention. The biggest difference in content is that A is a compact narrative action scene \u2014 a chariot with team, armed warriors and a marsh/water landscape \u2014 while B is a static repetitive procession of nearly identical standing figures leading animals, with no vehicle, weapons or landscape.",
+ "a": "assyria_0131",
+ "b": "persepolis_0051",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  333
+ ]
+}

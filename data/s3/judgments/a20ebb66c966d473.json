@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "schematic anthropomorphic standing/monolithic figure",
+  "rounded head with incised facial features",
+  "broad shoulders/torso outline",
+  "small paired circular chest marks or nipples",
+  "central circular disc on upper abdomen/chest",
+  "curving incised lines across the torso",
+  "arched horizontal band or belt across the lower torso",
+  "short vertical incised marks below the band"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "10",
+ "justification": "Both surfaces show the same highly specific schematic anthropomorphic figure: paired chest circles flank a central circular motif, with curving incised lines above an arched band across the lower torso and vertical marks below. The only apparent differences are due to viewing angle, lighting, and cropping rather than different depicted content.",
+ "a": "rapa_nui_0039",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1751,
+  556
+ ]
+}

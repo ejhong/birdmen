@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figure in strict profile",
+  "bearded male head with elaborate coiffure",
+  "patterned headgear/headdress",
+  "low-relief carved figural scene",
+  "stylized rendering of hair/beard in regular rows of curls",
+  "procession or figures facing the same direction"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both depict bearded male figures in strict profile carved in low relief, with hair and beards rendered as regularized rows of stylized curls and heads covered by patterned headgear, a fairly specific shared convention. But A is a small-scale multi-figure procession scene with a led camel, offering-bearers and a rosette border band, whereas B is a single monumental head filling the field with no accompanying animals, procession or ornamental border.",
+ "a": "persepolis_0007",
+ "b": "assyria_0128",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3299,
+  293
+ ]
+}

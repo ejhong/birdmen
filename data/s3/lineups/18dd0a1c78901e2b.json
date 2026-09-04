@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  3,
+  1,
+  9,
+  10,
+  5,
+  8,
+  2,
+  6,
+  7
+ ],
+ "most_similar_reason": "Candidate 4 shares the core subject of a ship carrying figures in a similar relief style.",
+ "least_similar_reason": "Candidate 7 depicts a single frontal figure with dense ornamentation, lacking narrative registers.",
+ "set": "moai_iso_among_monoliths",
+ "i": 6,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "gotland_0112",
+  "maya_0019",
+  "gotland_0131",
+  "maya_0045",
+  "gotland_0116",
+  "maya_0052",
+  "maya_0106",
+  "rapa_nui_hoa_iso",
+  "egypt_0050",
+  "egypt_0042"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "gotland",
+  "maya",
+  "gotland"
+ ],
+ "model": "gemini",
+ "planted_rank": 7
+}

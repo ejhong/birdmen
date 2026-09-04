@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human figure",
+  "human head with schematic facial features (eyes, nose)",
+  "incised cross-hatching / grid hatching used to render hair or garment",
+  "arm/hand rendered as simple tapering form"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict schematic human figures with simplified, blocky facial features and use fine incised cross-hatching to indicate hair or clothing, which is a mildly specific shared convention. However, A is a single figure in the round seen as a large head with a raised limb, while B is a flat multi-figure scene laid out in two registers of standing, facing figures with signs above, so the subject matter, relationships and arrangement scarcely correspond.",
+ "a": "anatolia_ppn_0266",
+ "b": "egypt_0072",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2974,
+  593
+ ]
+}

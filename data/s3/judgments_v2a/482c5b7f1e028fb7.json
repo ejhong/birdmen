@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "stylized anthropomorphic upright figure/body",
+  "arms or side appendages indicated along the body",
+  "circular or disc-like motifs",
+  "horizontal bands or rows of repeated linear marks",
+  "incised/relief schematic line decoration"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The main correspondence is that both surfaces include a highly schematic upright anthropomorphic form with body-related markings and some circular and band-like motifs arranged on a vertical surface. The biggest difference is that A is dominated by a front-facing human-like torso with facial and breast/body features, while B is dominated by multiple animal/profile figures and registers of signs on a T-shaped form rather than a single frontal body image.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_p43full2",
+ "model": "gpt",
+ "set": "target",
+ "usage": [
+  1786,
+  689
+ ]
+}

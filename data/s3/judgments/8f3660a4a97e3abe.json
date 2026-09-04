@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "animal(s) in profile",
+  "bird-like/winged creature",
+  "human or human-like hand/arm",
+  "horizontal band of repeated geometric patterning"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "3",
+ "justification": "The most specific overlap is the presence of bird-like or winged animal imagery, with profile animals and some repeated band-like patterning on both surfaces. The biggest difference is that A is a large confrontational scene of two monumental winged hybrid/human figures with staffs or weapons, while B is a register-like composition of small schematic animals and symbols on a pillar, with no comparable paired winged-figure encounter.",
+ "a": "assyria_0059",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  678
+ ]
+}

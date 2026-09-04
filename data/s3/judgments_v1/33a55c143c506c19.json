@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "circle or disc",
+  "eye-like oval",
+  "profile head or animal-like form",
+  "horizontal band/register of carved signs",
+  "abstract geometric or glyph-like motifs"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of relief-carved, rounded signs including circular/eye-like forms and occasional profile head-like motifs arranged within bands or panels. The biggest difference is compositional: A has a few large, open figural scenes on a vertical stone, while B is a dense, regular grid of small glyph-like compartments with little open space.",
+ "a": "anatolia_ppn_p43full",
+ "b": "maya_0095",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1230,
+  558
+ ]
+}

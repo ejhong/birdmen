@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  8,
+  2,
+  7,
+  5,
+  10,
+  9,
+  6,
+  3,
+  4
+ ],
+ "most_similar_reason": "Both feature a tall rectangular field displaying a large, elaborately adorned central human figure carved in low relief.",
+ "least_similar_reason": "This is a 3D sculpture of intertwined abstract forms, lacking the flat rectangular field and clear human profile of the target.",
+ "set": "same_control_monoliths",
+ "i": 4,
+ "target": "maya_0105",
+ "planted": "maya_0113",
+ "cands": [
+  "maya_0113",
+  "egypt_0065",
+  "anatolia_ppn_0263",
+  "anatolia_ppn_0175",
+  "gotland_0131",
+  "rapa_nui_0006",
+  "egypt_0014",
+  "egypt_0050",
+  "mississippian_0015",
+  "anatolia_ppn_0095"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "egypt",
+  "anatolia_ppn",
+  "gotland",
+  "mississippian",
+  "egypt",
+  "anatolia_ppn",
+  "rapa_nui",
+  "egypt",
+  "anatolia_ppn"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

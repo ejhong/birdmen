@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic carved/incised signs arranged in horizontal registers",
+  "animal or bird-like profile figures",
+  "linear/geometric motifs or repeated marks"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main correspondence is that both surfaces include schematic carved signs, including some animal/bird-like profile forms and linear motifs organized at least partly in horizontal bands. The biggest difference is that A is dominated by many small, text-like rows of signs, while B presents a few large pictorial figures and patterned bands in a much more emblematic composition.",
+ "a": "egypt_0002",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1883,
+  661
+ ]
+}

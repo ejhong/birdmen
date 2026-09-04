@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "round-topped stele shape with lunette",
+  "winged disc / arched sky motif in the lunette",
+  "row of small standing human/deity figures in profile",
+  "hieroglyphic-type sign inscription",
+  "horizontal register lines dividing the field",
+  "standing figure holding a staff/sceptre",
+  "figure with sun-disc on head",
+  "offering-scene register above text"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "7",
+ "justification": "Both are round-topped stelae with a winged/arched sky emblem in the lunette, beneath which stand profile figures with staffs and disc-crowned heads accompanied by columns of the same script, all divided by horizontal register lines \u2014 a highly specific and conventional shared scheme. The main difference is proportion of content: A devotes nearly the whole surface to many dense lines of text with only a small figural strip, whereas B gives a large figural scene of two confronted standing figures flanking a central element with only brief captions.",
+ "a": "egypt_0049",
+ "b": "egypt_0048",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  2974,
+  349
+ ]
+}

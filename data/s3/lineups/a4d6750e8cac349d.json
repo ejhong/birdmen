@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  9,
+  7,
+  4,
+  8,
+  3,
+  1,
+  5,
+  2,
+  6
+ ],
+ "most_similar_reason": "Candidate 10 is most similar because it shows a single dominant, stylized standing human figure on a vertical surface, with linear relief conventions and ceremonial/regalia-like details comparable to the target figure.",
+ "least_similar_reason": "Candidate 6 is least similar because it has little or no identifiable depicted iconography\u2014no comparable human figure, held object, animal, symbol sequence, or organized scene.",
+ "set": "same_control",
+ "i": 34,
+ "target": "maya_0000",
+ "planted": "maya_0057",
+ "cands": [
+  "anatolia_ppn_0232",
+  "tanum_0129",
+  "assyria_0095",
+  "maya_0057",
+  "catalhoyuk_0102",
+  "anatolia_ppn_0083",
+  "egypt_0076",
+  "gotland_0124",
+  "persepolis_0037",
+  "assyria_0096"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "gotland",
+  "tanum",
+  "persepolis",
+  "anatolia_ppn",
+  "catalhoyuk",
+  "anatolia_ppn",
+  "assyria",
+  "assyria",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 4
+}

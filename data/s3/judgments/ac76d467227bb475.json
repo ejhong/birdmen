@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "bearded male human figure in profile",
+  "head with elaborate headgear (band/fillet or pointed cap)",
+  "hair and beard rendered as rows of tight curls/rings",
+  "low-relief figure facing left/right in a single plane",
+  "fringed or patterned garment edges"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict bearded male figures in strict profile with hair and beard built up as regimented rows of curls and with a distinctive head covering, a fairly specific and conventional way of rendering a male head that suggests shared habits of depiction. However, A is a single monumental head filling the field with no interaction shown, while B is a full-length procession of smaller figures in a register carrying a throne-like object with raised hands, so the relationships and arrangement scarcely correspond.",
+ "a": "assyria_0128",
+ "b": "assyria_0013",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3299,
+  693
+ ]
+}

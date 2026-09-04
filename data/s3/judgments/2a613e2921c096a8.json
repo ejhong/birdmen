@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "row of arched/crouching quadrupeds in profile along an upper register",
+  "horizontal band separating registers",
+  "band of vertical/hatched strokes (fringe or net-like pattern)",
+  "animals in profile facing the same direction",
+  "low relief carving on a rectangular stone face",
+  "register-based composition with animals below the divider"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "9",
+ "justification": "Both show the same distinctive scheme: an upper register of repeated arched quadrupeds in profile marching in one direction, a horizontal divider carrying a fringe of short vertical/hatched strokes, and further animals in profile in the register below. The main difference is that B extends further with additional creatures (a bird-like figure and other animals) on a lower shaft not visible in A, but the shared register scheme and animal forms are highly specific rather than generic.",
+ "a": "anatolia_ppn_0106",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  319
+ ]
+}

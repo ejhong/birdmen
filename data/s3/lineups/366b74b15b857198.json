@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  3,
+  4,
+  7,
+  2,
+  9,
+  1,
+  6,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 5 is closest because it also presents isolated, schematic, emblem-like curvilinear motifs with zoomorphic/serpentine and geometric forms arranged on a plain slab, rather than a primarily human narrative or text panel.",
+ "least_similar_reason": "Candidate 10 is least similar because it is dominated by a frontal anthropomorphic figure with dense ornamental detailing, lacking the target\u2019s horizontal registering and profile animal/geometric symbol vocabulary.",
+ "set": "moai_iso_among_monoliths",
+ "i": 17,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0049",
+  "egypt_0043",
+  "rapa_nui_hoa_iso",
+  "maya_0147",
+  "gotland_0000",
+  "maya_0053",
+  "egypt_0070",
+  "maya_0052",
+  "egypt_0014",
+  "maya_0106"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "gotland",
+  "maya",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 2
+}

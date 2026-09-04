@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low-relief carved human figures in strict profile",
+  "bearded male figures with elaborate coiffure/headdress",
+  "figures standing/striding with arms raised or extended",
+  "stylized plant/floral motif (rosette-like and palm-like)",
+  "patterned garments with dense parallel incised lines",
+  "registers/bands of figures along a wall surface"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces show low-relief bearded human figures in strict profile with elaborately curled hair/beards and finely striated garments, and both include stylized plant motifs, which is a fairly specific shared convention of figural rendering. However A is a single large winged, kneeling/leaning figure engaging a stylized tree in a closely interlocked composition, whereas B is a continuous procession of repeated upright figures in file along a stair facade, so the relationships and arrangement differ considerably.",
+ "a": "assyria_0078",
+ "b": "persepolis_0024",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3099,
+  338
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "low-relief human figure in strict profile",
+  "bearded/detailed head in profile facing left",
+  "rosette / multi-petalled flower motif",
+  "stylized plant with rosette blossoms",
+  "figure holding or grasping an object in raised hand",
+  "procession-style single-plane composition",
+  "registers bounded by horizontal bands/borders"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both are shallow relief panels with profile human figures rendered on a single ground plane, both include multi-petalled rosette motifs (a decorative band in A, blossoms on a stylized plant in B) and both show a figure with an arm raised holding something. The decisive difference is that A depicts a lead animal \u2014 a two-humped camel \u2014 in a procession with an attendant, whereas B depicts a large winged supernatural figure with kneeling posture beside a plant, with no animal and no processional register.",
+ "a": "persepolis_0062",
+ "b": "assyria_0079",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  333
+ ]
+}

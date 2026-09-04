@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figures in profile",
+  "procession/row of figures facing one direction",
+  "quadruped animal(s) in profile",
+  "horned/head-detailed animal",
+  "register or band divisions with border",
+  "plant or tree-like form"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces show profile human figures aligned in a row within a bordered register, accompanied by horned quadrupeds and a foliate/tree element, which is a generic but real correspondence. The differences dominate: A is a single deep-relief frieze of naturalistically modelled bearded attendants physically leading fleecy rams, while B stacks several shallow, schematic, stick-like registers of figures confronting stands or symbols, with no lead-animal procession relationship.",
+ "a": "persepolis_0075",
+ "b": "egypt_0072",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  588
+ ]
+}

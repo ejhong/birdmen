@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "animal figure",
+  "carved figural relief/sculpture in stone",
+  "quadruped body with legs",
+  "human or humanlike figure"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "Both depict animals and figural forms, and B's stacked creatures (a crouching feline-like beast with a horned/eared animal head above) loosely echo A's horse and human figures, but nothing more specific is shared. A is a flat, orderly, low-relief narrative in registers with a chariot, horses, spoked wheels, a row of processing robed figures, rosette borders and a stepped crenellated parapet, all in strict profile; B is a fully three-dimensional, blocky, massed sculpture of intertwined animal bodies with no registers, no ornament and no human procession.",
+ "a": "persepolis_0026",
+ "b": "anatolia_ppn_0175",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2949,
+  312
+ ]
+}

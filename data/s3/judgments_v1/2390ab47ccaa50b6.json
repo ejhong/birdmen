@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "profile animal figures",
+  "standing/profile human figures",
+  "arched or niche-like architectural shapes",
+  "horizontal dividing lines or bands",
+  "carved relief on stone"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The most specific correspondence is that both are carved stone surfaces combining profile figures with animals and arched/niche-like forms, with some horizontal organization. The biggest difference is compositional: A is a broad horizontal narrative-like frieze with relatively fine low relief, while B is a vertical pillar with stacked, more schematic motifs and a prominent patterned band.",
+ "a": "assyria_0041",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  654
+ ]
+}

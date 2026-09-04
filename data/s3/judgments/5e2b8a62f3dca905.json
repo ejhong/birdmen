@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "circular disc/rosette motif",
+  "carved relief on stone surface",
+  "human figure elements (head, arms) in A's abstract form vs B's profile figures"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "A is a single massive schematic anthropomorphic block with abstract incised motifs (a concentric disc, curvilinear shapes, a headdress-like top), while B is a narrative procession frieze of bearded profile figures leading horned rams above a continuous band of rosettes. The only overlap is the generic presence of a circular disc motif and human-derived form; the modes of depiction (monolithic abstract statue vs. naturalistic multi-figure register scene) share no conventions.",
+ "a": "rapa_nui_0113",
+ "b": "persepolis_0039",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3174,
+  281
+ ]
+}

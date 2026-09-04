@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  9,
+  2,
+  8,
+  3,
+  5,
+  7,
+  4,
+  1,
+  10
+ ],
+ "most_similar_reason": "Candidate 6, like the target, is a monolithic anthropomorphic pillar whose broad body surface carries shallow low-relief creatures and schematic limb/arm motifs arranged in registers over the block itself, rather than a scene on a flat panel.",
+ "least_similar_reason": "Candidate 10 shows only faint scattered incised scratches with no recognisable figures, symbols or arrangement comparable to the target's clearly organised bird-forms and ring motifs on a shaped human-form monolith.",
+ "set": "p43_among_random",
+ "i": 15,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "tanum_0126",
+  "gotland_0000",
+  "maya_0158",
+  "persepolis_0025",
+  "assyria_0051",
+  "anatolia_ppn_p43full",
+  "assyria_0071",
+  "maya_0147",
+  "maya_0092",
+  "tanum_0100"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "persepolis",
+  "assyria",
+  "tanum",
+  "maya",
+  "gotland",
+  "tanum",
+  "maya",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  4,
+  10,
+  5,
+  3,
+  9,
+  1,
+  2,
+  8,
+  7
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it likewise presents a tall upright surface organized as a schematic carved figure or figure-like monolith, with vertically arranged incised signs and rounded/circular features integrated into the body rather than a separate narrative scene.",
+ "least_similar_reason": "Candidate 7 is least similar because it shows little to no recognizable depicted iconography\u2014no clear figures, circular body features, glyph-like signs, or arranged motifs comparable to the target.",
+ "set": "p43_iso_among_monoliths",
+ "i": 3,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "anatolia_ppn_p43iso",
+  "gotland_0117",
+  "egypt_0063",
+  "maya_0045",
+  "maya_0147",
+  "maya_0152",
+  "maya_0082",
+  "gotland_0112",
+  "egypt_0064",
+  "maya_0097"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "gotland",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 7
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  8,
+  2,
+  4,
+  7,
+  3,
+  1,
+  9,
+  10,
+  5
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it shares the target\u2019s distinctive long, schematic boat-like motif with upturned ends and many short vertical strokes along the hull, accompanied by small linear signs in a comparable simplified outline style.",
+ "least_similar_reason": "Candidate 5 is least similar because it depicts a single frontal human-like figure with body markings, lacking the target\u2019s boat/animal-register composition and its repeated linear, bird-like or vessel-like motifs.",
+ "set": "moai_iso_among_random",
+ "i": 19,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0095",
+  "tanum_0340",
+  "tanum_0034",
+  "tanum_0026",
+  "rapa_nui_hoa_iso",
+  "tanum_0074",
+  "persepolis_0051",
+  "tanum_0333",
+  "assyria_0128",
+  "assyria_0008"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "tanum",
+  "tanum",
+  "assyria",
+  "maya",
+  "tanum",
+  "tanum",
+  "assyria",
+  "persepolis",
+  "tanum"
+ ],
+ "model": "gpt",
+ "planted_rank": 10
+}

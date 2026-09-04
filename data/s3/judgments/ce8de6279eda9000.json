@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "bearded male head in profile",
+  "curled/spiral-patterned beard and hair",
+  "tall headdress/crown with vertical fluting",
+  "low relief human figure in profile",
+  "stylised almond eye shown frontally in profile head",
+  "fringed or patterned garment edging"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "7",
+ "justification": "Both show bearded male figures in strict profile low relief with tightly curled, regularly rowed beard and hair, a frontal almond eye set in the profile head, and a tall fluted/patterned headdress \u2014 a very specific and conventional combination. The difference is one of framing and completeness: A is a single head filling the field, while B shows a full multi-figure scene with attendants, extended hands, staff and long fringed robes, so relationships and arrangement can only be partly compared.",
+ "a": "persepolis_0066",
+ "b": "assyria_0000",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3074,
+  307
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "grid/columns of square glyph blocks with rounded corners",
+  "low-relief carved signs containing internal face-like and dotted details",
+  "vertical, tall rectangular field organized in registers",
+  "paired columns of repeated sign-cartouches read as a sequence"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "5",
+ "justification": "Both surfaces carry the same distinctive convention of square-with-rounded-corner sign cartouches, filled with compact face-like and dotted infill, set in double columns to be read in sequence down a tall vertical field \u2014 a specific correspondence unlikely to arise independently. The decisive difference is that A is dominated by an elaborately costumed standing human figure with a large plumed headdress standing on a basal register, with the glyph columns as a subordinate side panel, whereas B depicts nothing but the glyph grid, so the figure\u2013text relationship central to A is absent.",
+ "a": "maya_0130",
+ "b": "maya_0077",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3024,
+  639
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "bird-headed creature in profile",
+  "animal(s) shown in profile with visible legs",
+  "horizontal register band separating zones",
+  "relief carving on a large rectangular slab",
+  "raised arm/limb gesture",
+  "repeated row of small elements along the top"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces depict raptor-headed profile figures and animals in low relief on a rectangular slab, with a horizontal band dividing an upper register of repeated small elements from a larger scene below, which is the most specific correspondence. But A shows a single naturalistically modelled, anthropomorphic winged figure with detailed feathering, garment and a bucket-like handled object flanked by symmetrical stylised plants, while B shows a schematic, outline-drawn assemblage of quadrupeds, a squatting figure, a row of heads and a bird-headed creature with no plants, no wings and no shared narrative relationship.",
+ "a": "assyria_0120",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3049,
+  354
+ ]
+}

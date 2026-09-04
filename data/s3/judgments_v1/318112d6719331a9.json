@@ -1,0 +1,19 @@
+{
+ "shared_elements": [
+  "upright carved stone pillar/monolith",
+  "low-relief animal figure in profile"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is an upright stone surface bearing low-relief animal imagery, including a profile animal on the shaft area. The biggest difference is density and organization: A is covered with multiple registers, bands, and many motifs, while B is largely plain with only a few isolated carvings on a blockier form.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0037",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1151,
+  637
+ ]
+}

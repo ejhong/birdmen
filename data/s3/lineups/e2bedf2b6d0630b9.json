@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  10,
+  2,
+  9,
+  6,
+  5,
+  4,
+  8,
+  3,
+  7
+ ],
+ "most_similar_reason": "Candidate 1, like the target, is an upright freestanding stone monolith carved in low relief as a schematic body-like form with a belt-like horizontal band and a disc/round element on the torso, matching the target's pillar with its banded belt and roundel above stacked motifs.",
+ "least_similar_reason": "Candidate 7 shows only long processional rows of near-identical naturalistic human figures in drapery, with none of the target's isolated profile animals (quadruped, snake, bird) or abstract H-like signs arranged in stacked registers.",
+ "set": "moai_close_among_random",
+ "i": 38,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "rapa_nui_0004",
+  "tanum_0238",
+  "egypt_0033",
+  "assyria_0157",
+  "assyria_0125",
+  "tanum_0080",
+  "persepolis_0104",
+  "tanum_0351",
+  "maya_0024",
+  "egypt_0044"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "persepolis",
+  "tanum",
+  "tanum",
+  "egypt",
+  "assyria",
+  "tanum",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "low-relief carving on a flat surface",
+  "human figures (in A only as small heads/faces within glyph blocks, in B as full profile figures)",
+  "repeated units filling the field"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "1",
+ "justification": "A shows a vertical column of dense, square, self-contained glyph-like blocks with rounded internal motifs and small embedded faces, stacked in a single ordered file; B shows a horizontal narrative scene of profile human figures, horses, a wheeled vehicle and flying birds moving to the right. The only correspondence is the generic one of low-relief carving containing human forms and repeated units; there is no shared motif, relationship or compositional scheme.",
+ "a": "maya_0146",
+ "b": "assyria_0052",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2924,
+  285
+ ]
+}

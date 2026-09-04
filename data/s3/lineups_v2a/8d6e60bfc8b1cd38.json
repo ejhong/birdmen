@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  3,
+  4,
+  5,
+  1,
+  7,
+  6,
+  10,
+  2,
+  9
+ ],
+ "most_similar_reason": "Candidate 8, like the target, shows carefully modelled figures in strict profile with detailed costume, hair and hand-held attributes rendered in low relief and filling the panel, the closest match in both subject (anthropomorphic figures with attributes) and naturalistic relief style.",
+ "least_similar_reason": "Candidate 9 shows no depicted imagery at all, only plain undecorated blocks and rubble in an excavation, so it shares no creatures, figures, objects or motifs with the target's procession scene.",
+ "set": "related_control",
+ "i": 21,
+ "target": "persepolis_0073",
+ "planted": "assyria_0112",
+ "cands": [
+  "gotland_0133",
+  "gotland_0004",
+  "anatolia_ppn_0072",
+  "anatolia_ppn_0041",
+  "anatolia_ppn_0260",
+  "tanum_0085",
+  "tanum_0324",
+  "assyria_0112",
+  "anatolia_ppn_0196",
+  "egypt_0060"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "egypt",
+  "anatolia_ppn",
+  "gotland",
+  "gotland",
+  "tanum",
+  "anatolia_ppn",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

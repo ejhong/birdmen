@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "schematic animal figure in profile",
+  "quadruped or mammal-like figure with legs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest shared depicted content is a stylized animal, apparently a profile quadruped or mammal-like form, rendered schematically with simplified outlines. The major difference is that A has a dense multi-register composition with several different creatures and geometric bands, while B shows only sparse, isolated animal reliefs without the same relationships or ordered surface scheme.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0179",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  1116
+ ]
+}

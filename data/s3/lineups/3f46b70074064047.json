@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  9,
+  3,
+  8,
+  5,
+  10,
+  6,
+  4,
+  7,
+  1
+ ],
+ "most_similar_reason": "Candidate 2 is closest because it likewise centers a frontal, highly conventionalized anthropomorphic figure on a vertical surface, with an enlarged head/headdress area and dense symbolic detailing arranged around the body rather than a purely narrative or repeated-sign composition.",
+ "least_similar_reason": "Candidate 1 is least similar because the visible decorated surface shows little or no discernible iconography to compare with the target\u2019s prominent schematic face/body, circular motifs, and arranged carved symbols.",
+ "set": "p43_iso_among_monoliths",
+ "i": 23,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0000",
+  "maya_0106",
+  "maya_0138",
+  "anatolia_ppn_p43iso",
+  "maya_0077",
+  "maya_0027",
+  "maya_0110",
+  "egypt_0074",
+  "maya_0113",
+  "maya_0149"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "egypt",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 8
+}

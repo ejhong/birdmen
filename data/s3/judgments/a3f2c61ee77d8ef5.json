@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "low-relief carving on an upright slab/stela with rounded top",
+  "animals in profile",
+  "human or humanoid figures",
+  "horizontal registers dividing the surface",
+  "row of repeated small signs/motifs in a band",
+  "bird in profile",
+  "figure with raised/outstretched arms"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both are upright relief slabs organized into stacked horizontal registers, with animal and anthropomorphic figures shown in profile and a band of small repeated signs, and both include a bird in profile and a figure with arms raised/extended. But the specific content differs sharply: A shows repeated three-dimensional crouching quadrupeds along the top, a large predatory quadruped over a small squatting human, and a large long-necked bird, all schematic and without text, whereas B shows two facing human figures flanking an offering stand in a single scene above several lines of dense pictographic script, a formal, proportioned, text-and-scene convention absent from A.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0050",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  379
+ ]
+}

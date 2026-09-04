@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "anthropomorphic figure with head and torso",
+  "headdress/tall cap covering the head",
+  "disc or circular ornament on the chest/garment",
+  "necklace or collar band across the chest",
+  "patterned bands across the body",
+  "carved surface detail indicating hair or textile texture"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict a single human figure from the head down through the shoulders/chest, wearing a tall headdress and bearing a circular ornament and banded collar or belt across the torso, which is a mildly specific correspondence. But A is a blocky frontal, highly schematic figure with only summary incised markings, while B is a finely modelled profile head with elaborately conventionalised curled beard and hair rendered as rows of beads and a garment strewn with rosettes; the viewpoint, proportions and detailing conventions have little in common.",
+ "a": "rapa_nui_0113",
+ "b": "assyria_0123",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3174,
+  831
+ ]
+}

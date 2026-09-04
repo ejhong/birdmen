@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "anthropomorphic torso or body surface",
+  "small oval/cup-like depression",
+  "incised circular ring or disc motif",
+  "curvilinear incised scroll/serpentine motifs",
+  "schematic linear surface decoration"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "7",
+ "justification": "The strongest correspondence is the same schematic incised vocabulary on a rounded anthropomorphic body: cup-like depressions and circular ring motifs set among curving, serpentine lines. The biggest difference is that A shows the whole figure with head, arms, chest bands, and lower body, while B shows only a cropped area of the decorated upper body, so many of A\u2019s elements and the full vertical arrangement are not visible in B.",
+ "a": "rapa_nui_0113",
+ "b": "rapa_nui_0052",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  693
+ ]
+}

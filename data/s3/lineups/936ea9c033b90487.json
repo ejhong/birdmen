@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  5,
+  10,
+  8,
+  6,
+  3,
+  9,
+  2,
+  1,
+  7
+ ],
+ "most_similar_reason": "Candidate 4 is most similar because it shows a comparable upright surface crowded with stylized low-relief figural motifs, including animal-like forms and linear/geometric details arranged in a dense vertical composition like the target.",
+ "least_similar_reason": "Candidate 7 is least similar because it has almost no recognizable depicted iconography, lacking the target\u2019s combination of schematic animals, anthropomorphic/body elements, and repeated patterned band.",
+ "set": "moai_close_among_random",
+ "i": 19,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "egypt_0027",
+  "tanum_0054",
+  "mississippian_0075",
+  "maya_0027",
+  "maya_0105",
+  "assyria_0119",
+  "egypt_0020",
+  "rapa_nui_0004",
+  "gotland_0004",
+  "tanum_0067"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "tanum",
+  "assyria",
+  "egypt",
+  "egypt",
+  "mississippian",
+  "maya",
+  "gotland",
+  "maya",
+  "tanum"
+ ],
+ "model": "gpt",
+ "planted_rank": 4
+}

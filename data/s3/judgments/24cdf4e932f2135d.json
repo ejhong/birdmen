@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "procession of human figures in profile facing the same direction",
+  "bearded male figures in headgear",
+  "figures carrying/holding objects (tribute or offerings)",
+  "long garments with patterned lower hems",
+  "low-relief single register frieze with figures on a common groundline",
+  "animal led within the procession (camel in A; horse/animal-related elements in B)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "3",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both show a single-register low-relief frieze of bearded, capped male figures striding in profile in the same direction, overlapping in file and carrying objects, essentially a tribute/procession scheme with an animal included. The clearest differences in content are A's dominant large camel led by a groom and its rosette borders framing the register, versus B's denser mass of near-identical marching figures with tall pointed caps, a raised throne/canopy-like structure and no floral border.",
+ "a": "persepolis_0079",
+ "b": "assyria_0013",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  328
+ ]
+}

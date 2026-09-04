@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human figure (head/face and upper body)",
+  "circular disc motif",
+  "horizontal band or belt-like line across the body/surface",
+  "low-relief carved figural imagery"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "Both depict human forms and include a circular disc motif and horizontal banding, but these are near-universal elements: A is a monolithic three-dimensional figure with a schematic face and a few isolated symbols (a ring, a curved belt line) carved on a massive body, while B is a flat narrative relief panel showing a two-humped animal led in profile by an attendant with a staff, beneath a register band of repeated rosettes. The relationships differ entirely \u2014 B has a procession with a handler touching/leading an animal beneath an ornamental frieze, whereas A has no interaction between elements at all, only detached emblems distributed over a single body.",
+ "a": "rapa_nui_0047",
+ "b": "persepolis_0062",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  341
+ ]
+}

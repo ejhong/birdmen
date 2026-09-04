@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "frontal face or mask-like form with paired eyes",
+  "geometric incised patterning",
+  "horizontal band of repeated marks"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of schematic carved features, especially paired eyes or a face-like form together with bands of repeated incised marks. The biggest difference is that A is a three-dimensional frontal anthropomorphic sculpture organized around one central figure, while B is a flat carved panel divided into registers with multiple animal-like and abstract motifs.",
+ "a": "anatolia_ppn_0261",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  633
+ ]
+}

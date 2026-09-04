@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  1,
+  6,
+  10,
+  7,
+  9,
+  4,
+  8,
+  3,
+  2
+ ],
+ "most_similar_reason": "Candidate 5 is most similar because it also shows a human figure in close association with a large profile quadruped, suggesting a rider/handler-and-animal motif comparable to the target\u2019s horse-and-human composition.",
+ "least_similar_reason": "Candidate 2 is least similar because it depicts only an isolated head or skull-like form, with none of the target\u2019s narrative combination of a full human figure, profile animal, harnessing, or directional interaction.",
+ "set": "related_control",
+ "i": 36,
+ "target": "persepolis_0089",
+ "planted": "assyria_0134",
+ "cands": [
+  "maya_0026",
+  "anatolia_ppn_0155",
+  "rapa_nui_0046",
+  "tanum_0321",
+  "tanum_0106",
+  "assyria_0134",
+  "maya_0136",
+  "gotland_0007",
+  "egypt_0056",
+  "egypt_0072"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "tanum",
+  "anatolia_ppn",
+  "maya",
+  "rapa_nui",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "gpt",
+ "planted_rank": 3
+}

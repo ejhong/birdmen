@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "standing/upright human or anthropomorphic figures in a low-relief panel",
+  "figures flanking a central vertical element",
+  "band of small repeated signs (inscription-like) along the lower edge",
+  "relief carving on a rectangular slab"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both are relief panels with upright figures arranged around a central vertical axis and a horizontal band of small repeated glyph-like signs across the bottom, which is a real but fairly generic compositional correspondence. B shows a very specific scheme absent in A \u2014 winged, bearded figures with feathered wings and bucket-and-cone gestures symmetrically flanking an elaborate stylised plant with rosettes and palmettes \u2014 whereas A's eroded imagery shows blockier, non-winged figures with no comparable vegetal centrepiece or rosette ornament, and the rendering conventions (dense fine incised feather/plant detail vs. broad plain modelled forms) differ entirely.",
+ "a": "maya_0082",
+ "b": "assyria_0153",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3149,
+  371
+ ]
+}

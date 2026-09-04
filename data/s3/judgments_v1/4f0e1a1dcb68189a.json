@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "standing human or anthropomorphic figure",
+  "animal or bird in profile",
+  "circle or disc",
+  "horizontal line or band",
+  "repeated short-stroke/comb-like motif",
+  "curved or serpentine line"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The most specific correspondence is that both surfaces combine profile animal/bird forms with a small standing human figure placed lower in the composition, plus scattered discs and short repeated linear marks. The biggest difference is that A is a loose red painted composition on a broad rock face, while B is a carved relief on a narrow upright stone organized into strong horizontal registers.",
+ "a": "tanum_0016",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  665
+ ]
+}

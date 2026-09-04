@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "carved/relief animal-like figures in profile",
+  "curving incised outlines",
+  "rough stone surface"
+ ],
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of shallow carved lines on stone to form schematic animal-like figures in profile. The biggest difference is compositional: B is organized into clear stacked registers with many discrete motifs, while A is a close-up of a much looser, eroded field with no comparable ordering.",
+ "a": "rapa_nui_0052",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  638
+ ]
+}

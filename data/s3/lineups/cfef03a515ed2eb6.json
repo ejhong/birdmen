@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  5,
+  8,
+  2,
+  7,
+  10,
+  6,
+  4,
+  3,
+  9
+ ],
+ "most_similar_reason": "Candidate 1 shows a single standing figure carved in low relief on a tall rectangular stone slab with a similar schematic body posture and headdress, closely matching the target's composition of a lone standing figure on a stela.",
+ "least_similar_reason": "Candidate 9 depicts a dynamic painted figure in a completely different pose and context, lacking any of the stela format, crossed-arm posture, or subordinate captive figure seen in the target.",
+ "set": "same_control_monoliths",
+ "i": 4,
+ "target": "maya_0105",
+ "planted": "maya_0113",
+ "cands": [
+  "maya_0113",
+  "egypt_0065",
+  "anatolia_ppn_0263",
+  "anatolia_ppn_0175",
+  "gotland_0131",
+  "rapa_nui_0006",
+  "egypt_0014",
+  "egypt_0050",
+  "mississippian_0015",
+  "anatolia_ppn_0095"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "egypt",
+  "anatolia_ppn",
+  "gotland",
+  "mississippian",
+  "egypt",
+  "anatolia_ppn",
+  "rapa_nui",
+  "egypt",
+  "anatolia_ppn"
+ ],
+ "model": "sonnet",
+ "planted_rank": 1
+}

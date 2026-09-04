@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "stylized head/face features",
+  "curved arc/eyebrow motif"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "1",
+ "justification": "Image A depicts a monolithic anthropomorphic figure with a schematic face, arms, and a belt-like carving, while Image B shows a flat carved slab with animal figures (birds, a fish-like creature) and geometric bands arranged in registers. There is no shared specific iconography\u2014no matching creature type, pose, or composition\u2014beyond both being carved stone reliefs with some abstract linear motifs, making the correspondence minimal.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_p43full",
+ "model": "sonnet",
+ "set": "target",
+ "usage": [
+  2848,
+  239
+ ]
+}

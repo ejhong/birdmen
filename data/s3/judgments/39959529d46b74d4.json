@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "human figure(s)",
+  "human head with rendered facial features (eyes, nose, mouth)",
+  "incised linear detailing suggesting hair/beard or headdress"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "Both depict human figures with faces and some incised surface detail on the head, and both stack/repeat figures vertically or horizontally, but that is the extent of the correspondence. A shows a narrative procession of bearded, robed figures in profile relief holding vessels and gesturing, framed by a rosette border, while B is a crude frontal three-dimensional stack of schematic heads and bodies with no attributes, gestures, or scene.",
+ "a": "persepolis_0087",
+ "b": "anatolia_ppn_0261",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  265
+ ]
+}

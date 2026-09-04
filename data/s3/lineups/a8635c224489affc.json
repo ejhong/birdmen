@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  9,
+  5,
+  2,
+  3,
+  6,
+  4,
+  10,
+  7,
+  1
+ ],
+ "most_similar_reason": "Candidate 8 shares the target's core convention of finely modelled low-relief anthropomorphic figures shown in profile with beards, elaborate headgear and patterned garments, arms extended holding attributes, rendered with the same dense decorative surface detailing (feathering, plaiting, rosette-like fillers).",
+ "least_similar_reason": "Candidate 1 shows only a faint isolated mark on bare rock, with no figures, garments, attributes or ordered composition of any kind to compare with the target's processional relief.",
+ "set": "related_control",
+ "i": 4,
+ "target": "persepolis_0071",
+ "planted": "assyria_0112",
+ "cands": [
+  "tanum_0070",
+  "anatolia_ppn_0264",
+  "egypt_0012",
+  "anatolia_ppn_0095",
+  "anatolia_ppn_0270",
+  "anatolia_ppn_0207",
+  "tanum_0338",
+  "assyria_0112",
+  "anatolia_ppn_0086",
+  "egypt_0033"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "tanum",
+  "egypt",
+  "egypt",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

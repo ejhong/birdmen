@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  4,
+  9,
+  3,
+  10,
+  2,
+  7,
+  5,
+  1,
+  8
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it shows a carved/incised surface filled with schematic human-like and symbolic linear motifs, closest to the target\u2019s front-facing anthropomorphic, sign-like decoration with repeated grooves and geometric body details.",
+ "least_similar_reason": "Candidate 8 is least similar because it depicts a naturalistic animal head in profile with feather/scale-like detail, lacking the target\u2019s schematic anthropomorphic figure, paired circular features, and geometric banding.",
+ "set": "p43_among_random",
+ "i": 39,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "tanum_0034",
+  "anatolia_ppn_p43full",
+  "tanum_0317",
+  "maya_0081",
+  "tanum_0060",
+  "assyria_0015",
+  "assyria_0095",
+  "persepolis_0110",
+  "mississippian_0075",
+  "tanum_0067"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "assyria",
+  "assyria",
+  "tanum",
+  "persepolis",
+  "maya",
+  "tanum",
+  "tanum",
+  "mississippian",
+  "tanum"
+ ],
+ "model": "gpt",
+ "planted_rank": 6
+}

@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "schematic anthropomorphic/face rendering",
+  "carved relief on upright stone monolith"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "A is a three-dimensional head with a reduced, schematic face (deep-set brow ridges, long nose, minimal mouth), whereas B is a flat relief-covered pillar bearing a horizontal register of crouching quadrupeds above a zigzag/meander band, then birds, a snake-like creature and a large bird facing left. The only real correspondence is the shared reliance on highly schematic, low-relief carving on upright stone with a vertical stacking of motifs; the actual subject matter, an isolated human head versus a multi-tiered animal frieze, does not overlap.",
+ "a": "anatolia_ppn_0240",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  302
+ ]
+}

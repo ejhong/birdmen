@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low-relief carving on a flat stone surface",
+  "animals in profile",
+  "human/anthropomorphic figures",
+  "horizontal register bands separating scenes",
+  "repeated row of similar motifs along a band",
+  "procession-like alignment of figures in one direction"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces show low-relief animals and anthropomorphic figures organised with horizontal dividing bands and a repeated row of motifs, but these are generic conventions of relief carving. A depicts a naturalistic narrative procession of robed human tribute-bearers leading a bridled camel, framed by rosette borders, whereas B is a schematic, non-narrative assemblage of predatory quadrupeds, birds, and squatting figures with abstract signs stacked vertically without a shared groundline or human costume detail.",
+ "a": "persepolis_0068",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  321
+ ]
+}

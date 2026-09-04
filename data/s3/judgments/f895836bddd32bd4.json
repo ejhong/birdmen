@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "upright anthropomorphic or human-like figure",
+  "head, torso, and arms indicated",
+  "circular or disc motifs",
+  "incised linear/geometric markings",
+  "vertical rectangular or panel-like signs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main correspondence is that both surfaces center on an upright human-like figure rendered with incised linear detail and accompanied by circular and rectilinear motifs. The biggest difference is that A is a frontal, mask-like torso or statue-body with motifs on the body, whereas B is a profile standing figure holding a staff-like object within a scene of surrounding signs and attributes.",
+ "a": "rapa_nui_0113",
+ "b": "maya_0091",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1883,
+  622
+ ]
+}

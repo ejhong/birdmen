@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "upright carved stone surface",
+  "stacked horizontal bands or registers",
+  "repeated geometric/patterned band",
+  "animal figures in profile",
+  "human or humanoid figure"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both are vertical stone reliefs organized in stacked zones, with patterned horizontal bands and profile figures/animals distributed across the surface. The biggest difference is that A is a tall, rounded, densely crowded and heavily eroded slab, while B has a clearer rectilinear composition with larger, more separated incised motifs and a distinctive row of repeated handled/arched forms near the top.",
+ "a": "maya_0138",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1230,
+  669
+ ]
+}

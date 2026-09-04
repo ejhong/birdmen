@@ -1,0 +1,28 @@
+{
+ "shared_elements": [
+  "round-topped stele field with incised decoration",
+  "human figures shown in profile",
+  "columns/rows of small script-like signs",
+  "horizontal register lines dividing the field",
+  "offering table or stand between figures",
+  "figures with arms extended toward an offering",
+  "seated/standing figure with staff or handled implement",
+  "disc on a head (in B) / disc-like signs among the signs",
+  "border framing line around the scene"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both surfaces are arch-topped panels bearing profile human figures rendered with the same schematic incised outline conventions (frontal shoulders, profile head and legs, extended arms) set beside dense columns of small pictographic signs, and in each a figure gestures toward an offering stand \u2014 a specific and conventional combination unlikely to arise independently. The main difference in content is scale and structure: A packs several small seated/kneeling figures into three stacked registers dominated by text, whereas B shows a single large scene of two big standing figures (one with an animal head and disc crown) confronting one another beneath a curved lunette with emblematic signs.\n",
+ "a": "egypt_0040",
+ "b": "egypt_0048",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  2974,
+  746
+ ]
+}

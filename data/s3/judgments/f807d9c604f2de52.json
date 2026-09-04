@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "profile animate figures",
+  "horizontal band of repeated ornament",
+  "linear outline relief with internal detail"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific shared content is a decorated surface combining profile figures with a horizontal ornamental band, rendered in linear low-relief conventions. The biggest difference is that A is a dense, vertically stacked assemblage of animals and abstract signs, while B is a horizontal procession of human figures holding vessels beneath a border.",
+ "a": "anatolia_ppn_p43full",
+ "b": "persepolis_0105",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  644
+ ]
+}

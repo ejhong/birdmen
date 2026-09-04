@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  3,
+  1,
+  8,
+  9,
+  7,
+  2,
+  4,
+  5,
+  10
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it shows a tall decorated surface organized into stacked horizontal bands of schematic figures and repeated linear/geometric motifs, closely matching the target\u2019s register-like arrangement of stylized animal/figure forms and patterned bands.",
+ "least_similar_reason": "Candidate 10 is least similar because it lacks clear corresponding depicted content such as organized registers, recognizable schematic creatures, human figures, or repeated geometric motifs like those on the target.",
+ "set": "moai_iso_among_random",
+ "i": 27,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "gotland_0128",
+  "tanum_0050",
+  "egypt_0077",
+  "tanum_0344",
+  "gotland_0124",
+  "maya_0077",
+  "rapa_nui_hoa_iso",
+  "egypt_0006",
+  "egypt_0004",
+  "egypt_0035"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "egypt",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "tanum",
+  "maya",
+  "egypt",
+  "tanum"
+ ],
+ "model": "gpt",
+ "planted_rank": 6
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  10,
+  7,
+  6,
+  8,
+  3,
+  9,
+  4,
+  5,
+  1
+ ],
+ "most_similar_reason": "Candidate 2, like the target, is a free-standing weathered stone pillar whose whole face is covered with shallow, rounded low-relief figures organized in stacked zones down the shaft.",
+ "least_similar_reason": "Candidate 1 is a flat, two-dimensional line drawing of a slab dominated by dense rows of inscription rather than the target's three-dimensional monolith carved with large animal figures in relief.",
+ "set": "moai_among_random",
+ "i": 0,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "egypt_0014",
+  "maya_0130",
+  "assyria_0112",
+  "assyria_0088",
+  "assyria_0134",
+  "persepolis_0084",
+  "maya_0094",
+  "tanum_0325",
+  "maya_0048",
+  "rapa_nui_0113"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "maya",
+  "tanum",
+  "assyria",
+  "assyria",
+  "persepolis",
+  "assyria",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

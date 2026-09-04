@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "profile animal or composite-creature forms",
+  "anthropomorphic figure or body",
+  "circle or disc motifs",
+  "horizontal band or belt-like patterned strip",
+  "linear relief/incised decoration on a vertical stone surface"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both use profile, line-carved or low-relief figures on an upright surface, with some circular motifs and band-like divisions. The biggest difference is compositional: A is dominated by one large, carefully modeled standing composite/human figure, while B is a rougher, stacked field of multiple small animals and signs arranged in registers.",
+ "a": "assyria_0118",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1045,
+  668
+ ]
+}

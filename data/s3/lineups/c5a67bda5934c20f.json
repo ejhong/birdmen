@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  1,
+  5,
+  3,
+  7,
+  2,
+  8,
+  4,
+  10,
+  9
+ ],
+ "most_similar_reason": "Candidate 6 shows the same combination as the target \u2014 schematic outline-relief animals (birds) rendered in profile alongside an abstract geometric emblem, laid out flat on a tapering slab surface, matching the target's profile creatures paired with geometric motif bands and the same reduced, linear drawing conventions.",
+ "least_similar_reason": "Candidate 9 presents an essentially blank stela with no discernible creatures, figures, symbols or patterned registers at all, so there is nothing in its depicted content to correspond with the target's registers of profile animals and geometric bands.",
+ "set": "moai_iso_among_monoliths",
+ "i": 0,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0085",
+  "maya_0105",
+  "maya_0113",
+  "gotland_0130",
+  "maya_0047",
+  "gotland_0026",
+  "egypt_0041",
+  "maya_0057",
+  "maya_0000",
+  "rapa_nui_hoa_iso"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "gotland",
+  "maya",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 9
+}

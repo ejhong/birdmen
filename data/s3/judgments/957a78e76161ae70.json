@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "male figure in strict profile, facing left",
+  "elaborately rendered curled hair/beard with fillet or headband",
+  "bare muscular arm with modelled forearm shown in profile",
+  "raised/extended arm holding or grasping an object",
+  "densely incised parallel-line texture (mane / wing feathers)",
+  "horizontal dividing band separating registers",
+  "shallow low-relief figure filling the panel height"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show a large left-facing profile figure carved in flat low relief with the same conventions: heavy curled coiffure and beard bound by a fillet, a bared modelled arm extended forward, dense parallel incised striations for hair/mane or feathers, and a horizontal band cutting across the field. The subject matter otherwise diverges sharply: A shows a human charioteer or rider with a bridled horse's head and reins, while B shows a bird-headed winged supernatural figure holding a bucket beside a stylised flowering plant, with an inscription band above.",
+ "a": "persepolis_0089",
+ "b": "assyria_0102",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3274,
+  822
+ ]
+}

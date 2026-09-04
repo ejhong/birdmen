@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "circular ring / concentric disc motif",
+  "crescent or curved-arc motifs",
+  "schematic hand with splayed fingers",
+  "anthropomorphic figure rendered in low relief",
+  "raised curvilinear outlines with plain infill",
+  "eye-like oval depressions"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces carry raised, rounded low-relief curvilinear motifs of the same repertoire: a prominent ring/disc, crescent-like arcs, and schematic hands with elongated splayed fingers attached to anthropomorphic bodies, which is a fairly specific shared vocabulary. The biggest difference in content is the organisation and subject framing: A is a single frontal anthropomorphic body whose motifs are ordered symmetrically down a vertical axis (headdress band, arms converging on a central ring, belt line), while B is a horizontally spread crowd of overlapping creature-like heads and limbs with no single dominant figure or symmetry.",
+ "a": "rapa_nui_0113",
+ "b": "rapa_nui_0002",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3174,
+  918
+ ]
+}

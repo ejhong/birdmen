@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  2,
+  6,
+  10,
+  3,
+  8,
+  7,
+  1,
+  5,
+  4
+ ],
+ "most_similar_reason": "Candidate 9 is most similar because it also shows a horizontal procession-like row of repeated standing human figures in profile, rendered as shallow linear relief with comparable poses and spacing.",
+ "least_similar_reason": "Candidate 4 is least similar because it shows only broad abstract banding or surface markings, with no comparable human figures, procession, held objects, or narrative arrangement.",
+ "set": "related_control",
+ "i": 5,
+ "target": "persepolis_0080",
+ "planted": "assyria_0013",
+ "cands": [
+  "gotland_0002",
+  "egypt_0050",
+  "anatolia_ppn_0264",
+  "tanum_0126",
+  "tanum_0026",
+  "maya_0115",
+  "anatolia_ppn_0122",
+  "anatolia_ppn_0179",
+  "assyria_0013",
+  "maya_0094"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "tanum",
+  "maya",
+  "egypt",
+  "tanum",
+  "maya",
+  "anatolia_ppn",
+  "gotland"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

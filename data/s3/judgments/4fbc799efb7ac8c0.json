@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "anthropomorphic figure with head and body",
+  "circular disc / ring motifs",
+  "curved parallel bands or bordered strips",
+  "schematic outline relief/incised linework",
+  "head with elaborate hair or headdress treatment",
+  "hand/digit-like forms"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict a schematic anthropomorphic figure rendered in bounded outline with plain interiors, and both scatter isolated circular discs across the figure's body/appendages together with curving banded strips, which is the most specific correspondence. However, A is a frontally conceived full-body figure whose back carries a symmetrical ring-and-girdle arrangement with no wings or attributes, while B is a strict profile figure with a large feathered wing, articulated hand, ear ornament and headdress engaged in an action pose \relalational content that A entirely lacks.",
+ "a": "rapa_nui_0113",
+ "b": "mississippian_0009",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3124,
+  872
+ ]
+}

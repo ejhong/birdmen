@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  6,
+  9,
+  3,
+  10,
+  5,
+  1,
+  7,
+  2,
+  8
+ ],
+ "most_similar_reason": "Candidate 4 is, like the target, an upright monolithic pillar bearing shallow low-relief motifs applied to the shaft itself (belt/band and arm-like elements wrapping the block), sharing the same convention of turning the standing stone into a carved bearer of schematic, outlined body and band imagery rather than a framed picture.",
+ "least_similar_reason": "Candidate 8 shows only abstract interlaced knotwork and geometric loops with no creatures, no registers of animals or figures, so it shares none of the target's distinctive repertoire of profile birds, quadrupeds and serpents stacked in bands.",
+ "set": "moai_iso_among_random",
+ "i": 1,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "tanum_0237",
+  "mississippian_0007",
+  "assyria_0109",
+  "rapa_nui_hoa_iso",
+  "tanum_0334",
+  "persepolis_0062",
+  "tanum_0327",
+  "gotland_0005",
+  "maya_0066",
+  "maya_0009"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "tanum",
+  "tanum",
+  "maya",
+  "maya",
+  "assyria",
+  "gotland",
+  "tanum",
+  "mississippian",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic human or anthropomorphic figures",
+  "animals shown in profile",
+  "repeated small geometric marks or signs",
+  "linear/curving motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main shared content is generic but real: both surfaces include schematic human/anthropomorphic figures, profile animals, and repeated linear/geometric signs. The biggest difference is that A is an open scattered scene with stick-like figures, dotted paths, and boat-like forms, while B is organized into stacked registers with blockier animal reliefs and patterned bands, with no clear counterpart to A\u2019s boats or dotted processional layout.",
+ "a": "tanum_0063",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  678
+ ]
+}

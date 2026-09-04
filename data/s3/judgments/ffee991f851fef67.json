@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "linear abstract/geometric markings",
+  "rows or bands of repeated sign-like marks"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The only real correspondence is that both surfaces include schematic linear markings arranged partly in repeated rows or bands. A is dominated by many small text-like signs across a flat panel, while B depicts a large stylized anthropomorphic figure with face/body features, circular motifs, and curving bands, which has no counterpart in A.",
+ "a": "egypt_0005",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1883,
+  645
+ ]
+}

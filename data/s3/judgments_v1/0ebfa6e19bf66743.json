@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "upright decorated stone surface",
+  "linear carved/incised ornament",
+  "horizontal band(s) of geometric pattern",
+  "stylized anthropomorphic figure or face",
+  "animal/creature-like motifs"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both are vertically oriented carved surfaces with linear decoration including geometric bands and some stylized figure/creature imagery. The biggest difference is compositional: A is organized as rough horizontal registers with profile-like signs and animals, while B is dominated by a single frontal standing figure in a dense, symmetrical ornamental frame.",
+ "a": "anatolia_ppn_p43full",
+ "b": "maya_0056",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1124,
+  658
+ ]
+}

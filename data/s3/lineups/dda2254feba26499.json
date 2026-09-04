@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  3,
+  5,
+  10,
+  1,
+  4,
+  6,
+  8,
+  9,
+  7
+ ],
+ "most_similar_reason": "Candidate 2 is most similar because it depicts the same kind of stylized bird form with a prominent head/beak and folded, incised wing-feather treatment that dominates the target figure.",
+ "least_similar_reason": "Candidate 7 is least similar because it shows essentially no comparable depicted iconography\u2014no bird, anthropomorphic figure, animal body, or patterned figurative arrangement visible on the target.",
+ "set": "same_control_monoliths",
+ "i": 27,
+ "target": "anatolia_ppn_0263",
+ "planted": "anatolia_ppn_0142",
+ "cands": [
+  "egypt_0048",
+  "anatolia_ppn_0142",
+  "gotland_0009",
+  "maya_0111",
+  "maya_0087",
+  "maya_0054",
+  "maya_0000",
+  "maya_0149",
+  "rapa_nui_0069",
+  "mississippian_0015"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "rapa_nui",
+  "maya",
+  "mississippian"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

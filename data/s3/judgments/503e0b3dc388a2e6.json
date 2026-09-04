@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "anthropomorphic figure occupying the whole field",
+  "elaborate headdress/headgear at top of figure",
+  "disc or rosette ornament on the body",
+  "horizontal banded belt/garment border across the waist",
+  "patterned garment surface with incised detail"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both show a single dominant anthropomorphic figure wearing a headdress, with a circular disc-like ornament on the chest area and a banded belt/garment edge across the waist, and in both the figure fills the whole field with the head at top. But A is a detailed profile relief of a winged, bird-headed being actively holding a bucket and raising a hand, whereas B is a frontal, blocky, largely featureless figure with no wings, no bird head and no held objects, rendered in far more schematic and volumetric conventions.",
+ "a": "assyria_0151",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2974,
+  675
+ ]
+}

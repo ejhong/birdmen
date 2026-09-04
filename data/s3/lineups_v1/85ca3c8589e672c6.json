@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  9,
+  6,
+  3,
+  4,
+  1,
+  5,
+  7,
+  2,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 is, like the target, a large freestanding stone monolith whose upper part reads as a head-like block, with shallow carved discs, bands and appliqu\u00e9-like motifs raised from the roughly dressed stone surface in the same low-relief, monochrome manner.",
+ "least_similar_reason": "Candidate 10 is a brightly coloured modern graphic drawing of a winged figure with flat outlined shapes, sharing neither the stone medium, the weathered low-relief carving, nor the composition of the target.",
+ "set": "moai_among_random",
+ "i": 8,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "egypt_0040",
+  "tanum_0054",
+  "assyria_0011",
+  "assyria_0021",
+  "gotland_0018",
+  "egypt_0010",
+  "persepolis_0035",
+  "rapa_nui_0113",
+  "gotland_0123",
+  "mississippian_0002"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "assyria",
+  "persepolis",
+  "tanum",
+  "egypt",
+  "gotland",
+  "gotland",
+  "assyria",
+  "egypt",
+  "mississippian"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

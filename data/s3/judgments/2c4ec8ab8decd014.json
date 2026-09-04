@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "frontal standing anthropomorphic figure",
+  "columnar/blocky body with head above torso",
+  "schematic head treated as a distinct block set on the body",
+  "incised surface detail on the head/upper zone (rows of short strokes, hatching)",
+  "suggestion of arms held against the torso",
+  "raised/rounded features on the chest area"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict a frontal, rigidly columnar anthropomorphic figure whose block-like head sits directly on a broad torso with schematic arms brought against the body and incised/low-relief detail marking the upper zone, which is a fairly specific shared scheme of monolithic idol imagery. The strongest difference is in what fills the surfaces: A's head is essentially featureless and its torso carries abstract discs, concentric circles and horizontal bands like ornament or regalia, whereas B renders explicit modelled facial features (eyes, nose, mouth, bared teeth) and a second stacked head, with no geometric body motifs.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_0261",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2974,
+  782
+ ]
+}

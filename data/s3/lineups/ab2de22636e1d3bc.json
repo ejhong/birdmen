@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  3,
+  4,
+  5,
+  1,
+  2,
+  9,
+  7,
+  10,
+  8
+ ],
+ "most_similar_reason": "Both are flat reliefs displaying interacting figures in profile positioned above horizontal bands of symbols.",
+ "least_similar_reason": "It is a highly three-dimensional sculptural face lacking any multi-figure scene or text elements.",
+ "set": "same_control_monoliths",
+ "i": 0,
+ "target": "egypt_0066",
+ "planted": "egypt_0047",
+ "cands": [
+  "maya_0158",
+  "gotland_0131",
+  "maya_0092",
+  "maya_0111",
+  "maya_0088",
+  "egypt_0047",
+  "anatolia_ppn_0267",
+  "anatolia_ppn_0260",
+  "anatolia_ppn_0093",
+  "anatolia_ppn_0261"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "anatolia_ppn",
+  "gotland",
+  "anatolia_ppn",
+  "maya",
+  "maya",
+  "anatolia_ppn",
+  "maya",
+  "anatolia_ppn"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

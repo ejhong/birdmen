@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figures in strict profile",
+  "bearded male head with elaborately curled beard",
+  "patterned headgear/cap",
+  "low relief carving of processional dignitaries",
+  "stylized rows of dot/bead-like curls rendered as regular repeated units",
+  "garments with patterned surface detail"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "7",
+ "justification": "Both depict bearded male dignitaries in strict profile with tightly regimented, bead-like rows of curls in beard and hair, patterned headgear and detailed robes carved in shallow relief \u2014 a very specific and conventionalized figure type shared by both. The difference is in scale and composition: A shows a continuous frieze of many full-length figures marching in file along a stepped terrace, while B isolates a single overlapping head-and-shoulders pair on a rectangular panel.",
+ "a": "persepolis_0070",
+ "b": "assyria_0035",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3124,
+  314
+ ]
+}

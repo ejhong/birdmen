@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low-relief carving with figures shown in strict profile",
+  "human arms/hands and legs of a striding figure",
+  "animals/creatures facing right in procession",
+  "densely patterned surface texture indicating hair, fleece or feathers",
+  "partial human figure interacting with animal",
+  "raised outline with incised interior detail"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both are low-relief scenes in strict profile with striding figures, human hands and arms rendered with the same muscular convention, and dense repetitive incised texture used for fleece in A and feathers/wings in B, plus a hand raised or laid toward an animal/other element. The subject matter differs substantially, however: A shows a pair of naturalistic horned rams led by a human, while B shows a single bird-headed winged anthropomorphic figure with a bucket beside a field of stylised rosette-plants under a band of writing.",
+ "a": "persepolis_0095",
+ "b": "assyria_0102",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3274,
+  350
+ ]
+}

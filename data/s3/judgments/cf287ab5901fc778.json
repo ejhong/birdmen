@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "rows or fields of repeated linear/geometric signs",
+  "short vertical strokes and chevron-like marks"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The main overlap is that both surfaces include repeated incised-looking linear signs, including short strokes and angular/chevron-like marks arranged in rows or bands. The biggest difference is that B is dominated by large, recognizable profile animals and separated pictorial registers, while A appears primarily as a dense field of small abstract or script-like marks with no comparable animal-centered scene.",
+ "a": "egypt_0035",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1883,
+  658
+ ]
+}

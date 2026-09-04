@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  7,
+  2,
+  4,
+  10,
+  3,
+  6,
+  1,
+  5,
+  8
+ ],
+ "most_similar_reason": "Candidate 9, like the target, is a tall monolithic block carved as a single frontal anthropomorphic personage with a broad flanking headdress framing the face and ornament-laden body panels below, the same convention of turning the whole stone into a standing figure rather than a picture field.",
+ "least_similar_reason": "Candidate 8 shows only small animal figures scattered above an isolated spiral/whirl disc on a plain panel, with no human figure, headdress or body-shaped monument of the kind that defines the target.",
+ "set": "p43_iso_among_monoliths",
+ "i": 30,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0054",
+  "maya_0097",
+  "anatolia_ppn_p43iso",
+  "egypt_0046",
+  "egypt_0061",
+  "maya_0057",
+  "gotland_0007",
+  "gotland_0026",
+  "maya_0019",
+  "egypt_0065"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "maya",
+  "egypt",
+  "gotland",
+  "egypt",
+  "maya",
+  "maya",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 6
+}

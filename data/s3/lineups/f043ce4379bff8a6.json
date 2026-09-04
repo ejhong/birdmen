@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  5,
+  1,
+  4,
+  9,
+  3,
+  2,
+  8,
+  10,
+  7
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it shows the same kind of vertically arranged, low-relief animal iconography with schematic profile creatures and isolated motifs on a slab-like surface, rather than a human narrative scene.",
+ "least_similar_reason": "Candidate 7 is least similar because it consists mainly of irregular abstract scratches or short linear marks, lacking the target\u2019s recognizable profile animals, stacked composition, and distinctive relief iconography.",
+ "set": "moai_close_among_random",
+ "i": 32,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "persepolis_0039",
+  "rapa_nui_0004",
+  "assyria_0120",
+  "persepolis_0010",
+  "assyria_0122",
+  "assyria_0036",
+  "tanum_0000",
+  "tanum_0060",
+  "assyria_0088",
+  "maya_0060"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "persepolis",
+  "persepolis",
+  "maya",
+  "tanum",
+  "assyria",
+  "assyria",
+  "assyria",
+  "tanum",
+  "assyria"
+ ],
+ "model": "gpt",
+ "planted_rank": 7
+}

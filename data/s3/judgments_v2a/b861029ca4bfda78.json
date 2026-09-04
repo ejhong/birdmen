@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "upright anthropomorphic/figure-like surface",
+  "circular or disc motifs",
+  "incised/raised curvilinear lines",
+  "horizontal band or belt-like division"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main correspondences are fairly generic: both present an upright figure-like decorated surface with schematic low-relief/incised motifs, including roundels/discs and some horizontal or belt-like divisions. The biggest difference is that A is dominated by a single frontal anthropomorphic body with facial/body features, while B is organized as panels of multiple separate signs and profile animals rather than one human figure.",
+ "a": "rapa_nui_0004",
+ "b": "anatolia_ppn_p43full2",
+ "model": "gpt",
+ "set": "target",
+ "usage": [
+  1786,
+  674
+ ]
+}

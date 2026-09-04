@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "profile bird or bird-like head",
+  "animal/creature figures in profile",
+  "horizontal band of repeated signs or pattern",
+  "linear outline rendering with internal detail marks"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is that both include profile avian or bird-like forms and a horizontal band of repeated signs/patterning above or among figural imagery. The biggest difference is that B is organized around a detailed standing winged bird-headed figure facing a stylized tree and holding objects, while A shows multiple schematic animal/sign motifs in stacked registers with no comparable central figure-tree scene.",
+ "a": "anatolia_ppn_p43full",
+ "b": "assyria_0102",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1936,
+  600
+ ]
+}

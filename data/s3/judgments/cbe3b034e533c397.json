@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "schematic animal or bird forms in profile",
+  "abstract/geometric signs",
+  "circular or oval signs",
+  "horizontal rows or bands of repeated motifs",
+  "stacked register-like organization"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both surfaces combine schematic relief signs, including profile animal/bird-like forms and circular or geometric motifs, arranged in horizontal bands or stacked registers. The biggest difference is that A is dominated by dense, small, inscription-like glyph blocks, while B shows a few large, recognizable animals and patterned bands in a more pictorial scene.",
+ "a": "maya_0005",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1672,
+  670
+ ]
+}

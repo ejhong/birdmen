@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  9,
+  8,
+  7,
+  2,
+  6,
+  5,
+  10,
+  3,
+  4
+ ],
+ "most_similar_reason": "Candidate 1, like the target, is a free-standing monolithic block given an implicit anthropomorphic body, with shallow, schematic low-relief motifs (bands and curving forms rising over the flank of the stone) worked directly onto the monument's own surface rather than composing a narrative scene.",
+ "least_similar_reason": "Candidate 4 is a dense narrative tableau of multiple naturalistic human figures, offering stands and a rayed sun disk with hands, sharing none of the target's mute, isolated body carved with a few abstract rings and encircling bands.",
+ "set": "p43_among_random",
+ "i": 17,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "anatolia_ppn_p43full",
+  "gotland_0003",
+  "persepolis_0043",
+  "egypt_0000",
+  "persepolis_0047",
+  "persepolis_0020",
+  "egypt_0040",
+  "maya_0115",
+  "mississippian_0010",
+  "persepolis_0026"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "persepolis",
+  "persepolis",
+  "maya",
+  "gotland",
+  "mississippian",
+  "persepolis",
+  "egypt",
+  "persepolis",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief human figures shown in profile",
+  "bearded male figures with patterned hair/beard",
+  "figures carrying weapons (spears, bows/arrows)",
+  "continuous horizontal frieze band with figures moving in one direction",
+  "horizontal ground line / border strip beneath figures"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both depict bearded male figures in strict profile with weapons, carved in shallow relief as a continuous horizontal frieze marching left-to-right above a plain ground strip, and both share conventions of patterned hair/beard and overlapping profile bodies. The decisive difference is subject: A is a static, endlessly repeated procession of standing robed attendants in stacked registers, whereas B is a single dynamic hunt scene with a wheeled chariot, harnessed horses, drawn bows and attacking and collapsing lions \u2014 none of which appear in A.",
+ "a": "persepolis_0018",
+ "b": "assyria_0040",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  591
+ ]
+}

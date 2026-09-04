@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  10,
+  1,
+  2,
+  6,
+  8,
+  4,
+  5,
+  7,
+  3
+ ],
+ "most_similar_reason": "Candidate 9 is most similar because it shows the same kind of upright, schematic, front-facing anthropomorphic pillar decoration with large paired circular facial/body motifs and stacked incised signs arranged vertically.",
+ "least_similar_reason": "Candidate 3 is least similar because it depicts a framed, naturalistic animal scene in profile rather than a frontal abstract human-like figure or mask-like composition with circular and linear symbolic motifs.",
+ "set": "p43_among_random",
+ "i": 16,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "maya_0060",
+  "maya_0091",
+  "gotland_0115",
+  "assyria_0079",
+  "gotland_0018",
+  "maya_0039",
+  "tanum_0080",
+  "tanum_0070",
+  "anatolia_ppn_p43full",
+  "maya_0056"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "tanum",
+  "maya",
+  "maya",
+  "gotland",
+  "maya",
+  "tanum",
+  "assyria",
+  "gotland",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

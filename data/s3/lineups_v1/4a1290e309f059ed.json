@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  3,
+  9,
+  10,
+  6,
+  8,
+  1,
+  4,
+  5,
+  2
+ ],
+ "most_similar_reason": "Candidate 7, like the target, is a massive weathered upright stone monolith whose curved surface carries shallow, low-relief isolated motifs (rings, bands and schematic forms) spread over the block rather than a framed pictorial scene.",
+ "least_similar_reason": "Candidate 2 is not a carved stone surface at all but a fine pen line drawing of an elaborately costumed figure on paper, sharing neither the monumental relief technique nor the sparse abstract motif arrangement of the target.",
+ "set": "p43_among_random",
+ "i": 10,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "assyria_0059",
+  "mississippian_0007",
+  "maya_0091",
+  "mississippian_0005",
+  "persepolis_0043",
+  "maya_0097",
+  "anatolia_ppn_p43full",
+  "tanum_0340",
+  "egypt_0068",
+  "maya_0060"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "tanum",
+  "mississippian",
+  "maya",
+  "egypt",
+  "persepolis",
+  "assyria",
+  "maya",
+  "mississippian",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

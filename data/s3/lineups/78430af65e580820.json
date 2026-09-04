@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  2,
+  6,
+  3,
+  10,
+  8,
+  5,
+  1,
+  7,
+  4
+ ],
+ "most_similar_reason": "Candidate 9 is most similar because it shows sparse, schematic, profile zoomorphic figures and small associated linear signs arranged across the surface, resembling the target\u2019s combination of isolated animal motifs and abstract symbols.",
+ "least_similar_reason": "Candidate 4 is least similar because it consists mainly of repeated floral or geometric motifs in a vertical pattern, lacking the target\u2019s distinctive profile animals and mixed symbolic-zoomorphic arrangement.",
+ "set": "moai_among_random",
+ "i": 2,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0087",
+  "tanum_0037",
+  "catalhoyuk_0025",
+  "assyria_0140",
+  "egypt_0039",
+  "maya_0023",
+  "egypt_0009",
+  "persepolis_0108",
+  "tanum_0016",
+  "rapa_nui_0113"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "egypt",
+  "persepolis",
+  "catalhoyuk",
+  "tanum",
+  "maya",
+  "persepolis",
+  "egypt",
+  "assyria",
+  "tanum"
+ ],
+ "model": "gpt",
+ "planted_rank": 5
+}

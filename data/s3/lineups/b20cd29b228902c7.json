@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  10,
+  5,
+  7,
+  8,
+  9,
+  2,
+  1,
+  4,
+  3
+ ],
+ "most_similar_reason": "Candidate 6, like the target, shows animals rendered in shallow low relief in profile against a plain ground, with schematic bodies and limbs rather than any human or narrative scene.",
+ "least_similar_reason": "Candidate 3 depicts an orderly procession of near-identical human offering-bearers in patterned robes, sharing none of the target's stacked animal figures (quadruped, snake, bird) or abstract geometric signs.",
+ "set": "moai_close_among_random",
+ "i": 37,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "assyria_0125",
+  "assyria_0146",
+  "persepolis_0012",
+  "mississippian_0007",
+  "tanum_0037",
+  "assyria_0011",
+  "assyria_0015",
+  "rapa_nui_0004",
+  "assyria_0120",
+  "mississippian_0006"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "tanum",
+  "assyria",
+  "assyria",
+  "mississippian",
+  "assyria",
+  "mississippian",
+  "persepolis",
+  "assyria",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 5
+}

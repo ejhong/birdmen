@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "schematic animate figure/body with head and limbs or appendages"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "The only meaningful overlap is that both surfaces include simplified figurative forms with body parts indicated by linear carving/relief. A is dominated by a frontal anthropomorphic figure with facial features, torso details, paired circular forms and bands, whereas B shows a sparse profile quadruped-like animal on a plain surface, with no comparable human body scheme or internal symbolic arrangement.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_0212",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  652
+ ]
+}

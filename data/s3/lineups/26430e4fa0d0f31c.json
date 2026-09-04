@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  8,
+  10,
+  4,
+  1,
+  6,
+  3,
+  7,
+  5,
+  2
+ ],
+ "most_similar_reason": "Candidate 9, like the target, is a flat panel covered with loosely arranged, strongly schematic profile creatures and small objects rendered as simple outlined silhouettes without any dominant central human figure, which matches the target's scatter of profile birds and quadrupeds far better than the other candidates.",
+ "least_similar_reason": "Candidate 2 is a fully three-dimensional standing human effigy with a headdress and body ornaments rather than a flat surface bearing registers of profile animals and geometric bands, so it shares essentially no depicted content with the target.",
+ "set": "moai_iso_among_random",
+ "i": 22,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0028",
+  "rapa_nui_hoa_iso",
+  "maya_0056",
+  "maya_0127",
+  "persepolis_0049",
+  "maya_0110",
+  "maya_0147",
+  "maya_0115",
+  "tanum_0017",
+  "assyria_0034"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "tanum",
+  "maya",
+  "maya",
+  "maya",
+  "persepolis",
+  "maya",
+  "maya",
+  "maya",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 10
+}

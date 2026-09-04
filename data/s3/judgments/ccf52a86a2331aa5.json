@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "frontal anthropomorphic figure or bust with large head and torso",
+  "rectangular/elongated head with incised facial or hair-like markings",
+  "small lateral arm/ear-like projections beside the upper torso/head",
+  "paired round breast/eye-like circles on the upper torso",
+  "central circular disc on the chest/abdomen",
+  "curving horizontal bands across the lower torso",
+  "incised scroll/serpentine motifs around the chest",
+  "central vertical pendant or line below the bands"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "9",
+ "justification": "Both surfaces show the same highly specific scheme: a frontal schematic human-like torso with paired upper circular forms, a central disc, surrounding curvilinear incised motifs, and arcing bands across the lower body in the same relative positions. The main difference is that some head and lower-body details read more clearly or differently between the two views, but the depicted iconographic layout is overwhelmingly the same.",
+ "a": "rapa_nui_0113",
+ "b": "rapa_nui_0049",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  520
+ ]
+}

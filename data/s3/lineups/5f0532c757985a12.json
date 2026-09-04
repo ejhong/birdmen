@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  6,
+  2,
+  1,
+  5,
+  4,
+  10,
+  7,
+  8,
+  9
+ ],
+ "most_similar_reason": "Both show densely composed relief scenes of multiple living beings (animals plus human or human-like figures) arranged in superimposed zones with profile views and comparable outline-and-detail conventions.",
+ "least_similar_reason": "It shows the back of a three-dimensional statue of a single human rather than a two-dimensional pictorial composition of animals, figures, vegetation or structures.",
+ "set": "moai_iso_among_monoliths",
+ "i": 1,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0071",
+  "egypt_0044",
+  "maya_0045",
+  "maya_0114",
+  "egypt_0068",
+  "gotland_0116",
+  "gotland_0113",
+  "maya_0095",
+  "rapa_nui_hoa_iso",
+  "maya_0066"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt",
+  "gotland",
+  "maya",
+  "maya",
+  "maya",
+  "egypt"
+ ],
+ "model": "grok",
+ "planted_rank": 10
+}

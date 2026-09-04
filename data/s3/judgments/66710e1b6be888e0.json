@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "quadruped animals shown in profile",
+  "low-relief carving on a flat vertical surface",
+  "horizontal register/band organizing the composition",
+  "row of repeated animal figures in a frieze",
+  "tree or plant motif"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces carry low-relief profile quadrupeds arranged in horizontal rows within registers, and both include a stylized tree/plant element, which is the most specific shared trait. But A shows a naturalistic procession of clothed human figures leading horned rams past a tree with fine anatomical and textile detail bordered by rosette bands, while B shows schematic, abstracted predators/birds and reptilian creatures with no humans, no garments and no floral border, in a wholly different, flattened stylistic convention.",
+ "a": "persepolis_0082",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  308
+ ]
+}

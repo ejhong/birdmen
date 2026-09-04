@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  7,
+  1,
+  8,
+  5,
+  3,
+  4,
+  6,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 2, like the target, is a monolithic upright block treated as a schematic body \u2014 a broad shaft carrying a horizontal belt-like band and disc/arm elements in shallow relief rather than a naturalistic figural scene, matching the target's pillar-with-belt-and-band organisation.",
+ "least_similar_reason": "Candidate 10 shows an elaborately costumed standing human ruler with headdress, held regalia and dense framing glyph panels \u2014 a wholly figural, human-centred and text-bound composition with none of the target's isolated, schematic wild animals set in plain registers.",
+ "set": "moai_close_among_random",
+ "i": 32,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "persepolis_0039",
+  "rapa_nui_0004",
+  "assyria_0120",
+  "persepolis_0010",
+  "assyria_0122",
+  "assyria_0036",
+  "tanum_0000",
+  "tanum_0060",
+  "assyria_0088",
+  "maya_0060"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "persepolis",
+  "persepolis",
+  "maya",
+  "tanum",
+  "assyria",
+  "assyria",
+  "assyria",
+  "tanum",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

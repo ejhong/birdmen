@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  2,
+  7,
+  3,
+  9,
+  1,
+  8,
+  5,
+  6,
+  4
+ ],
+ "most_similar_reason": "Candidate 10 shows the same kind of low-relief panel divided into registers filled with profile creature heads, large scroll-and-eye motifs and small block-like sign elements packed edge to edge, closely matching the target's stacked bands of profile birds/animals and glyph-like squares.",
+ "least_similar_reason": "Candidate 4 presents an essentially plain, unadorned upright slab with no discernible creatures, figures, signs or register divisions, so it shares no depicted iconography with the target.",
+ "set": "moai_iso_among_monoliths",
+ "i": 5,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0138",
+  "maya_0114",
+  "maya_0053",
+  "maya_0000",
+  "maya_0101",
+  "rapa_nui_hoa_iso",
+  "maya_0081",
+  "egypt_0073",
+  "maya_0023",
+  "maya_0045"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 9
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic frontal anthropomorphic form",
+  "internal incised or low-relief linear markings",
+  "lower horizontal or curved band-like motif"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main correspondence is that both appear to present a simplified upright frontal anthropomorphic form with some internal carved lines and a band-like feature toward the lower part. The biggest difference is that B has a clear, specific iconographic scheme with head, facial/torso motifs, circular element, and paired curved bands, whereas A\u2019s depicted details are sparse or not legible enough to match those specific elements.",
+ "a": "maya_0082",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1804,
+  945
+ ]
+}

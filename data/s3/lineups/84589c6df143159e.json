@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  6,
+  10,
+  4,
+  7,
+  2,
+  3,
+  8,
+  9,
+  5
+ ],
+ "most_similar_reason": "Candidate 1 is most similar because it shows a comparable vertical surface filled with schematic low-relief animal imagery and abstract signs, including profile creatures and repeated incised/hatched details arranged in stacked zones like the target.",
+ "least_similar_reason": "Candidate 5 is least similar because it consists mainly of isolated abstract scratched line clusters or comb-like marks, with none of the target\u2019s distinctive profile animals, wing/feather hatching, or register-like figural arrangement.",
+ "set": "moai_iso_among_random",
+ "i": 36,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0047",
+  "maya_0048",
+  "tanum_0119",
+  "rapa_nui_hoa_iso",
+  "tanum_0000",
+  "assyria_0059",
+  "maya_0130",
+  "egypt_0061",
+  "tanum_0317",
+  "maya_0162"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "tanum",
+  "maya",
+  "tanum",
+  "assyria",
+  "egypt",
+  "maya",
+  "tanum"
+ ],
+ "model": "gpt",
+ "planted_rank": 4
+}

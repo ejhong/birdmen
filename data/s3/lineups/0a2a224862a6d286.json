@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  8,
+  6,
+  1,
+  2,
+  10,
+  5,
+  9,
+  4,
+  3
+ ],
+ "most_similar_reason": "Candidate 7 shows a frontal standing figure with an elaborate multi-tiered headdress, arms held in a similar gesture, and a decorated torso/lower panel, closely echoing the target's composition of a single dominant figure with headdress and body ornament in relief.",
+ "least_similar_reason": "Candidate 3 depicts only an abstract, geometric line design with no human figure, headdress, or comparable iconographic elements, making it the least similar in depicted content to the target's figural stela.",
+ "set": "p43_iso_among_monoliths",
+ "i": 5,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0149",
+  "egypt_0072",
+  "gotland_0112",
+  "maya_0147",
+  "maya_0110",
+  "maya_0158",
+  "maya_0130",
+  "anatolia_ppn_p43iso",
+  "egypt_0068",
+  "maya_0115"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya"
+ ],
+ "model": "sonnet",
+ "planted_rank": 2
+}

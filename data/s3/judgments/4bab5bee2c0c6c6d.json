@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "cuneiform inscription band",
+  "standing figure(s) in relief"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces combine a band of cuneiform text with carved figural imagery, but the specific content differs sharply: A shows a row of small deity/worshipper figures above a large inscription block on a weathered outdoor rock face, while B shows a single detailed eagle-headed winged genie beside a stylized palmette 'tree' beneath a narrow inscription band. The lack of any shared distinctive motif (no genie, no tree, no multiple deities in A; no rock-face setting or podium row in B) and the reversed placement of text relative to figures make the correspondence largely generic rather than iconographically specific.",
+ "a": "egypt_0059",
+ "b": "assyria_0090",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  3249,
+  919
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "circle or oval motifs",
+  "rectangular or block-like motifs",
+  "carved marks arranged partly in horizontal rows/registers"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the presence of simple carved oval/circular and rectangular forms set on stone, with some suggestion of horizontal ordering. The biggest difference is that B has crisp, organized registers with recognizable figurative and patterned relief, while A is a heavily weathered, irregular surface with mostly ambiguous, eroded motifs.",
+ "a": "maya_0126",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  580
+ ]
+}

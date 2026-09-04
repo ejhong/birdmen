@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "standing anthropomorphic figure, frontal or near-frontal torso",
+  "head with elaborate hair/headdress framing the face",
+  "patterned scale-like or textured surface covering the body",
+  "incised bands/lines across the torso and waist",
+  "raised arm/limb rendered against the body"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict a single upright human-like figure with a large head, framing hair or headdress mass, and a body covered with incised patterning and horizontal banding at the waist, which is a broadly comparable but generic conception. A differs in showing a clearly articulated composite fish-cloaked figure in profile with raised bent arm, bracelets, kilt and a handled bucket-like object, while B shows a squat, blocky, frontal figure with a schematic disc/rosette and loop-like motifs on the chest and no legs or held attributes.",
+ "a": "assyria_0118",
+ "b": "rapa_nui_0062",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2949,
+  336
+ ]
+}

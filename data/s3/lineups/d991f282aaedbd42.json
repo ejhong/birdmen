@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  5,
+  8,
+  7,
+  2,
+  6,
+  1,
+  9,
+  4,
+  10
+ ],
+ "most_similar_reason": "Candidate 3, like the target, is a slab divided by horizontal bands into stacked registers each filled with small profile figures in shallow schematic low relief, sharing the target's convention of a narrative strip-by-strip layout rather than a single dominant image.",
+ "least_similar_reason": "Candidate 10 shows nothing but neatly ruled rows of repeated sign-blocks within an arched field, with no creatures, no profile animals and no register-divided pictorial scene of the kind that fills the target.",
+ "set": "moai_iso_among_monoliths",
+ "i": 3,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "gotland_0005",
+  "maya_0019",
+  "egypt_0039",
+  "maya_0146",
+  "maya_0069",
+  "maya_0158",
+  "rapa_nui_hoa_iso",
+  "gotland_0111",
+  "maya_0005",
+  "egypt_0069"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "maya",
+  "gotland",
+  "maya",
+  "maya",
+  "gotland",
+  "egypt",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

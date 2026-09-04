@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "single anthropomorphic figure",
+  "head or face",
+  "torso/body area",
+  "circular discs or roundels on/near the figure",
+  "incised linear bands or geometric lines"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest shared content is a single schematic anthropomorphic figure marked with circular discs and incised linear/geometric bands on a vertically oriented surface. The major difference is that A is a frontal, full-bodied, block-like figure with paired chest circles and abdominal bands, while B is a profile bust or bird/helmet-headed figure with an ear disc, chest disc, and a large wing-like or feathered appendage.",
+ "a": "rapa_nui_0113",
+ "b": "mississippian_0001",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1751,
+  619
+ ]
+}

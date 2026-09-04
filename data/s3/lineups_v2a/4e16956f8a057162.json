@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  1,
+  9,
+  2,
+  10,
+  3,
+  8,
+  5,
+  6,
+  4
+ ],
+ "most_similar_reason": "Candidate 7 shows the same distinctive thing as the target: a tall free-standing monolithic pillar carved in low relief as a schematic anthropomorphic body, with arms bent around the sides toward the front, a belt-like horizontal band across the lower torso and small motifs set on the body surface.",
+ "least_similar_reason": "Candidate 4 depicts a single naturalistically modelled horned animal head in profile with no human form, no body-encircling arms, belt or disc motifs, sharing nothing with the target's frontal schematic humanoid figure.",
+ "set": "p43_among_random",
+ "i": 14,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "maya_0111",
+  "maya_0085",
+  "mississippian_0011",
+  "persepolis_0110",
+  "egypt_0056",
+  "catalhoyuk_0039",
+  "anatolia_ppn_p43full",
+  "maya_0024",
+  "maya_0081",
+  "mississippian_0005"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "maya",
+  "mississippian",
+  "catalhoyuk",
+  "persepolis",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "mississippian"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

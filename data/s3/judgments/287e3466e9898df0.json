@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "animal in profile",
+  "quadruped-like animal with elongated body and legs",
+  "curving linear outlines/details"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main shared content is the presence of schematic profile animals, possibly including elongated quadrupeds with legs indicated by simple linear carving. The biggest difference is that B is a structured vertical panel with multiple separated motifs in registers, including human/animal signs and patterned bands, whereas A appears to show one or a few large, overlapping animal forms without comparable registers or specific associated symbols.",
+ "a": "rapa_nui_0080",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  662
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "standing human figures in profile",
+  "procession/row of figures moving in one direction",
+  "low-relief narrative frieze on a horizontal band",
+  "figures with patterned/fringed garments",
+  "figures holding objects (weapons, staff, offerings)",
+  "animal depicted in profile",
+  "registers bounded by a border strip"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both are horizontal low-relief friezes with a file of profile human figures striding in the same direction, rendered with similar squat proportions, patterned fringed robes and hatched detailing, each carrying something in the hands, and both include a profile animal within the same register. The biggest differences in content are the subject: A shows an assault on a walled, towered city with archers, siege apparatus and a winged emblem above, while B shows a peaceful tribute/lead-animal procession with a two-humped camel and rosette-chain borders, motifs entirely absent from the other.",
+ "a": "assyria_0041",
+ "b": "persepolis_0010",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  348
+ ]
+}

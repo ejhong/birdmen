@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "dense field of hieroglyphic-style script signs",
+  "seated human figures in profile",
+  "figures seated facing offerings/text",
+  "horizontal ruled register lines dividing text",
+  "offering table or stand before a seated figure",
+  "small-scale figures placed at the edges/lower zone with text between them",
+  "carved relief inscription panel (stela format)"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "8",
+ "justification": "Both are inscribed commemorative panels combining a large field of the same specific hieroglyphic sign repertoire, ruled into horizontal registers, with small profile human figures seated on low seats, arms raised or extended toward offerings, placed at the margins with columns of text between them \u2014 an extremely specific and conventional shared scheme. The main differences are in layout emphasis: A is a round-topped panel with figures distributed through several registers across the whole surface, while B is a rectangular panel with text occupying most of the field and the paired figures confined to a single lower register facing inward.",
+ "a": "egypt_0040",
+ "b": "egypt_0038",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  2974,
+  362
+ ]
+}

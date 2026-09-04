@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  9,
+  6,
+  8,
+  5,
+  4,
+  1,
+  7,
+  10,
+  2
+ ],
+ "most_similar_reason": "Candidate 3, like the target, is a flat rectangular panel carved in low relief with a large schematic bird/animal-like creature shown against a densely filled field of smaller repeated forms, rather than a narrative scene of humans.",
+ "least_similar_reason": "Candidate 2 shows only a naturalistic, individualized human head in profile with carefully modelled hair, beard and eye \u2014 none of the target's schematic animals, snakes, birds or stacked abstract signs.",
+ "set": "moai_among_random",
+ "i": 23,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0068",
+  "persepolis_0066",
+  "assyria_0102",
+  "gotland_0133",
+  "tanum_0087",
+  "maya_0114",
+  "mississippian_0052",
+  "rapa_nui_0113",
+  "maya_0053",
+  "assyria_0035"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "mississippian",
+  "assyria",
+  "maya",
+  "maya",
+  "persepolis",
+  "tanum",
+  "gotland",
+  "persepolis",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

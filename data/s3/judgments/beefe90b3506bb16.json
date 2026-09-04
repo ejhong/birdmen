@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "sinuous snake-like forms",
+  "bird/feather or wing forms",
+  "geometric or rectangular patterned details",
+  "animal/body-part motifs combined with abstract signs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific possible overlap is the presence of sinuous snake-like forms and avian/feather-related motifs amid geometric details, but these are not rendered in the same clear forms or iconographic combinations. A is dominated by a single frontal, elaborate anthropomorphic figure with costume, headdress, staff-like object, and pendant details, whereas B is organized as horizontal registers of separate profile animals and signs with no comparable central figure or pose.",
+ "a": "mississippian_0045",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1857,
+  685
+ ]
+}

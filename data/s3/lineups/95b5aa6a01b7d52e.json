@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  9,
+  10,
+  4,
+  3,
+  6,
+  8,
+  1,
+  2,
+  5
+ ],
+ "most_similar_reason": "Both feature an upright stone monument decorated with a prominent standing figure in relief.",
+ "least_similar_reason": "It shows an interior room with an animal skull and painted symbols, completely lacking a monument or human figure.",
+ "set": "same_control",
+ "i": 34,
+ "target": "maya_0000",
+ "planted": "maya_0057",
+ "cands": [
+  "anatolia_ppn_0232",
+  "tanum_0129",
+  "assyria_0095",
+  "maya_0057",
+  "catalhoyuk_0102",
+  "anatolia_ppn_0083",
+  "egypt_0076",
+  "gotland_0124",
+  "persepolis_0037",
+  "assyria_0096"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "gotland",
+  "tanum",
+  "persepolis",
+  "anatolia_ppn",
+  "catalhoyuk",
+  "anatolia_ppn",
+  "assyria",
+  "assyria",
+  "egypt"
+ ],
+ "model": "gemini",
+ "planted_rank": 4
+}

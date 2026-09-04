@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  4,
+  3,
+  5,
+  10,
+  6,
+  2,
+  1,
+  9,
+  8
+ ],
+ "most_similar_reason": "Candidate 7 is most similar because it shows the same kind of upright field filled with schematic low-relief animal imagery and signs, with multiple creatures arranged vertically rather than a single narrative figure or decorative frieze.",
+ "least_similar_reason": "Candidate 8 is least similar because it depicts a single frontal anthropomorphic figure with bodily features and ornaments, lacking the target\u2019s stacked repertoire of profile animals, repeated sign-bands, and mixed zoomorphic motifs.",
+ "set": "moai_among_random",
+ "i": 33,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "assyria_0078",
+  "maya_0106",
+  "assyria_0142",
+  "egypt_0002",
+  "assyria_0051",
+  "tanum_0236",
+  "maya_0088",
+  "rapa_nui_0113",
+  "assyria_0122",
+  "persepolis_0007"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "assyria",
+  "assyria",
+  "assyria",
+  "egypt",
+  "tanum",
+  "maya",
+  "assyria",
+  "maya",
+  "persepolis"
+ ],
+ "model": "gpt",
+ "planted_rank": 10
+}

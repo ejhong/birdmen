@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "bearded male human figure in profile facing right",
+  "elaborately curled/patterned hair and beard rendered as rows of tight curls",
+  "low relief carving with incised interior detail",
+  "figure occupying upper portion of the field",
+  "patterned garment or drapery with fine parallel incised lines"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show a bearded male figure in strict profile facing right, with hair and beard stylised into dense rows of regular curls and garments detailed with fine parallel incised lines, a very specific and conventional rendering shared by both. The subjects differ substantially, however: A pairs the man with two horned rams shown in profile beneath him, while B shows a winged figure holding an object among stylised plant/rosette forms with no animals present.",
+ "a": "persepolis_0011",
+ "b": "assyria_0100",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3074,
+  301
+ ]
+}

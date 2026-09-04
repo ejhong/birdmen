@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "human figure"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "1",
+ "justification": "Both depict a human form, but A is a detailed narrative relief with two distinct figures (a standing attendant and a larger seated figure) rendered with fine clothing, headdress, and gestural detail, while B is a single, abstract monolithic figure shown from behind with no facial features, clothing, or interaction. There is no shared relationship, composition, or stylistic convention beyond the trivial fact that both show 'a person'.",
+ "a": "assyria_0138",
+ "b": "rapa_nui_0045",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  2974,
+  750
+ ]
+}

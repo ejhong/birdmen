@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  8,
+  2,
+  3,
+  4,
+  5,
+  7,
+  9,
+  6,
+  1
+ ],
+ "most_similar_reason": "Candidate 10 is most similar because it also uses a compact, schematic relief vocabulary with prominent circular eye-like signs and broad curving band motifs arranged on a vertical monument, closest to the target\u2019s abstract frontal mask-like composition.",
+ "least_similar_reason": "Candidate 1 is least similar because it is organized as horizontal registers of profile animals, whereas the target is dominated by a frontal abstract face or emblem with paired circular forms and sweeping geometric bands.",
+ "set": "p43_iso_among_monoliths",
+ "i": 18,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "anatolia_ppn_p43iso",
+  "gotland_0000",
+  "maya_0147",
+  "maya_0136",
+  "maya_0106",
+  "egypt_0041",
+  "maya_0158",
+  "gotland_0005",
+  "maya_0115",
+  "maya_0083"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "egypt",
+  "gotland",
+  "maya",
+  "maya",
+  "gotland",
+  "maya",
+  "maya",
+  "maya",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 10
+}

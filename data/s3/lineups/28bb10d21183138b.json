@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  9,
+  3,
+  7,
+  10,
+  5,
+  6,
+  4,
+  2,
+  8
+ ],
+ "most_similar_reason": "Candidate 1 is most similar because it shows the same kind of tall, frontal, highly schematic anthropomorphic figure with a head/torso arrangement and incised body details on a vertical surface.",
+ "least_similar_reason": "Candidate 8 is least similar because it is essentially an abstract bordered diagram with a large central circle and repeated signs, lacking the target\u2019s single frontal body-like figure and associated anatomical motifs.",
+ "set": "p43_among_random",
+ "i": 14,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "maya_0111",
+  "maya_0085",
+  "mississippian_0011",
+  "persepolis_0110",
+  "egypt_0056",
+  "catalhoyuk_0039",
+  "anatolia_ppn_p43full",
+  "maya_0024",
+  "maya_0081",
+  "mississippian_0005"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "maya",
+  "mississippian",
+  "catalhoyuk",
+  "persepolis",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "mississippian"
+ ],
+ "model": "gpt",
+ "planted_rank": 4
+}

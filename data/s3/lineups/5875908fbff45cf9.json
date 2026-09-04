@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  2,
+  5,
+  10,
+  9,
+  7,
+  3,
+  1,
+  4,
+  8
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it shows a highly stylized, elaborately costumed anthropomorphic figure with a large headdress and adjacent block-like signs, matching the target\u2019s complex supernatural/personage iconography and schematic ornamental conventions more closely than the others.",
+ "least_similar_reason": "Candidate 8 is least similar because it offers little recognizable shared subject matter\u2014no clear winged or costumed figure, glyph-like blocks, or comparable arrangement of symbolic elements.",
+ "set": "same_control",
+ "i": 5,
+ "target": "mississippian_0045",
+ "planted": "mississippian_0075",
+ "cands": [
+  "anatolia_ppn_0086",
+  "assyria_0071",
+  "assyria_0051",
+  "egypt_0014",
+  "assyria_0059",
+  "maya_0048",
+  "egypt_0000",
+  "gotland_0133",
+  "mississippian_0075",
+  "maya_0011"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "assyria",
+  "maya",
+  "assyria",
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt",
+  "assyria",
+  "anatolia_ppn"
+ ],
+ "model": "gpt",
+ "planted_rank": 5
+}

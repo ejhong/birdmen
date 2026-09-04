@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief carving on an upright slab/stela",
+  "anthropomorphic or animal figures in profile",
+  "horizontal band of repeated small motifs",
+  "animals in profile (bird-like creatures)",
+  "arms/hands rendered across the body"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both are upright slabs bearing low-relief figural imagery with a horizontal band of repeated small motifs across the upper area and profile creatures below, which is about as far as the correspondence goes. A shows a single elaborately costumed frontal human figure with headdress, ornaments and blocks of sign-like glyph cartouches, while B shows a T-shaped pillar with a row of animal heads, a fringe/net band, and separate profile quadrupeds and long-necked birds with no central human figure \u2014 different subject matter and different relief conventions.",
+ "a": "maya_0130",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3024,
+  324
+ ]
+}

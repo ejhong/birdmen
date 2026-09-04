@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "monumental anthropomorphic figure carved in the round",
+  "human head with elongated/blocky form",
+  "schematic rendering of human features",
+  "curved incised/relief lines on the body or face"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "3",
+ "justification": "Both depict a monumental, heavily schematic human figure with an elongated blocky head and simplified anatomy rendered in low relief, which gives a broadly comparable overall impression. However, the actual depicted content differs: A shows the reverse of a torso covered with abstract motifs (rings, concentric circles, arcs, a crescent band) with no face visible, while B shows a frontal face with brows, eyes, nose, mouth and ears and no ornamental motifs at all.",
+ "a": "rapa_nui_0039",
+ "b": "anatolia_ppn_0240",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2874,
+  568
+ ]
+}

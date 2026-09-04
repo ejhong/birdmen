@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  7,
+  5,
+  2,
+  4,
+  3,
+  1,
+  8,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 6 shows small profile creatures together with a strong geometric motif, the closest match to the target's paired profile birds plus hatched/patterned bands.",
+ "least_similar_reason": "Candidate 10 is a fully three-dimensional standing human figure with no birds, profile animals, or comparable surface patterns and layout.",
+ "set": "moai_iso_among_monoliths",
+ "i": 0,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0085",
+  "maya_0105",
+  "maya_0113",
+  "gotland_0130",
+  "maya_0047",
+  "gotland_0026",
+  "egypt_0041",
+  "maya_0057",
+  "maya_0000",
+  "rapa_nui_hoa_iso"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "gotland",
+  "maya",
+  "gotland"
+ ],
+ "model": "grok",
+ "planted_rank": 10
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic linear motifs",
+  "circle or disc marks",
+  "curved or parallel bands/lines"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The most specific overlap is the use of simple schematic line work including circular marks and curved/parallel linear motifs. The major difference is that A is dominated by a frontal anthropomorphic figure with body-like features and internal decoration, while B appears to show dispersed red outline figures or signs without the same figure, body scheme, or arrangement.",
+ "a": "rapa_nui_0113",
+ "b": "tanum_0086",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  507
+ ]
+}

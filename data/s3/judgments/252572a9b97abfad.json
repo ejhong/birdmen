@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "central standing anthropomorphic figure",
+  "head or headdress above a decorated torso",
+  "arms or side appendages alongside the body",
+  "circular/disc motifs on the body or costume",
+  "horizontal band or belt-like motif across the lower torso"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both show a single central anthropomorphic being with a head/headdress, torso ornament, side appendages, and circular or band-like motifs placed on the body. The biggest difference is that A is a simplified frontal block-like figure dominated by torso features, while B is an elaborate standing personage with feathered headdress, staff-like/object details, glyphic panels, and a pedestal-like lower register.",
+ "a": "rapa_nui_0113",
+ "b": "maya_0130",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1883,
+  667
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief carving of ornamental motifs",
+  "horizontal band of repeating geometric pattern (zigzag/lattice, step-fret)",
+  "block-like glyph or plaque units set in a row",
+  "a human hand rendered schematically",
+  "dense, ornate curvilinear scroll/plume-like forms"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces use dense low-relief ornament combining a row of block-like glyph/plaque units, plume- or scroll-like curved fronds, a schematically splayed hand, and a border band of repeating geometric pattern (zigzag/lattice in B, a step-fret band at the base of A), which is a fairly specific shared vocabulary. The decisive difference is the overall subject: A is dominated by a single frontal standing figure in elaborate costume occupying the whole field, whereas B has no figure at all, only a horizontal frieze of repeated abstract and emblematic motifs.",
+ "a": "maya_0087",
+ "b": "gotland_0128",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  742
+ ]
+}

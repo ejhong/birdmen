@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "profile animal or bird-like figure",
+  "curved linear/serpentine motif",
+  "low-relief carving on a stone surface"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces include schematic profile animal/bird-like forms carved in shallow relief with rounded, pecked outlines on rough stone. The biggest difference is compositional: A is a tall, densely filled, vertically organized surface with stacked figures and patterned bands, while B is a broader slab with a few large, isolated motifs and a circular hollow.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0088",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  655
+ ]
+}

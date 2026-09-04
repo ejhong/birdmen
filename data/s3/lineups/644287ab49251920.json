@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  8,
+  9,
+  3,
+  7,
+  4,
+  2,
+  5,
+  10,
+  1
+ ],
+ "most_similar_reason": "Candidate 6 shows the same combination of strictly profile figures and rows of pictorial sign-forms (including bird and animal glyphs) laid out in registers separated by ruled horizontal lines, in the same flat low-relief, outline-with-plain-infill style as the target.",
+ "least_similar_reason": "Candidate 1 is an essentially blank shaped slab with only a few incised framing lines and no creatures, figures or sign-forms at all, so it shares none of the target's depicted content.",
+ "set": "moai_iso_among_monoliths",
+ "i": 20,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "gotland_0130",
+  "gotland_0009",
+  "maya_0092",
+  "egypt_0069",
+  "rapa_nui_hoa_iso",
+  "egypt_0050",
+  "gotland_0128",
+  "egypt_0066",
+  "egypt_0073",
+  "gotland_0005"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "egypt",
+  "gotland",
+  "gotland",
+  "gotland",
+  "maya",
+  "egypt",
+  "gotland",
+  "egypt",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 8
+}

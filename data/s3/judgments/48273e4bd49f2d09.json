@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "profile living figures",
+  "human or humanoid body parts",
+  "linear patterned/detail marks"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The only real overlap is very general: both surfaces include figures rendered in profile with linear internal details, and possibly human/humanoid body parts. A is dominated by two large, elaborately dressed and bearded human figures in a narrative-facing arrangement, while B is a stacked field of schematic signs and animals with no comparable pair of human figures or shared iconographic scheme.",
+ "a": "assyria_0111",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  656
+ ]
+}

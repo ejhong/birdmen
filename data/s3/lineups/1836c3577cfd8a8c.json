@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  9,
+  7,
+  5,
+  8,
+  3,
+  6,
+  2,
+  1,
+  10
+ ],
+ "most_similar_reason": "Candidate 4 is an upright standing slab/pillar bearing low-relief animal and abstract figures spread over its face in loosely stacked zones, the same kind of schematic carved-creature repertoire arranged on a monolith as the target.",
+ "least_similar_reason": "Candidate 10 shows a rock-cut architectural facade with doorways and no creatures, figures or repeated motifs at all, sharing none of the target's animal iconography.",
+ "set": "moai_close_among_random",
+ "i": 33,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "gotland_0125",
+  "mississippian_0010",
+  "assyria_0021",
+  "maya_0047",
+  "tanum_0340",
+  "assyria_0146",
+  "egypt_0063",
+  "tanum_0237",
+  "rapa_nui_0004",
+  "egypt_0051"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "egypt",
+  "tanum",
+  "tanum",
+  "assyria",
+  "assyria",
+  "mississippian",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

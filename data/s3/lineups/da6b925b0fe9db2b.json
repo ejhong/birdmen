@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  7,
+  6,
+  8,
+  1,
+  3,
+  9,
+  10,
+  2,
+  4
+ ],
+ "most_similar_reason": "Candidate 5 is most similar because it likewise shows a tall decorated panel organized around a frontal anthropomorphic/supernatural figure with stacked sign-like motifs beneath, matching the target\u2019s combination of a dominant schematic figure/mask and incised glyphic decoration.",
+ "least_similar_reason": "Candidate 4 is least similar because no comparable depicted motifs are visible\u2014there is no clear frontal figure, mask, glyph-like patterning, or structured iconographic composition to match the target.",
+ "set": "p43_iso_among_monoliths",
+ "i": 13,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "egypt_0042",
+  "egypt_0061",
+  "egypt_0065",
+  "maya_0000",
+  "maya_0113",
+  "maya_0027",
+  "maya_0056",
+  "anatolia_ppn_p43iso",
+  "maya_0023",
+  "mississippian_0015"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "mississippian",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 4
+}

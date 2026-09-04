@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  5,
+  7,
+  4,
+  3,
+  10,
+  2,
+  8,
+  9,
+  6
+ ],
+ "most_similar_reason": "Candidate 1, like the target, is a free-standing upright pillar carved as a schematic anthropomorphic being, with low-relief arms bent around the shaft and additional emblematic creatures/ornaments rendered in the same flat, stylized carving on the body itself.",
+ "least_similar_reason": "Candidate 6 shows only a plain rough stone wall with no figures, symbols or ornament at all, so it shares none of the target's anthropomorphic form or relief iconography.",
+ "set": "p43_among_random",
+ "i": 27,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "anatolia_ppn_p43full",
+  "assyria_0109",
+  "egypt_0032",
+  "gotland_0124",
+  "maya_0114",
+  "egypt_0010",
+  "maya_0077",
+  "persepolis_0070",
+  "egypt_0020",
+  "assyria_0151"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt",
+  "persepolis",
+  "egypt",
+  "assyria",
+  "assyria",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

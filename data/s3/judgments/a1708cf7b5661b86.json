@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "tall upright slab decorated across its whole face",
+  "horizontal dividing band separating registers",
+  "quadruped animal shown in profile",
+  "row of repeated similar creatures in an upper register",
+  "long-necked bird-like/animal head in profile"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces divide a tall upright face into stacked horizontal registers separated by a banded border, with profile animals as the main subject, which gives a loose compositional echo. But the specific content differs entirely: A shows isolated, widely spaced silhouetted animals (quadruped, birds, long-necked bird, plant/frond) on an empty ground with no humans, while B shows human figures with horses in the upper panel and a dense interlaced ribbon-animal knot filling the lower panel, a wholly different repertoire and space-filling convention.",
+ "a": "anatolia_ppn_p43full",
+ "b": "gotland_0122",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  805
+ ]
+}

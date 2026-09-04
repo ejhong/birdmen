@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "single large anthropomorphic figure occupying most of the surface",
+  "figure wearing a tall/elaborate headdress",
+  "garment or drapery rendered with incised parallel lines",
+  "circular disc or rosette motif on the figure",
+  "bands/belt-like horizontal divisions across the body",
+  "arms with bracelet-like or banded wrists"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces present a single dominant anthropomorphic figure with a distinctive tall headdress, patterned garment and a circular disc/rosette element on the body, and in both the figure fills nearly the whole field. But the relationships and manner of depiction differ sharply: B shows a bearded winged genie in strict profile, kneeling and reaching towards stylised palmettes with a specific gesture, rendered in fine linear detail, while A is a frontal, blocky, schematic figure with no wings, no attendant motifs and no interaction with other elements.",
+ "a": "rapa_nui_0113",
+ "b": "assyria_0079",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3174,
+  808
+ ]
+}

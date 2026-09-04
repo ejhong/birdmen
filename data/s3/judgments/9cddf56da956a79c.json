@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "human figures rendered schematically",
+  "incised/drawn linear marks covering a rock surface",
+  "figures arranged in rows/registers"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces bear humanly made marks on rock including small schematic figures and long lines of repeated signs, but that is about the extent of it: A shows a formal arched stele with a framed relief scene of standing figures flanking a central emblem above dense ordered rows of script, whereas B shows loosely scattered painted outlines (boat-like curved forms, a circle, animal or figure shapes) with no frame, register or hierarchical composition. The specific compositional scheme of A (symmetrical flanking figures under a winged disc above a text block) has no counterpart in B, so shared content is only the generic fact of marked rock with schematic figures.",
+ "a": "egypt_0059",
+ "b": "tanum_0086",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  324
+ ]
+}

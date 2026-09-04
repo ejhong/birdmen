@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "standing human figure in frontal/upright posture",
+  "figure holding an object in an extended arm",
+  "human figure with head, two arms and two legs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "Both depict upright human figures, and in each case at least one figure extends an arm holding an object (a weapon-like hafted item in B, staffs/vessels in A), but that is a near-universal motif. A shows a dense processional frieze of naturalistically modelled, robed, bearded figures in profile between rosette borders, while B shows a single isolated, radically schematic stick-like figure with no border, costume or attendant detail.",
+ "a": "persepolis_0077",
+ "b": "tanum_0050",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  256
+ ]
+}

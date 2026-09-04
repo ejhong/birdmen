@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "three arched or handle-like motifs along the top",
+  "horizontal bands of repeated geometric/chevron-like marks",
+  "bird-like animals in profile",
+  "long-legged or long-necked bird/vulture-like figure",
+  "scorpion-like or many-legged creature",
+  "small circular or oval disc",
+  "schematic human/body-like figure or body parts",
+  "stacked registers of animal and sign motifs"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "10",
+ "justification": "The strongest correspondence is the same distinctive scheme: a top row of three arched handle-like signs above patterned bands and a complex field of profile animals, including bird/vulture-like forms, a scorpion-like form, and small disc/body motifs in matching relative positions. The main difference is only that some lower and side details are harder to see or less fully visible in B, rather than a real difference in depicted content.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0095",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  723
+ ]
+}

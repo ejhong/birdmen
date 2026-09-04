@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  4,
+  8,
+  6,
+  5,
+  1,
+  2,
+  9,
+  3,
+  7
+ ],
+ "most_similar_reason": "Candidate 10 is most similar because it likewise shows a vertical surface filled with stacked, non-narrative low-relief animal and sign motifs, including profile creatures and repeated linear/geometric elements arranged in registers rather than a human-centered scene.",
+ "least_similar_reason": "Candidate 7 is least similar because it is dominated by a single human or human-like winged profile figure, lacking the target\u2019s stacked animal imagery, repeated sign band, and mixed creature-symbol arrangement.",
+ "set": "moai_among_random",
+ "i": 31,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "assyria_0078",
+  "maya_0129",
+  "assyria_0125",
+  "gotland_0026",
+  "tanum_0052",
+  "assyria_0039",
+  "assyria_0128",
+  "egypt_0009",
+  "rapa_nui_0113",
+  "maya_0137"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "assyria",
+  "gotland",
+  "assyria",
+  "egypt",
+  "maya",
+  "tanum",
+  "assyria",
+  "maya",
+  "assyria"
+ ],
+ "model": "gpt",
+ "planted_rank": 8
+}

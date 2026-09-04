@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "carved stone surface",
+  "winged or bird-like animal imagery",
+  "linear feather or texture markings",
+  "horizontal band or register lines"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of carved linear markings to describe winged or bird-like forms on a stone surface. The biggest difference is compositional: A is dominated by one large central spread-wing figure, while B is organized as a vertical pillar with several stacked registers and separate motifs.",
+ "a": "assyria_0032",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1283,
+  438
+ ]
+}

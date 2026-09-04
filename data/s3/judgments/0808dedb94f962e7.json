@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "human figures in profile",
+  "registers/horizontal bands stacked one above another",
+  "procession or row of figures facing the same direction",
+  "low relief carving of figures with linear detail",
+  "animals shown in profile",
+  "seated/standing figure receiving approaching figures",
+  "figures carrying or holding objects"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces show low-relief human figures in profile arranged in stacked horizontal registers, moving in file toward a focal figure, with animals and carried objects among them \u2014 a fairly specific shared narrative-procession scheme. However, B additionally carries bands of dense script-like signs and a winged emblem crowning the top, and its figures are squatter and more crowded, whereas A shows tall, evenly spaced standing figures with a tree separating groups and no comparable inscription or winged motif.",
+ "a": "persepolis_0051",
+ "b": "egypt_0063",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  321
+ ]
+}

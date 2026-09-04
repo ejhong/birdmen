@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  5,
+  7,
+  6,
+  3,
+  4,
+  10,
+  2,
+  9,
+  8
+ ],
+ "most_similar_reason": "Candidate 1 is most similar because it shows a schematic carved panel with mask-like circular facial elements, curving band/scroll forms, and glyph-like motifs arranged in a comparable frontal, symmetrical composition to the target.",
+ "least_similar_reason": "Candidate 8 is least similar because it mainly depicts a fragmentary naturalistic human body/limb figure, lacking the target\u2019s frontal mask-like face, circular eye/mouth motifs, curved bands, and glyphic surface arrangement.",
+ "set": "p43_iso_among_monoliths",
+ "i": 14,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0083",
+  "maya_0146",
+  "anatolia_ppn_p43iso",
+  "maya_0005",
+  "maya_0130",
+  "maya_0085",
+  "maya_0066",
+  "maya_0097",
+  "gotland_0113",
+  "egypt_0047"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "maya",
+  "gotland",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 5
+}

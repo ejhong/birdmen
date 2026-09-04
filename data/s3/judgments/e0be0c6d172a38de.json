@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "animal figure"
+ ],
+ "element_similarity": "0",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "0",
+ "justification": "Panel A depicts a narrative relief of two human figures leading a camel in profile within a bordered horizontal band, while panel B depicts an isolated, abstracted carving resembling a bird's head/body with no human figures or procession. There is no shared subject matter, relationship, or arrangement beyond both being carved animal-related forms, which is too generic to count as meaningful correspondence.",
+ "a": "persepolis_0058",
+ "b": "anatolia_ppn_0142",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  3174,
+  213
+ ]
+}

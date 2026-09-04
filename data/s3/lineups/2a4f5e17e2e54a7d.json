@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  8,
+  9,
+  7,
+  1,
+  10,
+  5,
+  2,
+  6,
+  3
+ ],
+ "most_similar_reason": "Candidate 4 is most similar because it shows a dense vertical arrangement of schematic low-relief animals\u2014profile birds, quadrupeds, serpent-like forms and scorpion-like/insect motifs\u2014combined on a pillar-like surface much like the target\u2019s animal-filled composition.",
+ "least_similar_reason": "Candidate 3 is least similar because it offers no clearly corresponding iconographic scheme of repeated profile animals, bands, or distinctive creatures, appearing instead as an indistinct irregular surface with little shared depicted content.",
+ "set": "hard",
+ "i": 4,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0116",
+  "gotland_0123",
+  "egypt_0027",
+  "maya_0047",
+  "rapa_nui_0113",
+  "gotland_0125",
+  "egypt_0012",
+  "tanum_0359",
+  "gotland_0133",
+  "gotland_0115"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "gotland",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "gpt",
+ "planted_rank": 7
+}

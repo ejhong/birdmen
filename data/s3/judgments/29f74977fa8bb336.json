@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "profile head or creature",
+  "eye shown in profile",
+  "curving/linear repeated patterning",
+  "feather- or wing-like forms",
+  "horizontal band of repeated marks"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific overlap is that both surfaces use profile-outlined living forms with incised interior detailing and some repeated horizontal or feather-like patterning. The major difference is that A is dominated by a single large, detailed, bearded winged human-like figure, while B is a stacked composition of small schematic animals and signs with no comparable central figure or iconographic relationship.",
+ "a": "assyria_0128",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1936,
+  602
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "anthropomorphic or human figure",
+  "circle or disc motif",
+  "incised linear signs or symbols",
+  "horizontal linear bands"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific shared content is the presence of human/anthropomorphic imagery combined with circular motifs and incised symbolic marks or bands. The biggest difference is that A is dominated by a single frontal, highly schematic body-like figure with a central round motif, while B is a register-based scene with multiple profile human figures, a sun-like disc with rays, offerings, and dense rows of written signs.",
+ "a": "rapa_nui_0113",
+ "b": "egypt_0015",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1777,
+  669
+ ]
+}

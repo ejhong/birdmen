@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  1,
+  9,
+  2,
+  7,
+  4,
+  8,
+  6,
+  10,
+  5
+ ],
+ "most_similar_reason": "Candidate 3 shares a basic arrangement combining a stylized profile animal with abstract motifs on a vertical surface.",
+ "least_similar_reason": "Candidate 5 consists entirely of geometric patterns, lacking the figural animal subjects present in the target.",
+ "set": "moai_among_random",
+ "i": 20,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0027",
+  "persepolis_0063",
+  "gotland_0000",
+  "persepolis_0062",
+  "gotland_0117",
+  "rapa_nui_0113",
+  "persepolis_0007",
+  "persepolis_0071",
+  "persepolis_0082",
+  "gotland_0008"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "gotland",
+  "persepolis",
+  "persepolis",
+  "persepolis",
+  "persepolis",
+  "persepolis",
+  "gotland",
+  "persepolis",
+  "gotland"
+ ],
+ "model": "gemini",
+ "planted_rank": 8
+}

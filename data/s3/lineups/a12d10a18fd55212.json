@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  9,
+  10,
+  2,
+  3,
+  6,
+  5,
+  1,
+  4,
+  8
+ ],
+ "most_similar_reason": "Candidate 7 is, like the target, a flat rectangular panel carved in shallow relief with figural forms laid out in a horizontal register across the surface, matching the target's low-relief processional panel format.",
+ "least_similar_reason": "Candidate 8 shows only incised linear/geometric marks and rows of sign-like characters with no human or animal figures at all, sharing nothing with the target's profile human procession and horse.",
+ "set": "related_control",
+ "i": 38,
+ "target": "persepolis_0044",
+ "planted": "assyria_0135",
+ "cands": [
+  "anatolia_ppn_0121",
+  "maya_0106",
+  "tanum_0347",
+  "anatolia_ppn_0264",
+  "rapa_nui_0122",
+  "rapa_nui_0080",
+  "assyria_0135",
+  "gotland_0002",
+  "egypt_0014",
+  "maya_0105"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "rapa_nui",
+  "egypt",
+  "gotland",
+  "anatolia_ppn",
+  "rapa_nui",
+  "maya",
+  "anatolia_ppn",
+  "maya",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

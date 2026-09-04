@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "low-relief carving on a rectangular block face",
+  "row/register organisation of motifs",
+  "repeated circular disc or eye-like elements",
+  "curled/scroll or hook motifs",
+  "profile creature-head or mask-like forms",
+  "rectilinear framed cells or cartouche-like compartments",
+  "horizontal dividing lines between registers"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show shallow relief on a block face organised into horizontal registers of repeated, compartmentalised motifs combining round eye/disc elements, curling hooks and abstracted profile creature-heads, which is a fairly specific shared scheme of glyph-like or head-like signs in rows. The clearest difference is that A adds prominent sawtooth/zigzag bands and large arching crest forms over each head, while B's units are more strictly boxed into a grid of squarish cartouches without any zigzag banding.",
+ "a": "anatolia_ppn_0045",
+ "b": "maya_0126",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  642
+ ]
+}

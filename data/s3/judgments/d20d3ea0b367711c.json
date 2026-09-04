@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "horizontal bands/registers of repeated signs or motifs",
+  "rounded/oval and rectangular abstract signs",
+  "animal-like/profile figures",
+  "linear hatch or stripe infill on some forms"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The most specific overlap is that both surfaces include schematic repeated signs arranged in bands/registers, with some rounded/rectangular motifs and animal-like figures among them. The major difference is that A is dominated by a framed rectangular field with a large central disc and border of glyph-like panels, while B shows stacked relief registers with prominent profile animals/figures and no comparable central disc or enclosing border scheme.",
+ "a": "maya_0024",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  679
+ ]
+}

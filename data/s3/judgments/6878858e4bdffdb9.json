@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "schematic anthropomorphic head/face reduced to a few features",
+  "pair of large eyes symmetrically flanking a central vertical ridge (nose/brow)",
+  "heavy brow ridge or arching supraorbital band",
+  "absence of mouth and other facial detail",
+  "face set at the top of an undecorated vertical block/body",
+  "possible doubling or stacking of facial features"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "7",
+ "justification": "Both depict an extremely reduced anthropomorphic head in which the only rendered features are a symmetrical pair of large eyes set either side of a central vertical ridge under a heavy brow, with no mouth, ears or other detail, mounted on a plain vertical block that stands for the body \u2014 a distinctive and arbitrary scheme rather than a generic face. The chief difference is that in A the eyes are strongly protruding bosses that dominate the whole upper mass, while in B the eyes are sunken hollows in a flat slab and the features appear repeated down the length of the block, giving a taller, flatter and more attenuated figure.",
+ "a": "anatolia_ppn_0247",
+ "b": "anatolia_ppn_0270",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3174,
+  820
+ ]
+}

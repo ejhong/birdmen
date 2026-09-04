@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "standing anthropomorphic figure",
+  "circle or disc/dot marks",
+  "horizontal band or row of repeated short marks",
+  "curved animal- or bird-like profile forms"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the presence in both of small anthropomorphic figures and repeated horizontal rows of short strokes or patterned marks. The biggest difference is that A is an open, scattered painted line composition on a flat surface, while B is a densely carved vertical stone face organized into stacked relief zones.",
+ "a": "tanum_0056",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  568
+ ]
+}

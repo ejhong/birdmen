@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  1,
+  9,
+  2,
+  6,
+  5,
+  8,
+  3,
+  10,
+  7
+ ],
+ "most_similar_reason": "Candidate 4 shows a single dominant, strictly symmetrical frontal anthropomorphic figure whose head is crowned by a radiating fan/rayed headdress and whose body is framed by lateral appendages filling the vertical field, closely echoing the target's frontal winged personage with elaborate crest and ornaments.",
+ "least_similar_reason": "Candidate 7 depicts a schematic vessel with oars and tiny stick-like crew rather than any single elaborated anthropomorphic figure with wings, headdress and body ornaments, sharing no motif or arrangement with the target.",
+ "set": "same_control",
+ "i": 38,
+ "target": "mississippian_0002",
+ "planted": "mississippian_0006",
+ "cands": [
+  "maya_0130",
+  "rapa_nui_0054",
+  "assyria_0012",
+  "mississippian_0006",
+  "gotland_0128",
+  "assyria_0135",
+  "tanum_0054",
+  "assyria_0015",
+  "maya_0136",
+  "persepolis_0073"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "gotland",
+  "persepolis",
+  "maya",
+  "assyria",
+  "assyria",
+  "tanum",
+  "assyria",
+  "rapa_nui",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

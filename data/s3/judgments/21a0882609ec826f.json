@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic human/anthropomorphic figure",
+  "parallel linear bands or rows of repeated strokes",
+  "simple circular or oval motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main shared content is only generic: both include schematic anthropomorphic imagery and simple linear/geometric marks such as bands, repeated strokes, and round or oval forms. A is dominated by a single frontal human-like body with anatomical features and curved bands on it, while B is a crowded panel of small linear signs, animals/boats or boat-like forms, and register-like rows with no comparable central figure or bodily arrangement.",
+ "a": "rapa_nui_0113",
+ "b": "tanum_0340",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  674
+ ]
+}

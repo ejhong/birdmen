@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "procession of standing human figures in profile",
+  "figures in long robes with patterned/curled hair and beards",
+  "figures carrying objects or leading animals",
+  "horizontal relief frieze along a wall base/stair face",
+  "repeated figures facing the same direction in a single register",
+  "hands of one figure touching/holding the figure or animal ahead"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "9",
+ "justification": "Both surfaces show the same distinctive scheme: a single-register frieze of bearded, long-robed male figures in strict profile, all moving in one direction, closely spaced, some carrying vessels or gifts and some leading animals, with hands touching the figure ahead. B additionally includes rams led by attendants and a rosette border band, and A's frieze is more eroded and lacks visible animals, but the processional convention, figure proportions, hair/beard treatment and drapery rendering appear identical.",
+ "a": "persepolis_0070",
+ "b": "persepolis_0061",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3174,
+  337
+ ]
+}

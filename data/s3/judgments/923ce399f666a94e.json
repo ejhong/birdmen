@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "profile animal figures",
+  "bird-like head or bird in profile with eye/beak",
+  "curving serpent- or limb-like animal forms",
+  "linear/geometric signs or bands"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both surfaces use schematic relief outlines to show profile animals, including bird-like forms with a marked eye/beak and accompanying geometric/linear signs. The biggest difference is that A has a clearly organized stacked composition with multiple distinct birds, a patterned horizontal band, and other separate creatures, while B is much less legible and appears to preserve a looser vertical cluster of partial animal and sign forms rather than the same iconographic scheme.",
+ "a": "anatolia_ppn_p43full",
+ "b": "gotland_0133",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1725,
+  689
+ ]
+}

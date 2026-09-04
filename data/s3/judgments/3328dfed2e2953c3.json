@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "profile animal figures",
+  "schematic human or human-like figure/body parts",
+  "horizontal bands/registers",
+  "repeated geometric or sign-like motifs",
+  "relief/incised linear outlines"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "The strongest correspondence is that both surfaces combine schematic relief animal figures in profile with human or human-like imagery and banded/sign-like decoration on an upright surface. The biggest difference is that A is a crowded register-like composition with many distinct creatures, including bird-like and scorpion/snake-like forms, while B is dominated by a single anthropomorphic body with arms/hands and only a few much less prominent animal or sign motifs.",
+ "a": "anatolia_ppn_p43full",
+ "b": "rapa_nui_0022",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1909,
+  685
+ ]
+}

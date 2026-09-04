@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figures shown in profile",
+  "bearded male figures with patterned/curled hair and beards",
+  "figures wearing patterned garments with fringe",
+  "hand/arm gestures with held objects",
+  "low relief carving with incised surface detail",
+  "architectural/decorative patterning rendered as repeated blocks or hatching"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict bearded male figures in strict profile with curled hair and beards, patterned fringed garments, and outstretched arms holding objects, rendered in the same low-relief convention with incised linear infill for hair, textiles and masonry \u2014 a distinctive shared set of conventions. However, A shows a single large winged genie standing with raised hand and bucket-like vessel filling the panel, while B is a small-scale multi-figure narrative of archers and a siege engine attacking a towered, gated fortification, so the compositions and the relationships between figures are quite different.",
+ "a": "assyria_0146",
+ "b": "assyria_0092",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3149,
+  350
+ ]
+}

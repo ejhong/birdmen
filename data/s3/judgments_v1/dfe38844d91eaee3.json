@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "carved stone monolith",
+  "relief carving on flat stone surface",
+  "horizontal banding of motifs",
+  "circular/disc motif",
+  "weathered limestone-like material"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both are large upright stone slabs bearing carved relief decoration including a circular motif, but A shows a narrow rectangular stele with distinct figurative bands (birds, animals, geometric patterns) while B is a thick anthropomorphic block with abstracted body-like markings and no clear figural imagery. The overall form, proportions, and carving style differ substantially, making the resemblance largely generic (upright decorated stone) rather than compositional or stylistic.'",
+ "a": "anatolia_ppn_p43full2",
+ "b": "rapa_nui_0004",
+ "model": "sonnet",
+ "set": "target",
+ "usage": [
+  1883,
+  257
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "monolithic anthropomorphic figure carved from an upright block",
+  "human face with brow ridge, eyes and nose rendered frontally",
+  "blocky, columnar body with head continuous with the block",
+  "schematic low-relief facial features"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict a frontal anthropomorphic figure carved as a single upright columnar block, with a schematic face (heavy straight brow, deep-set eyes, broad nose) occupying the upper part and the body continuing as an undifferentiated slab below. The clearest difference is that B carries an elaborate program of incised motifs across the torso \\u2014 concentric discs, arcs, a belt-like band and paired vertical elements flanking the head \\u2014 whereas A shows only the face with no body iconography visible, so the specific ornamental scheme cannot be matched.",
+ "a": "anatolia_ppn_0222",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2974,
+  344
+ ]
+}

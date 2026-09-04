@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  6,
+  2,
+  4,
+  1,
+  8,
+  9,
+  7,
+  10,
+  5
+ ],
+ "most_similar_reason": "Candidate 3 is most similar because it shows a comparable vertical relief composition of schematic animal figures and sign-like bands on a pillar-like surface, with the figures arranged in a similar stacked relationship and drawn in a closely related outline/low-relief style.",
+ "least_similar_reason": "Candidate 5 is least similar because it depicts a boat-like linear motif with oar- or rib-like marks and surrounding script-like strokes, lacking the target\u2019s profile animals, vertical figure arrangement, and distinctive relief iconography.",
+ "set": "moai_close_among_random",
+ "i": 15,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "gotland_0009",
+  "assyria_0088",
+  "maya_0136",
+  "maya_0162",
+  "tanum_0054",
+  "maya_0045",
+  "egypt_0024",
+  "egypt_0004",
+  "rapa_nui_0004",
+  "tanum_0049"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "tanum",
+  "maya",
+  "maya",
+  "gotland",
+  "egypt",
+  "egypt",
+  "tanum",
+  "assyria",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 7
+}

@@ -1,0 +1,28 @@
+{
+ "shared_elements": [
+  "procession of standing human figures in profile",
+  "robed figures with long garments",
+  "figures wearing tall headgear/caps",
+  "register bands of relief separated by horizontal moldings",
+  "figures facing in a consistent direction, one behind the other",
+  "figure leading/holding an animal",
+  "hands touching or holding the figure in front",
+  "animals in profile (quadrupeds)",
+  "low relief carving on a wall frieze"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "9",
+ "justification": "Both show the same distinctive scheme: horizontal registers of processing robed figures in profile, one behind another with hands touching the person ahead, wearing tall headgear, and including a figure leading a quadruped, all rendered in shallow relief with the same proportions and drapery conventions. The main difference in content is that A is a close view showing an ornamental rosette border above and below, while B shows multiple stacked registers including a tree and additional animals, but this looks like different parts of the same iconographic programme.",
+ "a": "persepolis_0077",
+ "b": "persepolis_0051",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3349,
+  357
+ ]
+}

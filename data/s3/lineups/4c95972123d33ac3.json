@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  5,
+  1,
+  9,
+  8,
+  2,
+  6,
+  10,
+  7,
+  4
+ ],
+ "most_similar_reason": "Candidate 3 is the only one that, like the target, depicts an animal in flat schematic profile relief accompanied by sinuous serpentine bands rather than human figures, matching the target's animal-and-snake repertoire and outline-with-plain-infill drawing style.",
+ "least_similar_reason": "Candidate 4 is covered entirely by rows of repeated inscribed signs with no creatures, figures or pictorial motifs at all, sharing nothing with the target's registers of animals.",
+ "set": "moai_close_among_random",
+ "i": 16,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "rapa_nui_0004",
+  "assyria_0096",
+  "gotland_0115",
+  "egypt_0069",
+  "gotland_0117",
+  "assyria_0160",
+  "egypt_0032",
+  "egypt_0043",
+  "mississippian_0001",
+  "persepolis_0035"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "assyria",
+  "mississippian",
+  "egypt",
+  "egypt",
+  "assyria",
+  "persepolis",
+  "egypt",
+  "gotland",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 3
+}

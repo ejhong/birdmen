@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "standing richly costumed human figure dominating the field",
+  "elaborate headdress with long plumes/feathers",
+  "beaded necklace and pectoral ornament",
+  "patterned kilt/loincloth with fringed hem",
+  "wristlets/anklets and ornamental belt elements",
+  "blocks of square hieroglyph-like signs arranged in columns/grid",
+  "small subsidiary figure at lower level near the main figure's feet",
+  "low-relief carving on a rectangular slab with framing border"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "7",
+ "justification": "Both show a single ornately dressed standing personage with a towering plumed headdress, beaded pectoral and fringed kilt, accompanied by a small subordinate figure at the lower level and by grids of square glyph-like sign blocks \u2014 a very specific and arbitrary combination unlikely to arise independently, rendered in the same shallow, densely textured relief with the same crowded infill conventions. The main differences are orientation and layout: A's figure is in profile with glyph columns framing him on both sides in a wide panel, while B's figure is nearly frontal on a tall slab with the glyph blocks confined to one lower side and a bound captive in a basal register.",
+ "a": "maya_0048",
+ "b": "maya_0130",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3224,
+  764
+ ]
+}

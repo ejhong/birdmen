@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "carved stone relief",
+  "geometric banding/patterning",
+  "disc or circular motif",
+  "schematic (non-naturalistic) rendering of forms"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both are stone reliefs organized in horizontal registers with schematic geometric infill and a rounded/disc motif, but A depicts a single stylized anthropomorphic figure (face, arms, belt, breast-disc) while B depicts a frieze of animals (birds, a quadruped, a snake-like form) beneath basket-like arches. The biggest difference is subject matter itself\u2014human figure versus animal narrative scene\u2014so beyond generic use of pattern and circular shapes there is little specific correspondence.",
+ "a": "rapa_nui_0004",
+ "b": "anatolia_ppn_p43full",
+ "model": "sonnet",
+ "set": "target",
+ "usage": [
+  2848,
+  892
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  6,
+  2,
+  3,
+  9,
+  7,
+  4,
+  1,
+  5,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 shows a stone slab carved in low relief with stylized standing figures arranged in a vertical composition, closely matching the target's technique of carved registers with figures and symbolic bands.",
+ "least_similar_reason": "Candidate 10 shows only an eroded, undecorated stone surface with no discernible figures, symbols, or compositional arrangement comparable to the target's rich figurative and hieroglyphic relief.",
+ "set": "moai_close_among_random",
+ "i": 5,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "egypt_0009",
+  "tanum_0074",
+  "rapa_nui_0004",
+  "maya_0152",
+  "egypt_0035",
+  "egypt_0037",
+  "catalhoyuk_0025",
+  "assyria_0135",
+  "catalhoyuk_0039",
+  "gotland_0133"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "tanum",
+  "maya",
+  "catalhoyuk",
+  "assyria",
+  "catalhoyuk",
+  "egypt",
+  "gotland",
+  "egypt",
+  "egypt"
+ ],
+ "model": "sonnet",
+ "planted_rank": 4
+}

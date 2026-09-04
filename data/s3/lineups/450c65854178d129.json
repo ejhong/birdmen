@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  2,
+  1,
+  8,
+  9,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "most_similar_reason": "Candidate 10 shows the same distinctive schematic carved figure as the target, with rounded projecting body parts and curving incised bands arranged around a central torso-like form.",
+ "least_similar_reason": "Candidate 7 appears to show an essentially plain upright slab with no comparable depicted figure, body parts, symbols, or relief arrangement.",
+ "set": "same_control_monoliths",
+ "i": 9,
+ "target": "anatolia_ppn_0244",
+ "planted": "anatolia_ppn_0041",
+ "cands": [
+  "rapa_nui_0046",
+  "rapa_nui_0047",
+  "anatolia_ppn_0041",
+  "egypt_0040",
+  "egypt_0049",
+  "maya_0077",
+  "maya_0000",
+  "maya_0113",
+  "maya_0105",
+  "rapa_nui_0044"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "rapa_nui",
+  "rapa_nui",
+  "egypt",
+  "maya",
+  "maya",
+  "rapa_nui",
+  "maya",
+  "egypt",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 6
+}

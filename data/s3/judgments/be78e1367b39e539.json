@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "frontal anthropomorphic figure or face",
+  "prominent eyes/facial features",
+  "central circular motif on the body or face",
+  "bilateral symmetry",
+  "geometric/linear body ornament"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both surfaces present a vertically oriented, bilaterally symmetrical frontal anthropomorphic or supernatural figure/face with prominent facial features and a central circular motif. The biggest difference is that A shows a detailed full-bodied standing figure with limbs, costume, and surrounding/flanking motifs, while B is a much more schematic figure or mask-like form dominated by simple incised face and body signs without the same attributes or accompanying elements.",
+ "a": "maya_0087",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  683
+ ]
+}

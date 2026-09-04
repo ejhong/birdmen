@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  4,
+  9,
+  5,
+  6,
+  7,
+  1,
+  2,
+  3,
+  8
+ ],
+ "most_similar_reason": "Candidate 10 likewise presents a tall upright slab whose whole face is filled with a stacked column of oversized, framed sign-blocks containing figural and animal-like emblems, matching the target's arrangement of monumental glyph-scale motifs in registers rather than a single pictorial scene.",
+ "least_similar_reason": "Candidate 8 shows only a bare outline of a shaped stone with a few schematic implements and an arch, lacking the target's animal/bird signs, banded registers and dense repertoire of carved emblems.",
+ "set": "moai_iso_among_monoliths",
+ "i": 12,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0044",
+  "gotland_0004",
+  "rapa_nui_hoa_iso",
+  "egypt_0041",
+  "maya_0110",
+  "maya_0092",
+  "egypt_0047",
+  "gotland_0131",
+  "egypt_0071",
+  "maya_0053"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "gotland",
+  "maya",
+  "egypt",
+  "gotland",
+  "egypt",
+  "egypt",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 9
+}

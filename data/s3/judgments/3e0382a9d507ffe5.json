@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figures in profile",
+  "animals in profile",
+  "human figure(s) accompanying/leading animals",
+  "relief carving with figural scenes",
+  "registers or divided fields of imagery"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict human figures together with animals in profile relief, and A's stacked registers loosely echo B's single banded frieze with a ground line, but that is about as generic as figural relief gets. B shows a specific, legible scene of two bearded men leading two horned rams in overlapping profile procession with dense stippled fleece and patterned headgear, whereas A shows a dense, vertically stacked composition of frontal/seated figures, elaborate headdresses and blocks of sign-like glyph panels \u2014 no shared distinctive motif, posture or attribute.",
+ "a": "maya_0138",
+ "b": "persepolis_0064",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3224,
+  306
+ ]
+}

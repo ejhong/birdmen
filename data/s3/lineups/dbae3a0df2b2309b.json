@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  7,
+  2,
+  8,
+  4,
+  9,
+  5,
+  1,
+  10,
+  3
+ ],
+ "most_similar_reason": "Candidate 6 shares the distinctive combination of a stylized bird head and a handled bag motif.",
+ "least_similar_reason": "Candidate 3 depicts a linear boat motif completely unrelated to the target's animal reliefs.",
+ "set": "moai_among_random",
+ "i": 25,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "rapa_nui_0113",
+  "gotland_0026",
+  "tanum_0074",
+  "egypt_0065",
+  "gotland_0009",
+  "assyria_0120",
+  "assyria_0125",
+  "assyria_0034",
+  "assyria_0109",
+  "tanum_0128"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "assyria",
+  "tanum",
+  "assyria",
+  "gotland",
+  "assyria",
+  "tanum",
+  "egypt",
+  "assyria",
+  "gotland"
+ ],
+ "model": "gemini",
+ "planted_rank": 8
+}

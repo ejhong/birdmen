@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "circle or disc",
+  "horizontal band or stripe",
+  "curvilinear relief motifs on an upright stone surface"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of relief carving on a tall stone support with circular/curving motifs and some horizontal banding. The biggest difference is that A reads as a single large anthropomorphic form with centralized decoration, while B is a flatter panel organized into stacked registers of many separate figures and signs.",
+ "a": "rapa_nui_0047",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  638
+ ]
+}

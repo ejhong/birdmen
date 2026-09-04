@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "profile head/creature",
+  "bird or wing motif",
+  "circle or disc motifs",
+  "linear/geometric infill or banding",
+  "schematic outlined figures"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both use schematic outline drawing to show a profile creature associated with bird/wing imagery and circular disc-like motifs, with some linear/geometric internal detailing. The major difference is that A is a multi-register composition of separate animals, signs, and patterned bands, while B is dominated by a single profile winged anthropomorphic figure whose discs and lines decorate the body and wing.",
+ "a": "anatolia_ppn_p43full",
+ "b": "mississippian_0009",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1962,
+  675
+ ]
+}

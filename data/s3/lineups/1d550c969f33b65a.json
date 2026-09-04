@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  3,
+  2,
+  8,
+  1,
+  4,
+  5,
+  6,
+  9,
+  7
+ ],
+ "most_similar_reason": "Candidate 10 shows the same kind of shallow, outlined low-relief animals \u2014 a quadruped in profile with sinuous serpent-like forms and elongated limbs stacked across the surface \u2014 matching the target's repertoire of profile creatures and snakes rendered as flat silhouettes with raised contours.",
+ "least_similar_reason": "Candidate 7 depicts a single naturalistic mounted rider on a horse, a wholly different subject with no stacked animal registers, snakes, birds or geometric bands like the target.",
+ "set": "hard",
+ "i": 3,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0133",
+  "gotland_0125",
+  "gotland_0123",
+  "egypt_0027",
+  "egypt_0012",
+  "rapa_nui_0113",
+  "gotland_0115",
+  "maya_0047",
+  "gotland_0116",
+  "tanum_0359"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "gotland",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 8
+}

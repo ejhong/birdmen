@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "relief carving in low raised relief",
+  "glyph-like signs with rounded, cartouche-shaped outlines",
+  "dense rectilinear ordering of motifs into rows/columns or panels",
+  "elaborate scroll and volute infill within motif outlines",
+  "column of glyph blocks along one edge (B) matching the glyph grid of A"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both surfaces carry the same distinctive repertoire of rounded, cartouche-framed glyph blocks packed with scrollwork and infill, and B carries a vertical column of such blocks that matches A's grid convention closely enough to suggest a shared sign system and carving style. The decisive difference is subject: A is entirely a grid of glyphs with no figure, while B is dominated by a large standing human figure in elaborate headdress holding an object, with glyphs merely subsidiary.",
+ "a": "maya_0011",
+ "b": "maya_0137",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3024,
+  339
+ ]
+}

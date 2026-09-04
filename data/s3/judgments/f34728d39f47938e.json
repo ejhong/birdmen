@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief figures shown in profile/silhouette",
+  "horizontal band dividing the surface into registers",
+  "row of repeated enclosed motifs (cartouche-like or arch-like units) along a band",
+  "zigzag/hatched linear filler pattern within a band",
+  "row of creatures aligned side by side facing one direction"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces organise flat, outlined low-relief figures into registers divided by a horizontal band that carries a row of repeated enclosed units and zigzag/hatched filler, and both place a line of profile creatures side by side above or below that band. But the actual subjects differ fundamentally: A shows costumed anthropomorphic figures with headdresses seated around a central emblem, while B shows only animals (a quadruped, birds, a snake-like form) with no human figures and no interaction between them.",
+ "a": "maya_0115",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  875
+ ]
+}

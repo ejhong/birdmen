@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  10,
+  3,
+  7,
+  1,
+  9,
+  5,
+  8,
+  2,
+  6
+ ],
+ "most_similar_reason": "Candidate 4 is, like the target, a flat upright slab bearing low-relief human figures arranged in stacked registers together with small sign-like emblems, drawn in the same schematic, flat, outline-and-infill relief manner.",
+ "least_similar_reason": "Candidate 6 is a single crude three-dimensional anthropomorphic lump with no scene, no registers, no attendant figures, objects or sign groups, so it shares none of the target's narrative, multi-figure register composition.",
+ "set": "same_control_monoliths",
+ "i": 31,
+ "target": "egypt_0072",
+ "planted": "egypt_0042",
+ "cands": [
+  "gotland_0112",
+  "anatolia_ppn_0080",
+  "egypt_0042",
+  "maya_0092",
+  "rapa_nui_0022",
+  "anatolia_ppn_0241",
+  "maya_0097",
+  "rapa_nui_0063",
+  "rapa_nui_0069",
+  "gotland_0009"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "rapa_nui",
+  "gotland",
+  "anatolia_ppn",
+  "gotland",
+  "rapa_nui",
+  "maya",
+  "rapa_nui",
+  "maya",
+  "anatolia_ppn"
+ ],
+ "model": "opus",
+ "planted_rank": 3
+}

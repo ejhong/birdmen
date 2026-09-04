@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  4,
+  10,
+  1,
+  2,
+  6,
+  3,
+  5,
+  7,
+  8
+ ],
+ "most_similar_reason": "Candidate 9 shows, like the target, a single weathered pale monolithic block still lying in its outdoor findspot, its surface covered with shallow, low-relief carving that follows the natural contour of the stone.",
+ "least_similar_reason": "Candidate 8 is a densely packed, deeply modelled and brightly coloured panel with crowded figural and ornamental motifs filling every space, the opposite of the target's sparse, flat, monochrome incised animals on an open stone ground.",
+ "set": "moai_among_random",
+ "i": 39,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "maya_0050",
+  "rapa_nui_0113",
+  "maya_0060",
+  "catalhoyuk_0026",
+  "maya_0106",
+  "mississippian_0001",
+  "maya_0053",
+  "maya_0028",
+  "maya_0070",
+  "assyria_0000"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "mississippian",
+  "maya",
+  "maya",
+  "maya",
+  "catalhoyuk",
+  "maya",
+  "assyria",
+  "maya",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 5
+}

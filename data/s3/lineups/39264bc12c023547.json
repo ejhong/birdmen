@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  1,
+  6,
+  3,
+  2,
+  8,
+  9,
+  4,
+  7,
+  5
+ ],
+ "most_similar_reason": "Candidate 10 is most similar because it shows a vertically organized carved surface crowded with schematic relief animals and symbolic motifs in stacked/register-like zones, closely matching the target\u2019s animal-and-sign iconographic arrangement.",
+ "least_similar_reason": "Candidate 5 is least similar because it shows essentially a rock face or architectural cliff surface with no clearly comparable depicted animals, figures, or symbolic motifs.",
+ "set": "moai_among_random",
+ "i": 28,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "maya_0023",
+  "maya_0069",
+  "rapa_nui_0113",
+  "egypt_0069",
+  "egypt_0006",
+  "tanum_0129",
+  "maya_0147",
+  "egypt_0062",
+  "persepolis_0062",
+  "egypt_0048"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "persepolis",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "tanum",
+  "egypt",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 4
+}

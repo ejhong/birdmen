@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "horizontal band/register of repeated pattern",
+  "zigzag or triangular geometric motifs",
+  "framed or bounded fields of decoration",
+  "linear carving on stone"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of horizontal registers containing repeated geometric motifs, especially angular or triangular zigzag-like forms. The biggest difference is that A is a sparse, largely symmetrical abstract design inside an arched frame, while B is a dense multi-register relief with many figural forms and no comparable overall framing scheme.",
+ "a": "gotland_0008",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1256,
+  628
+ ]
+}

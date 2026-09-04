@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "horizontal band of repeated geometric pattern",
+  "triangles or diamond-like lattice",
+  "circle or disc",
+  "vertical dividing line or seam"
+ ],
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest specific correspondence is the upper horizontal zone filled with repeated triangular/diamond-like patterning, with more open curvilinear or circular motifs below. The biggest difference is that A is a tall, crowded, low-relief figural carving with humans and animals, while B is an arched, framed slab dominated by broad abstract geometric panels and dark painted/incised areas.",
+ "a": "anatolia_ppn_p43full",
+ "b": "gotland_0111",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1230,
+  647
+ ]
+}

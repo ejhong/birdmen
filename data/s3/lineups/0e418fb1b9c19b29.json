@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  3,
+  1,
+  7,
+  9,
+  5,
+  6,
+  4,
+  2,
+  8
+ ],
+ "most_similar_reason": "Candidate 10 is most similar because it also shows a tall upright anthropomorphic monument with a frontal, highly schematic body/face covered in incised geometric and figural motifs arranged vertically on the form.",
+ "least_similar_reason": "Candidate 8 is least similar because it depicts a naturalistic side-view procession of multiple human figures and an animal, with none of the target\u2019s solitary frontal anthropomorphic-idol arrangement or distinctive body-like geometric carving.",
+ "set": "p43_among_random",
+ "i": 32,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "tanum_0327",
+  "persepolis_0064",
+  "maya_0110",
+  "egypt_0004",
+  "assyria_0092",
+  "assyria_0041",
+  "assyria_0105",
+  "persepolis_0061",
+  "assyria_0118",
+  "anatolia_ppn_p43full"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "persepolis",
+  "assyria",
+  "assyria",
+  "persepolis",
+  "maya",
+  "tanum",
+  "egypt",
+  "assyria",
+  "assyria"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

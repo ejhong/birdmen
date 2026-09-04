@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human figures in profile",
+  "figures holding objects in their hands",
+  "low relief carving of figures on a vertical/flat stone surface",
+  "elaborate headgear/headdress on figures"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both depict human figures in low relief carrying objects, but that is a generic correspondence: A shows one or two densely ornamented, frontally massed figures crowded with glyph-like blocks and swirling plumed regalia filling the whole field, while B shows a repeating processional file of evenly spaced profile figures in long robes with bowls and cups, marching toward a leading figure above a border of rosettes. The conventions differ sharply \u2014 A's dense, non-repeating, ornament-saturated composition versus B's regular, spacious, rhythmic frieze with a decorative base band \u2014 giving no sign of a shared iconographic scheme.",
+ "a": "maya_0088",
+ "b": "persepolis_0097",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  334
+ ]
+}

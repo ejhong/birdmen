@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "profile human figure",
+  "horizontal band/register of small repeated signs or pattern",
+  "carved stone surface with shallow linear relief/incision",
+  "frontal rectangular/slab-like decorated field"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The strongest correspondence is the use of profile figures placed above or among horizontal bands of small repeated carved signs, giving both objects a registered, inscription-like structure. The biggest difference is that A is a tall, irregular, crowded relief with multiple stacked motifs and deeper, rougher carving, while B is a more self-contained arched slab with a central scene rendered in finer incised lines above neat lower bands.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0066",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  671
+ ]
+}

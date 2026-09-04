@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figures in strict profile",
+  "low relief carving with incised surface detail",
+  "patterned/stippled infill conventions (beard curls, brickwork, fleece)",
+  "figures shown in a processional/directional arrangement facing one way",
+  "animals in profile (rams in B; none comparable in A)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both show profile human figures in low relief with dense incised patterning used as infill (bearded head and hair curls in B; brickwork, scale armour and archers in A), which suggests broadly comparable relief conventions. But the depicted subjects differ fundamentally: A is a narrative siege scene with archers, a wheeled siege engine and fortified walls, while B is a calm figure leading two horned rams, with no architecture, weapons or action in common.",
+ "a": "assyria_0092",
+ "b": "persepolis_0011",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3249,
+  311
+ ]
+}

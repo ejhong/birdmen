@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  2,
+  5,
+  6,
+  10,
+  9,
+  1,
+  8,
+  3,
+  7
+ ],
+ "most_similar_reason": "Candidate 4 shows, like the target, an upright anthropomorphic pillar/stela whose body carries low-relief motifs \u2014 arm-like bands, encircling belt-like elements and schematic symbols arranged vertically down a body-shaped block \u2014 the same distinctive conceit of a standing stone treated as a stylised figure.",
+ "least_similar_reason": "Candidate 7 depicts a single schematic ship with a crew of upright oarsmen drawn in linear outline, sharing no element, form or arrangement with the target's relief-carved anthropomorphic figure-stela.",
+ "set": "p43_among_random",
+ "i": 38,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "egypt_0018",
+  "maya_0094",
+  "tanum_0087",
+  "anatolia_ppn_p43full",
+  "egypt_0076",
+  "persepolis_0026",
+  "tanum_0054",
+  "egypt_0002",
+  "assyria_0032",
+  "egypt_0051"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "tanum",
+  "egypt",
+  "egypt",
+  "maya",
+  "tanum",
+  "persepolis",
+  "egypt",
+  "assyria",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

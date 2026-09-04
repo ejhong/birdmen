@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  5,
+  3,
+  4,
+  2,
+  8,
+  10,
+  7,
+  9,
+  6
+ ],
+ "most_similar_reason": "Candidate 1 shares the low-relief depiction of human figures in profile using similar representational conventions.",
+ "least_similar_reason": "Candidate 6 features schematic linear motifs of boats, lacking any detailed figural carving.",
+ "set": "related_control",
+ "i": 9,
+ "target": "persepolis_0062",
+ "planted": "assyria_0138",
+ "cands": [
+  "assyria_0138",
+  "anatolia_ppn_0232",
+  "maya_0087",
+  "maya_0052",
+  "maya_0136",
+  "tanum_0341",
+  "anatolia_ppn_0263",
+  "anatolia_ppn_0244",
+  "tanum_0067",
+  "maya_0146"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "tanum",
+  "anatolia_ppn",
+  "tanum",
+  "maya",
+  "maya",
+  "anatolia_ppn",
+  "maya",
+  "maya",
+  "anatolia_ppn"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

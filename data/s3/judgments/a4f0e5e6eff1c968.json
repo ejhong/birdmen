@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic linear figures arranged in scattered/stacked registers",
+  "horizontal band filled with repeated short vertical strokes",
+  "repeated row of similar elements aligned along a horizontal line",
+  "small dots/circular marks"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The only real correspondence is generic: both surfaces carry schematic, outline-style figures placed in loose horizontal registers, including a band of repeated short vertical strokes (crew-strokes on the boats in A, a hatched band in B). Subject matter diverges completely, since A is dominated by boats with paired upturned prows plus a few stick-figure humans, while B shows a repertoire of animals in profile (quadrupeds in a row, a canid, a snake, a large bird) together with arms and hands on a shaped pillar.",
+ "a": "tanum_0060",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  711
+ ]
+}

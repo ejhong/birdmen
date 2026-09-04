@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "standing human figures in profile",
+  "bearded royal/elite figure with headdress",
+  "raised arm/hand gesture toward another figure",
+  "object held in hand (bowl/cup, staff)",
+  "panel of dense cuneiform-like inscription filling lower field",
+  "figures rendered in low relief above a text block",
+  "winged disc / divine symbols above figures"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both show profile standing figures in low relief with raised gesturing arms and held objects, set above and around a large field of dense wedge-script inscription, and both include the convention of divine emblems above the human figures (explicit winged disc and symbol row in B, arced element in A). The biggest difference is scale of depiction and completeness: A is a close two-figure confrontation scene where the huge figures dominate the whole field and stand upon the text, whereas B is a small arched panel in which tiny figures form a narrow register above a dominant rectangular inscription block flanked by additional figures.",
+ "a": "assyria_0008",
+ "b": "egypt_0059",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  367
+ ]
+}

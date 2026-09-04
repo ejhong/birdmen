@@ -1,0 +1,3542 @@
+{
+ "n_judgments": 3872,
+ "sets": {
+  "null": 1493,
+  "search_p43_gpt": 447,
+  "search_hoa_gpt": 447,
+  "search_p43": 447,
+  "reliability": 200,
+  "search_hoa": 447,
+  "same": 200,
+  "target": 36,
+  "poscontrol": 149,
+  "target_iso": 6
+ },
+ "null": {
+  "n": 1493,
+  "mean": 2.2585398526456797,
+  "sd": 1.2331119365831513,
+  "quantiles": {
+   "0.5": 2.0,
+   "0.75": 3.0,
+   "0.9": 4.0,
+   "0.95": 5.0,
+   "0.99": 6.0
+  },
+  "hist": [
+   22,
+   346,
+   713,
+   199,
+   110,
+   68,
+   25,
+   8,
+   1,
+   1,
+   0
+  ]
+ },
+ "null_gpt": {},
+ "same": {
+  "n": 200,
+  "mean": 5.84,
+  "sd": 2.2504221826137423,
+  "quantiles": {
+   "0.5": 6.0,
+   "0.75": 7.25,
+   "0.9": 9.0,
+   "0.95": 9.0,
+   "0.99": 10.0
+  },
+  "hist": [
+   0,
+   4,
+   14,
+   15,
+   26,
+   26,
+   35,
+   30,
+   20,
+   23,
+   7
+  ]
+ },
+ "poscontrol": {
+  "n": 149,
+  "mean": 4.684563758389261,
+  "sd": 1.232050989978914,
+  "quantiles": {
+   "0.5": 5.0,
+   "0.75": 5.0,
+   "0.9": 6.0,
+   "0.95": 7.0,
+   "0.99": 7.52000000000001
+  },
+  "hist": [
+   0,
+   2,
+   6,
+   13,
+   35,
+   65,
+   18,
+   8,
+   2,
+   0,
+   0
+  ]
+ },
+ "target_rows": [
+  {
+   "judge": "sonnet",
+   "p43": "full_above",
+   "hoa": "back_close",
+   "order": "p43_left",
+   "score": 2,
+   "sub": 5,
+   "elements": [
+    "circular disc motif",
+    "horizontal band/pattern"
+   ],
+   "why": "Both surfaces include a roughly circular disc-like motif and some horizontal banding, but the surrounding content diverges sharply: A depicts an architectural (arch) motif, profile animal/bird figures and zigzag lines on a flat pillar, while B shows a single disc and belt-like band carved on the back of an anthropomorphic statue. The correspondence is limited to generic geometric shapes rather than a shared specific iconographic scheme."
+  },
+  {
+   "judge": "opus",
+   "p43": "top_only",
+   "hoa": "back_full",
+   "order": "p43_right",
+   "score": 5,
+   "sub": 10,
+   "elements": [
+    "low-relief carving on a standing stone/pillar surface",
+    "row of repeated arch- or U-shaped motifs across the upper zone",
+    "horizontal band or register dividing the composition",
+    "animal/creature figures in profile below the band",
+    "circular or disc motif",
+    "schematic, flattened relief with rounded outlines"
+   ],
+   "why": "Both surfaces show a tall standing block carved in low relief with a horizontal register system: an upper row of repeated arch/U-shaped motifs (three in B, comparable paired loops/arcs at the top of A) above a banded divider, with rounded schematic forms below, including a prominent disc-like element. The differences are substantial in the lower zone: B shows distinct profile creatures (bird-like and quadruped/reptile forms) with a fringed or toothed band, whereas A's body is dominated by an anthropomorphic pillar-figure with abstract bosses, a large concentric disc and belt-like arcs rather than identifiable animals."
+  },
+  {
+   "judge": "opus",
+   "p43": "full",
+   "hoa": "back_full",
+   "order": "p43_right",
+   "score": 6,
+   "sub": 10,
+   "elements": [
+    "anthropomorphic monolith/pillar carved in low relief",
+    "row of animals in profile arranged in a register across the upper body",
+    "horizontal band/belt encircling the torso with pendant elements below",
+    "bird-like creature in profile",
+    "quadruped with visible legs and tail in profile",
+    "circular disc or ring motif on the body",
+    "arms/limbs rendered in shallow relief on the shaft",
+    "registers stacked vertically on a single body-shaped surface"
+   ],
+   "why": "Both surfaces depict an anthropomorphic standing monolith whose body carries stacked registers: a row of profile animals near the top, a horizontal encircling band/belt across the torso with elements hanging or set below it, and further creatures or discs on the lower shaft, all in flat schematic low relief. The clearest difference is in the specific creature repertoire and detail: B shows clearly readable birds, snouted quadrupeds and a large bird with splayed limbs plus an arm-and-hand rendered on the shaft, whereas A's motifs are more abstract, dominated by a plain concentric disc and geometric bands with a distinct head-and-headdress block at the top rather than a plain T-crossbar."
+  },
+  {
+   "judge": "sonnet",
+   "p43": "full",
+   "hoa": "back_close",
+   "order": "p43_left",
+   "score": 0,
+   "sub": 0,
+   "elements": [],
+   "why": "Image A depicts a carved relief with animals (a fox or dog-like creature, a bird, insect-like or scorpion-like figures) arranged in horizontal registers with geometric fringe patterns, while Image B depicts a single monolithic humanoid figure with abstracted facial features and a simple circular motif on the torso. There is no shared iconographic content: no common creature type, no shared body-part rendering, and no comparable compositional scheme beyond both being carved stone surfaces."
+  },
+  {
+   "judge": "gpt",
+   "p43": "full",
+   "hoa": "back_full",
+   "order": "p43_left",
+   "score": 4,
+   "sub": 7,
+   "elements": [
+    "schematic anthropomorphic or body-like figure/parts",
+    "circle or disc motifs",
+    "horizontal/vertical bands of repeated geometric marks",
+    "stylized animal-like forms"
+   ],
+   "why": "The strongest overlap is that both surfaces use schematic relief/incised conventions with circular signs, repeated geometric bands, and some body- or creature-like imagery on a vertical field. The biggest difference is that A is dominated by multiple separate profile animals/birds and sign-like motifs arranged in registers, while B is dominated by a single frontal anthropomorphic figure or mask-like body with circular features and radiating/geometric decoration."
+  },
+  {
+   "judge": "opus",
+   "p43": "full_above",
+   "hoa": "back_full",
+   "order": "p43_right",
+   "score": 6,
+   "sub": 10,
+   "elements": [
+    "tall upright anthropomorphic pillar/stela with carving on its broad front face",
+    "upper register of repeated relief motifs arranged in a row across the top block",
+    "arch-like / loop-shaped repeated forms in the top register",
+    "circular or disc motif on the body",
+    "horizontal band with chevron/zigzag or repeated-stroke pattern crossing the shaft (belt-like)",
+    "schematic bent limbs/arms rendered in low relief on the front",
+    "small animal or creature figures in relief"
+   ],
+   "why": "Both surfaces present a monolithic upright anthropomorphic body carved in shallow relief with the same vertical scheme: a row of repeated, arch-like/looped motifs across the top register, then bent limbs and a disc or rounded motif on the torso, then a horizontal belt-like band filled with chevron or repeated-stroke pattern, with smaller creature forms below. The biggest differences in content are that B's upper register is clearly populated by identifiable animals and hands with elongated fingers meeting at the belt, while A's motifs are heavier, bulbous and more abstract (a prominent ringed disc as a pectoral and mask-like head-zone bands), so the specific inventory of creatures and attributes does not match closely."
+  },
+  {
+   "judge": "opus",
+   "p43": "top_only",
+   "hoa": "back_close",
+   "order": "p43_right",
+   "score": 3,
+   "sub": 6,
+   "elements": [
+    "low-relief carving on an upright monolithic slab/pillar",
+    "horizontal registers or bands of repeated motifs",
+    "circular disc motif",
+    "schematic limb/arm forms rendered in shallow relief",
+    "row of repeated arch- or crescent-shaped elements (A: brow/ear features; B: three arched motifs)"
+   ],
+   "why": "Both are upright monolithic surfaces carved in flat, schematic low relief with a disc motif and stacked bands of repeated elements, which gives a loose formal kinship in carving convention. But the depicted content differs fundamentally: A shows a single anthropomorphic figure with head, arms, belt and chest disc, while B shows registers of arched fringed objects above a row of profile animals (quadruped, bird, snake) with no human figure at all."
+  },
+  {
+   "judge": "sonnet",
+   "p43": "top_only",
+   "hoa": "back_close",
+   "order": "p43_right",
+   "score": 3,
+   "sub": 7,
+   "elements": [
+    "horizontal band of hatched/cross-hatch pattern",
+    "circular disc motif",
+    "registers/rows of carved motifs on a stone surface"
+   ],
+   "why": "Both surfaces use a hatched horizontal band and a circular disc as recurring motifs organized in stacked registers, which is a moderately specific correspondence. However, A is a freestanding anthropomorphic figure with a schematic human face, arms and belt, while B is a flat relief showing a row of arch-like shapes above animal figures (bird- and fox-like forms), so the subject matter, relationships (disc as belt vs. disc amid animals), and overall gestalt differ substantially."
+  },
+  {
+   "judge": "sonnet",
+   "p43": "top_only",
+   "hoa": "back_full",
+   "order": "p43_right",
+   "score": 1,
+   "sub": 2,
+   "elements": [
+    "circular/disc motif",
+    "carved anthropomorphic-related surface"
+   ],
+   "why": "Image A depicts a single anthropomorphic figure with a stylized face, hands on belly, and a circular navel motif carved on a monolithic body, while Image B shows a flat panel with three arch-like shapes above a band of cross-hatching and small schematic figures. The only loose correspondence is the presence of a circular motif in each, but the subject matter, composition, and rendering conventions are otherwise unrelated."
+  },
+  {
+   "judge": "gpt",
+   "p43": "top_only",
+   "hoa": "back_full",
+   "order": "p43_right",
+   "score": 2,
+   "sub": 5,
+   "elements": [
+    "schematic linear motifs",
+    "circle or oval motifs",
+    "horizontal band or row of repeated/parallel marks"
+   ],
+   "why": "The most specific overlap is the use of schematic carved-looking linear signs including circular/oval forms and horizontal bands of repeated marks. The biggest difference is that A is organized as a single frontal anthropomorphic body with torso features, arms, and belt-like bands, whereas B is a divided panel with arched signs and small animal-like/profile figures in registers."
+  },
+  {
+   "judge": "gpt",
+   "p43": "full",
+   "hoa": "back_close",
+   "order": "p43_right",
+   "score": 2,
+   "sub": 4,
+   "elements": [
+    "circle or disc motifs",
+    "curvilinear abstract signs",
+    "linear carved/outlined motifs"
+   ],
+   "why": "The main shared depicted content is very general: both surfaces include schematic carved/outlined motifs with circles or discs and curving lines. The biggest difference is that A reads as a single large anthropomorphic/torso-like figure with a central disc and bodily markings, while B is organized into registers of multiple profile animals and signs, so the iconographic scheme and element relationships are largely unrelated."
+  },
+  {
+   "judge": "sonnet",
+   "p43": "top_only",
+   "hoa": "back_full",
+   "order": "p43_left",
+   "score": 1,
+   "sub": 3,
+   "elements": [
+    "stylized facial/head-like features arranged symmetrically"
+   ],
+   "why": "Panel A shows a horizontal relief with arch-like repeated motifs above a band of small figures (a quadruped, a bird-like creature, and cross-hatched patterning), while Panel B depicts a single anthropomorphic standing figure with a carved head, arm-like ridges, and a circular disc motif on its torso. The only loose correspondence is that both use carved relief with some symmetrical, schematic facial or geometric motifs, but the actual subject matter (a narrative frieze of animals and patterns vs. a singular humanoid statue with body markings) is fundamentally different.of"
+  },
+  {
+   "judge": "opus",
+   "p43": "full",
+   "hoa": "back_full",
+   "order": "p43_left",
+   "score": 4,
+   "sub": 10,
+   "elements": [
+    "tall standing monolithic pillar/figure carved in low relief",
+    "circular disc set on the body",
+    "horizontal band(s) crossing the body",
+    "sinuous serpent-like or curved linear motifs",
+    "paired symmetrical motifs across the upper zone",
+    "schematic anthropomorphising of the block (head/shoulder zone above, body below)"
+   ],
+   "why": "Both surfaces treat a tall block as a schematic body carrying shallow relief organised in stacked zones, with a prominent circular disc on the torso, a horizontal band or belt below it, sinuous serpentine lines, and paired symmetrical motifs across the upper register. But A's content is dominated by clearly readable animals in profile (quadrupeds, a long-necked bird, a snake) and small human-like figures with a fringed band, whereas B's carving is almost entirely abstract curvilinear and mask-like forms with no identifiable animals, so the shared traits are largely generic monolith-decoration conventions rather than a common specific scheme."
+  },
+  {
+   "judge": "gpt",
+   "p43": "full",
+   "hoa": "back_close",
+   "order": "p43_left",
+   "score": 2,
+   "sub": 4,
+   "elements": [
+    "schematic relief figures",
+    "curving linear motifs",
+    "circle or oval sign",
+    "possible anthropomorphic body parts"
+   ],
+   "why": "The strongest correspondence is that both surfaces use schematic raised/outlined forms, including curved lines and a circular or oval motif on a vertically organized figure-like surface. The major difference is that A is a dense panel of multiple profile animals and repeated bands/signs, while B is dominated by a single anthropomorphic torso/back with a central ring and broad curved bands, so the depicted schemes do not really correspond."
+  },
+  {
+   "judge": "gpt",
+   "p43": "full_above",
+   "hoa": "back_close",
+   "order": "p43_left",
+   "score": 4,
+   "sub": 7,
+   "elements": [
+    "schematic animal figures in profile",
+    "bird-like figures",
+    "circle or disc motif",
+    "curving linear motifs",
+    "horizontal band or dividing line",
+    "anthropomorphic body/torso indication"
+   ],
+   "why": "The strongest correspondence is that both surfaces combine schematic incised/relief motifs including profile animal or bird-like figures, circular forms, and linear bands on an upright anthropomorphic or quasi-anthropomorphic surface. The biggest difference is that A is a dense, register-like field of multiple animals and patterned bands, while B is dominated by a single human-like torso/back with a few large emblematic motifs arranged on it."
+  },
+  {
+   "judge": "sonnet",
+   "p43": "full_above",
+   "hoa": "back_full",
+   "order": "p43_right",
+   "score": 4,
+   "sub": 9,
+   "elements": [
+    "anthropomorphic monolithic form",
+    "arm-like relief flanking the torso",
+    "circular disc motif on the body",
+    "horizontal banding across the surface"
+   ],
+   "why": "Both are vertical stone monoliths with a humanoid silhouette, flanking arm-like reliefs, and a central disc motif on the torso, suggesting a loosely comparable anthropomorphic scheme. However, A emphasizes a naturalistic carved face with minimal extra imagery, while B is dominated by abstract animal figures (fox/snake/bird-like) and arched patterning that have no counterpart in A, marking a clear divergence in specific iconography and style."
+  },
+  {
+   "judge": "opus",
+   "p43": "top_only",
+   "hoa": "back_full",
+   "order": "p43_left",
+   "score": 4,
+   "sub": 10,
+   "elements": [
+    "low-relief carving on an upright stone slab/pillar",
+    "animal or creature figures in profile",
+    "circular/disc motif",
+    "horizontal band or register dividing the surface",
+    "repeated row of similar motifs across the top",
+    "paired arm/hand-like elements bent over the front of the block"
+   ],
+   "why": "Both are upright monolithic blocks carved in shallow relief with registers: an upper row of repeated arched/head-like motifs, a mid band, and below it discs and bent arm-like elements curving around toward the front, with small creature forms in profile in A and rounded relief bosses in B. The biggest difference in content is that B is dominated by an anthropomorphic figure with a head, face and torso whose ornament is subordinate to the body, whereas A is a flat panel of independent animal and abstract signs with no unifying human form."
+  },
+  {
+   "judge": "sonnet",
+   "p43": "full_above",
+   "hoa": "back_close",
+   "order": "p43_right",
+   "score": 2,
+   "sub": 3,
+   "elements": [
+    "carved stone surface with figural relief",
+    "circular/disc motif",
+    "arm or hand-like forms rendered in low relief",
+    "schematic, non-naturalistic carving style"
+   ],
+   "why": "Both are carved stone monuments using schematic relief with a circular motif and hand/arm-like forms, but A depicts a single monumental anthropomorphic figure with its own body (arms, belt, torso) while B depicts a flat stele bearing multiple animal figures (bird, fox-like creature) and architectural arches arranged in registers. The overall composition, subject matter (single humanoid vs. multi-figure animal frieze), and arrangement of elements differ fundamentally, limiting the correspondence to generic carving conventions rather than shared iconography."
+  },
+  {
+   "judge": "opus",
+   "p43": "full_above",
+   "hoa": "back_full",
+   "order": "p43_left",
+   "score": 5,
+   "sub": 10,
+   "elements": [
+    "monolithic anthropomorphic pillar/figure with carving in low relief",
+    "low relief motifs arranged in horizontal registers",
+    "curved/arched motifs repeated in a row across the upper zone",
+    "animal or creature figures in relief on the body of the monolith",
+    "schematic linear incised detail on lower part",
+    "ring/disc-like element on the front surface"
+   ],
+   "why": "Both are upright monolithic anthropomorphic slabs bearing shallow relief carvings organised in stacked horizontal registers, with a row of repeated arch/curved motifs across the upper zone, creature figures below, and a prominent ring or disc element on the front. However, A's registers show clearly identifiable birds and quadrupeds in profile with a hatched chevron/branch motif on the shaft, while B's motifs are more abstract, symmetrical and paired (paired curved forms, double rings, a broad belt-like arc) with no recognisable profile animals, so the specific iconographic vocabulary differs substantially."
+  },
+  {
+   "judge": "opus",
+   "p43": "full",
+   "hoa": "back_close",
+   "order": "p43_right",
+   "score": 3,
+   "sub": 8,
+   "elements": [
+    "upright monolithic form carved in low relief",
+    "schematic anthropomorphic figure with arms/hands rendered in shallow relief",
+    "horizontal band or belt-like register crossing the body",
+    "circular/disc-like motif",
+    "repeated smaller motifs arranged in a row"
+   ],
+   "why": "Both are upright pillar-like bodies bearing shallow, flat relief motifs organised into horizontal registers, with schematic limbs/hands and small repeated signs, and both include disc- or knob-like round elements; the treatment is comparably flattened and schematic rather than modelled. But the depicted content differs fundamentally: A is a single colossal anthropomorphic figure with head, headdress, chest disc and belt, while B is dominated by profile animals (quadrupeds, birds, a serpentine form) and a chevron/net band, with no comparable frontal human face or torso emblems."
+  },
+  {
+   "judge": "gpt",
+   "p43": "full",
+   "hoa": "back_full",
+   "order": "p43_right",
+   "score": 3,
+   "sub": 5,
+   "elements": [
+    "circle or oval/disc motifs",
+    "parallel linear bands or stripe-like motifs",
+    "schematic outlined figures/signs"
+   ],
+   "why": "The most specific overlap is the use of schematic outlined carving with circular/oval marks and parallel band-like linear motifs. The main difference is that A is dominated by a single frontal anthropomorphic body with facial/body features, while B is arranged as registers of profile animals and abstract signs rather than the same figure or scene."
+  },
+  {
+   "judge": "gpt",
+   "p43": "full_above",
+   "hoa": "back_full",
+   "order": "p43_right",
+   "score": 4,
+   "sub": 7,
+   "elements": [
+    "schematic standing anthropomorphic form or torso",
+    "arms/hands indicated along the sides of the body",
+    "circular disc-like motifs on the body/surface",
+    "horizontal bands or rows of incised/relief pattern"
+   ],
+   "why": "The strongest correspondence is that both surfaces present a schematic upright anthropomorphic body-like form with side arms and some circular and banded motifs on the front. The biggest difference is that B is dominated by multiple profile animals and register-like emblematic carvings, while A is mainly a single frontal human/creature body with breasts, navel, face-like features, and abdominal bands."
+  },
+  {
+   "judge": "gpt",
+   "p43": "full_above",
+   "hoa": "back_close",
+   "order": "p43_right",
+   "score": 3,
+   "sub": 6,
+   "elements": [
+    "schematic carved/outlined motifs",
+    "circle or disc",
+    "horizontal band or register of repeated marks",
+    "anthropomorphic body or torso-like support"
+   ],
+   "why": "The clearest shared content is a schematic anthropomorphic or torso-like upright form bearing incised/relief decoration, including circular motifs and a horizontal band of repeated marks. The main difference is that A is dominated by a single large human-like body with curvilinear discs and bands, while B is dominated by a crowded register of profile animals and signs arranged across a flat pillar face."
+  },
+  {
+   "judge": "sonnet",
+   "p43": "full_above",
+   "hoa": "back_full",
+   "order": "p43_left",
+   "score": 2,
+   "sub": 5,
+   "elements": [
+    "stylized human/anthropomorphic figure",
+    "arm or hand element rendered in low relief",
+    "banded/segmented composition dividing body into zones"
+   ],
+   "why": "Both surfaces show a carved anthropomorphic or figural presence organized into horizontal zones, but the specific motifs differ sharply: A displays a row of arched niche-like forms above a band of small figures (bird-like and geometric shapes) and a long serpentine element, while B shows a single monolithic head-and-torso figure with rounded arm shapes and a simple belt-like band. The biggest difference is that A is a flat panel densely packed with multiple distinct small motifs in a pictographic register, whereas B is a single large sculpted humanoid form with minimal surface decoration limited to arms, navel, and belt.'"
+  },
+  {
+   "judge": "sonnet",
+   "p43": "full",
+   "hoa": "back_full",
+   "order": "p43_left",
+   "score": 2,
+   "sub": 5,
+   "elements": [
+    "carved relief on an upright stone slab/pillar",
+    "horizontal banding of forms",
+    "some schematic curvilinear shapes near the top"
+   ],
+   "why": "Both are upright stone monuments with relief carving arranged in horizontal registers, but the actual subject matter differs sharply: A depicts a series of stylized animals (birds with long necks, quadrupeds) in a schematic naturalistic style, while B depicts a single blocky anthropomorphic figure with facial features and hands meeting at the belly, typical of ancestor-figure statuary. The correspondence is limited to the generic fact of carved figural relief on a stone slab, not to any specific shared motif, posture, or relationship between elements."
+  },
+  {
+   "judge": "opus",
+   "p43": "full",
+   "hoa": "back_close",
+   "order": "p43_left",
+   "score": 4,
+   "sub": 9,
+   "elements": [
+    "monolithic block treated as an anthropomorphic figure with a distinct head/top and body",
+    "shallow low-relief motifs applied across the body of an upright pillar-like form",
+    "horizontal band or belt-like division crossing the body",
+    "circular disc motif in relief",
+    "small subsidiary figure/motif placed low on the body",
+    "vertically stacked registers of motifs"
+   ],
+   "why": "Both surfaces are upright, block-like anthropomorphic monoliths whose bodies carry schematic shallow relief organised into stacked zones separated by a horizontal band, and both include an isolated circular disc in relief plus a small subordinate motif low on the body. The decisive difference is content: A's registers are filled with a menagerie of recognisable animals in profile (quadruped, long-necked birds, snake-like forms) and a small human figure, whereas B shows only abstract discs, loops and appendage-like elements with no animals at all."
+  },
+  {
+   "judge": "sonnet",
+   "p43": "top_only",
+   "hoa": "back_close",
+   "order": "p43_left",
+   "score": 1,
+   "sub": 3,
+   "elements": [
+    "animal figure(s) in relief"
+   ],
+   "why": "Image A shows a horizontal relief panel with arched motifs above and small animal figures below arranged in a narrative frieze, while Image B shows a single freestanding anthropomorphic stone figure with carved facial and body features and a circular disc motif on the torso. The only loose commonality is that both use low-relief carving on stone to depict figural content, but the subject matter (narrative animal frieze vs. a standing humanoid figure with body ornamentation) and arrangement are fundamentally different."
+  },
+  {
+   "judge": "opus",
+   "p43": "full_above",
+   "hoa": "back_close",
+   "order": "p43_right",
+   "score": 6,
+   "sub": 10,
+   "elements": [
+    "large upright anthropomorphic monolith/pillar carved in low relief",
+    "stylised bird or bird-like creature in profile",
+    "zigzag / chevron patterning",
+    "horizontal band or belt dividing the surface",
+    "disc or circular element on the torso",
+    "arms/hands rendered in low relief on the body",
+    "small quadrupeds or animals arranged in a row across the upper zone",
+    "snake-like sinuous element"
+   ],
+   "why": "Both are monumental upright anthropomorphic slabs whose body surface carries low-relief animals (birds in profile, quadrupeds), zigzag/chevron fields, a horizontal belt-like band and a disc, with arms rendered flat against the body \u2014 a fairly specific shared scheme rather than a generic one. The clearest differences are that A has a sculpted three-dimensional head with facial features and a broad rounded body, while B's imagery is confined to a flat panel with a register of repeated animals along the top and a large bird-and-snake motif lower down, so the specific creature identities and their groupings do not match closely."
+  },
+  {
+   "judge": "sonnet",
+   "p43": "full",
+   "hoa": "back_full",
+   "order": "p43_right",
+   "score": 0,
+   "sub": 1,
+   "elements": [],
+   "why": "Image A shows a monumental anthropomorphic figure with a stylized face, arms, and abstract belt/loincloth carving with no narrative scene, while Image B shows a carved slab depicting multiple distinct animal figures (birds, quadrupeds) arranged in registers with geometric banding. There is no correspondence in the kinds of elements depicted, their relationships, or arrangement; the only faint similarity is that both use relief carving on stone in a somewhat schematic manner."
+  },
+  {
+   "judge": "sonnet",
+   "p43": "full",
+   "hoa": "back_close",
+   "order": "p43_right",
+   "score": 2,
+   "sub": 4,
+   "elements": [
+    "circular disc motif",
+    "horizontal band of geometric pattern"
+   ],
+   "why": "Both surfaces include a carved circular disc motif and bands of geometric patterning, but A depicts an abstracted anthropomorphic figure (head, arms, belt) while B depicts a register-based frieze with animal figures (bird-like creatures, a quadruped) and arch shapes, a fundamentally different iconographic program. The biggest difference is that A's composition is organized around a single human body plan, whereas B is a horizontal narrative sequence of animals and abstract bands with no human figure discernible."
+  },
+  {
+   "judge": "opus",
+   "p43": "full_above",
+   "hoa": "back_close",
+   "order": "p43_left",
+   "score": 3,
+   "sub": 8,
+   "elements": [
+    "low-relief carving on a large upright monolithic form",
+    "anthropomorphic/zoomorphic figures in relief on a monument surface",
+    "horizontal banded register across the middle of the surface",
+    "disc or circular motif",
+    "arm/limb elements rendered in shallow relief wrapping the body",
+    "repeated small figures in a row along the upper part"
+   ],
+   "why": "Both are massive upright pillar-like carved surfaces bearing very low, flat relief organized into an upper zone of small repeated figures/motifs and a horizontal banded belt across the middle, with a disc-like element and limb-like ridges below \u2014 a loosely comparable scheme of a monolith treated as a schematic body. But the specific content differs: A shows a row of arched animal forms, birds and quadrupeds in profile plus a snake and chevron patterning, while B is a single frontal humanoid figure with a headdress, chest ornament and belt, and none of A's identifiable animals recur."
+  },
+  {
+   "judge": "gpt",
+   "p43": "top_only",
+   "hoa": "back_close",
+   "order": "p43_right",
+   "score": 2,
+   "sub": 4,
+   "elements": [
+    "circle or disc motif",
+    "arched or curved outline motif",
+    "horizontal/linear bands or rows of short incised marks",
+    "schematic outlined forms"
+   ],
+   "why": "The most specific overlap is the use of simple schematic incised/outlined motifs such as circular discs, curved arches, and short repeated linear marks. The biggest difference is that A is dominated by a single frontal anthropomorphic body with body-part-like features and a central disc, whereas B is a compartmented panel with repeated arch signs and multiple small animal-like figures arranged in registers."
+  },
+  {
+   "judge": "gpt",
+   "p43": "full_above",
+   "hoa": "back_full",
+   "order": "p43_left",
+   "score": 2,
+   "sub": 4,
+   "elements": [
+    "circle or disc",
+    "linear incised/relief signs",
+    "horizontal or curved band-like motifs",
+    "highly schematic carved figures/signs"
+   ],
+   "why": "The clearest shared content is only generic: both surfaces include circular/disc-like marks and schematic linear motifs organized on an upright decorated face. The biggest difference is that A is dominated by multiple animal/profile and sign-like motifs in registers, whereas B is dominated by a single frontal anthropomorphic body/face scheme with paired features, a central disc, and belt-like curves."
+  },
+  {
+   "judge": "opus",
+   "p43": "top_only",
+   "hoa": "back_close",
+   "order": "p43_left",
+   "score": 4,
+   "sub": 9,
+   "elements": [
+    "low-relief schematic signs carved on the face of an upright monolithic block",
+    "circular disc motif",
+    "motifs organised in stacked horizontal registers/bands",
+    "paired/repeated symmetrical elements across the upper part of the surface",
+    "a broad horizontal band or belt-like division across the middle"
+   ],
+   "why": "Both surfaces present flattened, schematic emblems carved in shallow relief on an upright block, stacked into registers with a broad horizontal dividing band and a prominent circular disc among the signs, and both use paired symmetrical motifs near the top. However, A's content is explicitly zoomorphic and narrative-like (a row of arched handled objects over a zigzag band, with a waterbird, a snake and quadrupeds), while B's block is itself an anthropomorphic figure with head and arms whose signs are abstract emblems rather than identifiable animals, so the specific iconography does not match."
+  },
+  {
+   "judge": "gpt",
+   "p43": "top_only",
+   "hoa": "back_full",
+   "order": "p43_left",
+   "score": 3,
+   "sub": 6,
+   "elements": [
+    "schematic circular or oval motifs",
+    "horizontal bands or rows of linear pattern",
+    "abstract signs rendered with simple outlines"
+   ],
+   "why": "The main correspondence is that both surfaces use schematic outlined motifs with circles/ovals and horizontal linear bands or repeated marks. The biggest difference is that A shows a multi-register composition with animal-like figures and arch-shaped signs, while B is dominated by a frontal anthropomorphic body/face scheme with paired eyes, mouth or navel-like circles, arms, and torso bands."
+  },
+  {
+   "judge": "gpt",
+   "p43": "top_only",
+   "hoa": "back_close",
+   "order": "p43_left",
+   "score": 2,
+   "sub": 2,
+   "elements": [
+    "schematic curvilinear/geometric signs",
+    "oval or circular forms",
+    "stylized carved figures or body-like forms"
+   ],
+   "why": "The most specific overlap is the use of schematic relief-like outlines including oval/circular and curving forms, but these are generic rather than a distinctive shared motif. A is a crowded, register-like composition with repeated arch signs, patterned bands, and several small animal-like figures, while B is dominated by a single frontal anthropomorphic/totemic body bearing a large central disc and curved bands."
+  },
+  {
+   "judge": "sonnet",
+   "p43": "iso",
+   "hoa": "iso",
+   "order": "p43_left",
+   "score": 2,
+   "sub": 5,
+   "elements": [
+    "horizontal band of geometric pattern",
+    "circular/disc motif",
+    "overall vertical panel composition with layered registers"
+   ],
+   "why": "Both surfaces use registers of low-relief carving including a band of geometric fringe/pattern and a rounded disc-like motif, but A depicts a narrative sequence of animal and human figures (a raised-arm figure, a quadruped, a long-necked bird) while B shows an abstract anthropomorphic back with a rosette, arcs, and hand-like patterning with no equivalent figurative creatures. The biggest difference is that A is figurative/narrative in content while B is symbolic/abstract, so beyond generic banding and a circular shape there is little specific iconographic overlap."
+  },
+  {
+   "judge": "gpt",
+   "p43": "iso",
+   "hoa": "iso",
+   "order": "p43_left",
+   "score": 2,
+   "sub": 4,
+   "elements": [
+    "circular or oval eye/disc motifs",
+    "schematic linear incisions",
+    "geometric band or curving band motifs",
+    "possible anthropomorphic face/eye features"
+   ],
+   "why": "The most specific overlap is the use of schematic incised circular/oval motifs that can read as eyes or discs, along with simple linear and band-like ornament. The biggest difference is that A is organized as multiple horizontal registers with profile creatures and repeated geometric patterning, while B is dominated by a single frontal anthropomorphic form with chest symbols arranged symmetrically."
+  },
+  {
+   "judge": "opus",
+   "p43": "iso",
+   "hoa": "iso",
+   "order": "p43_right",
+   "score": 3,
+   "sub": 6,
+   "elements": [
+    "circle/disc motif",
+    "horizontal band with repeated linear/hatched pattern",
+    "schematic animal or serpentine creatures in low relief",
+    "anthropomorphic figure",
+    "curving/scrolled linear motifs at the upper zone"
+   ],
+   "why": "Both surfaces carry schematic low-relief motifs including a disc, a horizontal banded pattern and creature/anthropomorphic forms, and both stack their imagery in roughly horizontal zones up a tall vertical field, which is a generic rather than distinctive correspondence. The decisive difference is subject: A is a single anthropomorphic body whose carvings (disc on chest, belt-like arcs, shoulder scrolls) function as attributes of that body, whereas B is a multi-figure narrative-like frieze of profile animals, a seated figure and an arcaded upper register with no unifying body."
+  },
+  {
+   "judge": "gpt",
+   "p43": "iso",
+   "hoa": "iso",
+   "order": "p43_right",
+   "score": 3,
+   "sub": 5,
+   "elements": [
+    "schematic incised/relief motifs",
+    "circle or disc motifs",
+    "horizontal bands or registers",
+    "curving linear motifs",
+    "possible bird/animal-like forms"
+   ],
+   "why": "The most specific overlap is that both surfaces use schematic carved outlines with round disc-like forms and horizontal/curving band motifs, with B clearly including profile birds/animals and A possibly having animal- or feather-like decoration on the torso. The biggest difference is that A is dominated by a single frontal anthropomorphic figure with body ornament, whereas B is a multi-register field of separate profile creatures and signs, so the depicted relationships and iconographic scheme do not closely correspond."
+  },
+  {
+   "judge": "opus",
+   "p43": "iso",
+   "hoa": "iso",
+   "order": "p43_left",
+   "score": 4,
+   "sub": 7,
+   "elements": [
+    "low-relief carving on a tall vertical pillar-like surface",
+    "circular disc in relief",
+    "schematic animal/creature forms in relief",
+    "vertically stacked/registered composition",
+    "raised outline relief with flat interiors"
+   ],
+   "why": "Both surfaces carry schematic low-relief imagery on a tall vertical monolithic surface, and both include a prominent plain disc in relief plus rather ambiguous animal-like forms rendered as raised outlines with flat interiors. The decisive difference is organisation and subject: A is a multi-register narrative frieze of profile animals, a bird, a squatting figure and a zigzag band, whereas B is a single anthropomorphic figure with head, arms converging on the body and a pendant disc, with no registers or profile animal parade."
+  },
+  {
+   "judge": "sonnet",
+   "p43": "iso",
+   "hoa": "iso",
+   "order": "p43_right",
+   "score": 1,
+   "sub": 4,
+   "elements": [
+    "horizontal banding/registers dividing the surface",
+    "curved/arc motifs"
+   ],
+   "why": "Both are stone reliefs organized into horizontal bands with some curved motifs, but A depicts a single schematic anthropomorphic figure (face, arms, disc, belt-like curves) while B shows a multi-register frieze of naturalistically rendered animals (birds, horses, a spider-like creature) with architectural arches. There is no shared iconographic subject, pose, or relationship between elements\u2014only the generic use of banding links them, which is too weak to suggest a common tradition."
+  }
+ ],
+ "target": {
+  "all": {
+   "n": 42,
+   "mean": 2.880952380952381,
+   "min": 0,
+   "max": 6
+  },
+  "full_pillar": {
+   "n": 24,
+   "mean": 3.125,
+   "min": 0,
+   "max": 6
+  },
+  "top_only": {
+   "n": 12,
+   "mean": 2.5833333333333335,
+   "min": 1,
+   "max": 5
+  },
+  "by_judge": {
+   "opus": {
+    "n": 8,
+    "mean": 4.625,
+    "min": 3,
+    "max": 6
+   },
+   "sonnet": {
+    "n": 8,
+    "mean": 1.75,
+    "min": 0,
+    "max": 4
+   },
+   "gpt": {
+    "n": 8,
+    "mean": 3.0,
+    "min": 2,
+    "max": 4
+   }
+  },
+  "by_pair": {
+   "full|back_full": {
+    "n": 6,
+    "mean": 3.1666666666666665,
+    "min": 0,
+    "max": 6
+   },
+   "full|back_close": {
+    "n": 6,
+    "mean": 2.1666666666666665,
+    "min": 0,
+    "max": 4
+   },
+   "full|iso": {
+    "n": 0,
+    "mean": null,
+    "min": null,
+    "max": null
+   },
+   "full_above|back_full": {
+    "n": 6,
+    "mean": 3.8333333333333335,
+    "min": 2,
+    "max": 6
+   },
+   "full_above|back_close": {
+    "n": 6,
+    "mean": 3.3333333333333335,
+    "min": 2,
+    "max": 6
+   },
+   "full_above|iso": {
+    "n": 0,
+    "mean": null,
+    "min": null,
+    "max": null
+   },
+   "top_only|back_full": {
+    "n": 6,
+    "mean": 2.6666666666666665,
+    "min": 1,
+    "max": 5
+   },
+   "top_only|back_close": {
+    "n": 6,
+    "mean": 2.5,
+    "min": 1,
+    "max": 4
+   },
+   "top_only|iso": {
+    "n": 0,
+    "mean": null,
+    "min": null,
+    "max": null
+   },
+   "iso|back_full": {
+    "n": 0,
+    "mean": null,
+    "min": null,
+    "max": null
+   },
+   "iso|back_close": {
+    "n": 0,
+    "mean": null,
+    "min": null,
+    "max": null
+   },
+   "iso|iso": {
+    "n": 6,
+    "mean": 2.5,
+    "min": 1,
+    "max": 4
+   }
+  },
+  "iso_by_judge": {
+   "opus": {
+    "n": 2,
+    "mean": 3.5,
+    "min": 3,
+    "max": 4
+   },
+   "sonnet": {
+    "n": 2,
+    "mean": 1.5,
+    "min": 1,
+    "max": 2
+   },
+   "gpt": {
+    "n": 2,
+    "mean": 2.5,
+    "min": 2,
+    "max": 3
+   }
+  },
+  "opus_pct_null": 93.10113864701943,
+  "opus_share_null_ge": 0.06898861352980576,
+  "opus_pct_same": 29.5,
+  "opus_pct_pos": 37.58389261744966,
+  "opus_pct_null_mono": 88.95348837209302,
+  "opus_share_null_mono_ge": 0.11046511627906977
+ },
+ "null_mono": {
+  "n": 172,
+  "mean": 2.75,
+  "sd": 1.14183145418553,
+  "quantiles": {
+   "0.5": 2.0,
+   "0.75": 3.0,
+   "0.9": 5.0,
+   "0.95": 5.0,
+   "0.99": 6.0
+  },
+  "hist": [
+   0,
+   10,
+   84,
+   39,
+   20,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "objtype_counts": {
+  "anatolia_ppn": {
+   "wall_or_architectural_relief": 3,
+   "freestanding_monolith": 33,
+   "portable_object": 7,
+   "statue": 18,
+   "drawing_or_plan": 1
+  },
+  "catalhoyuk": {
+   "rock_surface": 2,
+   "wall_or_architectural_relief": 5
+  },
+  "rapa_nui": {
+   "rock_surface": 20,
+   "statue": 13,
+   "freestanding_monolith": 9
+  },
+  "assyria": {
+   "wall_or_architectural_relief": 59,
+   "portable_object": 1
+  },
+  "persepolis": {
+   "wall_or_architectural_relief": 60
+  },
+  "egypt": {
+   "wall_or_architectural_relief": 9,
+   "rock_surface": 15,
+   "freestanding_monolith": 26,
+   "drawing_or_plan": 4,
+   "portable_object": 4,
+   "statue": 1
+  },
+  "maya": {
+   "freestanding_monolith": 47,
+   "drawing_or_plan": 3,
+   "wall_or_architectural_relief": 3,
+   "portable_object": 3,
+   "rock_surface": 4
+  },
+  "mississippian": {
+   "drawing_or_plan": 6,
+   "portable_object": 8,
+   "wall_or_architectural_relief": 1,
+   "statue": 1
+  },
+  "gotland": {
+   "portable_object": 4,
+   "freestanding_monolith": 15,
+   "rock_surface": 1,
+   "wall_or_architectural_relief": 2,
+   "drawing_or_plan": 4
+  },
+  "tanum": {
+   "rock_surface": 58,
+   "drawing_or_plan": 2
+  }
+ },
+ "search_p43": {
+  "n": 447,
+  "top": [
+   {
+    "id": "anatolia_ppn_0004",
+    "group": "anatolia_ppn",
+    "score": 10,
+    "sub": 15,
+    "elements": [
+     "row of three arched/crescent forms across the top register",
+     "horizontal band with pendant triangles / zigzag fringe",
+     "quadruped in profile facing left with open jaws in upper register",
+     "small crouching creature below the quadruped",
+     "reptile/lizard-like creature with splayed limbs at right of upper register",
+     "long-necked bird in profile at lower left",
+     "striped or rib-lined creature with radiating lines in lower register",
+     "stepped/T-shaped panel format with narrower lower shaft"
+    ],
+    "why": "Both surfaces show the identical composition: three arched forms over a triangle-fringed band, a left-facing open-jawed quadruped with a small crouching figure beneath it and a splayed reptilian creature to the right, and below the shaft a long-necked bird beside a ribbed, radiating-line creature, all in the same low-relief outline convention on the same stepped panel shape. The only differences are of preservation, angle and surface finish, which are not iconographic; this is effectively the same scene.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "anatolia_ppn_0106",
+    "group": "anatolia_ppn",
+    "score": 9,
+    "sub": 15,
+    "elements": [
+     "row of arched/crouching quadrupeds in profile along an upper register",
+     "horizontal band separating registers",
+     "band of vertical/hatched strokes (fringe or net-like pattern)",
+     "animals in profile facing the same direction",
+     "low relief carving on a rectangular stone face",
+     "register-based composition with animals below the divider"
+    ],
+    "why": "Both show the same distinctive scheme: an upper register of repeated arched quadrupeds in profile marching in one direction, a horizontal divider carrying a fringe of short vertical/hatched strokes, and further animals in profile in the register below. The main difference is that B extends further with additional creatures (a bird-like figure and other animals) on a lower shaft not visible in A, but the shared register scheme and animal forms are highly specific rather than generic.",
+    "objtype": "portable_object"
+   },
+   {
+    "id": "anatolia_ppn_0105",
+    "group": "anatolia_ppn",
+    "score": 9,
+    "sub": 15,
+    "elements": [
+     "T-shaped monolith with carved relief",
+     "row of crouching quadrupeds in profile along the upper edge",
+     "horizontal band of repeated angular/zigzag or triangular motifs",
+     "register of animals in procession beneath the band",
+     "large bird-like/long-necked creature in low relief on the shaft",
+     "low-relief carving with flat raised surfaces and outlined bodies",
+     "registered, banded composition"
+    ],
+    "why": "Both show the same distinctive scheme: a row of crouching quadrupeds in profile along the top edge of a broad slab, directly above a horizontal band of repeated angular/net-like motifs, with a further register of profile animals below and a large long-necked bird-like creature on the shaft beneath. Differences are only in the number and identity of individual animals in the lower registers and the visible framing/angle, not in the compositional scheme or carving conventions.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "anatolia_ppn_0095",
+    "group": "anatolia_ppn",
+    "score": 9,
+    "sub": 15,
+    "elements": [
+     "row of three arched/semicircular 'handbag'-like objects along the upper edge",
+     "small quadruped animals standing above the arched shapes",
+     "horizontal band of repeated short strokes/zigzag pattern below the top register",
+     "large bird in profile with outstretched wing",
+     "sinuous snake-like forms",
+     "smaller crouching animal figures in registers",
+     "figures carved in low relief against a plain field",
+     "long-necked bird in profile in the lower zone"
+    ],
+    "why": "Both surfaces show the same highly distinctive scheme: a top register of three arched 'handbag' forms each surmounted by a small quadruped, a horizontal band of repeated strokes beneath, and below it registers of low-relief animals dominated by a large bird with an outstretched wing plus snakes and a long-necked bird, all in the same flat, outline-with-plain-infill relief convention on a broad rectangular pillar face. The only differences are in which subsidiary creatures are visible from each viewpoint and the amount of the lower field exposed, not in the iconographic programme itself.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "anatolia_ppn_0045",
+    "group": "anatolia_ppn",
+    "score": 8,
+    "sub": 15,
+    "elements": [
+     "horizontal row of repeated arch/loop (H-shaped) motifs with round bosses along the upper edge",
+     "horizontal band of zigzag / chevron-triangle pattern dividing registers",
+     "registered composition with animal figures below the patterned band",
+     "animals shown in profile with rounded heads and open jaws/beaks",
+     "disc or round boss elements",
+     "low-relief schematic outline figures"
+    ],
+    "why": "Both surfaces carry the same distinctive scheme: an upper row of repeated arch/loop signs paired with round bosses, separated by a horizontal zigzag-chevron band from a lower field of schematic profile animals with rounded heads, all in flat low-relief outline. The main difference is that B's lower registers show a richer and clearer inventory (a striding predator, a long-beaked bird, a plant-like frond, small figures) while A's lower field is limited to a few round-headed creatures, but the register logic and motif vocabulary correspond closely.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "anatolia_ppn_0078",
+    "group": "anatolia_ppn",
+    "score": 7,
+    "sub": 13,
+    "elements": [
+     "quadruped animals in profile relief",
+     "predatory/feline-like animal with head turned or facing viewer",
+     "bird-like creature with prominent beak",
+     "low-relief carving with raised outline and plain infill",
+     "animals arranged in horizontal registers/rows",
+     "snake or elongated serpentine creature"
+    ],
+    "why": "Both surfaces show the same repertoire of animals \u2014 profile quadrupeds/predators with heavy limbs and heads, plus a large beaked bird and serpentine forms \u2014 rendered as flat low relief with a raised smooth outline against an unmodelled ground, and stacked into horizontal registers on a monolithic block face. The main difference in content is that B includes a distinct top register of repeated arch/loop signs above a fringed band and a dense vertical column of separate creatures, whereas A shows a single crowded field of interlocking quadrupeds without the emblem row.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "anatolia_ppn_0086",
+    "group": "anatolia_ppn",
+    "score": 7,
+    "sub": 13,
+    "elements": [
+     "quadruped animal shown in profile in low relief",
+     "large animal figure in high relief projecting from the pillar face",
+     "animals stacked vertically one above another on a tall narrow pillar surface",
+     "schematic animal with visible clawed/splayed paws",
+     "animal descending/oriented head-downward along the pillar"
+    ],
+    "why": "Both show a vertical pillar face carrying a stack of animals, combining a bulky high-relief creature with head-down orientation and clawed limbs above a flat, outlined quadruped in profile with the same schematic body-and-leg conventions, which is a fairly specific shared scheme rather than a generic 'animal frieze'. The main difference in content is B's fuller repertoire \u2014 a horizontal register of repeated animals across the top, a band of vertical strokes, and long-necked birds and snake-like forms \u2014 none of which appear in the visible portion of A.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "anatolia_ppn_0107",
+    "group": "anatolia_ppn",
+    "score": 7,
+    "sub": 12,
+    "elements": [
+     "animals in profile carved in low relief on a monolithic pillar",
+     "quadruped with elongated body and clawed limbs",
+     "snake/serpentine elongated forms",
+     "bird-like creature in profile",
+     "horizontal register/band separating figural zones",
+     "multiple animals arranged in rows on a broad flat face"
+    ],
+    "why": "Both surfaces show low-relief animals in strict profile \u2014 elongated quadrupeds with splayed clawed legs, serpentine forms and bird-headed creatures \u2014 distributed in stacked horizontal registers over the broad face of a monolithic pillar with a T-like upper element, and the carving convention (flat raised silhouette with almost no interior detail, small drilled eye, tail curling over the back) is the same in both. The differences are in the specific inventory and density: B adds a row of arcaded/loop motifs, a hatched band and a small anthropomorphic-headed figure, while A shows a sparser scatter of quadrupeds and reptiles without those bands.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "anatolia_ppn_0263",
+    "group": "anatolia_ppn",
+    "score": 6,
+    "sub": 11,
+    "elements": [
+     "large bird/raptor with wing rendered as parallel incised lines (hatched feathers)",
+     "small human-like figure with arms bent and hands shown",
+     "animal head in profile with prominent round eye and beak/snout",
+     "vertically stacked registers of creatures on a tall upright form",
+     "human figure positioned beneath/adjacent to the bird",
+     "schematic quadruped/animal bodies in low relief"
+    ],
+    "why": "Both show a large raptor-like bird whose wing is conveyed by a fan of parallel incised feather-lines, placed above/over a small schematic human figure with bent arms and splayed hands, and both stack their creatures in vertical tiers on a tall upright form with prominent staring eyes and heavy schematic heads. The main difference is that A spreads several distinct animals (quadrupeds in a row, a hatched band, waterbird, snake-like elements) across a flat panel in relief registers, while B compresses only the bird and the crouching human into a single three-dimensional stacked group without the accompanying animal rows or ornamental band.",
+    "objtype": "statue"
+   },
+   {
+    "id": "anatolia_ppn_0027",
+    "group": "anatolia_ppn",
+    "score": 6,
+    "sub": 11,
+    "elements": [
+     "T-shaped monolithic pillar as the carved field",
+     "quadruped animal in profile in low relief",
+     "animals rendered in shallow relief on a vertical shaft",
+     "elongated snake-like/limbed forms below the main animal",
+     "stacked/register-like placement of motifs down the shaft",
+     "relief motifs on the horizontal pillar head"
+    ],
+    "why": "Both surfaces are anthropomorphic T-shaped pillars bearing shallow, flatly-modelled relief animals in strict profile, with a prominent quadruped on the shaft and further elongated, snake-like or limbed forms beneath it, a distinctive and non-generic combination of carrier and imagery. The main difference is density and content: B carries a crowded multi-register programme (row of creatures and a hatched band across the head, birds and a large long-necked bird on the shaft), whereas A shows only a single quadruped with a few sparse linear forms below, and B lacks A's isolated, uncluttered composition.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "anatolia_ppn_0082",
+    "group": "anatolia_ppn",
+    "score": 6,
+    "sub": 11,
+    "elements": [
+     "T-shaped/rectangular pillar head carved in low relief",
+     "animal in profile carved in low relief on the pillar shaft",
+     "band or field of repeated geometric pattern (net/mesh, hatching) on the upper block",
+     "quadruped with elongated body and tail in side view",
+     "repeated small motifs in a row across the top"
+    ],
+    "why": "Both surfaces are carved T-shaped monoliths where the broad upper block carries a field of repeated geometric pattern (mesh/hatched band with rows of small repeated signs) while the narrower shaft beneath bears animals shown in strict profile in shallow, flat, outlined relief, a fairly specific combined scheme. The main difference is that A shows only a single animal beneath a large net-like field, whereas B stacks several distinct creatures (a snarling quadruped, a bird-like figure, further beasts) in multiple registers plus arched motifs, making its programme far denser and more varied.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "rapa_nui_0025",
+    "group": "rapa_nui",
+    "score": 6,
+    "sub": 11,
+    "elements": [
+     "T-shaped/broad-headed monolithic pillar or stele form",
+     "low-relief carving on a vertical stone surface",
+     "row of repeated arch/loop or U-shaped symbols along the upper zone",
+     "horizontal band separating upper register from lower imagery",
+     "animal figures rendered in profile relief",
+     "snake-like sinuous elements",
+     "disc or circular motif on the body of the pillar",
+     "clustered symbols arranged in registers"
+    ],
+    "why": "Both surfaces show a broad-topped vertical pillar carved in low relief with a row of repeated arch/loop symbols across the upper zone, a horizontal dividing band beneath them, and further profile animal and sinuous serpentine forms plus a prominent disc below \u2014 a specific and non-obvious combination and ordering. The main differences lie in the specific creatures and details: B clearly includes a quadruped/predator, birds and a large long-necked bird-like figure in the lower register, whereas A's lower field is dominated by looping snake-like forms, paired discs and a belt-like band with a hanging element, so the individual motifs are not the same scene.",
+    "objtype": "freestanding_monolith"
+   }
+  ],
+  "top_foreign": [
+   {
+    "id": "maya_0047",
+    "group": "maya",
+    "score": 6,
+    "sub": 11,
+    "elements": [
+     "low-relief carving on a tall upright pillar/stele",
+     "row of repeated animal or creature figures in an upper register",
+     "horizontal band/register divider running across the surface",
+     "quadruped animal in profile in the middle zone",
+     "bird-like creature in the lower zone",
+     "schematic anthropomorphic/animal figures with prominent heads",
+     "repeated small vertical hatch-like signs forming a band"
+    ],
+    "why": "Both surfaces are tall upright slabs bearing low-relief figural imagery organised into stacked horizontal registers, with a row of repeated creature heads/figures across the top, a band of small repeated marks beneath, profile quadrupeds in the middle zone and a large bird-like figure at the bottom \u2014 a fairly specific shared compositional scheme in a comparably schematic, flat-relief, outline-and-plain-infill manner. The differences lie in the individual motifs: A's figures include more angular, ladder-like and abstract geometric elements and denser, more crowded overlapping forms, while B's are sparser, rounder and more clearly readable as distinct animals, so the specific creatures cannot be matched one-to-one.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "gotland_0116",
+    "group": "gotland",
+    "score": 5,
+    "sub": 11,
+    "elements": [
+     "tall stone slab with carved relief divided into registers",
+     "horizontal dividing band with repeated linear/geometric marks",
+     "row of three repeated elements across the upper register",
+     "quadruped animal shown in profile",
+     "small human/anthropomorphic figure",
+     "large animal dominating the lower field with a smaller figure beside it",
+     "border/frame element along the edge"
+    ],
+    "why": "Both surfaces present a vertical slab organised into an upper register of exactly three repeated, evenly spaced elements separated by a hatched horizontal band from a lower field dominated by a large profile quadruped accompanied by a smaller anthropomorphic figure, which is a fairly specific compositional scheme. The biggest difference in content is the identity of the upper triad and the lower actors: A's top row consists of three trapezoidal bag-like objects surmounted by small animals and its lower field mixes bird, snake and human, whereas B's triad are armed standing humans and its lower field shows a single large beast with a rider/attacker.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "gotland_0125",
+    "group": "gotland",
+    "score": 5,
+    "sub": 10,
+    "elements": [
+     "horizontal band or register with repeated motifs across upper part of the surface",
+     "row of repeated curved/hook-like elements in a band",
+     "zigzag or triangular band bordering a register",
+     "animal figures in profile",
+     "paired/repeated elements aligned in a row",
+     "framed panel set on a large upright slab with rounded top"
+    ],
+    "why": "Both show an upright slab bearing a horizontally banded panel in which a row of repeated curved, hook-shaped forms runs above/below a border of triangles or zigzag chevrons, and both include profile animal-like figures with rows of repeated units. However, A depicts identifiable creatures (quadrupeds, a large bird with a long neck, human-like figures, a serpent-like form) filling the whole shaft in a narrative-like stacked composition, whereas B is confined to an abstract, purely ornamental panel of repeated hooks and geometric bands with no recognisable creature or figure.",
+    "objtype": "drawing_or_plan"
+   },
+   {
+    "id": "gotland_0133",
+    "group": "gotland",
+    "score": 5,
+    "sub": 10,
+    "elements": [
+     "low-relief animals in profile",
+     "quadruped with head and legs shown from the side",
+     "band of repeated geometric units (rectangles/discs) as a register divider",
+     "vertically stacked registers of motifs on a tall slab/pillar face",
+     "small serpentine or elongated forms",
+     "carving confined to a flat panel with plain ground"
+    ],
+    "why": "Both depict flat, schematic low-relief animals in strict profile stacked in vertical succession on a tall slab, separated or headed by a band of repeated rectangular/disc-like units, which is a reasonably specific shared scheme. However, A's content is legible and varied (row of crouching creatures over a net/zigzag band, a large feline-like quadruped, a long-necked bird, arm-like elements) while B shows only a narrow marginal strip of comparable figures with the bulk of the surface undecorated, so no individual motif can be matched one-to-one.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "gotland_0123",
+    "group": "gotland",
+    "score": 5,
+    "sub": 10,
+    "elements": [
+     "horizontal band of repeated vertical strokes / register of upright elements",
+     "band of triangles or zigzag beneath a horizontal line",
+     "row of repeated schematic units across the upper portion",
+     "curved-top slab-shaped surface with registers arranged one above another",
+     "elongated linear object with a hooked/curved end (staff or hook motif)"
+    ],
+    "why": "Both surfaces are rounded-top slabs organised into stacked horizontal registers, and both share a strikingly specific sequence: a row of repeated upright rectangular/columnar units above a horizontal line, immediately beneath which runs a band of downward-pointing triangles or zigzags, with a long curved-ended object crossing the field. The biggest difference is that A additionally carries large recognisable animals in profile (quadrupeds, a long-necked bird, a snake-like form) filling the lower field, whereas B is entirely abstract/geometric with no creatures at all.",
+    "objtype": "drawing_or_plan"
+   },
+   {
+    "id": "egypt_0012",
+    "group": "egypt",
+    "score": 5,
+    "sub": 10,
+    "elements": [
+     "low-relief carved figures on a large upright slab/pillar face",
+     "stacked horizontal registers of motifs",
+     "schematic animal or creature forms in profile",
+     "repeated small geometric/symbolic signs in a row",
+     "band-like divider between registers"
+    ],
+    "why": "Both surfaces present an upright slab carved in shallow relief with content organised into stacked horizontal registers, combining schematic profile creatures with rows of repeated abstract signs, which is a fairly specific compositional scheme. The clearest difference is that B's content is legible and specific (row of arched/looped signs over a net-like band, a large beaked bird, a small figure, a serpentine/limbed creature, a second bird below), whereas A's carvings are reduced to indistinct lumps and boxy signs with no matching identifiable creature-to-creature relationships.",
+    "objtype": "rock_surface"
+   },
+   {
+    "id": "egypt_0027",
+    "group": "egypt",
+    "score": 5,
+    "sub": 10,
+    "elements": [
+     "low-relief carving on a large upright slab/pillar face",
+     "animals rendered in profile",
+     "figures concentrated in an upper register with a larger plain field below",
+     "horizontal band or register divider with repeated linear elements",
+     "radiating/fan-like fringed motif"
+    ],
+    "why": "Both surfaces are upright slabs bearing shallow relief in which small profile creatures and a fringed, radiating band-like motif are clustered in the upper zone above a broad, largely undecorated field, a fairly specific compositional scheme with schematic, outline-and-flat-relief animals. However, B shows an identifiable sequence \u2014 row of arch/U signs, a fringed band, quadrupeds and a crouching figure, and a large long-necked bird in profile on the lower shaft \u2014 while A's carving is confined to a narrow upper strip whose figures are indistinct, so no single motif can be matched element for element.",
+    "objtype": "rock_surface"
+   },
+   {
+    "id": "gotland_0115",
+    "group": "gotland",
+    "score": 5,
+    "sub": 9,
+    "elements": [
+     "large quadruped animal shown in profile with legs extended",
+     "small schematic human/anthropomorphic figure adjacent to the large animal",
+     "band of repeating geometric pattern (chevron/zigzag) bordering or dividing the field",
+     "animals rendered in low relief outline against a plain ground"
+    ],
+    "why": "Both surfaces show a large profile quadruped in low-relief outline paired with a much smaller schematic anthropomorphic figure, and both use a band of repeated geometric (zigzag/chevron) pattern as a framing or dividing element, which is a moderately specific combination. The biggest difference is the overall composition: A is a tall multi-register stele stacking several different creatures (birds, canid, snake-like head, additional small figures) in horizontal tiers, whereas B is a single-scene panel dominated by one animal enclosed within a continuous border.",
+    "objtype": "wall_or_architectural_relief"
+   },
+   {
+    "id": "tanum_0359",
+    "group": "tanum",
+    "score": 4,
+    "sub": 10,
+    "elements": [
+     "quadruped animal shown in profile",
+     "animals stacked one above another in horizontal tiers",
+     "long-necked/curved creature form",
+     "schematic outline animal bodies with stick-like legs",
+     "small round dots/depressions and short incised marks as filler",
+     "zigzag or angular linear motif"
+    ],
+    "why": "Both surfaces depict schematic profile quadrupeds with rod-like legs stacked in superposed tiers facing the same direction, accompanied by small punctate marks and angular linear motifs, which is a real but fairly generic correspondence. A, however, presents a clearly ordered programme of distinct identifiable species (canid-like beasts, a long-necked bird, birds along a top register) with banded geometric friezes and human-limb-like elements, whereas B's figures are ambiguous, unregistered and scattered with cupmarks, so no distinctive shared motif or specific relationship (holding, flanking, enclosing) can be identified.",
+    "objtype": "rock_surface"
+   },
+   {
+    "id": "tanum_0030",
+    "group": "tanum",
+    "score": 4,
+    "sub": 9,
+    "elements": [
+     "animal figures rendered in profile",
+     "elongated serpentine/curving forms",
+     "row of short repeated parallel strokes (comb/hatched band)",
+     "figures distributed in stacked registers over a broadly vertical surface",
+     "linear low-relief outline figures with little internal detail"
+    ],
+    "why": "Both surfaces carry outlined, largely schematic profile creatures with long curving bodies distributed in loose superposed registers, and both include a band of repeated short parallel strokes forming a comb-like row, which is the most specific correspondence. However A shows a clearly organised programme (a row of frontal animal heads over a hatched band over identifiable quadrupeds, a bird with long neck and a small anthropomorphic figure), whereas B's figures are indistinct, scattered and lack any comparable head-row or figure-to-figure relationships, so the shared traits remain at the generic level.",
+    "objtype": "rock_surface"
+   },
+   {
+    "id": "assyria_0069",
+    "group": "assyria",
+    "score": 4,
+    "sub": 9,
+    "elements": [
+     "horizontal plain band dividing registers",
+     "row of repeated identical motifs aligned side by side",
+     "triangular/chevron forms filled with fine parallel hatching",
+     "low-relief schematic forms with linear interior hatching",
+     "band of small repeated units running along the top of a register"
+    ],
+    "why": "Both surfaces organise their content into horizontal registers separated by a plain raised band, and both include a row of identical repeated units capped by hatched triangular elements, rendered in flat low relief with fine parallel-line infill \u2014 a fairly specific shared decorative habit. The decisive difference is subject matter: A is a figural composition with a large profile quadruped, small human-like figure, birds and a row of crouching animals, while B contains no creatures at all, only an abstract file of repeated ribbed forms.",
+    "objtype": "wall_or_architectural_relief"
+   },
+   {
+    "id": "assyria_0011",
+    "group": "assyria",
+    "score": 4,
+    "sub": 9,
+    "elements": [
+     "animal shown in profile, low relief",
+     "bird or bird-like creature with rendered wing/plumage",
+     "horizontal band of small repeated marks (fringe/notches) dividing the field",
+     "several creatures crowded/overlapping in one field",
+     "raised flat-relief figures against a plain ground"
+    ],
+    "why": "Both surfaces show profile animals, including a bird-like creature with indicated plumage, rendered in flat raised relief against a plain ground, and both include a horizontal band of small repeated notches that separates the figural field from an adjacent zone. However, A is organised into clear stacked registers with distinct, widely spaced schematic creatures (canid, small crouching figure, large bird head, net-pattern band), whereas B shows a compact, overlapping, more modelled tangle of a large winged creature above other animal bodies, so the specific motifs and their relationships do not correspond.",
+    "objtype": "wall_or_architectural_relief"
+   }
+  ],
+  "by_objtype": {
+   "freestanding_monolith": {
+    "n": 127,
+    "mean": 3.6141732283464565,
+    "n_ge6": 18
+   },
+   "portable_object": {
+    "n": 27,
+    "mean": 2.8518518518518516,
+    "n_ge6": 1
+   },
+   "statue": {
+    "n": 31,
+    "mean": 3.4838709677419355,
+    "n_ge6": 2
+   },
+   "rock_surface": {
+    "n": 100,
+    "mean": 2.49,
+    "n_ge6": 2
+   },
+   "drawing_or_plan": {
+    "n": 20,
+    "mean": 2.75,
+    "n_ge6": 1
+   },
+   "wall_or_architectural_relief": {
+    "n": 142,
+    "mean": 2.323943661971831,
+    "n_ge6": 0
+   }
+  },
+  "top_foreign_mono": [
+   {
+    "id": "maya_0047",
+    "group": "maya",
+    "score": 6,
+    "sub": 11,
+    "elements": [
+     "low-relief carving on a tall upright pillar/stele",
+     "row of repeated animal or creature figures in an upper register",
+     "horizontal band/register divider running across the surface",
+     "quadruped animal in profile in the middle zone",
+     "bird-like creature in the lower zone",
+     "schematic anthropomorphic/animal figures with prominent heads",
+     "repeated small vertical hatch-like signs forming a band"
+    ],
+    "why": "Both surfaces are tall upright slabs bearing low-relief figural imagery organised into stacked horizontal registers, with a row of repeated creature heads/figures across the top, a band of small repeated marks beneath, profile quadrupeds in the middle zone and a large bird-like figure at the bottom \u2014 a fairly specific shared compositional scheme in a comparably schematic, flat-relief, outline-and-plain-infill manner. The differences lie in the individual motifs: A's figures include more angular, ladder-like and abstract geometric elements and denser, more crowded overlapping forms, while B's are sparser, rounder and more clearly readable as distinct animals, so the specific creatures cannot be matched one-to-one.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "gotland_0116",
+    "group": "gotland",
+    "score": 5,
+    "sub": 11,
+    "elements": [
+     "tall stone slab with carved relief divided into registers",
+     "horizontal dividing band with repeated linear/geometric marks",
+     "row of three repeated elements across the upper register",
+     "quadruped animal shown in profile",
+     "small human/anthropomorphic figure",
+     "large animal dominating the lower field with a smaller figure beside it",
+     "border/frame element along the edge"
+    ],
+    "why": "Both surfaces present a vertical slab organised into an upper register of exactly three repeated, evenly spaced elements separated by a hatched horizontal band from a lower field dominated by a large profile quadruped accompanied by a smaller anthropomorphic figure, which is a fairly specific compositional scheme. The biggest difference in content is the identity of the upper triad and the lower actors: A's top row consists of three trapezoidal bag-like objects surmounted by small animals and its lower field mixes bird, snake and human, whereas B's triad are armed standing humans and its lower field shows a single large beast with a rider/attacker.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "gotland_0133",
+    "group": "gotland",
+    "score": 5,
+    "sub": 10,
+    "elements": [
+     "low-relief animals in profile",
+     "quadruped with head and legs shown from the side",
+     "band of repeated geometric units (rectangles/discs) as a register divider",
+     "vertically stacked registers of motifs on a tall slab/pillar face",
+     "small serpentine or elongated forms",
+     "carving confined to a flat panel with plain ground"
+    ],
+    "why": "Both depict flat, schematic low-relief animals in strict profile stacked in vertical succession on a tall slab, separated or headed by a band of repeated rectangular/disc-like units, which is a reasonably specific shared scheme. However, A's content is legible and varied (row of crouching creatures over a net/zigzag band, a large feline-like quadruped, a long-necked bird, arm-like elements) while B shows only a narrow marginal strip of comparable figures with the bulk of the surface undecorated, so no individual motif can be matched one-to-one.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "gotland_0111",
+    "group": "gotland",
+    "score": 4,
+    "sub": 9,
+    "elements": [
+     "low-relief carving on an upright slab/stele",
+     "row of repeated animal heads/rounded forms in a horizontal register",
+     "band of geometric pattern (zigzag/lattice) above the animal row",
+     "frame or border enclosing the composition"
+    ],
+    "why": "Both surfaces show, on an upright slab, a horizontal row of repeated rounded animal heads/bodies set beneath a band of geometric net-like or zigzag patterning, which is a moderately specific shared scheme in low relief. However, A is a crowded multi-register composition with clearly identifiable profile quadrupeds, birds, a snake and a small human-like figure with arms, while B is a single sparse framed panel with an arched border, a vertical bar and only ambiguous lumpen forms, so the repertoire and density of content differ greatly.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "gotland_0128",
+    "group": "gotland",
+    "score": 4,
+    "sub": 8,
+    "elements": [
+     "low-relief carving divided into stacked horizontal registers",
+     "band of repeated pendant/triangular motifs hanging from a horizontal line",
+     "zigzag or chevron band",
+     "row of repeated identical units along the top",
+     "schematic non-naturalistic forms in outline relief"
+    ],
+    "why": "Both surfaces are organised as stacked horizontal registers in low relief, with a row of repeated identical units at the top, a band of hanging pendant/triangular elements below it, and a zigzag band, which is a moderately specific compositional correspondence. The decisive difference is content: B's lower registers are filled with recognisable creatures (quadrupeds in profile, a long-necked bird, a plant-like form), whereas A remains almost wholly abstract/geometric with no clear animals, so the shared material is essentially border patterning rather than shared figural iconography.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0066",
+    "group": "maya",
+    "score": 4,
+    "sub": 8,
+    "elements": [
+     "upright slab/stela carved in low relief with a filled figural surface",
+     "content divided into stacked horizontal registers",
+     "animal forms in profile",
+     "anthropomorphic/limbed figure with arms rendered schematically",
+     "sinuous serpent-like or curved elongated forms in the lower zone",
+     "horizontal band of repeated pattern separating registers"
+    ],
+    "why": "Both surfaces are tall upright slabs covered edge-to-edge with flat, schematic low-relief imagery organised into stacked horizontal registers, with limbed anthropomorphic-looking figures above and elongated sinuous/animal forms in the lowest zone, which gives a broadly similar overall impression. But the specific motifs differ: A shows an identifiable row of arched animal figures, a distinct profile quadruped with a small crouching figure beneath it, and clearly rendered long-necked birds, whereas B centres on a single frontal figure with outstretched arms and flanking devices over a paired scroll-like lower register, so no distinctive motif recurs in the same relationship.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "egypt_0072",
+    "group": "egypt",
+    "score": 3,
+    "sub": 8,
+    "elements": [
+     "tall upright slab/stele carved in low relief",
+     "content organised into stacked horizontal registers",
+     "a horizontal band of repeated small units running across the upper part",
+     "row of similar repeated figures side by side in the top register",
+     "small schematic profile figures/signs filling the field",
+     "vertically hanging fringe-like strokes below a band"
+    ],
+    "why": "Both are tall upright slabs whose surface is divided into stacked horizontal registers, each containing a row of repeated schematic low-relief figures, and both include a narrow band with short pendant strokes beneath it separating registers. But the depicted subjects differ fundamentally: A shows standing anthropomorphic figures with raised arms, hands and held objects amid small signs, while B shows animals in profile (quadrupeds, a long-necked bird, a serpentine creature) with no human actors or object-holding relationships.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "egypt_0042",
+    "group": "egypt",
+    "score": 3,
+    "sub": 8,
+    "elements": [
+     "upright slab/pillar surface carved in low relief",
+     "content divided into stacked horizontal registers",
+     "a distinct decorated band across the top",
+     "animals rendered in profile",
+     "bird forms",
+     "repeated small motifs in rows"
+    ],
+    "why": "Both are upright surfaces carved in shallow relief with content organised into stacked horizontal registers, a set-off decorated band at the top, and profile animal/bird forms rendered as outlined silhouettes. But the actual subjects differ fundamentally: A shows large isolated animals (a canine-like quadruped, a long-necked bird, snake-like forms) with no text or human actors, whereas B shows a winged disc over a scene of standing anthropomorphic figures facing one another above several rows of dense sign-writing.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "egypt_0063",
+    "group": "egypt",
+    "score": 3,
+    "sub": 8,
+    "elements": [
+     "low-relief carving on an upright slab/pillar",
+     "horizontal register bands dividing the surface",
+     "row of repeated small motifs along a band",
+     "animals in profile",
+     "quadruped with head turned/facing outward",
+     "human or humanoid figure in a seated/crouching pose",
+     "bird-like head in profile",
+     "symbolic winged/spread motif near the top"
+    ],
+    "why": "Both are upright slabs carved in shallow relief and divided into stacked horizontal registers, each containing profile animals, a crouching/seated humanoid figure and repeated small motifs in a strip, which gives a similar overall gestalt of a register-organised relief. But the specific content differs sharply: A shows a row of large crouching quadrupeds along the top edge, a fringed/zigzag band, a large predator-headed beast, a bird's head and a plant-like frond, while B shows a winged disc, dense script-like signs, seated human figures with raised arms and offering tables \u2014 none of the specific motifs or their relationships correspond.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0137",
+    "group": "maya",
+    "score": 3,
+    "sub": 8,
+    "elements": [
+     "low-relief carving on a tall upright slab/pillar",
+     "anthropomorphic figure(s) with arms and hands rendered",
+     "animal in profile (bird-like / quadruped)",
+     "horizontal band of repeated small motifs acting as a register divider",
+     "row of repeated elements along the top edge",
+     "figures with prominent eyes/heads shown in profile or frontal schematic form",
+     "stacked registers of imagery filling the whole surface"
+    ],
+    "why": "Both are tall upright slabs covered edge-to-edge in shallow low relief, divided into stacked registers by a horizontal band of repeated small marks, with schematic profile animals and anthropomorphic elements in the fields; that general compositional habit is the strongest correspondence. But the depicted content differs fundamentally: A shows elaborate costumed human figures with headdresses, glyph-like blocks and dense curvilinear ornament stacked vertically, while B shows a row of crouching quadrupeds along the top and isolated animals (long-necked bird, small quadruped, feline-like creature) scattered in open ground with no human costume, ornament or sign blocks.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0083",
+    "group": "maya",
+    "score": 3,
+    "sub": 7,
+    "elements": [
+     "low-relief carving on an upright slab/stele",
+     "horizontal register band across the upper part",
+     "row of repeated small motifs within the band",
+     "animal figures in profile",
+     "animal head shown in profile with open mouth",
+     "long-bodied creature descending vertically",
+     "curved, hook-like limb or claw forms",
+     "figures set against a plain flat ground"
+    ],
+    "why": "Both are upright slabs bearing flat low relief organised with a horizontal band of repeated small motifs across the top and larger profile creatures below, and both use a schematic outline style with the figures reserved against a plain ground. But the actual subjects differ: A shows elaborate anthropomorphic figures with plumed headdresses, scrolls and hand-held objects confronting one another, while B shows discrete animals (a beaked/snouted head, a long descending serpentine creature, a bird-like head with a round eye) with no human figures and no interaction between them.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0115",
+    "group": "maya",
+    "score": 3,
+    "sub": 7,
+    "elements": [
+     "low-relief figures shown in profile/silhouette",
+     "horizontal band dividing the surface into registers",
+     "row of repeated enclosed motifs (cartouche-like or arch-like units) along a band",
+     "zigzag/hatched linear filler pattern within a band",
+     "row of creatures aligned side by side facing one direction"
+    ],
+    "why": "Both surfaces organise flat, outlined low-relief figures into registers divided by a horizontal band that carries a row of repeated enclosed units and zigzag/hatched filler, and both place a line of profile creatures side by side above or below that band. But the actual subjects differ fundamentally: A shows costumed anthropomorphic figures with headdresses seated around a central emblem, while B shows only animals (a quadruped, birds, a snake-like form) with no human figures and no interaction between them.",
+    "objtype": "freestanding_monolith"
+   }
+  ],
+  "mean": 2.859060402684564,
+  "hist": [
+   0,
+   7,
+   229,
+   126,
+   32,
+   29,
+   16,
+   3,
+   1,
+   3,
+   1
+  ],
+  "by_group": {
+   "anatolia_ppn": 4.661016949152542,
+   "assyria": 2.25,
+   "catalhoyuk": 2.4285714285714284,
+   "egypt": 2.6440677966101696,
+   "gotland": 3.0,
+   "maya": 2.6,
+   "mississippian": 2.375,
+   "persepolis": 2.316666666666667,
+   "rapa_nui": 3.8,
+   "tanum": 2.2
+  },
+  "n_ge": {
+   "5": 53,
+   "6": 24,
+   "7": 8,
+   "8": 5
+  }
+ },
+ "search_p43_gpt": {
+  "n": 447,
+  "top": [
+   {
+    "id": "anatolia_ppn_0095",
+    "group": "anatolia_ppn",
+    "score": 10,
+    "sub": 15,
+    "elements": [
+     "three arched or handle-like motifs along the top",
+     "horizontal bands of repeated geometric/chevron-like marks",
+     "bird-like animals in profile",
+     "long-legged or long-necked bird/vulture-like figure",
+     "scorpion-like or many-legged creature",
+     "small circular or oval disc",
+     "schematic human/body-like figure or body parts",
+     "stacked registers of animal and sign motifs"
+    ],
+    "why": "The strongest correspondence is the same distinctive scheme: a top row of three arched handle-like signs above patterned bands and a complex field of profile animals, including bird/vulture-like forms, a scorpion-like form, and small disc/body motifs in matching relative positions. The main difference is only that some lower and side details are harder to see or less fully visible in B, rather than a real difference in depicted content.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "anatolia_ppn_0004",
+    "group": "anatolia_ppn",
+    "score": 9,
+    "sub": 15,
+    "elements": [
+     "T-shaped field divided by horizontal bands",
+     "row of repeated arched or U-shaped motifs across the top",
+     "horizontal band of repeated triangular/chevron-like signs",
+     "multiple animals shown in profile",
+     "curved bird- or snake-like forms",
+     "small rectangular/square sign in the central field",
+     "large elongated animal figure on the lower vertical shaft"
+    ],
+    "why": "The strongest correspondence is the highly specific scheme: a top row of arched/U-shaped signs above a patterned horizontal band, with profile animals and a small rectangular sign below, continuing onto a lower shaft with a large elongated animal. The main difference is that some individual animal forms are clearer or more complete in A than in B, so not every depicted detail can be matched with certainty.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "anatolia_ppn_0105",
+    "group": "anatolia_ppn",
+    "score": 9,
+    "sub": 15,
+    "elements": [
+     "three arched or U-shaped motifs in an upper row",
+     "horizontal band of repeated chevron/triangle-like signs",
+     "profile birds or long-necked animals",
+     "small oval or disc-like form",
+     "schematic animal figures arranged in registers"
+    ],
+    "why": "Both surfaces show a very specific scheme: an upper row of three arched motifs above a dense horizontal band of repeated triangular/chevron signs, with schematic profile animals, including long-necked bird-like forms, arranged below in comparable registers. The main depicted difference is that the lower portions do not show exactly the same visible set of animals or details, with A presenting more of the lower vertical scene than B.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "anatolia_ppn_0045",
+    "group": "anatolia_ppn",
+    "score": 8,
+    "sub": 15,
+    "elements": [
+     "row of rounded rectangular/arched emblem-like signs at the top",
+     "horizontal band of repeated triangular/chevron pattern",
+     "animal figures in profile below the band",
+     "long curving serpent-like or tail-like forms",
+     "schematic low-relief outline style"
+    ],
+    "why": "The strongest correspondence is the distinctive scheme of several arched, bag-like signs along the top, directly above a horizontal band of repeated triangular/chevron marks, with profile animals and curving linear animal forms below. The main difference is that B contains a denser and clearer set of specific creatures, including a prominent running quadruped and other animals, while A\u2019s lower animal scene is sparser or less legible and does not obviously match creature-for-creature.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0076",
+    "group": "maya",
+    "score": 8,
+    "sub": 13,
+    "elements": [
+     "row of arched or handled bag-like motifs",
+     "horizontal band separating registers",
+     "repeated triangular/chevron pattern",
+     "animals in profile",
+     "bird-like or long-necked creature",
+     "schematic relief/outline figures"
+    ],
+    "why": "The strongest correspondence is the distinctive upper scheme: a row of handled/arched bag-like emblems above a horizontal band of repeated triangular or chevron forms, with profile animal figures arranged below. The biggest difference is that B clearly includes a more complex lower animal-and-human scene, including forms like a scorpion and a small human figure, while A\u2019s lower imagery is much less legible and does not clearly repeat all of those specific figures.",
+    "objtype": "rock_surface"
+   },
+   {
+    "id": "anatolia_ppn_0106",
+    "group": "anatolia_ppn",
+    "score": 8,
+    "sub": 13,
+    "elements": [
+     "row of arch-topped rectangular/loop-like motifs",
+     "horizontal band of repeated triangular/chevron or zigzag signs",
+     "profile animal figures beneath the patterned band",
+     "schematic bird-like or long-necked animal in profile",
+     "elongated snake-like or curved linear animal forms",
+     "outline/incised relief style with sparse internal detailing"
+    ],
+    "why": "The strongest correspondence is the distinctive combination of several arch-topped rectangular motifs set above a horizontal triangular/chevron band, with schematic profile animals occupying the zone below. The main difference is that B includes a more complex vertical arrangement with additional distinct creatures such as a scorpion and lower figures, while A is a shorter horizontal panel with fewer and less varied animal motifs.",
+    "objtype": "portable_object"
+   },
+   {
+    "id": "anatolia_ppn_0082",
+    "group": "anatolia_ppn",
+    "score": 7,
+    "sub": 12,
+    "elements": [
+     "schematic animals in profile",
+     "quadruped animal figures",
+     "bird-like or long-necked animal figures",
+     "snake-like curving/linear figures",
+     "human-like arms or hands on an upright figure/surface",
+     "horizontal bands or registers of decoration"
+    ],
+    "why": "Both surfaces show a very similar repertoire of schematic relief figures: multiple profile animals, including quadrupeds and elongated snake- or bird-like forms, arranged on upright stone-like surfaces with some register-like organization and possible human arm/hand motifs. The biggest difference is that B presents a dense, clearly tiered composition with repeated signs and a prominent diagonal animal/serpent scheme, while A\u2019s visible decoration is sparser and less legible, with fewer clearly corresponding motifs in the same positions.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0045",
+    "group": "maya",
+    "score": 7,
+    "sub": 11,
+    "elements": [
+     "row of repeated arched or handled rectangular signs near the top",
+     "horizontal band of repeated geometric hatching/triangular pattern below the upper signs",
+     "profile animal or bird figures below the band",
+     "small circular eye/disc details"
+    ],
+    "why": "The strongest correspondence is the distinctive upper row of repeated arched/handled rectangular motifs placed above a patterned horizontal band, with schematic profile creatures occupying the area below. The main difference is that A is a crowded, roughly symmetrical composition with multiple overlapping or facing figures and large flanking forms, while B is more clearly divided into vertical registers with fewer, more isolated profile animals.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0083",
+    "group": "maya",
+    "score": 6,
+    "sub": 11,
+    "elements": [
+     "profile bird or bird-like animal",
+     "profile quadruped/animal figures",
+     "snake-like or curved linear animal forms",
+     "small circles or discs",
+     "horizontal bands/registers",
+     "rows of repeated abstract rectilinear signs"
+    ],
+    "why": "The strongest correspondence is the combination of schematic profile animals\u2014especially bird-like figures\u2014small discs, snake-like curves, and repeated rectilinear signs organized in horizontal registers. The biggest difference is that A is dominated by a dense lower scene with a large winged bird/scorpion-like and human-like forms, while B has a different vertical sequence of panels with large birds/quadrupeds and more separated emblematic motifs.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "anatolia_ppn_0107",
+    "group": "anatolia_ppn",
+    "score": 6,
+    "sub": 9,
+    "elements": [
+     "bird in profile with long neck and indicated wing",
+     "serpentine or sinuous animal form",
+     "horizontal register/dividing band",
+     "schematic incised/relief animal outlines with internal line details"
+    ],
+    "why": "The strongest correspondence is the schematic profile bird with a long neck, small head/eye and internally marked wing, accompanied by other sinuous animal forms and separated by horizontal register lines. The biggest difference is that B has a much more structured stacked program including a prominent patterned band and anthropomorphic/architectural features, while A shows a more fragmentary cluster of animal figures without the same clear vertical sequence.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "gotland_0128",
+    "group": "gotland",
+    "score": 6,
+    "sub": 9,
+    "elements": [
+     "long-necked bird in profile",
+     "animal figures in profile",
+     "horizontal band or register",
+     "repeated geometric chevron/triangle pattern",
+     "row of repeated abstract signs or blocks"
+    ],
+    "why": "The strongest correspondence is the combination of schematic profile animals, especially long-necked birds, with horizontal registers of repeated geometric signs including chevron/triangle patterning. The biggest difference is that A is mainly a dense linear frieze of repeated signs and animals, while B presents larger separated animal figures and stacked scenes on a pillar-like surface, with no clearly matching single scene or figure-to-figure relationship.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "rapa_nui_0025",
+    "group": "rapa_nui",
+    "score": 5,
+    "sub": 10,
+    "elements": [
+     "upright anthropomorphic torso or figure",
+     "arms/hands indicated on the front or sides of the body",
+     "horizontal waist/belt-like band",
+     "central hanging/vertical motif below the waist",
+     "sinuous linear motifs"
+    ],
+    "why": "The strongest correspondence is an upright anthropomorphic scheme with a belt-like horizontal band and a central hanging or vertical motif below it, with arms/hands associated with the torso. The biggest difference is that B is crowded with many distinct animal figures arranged in registers, while A is dominated by a single human-like body with far fewer subsidiary motifs.",
+    "objtype": "freestanding_monolith"
+   }
+  ],
+  "top_foreign": [
+   {
+    "id": "maya_0076",
+    "group": "maya",
+    "score": 8,
+    "sub": 13,
+    "elements": [
+     "row of arched or handled bag-like motifs",
+     "horizontal band separating registers",
+     "repeated triangular/chevron pattern",
+     "animals in profile",
+     "bird-like or long-necked creature",
+     "schematic relief/outline figures"
+    ],
+    "why": "The strongest correspondence is the distinctive upper scheme: a row of handled/arched bag-like emblems above a horizontal band of repeated triangular or chevron forms, with profile animal figures arranged below. The biggest difference is that B clearly includes a more complex lower animal-and-human scene, including forms like a scorpion and a small human figure, while A\u2019s lower imagery is much less legible and does not clearly repeat all of those specific figures.",
+    "objtype": "rock_surface"
+   },
+   {
+    "id": "maya_0045",
+    "group": "maya",
+    "score": 7,
+    "sub": 11,
+    "elements": [
+     "row of repeated arched or handled rectangular signs near the top",
+     "horizontal band of repeated geometric hatching/triangular pattern below the upper signs",
+     "profile animal or bird figures below the band",
+     "small circular eye/disc details"
+    ],
+    "why": "The strongest correspondence is the distinctive upper row of repeated arched/handled rectangular motifs placed above a patterned horizontal band, with schematic profile creatures occupying the area below. The main difference is that A is a crowded, roughly symmetrical composition with multiple overlapping or facing figures and large flanking forms, while B is more clearly divided into vertical registers with fewer, more isolated profile animals.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0083",
+    "group": "maya",
+    "score": 6,
+    "sub": 11,
+    "elements": [
+     "profile bird or bird-like animal",
+     "profile quadruped/animal figures",
+     "snake-like or curved linear animal forms",
+     "small circles or discs",
+     "horizontal bands/registers",
+     "rows of repeated abstract rectilinear signs"
+    ],
+    "why": "The strongest correspondence is the combination of schematic profile animals\u2014especially bird-like figures\u2014small discs, snake-like curves, and repeated rectilinear signs organized in horizontal registers. The biggest difference is that A is dominated by a dense lower scene with a large winged bird/scorpion-like and human-like forms, while B has a different vertical sequence of panels with large birds/quadrupeds and more separated emblematic motifs.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "gotland_0128",
+    "group": "gotland",
+    "score": 6,
+    "sub": 9,
+    "elements": [
+     "long-necked bird in profile",
+     "animal figures in profile",
+     "horizontal band or register",
+     "repeated geometric chevron/triangle pattern",
+     "row of repeated abstract signs or blocks"
+    ],
+    "why": "The strongest correspondence is the combination of schematic profile animals, especially long-necked birds, with horizontal registers of repeated geometric signs including chevron/triangle patterning. The biggest difference is that A is mainly a dense linear frieze of repeated signs and animals, while B presents larger separated animal figures and stacked scenes on a pillar-like surface, with no clearly matching single scene or figure-to-figure relationship.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0138",
+    "group": "maya",
+    "score": 5,
+    "sub": 9,
+    "elements": [
+     "profile animals",
+     "bird-like figure in profile",
+     "snake-like/curving linear animal form",
+     "horizontal bands or registers",
+     "repeated geometric/sign-like motifs"
+    ],
+    "why": "Both surfaces show low-relief, schematic compositions organized in stacked horizontal zones, with profile animals/bird-like creatures and repeated sign-like or geometric bands; the most specific commonality is the combination of animal figures with horizontal patterned registers on a vertical decorated face. The biggest difference is that B presents a clearer ordered animal panel with distinct large creatures and top sign motifs, while A appears more densely packed and includes a prominent central anthropomorphic or composite figure/register structure not matched in B.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "egypt_0040",
+    "group": "egypt",
+    "score": 5,
+    "sub": 9,
+    "elements": [
+     "bird in profile",
+     "animal figures used as signs or motifs",
+     "rows of repeated small signs",
+     "horizontal register-like divisions",
+     "linear schematic carving/drawing conventions"
+    ],
+    "why": "The strongest shared content is the use of profile bird/animal motifs and rows of small schematic signs arranged in horizontal bands or registers. The main difference is that B is dominated by dense sign-writing and seated human figures in ordered registers, while A is a looser animal-and-geometric composition with larger isolated creatures and no comparable human figure scheme.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0047",
+    "group": "maya",
+    "score": 5,
+    "sub": 8,
+    "elements": [
+     "profile bird or long-beaked/long-necked bird",
+     "profile quadruped animal",
+     "repeated bar- or H-like abstract signs",
+     "bands or rows of small repeated marks",
+     "multiple animal figures combined with geometric signs"
+    ],
+    "why": "The strongest correspondence is that both surfaces combine schematic profile animals\u2014especially bird-like forms and quadrupeds\u2014with repeated bar/H-like signs and rows of small marks. The biggest difference is that B is organized in clear horizontal registers with a prominent sign-band and separated animal panels, while A is a denser, less regular field of overlapping or scattered animal figures and signs.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "egypt_0061",
+    "group": "egypt",
+    "score": 5,
+    "sub": 8,
+    "elements": [
+     "bird or bird-like creature in profile",
+     "elongated animal body with simplified outline",
+     "horizontal band of repeated signs or pattern",
+     "linear incised/geometric markings"
+    ],
+    "why": "The strongest correspondence is the use of schematic profile animals, especially bird-like forms, together with bands or rows of small repeated linear/geometric signs. The biggest difference is that A is dominated by one or two large vertical bird-like figures against a relatively sparse field, whereas B is a crowded multi-register composition with several different animals and signs arranged in stacked horizontal zones.",
+    "objtype": "statue"
+   },
+   {
+    "id": "gotland_0123",
+    "group": "gotland",
+    "score": 4,
+    "sub": 8,
+    "elements": [
+     "horizontal band of repeated vertical rectangular/stroke-like signs",
+     "triangular or zigzag geometric band",
+     "stacked/register-like organization"
+    ],
+    "why": "The most specific correspondence is a horizontal belt in which a row of repeated upright strokes/rectangles is paired with a band of triangles or zigzags beneath it. The biggest difference is that A includes many figurative animal-like forms and multiple carved registers, while B is dominated by a rounded schematic figure/outline with a much simpler central geometric band and few comparable creatures or scenes.",
+    "objtype": "drawing_or_plan"
+   },
+   {
+    "id": "egypt_0012",
+    "group": "egypt",
+    "score": 4,
+    "sub": 8,
+    "elements": [
+     "schematic animal or bird-like figure in profile",
+     "prominent eye/disc on a head or body",
+     "horizontal/register-like bands of signs",
+     "rows of short parallel strokes or notches",
+     "linear geometric marks"
+    ],
+    "why": "The strongest correspondence is the use of schematic profile creatures combined with linear bands of short repeated marks and eye/disc-like details. The biggest difference is that B has a clearly organized multi-register scene with several distinct animals and symbols, while A appears dominated by one eroded central creature with much less clear separation of motifs or matching relationships.",
+    "objtype": "rock_surface"
+   },
+   {
+    "id": "egypt_0063",
+    "group": "egypt",
+    "score": 4,
+    "sub": 8,
+    "elements": [
+     "profile animals, including bird-like forms",
+     "rows of small repeated linear signs or glyph-like motifs",
+     "horizontal bands or registers",
+     "schematic human/animal figures",
+     "geometric angular motifs"
+    ],
+    "why": "The strongest correspondence is that both surfaces use schematic low-relief line figures with profile animals/birds and rows of small glyph-like signs organized partly in horizontal bands. The biggest difference is that A is dominated by a few large isolated animal figures on a vertical pillar, while B is a dense multi-register composition with many repeated human-like figures and a prominent top emblem, so the specific iconographic scheme is not the same.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0125",
+    "group": "maya",
+    "score": 4,
+    "sub": 8,
+    "elements": [
+     "animal figures in profile",
+     "bird or bird-like figure in profile",
+     "quadruped-like animal in profile",
+     "elongated linear or serpentine forms"
+    ],
+    "why": "The strongest correspondence is that both surfaces depict multiple schematic relief animals, including profile bird-like and quadruped-like forms, with simple outlined bodies and minimal internal detail. The biggest difference is that B is organized into clear horizontal registers with repeated motifs and distinct animals, while A appears as a looser, more crowded and less legibly ordered cluster without the same banded iconographic scheme.",
+    "objtype": "freestanding_monolith"
+   }
+  ],
+  "by_objtype": {
+   "freestanding_monolith": {
+    "n": 127,
+    "mean": 3.5354330708661417,
+    "n_ge6": 9
+   },
+   "rock_surface": {
+    "n": 100,
+    "mean": 2.54,
+    "n_ge6": 1
+   },
+   "portable_object": {
+    "n": 27,
+    "mean": 3.037037037037037,
+    "n_ge6": 1
+   },
+   "statue": {
+    "n": 31,
+    "mean": 2.3870967741935485,
+    "n_ge6": 0
+   },
+   "drawing_or_plan": {
+    "n": 20,
+    "mean": 2.9,
+    "n_ge6": 0
+   },
+   "wall_or_architectural_relief": {
+    "n": 142,
+    "mean": 2.4577464788732395,
+    "n_ge6": 0
+   }
+  },
+  "top_foreign_mono": [
+   {
+    "id": "maya_0045",
+    "group": "maya",
+    "score": 7,
+    "sub": 11,
+    "elements": [
+     "row of repeated arched or handled rectangular signs near the top",
+     "horizontal band of repeated geometric hatching/triangular pattern below the upper signs",
+     "profile animal or bird figures below the band",
+     "small circular eye/disc details"
+    ],
+    "why": "The strongest correspondence is the distinctive upper row of repeated arched/handled rectangular motifs placed above a patterned horizontal band, with schematic profile creatures occupying the area below. The main difference is that A is a crowded, roughly symmetrical composition with multiple overlapping or facing figures and large flanking forms, while B is more clearly divided into vertical registers with fewer, more isolated profile animals.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0083",
+    "group": "maya",
+    "score": 6,
+    "sub": 11,
+    "elements": [
+     "profile bird or bird-like animal",
+     "profile quadruped/animal figures",
+     "snake-like or curved linear animal forms",
+     "small circles or discs",
+     "horizontal bands/registers",
+     "rows of repeated abstract rectilinear signs"
+    ],
+    "why": "The strongest correspondence is the combination of schematic profile animals\u2014especially bird-like figures\u2014small discs, snake-like curves, and repeated rectilinear signs organized in horizontal registers. The biggest difference is that A is dominated by a dense lower scene with a large winged bird/scorpion-like and human-like forms, while B has a different vertical sequence of panels with large birds/quadrupeds and more separated emblematic motifs.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "gotland_0128",
+    "group": "gotland",
+    "score": 6,
+    "sub": 9,
+    "elements": [
+     "long-necked bird in profile",
+     "animal figures in profile",
+     "horizontal band or register",
+     "repeated geometric chevron/triangle pattern",
+     "row of repeated abstract signs or blocks"
+    ],
+    "why": "The strongest correspondence is the combination of schematic profile animals, especially long-necked birds, with horizontal registers of repeated geometric signs including chevron/triangle patterning. The biggest difference is that A is mainly a dense linear frieze of repeated signs and animals, while B presents larger separated animal figures and stacked scenes on a pillar-like surface, with no clearly matching single scene or figure-to-figure relationship.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0138",
+    "group": "maya",
+    "score": 5,
+    "sub": 9,
+    "elements": [
+     "profile animals",
+     "bird-like figure in profile",
+     "snake-like/curving linear animal form",
+     "horizontal bands or registers",
+     "repeated geometric/sign-like motifs"
+    ],
+    "why": "Both surfaces show low-relief, schematic compositions organized in stacked horizontal zones, with profile animals/bird-like creatures and repeated sign-like or geometric bands; the most specific commonality is the combination of animal figures with horizontal patterned registers on a vertical decorated face. The biggest difference is that B presents a clearer ordered animal panel with distinct large creatures and top sign motifs, while A appears more densely packed and includes a prominent central anthropomorphic or composite figure/register structure not matched in B.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "egypt_0040",
+    "group": "egypt",
+    "score": 5,
+    "sub": 9,
+    "elements": [
+     "bird in profile",
+     "animal figures used as signs or motifs",
+     "rows of repeated small signs",
+     "horizontal register-like divisions",
+     "linear schematic carving/drawing conventions"
+    ],
+    "why": "The strongest shared content is the use of profile bird/animal motifs and rows of small schematic signs arranged in horizontal bands or registers. The main difference is that B is dominated by dense sign-writing and seated human figures in ordered registers, while A is a looser animal-and-geometric composition with larger isolated creatures and no comparable human figure scheme.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0047",
+    "group": "maya",
+    "score": 5,
+    "sub": 8,
+    "elements": [
+     "profile bird or long-beaked/long-necked bird",
+     "profile quadruped animal",
+     "repeated bar- or H-like abstract signs",
+     "bands or rows of small repeated marks",
+     "multiple animal figures combined with geometric signs"
+    ],
+    "why": "The strongest correspondence is that both surfaces combine schematic profile animals\u2014especially bird-like forms and quadrupeds\u2014with repeated bar/H-like signs and rows of small marks. The biggest difference is that B is organized in clear horizontal registers with a prominent sign-band and separated animal panels, while A is a denser, less regular field of overlapping or scattered animal figures and signs.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "egypt_0061",
+    "group": "egypt",
+    "score": 5,
+    "sub": 8,
+    "elements": [
+     "bird or bird-like creature in profile",
+     "elongated animal body with simplified outline",
+     "horizontal band of repeated signs or pattern",
+     "linear incised/geometric markings"
+    ],
+    "why": "The strongest correspondence is the use of schematic profile animals, especially bird-like forms, together with bands or rows of small repeated linear/geometric signs. The biggest difference is that A is dominated by one or two large vertical bird-like figures against a relatively sparse field, whereas B is a crowded multi-register composition with several different animals and signs arranged in stacked horizontal zones.",
+    "objtype": "statue"
+   },
+   {
+    "id": "egypt_0063",
+    "group": "egypt",
+    "score": 4,
+    "sub": 8,
+    "elements": [
+     "profile animals, including bird-like forms",
+     "rows of small repeated linear signs or glyph-like motifs",
+     "horizontal bands or registers",
+     "schematic human/animal figures",
+     "geometric angular motifs"
+    ],
+    "why": "The strongest correspondence is that both surfaces use schematic low-relief line figures with profile animals/birds and rows of small glyph-like signs organized partly in horizontal bands. The biggest difference is that A is dominated by a few large isolated animal figures on a vertical pillar, while B is a dense multi-register composition with many repeated human-like figures and a prominent top emblem, so the specific iconographic scheme is not the same.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0125",
+    "group": "maya",
+    "score": 4,
+    "sub": 8,
+    "elements": [
+     "animal figures in profile",
+     "bird or bird-like figure in profile",
+     "quadruped-like animal in profile",
+     "elongated linear or serpentine forms"
+    ],
+    "why": "The strongest correspondence is that both surfaces depict multiple schematic relief animals, including profile bird-like and quadruped-like forms, with simple outlined bodies and minimal internal detail. The biggest difference is that B is organized into clear horizontal registers with repeated motifs and distinct animals, while A appears as a looser, more crowded and less legibly ordered cluster without the same banded iconographic scheme.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "gotland_0130",
+    "group": "gotland",
+    "score": 4,
+    "sub": 8,
+    "elements": [
+     "long-necked bird in profile",
+     "schematic animal figures",
+     "horizontal dividing line or register",
+     "framed or bordered carved field",
+     "curving/arched linear motifs"
+    ],
+    "why": "The clearest specific correspondence is a schematically outlined long-necked bird shown in profile, placed in the lower part of a surface that also uses horizontal divisions and linear framing. The biggest difference is that B is a crowded multi-register animal-and-figure composition, while A is sparse and centralized, with the bird isolated beneath larger geometric or architectural-looking motifs rather than interacting with a dense set of creatures and signs.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "gotland_0133",
+    "group": "gotland",
+    "score": 4,
+    "sub": 8,
+    "elements": [
+     "profile animal figures",
+     "bird-like head or bird in profile with eye/beak",
+     "curving serpent- or limb-like animal forms",
+     "linear/geometric signs or bands"
+    ],
+    "why": "The strongest correspondence is that both surfaces use schematic relief outlines to show profile animals, including bird-like forms with a marked eye/beak and accompanying geometric/linear signs. The biggest difference is that A has a clearly organized stacked composition with multiple distinct birds, a patterned horizontal band, and other separate creatures, while B is much less legible and appears to preserve a looser vertical cluster of partial animal and sign forms rather than the same iconographic scheme.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0114",
+    "group": "maya",
+    "score": 4,
+    "sub": 8,
+    "elements": [
+     "stylized animal or zoomorphic figures",
+     "profile animal heads/bodies",
+     "curving serpent-like or limb-like forms",
+     "repeated geometric or sign-like motifs",
+     "stacked decoration over a vertical surface"
+    ],
+    "why": "Both surfaces show schematic relief designs made up of stylized zoomorphic/profile forms and repeated sign-like motifs arranged vertically, with the closest correspondence being the use of stacked animal-like and curving forms rather than a single naturalistic scene. The biggest difference is that A has clearer separated registers, recognizable bird/quadruped-like figures and geometric bands, while B is a dense interlocking field of abstract glyphic/serpentine forms with no matching specific figures or relationships.",
+    "objtype": "freestanding_monolith"
+   }
+  ],
+  "mean": 2.8322147651006713,
+  "hist": [
+   1,
+   10,
+   198,
+   146,
+   67,
+   14,
+   3,
+   2,
+   3,
+   2,
+   1
+  ],
+  "by_group": {
+   "anatolia_ppn": 3.406779661016949,
+   "assyria": 2.3666666666666667,
+   "catalhoyuk": 2.5714285714285716,
+   "egypt": 3.1016949152542375,
+   "gotland": 2.923076923076923,
+   "maya": 3.183333333333333,
+   "mississippian": 2.6875,
+   "persepolis": 2.4833333333333334,
+   "rapa_nui": 2.825,
+   "tanum": 2.5
+  },
+  "n_ge": {
+   "5": 25,
+   "6": 11,
+   "7": 8,
+   "8": 6
+  }
+ },
+ "search_hoa": {
+  "n": 447,
+  "top": [
+   {
+    "id": "rapa_nui_0045",
+    "group": "rapa_nui",
+    "score": 10,
+    "sub": 15,
+    "elements": [
+     "monolithic standing figure with head and torso",
+     "carved circular disc/ring motif on the back",
+     "paired curved elements resembling arms/hands meeting at lower back",
+     "paired oval motifs (eye-like) in the upper back area",
+     "incised vertical bands at the top of the head",
+     "schematic low-relief carving on a broad flat surface"
+    ],
+    "why": "Both show the same rear view of a monolithic figure with the identical arrangement: incised vertical bands at the crown, paired oval motifs on the upper back, a central ringed disc, and curving arm/hand elements converging below it, plus a small circular mark near the base. The only differences are viewpoint, lighting and framing, not depicted content; these are the same carved surface.",
+    "objtype": "statue"
+   },
+   {
+    "id": "rapa_nui_0005",
+    "group": "rapa_nui",
+    "score": 10,
+    "sub": 15,
+    "elements": [
+     "monolithic standing anthropomorphic figure with block head",
+     "broad flat torso with carved relief motifs",
+     "paired concentric ring/disc motifs on upper back or shoulders",
+     "large central ring/circle motif",
+     "curved arcing bands across lower body",
+     "small circular boss low on the body",
+     "vertical grooved/incised bands framing the head"
+    ],
+    "why": "Both show the same standing monolithic figure with a rectangular head, vertically incised panels flanking the head, paired concentric rings above a large central ring on the torso, arcing bands below and a small boss near the base, in identical relative positions. The only differences are viewing angle and surroundings, not depicted content; this is to all appearances the same carved figure.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "rapa_nui_0039",
+    "group": "rapa_nui",
+    "score": 10,
+    "sub": 15,
+    "elements": [
+     "monolithic standing human-like figure with large head",
+     "rear-view carved back with relief motifs",
+     "central ring/circle motif on the back",
+     "paired spiral or double-ring motifs above the ring",
+     "curved band across the lower back (belt/loincloth line)",
+     "vertical striated bands on the head/nape",
+     "small crescent-like motif low on the surface"
+    ],
+    "why": "Both show the same rear view of a large-headed monolithic figure with identical relief scheme: paired spiral/ring motifs flanking a central ring, a curved belt-like band beneath, striated vertical bands down the nape, and the same small motifs low on the body. The only differences are viewing angle and surroundings, not depicted content; this is evidently the same object or an exact duplicate.",
+    "objtype": "statue"
+   },
+   {
+    "id": "rapa_nui_0046",
+    "group": "rapa_nui",
+    "score": 10,
+    "sub": 15,
+    "elements": [
+     "large monolithic anthropomorphic figure carved in the round",
+     "carved circular disc/boss on the torso",
+     "curved band or belt crossing the body below the disc",
+     "paired scroll/spiral or lozenge motifs above the disc",
+     "vertical incised relief panels on upper body/head",
+     "small carved boss low on the body"
+    ],
+    "why": "Both show the identical scheme: a tall blocky anthropomorphic monolith with a central circular disc on the chest, paired curvilinear motifs above it, a curved belt-like band below, an inverted V/chevron beneath that, and a small boss low on the body; A is simply a close view of the same torso that B shows in full, including the head with vertical incised lines. The only difference in depicted content is framing\u2014A omits the head and upper carvings visible in B\u2014so no genuine iconographic divergence exists.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "rapa_nui_0069",
+    "group": "rapa_nui",
+    "score": 10,
+    "sub": 15,
+    "elements": [
+     "circular disc or ring motif on the torso",
+     "curved arcs/bands crossing the body (belt or arm lines)",
+     "V-shaped or angular incised sign below the disc",
+     "small raised boss/knob near the lower edge",
+     "low-relief carving on a rounded anthropomorphic stone body"
+    ],
+    "why": "B is a close-up of the lower portion of the same carved figure shown in A: the disc/ring motif, the pair of curved bands beneath it, the angular V-shaped mark below, and the small round boss near the base occupy identical relative positions and forms. The only difference is framing, with A additionally showing the upper head and shoulder ornament that B crops out.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "rapa_nui_0025",
+    "group": "rapa_nui",
+    "score": 10,
+    "sub": 15,
+    "elements": [
+     "monolithic anthropomorphic figure with block head and squared torso",
+     "incised low-relief motifs on the back of the head/upper block",
+     "paired arched/curved motifs resembling arms or crescents on the upper back",
+     "central ring or disc motif on the lower back",
+     "curving band across the lower body suggesting a belt or loincloth",
+     "vertical hanging elements below the belt",
+     "paired small round bosses flanking the central area"
+    ],
+    "why": "Both show the identical scheme: a massive block-headed anthropomorphic statue whose back bears the same sequence of incised motifs from top to bottom \u2014 vertical striations on the head, paired curved crescent/arm forms with small ring bosses, a large central ring, and a belt-like arc with pendant vertical elements below. The correspondence extends to the exact placement and proportion of each motif, so these appear to depict the same object; the only differences are viewing angle and surface condition, which are excluded from consideration.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "rapa_nui_0034",
+    "group": "rapa_nui",
+    "score": 10,
+    "sub": 15,
+    "elements": [
+     "monolithic human-form statue with oversized head",
+     "elongated head with heavy brow and prominent nose",
+     "carved relief motifs on the back/torso",
+     "concentric ring or disc motif on lower back",
+     "curved parallel lines forming a belt-like band below the disc",
+     "incised linear designs across the upper back/shoulders",
+     "small figural/anthropomorphic relief motifs on the upper back"
+    ],
+    "why": "Both show the same schematic monolithic human figure with an elongated flat-topped head, heavy brow and jutting nose, and an identical suite of back reliefs: paired incised motifs across the upper back, a central concentric ring/disc low on the back, and curving parallel lines forming a belt beneath it. The only differences are viewing angle and framing (A frontal-rear and full-length, B from below and cropped), not in depicted content; this appears to be the same statue or an exact counterpart.",
+    "objtype": "statue"
+   },
+   {
+    "id": "rapa_nui_0062",
+    "group": "rapa_nui",
+    "score": 10,
+    "sub": 15,
+    "elements": [
+     "monolithic anthropomorphic statue with blocky head",
+     "elongated rectangular head with headdress-like element",
+     "relief-carved circular disc at center of torso",
+     "curvilinear relief motifs on upper back/shoulders",
+     "horizontal band or belt below the disc",
+     "pendant elements hanging from the sides of the head"
+    ],
+    "why": "Both show the same standing monolithic figure seen from the same rear/three-quarter aspect, with the identical arrangement of curvilinear relief motifs across the shoulders, a prominent ring-disc centred on the lower back, a horizontal belt band beneath it, and the same blocky head with side pendants. The only differences are photographic (colour, background, lighting), not in depicted content; these are almost certainly the same object.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "rapa_nui_0047",
+    "group": "rapa_nui",
+    "score": 10,
+    "sub": 15,
+    "elements": [
+     "monolithic standing figure with blocky head and torso",
+     "carved head with brow ridge and elongated ears/face",
+     "paired curvilinear motifs on upper back (crescent/arc pairs)",
+     "central ring or disc motif on the back",
+     "horizontal arcing bands across the lower back (belt/loin lines)",
+     "small circular disc low on the body",
+     "M-shaped or double-arc motif below the ring"
+    ],
+    "why": "Both images show the same standing monolithic figure viewed from behind, with identical placement of paired crescent motifs on the upper back, a central ring flanked by curls, arcing belt bands, and a small disc low on the shaft. The only differences are viewing angle, lighting and surroundings, not depicted content; this is the same object.",
+    "objtype": "statue"
+   },
+   {
+    "id": "rapa_nui_0065",
+    "group": "rapa_nui",
+    "score": 10,
+    "sub": 15,
+    "elements": [
+     "monolithic standing figure with head, shoulders and torso",
+     "carved rings/discs on the back",
+     "curved band motifs across the shoulders/upper back",
+     "horizontal belt-like bands around the lower body",
+     "incised linear motifs on the head/crown",
+     "small carved figure or sign below the belt"
+    ],
+    "why": "Both show the same standing monolithic figure seen from behind with the identical arrangement of concentric ring motifs flanked by curving shoulder bands, a multi-strand belt below, and the same small incised sign beneath the belt, plus matching linear carving on the head. The only differences are viewing angle and framing, not depicted content; these are the same object.",
+    "objtype": "statue"
+   },
+   {
+    "id": "rapa_nui_0054",
+    "group": "rapa_nui",
+    "score": 10,
+    "sub": 15,
+    "elements": [
+     "monolithic standing figure seen from behind",
+     "head with elongated ears carved along the sides",
+     "carved rings/circle motifs on the upper back (shoulder area)",
+     "central circular disc/ring motif at mid-back",
+     "horizontal band or belt across the lower back",
+     "curvilinear paired spiral-like designs flanking the disc",
+     "small figures/motifs below the belt"
+    ],
+    "why": "Both images show the same monumental back-view figure with elongated ears, paired ring/spiral motifs on the shoulders, a central disc set above a horizontal belt band, and small motifs below it, in identical relative positions. The only differences are viewing angle, lighting and background, not depicted content; this is evidently the same object.",
+    "objtype": "statue"
+   },
+   {
+    "id": "rapa_nui_0044",
+    "group": "rapa_nui",
+    "score": 10,
+    "sub": 15,
+    "elements": [
+     "monolithic standing figure with squared head seen from behind",
+     "pair of confronted bird-like forms carved at the top of the back/head area",
+     "central ring or disc motif on the back",
+     "curved horizontal bands (belt-like) across the lower back",
+     "small oval/vulviform carving below the bands",
+     "incised low-relief motifs on the shoulders flanking the spine"
+    ],
+    "why": "Both show the same standing block-like figure viewed from the rear, with the identical sequence of motifs: paired confronted bird-forms at the top, a prominent ring/disc centred on the back, curved belt bands beneath, and a small oval carving below them. The only differences are viewing angle and surrounding setting, not depicted content, so this appears to be the same carved surface.",
+    "objtype": "statue"
+   }
+  ],
+  "top_foreign": [
+   {
+    "id": "egypt_0012",
+    "group": "egypt",
+    "score": 7,
+    "sub": 13,
+    "elements": [
+     "frontal anthropomorphic figure carved in low relief on an upright block",
+     "head or face with headdress/headband at top",
+     "concentric circle / disc motifs on the torso area",
+     "arms rendered in shallow relief flanking the body",
+     "belt or horizontal band across the lower torso",
+     "schematic linear glyph-like or emblem-like elements on the chest",
+     "vertical banded elements framing the head"
+    ],
+    "why": "Both surfaces depict a frontal, blocky anthropomorphic being carved in very low relief on a tall vertical mass, with a broad headdress or framed head at the top, chest ornaments including concentric-circle discs, low-relief arms folded toward the centre, and a horizontal belt/band crossing the lower torso \u2014 a distinctive and consistent scheme rather than a generic figure. The clearest difference is that A's relief is flatter and more crowded with rectilinear glyph-like panels while B has a more sculptural, three-dimensional head and clearer bilateral body outline, and B's lower body carries additional emblem motifs absent in A.",
+    "objtype": "rock_surface"
+   },
+   {
+    "id": "maya_0066",
+    "group": "maya",
+    "score": 6,
+    "sub": 11,
+    "elements": [
+     "large upright boulder/stela-shaped surface carved in low relief",
+     "frontal anthropomorphic figure occupying the main field",
+     "headdress or elaborated headgear at the top of the composition",
+     "incised curvilinear/scroll motifs",
+     "band of glyph-like or emblematic panels across a register",
+     "circular disc or ring element on the torso area",
+     "bilaterally symmetrical composition about a vertical axis"
+    ],
+    "why": "Both surfaces present a monolithic upright block carved in shallow relief with a frontal, bilaterally symmetrical anthropomorphic figure whose headgear crowns the top, curvilinear scroll motifs across the chest, a disc-like element on the torso, and a lower register of blocky glyph-like panels \u2014 a fairly specific shared scheme. The clearest difference is in the lower zone: B shows a broad panel of interlocking mask-like/serpentine elements with paired scrolled forms at the base, while A's lower body is largely plain with only a narrow banded belt and a small central emblem, and B's central figure reads more as a standing personage with flanking devices than A's massive block-shouldered bust.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0051",
+    "group": "maya",
+    "score": 6,
+    "sub": 11,
+    "elements": [
+     "frontal standing/upright human-like figure filling the whole surface",
+     "large elaborate headdress occupying the upper part of the monument",
+     "carved relief on a tall upright slab-shaped stone",
+     "curvilinear scroll motifs around the head and torso",
+     "chest/pectoral ornament with a disc or oval element",
+     "arms held across the front of the body",
+     "band or belt across the lower torso"
+    ],
+    "why": "Both depict a single frontal upright figure occupying an entire tall slab, with a heavy headdress above, scrollwork flanking the head, arms folded across the chest, a disc-like pectoral and a belt band low on the torso \u2014 a specific and shared vertical scheme. The biggest difference is density and legibility of detail: A is crowded with small subsidiary faces, dangling ornaments and interlocking motifs and shows a clear naturalistic human face with legs and feet, whereas B is highly reduced, faceless in the visible view, with sparse shallow scrolls and no lower limbs shown.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0052",
+    "group": "maya",
+    "score": 6,
+    "sub": 11,
+    "elements": [
+     "frontal standing human figure carved in relief on a tall vertical monolith",
+     "elaborate headdress / headgear filling the upper zone",
+     "circular disc or medallion on the chest (pectoral ornament)",
+     "broad belt or apron-like element across the lower torso",
+     "curvilinear scroll and mask-like motifs filling the surface",
+     "arms held symmetrically at the sides of the body across the chest"
+    ],
+    "why": "Both surfaces depict a single frontal human figure occupying the whole face of a tall vertical monolith, with a massive ornamental headdress above the head, arms held symmetrically across the chest, a round pectoral disc at the centre of the torso, and a belt/apron zone below \u2014 a fairly specific and repeated scheme of stacked costume elements rather than a generic standing figure. The main difference is density and legibility of detail: B's surface is packed with interlocking masks, scrolls and glyph-like panels rendered with fine, naturalistic modelling, while A shows a much sparser, bolder, more schematic set of motifs with the face barely indicated.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0101",
+    "group": "maya",
+    "score": 6,
+    "sub": 11,
+    "elements": [
+     "standing frontal human figure carved on a vertical stone slab",
+     "elaborate headdress occupying the upper portion",
+     "circular disc or medallion on the chest/torso",
+     "broad belt or waistband across the lower torso",
+     "symmetrical low-relief ornament flanking the central axis",
+     "pendant / hanging elements from headdress or belt"
+    ],
+    "why": "Both depict a single frontal standing personage carved in low relief filling a tall slab, with a tall elaborate headdress at the top, a prominent circular chest medallion at mid-torso, and a broad banded belt with pendant elements below \u2014 a fairly specific vertical hierarchy of ornament repeated in the same order. The chief differences are that A shows a slender full-length figure with clearly rendered legs and feet, arms and dense glyph-like ornament and a profile-headed headdress element, while B is a squat, wide-bodied figure whose lower body is undifferentiated and whose ornament is sparser and more abstract, with no legs or hands legible.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "tanum_0359",
+    "group": "tanum",
+    "score": 6,
+    "sub": 10,
+    "elements": [
+     "schematic profile figure with curved, hooked beak-like head",
+     "crouching/bent-limbed creature with schematic arms and legs",
+     "circular discs, rings and small round cup-like depressions",
+     "curvilinear low-relief pecked outline motifs",
+     "repeated small motifs scattered around a larger central figure"
+    ],
+    "why": "Both surfaces carry schematic, pecked/low-relief curvilinear figures dominated by a beak-headed, bent-limbed profile creature accompanied by small round discs, rings and cup-like marks scattered across the field, a fairly specific combination rather than a generic animal-plus-pattern pairing. The clearest difference is the composition: A shows a symmetrical, tiered arrangement of paired figures above a prominent central ring and banded motifs organised on a shaped body, while B is a single sprawling figure with irregular satellite marks on an open rock face.",
+    "objtype": "rock_surface"
+   },
+   {
+    "id": "maya_0082",
+    "group": "maya",
+    "score": 6,
+    "sub": 10,
+    "elements": [
+     "large upright monolithic slab carved in low relief on one broad face",
+     "frontal anthropomorphic figure occupying the full height of the slab",
+     "elaborate headdress/headgear across the top of the figure",
+     "curved or scrolled ornament flanking the head",
+     "pectoral/disc-like element on the chest area",
+     "belt-like horizontal band across the lower body",
+     "raised low-relief bosses and circular motifs"
+    ],
+    "why": "Both surfaces present a single frontal anthropomorphic personage carved in low relief filling an upright slab, with a broad headdress at the top, circular/disc elements on the chest, and a horizontal belt-like band low down, plus a basal register at the bottom \u2014 a fairly specific shared scheme. The differences are that A's figure is flatter, more linear and surrounded by columnar textured panels (possibly sign-like registers) with small figures at the base, whereas B's figure is rendered in bolder, more plastic modelled relief with pronounced scrolled and knotted ornaments and no comparable side panels.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0130",
+    "group": "maya",
+    "score": 6,
+    "sub": 10,
+    "elements": [
+     "frontal standing/enthroned human figure filling the field",
+     "elaborate headdress or headgear crowning the head",
+     "large circular disc or medallion worn on the chest",
+     "symmetrical arrangement of ornaments flanking the torso",
+     "banded belt/skirt element across the lower body",
+     "vertical, tall panel dominated by a single costumed personage"
+    ],
+    "why": "Both depict a single frontal, elaborately costumed personage occupying the whole tall vertical field, with a broad headdress above, a prominent circular pectoral disc on the chest, symmetrical flanking regalia, and banded belt/skirt elements below \u2014 a fairly specific shared scheme of ritual costume display. The biggest differences in content are B's dense low-relief detail, feathered plumes, held objects and a column of framed sign blocks plus a basal cartouche, none of which appear in A, whose figure is rendered in massive, blocky, far more schematic terms without any sign panel.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0027",
+    "group": "maya",
+    "score": 6,
+    "sub": 10,
+    "elements": [
+     "frontal anthropomorphic figure on a vertical slab-shaped monument",
+     "elaborate headdress occupying the upper portion",
+     "pectoral/necklace ornament across the chest",
+     "low-relief carving covering the whole face of an upright stone",
+     "belt or waistband with pendant elements",
+     "serpent-like or fanged supernatural head motifs in the headgear"
+    ],
+    "why": "Both depict a single frontal anthropomorphic personage carved in low relief across an upright slab, with a massive elaborate headdress at top incorporating zoomorphic/serpentine heads, a pectoral ornament at the chest and a belt with dangling elements below \u2014 a fairly specific shared scheme of one costumed figure filling the field. The chief difference is density and completeness: B is a crowded, detailed full-length standing figure with subsidiary heads, scrolls and a basal register, while A is a far more reduced, blocky composition dominated by a broad face/mask and simple discs with much of the lower body plain.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0091",
+    "group": "maya",
+    "score": 5,
+    "sub": 10,
+    "elements": [
+     "single dominant anthropomorphic figure on a tall vertical monument",
+     "elaborate multi-tiered headdress covering the top of the head",
+     "ornamented chest/pectoral element",
+     "belt or sash across the waist with hanging apron/loincloth",
+     "circular disc-like element (medallion / round object at the figure's side)",
+     "dense low-relief surface detail of costume elements"
+    ],
+    "why": "Both depict a single richly costumed human figure filling a tall vertical monument, head crowned by a broad multi-tiered headdress, with a pectoral ornament, a belt with hanging apron below, and a circular disc-like element in the composition, rendered in dense, schematic low relief. The biggest differences are that B shows the figure in strict profile holding an upright staff and is framed by ordered columns of rectangular glyph-like signs plus a subsidiary small figure at lower left, whereas A is a rigidly frontal, symmetrical, sculptural figure with no sign-columns, no held implement and no secondary figure.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0136",
+    "group": "maya",
+    "score": 5,
+    "sub": 10,
+    "elements": [
+     "frontal anthropomorphic figure",
+     "elaborate multi-band headdress above the face",
+     "circular disc ornament on the chest/pectoral",
+     "arms held symmetrically at the sides/front",
+     "low-relief geometric ornament panels flanking the body",
+     "bilateral symmetry about a vertical axis"
+    ],
+    "why": "Both depict a single frontal, bilaterally symmetrical anthropomorphic personage filling the field, wearing a tall banded headdress over the face and a prominent circular disc ornament on the chest, with arms/ornaments arranged symmetrically and rendered in flat, schematic, block-like relief with strong outlines and geometric infill. The chief difference is that A's carving wraps a three-dimensional bulky body with only a few large sparse motifs (disc, ovals, curved bands) and no accompanying panels, while B is a flat field crowded with an elongated figure surrounded by dense rectilinear sign-like panels at the sides and base.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "gotland_0026",
+    "group": "gotland",
+    "score": 5,
+    "sub": 10,
+    "elements": [
+     "large circular disc/rosette motif as a dominant central emblem",
+     "vertical slab surface organised into upper and lower zones",
+     "schematic incised linear figures set above the disc",
+     "spiral/curvilinear motifs",
+     "framing or bordering lines along the slab edges",
+     "small schematic animal- or limb-like figures"
+    ],
+    "why": "Both are upright slabs bearing a single large circular emblem (concentric ring in A, swirling multi-armed whirl in B) placed as the dominant motif in the middle of the field, with smaller schematic incised figures set in the zone above it and linear framing/banding elsewhere. The biggest difference in content is that A is an overtly anthropomorphic figure-stela with a modelled head, face and body ornaments plus chevron bands, while B shows only flat, purely graphic signs \u2014 a quadruped and a forked figure \u2014 with no human body being represented by the stone itself.",
+    "objtype": "freestanding_monolith"
+   }
+  ],
+  "by_objtype": {
+   "statue": {
+    "n": 31,
+    "mean": 5.838709677419355,
+    "n_ge6": 9
+   },
+   "freestanding_monolith": {
+    "n": 127,
+    "mean": 4.0078740157480315,
+    "n_ge6": 21
+   },
+   "rock_surface": {
+    "n": 100,
+    "mean": 2.73,
+    "n_ge6": 8
+   },
+   "wall_or_architectural_relief": {
+    "n": 142,
+    "mean": 2.063380281690141,
+    "n_ge6": 1
+   },
+   "portable_object": {
+    "n": 27,
+    "mean": 2.7037037037037037,
+    "n_ge6": 0
+   },
+   "drawing_or_plan": {
+    "n": 20,
+    "mean": 2.4,
+    "n_ge6": 0
+   }
+  },
+  "top_foreign_mono": [
+   {
+    "id": "maya_0066",
+    "group": "maya",
+    "score": 6,
+    "sub": 11,
+    "elements": [
+     "large upright boulder/stela-shaped surface carved in low relief",
+     "frontal anthropomorphic figure occupying the main field",
+     "headdress or elaborated headgear at the top of the composition",
+     "incised curvilinear/scroll motifs",
+     "band of glyph-like or emblematic panels across a register",
+     "circular disc or ring element on the torso area",
+     "bilaterally symmetrical composition about a vertical axis"
+    ],
+    "why": "Both surfaces present a monolithic upright block carved in shallow relief with a frontal, bilaterally symmetrical anthropomorphic figure whose headgear crowns the top, curvilinear scroll motifs across the chest, a disc-like element on the torso, and a lower register of blocky glyph-like panels \u2014 a fairly specific shared scheme. The clearest difference is in the lower zone: B shows a broad panel of interlocking mask-like/serpentine elements with paired scrolled forms at the base, while A's lower body is largely plain with only a narrow banded belt and a small central emblem, and B's central figure reads more as a standing personage with flanking devices than A's massive block-shouldered bust.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0051",
+    "group": "maya",
+    "score": 6,
+    "sub": 11,
+    "elements": [
+     "frontal standing/upright human-like figure filling the whole surface",
+     "large elaborate headdress occupying the upper part of the monument",
+     "carved relief on a tall upright slab-shaped stone",
+     "curvilinear scroll motifs around the head and torso",
+     "chest/pectoral ornament with a disc or oval element",
+     "arms held across the front of the body",
+     "band or belt across the lower torso"
+    ],
+    "why": "Both depict a single frontal upright figure occupying an entire tall slab, with a heavy headdress above, scrollwork flanking the head, arms folded across the chest, a disc-like pectoral and a belt band low on the torso \u2014 a specific and shared vertical scheme. The biggest difference is density and legibility of detail: A is crowded with small subsidiary faces, dangling ornaments and interlocking motifs and shows a clear naturalistic human face with legs and feet, whereas B is highly reduced, faceless in the visible view, with sparse shallow scrolls and no lower limbs shown.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0052",
+    "group": "maya",
+    "score": 6,
+    "sub": 11,
+    "elements": [
+     "frontal standing human figure carved in relief on a tall vertical monolith",
+     "elaborate headdress / headgear filling the upper zone",
+     "circular disc or medallion on the chest (pectoral ornament)",
+     "broad belt or apron-like element across the lower torso",
+     "curvilinear scroll and mask-like motifs filling the surface",
+     "arms held symmetrically at the sides of the body across the chest"
+    ],
+    "why": "Both surfaces depict a single frontal human figure occupying the whole face of a tall vertical monolith, with a massive ornamental headdress above the head, arms held symmetrically across the chest, a round pectoral disc at the centre of the torso, and a belt/apron zone below \u2014 a fairly specific and repeated scheme of stacked costume elements rather than a generic standing figure. The main difference is density and legibility of detail: B's surface is packed with interlocking masks, scrolls and glyph-like panels rendered with fine, naturalistic modelling, while A shows a much sparser, bolder, more schematic set of motifs with the face barely indicated.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0101",
+    "group": "maya",
+    "score": 6,
+    "sub": 11,
+    "elements": [
+     "standing frontal human figure carved on a vertical stone slab",
+     "elaborate headdress occupying the upper portion",
+     "circular disc or medallion on the chest/torso",
+     "broad belt or waistband across the lower torso",
+     "symmetrical low-relief ornament flanking the central axis",
+     "pendant / hanging elements from headdress or belt"
+    ],
+    "why": "Both depict a single frontal standing personage carved in low relief filling a tall slab, with a tall elaborate headdress at the top, a prominent circular chest medallion at mid-torso, and a broad banded belt with pendant elements below \u2014 a fairly specific vertical hierarchy of ornament repeated in the same order. The chief differences are that A shows a slender full-length figure with clearly rendered legs and feet, arms and dense glyph-like ornament and a profile-headed headdress element, while B is a squat, wide-bodied figure whose lower body is undifferentiated and whose ornament is sparser and more abstract, with no legs or hands legible.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0082",
+    "group": "maya",
+    "score": 6,
+    "sub": 10,
+    "elements": [
+     "large upright monolithic slab carved in low relief on one broad face",
+     "frontal anthropomorphic figure occupying the full height of the slab",
+     "elaborate headdress/headgear across the top of the figure",
+     "curved or scrolled ornament flanking the head",
+     "pectoral/disc-like element on the chest area",
+     "belt-like horizontal band across the lower body",
+     "raised low-relief bosses and circular motifs"
+    ],
+    "why": "Both surfaces present a single frontal anthropomorphic personage carved in low relief filling an upright slab, with a broad headdress at the top, circular/disc elements on the chest, and a horizontal belt-like band low down, plus a basal register at the bottom \u2014 a fairly specific shared scheme. The differences are that A's figure is flatter, more linear and surrounded by columnar textured panels (possibly sign-like registers) with small figures at the base, whereas B's figure is rendered in bolder, more plastic modelled relief with pronounced scrolled and knotted ornaments and no comparable side panels.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0130",
+    "group": "maya",
+    "score": 6,
+    "sub": 10,
+    "elements": [
+     "frontal standing/enthroned human figure filling the field",
+     "elaborate headdress or headgear crowning the head",
+     "large circular disc or medallion worn on the chest",
+     "symmetrical arrangement of ornaments flanking the torso",
+     "banded belt/skirt element across the lower body",
+     "vertical, tall panel dominated by a single costumed personage"
+    ],
+    "why": "Both depict a single frontal, elaborately costumed personage occupying the whole tall vertical field, with a broad headdress above, a prominent circular pectoral disc on the chest, symmetrical flanking regalia, and banded belt/skirt elements below \u2014 a fairly specific shared scheme of ritual costume display. The biggest differences in content are B's dense low-relief detail, feathered plumes, held objects and a column of framed sign blocks plus a basal cartouche, none of which appear in A, whose figure is rendered in massive, blocky, far more schematic terms without any sign panel.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0027",
+    "group": "maya",
+    "score": 6,
+    "sub": 10,
+    "elements": [
+     "frontal anthropomorphic figure on a vertical slab-shaped monument",
+     "elaborate headdress occupying the upper portion",
+     "pectoral/necklace ornament across the chest",
+     "low-relief carving covering the whole face of an upright stone",
+     "belt or waistband with pendant elements",
+     "serpent-like or fanged supernatural head motifs in the headgear"
+    ],
+    "why": "Both depict a single frontal anthropomorphic personage carved in low relief across an upright slab, with a massive elaborate headdress at top incorporating zoomorphic/serpentine heads, a pectoral ornament at the chest and a belt with dangling elements below \u2014 a fairly specific shared scheme of one costumed figure filling the field. The chief difference is density and completeness: B is a crowded, detailed full-length standing figure with subsidiary heads, scrolls and a basal register, while A is a far more reduced, blocky composition dominated by a broad face/mask and simple discs with much of the lower body plain.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0091",
+    "group": "maya",
+    "score": 5,
+    "sub": 10,
+    "elements": [
+     "single dominant anthropomorphic figure on a tall vertical monument",
+     "elaborate multi-tiered headdress covering the top of the head",
+     "ornamented chest/pectoral element",
+     "belt or sash across the waist with hanging apron/loincloth",
+     "circular disc-like element (medallion / round object at the figure's side)",
+     "dense low-relief surface detail of costume elements"
+    ],
+    "why": "Both depict a single richly costumed human figure filling a tall vertical monument, head crowned by a broad multi-tiered headdress, with a pectoral ornament, a belt with hanging apron below, and a circular disc-like element in the composition, rendered in dense, schematic low relief. The biggest differences are that B shows the figure in strict profile holding an upright staff and is framed by ordered columns of rectangular glyph-like signs plus a subsidiary small figure at lower left, whereas A is a rigidly frontal, symmetrical, sculptural figure with no sign-columns, no held implement and no secondary figure.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0136",
+    "group": "maya",
+    "score": 5,
+    "sub": 10,
+    "elements": [
+     "frontal anthropomorphic figure",
+     "elaborate multi-band headdress above the face",
+     "circular disc ornament on the chest/pectoral",
+     "arms held symmetrically at the sides/front",
+     "low-relief geometric ornament panels flanking the body",
+     "bilateral symmetry about a vertical axis"
+    ],
+    "why": "Both depict a single frontal, bilaterally symmetrical anthropomorphic personage filling the field, wearing a tall banded headdress over the face and a prominent circular disc ornament on the chest, with arms/ornaments arranged symmetrically and rendered in flat, schematic, block-like relief with strong outlines and geometric infill. The chief difference is that A's carving wraps a three-dimensional bulky body with only a few large sparse motifs (disc, ovals, curved bands) and no accompanying panels, while B is a flat field crowded with an elongated figure surrounded by dense rectilinear sign-like panels at the sides and base.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "gotland_0026",
+    "group": "gotland",
+    "score": 5,
+    "sub": 10,
+    "elements": [
+     "large circular disc/rosette motif as a dominant central emblem",
+     "vertical slab surface organised into upper and lower zones",
+     "schematic incised linear figures set above the disc",
+     "spiral/curvilinear motifs",
+     "framing or bordering lines along the slab edges",
+     "small schematic animal- or limb-like figures"
+    ],
+    "why": "Both are upright slabs bearing a single large circular emblem (concentric ring in A, swirling multi-armed whirl in B) placed as the dominant motif in the middle of the field, with smaller schematic incised figures set in the zone above it and linear framing/banding elsewhere. The biggest difference in content is that A is an overtly anthropomorphic figure-stela with a modelled head, face and body ornaments plus chevron bands, while B shows only flat, purely graphic signs \u2014 a quadruped and a forked figure \u2014 with no human body being represented by the stone itself.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "gotland_0007",
+    "group": "gotland",
+    "score": 5,
+    "sub": 10,
+    "elements": [
+     "upright slab/stele with carved decoration on the broad face",
+     "abstract curvilinear symbols/motifs incised on the stone body",
+     "disc or circular motif",
+     "paired/mirrored motif elements arranged symmetrically about a vertical axis",
+     "vertically stacked registers of motifs"
+    ],
+    "why": "Both are upright shaped slabs carved on their broad face with a vertical stack of abstract curvilinear symbols, including a prominent disc-like circular motif and paired motifs set symmetrically about a central axis, which is a fairly specific shared scheme. However, A additionally depicts explicit figural scenes (a mounted/seated figure, a boat-like structure, animals) and is framed throughout by a continuous interlace border, whereas B shows only isolated abstract symbols with no interlace frame and no recognisable figures or narrative content.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0088",
+    "group": "maya",
+    "score": 5,
+    "sub": 10,
+    "elements": [
+     "anthropomorphic figure rendered in low relief on a tall vertical monument",
+     "elaborate multi-tiered headdress or crown above the head",
+     "dense small ornamental/glyph-like blocks and scroll motifs filling the field",
+     "circular disc or medallion ornament on the body",
+     "banded horizontal element crossing the lower body",
+     "feather-like or plume-like projecting elements"
+    ],
+    "why": "Both surfaces show a single dominant anthropomorphic figure in shallow relief on a tall vertical monument, crowned by a broad, compartmented headdress with plume-like projections and surrounded by dense small block-like ornamental signs, with a disc ornament on the body and a horizontal banded element lower down. The clearest difference is organisation: A is a three-dimensional figural boulder where the relief follows the body's own contours in a strictly frontal, symmetrical layout, whereas B is a flat slab whose figure and headdress are set beside vertical columns of separate ornamental panels.",
+    "objtype": "freestanding_monolith"
+   }
+  ],
+  "mean": 3.0805369127516777,
+  "hist": [
+   0,
+   37,
+   217,
+   66,
+   31,
+   57,
+   19,
+   4,
+   1,
+   1,
+   14
+  ],
+  "by_group": {
+   "anatolia_ppn": 3.864406779661017,
+   "assyria": 2.183333333333333,
+   "catalhoyuk": 1.4285714285714286,
+   "egypt": 2.169491525423729,
+   "gotland": 2.769230769230769,
+   "maya": 4.066666666666666,
+   "mississippian": 3.4375,
+   "persepolis": 1.8666666666666667,
+   "rapa_nui": 6.65,
+   "tanum": 2.183333333333333
+  },
+  "n_ge": {
+   "5": 96,
+   "6": 39,
+   "7": 20,
+   "8": 16
+  }
+ },
+ "search_hoa_gpt": {
+  "n": 447,
+  "top": [
+   {
+    "id": "rapa_nui_0039",
+    "group": "rapa_nui",
+    "score": 10,
+    "sub": 15,
+    "elements": [
+     "schematic anthropomorphic standing/monolithic figure",
+     "rounded head with incised facial features",
+     "broad shoulders/torso outline",
+     "small paired circular chest marks or nipples",
+     "central circular disc on upper abdomen/chest",
+     "curving incised lines across the torso",
+     "arched horizontal band or belt across the lower torso",
+     "short vertical incised marks below the band"
+    ],
+    "why": "Both surfaces show the same highly specific schematic anthropomorphic figure: paired chest circles flank a central circular motif, with curving incised lines above an arched band across the lower torso and vertical marks below. The only apparent differences are due to viewing angle, lighting, and cropping rather than different depicted content.",
+    "objtype": "statue"
+   },
+   {
+    "id": "rapa_nui_0044",
+    "group": "rapa_nui",
+    "score": 10,
+    "sub": 15,
+    "elements": [
+     "large frontal anthropomorphic figure with block-like head and shoulders",
+     "projecting nose or facial profile on the head",
+     "small lateral ear-like projections",
+     "paired circular chest elements",
+     "central circular/ring motif below the paired circles",
+     "curvilinear facial or mask-like incisions on the torso",
+     "multiple parallel horizontal bands across the lower torso",
+     "short vertical pendant-like marks hanging from the bands",
+     "linear and geometric incisions on the head"
+    ],
+    "why": "Both surfaces show the same highly specific iconographic scheme: a frontal anthropomorphic monolith with paired chest circles, a central ring below them, mask-like curvilinear carving, and parallel horizontal bands with pendant vertical marks in the same positions. There is no substantial depicted-content difference; only minor visibility differences in some upper-head incisions and side details.",
+    "objtype": "statue"
+   },
+   {
+    "id": "rapa_nui_0065",
+    "group": "rapa_nui",
+    "score": 10,
+    "sub": 15,
+    "elements": [
+     "large stylized anthropomorphic figure or torso with head and shoulders",
+     "incised vertical and curvilinear motifs on the back of the head",
+     "paired small circular depressions on the upper back/shoulder area",
+     "central oval or circular disc on the upper torso/back",
+     "curving scroll-like motifs around the central disc",
+     "multiple horizontal arcing bands across the midsection",
+     "short vertical pendant lines below the bands",
+     "small circular mark near the lower body"
+    ],
+    "why": "Both surfaces show the same distinctive scheme: a blocky anthropomorphic figure/back with paired upper circular marks, a central oval disc, surrounding curvilinear incisions, and stacked arcing bands with pendant vertical strokes below. The main difference is only that the two views expose slightly different side contours and peripheral details, not a substantive difference in the depicted content.",
+    "objtype": "statue"
+   },
+   {
+    "id": "rapa_nui_0047",
+    "group": "rapa_nui",
+    "score": 10,
+    "sub": 15,
+    "elements": [
+     "large frontal anthropomorphic figure or body-shaped surface",
+     "rounded head with incised facial/geometric markings",
+     "paired small oval/cup-like motifs on upper chest",
+     "central circular disc/ring motif below them",
+     "curving set of parallel bands across the torso",
+     "short vertical pendant strokes below the curved band",
+     "schematic incised linear decoration on upper body"
+    ],
+    "why": "Both show the same frontal anthropomorphic decorated form with the paired upper ovals, central circular ring, and arcing parallel torso bands in the same relative positions. The main difference is only that the carvings are seen with slightly different visibility/angle, rather than any substantive difference in depicted content.",
+    "objtype": "statue"
+   },
+   {
+    "id": "rapa_nui_0034",
+    "group": "rapa_nui",
+    "score": 10,
+    "sub": 15,
+    "elements": [
+     "upright anthropomorphic figure or body-shaped surface",
+     "elongated head/neck area with vertical incised markings",
+     "side protrusions suggesting ears or arms",
+     "paired circular depressions on the upper torso",
+     "central circular or ring motif on the torso",
+     "curving horizontal parallel bands across the lower torso",
+     "short vertical incised lines hanging below the bands",
+     "schematic low-relief/incised rendering"
+    ],
+    "why": "Both show the same distinctive anthropomorphic decorated figure: paired upper circular depressions flank a central torso motif, with an additional ring below and a set of parallel curved bands crossing the lower body in the same positions. The main difference is only visibility from angle and cropping, with B showing the surface obliquely and less of the lower front, rather than a substantive difference in depicted content.",
+    "objtype": "statue"
+   },
+   {
+    "id": "rapa_nui_0054",
+    "group": "rapa_nui",
+    "score": 10,
+    "sub": 15,
+    "elements": [
+     "large schematic anthropomorphic figure or torso form",
+     "rectangular head with incised linear facial/ornamental motifs",
+     "paired small circular depressions on upper body",
+     "central circular disc or ring on chest/upper torso",
+     "curving horizontal band or arc across the torso",
+     "short vertical pendant strokes below the band",
+     "lower circular motif near the base",
+     "symmetrical incised linear decoration"
+    ],
+    "why": "Both show the same highly specific scheme: a blocky anthropomorphic surface with a rectangular decorated head, paired circular marks flanking a central ring, and a curved band with pendant strokes arranged across the torso. The only apparent differences are photographic viewpoint and visibility of details, not differences in depicted content.",
+    "objtype": "statue"
+   },
+   {
+    "id": "rapa_nui_0025",
+    "group": "rapa_nui",
+    "score": 10,
+    "sub": 15,
+    "elements": [
+     "front-facing anthropomorphic figure with blocky head and shoulders",
+     "paired small circular breast or nipple marks",
+     "large central circular ring or disc on the torso",
+     "nested curved horizontal bands below the central disc",
+     "short pendant vertical or triangular strokes beneath the bands",
+     "incised vertical and wavy/serpentine markings on the head and upper body",
+     "arms or side projections hanging down from the shoulders"
+    ],
+    "why": "Both show the same highly specific anthropomorphic scheme: paired small circles on the upper torso, a larger central ring below them, nested arcing bands beneath that ring, and pendant strokes below, with similar incised head markings above. The only meaningful difference is that some minor carved details are more or less visible in one view than the other, rather than a difference in depicted content.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "rapa_nui_0046",
+    "group": "rapa_nui",
+    "score": 9,
+    "sub": 15,
+    "elements": [
+     "large schematic anthropomorphic front-facing figure or body-shaped form",
+     "paired circular eye-like depressions",
+     "central circular ring or disc on the face/torso",
+     "curving brow or moustache-like lines above the central circle",
+     "multiple parallel arched bands across the middle",
+     "short vertical incised strokes hanging below the arched bands",
+     "small circular mark near the lower center",
+     "incised linear motifs on the upper portion"
+    ],
+    "why": "The strongest correspondence is the distinctive face/body scheme: two round depressions flank a central circular ring, with curving lines above and several parallel arched bands below, followed by short vertical strokes and a small lower circle. The main difference is that B shows more of the upper decorated head or neck with additional incised linear motifs, while A is cropped closer to the lower front design.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "rapa_nui_0069",
+    "group": "rapa_nui",
+    "score": 9,
+    "sub": 15,
+    "elements": [
+     "large circular disc or ring on the torso",
+     "arched horizontal band made of multiple parallel curved lines",
+     "short vertical incised bars or pendants below the arched band",
+     "small lower circular mark",
+     "schematic anthropomorphic torso surface"
+    ],
+    "why": "The strongest correspondence is the distinctive torso scheme: a circular disc above or within the chest/abdomen area, set over a multi-line arched band with short vertical marks below and a small circle lower down, all rendered schematically in shallow linear relief. The main difference is that A shows the larger anthropomorphic figure with head, shoulders, and additional upper-body features, while B is cropped to the torso motif only.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "rapa_nui_0049",
+    "group": "rapa_nui",
+    "score": 9,
+    "sub": 15,
+    "elements": [
+     "frontal anthropomorphic figure or bust with large head and torso",
+     "rectangular/elongated head with incised facial or hair-like markings",
+     "small lateral arm/ear-like projections beside the upper torso/head",
+     "paired round breast/eye-like circles on the upper torso",
+     "central circular disc on the chest/abdomen",
+     "curving horizontal bands across the lower torso",
+     "incised scroll/serpentine motifs around the chest",
+     "central vertical pendant or line below the bands"
+    ],
+    "why": "Both surfaces show the same highly specific scheme: a frontal schematic human-like torso with paired upper circular forms, a central disc, surrounding curvilinear incised motifs, and arcing bands across the lower body in the same relative positions. The main difference is that some head and lower-body details read more clearly or differently between the two views, but the depicted iconographic layout is overwhelmingly the same.",
+    "objtype": "statue"
+   },
+   {
+    "id": "rapa_nui_0045",
+    "group": "rapa_nui",
+    "score": 9,
+    "sub": 15,
+    "elements": [
+     "large stylized anthropomorphic figure",
+     "rectangular/block-like head",
+     "paired circular or oval chest features",
+     "central circular/ring motif on torso",
+     "curved horizontal bands across lower torso",
+     "short vertical incised lines beneath the curved bands",
+     "linear markings on the head/upper body"
+    ],
+    "why": "Both surfaces show the same highly specific iconographic scheme: a schematic human-like figure with a block head, paired circular chest marks, a central ring on the torso, and nested curved bands with short vertical strokes below. The main difference is that the head and upper-body incisions are much clearer and more numerous in B, while in A they are faint or less visible.",
+    "objtype": "statue"
+   },
+   {
+    "id": "rapa_nui_0005",
+    "group": "rapa_nui",
+    "score": 9,
+    "sub": 15,
+    "elements": [
+     "schematic anthropomorphic figure or torso",
+     "face/head at the top",
+     "paired circular depressions or discs on the upper torso",
+     "central ring-and-disc/circular motif on the chest or abdomen",
+     "curving horizontal band across the lower torso",
+     "incised linear and curvilinear geometric motifs on the body"
+    ],
+    "why": "Both surfaces show a highly specific schematic anthropomorphic figure with a head/face above a torso bearing paired upper circular marks, a central ring motif, and curved horizontal bands across the lower body, all in very similar relative positions. The main difference is that the upper head/face and some incised details are not identical or equally visible, with A showing more side/profile information and B presenting a more frontal, symmetrical view.",
+    "objtype": "freestanding_monolith"
+   }
+  ],
+  "top_foreign": [
+   {
+    "id": "egypt_0012",
+    "group": "egypt",
+    "score": 6,
+    "sub": 10,
+    "elements": [
+     "frontal anthropomorphic figure or face",
+     "paired round/oval eyes",
+     "central nose/mouth area",
+     "geometric incised/relief linear motifs on the body or head",
+     "horizontal or curved banding below the face"
+    ],
+    "why": "Both surfaces show a centrally placed, frontal, highly schematic anthropomorphic figure/face with paired eyes, a central mouth/nose area, and geometric linear banding beneath or around the face. The biggest difference is that B presents a clear standing monolithic figure with a distinct head, torso, and chest bands, while A appears more like a less clearly bounded relief face/figure with its surrounding forms and body parts much harder to identify.",
+    "objtype": "rock_surface"
+   },
+   {
+    "id": "gotland_0129",
+    "group": "gotland",
+    "score": 5,
+    "sub": 10,
+    "elements": [
+     "frontal schematic anthropomorphic or mask-like figure",
+     "paired facial features arranged symmetrically",
+     "central vertical facial/body feature",
+     "curving or arched enclosing bands",
+     "incised geometric line motifs"
+    ],
+    "why": "Both surfaces show a frontal, highly schematic anthropomorphic/mask-like form with bilateral paired features around a central axis and curved enclosing bands or outlines. The biggest difference is that A is dominated by an abstract face or mask with gridded rectangular paired elements and angular border motifs, while B presents a full upright body-like figure with rounded eyes/circles, torso markings, and different internal iconography.",
+    "objtype": "portable_object"
+   },
+   {
+    "id": "mississippian_0006",
+    "group": "mississippian",
+    "score": 5,
+    "sub": 9,
+    "elements": [
+     "frontal anthropomorphic figure or body",
+     "head or face at the top",
+     "paired circular motifs on the upper body/face area",
+     "central circular motif on the torso",
+     "bilateral symmetry",
+     "linear/geometric body markings"
+    ],
+    "why": "The strongest correspondence is a vertically arranged, bilaterally symmetrical frontal anthropomorphic form with a head/face above a torso marked by circular motifs and incised linear/geometric details. The biggest difference is that A shows a much more explicit full standing figure with limbs, a radiant head, and flanking appendages or held elements, while B is a blockier, more abstract torso/monolith with fewer clearly readable body parts and no matching radiate-head scheme.",
+    "objtype": "wall_or_architectural_relief"
+   },
+   {
+    "id": "maya_0052",
+    "group": "maya",
+    "score": 5,
+    "sub": 9,
+    "elements": [
+     "frontal anthropomorphic figure",
+     "head or face above a torso",
+     "paired circular chest motifs",
+     "central circular or oval torso ornament",
+     "horizontal bands or linear geometric decoration",
+     "bilateral symmetry around a vertical axis"
+    ],
+    "why": "The strongest correspondence is that both present a frontal, vertically oriented anthropomorphic figure with a head/face over a torso, paired circular chest marks, and central torso ornamentation arranged symmetrically. The biggest difference is that B is a detailed standing figure with legs, arms, elaborate headdress, flanking/attached complex motifs, and dense figural ornament, whereas A is a much more abstract block-like body with only sparse incised signs and bands.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "mississippian_0011",
+    "group": "mississippian",
+    "score": 5,
+    "sub": 9,
+    "elements": [
+     "frontal anthropomorphic or torso-like figure",
+     "circular discs or round marks on the torso",
+     "horizontal curved/parallel bands across the lower torso or waist",
+     "bilateral symmetry",
+     "schematic outlined body parts"
+    ],
+    "why": "The strongest correspondence is a frontally arranged, schematic body with round torso motifs and a set of horizontal curved bands placed below them. The biggest difference is that B is explicitly a bird-headed, winged feathered figure with claw-like hands, while A is a blocky human-like slab figure without wings, feathers, or a bird head.",
+    "objtype": "portable_object"
+   },
+   {
+    "id": "maya_0136",
+    "group": "maya",
+    "score": 5,
+    "sub": 9,
+    "elements": [
+     "central frontal anthropomorphic figure",
+     "head or face with circular eye/disc details",
+     "geometric linear patterning on the torso",
+     "lateral arm-like appendages",
+     "circular/disc motif on or near the body"
+    ],
+    "why": "Both surfaces center a schematic frontal anthropomorphic figure with a head/face, lateral appendages, circular motifs, and geometric incised or relief patterning across the body. The biggest difference is that A reads as a massive mask-like body with large facial/disc features and curved bands, while B shows a more articulated standing figure with legs, patterned costume, outstretched arms, and flanking/held forms.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "mississippian_0010",
+    "group": "mississippian",
+    "score": 5,
+    "sub": 9,
+    "elements": [
+     "frontal anthropomorphic figure",
+     "face/head features",
+     "arms at the sides of a torso",
+     "central circular or oval body ornament",
+     "horizontal bands across the body",
+     "symmetrical body decoration"
+    ],
+    "why": "Both surfaces depict a front-facing human-like figure with a head/face, arms, torso ornaments, and horizontal banding or belt-like elements arranged symmetrically down the body. The biggest difference is that A is a very blocky, abstract figure with few large geometric motifs, while B is a detailed standing figure with elaborate headdress, feather/wing-like surround, costume, hands, and many fine ornamental details.",
+    "objtype": "portable_object"
+   },
+   {
+    "id": "maya_0069",
+    "group": "maya",
+    "score": 5,
+    "sub": 8,
+    "elements": [
+     "schematic face or mask-like figure",
+     "circular or spiral eye/disc motifs",
+     "curvilinear scroll-like incised motifs",
+     "horizontal band or baseline near the lower part",
+     "frontally presented body/slab-like figure with upper head area and lower torso area"
+    ],
+    "why": "Both surfaces show a highly schematic central figure or mask with prominent circular/spiral eye-like motifs and curving incised bands on an upper-and-lower body layout. The biggest difference is that A reads as a largely frontal anthropomorphic statue with paired features and symmetrical torso bands, while B reads more like an asymmetric profile or zoomorphic/curled figure with side scrolls rather than the same frontal bodily scheme.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0106",
+    "group": "maya",
+    "score": 5,
+    "sub": 8,
+    "elements": [
+     "frontal anthropomorphic figure or idol",
+     "face with eyes and mouth",
+     "bilaterally symmetrical body layout",
+     "paired round/circular elements on upper torso",
+     "central circular disc or medallion on torso",
+     "linear/geometric ornament on the body",
+     "horizontal or curved bands across the torso"
+    ],
+    "why": "Both show a vertically oriented, frontal anthropomorphic idol-like figure with a face above a decorated torso, including paired circular elements and a central round motif arranged symmetrically. The biggest difference is that A is a sparse, highly schematic torso/head with simple incised bands and discs, while B is a densely filled standing figure with explicit limbs, hands, headdress, flanking/stacked figures, and elaborate zoomorphic or scroll ornament.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0113",
+    "group": "maya",
+    "score": 4,
+    "sub": 8,
+    "elements": [
+     "frontal anthropomorphic figure",
+     "head or face with facial features",
+     "vertical body or torso form",
+     "circular or disc-like motifs",
+     "incised/geometric linear patterning"
+    ],
+    "why": "Both surfaces include a frontal human-like figure with a head/face and schematic linear decoration, with some circular or disc-like motifs associated with the body. The biggest difference is that A presents a detailed standing figure enclosed in an architectural-looking frame with dense surrounding glyphic panels, while B presents a single blocky anthropomorphic form whose face and torso fill the whole surface.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0115",
+    "group": "maya",
+    "score": 4,
+    "sub": 7,
+    "elements": [
+     "schematic anthropomorphic figure",
+     "paired or repeated circle/disc motifs",
+     "linear geometric/incised motifs",
+     "broadly symmetrical placement of motifs around a central vertical axis"
+    ],
+    "why": "The clearest shared content is schematic anthropomorphic imagery with circular/disc details and incised linear geometric forms arranged with some bilateral symmetry. The biggest difference is that A is a multi-figure scene with flanking figures and a separate horizontal patterned register, while B is dominated by one frontal anthropomorphic figure with large paired circular features and curving bands on the body.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0000",
+    "group": "maya",
+    "score": 4,
+    "sub": 7,
+    "elements": [
+     "upright anthropomorphic/human-like figure",
+     "head/face above a torso",
+     "schematic carved internal body or costume details"
+    ],
+    "why": "The main correspondence is that both surfaces present a single upright anthropomorphic figure organized vertically, with a head/face area above a torso and schematic internal details. The biggest difference is that A appears to show a relatively naturalistic standing human figure, possibly in profile and holding an object, while B shows a much more abstract frontal totem-like body with prominent circular and curving motifs.",
+    "objtype": "freestanding_monolith"
+   }
+  ],
+  "by_objtype": {
+   "statue": {
+    "n": 31,
+    "mean": 4.870967741935484,
+    "n_ge6": 9
+   },
+   "freestanding_monolith": {
+    "n": 127,
+    "mean": 3.0078740157480315,
+    "n_ge6": 8
+   },
+   "rock_surface": {
+    "n": 100,
+    "mean": 2.45,
+    "n_ge6": 5
+   },
+   "portable_object": {
+    "n": 27,
+    "mean": 2.740740740740741,
+    "n_ge6": 0
+   },
+   "wall_or_architectural_relief": {
+    "n": 142,
+    "mean": 2.147887323943662,
+    "n_ge6": 0
+   },
+   "drawing_or_plan": {
+    "n": 20,
+    "mean": 2.9,
+    "n_ge6": 0
+   }
+  },
+  "top_foreign_mono": [
+   {
+    "id": "maya_0052",
+    "group": "maya",
+    "score": 5,
+    "sub": 9,
+    "elements": [
+     "frontal anthropomorphic figure",
+     "head or face above a torso",
+     "paired circular chest motifs",
+     "central circular or oval torso ornament",
+     "horizontal bands or linear geometric decoration",
+     "bilateral symmetry around a vertical axis"
+    ],
+    "why": "The strongest correspondence is that both present a frontal, vertically oriented anthropomorphic figure with a head/face over a torso, paired circular chest marks, and central torso ornamentation arranged symmetrically. The biggest difference is that B is a detailed standing figure with legs, arms, elaborate headdress, flanking/attached complex motifs, and dense figural ornament, whereas A is a much more abstract block-like body with only sparse incised signs and bands.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0136",
+    "group": "maya",
+    "score": 5,
+    "sub": 9,
+    "elements": [
+     "central frontal anthropomorphic figure",
+     "head or face with circular eye/disc details",
+     "geometric linear patterning on the torso",
+     "lateral arm-like appendages",
+     "circular/disc motif on or near the body"
+    ],
+    "why": "Both surfaces center a schematic frontal anthropomorphic figure with a head/face, lateral appendages, circular motifs, and geometric incised or relief patterning across the body. The biggest difference is that A reads as a massive mask-like body with large facial/disc features and curved bands, while B shows a more articulated standing figure with legs, patterned costume, outstretched arms, and flanking/held forms.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0069",
+    "group": "maya",
+    "score": 5,
+    "sub": 8,
+    "elements": [
+     "schematic face or mask-like figure",
+     "circular or spiral eye/disc motifs",
+     "curvilinear scroll-like incised motifs",
+     "horizontal band or baseline near the lower part",
+     "frontally presented body/slab-like figure with upper head area and lower torso area"
+    ],
+    "why": "Both surfaces show a highly schematic central figure or mask with prominent circular/spiral eye-like motifs and curving incised bands on an upper-and-lower body layout. The biggest difference is that A reads as a largely frontal anthropomorphic statue with paired features and symmetrical torso bands, while B reads more like an asymmetric profile or zoomorphic/curled figure with side scrolls rather than the same frontal bodily scheme.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0106",
+    "group": "maya",
+    "score": 5,
+    "sub": 8,
+    "elements": [
+     "frontal anthropomorphic figure or idol",
+     "face with eyes and mouth",
+     "bilaterally symmetrical body layout",
+     "paired round/circular elements on upper torso",
+     "central circular disc or medallion on torso",
+     "linear/geometric ornament on the body",
+     "horizontal or curved bands across the torso"
+    ],
+    "why": "Both show a vertically oriented, frontal anthropomorphic idol-like figure with a face above a decorated torso, including paired circular elements and a central round motif arranged symmetrically. The biggest difference is that A is a sparse, highly schematic torso/head with simple incised bands and discs, while B is a densely filled standing figure with explicit limbs, hands, headdress, flanking/stacked figures, and elaborate zoomorphic or scroll ornament.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0113",
+    "group": "maya",
+    "score": 4,
+    "sub": 8,
+    "elements": [
+     "frontal anthropomorphic figure",
+     "head or face with facial features",
+     "vertical body or torso form",
+     "circular or disc-like motifs",
+     "incised/geometric linear patterning"
+    ],
+    "why": "Both surfaces include a frontal human-like figure with a head/face and schematic linear decoration, with some circular or disc-like motifs associated with the body. The biggest difference is that A presents a detailed standing figure enclosed in an architectural-looking frame with dense surrounding glyphic panels, while B presents a single blocky anthropomorphic form whose face and torso fill the whole surface.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0115",
+    "group": "maya",
+    "score": 4,
+    "sub": 7,
+    "elements": [
+     "schematic anthropomorphic figure",
+     "paired or repeated circle/disc motifs",
+     "linear geometric/incised motifs",
+     "broadly symmetrical placement of motifs around a central vertical axis"
+    ],
+    "why": "The clearest shared content is schematic anthropomorphic imagery with circular/disc details and incised linear geometric forms arranged with some bilateral symmetry. The biggest difference is that A is a multi-figure scene with flanking figures and a separate horizontal patterned register, while B is dominated by one frontal anthropomorphic figure with large paired circular features and curving bands on the body.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0000",
+    "group": "maya",
+    "score": 4,
+    "sub": 7,
+    "elements": [
+     "upright anthropomorphic/human-like figure",
+     "head/face above a torso",
+     "schematic carved internal body or costume details"
+    ],
+    "why": "The main correspondence is that both surfaces present a single upright anthropomorphic figure organized vertically, with a head/face area above a torso and schematic internal details. The biggest difference is that A appears to show a relatively naturalistic standing human figure, possibly in profile and holding an object, while B shows a much more abstract frontal totem-like body with prominent circular and curving motifs.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0066",
+    "group": "maya",
+    "score": 4,
+    "sub": 7,
+    "elements": [
+     "schematic anthropomorphic or human-like figure",
+     "head or face with facial features",
+     "indicated arms or limbs",
+     "circular or oval motifs",
+     "curvilinear/geometric band or scroll-like motifs in the lower area"
+    ],
+    "why": "The strongest correspondence is that both surfaces center a highly schematic human-like figure with a head above a body and additional circular/curvilinear motifs below or on the torso. The biggest difference is that A presents a massive frontal body with prominent torso features and arched bands, while B shows a much more linear standing figure with separate glyph-like or scroll motifs arranged around and below it.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0111",
+    "group": "maya",
+    "score": 4,
+    "sub": 7,
+    "elements": [
+     "central anthropomorphic figure",
+     "head or face near the top",
+     "torso/body markings",
+     "circular or oval motifs",
+     "curvilinear incised/relief details on a vertical field"
+    ],
+    "why": "The main shared content is a single vertically oriented anthropomorphic figure occupying most of the decorated surface, with a head/face above a body and circular plus curvilinear internal details. The biggest difference is that A is a highly frontal, mask-like or idol-like schematic body with broad symmetric forms, while B shows a more legible standing figure in profile/frontal relief with elaborate regalia or signs arranged around it.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0051",
+    "group": "maya",
+    "score": 4,
+    "sub": 7,
+    "elements": [
+     "frontal anthropomorphic figure or face on a tall vertical surface",
+     "paired eyes",
+     "central circular or oval feature on the face/torso",
+     "curving linear bands or scroll-like motifs",
+     "symmetrical vertical organization"
+    ],
+    "why": "The strongest correspondence is that both present a front-facing anthropomorphic image organized symmetrically on a tall vertical field, with paired eyes and a central circular feature among curving linear motifs. The biggest difference is that A shows a detailed full-bodied standing figure with limbs, headdress, ornaments, and many subsidiary beings or masks, while B is a much more schematic block-like figure or face with few added iconographic elements.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0053",
+    "group": "maya",
+    "score": 4,
+    "sub": 7,
+    "elements": [
+     "frontal anthropomorphic face or figure",
+     "circular eyes or disc-like facial/body features",
+     "linear geometric decoration on a vertical surface",
+     "symmetrical vertical composition"
+    ],
+    "why": "The strongest correspondence is that both surfaces present a frontal, highly schematic anthropomorphic presence on a tall vertical field, with circular features and incised linear/geometric detailing. The biggest difference is that A reads as one large simplified human-like body with a few broad bands and discs, while B is a dense stacked sequence of framed face/figure panels with elaborate bordering motifs, so the iconographic scheme is not closely shared.",
+    "objtype": "freestanding_monolith"
+   },
+   {
+    "id": "maya_0130",
+    "group": "maya",
+    "score": 4,
+    "sub": 7,
+    "elements": [
+     "central standing anthropomorphic figure",
+     "head or headdress above a decorated torso",
+     "arms or side appendages alongside the body",
+     "circular/disc motifs on the body or costume",
+     "horizontal band or belt-like motif across the lower torso"
+    ],
+    "why": "Both show a single central anthropomorphic being with a head/headdress, torso ornament, side appendages, and circular or band-like motifs placed on the body. The biggest difference is that A is a simplified frontal block-like figure dominated by torso features, while B is an elaborate standing personage with feathered headdress, staff-like/object details, glyphic panels, and a pedestal-like lower register.",
+    "objtype": "freestanding_monolith"
+   }
+  ],
+  "mean": 2.7181208053691277,
+  "hist": [
+   0,
+   11,
+   288,
+   71,
+   43,
+   12,
+   6,
+   1,
+   2,
+   6,
+   7
+  ],
+  "by_group": {
+   "anatolia_ppn": 2.5254237288135593,
+   "assyria": 2.15,
+   "catalhoyuk": 1.8571428571428572,
+   "egypt": 2.169491525423729,
+   "gotland": 2.4615384615384617,
+   "maya": 3.15,
+   "mississippian": 3.625,
+   "persepolis": 2.05,
+   "rapa_nui": 5.75,
+   "tanum": 2.2
+  },
+  "n_ge": {
+   "5": 34,
+   "6": 22,
+   "7": 16,
+   "8": 15
+  }
+ },
+ "rank_moai_in_p43_search_opus": {
+  "target": 5.0,
+  "n_better_all": 24,
+  "n_all": 447,
+  "n_better": 1,
+  "n_equal": 7,
+  "n": 348
+ },
+ "rank_moai_in_p43_search_gpt": {
+  "target": 3.5,
+  "n_better_all": 92,
+  "n_all": 447,
+  "n_better": 61,
+  "n_equal": 0,
+  "n": 348
+ },
+ "reliability": {
+  "sonnet": {
+   "n": 200,
+   "spearman": 0.5196314059323439,
+   "p": 3.1597396369539264e-15,
+   "exact": 0.1,
+   "within_one": 0.515,
+   "mean_opus": 2.245,
+   "mean_other": 0.805
+  },
+  "gpt_on_p43_search": {
+   "n": 447,
+   "spearman": 0.422395551231035,
+   "within_one": 0.8501118568232662
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "upright freestanding stone shaft/stela as the decorated field",
+  "frontal human-like face carved in relief on the shaft",
+  "face rendered with eyes, nose and mouth in symmetrical frontal view",
+  "seated human figure beside the monument (in the scene)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "3",
+ "justification": "Both surfaces are upright monolithic shafts bearing a symmetrical frontal face in relief on the upper part of the stone, and both scenes incidentally include a hatted person seated at the monument's base. But the carving content differs enormously: A shows a single, extremely reduced face with plain unworked stone around it, while B shows a densely packed vertical stack of ornate masks framed by volutes, scrolls and rectangular sign-blocks covering every part of the shaft.",
+ "a": "rapa_nui_0082",
+ "b": "maya_0053",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2999,
+  895
+ ]
+}

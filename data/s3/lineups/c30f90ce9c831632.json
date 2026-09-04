@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  8,
+  2,
+  6,
+  4,
+  10,
+  5,
+  7,
+  3,
+  1
+ ],
+ "most_similar_reason": "Candidate 9 is most similar because it shows a vertically arranged, highly schematic frontal anthropomorphic figure on an upright surface, with mask-like facial features, rounded body elements, and linear torso decoration closely echoing the target\u2019s organization.",
+ "least_similar_reason": "Candidate 1 is least similar because it lacks a central anthropomorphic figure or comparable body-and-face arrangement, instead showing scattered animals and rows of marks on a wall.",
+ "set": "p43_among_random",
+ "i": 31,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "catalhoyuk_0102",
+  "maya_0087",
+  "assyria_0109",
+  "maya_0094",
+  "assyria_0146",
+  "mississippian_0010",
+  "assyria_0128",
+  "maya_0137",
+  "anatolia_ppn_p43full",
+  "mississippian_0055"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "maya",
+  "assyria",
+  "assyria",
+  "catalhoyuk",
+  "maya",
+  "mississippian",
+  "maya",
+  "assyria",
+  "mississippian"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

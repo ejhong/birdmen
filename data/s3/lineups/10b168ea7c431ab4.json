@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  2,
+  10,
+  5,
+  3,
+  6,
+  1,
+  8,
+  4,
+  9
+ ],
+ "most_similar_reason": "Candidate 7 is, like the target, a shallow stone relief showing whole animals in strict profile combined with human/anthropomorphic figures, laid out in a horizontal band or register across the surface in a schematic, outline-and-flat-infill manner.",
+ "least_similar_reason": "Candidate 9 shows no creatures or figures at all, only an inscription and a symmetrical interlace/cross ornament, sharing none of the target's animal iconography, profile beasts, or stacked animal registers.",
+ "set": "moai_close_among_random",
+ "i": 13,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "egypt_0056",
+  "catalhoyuk_0110",
+  "maya_0126",
+  "egypt_0038",
+  "rapa_nui_0004",
+  "mississippian_0002",
+  "persepolis_0000",
+  "maya_0088",
+  "gotland_0003",
+  "persepolis_0110"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "catalhoyuk",
+  "persepolis",
+  "maya",
+  "mississippian",
+  "persepolis",
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

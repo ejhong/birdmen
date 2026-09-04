@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "standing human figures in profile, in long robes",
+  "file/procession of figures one behind another, all facing the same direction",
+  "tall headgear/headdress on figures",
+  "figures holding or carrying objects",
+  "horizontal register of figures bounded by a decorative band",
+  "relief-carved wall panel with repeated figures"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both show a horizontal register of closely spaced, robed, bearded figures in strict profile marching in single file in one direction, wearing tall headgear and carrying objects, set above/below a running ornamental band \u2014 a fairly specific processional scheme rather than a generic human figure. The chief difference in content is scope: A additionally depicts architecture (columns, stairway parapets), a lion-attacking-bull group and an inscription, and shows the figures as tiny elements of a whole monument, whereas B depicts only the file of figures at large scale with an added gesture of one figure touching/addressing another.",
+ "a": "persepolis_0029",
+ "b": "persepolis_0087",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3349,
+  797
+ ]
+}

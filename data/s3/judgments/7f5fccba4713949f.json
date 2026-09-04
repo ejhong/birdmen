@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low relief carving of animals in profile",
+  "horned/quadruped animals in a row",
+  "register-like horizontal bands of repeated motifs",
+  "animals shown walking or standing on a groundline",
+  "repeated ornamental band along one edge"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces show low-relief animals in profile arranged in horizontal registers with a repeated band of motifs along an edge, which is a generic organizing convention rather than a shared specific iconography. A shows a naturalistic narrative procession of human attendants leading detailed horned rams past a tree, while B shows highly schematic predatory beasts, birds and a crouching quadruped with a row of frontal animal heads and no humans, so the specific subjects, postures and rendering conventions differ substantially.",
+ "a": "persepolis_0039",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  309
+ ]
+}

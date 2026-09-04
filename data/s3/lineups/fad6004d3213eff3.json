@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  4,
+  2,
+  8,
+  5,
+  3,
+  9,
+  7,
+  6,
+  10
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's overall composition of a tall stone stela divided into registers containing standing figures and bands of hieroglyphic-like text, matching the target's arrangement of figures and pattern bands.",
+ "least_similar_reason": "Candidate 10 is a solid, undecorated anthropomorphic statue with no carved registers, figures, or hieroglyphic patterning, sharing none of the depicted iconographic elements of the target.",
+ "set": "moai_iso_among_monoliths",
+ "i": 11,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0046",
+  "egypt_0073",
+  "gotland_0000",
+  "egypt_0047",
+  "egypt_0067",
+  "maya_0054",
+  "maya_0158",
+  "egypt_0072",
+  "gotland_0130",
+  "rapa_nui_hoa_iso"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt",
+  "gotland",
+  "egypt",
+  "egypt"
+ ],
+ "model": "sonnet",
+ "planted_rank": 10
+}

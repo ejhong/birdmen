@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  1,
+  6,
+  9,
+  3,
+  8,
+  10,
+  2,
+  7,
+  5
+ ],
+ "most_similar_reason": "Candidate 4 shares the target's schematic shallow-incised repertoire of small profile creatures and sign-like motifs laid out in stacked horizontal registers separated by ruled lines, including the same chevron/zigzag filler bands.",
+ "least_similar_reason": "Candidate 5 is a three-dimensional carved figure/torso with a body and a large disc ornament rather than a flat surface bearing registers of incised animals and geometric bands.",
+ "set": "moai_iso_among_monoliths",
+ "i": 37,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0045",
+  "maya_0087",
+  "gotland_0112",
+  "egypt_0063",
+  "rapa_nui_hoa_iso",
+  "egypt_0046",
+  "maya_0027",
+  "gotland_0130",
+  "egypt_0041",
+  "maya_0056"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "egypt",
+  "egypt",
+  "egypt",
+  "gotland",
+  "maya",
+  "maya",
+  "maya",
+  "egypt",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 10
+}

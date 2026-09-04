@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic animal in profile",
+  "elongated four-legged or reptile-like animal form",
+  "human hand or body part",
+  "linear incised/outlined motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both surfaces include schematic profile animals rendered with simple outline conventions, and both appear to include a human hand or body-part motif among the linear carvings. The biggest difference is that A is a sparse composition dominated by one elongated animal over a sweeping limb/band, while B is a dense multi-register scene with many animals, signs, patterned bands, and human/anthropomorphic figures.",
+ "a": "anatolia_ppn_0103",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  990
+ ]
+}

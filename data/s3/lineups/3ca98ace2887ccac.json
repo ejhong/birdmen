@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  1,
+  6,
+  8,
+  2,
+  10,
+  4,
+  3,
+  9,
+  7
+ ],
+ "most_similar_reason": "Candidate 5 shows the same distinctive motif in the same style: a schematic long-hulled boat with upturned, hooked prow and stern and a row of short vertical crew-strokes rising from the hull line, drawn as red linear outlines on a rough rock surface alongside small isolated marks and a tiny animal figure.",
+ "least_similar_reason": "Candidate 7 is a three-dimensional sculpted human head with modelled facial features, sharing none of the target's linear, schematic boat-and-crew imagery.",
+ "set": "same_control",
+ "i": 10,
+ "target": "tanum_0324",
+ "planted": "tanum_0238",
+ "cands": [
+  "gotland_0131",
+  "maya_0091",
+  "persepolis_0097",
+  "egypt_0014",
+  "tanum_0238",
+  "egypt_0002",
+  "anatolia_ppn_0240",
+  "maya_0110",
+  "assyria_0035",
+  "anatolia_ppn_0072"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "maya",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "gotland",
+  "maya",
+  "assyria",
+  "persepolis",
+  "egypt",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

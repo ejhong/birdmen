@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human head with headdress/cap",
+  "face with eyes, nose, mouth rendered frontally or in profile",
+  "bearded or long-haired male figure",
+  "large stone head/bust as the dominant single subject"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both depict a single male head wearing a close-fitting or conical headdress as the sole dominant subject filling the field, with hair/beard framing the face \u2014 a fairly specific correspondence in subject. However, A is a low relief in strict profile with elaborate, highly patterned rows of curls, a fringed cap and a detailed shoulder/wing-like element, whereas B is a frontal, three-dimensional head with plain, schematic, undecorated surfaces and no accompanying body elements.",
+ "a": "assyria_0084",
+ "b": "anatolia_ppn_0222",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3049,
+  295
+ ]
+}

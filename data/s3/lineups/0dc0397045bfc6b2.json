@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  6,
+  3,
+  7,
+  8,
+  5,
+  2,
+  9,
+  10,
+  1
+ ],
+ "most_similar_reason": "Candidate 4 is most similar because it repeats the target\u2019s distinctive long boat-like forms with upturned ends and rows of short vertical strokes, arranged as schematic linear motifs on a surface.",
+ "least_similar_reason": "Candidate 1 is least similar because it depicts a single modeled human-like figure with bodily features rather than a field of repeated schematic boats, animals, figures, and register-like linear motifs.",
+ "set": "moai_iso_among_random",
+ "i": 4,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "rapa_nui_hoa_iso",
+  "assyria_0032",
+  "tanum_0100",
+  "tanum_0076",
+  "persepolis_0007",
+  "catalhoyuk_0026",
+  "catalhoyuk_0110",
+  "assyria_0047",
+  "maya_0057",
+  "tanum_0050"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "tanum",
+  "tanum",
+  "catalhoyuk",
+  "tanum",
+  "catalhoyuk",
+  "maya",
+  "persepolis",
+  "assyria",
+  "assyria"
+ ],
+ "model": "gpt",
+ "planted_rank": 10
+}

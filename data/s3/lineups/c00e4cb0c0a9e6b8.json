@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  1,
+  2,
+  6,
+  8,
+  5,
+  4,
+  10,
+  7,
+  3
+ ],
+ "most_similar_reason": "Candidate 9 is most similar because it also shows a carved relief scene centered on a standing human figure in profile, rendered in a comparable formal style and associated with other figurative elements, closest to the target\u2019s human-and-animal procession imagery.",
+ "least_similar_reason": "Candidate 3 is least similar because it lacks comparable depicted subject matter\u2014no human figure, large profile animal, staff, tethering relationship, or ornamental figural scene is visible.",
+ "set": "related_control",
+ "i": 32,
+ "target": "persepolis_0058",
+ "planted": "assyria_0120",
+ "cands": [
+  "anatolia_ppn_0072",
+  "anatolia_ppn_0212",
+  "anatolia_ppn_0132",
+  "gotland_0007",
+  "maya_0127",
+  "anatolia_ppn_0041",
+  "tanum_0333",
+  "anatolia_ppn_0095",
+  "assyria_0120",
+  "anatolia_ppn_0174"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "gotland",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "tanum",
+  "anatolia_ppn",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  2,
+  9,
+  5,
+  8,
+  10,
+  4,
+  1,
+  6,
+  7
+ ],
+ "most_similar_reason": "Candidate 3 features a stylized bird head and a distinct bag motif that mirrors elements found on the target.",
+ "least_similar_reason": "Candidate 7 shows linear boats and figures, lacking any shared subject matter or stylistic conventions.",
+ "set": "moai_iso_among_random",
+ "i": 0,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "tanum_0100",
+  "assyria_0151",
+  "assyria_0021",
+  "rapa_nui_hoa_iso",
+  "egypt_0040",
+  "persepolis_0018",
+  "tanum_0328",
+  "maya_0048",
+  "assyria_0118",
+  "maya_0147"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "assyria",
+  "persepolis",
+  "assyria",
+  "assyria",
+  "tanum",
+  "maya",
+  "maya",
+  "tanum",
+  "egypt"
+ ],
+ "model": "gemini",
+ "planted_rank": 7
+}

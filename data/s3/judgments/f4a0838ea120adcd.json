@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "male figure in strict profile, low relief",
+  "elaborate patterned/curled beard and hair rendered as regular rows of curls",
+  "arm raised/bent forward holding an object in the hand",
+  "handled vessel or bowl carried in the hand",
+  "long belted robe with patterned or fringed edging",
+  "muscular bared forearm with detailed wrist band",
+  "figures facing consistently in one direction"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict profile figures in shallow relief with identical conventions for tightly curled patterned beards and hair, bared muscular forearms with wristbands, belted fringed robes, and a raised hand carrying a vessel or handled container, which is a fairly specific shared repertoire. The largest difference in content is that A shows a single large composite being with a raptor head and multiple layered wings occupying the whole panel, whereas B shows a repeated frieze of ordinary human attendants in a procession.",
+ "a": "assyria_0151",
+ "b": "persepolis_0012",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3174,
+  709
+ ]
+}

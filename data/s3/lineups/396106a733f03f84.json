@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  1,
+  8,
+  5,
+  4,
+  7,
+  9,
+  2,
+  10,
+  6
+ ],
+ "most_similar_reason": "Both show a bird in profile as the main carved motif, with a clearly rendered head, eye and beak occupying much of the surface.",
+ "least_similar_reason": "It depicts a long repetitive frieze of nearly identical standing human figures in procession and shares neither the avian subjects nor the vertical arrangement of distinctive animal forms.",
+ "set": "moai_among_random",
+ "i": 1,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "tanum_0005",
+  "mississippian_0007",
+  "assyria_0099",
+  "catalhoyuk_0039",
+  "tanum_0119",
+  "persepolis_0099",
+  "tanum_0106",
+  "egypt_0066",
+  "assyria_0128",
+  "rapa_nui_0113"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "assyria",
+  "persepolis",
+  "mississippian",
+  "assyria",
+  "tanum",
+  "catalhoyuk",
+  "egypt",
+  "tanum",
+  "tanum"
+ ],
+ "model": "grok",
+ "planted_rank": 9
+}

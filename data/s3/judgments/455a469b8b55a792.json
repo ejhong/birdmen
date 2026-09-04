@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "standing human figures in profile",
+  "long fringed/pleated robes",
+  "curled or stylized hair and beards",
+  "low-relief carved figures on a wall surface",
+  "procession-like alignment of figures",
+  "animals depicted in profile (in A only, so not shared)",
+  "raised arm/hand gesture"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict bearded male figures in strict profile wearing long fringed garments carved in low relief, with hand/arm gestures and file-like alignment, which is a fairly specific shared convention. However A is a wide architectural view combining a lion-attacking-bull group, columns and terraces with tiny processional figures, while B shows two overlapping large-scale figures filling the field, so the compositional scale and accompanying motifs differ greatly.",
+ "a": "persepolis_0029",
+ "b": "assyria_0036",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3099,
+  306
+ ]
+}

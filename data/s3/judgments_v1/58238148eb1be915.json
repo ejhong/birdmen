@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "repeated rounded or rectangular motifs in an upper row",
+  "horizontal band of repeated V/triangle/chevron-like pattern",
+  "profile animal or bird-like figure",
+  "rectilinear/register-like division of the surface"
+ ],
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "The strongest correspondence is the stacked composition with an upper row of rounded/rectangular forms, a narrow horizontal chevron-like band beneath it, and larger profile figural imagery below. The biggest difference is that A is a broad, very weathered shallow carving on a flat slab, while B is a clearer, more deeply modelled vertical pillar with additional distinct lower scenes and sharper individual figures.",
+ "a": "maya_0076",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  675
+ ]
+}

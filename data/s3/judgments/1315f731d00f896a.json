@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "low-relief carving on an upright slab/stele",
+  "animals in profile",
+  "bird-like creature with long beak/head in profile",
+  "registers or zones stacked vertically",
+  "small subsidiary figures beside larger ones",
+  "horizontal band of repeated marks/pattern near the top",
+  "raised arm/limb extending across the field"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both are upright relief-carved slabs bearing profile creatures (including long-beaked bird-like heads) with a banded/registered layout and a horizontal row of repeated marks near the top, which is a generic correspondence any relief tradition might produce. B depicts human figures with elaborate headgear, hands, offerings and a dense field of small sign-like symbols, while A shows only schematic animals, a fringe band and rounded protomes at the top, with no human figures or script-like signs \u2014 the specific content differs almost entirely.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0073",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  342
+ ]
+}

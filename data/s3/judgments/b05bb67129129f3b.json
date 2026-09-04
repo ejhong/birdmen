@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "standing human figure in profile",
+  "long pleated/fringed garment",
+  "figure holding a long staff or rod",
+  "low-relief human figure with profile head and frontal-leaning torso",
+  "bearded/coiffed head with headdress"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict human figures in strict profile wearing long garments and gripping an upright staff-like implement in carved low relief, which is the most specific correspondence. But A is a crowded multi-register composition of many small interacting figures accompanied by dense sign-script and offering gestures, while B is a single monumental attendant with elaborate fluted headdress, spear and slung quiver filling the whole field with no accompanying figures or text.",
+ "a": "egypt_0072",
+ "b": "persepolis_0067",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3024,
+  586
+ ]
+}

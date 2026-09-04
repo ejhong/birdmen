@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  9,
+  4,
+  1,
+  8,
+  7,
+  5,
+  3,
+  2,
+  6
+ ],
+ "most_similar_reason": "Candidate 10 likewise shows a single large bearded human figure in strict profile, carved in shallow relief with an elaborate headdress, patterned hair/beard and finely incised garment lines, one arm raised holding/gesturing, filling the whole panel just like the target's spear-bearing guard.",
+ "least_similar_reason": "Candidate 6 shows only bare stone blocks with no discernible figures, creatures or motifs at all, so it shares no depicted content with the target's detailed human figure.",
+ "set": "related_control",
+ "i": 29,
+ "target": "persepolis_0067",
+ "planted": "assyria_0125",
+ "cands": [
+  "mississippian_0006",
+  "egypt_0042",
+  "maya_0011",
+  "maya_0047",
+  "tanum_0070",
+  "anatolia_ppn_0082",
+  "anatolia_ppn_0103",
+  "mississippian_0011",
+  "gotland_0009",
+  "assyria_0125"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "gotland",
+  "maya",
+  "egypt",
+  "mississippian",
+  "anatolia_ppn",
+  "maya",
+  "anatolia_ppn",
+  "mississippian",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

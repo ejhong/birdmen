@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "standing anthropomorphic monolith/pillar figure",
+  "schematic low-relief arms running down the sides of the body",
+  "hands/forearms converging toward the front of the abdomen",
+  "horizontal belt-like band across the lower torso",
+  "circular disc or ring motif on the chest/torso",
+  "band of repeated relief symbols across the upper zone",
+  "distinct decorated head/top zone above the body",
+  "plain lower body below the belt"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both depict a schematic humanoid monolith with the same vertical scheme: a decorated head/top zone bearing a row of relief motifs, low-relief arms descending the sides with hands meeting over the abdomen, a disc/ring on the torso, and a horizontal belt band above a plain lower body, all rendered in flat, outlined low relief. The biggest difference in content is that B carries clearly identifiable quadrupeds in profile and a hanging pelt-like appendage, while A's relief motifs are abstract/geometric (bands, scrolls, discs) with no recognisable animals, and A's blocky head is treated as a face-bearing headdress rather than a purely symbol-bearing slab.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_p43full2",
+ "model": "opus",
+ "set": "target",
+ "usage": [
+  2873,
+  1077
+ ]
+}

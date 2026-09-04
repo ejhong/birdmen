@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  8,
+  6,
+  4,
+  2,
+  5,
+  7,
+  3,
+  1,
+  10
+ ],
+ "most_similar_reason": "Candidate 9 is most similar because it shows a schematic relief treatment of an anthropomorphic body on a vertical surface, with simplified arms/hands or body-part forms arranged along a torso-like area, closest to the target\u2019s rounded limb/hand-like relief forms.",
+ "least_similar_reason": "Candidate 10 is least similar because it consists mainly of a horizontal band of small repeated signs and geometric motifs, with no comparable large anthropomorphic or limb-like relief forms.",
+ "set": "same_control_monoliths",
+ "i": 38,
+ "target": "anatolia_ppn_0244",
+ "planted": "anatolia_ppn_0179",
+ "cands": [
+  "maya_0106",
+  "egypt_0072",
+  "maya_0158",
+  "egypt_0071",
+  "egypt_0039",
+  "egypt_0046",
+  "egypt_0066",
+  "anatolia_ppn_0179",
+  "egypt_0061",
+  "gotland_0128"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "egypt",
+  "gotland",
+  "maya",
+  "egypt",
+  "egypt",
+  "egypt",
+  "egypt",
+  "egypt",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 2
+}

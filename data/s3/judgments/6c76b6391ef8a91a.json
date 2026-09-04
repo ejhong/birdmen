@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "animals rendered in low relief on a tall narrow upright surface",
+  "quadruped shown in strict profile with legs indicated",
+  "second animal placed directly below the first, stacked vertically",
+  "raised flat-relief bodies with plain, unmodelled interiors",
+  "figures set against an otherwise blank ground on a tapering shaft"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces carry profile animals carved in flat raised relief, stacked one above another in a vertical sequence up a tall tapering upright with plain background and identical outline-and-flat-infill conventions, which is a fairly specific shared scheme. The main difference in content is that B presents a much fuller, register-divided programme including a horizontal band of repeated linear signs, birds with hooked beaks, a long-necked bird and other varied creatures, whereas A shows only a couple of quadrupeds with no framing band or bird imagery visible.",
+ "a": "anatolia_ppn_0205",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  674
+ ]
+}

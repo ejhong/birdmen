@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic human/anthropomorphic figure",
+  "circular or disc motif",
+  "animals (in A explicitly, in B ambiguous/absent)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "A shows a wide narrative frieze of many small schematic hunters, deer, cattle and dogs scattered across a horizontal field, while B shows a single monumental frontal anthropomorphic figure with a head, arms and low-relief circular/curvilinear motifs on the torso and back. The only overlap is the presence of human-derived forms and simple circular motifs, which is generic; there is no shared scene, relationship or arrangement.",
+ "a": "catalhoyuk_0110",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3174,
+  262
+ ]
+}

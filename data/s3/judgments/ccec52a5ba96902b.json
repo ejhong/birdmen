@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "profile bird or bird-like figure",
+  "profile animal figures",
+  "circular or disc-like motif",
+  "horizontal bands/registers of repeated signs or patterns",
+  "small repeated linear signs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both surfaces include profile creatures/birds and rows or bands of repeated small signs arranged as incised/relief motifs across a surface. The biggest difference is that B is organized around a formal scene with standing human figures, a shrine/table-like object, a prominent disc/winged motif, and dense inscriptional rows, whereas A is dominated by large isolated animal-like figures and abstract pattern bands without the same narrative arrangement.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0060",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  688
+ ]
+}

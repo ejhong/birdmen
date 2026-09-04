@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "profile animal figures",
+  "human or human-like figures",
+  "horizontal bands/registers"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces use shallow carved relief to place profile figures within or near horizontal bands, including animal forms and at least one human-like figure. The biggest difference is that A is a crowded horizontal narrative procession with chariot, attendants, and refined linear modeling, while B is a vertical stacked pillar with much rougher, more schematic motifs and no matching sequence of elements.",
+ "a": "assyria_0047",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  575
+ ]
+}

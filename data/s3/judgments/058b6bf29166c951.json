@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "horizontal band or row of repeated geometric signs",
+  "triangular/chevron-like motifs",
+  "curved arch or scallop-like linear motifs",
+  "schematic linear outlines"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest shared content is the use of schematic linear decoration with horizontal rows of repeated geometric motifs, especially triangular or chevron-like forms. The major difference is that B is dominated by multiple animal/creature figures and dense stacked registers, while A is a single centralized abstract or emblematic design enclosed by an arched outline with no clear matching figures.",
+ "a": "gotland_0131",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  669
+ ]
+}

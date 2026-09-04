@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low-relief carving on a flat upright slab",
+  "animals in profile",
+  "human/anthropomorphic figures",
+  "horizontal register bands dividing the surface",
+  "repeated row of similar small motifs along the top",
+  "raised arms / gesturing limbs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both are upright slabs carved in low relief with figures organised into horizontal registers, including a row of repeated small motifs across the upper zone and animal and anthropomorphic forms below. But the specific content differs entirely: A shows seated and standing human figures in profile with headdresses, offerings and rows of script-like signs, while B shows quadrupeds/birds and a hunched crouching creature with no human worshippers, no offerings and no writing; the styles (fine detailed profile human bodies vs blocky schematic beasts) share no conventions.",
+ "a": "egypt_0041",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  329
+ ]
+}

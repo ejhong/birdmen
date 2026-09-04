@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  7,
+  10,
+  8,
+  2,
+  5,
+  3,
+  9,
+  4,
+  6
+ ],
+ "most_similar_reason": "Candidate 1 likewise depicts a standing, elaborately costumed human figure rendered whole-body with detailed garment and ornament, the closest match to the target's row of robed attendants.",
+ "least_similar_reason": "Candidate 6 shows only ordered rows of small abstract signs with no human figures, held objects or figural interaction at all.",
+ "set": "related_control",
+ "i": 24,
+ "target": "persepolis_0080",
+ "planted": "assyria_0111",
+ "cands": [
+  "maya_0106",
+  "maya_0000",
+  "anatolia_ppn_0205",
+  "assyria_0111",
+  "rapa_nui_0046",
+  "egypt_0040",
+  "mississippian_0009",
+  "tanum_0359",
+  "rapa_nui_0096",
+  "mississippian_0005"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "rapa_nui",
+  "maya",
+  "rapa_nui",
+  "maya",
+  "mississippian",
+  "mississippian",
+  "anatolia_ppn",
+  "egypt",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 9
+}

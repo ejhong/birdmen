@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "quadruped animal shown in profile",
+  "humped/long-necked animal (camel-like) in profile",
+  "possible small human figure beside the animal"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces appear to depict a large humped, long-necked quadruped in strict profile occupying most of the field, and in each case there may be a smaller anthropomorphic form adjacent to it, which is a reasonably specific correspondence. But A is a fully naturalistic, modelled relief with anatomical detail, a bridled camel led by a costumed attendant holding a lead, framed above and below by continuous rosette bands, whereas B is a bare, schematic outline animal on an unframed surface with no clear attendant, harness or ornamental border.",
+ "a": "persepolis_0063",
+ "b": "tanum_0000",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  592
+ ]
+}

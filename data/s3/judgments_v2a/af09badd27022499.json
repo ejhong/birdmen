@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low-relief carving of animals in profile",
+  "quadruped animals with legs and tails",
+  "horizontal band/register of repeated motifs",
+  "animal heads shown frontally or in profile row",
+  "a bird-like creature",
+  "hatched/linear infill pattern"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both are low-relief carvings organized into horizontal registers containing profile animals and a repeated row of similar motifs along the top, which is about the extent of the correspondence. A is a narrative human scene \u2014 archers, a wheeled chariot, harnessed horses, human figures with weapons \u2014 while B has no humans or vehicles at all, showing instead schematic isolated animals (a feline-like quadruped, a bird, a snake-like form) and a row of arch-like animal heads, with abstract, floating placement rather than an interacting scene.",
+ "a": "assyria_0047",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3048,
+  324
+ ]
+}

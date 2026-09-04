@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "upright anthropomorphic/standing figure or body schema",
+  "arms/hands",
+  "belt or waist area",
+  "animal figures in profile",
+  "curvilinear/serpentine motifs",
+  "repeated small signs or ornaments on a vertical surface"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest shared content is that both present an upright anthropomorphic form on a vertical decorated surface, associated with hands/waist details and surrounded or overlaid with smaller animal and sign-like motifs, including profile animals and curving forms. The major difference is that A is dominated by a highly detailed frontal human figure with elaborate headdress, ornaments, and attendants, whereas B is a much more schematic sign-and-animal arrangement on a T-shaped body with no comparable face, headdress, costume, or narrative figure group.",
+ "a": "maya_0051",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1804,
+  715
+ ]
+}

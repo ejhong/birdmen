@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "bird or bird-like animal in profile",
+  "horizontal band of repeated patterning",
+  "incised/low-relief carving on a stone surface"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the presence of profile bird- or animal-like forms combined with linear, banded carved ornament on stone. The biggest difference is compositional: A is dominated by a few large, relatively isolated relief forms on an architectural wall, while B is a densely filled panel with stacked registers of many small figures and signs.",
+ "a": "egypt_0061",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  650
+ ]
+}

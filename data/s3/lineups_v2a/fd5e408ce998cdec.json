@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  3,
+  8,
+  6,
+  5,
+  10,
+  1,
+  4,
+  2,
+  7
+ ],
+ "most_similar_reason": "Candidate 9 shows, like the target, a tall free-standing monolithic pillar whose face carries relief figures stacked vertically in superposed registers, with schematic creature/head motifs filling the shaft in the same low-relief, register-by-register arrangement.",
+ "least_similar_reason": "Candidate 7 depicts brightly coloured, cartoon-like costumed human figures flanking a central emblem, sharing none of the target's schematic animal repertoire (fox, snake, birds), its low-relief carving conventions, or its vertical stacked-register layout.",
+ "set": "moai_among_random",
+ "i": 23,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0068",
+  "persepolis_0066",
+  "assyria_0102",
+  "gotland_0133",
+  "tanum_0087",
+  "maya_0114",
+  "mississippian_0052",
+  "rapa_nui_0113",
+  "maya_0053",
+  "assyria_0035"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "mississippian",
+  "assyria",
+  "maya",
+  "maya",
+  "persepolis",
+  "tanum",
+  "gotland",
+  "persepolis",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 3
+}

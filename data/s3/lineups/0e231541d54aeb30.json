@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  4,
+  3,
+  2,
+  10,
+  5,
+  6,
+  1,
+  7,
+  8
+ ],
+ "most_similar_reason": "Shares a horizontal register layout and a distinct chevron band motif.",
+ "least_similar_reason": "Depicts a solid 3D form without relief registers or linear patterns.",
+ "set": "moai_iso_among_monoliths",
+ "i": 8,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0147",
+  "maya_0027",
+  "maya_0039",
+  "egypt_0072",
+  "maya_0106",
+  "maya_0066",
+  "maya_0057",
+  "rapa_nui_hoa_iso",
+  "gotland_0128",
+  "maya_0060"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "gotland",
+  "maya",
+  "maya",
+  "maya",
+  "maya"
+ ],
+ "model": "gemini",
+ "planted_rank": 10
+}

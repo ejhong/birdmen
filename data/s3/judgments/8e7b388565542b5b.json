@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "human figure in strict profile",
+  "bearded male head with hair/beard rendered as rows of small curls or dots",
+  "patterned cap/headdress band",
+  "wing rendered as stacked rows of overlapping feathers",
+  "forearm and hand extended forward",
+  "low-relief figures on a ground line, facing right",
+  "dense incised surface patterning to indicate texture (feathers, fleece, fringes)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces show right-facing bearded male figures in strict profile with hair and beard rendered as regimented rows of tight curls, and both include a large wing built from stacked registers of overlapping feathers, plus the same convention of covering surfaces with dense incised texture, which is a fairly specific shared repertoire. The scenes differ in content, however: A is a single monumental winged figure with raised arm and fringed garment filling the panel, whereas B is a procession of two smaller nude-torsoed men driving horned rams along a ground line, with animals absent from A entirely.",
+ "a": "assyria_0034",
+ "b": "persepolis_0064",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3149,
+  764
+ ]
+}

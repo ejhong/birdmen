@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  1,
+  2,
+  6,
+  9,
+  3,
+  7,
+  8,
+  10,
+  4
+ ],
+ "most_similar_reason": "Like the target, candidate 5 is a large freestanding upright monolith bearing only a few sparse, schematic low-relief motifs on an otherwise plain surface, rather than a densely filled composition.",
+ "least_similar_reason": "Candidate 4 is dominated by long ordered rows of script signs beneath a small formal scene of standing human figures flanking symbols, with no single sparse animal in shallow relief on a bare field as in the target.",
+ "set": "same_control_monoliths",
+ "i": 25,
+ "target": "anatolia_ppn_0093",
+ "planted": "anatolia_ppn_0266",
+ "cands": [
+  "anatolia_ppn_0266",
+  "maya_0056",
+  "gotland_0009",
+  "egypt_0014",
+  "rapa_nui_0047",
+  "maya_0052",
+  "egypt_0063",
+  "egypt_0064",
+  "egypt_0073",
+  "egypt_0069"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "gotland",
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "egypt",
+  "rapa_nui",
+  "maya",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

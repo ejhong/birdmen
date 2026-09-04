@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "schematic silhouette human/anthropomorphic figures",
+  "boat or long horizontal line with row of short vertical strokes (crew marks)",
+  "small quadruped/animal figures in profile",
+  "linear schematic signs (ladder/grid-like motifs)",
+  "scattered motifs across an open field with no ground line"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both surfaces show the same distinctive combination of highly schematic stick-like human figures, small profile quadrupeds and a long boat-like line topped with a row of short vertical crew strokes, all scattered over an open field without ground line or framing, in the same reductive silhouette/outline convention. The clearest difference is A's prominent repeated footprint (foot sole) motifs and grid sign, which have no counterpart in B, where large striding anthropomorphs with splayed limbs dominate.",
+ "a": "tanum_0078",
+ "b": "tanum_0005",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3349,
+  855
+ ]
+}

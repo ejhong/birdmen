@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "human figures in strict profile",
+  "procession/frontal-facing bodies with profile heads (low relief)",
+  "figures carrying/holding objects in raised hands",
+  "rosette motifs (multi-petalled flowers)",
+  "long garments with patterned folds",
+  "low-relief carving with incised linear detail",
+  "register-like organization with border ornament"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both show profile human figures in low relief wearing long pleated robes and carrying handled vessels, and both include multi-petalled rosettes as an ancillary motif (a decorative border band in A, a stylized flowering plant in B), which is a fairly specific shared repertoire. However, A is a horizontal procession of several tribute-bearers leading a camel between ornamental bands, while B is a single large winged, bird-headed(?) figure with a bucket beside a sacred plant filling the whole panel, so the compositions and the central subjects differ substantially.",
+ "a": "persepolis_0068",
+ "b": "assyria_0115",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3149,
+  357
+ ]
+}

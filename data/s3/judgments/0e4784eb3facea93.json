@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "profile animal figures",
+  "quadruped animal in profile",
+  "horizontal bands or registers",
+  "repeated geometric/decorative motifs",
+  "incised internal detail on bodies"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The most specific overlap is that both include profile animals, including quadrupeds, with incised surface details and some band-like organization. The biggest difference is that B is a coherent procession of human figures with horned rams, while A is a much more schematic assemblage of varied animal/sign motifs and geometric bands without the same human-animal procession scheme.",
+ "a": "anatolia_ppn_p43full",
+ "b": "persepolis_0100",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  669
+ ]
+}

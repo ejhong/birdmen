@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief carved figural/floral decoration",
+  "rosette or multi-petalled flower motif",
+  "repeated flower heads in a register or band",
+  "stylized plant/floral forms with radiating petals",
+  "linear border/framing bands"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces are shallow relief carvings whose only real overlap is a repeated stylized multi-petalled flower/rosette motif arranged in registers, rendered in similarly flat, outlined, schematic fashion. A shows a narrative procession of human figures in profile with weapons, headgear and a horse's head above a floral border, whereas B is purely vegetal \u2014 a tall column of flowering stems with palmette-like buds and no figures at all \u2014 so the subjects and their relationships differ almost entirely.",
+ "a": "persepolis_0044",
+ "b": "assyria_0140",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  2999,
+  309
+ ]
+}

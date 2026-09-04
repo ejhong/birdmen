@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "anthropomorphic or human figure",
+  "circular or oval motifs",
+  "incised linear signs or geometric marks",
+  "horizontal dividing lines or bands"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific overlap is that both surfaces include human or human-like imagery accompanied by incised linear marks and some circular/oval motifs. The major difference is that A is dominated by a single frontal, highly schematic anthropomorphic figure with body-like geometric motifs, while B shows multiple profile human figures arranged in narrative/register scenes with tables, offerings, and dense sign-like inscriptions.",
+ "a": "rapa_nui_0113",
+ "b": "egypt_0039",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  511
+ ]
+}

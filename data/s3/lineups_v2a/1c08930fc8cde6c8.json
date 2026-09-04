@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  3,
+  10,
+  8,
+  1,
+  2,
+  9,
+  5,
+  7,
+  4
+ ],
+ "most_similar_reason": "Candidate 6, like the target, presents schematic silhouetted animals and a long row of repeated comb-like strokes laid out flat across the surface with no naturalistic modelling, matching the target's stacked profile creatures and rows of repeated marks.",
+ "least_similar_reason": "Candidate 4 shows a bare, undecorated wall surface with no discernible creatures, figures or motifs at all, so it shares no depicted content with the target's dense animal imagery.",
+ "set": "moai_among_random",
+ "i": 33,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "assyria_0078",
+  "maya_0106",
+  "assyria_0142",
+  "egypt_0002",
+  "assyria_0051",
+  "tanum_0236",
+  "maya_0088",
+  "rapa_nui_0113",
+  "assyria_0122",
+  "persepolis_0007"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "assyria",
+  "assyria",
+  "assyria",
+  "egypt",
+  "tanum",
+  "maya",
+  "assyria",
+  "maya",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "large bird in profile",
+  "schematic animal outline",
+  "small abstract sign or mark",
+  "horizontal/curving divider or band"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest shared content is a stylized profile bird/winged creature rendered with simple raised or incised outlines, accompanied by small abstract marks. The major difference is that A presents one large, relatively isolated figure, while B is a dense multi-register composition with many different animals and signs arranged in rows.",
+ "a": "anatolia_ppn_0093",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  651
+ ]
+}

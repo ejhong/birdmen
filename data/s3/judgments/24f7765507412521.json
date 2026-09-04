@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "monumental anthropomorphic figure carved in the round",
+  "head with elaborate headdress/helmet-like covering",
+  "frontal massive body with broad shoulders",
+  "incised low-relief detail on the surface of the figure (bands, cross-hatching)",
+  "seated/compact posture with limbs drawn against the body"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict a massive, blocky anthropomorphic figure in the round with a dominant head wearing a helmet-like or crested headgear, a compact body with limbs folded close, and shallow incised detailing (bands, hatched or striated panels) laid over rounded volumes rather than carved deeply. The clearest difference is the content of the detail: A shows a frontal standing/seated figure with distinct pectoral discs, circular medallion and belt-like bands across the torso, while B's figure has a strongly protruding beak-like or animal-jawed face with cross-hatched textured surface and no comparable ornament scheme, so shared elements remain generic monumental-figure conventions rather than a matched motif set.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_0259",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2974,
+  402
+ ]
+}

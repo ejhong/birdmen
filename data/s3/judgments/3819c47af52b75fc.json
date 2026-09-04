@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "animals rendered in relief on a stone surface",
+  "quadruped/creature shown in profile",
+  "row of repeated animal or head motifs along an upper register",
+  "serpentine/curving snake-like form",
+  "raised-relief carving with rounded, low-relief bodies"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both show low-relief animal figures carved on stone, including profile quadrupeds and sinuous snake-like forms, with B additionally presenting a horizontal row of repeated animal figures along its top, loosely echoing the row of large heads across A's upper edge. However, A's imagery is dominated by a few massive, frontal, boldly modelled heads/bodies filling the field, while B is organised into distinct stacked registers of small, flat, schematic profile creatures and a bird, so the compositional logic and figure scale differ markedly.",
+ "a": "rapa_nui_0124",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  329
+ ]
+}

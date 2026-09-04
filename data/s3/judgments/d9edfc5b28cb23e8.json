@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low-relief carved figural frieze on a horizontal band",
+  "human figures in profile",
+  "quadruped animals in profile",
+  "procession/movement in a single direction along the band",
+  "bearded male figures with patterned hair/headgear",
+  "animals shown with legs overlapping in file"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both are horizontal low-relief friezes of profile human figures and profile quadrupeds moving in a single direction, rendered with comparably naturalistic musculature and patterned hair, which is a real but broad correspondence. The subjects differ substantially: A shows a calm procession of walking attendants leading a laden camel, framed by rosette borders, while B shows a violent hunt with archers in a wheeled chariot drawn by galloping horses attacking lions, with no ornamental border.",
+ "a": "persepolis_0079",
+ "b": "assyria_0040",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  315
+ ]
+}

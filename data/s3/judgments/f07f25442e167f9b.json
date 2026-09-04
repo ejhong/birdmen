@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "standing human or anthropomorphic figure",
+  "repeated signs or glyph-like motifs",
+  "geometric patterned band or panel",
+  "profile heads or creature forms"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main commonality is that both surfaces combine stylized figural imagery with repeated sign-like or geometric motifs on an upright decorated surface, including possible anthropomorphic figures and profile creature/head forms. The biggest difference is that A is dominated by broad horizontal registers with simple bird/animal and geometric motifs, while B is dominated by a dense vertical glyph panel and elaborate standing human figures with ornate costume, so the iconographic schemes do not closely correspond.",
+ "a": "anatolia_ppn_p43full",
+ "b": "maya_0054",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1777,
+  682
+ ]
+}

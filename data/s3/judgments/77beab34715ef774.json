@@ -1,0 +1,28 @@
+{
+ "shared_elements": [
+  "standing human figures in strict profile",
+  "bearded male figures",
+  "processional row of figures facing the same direction",
+  "long fringed/patterned robes with rendered pleats or hem borders",
+  "figures carrying small held objects in the hand",
+  "hands raised or extended toward the figure ahead",
+  "horizontal register band with a ground line",
+  "low relief with flat background",
+  "patterned/curled hair and headgear"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both depict rows of bearded male figures in strict profile, wearing long fringed robes with carefully patterned hems and hair, walking or standing in a directional procession along a register line and carrying or extending objects with the hands, a fairly specific processional/tribute scheme rather than a generic figural scene. The main differences in content are scale and complement: A shows only a few monumental figures in a single band, while B stacks several registers and adds chariots, horses and led animals absent from A.",
+ "a": "assyria_0139",
+ "b": "persepolis_0043",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  648
+ ]
+}

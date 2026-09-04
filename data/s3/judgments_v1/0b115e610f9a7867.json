@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "profile animal/quadruped form",
+  "horizontal band or register of linear patterning",
+  "schematic linear carving on stone"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is a schematic profile animal form associated with horizontal linear/banded detailing. The biggest difference is compositional: A is dominated by one large, weathered, pecked figure on a flat dark surface, while B is a vertical relief slab with multiple figures arranged in stacked registers.",
+ "a": "tanum_0119",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  629
+ ]
+}

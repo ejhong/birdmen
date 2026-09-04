@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  4,
+  5,
+  7,
+  1,
+  9,
+  10,
+  2,
+  6,
+  3
+ ],
+ "most_similar_reason": "Both prominently feature a stylized avian figure as a central element.",
+ "least_similar_reason": "It consists entirely of dense script lacking any figurative imagery.",
+ "set": "moai_among_random",
+ "i": 17,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0051",
+  "rapa_nui_0113",
+  "egypt_0075",
+  "tanum_0052",
+  "persepolis_0089",
+  "maya_0050",
+  "egypt_0000",
+  "mississippian_0002",
+  "gotland_0008",
+  "gotland_0130"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "gotland",
+  "persepolis",
+  "egypt",
+  "tanum",
+  "maya",
+  "gotland",
+  "persepolis",
+  "mississippian",
+  "egypt"
+ ],
+ "model": "gemini",
+ "planted_rank": 8
+}

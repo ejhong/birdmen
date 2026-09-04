@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "hieroglyphic-type sign rows",
+  "human figures in profile with arms raised/extended",
+  "standing figures facing one another",
+  "horizontal registers/dividing lines",
+  "raised relief carving of script and figures",
+  "offering-related objects (vessels, stands) among figures"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both surfaces combine dense rows of the same kind of pictorial script signs with profile human figures arranged in horizontal registers, and both show figures facing each other across offering stands/vessels with arms extended, a fairly specific shared scheme rendered in the same low-relief, flat-profile convention. The chief difference is emphasis and framing: A is dominated by long horizontal bands of text with only a fragmentary large figural element above, while B is a compact round-topped panel whose two registers are given over mainly to grouped standing figures with only short captions.",
+ "a": "egypt_0017",
+ "b": "egypt_0047",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3174,
+  335
+ ]
+}

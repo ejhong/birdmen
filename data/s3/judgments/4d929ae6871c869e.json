@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "frontal standing/upright anthropomorphic figure carved on a monolithic upright slab",
+  "human face/head at the top occupying a broad rectangular field",
+  "headdress or headgear framing the head",
+  "arms held across the chest/torso",
+  "carved motifs on the torso and lower body (belt-like or pendant elements)",
+  "circular disc motif on the torso",
+  "full-figure occupying the entire vertical face of the monument"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "3",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict a single frontal, rigidly upright anthropomorphic figure filling the whole face of a tall vertical slab, with a broad head and headgear on top, arms folded across the chest, and disc/belt motifs on the torso below \u2014 a genuinely comparable overall scheme. They differ sharply in manner of depiction: A is densely covered with intricate, deeply undercut interlocking ornament, scroll-and-mask filler and elaborate fringed costume, while B is extremely spare and schematic, with a few shallow incised lines and a plain unadorned mass, so the specific motifs (masks, glyph-like fillers, feather fringes) of A have no counterpart in B.",
+ "a": "maya_0056",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2924,
+  427
+ ]
+}

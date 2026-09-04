@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "quadruped animal shown in profile in low relief",
+  "flat rectangular pillar face used as carved field",
+  "T-shaped pillar head",
+  "rows/clusters of small pits or repeated small motifs",
+  "relief carving standing out from a plain ground"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both surfaces are broad flat pillar faces bearing low-relief animals rendered in strict profile with plain undecorated ground, and both include repeated small punctate/rounded motifs, which is a reasonably specific shared convention. However, A shows only isolated, sparse carving (a single small profile creature, a field of pits, a plain U-shaped carved block) whereas B presents a dense, ordered programme of stacked registers with a row of arch-like figures, a woven/comb band, and several stacked creatures including a long-necked bird, so the compositional schemes barely correspond.",
+ "a": "anatolia_ppn_0196",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  815
+ ]
+}

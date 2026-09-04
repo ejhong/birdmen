@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figure rendered in low relief",
+  "hand/arm with distinct fingers",
+  "curling scroll or volute motif",
+  "large rounded head-like form in profile-ish view",
+  "raised outlined shapes against a plain ground"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces depict an anthropomorphic figure in low relief accompanied by curling volute/scroll forms and show a clearly articulated hand, which is the most specific correspondence. However, A shows a sparse, monumental composition of a few large rounded masses spread horizontally with no framing, while B shows a densely packed vertical panel of a standing costumed figure with elaborate headdress, ornament chains and rectangular sign-blocks bordering the field and a patterned band at the base \u2014 a very different compositional scheme and degree of detail.",
+ "a": "rapa_nui_0002",
+ "b": "maya_0027",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3224,
+  684
+ ]
+}

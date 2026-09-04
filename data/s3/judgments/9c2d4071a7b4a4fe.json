@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic creature or animal-like figure",
+  "horizontal line or band elements",
+  "simple geometric marks such as circles/ovals"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The most specific overlap is that both surfaces include simplified linear creature-like figures together with horizontal banding or dividing lines. The biggest difference is that A is dominated by one large abstract concentric-bodied figure intersected by a line, while B is a dense multi-register composition of several profile animals and signs with no matching central motif or relationships.",
+ "a": "tanum_0351",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  604
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  3,
+  7,
+  5,
+  4,
+  10,
+  6,
+  9,
+  8,
+  2
+ ],
+ "most_similar_reason": "Candidate 1 is most similar because it shows carved, stylized human/anthropomorphic figures in profile on a relief surface, closest to the target\u2019s processional band of profile standing figures with formal ancient relief conventions.",
+ "least_similar_reason": "Candidate 2 is least similar because it shows no comparable depicted iconographic surface\u2014no procession, figures, symbols, or organized relief design resembling the target.",
+ "set": "related_control",
+ "i": 17,
+ "target": "persepolis_0024",
+ "planted": "assyria_0122",
+ "cands": [
+  "assyria_0122",
+  "rapa_nui_0111",
+  "maya_0129",
+  "catalhoyuk_0039",
+  "maya_0087",
+  "anatolia_ppn_0144",
+  "egypt_0042",
+  "gotland_0005",
+  "tanum_0359",
+  "tanum_0328"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "rapa_nui",
+  "catalhoyuk",
+  "tanum",
+  "maya",
+  "tanum",
+  "anatolia_ppn",
+  "gotland"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

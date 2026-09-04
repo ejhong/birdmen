@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "standing human figure shown frontally/in a striding pose",
+  "raised arm holding an object",
+  "small repeated signs or symbols placed around the figure"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces centre on a single standing human figure with an upraised arm holding an object, surrounded by smaller ancillary signs, which is a fairly generic but not trivial correspondence. However, A's figure is a relief on an upright slab with dense, blocky glyph-like panels and elaborate ornate costume rendered in modelled low relief, while B is a flat, radically schematic stick-limbed silhouette on an open rock face with loose curvilinear accompanying motifs and animal-like forms; the depiction conventions and proportions are entirely different.",
+ "a": "maya_0000",
+ "b": "tanum_0106",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  301
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  10,
+  4,
+  5,
+  9,
+  6,
+  1,
+  8,
+  3,
+  2
+ ],
+ "most_similar_reason": "Candidate 7 shows the same kind of tall, upright pale limestone monolith standing in an excavated rubble context, with identical weathered stone surface and lighting, matching the target's in-situ pillar.",
+ "least_similar_reason": "Candidate 2 is a flat, brightly colored graphic drawing of a frontal masked figure with no stone surface, no relief carving and no architectural or excavation context, sharing nothing with the target's shallow-carved animals on a weathered limestone pillar.",
+ "set": "moai_among_random",
+ "i": 22,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "rapa_nui_0113",
+  "mississippian_0010",
+  "tanum_0340",
+  "maya_0146",
+  "egypt_0066",
+  "maya_0060",
+  "egypt_0021",
+  "mississippian_0005",
+  "persepolis_0067",
+  "egypt_0020"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "egypt",
+  "tanum",
+  "egypt",
+  "egypt",
+  "mississippian",
+  "persepolis",
+  "maya",
+  "maya",
+  "mississippian"
+ ],
+ "model": "opus",
+ "planted_rank": 7
+}

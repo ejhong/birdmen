@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "quadruped animal shown in profile, low relief",
+  "long curving/arched tail",
+  "single large animal occupying the broad face of an upright pillar",
+  "raised-relief outline with plain smooth body infill",
+  "carved vertical shaft/pillar face as the field"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both surfaces show a single quadruped in strict profile rendered in shallow raised relief on the broad face of a tall upright pillar, in each case with legs bent and a long tail sweeping up and over the back \u2014 a fairly specific and conventional scheme rather than a generic 'some animal'. The main difference is scale and clarity of the figure relative to its field: in B the beast dominates the whole face with an exaggerated, elongated arching tail and clearly modelled head and paws, while in A the creature is small, more compact and set among other faint carved details on the shaft, so posture and proportions are not exactly matched.",
+ "a": "anatolia_ppn_0179",
+ "b": "anatolia_ppn_0084",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3349,
+  743
+ ]
+}

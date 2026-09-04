@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  5,
+  10,
+  8,
+  4,
+  1,
+  3,
+  6,
+  9,
+  7
+ ],
+ "most_similar_reason": "Candidate 2 shows, like the target, a human-form figure carved in low relief strictly in profile with patterned hair/beard, detailed garment and a raised arm gesture, in the same naturalistic, carefully modelled relief manner.",
+ "least_similar_reason": "Candidate 7 shows only plain undecorated blocks and walling with no depicted creatures, figures, plants or ornament at all, so it shares nothing iconographic with the target's figural procession and rosette borders.",
+ "set": "related_control",
+ "i": 15,
+ "target": "persepolis_0082",
+ "planted": "assyria_0125",
+ "cands": [
+  "egypt_0018",
+  "assyria_0125",
+  "tanum_0338",
+  "rapa_nui_0069",
+  "mississippian_0007",
+  "tanum_0344",
+  "anatolia_ppn_0082",
+  "rapa_nui_0025",
+  "gotland_0004",
+  "maya_0158"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "tanum",
+  "egypt",
+  "gotland",
+  "mississippian",
+  "rapa_nui",
+  "rapa_nui",
+  "anatolia_ppn",
+  "tanum",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "anthropomorphic figure shown frontally/in profile as the sole subject",
+  "head with prominent facial features",
+  "upper body with indications of garment or ornament",
+  "incised circular/disc motifs on the body (rosette-like disc on A's wrist and belt ornaments; roundels on B's chest)",
+  "carved band across the torso/waist suggesting a belt or sash"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both depict a single humanoid figure occupying the whole field, with some incised discs and a band across the torso, but these are near-universal traits of figural monuments. A shows a detailed profile winged figure with raised hand, elaborate beard, patterned garment and held objects, rendered in fine naturalistic low relief, while B is a massive blocky schematic head-and-shoulders with minimal features, no wings, no arms in action and no held attributes \u2014 the depictive conventions have nothing in common.",
+ "a": "assyria_0146",
+ "b": "rapa_nui_0034",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2949,
+  348
+ ]
+}

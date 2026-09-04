@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  10,
+  7,
+  2,
+  1,
+  4,
+  6,
+  5,
+  3,
+  8
+ ],
+ "most_similar_reason": "Candidate 9 is most similar because it shows a formal register with two standing human figures arranged around a central emblem or object, echoing the target\u2019s paired profile figures and ceremonial, emblematic composition more closely than the others.",
+ "least_similar_reason": "Candidate 8 is least similar because it consists mainly of geometric lines, border markings, and writing-like signs, with no comparable human or animal figures, processional arrangement, or figural iconography.",
+ "set": "related_control",
+ "i": 38,
+ "target": "persepolis_0044",
+ "planted": "assyria_0135",
+ "cands": [
+  "anatolia_ppn_0121",
+  "maya_0106",
+  "tanum_0347",
+  "anatolia_ppn_0264",
+  "rapa_nui_0122",
+  "rapa_nui_0080",
+  "assyria_0135",
+  "gotland_0002",
+  "egypt_0014",
+  "maya_0105"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "rapa_nui",
+  "egypt",
+  "gotland",
+  "anatolia_ppn",
+  "rapa_nui",
+  "maya",
+  "anatolia_ppn",
+  "maya",
+  "tanum"
+ ],
+ "model": "gpt",
+ "planted_rank": 3
+}

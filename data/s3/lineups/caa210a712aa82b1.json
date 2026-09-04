@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  8,
+  5,
+  9,
+  1,
+  6,
+  4,
+  10,
+  3,
+  2
+ ],
+ "most_similar_reason": "Both depict a standing humanoid figure carved in the round, with a treated head/headdress and ornamental details across the body.",
+ "least_similar_reason": "It shows an essentially plain standing stone in a landscape with no visible human figures, disks, or other matching motifs.",
+ "set": "p43_iso_among_monoliths",
+ "i": 6,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "anatolia_ppn_p43iso",
+  "maya_0000",
+  "egypt_0014",
+  "egypt_0074",
+  "maya_0106",
+  "maya_0069",
+  "maya_0019",
+  "maya_0051",
+  "maya_0101",
+  "maya_0085"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya"
+ ],
+ "model": "grok",
+ "planted_rank": 5
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "horizontal bands or registers",
+  "rows of repeated small signs or geometric motifs",
+  "schematic relief/outline figures on a decorated surface"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The main correspondence is very general: both surfaces organize small repeated marks and motifs in horizontal bands/registers, with schematic linear relief forms. The biggest difference is iconographic: A is dominated by an arched inscribed panel with formal standing human/divine figures, while B is dominated by profile animals and abstract symbols arranged on a pillar-like surface.",
+ "a": "egypt_0059",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  999
+ ]
+}

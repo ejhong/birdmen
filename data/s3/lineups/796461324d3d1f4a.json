@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  2,
+  9,
+  10,
+  8,
+  1,
+  7,
+  6,
+  5,
+  4
+ ],
+ "most_similar_reason": "Candidate 3 shares the highly specific and distinctive convention of utilizing a large T-shaped pillar as the framework for associated relief carvings.",
+ "least_similar_reason": "Candidate 4 is decorated exclusively with written script, entirely lacking the figurative animal and symbolic imagery present in the target.",
+ "set": "moai_among_random",
+ "i": 28,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "maya_0023",
+  "maya_0069",
+  "rapa_nui_0113",
+  "egypt_0069",
+  "egypt_0006",
+  "tanum_0129",
+  "maya_0147",
+  "egypt_0062",
+  "persepolis_0062",
+  "egypt_0048"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "persepolis",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "tanum",
+  "egypt",
+  "maya"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

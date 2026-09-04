@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic face or mask-like motifs with eyes and mouth-like forms",
+  "glyph-like abstract signs",
+  "oval or circular elements",
+  "vertically organized repeated signs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both surfaces include schematic, glyph-like relief/incised motifs, including face-like forms with eyes and oval or circular details, organized at least partly in vertical groupings. The major difference is that A is essentially a dense rectangular grid of many small signs, while B is dominated by one large frontal anthropomorphic or body-like figure with only a few subsidiary signs on it.",
+ "a": "maya_0050",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1883,
+  674
+ ]
+}

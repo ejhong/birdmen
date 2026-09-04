@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  8,
+  4,
+  6,
+  9,
+  3,
+  7,
+  10,
+  2,
+  5
+ ],
+ "most_similar_reason": "Candidate 1, like the target, presents a slab covered with schematic animals rendered in flat low-relief profile silhouettes, combined with abstract linear/geometric motifs and enclosed by banded framing elements, rather than a naturalistic narrative scene.",
+ "least_similar_reason": "Candidate 5 shows an essentially blank upright stone with no discernible creatures, figures or symbols at all, so it shares none of the target's dense repertoire of animals and abstract signs.",
+ "set": "moai_among_random",
+ "i": 12,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0009",
+  "egypt_0012",
+  "persepolis_0077",
+  "persepolis_0069",
+  "maya_0000",
+  "persepolis_0089",
+  "assyria_0128",
+  "rapa_nui_0113",
+  "assyria_0041",
+  "tanum_0240"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "egypt",
+  "persepolis",
+  "assyria",
+  "persepolis",
+  "maya",
+  "tanum",
+  "assyria",
+  "gotland",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

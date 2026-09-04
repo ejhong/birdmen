@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "profile figure",
+  "raised or bent limb/appendage",
+  "repeated incised texture or patterning on figures"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of low-relief, profile figures with patterned surface details and at least one raised or bent limb-like form. The biggest difference is compositional: A is a horizontal slab dominated by two large profile human-like heads/figures, while B is a vertical pillar with stacked registers of smaller, more schematic animal or abstract motifs.",
+ "a": "assyria_0111",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  585
+ ]
+}

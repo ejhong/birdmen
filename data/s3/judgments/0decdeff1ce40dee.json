@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figures shown in profile/schematic rows",
+  "rows of repeated vertical elements (crew strokes / columns and figure files)",
+  "quadruped animal in profile",
+  "horizontal banded registers",
+  "processional line of figures moving in one direction"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces stack horizontal registers containing files of repeated upright human figures moving in a common direction, and both include quadrupeds in profile, which gives a loose arrangement echo. But A is a stick-figure, outline-only rock-art idiom dominated by boats with crew strokes and tiny abstract figures, while B is a naturalistic architectural relief scene with modelled robed guards, staircases, columns and a bull attacked by a lion \u2014 the specific motifs and drawing conventions share nothing distinctive.",
+ "a": "tanum_0340",
+ "b": "persepolis_0029",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  330
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic animal figures in profile",
+  "bird-like figure in profile",
+  "circular or oval disc/ring motif",
+  "curving snake-like or sinuous linear motif"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "The strongest correspondence is the combination of schematic profile animal/bird-like forms with a circular or oval disc/ring and sinuous linear motifs, all rendered as simplified carved outlines. The biggest difference is that B has a clear register-like composition with repeated signs, multiple distinct animals, and a bird associated with a small round object, while A appears as a cropped, less legible cluster without the same ordered bands or clearly matching scene.",
+ "a": "rapa_nui_0052",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  1720
+ ]
+}

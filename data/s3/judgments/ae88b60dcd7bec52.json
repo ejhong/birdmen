@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human figures shown in profile/side view",
+  "multiple figures in a single scene",
+  "figures with raised or extended arms",
+  "depiction of figures interacting with objects"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "Both surfaces depict human figures in profile as the sole subject, but that is a near-universal correspondence; A shows dozens of tiny, solid-silhouette, actively dancing/leaping stick-like figures scattered freely across the field with no ground line, while B shows two large seated/standing figures in a formal, balanced composition facing an offering table beneath curved framing and above two ruled lines of sign-like script. Nothing in the specific forms (silhouette infill and flailing limbs versus outlined, calm, proportioned bodies with detailed dress) or the arrangement (chaotic scatter versus registered symmetrical panel with inscription band) suggests a shared tradition.",
+ "a": "catalhoyuk_0025",
+ "b": "egypt_0066",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  345
+ ]
+}

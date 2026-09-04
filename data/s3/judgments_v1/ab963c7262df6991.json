@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "low-relief carved stone surface",
+  "quadruped animal in profile",
+  "human or anthropomorphic figure in profile",
+  "horizontal register or band",
+  "repeated geometric/linear pattern"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of carved profile figures\u2014humans/anthropomorphic figures and animals\u2014combined with horizontal patterned bands or registers. The biggest difference is that A is a refined, shallow, orderly procession with detailed naturalistic animals and borders, while B is a much rougher, vertically stacked composition with more schematic figures and irregular register divisions.",
+ "a": "persepolis_0039",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  662
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low-relief human figure(s) in strict profile",
+  "elaborately curled/beaded hair and beard rendered as regular rows of curls",
+  "long fringed garment with patterned hem",
+  "raised arm holding an object in the hand",
+  "handled vessel/bucket-like object carried in one hand",
+  "figures striding with one foot advanced"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both depict profile relief figures with the same conventions of stylised rows of curls for hair and beard, patterned fringed robes, and a hand raised holding an object while another hand carries a handled bucket-like vessel \u2014 a very specific shared attribute. The chief differences in content are that B shows a single large bird-headed winged being filling the panel, while A shows a repeated procession of wholly human figures in a horizontal frieze above a rosette border, with no wings and no animal head.",
+ "a": "persepolis_0097",
+ "b": "assyria_0151",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3174,
+  328
+ ]
+}

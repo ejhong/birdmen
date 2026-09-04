@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  9,
+  10,
+  4,
+  7,
+  2,
+  8,
+  3,
+  5,
+  1
+ ],
+ "most_similar_reason": "Candidate 6 depicts a carved relief of a winged, robed figure with detailed drapery and decorative elements, closely matching the target's Assyrian-style relief of a draped figure with garment folds and rosette motifs.",
+ "least_similar_reason": "Candidate 1 shows only rough, unworked stone blocks with no discernible figural or decorative iconography, sharing nothing in common with the target's finely carved figural relief.",
+ "set": "related_control",
+ "i": 6,
+ "target": "persepolis_0017",
+ "planted": "assyria_0021",
+ "cands": [
+  "anatolia_ppn_0082",
+  "gotland_0008",
+  "gotland_0133",
+  "maya_0060",
+  "maya_0082",
+  "assyria_0021",
+  "maya_0047",
+  "gotland_0018",
+  "egypt_0053",
+  "mississippian_0007"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "egypt",
+  "gotland",
+  "maya",
+  "maya",
+  "mississippian",
+  "gotland",
+  "anatolia_ppn",
+  "maya",
+  "gotland"
+ ],
+ "model": "sonnet",
+ "planted_rank": 1
+}

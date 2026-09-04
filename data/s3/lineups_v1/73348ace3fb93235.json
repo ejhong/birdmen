@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  2,
+  1,
+  10,
+  6,
+  4,
+  5,
+  3,
+  8,
+  7
+ ],
+ "most_similar_reason": "Candidate 9 is, like the target, a tall free-standing monolithic block whose broad face bears shallow low-relief arms, hands and a belt-like band wrapping the body, giving the same fusion of sculpted body-form and carved surface ornament.",
+ "least_similar_reason": "Candidate 7 is an open, weathered horizontal rock outcrop with faint scattered incised lines rather than a shaped upright monolith carved with a coherent figural relief.",
+ "set": "p43_among_random",
+ "i": 16,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "maya_0060",
+  "maya_0091",
+  "gotland_0115",
+  "assyria_0079",
+  "gotland_0018",
+  "maya_0039",
+  "tanum_0080",
+  "tanum_0070",
+  "anatolia_ppn_p43full",
+  "maya_0056"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "tanum",
+  "maya",
+  "maya",
+  "gotland",
+  "maya",
+  "tanum",
+  "assyria",
+  "gotland",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

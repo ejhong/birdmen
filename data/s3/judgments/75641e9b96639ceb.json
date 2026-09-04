@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "standing human figures in profile",
+  "figures holding objects/staffs in hand",
+  "horizontal registers/bands dividing the field",
+  "figures aligned on a common baseline facing the same direction",
+  "low-relief carving of processional/offering type"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both surfaces show rows of profile human figures standing on a baseline within horizontal registers, several of them grasping a staff or held object, rendered in shallow relief with a comparable profile-body convention. But the depicted content otherwise diverges sharply: A is dominated by columns of sign-like script and figures before offering stands with no animals, while B is a procession centred on a large led camel and framed by rosette borders that A entirely lacks.",
+ "a": "egypt_0047",
+ "b": "persepolis_0079",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  647
+ ]
+}

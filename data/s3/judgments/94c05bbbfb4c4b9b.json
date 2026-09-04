@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "animal figures in profile",
+  "human or anthropomorphic figures",
+  "horizontal bands or registers dividing the surface",
+  "repeated linear/geometric motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both surfaces use relief-like profile figures, including animals and human/anthropomorphic forms, arranged with horizontal dividing bands. The biggest difference is that A presents an orderly procession of many naturalistic standing figures and animals in long registers, whereas B shows a compact, symbolic stack of isolated animals/signs and geometric motifs with no comparable procession or narrative scheme.",
+ "a": "persepolis_0093",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  659
+ ]
+}

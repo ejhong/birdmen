@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  2,
+  5,
+  3,
+  7,
+  4,
+  6,
+  1,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 is, like the target, a low-relief panel with human/attendant figures arranged in an orderly frieze flanking a stylized tree-like central motif, with the same profile, repeated, formally composed figural style.",
+ "least_similar_reason": "Candidate 10 shows only abstract cup-and-ring style circular depressions with no figures, plants or ordered processional composition, sharing nothing with the target's rows of human attendants and stylized trees.",
+ "set": "related_control",
+ "i": 3,
+ "target": "persepolis_0023",
+ "planted": "assyria_0153",
+ "cands": [
+  "tanum_0030",
+  "maya_0113",
+  "rapa_nui_0049",
+  "tanum_0238",
+  "maya_0053",
+  "tanum_0344",
+  "egypt_0075",
+  "assyria_0153",
+  "maya_0127",
+  "rapa_nui_0052"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "tanum",
+  "egypt",
+  "maya",
+  "tanum",
+  "tanum",
+  "rapa_nui",
+  "rapa_nui"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

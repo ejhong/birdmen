@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  2,
+  3,
+  7,
+  1,
+  6,
+  4,
+  9,
+  10,
+  5
+ ],
+ "most_similar_reason": "Candidate 8 is most similar because it likewise shows a dense, vertically stacked field of schematic carved creature-icons and abstract signs, including animal/insect-like forms and wavy motifs arranged as isolated symbols rather than a naturalistic scene.",
+ "least_similar_reason": "Candidate 5 is least similar because its surface is dominated by orderly horizontal lines of writing-like marks with essentially no comparable animal, bird, insect, human, or symbolic figure composition like the target.",
+ "set": "moai_close_among_random",
+ "i": 36,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "persepolis_0068",
+  "catalhoyuk_0102",
+  "tanum_0079",
+  "maya_0052",
+  "egypt_0069",
+  "rapa_nui_0004",
+  "tanum_0067",
+  "maya_0083",
+  "persepolis_0058",
+  "persepolis_0064"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "persepolis",
+  "catalhoyuk",
+  "persepolis",
+  "egypt",
+  "tanum",
+  "maya",
+  "tanum",
+  "persepolis"
+ ],
+ "model": "gpt",
+ "planted_rank": 6
+}

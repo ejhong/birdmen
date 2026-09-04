@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "animals shown in profile",
+  "human or anthropomorphic figures",
+  "horizontal bands or registers",
+  "repeated geometric/pattern motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main shared content is generic: both include profile animals, human/anthropomorphic figures, and some horizontally organized patterned elements. The biggest difference is that A shows an orderly procession of naturalistic horned animals with human attendants beside a tree, while B shows a stacked set of schematic animal and abstract motifs with no comparable procession, tree, or human-animal relationship.",
+ "a": "persepolis_0075",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  605
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figure in profile",
+  "elaborate headdress/headgear",
+  "stone relief panel with single dominant figure",
+  "jewellery/ornament (earring, beaded or bead-like elements)",
+  "patterned/textured infill of garment or costume",
+  "raised low-relief carving on a rectangular slab"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict a single human figure in profile wearing an elaborate headdress and ornaments, carved in low relief on a rectangular slab, and both use dense patterned infill for costume detail \u2014 but these are generic to much figural relief. A depicts only a bust/head close-up with a naturalistic, tightly ordered curl-by-curl beard and hair and no accompanying signs, whereas B shows a full standing figure with held objects, an ornate mask-like headdress and framing bands of glyph-like blocks, an entirely different compositional and stylistic scheme.",
+ "a": "assyria_0035",
+ "b": "maya_0092",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  347
+ ]
+}

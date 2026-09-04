@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  2,
+  3,
+  6,
+  8,
+  7,
+  9,
+  4,
+  1,
+  10
+ ],
+ "most_similar_reason": "Both surfaces show relief-carved living creatures with prominent round eyes, beaks or snouts, and adjacent swirling or hatched patterned forms arranged as the main pictorial subject.",
+ "least_similar_reason": "It shows only horizontal bands of writing and contains none of the profile animals, stacked figures, or geometric infill patterns depicted on the target.",
+ "set": "moai_iso_among_monoliths",
+ "i": 3,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "gotland_0005",
+  "maya_0019",
+  "egypt_0039",
+  "maya_0146",
+  "maya_0069",
+  "maya_0158",
+  "rapa_nui_hoa_iso",
+  "gotland_0111",
+  "maya_0005",
+  "egypt_0069"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "maya",
+  "gotland",
+  "maya",
+  "maya",
+  "gotland",
+  "egypt",
+  "maya"
+ ],
+ "model": "grok",
+ "planted_rank": 6
+}

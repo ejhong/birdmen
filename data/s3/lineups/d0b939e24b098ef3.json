@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  1,
+  5,
+  10,
+  8,
+  2,
+  6,
+  9,
+  3,
+  4
+ ],
+ "most_similar_reason": "Both feature highly simplified, schematic human figures.",
+ "least_similar_reason": "A sculpted double head has no relation to the simple linear figure.",
+ "set": "same_control",
+ "i": 4,
+ "target": "tanum_0050",
+ "planted": "tanum_0085",
+ "cands": [
+  "tanum_0085",
+  "anatolia_ppn_0205",
+  "persepolis_0066",
+  "anatolia_ppn_0247",
+  "egypt_0066",
+  "anatolia_ppn_0083",
+  "catalhoyuk_0025",
+  "maya_0057",
+  "gotland_0113",
+  "egypt_0056"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "gotland",
+  "anatolia_ppn",
+  "persepolis",
+  "anatolia_ppn",
+  "maya",
+  "egypt",
+  "egypt",
+  "catalhoyuk"
+ ],
+ "model": "gemini",
+ "planted_rank": 2
+}

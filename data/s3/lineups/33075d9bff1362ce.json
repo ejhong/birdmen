@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  2,
+  5,
+  8,
+  4,
+  10,
+  3,
+  7,
+  9,
+  6
+ ],
+ "most_similar_reason": "Candidate 1 shares a general reliance on prominent bands defined by parallel lines, loosely echoing the geometric border seen in the target.",
+ "least_similar_reason": "Candidate 6 features a dense narrative scene with numerous interacting figures and animals, differing significantly from the target's single schematic motif.",
+ "set": "same_control",
+ "i": 14,
+ "target": "gotland_0129",
+ "planted": "gotland_0005",
+ "cands": [
+  "gotland_0005",
+  "tanum_0069",
+  "persepolis_0077",
+  "maya_0054",
+  "rapa_nui_0070",
+  "assyria_0052",
+  "persepolis_0063",
+  "maya_0136",
+  "persepolis_0027",
+  "assyria_0157"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "persepolis",
+  "persepolis",
+  "assyria",
+  "assyria",
+  "rapa_nui",
+  "persepolis",
+  "maya",
+  "tanum",
+  "maya"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

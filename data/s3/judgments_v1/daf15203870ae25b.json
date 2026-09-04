@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "carved stone surface",
+  "animal or bird in profile",
+  "circle or disc motif",
+  "horizontal band or register",
+  "repeated linear/geometric patterning"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The strongest specific correspondence is the use of shallow relief/incised imagery on stone with profile animals and repeated linear bands or geometric patterning. The biggest difference is that A is a dense, worn, all-over carved field with interlocking forms, while B is a more clearly organized pillar face with separated registers and bolder, simpler figures.",
+ "a": "maya_0039",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1230,
+  626
+ ]
+}

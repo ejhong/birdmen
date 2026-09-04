@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "low-relief animal figures carved on a stone block",
+  "quadruped/creature shown in profile",
+  "curved elongated body forms (snake- or feline-like) in relief",
+  "multiple animals combined on one surface"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces present low-relief animal figures in profile carved onto a block, rendered as raised outlined bodies with simple contours and little interior detail, which gives a comparable overall impression. However, A shows a strictly ordered, register-like stacking of repeated animals in horizontal rows across a broad face, while B shows one or two large curled, sprawling creatures filling the surface without any banding or repetition, so the specific relationships and arrangement differ substantially.",
+ "a": "anatolia_ppn_0105",
+ "b": "rapa_nui_0080",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  289
+ ]
+}

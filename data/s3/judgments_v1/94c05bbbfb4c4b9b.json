@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "horizontal bands or registers",
+  "profile human figure",
+  "profile animal figure",
+  "repeated carved figures on a stone surface"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both surfaces use relief carving arranged in horizontal zones, with profile human and animal figures placed within those zones. The biggest difference is that A is a long, orderly, finely cut procession-like wall relief, while B is a compact vertical slab with larger, rougher, more isolated motifs stacked in panels.",
+ "a": "persepolis_0093",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  550
+ ]
+}

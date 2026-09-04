@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "profile human/anthropomorphic figure",
+  "profile quadruped animal",
+  "carved relief on a stone surface",
+  "horizontal register or band separating/organizing motifs"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of carved profile figures, including humans and quadrupeds, arranged at least partly in horizontal zones. The biggest difference is that A is a broad, orderly processional low relief with naturalistic repeated figures, while B is a vertical stone with rougher, more schematic motifs scattered or stacked in separate registers.",
+ "a": "persepolis_0022",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  624
+ ]
+}

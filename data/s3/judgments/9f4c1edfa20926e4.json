@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "low-relief profile figures with human bodies",
+  "bearded/patterned hair and beard treatment rendered in rows of curls",
+  "long fringed or pleated robe",
+  "raised arm with hand held forward",
+  "handheld object (cup / bucket-like vessel)",
+  "decorative floral/rosette band or motif",
+  "horizontal register borders framing the scene"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict profile low-relief anthropomorphic figures in long fringed robes, striding with one arm raised and the other holding a small vessel-like object, with rosette/floral ornament and a framing register line \u2014 a fairly specific conventional scheme of the offering/attendant figure. The main difference is that A shows a continuous procession of several fully human, crowned figures interacting with one another, whereas B shows a single large bird-headed winged being flanked by stylised plants beneath a block of inscription.",
+ "a": "persepolis_0087",
+ "b": "assyria_0120",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3249,
+  342
+ ]
+}

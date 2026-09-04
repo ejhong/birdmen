@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "circle or disc motifs",
+  "rectilinear/linear geometric motifs",
+  "schematic face- or mask-like forms"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main overlap is generic schematic carved-looking imagery: circles/discs and rectilinear linear motifs, with possible mask-like elements in both. But A is dominated by one large frontal anthropomorphic or zoomorphic figure with body features, while B is a narrow vertical column of many repeated glyph-like signs in stacked compartments, so the iconographic scheme and element relationships are largely different.",
+ "a": "rapa_nui_0113",
+ "b": "maya_0146",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1593,
+  663
+ ]
+}

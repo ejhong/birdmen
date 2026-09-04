@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "front-facing stylized anthropomorphic face",
+  "upright anthropomorphic figure or stele-like form",
+  "simple carved facial features such as eyes/nose/mouth"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "The strongest correspondence is that both decorated surfaces present a frontal, schematic human-like face on an upright anthropomorphic slab or figure, with simplified facial features rather than naturalistic portraiture. The main difference is that B develops a full torso with shoulders, circular body motifs, and band-like curves, while A appears to show essentially a much simpler face/head motif with little comparable body iconography.",
+ "a": "rapa_nui_0082",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1883,
+  674
+ ]
+}

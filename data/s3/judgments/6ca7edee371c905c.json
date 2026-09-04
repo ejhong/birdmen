@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "schematic human figure",
+  "figures with raised/extended arms",
+  "ships or boat-like elongated forms with vertical strokes",
+  "small animal or quadruped figures",
+  "clustered abstract signs across an open rock/stone surface",
+  "large dominant figure among smaller signs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces present schematic, silhouette-like human figures and small quadrupeds scattered among elongated hull-like forms bearing rows of short vertical strokes (crew-marks), with a large prominent figure dominating smaller signs distributed over an irregular open surface rather than in framed panels. The clearest difference is that A is organised around one huge striding, arm-raised figure with only a few sparse accompanying signs, whereas B is a dense, crowded field of many comparably sized ships, animals and figures filling the whole surface, and the rendering conventions differ (broad flat painted/pecked silhouettes versus finely outlined relief detail).",
+ "a": "tanum_0106",
+ "b": "maya_0047",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2974,
+  382
+ ]
+}

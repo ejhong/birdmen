@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "low-relief carved human/divine figures in profile",
+  "hieroglyphic-type sign inscriptions in registers",
+  "cartouche-like oval enclosing signs",
+  "horizontal dividing lines separating registers",
+  "figures facing one another / offering scene",
+  "staff or sceptre held by figure",
+  "sun-disc / circular disc motif"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "7",
+ "justification": "Both surfaces show the same distinctive scheme: profile low-relief figures in a scene above/among horizontal registers of dense hieroglyph-like signs, including oval cartouche enclosures, staffs and disc motifs, rendered with identical profile-body conventions. The main difference is that A is a compact single framed scene of two confronted figures under an arched sky sign, while B is a large expanse dominated by many lines of text with a single figural group set high in one corner.",
+ "a": "egypt_0048",
+ "b": "egypt_0017",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3174,
+  330
+ ]
+}

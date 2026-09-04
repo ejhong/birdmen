@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "standing human-form figure in profile",
+  "low relief carving of figures",
+  "procession/rank of figures shown striding in profile",
+  "hair and beard rendered in tight ordered curls",
+  "long garments with patterned folds",
+  "figures holding objects in raised hands",
+  "register/panel format with figures aligned along a baseline"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces show low-relief bearded figures in strict profile, striding with one leg advanced, long pleated robes and elaborately curled hair, holding objects in the hands, aligned on a common baseline in a register. The decisive difference is that B depicts a single monumental composite creature with a raptor's head and huge multi-tiered wings carrying a bucket, while A shows a repeated row of wholly human attendants with no wings or animal heads.",
+ "a": "persepolis_0024",
+ "b": "assyria_0151",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  2974,
+  313
+ ]
+}

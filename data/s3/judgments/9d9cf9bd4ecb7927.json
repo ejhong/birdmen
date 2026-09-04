@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "standing human figures in profile",
+  "elaborate headdress/headgear",
+  "figures holding objects in outstretched hands",
+  "figures facing one another (interaction between figures)",
+  "low relief carving of clothed human bodies with visible feet and legs",
+  "decorative border/panel of repeated small motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both show low-relief standing human figures in profile with distinctive headgear, holding objects out in their hands and confronting another figure, and both include a field of small repeated motifs (glyph-like blocks in A, a rosette band in B). But A is a single dense, cluttered composition of one or two large figures surrounded by ornate regalia, glyph blocks and crowded filler forms, whereas B is a spare, orderly procession of near-identical figures in a single register with plain drapery and highly regularised, naturalistic proportions \u2014 quite different conventions of body rendering and layout.",
+ "a": "maya_0110",
+ "b": "persepolis_0105",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  362
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "front-facing anthropomorphic body or torso",
+  "arms/hands indicated on or beside the body",
+  "waist/belt or loincloth-like element",
+  "incised linear/geometric markings on the figure"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is the presence of a schematic frontal anthropomorphic form with arms/hands and waist or garment-like markings treated with incised linear detail. The biggest difference is that A is dominated by a single human figure with a prominent chest/abdomen feature, while B is dominated by multiple profile animals and register-like bands arranged across a pillar-like surface.",
+ "a": "rapa_nui_0062",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1936,
+  1193
+ ]
+}

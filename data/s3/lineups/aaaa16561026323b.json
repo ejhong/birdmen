@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  7,
+  10,
+  8,
+  3,
+  9,
+  5,
+  4,
+  2,
+  1
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it shares the target\u2019s emphasis on a large central circular/spiral emblem on a plain upright surface, with sparse schematic incised signs rather than narrative scenes or dense writing-like registers.",
+ "least_similar_reason": "Candidate 1 is least similar because it is dominated by stacked narrative bands of animals and small figures, lacking the target\u2019s frontal, abstract arrangement of large circular and curved motifs.",
+ "set": "p43_iso_among_monoliths",
+ "i": 2,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "anatolia_ppn_p43iso",
+  "gotland_0116",
+  "egypt_0063",
+  "egypt_0071",
+  "maya_0092",
+  "gotland_0026",
+  "egypt_0048",
+  "maya_0106",
+  "egypt_0064",
+  "maya_0056"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "egypt",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 10
+}

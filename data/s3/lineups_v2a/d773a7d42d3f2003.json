@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  1,
+  5,
+  2,
+  4,
+  7,
+  6,
+  3,
+  10,
+  8
+ ],
+ "most_similar_reason": "Candidate 9 is, like the target, an upright anthropomorphic pillar whose body itself is the figure, with a head/shoulder form and low-relief arms, small schematic figures and abstract signs carved on its front in the same flat, schematic manner.",
+ "least_similar_reason": "Candidate 8 shows only a naturalistic procession of horned rams in profile with detailed modelled bodies, sharing none of the target's anthropomorphic pillar form, schematic human figures or abstract circle/spiral motifs.",
+ "set": "p43_among_random",
+ "i": 9,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "egypt_0072",
+  "gotland_0000",
+  "persepolis_0075",
+  "maya_0023",
+  "maya_0158",
+  "assyria_0047",
+  "tanum_0324",
+  "persepolis_0095",
+  "anatolia_ppn_p43full",
+  "persepolis_0026"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "persepolis",
+  "persepolis",
+  "egypt",
+  "persepolis",
+  "gotland",
+  "assyria",
+  "maya",
+  "tanum",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

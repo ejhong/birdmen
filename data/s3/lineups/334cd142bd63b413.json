@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  5,
+  8,
+  9,
+  7,
+  4,
+  6,
+  10,
+  3,
+  1
+ ],
+ "most_similar_reason": "Candidate 2 depicts a naturalistically carved animal figure rendered in a simple, rounded relief style similar to the target's profile animal carving, sharing the core theme of an animal as the primary depicted subject.",
+ "least_similar_reason": "Candidate 1 consists entirely of glyphic text blocks with no depicted animal or figural imagery, making its iconographic content completely unrelated to the target's animal relief.",
+ "set": "same_control_monoliths",
+ "i": 5,
+ "target": "anatolia_ppn_0207",
+ "planted": "anatolia_ppn_0142",
+ "cands": [
+  "maya_0005",
+  "anatolia_ppn_0142",
+  "rapa_nui_0069",
+  "maya_0158",
+  "maya_0047",
+  "egypt_0045",
+  "maya_0092",
+  "rapa_nui_0052",
+  "rapa_nui_0022",
+  "maya_0057"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "maya",
+  "rapa_nui",
+  "maya",
+  "rapa_nui",
+  "maya",
+  "maya",
+  "egypt",
+  "rapa_nui",
+  "maya"
+ ],
+ "model": "sonnet",
+ "planted_rank": 1
+}

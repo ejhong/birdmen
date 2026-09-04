@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "profile animal figures",
+  "linear/geometric patterning",
+  "horizontal grouping or band of motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces appear to include schematic animal figures in profile together with linear geometric ornament, with the most specific overlap being animal imagery combined with repeated incised or relief patterning. The biggest difference is that B has a clear, organized set of registers with distinct birds/quadrupeds, a snake-like form, and a patterned band, whereas A\u2019s visible imagery is much less clearly organized and seems dominated by an isolated radiating/geometric motif rather than the same animal-register scheme.",
+ "a": "egypt_0027",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1883,
+  678
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "living beings shown in profile",
+  "single outlined eyes on profile heads",
+  "repeated small geometric or linear patterning/infill"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The main shared content is only generic: both use profile depiction of living beings with outlined features and repeated patterned details. The biggest difference is that A is a single large human head-and-shoulders portrait with beard, headdress, earring, and garment, while B is a multi-register composition of schematic animals and signs with no comparable human portrait or attributes.",
+ "a": "assyria_0123",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  662
+ ]
+}

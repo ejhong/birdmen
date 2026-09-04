@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "carved stone monolith/pillar form",
+  "animal or creature head depicted in relief/sculpted form",
+  "eyes rendered as recessed hollows",
+  "schematic rendering of facial/anatomical features"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces are worked upright stone blocks with schematic, low-relief carved creature features \u2014 most specifically a row of animal heads with hollowed eyes and heavy brows in A, echoed by the single hollow-eyed, browed face in B. But A is a densely populated multi-register composition of quadrupeds, birds, a snake and abstract bands with figures in specific spatial relations, whereas B depicts only a single isolated head/face with no accompanying figures, motifs or scene.\n",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0155",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2773,
+  309
+ ]
+}

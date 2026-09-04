@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human figure",
+  "schematic rendering of the human face/head",
+  "figures shown one above another (stacked/registered composition)",
+  "incised surface patterning (hatching / textured area)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both depict human figures rendered schematically and both stack figures vertically (a crouching figure beneath an upper head/block in A; superimposed registers of standing figures in B), which is about as generic a correspondence as one can get. The depicted content otherwise diverges completely: A is a volumetric single crouching being with large hollowed eyes, gaping mouth and hands drawn to the body, while B shows flat silhouetted cloaked figures with raised arms and a horse/rider arranged inside a ruled frame with an interlace border, none of which appears in A.",
+ "a": "anatolia_ppn_0259",
+ "b": "gotland_0009",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3049,
+  580
+ ]
+}

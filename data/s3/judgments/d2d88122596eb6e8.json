@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "grid of rectangular/rounded glyph blocks",
+  "glyphic script signs in framed cartouches",
+  "face-like or head-form signs embedded in blocks",
+  "paired columns of signs read in order",
+  "relief-carved text panel covering the whole surface",
+  "small circular dot elements attached to sign edges"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "9",
+ "justification": "Both surfaces depict nothing but a dense text panel of rounded-square glyph cartouches arranged in a regular grid of paired columns, with the same internal conventions: main signs infilled with head-like profiles and eyes, small affixes and dot clusters clinging to the left and top edges of each block. The only differences are the number of columns visible and the curvature of the carved surface, which are matters of framing and format rather than depicted content.",
+ "a": "maya_0095",
+ "b": "maya_0149",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  2799,
+  307
+ ]
+}

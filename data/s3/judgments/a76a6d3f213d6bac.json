@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "abstract signs or glyph-like motifs",
+  "repeated motifs arranged in rows/registers",
+  "occasional animal- or head-like schematic forms"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The main commonality is that both surfaces are covered with schematic carved symbols arranged in repeated rows or zones, with some signs that may resemble heads or animals. The biggest difference is that B prominently shows recognizable profile animals and large emblematic motifs in a pictorial register scheme, while A is dominated by compact glyph-like blocks with no comparable animal scene or relationships among figures.",
+ "a": "maya_0152",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1672,
+  666
+ ]
+}

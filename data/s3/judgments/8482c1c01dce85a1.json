@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "rows or registers of repeated signs",
+  "schematic animal or bird forms in profile",
+  "abstract linear/geometric marks"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest correspondence is that both surfaces include schematic, profile-like creatures mixed with repeated linear signs arranged at least partly in horizontal bands. The biggest difference is that A is a dense, regular field of small script-like signs including enclosed ovals, while B is organized around a few large figural motifs and patterned bands rather than the same repeated sign system.",
+ "a": "egypt_0016",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  647
+ ]
+}

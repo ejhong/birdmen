@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic carved/outlined motifs",
+  "circle or disc",
+  "horizontal band or register of repeated marks",
+  "anthropomorphic body or torso-like support"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest shared content is a schematic anthropomorphic or torso-like upright form bearing incised/relief decoration, including circular motifs and a horizontal band of repeated marks. The main difference is that A is dominated by a single large human-like body with curvilinear discs and bands, while B is dominated by a crowded register of profile animals and signs arranged across a flat pillar face.",
+ "a": "rapa_nui_0004",
+ "b": "anatolia_ppn_p43full2",
+ "model": "gpt",
+ "set": "target",
+ "usage": [
+  1857,
+  671
+ ]
+}

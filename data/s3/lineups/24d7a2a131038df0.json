@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  3,
+  4,
+  6,
+  9,
+  8,
+  7,
+  2,
+  5,
+  1
+ ],
+ "most_similar_reason": "Candidate 10 is, like the target, an upright slab whose face is divided by horizontal rules into stacked registers each filled with small schematic figures and sign-like motifs carved in shallow low relief, the same pictographic register arrangement rather than a single large scene.",
+ "least_similar_reason": "Candidate 1 shows a bare quarried rock face with no discernible depicted creatures, figures, signs or ordered motifs at all, so there is nothing iconographic to correspond with the target's registers of animals and signs.",
+ "set": "moai_iso_among_random",
+ "i": 38,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0051",
+  "gotland_0112",
+  "maya_0083",
+  "maya_0127",
+  "egypt_0033",
+  "maya_0149",
+  "persepolis_0006",
+  "rapa_nui_hoa_iso",
+  "assyria_0160",
+  "egypt_0067"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "gotland",
+  "egypt",
+  "assyria",
+  "egypt",
+  "maya",
+  "maya",
+  "egypt",
+  "persepolis",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 6
+}

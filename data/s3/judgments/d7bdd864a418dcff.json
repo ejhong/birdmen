@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "standing figure in profile, striding",
+  "low-relief figure with long fringed/pleated garment",
+  "figure holding an object in an outstretched hand",
+  "rendering of hair/beard and feather-like or pleated linear detail",
+  "human-form body with arms bent at the elbow"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces show low-relief standing anthropomorphic figures in strict profile, striding, with long fringed/pleated garments and an object carried in an extended hand, and both use dense parallel incised lines for drapery, hair and feathering. The decisive difference is that A is a repeating frieze band of many purely human attendants in file, one behind another, while B is a single monumental composite figure with a bird's head and large wings holding a bucket, with no procession or interaction between figures.",
+ "a": "persepolis_0070",
+ "b": "assyria_0135",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  2974,
+  684
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "standing human figures shown in profile",
+  "row/procession of figures at the same scale along a single register",
+  "figures with one arm extended forward, holding or presenting small objects",
+  "long garments reaching mid-calf",
+  "low-relief outline carving with minimal interior modelling"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces show a single register of similarly sized human figures in strict profile, striding or standing in a line with arms extended to present or carry small objects, rendered as flat outlined low relief with little interior detail. The differences are substantial: A includes a large animal led on a rein, a tree, and framing bands of rosette ornament in a long horizontal frieze, while B is a compact arched panel with figures facing one another in an offering gesture beneath a block of script-like signs and no animals, plants or ornamental border.",
+ "a": "persepolis_0073",
+ "b": "egypt_0046",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  601
+ ]
+}

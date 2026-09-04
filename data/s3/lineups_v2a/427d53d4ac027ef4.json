@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  9,
+  4,
+  1,
+  8,
+  7,
+  5,
+  3,
+  2,
+  6
+ ],
+ "most_similar_reason": "Candidate 10 shows large low-relief creature/figure forms rendered in profile with simple outlined bodies spread across a flat rectangular slab, closest to the target's profile animals carved in shallow relief on a plain upright panel.",
+ "least_similar_reason": "Candidate 6 depicts only a single stylised human head-and-shoulders in profile on a small plaque, with none of the target's stacked animal figures, snakes, birds or register-like rows of signs.",
+ "set": "moai_among_random",
+ "i": 39,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "maya_0050",
+  "rapa_nui_0113",
+  "maya_0060",
+  "catalhoyuk_0026",
+  "maya_0106",
+  "mississippian_0001",
+  "maya_0053",
+  "maya_0028",
+  "maya_0070",
+  "assyria_0000"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "mississippian",
+  "maya",
+  "maya",
+  "maya",
+  "catalhoyuk",
+  "maya",
+  "assyria",
+  "maya",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 9
+}

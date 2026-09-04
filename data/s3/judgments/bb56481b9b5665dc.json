@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "human figure (schematic in A, sculpted head/body in B)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "The only shared depicted content is the generic presence of a human figure \u2014 a tiny stick figure with raised arms and a small disc in A, versus large frontal sculpted heads with modelled eyes, nose and mouth in B. A's dominant motif, a long horizontal serpentine line, has no counterpart in B, and B's stacked frontal faces and torso have no counterpart in A, so the schemes are unrelated.",
+ "a": "tanum_0059",
+ "b": "anatolia_ppn_0261",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  231
+ ]
+}

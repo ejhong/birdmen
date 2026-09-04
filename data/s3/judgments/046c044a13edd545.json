@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic anthropomorphic figure or bust",
+  "frontal head with facial features",
+  "side projections resembling ears or arms",
+  "upper body/torso indicated below the head"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both present a centrally arranged, schematic anthropomorphic form with a head, simple facial features, and lateral protrusions. The biggest difference is that A is a much more elaborate front-facing body covered with repeated incised geometric and anatomical motifs, while B is primarily a plain rounded head/bust with only a sparse face.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_0223",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  527
+ ]
+}

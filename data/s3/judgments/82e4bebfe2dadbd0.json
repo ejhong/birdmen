@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "profile living figure or creature",
+  "eye shown in profile",
+  "repeated incised/linear patterning or infill"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific overlap is that both include profile-rendered living beings with visible eyes and some repeated detail or patterning. The biggest difference is that A is dominated by a single naturalistic bearded human head with headdress and jewelry, whereas B is a multi-register composition of schematic animals, signs, and geometric motifs with no comparable central portrait scheme.",
+ "a": "assyria_0105",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1883,
+  620
+ ]
+}

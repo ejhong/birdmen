@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  2,
+  3,
+  9,
+  5,
+  1,
+  8,
+  4,
+  7,
+  6
+ ],
+ "most_similar_reason": "Both feature a central standing figure carved in relief on a tall, vertical slab.",
+ "least_similar_reason": "Shows a boat motif rather than any standing figure or vertical monument format.",
+ "set": "same_control",
+ "i": 23,
+ "target": "maya_0000",
+ "planted": "maya_0149",
+ "cands": [
+  "persepolis_0099",
+  "maya_0149",
+  "anatolia_ppn_0011",
+  "anatolia_ppn_0261",
+  "assyria_0008",
+  "gotland_0123",
+  "rapa_nui_0022",
+  "rapa_nui_0047",
+  "persepolis_0049",
+  "gotland_0133"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "gotland",
+  "persepolis",
+  "rapa_nui",
+  "assyria",
+  "persepolis",
+  "gotland",
+  "rapa_nui"
+ ],
+ "model": "gemini",
+ "planted_rank": 2
+}

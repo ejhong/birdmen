@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "carved stone relief imagery",
+  "human/anthropomorphic figure with detailed hair or headdress",
+  "incised linear detailing of garments or hair",
+  "circular/disc motif (A) vs rosette-like details",
+  "figures rendered in a formal, frontal or profile stance"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces depict anthropomorphic figures carved in stone with incised linear treatment of hair/beard and garment, which is the only real correspondence. A is a single massive frontal figure dominated by a large concentric disc on the torso and heavy schematic body forms, while B shows a repeated procession of small, evenly spaced profile figures in a horizontal register along a stair facade \u2014 different compositional schemes, scale conventions and subject matter.",
+ "a": "rapa_nui_0113",
+ "b": "persepolis_0070",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2974,
+  315
+ ]
+}

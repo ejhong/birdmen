@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "circle or oval/disc motifs",
+  "horizontal band or strip of repeated linear pattern",
+  "curving/arched linear motifs",
+  "schematic incised or relief signs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The clearest shared content is generic geometric marking: circular/oval signs and horizontal bands filled with repeated short incised lines. The biggest difference is that A is dominated by a frontal anthropomorphic body with facial/torso features, while B is a dense register-like field of separate glyphic or animal/abstract motifs with no comparable human figure or body scheme.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_0004",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  669
+ ]
+}

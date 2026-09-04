@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "profile figures",
+  "horizontal band or register",
+  "linear/geometric patterning"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The main correspondence is only broad: both surfaces use outlined profile figures and horizontal organization, with some linear patterned detail. The biggest difference is that A is dominated by animals and abstract/geometric signs in stacked registers, while B shows a procession of standing human figures holding vessels, with no comparable animal-symbol scheme.",
+ "a": "anatolia_ppn_p43full",
+ "b": "persepolis_0080",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  1159
+ ]
+}

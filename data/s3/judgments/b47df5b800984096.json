@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "carved human figure (frontal colossus in A, profile figures in B)",
+  "relief-carved surface detail on a stone monument",
+  "curved/spiral forms (disc and scrolls in A, ram horns in B)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces carry carved human imagery and low-relief detail, and both include prominent curved/spiral forms (the concentric disc and volutes on A, the ram horns and curled hair in B), but these are generic correspondences. A is a frontal, three-dimensional colossal figure whose body carries isolated emblematic motifs (disc, scrolls, small sign-like elements) with no narrative, whereas B is a flat processional frieze of bearded profile men driving two horned rams \u2014 different subjects, different relationships, and different compositional logic.",
+ "a": "rapa_nui_0113",
+ "b": "persepolis_0022",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3174,
+  701
+ ]
+}

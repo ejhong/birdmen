@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "circle or disc motif",
+  "horizontal band or register of carving",
+  "abstract incised/relief linear patterning"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The clearest specific correspondence is the use of shallow carved linear motifs on stone, including circular marks and horizontal bands/registers. The biggest difference is that A is a rounded, anthropomorphic monolith with sparse, weathered, mostly abstract decoration, while B is a flat architectural-looking surface densely filled with small figural reliefs arranged in registers.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "target",
+ "usage": [
+  1177,
+  647
+ ]
+}

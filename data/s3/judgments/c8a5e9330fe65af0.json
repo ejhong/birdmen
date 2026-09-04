@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "carved stone monument with relief sculpture",
+  "rounded/bulbous carved forms",
+  "eye-like circular elements"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "A shows a single three-dimensional sculptural head or double-lobed form with large rounded eye-like bosses carved in the round, while B shows a tall flat slab covered edge-to-edge with a double column of ordered rectangular relief signs, with a seated human figure beside it. The only overlap is that both are relief-carved stone monuments containing rounded, eye-like cartouche forms; the compositional logic (single volumetric face versus a gridded text panel and accompanying figure) is entirely different.",
+ "a": "anatolia_ppn_0247",
+ "b": "maya_0057",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3149,
+  283
+ ]
+}

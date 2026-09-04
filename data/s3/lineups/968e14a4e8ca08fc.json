@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  2,
+  1,
+  10,
+  7,
+  5,
+  6,
+  4,
+  3,
+  8
+ ],
+ "most_similar_reason": "Candidate 9 likewise presents a single large frontal figure/mask carved in bold relief that wraps around a rounded, block-like monument, with the head and headdress dominating the upper part and body elements below, matching the target's massive single-personage composition rather than a flat panelled scene.",
+ "least_similar_reason": "Candidate 8 shows an essentially blank, uncarved shaft with no discernible figure, ornament or sign at all, so it shares none of the target's depicted iconography.",
+ "set": "p43_iso_among_monoliths",
+ "i": 38,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0092",
+  "maya_0060",
+  "maya_0095",
+  "egypt_0014",
+  "egypt_0065",
+  "egypt_0070",
+  "egypt_0074",
+  "maya_0000",
+  "maya_0019",
+  "anatolia_ppn_p43iso"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "profile quadruped/animal",
+  "human figure",
+  "extended arm or linear held element"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main shared content is the presence of human figures and profile animals, with at least one human associated with a linear element or gesture. The biggest difference is that A is a single relatively naturalistic horse-and-human/reins scene, while B is a stacked, highly schematic composition of multiple small figures, animals, and signs with no matching horse-rider/handler arrangement.",
+ "a": "persepolis_0089",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  657
+ ]
+}

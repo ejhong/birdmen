@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "anthropomorphic or human-like torso",
+  "circular breast/disc-like feature on the upper body",
+  "incised parallel curved or V-shaped lines across the chest/neck area",
+  "vertical frontal body format"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest shared content is a stylized human-like body with circular upper-body features and incised curved/parallel chest markings. The biggest difference is that A presents a complete, highly abstract frontal stele-like figure with face-like motifs and multiple symbols, while B shows only a more anatomical fragment of a torso with one protruding breast and no comparable face or full-body iconographic scheme.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_0122",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  642
+ ]
+}

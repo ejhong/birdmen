@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "carved stone surface",
+  "horizontal band or register",
+  "profile animal forms",
+  "dense incised/low-relief linear decoration"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both are worn carved stone surfaces with imagery organized at least partly by horizontal bands/registers and include profile animal-like figures. The biggest difference is compositional: A is a narrow upright surface with large, simplified motifs stacked in registers, while B is a broad rectangular scene dominated by a central standing figure and fine, crowded relief detail.",
+ "a": "anatolia_ppn_p43full",
+ "b": "assyria_0116",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1230,
+  647
+ ]
+}

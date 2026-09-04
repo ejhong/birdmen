@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "predatory quadruped with elongated muzzle/snout",
+  "splayed limbs with paws rendered as parallel incised digits/claws",
+  "animals stacked vertically, one above another",
+  "schematic low-relief body with smooth outline and minimal interior detail"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both surfaces depict schematic predatory quadrupeds with long muzzles and splayed limbs whose paws are rendered as sets of parallel incised digits, and in both the creatures are stacked vertically one above another rather than shown in a single row, which is a fairly specific shared scheme. The main difference is that A confines them to flat profile relief on a plane with no interaction beyond juxtaposition, while B builds a three-dimensional superimposed group in which the upper animal grips and overlies a lower human-limbed figure.",
+ "a": "anatolia_ppn_0088",
+ "b": "anatolia_ppn_0175",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3174,
+  900
+ ]
+}

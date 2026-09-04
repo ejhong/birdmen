@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  7,
+  6,
+  9,
+  8,
+  4,
+  3,
+  10,
+  2,
+  5
+ ],
+ "most_similar_reason": "Candidate 1 shows a similarly monolithic stone surface carved with a single schematic anthropomorphic figure featuring a stylised belt/body motif, closely echoing the target's solitary figure with belt and symbolic markings rather than a narrative scene.",
+ "least_similar_reason": "Candidate 5 depicts a complex multi-figure battle scene with chariots, horses, and warriors in dynamic action, a narrative composition wholly unlike the target's single static schematic humanoid figure.",
+ "set": "p43_among_random",
+ "i": 6,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "anatolia_ppn_p43full",
+  "assyria_0052",
+  "persepolis_0025",
+  "tanum_0052",
+  "assyria_0039",
+  "catalhoyuk_0102",
+  "mississippian_0007",
+  "assyria_0000",
+  "assyria_0112",
+  "persepolis_0039"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "assyria",
+  "catalhoyuk",
+  "assyria",
+  "mississippian",
+  "persepolis",
+  "tanum",
+  "persepolis",
+  "assyria",
+  "assyria"
+ ],
+ "model": "sonnet",
+ "planted_rank": 1
+}

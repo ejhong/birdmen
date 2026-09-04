@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "animal figures in profile",
+  "standing or upright anthropomorphic figure",
+  "horizontal bands/registers",
+  "repeated decorative or symbolic motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The main shared content is only generic: both surfaces include profile figures and some banded or repeated motifs, with linear outline conventions. The biggest difference is that A shows a relatively naturalistic procession-like scene with a camel led by a human and rosette borders, while B shows a dense vertical arrangement of varied animals and abstract signs with no comparable camel-leading relationship or floral border scheme.",
+ "a": "persepolis_0063",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  666
+ ]
+}

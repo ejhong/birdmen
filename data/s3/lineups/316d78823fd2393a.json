@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  4,
+  1,
+  3,
+  2,
+  8,
+  5,
+  9,
+  10,
+  6
+ ],
+ "most_similar_reason": "Candidate 7 is most similar because it also presents a single large, side-profile animal with an elongated body and simple carved outline/relief treatment, rather than a crowded narrative or inscription-like field.",
+ "least_similar_reason": "Candidate 6 is least similar because it consists mainly of dense, repeated writing-like linear marks with no clear large profile animal or comparable figurative arrangement.",
+ "set": "same_control",
+ "i": 36,
+ "target": "anatolia_ppn_0103",
+ "planted": "anatolia_ppn_0105",
+ "cands": [
+  "assyria_0131",
+  "catalhoyuk_0110",
+  "tanum_0052",
+  "assyria_0040",
+  "tanum_0106",
+  "egypt_0016",
+  "anatolia_ppn_0105",
+  "maya_0066",
+  "egypt_0047",
+  "egypt_0075"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "tanum",
+  "assyria",
+  "maya",
+  "egypt",
+  "egypt",
+  "tanum",
+  "catalhoyuk",
+  "assyria",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

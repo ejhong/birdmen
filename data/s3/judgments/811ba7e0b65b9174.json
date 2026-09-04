@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "animal in profile",
+  "human figure",
+  "geometric or patterned border/band"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The only real overlap is generic: both include profile animals, a human-like figure, and some geometric patterning or framing. The biggest difference is that B is a single framed scene of a mounted human on a large quadruped, while A is a vertical assemblage of separate symbolic creatures and signs, including birds and other motifs, with no comparable rider-animal scheme.",
+ "a": "anatolia_ppn_p43full",
+ "b": "gotland_0115",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  656
+ ]
+}

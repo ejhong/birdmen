@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "profile bird or bird-like head with prominent beak",
+  "animal figure in profile",
+  "horizontal bands or registers",
+  "repeated linear/geometric markings",
+  "circle or eye-like dot"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The most specific overlap is the use of schematic profile creatures or bird-like forms, with prominent beak/eye treatment and surrounding bands or repeated signs. The main difference is that A is dominated by a single standing anthropomorphic or bird-headed figure holding/adjacent to a vertical object, while B is a crowded multi-register composition of animals and abstract signs with no comparable central standing figure.",
+ "a": "maya_0105",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  677
+ ]
+}

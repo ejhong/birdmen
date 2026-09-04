@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "horizontal band of repeated geometric pattern",
+  "repeated triangular or chevron-like motifs",
+  "linear incised/outlined decoration"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is a horizontal frieze of repeated triangular/chevron-like geometric marks, with small linear units set side by side in a band. The biggest difference is that B is dominated by multiple figural motifs\u2014animals or anthropomorphic forms arranged in registers\u2014whereas A shows essentially only a simple geometric band on an otherwise undecorated form.",
+ "a": "anatolia_ppn_0132",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  633
+ ]
+}

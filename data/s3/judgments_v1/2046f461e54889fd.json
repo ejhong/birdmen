@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "animal in profile",
+  "standing human or anthropomorphic figure",
+  "horizontal band of pattern",
+  "repeated motifs in a band",
+  "relief/incised decoration on stone"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest correspondence is that both are carved stone surfaces combining profile figures with horizontal ornamental bands or registers. The biggest difference is that A is a broad, orderly, shallow relief scene with relatively naturalistic animals and procession-like human figures, while B is a narrow upright surface with more schematic, densely stacked carvings and no matching sequence of motifs.",
+ "a": "persepolis_0007",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  457
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  9,
+  3,
+  6,
+  4,
+  5,
+  7,
+  1,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 2 is most similar because it shows a comparable cluster of schematic relief animals, especially profile birds/creatures and repeated symbolic motifs, arranged in compact horizontal/vertical fields like the target.",
+ "least_similar_reason": "Candidate 10 is least similar because it has little or no discernible figurative iconography comparable to the target\u2019s dense arrangement of stylized animals and repeated carved signs.",
+ "set": "moai_among_random",
+ "i": 26,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "assyria_0079",
+  "assyria_0090",
+  "gotland_0018",
+  "persepolis_0075",
+  "egypt_0050",
+  "egypt_0039",
+  "egypt_0074",
+  "assyria_0153",
+  "rapa_nui_0113",
+  "egypt_0020"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "assyria",
+  "persepolis",
+  "egypt",
+  "assyria",
+  "egypt",
+  "gotland",
+  "assyria",
+  "egypt",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 2
+}

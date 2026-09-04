@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "circle/disc motif",
+  "horizontal band with repeated linear/hatched pattern",
+  "schematic animal or serpentine creatures in low relief",
+  "anthropomorphic figure",
+  "curving/scrolled linear motifs at the upper zone"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces carry schematic low-relief motifs including a disc, a horizontal banded pattern and creature/anthropomorphic forms, and both stack their imagery in roughly horizontal zones up a tall vertical field, which is a generic rather than distinctive correspondence. The decisive difference is subject: A is a single anthropomorphic body whose carvings (disc on chest, belt-like arcs, shoulder scrolls) function as attributes of that body, whereas B is a multi-figure narrative-like frieze of profile animals, a seated figure and an arcaded upper register with no unifying body.",
+ "a": "rapa_nui_hoa_iso",
+ "b": "anatolia_ppn_p43iso",
+ "model": "opus",
+ "set": "target_iso",
+ "usage": [
+  2799,
+  868
+ ]
+}

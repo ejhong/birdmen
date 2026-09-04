@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  5,
+  3,
+  6,
+  4,
+  1,
+  7,
+  2,
+  10,
+  8
+ ],
+ "most_similar_reason": "Candidate 9 shows the same thing as the target: a single tall upright monolith bearing one frontal figure carved in shallow relief that fills the whole shaft, with headgear above and body ornament/belt elements arranged vertically down the slab.",
+ "least_similar_reason": "Candidate 8 depicts no figures at all, only rows of repeated sign-blocks covering the surface, sharing none of the target's frontal anthropomorphic body with headdress, chest disc and belt.",
+ "set": "p43_iso_among_monoliths",
+ "i": 33,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "anatolia_ppn_p43iso",
+  "egypt_0043",
+  "maya_0039",
+  "egypt_0074",
+  "maya_0082",
+  "maya_0069",
+  "egypt_0050",
+  "egypt_0064",
+  "maya_0111",
+  "gotland_0112"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "egypt",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 6
+}

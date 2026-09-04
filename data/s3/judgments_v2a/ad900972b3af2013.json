@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "beaked/bird-like creature",
+  "schematic animal head",
+  "raised low-relief limb or paw against a body surface",
+  "highly simplified, non-naturalistic creature anatomy",
+  "projecting rounded eye/brow forms"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict schematic beaked creatures with strongly simplified anatomy, and both render limbs as flattened relief shapes laid against a body mass, which is the most specific correspondence. However, A is a multi-register composition of stacked profile animals (birds, quadruped heads, snake-like forms) with a banded zigzag frieze and a small human figure, while B is a single frontal head-and-shoulders creature with eyes, beak and flanking arms and no narrative registers at all.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0223",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2848,
+  812
+ ]
+}

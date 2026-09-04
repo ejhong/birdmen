@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic human or anthropomorphic figure",
+  "bird or bird-like animal motif",
+  "geometric/incised patterning or bands",
+  "small circular mark/disc"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both include schematic anthropomorphic imagery together with bird/animal imagery and simple geometric marking, with the most specific overlap being a human-like figure combined in the same object/field with avian or animal forms. The biggest difference is that A is dominated by a frontal, vertically stacked human/creature figure, while B is a multi-register panel of mostly profile animals and signs with no comparable central frontal figure or perched-over-head relationship.",
+ "a": "anatolia_ppn_0261",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  1200
+ ]
+}

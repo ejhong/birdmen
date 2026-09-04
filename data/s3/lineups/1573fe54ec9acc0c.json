@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  10,
+  9,
+  5,
+  4,
+  1,
+  7,
+  2,
+  8,
+  6
+ ],
+ "most_similar_reason": "Candidate 3, like the target, is a free-standing anthropomorphic monolith whose body carries shallow relief motifs, including carved arm-like bands running down the flanks toward the front, so the sculpted human-form block itself serves as the field for schematic symbols rather than a picture surface with a scene.",
+ "least_similar_reason": "Candidate 6 shows a lively linear scene of small stick-like human figures, weapons and a disc drawn in flat outline on a flat rock face, sharing none of the target's sculpted anthropomorphic body carrying a few large, isolated curvilinear ring-and-band emblems.",
+ "set": "p43_among_random",
+ "i": 29,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "maya_0048",
+  "egypt_0013",
+  "anatolia_ppn_p43full",
+  "assyria_0078",
+  "egypt_0045",
+  "tanum_0347",
+  "persepolis_0110",
+  "tanum_0340",
+  "assyria_0069",
+  "gotland_0000"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "egypt",
+  "gotland",
+  "egypt",
+  "assyria",
+  "persepolis",
+  "tanum",
+  "assyria",
+  "tanum",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

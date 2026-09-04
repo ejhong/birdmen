@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  1,
+  6,
+  9,
+  2,
+  10,
+  3,
+  4,
+  7,
+  8
+ ],
+ "most_similar_reason": "Candidate 5 shares the anthropomorphic pillar form with relief-carved arms and hands.",
+ "least_similar_reason": "Candidate 8 features schematic boat motifs, lacking any anthropomorphic forms.",
+ "set": "p43_among_random",
+ "i": 21,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "egypt_0070",
+  "assyria_0011",
+  "persepolis_0018",
+  "assyria_0063",
+  "anatolia_ppn_p43full",
+  "assyria_0139",
+  "tanum_0327",
+  "tanum_0324",
+  "assyria_0140",
+  "persepolis_0026"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "tanum",
+  "assyria",
+  "tanum",
+  "persepolis",
+  "assyria",
+  "assyria",
+  "assyria",
+  "persepolis",
+  "egypt"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

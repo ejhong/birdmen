@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  7,
+  1,
+  10,
+  2,
+  6,
+  9,
+  4,
+  5,
+  8
+ ],
+ "most_similar_reason": "Like the target, candidate 3 is a free-standing monolith whose own body reads as a schematic anthropomorphic form, with low-relief creatures and arm/hand motifs carved shallowly onto its flat surfaces rather than a framed pictorial scene.",
+ "least_similar_reason": "Candidate 8 shows a crowded, naturalistic narrative of chariots, horses and falling warriors in dynamic action, which shares none of the target's isolated, static schematic symbols and stylized figures on a body-shaped surface.",
+ "set": "p43_among_random",
+ "i": 30,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "tanum_0333",
+  "mississippian_0045",
+  "anatolia_ppn_p43full",
+  "persepolis_0058",
+  "persepolis_0000",
+  "maya_0095",
+  "maya_0126",
+  "assyria_0039",
+  "egypt_0038",
+  "mississippian_0007"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "mississippian",
+  "maya",
+  "tanum",
+  "maya",
+  "persepolis",
+  "persepolis",
+  "mississippian",
+  "egypt",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

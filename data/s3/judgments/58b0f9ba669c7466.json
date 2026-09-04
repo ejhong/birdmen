@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "upright decorated surface divided into zones/registers",
+  "repeated patterned motifs",
+  "stylized animal or creature forms",
+  "curving outline motifs",
+  "small circular or eye-like details"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "3",
+ "justification": "The main correspondence is that both surfaces present a tall field filled with schematic, repeated symbolic motifs, including stylized creature-like forms and patterned bands or borders. The biggest difference is that A is organized mainly as horizontal registers with profile animals/birds and geometric bands, while B is dominated by a vertical stack of enclosed face-like/cartouche motifs with an ornate side border.",
+ "a": "anatolia_ppn_p43full",
+ "b": "maya_0053",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1804,
+  673
+ ]
+}

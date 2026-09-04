@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  1,
+  7,
+  4,
+  2,
+  3,
+  9,
+  6,
+  5,
+  10
+ ],
+ "most_similar_reason": "Both depict stylized, vertically arranged animal reliefs including birds.",
+ "least_similar_reason": "Features painted linear boats rather than carved animal figures.",
+ "set": "moai_among_random",
+ "i": 6,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "rapa_nui_0113",
+  "assyria_0039",
+  "assyria_0160",
+  "persepolis_0043",
+  "tanum_0076",
+  "egypt_0028",
+  "maya_0076",
+  "maya_0083",
+  "persepolis_0017",
+  "tanum_0341"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "tanum",
+  "maya",
+  "assyria",
+  "persepolis",
+  "maya",
+  "egypt",
+  "tanum",
+  "assyria",
+  "persepolis"
+ ],
+ "model": "gemini",
+ "planted_rank": 2
+}

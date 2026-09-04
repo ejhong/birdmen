@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "bearded male figure in profile",
+  "long ankle-length robe with patterned/fringed hem",
+  "hair and beard rendered as rows of tight curls",
+  "figure carrying/holding an object in outstretched hand",
+  "low relief figures facing one direction",
+  "horizontal dividing lines/registers",
+  "footwear and feet shown in strict profile"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict bearded men in strict profile with long fringed robes, curled hair rendered as stacked rows, and hands extended holding objects, which is a fairly specific shared figural convention. But A is a multi-register procession of many small repeated figures leading animals and bearing tribute, while B is a single monumental figure with large multi-tiered wings \u2014 no wings appear in A and no processional repetition in B.",
+ "a": "persepolis_0104",
+ "b": "assyria_0146",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3149,
+  742
+ ]
+}

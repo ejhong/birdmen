@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  4,
+  9,
+  6,
+  5,
+  7,
+  3,
+  8,
+  2,
+  10
+ ],
+ "most_similar_reason": "Candidate 1 is most similar because it shows the same kind of stacked horizontal bands filled with small schematic incised/relief signs, including profile animal- or bird-like forms and hatched geometric fillers arranged as a dense glyphic surface.",
+ "least_similar_reason": "Candidate 10 is least similar because its depicted content is dominated by a large frontal anthropomorphic monument with attendant forms, rather than rows of small profile animals, body-part-like signs, and geometric register motifs.",
+ "set": "moai_iso_among_monoliths",
+ "i": 37,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0045",
+  "maya_0087",
+  "gotland_0112",
+  "egypt_0063",
+  "rapa_nui_hoa_iso",
+  "egypt_0046",
+  "maya_0027",
+  "gotland_0130",
+  "egypt_0041",
+  "maya_0056"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "egypt",
+  "egypt",
+  "egypt",
+  "gotland",
+  "maya",
+  "maya",
+  "maya",
+  "egypt",
+  "gotland"
+ ],
+ "model": "gpt",
+ "planted_rank": 5
+}

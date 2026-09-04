@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "horizontal rows or bands of small linear marks",
+  "rectangular decorated field"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific shared content is that both surfaces include organized horizontal rows or bands of incised/linear marks within a roughly rectangular decorated area. The major difference is that A appears dominated by faint text-like or nonfigurative rows of marks, while B shows a complex figural relief with animals, possible human/anthropomorphic figures, and geometric patterned bands.",
+ "a": "egypt_0021",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  652
+ ]
+}

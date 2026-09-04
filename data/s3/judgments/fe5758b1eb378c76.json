@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "standing anthropomorphic figure",
+  "face or head with eyes",
+  "circular or disc motifs",
+  "linear bands or incised line decoration"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The only real overlap is that both include a standing human-like figure with facial/body details and some circular or linear motifs. The biggest difference is that A is a highly schematic frontal anthropomorphic form covered with simple geometric marks, while B is a detailed profile scene of a winged bird-headed figure interacting with a plant/tree and held objects.",
+ "a": "rapa_nui_0113",
+ "b": "assyria_0071",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1909,
+  658
+ ]
+}

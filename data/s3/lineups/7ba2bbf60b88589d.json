@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  3,
+  8,
+  2,
+  5,
+  7,
+  4,
+  10,
+  6,
+  1
+ ],
+ "most_similar_reason": "Candidate 9 shows a monolithic pillar whose flat faces bear a few isolated, shallowly carved schematic motifs standing out against a plain field, exactly the sparse low-relief convention of the target's profile animal on a plain pillar face.",
+ "least_similar_reason": "Candidate 1 is an upright slab covered edge to edge with dense rows of small repeated sign-blocks and no creature or isolated figural motif, which shares nothing with the target's single large schematic animal on an otherwise blank surface.",
+ "set": "same_control_monoliths",
+ "i": 5,
+ "target": "anatolia_ppn_0207",
+ "planted": "anatolia_ppn_0142",
+ "cands": [
+  "maya_0005",
+  "anatolia_ppn_0142",
+  "rapa_nui_0069",
+  "maya_0158",
+  "maya_0047",
+  "egypt_0045",
+  "maya_0092",
+  "rapa_nui_0052",
+  "rapa_nui_0022",
+  "maya_0057"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "maya",
+  "rapa_nui",
+  "maya",
+  "rapa_nui",
+  "maya",
+  "maya",
+  "egypt",
+  "rapa_nui",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

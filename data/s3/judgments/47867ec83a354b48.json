@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "anthropomorphic or human-like figure/body parts",
+  "animal or creature motifs",
+  "incised linear/geometric patterning"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The most specific overlap is that both include schematic anthropomorphic content together with animal/creature imagery and simple incised linear patterning. The major difference is that A is dominated by a single frontal, stacked human/creature figure, while B is a register-like field of many profile animals and signs with no comparable frontal face or stacked figure scheme.",
+ "a": "anatolia_ppn_0264",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  1177
+ ]
+}

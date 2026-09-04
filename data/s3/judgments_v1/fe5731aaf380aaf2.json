@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "horizontal band/register of repeated small marks",
+  "profile animal or bird-like figure",
+  "human or anthropomorphic figure/body part"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both are shallow carved stone surfaces with horizontal zones of repeated small marks and some figural/animal motifs in relief. The biggest difference is that A is a tall, sparsely composed vertical slab with large schematic figures and geometric bands, while B is a wide horizontal panel dominated by dense, fine text-like carving and more continuous surface patterning.",
+ "a": "anatolia_ppn_p43full",
+ "b": "assyria_0015",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  653
+ ]
+}

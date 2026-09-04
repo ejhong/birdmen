@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  1,
+  9,
+  5,
+  8,
+  7,
+  10,
+  6,
+  4,
+  3
+ ],
+ "most_similar_reason": "Candidate 2 shows, like the target, a carved relief with a large human-form figure in strict profile with patterned hair/beard and detailed garment, its hand extended toward a stylized plant/rosette-like floral element, rendered in the same naturalistic low-relief convention with fine incised surface detail.",
+ "least_similar_reason": "Candidate 3 shows only a bare rocky coastal outcrop with no depicted figures, animals, plants or ornament at all, so there is nothing iconographic to correspond with the target's procession of figures and rams.",
+ "set": "related_control",
+ "i": 8,
+ "target": "persepolis_0000",
+ "planted": "assyria_0079",
+ "cands": [
+  "tanum_0082",
+  "assyria_0079",
+  "rapa_nui_0079",
+  "rapa_nui_0111",
+  "gotland_0018",
+  "anatolia_ppn_0244",
+  "maya_0077",
+  "rapa_nui_0082",
+  "tanum_0128",
+  "egypt_0042"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "rapa_nui",
+  "anatolia_ppn",
+  "egypt",
+  "rapa_nui",
+  "tanum",
+  "maya",
+  "rapa_nui",
+  "gotland",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

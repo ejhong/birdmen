@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "upright rectangular pillar/slab as the carved surface",
+  "low-relief animal in profile (quadruped) on the pillar face",
+  "rows of small repeated units (pitted cupmarks in A / row of repeated arched motifs in B)",
+  "plain undecorated ground around the carved motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both show a faint low-relief animal in profile placed on the upper face of a tall plain upright slab, plus rows of small repeated units (cupmarks in A, repeated arch motifs in B), which is a real if modest correspondence in motif type and relief convention. The decisive difference is density and content: B carries a full multi-register programme of quadrupeds, a bird, a snake and a woven/net band stacked in order, while A's surfaces are almost entirely blank architectural stone with one isolated animal sign and a pitted block, and no comparable combinations or relationships between figures.",
+ "a": "anatolia_ppn_0196",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3048,
+  1060
+ ]
+}

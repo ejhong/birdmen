@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "upright anthropomorphic/human figure",
+  "head, torso and arms",
+  "circular or disc motifs on or near the body",
+  "linear/banded decorative patterning"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main correspondence is that both surfaces center an upright human or human-like body with some circular and linear decorative marks associated with it. The biggest difference is that A is a highly schematic frontal torso-like figure dominated by abstract discs and bands, while B is a naturalistic profile figure with limbs, clothing, possible wings, and held/gesturing arms in a narrative pose.",
+ "a": "rapa_nui_0113",
+ "b": "assyria_0034",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  672
+ ]
+}

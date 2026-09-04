@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  10,
+  1,
+  8,
+  9,
+  3,
+  5,
+  6,
+  2,
+  7
+ ],
+ "most_similar_reason": "Candidate 4 is closest because it shows a low-relief, linearly detailed profile figure in a formal ancient-style scene, with the same kind of rigid side-view human iconography and patterned garment/detailing seen in the target procession.",
+ "least_similar_reason": "Candidate 7 is least similar because it centers on a frontal mask-like face with glyphic/geometric bands, lacking the target\u2019s profile procession of humans and animal figures arranged in a horizontal register.",
+ "set": "related_control",
+ "i": 28,
+ "target": "persepolis_0073",
+ "planted": "assyria_0122",
+ "cands": [
+  "anatolia_ppn_0107",
+  "anatolia_ppn_0222",
+  "tanum_0348",
+  "assyria_0122",
+  "rapa_nui_0034",
+  "anatolia_ppn_0260",
+  "egypt_0037",
+  "tanum_0340",
+  "tanum_0236",
+  "egypt_0061"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "tanum",
+  "anatolia_ppn",
+  "egypt",
+  "anatolia_ppn",
+  "tanum",
+  "rapa_nui",
+  "tanum",
+  "egypt",
+  "anatolia_ppn"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

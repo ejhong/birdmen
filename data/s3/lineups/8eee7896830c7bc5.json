@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  1,
+  5,
+  9,
+  3,
+  4,
+  6,
+  2,
+  7,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 shows a bearded human figure in profile wearing a conical/rounded headdress carved in relief, closely matching the target's depiction of bearded profile figures with headdresses in a stone relief.",
+ "least_similar_reason": "Candidate 10 is an inscribed stele covered in dense script with no figural or iconographic imagery at all, sharing nothing with the target's carved human figures and gestures.",
+ "set": "same_control",
+ "i": 8,
+ "target": "assyria_0111",
+ "planted": "assyria_0084",
+ "cands": [
+  "persepolis_0073",
+  "egypt_0040",
+  "anatolia_ppn_0107",
+  "egypt_0006",
+  "rapa_nui_0022",
+  "mississippian_0018",
+  "gotland_0118",
+  "assyria_0084",
+  "maya_0158",
+  "egypt_0064"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "mississippian",
+  "anatolia_ppn",
+  "maya",
+  "egypt",
+  "gotland",
+  "rapa_nui",
+  "egypt",
+  "egypt",
+  "persepolis"
+ ],
+ "model": "sonnet",
+ "planted_rank": 1
+}

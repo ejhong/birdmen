@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  1,
+  5,
+  2,
+  7,
+  4,
+  9,
+  10,
+  3,
+  8
+ ],
+ "most_similar_reason": "Candidate 6 shows a single carved anthropomorphic figure in low relief accompanied by circular/geometric emblematic motifs, echoing the target's frontal humanoid stone figure with schematic arms and a circular symbol on its torso.",
+ "least_similar_reason": "Candidate 8 is essentially a blank, weathered stone surface with no discernible figural or symbolic carving, sharing none of the humanoid or emblematic imagery seen in the target.",
+ "set": "p43_among_random",
+ "i": 5,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "maya_0060",
+  "persepolis_0049",
+  "catalhoyuk_0065",
+  "persepolis_0058",
+  "maya_0088",
+  "anatolia_ppn_p43full",
+  "persepolis_0077",
+  "tanum_0026",
+  "assyria_0100",
+  "gotland_0118"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "assyria",
+  "persepolis",
+  "gotland",
+  "tanum",
+  "maya",
+  "catalhoyuk",
+  "persepolis",
+  "persepolis"
+ ],
+ "model": "sonnet",
+ "planted_rank": 1
+}

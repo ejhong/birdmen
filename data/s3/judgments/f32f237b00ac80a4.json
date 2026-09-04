@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "quadruped animal shown in profile",
+  "small schematic anthropomorphic figure",
+  "multiple animals combined on one surface",
+  "roughly horizontal registers/banding of the composition",
+  "disc-like/rounded element (A: painted patch; B: carved disc)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces depict profile quadrupeds together with small schematic anthropomorphic figures on a broad field organised into loose horizontal zones, which is the most specific correspondence but also a fairly generic one. They differ fundamentally in scheme: A shows one dominant large animal swarmed by tiny stick-like human figures in an apparent hunt/baiting scene, whereas B stacks discrete animals (a row of quadrupeds, a predator with a disc, a large bird, plant-like fronds) in separate registers with no interaction between them, and B's animals are modelled and detailed while A's figures are linear silhouettes.",
+ "a": "catalhoyuk_0031",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  909
+ ]
+}

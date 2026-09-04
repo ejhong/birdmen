@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "profile animals",
+  "bird-like figures in profile",
+  "quadruped-like figures in profile",
+  "repeated small schematic signs or motifs",
+  "decorated vertical surface with multiple relief figures"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The clearest shared content is the use of schematic profile animals, including bird-like and quadruped-like forms, combined with repeated small relief signs on a decorated vertical surface. The biggest difference is that A is dominated by a central frontal standing human-like figure with surrounding animals, while B is organized into horizontal registers of many animals and signs with no comparable central human figure.",
+ "a": "anatolia_ppn_0011",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  674
+ ]
+}

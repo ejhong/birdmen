@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "upright rectangular decorated stone surface",
+  "repeated abstract/geometric signs",
+  "circle or oval motifs",
+  "horizontal bands/register divisions",
+  "stylized creature- or head-like forms"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both are upright stone surfaces covered with repeated carved signs, including circular/oval forms and some horizontal banding or registers. The biggest difference is compositional: A is a dense, orderly grid of small glyph-like blocks in two vertical columns, while B has larger, sparse incised figures and bands spread irregularly across the stone.",
+ "a": "maya_0057",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1151,
+  661
+ ]
+}

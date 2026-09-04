@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  1,
+  8,
+  4,
+  6,
+  2,
+  5,
+  9,
+  3,
+  10
+ ],
+ "most_similar_reason": "Candidate 7 is most similar because it shows the same kind of schematic profile bird/winged creature with a prominent head, outlined body, and patterned feather-like internal infill as the target\u2019s main animal figure.",
+ "least_similar_reason": "Candidate 10 is least similar because it depicts mainly a large architectural/rock-cut facade with no comparable stylized animal figures, registers, or internal decorative conventions.",
+ "set": "moai_iso_among_random",
+ "i": 6,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "rapa_nui_hoa_iso",
+  "persepolis_0047",
+  "egypt_0006",
+  "tanum_0340",
+  "gotland_0003",
+  "tanum_0070",
+  "mississippian_0009",
+  "mississippian_0075",
+  "gotland_0005",
+  "egypt_0004"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "persepolis",
+  "mississippian",
+  "egypt",
+  "tanum",
+  "gotland",
+  "mississippian",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "gpt",
+ "planted_rank": 2
+}

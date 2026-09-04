@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  10,
+  4,
+  2,
+  8,
+  3,
+  1,
+  5,
+  6,
+  7
+ ],
+ "most_similar_reason": "Candidate 9 shows the same kind of tall, roughly anthropomorphic standing stone pillar carved in low relief with a belt-like band and arm/hand elements wrapping its body, matching the target pillar's combination of a stele-like body and shallow carved motifs.",
+ "least_similar_reason": "Candidate 7 depicts only clothed human figures standing face to face with sign-like symbols above, with no animals, no pillar form and a wholly different figural, human-centred iconography from the target's stacked profile creatures.",
+ "set": "moai_among_random",
+ "i": 26,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "assyria_0079",
+  "assyria_0090",
+  "gotland_0018",
+  "persepolis_0075",
+  "egypt_0050",
+  "egypt_0039",
+  "egypt_0074",
+  "assyria_0153",
+  "rapa_nui_0113",
+  "egypt_0020"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "assyria",
+  "persepolis",
+  "egypt",
+  "assyria",
+  "egypt",
+  "gotland",
+  "assyria",
+  "egypt",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

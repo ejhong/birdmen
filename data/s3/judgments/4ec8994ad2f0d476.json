@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human or humanoid figure with raised/outstretched arms",
+  "quadruped animal in profile",
+  "row of repeated short vertical marks forming a band",
+  "animal with elongated neck and head in profile (bird-like / snake-like)",
+  "schematic figures arranged in stacked registers"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces stack schematic figures in loose registers and both include a band of repeated short vertical strokes (oars/crew on A, comb-like teeth on B) plus profile animals and a raised-arm humanoid, which is the most specific correspondence but a very generic one. The subject matter otherwise diverges sharply: A shows a manned boat with a large striding human wielding a hafted implement, while B shows a row of crouching quadrupeds, predatory long-snouted beasts, a bird with a long neck and a snake-like sinuous form, with no boat, no weapon-bearing figure and a far more plastic, volumetric rendering versus A's flat linear silhouettes.",
+ "a": "tanum_0348",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  383
+ ]
+}

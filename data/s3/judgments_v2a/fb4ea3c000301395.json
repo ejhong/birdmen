@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "animals rendered in low relief in profile",
+  "quadruped with head/jaws shown in side view",
+  "anthropomorphic figure with arms bent toward the body",
+  "elongated serpentine/snake-like form",
+  "horizontal band of repeated pattern (zigzag/net) crossing the surface",
+  "bird-like creature with prominent head"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both surfaces combine a human-like figure with animals carved in raised, flat-bodied relief, and both include profile quadrupeds with heads/jaws turned to the side and serpentine forms, which is a real if broad correspondence in subject and carving convention. The compositions differ strongly, however: A is a single dominant, nearly free-standing frontal human figure with arms folded over the abdomen and animals symmetrically flanking it, whereas B is a multi-register assemblage of varied birds, quadrupeds, snake and geometric bands stacked one above another with no central dominant figure.",
+ "a": "anatolia_ppn_0011",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2848,
+  1136
+ ]
+}

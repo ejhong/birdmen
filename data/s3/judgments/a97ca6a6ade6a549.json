@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "large raptor/vulture-like bird with heavy hooked beak",
+  "bird shown in profile with rounded head",
+  "wing/plumage rendered as rows of parallel ridges or lines",
+  "bird with long neck and pointed beak (lower part of B / general avian repertoire)",
+  "schematic animal forms"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both depict a heavy-bodied raptorial bird with a strongly hooked beak whose plumage is conveyed by rows of parallel ridges, a reasonably specific shared motif rather than a generic 'bird'. However, A is a single isolated figure in the round with no scene, while B is a multi-register composition with a row of animals above a zigzag band, a bird with an outstretched wing over a disc, small subsidiary creatures and a long-necked bird below, so relationships and arrangement scarcely correspond.",
+ "a": "anatolia_ppn_0142",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  739
+ ]
+}

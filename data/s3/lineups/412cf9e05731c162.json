@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  3,
+  1,
+  4,
+  5,
+  6,
+  2,
+  8,
+  10,
+  9
+ ],
+ "most_similar_reason": "Candidate 7 is most similar because it shows a low-relief horizontal procession of profile human figures associated with animals, using comparable linear outline conventions and ordered frieze-like arrangement.",
+ "least_similar_reason": "Candidate 9 is least similar because it depicts a single abstract geometric knot/cross motif rather than profile humans, animals, or a narrative procession.",
+ "set": "same_control",
+ "i": 1,
+ "target": "persepolis_0100",
+ "planted": "persepolis_0063",
+ "cands": [
+  "assyria_0079",
+  "maya_0054",
+  "assyria_0109",
+  "assyria_0146",
+  "tanum_0317",
+  "assyria_0096",
+  "persepolis_0063",
+  "catalhoyuk_0026",
+  "gotland_0005",
+  "gotland_0118"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "gotland",
+  "assyria",
+  "maya",
+  "assyria",
+  "gotland",
+  "catalhoyuk",
+  "tanum",
+  "assyria",
+  "assyria"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

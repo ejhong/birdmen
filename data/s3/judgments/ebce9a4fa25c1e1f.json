@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "schematic boat in profile with upturned/hooked prow and stern",
+  "row of short vertical strokes along the hull representing crew",
+  "multiple boats of varying size scattered across the rock surface",
+  "small schematic human figures",
+  "cup-mark-like discs / small isolated marks",
+  "animal figure with horns/antlers (A) vs quadruped figures (B)"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "9",
+ "justification": "Both surfaces show the same highly distinctive scheme: profile boats with hooked, up-curled prow and stern lines whose hulls carry a comb-like row of short vertical crew strokes, one large boat dominating with smaller boats, tiny stick-figure humans and isolated dots scattered loosely across an open rock panel with no ground line or frame. The main differences are A's prominent horned/antlered animal and its pair of armed figures with staffs, versus B's denser cluster of many small boats and a hull with an internal grid of hull planking lines; these are variations within what looks like one iconographic tradition.",
+ "a": "tanum_0061",
+ "b": "tanum_0332",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3349,
+  384
+ ]
+}

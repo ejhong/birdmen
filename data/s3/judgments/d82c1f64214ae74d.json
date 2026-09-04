@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "concentric circle / ring with central dot (disc motif)",
+  "crescent or arc-shaped curvilinear motifs",
+  "crouching profile figures with large curved heads, rendered in low relief outline",
+  "paired/repeated motifs arranged in horizontal registers",
+  "band or girdle-like linear element"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "7",
+ "justification": "Both surfaces carry the same distinctive combination of low-relief, heavy-outlined crouching profile figures with large curved beaked heads placed in registers above a prominent concentric ring-and-dot disc, plus flanking crescent/arc motifs \u2014 a specific and non-obvious pairing rather than generic circles and animals. The clearest difference is that in A the motifs are laid out symmetrically and vertically as a designed composition on a shaped body (with a girdle band and arcs framing them), while in B they are scattered irregularly across an uneven natural surface with more crowding and overlap of figures.",
+ "a": "rapa_nui_0113",
+ "b": "rapa_nui_0073",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3124,
+  860
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "frontal anthropomorphic figure",
+  "face/head features",
+  "arms at the sides of a torso",
+  "central circular or oval body ornament",
+  "horizontal bands across the body",
+  "symmetrical body decoration"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces depict a front-facing human-like figure with a head/face, arms, torso ornaments, and horizontal banding or belt-like elements arranged symmetrically down the body. The biggest difference is that A is a very blocky, abstract figure with few large geometric motifs, while B is a detailed standing figure with elaborate headdress, feather/wing-like surround, costume, hands, and many fine ornamental details.",
+ "a": "rapa_nui_0113",
+ "b": "mississippian_0010",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1725,
+  686
+ ]
+}

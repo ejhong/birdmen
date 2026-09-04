@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human figure in relief on stone",
+  "stylized rendering of a head with patterned hair/headdress",
+  "incised curvilinear/circular motifs (rosettes in A, disc/ring forms in B)",
+  "low-relief carving of the human body"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces depict human figures in low relief on stone, and both include circular/disc motifs (rosette bands in A, ring-and-disc forms on B's back), but these are generic correspondences. A shows a narrative procession of profile figures leading horned animals past a tree within framed ornamental borders, while B is a single frontal/monolithic figure with a massive head and isolated, sparse abstract markings and no scene, narrative, animals or border at all.",
+ "a": "persepolis_0082",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3174,
+  296
+ ]
+}

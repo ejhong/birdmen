@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "anthropomorphic or human-like figure",
+  "body parts such as head/torso/arms",
+  "circle or disc motifs",
+  "incised linear/geometric detailing"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is that both surfaces include a human-like figure rendered with carved/incised outlines and associated circular or linear motifs. The major difference is that A is a highly schematic frontal anthropomorphic form with banding and discs on the body, while B shows a more naturalistic profile winged figure with detailed feathers, limbs, and surrounding inscription-like patterning.",
+ "a": "rapa_nui_0113",
+ "b": "assyria_0032",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1936,
+  670
+ ]
+}

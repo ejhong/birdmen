@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "horizontal band/register of pattern",
+  "repeated rectilinear/geometric motifs",
+  "linear carving on stone"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest correspondence is that both surfaces organize carved motifs into horizontal bands, including repeated rectilinear or grid-like patterning. The biggest difference is that A has large, deeply modeled figurative forms on an upright slab, while B is a low, horizontal boulder with much fainter, more linear and less legible incisions.",
+ "a": "anatolia_ppn_p43full",
+ "b": "maya_0070",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  605
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  4,
+  6,
+  3,
+  8,
+  1,
+  7,
+  10,
+  5,
+  2
+ ],
+ "most_similar_reason": "Candidate 9 is most similar because it likewise presents a compact, frontal, mask-like or creature-like carved design with paired rounded eye/scroll forms, curving bands, and dense schematic relief arranged on an upright surface.",
+ "least_similar_reason": "Candidate 2 is least similar because it lacks the target\u2019s frontal mask/face structure, paired circular features, bold curvilinear bands, and glyph-like surface organization, instead showing a very different isolated painted form in an architectural setting.",
+ "set": "p43_iso_among_monoliths",
+ "i": 34,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0115",
+  "egypt_0061",
+  "maya_0052",
+  "maya_0005",
+  "maya_0077",
+  "gotland_0026",
+  "egypt_0063",
+  "maya_0051",
+  "anatolia_ppn_p43iso",
+  "maya_0105"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "egypt",
+  "maya",
+  "gotland"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

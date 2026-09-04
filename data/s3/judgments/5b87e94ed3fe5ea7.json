@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "horizontal band of repeated vertical rectangular/stroke-like signs",
+  "triangular or zigzag geometric band",
+  "stacked/register-like organization"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The most specific correspondence is a horizontal belt in which a row of repeated upright strokes/rectangles is paired with a band of triangles or zigzags beneath it. The biggest difference is that A includes many figurative animal-like forms and multiple carved registers, while B is dominated by a rounded schematic figure/outline with a much simpler central geometric band and few comparable creatures or scenes.",
+ "a": "anatolia_ppn_p43full",
+ "b": "gotland_0123",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  667
+ ]
+}

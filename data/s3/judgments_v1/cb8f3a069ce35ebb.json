@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "profile animal figures",
+  "bird-like figure in profile",
+  "wavy snake-like form",
+  "small circular or disc motifs",
+  "geometric patterned areas"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest specific correspondences are the shallow carved, outline-based profile animals and serpentine/wavy forms combined with small geometric motifs on upright stone surfaces. The biggest difference is compositional: A is organized in stacked horizontal registers with no dominant human figure, while B centers on a standing human-like figure surrounded by subsidiary motifs.",
+ "a": "anatolia_ppn_p43full",
+ "b": "maya_0110",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  647
+ ]
+}

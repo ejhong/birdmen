@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  1,
+  5,
+  9,
+  3,
+  8,
+  7,
+  10,
+  2,
+  4
+ ],
+ "most_similar_reason": "Candidate 6 shows the same kind of tall pillar-shaped surface covered with low-relief animals and abstract signs stacked in vertical registers, in the same schematic profile-outline style as the target's birds, quadruped and snake.",
+ "least_similar_reason": "Candidate 4 depicts a single large striding beast confronted with a human figure in a framed panel, with no stacked registers of varied animals, no snake, and no geometric bands or anthropomorphic pillar elements like the target's.",
+ "set": "hard",
+ "i": 8,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "tanum_0359",
+  "gotland_0116",
+  "egypt_0012",
+  "gotland_0115",
+  "egypt_0027",
+  "maya_0047",
+  "gotland_0125",
+  "gotland_0123",
+  "gotland_0133",
+  "rapa_nui_0113"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "gotland",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 8
+}

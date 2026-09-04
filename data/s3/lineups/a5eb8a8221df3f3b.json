@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  2,
+  3,
+  10,
+  5,
+  8,
+  1,
+  9,
+  7,
+  6
+ ],
+ "most_similar_reason": "Candidate 4, like the target, shows animals rendered in profile low relief with patterned surface infill, repeated and aligned in a band across the surface, which matches the target's registers of profile creatures.",
+ "least_similar_reason": "Candidate 6 presents an essentially blank slab with only faint indistinct traces, offering no identifiable creatures, figures or motifs that could correspond to the target's clearly articulated animals and geometric bands.",
+ "set": "moai_among_random",
+ "i": 30,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "egypt_0040",
+  "assyria_0059",
+  "maya_0085",
+  "persepolis_0095",
+  "maya_0048",
+  "egypt_0077",
+  "rapa_nui_0113",
+  "egypt_0063",
+  "maya_0024",
+  "maya_0052"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "maya",
+  "persepolis",
+  "maya",
+  "egypt",
+  "assyria",
+  "maya",
+  "egypt",
+  "maya",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 9
+}

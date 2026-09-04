@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "boat shown in profile with upturned/hooked prow and stern",
+  "row of short vertical strokes (crew strokes) along the hull",
+  "double-line hull with keel extension",
+  "multiple boats stacked in parallel rows on a rock surface",
+  "smaller partial/abbreviated boat images"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "9",
+ "justification": "Both surfaces depict the same highly specific motif: schematic profile ships with doubled hull lines, upturned hooked prow/stern terminals, and a comb-like row of short vertical crew strokes rising from the gunwale, repeated as several parallel vessels of varying size stacked one above another across the rock. The only differences are incidental counts and completeness of individual boats (B includes a couple of small isolated fragments), not any difference in subject or convention.",
+ "a": "tanum_0026",
+ "b": "tanum_0076",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3174,
+  323
+ ]
+}

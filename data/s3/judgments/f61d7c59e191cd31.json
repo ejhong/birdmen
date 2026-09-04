@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figure in strict profile",
+  "elaborately curled/stylized hair and beard rendered as patterned rows",
+  "low relief carving of figures on a flat ground",
+  "figure holding an object in a raised hand",
+  "patterned garment/fringe rendered with rows of incised detail",
+  "muscular bare forearm with modeled detail"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show low-relief profile human figures with the same highly conventional treatment of tightly curled beard and hair rendered as regular rows of incised curls, with heavy modeled forearms and fringed patterned drapery, which is a specific shared convention rather than a generic one. The subjects differ substantially, however: A is a horizontal procession of attendants leading horned rams beside a stylized tree, while B is a single large winged figure holding a bucket-like and cone-like attribute with no animals or procession.",
+ "a": "persepolis_0069",
+ "b": "assyria_0034",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3149,
+  335
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "anthropomorphic figure carved in the round",
+  "human head with schematic large facial features",
+  "patterned/incised head covering or cap with parallel and cross-hatched lines",
+  "curved raised bands or ridges on the body",
+  "circular / concentric ring motif",
+  "broad horizontal band or girdle across the body"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both depict a massive blocky anthropomorphic figure whose surface carries low-relief and incised secondary ornament, most specifically a patterned head covering rendered as ruled/cross-hatched lines over the crown, plus curved ridges and a ring-and-band motif on the body of B that has some counterpart in the ridged forms of A. The biggest difference in depicted content is that A foregrounds a fully modelled face with deep-set eyes, nose and mouth beneath a net-like cap, while B shows an essentially featureless torso with isolated disc, arc and girdle motifs, so the specific combinations and placements of the ornaments do not correspond.",
+ "a": "anatolia_ppn_0260",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3174,
+  979
+ ]
+}

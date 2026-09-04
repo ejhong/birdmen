@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "quadruped animal shown in profile",
+  "animal body with legs indicated"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both depict quadruped animals in profile, but that is essentially the only shared content: A is a single massive, volumetric, naturalistically modelled beast rendered in the round with a detailed head, while B shows multiple thin, schematic linear animals (and radiating line motifs) distributed in registers across a broad surface. There is no shared relationship, grouping or compositional scheme, and the rendering conventions (solid modelled mass vs. flat stick-like silhouettes) are quite different.",
+ "a": "anatolia_ppn_0144",
+ "b": "catalhoyuk_0026",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  256
+ ]
+}

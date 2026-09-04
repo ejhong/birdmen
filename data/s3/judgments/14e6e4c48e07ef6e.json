@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "frontal standing anthropomorphic figure",
+  "central circular or disc-like motif on the body",
+  "bilateral body parts/appendages"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict a centrally arranged frontal human-like figure, and the most specific shared feature is a circular motif placed around the torso or abdomen area. The major difference is that A is a massive full-bodied figure with face, breasts, and body markings, while B is a very schematic stick-like figure associated with a large horizontal comb- or boat-like form above it.",
+ "a": "rapa_nui_0113",
+ "b": "tanum_0240",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  648
+ ]
+}

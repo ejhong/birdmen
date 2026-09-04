@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  9,
+  6,
+  4,
+  3,
+  2,
+  7,
+  1,
+  10,
+  5
+ ],
+ "most_similar_reason": "Candidate 8 is most similar because it shows a vertical carved surface covered with schematic relief animals and signs arranged in stacked/adjacent groupings, closely matching the target\u2019s low-relief animal-focused iconography and drawing style.",
+ "least_similar_reason": "Candidate 5 is least similar because it is organized as a formal human offering/inscription scene with seated and standing figures and text bands, rather than the target\u2019s sparse arrangement of schematic animal motifs.",
+ "set": "same_control_monoliths",
+ "i": 22,
+ "target": "anatolia_ppn_0207",
+ "planted": "anatolia_ppn_0045",
+ "cands": [
+  "egypt_0065",
+  "maya_0114",
+  "maya_0092",
+  "anatolia_ppn_0045",
+  "egypt_0043",
+  "maya_0069",
+  "gotland_0131",
+  "maya_0137",
+  "egypt_0061",
+  "egypt_0046"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "maya",
+  "gotland",
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 4
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "low-relief carving on a flat upright slab (stela/panel format)",
+  "script signs/glyphs organized in rows",
+  "rectangular framed field with register divisions",
+  "human/anthropomorphic profile elements (figures in A; profile faces within glyphs in B)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both are upright relief-carved slabs bearing script signs arranged in horizontal registers, and both include profile anthropomorphic heads, but these are broadly generic monumental conventions. A shows a figural scene\u2014two standing figures facing each other, one holding a staff, beneath an arched winged/celestial canopy with a disc, with only a small caption of signs\u2014whereas B is an entirely textual grid of blocky glyph cartouches with no scene, no standing figures, and no arched frame.",
+ "a": "egypt_0048",
+ "b": "maya_0011",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3024,
+  327
+ ]
+}

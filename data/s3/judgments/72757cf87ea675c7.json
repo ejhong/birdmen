@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "animal figures in profile",
+  "linear/repeated marks in a horizontal row or band",
+  "schematic anthropomorphic or limb-like figures"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific overlap is that both surfaces include profile animals and rows of repeated short marks arranged horizontally. The biggest difference is that B is dominated by a long boat-like form with many vertical strokes, while A is a multi-register composition of varied carved creatures, geometric bands, and possible anthropomorphic forms with no comparable boat scene.",
+ "a": "anatolia_ppn_p43full",
+ "b": "tanum_0236",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  656
+ ]
+}

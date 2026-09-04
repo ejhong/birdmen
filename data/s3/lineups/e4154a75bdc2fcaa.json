@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  9,
+  4,
+  5,
+  6,
+  1,
+  8,
+  10,
+  2,
+  7
+ ],
+ "most_similar_reason": "Candidate 3 is most similar because it also presents a frontal, schematic anthropomorphic figure on a rounded upright surface, with body-like forms combined with incised geometric compartments and symbols.",
+ "least_similar_reason": "Candidate 7 is least similar because it is an ornamental horizontal band of rosettes and border patterns rather than a frontal anthropomorphic image with body parts and symbolic incisions.",
+ "set": "p43_among_random",
+ "i": 34,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "maya_0146",
+  "tanum_0129",
+  "egypt_0048",
+  "maya_0051",
+  "anatolia_ppn_p43full",
+  "tanum_0359",
+  "assyria_0063",
+  "egypt_0020",
+  "egypt_0040",
+  "gotland_0118"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "assyria",
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "tanum",
+  "gotland",
+  "tanum",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 4
+}

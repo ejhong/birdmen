@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  8,
+  2,
+  4,
+  7,
+  6,
+  9,
+  5,
+  3,
+  10
+ ],
+ "most_similar_reason": "Candidate 1 is, like the target, an upright carved slab/pillar bearing low-relief schematic body parts and a central disc/emblem arranged in vertical zones on a shaped stone form, the closest match in both the kind of imagery and its relief treatment.",
+ "least_similar_reason": "Candidate 10 shows a bare quarried rock face with no depicted creatures, figures, symbols or patterned bands at all, so it shares no iconographic content with the target's registers of animals and chevron bands.",
+ "set": "moai_iso_among_random",
+ "i": 6,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "rapa_nui_hoa_iso",
+  "persepolis_0047",
+  "egypt_0006",
+  "tanum_0340",
+  "gotland_0003",
+  "tanum_0070",
+  "mississippian_0009",
+  "mississippian_0075",
+  "gotland_0005",
+  "egypt_0004"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "persepolis",
+  "mississippian",
+  "egypt",
+  "tanum",
+  "gotland",
+  "mississippian",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

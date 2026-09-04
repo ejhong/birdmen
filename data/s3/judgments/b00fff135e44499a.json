@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "large monolithic anthropomorphic figure carved in the round",
+  "carved circular disc/boss on the torso",
+  "curved band or belt crossing the body below the disc",
+  "paired scroll/spiral or lozenge motifs above the disc",
+  "vertical incised relief panels on upper body/head",
+  "small carved boss low on the body"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "10",
+ "justification": "Both show the identical scheme: a tall blocky anthropomorphic monolith with a central circular disc on the chest, paired curvilinear motifs above it, a curved belt-like band below, an inverted V/chevron beneath that, and a small boss low on the body; A is simply a close view of the same torso that B shows in full, including the head with vertical incised lines. The only difference in depicted content is framing\u2014A omits the head and upper carvings visible in B\u2014so no genuine iconographic divergence exists.",
+ "a": "rapa_nui_0046",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2974,
+  335
+ ]
+}

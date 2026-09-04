@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "human figures in strict profile",
+  "bearded figures with long patterned hair/headdress",
+  "figures with raised arms holding objects",
+  "low-relief narrative register",
+  "horizontal border band framing the scene (inscription band / rosette band)",
+  "floral / rosette-like vegetal motifs",
+  "patterned garment folds rendered as repeated parallel lines"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces show shallow-relief human figures in strict profile with elaborately curled beards/hair and finely striated drapery, arranged in a single horizontal register bounded by a decorative/inscribed band, and both include stylised floral rosette forms. However, A is a symmetrical heraldic composition of winged attendants flanking a stylised sacred tree, while B is a one-directional procession of men leading a camel, so the relationships between figures (mirrored flanking versus linear leading) and the presence of a large animal differ substantially.",
+ "a": "assyria_0153",
+ "b": "persepolis_0079",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  697
+ ]
+}

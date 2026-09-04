@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "quadruped animal shown in profile",
+  "low-relief animal with arched back and bent, angular legs",
+  "animal carved on the shaft of a large upright slab/pillar with a distinct horizontal upper block",
+  "schematic outline relief with flat interior"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both surfaces show a schematic profile quadruped in flat low relief, with elongated body, arched back and angular bent legs, placed on the broad face of an upright slab beneath a projecting horizontal upper element, which is a fairly specific shared convention. The decisive difference is density and composition: A is a crowded multi-register scene combining several animals, a human-like figure, a bird, a zigzag/net band, plant-like motif and repeated rectangular signs interacting with one another, whereas B presents a single isolated animal on an otherwise blank field with no relationships to other elements.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0212",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  866
+ ]
+}

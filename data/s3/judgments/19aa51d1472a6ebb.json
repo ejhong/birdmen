@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "profile bird- or beak-headed figure/creature",
+  "eye rendered as a simple oval or circle",
+  "circular disc motif",
+  "feather or wing indicated by repeated parallel/radiating lines",
+  "linear geometric bands or striping"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is the schematic profile creature with a prominent beak-like head and incised internal details, especially feather/wing-like areas rendered with repeated linear strokes. The biggest difference is that A is a single large composite bust or figure dominated by a head, disc and wing, while B is a multi-register scene with several separate animals and geometric bands rather than the same unified iconographic arrangement.",
+ "a": "mississippian_0001",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1725,
+  655
+ ]
+}

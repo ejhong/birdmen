@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "animal/creature shown in profile"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "The only real overlap is that both surfaces include profile animal forms, but A shows multiple schematic creatures, signs, patterned bands and a human-like figure, while B shows a single large naturalistic quadruped. There is no shared iconographic scheme: A is a multi-register symbolic composition, whereas B is an isolated animal study with no comparable surrounding motifs or relationships.",
+ "a": "anatolia_ppn_p43full",
+ "b": "rapa_nui_0122",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  647
+ ]
+}

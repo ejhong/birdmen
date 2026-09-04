@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "standing human figure in profile",
+  "bearded/curled-hair male head in profile",
+  "long fringed or patterned garment",
+  "figure holding a staff-like or rod-like object in one hand",
+  "raised/bent arm holding an object",
+  "low-relief figures aligned along a single register with feet on a groundline"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both show bearded male figures in strict profile, in shallow relief, wearing long detailed garments and grasping a rod/staff-like object, rendered with the same conventions of patterned hair and beard and a firm groundline. But the depicted subjects diverge sharply: A is a single large winged supernatural figure with raised hand and no companions or borders, while B is a multi-figure procession leading a two-humped camel, framed above and below by continuous rosette bands.",
+ "a": "assyria_0051",
+ "b": "persepolis_0058",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3224,
+  673
+ ]
+}

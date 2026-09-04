@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  9,
+  1,
+  10,
+  8,
+  6,
+  2,
+  7,
+  3,
+  5
+ ],
+ "most_similar_reason": "Candidate 4 is most similar because it shows a carved-looking surface organized in horizontal bands with schematic profile animal/figure motifs and repeated linear signs, matching the target\u2019s registered arrangement and stylized relief iconography.",
+ "least_similar_reason": "Candidate 5 is least similar because it depicts a single frontal mask-like human face, with none of the target\u2019s banded layout, profile creatures, small schematic figures, or repeated linear motifs.",
+ "set": "moai_iso_among_random",
+ "i": 26,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "tanum_0333",
+  "persepolis_0070",
+  "rapa_nui_hoa_iso",
+  "egypt_0017",
+  "mississippian_0008",
+  "persepolis_0073",
+  "maya_0060",
+  "maya_0111",
+  "tanum_0060",
+  "tanum_0325"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "tanum",
+  "egypt",
+  "tanum",
+  "mississippian",
+  "tanum",
+  "maya",
+  "persepolis",
+  "maya",
+  "persepolis"
+ ],
+ "model": "gpt",
+ "planted_rank": 9
+}

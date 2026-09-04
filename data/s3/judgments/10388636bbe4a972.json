@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "human figures",
+  "multiple figures grouped in a scene"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "The only genuine correspondence is that both surfaces show human figures in a multi-figure composition; A shows a formal relief stela with a symmetrical group of standing/adoring figures beneath a winged disc above dense horizontal registers of script, while B shows a scattered field of small, animated silhouette figures with flailing limbs and no ordered registers, framing, or accompanying signs. The conventions of depiction are opposite: rigid, static, hierarchical and detailed in A versus dynamic, dancing, monochrome stick-like silhouettes in B, so nothing suggests a shared iconographic tradition.",
+ "a": "egypt_0059",
+ "b": "catalhoyuk_0025",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  292
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "horizontal register/dividing bands",
+  "repeated linear ornament",
+  "profile figures",
+  "circle or disc-like forms",
+  "carved low-relief decoration on a stone slab"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both are upright carved stone surfaces divided by horizontal bands/registers, with profile figures and disc-like motifs included among the relief decoration. The biggest difference is compositional: A is crowded with larger animal-like and abstract motifs on an irregular rectangular support, while B has a rounded-topped, framed, more symmetrical scene centered on standing human figures and ordered registers.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0048",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  664
+ ]
+}

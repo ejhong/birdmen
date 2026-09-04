@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "rosette motifs",
+  "human figures in profile with long fringed/pleated robes",
+  "hand/arm holding a small object or vessel",
+  "low-relief frieze arranged in a horizontal register",
+  "patterned detailing on garments and hair/beard",
+  "band of repeated ornament beside the figural scene"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both surfaces show shallow-relief profile figures in long, minutely patterned fringed robes whose extended hand grasps a small object, set beside a field of multi-petalled rosettes used as a repeating decorative filler \u2014 a fairly specific combination of drapery convention, rosette motif and offering gesture. The chief difference in content is that B is dominated by a large panel of dense repeated wedge-sign writing and shows only fragments of figures, whereas A shows a continuous ordered procession of five bowl-bearing attendants with a leading figure clasping hands, with no inscription.",
+ "a": "persepolis_0105",
+ "b": "assyria_0015",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  820
+ ]
+}

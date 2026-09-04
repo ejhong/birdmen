@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  7,
+  3,
+  10,
+  8,
+  2,
+  4,
+  6,
+  9,
+  1
+ ],
+ "most_similar_reason": "Candidate 5 likewise shows an upright monolithic pillar bearing a single schematic animal rendered in shallow raised outline relief, with the creature's limbs and body reduced to simple flat bands like the ducks and quadrupeds on the target.",
+ "least_similar_reason": "Candidate 1 depicts no creatures, figures or motifs at all \u2014 only a bare panel with rows of linear sign-like marks \u2014 so it shares none of the target's animal iconography or registered relief composition.",
+ "set": "moai_iso_among_monoliths",
+ "i": 26,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "gotland_0004",
+  "egypt_0073",
+  "gotland_0117",
+  "egypt_0039",
+  "egypt_0061",
+  "egypt_0074",
+  "rapa_nui_hoa_iso",
+  "maya_0052",
+  "egypt_0066",
+  "maya_0088"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "gotland",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

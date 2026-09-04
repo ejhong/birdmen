@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "large bird in profile with striated/hatched wing",
+  "predatory quadruped head in profile",
+  "sinuous snake-like body",
+  "animals stacked in superposed horizontal registers on a tall vertical surface",
+  "horizontal band of repeated pattern separating registers",
+  "row of repeated animal heads",
+  "small object/bag-like rectangular element"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both surfaces present a tall vertical field divided into superposed registers in which schematic profile animals \\u0097 notably a big-beaked bird with a linearly striated wing, snaky sinuous bodies and repeated predator heads in a row \\u0097 are stacked one above another, with a band of repeated motifs acting as a divider; this combination of stacked animal registers plus a dominant bird is a fairly specific correspondence. The chief differences are that A's central motif is a pair of interlaced/crossed sinuous bodies flanked by heads and a strictly mirror-symmetrical pair of confronted birds, whereas B distributes its creatures asymmetrically across the field with a descending quadruped and a long-necked bird and no confronted mirror pairing.",
+ "a": "anatolia_ppn_0174",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2874,
+  963
+ ]
+}

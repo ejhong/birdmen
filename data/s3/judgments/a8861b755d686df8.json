@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low-relief carved figural scene",
+  "human figure(s) in profile",
+  "hand/arm rendered in profile with detailed fingers",
+  "dense small-scale repeated surface texture (scale-like or dotted patterning)",
+  "rosette / floral roundel motifs",
+  "horizontal register band organising the scene"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both are shallow relief scenes with profile human figures whose hands and garments are rendered with dense, small repeated patterning, arranged in a horizontal register with rosette-like floral roundels appearing in the field; the treatment of fingers and of textured surfaces is comparable. However, B shows a specific scene of two attendants leading horned rams, while A shows a band of foliage/rosettes, textiles and a lone hand with no animals at all, so the actual subject matter and the relationships between elements differ substantially.",
+ "a": "assyria_0015",
+ "b": "persepolis_0064",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  334
+ ]
+}

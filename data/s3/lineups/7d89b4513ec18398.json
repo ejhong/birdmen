@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  7,
+  8,
+  4,
+  6,
+  9,
+  3,
+  2,
+  1,
+  10
+ ],
+ "most_similar_reason": "Candidate 5 shows the same combination as the target: a single upright slab-shaped monument whose whole face is filled with a human figure in elaborate headdress surrounded by densely packed sign-like carved elements, i.e. a figural stela with accompanying script rather than a plain surface or an open narrative scene.",
+ "least_similar_reason": "Candidate 10 shows only abstract curvilinear/spiral grooves on a boulder, with no human figures, no offering or scene relationships and no sign-like script, so it shares essentially nothing with the target's figural-plus-inscription composition.",
+ "set": "same_control",
+ "i": 37,
+ "target": "egypt_0073",
+ "planted": "egypt_0017",
+ "cands": [
+  "tanum_0240",
+  "maya_0000",
+  "rapa_nui_0044",
+  "persepolis_0061",
+  "maya_0106",
+  "maya_0147",
+  "assyria_0131",
+  "persepolis_0026",
+  "egypt_0017",
+  "rapa_nui_0108"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "tanum",
+  "maya",
+  "maya",
+  "rapa_nui",
+  "rapa_nui",
+  "assyria",
+  "maya",
+  "persepolis",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 6
+}

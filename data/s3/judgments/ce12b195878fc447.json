@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "standing human figure in low relief",
+  "figure holding an object in the hand",
+  "elaborate headdress / headgear",
+  "carved relief on a stone slab surface",
+  "garment with belt/sash indicated"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both depict standing human figures in relief wearing headgear and holding objects, but that is a near-universal convention; A shows a single frontal, densely ornamented figure whose body is engulfed in dense glyph-like and mask motifs filling every space, while B shows a repeated procession of plain profile figures each carrying a bowl or vessel with generous blank ground. The proportions, the profile-versus-frontal orientation, the serial repetition versus single dominating figure, and the presence of script-like ornament in A make the depicted schemes fundamentally unrelated.",
+ "a": "maya_0101",
+ "b": "persepolis_0012",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3199,
+  316
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  6,
+  7,
+  5,
+  8,
+  9,
+  3,
+  10,
+  1,
+  4
+ ],
+ "most_similar_reason": "Candidate 2, like the target, is a large upright monolith whose broad face is treated as a schematic anthropomorphic body, with low-relief creatures, arm-like elements and symbolic motifs laid out in registers over the shaft.",
+ "least_similar_reason": "Candidate 4 shows essentially a bare slab with no legible figures, symbols or arrangement of motifs, so there is nothing in its depicted content that corresponds to the target's carved figure and its relief emblems.",
+ "set": "p43_among_random",
+ "i": 39,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "tanum_0034",
+  "anatolia_ppn_p43full",
+  "tanum_0317",
+  "maya_0081",
+  "tanum_0060",
+  "assyria_0015",
+  "assyria_0095",
+  "persepolis_0110",
+  "mississippian_0075",
+  "tanum_0067"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "assyria",
+  "assyria",
+  "tanum",
+  "persepolis",
+  "maya",
+  "tanum",
+  "tanum",
+  "mississippian",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

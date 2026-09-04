@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "profile living figures with outlined heads and eyes",
+  "repeated parallel-line or hatch/fringe motifs",
+  "vertical linear elements"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The limited correspondences are generic: both use outlined living forms with eyes and areas of repeated linear hatching or fringe-like patterning. The major difference is that A centers on a single standing human or human-like figure holding a vertical staff, while B is organized as stacked registers of animals, symbols, and patterned bands with no comparable central staff-bearing figure.",
+ "a": "persepolis_0037",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1883,
+  660
+ ]
+}

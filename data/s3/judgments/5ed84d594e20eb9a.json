@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "standing anthropomorphic/human figure",
+  "circular or disc-like motifs",
+  "incised linear patterning on the figure"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces include an anthropomorphic standing figure and some circular/disc-like and linear incised motifs, but these are broad correspondences rather than a distinctive shared iconographic scheme. The biggest difference is that A is a highly schematic frontal body-like figure dominated by geometric body markings, while B shows a more naturalistic profile winged figure interacting with a plant or standard at the side.",
+ "a": "rapa_nui_0113",
+ "b": "assyria_0096",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  665
+ ]
+}

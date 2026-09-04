@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "quadruped mammal shown in strict profile, low relief",
+  "bird-like creatures in profile in a lower zone",
+  "animals stacked in horizontal registers on a flat upright panel",
+  "raised-relief silhouettes with modelled interior detail (limbs, ribs, snout)",
+  "narrow band/edge motif framing the animal field"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both surfaces present animals as raised, silhouetted profile figures arranged in stacked horizontal registers on a flat upright panel, with a large quadruped shown side-on above smaller bird-like creatures below, and both render legs, snout and body mass in the same modelled-relief convention rather than incised outline. The difference is in the specific inventory and density: A carries a richer programme (a row of identical crouching quadrupeds along the top, a woven/hatched band, long-necked birds, a snake and a fox-like animal), while B shows essentially one dominant animal with a sparse lower register, so the correspondence is at the level of shared conventions rather than the same scene.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0207",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  680
+ ]
+}

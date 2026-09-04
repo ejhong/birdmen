@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  9,
+  10,
+  4,
+  1,
+  2,
+  5,
+  3,
+  7,
+  6
+ ],
+ "most_similar_reason": "Candidate 8, like the target, is a free-standing rough-hewn upright block bearing a single large animal rendered in low relief that projects from the stone body, with the creature's limbs laid along the block's face in the same schematic, low-relief manner.",
+ "least_similar_reason": "Candidate 6 shows only an evenly spaced frieze of near-identical clothed human figures in procession, with none of the target's animals (quadruped, snake, bird) or its abstract sign-like motifs arranged in stacked registers on a monolithic pillar.",
+ "set": "moai_close_among_random",
+ "i": 29,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "gotland_0018",
+  "persepolis_0108",
+  "mississippian_0006",
+  "assyria_0119",
+  "tanum_0317",
+  "persepolis_0105",
+  "persepolis_0047",
+  "maya_0097",
+  "rapa_nui_0004",
+  "maya_0106"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "assyria",
+  "maya",
+  "persepolis",
+  "mississippian",
+  "persepolis",
+  "maya",
+  "persepolis",
+  "tanum",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "standing/frontal anthropomorphic figure carved on an upright slab",
+  "elaborate headdress or headgear atop the figure",
+  "low-relief carving covering the whole face of a vertical monument",
+  "ornamental pectoral/chest elements and disc-like motifs",
+  "secondary small motifs framing the main figure"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces present a single vertically oriented monument whose whole face is occupied by an elaborately adorned anthropomorphic figure crowned by a large headdress, with disc/rosette-like ornaments on the chest region and smaller motifs framing the head, a fairly specific shared scheme. However, A shows a detailed, richly costumed figure in profile-ish action with an arm holding an object and dense glyph-like blocks in registers, while B is far more schematic and massive, a blocky faceless torso with a few incised curves and no narrative or sign-like accompanying elements.",
+ "a": "maya_0092",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3024,
+  363
+ ]
+}

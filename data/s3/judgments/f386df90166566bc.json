@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "frontal anthropomorphic figure carved in the round from a block",
+  "schematic face with emphasised eyes and brow ridge",
+  "head set atop a broadly rectangular columnar body",
+  "carved raised relief details on the body/head surface"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both depict a frontal, blocky, highly schematic anthropomorphic figure in which a face with emphasised brow and eyes surmounts a columnar, roughly rectangular body, which is a fairly general but real correspondence in conception. They differ markedly in the specific facial convention (A has huge protruding globular eyes under swollen arched brows and no clear nose or mouth, while B has a long straight nose, sunken slit eyes and a defined chin) and in that B adds a whole vocabulary of body iconography \u2014 headdress bands, discs and concentric circles on the chest, arms and a belt \u2014 none of which appears in A.",
+ "a": "anatolia_ppn_0247",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3149,
+  790
+ ]
+}

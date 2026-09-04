@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "human or anthropomorphic figure",
+  "profile depiction of living beings",
+  "linear incised/relief detailing"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The only meaningful overlap is very generic: both include living beings rendered largely in profile and at least one human or human-like figure, with linear detailing. The biggest difference is that A is dominated by a single naturalistic standing, bearded human holding a vertical staff, while B is a multi-register composition of schematic animals, symbols, and repeated motifs with no comparable central staff-bearing figure.",
+ "a": "persepolis_0067",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1883,
+  663
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic human or anthropomorphic figure",
+  "incised linear signs or symbols",
+  "circle or disc motifs",
+  "horizontal bands or rows of markings"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The main shared content is very general: both include schematic human-related imagery and incised symbolic/geometric markings, including some circular forms and horizontal linear organization. The biggest difference is that A is dominated by one large frontal anthropomorphic body with motifs on it, while B is a dense gridded inscription-like field with many small signs and small profile human figures at the bottom.",
+ "a": "rapa_nui_0113",
+ "b": "egypt_0075",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  567
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "low-relief carving on a stone surface",
+  "registers/columns of repeated units filling the field",
+  "stylized human faces/heads (in A's glyph blocks) and human figures (in B)",
+  "dense, ordered repetition across the whole surface"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The only real correspondence is that both are relief-carved surfaces filled with dense, orderly repeated units \u2014 a double column of square glyph blocks in A versus a horizontal file of standing human figures in B \u2014 and both include stylized human heads, though in A only as tiny elements inside sign-blocks. B depicts a narrative procession of full-length bearded figures in profile with tall headdresses, robes, and held objects (a bird, a vessel), interacting with smaller attendants, whereas A depicts no scene at all, only a script-like grid of enclosed, cartouche-framed signs; the depicted content, relationships and conventions are essentially unrelated.",
+ "a": "maya_0146",
+ "b": "persepolis_0025",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2924,
+  359
+ ]
+}

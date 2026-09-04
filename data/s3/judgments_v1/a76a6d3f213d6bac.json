@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "upright carved stone surface",
+  "horizontal registers or bands of decoration",
+  "rounded rectangular or block-like carved compartments",
+  "curving/spiral motifs",
+  "small circular or oval forms"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both surfaces are upright stones covered with shallow carving arranged partly in stacked horizontal zones, including block-like and curving motifs. The biggest difference is that A appears dominated by dense, abstract glyph-like panels on a narrow weathered monolith, while B has larger, more open figurative reliefs and bands on a broad slab.",
+ "a": "maya_0152",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1019,
+  592
+ ]
+}

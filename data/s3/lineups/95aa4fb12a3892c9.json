@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  5,
+  1,
+  4,
+  2,
+  3,
+  7,
+  8,
+  10,
+  9
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it shows schematic low-relief profile figures/creatures arranged vertically with horizontal divisions and simple incised internal details, closely matching the target\u2019s stacked, linear animal/creature iconography.",
+ "least_similar_reason": "Candidate 9 is least similar because it presents an isolated human-like sculptural body with ornament rather than a flat register-based composition of profile animals, creatures, or repeated carved signs like the target.",
+ "set": "moai_iso_among_random",
+ "i": 25,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "persepolis_0110",
+  "gotland_0124",
+  "assyria_0116",
+  "assyria_0034",
+  "egypt_0047",
+  "maya_0105",
+  "egypt_0069",
+  "assyria_0063",
+  "rapa_nui_hoa_iso",
+  "maya_0050"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "persepolis",
+  "assyria",
+  "egypt",
+  "maya",
+  "egypt",
+  "assyria",
+  "maya",
+  "gotland",
+  "assyria"
+ ],
+ "model": "gpt",
+ "planted_rank": 10
+}

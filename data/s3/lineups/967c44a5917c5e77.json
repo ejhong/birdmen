@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  4,
+  6,
+  3,
+  7,
+  8,
+  5,
+  2,
+  9,
+  1
+ ],
+ "most_similar_reason": "Candidate 10 is most similar because it shows the same kind of vertically stacked, densely carved, highly stylized relief imagery with mask-like/zoomorphic forms, glyph-like bands, and segmented registers rather than a single naturalistic scene.",
+ "least_similar_reason": "Candidate 1 is least similar because it depicts a simple naturalistic animal in profile with little surrounding iconographic structure, unlike the target\u2019s complex stacked schematic motifs and glyph-like relief composition.",
+ "set": "moai_iso_among_random",
+ "i": 18,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "assyria_0110",
+  "persepolis_0095",
+  "maya_0111",
+  "maya_0019",
+  "maya_0146",
+  "maya_0026",
+  "rapa_nui_hoa_iso",
+  "mississippian_0011",
+  "persepolis_0085",
+  "maya_0094"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "assyria",
+  "maya",
+  "persepolis",
+  "persepolis",
+  "mississippian"
+ ],
+ "model": "gpt",
+ "planted_rank": 5
+}

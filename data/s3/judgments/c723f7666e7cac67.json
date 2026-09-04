@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "large schematic anthropomorphic front-facing figure or body-shaped form",
+  "paired circular eye-like depressions",
+  "central circular ring or disc on the face/torso",
+  "curving brow or moustache-like lines above the central circle",
+  "multiple parallel arched bands across the middle",
+  "short vertical incised strokes hanging below the arched bands",
+  "small circular mark near the lower center",
+  "incised linear motifs on the upper portion"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "9",
+ "justification": "The strongest correspondence is the distinctive face/body scheme: two round depressions flank a central circular ring, with curving lines above and several parallel arched bands below, followed by short vertical strokes and a small lower circle. The main difference is that B shows more of the upper decorated head or neck with additional incised linear motifs, while A is cropped closer to the lower front design.",
+ "a": "rapa_nui_0046",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  654
+ ]
+}

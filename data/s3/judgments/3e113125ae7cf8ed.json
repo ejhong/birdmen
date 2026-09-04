@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "central anthropomorphic figure",
+  "head and torso/body indicated on a vertical surface",
+  "circular or ring-like motifs on the body",
+  "linear incised/geometric markings"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main correspondence is that both surfaces center a human-like body with head/torso features and circular motifs incorporated into the figure. The biggest difference is that A shows a detailed standing person with limbs, costume, and a staff-like object, whereas B shows a much more abstract frontal figure or body-mask dominated by large circular and curving geometric forms.",
+ "a": "maya_0101",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1857,
+  527
+ ]
+}

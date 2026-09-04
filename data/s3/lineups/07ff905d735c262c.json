@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  8,
+  5,
+  2,
+  1,
+  3,
+  7,
+  6,
+  10,
+  9
+ ],
+ "most_similar_reason": "Candidate 4, like the target, is a flat upright slab whose face is divided into stacked horizontal registers filled with small schematic figures and repeated sign-like elements carved in shallow, flattened relief with profile orientation and simple outlined bodies.",
+ "least_similar_reason": "Candidate 9 shows essentially no figural or animal imagery at all \u2014 only broad plain grooves/mouldings on a blank panel \u2014 so it shares none of the target's registered profile creatures, birds, zigzag bands or small emblem motifs.",
+ "set": "moai_iso_among_monoliths",
+ "i": 11,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0046",
+  "egypt_0073",
+  "gotland_0000",
+  "egypt_0047",
+  "egypt_0067",
+  "maya_0054",
+  "maya_0158",
+  "egypt_0072",
+  "gotland_0130",
+  "rapa_nui_hoa_iso"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt",
+  "gotland",
+  "egypt",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 9
+}

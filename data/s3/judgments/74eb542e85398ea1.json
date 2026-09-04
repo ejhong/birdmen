@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "human figure with arm extended holding an object",
+  "quadruped animal shown in profile",
+  "content divided into stacked horizontal zones/registers"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces show a human figure with an outstretched arm grasping something (a raised staff or weapon in A, reins in B) alongside a profile quadruped, and both distribute content in stacked horizontal zones, but these are near-universal motifs. The decisive differences are in depiction and combination: A is radically schematic (stick-limbed body, a boat with a row of identical crew strokes, an isolated stylised animal), while B is naturalistic and anatomically detailed, showing a man in direct contact with a bridled horse \u2014 a specific groom-and-horse scene absent from A.",
+ "a": "tanum_0348",
+ "b": "persepolis_0089",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  706
+ ]
+}

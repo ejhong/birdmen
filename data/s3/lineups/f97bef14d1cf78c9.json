@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  10,
+  5,
+  9,
+  7,
+  3,
+  8,
+  2,
+  6,
+  4
+ ],
+ "most_similar_reason": "Candidate 1 is most similar because it shows a vertically organized relief surface divided into bands, with schematic carved human/animal figures and glyph-like motifs arranged much like the target\u2019s profile figure, bird-like forms, and repeated signs.",
+ "least_similar_reason": "Candidate 4 is least similar because it shows essentially an undecorated upright slab in an architectural setting, with no comparable depicted figures, animals, symbols, or patterned registers visible.",
+ "set": "moai_iso_among_monoliths",
+ "i": 5,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0138",
+  "maya_0114",
+  "maya_0053",
+  "maya_0000",
+  "maya_0101",
+  "rapa_nui_hoa_iso",
+  "maya_0081",
+  "egypt_0073",
+  "maya_0023",
+  "maya_0045"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 9
+}

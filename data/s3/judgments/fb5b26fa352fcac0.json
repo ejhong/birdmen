@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic incised/relief signs",
+  "rounded geometric motifs including circles or ovals",
+  "vertical stacking of some motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The main overlap is only that both surfaces include schematic carved signs with rounded circular or oval components arranged on a vertical surface. The biggest difference is that A is dominated by a frontal anthropomorphic figure with body parts and a central disc/bands, while B is a column of compact glyph-like blocks with no comparable figure or iconographic scene.",
+ "a": "rapa_nui_0113",
+ "b": "maya_0149",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1619,
+  546
+ ]
+}

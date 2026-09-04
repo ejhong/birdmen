@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  8,
+  7,
+  5,
+  3,
+  2,
+  1,
+  10,
+  4,
+  6
+ ],
+ "most_similar_reason": "Candidate 9 shows the same core subject as the target: a single frontal anthropomorphic figure occupying the whole surface, with a broad elaborate headdress above the head, arms folded across the chest and ornaments at the neck/chest, rendered in the same rounded low-relief-on-a-bulky-block manner.",
+ "least_similar_reason": "Candidate 6 depicts no human figure at all, only an isolated animal and a spiral/scroll on a flaring curved panel, sharing none of the target's frontal figure, headdress, arms or pectoral disc.",
+ "set": "p43_iso_among_monoliths",
+ "i": 11,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "egypt_0039",
+  "anatolia_ppn_p43iso",
+  "maya_0125",
+  "maya_0057",
+  "maya_0114",
+  "gotland_0000",
+  "maya_0094",
+  "maya_0052",
+  "maya_0130",
+  "egypt_0048"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "gotland",
+  "egypt",
+  "egypt",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 6
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "T-shaped/anthropomorphic monolithic pillar form with broad head slab",
+  "quadruped animal shown in profile in low relief",
+  "animal placed high on the shaft just below the head",
+  "flat, outline-based low-relief carving on a plain undecorated ground"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict the same distinctive support form \\u2014 a T-shaped pillar bearing a profile quadruped in flat low relief high on the shaft, rendered as a schematic outlined silhouette against a blank ground. The decisive difference is density and content: A carries only that single isolated animal on otherwise bare faces, whereas B is covered with stacked registers of birds, a fox-like beast, small human-like figures, a zigzag band and a row of animals/objects across the head, creating relationships (superposition, flanking) that A entirely lacks.",
+ "a": "anatolia_ppn_0083",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2848,
+  691
+ ]
+}

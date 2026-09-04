@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  10,
+  5,
+  7,
+  1,
+  3,
+  2,
+  9,
+  6,
+  4
+ ],
+ "most_similar_reason": "Candidate 8, like the target, is covered with rectangular sign-blocks arranged in registers/columns combining animal-head signs, hands and schematic body parts with a larger profile figure, i.e. a pictographic script-like system rather than a single narrative scene.",
+ "least_similar_reason": "Candidate 4 is a three-dimensional figural statue with a headdress and a plain disc/belt ornament, showing no registers of pictographic signs, animal-head glyphs or repeated small motifs at all.",
+ "set": "moai_iso_among_random",
+ "i": 0,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "tanum_0100",
+  "assyria_0151",
+  "assyria_0021",
+  "rapa_nui_hoa_iso",
+  "egypt_0040",
+  "persepolis_0018",
+  "tanum_0328",
+  "maya_0048",
+  "assyria_0118",
+  "maya_0147"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "assyria",
+  "persepolis",
+  "assyria",
+  "assyria",
+  "tanum",
+  "maya",
+  "maya",
+  "tanum",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 10
+}

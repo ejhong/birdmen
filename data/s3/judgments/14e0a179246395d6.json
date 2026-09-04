@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic bird- or animal-headed human-like figures",
+  "incised curvilinear/geometric signs",
+  "oval or circular motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "The strongest correspondence is the use of schematic curvilinear incised figures, apparently including bird/animal-headed human-like motifs, together with simple oval or circular signs. The biggest difference is that A is organized around a large frontal anthropomorphic body with symmetrical bodily features, while B is a scattered field of smaller petroglyph-like figures on an irregular surface with no single dominant body or fixed layout.",
+ "a": "rapa_nui_0113",
+ "b": "rapa_nui_0079",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  1188
+ ]
+}

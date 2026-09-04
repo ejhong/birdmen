@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  6,
+  5,
+  8,
+  9,
+  4,
+  1,
+  10,
+  3,
+  2
+ ],
+ "most_similar_reason": "Both depict simple, stylized boats featuring curved hulls and vertical strokes.",
+ "least_similar_reason": "Shows a complex and highly detailed figure that shares no iconographic elements.",
+ "set": "same_control",
+ "i": 30,
+ "target": "tanum_0324",
+ "planted": "tanum_0026",
+ "cands": [
+  "assyria_0099",
+  "mississippian_0045",
+  "maya_0113",
+  "persepolis_0024",
+  "anatolia_ppn_0093",
+  "anatolia_ppn_0072",
+  "tanum_0026",
+  "persepolis_0100",
+  "persepolis_0007",
+  "assyria_0119"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "persepolis",
+  "anatolia_ppn",
+  "persepolis",
+  "anatolia_ppn",
+  "assyria",
+  "assyria",
+  "maya",
+  "mississippian",
+  "persepolis"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  7,
+  9,
+  6,
+  4,
+  10,
+  5,
+  8,
+  2,
+  1
+ ],
+ "most_similar_reason": "Candidate 3 is, like the target, a tall free-standing slab/pillar carved in low relief with figural motifs stacked in horizontal registers over its whole face, matching the target's format and arrangement most closely.",
+ "least_similar_reason": "Candidate 1 shows a plain eroded masonry surface with no discernible creatures, figures or motifs at all, so it shares none of the target's animal registers or geometric banding.",
+ "set": "moai_iso_among_random",
+ "i": 10,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0002",
+  "rapa_nui_hoa_iso",
+  "maya_0111",
+  "tanum_0328",
+  "mississippian_0001",
+  "egypt_0040",
+  "maya_0054",
+  "assyria_0088",
+  "tanum_0017",
+  "assyria_0021"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "tanum",
+  "maya",
+  "mississippian",
+  "maya",
+  "egypt",
+  "assyria",
+  "egypt",
+  "assyria",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 9
+}

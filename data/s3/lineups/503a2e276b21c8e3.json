@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  1,
+  5,
+  6,
+  2,
+  7,
+  4,
+  3,
+  10,
+  8
+ ],
+ "most_similar_reason": "Candidate 9 is most similar because it depicts a single upright, highly schematic anthropomorphic monument with a frontal face/body, large circular eye-like forms, and incised geometric/curvilinear body markings, closely matching the target\u2019s iconography and arrangement.",
+ "least_similar_reason": "Candidate 8 is least similar because it shows naturalistic horned animals in profile in a procession-like relief, lacking the target\u2019s frontal anthropomorphic figure, circular facial/body motifs, and stacked abstract linear patterning.",
+ "set": "p43_among_random",
+ "i": 9,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "egypt_0072",
+  "gotland_0000",
+  "persepolis_0075",
+  "maya_0023",
+  "maya_0158",
+  "assyria_0047",
+  "tanum_0324",
+  "persepolis_0095",
+  "anatolia_ppn_p43full",
+  "persepolis_0026"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "persepolis",
+  "persepolis",
+  "egypt",
+  "persepolis",
+  "gotland",
+  "assyria",
+  "maya",
+  "tanum",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

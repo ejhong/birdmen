@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  2,
+  7,
+  9,
+  6,
+  3,
+  10,
+  1,
+  8,
+  5
+ ],
+ "most_similar_reason": "Candidate 4 shows the same conception as the target: a single frontal standing personage carved in relief filling the whole upright slab, with a tall elaborate headdress above the head, ornaments across the chest and a broad belt, rendered in the same blocky, symmetrical, low-relief manner.",
+ "least_similar_reason": "Candidate 5 shows no figure at all, only an arched panel filled with an abstract lattice/diaper pattern, which shares none of the target's frontal human figure, headdress, chest medallion or belt.",
+ "set": "p43_iso_among_monoliths",
+ "i": 0,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0095",
+  "maya_0111",
+  "egypt_0073",
+  "maya_0051",
+  "gotland_0111",
+  "maya_0110",
+  "maya_0069",
+  "egypt_0049",
+  "anatolia_ppn_p43iso",
+  "egypt_0040"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "gotland",
+  "maya",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

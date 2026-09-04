@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  9,
+  3,
+  5,
+  7,
+  10,
+  8,
+  6,
+  2,
+  1
+ ],
+ "most_similar_reason": "Candidate 4 is, like the target, a flat slab covered in shallow incised low relief organised into stacked horizontal registers, combining schematic profile figures/creatures with rows of small sign-like symbols in the same flat, outline-drawn, non-naturalistic manner.",
+ "least_similar_reason": "Candidate 1 is a fully three-dimensional, naturalistically modelled human body in the round holding objects, sharing none of the target's flat registered relief of schematic profile animals and repeated sign bands.",
+ "set": "moai_iso_among_monoliths",
+ "i": 27,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "mississippian_0015",
+  "rapa_nui_hoa_iso",
+  "egypt_0046",
+  "egypt_0072",
+  "egypt_0045",
+  "maya_0052",
+  "egypt_0064",
+  "maya_0092",
+  "egypt_0066",
+  "maya_0045"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "maya",
+  "mississippian",
+  "maya",
+  "egypt",
+  "egypt",
+  "egypt",
+  "egypt",
+  "egypt",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 9
+}

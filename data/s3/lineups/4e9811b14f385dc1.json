@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  8,
+  5,
+  1,
+  10,
+  3,
+  9,
+  7,
+  4,
+  2
+ ],
+ "most_similar_reason": "Both share a general pillar shape and incorporate carved arms and hands on the surface.",
+ "least_similar_reason": "The abstract circular patterns lack the structural and figural elements seen in the target.",
+ "set": "p43_among_random",
+ "i": 0,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "gotland_0122",
+  "assyria_0116",
+  "assyria_0088",
+  "tanum_0054",
+  "gotland_0116",
+  "anatolia_ppn_p43full",
+  "mississippian_0009",
+  "maya_0088",
+  "maya_0129",
+  "maya_0126"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "tanum",
+  "assyria",
+  "maya",
+  "mississippian",
+  "gotland",
+  "assyria",
+  "gotland"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

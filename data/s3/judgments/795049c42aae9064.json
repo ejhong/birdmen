@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "standing human figure in profile",
+  "procession/frieze of figures on a horizontal band",
+  "long fringed or pleated robe",
+  "bearded male head with elaborate coiffure",
+  "raised or extended arm holding an object",
+  "figures walking to one side, feet in profile",
+  "low relief carving of human figures"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces depict bearded male figures in strict profile, striding in long fringed robes with an arm raised and holding an object, carved in low relief as a continuous horizontal register \u2014 a fairly specific shared scheme of processional profile figures. The biggest difference in content is that B shows a single large winged figure with multi-tiered wings and a bucket-like handled vessel, whereas A shows a repeated file of many small wingless attendants without wings or such attributes.\n",
+ "a": "persepolis_0070",
+ "b": "assyria_0146",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  2949,
+  316
+ ]
+}

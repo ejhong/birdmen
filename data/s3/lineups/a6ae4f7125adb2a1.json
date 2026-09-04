@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  4,
+  7,
+  1,
+  6,
+  10,
+  2,
+  9,
+  3,
+  5
+ ],
+ "most_similar_reason": "Candidate 8 shows an upright monolithic slab whose face is divided into stacked registers filled with hatched and zigzag banding above and below figural elements, the same shaped-stele format and register-of-geometric-motifs arrangement as the target pillar.",
+ "least_similar_reason": "Candidate 5 is a brightly patterned circular composition of frontal costumed human figures with rosette-like ornaments, sharing none of the target's animal reliefs, register banding or standing-slab arrangement.",
+ "set": "moai_close_among_random",
+ "i": 9,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "rapa_nui_0004",
+  "egypt_0046",
+  "tanum_0082",
+  "maya_0111",
+  "mississippian_0052",
+  "tanum_0359",
+  "maya_0057",
+  "gotland_0123",
+  "tanum_0340",
+  "tanum_0069"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "gotland",
+  "maya",
+  "tanum",
+  "tanum",
+  "tanum",
+  "tanum",
+  "mississippian",
+  "egypt",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

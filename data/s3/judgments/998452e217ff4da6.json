@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "standing human figures in profile",
+  "bearded male figures in long fringed robes",
+  "row/procession of figures facing the same direction",
+  "figure with raised arm / gesturing hand",
+  "hand-held object (staff or weapon-like implement)",
+  "framed rectangular relief panel with figures filling the field",
+  "conical/pointed headgear on a principal figure"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict a file of bearded, long-robed male figures in strict profile, facing the same way, with a leading figure raising a hand in gesture and carrying a rod-like implement, which is a fairly specific shared scheme. The biggest difference in content is the composition: A places its small figures in a narrow arched register above a large field of dense script, with celestial/astral emblems overhead, while B has only two monumental figures with no inscription field or symbols and heavy fringed drapery detail.",
+ "a": "egypt_0033",
+ "b": "assyria_0000",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3199,
+  690
+ ]
+}

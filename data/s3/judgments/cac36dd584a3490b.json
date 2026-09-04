@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "anthropomorphic or human figure",
+  "circle or disc motif",
+  "incised/linear signs or geometric markings",
+  "horizontal bands or rows of pattern"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces include human/anthropomorphic imagery, circular motifs, and linear carved signs or bands, with the closest correspondence being a prominent circular/disc form associated with a figured composition. The main difference is that A is a frontal schematic anthropomorphic body covered with bold abstract markings, while B is a narrative relief with profile human figures, an overhead radiant disc, offerings, and dense sign columns, so the relationships and overall iconographic scheme do not match.",
+ "a": "rapa_nui_0113",
+ "b": "egypt_0062",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  685
+ ]
+}

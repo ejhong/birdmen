@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "rectangular hieroglyphic blocks arranged in a grid/columns",
+  "low-relief carved panel of script",
+  "dense text covering a large flat field",
+  "rounded cartouche-like sign frames with internal detail"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces are dominated by ordered grids of squarish, rounded-cornered glyph blocks filled with dense internal detail in shallow relief, a fairly specific shared writing/decorative convention rather than a generic pattern band. The decisive difference is that B also carries a full figural scene \u2014 a standing figure with raised arm, attendants and an altar-like object beneath a canopy of rays \u2014 while A shows only columns of glyph blocks with no figures or narrative relationships at all.",
+ "a": "maya_0152",
+ "b": "egypt_0060",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2799,
+  612
+ ]
+}

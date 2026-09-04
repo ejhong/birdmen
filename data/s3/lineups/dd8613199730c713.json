@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  5,
+  9,
+  2,
+  7,
+  6,
+  10,
+  3,
+  4,
+  1
+ ],
+ "most_similar_reason": "Both show carved reliefs containing multiple living creatures arranged together in a composed scene, with profile views and additional patterned infill.",
+ "least_similar_reason": "It shows only a single standing human figure in the round and contains none of the birds, profile animals, or geometric surface patterns of the target.",
+ "set": "moai_iso_among_random",
+ "i": 4,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "rapa_nui_hoa_iso",
+  "assyria_0032",
+  "tanum_0100",
+  "tanum_0076",
+  "persepolis_0007",
+  "catalhoyuk_0026",
+  "catalhoyuk_0110",
+  "assyria_0047",
+  "maya_0057",
+  "tanum_0050"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "tanum",
+  "tanum",
+  "catalhoyuk",
+  "tanum",
+  "catalhoyuk",
+  "maya",
+  "persepolis",
+  "assyria",
+  "assyria"
+ ],
+ "model": "grok",
+ "planted_rank": 10
+}

@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figures",
+  "quadruped animals",
+  "weapons/linear implements",
+  "groups of repeated figures",
+  "a conveyance with occupants (chariot / boat with crew)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces show human figures, quadrupeds and a conveyance carrying multiple occupants (a horse-drawn chariot in A, crewed boats indicated by rows of strokes in B), but these are generic narrative staples rather than a shared distinctive motif. The manner of depiction differs completely: A is a naturalistic, modelled single-register frieze of overlapping figures with detailed anatomy, dress and equipment, while B consists of flat schematic silhouettes and stroke-signs (including footprint-like shapes) scattered across the surface without a common register or ground line.",
+ "a": "assyria_0047",
+ "b": "tanum_0080",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  596
+ ]
+}

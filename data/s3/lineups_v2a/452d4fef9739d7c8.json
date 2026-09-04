@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  9,
+  1,
+  7,
+  4,
+  5,
+  10,
+  8,
+  3,
+  6
+ ],
+ "most_similar_reason": "Candidate 2, like the target, is a free-standing anthropomorphic monolith whose surface bears low-relief bent arms with hands meeting over a belt-like band, plus additional small creature/symbol motifs, matching the target's carved back with arms, encircling band and applied emblems.",
+ "least_similar_reason": "Candidate 6 shows only a bare slab with a line of repeated linear sign characters and no figural body, arms, spirals or emblematic motifs of any kind.",
+ "set": "p43_among_random",
+ "i": 35,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "maya_0101",
+  "anatolia_ppn_p43full",
+  "maya_0095",
+  "persepolis_0084",
+  "maya_0129",
+  "gotland_0004",
+  "maya_0106",
+  "tanum_0030",
+  "gotland_0026",
+  "tanum_0119"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "gotland",
+  "persepolis",
+  "tanum",
+  "maya",
+  "maya",
+  "gotland",
+  "maya",
+  "maya",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

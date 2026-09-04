@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  10,
+  3,
+  7,
+  2,
+  6,
+  5,
+  1,
+  9,
+  8
+ ],
+ "most_similar_reason": "Like the target, candidate 4 is a freestanding anthropomorphic monolith whose body itself is the figure, with shallow low-relief motifs (arms/hands wrapping to the front, a belt-like band, and small creature signs) laid out over its broad flat face and sides in the same way the target's back carries carved rings, curved arms and small figural symbols.",
+ "least_similar_reason": "Candidate 8 shows nothing but dense rows of repeated written signs, with no anthropomorphic form, no figural imagery and no symbolic motifs in relation to a body, so it shares essentially no depicted content with the target.",
+ "set": "p43_among_random",
+ "i": 22,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "tanum_0339",
+  "persepolis_0004",
+  "gotland_0009",
+  "anatolia_ppn_p43full",
+  "assyria_0012",
+  "persepolis_0066",
+  "assyria_0115",
+  "egypt_0038",
+  "tanum_0067",
+  "maya_0101"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "assyria",
+  "maya",
+  "persepolis",
+  "egypt",
+  "persepolis",
+  "tanum",
+  "gotland",
+  "tanum",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

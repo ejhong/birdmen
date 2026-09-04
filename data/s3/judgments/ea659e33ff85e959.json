@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "animal figures in profile",
+  "human or anthropomorphic body parts/figures with arms or hands",
+  "curved/crescent-like form",
+  "schematic relief outlines"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is that both surfaces include schematic relief figures, including profile animals and human/anthropomorphic limbs or figures. The biggest difference is that A is arranged as a vertical, register-like composition with repeated signs, bands, and isolated animals, while B presents a compact narrative scene of interacting human figures without the same bands or ordered iconographic layout.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0276",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  670
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "front-facing anthropomorphic head or face",
+  "paired eyes/eye areas flanking a central nose or vertical facial feature",
+  "upright roughly rectangular human-like form"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest shared content is a frontal anthropomorphic presentation with a face: paired eye areas placed on either side of a central nose/vertical facial feature on an upright block-like form. The major difference is that A depicts essentially only a modeled head or mask-like face, while B depicts a full schematic body/standing figure with shoulders, torso markings, circular motifs, and horizontal bands that have no counterpart in A.",
+ "a": "anatolia_ppn_0155",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1751,
+  485
+ ]
+}

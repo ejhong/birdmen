@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human/anthropomorphic figure",
+  "circular disc motif",
+  "horizontal band(s) dividing or crossing the surface",
+  "low-relief carved detail on a plain ground"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "Both show a human figure and circular disc motifs set off by horizontal bands, but these are generic devices: A is a single massive frontal anthropomorphic figure whose body is covered with schematic emblems (a chest disc, paired arcs, incised bands), while B is a naturalistic profile procession scene of a humped animal led by a striding attendant beneath a register of repeated rosettes. There is no shared narrative relationship, no shared arrangement (a single frontal icon versus a horizontal narrative register), and the rendering conventions \u2014 blocky schematic emblem-carving versus modelled profile figures \u2014 are quite different.",
+ "a": "rapa_nui_0113",
+ "b": "persepolis_0062",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3174,
+  536
+ ]
+}

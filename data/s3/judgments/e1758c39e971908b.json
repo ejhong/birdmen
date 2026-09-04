@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "bearded male figures in strict profile",
+  "archers drawing composite bows",
+  "soldiers with pointed/crested helmets",
+  "military campaign scene with troops in file",
+  "wheeled vehicle with spoked wheel",
+  "conical/pointed helmets and beards rendered with fine incised lines",
+  "low-relief frieze on a horizontal rectangular panel",
+  "weapons (bows, arrows, spears)"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "7",
+ "justification": "Both are horizontal low-relief military friezes with the same repertoire: bearded profile figures in pointed helmets drawing composite bows, files of spearmen, and a spoked-wheel vehicle, all rendered with identical conventions of flattened profile bodies, patterned beards and incised drapery lines. The chief difference in content is the setting: A is a siege, with the archers on a wheeled siege engine assaulting a crenellated walled city with towers and an arched gate, while B is an open-field procession centred on a horse-drawn chariot with no architecture.",
+ "a": "assyria_0092",
+ "b": "assyria_0047",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3349,
+  383
+ ]
+}

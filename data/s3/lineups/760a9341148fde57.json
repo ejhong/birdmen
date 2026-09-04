@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  3,
+  6,
+  10,
+  4,
+  5,
+  9,
+  7,
+  1,
+  2
+ ],
+ "most_similar_reason": "Candidate 8 likewise packs a stone panel with low-relief animals and creature-forms stacked in horizontal registers, including sinuous serpentine/spiral elements and repeated beast profiles, matching the target's dense zoomorphic register arrangement.",
+ "least_similar_reason": "Candidate 2 shows only an abstract interlaced knot in linear outline, with no animals, figures or registered narrative imagery of the kind that fills the target.",
+ "set": "moai_iso_among_monoliths",
+ "i": 34,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0061",
+  "gotland_0005",
+  "maya_0019",
+  "maya_0101",
+  "egypt_0050",
+  "gotland_0113",
+  "maya_0088",
+  "maya_0045",
+  "egypt_0076",
+  "rapa_nui_hoa_iso"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "gotland",
+  "maya",
+  "gotland",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

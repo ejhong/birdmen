@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figures shown in strict profile",
+  "low-relief carved figures",
+  "elaborate headgear/tall cap or crown",
+  "long patterned hair or beard",
+  "raised arm/hand holding or gesturing with an object",
+  "figures aligned in a horizontal register facing the same direction"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both depict human figures in strict profile with distinctive tall headgear and long hair/beard, arranged in a horizontal row with a raised gesturing or object-bearing arm, which is a reasonably specific shared convention. The biggest differences are scale and treatment: A shows many small, schematic, linearly incised figures stacked in multiple registers with objects and altar-like furniture, whereas B shows a couple of large, plastically modelled heads with carefully patterned curls and no register subdivision.",
+ "a": "egypt_0047",
+ "b": "assyria_0111",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  630
+ ]
+}

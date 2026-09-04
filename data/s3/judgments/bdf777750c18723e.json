@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "standing human figure in relief",
+  "elaborate headdress/headgear on figures",
+  "carved relief on a vertical stone face",
+  "frontal or profile ceremonial figures with patterned garments"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces depict human figures in relief wearing headgear and patterned robes, but A shows a single massive frontal figure in an all-over dense composition of interlocking ornament and glyph-like blocks wrapping a column, while B shows a repeating procession of near-identical profile figures in a horizontal register walking in one direction. The shared content is the generic 'human figure carved in relief'; the specific formal conventions (dense frontal ornamental encrustation vs. spare, repeated profile file) are entirely different.",
+ "a": "maya_0019",
+ "b": "persepolis_0070",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3024,
+  301
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "bird-like animal in profile",
+  "incised or relief-carved linear details",
+  "stacked vertical placement of zoomorphic forms"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both include simplified bird-like/profile animal forms with carved linear markings, and in both these forms are arranged vertically rather than as a single isolated image. The biggest difference is that A is a flat rectangular slab organized into horizontal registers with many shallow incised motifs, while B is a freestanding, volumetric sculpture with a few large modeled forms and no comparable register structure.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0175",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  607
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  3,
+  2,
+  7,
+  9,
+  4,
+  1,
+  6,
+  10,
+  5
+ ],
+ "most_similar_reason": "Candidate 8 is, like the target, a free-standing anthropomorphic monolith whose body carries shallow relief elements (arms/hands curving round to the front, a belt-like band and a disc motif) laid directly onto the block's surface, which is the same distinctive convention of turning the pillar itself into a figure bearing low-relief signs.",
+ "least_similar_reason": "Candidate 5 shows only a bare eroded wall face with no discernible creatures, figures, signs or motifs at all, so it shares no depicted content with the target's stacked animal reliefs.",
+ "set": "moai_close_among_random",
+ "i": 24,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "assyria_0139",
+  "persepolis_0026",
+  "tanum_0078",
+  "egypt_0056",
+  "egypt_0002",
+  "gotland_0002",
+  "egypt_0033",
+  "rapa_nui_0004",
+  "egypt_0050",
+  "mississippian_0018"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "egypt",
+  "assyria",
+  "mississippian",
+  "tanum",
+  "egypt",
+  "egypt",
+  "egypt",
+  "persepolis",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

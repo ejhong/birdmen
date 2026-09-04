@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "human or anthropomorphic figure",
+  "bird or bird-like profile forms",
+  "circle or disc motifs",
+  "horizontal bands of repeated geometric pattern",
+  "incised/low-relief linear decoration"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The most specific overlap is that both surfaces use tan carved relief with linear incisions, combining anthropomorphic imagery with bird-like profiles and repeated geometric bands or discs. The biggest difference is compositional: A is organized as rough stacked registers with scattered profile figures, while B is a polished, centralized, largely symmetrical frontal figure.",
+ "a": "anatolia_ppn_p43full",
+ "b": "mississippian_0010",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1072,
+  654
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic anthropomorphic or creature figure",
+  "circle or disc",
+  "linear geometric motifs dividing the surface"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is that both include schematic linear figures and at least one circular/disc-like form, with an anthropomorphic or creature-like figure rendered in simplified outline. The biggest difference is that A is dominated by a single central figure enclosed in a disc with radiating lines, while B is a multi-register scene with several profile animals/figures and horizontal bands rather than a radial sunburst scheme.",
+ "a": "persepolis_0042",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  666
+ ]
+}

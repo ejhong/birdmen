@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "quadruped animal in profile with elongated body and bent legs",
+  "low-relief animal carving on a flat stone slab/pillar surface",
+  "schematic outline rendering of animal limbs",
+  "animal head shown with pointed snout in profile"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces carry low-relief profile animals with elongated bodies, pointed snouts and angular, schematically rendered bent legs on flat upright slab faces, and the predatory quadruped in A has a close counterpart in the descending snouted animal on B's pillar shaft. However, A shows a single isolated animal on an otherwise blank field, whereas B is a dense, multi-register composition combining a row of arcaded creatures, a banded belt-like border, birds, a serpent-like form and multiple animals stacked one above another.",
+ "a": "anatolia_ppn_0195",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3048,
+  323
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "profile human or anthropomorphic figure",
+  "profile bird or animal figure",
+  "circle or disc form",
+  "geometric borders or panels",
+  "incised/low-relief carving on an upright stone surface"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The most specific correspondence is that both are upright stone reliefs combining schematic profile figures with animals, disc-like forms, and geometric framing or sign panels. The biggest difference is compositional: A is organized mainly as stacked horizontal registers with repeated small motifs, while B is dominated by a single large central standing figure framed by vertical panels.",
+ "a": "anatolia_ppn_p43full",
+ "b": "maya_0091",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1230,
+  659
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "human figure",
+  "human face/head rendered schematically",
+  "representation of eyes"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "Both depict human figures with schematically rendered faces and eyes, but that is about the extent of the correspondence: A is a flat surface covered with registers of small profile figures seated at offering tables amid dense columns of script-like signs, while B is a three-dimensional stacked pair of frontal heads with incised eyes, nose and mouth and no accompanying signs or scene. There is no shared relationship, arrangement or narrative scheme, and the modes of depiction (profile registers with text versus frontal sculpted heads) are fundamentally different.",
+ "a": "egypt_0064",
+ "b": "anatolia_ppn_0261",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2974,
+  274
+ ]
+}

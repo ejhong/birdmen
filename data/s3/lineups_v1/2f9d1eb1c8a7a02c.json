@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  8,
+  2,
+  1,
+  10,
+  4,
+  9,
+  7,
+  3,
+  6
+ ],
+ "most_similar_reason": "Candidate 5, like the target, is a massive upright monolithic stone block whose broad face carries shallow low-relief motifs (arms, belt-like bands and animal-like forms) integrated into the body of the pillar itself.",
+ "least_similar_reason": "Candidate 6 is a flat painted mural of tiny red stick figures spread across a wall surface, sharing neither the sculpted stone relief technique nor the vertical pillar format of the target.",
+ "set": "moai_among_random",
+ "i": 24,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0084",
+  "maya_0147",
+  "tanum_0016",
+  "gotland_0008",
+  "rapa_nui_0113",
+  "catalhoyuk_0110",
+  "tanum_0351",
+  "mississippian_0006",
+  "egypt_0013",
+  "persepolis_0067"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "catalhoyuk",
+  "mississippian",
+  "tanum",
+  "gotland",
+  "maya",
+  "egypt",
+  "persepolis",
+  "persepolis",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

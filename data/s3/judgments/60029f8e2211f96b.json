@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "anthropomorphic figure or body elements",
+  "waist/belt or loincloth-like element",
+  "repeated geometric/sign motifs in horizontal registers or panels",
+  "animal or animal-like figures in profile"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest correspondence is that both surfaces combine anthropomorphic/body-related imagery with a waist or belt-like feature and surrounding repeated signs or animal-like forms arranged on a vertical decorated field. The major difference is that A is dominated by a single elaborate frontal standing figure with held regalia and glyph-like blocks, whereas B is organized as stacked registers of schematic animals and geometric motifs with no comparable central figure or narrative scheme.",
+ "a": "maya_0130",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1883,
+  1134
+ ]
+}

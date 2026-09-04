@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "animate figures with heads and facial features"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The only real overlap is the very generic presence of animate beings or heads with facial features; A shows two frontal anthropomorphic heads joined in a bust-like form, while B shows a field of schematic profile animals and signs arranged in horizontal bands. The biggest difference is that A is dominated by a paired frontal human/anthropomorphic figure, whereas B is an organized relief composition of multiple animals, birds or symbols with no comparable twin-headed figure or central face-to-face scheme.",
+ "a": "anatolia_ppn_0247",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1989,
+  668
+ ]
+}

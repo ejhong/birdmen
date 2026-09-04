@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  1,
+  5,
+  8,
+  4,
+  9,
+  7,
+  3,
+  10,
+  6
+ ],
+ "most_similar_reason": "Candidate 2, like the target, is a purely linear, schematic outline design cut into a stone surface with no naturalistic modelling \u2014 a spare stick-like arrangement of intersecting strokes closely comparable to the target's incised hull, mast and rigging lines.",
+ "least_similar_reason": "Candidate 6 depicts a crowded narrative scene of naturalistically modelled human figures, animals and architecture in relief, sharing none of the target's isolated schematic linear vessel and geometric banding.",
+ "set": "same_control",
+ "i": 14,
+ "target": "gotland_0129",
+ "planted": "gotland_0005",
+ "cands": [
+  "gotland_0005",
+  "tanum_0069",
+  "persepolis_0077",
+  "maya_0054",
+  "rapa_nui_0070",
+  "assyria_0052",
+  "persepolis_0063",
+  "maya_0136",
+  "persepolis_0027",
+  "assyria_0157"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "persepolis",
+  "persepolis",
+  "assyria",
+  "assyria",
+  "rapa_nui",
+  "persepolis",
+  "maya",
+  "tanum",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

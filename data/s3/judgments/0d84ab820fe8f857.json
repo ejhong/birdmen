@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "circle or disc motifs",
+  "stylized human or face-like heads",
+  "bands or rows of repeated signs",
+  "schematic curvilinear/linear markings"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is the use of schematic face/head-like forms and circular disc motifs among repeated linear signs. The main difference is that A depicts a single frontal anthropomorphic figure with markings on its body, while B depicts a rectangular framed layout with a large central disc and many small signs arranged around a border.",
+ "a": "rapa_nui_0113",
+ "b": "maya_0024",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  591
+ ]
+}

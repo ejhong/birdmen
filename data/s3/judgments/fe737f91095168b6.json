@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "profile figures/animals",
+  "circular or oval motifs",
+  "horizontal bands of repeated geometric pattern",
+  "paired or flanking forms around a central area"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific overlap is that both include schematic profile beings together with circular/oval signs and horizontal patterned bands. The biggest difference is that B is dominated by paired human figures holding large disc-like objects around a central emblematic figure, while A is mainly a carved field of separate animal figures and abstract signs arranged in registers, with no comparable human-disc ceremonial scene.",
+ "a": "anatolia_ppn_p43full",
+ "b": "mississippian_0052",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1989,
+  666
+ ]
+}

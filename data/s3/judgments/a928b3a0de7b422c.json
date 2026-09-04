@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "standing human figure in profile",
+  "long pleated robe falling to the feet",
+  "hand(s) gripping a vertical shaft (spear/staff)",
+  "fluted or ribbed sleeve cuff / wristband",
+  "carved low relief with linear drapery folds",
+  "framing band below/beside the figure (rosette band in A, plain border in B)"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "7",
+ "justification": "Both show profile standing figures in long pleated robes with hands closed around a vertical spear shaft, rendered in shallow relief with the same linear fold and ribbed-cuff conventions, and both are set within a bordered field (a rosette band in A). The main difference is that A is a fragmentary close-up of the lower robe and torso of several figures with a floral border, while B preserves a complete single figure with crown, beard, bow and quiver, attributes not visible in A.",
+ "a": "persepolis_0017",
+ "b": "persepolis_0067",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3224,
+  750
+ ]
+}

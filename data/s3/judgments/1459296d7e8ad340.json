@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figures in profile",
+  "animal(s) in profile",
+  "low relief carving with incised interior detail",
+  "horizontal registers/bands framing the scene",
+  "figures walking or oriented in a single direction"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both show profile human figures and animals in low relief organised within horizontal banded registers, which is generic to most relief traditions. A is a small stele densely packed with multiple registers of seated/small-scale figures interleaved with columns of script and a winged disc-like symbol at the top, whereas B is a single large-scale two-humped camel led by one attendant between friezes of rosettes, with no writing and quite naturalistic anatomy versus A's schematic, crowded miniature figures.",
+ "a": "egypt_0045",
+ "b": "persepolis_0063",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  290
+ ]
+}

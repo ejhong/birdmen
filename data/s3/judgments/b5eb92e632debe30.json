@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "concentric circle or disc motifs",
+  "curved incised linear bands",
+  "schematic geometric decoration"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific shared content is the use of incised concentric circular/spiral-like motifs and curved linear bands on a decorated upright surface. The major difference is that A is dominated by an animal-like figure in profile combined with spirals, while B is a frontal anthropomorphic figure with body/face features and circular elements placed as anatomical or emblematic details.",
+ "a": "gotland_0000",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1962,
+  658
+ ]
+}

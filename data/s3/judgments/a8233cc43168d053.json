@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "anthropomorphic or human figure",
+  "head/face and torso",
+  "circular or disc motifs",
+  "incised linear ornament/sign-like details"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces include a human or anthropomorphic body with a head/torso and some incised circular and linear details, but these are fairly generic correspondences. The biggest difference is that A presents a large frontal body-like figure whose whole surface is the figure, while B shows a framed scene with a smaller standing profile figure beside a vertical column of signs.",
+ "a": "rapa_nui_0113",
+ "b": "maya_0088",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  519
+ ]
+}

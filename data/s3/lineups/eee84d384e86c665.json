@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  7,
+  2,
+  1,
+  3,
+  9,
+  4,
+  6,
+  5,
+  8
+ ],
+ "most_similar_reason": "Candidate 10 shows the very same subject \u2014 horned rams in strict profile with the same spiral horn over the eye and fleece rendered as dense rows of incised comma-like curls \u2014 evidently the same relief composition as the target detail.",
+ "least_similar_reason": "Candidate 8 is a line drawing of a column of abstract sign-blocks with no animals, no profile figures and no textured body rendering, sharing nothing iconographic with the target's carved ram.",
+ "set": "same_control",
+ "i": 22,
+ "target": "persepolis_0110",
+ "planted": "persepolis_0085",
+ "cands": [
+  "assyria_0123",
+  "assyria_0071",
+  "rapa_nui_0097",
+  "egypt_0065",
+  "tanum_0059",
+  "tanum_0063",
+  "assyria_0040",
+  "maya_0009",
+  "egypt_0073",
+  "persepolis_0085"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "assyria",
+  "maya",
+  "egypt",
+  "tanum",
+  "egypt",
+  "assyria",
+  "tanum",
+  "assyria",
+  "rapa_nui"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human head with schematic face",
+  "mass of hair rendered as raised ridged/scalloped locks framing the head",
+  "blocky columnar anthropomorphic figure",
+  "low-relief facial features (brow ridge, eye, mouth)"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "7",
+ "justification": "Both depict a heavily schematic anthropomorphic figure whose most distinctive feature is a helmet-like mass of hair rendered as thick raised rolls/scalloped locks arching over the brow and framing an otherwise nearly featureless, block-like face \u2014 an arbitrary and specific convention shared by both. The main difference in content is that A is presented as a head alone with frontal symmetrical face, bared teeth and closed eyes, while B shows the head attached to a coarse columnar body with shoulder/arm masses, seen so that the face reads in three-quarter/profile.",
+ "a": "anatolia_ppn_0129",
+ "b": "anatolia_ppn_0241",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  2974,
+  734
+ ]
+}

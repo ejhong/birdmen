@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "quadruped animal in profile relief on a pillar face",
+  "low-relief carving with outlined bodies against a plain ground",
+  "animal shown with head, legs and tail in strict side view"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces show quadrupeds in strict profile carved in shallow relief on a flat pillar face, rendered schematically with simple outlined bodies and no interior detail, which is a fairly specific shared convention. However A shows a single isolated animal on an otherwise blank field, while B is a crowded multi-register composition combining a row of arcaded/pouch-like motifs, a banded frieze, several predators, a bird with outspread forms and other figures stacked vertically, so relationships and arrangement scarcely correspond.",
+ "a": "anatolia_ppn_0072",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  304
+ ]
+}

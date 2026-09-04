@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  9,
+  4,
+  10,
+  5,
+  8,
+  7,
+  2,
+  3,
+  6
+ ],
+ "most_similar_reason": "Candidate 1 shows profile animals with rounded bodies together with accompanying figures in a carved multi-element scene, the closest match to the target's stacked profile waterfowl and geometric infill.",
+ "least_similar_reason": "Candidate 6 shows only the back of a large three-dimensional humanoid statue and contains none of the birds, geometric panels, or arranged creatures that appear on the target.",
+ "set": "moai_among_random",
+ "i": 11,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0020",
+  "assyria_0140",
+  "persepolis_0029",
+  "assyria_0160",
+  "persepolis_0037",
+  "rapa_nui_0113",
+  "assyria_0122",
+  "egypt_0009",
+  "persepolis_0032",
+  "maya_0026"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "assyria",
+  "persepolis",
+  "persepolis",
+  "persepolis",
+  "persepolis",
+  "maya",
+  "assyria",
+  "egypt",
+  "assyria"
+ ],
+ "model": "grok",
+ "planted_rank": 10
+}

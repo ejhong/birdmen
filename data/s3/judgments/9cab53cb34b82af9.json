@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "standing figure in profile",
+  "raised arm holding an object",
+  "striding pose with visible legs and feet"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both show a single profile figure striding with legs apart, one arm raised holding an implement, but figure A is a winged bird-headed hybrid deity flanked by stylized rosette/palmette bands while figure B is a plain human figure holding a spear/staff beneath a repeating dentil border. The specific attributes (wings, avian head, bucket-like object, floral border) that make A iconographically distinctive are entirely absent in B, so the correspondence is limited to the generic pose of a striding profile figure with a raised arm.",
+ "a": "assyria_0021",
+ "b": "persepolis_0035",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  3224,
+  276
+ ]
+}

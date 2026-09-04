@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "circle or ring motifs",
+  "parallel linear bands or bars",
+  "schematic curvilinear and rectilinear signs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The most specific shared content is the use of schematic carved signs including circles/rings and groups of parallel lines. The biggest difference is that B is organized as a frontal anthropomorphic or mask-like figure with eyes and a round mouth, while A is a dense, irregular field of animal-like and abstract motifs without the same central frontal figure or iconographic layout.",
+ "a": "maya_0047",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  659
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "repeated arched or looped motifs in an upper register",
+  "horizontal band of triangular/chevron pattern",
+  "incised low-relief animal or bird-like figures in profile",
+  "horizontal register/divider lines",
+  "sinuous line or snake-like form"
+ ],
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "The strongest correspondence is the stacked scheme: a row of repeated arch-like forms near the top, a horizontal chevron/triangle band below it, and more freely placed profile creatures or sinuous forms beneath. The biggest difference is format and emphasis: A is a broad, faintly carved slab with sparse, eroded figures, while B is a taller surface with deeper, denser carving and a prominent standing human-like figure absent from A.",
+ "a": "anatolia_ppn_0045",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  640
+ ]
+}

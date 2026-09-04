@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "profile animal or bird-like forms",
+  "standing or upright human-like figure",
+  "circle or disc",
+  "horizontal band of repeated pattern",
+  "rectangular/geometric panels",
+  "curving serpent-like or sinuous form"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is the combination of profile animal/bird-like figures with small geometric bands, discs, and sinuous forms on a decorated vertical surface. The biggest difference is that A is a colored, densely layered image dominated by one frontal composite figure, while B is a monochrome carved stone surface organized into horizontal registers with separate low-relief motifs.",
+ "a": "mississippian_0045",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1204,
+  666
+ ]
+}

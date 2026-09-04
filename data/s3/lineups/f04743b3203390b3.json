@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  2,
+  8,
+  4,
+  7,
+  6,
+  5,
+  9,
+  3,
+  10
+ ],
+ "most_similar_reason": "Candidate 1 shares a relief format showing figures and animals in profile.",
+ "least_similar_reason": "Candidate 10 is a 3D head without a narrative scene.",
+ "set": "related_control",
+ "i": 2,
+ "target": "persepolis_0082",
+ "planted": "assyria_0012",
+ "cands": [
+  "assyria_0012",
+  "mississippian_0045",
+  "maya_0000",
+  "tanum_0000",
+  "gotland_0111",
+  "tanum_0351",
+  "egypt_0064",
+  "tanum_0060",
+  "gotland_0112",
+  "anatolia_ppn_0223"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "gotland",
+  "tanum",
+  "tanum",
+  "mississippian",
+  "tanum",
+  "gotland",
+  "maya",
+  "egypt",
+  "anatolia_ppn"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "single large quadruped-like animal shown in profile",
+  "animal occupying most of the panel, oriented horizontally",
+  "long curving line reading as tail/back or horn",
+  "isolated figure with no accompanying scene or border"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces appear to present a single isolated animal in profile spanning the width of the panel, with a prominent long curving line (tail/back or horn) and no other figures or framing devices, which is the strongest correspondence. However, A is a clean, smoothly modelled low-relief silhouette with a clearly legible head, body and sweeping tail, while B is a mass of short incised/pecked strokes forming an ambiguous, densely hatched shape, so the drawing conventions, degree of legibility and possibly the creature depicted differ substantially.",
+ "a": "anatolia_ppn_0084",
+ "b": "tanum_0000",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  705
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  8,
+  9,
+  3,
+  1,
+  4,
+  6,
+  10,
+  2,
+  5
+ ],
+ "most_similar_reason": "Candidate 7 is most similar because it also presents a single highly stylized frontal anthropomorphic figure with a large head, symmetrical body organization, linear internal detailing, and ritual/ornamental appendages rather than a narrative scene.",
+ "least_similar_reason": "Candidate 5 is least similar because it shows a busy naturalistic narrative with profile animals, humans, and wheeled vehicles, lacking the target\u2019s single frontal schematic figure and geometric body-focused iconography.",
+ "set": "p43_among_random",
+ "i": 6,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "anatolia_ppn_p43full",
+  "assyria_0052",
+  "persepolis_0025",
+  "tanum_0052",
+  "assyria_0039",
+  "catalhoyuk_0102",
+  "mississippian_0007",
+  "assyria_0000",
+  "assyria_0112",
+  "persepolis_0039"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "assyria",
+  "catalhoyuk",
+  "assyria",
+  "mississippian",
+  "persepolis",
+  "tanum",
+  "persepolis",
+  "assyria",
+  "assyria"
+ ],
+ "model": "gpt",
+ "planted_rank": 5
+}

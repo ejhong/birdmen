@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  2,
+  5,
+  3,
+  4,
+  6,
+  10,
+  9,
+  7,
+  1
+ ],
+ "most_similar_reason": "Candidate 8 is most similar because it shows formal low-relief, hieratic figural imagery with robed/winged beings arranged in a structured panel, closely matching the target\u2019s carved procession/guardian-figure tradition and stylized treatment of bodies, wings, and registers.",
+ "least_similar_reason": "Candidate 1 is least similar because it contains only faint, simple linear markings with no comparable robed human figures, winged beings, processional arrangement, trees, or organized narrative relief scene.",
+ "set": "related_control",
+ "i": 3,
+ "target": "persepolis_0023",
+ "planted": "assyria_0153",
+ "cands": [
+  "tanum_0030",
+  "maya_0113",
+  "rapa_nui_0049",
+  "tanum_0238",
+  "maya_0053",
+  "tanum_0344",
+  "egypt_0075",
+  "assyria_0153",
+  "maya_0127",
+  "rapa_nui_0052"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "tanum",
+  "egypt",
+  "maya",
+  "tanum",
+  "tanum",
+  "rapa_nui",
+  "rapa_nui"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

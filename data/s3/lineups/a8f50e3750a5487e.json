@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  2,
+  4,
+  5,
+  8,
+  3,
+  7,
+  10,
+  9,
+  1
+ ],
+ "most_similar_reason": "Both depict a schematic quadruped animal in profile as the principal carved motif on the stone surface.",
+ "least_similar_reason": "It shows a densely detailed standing human with elaborate headdress and ornaments, sharing neither the animal subject nor the simple schematic style.",
+ "set": "same_control_monoliths",
+ "i": 8,
+ "target": "anatolia_ppn_0027",
+ "planted": "anatolia_ppn_0086",
+ "cands": [
+  "maya_0052",
+  "rapa_nui_0054",
+  "egypt_0046",
+  "rapa_nui_0046",
+  "maya_0047",
+  "anatolia_ppn_0086",
+  "egypt_0044",
+  "maya_0069",
+  "rapa_nui_0006",
+  "egypt_0048"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "rapa_nui",
+  "maya",
+  "egypt",
+  "maya",
+  "rapa_nui",
+  "egypt",
+  "rapa_nui",
+  "maya",
+  "egypt"
+ ],
+ "model": "grok",
+ "planted_rank": 1
+}

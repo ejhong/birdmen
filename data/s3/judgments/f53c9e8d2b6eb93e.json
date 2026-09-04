@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "human figure"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "Both scenes include a human figure, but in A it is a naturalistically modeled, reclining figure beneath carved hieroglyphic blocks, while in B the figures are small schematic silhouettes accompanying numerous boat-like, ladder-rung motifs that have no counterpart in A. The dominant motifs (glyph columns in A, boat/comb shapes in B) are entirely different, so beyond the generic presence of a person there is no specific iconographic correspondence.",
+ "a": "maya_0081",
+ "b": "tanum_0334",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  2974,
+  448
+ ]
+}

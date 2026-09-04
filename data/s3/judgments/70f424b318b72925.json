@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "schematic living figure/body form"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "The only real overlap is very generic: both include schematized animate forms or body-like parts, but A is dominated by multiple profile animals, signs, and patterned bands, while B depicts a single frontal anthropomorphic figure with head, torso, arms, and facial features. There is no shared iconographic scheme, relationship among elements, or comparable surface arrangement: A is a crowded register-like composition of animals and symbols, whereas B is a monumental solitary body.",
+ "a": "anatolia_ppn_p43full",
+ "b": "rapa_nui_0006",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1804,
+  665
+ ]
+}

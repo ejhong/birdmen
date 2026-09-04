@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  4,
+  3,
+  9,
+  5,
+  10,
+  2,
+  8,
+  6,
+  1
+ ],
+ "most_similar_reason": "Candidate 7 shows upright slab-like stones bearing schematic, low-relief signs and objects stacked in vertical registers over the whole face, matching the target pillar's arrangement of simplified motifs banded down a standing stone rather than a single naturalistic scene.",
+ "least_similar_reason": "Candidate 1 is a single frontal human face/mask with no animals, no schematic signs and no register-based arrangement, sharing nothing distinctive with the target's stacked relief creatures and abstract symbols.",
+ "set": "moai_close_among_random",
+ "i": 31,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "mississippian_0008",
+  "mississippian_0055",
+  "maya_0047",
+  "catalhoyuk_0031",
+  "persepolis_0063",
+  "persepolis_0044",
+  "gotland_0123",
+  "assyria_0035",
+  "egypt_0072",
+  "rapa_nui_0004"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "catalhoyuk",
+  "assyria",
+  "gotland",
+  "persepolis",
+  "mississippian",
+  "mississippian",
+  "maya",
+  "persepolis",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 6
+}

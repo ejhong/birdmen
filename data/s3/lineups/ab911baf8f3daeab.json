@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  8,
+  10,
+  6,
+  7,
+  1,
+  3,
+  9,
+  2,
+  4
+ ],
+ "most_similar_reason": "Candidate 5, like the target, is an upright slab whose face is divided into stacked horizontal registers filled with low-relief figures and small emblematic signs, matching the target's compartmented arrangement of carved motifs on a standing stone.",
+ "least_similar_reason": "Candidate 4 shows only rows of small linear sign-like impressions with no creatures, bodies or figural motifs at all, so it shares none of the target's animal iconography or relief imagery.",
+ "set": "moai_among_random",
+ "i": 2,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0087",
+  "tanum_0037",
+  "catalhoyuk_0025",
+  "assyria_0140",
+  "egypt_0039",
+  "maya_0023",
+  "egypt_0009",
+  "persepolis_0108",
+  "tanum_0016",
+  "rapa_nui_0113"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "egypt",
+  "persepolis",
+  "catalhoyuk",
+  "tanum",
+  "maya",
+  "persepolis",
+  "egypt",
+  "assyria",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 3
+}

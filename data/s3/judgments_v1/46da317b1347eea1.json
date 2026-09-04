@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "profile head or face with an eye",
+  "horizontal or repeated patterned banding",
+  "carved relief on a flat stone surface"
+ ],
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces include carved profile heads/faces with prominent eyes and use repeated patterned bands or textures. The biggest difference is compositional: A is a tall, multi-register surface crowded with small schematic motifs, while B is dominated by one large, more naturalistic profile figure on a single rectangular slab.",
+ "a": "anatolia_ppn_p43full",
+ "b": "assyria_0035",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1309,
+  645
+ ]
+}

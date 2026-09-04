@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "stylized animal or zoomorphic figures",
+  "profile animal heads/bodies",
+  "curving serpent-like or limb-like forms",
+  "repeated geometric or sign-like motifs",
+  "stacked decoration over a vertical surface"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces show schematic relief designs made up of stylized zoomorphic/profile forms and repeated sign-like motifs arranged vertically, with the closest correspondence being the use of stacked animal-like and curving forms rather than a single naturalistic scene. The biggest difference is that A has clearer separated registers, recognizable bird/quadruped-like figures and geometric bands, while B is a dense interlocking field of abstract glyphic/serpentine forms with no matching specific figures or relationships.",
+ "a": "anatolia_ppn_p43full",
+ "b": "maya_0114",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  699
+ ]
+}

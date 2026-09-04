@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  6,
+  9,
+  3,
+  5,
+  1,
+  2,
+  4,
+  7,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 shares the target's format of a carved stone stele divided into horizontal registers containing stylized animal and figural motifs rendered in flat relief, closely echoing the target's compositional logic of stacked bands with schematic creatures.",
+ "least_similar_reason": "Candidate 10 depicts large anthropomorphic statues with no comparable register-based arrangement of animals, birds, or geometric bands, making its subject matter and organizational style the most divergent from the target.",
+ "set": "moai_among_random",
+ "i": 1,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "tanum_0005",
+  "mississippian_0007",
+  "assyria_0099",
+  "catalhoyuk_0039",
+  "tanum_0119",
+  "persepolis_0099",
+  "tanum_0106",
+  "egypt_0066",
+  "assyria_0128",
+  "rapa_nui_0113"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "assyria",
+  "persepolis",
+  "mississippian",
+  "assyria",
+  "tanum",
+  "catalhoyuk",
+  "egypt",
+  "tanum",
+  "tanum"
+ ],
+ "model": "sonnet",
+ "planted_rank": 10
+}

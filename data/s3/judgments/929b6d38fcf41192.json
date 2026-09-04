@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic anthropomorphic or body-like form",
+  "circle or disc motif",
+  "curved linear bands or arcs",
+  "incised/relief geometric signs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The clearest shared depicted content is the use of schematic carved signs including circular/disc forms and curved linear motifs, with some possible anthropomorphic/body imagery. The biggest difference is that A is dominated by a single frontal humanlike figure with torso markings, while B is a panel-like composition of multiple profile animals, signs, and registers rather than one central body.",
+ "a": "rapa_nui_0047",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  667
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "bird with outspread wing(s)",
+  "bird head with prominent hooked/pointed beak in profile",
+  "clawed feet / talons",
+  "rows of repeated curved marks reading as feathers or plumage",
+  "horizontal band of repeated motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both surfaces depict a large raptor-like bird with a hooked beak, an outspread wing rendered as ranked rows of curved feather marks, and clawed feet, which is a reasonably specific shared motif. But A is a single, strictly symmetrical frontal bird filling the whole field, while B is a multi-register composition of several small animals (quadrupeds, snake-like forms, a row of repeated heads under a banded frieze) with the bird only as one profile element among many, so the compositional logic and the accompanying cast of creatures differ substantially.",
+ "a": "mississippian_0011",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2999,
+  654
+ ]
+}

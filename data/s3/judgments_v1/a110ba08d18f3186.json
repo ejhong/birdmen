@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "carved stone surface",
+  "horizontal band of repeated signs or pattern",
+  "profile-oriented figures or heads",
+  "oval or disc-like motif"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces use shallow carving on stone with a horizontal band of repeated marks above or among larger profile forms. The biggest difference is that A is organized as a framed human scene with standing figures and compact signs, while B is a taller surface with stacked animal-like and abstract motifs distributed in separate registers.",
+ "a": "egypt_0074",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  646
+ ]
+}

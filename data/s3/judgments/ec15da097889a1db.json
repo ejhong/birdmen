@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "animal figure in profile",
+  "curving linear motif",
+  "small repeated marks or signs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main correspondence is that both surfaces include schematic outline animal imagery in profile accompanied by smaller non-figurative marks or curving lines. The biggest difference is that A is a multi-register composition with several different creatures and repeated sign-bands, while B appears dominated by a single profile quadruped with dots and a large curved motif, without the same ordered iconographic scheme.",
+ "a": "anatolia_ppn_p43full",
+ "b": "tanum_0359",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  657
+ ]
+}

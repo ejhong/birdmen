@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "round-topped stele with arched upper field",
+  "human figures in profile facing one another",
+  "seated/enthroned figure receiving an adorant",
+  "standing figure with arm raised in adoration/offering gesture",
+  "offering stand or altar between figures",
+  "hieroglyph-like inscription signs filling the upper field",
+  "pleated garments rendered by fine parallel incised lines",
+  "registers of figures"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "8",
+ "justification": "Both are round-topped stelae bearing sunk-relief scenes of profile human figures in pleated garments facing an enthroned/large recipient figure, with an offering stand between them and columns of hieroglyph-like signs filling the space above and between, an unmistakably shared iconographic scheme. The main difference is that A shows a single upper scene with one seated and one adorant figure, while B divides its surface into two registers with several adorants in each.",
+ "a": "egypt_0041",
+ "b": "egypt_0072",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  2974,
+  335
+ ]
+}

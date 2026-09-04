@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "curving incised/carved motifs",
+  "animal- or bird-like figure in profile",
+  "round or oval forms"
+ ],
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific visible overlap is that both include pecked or carved curvilinear figures that can read as profile zoomorphic/bird-like forms, along with some round or oval marks. The biggest difference is compositional: A is a flat, rectilinear slab organized into dense horizontal registers with deep relief and geometric bands, while B is a set of irregular boulders with sparse, weathered line motifs scattered across natural rock faces.",
+ "a": "anatolia_ppn_p43full",
+ "b": "rapa_nui_0111",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  667
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  5,
+  3,
+  6,
+  9,
+  4,
+  1,
+  8,
+  10,
+  2
+ ],
+ "most_similar_reason": "Candidate 7 is most similar because it shows dense, vertically arranged blocks of compact curvilinear glyph-like signs, closely matching the target\u2019s stacked inscription-like motifs and schematic carving style.",
+ "least_similar_reason": "Candidate 2 is least similar because it depicts a figural animal/human sculptural grouping rather than rows of symbolic or glyph-like motifs arranged across a decorated surface.",
+ "set": "same_control",
+ "i": 27,
+ "target": "maya_0152",
+ "planted": "maya_0050",
+ "cands": [
+  "gotland_0131",
+  "anatolia_ppn_0259",
+  "tanum_0017",
+  "gotland_0008",
+  "gotland_0125",
+  "assyria_0069",
+  "maya_0050",
+  "rapa_nui_0025",
+  "rapa_nui_0002",
+  "persepolis_0058"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "gotland",
+  "gotland",
+  "persepolis",
+  "gotland",
+  "tanum",
+  "rapa_nui",
+  "rapa_nui",
+  "assyria"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "single human figure (head and upper body)",
+  "tall headdress/cap covering the head",
+  "ornament worn on the chest/neck (disc pendant vs. bead necklaces)",
+  "banded/belted detail across the torso",
+  "ear ornament / ear rendered as a distinct element"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict a single human personage wearing a tall headdress with an ornament suspended on the chest and banded detailing across the torso, which is a moderately specific shared scheme of an adorned dignitary bust. However, A is a frontal, massively schematic figure with a plain blocky face and a large plain disc, while B is a profile head with naturalistic facial modelling, patterned curled beard and hair, and beaded strands, so the depictive conventions and viewpoint have almost nothing in common.",
+ "a": "rapa_nui_0113",
+ "b": "assyria_0035",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3124,
+  674
+ ]
+}

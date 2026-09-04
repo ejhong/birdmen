@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  10,
+  3,
+  9,
+  7,
+  8,
+  5,
+  1,
+  2,
+  6
+ ],
+ "most_similar_reason": "Candidate 4 is, like the target, a shallow low-relief panel with overlapping profile figures and finely incised linear detailing (garment/wing-like striations) filling a horizontal field, the closest match in both subject and carving style.",
+ "least_similar_reason": "Candidate 6 is a single sculpted head in the round with no scene, no profile figures, no animals and no repeated framing motifs, so it shares almost nothing with the target's processional frieze.",
+ "set": "related_control",
+ "i": 28,
+ "target": "persepolis_0073",
+ "planted": "assyria_0122",
+ "cands": [
+  "anatolia_ppn_0107",
+  "anatolia_ppn_0222",
+  "tanum_0348",
+  "assyria_0122",
+  "rapa_nui_0034",
+  "anatolia_ppn_0260",
+  "egypt_0037",
+  "tanum_0340",
+  "tanum_0236",
+  "egypt_0061"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "tanum",
+  "anatolia_ppn",
+  "egypt",
+  "anatolia_ppn",
+  "tanum",
+  "rapa_nui",
+  "tanum",
+  "egypt",
+  "anatolia_ppn"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

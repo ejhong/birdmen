@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  4,
+  3,
+  9,
+  2,
+  7,
+  8,
+  6,
+  10,
+  1
+ ],
+ "most_similar_reason": "Candidate 5 is the only one that, like the target, is dominated by non-human creatures rendered as schematic profile silhouettes combined with abstract curvilinear/geometric motifs rather than a human protagonist with text.",
+ "least_similar_reason": "Candidate 1 shows nothing but ruled lines of script with no creatures, figures or geometric motifs, so it shares none of the target's animal-register imagery.",
+ "set": "moai_iso_among_monoliths",
+ "i": 17,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0049",
+  "egypt_0043",
+  "rapa_nui_hoa_iso",
+  "maya_0147",
+  "gotland_0000",
+  "maya_0053",
+  "egypt_0070",
+  "maya_0052",
+  "egypt_0014",
+  "maya_0106"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "gotland",
+  "maya",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 3
+}

@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "bearded male head in strict profile",
+  "curled/beaded hair and beard rendered as rows of stylized curls",
+  "headdress or crown covering the top of the head",
+  "almond-shaped frontal eye set in a profile face",
+  "ear rendered with ornament/detail",
+  "low-relief bust filling the field"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "8",
+ "justification": "Both depict a single bearded male head in strict profile in low relief, with the beard and hair rendered as dense regular rows of curls, a large frontally-shown almond eye with heavy brow, prominent nose, and a tall headdress band above the fillet-bound hair \u2014 a highly specific and conventional scheme shared point for point (only mirrored in facing direction). The main differences are the headdress type (a ribbed/fluted tall crown versus a pointed, layered banded cap) and the presence of a shoulder/garment area in A, but these are variations within what appears to be the same iconographic tradition.",
+ "a": "assyria_0084",
+ "b": "persepolis_0066",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3099,
+  359
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  6,
+  10,
+  8,
+  7,
+  1,
+  4,
+  3,
+  9,
+  2
+ ],
+ "most_similar_reason": "Candidate 5 is most similar because it also presents a flat decorated surface with a large schematic face-or-mask-like upper form combined with repeated glyph-like/scroll elements below, echoing the target\u2019s dense abstract iconographic arrangement.",
+ "least_similar_reason": "Candidate 2 is least similar because it depicts essentially a single freestanding human bust/head, without the target\u2019s complex relief field of masks, glyph-like signs, paired zoomorphic forms, or register-like organization.",
+ "set": "same_control_monoliths",
+ "i": 33,
+ "target": "maya_0045",
+ "planted": "maya_0066",
+ "cands": [
+  "anatolia_ppn_0072",
+  "anatolia_ppn_0239",
+  "anatolia_ppn_0175",
+  "anatolia_ppn_0266",
+  "maya_0066",
+  "egypt_0068",
+  "anatolia_ppn_0107",
+  "anatolia_ppn_0270",
+  "rapa_nui_0049",
+  "egypt_0076"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "egypt",
+  "rapa_nui",
+  "egypt",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "anatolia_ppn"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  4,
+  1,
+  3,
+  5,
+  10,
+  7,
+  6,
+  2,
+  8
+ ],
+ "most_similar_reason": "Candidate 9 shows the same single frontal standing figure filling a tall slab, with a massive elaborate headdress above the face, arms held across the body and ornaments hanging at the chest, rendered in the same dense low-relief style as the target.",
+ "least_similar_reason": "Candidate 8 shows an arched panel dominated by an abstract checkered/geometric field rather than a frontal human figure with headdress and chest disc, sharing no distinctive motif with the target.",
+ "set": "p43_iso_among_monoliths",
+ "i": 36,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0147",
+  "egypt_0071",
+  "maya_0083",
+  "maya_0137",
+  "anatolia_ppn_p43iso",
+  "egypt_0072",
+  "egypt_0065",
+  "gotland_0111",
+  "maya_0051",
+  "egypt_0046"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "gotland",
+  "maya",
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 5
+}

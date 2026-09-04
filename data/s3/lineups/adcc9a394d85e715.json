@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  1,
+  10,
+  7,
+  3,
+  4,
+  5,
+  8,
+  2,
+  9
+ ],
+ "most_similar_reason": "It shows multiple animals carved in profile and arranged together across the surface in a schematic relief style, matching the target's stacked creatures (water birds and a possible scorpion) more closely than any other candidate.",
+ "least_similar_reason": "It shows only a painted frontal human face, sharing none of the target's profile animals, stacked motifs, or geometric infill.",
+ "set": "moai_among_random",
+ "i": 3,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0010",
+  "tanum_0050",
+  "persepolis_0080",
+  "maya_0091",
+  "maya_0005",
+  "persepolis_0020",
+  "persepolis_0047",
+  "rapa_nui_0113",
+  "mississippian_0008",
+  "maya_0027"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "persepolis",
+  "persepolis",
+  "mississippian",
+  "maya",
+  "persepolis",
+  "tanum",
+  "persepolis",
+  "maya",
+  "maya"
+ ],
+ "model": "grok",
+ "planted_rank": 8
+}

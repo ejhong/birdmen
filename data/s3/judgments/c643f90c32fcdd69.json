@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "low-relief carved figural frieze in a horizontal band",
+  "human figures in strict profile facing one direction",
+  "bearded men with patterned headgear",
+  "large quadruped in profile shown at same scale as men",
+  "procession/movement toward one side",
+  "men leading or accompanying an animal",
+  "men holding staffs/rods and objects in the hand"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show a horizontal low-relief frieze of profile bearded men in patterned caps processing in one direction alongside a large profile quadruped rendered at near-human scale, with hands holding staffs or gear \u2014 a fairly specific shared processional scheme. However, A depicts a chariot with horses, archers and combat amid fallen enemies, while B is a peaceful tribute-bearing procession with a humped camel under a border band of rosettes, and B lacks any wheeled vehicle or weapons.",
+ "a": "assyria_0052",
+ "b": "persepolis_0007",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  339
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "shared_elements": [
+  "single large humanoid figure dominating a rectangular slab",
+  "elaborate tall headdress",
+  "profile head",
+  "raised arm holding a small object",
+  "feathered/plumed elements attached to the figure",
+  "ornamented garment with dense incised patterning",
+  "jewellery (bracelets, ear ornament)",
+  "secondary motifs filling the field beside the figure (rosettes / glyph-like blocks)",
+  "carved in low relief with outlined forms and incised interior detail"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both show a single richly costumed humanoid in profile-headed low relief filling a rectangular panel, wearing a tall elaborate headdress, bracelets and ear ornaments, with an arm raised holding a small object and plumage/feather forms spreading behind, plus subsidiary filler motifs beside the body. But the specific vocabulary differs sharply: A has anatomically legible bird wings, a long curled beard, and vegetal rosettes, while B has an interlocking mask-and-plume headdress, frontal torso with legs turned outward, and a block of square sign-like cartouches, so the resemblance is at the generic level of 'ornate frontal-ish dignitary relief' rather than shared motifs.",
+ "a": "assyria_0079",
+ "b": "maya_0110",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  791
+ ]
+}

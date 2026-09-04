@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "horizontal band or register of ornament",
+  "profile human or anthropomorphic figure",
+  "linear carving in low relief on stone"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The clearest correspondence is that both surfaces are stone reliefs organized with horizontal decorative bands/registers and include profile human or human-like figures. The biggest difference is that A is a vertically stacked, rougher, more emblematic composition with animals and isolated signs, while B is a continuous, finely detailed horizontal procession framed by repeated ornamental borders.",
+ "a": "anatolia_ppn_p43full",
+ "b": "persepolis_0077",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  646
+ ]
+}

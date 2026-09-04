@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figures in strict profile",
+  "low relief carving with incised interior detail",
+  "procession/offering scene with figures facing one another",
+  "figures carrying or presenting objects (offering vessel/tray)",
+  "register format bounded by horizontal lines",
+  "decorative band of repeated motifs / row of small repeated signs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both are low-relief profile-figure scenes organised in a bounded horizontal register, with human figures facing one direction and one bearing an offering vessel or laden tray, plus a band of repeated small motifs (rosettes in A, sign-row in B). But A is a striding outdoor tribute procession dominated by a large two-humped camel led by attendants, while B is a static seated-figure-before-offering-table composition with a rounded top and a text band, and no animal \u2014 the shared traits are the generic conventions of profile relief rather than a common specific scheme.",
+ "a": "persepolis_0079",
+ "b": "egypt_0066",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  347
+ ]
+}

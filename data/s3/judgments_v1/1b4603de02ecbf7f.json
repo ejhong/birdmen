@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "animals in profile",
+  "quadrupeds in profile",
+  "repeated small figures or motifs",
+  "linear marks/incised-or-painted outlines"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest shared feature is the use of simplified profile animal figures, especially quadrupeds, distributed across a flat decorated surface with some repeated small motifs. The biggest difference is that A is a broad painted mural with many red stick-like human figures and dark animal silhouettes in a loose narrative scatter, while B is a vertical carved stone surface organized more rigidly into relief registers and dense emblematic forms.",
+ "a": "catalhoyuk_0110",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  661
+ ]
+}

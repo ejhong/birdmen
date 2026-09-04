@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "schematic human figure with head, torso and arms",
+  "frontal standing pose"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "The only shared content is a highly simplified human figure: A includes small stick-like humans standing frontally among boats, discs and rosette signs, while B is a single massive frontal torso with prominent head, nipples and folded arms. A is a crowded multi-element narrative surface with rows of crewed boats and dot lines; B depicts one isolated body with anatomical detail, so relationships, arrangement and rendering conventions have essentially nothing in common.",
+ "a": "tanum_0056",
+ "b": "rapa_nui_0006",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3124,
+  252
+ ]
+}

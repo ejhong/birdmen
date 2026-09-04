@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "curving animal or bird-like heads in profile",
+  "oval or circular eye/disc forms",
+  "incised or low-relief linear carving on stone"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of carved, curving zoomorphic or bird-like profile forms with rounded eye/disc shapes. The biggest difference is compositional: A is a tall, flat slab organized into clear horizontal registers, while B is an irregular boulder with a dense, non-register arrangement of larger curvilinear motifs.",
+ "a": "anatolia_ppn_p43full",
+ "b": "rapa_nui_0070",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  609
+ ]
+}

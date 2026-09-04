@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "human figure",
+  "figure holding an elongated object (staff/mace-like)",
+  "rock surface carving/painting of figures"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "Both surfaces depict human figures on rock, and in each case a figure appears associated with an elongated held object, but that is a generic correspondence. A shows a formal architectural stele with a small register of naturalistic figures above many lines of dense inscription, while B is a single large, crudely schematic outline figure with no register, no text and no accompanying scene; the conventions of proportion, outline and composition are entirely different.",
+ "a": "egypt_0033",
+ "b": "tanum_0050",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  244
+ ]
+}

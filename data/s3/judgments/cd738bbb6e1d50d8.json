@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "circular disc/roundel with radiating spokes or rays",
+  "concentric rings around a central boss",
+  "horizontal bands of repeated pattern",
+  "raised relief carving on a stone surface"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces present a prominent circular disc with a central boss set within concentric rings, and both include horizontal bands of repeated small motifs; in A the disc is a small emblem on the chest of a large anthropomorphic figure, while in B it is a large spoked wheel of a vehicle occupying nearly the whole field. The dominant content differs entirely \u2014 A shows a monolithic standing human/figural form with headdress, face, arms and body ornaments, whereas B shows an architectural/vehicular relief scene with harness, textile pattern and a petal border, with no figure visible \u2014 and the rendering conventions (blocky, deeply schematic volumes vs. flat low-relief linear detailing) are unrelated.",
+ "a": "rapa_nui_0113",
+ "b": "persepolis_0006",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3174,
+  364
+ ]
+}

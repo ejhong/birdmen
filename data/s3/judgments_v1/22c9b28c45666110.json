@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "animal in profile",
+  "incised linear detailing on animal bodies",
+  "relief carving on a flat stone surface"
+ ],
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main shared feature is profile animals carved in relief, with internal incised lines used to articulate texture or pattern. The biggest difference is compositional: A is dominated by two large, naturalistically modeled horned animals in a single horizontal field, while B is a vertical pillar-like surface divided into stacked zones with smaller, schematic figures and symbols.",
+ "a": "persepolis_0085",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  634
+ ]
+}

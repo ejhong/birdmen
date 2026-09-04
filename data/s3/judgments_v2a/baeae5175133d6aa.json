@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "circular/disc-like motif",
+  "carved figurative anthropomorphic or animal element",
+  "stone as carrier of relief carving"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "Image A shows a tall anthropomorphic monolithic statue with a stylized face, arms, and a circular belly motif carved in high relief, while Image B shows a flat slab with three arch-shaped 'eyebrow' or 'rainbow' motifs above a band of hatching and small crouching figures, a very different compositional scheme. The only loose commonality is the general presence of a circular motif and some figurative carving in stone, but the specific forms, postures, and arrangement of elements differ entirely.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_0272",
+ "model": "sonnet",
+ "set": "target",
+ "usage": [
+  3048,
+  278
+ ]
+}

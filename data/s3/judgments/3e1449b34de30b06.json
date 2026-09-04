@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "large rectangular inscribed panel",
+  "multiple horizontal ruled registers of small repeated signs (script)",
+  "group of standing human figures side by side",
+  "figures rendered at larger scale than the signs",
+  "sculptural/relief figures set within a framed monument field"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show a single large framed monument combining a group of standing human figures at one end with an extensive field of tightly stacked horizontal lines of small script signs, a fairly specific combination of figural scene plus long text block. The differences are that B preserves an explicit scene (a rayed disc above two adoring figures flanked by smaller attendants and an offering table, plus cartouche panels) whereas in A only a row of eroded standing statues below the text lines is legible, with no visible disc, offering table or hierarchical grouping.",
+ "a": "egypt_0051",
+ "b": "egypt_0015",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3124,
+  894
+ ]
+}

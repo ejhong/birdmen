@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  7,
+  1,
+  9,
+  8,
+  5,
+  6,
+  3,
+  2,
+  10
+ ],
+ "most_similar_reason": "Candidate 4 is most similar because it shows a vertical surface filled with low-relief, schematic animal figures and abstract signs arranged in a comparable crowded, non-naturalistic iconographic field to the target.",
+ "least_similar_reason": "Candidate 10 is least similar because it mainly shows carved architectural/niche-like forms in a cliff face rather than depicted animals, body parts, symbols, or patterned figural motifs like those on the target.",
+ "set": "moai_close_among_random",
+ "i": 33,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "gotland_0125",
+  "mississippian_0010",
+  "assyria_0021",
+  "maya_0047",
+  "tanum_0340",
+  "assyria_0146",
+  "egypt_0063",
+  "tanum_0237",
+  "rapa_nui_0004",
+  "egypt_0051"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "egypt",
+  "tanum",
+  "tanum",
+  "assyria",
+  "assyria",
+  "mississippian",
+  "gotland"
+ ],
+ "model": "gpt",
+ "planted_rank": 4
+}

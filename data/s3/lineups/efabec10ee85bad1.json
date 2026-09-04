@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  8,
+  4,
+  2,
+  1,
+  5,
+  3,
+  9,
+  10,
+  7
+ ],
+ "most_similar_reason": "Candidate 6 depicts a bird/eagle-like creature rendered in detailed relief with feather and wing motifs, closely echoing the schematic bird-of-prey imagery carved on the target stele.",
+ "least_similar_reason": "Candidate 7 shows only a rough, undecorated stone surface with no discernible figures, animals, or symbolic motifs, sharing nothing in depicted content with the animal-filled carved bands of the target.",
+ "set": "moai_among_random",
+ "i": 7,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "mississippian_0010",
+  "persepolis_0004",
+  "rapa_nui_0113",
+  "persepolis_0097",
+  "mississippian_0000",
+  "assyria_0119",
+  "egypt_0027",
+  "maya_0138",
+  "egypt_0005",
+  "gotland_0118"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "assyria",
+  "egypt",
+  "persepolis",
+  "maya",
+  "persepolis",
+  "gotland",
+  "egypt",
+  "mississippian",
+  "mississippian"
+ ],
+ "model": "sonnet",
+ "planted_rank": 7
+}

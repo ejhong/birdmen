@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low-relief carving on an upright slab/stele",
+  "schematic human figures with linear anatomy",
+  "arms/hands rendered as simple splayed lines",
+  "curvilinear/looped motifs suggesting jewellery or torc-like collars",
+  "circular disc motif",
+  "repeated vertical linear elements suggesting garment folds"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both are upright slabs bearing schematic low-relief human imagery with linear limbs, garment-like vertical striations and loop/disc ornaments across the chest area, which is a moderately specific convergence in body ornament placement. However, A depicts multiple small figures in registers interacting in a narrative scene, while B is a single monumental frontal figure with a hat/headdress whose body fills the whole stone, so the compositional relationships differ substantially.",
+ "a": "egypt_0072",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2974,
+  322
+ ]
+}

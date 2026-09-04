@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  7,
+  1,
+  9,
+  6,
+  4,
+  10,
+  8,
+  5,
+  2
+ ],
+ "most_similar_reason": "Candidate 3, like the target, is an upright slab-shaped monument bearing a single frontal standing figure carved in low relief with an elaborate headdress, chest/neck ornament and belt-sash, filling the whole face of the stone in the same schematic, shallow-relief manner.",
+ "least_similar_reason": "Candidate 2 shows only an abstract incised outline design on a rounded fan-shaped surface with no human figure, headdress, ornament or costume elements, so it shares none of the target's distinctive figural iconography.",
+ "set": "p43_iso_among_monoliths",
+ "i": 12,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0054",
+  "gotland_0112",
+  "maya_0091",
+  "maya_0082",
+  "egypt_0069",
+  "maya_0045",
+  "maya_0101",
+  "mississippian_0015",
+  "anatolia_ppn_p43iso",
+  "egypt_0050"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "egypt",
+  "mississippian",
+  "maya",
+  "maya",
+  "maya",
+  "egypt",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

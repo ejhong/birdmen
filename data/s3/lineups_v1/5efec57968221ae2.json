@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  6,
+  1,
+  4,
+  10,
+  3,
+  7,
+  2,
+  8,
+  5
+ ],
+ "most_similar_reason": "Candidate 9 is, like the target, a tall irregular upright stone slab whose broad face carries shallow, flat-toned relief motifs stacked in horizontal bands, giving the same schematic, low-carved, monolith-surface impression.",
+ "least_similar_reason": "Candidate 5 shows only a weathered, largely blank rock-cut face with no discernible figural or patterned relief, so it shares almost nothing with the target's densely carved animal imagery.",
+ "set": "moai_among_random",
+ "i": 14,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "egypt_0047",
+  "assyria_0140",
+  "assyria_0119",
+  "egypt_0068",
+  "egypt_0051",
+  "egypt_0064",
+  "persepolis_0023",
+  "rapa_nui_0113",
+  "maya_0092",
+  "maya_0057"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "assyria",
+  "egypt",
+  "assyria",
+  "egypt",
+  "persepolis",
+  "egypt",
+  "maya",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 9
+}

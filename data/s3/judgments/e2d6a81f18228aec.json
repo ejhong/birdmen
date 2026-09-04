@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human or humanoid figure depicted frontally/in profile with garment detail",
+  "incised low-relief carving on a flat stone face",
+  "curved/circular motifs (disc, ring, curved lines)",
+  "banded horizontal registers of ornament",
+  "depiction of held or worn objects (staff/weapon, jewellery, vessel)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces show human/humanoid figures carved in low relief with garment or ornament detail, and both include curved motifs and a band-like horizontal division, but these are generic. A shows a single massive frontal figure with a huge blocky head, schematic incised symbols (a large ring/disc, crescents) across a body-shaped block, while B shows a procession of several slender profile figures in patterned robes with elaborate hairstyles, holding objects and standing in ordered registers \u2014 quite different conventions of proportion and composition.",
+ "a": "rapa_nui_0113",
+ "b": "persepolis_0071",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2924,
+  346
+ ]
+}

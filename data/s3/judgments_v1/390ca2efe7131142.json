@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "horizontal band or register",
+  "horizontal band of pattern",
+  "standing human figure",
+  "animal in profile"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest correspondence is that both are carved surfaces divided by horizontal bands/registers, with profile figures including humans and animals. The biggest difference is that A is a long, orderly, pale procession in fine shallow relief, while B is a compact rough pillar with denser, more schematic animal-dominated carving.",
+ "a": "persepolis_0099",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  625
+ ]
+}

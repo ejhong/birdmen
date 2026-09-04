@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low-relief carving on an upright slab/stela",
+  "animal figures in profile",
+  "human or anthropomorphic figures",
+  "horizontal register-like bands dividing the surface",
+  "rows of repeated small signs/motifs",
+  "figures arranged in vertical stacked zones"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both are upright slabs bearing low-relief figural imagery divided into stacked horizontal registers, with rows of small repeated signs and animal/anthropomorphic figures in profile, which gives a loose compositional resemblance. But the specific content differs entirely: A shows elaborately costumed human figures with dense glyph-like columns and ornate headdress detail, while B shows isolated schematic animals (a quadruped, a long-necked bird, a scorpion-like creature) and abstract bands with no human costume or script-like blocks.",
+ "a": "maya_0125",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  345
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low relief carving of figures in strict profile",
+  "processional repetition of near-identical figures moving in the same direction",
+  "overlapping figures arranged in a single register",
+  "patterned incised detail used to fill surfaces (curled hair/beard, fleece curls)",
+  "large-eyed profile heads with emphatic outlines"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show low-relief profile figures marching in the same direction in a single register, with overlapping bodies and the same convention of dense curled incision (tightly rolled beard/hair curls in A, identical spiral fleece and horn ridges in B), which is a fairly specific shared rendering habit. The decisive difference is the subject: A depicts a procession of robed human attendants framed by rosette bands, while B depicts a pair of horned rams with no human figures or ornamental borders.",
+ "a": "persepolis_0077",
+ "b": "persepolis_0085",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3349,
+  338
+ ]
+}

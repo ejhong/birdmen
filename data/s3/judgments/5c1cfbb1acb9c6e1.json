@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "large frontal anthropomorphic figure or body-shaped surface",
+  "rounded head with incised facial/geometric markings",
+  "paired small oval/cup-like motifs on upper chest",
+  "central circular disc/ring motif below them",
+  "curving set of parallel bands across the torso",
+  "short vertical pendant strokes below the curved band",
+  "schematic incised linear decoration on upper body"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "10",
+ "justification": "Both show the same frontal anthropomorphic decorated form with the paired upper ovals, central circular ring, and arcing parallel torso bands in the same relative positions. The main difference is only that the carvings are seen with slightly different visibility/angle, rather than any substantive difference in depicted content.",
+ "a": "rapa_nui_0047",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  474
+ ]
+}

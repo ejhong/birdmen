@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "circle or disc motifs",
+  "curving linear motifs",
+  "geometric line ornament"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The only real correspondences are generic incised/outlined circular and curving motifs, with both surfaces using schematic linear rendering rather than naturalistic modeling. The biggest difference is that A is an ornamental floral/vegetal and geometric register, while B is dominated by a single anthropomorphic figure with body features and bands, so the depicted iconography and arrangement do not match.",
+ "a": "assyria_0063",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  494
+ ]
+}

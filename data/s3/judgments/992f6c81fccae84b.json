@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human figures in profile",
+  "figures holding/offering objects",
+  "relief carving with figures in a bounded field",
+  "repeated/patterned decorative motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both depict human figures in profile who hold or present objects, and both use relief with some patterned decorative elements, but these are generic to figural relief traditions. A shows a uniform single-file procession of near-identical robed, bearded men with bowls against an empty ground, while B is a dense, horror-vacui composition organised around a central tree with elaborately costumed, masked figures flanking it and enclosed by ornamental scroll and stepped borders \u2014 the conventions of proportion, crowding and framing are entirely different.",
+ "a": "persepolis_0012",
+ "b": "maya_0028",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3149,
+  285
+ ]
+}

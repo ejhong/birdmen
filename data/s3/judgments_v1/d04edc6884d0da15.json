@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "upright stone surface with carved decoration",
+  "profile human or anthropomorphic figure",
+  "bird- or animal-like profile forms",
+  "small circle or disc/oval motif",
+  "horizontal bands or rows of repeated signs",
+  "linear carved symbols"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both are upright carved stone surfaces using profile figures and rows/bands of small linear signs, including occasional animal-like and circular motifs. The biggest difference is that B has a tightly organized framed scene with two clear human figures and ordered text-like registers, while A is rougher, more irregular, and dominated by large schematic animal/bird and pattern forms rather than a single coherent scene.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0050",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  654
+ ]
+}

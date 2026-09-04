@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  6,
+  9,
+  1,
+  4,
+  3,
+  10,
+  7,
+  2,
+  5
+ ],
+ "most_similar_reason": "Candidate 8 is most similar because it shares the target\u2019s schematic relief style, horizontal register organization, profile animal/bird-like figures, and a lower band of repeated geometric motifs integrated with the figural scene.",
+ "least_similar_reason": "Candidate 5 is least similar because it depicts two comparatively naturalistic standing human figures interacting, without the target\u2019s register structure, bird/animal iconography, or repeated geometric bands.",
+ "set": "moai_iso_among_random",
+ "i": 22,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0028",
+  "rapa_nui_hoa_iso",
+  "maya_0056",
+  "maya_0127",
+  "persepolis_0049",
+  "maya_0110",
+  "maya_0147",
+  "maya_0115",
+  "tanum_0017",
+  "assyria_0034"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "tanum",
+  "maya",
+  "maya",
+  "maya",
+  "persepolis",
+  "maya",
+  "maya",
+  "maya",
+  "assyria"
+ ],
+ "model": "gpt",
+ "planted_rank": 9
+}

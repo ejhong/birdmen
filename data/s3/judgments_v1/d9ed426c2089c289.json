@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "circle or disc motifs",
+  "curving linear bands",
+  "abstract/geometric carved patterns",
+  "low-relief carving on an upright stone surface"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of carved circular/disc motifs together with curving bands on a vertical stone surface. The biggest difference is that A is a flat, crowded, register-like panel with many small figures and patterned zones, while B is a rounded sculptural back with larger, more sparse motifs integrated into an anthropomorphic form.",
+ "a": "anatolia_ppn_p43full",
+ "b": "rapa_nui_0054",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1124,
+  650
+ ]
+}

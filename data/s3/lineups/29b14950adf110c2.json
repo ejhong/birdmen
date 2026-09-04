@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  8,
+  4,
+  6,
+  5,
+  1,
+  3,
+  7,
+  2,
+  9
+ ],
+ "most_similar_reason": "Candidate 10 shows the same kind of surface densely filled with low-relief, schematic profile animals (bird-like heads, elongated bodies and curving limbs) interlocked across the field rather than a single narrative scene, matching the target's stacked animal imagery in both form and layout.",
+ "least_similar_reason": "Candidate 9 shows only crude linear stick-figure humans with outstretched limbs, sharing none of the target's profile animals, registered bands or modelled relief conventions.",
+ "set": "moai_iso_among_random",
+ "i": 36,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0047",
+  "maya_0048",
+  "tanum_0119",
+  "rapa_nui_hoa_iso",
+  "tanum_0000",
+  "assyria_0059",
+  "maya_0130",
+  "egypt_0061",
+  "tanum_0317",
+  "maya_0162"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "tanum",
+  "maya",
+  "tanum",
+  "assyria",
+  "egypt",
+  "maya",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 3
+}

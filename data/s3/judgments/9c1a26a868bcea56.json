@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "animals in profile",
+  "human/anthropomorphic figures",
+  "quadrupeds with visible legs and tails",
+  "bird-like creature",
+  "register or band-based composition",
+  "schematic, outlined figures with limbs shown flat"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both show schematic animals and anthropomorphic figures organised in horizontal registers, with quadrupeds in profile and at least one bird-like creature, which is about as generic as animal imagery gets. A depicts a crowded narrative hunting scene of many small, lively, running human figures swarming around large bulls and deer, while B shows a few large, isolated, static creatures (crouching quadruped, snake-like/reptilian forms, a bird with a rounded object) stacked in separate panels with no human action and no interaction between them, so no specific relationship, posture or composition is shared.",
+ "a": "catalhoyuk_0110",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  331
+ ]
+}

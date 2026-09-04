@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "carved stone surface",
+  "profile figural/animal forms",
+  "horizontal bands or registers",
+  "repeated small linear/geometric marks",
+  "small circular or oval motifs"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both are vertical carved stones organized with horizontal divisions, profile forms, and rows of small repeated marks near or below the main imagery. The biggest difference is compositional: B has a clear arched slab with a central human scene and ordered lower bands, while A is a taller, rougher, more fragmented surface dominated by animal-like and abstract motifs in stacked zones.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0043",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  654
+ ]
+}

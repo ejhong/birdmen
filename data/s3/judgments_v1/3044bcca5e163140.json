@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "carved/incised stone surface",
+  "circle or disc motifs",
+  "rows of small repeated signs or geometric marks near the upper part",
+  "profile figure or animal-like forms"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of shallow carved linear imagery on stone, with circular motifs and compact rows of small signs or marks placed toward the upper area. The biggest difference is compositional: A is organized in stacked horizontal registers with large geometric and animal-like forms, while B is a single figural scene dominated by standing human figures under a rounded top.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0046",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  660
+ ]
+}

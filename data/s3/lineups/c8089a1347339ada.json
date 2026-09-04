@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  8,
+  10,
+  5,
+  2,
+  1,
+  6,
+  9,
+  3,
+  7
+ ],
+ "most_similar_reason": "Both display energetic, schematic human figures in solid dark tones shown in varied, active poses.",
+ "least_similar_reason": "It presents a solitary sculpted head, completely lacking the dynamic, multi-figure narrative scene.",
+ "set": "same_control",
+ "i": 7,
+ "target": "catalhoyuk_0031",
+ "planted": "catalhoyuk_0025",
+ "cands": [
+  "rapa_nui_0101",
+  "assyria_0047",
+  "maya_0027",
+  "catalhoyuk_0025",
+  "assyria_0088",
+  "egypt_0043",
+  "anatolia_ppn_0155",
+  "tanum_0327",
+  "egypt_0045",
+  "gotland_0128"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "gotland",
+  "egypt",
+  "maya",
+  "assyria",
+  "anatolia_ppn",
+  "tanum",
+  "rapa_nui",
+  "egypt",
+  "assyria"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

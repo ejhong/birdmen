@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic linear/geometric motifs",
+  "parallel vertical strokes",
+  "circle or oval forms"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The only real correspondences are generic schematic devices such as incised-looking outline geometry, some parallel strokes, and possible circular or oval marks. A appears to show an elongated profile creature or boat-like form with compartmental divisions and many downward strokes, whereas B is dominated by a frontal anthropomorphic/face-like figure with paired round elements, a central circular mouth-like form, and curved bands.",
+ "a": "tanum_0119",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  620
+ ]
+}

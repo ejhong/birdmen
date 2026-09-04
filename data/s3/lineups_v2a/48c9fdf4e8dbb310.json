@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  4,
+  10,
+  7,
+  3,
+  9,
+  2,
+  8,
+  1,
+  5
+ ],
+ "most_similar_reason": "Candidate 6 likewise shows carved human figures in profile with patterned garments and raised hands/held objects, rendered in shallow relief with crisp outlines and interior detailing arranged in a horizontal register, closely echoing the target's costumed attendants.",
+ "least_similar_reason": "Candidate 5 is an essentially blank upright stone with no discernible figures, objects or motifs at all, so it shares none of the target's depicted content.",
+ "set": "related_control",
+ "i": 6,
+ "target": "persepolis_0017",
+ "planted": "assyria_0021",
+ "cands": [
+  "anatolia_ppn_0082",
+  "gotland_0008",
+  "gotland_0133",
+  "maya_0060",
+  "maya_0082",
+  "assyria_0021",
+  "maya_0047",
+  "gotland_0018",
+  "egypt_0053",
+  "mississippian_0007"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "egypt",
+  "gotland",
+  "maya",
+  "maya",
+  "mississippian",
+  "gotland",
+  "anatolia_ppn",
+  "maya",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

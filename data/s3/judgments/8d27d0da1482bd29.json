@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "profile animal or bird forms",
+  "standing human or anthropomorphic figure",
+  "small repeated signs or symbol-like marks",
+  "stacked/register-like organization of motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is that both surfaces include profile-rendered figures\u2014especially animal/bird-like forms and at least one human or anthropomorphic figure\u2014combined with rows or clusters of small symbolic marks. The biggest difference is that A is dominated by separate animals and geometric bands arranged as emblematic motifs, while B is a human-centered scene with figures interacting around staffs/standards, an offering/table-like object, and inscription-like signs.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0044",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  1199
+ ]
+}

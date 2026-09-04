@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "standing human figure",
+  "headwear/headdress",
+  "hand gesture with arm raised"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both show human figures with headgear and raised hands, but A is a single elaborately garbed figure covered in dense symbolic ornamentation carved in high relief with a frontal, mask-like face, while B depicts a repeated row of similarly dressed profile figures processing and holding offering bowls. The compositional logic (single icon vs. serial procession), the figure orientation (frontal vs. profile), and the type of held objects differ fundamentally, so the correspondence is limited to the generic presence of human figures with headdresses.",
+ "a": "maya_0060",
+ "b": "persepolis_0012",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  3124,
+  270
+ ]
+}

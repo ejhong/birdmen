@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "human-like figure with schematic features",
+  "circular/disc motif",
+  "carved relief on stone"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both are stone reliefs using schematic, low-relief carving with some circular motifs, but A depicts a single tall anthropomorphic standing figure with a belt-like band and small arms, while B shows a row of arched/domed shapes above a horizontal patterned band with distinct animal-like and figural forms below. The overall composition, figure types, and relationships between elements differ substantially, with only the general carving style and presence of curvilinear motifs being loosely comparable.",
+ "a": "rapa_nui_0004",
+ "b": "anatolia_ppn_0272",
+ "model": "sonnet",
+ "set": "target",
+ "usage": [
+  3048,
+  263
+ ]
+}

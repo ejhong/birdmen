@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "profile animals/quadrupeds",
+  "bird-like or long-necked animal forms in profile",
+  "horizontal register divisions",
+  "repeated geometric patterning or border motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main overlap is that both surfaces use schematic profile animal figures together with geometric patterning and horizontal division into zones. The biggest difference is that B is organized around a framed, register-like scene with prominent standing human figures above large animals, whereas A is dominated by scattered animal and sign-like motifs without the same human group or enclosed narrative composition.",
+ "a": "anatolia_ppn_p43full",
+ "b": "gotland_0116",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1883,
+  623
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "schematic human/anthropomorphic figures",
+  "animals rendered in profile",
+  "horizontal registers or bands of repeated marks",
+  "rows of small repeated dots/strokes",
+  "outlined forms with sparse interior detail"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces show schematic figures and repeated rows of small marks arranged in loose horizontal registers, but the actual subject matter differs almost entirely: A is dominated by boats with crews of vertical stroke-figures, stick-limbed humans and long vertical files of dots, while B shows a stack of animals (quadrupeds, a bird with prominent beak and eye, a snake-like ladder form) plus arms/hands and an arcaded band. The only correspondences are generic ones (animals in profile, schematic humans, repeated marks) that any unrelated tradition could produce independently; no distinctive motif recurs in the same relationship.",
+ "a": "tanum_0328",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  366
+ ]
+}

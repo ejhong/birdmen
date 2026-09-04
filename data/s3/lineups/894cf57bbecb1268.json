@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  1,
+  6,
+  9,
+  2,
+  10,
+  8,
+  5,
+  4,
+  7
+ ],
+ "most_similar_reason": "Both feature a stylized profile relief of a winged, bearded figure with a horned headdress.",
+ "least_similar_reason": "This image shows a distant view of rock structures lacking any clear figurative iconography.",
+ "set": "same_control",
+ "i": 9,
+ "target": "assyria_0128",
+ "planted": "assyria_0034",
+ "cands": [
+  "egypt_0046",
+  "rapa_nui_0108",
+  "assyria_0034",
+  "tanum_0126",
+  "rapa_nui_0082",
+  "rapa_nui_0046",
+  "egypt_0051",
+  "maya_0024",
+  "anatolia_ppn_0041",
+  "tanum_0059"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "rapa_nui",
+  "tanum",
+  "tanum",
+  "rapa_nui",
+  "egypt",
+  "rapa_nui",
+  "maya",
+  "egypt",
+  "anatolia_ppn"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "quadruped animal shown in profile",
+  "low-relief animal with legs and tail rendered flatly",
+  "animals arranged in a row/register on a rectangular stone surface",
+  "band of repeated motifs along the top of the surface"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces depict quadruped animals in strict profile carved in relief on rectangular architectural elements, with a horizontal band of repeated motifs running along the upper edge and animals aligned in a register facing the same way. The biggest difference in content is that B presents a crowded multi-register program including birds, a snake and rows of abstract arched signs, while A shows only two quadrupeds, one of them a bulky three-dimensional crouching beast rather than a flat outline figure.",
+ "a": "anatolia_ppn_0006",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3048,
+  708
+ ]
+}

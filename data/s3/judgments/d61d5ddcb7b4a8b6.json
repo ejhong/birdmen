@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "standing human figure in profile/frontal action pose",
+  "figure holding an object in raised hand",
+  "concentric circle / disc motif (as shield, sun-disc or wristlet rosette)",
+  "raised arm gesture",
+  "figures carrying weapon-like or staff-like implements"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "Both surfaces depict upright human-form figures with raised arms holding objects, and both contain concentric-circle discs (large shield-like discs in A, small rosette-wristlets in B), but these are generic and independently common motifs. A is a scatter of tiny stick-figure silhouettes, ships and cup-marks distributed loosely over a field, while B is a single large, anatomically modelled winged figure with detailed drapery, beard and feathering filling one panel \u2014 utterly different conventions of depiction, scale relations and composition.",
+ "a": "tanum_0063",
+ "b": "assyria_0158",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3124,
+  331
+ ]
+}

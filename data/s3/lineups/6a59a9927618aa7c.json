@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  9,
+  6,
+  7,
+  8,
+  4,
+  3,
+  10,
+  1,
+  2
+ ],
+ "most_similar_reason": "Candidate 5 shows the same kind of tall upright slab bearing sparse, shallow low-relief motifs \u2014 an animal-like creature and long curving incised lines with an angular projecting element \u2014 carved on the broad face and narrow side in the same schematic, outline-and-flat-relief manner as the target.",
+ "least_similar_reason": "Candidate 2 is a continuous horizontal frieze of repeated frontal human figures framed by bands of geometric ornament, sharing none of the target's isolated single animal in profile with sweeping linear appendage on an upright pillar.",
+ "set": "same_control_monoliths",
+ "i": 35,
+ "target": "anatolia_ppn_0103",
+ "planted": "anatolia_ppn_0027",
+ "cands": [
+  "egypt_0067",
+  "gotland_0128",
+  "gotland_0005",
+  "maya_0056",
+  "anatolia_ppn_0027",
+  "rapa_nui_0065",
+  "rapa_nui_0063",
+  "maya_0097",
+  "rapa_nui_0044",
+  "egypt_0073"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "maya",
+  "egypt",
+  "rapa_nui",
+  "rapa_nui",
+  "egypt",
+  "rapa_nui",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

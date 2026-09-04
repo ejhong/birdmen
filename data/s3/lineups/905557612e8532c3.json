@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  2,
+  4,
+  10,
+  1,
+  6,
+  3,
+  9,
+  7,
+  8
+ ],
+ "most_similar_reason": "Candidate 5 is most similar because it shows a clustered, non-narrative field of schematic animal and sign-like motifs on a vertical surface, with profile creatures and abstract symbols arranged much like the target\u2019s relief iconography.",
+ "least_similar_reason": "Candidate 8 is least similar because it depicts a single anthropomorphic sculptural figure rather than a decorated surface filled with profile animals, repeated signs, or patterned bands.",
+ "set": "moai_close_among_random",
+ "i": 3,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "assyria_0063",
+  "assyria_0039",
+  "mississippian_0002",
+  "persepolis_0058",
+  "assyria_0153",
+  "egypt_0037",
+  "persepolis_0025",
+  "rapa_nui_0004",
+  "egypt_0032",
+  "tanum_0334"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "persepolis",
+  "tanum",
+  "egypt",
+  "assyria",
+  "assyria",
+  "assyria",
+  "egypt",
+  "persepolis",
+  "mississippian"
+ ],
+ "model": "gpt",
+ "planted_rank": 10
+}

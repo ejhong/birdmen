@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "profile animal figures",
+  "bird-like figure in profile",
+  "snake or serpentine curving form",
+  "small oval/rectangular geometric signs",
+  "horizontal dividing line or register boundary"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces depict schematic low-relief animal imagery, especially profile creatures combined with curving snake-like forms and small geometric signs, using simplified outlines rather than naturalistic modelling. The biggest difference is that B is a crowded, multi-register composition with repeated signs and several distinct creatures, while A is much sparser and lacks B\u2019s dense upper bands and more explicit organized sequence of motifs.",
+ "a": "anatolia_ppn_0205",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  675
+ ]
+}

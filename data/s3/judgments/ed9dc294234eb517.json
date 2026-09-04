@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "animal in profile carved in low relief",
+  "quadruped with visible legs and tail",
+  "bird-like/long-beaked creature",
+  "relief figures set on a flat rock/pillar face without ground line"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces show animals rendered in shallow relief in strict profile, isolated against a blank stone field, including long-snouted/beaked creatures and quadrupeds, which gives a broadly comparable animal-relief repertoire. But B adds a distinctive structured programme absent in A \u2014 a row of repeated arch-and-figure motifs along the top, a banded register with pendant elements, a downward-facing predator over a small quadruped, and a large bird with a snake-like body below \u2014 whereas A shows only scattered, loosely placed animal outlines with no registers or hierarchical relationships.",
+ "a": "rapa_nui_0100",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  326
+ ]
+}

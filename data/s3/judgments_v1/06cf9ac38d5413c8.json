@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "upright carved stone surface",
+  "horizontal band or register of pattern",
+  "repeated geometric signs",
+  "circle or oval motifs",
+  "rectangular framed compartments"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest correspondence is that both are tall carved stones with decoration organized in stacked bands or compartments, including repeated geometric shapes and occasional circular or oval forms. The biggest difference is that A is dominated by large, open, curvilinear animal/figure-like reliefs, while B is a narrow dense grid of rectilinear glyph-like blocks with little comparable figural imagery.",
+ "a": "anatolia_ppn_p43full",
+ "b": "maya_0146",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  940,
+  507
+ ]
+}

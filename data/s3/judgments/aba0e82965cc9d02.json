@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "standing human or humanoid figure in profile",
+  "figure with raised arm holding an object",
+  "low-relief incised linear detailing of garments/hair",
+  "stylized plant or floral motifs",
+  "figures with elaborate patterned costume"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both show incised low-relief standing figures in profile with raised arm holding a small object, rendered with dense linear patterning of hair and garment, and both include stylized plant-like elements. But A is a single large winged, bearded figure among branching palmette/rosette plants filling the field, while B is a multi-register composition of several small facing figures around altar-like objects and columns of sign-like marks, with no wings and a wholly different compositional scheme.",
+ "a": "assyria_0100",
+ "b": "egypt_0072",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2974,
+  287
+ ]
+}

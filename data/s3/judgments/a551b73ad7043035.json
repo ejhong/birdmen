@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "anthropomorphic standing figure",
+  "carved relief on a large upright stone slab",
+  "figure with head-covering / headdress and long garment",
+  "circular disc or rosette motif on the surface",
+  "figure holding or bearing an object at chest level"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict a single frontal-or-profile anthropomorphic personage in relief on an upright slab, with a head-covering, a long body/garment and at least one circular disc motif on the torso area, which is a generic correspondence any monumental figural tradition could produce. A shows a bird-headed, multi-winged figure in strict profile holding a bucket and cone beside an elaborate stylised plant with rosettes and a band of dense linear script above, whereas B is a blocky, near-featureless columnar figure with folded arms, a belt-like band and a plain boss, with no wings, no bird head, no plant and no inscription band.",
+ "a": "assyria_0102",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3074,
+  362
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  3,
+  7,
+  9,
+  10,
+  5,
+  8,
+  4,
+  1,
+  6
+ ],
+ "most_similar_reason": "Candidate 2 likewise shows a single frontal anthropomorphic figure occupying the entire upright stone, with a tall elaborate headdress above the face and ornamental discs/bands across the chest and body, matching the target's arrangement of one large schematic personage rendered in low relief.",
+ "least_similar_reason": "Candidate 6 depicts nothing but ruled lines of script with no figure, face, headdress, disc or any anthropomorphic imagery at all, so it shares no iconographic content with the target.",
+ "set": "p43_iso_among_monoliths",
+ "i": 28,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "egypt_0064",
+  "maya_0106",
+  "maya_0097",
+  "gotland_0111",
+  "gotland_0116",
+  "egypt_0049",
+  "maya_0054",
+  "egypt_0068",
+  "anatolia_ppn_p43iso",
+  "gotland_0133"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya",
+  "gotland",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

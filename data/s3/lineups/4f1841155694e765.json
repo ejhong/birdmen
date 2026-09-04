@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  8,
+  6,
+  10,
+  7,
+  2,
+  4,
+  3,
+  9,
+  5
+ ],
+ "most_similar_reason": "Candidate 1 is most similar because it shows a sparse, schematic set of incised/pecked linear motifs on an open surface, with simple curving and diagonal forms rather than a formal narrative scene or monumental figure, matching the target\u2019s petroglyph-like content and arrangement.",
+ "least_similar_reason": "Candidate 5 is least similar because it depicts an architectural fa\u00e7ade or rock-cut structure with large standing sculptural figures, which shares essentially none of the target\u2019s sparse schematic engraved signs or rock-art-style motifs.",
+ "set": "same_control",
+ "i": 19,
+ "target": "rapa_nui_0099",
+ "planted": "rapa_nui_0022",
+ "cands": [
+  "tanum_0100",
+  "assyria_0146",
+  "mississippian_0010",
+  "rapa_nui_0022",
+  "egypt_0033",
+  "persepolis_0044",
+  "persepolis_0082",
+  "tanum_0034",
+  "maya_0060",
+  "persepolis_0010"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "tanum",
+  "mississippian",
+  "egypt",
+  "maya",
+  "persepolis",
+  "tanum",
+  "persepolis",
+  "assyria",
+  "persepolis"
+ ],
+ "model": "gpt",
+ "planted_rank": 7
+}

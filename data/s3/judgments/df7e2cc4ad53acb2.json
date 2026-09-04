@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "frontal stylized face or mask",
+  "paired eyes",
+  "central nose/mouth area",
+  "rounded/circular facial features",
+  "incised linear/geometric markings on the figure",
+  "vertical stacked/columnar figure arrangement"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both show a vertically oriented, schematized figure with a frontal mask-like face using paired eyes and rounded central facial features, plus incised linear decoration. The biggest difference is that A reads as a more creature-like carved figure with head, body and possible limbs, while B is a flat, frontal monolithic design dominated by geometric mask and band motifs rather than a comparable animal or bodily scene.",
+ "a": "anatolia_ppn_0267",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  506
+ ]
+}

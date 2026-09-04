@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic anthropomorphic or face-like form",
+  "paired circular or oval features",
+  "circular or disc-like motif",
+  "curving linear motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The main correspondence is that both surfaces include highly schematic human/face-like imagery built from simple rounded forms, including paired circular/oval features and curving lines. The biggest difference is that A presents a single frontal, vertically organized full-body figure with a strongly structured torso, while B shows scattered, faint petroglyph-like figures and abstract outlines on separate rock surfaces without the same body scheme or internal arrangement.",
+ "a": "rapa_nui_0113",
+ "b": "rapa_nui_0100",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  674
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  10,
+  8,
+  1,
+  9,
+  4,
+  6,
+  3,
+  2,
+  7
+ ],
+ "most_similar_reason": "Candidate 5 likewise shows animals and figures rendered in shallow, flat low relief with outlined bodies shown in profile, set out in a horizontal register divided by a straight incised band, closely matching the target's banded arrangement of profile creatures.",
+ "least_similar_reason": "Candidate 7 depicts only rows of schematic boats with crew-strokes and no animals, no creature-and-symbol combinations and none of the target's registered relief arrangement of quadruped, snake and bird.",
+ "set": "moai_among_random",
+ "i": 29,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "tanum_0344",
+  "gotland_0123",
+  "tanum_0063",
+  "rapa_nui_0113",
+  "persepolis_0062",
+  "gotland_0131",
+  "tanum_0339",
+  "maya_0113",
+  "egypt_0076",
+  "assyria_0122"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "assyria",
+  "tanum",
+  "maya",
+  "persepolis",
+  "tanum",
+  "gotland",
+  "tanum",
+  "egypt",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 6
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  5,
+  9,
+  6,
+  8,
+  4,
+  3,
+  7,
+  10,
+  2
+ ],
+ "most_similar_reason": "Candidate 1 is most similar because it shows a low-relief, linear, profile animal-and-human scene arranged horizontally on a flat surface, closely matching the target\u2019s procession-like camel with attendant and bordered decorative register.",
+ "least_similar_reason": "Candidate 2 is least similar because it consists mainly of compact rows of abstract inscription-like marks on a rounded object, with no comparable profile animal, attendant figure, procession arrangement, or rosette-style figural border.",
+ "set": "related_control",
+ "i": 9,
+ "target": "persepolis_0062",
+ "planted": "assyria_0138",
+ "cands": [
+  "assyria_0138",
+  "anatolia_ppn_0232",
+  "maya_0087",
+  "maya_0052",
+  "maya_0136",
+  "tanum_0341",
+  "anatolia_ppn_0263",
+  "anatolia_ppn_0244",
+  "tanum_0067",
+  "maya_0146"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "tanum",
+  "anatolia_ppn",
+  "tanum",
+  "maya",
+  "maya",
+  "anatolia_ppn",
+  "maya",
+  "maya",
+  "anatolia_ppn"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "bird or bird-like animal in profile",
+  "prominent beak and eye",
+  "feather or plume-like markings",
+  "horizontal band/register of repeated motifs",
+  "geometric repeated patterning"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both include stylized profile bird-like creatures with emphasized beak/eye and feather or plume detailing, together with horizontal bands of repeated motifs. The biggest difference is that A is dominated by one large, elaborate bird-headed figure beneath a narrow border, while B is a multi-register composition with several schematic animals, human-like figures, and signs arranged across a pillar surface.",
+ "a": "assyria_0099",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  679
+ ]
+}

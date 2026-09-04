@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figure in profile, low relief",
+  "bearded/elaborately dressed male figure",
+  "long garment with patterned or pleated fabric",
+  "raised/extended arm and hands rendered in profile",
+  "procession or striding orientation to one side",
+  "relief carved on architectural stone block surface"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both show bearded male figures in strict profile low relief wearing long patterned robes, with hands and arms rendered in profile and a striding/processional orientation, and both are carved on jointed stone wall blocks. However, A is a multi-figure procession including a large camel led by tribute-bearers beneath a rosette border, while B is a single monumental winged figure with raised hand and no animals, border or attendants, so the scene content and composition differ substantially.",
+ "a": "persepolis_0007",
+ "b": "assyria_0051",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3224,
+  305
+ ]
+}

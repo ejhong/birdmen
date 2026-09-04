@@ -1,0 +1,19 @@
+{
+ "shared_elements": [
+  "animal in profile",
+  "relief carving on an upright stone surface"
+ ],
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces include a simplified animal shown in profile, carved in shallow relief on a rough upright stone face. The biggest difference is compositional: A is a sparse surface with essentially one isolated animal motif, while B is densely covered with multiple figures and patterned registers arranged over the whole pillar.",
+ "a": "anatolia_ppn_0072",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  516
+ ]
+}

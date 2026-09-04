@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  10,
+  4,
+  6,
+  8,
+  3,
+  5,
+  7,
+  9,
+  1
+ ],
+ "most_similar_reason": "Candidate 2 shares the general approach of stylized bas-relief carvings arranged on a vertical, pillar-like format.",
+ "least_similar_reason": "Candidate 1 consists of a rigid grid of abstract symbols, entirely lacking the varied animal figures of the target.",
+ "set": "moai_among_random",
+ "i": 39,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "maya_0050",
+  "rapa_nui_0113",
+  "maya_0060",
+  "catalhoyuk_0026",
+  "maya_0106",
+  "mississippian_0001",
+  "maya_0053",
+  "maya_0028",
+  "maya_0070",
+  "assyria_0000"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "mississippian",
+  "maya",
+  "maya",
+  "maya",
+  "catalhoyuk",
+  "maya",
+  "assyria",
+  "maya",
+  "maya"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

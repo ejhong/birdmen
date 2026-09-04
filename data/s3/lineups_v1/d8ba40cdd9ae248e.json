@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  6,
+  4,
+  5,
+  3,
+  2,
+  9,
+  7,
+  1,
+  8
+ ],
+ "most_similar_reason": "Candidate 10 is the most similar because it closely matches the target's overall format and manner of rendering, featuring prominent elements carved in flat, low relief onto the slightly irregular surface of a massive, freestanding stone pillar.",
+ "least_similar_reason": "Candidate 8 is the least similar because it employs a fundamentally different manner of rendering\u2014applying pigment to a surface rather than carving into it\u2014thereby completely lacking the sculpted, three-dimensional texture that defines the target.",
+ "set": "moai_among_random",
+ "i": 0,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "egypt_0014",
+  "maya_0130",
+  "assyria_0112",
+  "assyria_0088",
+  "assyria_0134",
+  "persepolis_0084",
+  "maya_0094",
+  "tanum_0325",
+  "maya_0048",
+  "rapa_nui_0113"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "maya",
+  "tanum",
+  "assyria",
+  "assyria",
+  "persepolis",
+  "assyria",
+  "maya"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

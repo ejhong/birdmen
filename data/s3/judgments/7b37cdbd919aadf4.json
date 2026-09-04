@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic linear/geometric motifs",
+  "central vertical axis or frontal symmetry",
+  "curved or arched outlines",
+  "horizontal band of repeated curved marks"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The main correspondence is only a broad one: both use schematic incised/relief linear motifs arranged roughly symmetrically, including curved/arched lines and a horizontal band of repeated curves. The biggest difference is that A depicts a frontal anthropomorphic body with face, breasts, circular features and torso bands, while B depicts an enclosed angular emblem or boat-like form above a wave-like band, with no clear matching human-body iconography.",
+ "a": "rapa_nui_0113",
+ "b": "gotland_0008",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1909,
+  681
+ ]
+}

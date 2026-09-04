@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "vertically oriented carved stone surface",
+  "horizontal register or dividing band",
+  "standing human figure",
+  "profile animal or bird-like form",
+  "circle or disc motif",
+  "linear patterning"
+ ],
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "The strongest correspondence is that both surfaces are divided into stacked horizontal zones containing schematic carved figures, including human-like figures and small circular/linear motifs. The biggest difference is that A is dominated by fine, crowded, upright human scenes on an arched slab, while B uses larger, rougher, more widely spaced animal and abstract forms on a rectangular pillar-like surface.",
+ "a": "egypt_0047",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  662
+ ]
+}

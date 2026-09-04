@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  8,
+  5,
+  2,
+  10,
+  3,
+  4,
+  7,
+  9,
+  1
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it shows a small, rounded-topped surface divided into horizontal registers filled with simple linear, schematic motifs including bird/animal-like profile forms and circular signs, closely matching the target\u2019s banded arrangement and drawing style.",
+ "least_similar_reason": "Candidate 1 is least similar because it appears to show little or no distinct depicted iconography comparable to the target\u2019s organized registers of stylized creatures and signs.",
+ "set": "moai_iso_among_monoliths",
+ "i": 24,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0125",
+  "maya_0094",
+  "maya_0158",
+  "maya_0101",
+  "maya_0069",
+  "egypt_0068",
+  "maya_0051",
+  "rapa_nui_hoa_iso",
+  "maya_0087",
+  "maya_0091"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 2
+}

@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "profile animals or birds",
+  "circle/disc motifs",
+  "horizontal register lines or bands",
+  "rows of repeated geometric/sign-like marks",
+  "schematic linear figures"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest shared content is a schematic relief vocabulary with profile creatures, discs, horizontal divisions, and repeated sign-like bands. The biggest difference is that B is organized around a framed stela scene with two facing standing figures and celestial/standard-like symbols, while A is a denser field of animal/body-part motifs and patterned bands without the same central figural encounter.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0048",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  669
+ ]
+}

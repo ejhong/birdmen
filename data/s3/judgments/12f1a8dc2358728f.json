@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "quadruped animals shown in profile facing right",
+  "animals arranged in a row/procession",
+  "horizontal register bands",
+  "human or anthropomorphic figures with animals",
+  "low relief carving of animals with rendered surface detail",
+  "horned/ram-like head"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both show quadrupeds in profile arranged along horizontal registers with accompanying anthropomorphic figures, and both include a horned ram-like head, which is the most specific overlap. But A is a schematic, flattened composition of stacked, heterogeneous creatures (crouching feline-like beast, small figures, bird-like head, plant/comb motifs) with no coherent scene, whereas B is a naturalistically proportioned procession of two fleecy rams led by robed human attendants with rendered garments, hair and hooves \u2014 different conventions and a different narrative logic.",
+ "a": "anatolia_ppn_p43full",
+ "b": "persepolis_0100",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  349
+ ]
+}

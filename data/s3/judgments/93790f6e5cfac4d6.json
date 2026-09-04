@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "winged supernatural/human figure in profile relief",
+  "bearded male figure with elaborate coiffure",
+  "richly patterned garment with fringed edges and rosette/dotted decoration",
+  "wing with layered rows of feathers",
+  "rosette or disc motif",
+  "arm extended holding an object",
+  "low-relief figures set in a horizontal register on a wall panel"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "8",
+ "justification": "Both surfaces show the same distinctive scheme: bearded, profile-facing figures in low relief with layered feathered wings, tightly curled hair and beard, fringed and rosette-studded garments, and an arm extended to hold a small object (a rosette/disc appears in A, a cup-like item in B), all set in a horizontal wall register. A is a close-up of a single winged figure's torso and wings, so the multi-figure interaction visible in B (facing pairs across a panel joint) cannot be fully matched, which is the main difference in depicted content rather than in tradition.",
+ "a": "assyria_0122",
+ "b": "assyria_0139",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3174,
+  371
+ ]
+}

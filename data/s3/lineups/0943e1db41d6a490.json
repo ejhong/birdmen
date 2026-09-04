@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  2,
+  1,
+  10,
+  6,
+  4,
+  3,
+  7,
+  8,
+  5
+ ],
+ "most_similar_reason": "Both feature stylized, symbolic relief carvings of figures and motifs organized on a monumental vertical form.",
+ "least_similar_reason": "This image consists only of faint, indistinct marks, lacking any of the clear, deliberate relief iconography found in the target.",
+ "set": "p43_among_random",
+ "i": 16,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "maya_0060",
+  "maya_0091",
+  "gotland_0115",
+  "assyria_0079",
+  "gotland_0018",
+  "maya_0039",
+  "tanum_0080",
+  "tanum_0070",
+  "anatolia_ppn_p43full",
+  "maya_0056"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "tanum",
+  "maya",
+  "maya",
+  "gotland",
+  "maya",
+  "tanum",
+  "assyria",
+  "gotland",
+  "maya"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

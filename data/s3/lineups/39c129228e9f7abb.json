@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  3,
+  2,
+  10,
+  9,
+  1,
+  5,
+  7,
+  4,
+  8
+ ],
+ "most_similar_reason": "Both show relief compositions of large animals rendered in profile together with accompanying figures and interior linear detailing that fills the pictorial field.",
+ "least_similar_reason": "It contains only abstract interlace knotwork and geometric symbols, with no creatures, birds, or figural scenes of any kind.",
+ "set": "moai_iso_among_random",
+ "i": 1,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "tanum_0237",
+  "mississippian_0007",
+  "assyria_0109",
+  "rapa_nui_hoa_iso",
+  "tanum_0334",
+  "persepolis_0062",
+  "tanum_0327",
+  "gotland_0005",
+  "maya_0066",
+  "maya_0009"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "tanum",
+  "tanum",
+  "maya",
+  "maya",
+  "assyria",
+  "gotland",
+  "tanum",
+  "mississippian",
+  "persepolis"
+ ],
+ "model": "grok",
+ "planted_rank": 9
+}

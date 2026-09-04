@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  8,
+  5,
+  2,
+  10,
+  7,
+  6,
+  1,
+  4,
+  3
+ ],
+ "most_similar_reason": "Candidate 9 features a stylized, carved profile head of a bearded figure with similar facial and hair conventions.",
+ "least_similar_reason": "Candidate 3 consists of abstract painted marks rather than the carved figurative scenes seen in the target.",
+ "set": "related_control",
+ "i": 11,
+ "target": "persepolis_0051",
+ "planted": "assyria_0123",
+ "cands": [
+  "gotland_0008",
+  "egypt_0046",
+  "catalhoyuk_0102",
+  "rapa_nui_0103",
+  "egypt_0074",
+  "tanum_0085",
+  "rapa_nui_0044",
+  "egypt_0071",
+  "assyria_0123",
+  "maya_0057"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "gotland",
+  "tanum",
+  "egypt",
+  "catalhoyuk",
+  "maya",
+  "rapa_nui",
+  "egypt",
+  "rapa_nui",
+  "egypt"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

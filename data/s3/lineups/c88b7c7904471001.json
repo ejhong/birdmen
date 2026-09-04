@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  9,
+  10,
+  4,
+  3,
+  6,
+  5,
+  7,
+  2,
+  8
+ ],
+ "most_similar_reason": "Candidate 1 shows a relief carving with figures and an animal in a narrative composition, closest to the target's stylized relief of a mounted figure with a horse.",
+ "least_similar_reason": "Candidate 8 shows only a vertical column of inscribed text with no figural or animal iconography, sharing nothing with the target's depiction of a horse and rider.",
+ "set": "related_control",
+ "i": 7,
+ "target": "persepolis_0089",
+ "planted": "assyria_0091",
+ "cands": [
+  "rapa_nui_0124",
+  "tanum_0034",
+  "rapa_nui_0049",
+  "anatolia_ppn_0129",
+  "anatolia_ppn_0093",
+  "assyria_0091",
+  "tanum_0070",
+  "maya_0077",
+  "mississippian_0045",
+  "anatolia_ppn_0259"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "mississippian",
+  "rapa_nui",
+  "anatolia_ppn",
+  "maya",
+  "rapa_nui",
+  "anatolia_ppn",
+  "tanum",
+  "tanum"
+ ],
+ "model": "sonnet",
+ "planted_rank": 6
+}

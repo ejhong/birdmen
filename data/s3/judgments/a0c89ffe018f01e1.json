@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic anthropomorphic or human figure",
+  "circle or disc motifs",
+  "curving and straight linear marks",
+  "short repeated stroke marks"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific overlap is the use of schematic human/anthropomorphic imagery with simple circular marks and linear incised/painted signs. The major difference is that A shows a dispersed scene with stick figures, boat-like forms, dotted lines, and small motifs, while B is dominated by a single large frontal anthropomorphic figure with body/face-like circular features and curved bands.",
+ "a": "tanum_0056",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  596
+ ]
+}

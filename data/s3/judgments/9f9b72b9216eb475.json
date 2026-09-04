@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "standing/striding human figures in profile",
+  "seated figure(s)",
+  "offering table or stand with tall vessel",
+  "raised arms in adoration/offering gesture",
+  "registers separated by horizontal lines",
+  "panel of hieroglyphic-style signs",
+  "round-topped stela field with figural scene above and text below",
+  "figures wearing long garments and wigs"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "8",
+ "justification": "Both are round/pointed-topped stelae showing profile human figures flanking an offering stand with a tall vessel, one figure with arms raised in adoration facing a larger receiving figure, above horizontal registers filled with columns and rows of the same hieroglyphic sign repertoire; both use the same profile-with-frontal-shoulders convention, long kilts/robes and register lines. The difference is mainly in the number and organisation of figures \u2014 A crowds several small standing and seated figures into two figural registers with dense signs interleaved, while B has a single clear two-figure encounter above a block of text.",
+ "a": "egypt_0047",
+ "b": "egypt_0071",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  2974,
+  373
+ ]
+}

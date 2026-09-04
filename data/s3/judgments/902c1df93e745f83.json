@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "geometric linear motifs",
+  "curved arc shapes",
+  "triangular or V-shaped forms"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The only real overlap is generic geometric linear decoration, especially curved arcs and triangular/V-shaped forms. A is a centralized abstract interlaced emblem with a pendant-like triangle, while B is organized in horizontal registers with animal figures and patterned bands, so the depicted iconography and arrangement are fundamentally different.",
+ "a": "gotland_0005",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1751,
+  642
+ ]
+}

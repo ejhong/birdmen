@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  8,
+  9,
+  7,
+  5,
+  3,
+  6,
+  4,
+  1,
+  2
+ ],
+ "most_similar_reason": "Candidate 10 shares the specific motif of squarish, internally detailed symbol blocks arranged in a sequence.",
+ "least_similar_reason": "Candidate 2 displays a natural rocky landscape lacking any distinct carved iconography.",
+ "set": "same_control",
+ "i": 29,
+ "target": "maya_0126",
+ "planted": "maya_0158",
+ "cands": [
+  "anatolia_ppn_0163",
+  "rapa_nui_0109",
+  "mississippian_0000",
+  "rapa_nui_0006",
+  "assyria_0109",
+  "anatolia_ppn_0264",
+  "egypt_0073",
+  "rapa_nui_0070",
+  "assyria_0112",
+  "maya_0158"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "assyria",
+  "mississippian",
+  "assyria",
+  "anatolia_ppn",
+  "rapa_nui",
+  "rapa_nui",
+  "rapa_nui",
+  "anatolia_ppn",
+  "egypt"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  1,
+  9,
+  7,
+  8,
+  6,
+  2,
+  10,
+  3,
+  4
+ ],
+ "most_similar_reason": "Candidate 5, like the target, is a free-standing, roughly shaped block of weathered stone whose broad face bears sparse, shallow low-relief motifs (arms, bands, small animal-like forms) arranged vertically over the whole surface rather than in an architectural frieze.",
+ "least_similar_reason": "Candidate 4 is a crisply carved architectural band of repeating rosettes and mouldings \u2014 a regular ornamental pattern on a smooth built surface \u2014 with none of the target's isolated, weathered figural/symbolic carvings on an irregular monolith.",
+ "set": "p43_among_random",
+ "i": 21,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "egypt_0070",
+  "assyria_0011",
+  "persepolis_0018",
+  "assyria_0063",
+  "anatolia_ppn_p43full",
+  "assyria_0139",
+  "tanum_0327",
+  "tanum_0324",
+  "assyria_0140",
+  "persepolis_0026"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "tanum",
+  "assyria",
+  "tanum",
+  "persepolis",
+  "assyria",
+  "assyria",
+  "assyria",
+  "persepolis",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

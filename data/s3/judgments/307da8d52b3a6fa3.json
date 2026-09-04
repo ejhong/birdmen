@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "profile animate figures",
+  "small circular or rosette-like signs",
+  "horizontal bands of repeated geometric pattern"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific shared content is the use of profile outlined figures with small circular signs and repeated horizontal geometric bands. The major difference is that A is a formal scene of two standing human figures facing and handling objects, while B is a stacked composition dominated by schematic animals and signs with no comparable human encounter or object exchange.",
+ "a": "assyria_0008",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1989,
+  648
+ ]
+}

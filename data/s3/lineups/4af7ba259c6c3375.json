@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  1,
+  9,
+  5,
+  3,
+  4,
+  2,
+  10,
+  7,
+  6
+ ],
+ "most_similar_reason": "Candidate 8 shows the same distinctive motif as the target: a bearded human head in strict profile carved in relief on a slab, with the same conventions for rendering curled beard, ear and eye.",
+ "least_similar_reason": "Candidate 6 shows only an abstract radiating rosette/disc with concentric geometric bands and no human figures, profiles or beards at all, so it shares nothing beyond generic ornament.",
+ "set": "same_control",
+ "i": 8,
+ "target": "assyria_0111",
+ "planted": "assyria_0084",
+ "cands": [
+  "persepolis_0073",
+  "egypt_0040",
+  "anatolia_ppn_0107",
+  "egypt_0006",
+  "rapa_nui_0022",
+  "mississippian_0018",
+  "gotland_0118",
+  "assyria_0084",
+  "maya_0158",
+  "egypt_0064"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "mississippian",
+  "anatolia_ppn",
+  "maya",
+  "egypt",
+  "gotland",
+  "rapa_nui",
+  "egypt",
+  "egypt",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

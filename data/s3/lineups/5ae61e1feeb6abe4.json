@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  5,
+  4,
+  1,
+  6,
+  10,
+  9,
+  8,
+  3,
+  2
+ ],
+ "most_similar_reason": "Candidate 7, like the target, is a massive frontal figure carved nearly in the round with a broad face crowned by an elaborate headdress and a bulky body bearing raised ornaments across the chest, rather than a flat pictorial scene.",
+ "least_similar_reason": "Candidate 2 shows only a tall narrow shaft covered with stacked panels of sign-like elements and no human figure, headdress or pectoral emblem, so it shares none of the target's frontal figural iconography.",
+ "set": "p43_iso_among_monoliths",
+ "i": 17,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "egypt_0073",
+  "maya_0054",
+  "maya_0147",
+  "egypt_0048",
+  "maya_0066",
+  "egypt_0043",
+  "maya_0019",
+  "egypt_0014",
+  "anatolia_ppn_p43iso",
+  "egypt_0045"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "egypt",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "egypt",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 7
+}

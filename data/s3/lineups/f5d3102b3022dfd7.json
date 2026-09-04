@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  2,
+  5,
+  4,
+  3,
+  10,
+  7,
+  8,
+  1,
+  9
+ ],
+ "most_similar_reason": "Candidate 6, like the target, shows schematic profile creatures (quadrupeds and bird-like beasts) with paired figures set out in stacked panels on a slab, combined with abstract geometric/interlaced band ornament, the same mix of animal iconography and pattern registers.",
+ "least_similar_reason": "Candidate 9 is covered entirely with orderly rows of repeated sign-like glyphs and contains no animals, birds or figural registers of the kind that dominate the target.",
+ "set": "moai_iso_among_monoliths",
+ "i": 38,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0125",
+  "maya_0115",
+  "maya_0092",
+  "gotland_0117",
+  "rapa_nui_hoa_iso",
+  "gotland_0009",
+  "maya_0052",
+  "maya_0081",
+  "egypt_0064",
+  "maya_0051"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "gotland",
+  "gotland",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 3
+}

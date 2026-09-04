@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "carved stone surface",
+  "low-relief/incised outlines",
+  "profile figures or creatures",
+  "short repeated linear marks/sign-like motifs"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of shallow carved outlines on tan stone, with profile forms and clusters of short repeated linear marks in the upper portions. The biggest difference is that A is a compact framed human scene with seated and standing figures, while B is a tall slab with separated animal/symbol motifs arranged in broad horizontal zones.",
+ "a": "egypt_0041",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  647
+ ]
+}

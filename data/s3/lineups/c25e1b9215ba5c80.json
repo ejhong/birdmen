@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  8,
+  1,
+  5,
+  9,
+  10,
+  6,
+  7,
+  2,
+  3
+ ],
+ "most_similar_reason": "Candidate 4 is, like the target, a tall upright monolith whose entire surface is covered in dense, deeply carved relief of blocky glyph-like cartouches and stylised faces stacked in vertical registers, matching the target's arrangement of compartmentalised sign-panels and figural elements.",
+ "least_similar_reason": "Candidate 3 shows only a few isolated, thinly outlined schematic figures \u2014 a long-oared boat and small quadrupeds \u2014 scattered on an open surface, with no registers, no dense sign-blocks and none of the target's compartmentalised relief iconography.",
+ "set": "same_control",
+ "i": 11,
+ "target": "maya_0138",
+ "planted": "maya_0019",
+ "cands": [
+  "rapa_nui_0039",
+  "tanum_0348",
+  "tanum_0236",
+  "maya_0019",
+  "gotland_0111",
+  "catalhoyuk_0110",
+  "tanum_0129",
+  "egypt_0075",
+  "egypt_0053",
+  "assyria_0011"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "assyria",
+  "egypt",
+  "tanum",
+  "catalhoyuk",
+  "egypt",
+  "tanum",
+  "gotland",
+  "rapa_nui",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

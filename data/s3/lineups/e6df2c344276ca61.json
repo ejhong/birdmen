@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  5,
+  3,
+  10,
+  9,
+  2,
+  6,
+  7,
+  4,
+  8
+ ],
+ "most_similar_reason": "Candidate 1 features an upright, schematic anthropomorphic form similar to the target.",
+ "least_similar_reason": "Candidate 8 illustrates a complex architectural scene, contrasting with the single simplified figure.",
+ "set": "same_control",
+ "i": 24,
+ "target": "rapa_nui_0034",
+ "planted": "rapa_nui_0100",
+ "cands": [
+  "gotland_0112",
+  "rapa_nui_0100",
+  "gotland_0117",
+  "tanum_0074",
+  "egypt_0073",
+  "mississippian_0052",
+  "egypt_0037",
+  "persepolis_0029",
+  "egypt_0033",
+  "maya_0158"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "egypt",
+  "tanum",
+  "egypt",
+  "egypt",
+  "gotland",
+  "maya",
+  "mississippian",
+  "persepolis",
+  "gotland"
+ ],
+ "model": "gemini",
+ "planted_rank": 6
+}

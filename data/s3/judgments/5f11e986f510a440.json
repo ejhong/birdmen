@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "profile bird or bird-like head with beak",
+  "profile animals/creatures",
+  "horizontal band or register of repeated signs/marks"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is the use of profile bird-like forms with prominent beaks, plus horizontal registers of repeated signs or motifs. The major difference is that A centers on a winged bird-headed humanoid interacting with a stylized tree, while B is a stacked set of schematic animal figures and abstract signs with no comparable central figure-tree relationship.",
+ "a": "assyria_0090",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1909,
+  661
+ ]
+}

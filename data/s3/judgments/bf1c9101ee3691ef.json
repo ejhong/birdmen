@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "standing human figures in long draped robes shown in profile",
+  "carved drapery rendered as regular parallel folds",
+  "low-relief figures aligned in a horizontal register/procession",
+  "hands holding or grasping objects",
+  "curved bow / weapon-like implement",
+  "legs and feet emerging beneath a long garment"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both surfaces show shallow-relief processional figures in long pleated robes with the same conventions for stacked drapery folds, feet emerging below the hem, and hands grasping objects including a curved bow-like implement, which is a fairly specific shared scheme. The main difference is that B preserves only the lower body of one figure plus a subsidiary band of rosettes beneath it, while A shows complete upper bodies with distinctive bearded heads and tall headdresses and an interaction (one figure touching another's shoulder) that has no counterpart in B.",
+ "a": "persepolis_0047",
+ "b": "persepolis_0017",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3349,
+  736
+ ]
+}

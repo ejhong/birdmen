@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "low-relief figures shown in strict profile",
+  "standing human figures in long fringed/pleated robes",
+  "rosette motifs (in A as stylized floral blossoms, in B as a band of rosettes)",
+  "procession/directional orientation of figures facing one way",
+  "animal or animal-headed creature in profile",
+  "hands holding or carrying objects",
+  "border/register framing the scene"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both are shallow relief scenes of profile figures in long fringed garments, with rosette motifs and figures whose raised hands carry or hold objects, and both organise content into framed registers with a consistent directional orientation \u2014 the rosette band and the fringed-robe profile figure with a bucket-like handled object are quite specific shared conventions. The biggest difference in content is that A shows a single monumental bird-headed winged genius attending a stylised sacred tree, whereas B shows a mundane procession of human tribute-bearers leading a camel, with no wings, no bird head and no tree.",
+ "a": "assyria_0071",
+ "b": "persepolis_0068",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3249,
+  377
+ ]
+}

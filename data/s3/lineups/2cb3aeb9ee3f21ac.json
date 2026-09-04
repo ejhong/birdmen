@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  1,
+  7,
+  10,
+  5,
+  2,
+  6,
+  9,
+  8,
+  3
+ ],
+ "most_similar_reason": "Candidate 4 shows a bearded human figure in profile carved in shallow relief, sharing conventions for hair and texture.",
+ "least_similar_reason": "Candidate 3 features linear, schematic stick figures and boats that share no stylistic or thematic elements with the target.",
+ "set": "related_control",
+ "i": 28,
+ "target": "persepolis_0073",
+ "planted": "assyria_0122",
+ "cands": [
+  "anatolia_ppn_0107",
+  "anatolia_ppn_0222",
+  "tanum_0348",
+  "assyria_0122",
+  "rapa_nui_0034",
+  "anatolia_ppn_0260",
+  "egypt_0037",
+  "tanum_0340",
+  "tanum_0236",
+  "egypt_0061"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "tanum",
+  "anatolia_ppn",
+  "egypt",
+  "anatolia_ppn",
+  "tanum",
+  "rapa_nui",
+  "tanum",
+  "egypt",
+  "anatolia_ppn"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

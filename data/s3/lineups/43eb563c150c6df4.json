@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  3,
+  9,
+  8,
+  10,
+  7,
+  1,
+  5,
+  6,
+  4
+ ],
+ "most_similar_reason": "Candidate 2 is most similar because it repeats the target\u2019s distinctive organization of a horizontal band of many small repeated signs above profile animal figures, rendered in a similarly schematic outline style on a vertical decorated surface.",
+ "least_similar_reason": "Candidate 4 is least similar because it shows no clear comparable figurative program\u2014no organized bands of signs, profile animals, birds, or interrelated motifs like those on the target.",
+ "set": "hard",
+ "i": 3,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0133",
+  "gotland_0125",
+  "gotland_0123",
+  "egypt_0027",
+  "egypt_0012",
+  "rapa_nui_0113",
+  "gotland_0115",
+  "maya_0047",
+  "gotland_0116",
+  "tanum_0359"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "gotland",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "gpt",
+ "planted_rank": 9
+}

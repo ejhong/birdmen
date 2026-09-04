@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "animal imagery",
+  "repeated geometric/linear marks arranged in rows or bands",
+  "horn-like/curving animal parts"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The main shared content is quite generic: both include animal-related imagery and repeated linear/geometric signs, with A prominently showing horned cattle skulls/horns and B including several schematic animals and bands of signs. The biggest difference is that B is a dense panel of relief animal figures and symbols arranged in registers, while A is dominated by a bucranium installation and a small cluster of repeated wall marks, with no matching specific animal scene or relationships.",
+ "a": "catalhoyuk_0102",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  1197
+ ]
+}

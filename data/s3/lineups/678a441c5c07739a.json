@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  1,
+  7,
+  6,
+  3,
+  10,
+  8,
+  9,
+  4,
+  2
+ ],
+ "most_similar_reason": "Candidate 5 is most similar because it also shows a single upright, front-facing, highly schematic anthropomorphic figure integrated into a tall pillar-like surface, with simplified facial/body features and incised linear markings arranged down the torso.",
+ "least_similar_reason": "Candidate 2 is least similar because it depicts a naturalistic animal in profile rather than a frontal schematic human or anthropomorphic body with organized geometric body markings.",
+ "set": "p43_among_random",
+ "i": 21,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "egypt_0070",
+  "assyria_0011",
+  "persepolis_0018",
+  "assyria_0063",
+  "anatolia_ppn_p43full",
+  "assyria_0139",
+  "tanum_0327",
+  "tanum_0324",
+  "assyria_0140",
+  "persepolis_0026"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "tanum",
+  "assyria",
+  "tanum",
+  "persepolis",
+  "assyria",
+  "assyria",
+  "assyria",
+  "persepolis",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

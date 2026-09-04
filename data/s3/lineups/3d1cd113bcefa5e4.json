@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  9,
+  10,
+  7,
+  3,
+  6,
+  1,
+  4,
+  5,
+  2
+ ],
+ "most_similar_reason": "Candidate 8 shows a low-relief scene of human figures in profile together with large animals moving in the same direction across a horizontal field, with a decorated border band below, which matches the target's profile procession of men with rams above a patterned base band.",
+ "least_similar_reason": "Candidate 2 is a single frontal, blocky schematic figure with a staring face and no procession, animals, vegetation or registers, sharing nothing specific with the target's naturalistic profile scene.",
+ "set": "related_control",
+ "i": 12,
+ "target": "persepolis_0020",
+ "planted": "assyria_0051",
+ "cands": [
+  "egypt_0015",
+  "anatolia_ppn_0261",
+  "egypt_0048",
+  "egypt_0013",
+  "maya_0052",
+  "egypt_0044",
+  "gotland_0009",
+  "maya_0115",
+  "assyria_0051",
+  "egypt_0027"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "gotland",
+  "anatolia_ppn",
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

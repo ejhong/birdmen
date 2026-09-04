@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "animal in profile",
+  "incised linear/geometric hatching or repeated strokes"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest shared content is the use of schematic profile animal imagery together with incised linear or hatched geometric markings. The biggest difference is that A is dominated by a single large animal form, while B is a multi-register composition with several separate figures, bands, and signs arranged on a vertical surface.",
+ "a": "anatolia_ppn_0144",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  1034
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  3,
+  1,
+  7,
+  2,
+  6,
+  8,
+  10,
+  9,
+  5
+ ],
+ "most_similar_reason": "Candidate 4, like the target, is a monolithic upright block treated as an anthropomorphic body, with low-relief arms, hands and belt/ornament elements wrapping the frontal and side faces of the stone rather than a scene set on a flat panel.",
+ "least_similar_reason": "Candidate 5 shows only plain undecorated masonry blocks with no figures, symbols or motifs at all, so there is nothing depicted to compare with the target's carved anthropomorphic imagery.",
+ "set": "p43_among_random",
+ "i": 26,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "maya_0147",
+  "assyria_0032",
+  "maya_0092",
+  "anatolia_ppn_p43full",
+  "egypt_0021",
+  "persepolis_0015",
+  "assyria_0128",
+  "catalhoyuk_0110",
+  "tanum_0030",
+  "assyria_0091"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "assyria",
+  "maya",
+  "tanum",
+  "maya",
+  "persepolis",
+  "egypt",
+  "catalhoyuk",
+  "assyria",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

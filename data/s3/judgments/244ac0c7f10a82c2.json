@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "animals in profile",
+  "bird or wing/feather-like forms",
+  "repeated linear/geometric patterning"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The main overlap is only broad: both include profile animal imagery and repeated incised linear patterning, with A possibly including bird-like figures and B including a prominent winged animal. The biggest difference is that A is a multi-register field of small schematic creatures and signs, while B is dominated by one large naturalistic composite ram-like creature with a curled horn and wing.",
+ "a": "anatolia_ppn_p43full",
+ "b": "persepolis_0110",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  661
+ ]
+}

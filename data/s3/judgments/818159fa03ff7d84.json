@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "bearded male figure in profile",
+  "elaborate tiered/patterned headdress",
+  "stylized curled and banded beard and hair",
+  "raised arm with open hand holding an object",
+  "stylized floral/rosette-palmette motif",
+  "long garment with patterned fringe/edge",
+  "low-relief figure with profile head and frontal-ish shoulder"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both depict bearded male figures in strict profile with tiered patterned headdresses, minutely banded beards and hair, and an arm raised to hold an object, rendered in the same low-relief convention with fringed garments and stylized floral motifs (rosette band in A, palmette-flowered stalks in B). But A is a horizontal procession of several wingless, interacting attendants above a rosette border, while B is a single large kneeling/striding winged figure grasping plant stalks, so the compositional scheme and the presence of wings differ fundamentally.",
+ "a": "persepolis_0087",
+ "b": "assyria_0078",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3324,
+  812
+ ]
+}

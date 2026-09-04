@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "bird head/beak in profile",
+  "winged or bird-like creature",
+  "animals shown in profile",
+  "horizontal band or register division",
+  "figures carved in relief facing sideways"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces show creatures rendered in profile, including a hooked bird beak/head, arranged with horizontal register or band divisions, which is about as generic a correspondence as figural relief can offer. The differences dominate: A shows two large anthropomorphic winged genies with elaborately feathered wings, garments, held staffs and finely modelled musculature, while B shows small, flat, silhouette-like animals (quadrupeds, birds) stacked in rows with no human figures, no wings on the bodies and no attributes, following utterly different conventions of proportion and infill.",
+ "a": "assyria_0059",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  735
+ ]
+}

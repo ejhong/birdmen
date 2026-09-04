@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "low-relief figures on a slab/pillar surface",
+  "registers or horizontal bands dividing the field",
+  "animals/creatures shown in profile",
+  "a row of repeated similar elements along the top",
+  "standing/upright figures with visible limbs",
+  "disc or round motif",
+  "a raised border/frame around the scene"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both are upright slabs bearing low-relief scenes organised into horizontal registers with a row of repeated small elements across the top and profile figures below, and both include a round disc-like motif, but these are generic compositional conventions. A shows animal/creature forms (quadrupeds, birds, a snake-like body) with no human worshipping scene, while B shows two anthropomorphic figures facing one another across a central axis with staffs and script-like signs, plus an arched canopy frame absent from A; the drawing conventions (blocky animal silhouettes vs. slender striding human bodies with headdresses) differ markedly.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0068",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  367
+ ]
+}

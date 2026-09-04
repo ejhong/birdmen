@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  7,
+  10,
+  1,
+  9,
+  6,
+  4,
+  3,
+  8,
+  2
+ ],
+ "most_similar_reason": "Candidate 5 shows the same core subject as the target: a single frontal standing personage on an upright monument, dominated by a huge elaborate headdress, with arms held across the chest and ornaments hanging at the waist, rendered in the same bilaterally symmetrical, deeply carved relief convention.",
+ "least_similar_reason": "Candidate 2 depicts no human figure at all, only an incised spiral and a fish-like creature on a curved vessel wall, sharing none of the target's frontal costumed personage, headdress, pectoral disc or belt iconography.",
+ "set": "p43_iso_among_monoliths",
+ "i": 18,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "anatolia_ppn_p43iso",
+  "gotland_0000",
+  "maya_0147",
+  "maya_0136",
+  "maya_0106",
+  "egypt_0041",
+  "maya_0158",
+  "gotland_0005",
+  "maya_0115",
+  "maya_0083"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "egypt",
+  "gotland",
+  "maya",
+  "maya",
+  "gotland",
+  "maya",
+  "maya",
+  "maya",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

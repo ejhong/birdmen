@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic animal figures",
+  "animal in profile",
+  "bird-like figure in profile",
+  "repeated linear/geometric marks"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest shared content is the use of schematic profile animal signs, including bird-like and quadruped-like figures, mixed with repeated linear marks. The biggest difference is that A presents a dense, vertically organized composition of carved animal and patterned motifs, while B shows scattered pictographic signs dominated by antler/boat-like forms and text-panel illustration rather than the same iconographic scheme.",
+ "a": "anatolia_ppn_p43full",
+ "b": "tanum_0078",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  584
+ ]
+}

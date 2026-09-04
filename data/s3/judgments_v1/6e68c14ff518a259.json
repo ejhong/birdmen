@@ -1,0 +1,19 @@
+{
+ "shared_elements": [
+  "human or human-like limbs/figure",
+  "linear relief carving on a stone surface"
+ ],
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific possible overlap is that both surfaces include carved linear relief and some human/human-like presence, though A has a single profile standing figure while B mainly shows stacked bands of animal and abstract motifs on a pillar-like surface. The biggest difference is compositional: A is a spacious, framed figural scene centered on one person, whereas B is crowded, segmented, and dominated by multiple small creatures and patterned bands.",
+ "a": "persepolis_0067",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1230,
+  656
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  5,
+  4,
+  3,
+  7,
+  10,
+  6,
+  9,
+  8,
+  1
+ ],
+ "most_similar_reason": "Candidate 2 shows the same kind of tall slab covered in shallow relief divided into stacked registers that mix a profile figural/creature image with blocky sign-like panels and banded borders, matching the target's register-by-register combination of profile creatures and repeated glyphic elements.",
+ "least_similar_reason": "Candidate 1 presents an essentially blank, undecorated upright slab in a landscape, offering no depicted creatures, figures, signs or banded motifs to correspond with the target's dense profile-bird and zigzag imagery.",
+ "set": "moai_iso_among_monoliths",
+ "i": 23,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0000",
+  "maya_0138",
+  "egypt_0014",
+  "maya_0056",
+  "maya_0091",
+  "maya_0019",
+  "maya_0146",
+  "gotland_0112",
+  "rapa_nui_hoa_iso",
+  "maya_0095"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "gotland",
+  "egypt",
+  "maya",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 8
+}

@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "quadruped animal in profile",
+  "human or human-like figure",
+  "straight linear elements or bands"
+ ],
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces include profile animals and at least one human or human-like figure carved into stone. The biggest difference is compositional: A is a coherent horizontal scene dominated by a wheeled vehicle and large animal, while B is a vertical surface with stacked, separate motifs and no comparable vehicle-centered arrangement.",
+ "a": "assyria_0109",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  640
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  2,
+  3,
+  10,
+  1,
+  7,
+  9,
+  8,
+  4,
+  5
+ ],
+ "most_similar_reason": "Candidate 6, like the target, combines schematic profile animals (quadrupeds with stick legs) with abstract geometric/rectilinear signs set alongside them on a single surface, with the same reduced, outline-based, sign-like manner of drawing creatures rather than a naturalistic scene.",
+ "least_similar_reason": "Candidate 5 shows only plain rock-cut wall surfaces with structural divisions and no depicted creatures, figures or symbolic motifs at all, so it shares none of the target's animal and sign iconography.",
+ "set": "moai_among_random",
+ "i": 28,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "maya_0023",
+  "maya_0069",
+  "rapa_nui_0113",
+  "egypt_0069",
+  "egypt_0006",
+  "tanum_0129",
+  "maya_0147",
+  "egypt_0062",
+  "persepolis_0062",
+  "egypt_0048"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "persepolis",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "tanum",
+  "egypt",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 3
+}

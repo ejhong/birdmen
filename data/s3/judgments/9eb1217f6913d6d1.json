@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "schematic animal or bird-like figure in profile",
+  "prominent eye/disc on a head or body",
+  "horizontal/register-like bands of signs",
+  "rows of short parallel strokes or notches",
+  "linear geometric marks"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The strongest correspondence is the use of schematic profile creatures combined with linear bands of short repeated marks and eye/disc-like details. The biggest difference is that B has a clearly organized multi-register scene with several distinct animals and symbols, while A appears dominated by one eroded central creature with much less clear separation of motifs or matching relationships.",
+ "a": "egypt_0012",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  1024
+ ]
+}

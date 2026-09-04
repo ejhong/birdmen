@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  9,
+  5,
+  2,
+  1,
+  6,
+  8,
+  7,
+  3,
+  10
+ ],
+ "most_similar_reason": "Candidate 4 likewise shows small schematic animals and stick-like figures rendered in shallow outline relief, stacked in horizontal registers across the slab rather than a single dominating figure, matching the target's crowded, sign-like assembly of creatures.",
+ "least_similar_reason": "Candidate 10 depicts a single large, elaborately costumed frontal human figure with headdress and ornaments filling the whole field in a detailed naturalistic manner, with none of the target's small schematic profile birds, quadrupeds and zigzag banding.",
+ "set": "moai_iso_among_monoliths",
+ "i": 13,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "rapa_nui_hoa_iso",
+  "egypt_0040",
+  "maya_0091",
+  "gotland_0116",
+  "gotland_0111",
+  "maya_0066",
+  "maya_0039",
+  "maya_0101",
+  "gotland_0026",
+  "maya_0060"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "gotland",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "gotland",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 5
+}

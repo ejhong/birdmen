@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figures shown in strict profile",
+  "bearded male figures with elaborate headgear/caps",
+  "low-relief frieze on a horizontal band",
+  "figures processing/moving in one direction across the panel",
+  "patterned hair and beard rendered in regular rows of curls",
+  "hands holding objects (bow/reins vs. spears/hands clasped)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both are continuous low-relief friezes of bearded male figures in strict profile with formulaic, tightly stylised curled hair and beards, all oriented in one direction along a horizontal band, which is a fairly specific shared convention. However, A depicts a violent narrative hunt with a chariot, galloping horses and attacking and dying lions, while B depicts a static, repetitive file of standing attendants between rosette borders, with no animals, no vehicles and no action.",
+ "a": "assyria_0040",
+ "b": "persepolis_0077",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  332
+ ]
+}

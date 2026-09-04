@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "low-relief carving on an upright slab/stela format",
+  "human figures (A) and anthropomorphic/zoomorphic glyph heads (B)",
+  "registers or rows organizing the content",
+  "script-like signs (A has a small column of signs; B is entirely glyphic)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both are relief-carved upright slabs organized into registers, and both include sign-like elements, some of which in B read as small faces echoing the human profiles in A. But A depicts a narrative figural scene \u2014 a large standing profile figure with raised arm facing a seated/attendant figure under a canopy, with offerings and animals below \u2014 while B is a pure grid of repeated block-shaped glyphs with no scene, figures at scale, or interaction; the shared traits are generic to relief-carved monuments rather than specific iconographic conventions.",
+ "a": "egypt_0044",
+ "b": "maya_0095",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3024,
+  331
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figure in profile with beard and headgear",
+  "figure's arm extended holding/reaching toward another motif",
+  "stylized rosette / multi-petalled floral motif",
+  "low-relief figures in a single register on a flat ground",
+  "patterned garment with rendered folds or fringe",
+  "hair and beard rendered as regular curled rows"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both show a bearded male figure in strict profile with a covered head, an arm extended toward an adjacent motif, and multi-petalled rosette/floral forms, all in shallow relief with hair and beard in regular curled rows \u2014 a convention combination that is somewhat specific. But the depicted subjects differ fundamentally: A is a man leading a two-humped pack animal along a register bounded by a rosette band, while B is a large winged, kneeling genie-like figure reaching to a stylised plant, with no animal and no border band.",
+ "a": "persepolis_0030",
+ "b": "assyria_0079",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  759
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "low relief carving on a flat upright slab",
+  "human or humanoid figures shown frontally/in profile",
+  "animals in profile",
+  "horizontal register divisions",
+  "repeated row of similar motifs across the top",
+  "raised arms/hands rendered schematically",
+  "bird-like creature"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both are upright slabs carved in low relief with figures arranged in stacked horizontal registers, and both include animals in profile plus schematic raised-arm human forms, but the specific content differs sharply: A shows a ritual scene of clothed human figures standing around an offering stand with hieroglyph-like signs, while B shows a row of abstract repeated masks/heads over a fringe band with predatory quadrupeds, a bird and a large snake-like creature. The correspondence is limited to the generic conventions of registered relief with animals and human forms, nothing distinctive enough to imply a shared iconographic tradition.",
+ "a": "egypt_0065",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  358
+ ]
+}

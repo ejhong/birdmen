@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "profile animal figures",
+  "long-necked bird-like/serpentine forms",
+  "small circular marks or discs"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of carved animal-like figures in profile, including elongated curving forms and small circular marks on a stone surface. The biggest difference is that A is an orderly upright panel divided into registers with crisp relief and geometric bands, while B is an irregular boulder with looser, scattered incised figures and no comparable register structure.",
+ "a": "anatolia_ppn_p43full",
+ "b": "rapa_nui_0096",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  642
+ ]
+}

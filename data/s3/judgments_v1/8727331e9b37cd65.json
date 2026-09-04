@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "carved/engraved stone surface",
+  "profile animal figure",
+  "standing or walking human/anthropomorphic figure",
+  "horizontal band of repeated pattern",
+  "upright plant/tree-like form",
+  "small circular or rounded motifs"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest correspondence is that both surfaces combine profile living figures with horizontal ornamental bands on stone. The biggest difference is that A is a long, orderly, modeled relief scene with a procession-like arrangement, while B is a vertical pillar with much rougher, more linear and scattered carvings in stacked zones.",
+ "a": "persepolis_0010",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  657
+ ]
+}

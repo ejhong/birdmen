@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "profile bird or bird-like figure",
+  "wing or feather-like forms",
+  "horizontal band or register"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of profile bird/bird-like forms with feathered or wing-like shapes, set within carved stone surfaces that include horizontal divisions. The biggest difference is compositional: A is dominated by one large, carefully modeled standing winged figure beside vegetation, while B is a rougher, more schematic pillar covered with multiple small motifs arranged in stacked registers.",
+ "a": "assyria_0134",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  649
+ ]
+}

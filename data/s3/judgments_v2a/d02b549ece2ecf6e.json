@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic animal or creature forms",
+  "circular or oval motifs",
+  "linear band-like motifs",
+  "stylized body-part/anthropomorphic forms"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest correspondences are generic: both surfaces use schematic carved outlines with some creature/body-like forms, circular or oval signs, and linear banding. The main difference is that A is organized as a dense, multi-register field of separate animals/signs, while B is dominated by a single large anthropomorphic/body-shaped figure with motifs arranged on its torso.",
+ "a": "anatolia_ppn_p43full",
+ "b": "rapa_nui_0004",
+ "model": "gpt",
+ "set": "target",
+ "usage": [
+  1759,
+  665
+ ]
+}

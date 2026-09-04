@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "animal in profile"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "Image A shows a single carved lizard-like animal on a plain stone surface with abstract linear bands, while Image B shows a complex polychrome scene of two facing human figures flanking a central animal head, with elaborate belts, headdresses, and held objects. The only loose commonality is the presence of an animal shown in profile, but the surrounding content, figures, symbols, and composition are entirely different.",
+ "a": "anatolia_ppn_0103",
+ "b": "mississippian_0052",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  3349,
+  217
+ ]
+}

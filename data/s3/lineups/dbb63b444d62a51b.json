@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  10,
+  7,
+  5,
+  2,
+  6,
+  3,
+  4,
+  1,
+  9
+ ],
+ "most_similar_reason": "Both present stylized animal forms situated on a tall, vertical surface.",
+ "least_similar_reason": "It relies entirely on geometric motifs and text rather than zoomorphic figures.",
+ "set": "moai_close_among_random",
+ "i": 13,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "egypt_0056",
+  "catalhoyuk_0110",
+  "maya_0126",
+  "egypt_0038",
+  "rapa_nui_0004",
+  "mississippian_0002",
+  "persepolis_0000",
+  "maya_0088",
+  "gotland_0003",
+  "persepolis_0110"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "catalhoyuk",
+  "persepolis",
+  "maya",
+  "mississippian",
+  "persepolis",
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt"
+ ],
+ "model": "gemini",
+ "planted_rank": 4
+}

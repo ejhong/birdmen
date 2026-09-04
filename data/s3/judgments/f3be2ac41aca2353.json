@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic animal or creature figures in profile",
+  "horizontal rows/bands of repeated short linear marks",
+  "curved and straight incised/outlined linear motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest shared content is that both surfaces include schematic outlined creatures and horizontal bands of repeated short strokes or signs. The biggest difference is that A appears dominated by long, boat-like or elongated linear motifs with internal strokes, whereas B is organized into clearer registers of separate animals, especially birds and quadrupeds, with no matching overall scene or specific motif relationship.",
+ "a": "tanum_0026",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  667
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "circle/disc motif",
+  "human figure (relief figures in A, sculpted body in B)",
+  "shallow carved curvilinear lines/bands",
+  "repeated symbolic signs in a raised field"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The only real correspondences are generic: both surfaces carry a carved disc/ring motif and shallow curvilinear bands associated with a human form, which any carving tradition might independently produce. A shows a dense narrative scene of profile figures with raised arms beneath a rayed disc above an offering table, framed by registers of small repeated signs, whereas B shows a single frontal three-dimensional body with a few isolated, sparse schematic motifs (ring, arcs, a headdress-like band) and no scene, no interaction between figures, and no narrative register system.",
+ "a": "egypt_0000",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3174,
+  693
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief carving on a flat panel",
+  "figures shown in strict profile",
+  "repeated small decorative units (rows of curls / rows of identical figures)",
+  "horizontal register band framing the composition",
+  "stylized rendering of hair/beard as regular patterned rows"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces show low-relief profile imagery organised within horizontal framing bands, and both render hair or mane as tightly ordered rows of identical curls and layered locks, a moderately specific stylistic convention. However, the depicted subjects are quite different: A shows a procession of repeated standing human figures in identical file beneath architectural remains, while B shows a single large predatory bird- or dragon-headed creature's head filling the panel with a hand/arm below it.",
+ "a": "persepolis_0024",
+ "b": "assyria_0099",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3149,
+  308
+ ]
+}

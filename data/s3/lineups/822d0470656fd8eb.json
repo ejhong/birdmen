@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  5,
+  1,
+  7,
+  8,
+  3,
+  9,
+  10,
+  6,
+  2
+ ],
+ "most_similar_reason": "Candidate 4, like the target, is a freestanding monolithic anthropomorphic pillar whose body carries schematic arms bending round to hands meeting at the front over a belt, with small emblem-like motifs and animal/abstract signs carved in shallow relief on the shaft rather than a narrative scene.",
+ "least_similar_reason": "Candidate 2 shows only a plain built platform/step with no figures, symbols or carved motifs at all, so it shares none of the target's anthropomorphic body, arms, belt or disc emblems.",
+ "set": "p43_among_random",
+ "i": 7,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "assyria_0071",
+  "catalhoyuk_0065",
+  "assyria_0000",
+  "anatolia_ppn_p43full",
+  "tanum_0321",
+  "persepolis_0099",
+  "assyria_0151",
+  "assyria_0122",
+  "persepolis_0071",
+  "persepolis_0012"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "persepolis",
+  "assyria",
+  "tanum",
+  "persepolis",
+  "assyria",
+  "persepolis",
+  "assyria",
+  "assyria",
+  "catalhoyuk"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

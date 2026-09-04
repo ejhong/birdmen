@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "animal in profile",
+  "long-bodied quadruped or canine-like animal",
+  "schematic outline carving"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest shared content is a schematic profile animal, possibly a long-bodied quadruped/canine-like creature, rendered by simple outline relief. The major difference is that A shows essentially a single isolated animal, while B is a crowded multi-register composition with several animals, possible human or object forms, and repeated geometric bands, so the iconographic scheme and arrangement do not correspond.",
+ "a": "anatolia_ppn_0084",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  661
+ ]
+}

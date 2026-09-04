@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  8,
+  4,
+  6,
+  9,
+  1,
+  2,
+  5,
+  3,
+  7
+ ],
+ "most_similar_reason": "Candidate 10 is most similar because it shows the same kind of upright, frontal, highly schematic anthropomorphic stele with a blocky body, carved geometric/iconic bands, and a large figure integrated into the vertical surface.",
+ "least_similar_reason": "Candidate 7 is least similar because its content is dominated by linear boat-like forms and animal-headed shapes, with no comparable frontal anthropomorphic monument, body-like arrangement, or dense carved symbolic registers.",
+ "set": "p43_among_random",
+ "i": 8,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "maya_0125",
+  "gotland_0009",
+  "assyria_0111",
+  "egypt_0045",
+  "persepolis_0073",
+  "maya_0005",
+  "tanum_0049",
+  "egypt_0066",
+  "assyria_0138",
+  "anatolia_ppn_p43full"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "assyria",
+  "assyria",
+  "maya",
+  "persepolis",
+  "tanum",
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

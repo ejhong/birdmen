@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "front-facing anthropomorphic figure or body",
+  "head above torso",
+  "circular disc motifs on the body/central axis",
+  "horizontal bands across the torso",
+  "vertical linear/incised details",
+  "bilateral/symmetrical layout"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both surfaces present a vertically oriented, frontal anthropomorphic form with a head/upper part over a torso-like area, circular motifs on or near the central body, and some horizontal banding. The biggest difference is that A shows a highly elaborate full standing figure with headdress, limbs, ornaments, and surrounding complex motifs, while B is a much more abstract torso-like figure with simple discs and bands and lacks the same detailed attributes or narrative/iconographic components.",
+ "a": "maya_0019",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1883,
+  601
+ ]
+}

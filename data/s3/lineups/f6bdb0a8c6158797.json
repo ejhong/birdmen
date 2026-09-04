@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  10,
+  6,
+  7,
+  8,
+  9,
+  3,
+  4,
+  2,
+  1
+ ],
+ "most_similar_reason": "Candidate 5 is, like the target, a rectangular relief-carved slab whose surface is divided into registers, with figural low-relief imagery above and rows of dense block-like sign clusters below, drawn in the same flat, outlined, space-filling manner.",
+ "least_similar_reason": "Candidate 1 shows an essentially blank slab with a single faint incised line, offering no figures, sign registers or scroll motifs to correspond with the target's crowded relief composition.",
+ "set": "same_control_monoliths",
+ "i": 33,
+ "target": "maya_0045",
+ "planted": "maya_0066",
+ "cands": [
+  "anatolia_ppn_0072",
+  "anatolia_ppn_0239",
+  "anatolia_ppn_0175",
+  "anatolia_ppn_0266",
+  "maya_0066",
+  "egypt_0068",
+  "anatolia_ppn_0107",
+  "anatolia_ppn_0270",
+  "rapa_nui_0049",
+  "egypt_0076"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "egypt",
+  "rapa_nui",
+  "egypt",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "anatolia_ppn"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

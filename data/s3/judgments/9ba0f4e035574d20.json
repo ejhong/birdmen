@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "circle or disc motifs",
+  "curving/serpentine lines",
+  "horizontal bands or rows of pattern"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The most specific overlap is the use of simple incised/relief geometric signs, especially circular motifs and horizontal bands of repeated lines. The biggest difference is that B is dominated by numerous recognizable profile animals and compartmented registers, while A reads mainly as a sparse schematic/anthropomorphic or abstract design with a central disc and arcing bands rather than a comparable animal scene.",
+ "a": "rapa_nui_0046",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  661
+ ]
+}

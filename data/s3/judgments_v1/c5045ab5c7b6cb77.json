@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "carved stone relief surface",
+  "profile animal figures",
+  "human or anthropomorphic figure",
+  "horizontal register or band",
+  "repeated linear patterning",
+  "long linear objects or appendages"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces use low-relief/incised profile figures on stone, with animals and human-like figures organized partly by horizontal bands or registers. The biggest difference is compositional: A is a single, detailed narrative scene dominated by a chariot/vehicle and large horse, while B is a vertical stack of more schematic, separated motifs without the same central vehicle-and-team arrangement.",
+ "a": "assyria_0131",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  543
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  3,
+  1,
+  10,
+  6,
+  7,
+  5,
+  9,
+  4,
+  8
+ ],
+ "most_similar_reason": "Candidate 2 is most similar because it shows a tall surface covered with the same kind of schematic low-relief animal imagery arranged in stacked/adjacent zones, including comparable profile creatures and repeated linear motifs.",
+ "least_similar_reason": "Candidate 8 is least similar because it is essentially a single large profile human head-and-shoulder figure, lacking the target\u2019s clustered animal figures, repeated sign-like bands, and multi-motif surface arrangement.",
+ "set": "moai_close_among_random",
+ "i": 10,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "maya_0070",
+  "maya_0137",
+  "maya_0152",
+  "rapa_nui_0004",
+  "tanum_0332",
+  "egypt_0070",
+  "tanum_0237",
+  "mississippian_0001",
+  "assyria_0008",
+  "gotland_0009"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "tanum",
+  "gotland",
+  "tanum",
+  "mississippian",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "assyria"
+ ],
+ "model": "gpt",
+ "planted_rank": 9
+}

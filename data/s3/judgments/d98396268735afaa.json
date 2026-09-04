@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "rounded-top slab carved in low relief across its front face",
+  "rectangular glyph-like sign blocks with rounded corners and internal curvilinear detail",
+  "horizontal register/band of such signs",
+  "scroll and volute motifs",
+  "framed panel edge"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces carry low-relief, rounded-cornered sign blocks packed with curvilinear scroll detail, and both organise them into horizontal registers on a rounded-topped upright slab, which is a fairly specific shared convention for a script-bearing monument. The decisive difference is content: A is wholly a grid of such sign blocks with no figures, while B devotes most of its field to two elaborately headdressed human figures facing one another, with signs confined to a narrow band along the top.",
+ "a": "maya_0085",
+ "b": "maya_0083",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  2974,
+  685
+ ]
+}

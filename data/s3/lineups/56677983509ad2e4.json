@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  5,
+  8,
+  10,
+  3,
+  7,
+  2,
+  6,
+  4,
+  1
+ ],
+ "most_similar_reason": "Candidate 9 shares the target's core content: rows/bands of discrete pictorial signs, including small animal- and object-shaped glyphs, laid out in linear registers across a tall flat slab rather than a single dominant figural scene.",
+ "least_similar_reason": "Candidate 1 is a fully three-dimensional standing human figure with modelled body, headdress and pectoral, showing none of the target's register bands, animal-in-profile signs or flat incised sign-repertoire.",
+ "set": "moai_iso_among_monoliths",
+ "i": 4,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "rapa_nui_hoa_iso",
+  "maya_0081",
+  "egypt_0048",
+  "maya_0087",
+  "maya_0094",
+  "maya_0056",
+  "egypt_0073",
+  "egypt_0042",
+  "gotland_0004",
+  "egypt_0069"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "gotland",
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "egypt",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 10
+}

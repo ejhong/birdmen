@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "frontal anthropomorphic figure",
+  "schematic face with eyes, nose and mouth",
+  "upright torso/body",
+  "arms or side appendages along the body",
+  "circular mark on the torso",
+  "incised geometric markings or bands"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces show a vertically oriented, frontal, highly schematic human-like figure with a head/face above a torso, side arms or appendages, incised details, and a central circular body mark. The biggest difference is that A reads as one broad-bodied figure with prominent paired chest circles and curved horizontal bands, while B has a stacked/columnar composition with an additional large upper head or headdress and a different lower face-and-body scheme.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_0264",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  524
+ ]
+}

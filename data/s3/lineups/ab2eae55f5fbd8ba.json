@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  1,
+  5,
+  8,
+  9,
+  2,
+  3,
+  7,
+  10,
+  6
+ ],
+ "most_similar_reason": "Candidate 4 likewise shows a single massive figure carved directly into the rounded mass of a boulder, its head and body emerging from the block with shallow surface incising, matching the target's monolithic boulder-figure conception rather than a flat panelled scene.",
+ "least_similar_reason": "Candidate 6 depicts a tidy architectural relief panel of a manufactured object and tool-like implements in crisp geometric outline, sharing no figural or boulder-carving content with the target's large eroded creature-form on a natural rock mass.",
+ "set": "same_control",
+ "i": 19,
+ "target": "rapa_nui_0099",
+ "planted": "rapa_nui_0022",
+ "cands": [
+  "tanum_0100",
+  "assyria_0146",
+  "mississippian_0010",
+  "rapa_nui_0022",
+  "egypt_0033",
+  "persepolis_0044",
+  "persepolis_0082",
+  "tanum_0034",
+  "maya_0060",
+  "persepolis_0010"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "tanum",
+  "mississippian",
+  "egypt",
+  "maya",
+  "persepolis",
+  "tanum",
+  "persepolis",
+  "assyria",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

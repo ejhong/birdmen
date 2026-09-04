@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  7,
+  8,
+  1,
+  3,
+  9,
+  10,
+  6,
+  2,
+  4
+ ],
+ "most_similar_reason": "Candidate 5, like the target, is dominated by a single large human figure shown nearly frontally with a broad elaborate headdress framing the head, arms held across the body and disc-like ornaments/regalia on the chest, carved in shallow relief that fills the whole face of the monument.",
+ "least_similar_reason": "Candidate 4 shows no figural imagery at all, only stacked rows of square sign-blocks, whereas the target is essentially a single ornamented human figure with headdress and pectoral disc.",
+ "set": "p43_iso_among_monoliths",
+ "i": 14,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0083",
+  "maya_0146",
+  "anatolia_ppn_p43iso",
+  "maya_0005",
+  "maya_0130",
+  "maya_0085",
+  "maya_0066",
+  "maya_0097",
+  "gotland_0113",
+  "egypt_0047"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "maya",
+  "gotland",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 5
+}

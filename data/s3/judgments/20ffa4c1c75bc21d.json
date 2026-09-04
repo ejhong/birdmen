@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "low-relief carved figural scene on a rectangular field",
+  "human figures shown in profile",
+  "quadruped animals in profile",
+  "hoofed/mane-bearing animals led or driven",
+  "horizontal registers/framing bands",
+  "weapons or long staff-like objects held by figures",
+  "bearded male figures"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both are low relief with strictly profile human and animal figures organised along horizontal registers, with bearded men holding elongated objects (bow/spear versus staffs) and quadrupeds in profile alongside them, which is a real but broad correspondence in figural convention. The depicted subjects differ sharply: A shows a dynamic hunt/battle with a chariot, drawn bow, galloping horses and collapsing lions, while B shows static, evenly spaced processions of standing attendants and led animals with no action, no chariot and no violence.",
+ "a": "assyria_0012",
+ "b": "persepolis_0093",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  340
+ ]
+}

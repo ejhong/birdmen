@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  7,
+  1,
+  3,
+  5,
+  4,
+  2,
+  10,
+  8,
+  9
+ ],
+ "most_similar_reason": "Candidate 6 shows the same combination as the target: schematic profile animals (birds/quadrupeds) carved in shallow relief on a slab, set alongside an isolated geometric emblem, with the creatures floating on a plain ground rather than in a narrative scene.",
+ "least_similar_reason": "Candidate 9 depicts nothing but dense columns of repeated script-like glyph blocks with no animals, no profile creatures and no free-standing emblems, sharing only the fact of being an upright inscribed slab.",
+ "set": "moai_iso_among_monoliths",
+ "i": 30,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0081",
+  "gotland_0111",
+  "gotland_0128",
+  "egypt_0074",
+  "rapa_nui_hoa_iso",
+  "gotland_0026",
+  "gotland_0000",
+  "maya_0146",
+  "maya_0057",
+  "maya_0092"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "gotland",
+  "gotland",
+  "gotland",
+  "maya",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 5
+}

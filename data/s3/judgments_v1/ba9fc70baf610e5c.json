@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "profile animals",
+  "standing human or human-like figures",
+  "horizontal band or register",
+  "incised surface patterning",
+  "low-relief carving on stone"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest correspondence is that both are stone reliefs using profile figures, including animals and human or human-like forms, with some horizontal organization and incised detail. The biggest difference is compositional and stylistic: A is a vertical, densely packed, schematic register-like surface with varied motifs, while B is a horizontal, more naturalistic procession of humans and rams.",
+ "a": "anatolia_ppn_p43full",
+ "b": "persepolis_0108",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  554
+ ]
+}

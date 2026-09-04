@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "standing human figures in profile",
+  "row/register of figures facing the same direction",
+  "low-relief carved figures on a flat rectangular panel",
+  "bearded male figures in long garments",
+  "arched/curved architectural or framing form"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both surfaces carry shallow-relief bearded male figures shown in strict profile, aligned in a single horizontal register and all facing the same direction, and both use a comparable convention of outlined bodies with patterned garment detail against a plain ground. The subject matter diverges sharply, however: A is dominated by a large field of dense inscribed text with only a small arched panel of static, apparently ceremonial figures beside emblems, while B is a continuous narrative of armed men with bows advancing on a walled, towered structure, with no text at all.",
+ "a": "egypt_0033",
+ "b": "assyria_0041",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  823
+ ]
+}

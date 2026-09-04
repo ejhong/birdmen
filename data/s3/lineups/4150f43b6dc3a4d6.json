@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  3,
+  1,
+  4,
+  10,
+  8,
+  2,
+  9,
+  6,
+  7
+ ],
+ "most_similar_reason": "Candidate 5 shows the same thing as the target: an upright, flat-topped monolithic pillar bearing a single low-relief quadruped/reptile stretched horizontally in profile across the upper shaft, with the same schematic outlined body, short legs and long tail against an otherwise blank surface.",
+ "least_similar_reason": "Candidate 7 is a plaque covered edge to edge with registers of small human/figural signs and rows of script-like symbols, sharing neither the single isolated animal in profile nor the bare pillar-shaft arrangement of the target.",
+ "set": "same_control_monoliths",
+ "i": 30,
+ "target": "anatolia_ppn_0083",
+ "planted": "anatolia_ppn_0084",
+ "cands": [
+  "rapa_nui_0122",
+  "rapa_nui_0006",
+  "rapa_nui_0069",
+  "gotland_0133",
+  "anatolia_ppn_0084",
+  "egypt_0043",
+  "egypt_0063",
+  "maya_0066",
+  "maya_0085",
+  "gotland_0113"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "rapa_nui",
+  "egypt",
+  "rapa_nui",
+  "gotland",
+  "rapa_nui",
+  "gotland",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

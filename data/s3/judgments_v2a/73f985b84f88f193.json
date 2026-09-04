@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "upright anthropomorphic figure/stele",
+  "schematic arms or hands on the torso",
+  "horizontal waist/belt-like band",
+  "circular or disc-like motifs",
+  "incised/low-relief linear signs on the body"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "The strongest correspondence is that both surfaces treat an upright monolithic form as a schematic human-like body, with body markings, arm/hand indications, circular motifs, and a horizontal waist or belt zone. The biggest difference is that A is dominated by multiple animal and sign-like reliefs arranged in bands on an otherwise faceless pillar, while B presents a more explicit frontal human figure with head, shoulders, chest discs, and torso features.",
+ "a": "anatolia_ppn_p43full2",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "target",
+ "usage": [
+  1786,
+  697
+ ]
+}

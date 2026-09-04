@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  9,
+  7,
+  6,
+  1,
+  4,
+  10,
+  2,
+  3,
+  5
+ ],
+ "most_similar_reason": "Candidate 8 shows a horizontal register of animals (rams) rendered in profile with schematic naturalistic style, closely echoing the target's arrangement of profile animals in bands.",
+ "least_similar_reason": "Candidate 5 shows only a rough, textured stone surface with no discernible figurative or animal iconography, sharing nothing with the target's rich animal imagery.",
+ "set": "moai_close_among_random",
+ "i": 11,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "gotland_0026",
+  "tanum_0085",
+  "tanum_0126",
+  "mississippian_0001",
+  "tanum_0100",
+  "egypt_0053",
+  "persepolis_0079",
+  "persepolis_0022",
+  "persepolis_0108",
+  "rapa_nui_0004"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "egypt",
+  "gotland",
+  "mississippian",
+  "persepolis",
+  "persepolis",
+  "persepolis",
+  "tanum",
+  "tanum",
+  "tanum"
+ ],
+ "model": "sonnet",
+ "planted_rank": 7
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  6,
+  9,
+  2,
+  8,
+  10,
+  5,
+  1,
+  4,
+  3
+ ],
+ "most_similar_reason": "Candidate 7 is, like the target, a tall pillar treated as a schematic human body, with low-relief arms bent around the shaft, a belt-like band across the lower body and additional small motifs/creatures set on the torso, matching the target's distinctive convention of turning a standing monolith into a body with arms, neckring and belt.",
+ "least_similar_reason": "Candidate 3 shows a curved vessel surface decorated with a fish and a spiral, sharing no anthropomorphic figure, body-part rendering or arrangement with the target's schematic standing human form.",
+ "set": "p43_among_random",
+ "i": 20,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "gotland_0005",
+  "egypt_0072",
+  "gotland_0000",
+  "egypt_0042",
+  "egypt_0077",
+  "maya_0101",
+  "anatolia_ppn_p43full",
+  "egypt_0048",
+  "mississippian_0045",
+  "gotland_0009"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "gotland",
+  "egypt",
+  "mississippian",
+  "gotland",
+  "egypt",
+  "egypt",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

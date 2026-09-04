@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "bearded male figure in strict profile facing right",
+  "curled/beaded stylized beard rendered in rows of drilled curls",
+  "almond eye shown frontally in a profile head",
+  "large ear with earring/ring pendant",
+  "headdress/diadem band with rosette or beaded ornament",
+  "fringed or tasselled garment cords/necklace",
+  "low relief carving of a single dominant figure on a rectangular slab"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "7",
+ "justification": "Both show a bearded male in strict right-facing profile with the same highly conventional treatment: rows of drilled bead-like curls for beard and hair, frontal almond eye in a profile head, prominent ear with a pendant earring, and an ornamented headband, plus tasselled cords across the chest \u2014 a very specific shared scheme. The main difference is scope and attributes: A shows the whole standing winged figure with raised hand, bucket and plant-like object, while B is a bust-scale head with a tall pointed cap and no wings or held objects visible.",
+ "a": "assyria_0146",
+ "b": "assyria_0035",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3099,
+  379
+ ]
+}

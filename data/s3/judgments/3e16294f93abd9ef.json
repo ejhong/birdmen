@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "profile living figures",
+  "human or anthropomorphic body parts",
+  "linear bands or registers",
+  "held or adjacent linear objects"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific overlap is that both surfaces use outlined profile figures and include human/anthropomorphic body elements, with some linear register-like organization. The biggest difference is that A is dominated by schematic animals, signs, and patterned bands, while B shows a naturalistic procession of two standing human figures with clothing, hair, beards, and held objects.",
+ "a": "anatolia_ppn_p43full",
+ "b": "persepolis_0049",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1883,
+  659
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic linear outline motif",
+  "curved boat-like form with vertical stroke crew/hull lines",
+  "elongated linear appendages (mast/limbs) rendered as simple strokes",
+  "triangular/angular geometric element"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both surfaces carry purely schematic, outline-drawn signs, and the most specific correspondence is the curved boat-like hull with short vertical strokes rising from it, which appears as the dominant lower motif in A and among the smaller signs in B. The biggest difference in content is that B is dominated by a large striding human figure with limbs, weapon-like attributes and small satellite signs, while A shows no figures at all \u2014 only a single centred ship/mast-and-sail composition framed by an arched outline.",
+ "a": "gotland_0131",
+ "b": "tanum_0106",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2974,
+  775
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic animals in profile",
+  "simple linear or staff-like marks",
+  "geometric signs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest shared content is the use of schematic profile animals together with simple linear/geometric marks. The biggest difference is that A is a loose scatter of small painted figures and lines, while B is a densely organized, register-like composition with repeated bands, larger figures, and animals integrated into a structured relief scene.",
+ "a": "tanum_0067",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  646
+ ]
+}

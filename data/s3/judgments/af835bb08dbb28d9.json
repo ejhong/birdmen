@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "anthropomorphic/human figure",
+  "head with facial features",
+  "torso with arms",
+  "incised linear decoration on the body or clothing",
+  "horizontal/curving bands of pattern",
+  "circular details"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict a single large human or human-like figure with facial features and incised patterned bands/details associated with the torso or costume, which is the main shared content. The biggest difference is that A is a highly schematic frontal standing figure with emphasized breasts and simple torso motifs, while B is a detailed profile bust/torso of a bearded, winged figure with headdress, hair, and garment patterning.",
+ "a": "rapa_nui_0113",
+ "b": "assyria_0128",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1936,
+  655
+ ]
+}

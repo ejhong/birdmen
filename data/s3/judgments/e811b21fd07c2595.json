@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "dense field of pictographic signs arranged in rows/columns",
+  "cartouche-like oval enclosures containing signs",
+  "register-based division of the surface",
+  "carved stela-form monument surface"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces are covered with dense grids of pictographic signs, some enclosed in oval/rounded frames, filling registers on a stela-like monument, which is a generic shared trait of logographic inscriptions rather than a specific motif. A shows a distinct figural lunette (paired figures adoring a rayed disc, flanked by name-frames) above many horizontal text lines, whereas B has no figural scene at all and its signs are blocky compound glyphs in paired columns rendered in high relief with quite different internal conventions.",
+ "a": "egypt_0014",
+ "b": "maya_0149",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2699,
+  305
+ ]
+}

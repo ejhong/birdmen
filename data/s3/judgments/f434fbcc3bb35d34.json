@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "profile bird or bird-like creature",
+  "wing or feather motif",
+  "profile standing creature/figure",
+  "horizontal band or register of repeated signs or motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is that both include profile avian or avian-like imagery with wings/feathers, together with horizontal registers of repeated signs or motifs above other figural carving. The major difference is that A is a single large, detailed winged bird-headed humanoid holding ritual objects and flanked by plants, while B is a stacked field of schematic animals and abstract symbols without the same central figure, objects, or flanking vegetation.",
+ "a": "assyria_0120",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1909,
+  683
+ ]
+}

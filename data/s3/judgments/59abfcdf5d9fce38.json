@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figure in strict profile",
+  "bearded male head with elaborate curled beard",
+  "patterned/beaded rendering of hair and beard",
+  "conical or tall headgear",
+  "low relief carving of figures against blank ground"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both show bearded male figures in strict profile carved in low relief with the same distinctive conventions: rows of stacked curls in the beard, beaded/dotted hair masses, tall headgear, and a large almond eye rendered frontally in a profile head, which is a specific shared convention rather than a universal one. However, A is a multi-figure narrative hunting scene with a chariot, horses in flying gallop and lions, while B is a single isolated bust-scale head and shoulders with no action, animals or objects, so the relationships and arrangement barely correspond.",
+ "a": "assyria_0040",
+ "b": "assyria_0035",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3324,
+  320
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "vertical carved stone surface",
+  "profile animate figures",
+  "bird-like profile forms",
+  "circle or oval/disc shapes",
+  "horizontal bands or registers of repeated signs/patterns"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both are vertical stone surfaces organized partly into horizontal bands containing small profile figures/signs, including bird-like forms and round/oval marks. The biggest difference is that A has a framed, orderly scene with two human figures and linear inscriptions, while B is a rougher relief surface dominated by animal/abstract forms in stacked zones with no comparable central human interaction.",
+ "a": "egypt_0071",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  665
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  6,
+  1,
+  8,
+  5,
+  9,
+  10,
+  3,
+  7,
+  4
+ ],
+ "most_similar_reason": "Candidate 2 is most similar because it shows a densely carved, register-like surface combining schematic human/animal figures and linear infill in a way closest to the target\u2019s stacked bands of stylized figures, birds/creatures, and geometric separators.",
+ "least_similar_reason": "Candidate 4 is least similar because it depicts a single frontal, naturalistic standing figure with elaborate costume rather than the target\u2019s multi-register arrangement of schematic animals, birds, symbols, and horizontal bands.",
+ "set": "moai_iso_among_monoliths",
+ "i": 39,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "gotland_0113",
+  "maya_0092",
+  "maya_0081",
+  "maya_0060",
+  "rapa_nui_hoa_iso",
+  "egypt_0068",
+  "maya_0097",
+  "maya_0066",
+  "maya_0054",
+  "gotland_0133"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "maya",
+  "gotland",
+  "maya",
+  "gotland",
+  "egypt",
+  "maya",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 5
+}

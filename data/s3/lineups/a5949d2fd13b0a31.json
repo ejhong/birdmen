@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  5,
+  1,
+  2,
+  3,
+  8,
+  10,
+  6,
+  4,
+  7
+ ],
+ "most_similar_reason": "Candidate 9 shows several quadrupeds rendered in shallow relief in strict profile, schematically outlined with flat interiors and arranged as separate animals stacked/juxtaposed across the panel, which is the closest match to the target's register of profile creatures carved in low relief on a single surface.",
+ "least_similar_reason": "Candidate 7 depicts only a procession of clothed human figures walking in file with no animals, no stacked isolated creatures and no abstract signs, so it shares nothing distinctive with the target's animal-and-symbol repertoire.",
+ "set": "moai_among_random",
+ "i": 34,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0011",
+  "persepolis_0084",
+  "persepolis_0058",
+  "assyria_0105",
+  "persepolis_0075",
+  "tanum_0333",
+  "persepolis_0025",
+  "rapa_nui_0113",
+  "assyria_0110",
+  "assyria_0131"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "persepolis",
+  "assyria",
+  "persepolis",
+  "persepolis",
+  "assyria",
+  "tanum",
+  "persepolis",
+  "assyria",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 6
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  3,
+  4,
+  2,
+  6,
+  7,
+  1,
+  10,
+  5,
+  8
+ ],
+ "most_similar_reason": "Candidate 9 shares the target's distinctive horizontal register composition, including a band of repeated zigzag/triangle motifs bordering a panel of small profile figures and blocky sign-like elements rendered in the same shallow, schematic incised outline style.",
+ "least_similar_reason": "Candidate 8 is a rounded, volumetric single figure sculpture with a headdress and body ornaments and no registers, profile creatures, zigzag bands or sign blocks, so it shares essentially no specific iconographic elements with the target.",
+ "set": "moai_iso_among_monoliths",
+ "i": 8,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0147",
+  "maya_0027",
+  "maya_0039",
+  "egypt_0072",
+  "maya_0106",
+  "maya_0066",
+  "maya_0057",
+  "rapa_nui_hoa_iso",
+  "gotland_0128",
+  "maya_0060"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "gotland",
+  "maya",
+  "maya",
+  "maya",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 10
+}

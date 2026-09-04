@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human or anthropomorphic head/figure",
+  "facial features such as eyes, nose, and mouth",
+  "hair or head covering above/around the head",
+  "curvilinear or circular ornamental motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces depict a human or human-like figure/head with facial features and some curving/circular ornamental detail, with the most specific overlap being a decorated head area that includes hair or headgear. The biggest difference is that A is a highly schematic frontal full-body or torso figure with large body markings, while B is a detailed profile head with a tall crown and patterned beard/hair, so the iconographic scheme is not shared.",
+ "a": "rapa_nui_0113",
+ "b": "persepolis_0066",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1883,
+  690
+ ]
+}

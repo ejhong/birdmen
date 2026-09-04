@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human figures",
+  "multiple figures grouped in a scene",
+  "figures with raised or extended arms",
+  "figures holding objects/implements"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces depict groups of human figures with limbs extended and some carrying implements, but that is about all they share. A shows static, frontal/profile figures with elaborate headdresses and offering stands set in strict horizontal registers with rows of signs and vessels, whereas B shows a dispersed, register-less scatter of dynamic, running and leaping silhouette figures with no framing, no objects of cult and no ordered baseline.",
+ "a": "egypt_0047",
+ "b": "catalhoyuk_0025",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  254
+ ]
+}

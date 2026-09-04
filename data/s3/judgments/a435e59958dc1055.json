@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low-relief carving on an upright stone slab/pillar",
+  "animal or creature figures in profile",
+  "circular/disc motif",
+  "horizontal band or register dividing the surface",
+  "repeated row of similar motifs across the top",
+  "paired arm/hand-like elements bent over the front of the block"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both are upright monolithic blocks carved in shallow relief with registers: an upper row of repeated arched/head-like motifs, a mid band, and below it discs and bent arm-like elements curving around toward the front, with small creature forms in profile in A and rounded relief bosses in B. The biggest difference in content is that B is dominated by an anthropomorphic figure with a head, face and torso whose ornament is subordinate to the body, whereas A is a flat panel of independent animal and abstract signs with no unifying human form.",
+ "a": "anatolia_ppn_0272",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "target",
+ "usage": [
+  3174,
+  332
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "front-facing anthropomorphic figure or mask",
+  "paired eyes flanking a central nose or vertical facial ridge",
+  "upright slab-like body/field with rounded top",
+  "schematic facial features"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "The strongest correspondence is that both present a frontal anthropomorphic presence on an upright rounded slab, with paired eyes arranged around a central nose or vertical facial axis near the top. The biggest difference is that A includes a fuller torso with breasts, arms, bands, and incised ornamental motifs, while B is dominated by a much simpler mask-like face with few additional depicted elements.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_0270",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1857,
+  546
+ ]
+}

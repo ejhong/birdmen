@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "horizontal registers or bands",
+  "figures arranged in rows",
+  "animal figures in profile",
+  "standing human or human-like figure",
+  "linear/geometric signs or motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest shared content is the use of horizontal bands containing outlined figures, including profile animals and at least some human or human-like forms. The major difference is that A is dominated by orderly processions of many clothed human figures, while B is dominated by isolated animals and abstract signs stacked on a pillar-like surface, with no comparable narrative procession or repeated human groups.",
+ "a": "persepolis_0104",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  670
+ ]
+}

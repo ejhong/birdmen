@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low-relief carving on a vertical/horizontal stone surface",
+  "animals shown in profile",
+  "quadruped with four legs in profile",
+  "bird-like/animal heads in profile",
+  "horizontal registers or banded organization",
+  "repeated row of similar heads/figures along the top"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both are relief surfaces divided into registers with profile animals, and both have a row of repeated small forms along an upper band, but that is generic. A shows no human figures at all \u2014 instead abstracted animal heads, a crouching quadruped, snake-like and bird forms in isolated, non-narrative placement \u2014 while B is a crowded narrative procession of human archers, a bearded king, harnessed horses and a spoked chariot wheel, with naturalistic proportions and dense internal detail utterly unlike A's flat, schematic silhouettes.",
+ "a": "anatolia_ppn_p43full",
+ "b": "assyria_0052",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  332
+ ]
+}

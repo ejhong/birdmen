@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "bearded male head in strict profile",
+  "hair and beard rendered as rows of tight stylised curls",
+  "close-fitting cap/headdress",
+  "low-relief human figure with profile head and eye conventions",
+  "rosette motif",
+  "garment with patterned/fringed detail"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both show male figures in strict profile with the same highly conventional treatment of hair and beard as stacked rows of tight curls, a close-fitting patterned cap, and rosette ornament, which is a specific and arbitrary combination unlikely to arise independently. The difference is compositional: A isolates a single enlarged head-and-shoulder bust filling the field, while B is a continuous processional frieze of full-length figures leading horned rams above a border band of rosettes, so the depicted relationships and layout barely overlap.",
+ "a": "assyria_0123",
+ "b": "persepolis_0061",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  635
+ ]
+}

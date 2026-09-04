@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic animal figures in profile",
+  "serpentine or wavy linear forms",
+  "standing anthropomorphic/human-like figures or body forms",
+  "repeated linear/geometric markings"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is that both surfaces include schematic linear figures, including possible profile animals and snake-like/wavy forms, rather than purely abstract ornament. The biggest difference is that A is organized as stacked panels with animals and patterned bands, while B centers on stick-like human figures associated with a long horizontal line or object, so the iconographic relationships and layout do not correspond.",
+ "a": "anatolia_ppn_p43full",
+ "b": "tanum_0005",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  1193
+ ]
+}

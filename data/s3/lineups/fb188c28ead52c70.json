@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  3,
+  4,
+  7,
+  10,
+  9,
+  5,
+  6,
+  2,
+  1
+ ],
+ "most_similar_reason": "Candidate 8 is most similar because it shows a dense low-relief composition of stylized zoomorphic/creature forms arranged in horizontal zones with patterned bands and schematic carved outlines, closely matching the target\u2019s register-like animal imagery and graphic style.",
+ "least_similar_reason": "Candidate 1 is least similar because it lacks a comparable depicted scene, register structure, animals, figures, or repeated iconographic motifs, showing instead essentially a single projecting architectural form on a wall.",
+ "set": "moai_iso_among_monoliths",
+ "i": 34,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0061",
+  "gotland_0005",
+  "maya_0019",
+  "maya_0101",
+  "egypt_0050",
+  "gotland_0113",
+  "maya_0088",
+  "maya_0045",
+  "egypt_0076",
+  "rapa_nui_hoa_iso"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "gotland",
+  "maya",
+  "gotland",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 5
+}

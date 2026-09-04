@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "standing human figure, frontal, with arms out from body",
+  "human figure holding an object"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "The only correspondence is the near-universal motif of an upright human figure with arms held away from the body, and in both cases a figure grasping some object. Otherwise the content is unrelated: A is a single, densely detailed, elaborately costumed and ornamented figure filling the whole field, while B is a sparse multi-figure scene of minimally schematic stick-and-silhouette people, weapons, circular forms and a large profile quadruped ridden by a standing man.",
+ "a": "mississippian_0007",
+ "b": "tanum_0052",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3149,
+  549
+ ]
+}

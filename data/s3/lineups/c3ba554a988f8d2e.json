@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  4,
+  2,
+  8,
+  3,
+  7,
+  5,
+  1,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 6 shows the same kind of schematic, profile\u2011view animal figures (camelid\u2011like creatures with thin outlined bodies and legs) carved in a similar linear relief style as the target's registers of animals.",
+ "least_similar_reason": "Candidate 10 depicts free\u2011standing anthropomorphic statues rather than a flat relief surface with animal or geometric registers, sharing no comparable iconographic content with the target.",
+ "set": "hard",
+ "i": 2,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0133",
+  "maya_0047",
+  "gotland_0125",
+  "gotland_0116",
+  "gotland_0123",
+  "tanum_0359",
+  "egypt_0012",
+  "gotland_0115",
+  "egypt_0027",
+  "rapa_nui_0113"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "gotland",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "sonnet",
+ "planted_rank": 10
+}

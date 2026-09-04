@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  6,
+  3,
+  1,
+  4,
+  7,
+  2,
+  5,
+  8,
+  9
+ ],
+ "most_similar_reason": "Candidate 10 is most similar because it also organizes schematic low-relief profile creatures and small signs into horizontal zones on a slab-like surface, with comparable outlined bodies, compact animal forms, and register-based composition.",
+ "least_similar_reason": "Candidate 9 is least similar because its depicted content is dominated by a rigid column of repeated rectangular sign-panels rather than large profile animals, birdlike forms, or the target\u2019s banded animal-and-pattern arrangement.",
+ "set": "moai_iso_among_monoliths",
+ "i": 30,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0081",
+  "gotland_0111",
+  "gotland_0128",
+  "egypt_0074",
+  "rapa_nui_hoa_iso",
+  "gotland_0026",
+  "gotland_0000",
+  "maya_0146",
+  "maya_0057",
+  "maya_0092"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "gotland",
+  "gotland",
+  "gotland",
+  "maya",
+  "gotland"
+ ],
+ "model": "gpt",
+ "planted_rank": 8
+}

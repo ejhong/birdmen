@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "human figure in profile, low relief",
+  "bearded male figure with elaborate coiffure/headgear",
+  "arm extended forward with open hand",
+  "fringed/tasselled garment with patterned textile",
+  "bracelets and armlets on wrists",
+  "attendant/genie type figure carrying or handling an object",
+  "stylized plant/rosette motif (bucket and floral elements)",
+  "figures oriented toward a focal point"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "8",
+ "justification": "Both show bearded male figures in flat, profile low relief with the same conventions: patterned fringed robes, heavy bracelets, muscular outlined arms extended forward, and accompanying paraphernalia (a handled bucket and rosette-covered stylised plant) that belong to the same specific iconographic repertoire. The main differences are that B's central figure is winged and reaching toward a plant filling the field, while A shows an unwinged procession of several full-length figures in a horizontal band with one carrying a bucket.",
+ "a": "assyria_0139",
+ "b": "assyria_0112",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3174,
+  381
+ ]
+}

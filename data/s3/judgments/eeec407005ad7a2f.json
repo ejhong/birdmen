@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "round-topped upright slab/stele shape with figural scene above and script below",
+  "register at top containing human figures",
+  "dense inscription in a non-Latin script filling the lower field",
+  "framing border along the edges of the field",
+  "human figures shown in profile"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both are round-topped upright monuments divided into an upper figural panel with small profile human figures and a much larger lower field densely filled with script, with a border framing the field \u2014 a generic monument scheme rather than a shared motif set. The specific content differs entirely: A shows a winged disc, seated and standing deities with staffs and offering gestures in a single narrow register above many ruled horizontal lines of pictographic signs, while B shows a horse with rider(s), a spear, and large interlaced ribbon/serpent knots with runic-type characters running along curving borders, not in ruled horizontal lines.",
+ "a": "egypt_0069",
+ "b": "gotland_0124",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2974,
+  340
+ ]
+}

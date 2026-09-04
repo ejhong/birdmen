@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  4,
+  1,
+  3,
+  10,
+  2,
+  8,
+  9,
+  6,
+  7
+ ],
+ "most_similar_reason": "Candidate 5 is most similar because it shows a single upright, front-facing, highly schematic anthropomorphic/supernatural figure with a rounded head, mask-like facial features, circular body motifs, and curving incised decoration arranged vertically like the target.",
+ "least_similar_reason": "Candidate 7 is least similar because its depicted content is almost entirely rows of linear inscription-like signs, with no comparable frontal figure, body parts, facial imagery, or curvilinear anthropomorphic motifs.",
+ "set": "p43_among_random",
+ "i": 27,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "anatolia_ppn_p43full",
+  "assyria_0109",
+  "egypt_0032",
+  "gotland_0124",
+  "maya_0114",
+  "egypt_0010",
+  "maya_0077",
+  "persepolis_0070",
+  "egypt_0020",
+  "assyria_0151"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt",
+  "persepolis",
+  "egypt",
+  "assyria",
+  "assyria",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 3
+}

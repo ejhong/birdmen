@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figure shown in profile",
+  "seated or kneeling human figure",
+  "carved stone relief panel with figural scene",
+  "human head with hair/wig rendered in profile",
+  "arm/hand extended toward another element"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict human figures in strict profile in low relief, and both include a figure seated with an extended arm, which is a real but broadly generic correspondence. A shows a single large-scale figure filling the whole field with heavy modelled volumes and a plain base band, while B shows a small-scale multi-figure scene divided into two registers with a seated figure before an offering table and columns of sign-like markings \u2014 a different compositional scheme and a much more linear, incised, schematic manner.",
+ "a": "maya_0097",
+ "b": "egypt_0067",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3024,
+  287
+ ]
+}

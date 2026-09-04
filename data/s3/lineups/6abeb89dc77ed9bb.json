@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  5,
+  7,
+  8,
+  10,
+  3,
+  9,
+  4,
+  6,
+  2
+ ],
+ "most_similar_reason": "Candidate 1 is most similar because it shows an upright surface dominated by a highly schematic, front-facing anthropomorphic design with incised linear body/face-like elements arranged vertically, closely matching the target\u2019s abstract statue-like figure with circular and banded motifs.",
+ "least_similar_reason": "Candidate 2 is least similar because it depicts a procession-like group of profile animals in relief, with no central frontal human/face form, circular body elements, or comparable abstract anthropomorphic arrangement.",
+ "set": "p43_among_random",
+ "i": 23,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "maya_0152",
+  "anatolia_ppn_p43full",
+  "tanum_0359",
+  "tanum_0325",
+  "maya_0051",
+  "assyria_0069",
+  "gotland_0005",
+  "egypt_0051",
+  "tanum_0063",
+  "assyria_0015"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "gotland",
+  "assyria",
+  "tanum",
+  "tanum",
+  "egypt",
+  "assyria",
+  "maya",
+  "maya",
+  "tanum"
+ ],
+ "model": "gpt",
+ "planted_rank": 10
+}

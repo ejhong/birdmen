@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "bird or bird-like figure in profile",
+  "animal figures in profile",
+  "repeated abstract signs or motifs",
+  "bands/registers of decoration"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific shared content is the use of profile animal/bird-like forms alongside repeated abstract signs arranged in bands or panels. The biggest difference is that A centers on a richly dressed standing anthropomorphic figure surrounded by dense glyph-like columns, while B shows a stacked set of mostly animal and abstract motifs without a comparable central human figure or glyphic field.",
+ "a": "maya_0026",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  662
+ ]
+}

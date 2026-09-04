@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  5,
+  4,
+  10,
+  7,
+  2,
+  3,
+  8,
+  1,
+  6
+ ],
+ "most_similar_reason": "Candidate 9 is most similar because it shows a single rounded-top, upright, schematic anthropomorphic figure with circular facial/body elements and stacked linear bands across the torso, matching the target\u2019s frontal abstract figure and surface organization.",
+ "least_similar_reason": "Candidate 6 is least similar because it shows essentially no visible depicted iconography on the surface, lacking the target\u2019s carved anthropomorphic features, circular elements, and linear body motifs.",
+ "set": "p43_among_random",
+ "i": 2,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "catalhoyuk_0102",
+  "gotland_0005",
+  "persepolis_0097",
+  "maya_0069",
+  "anatolia_ppn_p43full",
+  "maya_0000",
+  "egypt_0032",
+  "persepolis_0024",
+  "gotland_0123",
+  "mississippian_0000"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "persepolis",
+  "catalhoyuk",
+  "egypt",
+  "persepolis",
+  "mississippian",
+  "maya",
+  "gotland",
+  "maya",
+  "gotland"
+ ],
+ "model": "gpt",
+ "planted_rank": 2
+}

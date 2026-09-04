@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief carving on stone surface",
+  "figures rendered in profile",
+  "animals depicted",
+  "horizontal register or band of repeated motifs",
+  "raised-relief outlines with flat interior surfaces"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both are low-relief carvings organised into horizontal registers with profile figures, but the depicted content is quite different: A shows a narrative military scene of helmeted human archers and soldiers advancing on a walled, towered city with battering ram, while B shows isolated animals (a quadruped with open jaws, a large long-necked bird, snake-like and plant-like forms) and a row of repeated loop/H-shaped signs with no narrative or human figures. The only correspondences \u2014 profile orientation, banded layout, relief technique \u2014 are generic conventions that unrelated carving traditions produce independently.",
+ "a": "assyria_0041",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  337
+ ]
+}

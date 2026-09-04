@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  4,
+  5,
+  2,
+  7,
+  9,
+  8,
+  6,
+  1,
+  3
+ ],
+ "most_similar_reason": "Candidate 10 depicts multiple human figures arranged in a scene alongside a border of hieroglyph-like symbols, closely echoing the target's combination of a seated figure, attendants, and hieroglyphic register.",
+ "least_similar_reason": "Candidate 3 is a freestanding animal sculpture with no human figures, hieroglyphic symbols, or narrative offering scene, making it the least comparable in depicted content to the target's figural relief composition.",
+ "set": "same_control_monoliths",
+ "i": 7,
+ "target": "egypt_0073",
+ "planted": "egypt_0069",
+ "cands": [
+  "gotland_0117",
+  "maya_0092",
+  "anatolia_ppn_0144",
+  "maya_0087",
+  "maya_0097",
+  "maya_0057",
+  "gotland_0026",
+  "egypt_0069",
+  "gotland_0111",
+  "gotland_0128"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "gotland",
+  "maya",
+  "anatolia_ppn",
+  "gotland",
+  "maya",
+  "maya",
+  "gotland",
+  "maya",
+  "gotland"
+ ],
+ "model": "sonnet",
+ "planted_rank": 7
+}

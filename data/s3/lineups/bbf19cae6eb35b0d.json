@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  10,
+  1,
+  2,
+  4,
+  6,
+  8,
+  3,
+  9,
+  7
+ ],
+ "most_similar_reason": "Candidate 5 is most similar because it is also an upright, rounded-top stele-like surface covered with schematic incised iconography arranged frontally in bands and fields, including human/figure-like and symbolic motifs rather than a naturalistic scene.",
+ "least_similar_reason": "Candidate 7 is least similar because it shows only a single naturalistic animal head in profile, with none of the target\u2019s frontal anthropomorphic body-like layout, paired circular features, or schematic linear bands.",
+ "set": "p43_among_random",
+ "i": 29,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "maya_0048",
+  "egypt_0013",
+  "anatolia_ppn_p43full",
+  "assyria_0078",
+  "egypt_0045",
+  "tanum_0347",
+  "persepolis_0110",
+  "tanum_0340",
+  "assyria_0069",
+  "gotland_0000"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "egypt",
+  "gotland",
+  "egypt",
+  "assyria",
+  "persepolis",
+  "tanum",
+  "assyria",
+  "tanum",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 8
+}

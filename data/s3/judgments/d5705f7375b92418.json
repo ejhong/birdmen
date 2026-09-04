@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "bearded male figure in strict profile, striding",
+  "human figure with raised/extended arm holding an object",
+  "hair and beard rendered as rows of tight curls",
+  "long fringed garment with patterned hem",
+  "muscular bare arms and calves in low relief",
+  "ornamental band of stylised rosettes/floral units framing the panel",
+  "figures set against a plain flat background in shallow relief"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show striding bearded men in strict profile with curled hair and beards, fringed robes and held objects, carved in shallow relief against a plain ground and framed by bands of repeated stylised floral/rosette units, a conventional combination unlikely to arise twice independently. The clearest differences in content are the great wings and single isolated figure of B versus A's multi-figure procession leading a two-humped animal, and the horizontal frieze framing of A against the vertical panel framing of B.",
+ "a": "persepolis_0079",
+ "b": "assyria_0157",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3224,
+  771
+ ]
+}

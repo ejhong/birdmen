@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "stylized bird in profile",
+  "anthropomorphic or human-like figure",
+  "incised parallel/chevron-like internal markings"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest shared content is the presence of stylized profile birds with incised linear/feather-like markings, alongside a human-like or animal-human figure. The main difference is that A is a multi-register panel of separate signs and creatures, while B is a single compact composite figure with a large bird perched on or fused with another figure, so the iconographic scheme is not closely shared.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0263",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  668
+ ]
+}

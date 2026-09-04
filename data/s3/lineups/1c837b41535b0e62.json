@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  9,
+  2,
+  8,
+  10,
+  3,
+  5,
+  6,
+  7,
+  4
+ ],
+ "most_similar_reason": "Both depict stylized birds and other forms in profile using a similar raised relief technique.",
+ "least_similar_reason": "It displays a linear, painted figure rather than stacked, raised relief animal motifs.",
+ "set": "moai_among_random",
+ "i": 35,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0128",
+  "rapa_nui_0113",
+  "persepolis_0043",
+  "tanum_0240",
+  "assyria_0084",
+  "tanum_0080",
+  "tanum_0126",
+  "assyria_0116",
+  "maya_0113",
+  "persepolis_0029"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "persepolis",
+  "maya",
+  "assyria",
+  "persepolis",
+  "gotland",
+  "assyria",
+  "tanum",
+  "tanum",
+  "tanum"
+ ],
+ "model": "gemini",
+ "planted_rank": 3
+}

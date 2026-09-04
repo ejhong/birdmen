@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  6,
+  7,
+  5,
+  10,
+  3,
+  1,
+  9,
+  2,
+  4
+ ],
+ "most_similar_reason": "Candidate 8 is most similar because it shows a comparable upright surface with very schematic low-relief linear figures/body-part or animal-like forms arranged vertically, closest to the target\u2019s sparse relief vocabulary of profile creatures and repeated symbolic bands.",
+ "least_similar_reason": "Candidate 4 is least similar because it depicts a single naturalistic seated human figure in the round, lacking the target\u2019s surface arrangement of schematic profile animals, signs, and banded motifs.",
+ "set": "moai_close_among_random",
+ "i": 26,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "tanum_0344",
+  "gotland_0112",
+  "tanum_0338",
+  "rapa_nui_0004",
+  "assyria_0090",
+  "egypt_0041",
+  "egypt_0044",
+  "gotland_0130",
+  "gotland_0005",
+  "maya_0028"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "assyria",
+  "tanum",
+  "gotland",
+  "egypt",
+  "gotland",
+  "tanum",
+  "gotland"
+ ],
+ "model": "gpt",
+ "planted_rank": 10
+}

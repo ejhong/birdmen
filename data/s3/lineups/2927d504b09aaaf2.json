@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  2,
+  10,
+  1,
+  5,
+  9,
+  8,
+  6,
+  3,
+  4
+ ],
+ "most_similar_reason": "Both present vertical stone surfaces featuring relief carvings.",
+ "least_similar_reason": "This candidate lacks any recognizable figures or motifs.",
+ "set": "moai_among_random",
+ "i": 33,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "assyria_0078",
+  "maya_0106",
+  "assyria_0142",
+  "egypt_0002",
+  "assyria_0051",
+  "tanum_0236",
+  "maya_0088",
+  "rapa_nui_0113",
+  "assyria_0122",
+  "persepolis_0007"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "assyria",
+  "assyria",
+  "assyria",
+  "egypt",
+  "tanum",
+  "maya",
+  "assyria",
+  "maya",
+  "persepolis"
+ ],
+ "model": "gemini",
+ "planted_rank": 7
+}

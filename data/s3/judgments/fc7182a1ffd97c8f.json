@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "animal or bird forms in profile",
+  "linear repeated sign or pattern band",
+  "relief-style outline figures with internal detail"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The main shared content is only broad: profile animal/avian forms and rows or bands of repeated linear signs. The largest difference is that A centers on a standing winged bird-headed anthropomorphic figure interacting with a stylized tree, while B is a stacked register of separate animals and abstract signs with no comparable figure, tree, or ritual interaction.",
+ "a": "assyria_0071",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1909,
+  865
+ ]
+}

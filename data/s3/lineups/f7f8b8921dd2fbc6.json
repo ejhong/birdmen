@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  1,
+  5,
+  8,
+  3,
+  7,
+  6,
+  10,
+  9,
+  4
+ ],
+ "most_similar_reason": "Candidate 2, like the target, is a monolithic anthropomorphic pillar whose surface bears low-relief arms wrapping toward the front, a belt/girdle band across the body and additional small motifs set above and below it, matching the target's back with arms, ring motifs and a belted band.",
+ "least_similar_reason": "Candidate 4 shows only two tiny schematic stick figures standing in a boat, a scene with no anthropomorphic monolith, no body-shaped carrier, and none of the target's ring, belt or arm motifs.",
+ "set": "p43_among_random",
+ "i": 23,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "maya_0152",
+  "anatolia_ppn_p43full",
+  "tanum_0359",
+  "tanum_0325",
+  "maya_0051",
+  "assyria_0069",
+  "gotland_0005",
+  "egypt_0051",
+  "tanum_0063",
+  "assyria_0015"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "gotland",
+  "assyria",
+  "tanum",
+  "tanum",
+  "egypt",
+  "assyria",
+  "maya",
+  "maya",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

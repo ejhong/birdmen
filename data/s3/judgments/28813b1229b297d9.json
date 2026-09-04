@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "square/rounded glyph cartouches arranged in ordered rows and columns",
+  "anthropomorphic faces or heads enclosed within block-shaped cartouches",
+  "dense low-relief carving covering an upright monolithic slab/shaft",
+  "paired glyph blocks side by side reading in vertical sequence",
+  "curvilinear scroll and volute infill within cartouches"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both surfaces are dominated by the same distinctive motif: rectangular glyph cartouches with rounded corners, each containing a face or head plus curvilinear scroll infill, set in a strictly ordered column-and-row sequence over an upright monument \u2014 a highly conventional and specific correspondence unlikely to arise independently. The main differences in depicted content are that B confines its glyphs to a narrow double column framed by dense foliate/serpentine ornament and includes a seated human figure and fallen debris at the base, whereas A shows a plain unframed four-column grid filling the whole face.",
+ "a": "maya_0095",
+ "b": "maya_0053",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  2999,
+  850
+ ]
+}

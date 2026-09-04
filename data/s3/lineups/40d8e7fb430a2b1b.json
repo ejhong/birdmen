@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  4,
+  2,
+  6,
+  8,
+  9,
+  1,
+  7,
+  5,
+  3
+ ],
+ "most_similar_reason": "Candidate 10 is most similar because it centers a single frontal, stylized anthropomorphic face or mask-like figure with prominent facial organization, closest to the target\u2019s isolated schematic human-like head.",
+ "least_similar_reason": "Candidate 3 is least similar because it is essentially a narrow vertical arrangement of repeated glyphic or geometric signs, with no comparable single frontal face, mask, or head motif.",
+ "set": "same_control_monoliths",
+ "i": 12,
+ "target": "anatolia_ppn_0155",
+ "planted": "anatolia_ppn_0205",
+ "cands": [
+  "anatolia_ppn_0205",
+  "mississippian_0015",
+  "maya_0147",
+  "maya_0114",
+  "maya_0005",
+  "egypt_0065",
+  "maya_0085",
+  "egypt_0044",
+  "egypt_0067",
+  "gotland_0007"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "egypt",
+  "mississippian",
+  "maya",
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt",
+  "maya",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 7
+}

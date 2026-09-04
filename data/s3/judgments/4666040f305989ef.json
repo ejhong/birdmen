@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic human/anthropomorphic figures reduced to strokes and limbs",
+  "long horizontal lines crossing the panel",
+  "solid thick-line silhouette motifs",
+  "geometric/repeated linear elements (rows of short strokes; rectangular frame)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both panels use the same highly schematic idiom of thick solid strokes for bodies and limbs, with long horizontal lines running across the field and small repeated anthropomorphic strokes, which is a fairly specific shared convention of drawing. However the actual subjects differ: A centres on a single splayed figure whose body is a set of concentric rings flanked by long lines, while B centres on a manned boat with animal-head prows plus a separate quadruped, so no specific motif or relationship is shared.",
+ "a": "tanum_0351",
+ "b": "tanum_0237",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3174,
+  773
+ ]
+}

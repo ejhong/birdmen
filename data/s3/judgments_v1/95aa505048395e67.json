@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "profile heads",
+  "round eye-like or disc motifs",
+  "horizontal bands or rows of linear patterning"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is the use of shallow carved linear imagery on an upright stone surface, including profile heads and banded geometric patterning. The biggest difference is compositional: A is dominated by a single standing human figure, while B is organized as stacked zones of animals and abstract bands with no comparable central figure.",
+ "a": "maya_0101",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1204,
+  638
+ ]
+}

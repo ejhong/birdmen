@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "standing figure in strict profile facing one direction",
+  "figure with arm raised/extended and hand holding an object",
+  "low-relief figures with densely patterned infill (scale-like fleece / feathered wings and hatched hair)",
+  "elaborately rendered beard-like or crest-like head detail",
+  "figures filling a single rectangular field/register"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both show profile standing figures in shallow relief with the same convention of covering hair, fleece or wings with fine repeated pattern, and in both a figure raises one hand while the other holds an object. But A depicts a procession of men leading horned rams, whereas B depicts a single bird-headed winged being flanking a stylized plant beneath a band of writing, so the actual subjects and their relationships are quite different.",
+ "a": "persepolis_0108",
+ "b": "assyria_0090",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3249,
+  823
+ ]
+}

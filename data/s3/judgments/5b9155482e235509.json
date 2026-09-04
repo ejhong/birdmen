@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "standing human figure"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "Image A shows schematic rock-art figures (stick-like humans, boats, animals) arranged loosely across a surface, while Image B shows a dense, registered composition of relief-carved rows of small human figures and hieroglyphic-style text in an organized grid; the only broad commonality is the presence of human figures, but their forms, groupings, and conventions differ entirely. The biggest difference is the presence of writing/text bands and tightly registered rows of figures in B, versus isolated schematic figures and boat motifs scattered on an open surface in A.",
+ "a": "tanum_0063",
+ "b": "egypt_0045",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  3174,
+  267
+ ]
+}

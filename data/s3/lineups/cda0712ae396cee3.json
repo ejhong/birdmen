@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  7,
+  3,
+  6,
+  1,
+  5,
+  4,
+  9,
+  2,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 shares a detailed relief style featuring human figures and animals.",
+ "least_similar_reason": "Candidate 10 shows basic painted linear forms, completely lacking sculptural figurative details.",
+ "set": "related_control",
+ "i": 0,
+ "target": "persepolis_0044",
+ "planted": "assyria_0039",
+ "cands": [
+  "egypt_0009",
+  "tanum_0327",
+  "egypt_0074",
+  "anatolia_ppn_0155",
+  "egypt_0020",
+  "anatolia_ppn_0045",
+  "egypt_0048",
+  "assyria_0039",
+  "anatolia_ppn_0263",
+  "tanum_0059"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "egypt",
+  "egypt",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "tanum",
+  "tanum",
+  "egypt",
+  "egypt"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "horizontal row of repeated rectangular blocks resembling crenellation/battlement",
+  "band of triangles or zigzag pattern",
+  "tall vertical element rising above the composition (mast / pole)",
+  "grid or lattice-filled surface"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces contain a horizontal register of repeated rectangular blocks that reads as a crenellated or toothed band, together with a triangular/zigzag border and a hatched, grid-filled area, which gives a superficial resemblance between A's ship with its row of shield-like squares and B's battlemented city wall. Otherwise the depicted content differs fundamentally: B shows a narrative siege with human archers, a wheeled engine and a towered gate with an arched opening, while A shows a single mast-and-hull vessel with no discernible figures or action, and the rendering differs from schematic outline to modelled figural relief.",
+ "a": "gotland_0123",
+ "b": "assyria_0092",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  871
+ ]
+}

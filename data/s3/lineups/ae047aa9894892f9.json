@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  3,
+  4,
+  6,
+  1,
+  7,
+  8,
+  5,
+  9,
+  2
+ ],
+ "most_similar_reason": "Candidate 10 shares the depiction of multiple distinct symbolic and figurative elements arranged on a vertical face using a relatively flat relief style.",
+ "least_similar_reason": "Candidate 2 features a highly schematic, isolated linear stick figure that lacks the target's complex, enclosed relief carving and dense arrangement of distinct motifs.",
+ "set": "moai_close_among_random",
+ "i": 2,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "assyria_0119",
+  "tanum_0070",
+  "maya_0091",
+  "persepolis_0082",
+  "rapa_nui_0004",
+  "persepolis_0069",
+  "egypt_0051",
+  "persepolis_0017",
+  "mississippian_0007",
+  "egypt_0048"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "mississippian",
+  "egypt",
+  "maya",
+  "persepolis",
+  "assyria",
+  "persepolis",
+  "persepolis",
+  "egypt",
+  "tanum"
+ ],
+ "model": "gemini",
+ "planted_rank": 8
+}

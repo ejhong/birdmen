@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "horizontal band or row of incised pattern",
+  "profile bird/animal-like figure(s)",
+  "repeated linear/hatched motifs"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of shallow stone carving to place animal-like profile figures and repeated linear motifs within or near horizontal bands. The biggest difference is that B is a crisp, deliberately squared upright slab with clear register-like organization, while A is an irregular, heavily weathered rock surface whose motifs are much less legible and not arranged in the same clear sequence.",
+ "a": "egypt_0027",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1230,
+  1174
+ ]
+}

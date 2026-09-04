@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  2,
+  5,
+  7,
+  9,
+  10,
+  6,
+  8,
+  1,
+  3
+ ],
+ "most_similar_reason": "Candidate 4 shows a full frontal standing figure with an elaborate headdress and a carved body occupying most of the stone surface, closely echoing the target's composition of a large humanoid figure with headdress and body ornamentation dominating the slab.",
+ "least_similar_reason": "Candidate 3 is almost entirely undecorated, showing only a faint trace of relief at the top, which shares none of the figural, headdress, or banded ornamentation seen in the target.",
+ "set": "p43_iso_among_monoliths",
+ "i": 9,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "egypt_0049",
+  "anatolia_ppn_p43iso",
+  "maya_0152",
+  "maya_0137",
+  "egypt_0073",
+  "egypt_0040",
+  "maya_0069",
+  "maya_0039",
+  "maya_0077",
+  "maya_0095"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "maya"
+ ],
+ "model": "sonnet",
+ "planted_rank": 2
+}

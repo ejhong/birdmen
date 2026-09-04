@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  8,
+  10,
+  9,
+  7,
+  2,
+  1,
+  4,
+  6,
+  5
+ ],
+ "most_similar_reason": "Candidate 3 is most similar because it also organizes schematic incised motifs into horizontal compartments, combining geometric bands/signs with small profile creature-like figures in a conventionally arranged relief surface.",
+ "least_similar_reason": "Candidate 5 is least similar because it is dominated by stacked frontal mask/anthropomorphic forms rather than the target\u2019s register-based arrangement of profile animals or bird-like figures with geometric signs.",
+ "set": "moai_iso_among_monoliths",
+ "i": 4,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "rapa_nui_hoa_iso",
+  "maya_0081",
+  "egypt_0048",
+  "maya_0087",
+  "maya_0094",
+  "maya_0056",
+  "egypt_0073",
+  "egypt_0042",
+  "gotland_0004",
+  "egypt_0069"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "gotland",
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "egypt",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 7
+}

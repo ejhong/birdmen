@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief carving of curvilinear motifs on a stone slab",
+  "spiral / volute element",
+  "rounded disc or oval forms",
+  "stylized composite face-like or mask-like motifs",
+  "dense curvilinear infill covering the surface"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces show shallow relief compositions built from rounded, curvilinear elements \u2014 discs/ovals, spiral volutes and stylized mask-like faces \u2014 packed to fill the field, and both are schematic rather than naturalistic. However, B presents a legible multi-register scene with what appear to be headdressed figures or masks in a horizontal band above a lower zone, whereas A shows an isolated large curving form with scattered discs and no discernible figural scene or registers, so the arrangement and relationships between elements do not correspond.",
+ "a": "rapa_nui_0052",
+ "b": "maya_0045",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  321
+ ]
+}

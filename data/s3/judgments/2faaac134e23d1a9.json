@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "stylized eye-like or head/face features"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "The only plausible shared depicted content is very generic: both include schematic carved forms that could be read as eye/head or face-like features. A is a complex multi-register surface with profile animals, birds, geometric bands, and repeated signs, while B is essentially a single large frontal mask-like face with eyes and a long nose, so the iconographic schemes do not correspond.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0270",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1857,
+  650
+ ]
+}

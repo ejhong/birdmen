@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "dense field of hieroglyph-like sign blocks",
+  "glyph blocks arranged in a grid of rows and columns",
+  "square/rounded cartouche-shaped signs with internal detail (faces, dots, bars)",
+  "low-relief carving covering the whole surface with no figural scene"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "9",
+ "justification": "Both surfaces are covered entirely by a grid of squarish glyph cartouches, each packed with internal head-like and dot/bar elements, carved in shallow relief and organised in paired columns/rows with no accompanying figural imagery \u2014 a highly specific and conventional writing-block scheme unlikely to arise independently. The main difference is the format of the support (a tall narrow column of glyphs versus a broad low boulder with longer horizontal rows) and slightly bolder, more rounded modelling on A, but the depicted content is of the same kind.\n",
+ "a": "maya_0005",
+ "b": "maya_0070",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  2999,
+  345
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "shared_elements": [
+  "winged anthropomorphic figure in profile striding right-to-left orientation",
+  "raised arm with open hand/held object at upper left",
+  "second lowered arm holding an object (bucket/vessel or cone)",
+  "large detailed wing with layered rows of feathers",
+  "fringed and tasselled garment with patterned bands",
+  "bracelet and armlet with rosette bosses",
+  "stylised plant/rosette motifs",
+  "sandalled foot on ground line",
+  "near-full-height single figure filling the panel"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "9",
+ "justification": "Both depict a single large striding winged genius in profile, one arm raised holding a cone-like/rosette object and the other lowered with a handled vessel, wearing the same fringed, tasselled and cross-hatched garment, rosette-studded bracelets and sandals, with elaborately layered wing feathers rendered in identical registers. The only substantive difference in content is the head: A has a raptor's head with beak and crest while B has a bearded human head with diadem, and A includes a dense stylised tree of rosettes at the left that B lacks.",
+ "a": "assyria_0071",
+ "b": "assyria_0146",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3024,
+  402
+ ]
+}

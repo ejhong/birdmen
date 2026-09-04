@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  1,
+  2,
+  10,
+  5,
+  7,
+  6,
+  3,
+  9,
+  4
+ ],
+ "most_similar_reason": "Candidate 8 is most similar because it depicts a single carved animal head in profile with a prominent eye and snout/beak-like projection, matching the target\u2019s zoomorphic profile figure and stylized incised surface treatment.",
+ "least_similar_reason": "Candidate 4 is least similar because it shows no clearly recognizable depicted creature, figure, symbol, or organized motif comparable to the target\u2019s carved zoomorphic form.",
+ "set": "same_control_monoliths",
+ "i": 20,
+ "target": "anatolia_ppn_0259",
+ "planted": "anatolia_ppn_0244",
+ "cands": [
+  "maya_0066",
+  "maya_0097",
+  "maya_0125",
+  "maya_0082",
+  "maya_0094",
+  "maya_0088",
+  "maya_0106",
+  "anatolia_ppn_0244",
+  "maya_0095",
+  "rapa_nui_0039"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "rapa_nui",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "animal figures in profile",
+  "long curving/serpentine animal or line",
+  "low-relief carving on a rectangular stone face"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "The strongest correspondence is that both surfaces present multiple simplified animal forms in low relief on rough rectangular stone, including profile creatures and at least one elongated curving form. The biggest difference is compositional: A is a crowded, eroded, loosely distributed field of motifs, while B is much more ordered into clear horizontal zones with a repeated patterned band and larger separated figures.",
+ "a": "anatolia_ppn_0078",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  655
+ ]
+}

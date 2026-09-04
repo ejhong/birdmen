@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  1,
+  8,
+  2,
+  7,
+  3,
+  6,
+  4,
+  10,
+  9
+ ],
+ "most_similar_reason": "Candidate 5 is most similar because it shares the target\u2019s schematic relief style with horizontal bands, glyph-like border elements, and angular zoomorphic/profile forms arranged in a segmented composition.",
+ "least_similar_reason": "Candidate 9 is least similar because it depicts a single freestanding human body with no comparable horizontal registers, glyphic bands, or stylized animal/composite motifs.",
+ "set": "moai_iso_among_monoliths",
+ "i": 36,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0063",
+  "egypt_0039",
+  "maya_0105",
+  "gotland_0111",
+  "maya_0115",
+  "maya_0051",
+  "egypt_0050",
+  "egypt_0064",
+  "rapa_nui_hoa_iso",
+  "maya_0125"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "gotland",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 10
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  5,
+  10,
+  9,
+  1,
+  7,
+  6,
+  3,
+  4,
+  8
+ ],
+ "most_similar_reason": "Like the target, candidate 2 is an upright monolith that is itself an abstracted anthropomorphic being \u2014 a broad slab-body with a head-like top and schematic arms \u2014 whose surface carries shallow, schematic low-relief symbols and creature motifs arranged vertically down the body.",
+ "least_similar_reason": "Candidate 8 shows only dense rows of repeated inscribed signs with no figure, body, creature or curvilinear symbol, so it shares none of the target's anthropomorphic form or emblematic motifs.",
+ "set": "p43_among_random",
+ "i": 24,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "assyria_0102",
+  "anatolia_ppn_p43full",
+  "tanum_0338",
+  "tanum_0237",
+  "maya_0130",
+  "persepolis_0082",
+  "persepolis_0097",
+  "egypt_0016",
+  "assyria_0139",
+  "maya_0149"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "assyria",
+  "maya",
+  "assyria",
+  "maya",
+  "tanum",
+  "persepolis",
+  "egypt",
+  "tanum",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  7,
+  6,
+  8,
+  1,
+  10,
+  3,
+  4,
+  2,
+  9
+ ],
+ "most_similar_reason": "Candidate 5 shows the same kind of single frontal standing personage carved in low relief on an upright slab, wearing a broad tiered headdress and ornaments with the body filling the panel, matching the target's arrangement and schematic frontal convention.",
+ "least_similar_reason": "Candidate 9 presents only a weathered horizontal band of indistinct carving with no recognizable figure, headdress or ornament, so it shares none of the target's specific iconographic elements or arrangement.",
+ "set": "p43_iso_among_monoliths",
+ "i": 13,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "egypt_0042",
+  "egypt_0061",
+  "egypt_0065",
+  "maya_0000",
+  "maya_0113",
+  "maya_0027",
+  "maya_0056",
+  "anatolia_ppn_p43iso",
+  "maya_0023",
+  "mississippian_0015"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "mississippian",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

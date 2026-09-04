@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "animal in relief on a vertical stone shaft/pillar face",
+  "quadruped shown in profile",
+  "low-relief human arm/hand on the shaft",
+  "animals oriented along the length of the shaft, some head-downward",
+  "stacked/registered arrangement of creatures on one face"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both depict a tall rectangular shaft bearing profile animals in relief with a schematic human arm/hand carved low on the shaft, and in both the creatures are aligned with the vertical axis rather than framed as an independent picture. The chief difference is density and composition: A shows a single high-relief quadruped descending the shaft edge over an isolated hand, while B carries a crowded multi-register programme with a row of quadrupeds, a patterned band, birds and small figures.",
+ "a": "anatolia_ppn_0080",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  850
+ ]
+}

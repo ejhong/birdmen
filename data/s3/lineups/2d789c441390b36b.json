@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  2,
+  9,
+  4,
+  8,
+  5,
+  7,
+  10,
+  3,
+  6
+ ],
+ "most_similar_reason": "Candidate 1 is, like the target, a free-standing anthropomorphic monolith whose block-like body carries schematic low-relief arms bent round to the front and a belt-like band across the middle, matching the target pillar's convention of turning a shaped stone into a body with carved limbs and a girdle rather than a pictorial scene.",
+ "least_similar_reason": "Candidate 6 shows a long horizontal frieze of many identical processional human figures in naturalistic profile with detailed dress and offerings, with none of the target's isolated animals (fox, snake, birds), abstract band, or schematic body-on-a-pillar arrangement.",
+ "set": "moai_close_among_random",
+ "i": 14,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "rapa_nui_0004",
+  "maya_0052",
+  "persepolis_0015",
+  "egypt_0074",
+  "assyria_0158",
+  "persepolis_0043",
+  "persepolis_0071",
+  "assyria_0115",
+  "assyria_0032",
+  "persepolis_0080"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "assyria",
+  "persepolis",
+  "egypt",
+  "persepolis",
+  "persepolis",
+  "assyria",
+  "assyria",
+  "maya",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figures shown in strict profile",
+  "low-relief carved figural imagery",
+  "stylized curled/beaded hair and beard conventions",
+  "procession or repeated file of figures (A) vs single figure (B)",
+  "headgear/crown on figures",
+  "animal figures (A only)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict bearded male figures in strict profile carved in low relief, with the same distinctive conventions of tightly ranked curls in beard and hair, an almond frontal-looking eye in a profile head, and elaborate headgear \u2014 a specific and conventional correspondence rather than a generic one. The biggest difference in content is scope: A shows an architectural panorama with columns, terraces, a long file of processional figures and a lion attacking a bull, while B isolates a single head-and-shoulders bust with no scene, setting or interaction.",
+ "a": "persepolis_0029",
+ "b": "assyria_0105",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3224,
+  331
+ ]
+}

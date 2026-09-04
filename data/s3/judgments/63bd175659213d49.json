@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "horned animal head with spiral/curled horn",
+  "textured fleece rendered as rows of small incised scales/tufts",
+  "human figure associated with the animal (touching/holding it)",
+  "patterned coiffure or headgear rendered as a grid of small incised units",
+  "large staring eye with raised rim",
+  "animal legs/hooves"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict a horned animal with a tightly curled spiral horn beside a fleece rendered as regular rows of small incised scale-like tufts, and in both a human figure with a densely patterned coiffure/cap is directly attached to the animal, touching or holding it \u2014 a fairly specific man-and-ram combination with matching infill conventions for fleece and hair. The biggest difference in content is the composition: A is a lateral procession of two paired men and two rams in strict profile along a ground line, whereas B is a single compact figure-and-animal group conceived in the round with the animal held against the body, so the ordering and placement of elements do not correspond.",
+ "a": "persepolis_0064",
+ "b": "anatolia_ppn_0259",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  890
+ ]
+}

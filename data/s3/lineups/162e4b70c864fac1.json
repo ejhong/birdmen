@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  2,
+  6,
+  1,
+  5,
+  8,
+  10,
+  4,
+  3,
+  7
+ ],
+ "most_similar_reason": "Candidate 9 is most similar because it shares the target\u2019s distinctive elongated, horizontally arranged comb-like/boat-like motif with many repeated vertical strokes and schematic line-drawn appendages rather than merely showing generic animals or figures.",
+ "least_similar_reason": "Candidate 7 is least similar because its symmetrical, colorful arrangement of human figures around a central emblem lacks the target\u2019s registered relief composition, bird/animal profile forms, and repeated hatched linear motifs.",
+ "set": "moai_iso_among_random",
+ "i": 17,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "catalhoyuk_0039",
+  "assyria_0069",
+  "rapa_nui_hoa_iso",
+  "assyria_0123",
+  "persepolis_0000",
+  "tanum_0351",
+  "mississippian_0052",
+  "persepolis_0070",
+  "tanum_0332",
+  "assyria_0122"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "tanum",
+  "assyria",
+  "assyria",
+  "assyria",
+  "catalhoyuk",
+  "mississippian",
+  "persepolis",
+  "tanum",
+  "persepolis"
+ ],
+ "model": "gpt",
+ "planted_rank": 9
+}

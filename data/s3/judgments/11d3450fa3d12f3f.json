@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "human figure"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "Both depict a human figure, but A shows an abstract, schematic seated/crouching figure with minimal facial detail and no attributes, while B shows a naturalistically rendered standing warrior figure with raised arm, held weapon, headdress, jewelry, body markings, and wrapped garment. There is no correspondence in pose, held objects, adornment, or the relationships between elements, so the shared category of 'human figure' is the only meaningful overlap.",
+ "a": "anatolia_ppn_0259",
+ "b": "mississippian_0015",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  3174,
+  234
+ ]
+}

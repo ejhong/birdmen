@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "upright stylized anthropomorphic figure or torso",
+  "arms or hands placed along the sides/front of the body"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific commonality is a highly stylized upright human-like body with arms/hands indicated along the sides or lower front. The biggest difference is that A is dominated by many carved animal and sign-like motifs arranged in registers across the surface, while B presents a single frontal human head-and-torso figure with facial features and no comparable animal/iconographic field.",
+ "a": "anatolia_ppn_p43full",
+ "b": "rapa_nui_0063",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1804,
+  660
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "bearded male human figure in profile",
+  "row of repeated figures facing the same direction",
+  "low-relief carved figures with patterned detail (beards, textiles)",
+  "horizontal band of repeating small motifs (crenellation/brickwork pattern vs rosette band)",
+  "registers stacked one above another"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both show shallow-relief bearded male figures strictly in profile, arranged in overlapping rows all facing one direction, with a horizontal band of small repeating motifs and stacked registers, and both use similar conventions of finely patterned surface detail for hair, beard and textiles. But the depicted subjects differ fundamentally: A is a siege action with archers drawing bows against towered, crenellated fortifications and a wheeled siege engine, while B is a static file of tall-capped attendants holding flowers with no architecture, action or weaponry.",
+ "a": "assyria_0092",
+ "b": "persepolis_0071",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3099,
+  709
+ ]
+}

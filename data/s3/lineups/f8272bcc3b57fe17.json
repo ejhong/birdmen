@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  6,
+  9,
+  1,
+  8,
+  4,
+  10,
+  3,
+  5,
+  2
+ ],
+ "most_similar_reason": "Candidate 7 is most similar because it shows a comparable carved/schematic arrangement of multiple profile animals and simple linear motifs on an upright slab-like surface, close to the target\u2019s distinctive mix of animal figures, bands, and emblematic relief style.",
+ "least_similar_reason": "Candidate 2 is least similar because it has essentially no comparable depicted iconography\u2014only an architectural-looking recess or opening rather than animals, human body details, symbols, or arranged relief motifs like the target.",
+ "set": "moai_close_among_random",
+ "i": 20,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "catalhoyuk_0039",
+  "egypt_0021",
+  "assyria_0112",
+  "persepolis_0043",
+  "mississippian_0008",
+  "gotland_0129",
+  "maya_0083",
+  "tanum_0070",
+  "rapa_nui_0004",
+  "assyria_0071"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "gotland",
+  "catalhoyuk",
+  "persepolis",
+  "mississippian",
+  "assyria",
+  "assyria",
+  "maya",
+  "egypt",
+  "tanum"
+ ],
+ "model": "gpt",
+ "planted_rank": 3
+}

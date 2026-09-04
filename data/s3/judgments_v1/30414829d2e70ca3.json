@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "stylized human or anthropomorphic figure",
+  "bird- or animal-like form in profile",
+  "circle or disc motif",
+  "horizontal band/register of decoration",
+  "repeated short linear/hatching marks"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the presence in both of highly stylized figures combined with animal/profile forms and small circular motifs, with some horizontal banding or register-like organization. The biggest difference is that A is a single frontal, brightly colored, symmetrical composite figure, while B is a monochrome carved stone surface divided into stacked relief scenes with much less centralized symmetry.",
+ "a": "mississippian_0055",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1230,
+  542
+ ]
+}

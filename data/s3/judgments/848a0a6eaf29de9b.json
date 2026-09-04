@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic quadruped/animal figure (A) vs anthropomorphic figure (B) \u2014 only generic 'living creature'",
+  "repeated linear strokes (crew strokes in A; feather lines in B)",
+  "zigzag/curved linear motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "The only correspondence is generic: both use schematic outline figures and rows of repeated short strokes (oar-crew marks in A, feather barbs in B), which any tradition could produce independently. A depicts a long boat with upturned prow and stem, a crew of tally strokes, and a small quadruped, while B shows a single frontal winged anthropomorph with elaborate costume, beaked headdress and zigzag arch \u2014 no shared subject, relationship or layout.",
+ "a": "tanum_0238",
+ "b": "mississippian_0002",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  312
+ ]
+}

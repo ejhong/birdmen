@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  8,
+  10,
+  9,
+  2,
+  1,
+  4,
+  5,
+  7,
+  6
+ ],
+ "most_similar_reason": "Candidate 3 shows, like the target, a single frontal standing personage carved in relief filling the face of a tall upright slab, with an elaborate towering headdress above the face, arms held across the body and ornamented chest/belt elements \u2014 the same distinctive figure-on-monolith formula and framing.",
+ "least_similar_reason": "Candidate 6 shows only a spiral whorl and a couple of tiny schematic animal outlines on a small plaque, with no human figure, headdress, pectoral disc or any of the target's frontal standing-personage iconography.",
+ "set": "p43_iso_among_monoliths",
+ "i": 34,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0115",
+  "egypt_0061",
+  "maya_0052",
+  "maya_0005",
+  "maya_0077",
+  "gotland_0026",
+  "egypt_0063",
+  "maya_0051",
+  "anatolia_ppn_p43iso",
+  "maya_0105"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "egypt",
+  "maya",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

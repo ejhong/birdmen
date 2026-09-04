@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  4,
+  2,
+  10,
+  3,
+  8,
+  1,
+  7,
+  6,
+  5
+ ],
+ "most_similar_reason": "Candidate 9, like the target, is a tall freestanding monolithic block whose whole body is treated as the carved field, with shallow relief bands and limb-like elements wrapping around the shaft rather than a framed pictorial panel.",
+ "least_similar_reason": "Candidate 5 is a small, flat, dark polished plaque dominated by neat rows of incised script and a single standing human figure, lacking the target's massive weathered monolith, animal imagery and loosely scattered shallow relief.",
+ "set": "moai_among_random",
+ "i": 26,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "assyria_0079",
+  "assyria_0090",
+  "gotland_0018",
+  "persepolis_0075",
+  "egypt_0050",
+  "egypt_0039",
+  "egypt_0074",
+  "assyria_0153",
+  "rapa_nui_0113",
+  "egypt_0020"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "assyria",
+  "persepolis",
+  "egypt",
+  "assyria",
+  "egypt",
+  "gotland",
+  "assyria",
+  "egypt",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

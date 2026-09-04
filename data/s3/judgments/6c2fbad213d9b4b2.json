@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "standing human figure(s)",
+  "elaborate headdress/costume details"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "Both panels include human figures with detailed attire, but A depicts a horizontal narrative procession with a horse-drawn chariot and rows of standing dignitaries, while B depicts a single, densely layered vertical figure covered in symbolic regalia with no chariot, animal, or multi-figure procession. The compositional logic (horizontal registers vs. single vertical stele), the specific motifs (chariot, wheel, battlement-like crenellations, repeated rosette border) and the relationships between figures are entirely different, so beyond the generic presence of clothed human figures there is little specific iconographic overlap.",
+ "a": "persepolis_0026",
+ "b": "maya_0051",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  2924,
+  303
+ ]
+}

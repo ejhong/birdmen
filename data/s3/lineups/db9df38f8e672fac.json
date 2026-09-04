@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  3,
+  10,
+  9,
+  5,
+  8,
+  7,
+  1,
+  2,
+  6
+ ],
+ "most_similar_reason": "Candidate 4 is the only one showing a carved low-relief scene of figures and animal forms rendered in profile with fine incised interior linework, laid out in a continuous horizontal band like the target's procession of attendants leading a camel.",
+ "least_similar_reason": "Candidate 6 shows only an isolated three-dimensional head/creature bust with no procession, no animal-and-attendant relationship, no profile linear figures and no ordered banded composition, so it shares essentially nothing distinctive with the target scene.",
+ "set": "related_control",
+ "i": 28,
+ "target": "persepolis_0073",
+ "planted": "assyria_0122",
+ "cands": [
+  "anatolia_ppn_0107",
+  "anatolia_ppn_0222",
+  "tanum_0348",
+  "assyria_0122",
+  "rapa_nui_0034",
+  "anatolia_ppn_0260",
+  "egypt_0037",
+  "tanum_0340",
+  "tanum_0236",
+  "egypt_0061"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "tanum",
+  "anatolia_ppn",
+  "egypt",
+  "anatolia_ppn",
+  "tanum",
+  "rapa_nui",
+  "tanum",
+  "egypt",
+  "anatolia_ppn"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

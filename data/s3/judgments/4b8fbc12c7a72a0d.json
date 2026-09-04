@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic curvilinear body/creature forms",
+  "circle or disc motifs",
+  "paired small round marks",
+  "curved bands or arcs on a body"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is the use of schematic rounded carving with circular marks and curved bands placed on or within a larger body-like form. The major difference is that A appears to depict a horizontally arranged animal or creature in profile, while B shows a frontal, upright anthropomorphic figure with head, torso, paired breast/eye-like circles, and a central disc.",
+ "a": "rapa_nui_0080",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  668
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "quadruped animal shown in profile with four legs",
+  "long horizontal element bearing a row of short repeated vertical strokes (comb/fringe-like band)",
+  "schematic animals rendered in silhouette or flat relief",
+  "small figure(s) placed above the horizontal band"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest correspondence is formal rather than iconographic: both surfaces carry a long horizontal element fringed with a row of short repeated strokes, with a small profile quadruped placed just above it. Otherwise the content diverges sharply \u2014 A shows a stacked composition of raptor-like birds, a snarling carnivore, a snake-like form and a human-like figure in modelled relief, while B shows a single flat-silhouette manned boat with a crescent prow and human legs, with no birds, snakes or anthropomorphic relief figures.",
+ "a": "anatolia_ppn_p43full",
+ "b": "tanum_0236",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  856
+ ]
+}

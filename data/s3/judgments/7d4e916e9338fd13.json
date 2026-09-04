@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "upright monolithic slab/stela with carved relief on its face",
+  "low-relief carving covering the front surface",
+  "vertically organized composition on a tall standing stone",
+  "curvilinear/rounded incised motifs",
+  "human figure (drawn beside monument in A; anthropomorphic form of the sculpture in B)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both depict an upright carved slab with low-relief motifs on its face, but that is largely a shared format rather than shared iconography: A shows a dense double column of repeated square blocks each packed with intricate face-like signs, while B shows a single large anthropomorphic body with a headdress/hair mass, simple eye-like depressions, a plain disc on the chest and broad sparse contours. The rendering conventions differ sharply \u2014 A is minute, dense and highly detailed in a strict grid, B is broad, sparse and sculptural with rounded volumes.",
+ "a": "maya_0057",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2949,
+  363
+ ]
+}

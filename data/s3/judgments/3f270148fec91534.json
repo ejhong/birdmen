@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "circle or oval motif",
+  "bands of repeated linear/geometric marks",
+  "schematic carved/relief forms on an upright surface"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The most specific shared content is the use of simple circular/oval signs together with bands of repeated incised or raised linear patterning. The biggest difference is that A is a crowded field of separate profile creatures and signs arranged in registers, while B is primarily a single anthropomorphic figure or body with facial features and chest/torso markings.",
+ "a": "anatolia_ppn_p43full",
+ "b": "rapa_nui_0034",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  659
+ ]
+}

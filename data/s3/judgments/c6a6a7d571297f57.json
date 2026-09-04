@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figures in profile",
+  "raised-relief hieroglyphic sign groups",
+  "figures facing one another across the field",
+  "register divisions separating figural scene from text",
+  "stela-format rectangular panel with organised horizontal bands"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces combine profile human figures with blocks of the same kind of pictographic sign-groups arranged in horizontal registers, and in both the figures confront one another across the field with text placed between or above them \u2014 a fairly specific shared scheme including the same relief-carving and profile-figure conventions (frontal shoulders, staff/gesture toward a facing figure). The biggest difference in content is the balance and placement: A devotes most of its field to two large standing figures flanking a central offering arrangement under an arched winged/emblematic top, with only brief sign labels, whereas B is dominated by many lines of text with two small kneeling/seated figures relegated to the bottom corners.",
+ "a": "egypt_0068",
+ "b": "egypt_0038",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  2974,
+  361
+ ]
+}

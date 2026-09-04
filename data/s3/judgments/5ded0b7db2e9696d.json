@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figures in strict profile",
+  "elaborately curled/stylised beard and coiffure",
+  "low-relief carving of figures on a flat ground",
+  "figures arranged along a horizontal register moving in one direction",
+  "long belted garments with patterned/incised detail",
+  "hands raised holding objects"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict bearded male figures in strict profile with the same distinctive convention of tightly curled, granulated beard and hair, belted long robes, and low-relief bodies aligned along a single horizontal register facing one direction \u2014 a specific enough shared repertoire to suggest common conventions. The subject matter differs sharply, however: A shows a violent action scene with a horse-drawn chariot, its wheel, a driver and archer, and a trampled body beneath, while B shows a static file of servants carrying bowls and vessels with no animals, vehicles or conflict.",
+ "a": "assyria_0109",
+ "b": "persepolis_0012",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  345
+ ]
+}

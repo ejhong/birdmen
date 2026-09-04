@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  3,
+  8,
+  5,
+  9,
+  4,
+  7,
+  6,
+  1,
+  10
+ ],
+ "most_similar_reason": "Candidate 2, like the target, is an upright monolithic pillar-like block whose broad face carries shallow, schematic low-relief motifs \u2014 arm-like and figural/animal elements arranged vertically down the shaft \u2014 giving the same sense of a standing body decorated with carved signs rather than a framed pictorial scene.",
+ "least_similar_reason": "Candidate 10 shows an eroded blank wall face with no discernible figures, symbols or motifs at all, so it shares none of the target's schematic anthropomorphic relief imagery.",
+ "set": "p43_among_random",
+ "i": 19,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "egypt_0056",
+  "anatolia_ppn_p43full",
+  "mississippian_0001",
+  "persepolis_0000",
+  "egypt_0033",
+  "mississippian_0005",
+  "egypt_0071",
+  "assyria_0135",
+  "persepolis_0049",
+  "egypt_0002"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "egypt",
+  "assyria",
+  "mississippian",
+  "persepolis",
+  "persepolis",
+  "egypt",
+  "egypt",
+  "egypt",
+  "mississippian"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "bearded human figures in strict profile",
+  "elaborately curled/beaded hair and beard rendered as regular rows",
+  "long garments with patterned borders",
+  "figures facing one another / arranged in a row",
+  "held objects (weapons, staffs, vessel/bow)",
+  "carved low-relief figural frieze with linear incised detail"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both show low-relief profile human figures with the same distinctive conventions \u2014 tightly rowed curls of hair and beard, long fringed robes, hands raised holding small objects, and figures facing each other in a horizontal procession-like register \u2014 which is a fairly specific shared repertoire rather than generic 'people'. The main differences are in content: B is a two-figure confrontation centred on a raised bowl with an inscribed text panel across the garments, while A includes a horse's head, a chariot/vehicle with harness fittings and a lower band of rosette-like discs, so the actual scenes depicted differ.",
+ "a": "persepolis_0044",
+ "b": "assyria_0008",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  368
+ ]
+}

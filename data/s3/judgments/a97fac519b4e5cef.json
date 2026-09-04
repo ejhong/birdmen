@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figures shown in profile",
+  "low-relief figural scene with figures facing the same direction",
+  "animals/animal heads within the scene",
+  "procession or offering-bearing arrangement",
+  "figures with raised or extended arms toward objects/animals",
+  "band-like registers of content"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both surfaces show shallow-relief scenes of profile human figures oriented in one direction and interacting with animals or piled offerings, the closest correspondence being a figure with arm extended toward an animal/offering group. But A is a clean single-register procession of attendants leading two large horned rams past a stylised tree with a floral border, whereas B is an arched panel crowded with small figures, offering stands, plant/vessel forms and rows of sign-like marks, with no tree, no border of rosettes and no processional file of livestock.",
+ "a": "persepolis_0020",
+ "b": "egypt_0044",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  678
+ ]
+}

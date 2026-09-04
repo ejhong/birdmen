@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "round-topped (arched) framed stela field",
+  "standing human figures in profile facing one another",
+  "rows of script signs / hieroglyph-like inscription",
+  "figural scene placed in an upper register above text",
+  "small offering objects/table between figures",
+  "figures flanking a central element"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both depict the same conventional scheme: an arched-topped panel whose upper zone holds a row of schematic profile standing figures facing/flanking a central element with small offering objects, and whose lower zone carries lines of pictographic script signs. The main difference is proportion of content: A devotes nearly the whole field to two figural registers with only scattered signs, while B reduces the figures to a narrow lunette strip above a very large block of continuous text, and B adds a winged/celestial emblem at the apex not present in A.",
+ "a": "egypt_0072",
+ "b": "egypt_0059",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3174,
+  643
+ ]
+}

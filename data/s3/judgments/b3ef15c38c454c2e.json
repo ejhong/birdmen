@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "animals shown in profile relief",
+  "horned/quadruped creatures",
+  "repeated animals in a row",
+  "low-relief carving on a flat stone surface",
+  "registers or bands of figures"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both show animals in profile carved in low relief and arranged in repeated rows, but that is a generic convergence: A depicts two closely overlapping naturalistic curly-horned rams with meticulously rendered fleece and curled horns, while B shows a stacked assemblage of schematic, sticklike quadrupeds, a bird with a long beak, a snake-like sinuous form and a band of chevrons on a pillar. The specific creatures, their proportions, their surface treatment (dense engraved fleece versus plain outlined bodies) and the compositional logic (a single overlapping pair versus multiple superposed registers of varied fauna) share nothing distinctive.",
+ "a": "persepolis_0085",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  347
+ ]
+}

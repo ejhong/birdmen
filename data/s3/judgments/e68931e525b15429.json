@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "bird-like head in profile with prominent beak",
+  "animal/creature figures in low relief on a flat vertical panel",
+  "horizontal band or register dividing the surface",
+  "raised arm/limb gesture",
+  "repeated small figures in a row"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces show low-relief creatures on a flat vertical panel, including a profile head with a strong hooked beak, and both use a horizontal band to separate zones with a row of repeated forms above. Beyond that the content diverges sharply: B depicts a single large winged anthropomorphic figure with a bird head holding a bucket and cone beside stylised plants and a block of dense script, rendered with detailed feather and garment patterning, while A shows several small, flat, schematic animals (quadrupeds, birds, snake-like forms) scattered without a dominant figure, plants, gesture-object or text.}",
+ "a": "anatolia_ppn_p43full",
+ "b": "assyria_0102",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3074,
+  346
+ ]
+}

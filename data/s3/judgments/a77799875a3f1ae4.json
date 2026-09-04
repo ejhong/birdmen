@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "animal shown in profile relief",
+  "human figure in profile with headgear",
+  "horizontal band of small repeated ornamental motifs bordering a figural field",
+  "figural scene in shallow low relief with incised interior detail",
+  "overlapping figures/limbs indicating depth"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both surfaces combine profile figures of animals and humans, rendered in shallow relief with fine incised detailing (hair, mane, fringed edges), set against a horizontal band of small repeated ornaments that frames the figural field \u2014 a genuinely comparable compositional convention. The scenes themselves differ, however: A is a calm processional pair, an attendant walking beside a standing humped animal, while B shows a tangled, overlapping mass of collapsed bodies and limbs with no processional order.",
+ "a": "persepolis_0062",
+ "b": "assyria_0011",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  785
+ ]
+}

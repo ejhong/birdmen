@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  7,
+  10,
+  4,
+  9,
+  6,
+  2,
+  5,
+  1,
+  8
+ ],
+ "most_similar_reason": "Candidate 3, like the target, is a tall slab covered with schematic low-relief animals \u2014 quadrupeds and horned/beaked creatures set out in stacked bands with abstract curled and linear motifs above them \u2014 rather than human protagonists or writing.",
+ "least_similar_reason": "Candidate 8 shows nothing but ordered rows of rectangular script-like signs, with none of the target's profile animals, birds, serpents or zigzag animal-register composition.",
+ "set": "moai_iso_among_monoliths",
+ "i": 1,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0071",
+  "egypt_0044",
+  "maya_0045",
+  "maya_0114",
+  "egypt_0068",
+  "gotland_0116",
+  "gotland_0113",
+  "maya_0095",
+  "rapa_nui_hoa_iso",
+  "maya_0066"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt",
+  "gotland",
+  "maya",
+  "maya",
+  "maya",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 5
+}

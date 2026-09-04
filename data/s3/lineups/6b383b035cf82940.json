@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  1,
+  4,
+  3,
+  9,
+  2,
+  10,
+  5,
+  7,
+  6
+ ],
+ "most_similar_reason": "Candidate 8 repeats the target\u2019s distinctive content most closely: a profile bearded human figure with a tall tiered headdress, stylized hair/beard patterning, and a raised arm/hand rendered in the same relief-outline convention.",
+ "least_similar_reason": "Candidate 6 is least similar because it shows a circular geometric emblem with radial teeth and abstract internal motifs rather than profile human figures, raised hands, elaborate dress, or a facing-figure scene.",
+ "set": "same_control",
+ "i": 8,
+ "target": "assyria_0111",
+ "planted": "assyria_0084",
+ "cands": [
+  "persepolis_0073",
+  "egypt_0040",
+  "anatolia_ppn_0107",
+  "egypt_0006",
+  "rapa_nui_0022",
+  "mississippian_0018",
+  "gotland_0118",
+  "assyria_0084",
+  "maya_0158",
+  "egypt_0064"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "mississippian",
+  "anatolia_ppn",
+  "maya",
+  "egypt",
+  "gotland",
+  "rapa_nui",
+  "egypt",
+  "egypt",
+  "persepolis"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

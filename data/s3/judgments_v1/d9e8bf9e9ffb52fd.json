@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "vertical decorated panel",
+  "horizontal registers or bands",
+  "geometric pattern banding",
+  "animal/creature in profile",
+  "circle or oval motifs",
+  "rectangular framed areas"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both are tall decorated surfaces divided by horizontal bands/registers and include profile animal-like figures alongside geometric or oval motifs. The biggest difference is that A is a dense, gridded field of many small glyph-like compartments, while B is a sparse stone relief with a few large figures and a prominent patterned band.",
+ "a": "maya_0009",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  992,
+  656
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  4,
+  8,
+  7,
+  5,
+  2,
+  10,
+  1,
+  3,
+  9
+ ],
+ "most_similar_reason": "Candidate 6 shows the same kind of massive standing figure carved in the round with the identical back-view iconography: a broad headdress/cap, large circular disc ornaments set on the upper back, and a wide belt or sash band wrapping the torso with a hanging pendant element below.",
+ "least_similar_reason": "Candidate 9 is a flat slab covered almost entirely with ruled rows of repeated small sign-like marks and no human figure, body ornaments or three-dimensional bodily form at all, sharing none of the target's distinctive elements.",
+ "set": "same_control_monoliths",
+ "i": 1,
+ "target": "rapa_nui_0065",
+ "planted": "rapa_nui_0005",
+ "cands": [
+  "maya_0023",
+  "egypt_0045",
+  "gotland_0133",
+  "anatolia_ppn_0263",
+  "maya_0147",
+  "rapa_nui_0005",
+  "maya_0092",
+  "anatolia_ppn_0175",
+  "egypt_0069",
+  "egypt_0067"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "egypt",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

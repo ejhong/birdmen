@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  4,
+  3,
+  7,
+  6,
+  2,
+  10,
+  5,
+  8,
+  9
+ ],
+ "most_similar_reason": "Candidate 1 shares the same Assyrian-style relief carving technique, with a similarly rendered human/divine figure in profile, detailed feather and drapery patterning like the target's textured wool and headdress motifs.",
+ "least_similar_reason": "Candidate 9 shows an abstract interlace/knot and symbolic emblem with no human or animal figures, sharing no iconographic elements or narrative arrangement with the target's procession scene.",
+ "set": "same_control",
+ "i": 1,
+ "target": "persepolis_0100",
+ "planted": "persepolis_0063",
+ "cands": [
+  "assyria_0079",
+  "maya_0054",
+  "assyria_0109",
+  "assyria_0146",
+  "tanum_0317",
+  "assyria_0096",
+  "persepolis_0063",
+  "catalhoyuk_0026",
+  "gotland_0005",
+  "gotland_0118"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "gotland",
+  "assyria",
+  "maya",
+  "assyria",
+  "gotland",
+  "catalhoyuk",
+  "tanum",
+  "assyria",
+  "assyria"
+ ],
+ "model": "sonnet",
+ "planted_rank": 4
+}

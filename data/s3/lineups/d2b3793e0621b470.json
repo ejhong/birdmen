@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  4,
+  5,
+  7,
+  6,
+  2,
+  1,
+  8,
+  3,
+  10
+ ],
+ "most_similar_reason": "Candidate 9 shows animal figures arranged in stacked horizontal registers similar to the bird-headed and animal figures organized in bands on the target stele.",
+ "least_similar_reason": "Candidate 10 depicts a rosette and animal frieze around a vessel rim, an entirely different iconographic scheme with no bird-human composite figures or vertical register arrangement like the target.",
+ "set": "moai_iso_among_random",
+ "i": 8,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "assyria_0032",
+  "persepolis_0020",
+  "assyria_0123",
+  "egypt_0045",
+  "gotland_0004",
+  "maya_0158",
+  "egypt_0067",
+  "rapa_nui_hoa_iso",
+  "assyria_0140",
+  "gotland_0113"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "gotland",
+  "egypt",
+  "assyria",
+  "egypt",
+  "gotland",
+  "maya",
+  "assyria",
+  "assyria",
+  "persepolis"
+ ],
+ "model": "sonnet",
+ "planted_rank": 8
+}

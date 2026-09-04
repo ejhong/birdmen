@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  1,
+  2,
+  4,
+  5,
+  3,
+  7,
+  6,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 is most similar because it shares the target\u2019s schematic, abstract iconography with a large curved/boat- or crescent-like form combined with rectilinear internal elements and incised linear signs rather than a naturalistic figural scene.",
+ "least_similar_reason": "Candidate 10 is least similar because it depicts a single naturalistic winged human-like figure with surrounding ornament, lacking the target\u2019s dominant curved vessel/crescent form, gridded rectangular elements, and overall schematic geometric arrangement.",
+ "set": "same_control",
+ "i": 14,
+ "target": "gotland_0129",
+ "planted": "gotland_0005",
+ "cands": [
+  "gotland_0005",
+  "tanum_0069",
+  "persepolis_0077",
+  "maya_0054",
+  "rapa_nui_0070",
+  "assyria_0052",
+  "persepolis_0063",
+  "maya_0136",
+  "persepolis_0027",
+  "assyria_0157"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "persepolis",
+  "persepolis",
+  "assyria",
+  "assyria",
+  "rapa_nui",
+  "persepolis",
+  "maya",
+  "tanum",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 2
+}

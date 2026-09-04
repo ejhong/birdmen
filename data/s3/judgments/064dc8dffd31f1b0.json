@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic animal figures in profile",
+  "serpentine or curving animal/line motif",
+  "small abstract linear signs",
+  "vertically stacked motifs on a decorated surface"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "The strongest correspondence is that both surfaces use schematic relief-like animal imagery, including profile creatures and a snake-like curving motif, combined with small abstract signs. The biggest difference is that A has a sparse vertical stack of a few isolated motifs, while B is a dense multi-register composition with many different animals and repeated signs arranged in horizontal bands.",
+ "a": "anatolia_ppn_0080",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  1156
+ ]
+}

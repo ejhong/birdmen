@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  3,
+  4,
+  1,
+  5,
+  2,
+  9,
+  10,
+  7,
+  8
+ ],
+ "most_similar_reason": "Candidate 6 is closest because it repeats the distinctive rounded-top, register-like composition with small human figures and rows of sign-like inscriptions arranged much like the target\u2019s seated/standing scene with text bands below.",
+ "least_similar_reason": "Candidate 8 is least similar because it shows only a close-up sculptural head or face, with none of the target\u2019s flat narrative scene, opposing human figures, offering/table elements, arched framing, or inscription rows.",
+ "set": "same_control_monoliths",
+ "i": 0,
+ "target": "egypt_0066",
+ "planted": "egypt_0047",
+ "cands": [
+  "maya_0158",
+  "gotland_0131",
+  "maya_0092",
+  "maya_0111",
+  "maya_0088",
+  "egypt_0047",
+  "anatolia_ppn_0267",
+  "anatolia_ppn_0260",
+  "anatolia_ppn_0093",
+  "anatolia_ppn_0261"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "anatolia_ppn",
+  "gotland",
+  "anatolia_ppn",
+  "maya",
+  "maya",
+  "anatolia_ppn",
+  "maya",
+  "anatolia_ppn"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

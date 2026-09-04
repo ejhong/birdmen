@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human or humanoid figures shown in profile",
+  "wings",
+  "bearded/headdressed figure with raised arm",
+  "figures standing on a groundline",
+  "registers or bands organizing the surface",
+  "small repeated decorative/script-like signs in rows"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both show profile human figures with raised arms and both include wing motifs and rows of small sign-like marks, but these are generic correspondences: A is a large-scale two-panel scene of a monumental winged lion-bird demon confronted by a muscular four-winged bearded figure with a staff, rendered with heavy naturalistic musculature and elaborately layered feathering, while B is a stele-shaped surface with a small arched lunette of slender clothed figures flanking a rayed disc above many dense horizontal lines of script. The dominant differences in figure scale, composition (two facing monumental figures vs. a tiny scene over a text block) and drawing convention outweigh the shared generic traits.",
+ "a": "assyria_0059",
+ "b": "egypt_0014",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3124,
+  372
+ ]
+}

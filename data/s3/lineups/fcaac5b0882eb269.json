@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  10,
+  6,
+  7,
+  2,
+  8,
+  5,
+  3,
+  9,
+  4
+ ],
+ "most_similar_reason": "Candidate 1 is most similar because it shows a comparable schematic relief composition of animal-like forms in profile combined with rectilinear/comb-like repeated motifs arranged in horizontal zones, closely echoing the target\u2019s animal-and-pattern iconography.",
+ "least_similar_reason": "Candidate 4 is least similar because it consists almost entirely of dense script-like repeated signs with no comparable animals, profile creatures, or pictorial arrangement like the target.",
+ "set": "moai_among_random",
+ "i": 32,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0044",
+  "gotland_0124",
+  "assyria_0079",
+  "maya_0050",
+  "tanum_0240",
+  "rapa_nui_0113",
+  "tanum_0082",
+  "egypt_0013",
+  "persepolis_0066",
+  "egypt_0010"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "persepolis",
+  "egypt",
+  "gotland",
+  "tanum",
+  "tanum",
+  "egypt",
+  "assyria",
+  "persepolis"
+ ],
+ "model": "gpt",
+ "planted_rank": 3
+}

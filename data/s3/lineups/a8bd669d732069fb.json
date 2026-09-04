@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  3,
+  9,
+  8,
+  1,
+  6,
+  7,
+  4,
+  10,
+  5
+ ],
+ "most_similar_reason": "Candidate 2 shows a bird-headed winged creature in profile with detailed wing and body rendering, matching the target\u2019s profile birds, possible wing forms, and carved infill conventions more closely than other candidates.",
+ "least_similar_reason": "Candidate 5 is filled with dense rows of written signs and lacks the birds, plants, or other figurative creatures arranged on the target.",
+ "set": "moai_iso_among_random",
+ "i": 0,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "tanum_0100",
+  "assyria_0151",
+  "assyria_0021",
+  "rapa_nui_hoa_iso",
+  "egypt_0040",
+  "persepolis_0018",
+  "tanum_0328",
+  "maya_0048",
+  "assyria_0118",
+  "maya_0147"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "assyria",
+  "persepolis",
+  "assyria",
+  "assyria",
+  "tanum",
+  "maya",
+  "maya",
+  "tanum",
+  "egypt"
+ ],
+ "model": "grok",
+ "planted_rank": 8
+}

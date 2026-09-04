@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "standing/seated human figure carved in relief",
+  "elaborate costume or garment with patterned surface",
+  "hand(s) holding or presenting an object",
+  "dense low-relief carving covering the whole surface",
+  "decorated border/framing element"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces depict human figures in relief wearing elaborate patterned garments and holding/presenting objects, which is the main correspondence but a generic one. A shows a horizontal frieze of figures strictly in profile, at large scale, with plain ground and no framing ornament, while B shows a single frontal figure with a towering headdress set within a niche surrounded by dense panels of glyph-like blocky motifs \u2014 the conventions of pose, framing and surface filling are entirely different.",
+ "a": "assyria_0139",
+ "b": "maya_0113",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2974,
+  301
+ ]
+}

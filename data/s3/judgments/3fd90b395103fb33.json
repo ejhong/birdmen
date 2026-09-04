@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "standing human figure(s)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "Image A depicts a procession of figures leading a camel in profile relief, while Image B is a stele-like composition with a radiating sun disc, figures before an offering table, and dense columns of hieroglyphic-style text; the only loose commonality is the presence of standing human figures. There is no shared animal, no shared object (camel vs. sun disc/altar), and no corresponding arrangement or relationship between elements, so the depicted content is essentially unrelated beyond the generic presence of people.",
+ "a": "persepolis_0058",
+ "b": "egypt_0013",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  3124,
+  243
+ ]
+}

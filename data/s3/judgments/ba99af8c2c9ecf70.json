@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "large single male human figure dominating the field",
+  "elaborately dressed hair/headdress rendered as rows of curls or striations",
+  "beard or heavy jaw framing the face",
+  "circular disc or medallion ornament on the chest area",
+  "long garment with belt/waistband indicated",
+  "incised surface detail over a body form",
+  "arms/hands brought toward the chest with carried attributes"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both depict a single monumental male figure with a heavily worked coiffure of stacked curls, a beard, a chest disc/medallion and a belted robe, which is a reasonably specific combination of person-plus-ornament. But A is a flat profile relief of a winged, striding figure with raised hand and carried implements, while B is a volumetric frontal image with no wings, no stride and no legible held objects, so the relationships and rendering conventions diverge sharply.",
+ "a": "assyria_0051",
+ "b": "rapa_nui_0005",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3024,
+  818
+ ]
+}

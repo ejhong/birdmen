@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "stylized head or face",
+  "eyes and mouth/nose features",
+  "incised linear markings or bands",
+  "vertically stacked figurative elements"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both include stylized heads or faces with simple eye/mouth features and incised linear markings, and both have a broadly vertical stacking of figurative parts. The biggest difference is that A shows profile, modeled zoomorphic/anthropomorphic figures combined together, while B shows a frontal mask-like figure dominated by geometric facial bands with no comparable creature interaction.",
+ "a": "anatolia_ppn_0175",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  1108
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  10,
+  4,
+  8,
+  1,
+  6,
+  3,
+  2,
+  7,
+  5
+ ],
+ "most_similar_reason": "Candidate 9 is most similar because it shows the same kind of upright pillar-like decorated surface with sparse, schematic low-relief animal figures arranged vertically on the side rather than a framed narrative or inscriptional composition.",
+ "least_similar_reason": "Candidate 5 is least similar because its depicted content is dominated by text-like bands and a symmetrical cross/scroll ornament, with no comparable animal figures, profile creatures, or scattered zoomorphic arrangement.",
+ "set": "same_control",
+ "i": 12,
+ "target": "anatolia_ppn_0082",
+ "planted": "anatolia_ppn_0095",
+ "cands": [
+  "egypt_0040",
+  "egypt_0027",
+  "persepolis_0104",
+  "rapa_nui_0097",
+  "gotland_0003",
+  "maya_0026",
+  "assyria_0140",
+  "egypt_0066",
+  "anatolia_ppn_0095",
+  "assyria_0125"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "assyria",
+  "egypt",
+  "rapa_nui",
+  "egypt",
+  "egypt",
+  "assyria",
+  "maya",
+  "gotland",
+  "persepolis"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

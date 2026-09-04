@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "quadruped animal shown in profile in low relief",
+  "animal with clearly marked legs and tail",
+  "bird-like/long-necked creature",
+  "relief carving arranged on a flat pillar face",
+  "register-like stacking of motifs on the same surface"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces present low-relief animal figures in strict profile on the broad face of an upright slab, with the profile quadruped (legs, tail, head in side view) plus a long-necked bird-like creature below it forming a comparable vertical stacking of motifs, and the carving convention (raised silhouette with minimal interior detail, animals reading as isolated emblematic figures rather than an integrated scene) is closely matched. The chief difference is that A is far more crowded and varied, with a top register of repeated crouching creatures, a woven/net-like band, a lattice or plant-like panel and multiple small figures, whereas B shows essentially a single large striding quadruped over one smaller creature with far fewer accompanying motifs.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0207",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3048,
+  387
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  6,
+  1,
+  4,
+  10,
+  2,
+  5,
+  3,
+  7,
+  9
+ ],
+ "most_similar_reason": "Candidate 8 is, like the target, a free-standing monolithic upright block treated as a quasi-body, with schematic motifs carved in shallow relief directly onto its broad face and shoulder rather than a framed pictorial scene.",
+ "least_similar_reason": "Candidate 9 shows only a single human face/mask with no animals, no relief registers and no pillar surface, sharing none of the target's stacked profile creatures and abstract bands.",
+ "set": "moai_among_random",
+ "i": 3,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0010",
+  "tanum_0050",
+  "persepolis_0080",
+  "maya_0091",
+  "maya_0005",
+  "persepolis_0020",
+  "persepolis_0047",
+  "rapa_nui_0113",
+  "mississippian_0008",
+  "maya_0027"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "persepolis",
+  "persepolis",
+  "mississippian",
+  "maya",
+  "persepolis",
+  "tanum",
+  "persepolis",
+  "maya",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

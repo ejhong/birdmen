@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  8,
+  2,
+  5,
+  1,
+  6,
+  10,
+  3,
+  7,
+  9
+ ],
+ "most_similar_reason": "Both utilize a structural arrangement of stacked horizontal registers filled with figures rendered in profile.",
+ "least_similar_reason": "This surface lacks discernible figurative scenes, horizontal divisions, or distinct motifs.",
+ "set": "moai_iso_among_monoliths",
+ "i": 11,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0046",
+  "egypt_0073",
+  "gotland_0000",
+  "egypt_0047",
+  "egypt_0067",
+  "maya_0054",
+  "maya_0158",
+  "egypt_0072",
+  "gotland_0130",
+  "rapa_nui_hoa_iso"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt",
+  "gotland",
+  "egypt",
+  "egypt"
+ ],
+ "model": "gemini",
+ "planted_rank": 7
+}

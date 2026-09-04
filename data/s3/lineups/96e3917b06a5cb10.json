@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  4,
+  3,
+  6,
+  2,
+  9,
+  8,
+  7,
+  5,
+  1
+ ],
+ "most_similar_reason": "Candidate 10 shows the same overall scheme as the target: an arch-topped slab whose upper field carries a low-relief figural scene of persons in profile interacting, set directly above a horizontal band of framed sign-blocks reading as an inscription register.",
+ "least_similar_reason": "Candidate 1 is an amorphous rounded boulder with no legible figures, scene, register band or sign-blocks, so it shares none of the target's depicted content.",
+ "set": "same_control_monoliths",
+ "i": 26,
+ "target": "maya_0115",
+ "planted": "maya_0039",
+ "cands": [
+  "anatolia_ppn_0244",
+  "gotland_0111",
+  "maya_0039",
+  "egypt_0074",
+  "anatolia_ppn_0240",
+  "gotland_0009",
+  "anatolia_ppn_0082",
+  "anatolia_ppn_0186",
+  "anatolia_ppn_0179",
+  "egypt_0066"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "gotland",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "egypt",
+  "gotland",
+  "anatolia_ppn",
+  "egypt",
+  "anatolia_ppn"
+ ],
+ "model": "opus",
+ "planted_rank": 3
+}

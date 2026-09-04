@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figures shown in profile",
+  "figures holding staffs or standing objects",
+  "low-relief carving with incised linear detail",
+  "registers/framing bands",
+  "robed/garmented figures standing upright"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict standing human figures in strict profile carved in shallow relief, some holding upright staff-like objects, which is a generic convention rather than a distinctive shared motif. A shows a single large-scale guard-like figure with a spear and elaborate headdress filling the field, while B is a small multi-register stele with a winged disc over a row of tiny deity/offering figures above many lines of pictographic script \u2014 an organizational scheme and iconographic vocabulary absent from A.",
+ "a": "persepolis_0037",
+ "b": "egypt_0042",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3024,
+  285
+ ]
+}

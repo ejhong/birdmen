@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  5,
+  3,
+  2,
+  7,
+  10,
+  1,
+  6,
+  4,
+  9
+ ],
+ "most_similar_reason": "Candidate 8 is most similar because it likewise shows a vertical decorated surface with schematic relief animal imagery arranged on a pillar-like field, close to the target\u2019s combination of carved animal figures and abstract anthropomorphic/monumental layout.",
+ "least_similar_reason": "Candidate 9 is least similar because its depicted content is essentially inscriptional lines and a central ornamental floral motif, with none of the target\u2019s distinctive animal figures, human body-part motifs, or comparable iconographic arrangement.",
+ "set": "moai_close_among_random",
+ "i": 13,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "egypt_0056",
+  "catalhoyuk_0110",
+  "maya_0126",
+  "egypt_0038",
+  "rapa_nui_0004",
+  "mississippian_0002",
+  "persepolis_0000",
+  "maya_0088",
+  "gotland_0003",
+  "persepolis_0110"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "catalhoyuk",
+  "persepolis",
+  "maya",
+  "mississippian",
+  "persepolis",
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 2
+}

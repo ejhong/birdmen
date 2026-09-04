@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "horizontal rows or bands of carved motifs",
+  "profile animal or bird-like figures",
+  "oval or circular signs",
+  "linear/rectangular signs"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest correspondence is that both surfaces use shallow carving on stone arranged partly in horizontal bands, with small profile creatures and simple geometric signs appearing among the motifs. The biggest difference is that A is dominated by many small, regular, text-like rows spread across a broad wall, while B is a vertical slab with larger, more pictorial figures separated into a few bold panels.",
+ "a": "egypt_0024",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  657
+ ]
+}

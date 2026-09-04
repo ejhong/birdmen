@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  7,
+  9,
+  1,
+  10,
+  8,
+  4,
+  3,
+  6,
+  5
+ ],
+ "most_similar_reason": "Candidate 2 shares the target's basic scheme of a flat slab divided into stacked horizontal registers filled with small, schematic low-relief figures rendered in profile outline with flat infill, plus small sign-like elements below the main scene.",
+ "least_similar_reason": "Candidate 5 is a fully three-dimensional carved column dominated by one large frontal mask-like face with deep volumetric ornament, sharing none of the target's flat registers of profile birds, quadrupeds and zigzag bands.",
+ "set": "moai_iso_among_monoliths",
+ "i": 33,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0111",
+  "egypt_0047",
+  "maya_0087",
+  "egypt_0071",
+  "maya_0019",
+  "rapa_nui_hoa_iso",
+  "egypt_0063",
+  "egypt_0065",
+  "maya_0054",
+  "maya_0005"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 9
+}

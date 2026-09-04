@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  6,
+  3,
+  4,
+  10,
+  9,
+  2,
+  1,
+  8,
+  5
+ ],
+ "most_similar_reason": "Candidate 7 shows, like the target, a large upright stone slab bearing a single boldly modelled animal in high relief with the same convention of an isolated creature standing out from a plain field, matching the target's schematic animal reliefs on a pillar rather than any figural-narrative or text scheme.",
+ "least_similar_reason": "Candidate 5 presents essentially a blank slab with framed lines of script and no creatures, symbols or figural imagery at all, sharing nothing with the target's dense array of birds, snakes, quadrupeds and zigzag bands.",
+ "set": "moai_iso_among_monoliths",
+ "i": 19,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0014",
+  "egypt_0043",
+  "maya_0083",
+  "gotland_0128",
+  "gotland_0004",
+  "rapa_nui_hoa_iso",
+  "egypt_0061",
+  "maya_0057",
+  "maya_0088",
+  "maya_0056"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "gotland",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "egypt",
+  "gotland",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

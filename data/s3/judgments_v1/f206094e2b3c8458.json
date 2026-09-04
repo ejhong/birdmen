@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "T-shaped decorated stone surface",
+  "row of repeated arched or crescent-like motifs near the top",
+  "horizontal band of repeated zigzag/triangular pattern",
+  "animal figures in profile",
+  "bird-like figure in profile",
+  "oval or disc-like forms"
+ ],
+ "arrangement_similarity": "3",
+ "style_similarity": "2",
+ "gestalt_similarity": "3",
+ "overall": "8",
+ "justification": "The strongest correspondence is the same broad compositional scheme: a T-shaped carved surface with repeated arched forms across the upper block, a horizontal patterned band below them, and profile animal figures beneath and on the shaft. The biggest difference is that A is more upright, sharper, and more densely legible on the lower shaft, while B is oblique, more worn, and its lower imagery is partly obscured by burial and damage.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0105",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  608
+ ]
+}

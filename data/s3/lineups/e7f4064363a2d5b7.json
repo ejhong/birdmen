@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  7,
+  5,
+  9,
+  1,
+  6,
+  4,
+  10,
+  3,
+  8
+ ],
+ "most_similar_reason": "Candidate 2 is most similar because it presents a vertical surface with schematic, low-detail relief figures arranged like emblematic motifs, closest to the target\u2019s stacked animal/figural iconography rather than a single naturalistic scene.",
+ "least_similar_reason": "Candidate 8 is least similar because it is dominated by written lines and a symmetrical floral ornament, with none of the target\u2019s stylized animals, bird-like forms, or emblematic creature groupings.",
+ "set": "moai_close_among_random",
+ "i": 25,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "mississippian_0005",
+  "maya_0130",
+  "egypt_0075",
+  "persepolis_0110",
+  "maya_0048",
+  "persepolis_0073",
+  "egypt_0068",
+  "gotland_0003",
+  "assyria_0112",
+  "rapa_nui_0004"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "persepolis",
+  "egypt",
+  "mississippian",
+  "maya",
+  "persepolis",
+  "assyria",
+  "egypt",
+  "gotland",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 8
+}

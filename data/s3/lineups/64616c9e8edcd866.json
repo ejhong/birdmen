@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  9,
+  8,
+  5,
+  7,
+  3,
+  4,
+  2,
+  1,
+  10
+ ],
+ "most_similar_reason": "Candidate 6 features a similar monumental, anthropomorphic pillar form with low-relief arms bending to rest hands on the front torso.",
+ "least_similar_reason": "Candidate 10 displays an irregular, unshaped surface lacking any discernible organized figures, motifs, or structural outlines.",
+ "set": "p43_among_random",
+ "i": 15,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "tanum_0126",
+  "gotland_0000",
+  "maya_0158",
+  "persepolis_0025",
+  "assyria_0051",
+  "anatolia_ppn_p43full",
+  "assyria_0071",
+  "maya_0147",
+  "maya_0092",
+  "tanum_0100"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "persepolis",
+  "assyria",
+  "tanum",
+  "maya",
+  "gotland",
+  "tanum",
+  "maya",
+  "assyria"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

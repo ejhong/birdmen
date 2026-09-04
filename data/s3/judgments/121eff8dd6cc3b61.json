@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "profile quadruped animal",
+  "schematic human or anthropomorphic figure",
+  "linear marks or repeated sign-like motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest shared content is that both surfaces include profile animals and simplified human/anthropomorphic figures rendered with linear conventions. The biggest difference is that A is dominated by one large naturalistic quadruped with small figures around it, while B is a dense, tiered composition of varied carved signs, animals, and patterned bands with no matching central animal-human scheme.",
+ "a": "catalhoyuk_0031",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  576
+ ]
+}

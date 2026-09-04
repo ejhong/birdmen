@@ -1,0 +1,28 @@
+{
+ "shared_elements": [
+  "large frontal anthropomorphic figure with block-like head and shoulders",
+  "projecting nose or facial profile on the head",
+  "small lateral ear-like projections",
+  "paired circular chest elements",
+  "central circular/ring motif below the paired circles",
+  "curvilinear facial or mask-like incisions on the torso",
+  "multiple parallel horizontal bands across the lower torso",
+  "short vertical pendant-like marks hanging from the bands",
+  "linear and geometric incisions on the head"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "10",
+ "justification": "Both surfaces show the same highly specific iconographic scheme: a frontal anthropomorphic monolith with paired chest circles, a central ring below them, mask-like curvilinear carving, and parallel horizontal bands with pendant vertical marks in the same positions. There is no substantial depicted-content difference; only minor visibility differences in some upper-head incisions and side details.",
+ "a": "rapa_nui_0044",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  593
+ ]
+}

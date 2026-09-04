@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic curvilinear motifs",
+  "parallel line or band motifs",
+  "circular or oval marks"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The only clear correspondences are very generic: both include schematic carved/incised curves, parallel lines, and some round or oval forms. A is dominated by a frontal anthropomorphic figure with body-like features and symmetrical motifs, while B appears to show scattered linear petroglyph-like motifs, including boat- or animal-like outlines, with no comparable central figure or iconographic arrangement.",
+ "a": "rapa_nui_0113",
+ "b": "tanum_0026",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  660
+ ]
+}

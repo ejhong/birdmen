@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "anthropomorphic or human-like standing figure",
+  "head and torso/body parts",
+  "linear incised/geometric surface patterning on or around the figure",
+  "circular or oval motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main shared content is only a generic upright human/anthropomorphic figure with linear decorative markings and a few circular or oval details. The biggest difference is that A is a highly schematic frontal single figure or body form, while B shows a detailed profile winged human figure interacting with vegetal motifs and other attributes in a fuller scene.",
+ "a": "rapa_nui_0113",
+ "b": "assyria_0100",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  579
+ ]
+}

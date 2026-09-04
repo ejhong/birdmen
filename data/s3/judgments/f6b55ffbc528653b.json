@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "standing anthropomorphic or human-like figure",
+  "horizontal bands or rows of repeated marks/signs",
+  "schematic low-relief/linear carved motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The most specific overlap is that both surfaces include human-like standing figures and some horizontal rows of small repeated signs or motifs. The biggest difference is that A is dominated by a large central inscribed panel flanked below by standing figures, while B is a dense register-like composition of profile animals, abstract signs, and patterned bands with no comparable central panel or flanking-figure scheme.",
+ "a": "egypt_0009",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1883,
+  670
+ ]
+}

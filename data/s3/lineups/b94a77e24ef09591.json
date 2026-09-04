@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  3,
+  4,
+  2,
+  6,
+  9,
+  5,
+  10,
+  7,
+  8
+ ],
+ "most_similar_reason": "Candidate 1 shares the same overall tradition of Egyptian-style relief carving with horizontal registers, hieroglyphic-like elements, and figures rendered in profile with similar hatching conventions, closely echoing the target's layered composition of registers filled with figural and textural motifs.",
+ "least_similar_reason": "Candidate 8 depicts a single sculpted humanoid/animal statue form with no registers, hatching, birds, or figural narrative bands, making its depicted content fundamentally unlike the target's multi-register animal and pattern frieze.",
+ "set": "moai_iso_among_monoliths",
+ "i": 9,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0073",
+  "gotland_0111",
+  "gotland_0116",
+  "gotland_0131",
+  "maya_0137",
+  "egypt_0069",
+  "maya_0101",
+  "rapa_nui_hoa_iso",
+  "maya_0053",
+  "maya_0147"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "egypt",
+  "gotland",
+  "maya",
+  "gotland",
+  "maya",
+  "maya",
+  "egypt"
+ ],
+ "model": "sonnet",
+ "planted_rank": 10
+}

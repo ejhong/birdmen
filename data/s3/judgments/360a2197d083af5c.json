@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "schematic animals shown in profile",
+  "animal head with prominent eye",
+  "elongated serpentine/reptilian creature",
+  "multiple creatures repeated across the surface in roughly horizontal bands",
+  "zigzag/chevron linear motif"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces are covered with repeated schematic profile creatures with clearly marked eyes, stacked in loosely horizontal bands, and both use zigzag/chevron linework (as a band in A, as the creatures' own bodies in B). But the specific content differs sharply: A shows a legible programme of birds, quadrupeds, a snake and a human-like figure in framed registers, whereas B shows only interlocking abstract zigzag-bodied reptilian forms with no human element or register framing.",
+ "a": "anatolia_ppn_p43full",
+ "b": "mississippian_0075",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  754
+ ]
+}

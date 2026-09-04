@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  8,
+  1,
+  4,
+  2,
+  3,
+  6,
+  10,
+  7,
+  9
+ ],
+ "most_similar_reason": "Candidate 5 shares the target's habit of covering the whole stone face with shallow, schematic, outline-carved motifs \u2014 curling scroll and hook forms, banded registers and glyph-like elements packed edge to edge \u2014 rather than a single naturalistic scene.",
+ "least_similar_reason": "Candidate 9 shows a bare, essentially undecorated rock face with cut vertical joints and no identifiable creatures, figures or motifs to compare with the target's dense registers of animals and patterns.",
+ "set": "moai_iso_among_random",
+ "i": 28,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "assyria_0116",
+  "persepolis_0110",
+  "persepolis_0011",
+  "assyria_0052",
+  "maya_0127",
+  "rapa_nui_hoa_iso",
+  "mississippian_0007",
+  "maya_0023",
+  "egypt_0006",
+  "assyria_0095"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "assyria",
+  "persepolis",
+  "assyria",
+  "assyria",
+  "persepolis",
+  "egypt",
+  "mississippian",
+  "maya",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 7
+}

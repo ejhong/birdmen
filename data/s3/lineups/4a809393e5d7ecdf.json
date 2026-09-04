@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  3,
+  1,
+  5,
+  4,
+  6,
+  9,
+  8,
+  2,
+  10
+ ],
+ "most_similar_reason": "Candidate 7, like the target, shows a low relief carved in horizontal registers filled with rows of standing human figures in profile, closely spaced and processing in the same direction with objects/staffs held before them, which is a very specific shared compositional and stylistic convention.",
+ "least_similar_reason": "Candidate 10 presents only an eroded, formless carved boss with no recognisable figures, animals, registers or motifs that could be matched to the target's ordered processional relief.",
+ "set": "related_control",
+ "i": 30,
+ "target": "persepolis_0051",
+ "planted": "assyria_0013",
+ "cands": [
+  "mississippian_0000",
+  "tanum_0129",
+  "egypt_0017",
+  "anatolia_ppn_0261",
+  "anatolia_ppn_0072",
+  "rapa_nui_0054",
+  "assyria_0013",
+  "tanum_0128",
+  "tanum_0054",
+  "maya_0126"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "maya",
+  "tanum",
+  "tanum",
+  "egypt",
+  "rapa_nui",
+  "mississippian",
+  "tanum",
+  "anatolia_ppn"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

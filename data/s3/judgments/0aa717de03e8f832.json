@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "upright rectangular carved slab (stela/monolith)",
+  "low-relief carved surface on a vertical shaft",
+  "glyph-like blocks arranged in vertical columns",
+  "possible standing figure or figural relief on the shaft"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both are upright rectangular relief-carved shafts whose faces carry rectilinear sign-blocks arranged in paired vertical columns running the full height, a fairly specific and conventional scheme. The main difference is that A's visible face appears dominated by a figural relief with only subsidiary text panels, while B shows a purely glyphic surface with no discernible figure, and A's carving is far more worn so its forms are only partly legible.",
+ "a": "maya_0000",
+ "b": "maya_0077",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3174,
+  287
+ ]
+}

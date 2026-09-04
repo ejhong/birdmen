@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figures in profile",
+  "figures with headgear/headdress",
+  "garments rendered with vertical drapery folds",
+  "figures holding objects in hand",
+  "carved relief scene with multiple figures",
+  "hieroglyph-like/inscribed elements above or beside figures (A)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both show low-relief human figures in profile with headgear and held objects, but that is about as generic as figural relief gets. B is a regular processional file of near-identical standing bearded men in long fringed robes with weapons, evenly spaced and all facing one way, while A shows a densely packed, overlapping composition of small figures in varied poses (including reclining/kneeling ones) combined with a block of glyph-like signs, a scheme with no counterpart in B.",
+ "a": "maya_0081",
+ "b": "persepolis_0047",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  304
+ ]
+}

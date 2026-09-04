@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "quadruped animal in profile, low relief",
+  "repeated animals arranged in a horizontal row/register",
+  "schematic animal bodies with legs and head shown in side view",
+  "relief figures set against a plain undecorated ground"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both surfaces show schematic quadrupeds carved in shallow relief, shown in profile and repeated in a horizontal sequence along the stone, with the same convention of a simple raised silhouette against a plain ground and no interior detail. The clearest difference is that B organises its animals into stacked registers combined with a geometric net/zigzag panel and a large lower animal, whereas A shows a looser scatter of profile creatures without any framing bands or geometric motifs.",
+ "a": "rapa_nui_0100",
+ "b": "anatolia_ppn_0105",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  587
+ ]
+}

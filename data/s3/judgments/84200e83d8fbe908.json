@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "upright monolithic anthropomorphic form bearing low-relief carving",
+  "horizontal band of repeated elements crossing the upper part",
+  "paired/mirrored motifs symmetrically arranged at the top",
+  "circular disc or ring motif",
+  "small schematic creature-like figures in relief on the shaft"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "3",
+ "justification": "Both show a tall upright block carved in shallow relief with a symmetrical pair of motifs at the top, a horizontal band of repeated units below them, and smaller figures scattered down the shaft, which gives a comparable vertical registering. But the actual content differs sharply: B depicts recognisable animals in profile (a quadruped, birds, elongated serpentine creatures) rendered naturalistically enough to identify, while A shows abstract curvilinear forms, a plain concentric ring and a lozenge-like sign with no identifiable fauna, so the correspondence is at the level of generic layout rather than shared motifs.",
+ "a": "rapa_nui_0045",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  1250
+ ]
+}

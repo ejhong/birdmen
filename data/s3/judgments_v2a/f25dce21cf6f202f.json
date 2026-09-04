@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "large predatory animal with prominent head shown frontally/in profile",
+  "bird or bird-headed creature",
+  "small human-like figure subordinate to a larger creature",
+  "creatures stacked one above another in a vertical sequence",
+  "clawed limbs and splayed paws",
+  "schematic gaping or fanged mouth"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both surfaces present a vertically stacked hierarchy of creatures in which a large-headed predatory animal with splayed clawed limbs looms over a much smaller anthropomorphic figure, with a bird form included in the sequence, and both render bodies schematically with oversized heads and heavily emphasised limbs. The clearest difference is that A spreads its creatures as separate, loosely juxtaposed figures across a bounded panel below a horizontal register of repeated arm/hand and abstract motifs, whereas B fuses its figures into a single interlocking column in which one creature physically grips and is mounted upon the other, with no ornamental banding or repeated sign row.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0263",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2848,
+  773
+ ]
+}

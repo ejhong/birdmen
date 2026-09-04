@@ -1,0 +1,1330 @@
+{
+ "n_judgments": 1135,
+ "sets": {
+  "search_p43_gpt": 447,
+  "search_p43": 465,
+  "search_hoa": 187,
+  "target": 36
+ },
+ "null": {},
+ "null_gpt": {},
+ "same": {},
+ "poscontrol": {},
+ "target_rows": [
+  {
+   "judge": "sonnet",
+   "p43": "full_above",
+   "hoa": "back_close",
+   "order": "p43_left",
+   "score": 3,
+   "sub": 3,
+   "elements": [
+    "carved stone monolith",
+    "relief carving on flat stone surface",
+    "horizontal banding of motifs",
+    "circular/disc motif",
+    "weathered limestone-like material"
+   ],
+   "why": "Both are large upright stone slabs bearing carved relief decoration including a circular motif, but A shows a narrow rectangular stele with distinct figurative bands (birds, animals, geometric patterns) while B is a thick anthropomorphic block with abstracted body-like markings and no clear figural imagery. The overall form, proportions, and carving style differ substantially, making the resemblance largely generic (upright decorated stone) rather than compositional or stylistic.'"
+  },
+  {
+   "judge": "opus",
+   "p43": "top_only",
+   "hoa": "back_full",
+   "order": "p43_right",
+   "score": 6,
+   "sub": 6,
+   "elements": [
+    "upright rectangular stone slab/pillar carved in low relief",
+    "top register of three repeated arch- or U-shaped enclosures containing paired elements",
+    "horizontal band/register divider running the full width",
+    "band of short vertical strokes (fringe or comb-like hatching)",
+    "rounded oval/circular bosses or disc motifs",
+    "small figural motifs arranged in a lower register"
+   ],
+   "why": "The most specific correspondence is the shared compositional scheme: a row of three repeated arch/U-shaped enclosures across the top, closed off by a horizontal band with a fringe of short vertical strokes, above a register of smaller rounded or figural motifs, all executed in shallow, flat-planed relief on tan stone. The biggest difference is that A's lower zone is dominated by large abstract ovals and a concentric disc on what reads as a body-like, tapering monolith, whereas B's lower register carries recognisable profile creatures on a flat rectangular slab, and A's surface is far more weathered and rounded than B's crisp edges."
+  },
+  {
+   "judge": "opus",
+   "p43": "full",
+   "hoa": "back_full",
+   "order": "p43_right",
+   "score": 5,
+   "sub": 5,
+   "elements": [
+    "large upright freestanding stone monolith carved in low relief",
+    "broader upper block over a narrower lower shaft",
+    "relief organised in stacked horizontal registers",
+    "horizontal band of repeated short vertical strokes / row of similar motifs at the top",
+    "circle or disc motif",
+    "animals/creatures rendered in profile",
+    "elongated sinuous forms running down the shaft",
+    "raised outlined bands framing zones of the surface"
+   ],
+   "why": "Both are tall monolithic slabs whose relief is organised into a broad upper zone containing a row of repeated motifs, separated by a horizontal banded divider from a lower shaft bearing larger isolated figures and a disc, which is a fairly specific shared compositional scheme. The rendering differs strongly, however: A is a dark, heavily weathered stone with soft, rounded, largely abstract swellings and no clearly legible animals, while B is pale, crisply cut and populated by recognisable profile creatures, so the resemblance is structural rather than stylistic."
+  },
+  {
+   "judge": "sonnet",
+   "p43": "full",
+   "hoa": "back_close",
+   "order": "p43_left",
+   "score": 2,
+   "sub": 3,
+   "elements": [
+    "carved stone slab/monolith",
+    "relief-style low carving",
+    "use of a T-shaped or pillar-like stone form"
+   ],
+   "why": "Both are large carved stone monoliths with some low-relief surface treatment, but A shows figurative animal reliefs (birds, quadrupeds) arranged in horizontal registers while B shows an abstract, rounded anthropomorphic form with minimal linear markings. The biggest difference is the subject matter and carving depth\u2014A is narrative/figurative relief on a flat pillar, B is a fully three-dimensional sculpted human-like figure with only faint incised bands."
+  },
+  {
+   "judge": "gpt",
+   "p43": "full",
+   "hoa": "back_full",
+   "order": "p43_left",
+   "score": 4,
+   "sub": 4,
+   "elements": [
+    "circle or disc",
+    "paired eye-like or circular motifs",
+    "horizontal or arcing band filled with repeated short strokes",
+    "abstract/front-facing human or face-like form"
+   ],
+   "why": "The strongest correspondence is the use of carved circular motifs and patterned bands on upright stone surfaces, with some frontal face- or body-like organization. The biggest difference is that A is a flatter, register-like composition with multiple small figures and profile animals, while B is dominated by one large symmetrical anthropomorphic form with fewer, heavier motifs."
+  },
+  {
+   "judge": "opus",
+   "p43": "full_above",
+   "hoa": "back_full",
+   "order": "p43_right",
+   "score": 5,
+   "sub": 6,
+   "elements": [
+    "large upright freestanding carved stone monolith",
+    "shallow low-relief carving on the broad face",
+    "a distinct upper zone/block with a row of repeated small motifs along the top edge",
+    "horizontal dividing band or register separating upper from lower field",
+    "curved arm-like or crescentic bands descending on the body",
+    "chevron / zigzag hatched motif",
+    "small schematic animal or figural forms in relief",
+    "rounded circular or loop element within the main field"
+   ],
+   "why": "Both are tall upright stone blocks whose broad face is organised the same way: a wide upper zone carrying a row of repeated small motifs, a horizontal dividing band beneath it, then a large field with schematic creatures, curved arm-like bands and chevron hatching running down the shaft. The clearest difference is the handling and stone: A is dark, heavily weathered and modelled in plump rounded volumes with prominent discs and a sculpted head-like cap, whereas B is pale, flat-faced and cut in crisp thin linear relief with an explicit T-shaped projecting top, so a common hand or workshop is not credible."
+  },
+  {
+   "judge": "opus",
+   "p43": "top_only",
+   "hoa": "back_close",
+   "order": "p43_right",
+   "score": 3,
+   "sub": 3,
+   "elements": [
+    "low-relief carving on weathered stone",
+    "horizontal register or band dividing the composition",
+    "band of repeated short parallel/zigzag incisions",
+    "circular disc motif",
+    "schematic animal/creature figures",
+    "arched or curved paired forms"
+   ],
+   "why": "Both are shallow, schematic relief carvings on coarse stone organised into stacked horizontal registers, and both include a band of repeated short vertical/zigzag strokes plus an isolated circular disc among creature-like forms. However, A is a massive three-dimensional anthropomorphic statue whose reliefs wrap a modelled body (head, arms, belt), while B is a flat rectangular slab with a friezelike arrangement of arches and animals, so the carving logic, scale relations and subject placement do not correspond beyond generic register-and-band structure."
+  },
+  {
+   "judge": "sonnet",
+   "p43": "top_only",
+   "hoa": "back_close",
+   "order": "p43_right",
+   "score": 2,
+   "sub": 2,
+   "elements": [
+    "circle or disc",
+    "carved relief on stone surface"
+   ],
+   "why": "Both are carved stone surfaces featuring a circular/disc motif, but that is the extent of the correspondence. Image A is a freestanding anthropomorphic monolith with a full figural composition (head, arms, belt, disc as belly ornament), while Image B is a low-relief panel showing a row of arched shapes over a band of hatched pattern and small animal-like figures, with no overall figural or bodily arrangement comparable to A."
+  },
+  {
+   "judge": "sonnet",
+   "p43": "top_only",
+   "hoa": "back_full",
+   "order": "p43_right",
+   "score": 2,
+   "sub": 3,
+   "elements": [
+    "carved stone surface",
+    "relief carving technique",
+    "arched or curved motifs near top"
+   ],
+   "why": "Both are carved stone reliefs with some curved/arched motifs, but A shows a single anthropomorphic monolithic figure with vertical composition (head, arms, torso) while B shows a flat slab with horizontal registers of arch shapes above small figures in a narrative or symbolic scene. The overall form, scale, and organizing logic (single humanoid figure vs. layered pictorial panel) are fundamentally different, so similarity is minimal beyond both being carved stone with some rounded motifs.'"
+  },
+  {
+   "judge": "gpt",
+   "p43": "top_only",
+   "hoa": "back_full",
+   "order": "p43_right",
+   "score": 3,
+   "sub": 3,
+   "elements": [
+    "schematic human or anthropomorphic form",
+    "circle or disc-like motif",
+    "horizontal band of repeated/linear pattern",
+    "incised linear decoration on stone"
+   ],
+   "why": "The clearest correspondences are the use of rough stone carving, schematic anthropomorphic imagery, circular forms, and a horizontal patterned band dividing or emphasizing part of the decorated surface. The biggest difference is that A is dominated by a single upright body-like figure with rounded sculptural volume, while B is a flat rectangular panel organized into separate registers with multiple small motifs."
+  },
+  {
+   "judge": "gpt",
+   "p43": "full",
+   "hoa": "back_close",
+   "order": "p43_right",
+   "score": 3,
+   "sub": 3,
+   "elements": [
+    "anthropomorphic or human-like upright form/body reference",
+    "circle or disc-like motif",
+    "horizontal or curving band dividing the surface",
+    "incised/low-relief linear decoration on stone"
+   ],
+   "why": "The most specific correspondence is that both are upright stone surfaces with carved relief decoration including a human/body reference and at least one circular or band-like motif. The biggest difference is compositional: A is dominated by a single centered anthropomorphic figure with sparse, symmetrical markings, while B is a flat, register-like surface crowded with small animal/linear motifs and horizontal divisions."
+  },
+  {
+   "judge": "sonnet",
+   "p43": "top_only",
+   "hoa": "back_full",
+   "order": "p43_left",
+   "score": 2,
+   "sub": 3,
+   "elements": [
+    "carved stone relief",
+    "curved arch-like motifs (top of A / head area of B)",
+    "circular disc motif"
+   ],
+   "why": "Both are carved stone surfaces with some rounded/arched motifs and a circular element, but A is a flat horizontal slab with a row of arches over small figures (birds, animals) while B is a freestanding anthropomorphic stele with a head, facial features, and a chest disc. The overall composition, scale, and subject matter (narrative frieze vs. single humanoid figure) differ substantially, so the resemblance is superficial and limited to generic curved and circular shapes."
+  },
+  {
+   "judge": "opus",
+   "p43": "full",
+   "hoa": "back_full",
+   "order": "p43_left",
+   "score": 4,
+   "sub": 5,
+   "elements": [
+    "upright monolithic stone slab/pillar carved in low relief",
+    "central circular disc motif on the broad face",
+    "paired symmetrical curved/arched elements above the disc",
+    "horizontal band or belt-like register crossing the body",
+    "narrower upper block with its own set of vertical motifs",
+    "register-based vertical stacking of motifs"
+   ],
+   "why": "Both are tall monoliths worked in shallow relief with a comparable vertical scheme: a narrower upper block carrying its own motifs, then a broad face where paired symmetrical curved elements sit above a prominent central disc, with a horizontal band or belt below. The decisive difference is content and handling: A's relief is crisply linear and unmistakably zoomorphic (profile quadrupeds, long-necked birds, a zigzag frieze), while B's motifs are broad, rounded and largely abstract/anthropomorphic on a dark, coarse stone, so no shared hand or repertoire can be argued."
+  },
+  {
+   "judge": "gpt",
+   "p43": "full",
+   "hoa": "back_close",
+   "order": "p43_left",
+   "score": 3,
+   "sub": 3,
+   "elements": [
+    "low-relief/incised carving on a stone surface",
+    "animal-like curvilinear figures",
+    "circle or oval motif",
+    "horizontal or belt-like band/border"
+   ],
+   "why": "The most specific correspondence is that both have shallow carved motifs on a vertical stone form, including a small round/oval sign and animal-like curved forms near a band. The biggest difference is compositional: A is a flat, register-like surface crowded with many profile figures and patterned bands, while B is a rounded anthropomorphic monolith with a centralized, more symmetrical torso design."
+  },
+  {
+   "judge": "gpt",
+   "p43": "full_above",
+   "hoa": "back_close",
+   "order": "p43_left",
+   "score": 4,
+   "sub": 4,
+   "elements": [
+    "circle or disc",
+    "horizontal or curving band of pattern",
+    "small incised/relief animal-like motifs"
+   ],
+   "why": "The most specific visible correspondence is the use of a prominent circular motif set among shallow carved linear decoration on an upright stone surface. The biggest difference is compositional: A is a flat, register-like decorated face with many small motifs, while B is a rounded anthropomorphic stone form whose decoration is organized around a body-like torso and belt."
+  },
+  {
+   "judge": "sonnet",
+   "p43": "full_above",
+   "hoa": "back_full",
+   "order": "p43_right",
+   "score": 2,
+   "sub": 3,
+   "elements": [
+    "carved stone monolith",
+    "relief carving on upright stone slab",
+    "circular/disc motif"
+   ],
+   "why": "Both are large upright carved stone monuments with relief decoration and a circular motif somewhere on the surface, but that is where the resemblance ends. A is a rounded, anthropomorphic figure with facial features and a smooth sculpted body, while B is a flat, rectangular slab with abstract geometric and animal-like incised patterns arranged in horizontal registers, giving a very different overall gestalt and carving technique."
+  },
+  {
+   "judge": "opus",
+   "p43": "top_only",
+   "hoa": "back_full",
+   "order": "p43_left",
+   "score": 4,
+   "sub": 5,
+   "elements": [
+    "low-relief carving on undressed/rough stone",
+    "circle or disc motif",
+    "ring-shaped element(s) paired symmetrically",
+    "bird-like creature in profile",
+    "row of repeated curved/arched forms along the top",
+    "horizontal banding dividing the field into registers",
+    "abstract curvilinear/geometric motifs without background filling"
+   ],
+   "why": "Both surfaces organise shallow, flat-toned relief into stacked registers, with a top row of repeated curved forms above a horizontal division and paired ring/disc motifs and bird-like profile creatures below, which is a reasonably specific correspondence. The decisive difference is the carrier and overall impression: A is a broad rectangular panel with crisp, incised, narrative-looking figures (including a clear snake and net-like band), whereas B is a weathered, three-dimensional standing monolith whose motifs are soft, bulging and largely abstract, so the wholes read as entirely different objects."
+  },
+  {
+   "judge": "sonnet",
+   "p43": "full_above",
+   "hoa": "back_close",
+   "order": "p43_right",
+   "score": 3,
+   "sub": 3,
+   "elements": [
+    "carved stone monolith",
+    "horizontal band of pattern",
+    "circular/disc motif",
+    "relief carving on upright slab"
+   ],
+   "why": "Both are upright carved stone slabs bearing registers of relief decoration including a circular motif, but A is a rounded anthropomorphic figure with head, body and stylized limbs while B is a flat rectangular stela with arch-like top elements and animal/figural low relief in a very different compositional scheme. The manner of carving\u2014deep rounded modeling versus shallow linear relief\u2014also differs markedly, limiting the resemblance to a generic 'carved standing stone' impression."
+  },
+  {
+   "judge": "opus",
+   "p43": "full_above",
+   "hoa": "back_full",
+   "order": "p43_left",
+   "score": 4,
+   "sub": 5,
+   "elements": [
+    "upright monolithic stone slab with carved low relief",
+    "row of repeated arch / inverted-U (loop-like) motifs across the upper zone",
+    "circular disc or ring motif",
+    "crescent / curved arc bands",
+    "horizontal dividing band separating registers",
+    "paired symmetrical elements flanking a central axis"
+   ],
+   "why": "Both are tall upright carved stone blocks whose ornament is organised in horizontal registers, with a row of repeated arch/loop forms near the top, a dividing band beneath, and disc or ring motifs lower down on the broad face \u2014 a genuinely comparable compositional skeleton. The rendering, however, differs sharply: A uses shallow, crisp, largely figural relief (birds, quadrupeds, an anthropomorphic figure, a snake-like form) on pale fine-grained stone, whereas B is bold, rounded, wholly abstract/geometric relief on dark coarse stone shaped into a head-and-shoulders body, so no figural subject is actually shared."
+  },
+  {
+   "judge": "opus",
+   "p43": "full",
+   "hoa": "back_close",
+   "order": "p43_right",
+   "score": 5,
+   "sub": 5,
+   "elements": [
+    "massive monolithic stone block carved in low relief",
+    "broad upper section (head/top) set over a narrower body",
+    "circular disc or ring motif on the body",
+    "horizontal band/belt crossing the mid-body",
+    "carved arms/limbs converging toward the front centre",
+    "animal or creature figures rendered in shallow relief"
+   ],
+   "why": "Both are monumental upright stone blocks with a wider top section over a narrower body, and both carry a prominent circular disc or ring plus a horizontal banded belt crossing the mid-body, with limbs in shallow relief converging toward the front centre. The rendering differs markedly, however: A is a rounded, volumetric sculpture whose relief is soft, worn and integrated into a three-dimensional figure, while B is a flat-faced slab bearing crisp, linear, register-like relief of distinct animal figures, so the resemblance is largely structural rather than stylistic."
+  },
+  {
+   "judge": "gpt",
+   "p43": "full",
+   "hoa": "back_full",
+   "order": "p43_right",
+   "score": 2,
+   "sub": 3,
+   "elements": [
+    "circle or disc motif",
+    "horizontal band or register of carving",
+    "abstract incised/relief linear patterning"
+   ],
+   "why": "The clearest specific correspondence is the use of shallow carved linear motifs on stone, including circular marks and horizontal bands/registers. The biggest difference is that A is a rounded, anthropomorphic monolith with sparse, weathered, mostly abstract decoration, while B is a flat architectural-looking surface densely filled with small figural reliefs arranged in registers."
+  },
+  {
+   "judge": "gpt",
+   "p43": "full_above",
+   "hoa": "back_full",
+   "order": "p43_right",
+   "score": 3,
+   "sub": 3,
+   "elements": [
+    "upright carved stone surface",
+    "circle or oval/disc forms",
+    "horizontal band(s) of linear pattern",
+    "shallow incised or low-relief decoration"
+   ],
+   "why": "The most specific correspondence is that both are tall upright stone surfaces with shallow carved decoration including circular/oval forms and horizontal linear bands across the surface. The biggest difference is compositional: A reads as a frontal anthropomorphic body with centrally organized features, while B is a T-shaped slab covered with multiple separate animal-like figures and register-like divisions."
+  },
+  {
+   "judge": "gpt",
+   "p43": "full_above",
+   "hoa": "back_close",
+   "order": "p43_right",
+   "score": 3,
+   "sub": 3,
+   "elements": [
+    "circle or disc",
+    "horizontal band or belt-like patterned register",
+    "curvilinear relief/incised motifs on an upright stone surface"
+   ],
+   "why": "The most specific correspondence is a round disc-like motif placed around the central body of the decorated surface, with some horizontal banding nearby. The biggest difference is that A reads as a rounded anthropomorphic monolith with sparse, broad curving motifs, while B is a flat-sided slab organized into dense horizontal registers of small animal-like reliefs."
+  },
+  {
+   "judge": "sonnet",
+   "p43": "full_above",
+   "hoa": "back_full",
+   "order": "p43_left",
+   "score": 2,
+   "sub": 3,
+   "elements": [
+    "carved stone monolith/stele form",
+    "relief carving technique",
+    "some horizontal banding of design",
+    "upright standing format"
+   ],
+   "why": "Both are upright carved stone monoliths with relief decoration organized in horizontal registers, but the specific motifs differ entirely: A shows arched/scalloped shapes, geometric zigzags, and animal-like figures, while B shows an anthropomorphic head/face with simplified facial features and a stylized band across the torso. The overall gestalt is quite different\u2014A reads as a flat slab with varied narrative-like carving, while B reads as a rounded humanoid figure with a single dominant face, so beyond the shared 'carved stone stele' category there is little specific correspondence."
+  },
+  {
+   "judge": "sonnet",
+   "p43": "full",
+   "hoa": "back_full",
+   "order": "p43_left",
+   "score": 3,
+   "sub": 3,
+   "elements": [
+    "carved stone slab/monolith",
+    "horizontal registers of relief carving",
+    "animal figure in profile (bird-like form)",
+    "curvilinear/organic incised patterns"
+   ],
+   "why": "Both are carved standing stones with tiered relief decoration and include a bird-like profile figure, but A shows narrative registers with multiple distinct animals and geometric bands on a flat slab, while B is a rounded anthropomorphic monolith with abstract facial/body motifs. The overall carving style, subject emphasis, and three-dimensional form differ substantially, making the resemblance largely coincidental (stone monument with figural relief) rather than compositional."
+  },
+  {
+   "judge": "opus",
+   "p43": "full",
+   "hoa": "back_close",
+   "order": "p43_left",
+   "score": 5,
+   "sub": 6,
+   "elements": [
+    "low-relief carving on a large upright stone monolith",
+    "animal or creature figures in profile",
+    "circular/disc motif on the body",
+    "horizontal band or belt-like division across the surface",
+    "stylised paired forms flanking a central axis near the top",
+    "incised linear detailing"
+   ],
+   "why": "Both are large upright monoliths carved in shallow relief with a vertically stacked scheme: a decorated upper zone with paired flanking motifs, a horizontal band or belt crossing the middle, and a prominent circular disc set on the axis below animal-like figures. The biggest difference is that A is a flat-faced slab with crisply outlined, clearly readable creatures (quadrupeds, birds, a snake-like form) on a plane, while B is a rounded, three-dimensional body-shaped block whose worn, low-contrast motifs read as ornament on a sculpted form rather than a pictorial panel."
+  },
+  {
+   "judge": "sonnet",
+   "p43": "top_only",
+   "hoa": "back_close",
+   "order": "p43_left",
+   "score": 2,
+   "sub": 2,
+   "elements": [
+    "carved stone relief",
+    "animal figure in profile"
+   ],
+   "why": "Both are carved stone surfaces from an early period featuring animal imagery in low relief, but A is a flat slab with a horizontal narrative frieze of arched forms and animals while B is a freestanding anthropomorphic pillar/statue with abstract body markings. The compositional logic, medium format (relief panel vs. sculpted figure), and iconographic focus (narrative animal scene vs. schematic human form) are fundamentally different."
+  },
+  {
+   "judge": "opus",
+   "p43": "full_above",
+   "hoa": "back_close",
+   "order": "p43_right",
+   "score": 4,
+   "sub": 5,
+   "elements": [
+    "large standing stone monolith carved in shallow low relief",
+    "horizontal band/register dividing the surface",
+    "zigzag or chevron patterning",
+    "circle or disc motif",
+    "small animal/bird-like figures in profile relief",
+    "suggestion of an anthropomorphic body (arms/limbs indicated in flat relief)"
+   ],
+   "why": "Both are monumental slab-like stones whose faces are organised into stacked zones by a horizontal band, with shallow, flat, low-relief motifs including discs, zigzag bands and small creature figures, and both read as loosely anthropomorphic bodies with limbs rendered as relief lines. The decisive difference is the composition: A is a fully modelled figure with a sculpted head, encircling arms and a belt built around a single central disc, whereas B is a plain rectangular pillar carrying multiple small repeated animal-like reliefs in registers with no carved head or bodily volume."
+  },
+  {
+   "judge": "sonnet",
+   "p43": "full",
+   "hoa": "back_full",
+   "order": "p43_right",
+   "score": 2,
+   "sub": 2,
+   "elements": [
+    "carved stone surface",
+    "relief carving technique",
+    "some circular or curved motifs"
+   ],
+   "why": "Both are carved stone works with relief decoration, but A is a monolithic anthropomorphic statue with a rounded, sculptural body while B is a flat slab covered in dense low-relief figurative scenes including animals and human-like figures. The compositional logic differs entirely: A emphasizes a single carved figure's form, whereas B presents a narrative or symbolic panel with multiple discrete motifs arranged in registers."
+  },
+  {
+   "judge": "sonnet",
+   "p43": "full",
+   "hoa": "back_close",
+   "order": "p43_right",
+   "score": 2,
+   "sub": 3,
+   "elements": [
+    "horizontal band of pattern",
+    "carved stone monolith surface"
+   ],
+   "why": "Both are carved standing stone slabs with a horizontal decorative band, but A shows abstract anthropomorphic motifs (circles, arms) on a rounded monolith while B shows figurative animal and human forms (birds, quadrupeds) in low relief on a flat stele. The rendering style, subject matter, and overall composition differ substantially, with only the generic notion of a decorated stone surface in common.'"
+  },
+  {
+   "judge": "opus",
+   "p43": "full_above",
+   "hoa": "back_close",
+   "order": "p43_left",
+   "score": 5,
+   "sub": 5,
+   "elements": [
+    "monumental upright stone monolith carved in low relief",
+    "anthropomorphic body schema (head/upper zone, torso, lower garment)",
+    "circle or disc motif on the chest/torso",
+    "horizontal band or belt encircling the body",
+    "arms/limbs rendered in shallow relief against the block",
+    "repeated small rectangular/loop motifs in a row along an upper band",
+    "broad plain lower zone read as a skirt or loincloth"
+   ],
+   "why": "Both are large anthropomorphic stone monoliths organised into the same vertical scheme: a headed upper zone, a row of small repeated motifs, arms in shallow relief flanking a prominent disc on the torso, a horizontal belt-like band, and a plain skirt below \u2014 a fairly specific shared compositional logic. They differ sharply in execution and mass: A is a thin, flat-faced slab with crisp, linear, almost graphic carving including clearly identifiable animals in profile, while B is a bulky, rounded, three-dimensional block whose motifs are soft, eroded and largely non-figural."
+  },
+  {
+   "judge": "gpt",
+   "p43": "top_only",
+   "hoa": "back_close",
+   "order": "p43_right",
+   "score": 4,
+   "sub": 4,
+   "elements": [
+    "circle or disc motif",
+    "horizontal band or divider with repeated short strokes",
+    "incised/low-relief linear decoration on stone"
+   ],
+   "why": "The strongest specific correspondence is the use of rough stone carving with circular motifs and a horizontal patterned band dividing parts of the decorated surface. The biggest difference is that A is a single three-dimensional anthropomorphic figure dominated by body-like form and symmetry, while B is a flat rectangular panel with multiple compartmentalized motifs and small figure-like or animal-like shapes arranged in registers."
+  },
+  {
+   "judge": "gpt",
+   "p43": "full_above",
+   "hoa": "back_full",
+   "order": "p43_left",
+   "score": 4,
+   "sub": 4,
+   "elements": [
+    "circle or disc",
+    "horizontal or parallel bands of pattern",
+    "rows of short linear/incised marks",
+    "abstract carved signs on an upright stone surface"
+   ],
+   "why": "The most specific correspondence is an upright stone surface carrying schematic carved motifs with a circular element in the central area and horizontal/parallel banding below or nearby. The biggest difference is that A is organized as a flatter, rectilinear, register-like relief with multiple small animal/abstract forms, while B reads as a single dark anthropomorphic monolith with symmetrical body-like features and fewer, larger incised motifs."
+  },
+  {
+   "judge": "opus",
+   "p43": "top_only",
+   "hoa": "back_close",
+   "order": "p43_left",
+   "score": 3,
+   "sub": 3,
+   "elements": [
+    "shallow low-relief carving on coarse tan/buff stone",
+    "large monolithic block or pillar",
+    "circle/disc motif",
+    "horizontal band or belt dividing the surface",
+    "row of repeated arch-like/rectangular units in the upper zone",
+    "curving linear motifs incised into the surface"
+   ],
+   "why": "Both are monolithic blocks of pale, coarse stone whose surfaces are organised into stacked horizontal registers, with a repeated row of arch-like elements above, a banding line across the middle, and a prominent circular disc below \u2014 that register logic is the most specific correspondence. But A is a flat, crisply cut slab carrying an animal repertoire (birds in profile, a snake, a zigzag frieze) with no figural body, whereas B is a fully three-dimensional anthropomorphic figure with head, shoulders and arms, its motifs worn and much softer in cut, so the two read as entirely different objects."
+  },
+  {
+   "judge": "gpt",
+   "p43": "top_only",
+   "hoa": "back_full",
+   "order": "p43_left",
+   "score": 3,
+   "sub": 3,
+   "elements": [
+    "circle or disc",
+    "horizontal or curved band of pattern",
+    "short repeated vertical incised strokes",
+    "rounded/oval relief forms"
+   ],
+   "why": "The clearest correspondence is the use of carved circular/oval motifs together with bands of repeated linear marks, especially a patterned horizontal zone on A and curved banding with vertical strokes on B. The biggest difference is that A is a crowded, horizontal panel of multiple small motifs, while B is a tall freestanding, largely symmetrical anthropomorphic-looking form dominated by one central figure-like composition."
+  },
+  {
+   "judge": "gpt",
+   "p43": "top_only",
+   "hoa": "back_close",
+   "order": "p43_left",
+   "score": 3,
+   "sub": 3,
+   "elements": [
+    "circle or disc",
+    "schematic carved lines on stone",
+    "anthropomorphic or face-like forms"
+   ],
+   "why": "The most specific correspondence is the use of schematic carved motifs on stone, including circular/disc-like forms and possible anthropomorphic or face-like shapes. The biggest difference is compositional: A is a flat rectangular panel densely divided into registers with repeated motifs, while B is a freestanding rounded human-like stone form with sparse decoration arranged on a body."
+  }
+ ],
+ "target": {
+  "all": {
+   "n": 36,
+   "mean": 3.3055555555555554,
+   "min": 2,
+   "max": 6
+  },
+  "full_pillar": {
+   "n": 24,
+   "mean": 3.4166666666666665,
+   "min": 2,
+   "max": 5
+  },
+  "top_only": {
+   "n": 12,
+   "mean": 3.0833333333333335,
+   "min": 2,
+   "max": 6
+  },
+  "by_judge": {
+   "opus": {
+    "n": 8,
+    "mean": 4.625,
+    "min": 4,
+    "max": 5
+   },
+   "sonnet": {
+    "n": 8,
+    "mean": 2.375,
+    "min": 2,
+    "max": 3
+   },
+   "gpt": {
+    "n": 8,
+    "mean": 3.25,
+    "min": 2,
+    "max": 4
+   }
+  },
+  "by_pair": {
+   "full|back_full": {
+    "n": 6,
+    "mean": 3.3333333333333335,
+    "min": 2,
+    "max": 5
+   },
+   "full|back_close": {
+    "n": 6,
+    "mean": 3.3333333333333335,
+    "min": 2,
+    "max": 5
+   },
+   "full_above|back_full": {
+    "n": 6,
+    "mean": 3.3333333333333335,
+    "min": 2,
+    "max": 5
+   },
+   "full_above|back_close": {
+    "n": 6,
+    "mean": 3.6666666666666665,
+    "min": 3,
+    "max": 5
+   },
+   "top_only|back_full": {
+    "n": 6,
+    "mean": 3.3333333333333335,
+    "min": 2,
+    "max": 6
+   },
+   "top_only|back_close": {
+    "n": 6,
+    "mean": 2.8333333333333335,
+    "min": 2,
+    "max": 4
+   }
+  }
+ },
+ "search_p43": {
+  "n": 465,
+  "top": [
+   {
+    "id": "anatolia_ppn_0004",
+    "group": "anatolia_ppn",
+    "score": 9,
+    "sub": 9,
+    "elements": [
+     "row of three arched or loop-shaped elements along the top edge",
+     "horizontal band filled with zigzag/triangle (chevron) pattern",
+     "quadruped animal in profile with open jaws facing left",
+     "small circle or disc held between figures",
+     "crouching/seated figure with raised arm",
+     "elongated reptile or lizard-like creature in profile",
+     "large bird-like head with long beak at lower left",
+     "herringbone/feathered lozenge motif in lower register",
+     "narrower shaft-like lower portion below a wider upper slab"
+    ],
+    "why": "Every motif in A recurs in B in the same register order and the same relative position \u2014 the three arches over a chevron band, the left-facing open-jawed quadruped with the disc and crouching figure beside it, and the long-beaked head over the herringbone lozenge on the narrower lower shaft \u2014 a correspondence far too specific to be coincidental. The only real differences are conditions of presentation and surface: A is a lighter, sunlit block seen in situ among rubble, while B is a darker, mottled, more granular surface isolated on a plain ground with slightly different broken edges along the lower right."
+   },
+   {
+    "id": "anatolia_ppn_0106",
+    "group": "anatolia_ppn",
+    "score": 9,
+    "sub": 9,
+    "elements": [
+     "low-relief carved stone in excavation context",
+     "upper register of repeated arch/loop (U-shaped) motifs",
+     "small animals perched above the arches",
+     "horizontal dividing band filled with hatched/fringed pattern",
+     "row of quadruped animals in profile below the band",
+     "snake or elongated sinuous creature",
+     "bird-like figure in profile",
+     "disc/oval object held or placed near an animal"
+    ],
+    "why": "Both surfaces carry the identical register scheme: a top row of repeated arch/loop motifs with small animals above them, a horizontal band filled with a hatched fringe running the full width, and beneath it profile quadrupeds accompanied by a sinuous snake-like form and disc-shaped objects, all in the same shallow, rounded low relief on the same buff stone. The chief difference is format and preservation \u2014 A is a detached rectangular block photographed whole, while B is the head of an upright pillar continuing downward with additional bird and plant-like carvings \u2014 but the shared, quite specific compositional formula outweighs this."
+   },
+   {
+    "id": "anatolia_ppn_0272",
+    "group": "anatolia_ppn",
+    "score": 9,
+    "sub": 9,
+    "elements": [
+     "upright rectangular carved slab/pillar with rounded top edge",
+     "row of arch- or loop-shaped motifs in an upper register",
+     "horizontal band separating registers",
+     "row of small bird-like figures in profile below the band",
+     "zigzag / net-like incised pattern",
+     "low-relief carving on pale stone",
+     "surrounding rubble and excavated earth",
+     "adjacent plain block in the foreground"
+    ],
+    "why": "Both show a tall pale slab bearing the same sequence from top down \ta row of three arch/loop motifs, a horizontal dividing band, then a register of profile bird-like figures over a zigzag/net field \tset amid identical-looking excavation rubble with a plain block intruding at the lower foreground. The only real difference is viewpoint and framing: A is a raking close-up that resolves the disc, snake-like form and handled object, while B is a more distant, foreshortened view showing the whole shaft and its base, so the lower motifs are barely legible."
+   },
+   {
+    "id": "anatolia_ppn_0045",
+    "group": "anatolia_ppn",
+    "score": 9,
+    "sub": 9,
+    "elements": [
+     "row of three arched/hoop shapes along the upper register",
+     "small rectangular panels beneath the arches",
+     "horizontal band of zigzag/chevron (triangular teeth) pattern dividing the field",
+     "quadruped or crouching animals in profile in the lower register",
+     "circular disc/ball element",
+     "elongated curved handled object (crook- or bag-like) held near a figure",
+     "large rectangular slab with rounded upper corners set in rubble",
+     "loose rubble and blocks in the surrounding excavation context"
+    ],
+    "why": "The two images share not just generic motifs but the identical sequence \u2014 three arcs over small rectangles at the top, a zigzag band across the middle, then profile animals flanking a disc and a curved handled object \u2014 in the same relative positions and proportions on a similarly shaped slab, which strongly suggests the same carved surface recorded twice. The only meaningful differences are photographic: B is taken from further left with harder raking light and greener foreground vegetation, so the relief reads more crisply and slightly different portions of the lower edge are obscured by adjacent blocks."
+   },
+   {
+    "id": "anatolia_ppn_0105",
+    "group": "anatolia_ppn",
+    "score": 9,
+    "sub": 9,
+    "elements": [
+     "T-shaped/rectangular carved stone block on a vertical shaft",
+     "upper register of repeated arched or looped motifs with small animals above them",
+     "horizontal band of dense zigzag/net-like patterning acting as a divider",
+     "row of quadrupeds in profile walking in a single direction",
+     "long-necked bird in profile on the lower shaft",
+     "serpentine/elongated forms in low relief",
+     "shallow, flat-cut low relief on rough weathered stone",
+     "excavation context with surrounding rubble stones and earth"
+    ],
+    "why": "Both stones repeat an unusually specific compositional scheme: a broad rectangular head bearing an upper strip of repeated arch-like motifs surmounted by small animals, a horizontal zigzag/net band beneath it, then a register of profile quadrupeds, with a long-necked bird and snake-like forms carved on the narrower shaft below. The main differences are the viewing angle (A upright and frontal, B tilted and foreshortened) and the greater crispness and detail of A's carving compared with B's flatter, more eroded surface, but the shared motif inventory, order and shallow flat relief technique point to the same workshop tradition."
+   },
+   {
+    "id": "anatolia_ppn_0095",
+    "group": "anatolia_ppn",
+    "score": 9,
+    "sub": 9,
+    "elements": [
+     "row of three arch/loop-shaped ('handbag'-like) objects along the upper edge, each surmounted by a small quadruped",
+     "horizontal band of dense hatched/comb-like pattern dividing the upper zone",
+     "large bird in profile with outstretched wing",
+     "circle or disc held/placed near the bird's wing",
+     "small human-like figure in low relief",
+     "snake or sinuous serpentine forms in the lower field",
+     "additional birds with long necks in the lowest register",
+     "rectangular slab with rounded upper corners set upright in a stone-walled setting",
+     "neighbouring T-shaped/rectangular stone element at the left edge"
+    ],
+    "why": "Both slabs carry the identical sequence from top down: three arched loop-objects each topped by a quadruped, a hatched horizontal band, a large profile bird with a disc beside its wing plus a small human figure, then serpentine forms and long-necked birds below \u2014 a correspondence far too specific to be coincidence, and both stand in comparable rubble-walled excavation contexts. The only real differences are photographic: A is a close, sunlit frontal view emphasising the carving's relief and warm colour, while B is a raking overhead shot in flat light that flattens the same reliefs and includes more surrounding stonework."
+   },
+   {
+    "id": "anatolia_ppn_0272",
+    "group": "anatolia_ppn",
+    "score": 8,
+    "sub": 9,
+    "elements": [
+     "row of three arched/loop-shaped motifs along the upper register",
+     "small animal figures perched on or above the arched motifs",
+     "horizontal band with vertical hatching / fringe-like strokes running across the surface",
+     "bird-like creature in profile with long neck and beak",
+     "serpentine/snake-like sinuous form",
+     "circular disc held or placed beside a figure",
+     "low-relief carving on a flat rectangular stone face"
+    ],
+    "why": "Both surfaces repeat a very specific compositional scheme: three arched, bag-like motifs in a row across the top, each with a small animal above, a hatched/fringed horizontal band immediately beneath them, and profile bird- and snake-like creatures with a disc in the register below \u2014 the shallow, flat-planed relief with incised contour lines looks like the same carving manner. The main differences are that B is an isolated, more heavily pitted slab that continues into a further lower register with a large winged/quadruped figure, while A is shown in situ and abraded, with its lower animals arranged and detailed somewhat differently."
+   },
+   {
+    "id": "anatolia_ppn_0045",
+    "group": "anatolia_ppn",
+    "score": 8,
+    "sub": 9,
+    "elements": [
+     "horizontal register bands dividing the surface",
+     "row of arch- or loop-shaped motifs along the top edge",
+     "band of repeated zigzag / triangle chevron ornament",
+     "quadruped animals in profile low relief",
+     "circle or disc motif",
+     "bird-like creature in profile",
+     "weathered pale limestone slab with rounded upper edge, shown in situ in an excavation"
+    ],
+    "why": "Both slabs use the identical tripartite scheme: a top row of arch/handle-shaped motifs, a horizontal band of zigzag-triangle ornament immediately below, and beneath it profile animals accompanied by a disc, all in the same shallow, flat-relief, hard-edged carving on pale weathered stone. The main differences are that B is a taller pillar continuing into a second lower field with a large bird and vertical elements, and its figures are somewhat crisper and more legible than A's shallower, more eroded and compressed panel."
+   },
+   {
+    "id": "anatolia_ppn_0107",
+    "group": "anatolia_ppn",
+    "score": 7,
+    "sub": 7,
+    "elements": [
+     "low-relief carving on pale stone pillar/monolith",
+     "quadruped animal in profile (fox/canid-like with tail)",
+     "horizontal register or band running across the top block",
+     "serpentine/zigzag linear motifs (snake-like)",
+     "row of repeated animal figures along a horizontal edge",
+     "small disc or round element",
+     "T-shaped or capital-and-shaft pillar form set in rubble excavation context"
+    ],
+    "why": "Both show the same specific scheme: a broad-headed stone pillar whose horizontal upper block carries a row of profile quadrupeds, while the vertical shaft below bears larger animals and snaking/zigzag lines, all in the same shallow, flat-topped low relief with simplified outlines and identical stone colour and weathering. The main difference is viewpoint and completeness \u2014 A is an oblique, partly buried close-up with only a few sparse animals and a bounding groove, whereas B is a frontal view with a much denser, multi-register programme including arcaded elements, a woven-looking band and bird and anthropomorphic figures absent from A."
+   },
+   {
+    "id": "gotland_0116",
+    "group": "gotland",
+    "score": 7,
+    "sub": 7,
+    "elements": [
+     "upright stone slab carved in low relief",
+     "composition divided into horizontal registers",
+     "row of three humanoid/anthropomorphic figures with raised or bent arms in the upper register",
+     "large quadruped animal shown in profile in the lower register",
+     "small subsidiary human-like figure beside the animal",
+     "band of repeated linear/zigzag ornament separating or framing the scene",
+     "flat, outlined figures with little interior modelling"
+    ],
+    "why": "Both slabs use the same two-tier scheme: a row of three frontal humanoid figures with raised arms along the top, a horizontal ornamental band beneath them, and a single large quadruped in profile dominating the lower field with a smaller human figure alongside. The manner differs, however: A is coarser and more schematic with irregular, uncarved edges and no frame, while B is a neatly shaped, arched stele with a continuous zigzag border and more articulated, equipped figures."
+   },
+   {
+    "id": "anatolia_ppn_0082",
+    "group": "anatolia_ppn",
+    "score": 6,
+    "sub": 7,
+    "elements": [
+     "T-shaped monolithic pillar with broad head and narrower shaft",
+     "shallow low-relief carving on pale limestone",
+     "quadruped animal shown in profile on the shaft",
+     "horizontal band/register of repeated pattern across the pillar",
+     "allover geometric net/mesh or hatched patterning",
+     "excavation context with dry-stone rubble walling behind"
+    ],
+    "why": "Both are the same class of object \u2014 a T-headed monolith bearing shallow, flat-relief carving in which a profile quadruped sits on the shaft below a horizontal patterned band, and both are photographed in situ against rough rubble walling, so the immediate impression is closely comparable. The difference is density and program: B carries a stacked, multi-register composition (arcades, zigzag band, several animals and birds) rendered with crisp modelling, while A's pillar is largely covered by a single loose net-like lattice with one faint animal and a plain rectangular recess, giving a far sparser and more eroded effect."
+   },
+   {
+    "id": "anatolia_ppn_0027",
+    "group": "anatolia_ppn",
+    "score": 6,
+    "sub": 6,
+    "elements": [
+     "T-shaped monolithic stone pillar with broad head and narrower shaft",
+     "low-relief carving on the flat face",
+     "quadruped animal in profile",
+     "elongated serpentine/limb-like relief running down the shaft",
+     "horizontal division of the carved surface into upper and lower fields",
+     "weathered pale limestone surface set in an excavated stone-walled trench"
+    ],
+    "why": "Both are T-shaped pillars of the same pale stone bearing shallow, flat-relief animals in strict profile, with a quadruped occupying the upper field and long sinuous forms trailing down the shaft below a horizontal division. The clearest difference is density and legibility: B carries a crowded multi-register programme (row of creatures across the head, a zigzag/net band, birds and a large bird below) while A shows only one badly eroded animal and a few faint linear motifs on an otherwise blank shaft."
+   }
+  ],
+  "mean": 3.227956989247312,
+  "hist": [
+   0,
+   3,
+   104,
+   231,
+   80,
+   29,
+   8,
+   2,
+   2,
+   6,
+   0
+  ],
+  "by_group": {
+   "anatolia_ppn": 4.376623376623376,
+   "assyria": 2.8833333333333333,
+   "catalhoyuk": 2.7142857142857144,
+   "egypt": 3.1864406779661016,
+   "gotland": 3.3461538461538463,
+   "maya": 3.25,
+   "mississippian": 2.5,
+   "persepolis": 2.9,
+   "rapa_nui": 3.425,
+   "tanum": 2.5166666666666666
+  },
+  "n_ge": {
+   "5": 47,
+   "6": 18,
+   "7": 10,
+   "8": 8
+  }
+ },
+ "search_p43_gpt": {
+  "n": 447,
+  "top": [
+   {
+    "id": "anatolia_ppn_0004",
+    "group": "anatolia_ppn",
+    "score": 9,
+    "sub": 9,
+    "elements": [
+     "large decorated stone surface with a broader upper panel and narrower lower shaft",
+     "row of arched or head-like motifs along the top",
+     "horizontal band of repeated incised/hatched pattern",
+     "bird or long-necked animal in profile",
+     "small rectangular motif",
+     "scorpion- or many-legged creature at right",
+     "quadruped in profile on the lower part",
+     "sinuous snake-like line or animal form"
+    ],
+    "why": "The strongest correspondence is the very specific layout: a top row of arched motifs, a dense horizontal patterned band beneath it, then comparable animal figures including a bird-like profile, small rectangle, many-legged creature, and lower quadruped in matching relative positions. The biggest difference is condition and presentation: A is a lighter, more complete upright surface in situ, while B is darker, more fragmentary, and more eroded or contrast-enhanced, obscuring some details."
+   },
+   {
+    "id": "anatolia_ppn_0095",
+    "group": "anatolia_ppn",
+    "score": 8,
+    "sub": 9,
+    "elements": [
+     "relief carving on an upright stone slab/pillar",
+     "large arched animal forms along the top",
+     "horizontal band of repeated triangular/chevron pattern",
+     "animals or birds in profile in the middle field",
+     "long sinuous line or snake-like form",
+     "lower vertical field with elongated figure/animal motifs"
+    ],
+    "why": "The strongest correspondence is the same stacked scheme: broad top with arched animals, a narrow chevron/triangle band below, then profile creatures and sinuous forms over a lower vertical panel. The biggest difference is that A is a clear frontal view with more legible individual figures, while B is oblique, partly shadowed, and some motifs are harder to confirm or appear differently spaced."
+   },
+   {
+    "id": "anatolia_ppn_0105",
+    "group": "anatolia_ppn",
+    "score": 8,
+    "sub": 8,
+    "elements": [
+     "T-shaped decorated stone surface",
+     "row of repeated arched or crescent-like motifs near the top",
+     "horizontal band of repeated zigzag/triangular pattern",
+     "animal figures in profile",
+     "bird-like figure in profile",
+     "oval or disc-like forms"
+    ],
+    "why": "The strongest correspondence is the same broad compositional scheme: a T-shaped carved surface with repeated arched forms across the upper block, a horizontal patterned band below them, and profile animal figures beneath and on the shaft. The biggest difference is that A is more upright, sharper, and more densely legible on the lower shaft, while B is oblique, more worn, and its lower imagery is partly obscured by burial and damage."
+   },
+   {
+    "id": "anatolia_ppn_0106",
+    "group": "anatolia_ppn",
+    "score": 7,
+    "sub": 7,
+    "elements": [
+     "row of rounded-rectangular/arched forms near the top",
+     "horizontal band of repeated V/chevron or triangular pattern",
+     "profile animal or bird figures below the patterned band",
+     "incised low-relief carving on a stone surface"
+    ],
+    "why": "The strongest correspondence is the specific scheme of a top row of rounded-rectangular forms, a narrow horizontal chevron/V-pattern band beneath it, and profile animal figures below. The biggest difference is that B is a taller upright surface with additional lower registers and more legible, varied figures, while A is a shorter block or fragment seen obliquely with softer, more worn carving."
+   },
+   {
+    "id": "anatolia_ppn_0045",
+    "group": "anatolia_ppn",
+    "score": 6,
+    "sub": 6,
+    "elements": [
+     "repeated arched or looped motifs in an upper register",
+     "horizontal band of triangular/chevron pattern",
+     "incised low-relief animal or bird-like figures in profile",
+     "horizontal register/divider lines",
+     "sinuous line or snake-like form"
+    ],
+    "why": "The strongest correspondence is the stacked scheme: a row of repeated arch-like forms near the top, a horizontal chevron/triangle band below it, and more freely placed profile creatures or sinuous forms beneath. The biggest difference is format and emphasis: A is a broad, faintly carved slab with sparse, eroded figures, while B is a taller surface with deeper, denser carving and a prominent standing human-like figure absent from A."
+   },
+   {
+    "id": "maya_0076",
+    "group": "maya",
+    "score": 6,
+    "sub": 6,
+    "elements": [
+     "repeated rounded or rectangular motifs in an upper row",
+     "horizontal band of repeated V/triangle/chevron-like pattern",
+     "profile animal or bird-like figure",
+     "rectilinear/register-like division of the surface"
+    ],
+    "why": "The strongest correspondence is the stacked composition with an upper row of rounded/rectangular forms, a narrow horizontal chevron-like band beneath it, and larger profile figural imagery below. The biggest difference is that A is a broad, very weathered shallow carving on a flat slab, while B is a clearer, more deeply modelled vertical pillar with additional distinct lower scenes and sharper individual figures."
+   },
+   {
+    "id": "maya_0083",
+    "group": "maya",
+    "score": 5,
+    "sub": 6,
+    "elements": [
+     "horizontal band or register near the top",
+     "repeated linear/rectangular patterning in a band",
+     "animal or bird-like figures in profile",
+     "circle or disc motifs",
+     "schematic low-relief/incised carving on stone"
+    ],
+    "why": "The strongest correspondence is the use of stacked horizontal zones, with patterned bands above and more freely placed animal-like profile figures and small circular marks below. The biggest difference is the overall composition and support shape: A is a rounded slab with crowded, worn, shallow imagery, while B is a taller upright block/pillar with larger, clearer figures organized around a different vertical structure."
+   },
+   {
+    "id": "egypt_0063",
+    "group": "egypt",
+    "score": 5,
+    "sub": 5,
+    "elements": [
+     "bird or animal in profile",
+     "anthropomorphic/human-like figure",
+     "circle or oval/disc motif",
+     "horizontal bands/registers",
+     "repeated linear/chevron-like marks"
+    ],
+    "why": "The strongest correspondence is the use of an upright stone surface divided by horizontal bands/registers, with profile animals or birds and small human-like/linear motifs distributed across the carved field. The biggest difference is that A is much bolder and more open, with large relief figures on an irregular architectural surface, while B is a compact rounded tablet filled with dense, shallow, repetitive incised scenes."
+   },
+   {
+    "id": "anatolia_ppn_0205",
+    "group": "anatolia_ppn",
+    "score": 5,
+    "sub": 5,
+    "elements": [
+     "horizontal band or division across the stone",
+     "profile animal/quadruped figures",
+     "sinuous curved form, possibly snake-like",
+     "oval or circular motifs/forms",
+     "carved relief on a vertical stone surface"
+    ],
+    "why": "The strongest correspondence is the broad scheme of a vertical stone face with a horizontal division and low-relief animal imagery below it, including profile animals and curved/oval forms. The biggest difference is that A is sparse, faint, and loosely organized, while B is densely filled with multiple registers, repeated motifs, and much sharper carving."
+   },
+   {
+    "id": "maya_0047",
+    "group": "maya",
+    "score": 5,
+    "sub": 5,
+    "elements": [
+     "profile bird or bird-like animal",
+     "profile animal forms",
+     "round eye or circular disc",
+     "short parallel bar/comb-like motif",
+     "horizontal band or register of repeated marks"
+    ],
+    "why": "The strongest specific correspondence is the use of low-relief animal imagery, especially profile bird-like forms with round eyes, accompanied by repeated parallel-bar motifs. The biggest difference is that B is organized into clear horizontal registers on a regular upright surface, while A is irregular, crowded, more eroded, and its figures are harder to separate into an ordered sequence."
+   },
+   {
+    "id": "anatolia_ppn_0107",
+    "group": "anatolia_ppn",
+    "score": 5,
+    "sub": 5,
+    "elements": [
+     "animal figures in profile",
+     "elongated snake-like or sinuous forms",
+     "horizontal divider/band",
+     "repeated short incised strokes or chevron-like patterning"
+    ],
+    "why": "The strongest correspondence is the use of shallow relief/incised animal figures, including sinuous forms, arranged around horizontal bands on a rough stone surface. The biggest difference is that B is a clearer, more densely organized multi-register composition with rectilinear top motifs and a prominent lower figure, while A is fragmentary, obliquely seen, and its motifs do not match B\u2019s order or layout."
+   },
+   {
+    "id": "egypt_0047",
+    "group": "egypt",
+    "score": 5,
+    "sub": 5,
+    "elements": [
+     "vertically oriented carved stone surface",
+     "horizontal register or dividing band",
+     "standing human figure",
+     "profile animal or bird-like form",
+     "circle or disc motif",
+     "linear patterning"
+    ],
+    "why": "The strongest correspondence is that both surfaces are divided into stacked horizontal zones containing schematic carved figures, including human-like figures and small circular/linear motifs. The biggest difference is that A is dominated by fine, crowded, upright human scenes on an arched slab, while B uses larger, rougher, more widely spaced animal and abstract forms on a rectangular pillar-like surface."
+   }
+  ],
+  "mean": 2.9977628635346756,
+  "hist": [
+   1,
+   8,
+   104,
+   242,
+   76,
+   10,
+   2,
+   1,
+   2,
+   1,
+   0
+  ],
+  "by_group": {
+   "anatolia_ppn": 3.2542372881355934,
+   "assyria": 2.8,
+   "catalhoyuk": 2.7142857142857144,
+   "egypt": 3.2033898305084745,
+   "gotland": 2.8846153846153846,
+   "maya": 3.433333333333333,
+   "mississippian": 2.875,
+   "persepolis": 2.933333333333333,
+   "rapa_nui": 2.725,
+   "tanum": 2.6666666666666665
+  },
+  "n_ge": {
+   "5": 16,
+   "6": 6,
+   "7": 4,
+   "8": 3
+  }
+ },
+ "search_hoa": {
+  "n": 187,
+  "top": [
+   {
+    "id": "anatolia_ppn_0121",
+    "group": "anatolia_ppn",
+    "score": 6,
+    "sub": 6,
+    "elements": [
+     "standing frontal anthropomorphic figure carved from a single stone block",
+     "head with brow/eyes indicated at top",
+     "arms bent with hands meeting across the chest/abdomen",
+     "incised low-relief lines on the head suggesting a cap or headdress",
+     "horizontal band across the waist (belt-like)",
+     "circular/disc motif on the torso",
+     "columnar, blocky body with squared shoulders"
+    ],
+    "why": "Both are frontal, monolithic stone anthropomorphic figures organised in the same vertical sequence: a flat-topped head with incised cap-like lines, squared shoulders, arms bent so the hands meet over the torso, and a horizontal belt-like band below, with shallow incised detail rather than modelled volume. The clearest difference is proportion and density of decoration: A is a narrow, weathered pillar with sparse, eroded detail seen in situ, while B is a broad slab whose torso carries an elaborate array of discs and curvilinear incisions."
+   },
+   {
+    "id": "egypt_0012",
+    "group": "egypt",
+    "score": 5,
+    "sub": 6,
+    "elements": [
+     "low-relief carving on coarse stone",
+     "vertical, tall figure-like composition",
+     "oval/almond 'eye' motifs, apparently paired",
+     "circle or disc motif",
+     "rectangular panel with grid-like or glyph-like geometric filler",
+     "horizontal band or belt-like division across the surface",
+     "curvilinear scroll or bracket-shaped elements"
+    ],
+    "why": "Both present a tall vertical stack in shallow relief in which a rectilinear, grid-filled upper panel sits above paired oval eye-like forms and a prominent central disc, with a horizontal band dividing the lower zone \u2014 a fairly specific and comparable ordering of motifs. The biggest difference is format and finish: A is carved into an irregular, weathered light-coloured rock face where the design bleeds into natural fissures, while B is a discrete dark monolith with a defined outline, head and shoulders, giving a crisper, more sculptural whole."
+   },
+   {
+    "id": "anatolia_ppn_0247",
+    "group": "anatolia_ppn",
+    "score": 5,
+    "sub": 6,
+    "elements": [
+     "carved stone in the round / freestanding stone sculpture",
+     "paired circular or ring-shaped motifs arranged symmetrically about a vertical axis",
+     "low-relief carving on a broad, flat-backed block",
+     "curved arc or crescent bands framing the discs",
+     "tapering columnar body below the decorated upper zone",
+     "pitted, weathered dark volcanic-looking stone surface"
+    ],
+    "why": "Both show a vertically oriented stone mass whose upper zone carries two large paired circles/rings set symmetrically about a central axis, with arcing bands curving around them and a plainer tapering body beneath \u2014 a fairly specific correspondence rather than a generic one. The biggest differences are scale and finish: B is a complete, crisply incised monumental figure with a head, collar and belt-like band, while A is a small, heavily eroded fragment photographed close-up whose forms are coarse, bulbous and largely dissolved by weathering, so the shared scheme could be coincidental."
+   },
+   {
+    "id": "anatolia_ppn_0004",
+    "group": "anatolia_ppn",
+    "score": 5,
+    "sub": 6,
+    "elements": [
+     "coarse granular stone surface with shallow low-relief carving",
+     "frontal anthropomorphic composition with a broad upper 'headdress' or crown zone",
+     "horizontal band/register of repeated motifs across the upper part",
+     "curvilinear scroll or volute motifs",
+     "circular/oval disc-like element",
+     "vertical panel or pendant element hanging below a horizontal band",
+     "paired symmetrical motifs flanking a central axis"
+    ],
+    "why": "Both show a frontal, axially symmetrical figure organised into a broad banded upper zone of repeated motifs (reading as a headdress or crown) above a wide horizontal band from which a vertical panel descends, all executed in shallow, softly worn relief on a coarse pitted stone with curvilinear volutes and disc forms. The biggest difference is dimensionality and framing: A is a rounded, free-standing boulder sculpture with modelled shoulders and a projecting head photographed in situ, while B is a flat, broken slab whose design is confined to a single carved plane, and their individual motifs (the large chest disc versus B's paired downturned scroll heads) do not match in detail."
+   },
+   {
+    "id": "anatolia_ppn_0027",
+    "group": "anatolia_ppn",
+    "score": 5,
+    "sub": 6,
+    "elements": [
+     "tall upright monolithic stone block/pillar",
+     "shallow low-relief carving on a flat frontal face",
+     "animal or creature figure in relief on the upper body",
+     "arm-like limbs curving down the sides toward the front",
+     "horizontal band/belt-like element across the lower part",
+     "circular or ring-shaped motif",
+     "flattened rectangular top/head element",
+     "narrow serpentine or elongated relief lines running vertically"
+    ],
+    "why": "Both are tall freestanding stone monoliths whose flat front face carries shallow relief in a comparable vertical order \"blocky top, creature/motif on the chest, arms bending inward at the sides, and a horizontal band lower down\" which is a fairly specific shared scheme. The main differences are scale of relief and finish: A is a slender, sharply rectangular pillar with thin, sketchy, low-profile incisions in pale weathered stone, while B is a heavy, rounded, tapering body in dark stone with fuller, more plastic modelling and a distinct disc motif that A lacks."
+   },
+   {
+    "id": "anatolia_ppn_0270",
+    "group": "anatolia_ppn",
+    "score": 5,
+    "sub": 5,
+    "elements": [
+     "upright monolithic stone slab with rounded top and tapering base",
+     "anthropomorphic figure carved in low relief on a single face",
+     "head/face zone at the top with hollowed eye-like depressions",
+     "bilaterally symmetrical vertical composition",
+     "paired arm-like elements flanking a central torso",
+     "raised vertical ridge/median line down the body",
+     "museum display of the stone standing free on a plinth"
+    ],
+    "why": "Both are upright, roughly rectangular stone slabs bearing a single bilaterally symmetrical anthropomorphic figure in shallow relief, with a face zone at the top, arm-like elements curving down either side of a raised central axis, and a plain lower zone \u2014 a genuinely comparable compositional scheme. The decisive difference is execution and legibility: A carries crisp, deliberate incised detail (a prominent central disc, encircling bands, patterned headgear), whereas B is reduced to soft, pitted hollows and swellings with no linear ornament at all, so it reads as a much cruder or heavily weathered rendering."
+   },
+   {
+    "id": "anatolia_ppn_0241",
+    "group": "anatolia_ppn",
+    "score": 5,
+    "sub": 5,
+    "elements": [
+     "monolithic standing/blocky anthropomorphic stone figure",
+     "head with carved facial features at top",
+     "arms and hands rendered in low relief across the torso",
+     "circular disc or concentric ring motif on the body",
+     "horizontal band(s) across the lower torso (belt-like)",
+     "broad flat-topped headdress/cap area"
+    ],
+    "why": "Both are vertical monolithic anthropomorphic blocks with a broad flat-topped head at the summit, facial features in relief, arms bent across the chest and a circular disc plus horizontal belt-like band on the torso, so the top-to-bottom scheme corresponds fairly closely. The manner of carving differs strongly, however: A is a heavily weathered, coarse, rounded mass with barely legible volumes and no surface ornament, while B carries crisp, deliberate incised and low-relief geometric motifs (rings, hooks, bands) over a comparatively flat, plaque-like front."
+   },
+   {
+    "id": "anatolia_ppn_0239",
+    "group": "anatolia_ppn",
+    "score": 5,
+    "sub": 5,
+    "elements": [
+     "monolithic upright stone statue",
+     "frontal human face with eyes, nose and mouth at the top",
+     "columnar/tapering body without articulated legs",
+     "shoulder-like widening below the head",
+     "faint indication of arms/hands on the torso",
+     "museum display on a low plinth"
+    ],
+    "why": "Both are frontal anthropomorphic stone monoliths in which a broad flat face occupies the upper block and a tapering, legless columnar body carries vestigial arms across the torso, so the basic compositional scheme corresponds closely. The decisive difference is finish and content: A carries a dense programme of low-relief motifs (headdress bands, disc, chevron belt, ornaments) on a smoothed surface, whereas B is a coarse, almost unmodelled boulder with only the crudest facial features and no ornament at all."
+   },
+   {
+    "id": "anatolia_ppn_0222",
+    "group": "anatolia_ppn",
+    "score": 4,
+    "sub": 5,
+    "elements": [
+     "human face carved on an upright monolithic stone block",
+     "heavy horizontal brow ridge across the face",
+     "recessed/hollowed eyes",
+     "prominent projecting nose",
+     "flat area above the head suggesting a cap or headdress zone",
+     "vertical column-like stone body beneath the head",
+     "museum-lit stone sculpture with weathered/pitted surface"
+    ],
+    "why": "Both are single upright stone blocks whose upper portion is worked into a frontal human face with a heavy straight brow, deep eye sockets and a broad projecting nose beneath a flat cap-like top, and both are photographed as free-standing museum pieces. The rendering differs sharply, however: A is coarse, deeply eroded and modelled in bulky mass with no ornament visible in the crop, while B is a smoother dark monolith covered with crisp shallow incised motifs \u2014 discs, a chest circle and horizontal bands \u2014 that have no counterpart in A."
+   },
+   {
+    "id": "anatolia_ppn_0037",
+    "group": "anatolia_ppn",
+    "score": 4,
+    "sub": 5,
+    "elements": [
+     "monumental upright stone monolith",
+     "broad rectangular block/head atop a narrower shaft (T-like silhouette)",
+     "low-relief carving on the shaft surface",
+     "animal or creature figure in relief on the shaft",
+     "vertical elongated raised element running down the shaft (arm/limb-like)",
+     "implied anthropomorphic body schema"
+    ],
+    "why": "Both are large upright stone monoliths in which a broad rectangular top block sits on a narrower body, with relief carving confined to the shaft and a small animal figure set against a long vertical limb-like ridge \u2014 a genuinely comparable anthropomorphic pillar scheme. The rendering differs sharply, however: A is densely covered in fine, crisp curvilinear motifs including a prominent chest disc and banded skirt, while B carries only sparse, shallow, weathered relief on an otherwise plain surface, and the two differ in stone colour and context (museum display versus in-situ excavation)."
+   },
+   {
+    "id": "anatolia_ppn_0095",
+    "group": "anatolia_ppn",
+    "score": 4,
+    "sub": 5,
+    "elements": [
+     "large upright monolithic stone slab with broad flat face",
+     "low-relief carving covering the front surface",
+     "horizontal bands/registers dividing the composition",
+     "circular or disc-shaped motif",
+     "curvilinear zoomorphic or abstract creature forms",
+     "repeated paired/symmetrical elements",
+     "coarse weathered stone surface"
+    ],
+    "why": "Both are tall, flat-faced monolithic slabs whose front is organised into stacked horizontal registers of shallow relief, with rounded disc-like motifs and paired symmetrical curvilinear forms, and both share a broadly rectangular, slightly tapering silhouette. The decisive difference is in handling and content: A's reliefs are thin, linear and legibly animal (elongated quadrupeds, birds, snake-like verticals) executed with crisp incision, whereas B's are broad, swollen, abstracted volumes integrated into a single massive figure-like block, so the two could not plausibly come from the same hand."
+   },
+   {
+    "id": "anatolia_ppn_0130",
+    "group": "anatolia_ppn",
+    "score": 4,
+    "sub": 5,
+    "elements": [
+     "frontal anthropomorphic face carved in stone",
+     "flat-topped, block-like head",
+     "brow ridge continuous with a straight vertical nose",
+     "horizontally set eyes and a straight mouth",
+     "monolithic, roughly rectangular columnar body beneath the head",
+     "symmetrical frontal axis"
+    ],
+    "why": "Both are monolithic stone sculptures presenting a strictly frontal, block-headed face with a flat crown, a long straight nose descending from a continuous brow ridge, and a horizontal slit mouth atop a rectangular column-like body. The decisive difference is surface treatment and elaboration: A is a dark, highly finished shaft covered with fine incised low-relief motifs (bands, a prominent disc, curvilinear elements) across the torso, while B is a coarse, undecorated pale block whose only articulation is the crudely blocked-out face, with no ornament at all."
+   }
+  ],
+  "mean": 2.7914438502673797,
+  "hist": [
+   0,
+   3,
+   71,
+   84,
+   21,
+   7,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  "by_group": {
+   "anatolia_ppn": 3.3389830508474576,
+   "assyria": 2.566666666666667,
+   "catalhoyuk": 1.5714285714285714,
+   "egypt": 2.610169491525424,
+   "gotland": 3.0
+  },
+  "n_ge": {
+   "5": 8,
+   "6": 1,
+   "7": 0,
+   "8": 0
+  }
+ },
+ "rank_moai_in_p43_search_opus": {
+  "target": 4.5,
+  "n_better": 47,
+  "n_equal": 0,
+  "n": 465
+ },
+ "rank_moai_in_p43_search_gpt": {
+  "target": 3.0,
+  "n_better": 92,
+  "n_equal": 242,
+  "n": 447
+ },
+ "reliability": {
+  "gpt_on_p43_search": {
+   "n": 447,
+   "spearman": 0.4950034939129806,
+   "within_one": 0.9261744966442953
+  }
+ }
+}

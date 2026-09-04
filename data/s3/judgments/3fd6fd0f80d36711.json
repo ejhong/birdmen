@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "standing human figure in a vertical rectangular panel",
+  "figure with elaborate headdress/headgear",
+  "figure holding or grasping an object",
+  "raised-relief carving of clothed figure with patterned garment",
+  "panel with figure(s) filling most of the field"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both show human figures in low relief filling a tall rectangular field, with headgear, patterned garments and hands holding/raising objects, which is a broadly comparable scheme. But A depicts two bearded figures strictly in profile with rigid linear beards, curls and fringed robes arranged in registers, while B shows a frontal, densely packed figure with sprawling plumed headdress and surrounding ornament and glyph-like blocks, so the specific forms and conventions differ sharply.",
+ "a": "assyria_0036",
+ "b": "maya_0088",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2899,
+  311
+ ]
+}

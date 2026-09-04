@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "upright stela-shaped slab carved in low relief",
+  "human figure(s) shown in profile-like poses",
+  "dense field of script signs / glyphs",
+  "figure with elaborate headgear or head ornament",
+  "figures combined with adjacent text blocks",
+  "seated/standing figures with arms extended toward objects"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both are upright relief-carved stelae combining human figures with dense blocks of non-alphabetic script signs, and in each a figure faces offerings/objects with text filling the surrounding field, which is a real but broad correspondence. They differ sharply in specifics: A shows one large frontal, elaborately costumed standing figure filling the whole shaft with glyphs confined to a small band, while B is divided into three horizontal registers of small seated/standing profile figures at tables, with fine, spare linear signs dominating; the figural proportions, costume conventions and register logic are unrelated.",
+ "a": "maya_0111",
+ "b": "egypt_0040",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  358
+ ]
+}

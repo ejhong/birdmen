@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "profile animal figures",
+  "bird or long-necked bird in profile",
+  "quadruped in profile",
+  "serpentine or curved linear animal/form",
+  "abstract/geometric signs or bands"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces share schematic outline reliefs of profile animals, most specifically bird-like/long-necked creatures and quadrupeds combined with some abstract linear or geometric motifs. The biggest difference is that B is organized into clear horizontal registers with repeated symbols and patterned bands, while A is a denser, less compartmentalized cluster of animals without the same ordered scheme.",
+ "a": "anatolia_ppn_0078",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  673
+ ]
+}

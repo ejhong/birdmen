@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  1,
+  4,
+  2,
+  5,
+  7,
+  6,
+  3,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 9 is, like the target, a free-standing weathered monolithic pillar whose broad flat faces carry sparse, shallow low-relief motifs (bands, arms, small emblematic shapes) arranged vertically on the stone rather than as a continuous pictorial scene.",
+ "least_similar_reason": "Candidate 10 is a smooth, finely finished architectural panel with crisply carved, tightly packed processional figures, chariots and horses in horizontal registers, the opposite of the target's coarse, isolated monolith with a few simple abstract reliefs.",
+ "set": "p43_among_random",
+ "i": 9,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "egypt_0072",
+  "gotland_0000",
+  "persepolis_0075",
+  "maya_0023",
+  "maya_0158",
+  "assyria_0047",
+  "tanum_0324",
+  "persepolis_0095",
+  "anatolia_ppn_p43full",
+  "persepolis_0026"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "persepolis",
+  "persepolis",
+  "egypt",
+  "persepolis",
+  "gotland",
+  "assyria",
+  "maya",
+  "tanum",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

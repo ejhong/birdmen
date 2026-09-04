@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "low-relief figure shown in strict profile facing left",
+  "elaborate headgear/headdress on the head",
+  "patterned, curled beard-like or feathered mass rendered as rows of repeated curls",
+  "fringed and tasselled garment with textured hems",
+  "raised arm with hand holding an object",
+  "wing or fan of long overlapping feathers behind the figure",
+  "dense repeated stylised ornament (rosette-like or curl rows) filling areas",
+  "single dominant figure filling the panel"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "7",
+ "justification": "Both show a single large low-relief profile figure facing left with elaborate headgear, a mass of tightly regimented rows of curls (beard/feathering), fringed and tasselled robes, and long overlapping wing/fan feathers behind, rendered with identical conventions of incised repeating detail and flat outlined relief. The chief differences are that A is a cropped bust of a human head while B shows a full-length raptor-headed winged figure with a raised arm holding an object beside a stylised plant with rosette blossoms, a scene element absent from A.\n",
+ "a": "assyria_0128",
+ "b": "assyria_0071",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3174,
+  405
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "animal in profile",
+  "circle or disc-like motif",
+  "horizontal band of repeated geometric pattern"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest shared features are profile animals combined with linear geometric ornament, especially horizontal patterned bands or panels. The biggest difference is that A is an irregular, crowded relief composition with separate figures, while B is a centrally framed, much more symmetrical incised design dominated by interlace-like borders and a single organized panel scheme.",
+ "a": "anatolia_ppn_p43full",
+ "b": "gotland_0007",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1256,
+  637
+ ]
+}

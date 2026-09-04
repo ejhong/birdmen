@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human or humanoid figure",
+  "limbs shown in action/raised arm",
+  "figures in profile view",
+  "plant or vegetal motif (dotted/rosette-like elements vs floral rosettes)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "The only shared content is the human/humanoid figure with raised arms, which is universal, plus loosely comparable small vegetal/dotted accents; A shows dozens of tiny stick-like silhouetted figures scattered in a lively crowd scene with bows and animals, while B shows one large winged bearded figure in strict profile tending a stylised plant with rosettes. There is no correspondence in composition, scale, relationships, or rendering conventions (rough monochrome silhouettes versus detailed low-relief modelling of feathers, beard and hands).}",
+ "a": "catalhoyuk_0025",
+ "b": "assyria_0160",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  317
+ ]
+}

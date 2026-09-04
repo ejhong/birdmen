@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "profile animal or bird-like figures",
+  "circle or disc motifs",
+  "horizontal band or register of repeated small patterning"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific visible correspondence is the use of shallow relief on an upright stone surface with profile creatures and small circular or patterned motifs arranged in bands or registers. The biggest difference is compositional: A is a broad, crowded surface of multiple animal-like motifs and a strong horizontal patterned band, while B is a narrow stele dominated by a single standing human-like figure with smaller signs around it.",
+ "a": "anatolia_ppn_p43full",
+ "b": "maya_0111",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  1174
+ ]
+}

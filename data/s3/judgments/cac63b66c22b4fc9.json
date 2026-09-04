@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "stylized animal or creature forms",
+  "linear/geometric ornament",
+  "large eye or face-like details",
+  "vertical decorated surface with stacked/ornamental imagery"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific overlap is that both include stylized creature/animal-like motifs and linear ornamental detailing on a vertical decorated surface. The biggest difference is that B is organized around a large frontal standing human/divine figure with headdress and body ornaments, while A is a register-like composition of schematic profile animals, signs, and geometric bands with no comparable central anthropomorphic figure.",
+ "a": "anatolia_ppn_p43full",
+ "b": "maya_0060",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1777,
+  669
+ ]
+}

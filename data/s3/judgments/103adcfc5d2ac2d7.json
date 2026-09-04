@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "upright anthropomorphic figure or bust",
+  "head with facial features",
+  "neck or torso below the head"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The main correspondence is that both depict an upright human-like form with a head and facial features set above a neck or torso. The biggest difference is that A is essentially a single, relatively naturalistic head-and-upper-body form, while B is a frontal schematic figure or slab covered with additional facial/body symbols and geometric bands.",
+ "a": "anatolia_ppn_0241",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  650
+ ]
+}

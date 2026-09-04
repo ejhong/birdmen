@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  7,
+  2,
+  5,
+  4,
+  9,
+  10,
+  3,
+  6,
+  8
+ ],
+ "most_similar_reason": "Candidate 1 is most similar because it shows sparse, schematic line-drawn figures on a plain field, including simple red outline anthropomorphic/animal-like forms comparable to the target\u2019s elongated paired figures.",
+ "least_similar_reason": "Candidate 8 is least similar because its depicted content is dominated by a tall register of repeated small inscription-like signs rather than large schematic living figures interacting or joined as in the target.",
+ "set": "same_control",
+ "i": 4,
+ "target": "tanum_0050",
+ "planted": "tanum_0085",
+ "cands": [
+  "tanum_0085",
+  "anatolia_ppn_0205",
+  "persepolis_0066",
+  "anatolia_ppn_0247",
+  "egypt_0066",
+  "anatolia_ppn_0083",
+  "catalhoyuk_0025",
+  "maya_0057",
+  "gotland_0113",
+  "egypt_0056"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "gotland",
+  "anatolia_ppn",
+  "persepolis",
+  "anatolia_ppn",
+  "maya",
+  "egypt",
+  "egypt",
+  "catalhoyuk"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

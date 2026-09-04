@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "bearded male figure shown in strict profile",
+  "long fringed/pleated robe covering the body to the ankles",
+  "arm raised/extended with hand holding or presenting an object",
+  "elaborately curled, patterned hair and beard rendered as rows of curls",
+  "low-relief figure filling the field with feet in profile",
+  "patterned band/textile detail on garment"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show bearded male figures in strict profile wearing long fringed robes with hair and beard rendered as regimented rows of curls, one arm raised and the other extended holding an object, carved in shallow relief with the same stylised, patterned treatment of textiles and hair. The decisive differences are that A is a repeated procession of ordinary human bearers presenting bowls in a register topped by a rosette frieze, while B is a single oversized winged figure filling the whole panel with no repetition, no wings in A and no rosette band in B.",
+ "a": "persepolis_0105",
+ "b": "assyria_0051",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3224,
+  767
+ ]
+}

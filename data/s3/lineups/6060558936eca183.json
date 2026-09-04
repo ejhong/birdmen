@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  10,
+  9,
+  2,
+  3,
+  5,
+  4,
+  7,
+  1,
+  8
+ ],
+ "most_similar_reason": "Candidate 6 shows the same kind of richly costumed elite figure in profile with an elaborate plumed headdress, beaded ornaments and dangling regalia, rendered in the same low-relief style with dense curvilinear infill and framed square glyph-like blocks, matching the target's ornate feathered personage.",
+ "least_similar_reason": "Candidate 8 presents an almost featureless, indeterminate surface with no recognizable figure, costume, headdress or arranged sign blocks that could be compared to the target's highly specific plumed dignitary.",
+ "set": "same_control",
+ "i": 5,
+ "target": "mississippian_0045",
+ "planted": "mississippian_0075",
+ "cands": [
+  "anatolia_ppn_0086",
+  "assyria_0071",
+  "assyria_0051",
+  "egypt_0014",
+  "assyria_0059",
+  "maya_0048",
+  "egypt_0000",
+  "gotland_0133",
+  "mississippian_0075",
+  "maya_0011"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "assyria",
+  "maya",
+  "assyria",
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt",
+  "assyria",
+  "anatolia_ppn"
+ ],
+ "model": "opus",
+ "planted_rank": 3
+}

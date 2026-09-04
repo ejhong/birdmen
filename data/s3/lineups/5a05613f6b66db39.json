@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  3,
+  4,
+  6,
+  1,
+  2,
+  8,
+  5,
+  9,
+  10
+ ],
+ "most_similar_reason": "Both depict a highly stylized procession of human figures in profile leading animals.",
+ "least_similar_reason": "It consists of faint linear scratchings that lack any clear figurative or structural elements.",
+ "set": "same_control",
+ "i": 1,
+ "target": "persepolis_0100",
+ "planted": "persepolis_0063",
+ "cands": [
+  "assyria_0079",
+  "maya_0054",
+  "assyria_0109",
+  "assyria_0146",
+  "tanum_0317",
+  "assyria_0096",
+  "persepolis_0063",
+  "catalhoyuk_0026",
+  "gotland_0005",
+  "gotland_0118"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "gotland",
+  "assyria",
+  "maya",
+  "assyria",
+  "gotland",
+  "catalhoyuk",
+  "tanum",
+  "assyria",
+  "assyria"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

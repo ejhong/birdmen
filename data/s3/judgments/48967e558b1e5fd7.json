@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "frontal anthropomorphic/human head or face",
+  "eyes flanking a nose",
+  "mouth below nose",
+  "elongated vertical head/neck form"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest shared content is a frontal human-like face with eyes, nose, and mouth arranged in the normal facial order. The biggest difference is that A presents a full decorated anthropomorphic body or stele with multiple incised motifs and body features, while B is essentially a single plain head/face without the additional torso iconography or surface symbols.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_0240",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  523
+ ]
+}

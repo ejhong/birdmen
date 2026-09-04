@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "horizontal line bearing a row of repeated short vertical strokes/elements",
+  "schematic figures arranged in stacked horizontal registers",
+  "profile-view outline rendering",
+  "crescent/hook-shaped upturned terminals (animal heads in A, boat prows in B)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The only real correspondence is formal and generic: both surfaces show a long horizontal line carrying a row of identical short vertical strokes (a fringed/netted band in A, the crew strokes of the boats in B), and both stack their motifs in loose horizontal registers with upturned hooked terminals. Otherwise the content is wholly different: A depicts animals, birds, a snake and a human-like figure in relief, while B depicts nothing but repeated schematic boats with no animate figures at all.",
+ "a": "anatolia_ppn_p43full",
+ "b": "tanum_0076",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  756
+ ]
+}

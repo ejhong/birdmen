@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low-relief carving on a tall upright slab with a rounded/tapering top",
+  "horizontal register divider separating an upper and lower zone",
+  "row of repeated similar figures aligned side by side in a band",
+  "animal forms in profile",
+  "raised-arm / gesturing limbs",
+  "small filler signs or symbols set between larger figures"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both are upright tapering slabs carved in low relief with content organised into stacked registers separated by a horizontal band, and both include a row of repeated similar figures across the top of a register. But the subject matter differs fundamentally: A shows anthropomorphic figures in robes with hand-held offerings and rows of small script-like signs, while B shows quadrupeds, a large bird in profile and a snake-like form with no human figures or sign-rows, and the rendering conventions (fine incised linear detail vs. bold rounded modelled relief) are unalike.",
+ "a": "egypt_0047",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  355
+ ]
+}

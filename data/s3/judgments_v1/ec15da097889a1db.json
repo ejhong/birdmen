@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "animal in profile",
+  "small circular marks or discs",
+  "curving or serpentine line"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces include a simply outlined profile animal among other incised or relief marks, with small round marks nearby. The biggest difference is compositional: A is a tall, carefully organized surface with stacked horizontal registers and multiple figures, while B is a close-up of a rougher, more scattered arrangement dominated by diagonal rock texture and isolated motifs.",
+ "a": "anatolia_ppn_p43full",
+ "b": "tanum_0359",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  647
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  2,
+  4,
+  9,
+  10,
+  3,
+  8,
+  5,
+  7,
+  6
+ ],
+ "most_similar_reason": "Candidate 1 is most similar because it shows the same kind of schematic low-relief animal imagery arranged on a pillar-like surface, with profile creatures and abstract linear motifs rather than a human narrative or text-dominated scene.",
+ "least_similar_reason": "Candidate 6 is least similar because its depicted content is essentially a single frontal anthropomorphic statue/body, lacking the target\u2019s profile animals, repeated signs, and banded surface decoration.",
+ "set": "same_control_monoliths",
+ "i": 2,
+ "target": "anatolia_ppn_0105",
+ "planted": "anatolia_ppn_0080",
+ "cands": [
+  "anatolia_ppn_0080",
+  "maya_0111",
+  "egypt_0042",
+  "gotland_0133",
+  "egypt_0043",
+  "rapa_nui_0049",
+  "maya_0087",
+  "egypt_0041",
+  "egypt_0063",
+  "egypt_0069"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "gotland",
+  "rapa_nui",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

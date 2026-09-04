@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  6,
+  8,
+  7,
+  3,
+  10,
+  1,
+  2,
+  5,
+  4
+ ],
+ "most_similar_reason": "Candidate 9 shows the same thing as the target: a long low-relief frieze of profile human figures in procession accompanied by animals, arranged in a continuous horizontal band along a wall.",
+ "least_similar_reason": "Candidate 4 shows only a tall narrow shaft covered with rows of small repeated sign-like units, with no procession of profile human figures, no animals and no tree, so it shares none of the target's distinctive motifs or arrangement.",
+ "set": "related_control",
+ "i": 18,
+ "target": "persepolis_0069",
+ "planted": "assyria_0052",
+ "cands": [
+  "tanum_0007",
+  "anatolia_ppn_0266",
+  "egypt_0061",
+  "maya_0146",
+  "rapa_nui_0044",
+  "egypt_0065",
+  "maya_0129",
+  "egypt_0067",
+  "assyria_0052",
+  "maya_0019"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "egypt",
+  "maya",
+  "maya",
+  "tanum",
+  "egypt",
+  "maya",
+  "rapa_nui",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

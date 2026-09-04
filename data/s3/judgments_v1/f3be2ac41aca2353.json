@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "horizontal band of repeated short strokes or hatching",
+  "curvilinear outline motifs",
+  "possible animal or bird-like profiles"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific visible correspondence is the use of horizontal, patterned bands made from repeated short marks, with some adjacent curving outline figures. The biggest difference is that A is a broad, sloping, weathered rock face with faint linear incisions, while B is a compact upright slab with bold, deeply carved relief figures arranged in clear registers.",
+ "a": "tanum_0026",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  648
+ ]
+}

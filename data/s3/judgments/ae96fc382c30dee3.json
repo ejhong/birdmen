@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "procession of standing human figures in profile facing the same direction",
+  "tribute/gift bearers carrying vessels or objects",
+  "figures in long robes and in tunic-with-trousers dress",
+  "staff or spear held by a figure",
+  "led animal accompanying human figures",
+  "stylized conifer/cypress tree separating groups",
+  "low relief frieze in horizontal registers",
+  "register-dividing bands"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "9",
+ "justification": "Both show the same highly specific scheme: horizontal relief registers of profile processions of delegates in varied dress bearing gifts, led by a staff-bearing usher, with animals led along and stylized conifer trees inserted as group dividers. The only differences are of framing and scope \u2014 A is a close view of one register with a camel and floral border rows, while B shows several stacked registers at a distance \u2014 with no substantive divergence in depicted content.",
+ "a": "persepolis_0010",
+ "b": "persepolis_0104",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3349,
+  333
+ ]
+}

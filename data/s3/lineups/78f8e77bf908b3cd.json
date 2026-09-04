@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  3,
+  6,
+  9,
+  4,
+  7,
+  1,
+  8,
+  5,
+  10
+ ],
+ "most_similar_reason": "Candidate 2 shows the same distinctive idea as the target: a tall standing monolithic pillar treated as a schematic body, with shallow relief elements (arms/hands, small animal and abstract signs, encircling band) laid directly onto its broad face and edges rather than framed in a picture panel.",
+ "least_similar_reason": "Candidate 10 shows an eroded plain wall face with no identifiable figures, symbols or motifs at all, so it shares no depicted content with the target's carved anthropomorphic body with arms and ring motifs.",
+ "set": "p43_among_random",
+ "i": 19,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "egypt_0056",
+  "anatolia_ppn_p43full",
+  "mississippian_0001",
+  "persepolis_0000",
+  "egypt_0033",
+  "mississippian_0005",
+  "egypt_0071",
+  "assyria_0135",
+  "persepolis_0049",
+  "egypt_0002"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "egypt",
+  "assyria",
+  "mississippian",
+  "persepolis",
+  "persepolis",
+  "egypt",
+  "egypt",
+  "egypt",
+  "mississippian"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

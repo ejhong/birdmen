@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "mask-like face/head with prominent eyes",
+  "incised linear patterning on stone",
+  "vertical decorated stone support"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "3",
+ "justification": "The most specific correspondence is the presence of carved, mask-like heads or faces with emphasized eyes, plus incised linear surface marking on a vertical stone object. The biggest difference is that A is a flat relief organized into multiple horizontal registers with several small figures and patterned bands, while B is a three-dimensional sculptural column dominated by one protruding face and body-like mass.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0267",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  651
+ ]
+}

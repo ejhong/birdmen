@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "horned quadruped animals shown in strict profile",
+  "relief carving of processional/repeated figures",
+  "animals with patterned, incised fleece/mane treatment",
+  "horizontal register of figures moving in one direction",
+  "bulls or bovids with curved horns"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "5",
+ "justification": "Both depict horned quadrupeds in strict profile, carved in low relief and arranged as a repeated file of figures moving in the same direction, with stylised patterning used to render fleece, mane and horn coils \u2014 a fairly specific shared convention. However, A is a whole architectural panorama with columns, stairways, files of human attendants in robes and lion-attacking-bull groups, while B is a close view of just two rams' heads and shoulders with no human figures or architecture, so the scenes as wholes read very differently.",
+ "a": "persepolis_0029",
+ "b": "persepolis_0085",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3349,
+  318
+ ]
+}

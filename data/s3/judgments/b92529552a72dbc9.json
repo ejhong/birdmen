@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic animal figures in profile",
+  "quadruped-like bodies with multiple legs",
+  "repeated short-stroke or comb-like linear markings",
+  "horizontal linear divisions or band-like compartments"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of schematic profile animals, some with elongated bodies and multiple short legs or repeated internal strokes, alongside simple linear/band motifs. The biggest difference is that A is a sparse scene of a few large, loosely stacked animal-like forms, while B is a dense, register-like composition with many distinct figures and repeated signs arranged in formal horizontal panels.",
+ "a": "tanum_0129",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  676
+ ]
+}

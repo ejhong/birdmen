@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic linear motifs",
+  "circle or oval motifs",
+  "horizontal band or row of repeated/parallel marks"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The most specific overlap is the use of schematic carved-looking linear signs including circular/oval forms and horizontal bands of repeated marks. The biggest difference is that A is organized as a single frontal anthropomorphic body with torso features, arms, and belt-like bands, whereas B is a divided panel with arched signs and small animal-like/profile figures in registers.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_0272",
+ "model": "gpt",
+ "set": "target",
+ "usage": [
+  2015,
+  656
+ ]
+}

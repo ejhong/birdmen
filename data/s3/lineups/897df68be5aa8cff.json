@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  4,
+  5,
+  8,
+  9,
+  3,
+  6,
+  10,
+  7,
+  1
+ ],
+ "most_similar_reason": "Both feature complex, stylized motifs arranged vertically on a pillar-like surface.",
+ "least_similar_reason": "This is a three-dimensional sculpture viewed from behind, lacking the layered relief motifs.",
+ "set": "moai_close_among_random",
+ "i": 14,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "rapa_nui_0004",
+  "maya_0052",
+  "persepolis_0015",
+  "egypt_0074",
+  "assyria_0158",
+  "persepolis_0043",
+  "persepolis_0071",
+  "assyria_0115",
+  "assyria_0032",
+  "persepolis_0080"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "assyria",
+  "persepolis",
+  "egypt",
+  "persepolis",
+  "persepolis",
+  "assyria",
+  "assyria",
+  "maya",
+  "persepolis"
+ ],
+ "model": "gemini",
+ "planted_rank": 10
+}

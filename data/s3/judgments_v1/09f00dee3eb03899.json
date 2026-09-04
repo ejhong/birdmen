@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "horizontal band of pattern",
+  "standing human figure in profile",
+  "quadruped animal in profile",
+  "plant or tree motif"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest correspondence is that both are carved surfaces with profile figures/animals and plant motifs arranged with at least one horizontal patterned register. The biggest difference is that A is a long, orderly, finely modeled procession framed by ornamental borders, while B is a rougher vertical slab with stacked, irregular, more schematic scenes.",
+ "a": "persepolis_0000",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  642
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  8,
+  7,
+  6,
+  10,
+  9,
+  2,
+  3,
+  1,
+  5
+ ],
+ "most_similar_reason": "Candidate 4 shows the same distinctive combination as the target: a tall tapering standing slab bearing a single large concentric spiral/ring disc set in the middle of the body, with small schematic creature-like forms above it, all rendered in shallow, simplified outline relief.",
+ "least_similar_reason": "Candidate 5 is an all-over field of ruled rows of repeated script-like signs with no figure, body, disc or spiral motif at all, so it shares none of the target's schematic anthropomorphic imagery.",
+ "set": "p43_iso_among_monoliths",
+ "i": 39,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "egypt_0045",
+  "maya_0106",
+  "egypt_0044",
+  "gotland_0026",
+  "egypt_0042",
+  "maya_0149",
+  "maya_0152",
+  "gotland_0000",
+  "anatolia_ppn_p43iso",
+  "maya_0125"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "gotland",
+  "maya",
+  "gotland",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 6
+}

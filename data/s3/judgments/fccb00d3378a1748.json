@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "stylized animal or creature forms",
+  "geometric/ornamental patterning",
+  "human or anthropomorphic body/body-part imagery"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The main shared content is only broad: both include stylized creatures and ornamental/geometric detailing, with possible anthropomorphic imagery. The biggest difference is that A is dominated by separate profile animals and patterned bands arranged in registers, while B is organized around a single frontal standing human-like figure in elaborate costume with surrounding ornaments.",
+ "a": "anatolia_ppn_p43full",
+ "b": "maya_0087",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  1171
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  7,
+  2,
+  5,
+  6,
+  3,
+  9,
+  10,
+  8,
+  4
+ ],
+ "most_similar_reason": "Candidate 1 is most similar because it likewise shows a vertical carved surface filled with schematic low-relief animal/sign motifs arranged as separate figures rather than a single naturalistic scene, closely matching the target\u2019s stacked animal iconography and linear style.",
+ "least_similar_reason": "Candidate 4 is least similar because it depicts a freestanding frontal human-like figure with body features and ornaments, not a decorated surface of profile animals, repeated signs, or relief motifs like the target.",
+ "set": "moai_close_among_random",
+ "i": 8,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "gotland_0133",
+  "maya_0114",
+  "mississippian_0005",
+  "rapa_nui_0004",
+  "assyria_0110",
+  "assyria_0119",
+  "gotland_0131",
+  "mississippian_0045",
+  "persepolis_0058",
+  "gotland_0007"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "mississippian",
+  "assyria",
+  "mississippian",
+  "gotland",
+  "assyria",
+  "persepolis",
+  "gotland"
+ ],
+ "model": "gpt",
+ "planted_rank": 10
+}

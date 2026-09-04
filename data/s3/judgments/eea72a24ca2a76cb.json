@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figures in relief",
+  "figures shown in profile or near-profile",
+  "animals with human figures",
+  "narrative scene with multiple participants",
+  "horizontal register/band composition"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both show low-relief human figures accompanied by animals, and both organise the figures along a horizontal band, but that is a very generic correspondence. A shows a crowded, dynamic scene of figures with raised arms grappling around a quadruped in high, rounded modelling, whereas B shows orderly processional files of evenly spaced, upright standing figures leading animals, separated by ornamental borders and stylised trees \u2014 different compositional logic, posture conventions and relief handling.",
+ "a": "anatolia_ppn_0276",
+ "b": "persepolis_0093",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  277
+ ]
+}

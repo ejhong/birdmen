@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "bearded male figure in strict profile",
+  "long fringed/patterned robe",
+  "elaborately curled hair and beard rendered as rows of stacked curls",
+  "figure holding an object in hand",
+  "low-relief carving with flat, outlined forms",
+  "horizontal dividing band across the field",
+  "headdress/diadem",
+  "quadruped animal in profile (only B)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces depict bearded male figures in strict profile with the same conventional treatment of stacked-curl hair and beard, long patterned robes, and objects carried in the hand, all in flat low relief, which is a fairly specific shared convention of figure rendering. The main difference in content is that A is a single monumental winged genie occupying the whole field with a raised hand and bucket-and-cone attributes, while B shows repeated files of wingless attendants and animals stacked in multiple registers separated by ornamented bands.",
+ "a": "assyria_0146",
+ "b": "persepolis_0015",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3149,
+  773
+ ]
+}

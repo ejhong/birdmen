@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  5,
+  9,
+  10,
+  1,
+  8,
+  7,
+  3,
+  2,
+  4
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it shows a dense, schematic relief vocabulary of stylized anthropomorphic/animal forms with prominent limbs, hands, and symbolic creatures arranged on the surface in a way closest to the target\u2019s carved pictorial program.",
+ "least_similar_reason": "Candidate 4 is least similar because its content is an architectural/framed scene with columns and a perspectival composition, lacking the target\u2019s schematic animal-and-body-part iconography and register-like symbolic arrangement.",
+ "set": "moai_iso_among_random",
+ "i": 35,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "gotland_0026",
+  "persepolis_0058",
+  "persepolis_0095",
+  "persepolis_0029",
+  "egypt_0073",
+  "assyria_0078",
+  "persepolis_0043",
+  "tanum_0060",
+  "rapa_nui_hoa_iso",
+  "assyria_0139"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "persepolis",
+  "tanum",
+  "persepolis",
+  "persepolis",
+  "egypt",
+  "gotland",
+  "persepolis",
+  "assyria",
+  "assyria"
+ ],
+ "model": "gpt",
+ "planted_rank": 3
+}

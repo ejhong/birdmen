@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  3,
+  1,
+  10,
+  6,
+  2,
+  5,
+  7,
+  9,
+  4
+ ],
+ "most_similar_reason": "Candidate 8 is most similar because it shows dense, ordered bands of small carved sign-like motifs and occasional simplified figures, closest to the target\u2019s stacked column of compact glyphic relief elements.",
+ "least_similar_reason": "Candidate 4 is least similar because it lacks an organized set of recognizable glyph-like signs or repeated iconographic elements, showing instead only sparse irregular scratches/marks.",
+ "set": "same_control",
+ "i": 13,
+ "target": "maya_0149",
+ "planted": "maya_0051",
+ "cands": [
+  "maya_0051",
+  "tanum_0238",
+  "egypt_0072",
+  "tanum_0100",
+  "anatolia_ppn_0261",
+  "assyria_0102",
+  "anatolia_ppn_0244",
+  "egypt_0017",
+  "anatolia_ppn_0122",
+  "persepolis_0000"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "tanum",
+  "persepolis",
+  "anatolia_ppn",
+  "egypt",
+  "anatolia_ppn",
+  "tanum",
+  "assyria",
+  "anatolia_ppn",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 3
+}

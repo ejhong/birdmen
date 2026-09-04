@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  1,
+  9,
+  4,
+  5,
+  3,
+  2,
+  7,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it also uses horizontal registers filled with schematic low-relief profile creatures/bird-like figures and simple geometric dividers, matching the target\u2019s arrangement and iconographic style more closely than the others.",
+ "least_similar_reason": "Candidate 10 is least similar because it is dominated by a mostly empty rectangular field with a narrow border of small linear marks, lacking the target\u2019s prominent profile animals, bird forms, and register-based figural composition.",
+ "set": "moai_iso_among_monoliths",
+ "i": 15,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0044",
+  "maya_0019",
+  "maya_0095",
+  "maya_0114",
+  "maya_0023",
+  "egypt_0048",
+  "maya_0087",
+  "rapa_nui_hoa_iso",
+  "egypt_0047",
+  "gotland_0004"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "maya",
+  "egypt",
+  "egypt",
+  "egypt",
+  "maya",
+  "maya",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 9
+}

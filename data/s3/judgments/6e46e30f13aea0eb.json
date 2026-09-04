@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "frontal standing/enthroned human figure filling the field",
+  "elaborate headdress or headgear crowning the head",
+  "large circular disc or medallion worn on the chest",
+  "symmetrical arrangement of ornaments flanking the torso",
+  "banded belt/skirt element across the lower body",
+  "vertical, tall panel dominated by a single costumed personage"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both depict a single frontal, elaborately costumed personage occupying the whole tall vertical field, with a broad headdress above, a prominent circular pectoral disc on the chest, symmetrical flanking regalia, and banded belt/skirt elements below \u2014 a fairly specific shared scheme of ritual costume display. The biggest differences in content are B's dense low-relief detail, feathered plumes, held objects and a column of framed sign blocks plus a basal cartouche, none of which appear in A, whose figure is rendered in massive, blocky, far more schematic terms without any sign panel.",
+ "a": "rapa_nui_0113",
+ "b": "maya_0130",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3024,
+  817
+ ]
+}

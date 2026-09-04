@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  4,
+  2,
+  8,
+  1,
+  6,
+  5,
+  10,
+  7,
+  9
+ ],
+ "most_similar_reason": "Candidate 3 is, like the target, a weathered upright stone monolith photographed in situ outdoors, its surface covered with shallow relief motifs organized in stacked bands or registers.",
+ "least_similar_reason": "Candidate 9 is a flat schematic line drawing of a circular, geometrically bordered slab seen from above, with no animal imagery, no photographic stone texture and no upright monolithic form.",
+ "set": "moai_among_random",
+ "i": 30,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "egypt_0040",
+  "assyria_0059",
+  "maya_0085",
+  "persepolis_0095",
+  "maya_0048",
+  "egypt_0077",
+  "rapa_nui_0113",
+  "egypt_0063",
+  "maya_0024",
+  "maya_0052"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "maya",
+  "persepolis",
+  "maya",
+  "egypt",
+  "assyria",
+  "maya",
+  "egypt",
+  "maya",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 9
+}

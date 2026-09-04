@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "human figures in strict profile",
+  "bearded male heads with elaborately rendered hair/beard in rows of curls",
+  "headgear/caps and helmets",
+  "procession or file of figures moving in one direction",
+  "low relief with figures on a ground line",
+  "hands holding objects (reins/weapons vs staffs/hands clasped)",
+  "long garments with incised drapery folds"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both depict bearded male figures in strict profile, low relief, with stylised curled hair/beard and patterned garments, and both organise the figures along a ground line facing largely one way, which is a real conventional correspondence. However A shows a dynamic narrative scene of a horse-drawn chariot with archers over a water/reed landscape, while B is a static file of standing attendants framed above and below by rosette bands \u2014 the relationships (riding, driving, shooting vs. walking and holding hands/staffs) and the framing motifs differ substantially.",
+ "a": "assyria_0131",
+ "b": "persepolis_0077",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  360
+ ]
+}

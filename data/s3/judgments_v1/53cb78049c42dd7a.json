@@ -1,0 +1,19 @@
+{
+ "shared_elements": [
+  "standing or upright human-like figure (only faintly visible in A and not very clear in B)",
+  "low-relief or incised carving on a vertical stone surface"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The only specific possible correspondence is that both are vertical stone surfaces bearing shallow carved imagery, with a possible upright human-like figure visible on each. The biggest difference is compositional: A appears to center on a single figure on a plain upright slab before a stepped structure, while B is a close-up of a carved pillar covered with multiple registers of animals, signs, and linear motifs.",
+ "a": "maya_0000",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  666
+ ]
+}

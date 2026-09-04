@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  1,
+  6,
+  8,
+  7,
+  3,
+  9,
+  4,
+  10,
+  5
+ ],
+ "most_similar_reason": "Candidate 2 is most similar because it shows a comparably schematic, low-relief profile animal on an upright surface, accompanied by a few simple sign-like marks rather than a complex narrative scene.",
+ "least_similar_reason": "Candidate 5 is least similar because its decoration is dominated by large abstract circular and arched forms and lacks the target\u2019s recognizable profile animal motif and small adjacent signs.",
+ "set": "same_control",
+ "i": 20,
+ "target": "anatolia_ppn_0093",
+ "planted": "anatolia_ppn_0095",
+ "cands": [
+  "maya_0054",
+  "anatolia_ppn_0095",
+  "egypt_0065",
+  "maya_0130",
+  "rapa_nui_0046",
+  "persepolis_0093",
+  "assyria_0021",
+  "persepolis_0066",
+  "egypt_0043",
+  "maya_0114"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "egypt",
+  "persepolis",
+  "persepolis",
+  "maya",
+  "rapa_nui",
+  "maya",
+  "assyria"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

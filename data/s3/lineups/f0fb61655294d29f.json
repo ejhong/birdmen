@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  10,
+  7,
+  5,
+  8,
+  3,
+  1,
+  2,
+  4,
+  6
+ ],
+ "most_similar_reason": "Candidate 9 is most similar because it also presents a single schematic frontal anthropomorphic form with a rounded head/upper body outline and internal geometric lines suggesting body parts or costume elements.",
+ "least_similar_reason": "Candidate 6 is least similar because it consists mainly of repeated glyph-like signs in a grid, lacking the target\u2019s frontal anthropomorphic figure, large circular body features, and curving body bands.",
+ "set": "p43_among_random",
+ "i": 4,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "anatolia_ppn_p43full",
+  "assyria_0128",
+  "tanum_0008",
+  "persepolis_0104",
+  "egypt_0074",
+  "maya_0095",
+  "maya_0045",
+  "egypt_0050",
+  "gotland_0008",
+  "maya_0069"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "maya",
+  "persepolis",
+  "assyria",
+  "maya",
+  "egypt",
+  "maya",
+  "gotland",
+  "tanum",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 7
+}

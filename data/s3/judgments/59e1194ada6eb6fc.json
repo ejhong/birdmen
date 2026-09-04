@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic linear/geometric markings",
+  "circle or oval/disc motif",
+  "curved band or arc"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "The only real correspondences are very generic: both include schematic incised/painted lines, curved bands, and some circular or oval marks. A is dominated by a frontal anthropomorphic figure with body parts and internal markings, while B depicts a long boat-like form with repeated strokes and profile animals, so the iconographic content and arrangement are fundamentally different.",
+ "a": "rapa_nui_0113",
+ "b": "tanum_0237",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  657
+ ]
+}

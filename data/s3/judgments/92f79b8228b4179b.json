@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "human figure in strict profile",
+  "bearded male with elaborately curled hair/beard",
+  "low-relief carved figures with detailed patterned surface textures",
+  "figures shown walking/striding in procession or forward stance",
+  "hand raised/extended holding or gesturing",
+  "fringed or patterned garment",
+  "rosette or disc motif"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show low-relief bearded male figures in strict profile with tightly stylised curled hair and beards, patterned garments, raised gesturing hands and rosette/disc motifs, rendered with the same convention of flat planes overlaid with dense incised texture. The biggest difference in content is that A is a horizontal procession scene of attendants leading horned rams beside a stylised tree, framed by rosette borders, while B is a single large winged supernatural figure filling the whole panel with attributes in each hand and no animals or landscape.",
+ "a": "persepolis_0032",
+ "b": "assyria_0158",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3124,
+  345
+ ]
+}

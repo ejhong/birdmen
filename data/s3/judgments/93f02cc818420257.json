@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "rectangular glyph-like blocks with rounded internal motifs",
+  "blocks arranged in regular rows/columns forming bands",
+  "low-relief carved figural/sign motifs on a flat panel"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both surfaces carry the same distinctive kind of element: square-cornered sign blocks packed with curvilinear internal detail, laid out in a strict grid of rows and columns across the surface, rendered in shallow relief with similar rounded outline conventions. The decisive difference is that B is dominated by a large elaborately costumed standing human figure with a plumed headdress and ornaments, occupying the centre and flanked by the sign columns, whereas A shows only bands of sign blocks with no identifiable figure or figure-to-sign relationship.",
+ "a": "maya_0023",
+ "b": "maya_0026",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3349,
+  547
+ ]
+}

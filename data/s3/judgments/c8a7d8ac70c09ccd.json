@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "anthropomorphic monolith/pillar carved in low relief",
+  "row of animals in profile arranged in a register across the upper body",
+  "horizontal band/belt encircling the torso with pendant elements below",
+  "bird-like creature in profile",
+  "quadruped with visible legs and tail in profile",
+  "circular disc or ring motif on the body",
+  "arms/limbs rendered in shallow relief on the shaft",
+  "registers stacked vertically on a single body-shaped surface"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both surfaces depict an anthropomorphic standing monolith whose body carries stacked registers: a row of profile animals near the top, a horizontal encircling band/belt across the torso with elements hanging or set below it, and further creatures or discs on the lower shaft, all in flat schematic low relief. The clearest difference is in the specific creature repertoire and detail: B shows clearly readable birds, snouted quadrupeds and a large bird with splayed limbs plus an arm-and-hand rendered on the shaft, whereas A's motifs are more abstract, dominated by a plain concentric disc and geometric bands with a distinct head-and-headdress block at the top rather than a plain T-crossbar.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "target",
+ "usage": [
+  2974,
+  964
+ ]
+}

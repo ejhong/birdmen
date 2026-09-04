@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "anthropomorphic figure shown frontally/in relief",
+  "low-relief carved linear detail on a stone slab or block",
+  "stylised head with elaborate headdress or hair mass",
+  "incised circular/disc motif on the body area",
+  "arms/hands rendered against the torso"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both depict a single dominant anthropomorphic figure carved in relief with a large head, elaborate headdress-like mass and incised detailing including circular motifs on the chest area, which is a fairly generic correspondence. B shows a bearded, winged figure in profile with large feathered wings, a raised arm holding an object and finely combed hair and feather patterning, whereas A is a blocky frontal figure with schematic looped and disc ornaments and no wings, profile or held attribute, so the specific iconography and rendering conventions differ sharply.",
+ "a": "rapa_nui_0113",
+ "b": "assyria_0032",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3099,
+  336
+ ]
+}

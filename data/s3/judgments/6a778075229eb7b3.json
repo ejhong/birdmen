@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "bearded human figures in strict profile",
+  "procession of animals in profile moving in one direction",
+  "low relief carving with figures overlapping in file",
+  "human figure leading/holding an animal by a tether or rein",
+  "stylized patterned hair/beard rendered as regular rows of curls",
+  "ground line with figures aligned along it"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both are low-relief friezes of bearded profile figures moving rightward with animals led on cords, animals overlapping in file above a ground line, and both use the same convention of tightly patterned rows of curls for hair and beard and profile heads with frontal-set eye. The subject differs, however: A is a peaceful tribute procession of attendants with rams and a bull below a rosette border, while B is a chariot drawn by a horse with an armed driver trampling a fallen body, a violent military scene with a spoked wheel and harness poles absent from A.",
+ "a": "persepolis_0027",
+ "b": "assyria_0109",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  348
+ ]
+}

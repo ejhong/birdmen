@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  4,
+  10,
+  2,
+  1,
+  5,
+  8,
+  7,
+  6,
+  9
+ ],
+ "most_similar_reason": "Both feature a flat vertical surface decorated with raised relief carvings that mix symbolic motifs and figures, arranged somewhat in registers.",
+ "least_similar_reason": "This candidate is an anthropomorphic statue, lacking the flat surface, clear registers, and distinct animal or geometric motifs seen in the target.",
+ "set": "moai_iso_among_monoliths",
+ "i": 1,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0071",
+  "egypt_0044",
+  "maya_0045",
+  "maya_0114",
+  "egypt_0068",
+  "gotland_0116",
+  "gotland_0113",
+  "maya_0095",
+  "rapa_nui_hoa_iso",
+  "maya_0066"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt",
+  "gotland",
+  "maya",
+  "maya",
+  "maya",
+  "egypt"
+ ],
+ "model": "gemini",
+ "planted_rank": 10
+}

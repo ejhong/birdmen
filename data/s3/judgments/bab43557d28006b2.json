@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "bird-headed figure in profile",
+  "anthropomorphic body with a bird's head",
+  "relief-carved figures on a flat vertical field",
+  "circular/ring or rosette-like motif",
+  "repeated symmetrical flanking motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The one notable correspondence is that both surfaces carry a bird-headed humanoid figure shown in profile, together with circular motifs (rosettes on A, rings on B), which is more specific than mere generic figuration. Otherwise the content diverges sharply: A shows a single large winged, robed genius holding a bucket and cone between elaborate flowering plants under a dense band of script, rendered with detailed naturalistic musculature and feathering, while B shows tiny, extremely schematic paired symbols and profile heads spread over the curved back of a monumental human head-and-torso form with no wings, plants, handled objects or inscription.",
+ "a": "assyria_0120",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3049,
+  894
+ ]
+}

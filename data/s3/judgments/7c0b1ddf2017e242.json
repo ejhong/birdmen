@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "animals in relief on stone surfaces",
+  "quadruped animal in profile with head and limbs",
+  "long-snouted / reptilian creature seen from above or in profile",
+  "shallow low-relief carving with outlined bodies and no interior infill",
+  "multiple animals arranged together on one surface"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces show several animals rendered as shallow low-relief silhouettes with plain, uninfilled bodies, including sprawling long-bodied reptile-like creatures with splayed limbs seen from above, which is a reasonably specific shared convention. However, A is a structured composition on a rectangular pillar with a horizontal banded register, a large prowling quadruped in profile above a smaller crouching animal, plus bird heads and a plant-like frond, whereas B is an unordered scatter of creatures over irregular boulders with no register, no band and no plant or bird motifs, so the relationships and arrangement do not correspond.",
+ "a": "anatolia_ppn_p43full",
+ "b": "rapa_nui_0096",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  380
+ ]
+}

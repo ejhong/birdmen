@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  8,
+  5,
+  3,
+  7,
+  4,
+  10,
+  1,
+  6,
+  2
+ ],
+ "most_similar_reason": "Both depict stylized animal figures in profile using a similar low-relief technique.",
+ "least_similar_reason": "Lacks clearly discernible depicted forms or motifs to compare.",
+ "set": "hard",
+ "i": 0,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0125",
+  "egypt_0027",
+  "maya_0047",
+  "gotland_0116",
+  "egypt_0012",
+  "gotland_0123",
+  "gotland_0133",
+  "rapa_nui_0113",
+  "tanum_0359",
+  "gotland_0115"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "gotland",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "gemini",
+ "planted_rank": 2
+}

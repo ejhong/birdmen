@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief carving with figures in profile",
+  "animal/creature in profile with head turned to side",
+  "human or humanoid figure with arms shown",
+  "horizontal band-like registers dividing the surface",
+  "repeated linear/hatched patterning"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both are low-relief surfaces organised into registers with profile figures and some hatched/linear patterning, but the actual content differs almost entirely: A shows schematic animals (quadruped, birds, a snake-like or feathered form) and small abstracted anthropomorphs stacked in zones, while B shows a naturalistic banquet-type scene with a seated bearded figure raising a cup on a chair, attended by a standing figure with a staff. The rendering conventions are also opposed \u2014 A's stiff, outline-only, hieroglyph-like creatures versus B's detailed drapery, coiffure and furniture \u2014 so the correspondences are of the most generic kind.",
+ "a": "anatolia_ppn_p43full",
+ "b": "assyria_0138",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  361
+ ]
+}

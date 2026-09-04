@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  6,
+  3,
+  4,
+  9,
+  5,
+  1,
+  8,
+  2,
+  10
+ ],
+ "most_similar_reason": "Candidate 7 shows the same kind of low-relief animals (a quadruped with splayed legs and other creatures) carved in shallow schematic outline on the face of an upright monolithic slab, matching the target's animal frieze convention closely.",
+ "least_similar_reason": "Candidate 10 depicts a naturalistic mounted rider on a galloping horse, a narrative human-and-mount scene with no counterpart to the target's stacked schematic animals, snakes and geometric band.",
+ "set": "hard",
+ "i": 5,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0133",
+  "gotland_0116",
+  "egypt_0012",
+  "rapa_nui_0113",
+  "gotland_0125",
+  "maya_0047",
+  "tanum_0359",
+  "egypt_0027",
+  "gotland_0123",
+  "gotland_0115"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "gotland",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

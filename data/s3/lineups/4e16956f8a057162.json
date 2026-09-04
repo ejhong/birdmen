@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  1,
+  2,
+  9,
+  3,
+  10,
+  5,
+  4,
+  8,
+  6
+ ],
+ "most_similar_reason": "Candidate 7, like the target, is a monolithic pillar-figure whose flat body is treated as a schematic anthropomorphic body with low-relief arms/limbs and small motifs carved onto the torso, the same convention of turning an upright block into a standing figure.",
+ "least_similar_reason": "Candidate 6 shows a lively narrative scene of many small running human figures around large profile animals, with no monumental single frontal figure, no torso-borne discs and an entirely different, animated painted style.",
+ "set": "p43_among_random",
+ "i": 14,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "maya_0111",
+  "maya_0085",
+  "mississippian_0011",
+  "persepolis_0110",
+  "egypt_0056",
+  "catalhoyuk_0039",
+  "anatolia_ppn_p43full",
+  "maya_0024",
+  "maya_0081",
+  "mississippian_0005"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "maya",
+  "mississippian",
+  "catalhoyuk",
+  "persepolis",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "mississippian"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

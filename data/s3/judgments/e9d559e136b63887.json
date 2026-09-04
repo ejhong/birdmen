@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "round or oval motifs",
+  "horizontal bands or linear dividers",
+  "schematic incised/relief signs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest shared content is the use of schematic relief/incised signs including roundels and horizontal linear bands on an upright surface. The major difference is that A is dominated by a single frontal anthropomorphic body with paired body features, while B is a multi-register field of profile animals and abstract signs rather than the same figure or scene.",
+ "a": "rapa_nui_0044",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  1690
+ ]
+}

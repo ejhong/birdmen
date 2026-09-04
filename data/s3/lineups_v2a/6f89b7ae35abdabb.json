@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  4,
+  8,
+  2,
+  6,
+  10,
+  5,
+  7,
+  3,
+  1
+ ],
+ "most_similar_reason": "Candidate 9 shows the same distinctive thing as the target: a tall upright monolithic pillar treated as an abstracted anthropomorphic body, with schematic low-relief arms bending around the sides toward the front, hands/fingers meeting near the waist, and a belt-like band with hanging elements, all rendered in the same flat, minimally modelled, non-naturalistic style.",
+ "least_similar_reason": "Candidate 1 shows only a small scatter of repeated marks/signs and a bucranium-like fragment on a flat wall, with no figure, no body parts and no arrangement resembling the target's frontal anthropomorphic pillar.",
+ "set": "p43_among_random",
+ "i": 31,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "catalhoyuk_0102",
+  "maya_0087",
+  "assyria_0109",
+  "maya_0094",
+  "assyria_0146",
+  "mississippian_0010",
+  "assyria_0128",
+  "maya_0137",
+  "anatolia_ppn_p43full",
+  "mississippian_0055"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "maya",
+  "assyria",
+  "assyria",
+  "catalhoyuk",
+  "maya",
+  "mississippian",
+  "maya",
+  "assyria",
+  "mississippian"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

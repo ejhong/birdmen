@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "frontal human or human-like figure",
+  "paired eyes or eye-like forms",
+  "arms/hands on a body"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is a human or human-like body with paired eye forms placed toward the upper part of the object. The biggest difference is that A is a flat, crowded low-relief surface organized in stacked registers with many incised motifs, while B is a single monumental, smooth-bodied frontal figure with very little surface decoration.",
+ "a": "anatolia_ppn_p43full",
+ "b": "rapa_nui_0063",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1151,
+  644
+ ]
+}

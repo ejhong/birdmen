@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "carved/relief decoration on stone",
+  "human figure in profile",
+  "quadruped animal in profile",
+  "horizontal band or register",
+  "linear/hatching surface pattern"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces combine profile human figures with profile quadrupeds in a carved stone medium, with some horizontal organization and internal linear patterning. The biggest difference is compositional: A is a refined, continuous procession dominated by two large animals and riders/handlers, while B is a rougher vertical stone with stacked, schematic motifs in separate bands.",
+ "a": "persepolis_0064",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  495
+ ]
+}

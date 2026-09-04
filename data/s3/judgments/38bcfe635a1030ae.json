@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "anthropomorphic or human figure",
+  "circular motifs or discs",
+  "incised linear/geometric markings",
+  "horizontal bands or lines"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The main shared content is only broad: both include human/anthropomorphic imagery together with circular and linear carved motifs. The biggest difference is that A is a single frontal, highly abstract body-like figure with features and bands on its torso, while B is a multi-register scene of small profile figures and sign-like inscriptions arranged in panels.",
+ "a": "rapa_nui_0113",
+ "b": "egypt_0047",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  658
+ ]
+}

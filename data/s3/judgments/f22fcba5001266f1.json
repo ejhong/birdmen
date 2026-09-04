@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figure in profile with raised arm(s)",
+  "winged/radiating motif above or behind figure",
+  "low relief carving of figures at large scale on a wall panel",
+  "offering/gesture toward something in front of the figure",
+  "registers or bands of smaller repeated signs/details"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both show large low-relief human figures in profile with an arm raised in a ritual gesture, accompanied by radiating/feathered motifs and bands of small repeated signs. But the specific content differs sharply: A is a single monumental bearded winged figure filling the panel with wings springing from its own back and a bucket-like object in one hand, whereas B is a multi-figure scene with a rayed disc above, an altar table piled with offerings, and several attendant figures of varying size, arranged in registers with dense inscription blocks.",
+ "a": "assyria_0034",
+ "b": "egypt_0062",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3149,
+  327
+ ]
+}

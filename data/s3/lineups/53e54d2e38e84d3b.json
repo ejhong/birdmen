@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  9,
+  5,
+  3,
+  10,
+  8,
+  1,
+  7,
+  6,
+  4
+ ],
+ "most_similar_reason": "Candidate 2 shows a stela organized in horizontal registers combining hieroglyphic-style text bands with small figural scenes, closely paralleling the target's layered composition of inscription bands above figural/bird imagery.",
+ "least_similar_reason": "Candidate 4 depicts a single large anthropomorphic figure with an elaborate headdress in a naturalistic sculptural style, lacking the registers of hieroglyphs, birds, and profile figures seen in the target.",
+ "set": "moai_iso_among_monoliths",
+ "i": 10,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "gotland_0133",
+  "egypt_0042",
+  "maya_0091",
+  "maya_0052",
+  "egypt_0072",
+  "maya_0054",
+  "rapa_nui_hoa_iso",
+  "gotland_0112",
+  "egypt_0067",
+  "maya_0105"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "gotland",
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "gotland",
+  "maya"
+ ],
+ "model": "sonnet",
+ "planted_rank": 8
+}

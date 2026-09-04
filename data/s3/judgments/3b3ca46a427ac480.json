@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "schematic animal figures in profile",
+  "snake-like or sinuous forms",
+  "bird-like forms",
+  "circular or oval disc motif",
+  "horizontal band across the surface",
+  "densely arranged relief/linear motifs on a vertical surface"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "The strongest correspondence is the use of schematic low-relief/linear animal imagery, including sinuous snake-like forms and bird-like profile creatures, combined with a circular disc and a horizontal band on a vertical decorated surface. The biggest difference is that A\u2019s imagery is organized on and as part of a large anthropomorphic body with shoulders, head, and belt-like feature, while B is a panel-like composition of stacked registers filled with separate animals and signs rather than a single embodied figure.",
+ "a": "rapa_nui_0049",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  705
+ ]
+}

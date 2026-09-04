@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "upright slab/stela with carved relief scene",
+  "standing human figures in profile or frontal stance",
+  "figures facing one another in interaction",
+  "raised arms/hands extended toward another figure or object",
+  "tall elaborate headdress or crown on a figure",
+  "registers or stacked scene zones",
+  "small signs/glyph-like marks in upper field",
+  "offering or object placed between figures"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both are upright stelae bearing low-relief scenes of standing human figures confronting one another with raised/extended arms, tall headgear, and small sign-like marks filling the upper field, with the scene divided into stacked zones. However, the specific forms differ: A shows a single dominant elaborately costumed figure with dense ornamental plumes and blocky glyph panels, while B shows multiple slimmer figures in two clear registers with an offering table and gesture-based interaction, so the correspondence stays at the level of a shared genre rather than a shared scene.",
+ "a": "maya_0088",
+ "b": "egypt_0072",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2974,
+  368
+ ]
+}

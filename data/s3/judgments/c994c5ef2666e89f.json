@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "standing human figures in profile",
+  "facing pair of figures",
+  "figures holding objects in raised hands",
+  "low-relief carving on a rectangular/upright slab",
+  "garments indicated by incised lines",
+  "offering/vessel-like objects between figures"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both depict low-relief upright panels with human figures shown in profile facing one another across raised, handheld vessel-like objects, a broadly shared 'presentation/offering' scheme. However, A shows two large, elaborately detailed figures with long hair, fringed robes and precisely rendered hands filling the whole field, while B is a smaller, more crowded and schematic composition with several figures, a canopy-like structure, a tall stand of piled offerings and sign-like marks, so the specific forms, proportions and detailing conventions differ considerably.",
+ "a": "assyria_0095",
+ "b": "egypt_0065",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  325
+ ]
+}

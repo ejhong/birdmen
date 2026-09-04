@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "animal in profile in low relief on a broad pillar face",
+  "quadruped/feline-like creature with elongated body and tail",
+  "long sinuous snake-like line running down the surface",
+  "relief carving on a rectangular upright stone face"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces carry low-relief animal figures in profile on the flat face of a tall rectangular pillar, and both include an elongated sinuous line/creature descending the face, which is a fairly specific shared convention of a single profile animal set against an otherwise plain field. However, B is a densely packed multi-register composition with rows of birds, a bucranium-like band, arms/hands, and stacked animals, while A shows only one isolated faint animal and a curving line, so the relationships and arrangement barely correspond.",
+ "a": "anatolia_ppn_0093",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  312
+ ]
+}

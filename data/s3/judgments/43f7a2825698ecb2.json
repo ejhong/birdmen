@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "low-relief carving on an upright monument surface",
+  "anthropomorphic/human figural element",
+  "horizontal dividing bands separating zones of carving",
+  "small repeated symbolic signs (dense in A, sparse in B)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both are upright relief-carved monuments whose surfaces are divided by horizontal bands and include human/anthropomorphic imagery together with conventional symbolic signs, but that is about as generic as monumental relief gets. A is dominated by many rows of small, tightly packed script-like glyphs with two small kneeling figures facing inward in a bottom register, whereas B is a single large anthropomorphic mass with a headdress-like top and a few big curvilinear motifs and a central ring/disc on the chest \u2014 no shared specific motif, relationship or layout.",
+ "a": "egypt_0038",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2974,
+  742
+ ]
+}

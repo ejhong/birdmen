@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "bearded male figure in strict profile",
+  "tightly curled/row-patterned hair and beard",
+  "tall elaborate headdress or crown",
+  "standing figure on a ground line",
+  "hand raised in a gesture before the face",
+  "handled bucket-like or small object carried in the hand",
+  "patterned/fringed garment rendered as ordered rows",
+  "low-relief figures facing the same direction"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show bearded men in strict profile with tall headdresses, hair and beards ordered into regular rows of curls, one hand raised in a gesture and the other carrying a small handled object at the side \u2014 a fairly specific combination of attributes and posture. The biggest differences in content are that A is a single hybrid figure wearing a fish skin cloak filling a tall panel, whereas B is a horizontal frieze of many wholly human, robed figures in a procession interacting with each other.}",
+ "a": "assyria_0118",
+ "b": "persepolis_0025",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3049,
+  835
+ ]
+}

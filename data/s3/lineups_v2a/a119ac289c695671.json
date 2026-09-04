@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  10,
+  6,
+  8,
+  7,
+  2,
+  9,
+  5,
+  3,
+  4
+ ],
+ "most_similar_reason": "Candidate 1 shows the same kind of tall narrow upright pillar bearing shallow relief carvings of schematic animal and abstract motifs stacked in bands across its broad face, matching the target's arrangement and reductive, outline-and-flat-relief carving style.",
+ "least_similar_reason": "Candidate 4 is a single isolated, crudely painted stick-like linear sign with no animals, no figural detail and none of the target's dense multi-register composition of creatures and geometric motifs.",
+ "set": "moai_among_random",
+ "i": 9,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "maya_0138",
+  "persepolis_0030",
+  "egypt_0044",
+  "tanum_0128",
+  "maya_0129",
+  "maya_0136",
+  "rapa_nui_0113",
+  "assyria_0100",
+  "assyria_0142",
+  "maya_0137"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "maya",
+  "assyria",
+  "persepolis",
+  "tanum",
+  "maya",
+  "assyria",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 5
+}

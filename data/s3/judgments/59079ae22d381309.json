@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figure in profile, striding, low relief",
+  "hand grasping a held object (staff / vessel)",
+  "patterned or fringed garment detail",
+  "profile-set eye and stylised hair/headgear",
+  "rounded rosette-like motif (rosette band in A; ring/rosette object in B)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both show a striding human figure in strict profile carved in low relief, with a hand closed around a held object, careful rendering of patterned garment edges and stylised hair, and small rosette-like discs appear in each. But A is a horizontal frieze whose main subject is a two-humped camel led by an attendant beneath a band of rosettes, whereas B is a single monumental winged, bearded, human-headed figure filling the whole panel with no animal, no register band and no procession.",
+ "a": "persepolis_0062",
+ "b": "assyria_0034",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3149,
+  712
+ ]
+}

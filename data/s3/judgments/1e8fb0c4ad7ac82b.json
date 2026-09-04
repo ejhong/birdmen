@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "large schematic anthropomorphic figure or torso form",
+  "rectangular head with incised linear facial/ornamental motifs",
+  "paired small circular depressions on upper body",
+  "central circular disc or ring on chest/upper torso",
+  "curving horizontal band or arc across the torso",
+  "short vertical pendant strokes below the band",
+  "lower circular motif near the base",
+  "symmetrical incised linear decoration"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "10",
+ "justification": "Both show the same highly specific scheme: a blocky anthropomorphic surface with a rectangular decorated head, paired circular marks flanking a central ring, and a curved band with pendant strokes arranged across the torso. The only apparent differences are photographic viewpoint and visibility of details, not differences in depicted content.",
+ "a": "rapa_nui_0054",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1777,
+  317
+ ]
+}

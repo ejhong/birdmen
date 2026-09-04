@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic animal or bird figures in profile",
+  "small human or anthropomorphic figures",
+  "rows or bands of repeated signs/symbols",
+  "linear registers or framing bands"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is the use of schematic profile creatures and repeated sign-like motifs arranged in bands or registers. The biggest difference is that A centers on a sun-disc-with-rays, offering table, and standing human figures in a formal ritual scene, while B is dominated by isolated animals and abstract signs without the same central disc, rays, altar, or worship relationship.",
+ "a": "egypt_0000",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  671
+ ]
+}

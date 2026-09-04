@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  9,
+  1,
+  8,
+  3,
+  5,
+  4,
+  10,
+  6,
+  7
+ ],
+ "most_similar_reason": "Like the target, candidate 2 shows a horizontal band of animals rendered in shallow relief in strict profile, repeated and aligned along a register with simple outlined bodies and legs shown in file, which is the same organising principle as the target's stacked rows of profile creatures.",
+ "least_similar_reason": "Candidate 7 depicts a single frontal human-like figure carved in the round with a headdress and body ornaments, showing none of the target's registers of profile animals and birds.",
+ "set": "moai_iso_among_random",
+ "i": 18,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "assyria_0110",
+  "persepolis_0095",
+  "maya_0111",
+  "maya_0019",
+  "maya_0146",
+  "maya_0026",
+  "rapa_nui_hoa_iso",
+  "mississippian_0011",
+  "persepolis_0085",
+  "maya_0094"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "assyria",
+  "maya",
+  "persepolis",
+  "persepolis",
+  "mississippian"
+ ],
+ "model": "opus",
+ "planted_rank": 10
+}

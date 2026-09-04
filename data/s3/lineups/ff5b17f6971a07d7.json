@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  9,
+  6,
+  3,
+  7,
+  2,
+  5,
+  10,
+  1,
+  8
+ ],
+ "most_similar_reason": "Both depict a single large standing anthropomorphic figure with a headdress that occupies most of the surface.",
+ "least_similar_reason": "It shows only dense rows of written characters with no human figures, circular motifs, headdresses, or comparable pictorial elements.",
+ "set": "p43_iso_among_monoliths",
+ "i": 0,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0095",
+  "maya_0111",
+  "egypt_0073",
+  "maya_0051",
+  "gotland_0111",
+  "maya_0110",
+  "maya_0069",
+  "egypt_0049",
+  "anatolia_ppn_p43iso",
+  "egypt_0040"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "gotland",
+  "maya",
+  "maya"
+ ],
+ "model": "grok",
+ "planted_rank": 2
+}

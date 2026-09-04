@@ -1,0 +1,19 @@
+{
+ "shared_elements": [
+  "carved stone surface",
+  "anthropomorphic or face-like features"
+ ],
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific possible correspondence is that both are worked stone surfaces with some face- or human-related imagery, but in A this is embedded among many small incised figures and patterned bands, while B is dominated by a single large frontal face-like form. The biggest difference is compositional: A is a crowded, linear relief organized in horizontal registers, whereas B is a rough, monumental, largely unpatterned mask or head-like slab.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0270",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1204,
+  656
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figure in profile with long beard and elaborate headdress/hair",
+  "low-relief carved figures on a flat ground",
+  "stylized tree/plant with repeated leaf or palmette forms",
+  "figure with arm raised/extended toward a plant or object",
+  "long fringed or patterned garment",
+  "figures shown with profile head and frontal-shouldered torso"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces depict bearded male figures in strict profile with patterned hair/beard, long fringed robes and outstretched arms, and both include a conventionalized tree/plant standing beside a figure, rendered in the same shallow-relief, contour-with-incised-detail manner. The biggest difference in content is organisation and subject: A is a multi-register procession of many small repeated figures, animals and offerings, while B is a single monumental winged figure holding a bucket-and-cone-like attribute at a palmette tree, a motif absent from A.",
+ "a": "persepolis_0051",
+ "b": "assyria_0078",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3324,
+  715
+ ]
+}

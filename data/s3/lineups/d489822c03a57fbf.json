@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  9,
+  2,
+  5,
+  10,
+  6,
+  1,
+  8,
+  3,
+  7
+ ],
+ "most_similar_reason": "Candidate 4 shares the depiction of a standing human figure in profile with related stylistic conventions.",
+ "least_similar_reason": "Candidate 7 consists entirely of a grid of abstract motifs without any figurative elements.",
+ "set": "related_control",
+ "i": 20,
+ "target": "persepolis_0039",
+ "planted": "assyria_0051",
+ "cands": [
+  "rapa_nui_0070",
+  "maya_0048",
+  "tanum_0339",
+  "assyria_0051",
+  "maya_0092",
+  "anatolia_ppn_0223",
+  "maya_0011",
+  "tanum_0359",
+  "mississippian_0010",
+  "rapa_nui_0063"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "rapa_nui",
+  "rapa_nui",
+  "mississippian",
+  "tanum",
+  "tanum",
+  "anatolia_ppn",
+  "maya"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

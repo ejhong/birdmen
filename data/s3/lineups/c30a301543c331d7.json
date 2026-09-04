@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  8,
+  1,
+  10,
+  3,
+  9,
+  6,
+  2,
+  7,
+  5
+ ],
+ "most_similar_reason": "Candidate 4 shows a standing costumed human figure in dense relief that fills the monument, matching the target\u2019s anthropomorphic subject, body proportions, belt-like bands and hanging lower element.",
+ "least_similar_reason": "Candidate 5 presents an almost featureless standing stone whose surface lacks any clear human figure, circular ornament, costume details or other specific motifs seen on the target.",
+ "set": "p43_iso_among_monoliths",
+ "i": 1,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0097",
+  "egypt_0063",
+  "anatolia_ppn_p43iso",
+  "maya_0091",
+  "maya_0082",
+  "gotland_0133",
+  "maya_0057",
+  "maya_0060",
+  "maya_0149",
+  "maya_0115"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "gotland",
+  "maya"
+ ],
+ "model": "grok",
+ "planted_rank": 5
+}

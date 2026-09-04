@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "rounded/arched upper edge of an inscribed slab",
+  "horizontal registers of script-like signs separated by ruled dividing lines",
+  "small pictorial signs (glyph-like forms) repeated in rows",
+  "large oval/ring-enclosed sign (cartouche-like element)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces present a round-topped inscribed panel covered with horizontal ruled registers of small pictorial sign-forms, and both include a conspicuous large oval enclosing marks, a fairly specific shared convention of writing arranged in banded lines with framed name-signs. The biggest difference in content is that A carries a full figural lunette scene, adoring human figures, a rayed disc, and a laden offering table above the text, none of which is present on B, which shows only sign registers.",
+ "a": "egypt_0015",
+ "b": "maya_0076",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3124,
+  682
+ ]
+}

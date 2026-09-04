@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "upright anthropomorphic/human-like figure",
+  "head/face above a torso",
+  "schematic carved internal body or costume details"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The main correspondence is that both surfaces present a single upright anthropomorphic figure organized vertically, with a head/face area above a torso and schematic internal details. The biggest difference is that A appears to show a relatively naturalistic standing human figure, possibly in profile and holding an object, while B shows a much more abstract frontal totem-like body with prominent circular and curving motifs.",
+ "a": "maya_0000",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  918
+ ]
+}

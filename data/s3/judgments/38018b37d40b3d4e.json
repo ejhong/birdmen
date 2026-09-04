@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "curvilinear glyph-like carved signs with rounded outlines",
+  "volute/scroll motifs",
+  "relief carving with raised outlines and internal detail",
+  "paired small rounded elements set beside larger forms"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces carry curvilinear, rounded-outline relief signs with scroll and volute detail, which suggests a broadly comparable carving convention, but the specific content differs: A is a rectangular field with an ordered border of discrete rectangular glyph cartouches framing a large plain central disc with small paired elements, while B shows large interlocking scrolls and a bar-like element forming what reads as a single composite face or mask-like design without any framing register. Beyond the generic presence of curvilinear glyph-like ornament there is no shared distinctive motif or arrangement.",
+ "a": "maya_0024",
+ "b": "maya_0127",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3324,
+  327
+ ]
+}

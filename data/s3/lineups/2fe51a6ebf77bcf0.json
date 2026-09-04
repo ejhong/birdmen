@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  4,
+  2,
+  10,
+  8,
+  6,
+  3,
+  5,
+  1,
+  7
+ ],
+ "most_similar_reason": "Candidate 9 shows the same kind of upright rectangular/T-shaped monolithic pillar standing within a rough stone-and-rubble enclosure, bearing sparse low-relief carving on its broad face, matching the target's pillar-with-relief-in-a-wall arrangement almost element for element.",
+ "least_similar_reason": "Candidate 7 is a flat panel filled edge-to-edge with rows of purely textual signs and no creatures, figures or relief imagery, sharing nothing with the target's isolated animal carved in low relief on a standing pillar.",
+ "set": "same_control",
+ "i": 12,
+ "target": "anatolia_ppn_0082",
+ "planted": "anatolia_ppn_0095",
+ "cands": [
+  "egypt_0040",
+  "egypt_0027",
+  "persepolis_0104",
+  "rapa_nui_0097",
+  "gotland_0003",
+  "maya_0026",
+  "assyria_0140",
+  "egypt_0066",
+  "anatolia_ppn_0095",
+  "assyria_0125"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "assyria",
+  "egypt",
+  "rapa_nui",
+  "egypt",
+  "egypt",
+  "assyria",
+  "maya",
+  "gotland",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

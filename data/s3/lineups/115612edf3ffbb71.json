@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  7,
+  4,
+  8,
+  5,
+  2,
+  6,
+  9,
+  1,
+  10
+ ],
+ "most_similar_reason": "Candidate 3 shows the same core subject as the target: a single frontal standing personage dominating an upright monument, with a broad elaborate headdress above the head, ornaments across the chest and a belt-like band at the waist, all rendered in shallow schematic relief that follows the block-like form of the stone.",
+ "least_similar_reason": "Candidate 10 depicts nothing but a grid of repeated inscribed sign-blocks with no human figure, headdress, pectoral or body at all, so it shares none of the target's figural iconography or arrangement.",
+ "set": "p43_iso_among_monoliths",
+ "i": 9,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "egypt_0049",
+  "anatolia_ppn_p43iso",
+  "maya_0152",
+  "maya_0137",
+  "egypt_0073",
+  "egypt_0040",
+  "maya_0069",
+  "maya_0039",
+  "maya_0077",
+  "maya_0095"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 6
+}

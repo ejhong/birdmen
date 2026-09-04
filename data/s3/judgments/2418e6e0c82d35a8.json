@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "standing anthropomorphic figure, frontal or profile, full length",
+  "elaborate headdress/crown",
+  "bearded or beaked head in profile",
+  "patterned garment with hanging fringe or pleats",
+  "jewelry/ornament at the neck or belt"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both depict a single upright anthropomorphic figure with a tall headdress and a patterned, fringed garment, which is a generic correspondence available to many traditions. The differences dominate: A is a strict profile human holding a long vertical spear with a naturalistic beard and pleated robe rendered in fine incised line, while B is a frontal bird-headed hybrid with two great outspread feathered wings, a serpentine arch overhead and flat outlined-and-filled decorative panels, with no shared relationship such as holding, flanking or facing.",
+ "a": "persepolis_0067",
+ "b": "mississippian_0002",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3049,
+  331
+ ]
+}

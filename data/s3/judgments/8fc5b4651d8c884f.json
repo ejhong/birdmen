@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "long-necked bird in profile",
+  "animal figures in profile",
+  "horizontal band or register",
+  "repeated geometric chevron/triangle pattern",
+  "row of repeated abstract signs or blocks"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "The strongest correspondence is the combination of schematic profile animals, especially long-necked birds, with horizontal registers of repeated geometric signs including chevron/triangle patterning. The biggest difference is that A is mainly a dense linear frieze of repeated signs and animals, while B presents larger separated animal figures and stacked scenes on a pillar-like surface, with no clearly matching single scene or figure-to-figure relationship.",
+ "a": "gotland_0128",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  681
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human head/face shown in profile",
+  "wing rendered as rows of long parallel feathers",
+  "low-relief figure with raised/extended arm",
+  "hatched or striated infill for feather and hair textures",
+  "figure occupying full height of a rectangular field"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both surfaces show low-relief figures with a human head in strict profile combined with a large wing rendered as tiers of long parallel striated feathers, a fairly specific convention shared between them. However, A is a fragment preserving little more than a head, an arm and one feathered mass with no legible action, whereas B shows a complete two-panel narrative confrontation between a rearing composite bird-lion demon with talons and an armed, helmeted, winged warrior grasping weapons, so the relationships and the composition cannot be matched.",
+ "a": "egypt_0053",
+ "b": "assyria_0059",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  709
+ ]
+}

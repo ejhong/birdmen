@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "bearded male figure in profile",
+  "stylized tiered/curled beard and hair",
+  "figure holding an object in an extended hand",
+  "animal shown in profile",
+  "low-relief figures aligned along a horizontal register",
+  "patterned garment with fringe/hem detail",
+  "repeated decorative band/border above figures"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces show large-scale profile bearded men with tightly stylised, tiered curls of hair and beard, wearing patterned fringed robes and carrying objects, striding in the same direction along a horizontal relief register with animals also in profile, which is a fairly specific shared convention. The biggest difference in depicted content is that A shows composite winged supernatural beings (a raptor-headed, lion-bodied creature and a four-winged genie with weapons) in a confrontational two-panel scene, whereas B shows an ordinary file of tribute-bearers with vessels beside a camel beneath a rosette border, with no wings or hybrid creatures at all.",
+ "a": "assyria_0059",
+ "b": "persepolis_0099",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  891
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "human figures in strict profile",
+  "figures standing/walking in a row facing the same direction",
+  "low relief carving with incised interior detail",
+  "horned animal",
+  "figure holding a staff-like object",
+  "registers/bands organizing the scene",
+  "procession or offering-toward arrangement"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both show profile human figures in a processional/offering arrangement, one holding a vertical staff, combined with horned animals and organized within a band or register, which is a moderately specific shared scheme. The biggest differences are that A depicts a naturalistic secular procession of bearded attendants leading large rams in a continuous frieze with detailed hair and fleece patterning, while B shows a schematic, rigidly frontal-shouldered pair of divine/human figures with a horned solar headdress flanking columns of sign-like inscription under an arched winged emblem, with no animal being led and no repeated attendants.",
+ "a": "persepolis_0084",
+ "b": "egypt_0068",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  350
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  9,
+  10,
+  7,
+  5,
+  3,
+  2,
+  8,
+  1,
+  6
+ ],
+ "most_similar_reason": "Candidate 4, like the target, is a shaped upright stone treated as a body-like monolith with schematic low-relief bands, discs and appendages carved directly onto its irregular contour rather than a framed pictorial scene.",
+ "least_similar_reason": "Candidate 6 shows nothing but ruled lines of script on a flat arched slab, with no figure, body attributes or schematic ornament of the kind that defines the target.",
+ "set": "p43_iso_among_monoliths",
+ "i": 15,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "egypt_0076",
+  "egypt_0048",
+  "egypt_0043",
+  "anatolia_ppn_p43iso",
+  "gotland_0113",
+  "egypt_0049",
+  "egypt_0072",
+  "egypt_0044",
+  "maya_0094",
+  "gotland_0112"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "egypt",
+  "egypt",
+  "gotland",
+  "egypt",
+  "gotland",
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

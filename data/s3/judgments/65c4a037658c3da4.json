@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "anthropomorphic/human figure",
+  "head or headdress with linear/geometric markings",
+  "circle or disc motifs",
+  "incised linear/geometric signs or bands"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces include a schematized anthropomorphic figure with head/headdress markings and circular or geometric incised motifs, with the closest correspondence being the combination of a human-like body and associated disc/linear signs. The major difference is that A is a single large frontal, highly abstract body with circles and bands on the torso, while B is a profile standing figure in a more narrative relief field with surrounding glyph-like objects, plants/standards, and other signs.",
+ "a": "rapa_nui_0113",
+ "b": "maya_0110",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  615
+ ]
+}

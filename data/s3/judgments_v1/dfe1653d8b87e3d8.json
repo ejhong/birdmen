@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "human figure",
+  "profile figure",
+  "horizontal band or register",
+  "repeated motifs",
+  "carved low relief on stone"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both are stone relief surfaces organized horizontally, with figures shown largely in profile and repeated or banded motifs. The biggest difference is that A is a finely regular procession of repeated standing human figures with vessels, while B is a rougher, more crowded surface of separated symbols and animal-like forms arranged in stacked registers.",
+ "a": "persepolis_0097",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  646
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "profile creature or animal forms",
+  "repeated linear/geometric patterning",
+  "curving/sinuous motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific overlap is that both surfaces include profile-like creature forms and repeated linear patterning, but these are broad features rather than a distinctive shared motif. A is dominated by a detailed winged human-like figure interacting with a stylized flowering tree, while B shows schematic animals or signs arranged in registers with no comparable central figure, tree, gesture, or compositional relationship.",
+ "a": "assyria_0160",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1989,
+  662
+ ]
+}

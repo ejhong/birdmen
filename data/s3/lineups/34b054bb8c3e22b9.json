@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  7,
+  9,
+  10,
+  4,
+  3,
+  8,
+  2,
+  6,
+  1
+ ],
+ "most_similar_reason": "Candidate 5 is most similar because it shows a dense, flat relief composition of stacked horizontal registers filled with schematic glyph-like signs and small profile figures/creatures, closely matching the target\u2019s segmented glyphic and zoomorphic arrangement.",
+ "least_similar_reason": "Candidate 1 is least similar because it depicts a single naturalistic standing human figure holding objects, without the target\u2019s register-based surface of incised signs, profile creatures, and emblematic motifs.",
+ "set": "moai_iso_among_monoliths",
+ "i": 27,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "mississippian_0015",
+  "rapa_nui_hoa_iso",
+  "egypt_0046",
+  "egypt_0072",
+  "egypt_0045",
+  "maya_0052",
+  "egypt_0064",
+  "maya_0092",
+  "egypt_0066",
+  "maya_0045"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "maya",
+  "mississippian",
+  "maya",
+  "egypt",
+  "egypt",
+  "egypt",
+  "egypt",
+  "egypt",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 8
+}

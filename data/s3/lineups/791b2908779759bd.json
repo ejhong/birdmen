@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  9,
+  7,
+  2,
+  1,
+  8,
+  5,
+  6,
+  3,
+  4
+ ],
+ "most_similar_reason": "Candidate 10 likewise shows isolated, schematic animals rendered in flat profile silhouette (long-necked bird-like and serpentine/quadruped forms) scattered in loose registers across the surface without a groundline or human actors, matching the target's animal-only, register-stacked repertoire.",
+ "least_similar_reason": "Candidate 4 shows nothing but rows of written characters on a plain arched slab, with no creatures, figures or pictorial motifs of any kind to correspond with the target's animal reliefs.",
+ "set": "moai_among_random",
+ "i": 13,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "maya_0085",
+  "persepolis_0069",
+  "persepolis_0043",
+  "egypt_0049",
+  "egypt_0046",
+  "egypt_0074",
+  "maya_0138",
+  "egypt_0068",
+  "rapa_nui_0113",
+  "tanum_0078"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "tanum",
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "persepolis",
+  "persepolis",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

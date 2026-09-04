@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "anthropomorphic figure occupying the whole surface",
+  "head with an elaborate headdress/crown at the top",
+  "vertical elongated composition of a single figure",
+  "incised linear detailing of garment/body"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both show a single upright anthropomorphic figure filling the field, with a distinct headdress or crown crowning the head at the top, which is about as generic a correspondence as figural art offers. Everything specific differs: A is a naturalistic profile figure with beard, pleated robe, spear gripped in both hands and slung quiver, while B is a frontal, blocky, schematic figure whose body is covered with abstract discs, arcs and paired motifs rather than held objects or clothing folds.",
+ "a": "persepolis_0067",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3024,
+  513
+ ]
+}

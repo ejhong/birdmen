@@ -1,0 +1,19 @@
+{
+ "shared_elements": [
+  "repeated upright linear/rectangular motifs with internal diagonal or hatch-like marks",
+  "horned animal imagery or remains"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific visual overlap is the presence of repeated vertical, hatch-filled marks on A\u2019s wall and comparable repeated linear/geometric incisions among the carvings in B, with a looser shared interest in horned animal forms. The biggest difference is that A is a sparse, modern-looking interior display with a real skull and painted marks, while B is a densely carved stone surface organized in registers with many figural reliefs.",
+ "a": "catalhoyuk_0102",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  665
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  3,
+  6,
+  9,
+  10,
+  8,
+  7,
+  1,
+  5,
+  4
+ ],
+ "most_similar_reason": "Candidate 2 is most similar because it likewise shows a vertical surface filled with multiple schematic incised figures, including animal-like forms and repeated linear motifs arranged in a comparable non-naturalistic relief style rather than a single human or inscriptional scene.",
+ "least_similar_reason": "Candidate 4 is least similar because its depicted content is almost entirely rows of writing-like marks on a rounded slab, with none of the target\u2019s distinctive stacked animal figures, profile creatures, or pictorial relationships.",
+ "set": "moai_close_among_random",
+ "i": 16,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "rapa_nui_0004",
+  "assyria_0096",
+  "gotland_0115",
+  "egypt_0069",
+  "gotland_0117",
+  "assyria_0160",
+  "egypt_0032",
+  "egypt_0043",
+  "mississippian_0001",
+  "persepolis_0035"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "assyria",
+  "mississippian",
+  "egypt",
+  "egypt",
+  "assyria",
+  "persepolis",
+  "egypt",
+  "gotland",
+  "gotland"
+ ],
+ "model": "gpt",
+ "planted_rank": 8
+}

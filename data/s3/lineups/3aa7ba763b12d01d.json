@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  2,
+  3,
+  4,
+  10,
+  9,
+  5,
+  6,
+  7,
+  8
+ ],
+ "most_similar_reason": "Candidate 1 is most similar because it uses the same kind of schematic relief language on an upright surface, with carved animal motifs and abstract band-like details arranged vertically rather than a fully narrative human scene.",
+ "least_similar_reason": "Candidate 8 is least similar because it mainly shows a single standing human figure with an object, lacking the target\u2019s stacked profile animals and repeated geometric/linear motifs.",
+ "set": "moai_among_random",
+ "i": 25,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "rapa_nui_0113",
+  "gotland_0026",
+  "tanum_0074",
+  "egypt_0065",
+  "gotland_0009",
+  "assyria_0120",
+  "assyria_0125",
+  "assyria_0034",
+  "assyria_0109",
+  "tanum_0128"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "assyria",
+  "tanum",
+  "assyria",
+  "gotland",
+  "assyria",
+  "tanum",
+  "egypt",
+  "assyria",
+  "gotland"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

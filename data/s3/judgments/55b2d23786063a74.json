@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "horizontal register divisions",
+  "rows or bands of repeated linear signs",
+  "schematic incised figures/signs",
+  "circle or disc motifs",
+  "possible profile bird-like signs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest correspondence is that both surfaces organize schematic incised imagery into horizontal zones with bands of repeated signs and occasional simple disc/profile-sign forms. The major difference is iconographic: A is dominated by standing human figures in apparent processional or ritual groupings, while B is dominated by animals and abstract signs, with no comparable human-centered scene.",
+ "a": "egypt_0047",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  665
+ ]
+}

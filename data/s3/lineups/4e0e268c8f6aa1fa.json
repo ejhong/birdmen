@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  1,
+  8,
+  4,
+  3,
+  6,
+  2,
+  7,
+  5,
+  9
+ ],
+ "most_similar_reason": "Candidate 10 is most similar because it shows a vertical decorated surface filled with multiple schematic relief animals and signs\u2014birds/reptile-like forms and other compact motifs arranged across the face\u2014closely matching the target\u2019s animal-filled, low-relief iconographic program.",
+ "least_similar_reason": "Candidate 9 is least similar because it offers few clearly comparable depicted motifs or organized animal/iconographic relationships, lacking the target\u2019s distinctive bands, profile creatures, and dense symbolic arrangement.",
+ "set": "hard",
+ "i": 7,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0125",
+  "egypt_0027",
+  "gotland_0116",
+  "gotland_0123",
+  "egypt_0012",
+  "gotland_0115",
+  "rapa_nui_0113",
+  "tanum_0359",
+  "gotland_0133",
+  "maya_0047"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "gotland",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "gpt",
+ "planted_rank": 8
+}

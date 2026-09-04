@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "large rectangular inscribed panel",
+  "many stacked horizontal lines/registers of small script signs",
+  "dense uniform sign-rows filling the whole field",
+  "panel cut into a flat vertical rock face",
+  "small schematic figural/pictorial signs of similar scale"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "3",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both surfaces depict essentially the same thing: a tall rectangular field entirely filled with many stacked horizontal lines of small, evenly sized schematic signs, laid out in ruled registers over the full width of a flat vertical panel, which is a fairly specific and conventional scheme rather than a generic pattern. The clearest difference in depicted content is that A carries a distinct figural vignette with larger human/standing figures at the top of the panel and further large figures below the inscribed field, whereas B shows an essentially uninterrupted text field with no comparable large-scale figural scene visible.",
+ "a": "egypt_0020",
+ "b": "egypt_0035",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3224,
+  714
+ ]
+}

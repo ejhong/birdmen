@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "standing human figure in strict profile",
+  "figure holding an object in an extended hand",
+  "stylized tree/palmette with repeated leaf or frond units",
+  "low-relief single-register composition with figures aligned on a groundline",
+  "patterned fringed garment with detailed hem",
+  "detailed rendering of hair/beard and musculature of arms and legs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both show profile human figures in fringed garments carrying objects, striding on a groundline in a single relief register, with a conventionalized tree of stacked leaf/frond units placed at the edge of the field toward which the figures are oriented, and both render anatomy, hair and drapery hems with the same detailed, half-naturalistic conventions. The main differences in content are that A's protagonist is a large winged, bird-headed composite being holding a bucket and cone before the tree, while B shows a multi-figure procession with a large camel and encloses the scene between horizontal rosette borders.",
+ "a": "assyria_0134",
+ "b": "persepolis_0010",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3174,
+  780
+ ]
+}

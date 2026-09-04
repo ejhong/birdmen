@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "human figures in profile",
+  "figures facing each other in a ritual scene",
+  "script/glyph signs integrated with imagery",
+  "central vertical axis element flanked by figures",
+  "seated/kneeling and standing figures with held objects",
+  "framing border along top edge",
+  "disc or round emblem"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both are commemorative slabs showing profile human figures in a ritual encounter flanked around a central axis (a tree/pole versus an offering table with a disc-crowned deity), combined with dense blocks of script signs and a decorative band along the upper margin. However the specific iconography differs entirely: A has ornate, elaborately costumed figures with scrolling volutes, headdresses and a water-scroll base band, while B has spare, elongated, evenly spaced figures beneath a winged sun-disc with horizontal ruled text lines, and the drawing conventions (dense curvilinear infill versus plain outlined silhouettes) are unrelated.",
+ "a": "maya_0129",
+ "b": "egypt_0042",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2924,
+  371
+ ]
+}

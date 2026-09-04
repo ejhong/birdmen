@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figures in profile with curled beard and patterned hair",
+  "repeated figures aligned along a common groundline in a single horizontal register",
+  "low-relief narrative frieze",
+  "surfaces filled with regular repeated texture patterns (brickwork courses / fleece / foliage scales)",
+  "figures shown in overlapping file moving in one direction"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show bearded male figures in strict profile, with hair and beard rendered as tight regular curls, arranged in an overlapping file along a single groundline in a continuous relief frieze, and both fill large forms with dense repeated surface texture (brick courses versus fleece and leaf scales) \u2014 a set of conventions specific enough to suggest a shared manner of depiction. The subjects differ completely, however: A is a combat scene of archers and a wheeled siege engine attacking a crenellated walled city, while B is a peaceful procession of men leading horned rams beside a tree above a rosette border.",
+ "a": "assyria_0092",
+ "b": "persepolis_0020",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  807
+ ]
+}

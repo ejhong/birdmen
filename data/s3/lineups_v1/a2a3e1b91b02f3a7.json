@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  4,
+  10,
+  7,
+  1,
+  9,
+  2,
+  3,
+  6,
+  8
+ ],
+ "most_similar_reason": "Candidate 5 is, like the target, a massive weathered monolithic block whose whole shaped surface carries shallow, softly rounded relief motifs rather than a flat framed panel, giving the same sense of a carved standing stone.",
+ "least_similar_reason": "Candidate 8 is a smooth, thin rectangular plaque dominated by lettering and a symmetrical geometric interlace ornament, with none of the target's animal imagery, rough monolithic mass, or weathered outdoor surface.",
+ "set": "moai_among_random",
+ "i": 27,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "assyria_0035",
+  "persepolis_0026",
+  "assyria_0063",
+  "persepolis_0061",
+  "rapa_nui_0113",
+  "egypt_0044",
+  "persepolis_0099",
+  "gotland_0003",
+  "persepolis_0067",
+  "assyria_0032"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "assyria",
+  "gotland",
+  "assyria",
+  "assyria",
+  "persepolis",
+  "persepolis",
+  "egypt",
+  "persepolis",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

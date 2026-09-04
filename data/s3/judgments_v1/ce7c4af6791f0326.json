@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "horizontal band of pattern or repeated signs",
+  "incised linear figures",
+  "profile animal or bird forms",
+  "circle or disc"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest correspondence is that both surfaces use incised linear imagery organized partly into horizontal bands with repeated sign-like motifs, and both include profile creatures among the decoration. The biggest difference is compositional: A is a dense, symmetrical scene with many fine inscriptions and human figures around a dominant upper disc, while B is a rougher stone relief with larger, separated animal and abstract motifs in stacked panels.",
+ "a": "egypt_0056",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  659
+ ]
+}

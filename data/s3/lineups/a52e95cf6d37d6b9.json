@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  6,
+  4,
+  7,
+  1,
+  8,
+  9,
+  10,
+  2,
+  3
+ ],
+ "most_similar_reason": "Candidate 5 is most similar because it shares the target\u2019s distinctive combination of shallow schematic relief, horizontal register-like organization, profile animal/bird forms, and a long central boat- or body-like motif with internal linear patterning.",
+ "least_similar_reason": "Candidate 3 is least similar because it depicts an isolated humanoid/back form with ornamental curving marks rather than a flat registered scene of profile animals, birds, and boat-like/geometric motifs.",
+ "set": "moai_iso_among_monoliths",
+ "i": 12,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0044",
+  "gotland_0004",
+  "rapa_nui_hoa_iso",
+  "egypt_0041",
+  "maya_0110",
+  "maya_0092",
+  "egypt_0047",
+  "gotland_0131",
+  "egypt_0071",
+  "maya_0053"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "gotland",
+  "maya",
+  "egypt",
+  "gotland",
+  "egypt",
+  "egypt",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 10
+}

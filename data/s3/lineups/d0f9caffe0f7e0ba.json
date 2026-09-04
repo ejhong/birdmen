@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  4,
+  1,
+  7,
+  2,
+  9,
+  6,
+  10,
+  3,
+  5
+ ],
+ "most_similar_reason": "Candidate 8 depicts carved creatures in profile with comparable body shapes, heads, and relief modeling to the target's prominent birds.",
+ "least_similar_reason": "Candidate 5 shows a standing humanoid statue and shares none of the target's birds, geometric infill, or multi-register arrangement of motifs.",
+ "set": "hard",
+ "i": 4,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0116",
+  "gotland_0123",
+  "egypt_0027",
+  "maya_0047",
+  "rapa_nui_0113",
+  "gotland_0125",
+  "egypt_0012",
+  "tanum_0359",
+  "gotland_0133",
+  "gotland_0115"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "gotland",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "grok",
+ "planted_rank": 10
+}

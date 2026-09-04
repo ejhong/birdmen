@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "quadruped animal shown in profile, low relief",
+  "elongated snake- or lizard-like creature",
+  "bird-like creature with long beak/head in profile",
+  "animals stacked in vertical registers on a flat pillar face",
+  "animals rendered in silhouette-like relief with legs shown separately"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both surfaces show relief animals in strict profile \u2014 notably a striding quadruped (canid-like, legs articulated and shown separately) placed above a smaller elongated creature \u2014 stacked in vertical registers across the broad flat face of a pillar, with the same convention of raised silhouette bodies and minimal internal detail. The clearest difference is that A additionally carries a row of repeated bird figures along the top and a horizontal patterned band with hatched/zigzag filling plus several further creatures (long-beaked bird, boar-like animal), making it a denser multi-register composition, whereas B shows only two or three isolated creatures on a largely empty field.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0088",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3048,
+  710
+ ]
+}

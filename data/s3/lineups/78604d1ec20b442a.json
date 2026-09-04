@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  3,
+  2,
+  4,
+  8,
+  9,
+  7,
+  10,
+  5,
+  6
+ ],
+ "most_similar_reason": "Candidate 1 is most similar because it shows a tall, low-relief surface dominated by an elaborately adorned standing/profile figure with dense linear costume or headdress details and associated glyph-like motifs, closely matching the target\u2019s complex figural-and-symbolic arrangement.",
+ "least_similar_reason": "Candidate 6 is least similar because it depicts a relatively plain sculptural human back with only a few simple body ornaments, lacking the target\u2019s dense incised registers, profile figural imagery, animal/glyph-like signs, and complex surface organization.",
+ "set": "moai_iso_among_monoliths",
+ "i": 33,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0111",
+  "egypt_0047",
+  "maya_0087",
+  "egypt_0071",
+  "maya_0019",
+  "rapa_nui_hoa_iso",
+  "egypt_0063",
+  "egypt_0065",
+  "maya_0054",
+  "maya_0005"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 10
+}

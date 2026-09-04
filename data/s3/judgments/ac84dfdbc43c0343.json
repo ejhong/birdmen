@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "frontal human head with schematic face",
+  "brow ridge continuous across face",
+  "straight vertical nose joined to brow",
+  "narrow slit eyes flanking nose",
+  "flat lipped mouth rendered as a horizontal band",
+  "blocky columnar/monolithic human figure form",
+  "hair or headdress mass framing the head"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both depict a frontal, blocky anthropomorphic head with the same conventional facial scheme: a continuous horizontal brow from which a straight vertical nose descends in a T, narrow linear eyes set beneath the brow either side of the nose, and a straight banded mouth, all on a squared columnar body/head mass with a framing headdress or hair block. The chief difference in content is that A additionally carries an elaborate programme of incised body ornament (circular disc, curvilinear motifs, belt-like bands, pendant elements) covering the torso, whereas B shows only the bare head with no accompanying motifs, so the relational and compositional evidence beyond the face is limited.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_0130",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3074,
+  393
+ ]
+}

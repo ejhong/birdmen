@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "profile animal/quadruped",
+  "standing human or anthropomorphic figure",
+  "linear geometric or repeated motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The main commonality is very generic: both include profile creatures and possibly small human/anthropomorphic figures rendered with linear outlines. A depicts a coherent horse-and-chariot scene with a human attendant/driver and wheel, while B is a stacked field of separate animals, birds, and signs with no comparable chariot, reins, wheel, or narrative arrangement.",
+ "a": "assyria_0109",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  658
+ ]
+}

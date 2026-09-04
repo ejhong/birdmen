@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  7,
+  5,
+  1,
+  6,
+  2,
+  3,
+  9,
+  4,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 is most similar because it shows a similarly schematic zoomorphic relief: an isolated curving animal form in profile with rounded details and simple raised outlines on a largely plain surface.",
+ "least_similar_reason": "Candidate 10 is least similar because it consists of a vertical column of repeated inscription-like signs rather than a large profile animal or comparable zoomorphic composition.",
+ "set": "same_control_monoliths",
+ "i": 5,
+ "target": "anatolia_ppn_0207",
+ "planted": "anatolia_ppn_0142",
+ "cands": [
+  "maya_0005",
+  "anatolia_ppn_0142",
+  "rapa_nui_0069",
+  "maya_0158",
+  "maya_0047",
+  "egypt_0045",
+  "maya_0092",
+  "rapa_nui_0052",
+  "rapa_nui_0022",
+  "maya_0057"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "maya",
+  "rapa_nui",
+  "maya",
+  "rapa_nui",
+  "maya",
+  "maya",
+  "egypt",
+  "rapa_nui",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 6
+}

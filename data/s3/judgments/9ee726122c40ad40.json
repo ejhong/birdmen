@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "standing human figures in strict profile",
+  "bearded male figures with elaborately curled hair/beard",
+  "long fringed or pleated robes reaching the ankles",
+  "figures carrying/holding objects in extended hands",
+  "low relief carving on flat stone panels",
+  "registers separated by horizontal dividing lines",
+  "processional/directional orientation of figures",
+  "detailed patterned rendering of hair, beard and garment fringes"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both show bearded male figures in strict profile with elaborately curled hair and beards, long fringed robes and objects held in outstretched hands, rendered in low relief within horizontally divided registers, a set of conventions specific enough to suggest a shared tradition. The biggest difference in content is that B centres on a single large winged figure holding a bucket and cone (a supernatural attribute absent in A), while A depicts multiple small-scale wingless figures in a long procession with chariots and horses above.",
+ "a": "persepolis_0043",
+ "b": "assyria_0146",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3149,
+  362
+ ]
+}

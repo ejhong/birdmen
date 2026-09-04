@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic animal/human figures in profile or silhouette",
+  "upright figures standing on a horizontal element",
+  "carved/painted relief on rock surface"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "Both surfaces show highly schematic figures set against a rock ground, and both place figures standing above a horizontal line or ledge, but that is about the extent of the correspondence. A shows a boat with upturned prow and stern carrying two featureless silhouetted humans, while B shows a dense stacked assemblage of animals \u2014 quadrupeds in profile, a large bird with folded wings, snake-like and reptilian forms \u2014 plus registers of repeated abstract signs, with no boat, no human figures, and a relief modelling convention rather than flat filled silhouette.",
+ "a": "tanum_0325",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  302
+ ]
+}

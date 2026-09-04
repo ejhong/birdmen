@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "stylized head or face with eyes"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "The only plausible shared content is the presence of stylized facial/head features, especially eyes, but in A this is an isolated frontal anthropomorphic face while in B any heads are part of a crowded animal-and-symbol composition. The biggest difference is that B is a multi-register scene of profile creatures and patterned motifs, whereas A contains essentially a single simplified face with no comparable surrounding iconography or relationships.",
+ "a": "anatolia_ppn_0130",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1909,
+  653
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  1,
+  3,
+  2,
+  5,
+  6,
+  8,
+  9,
+  4,
+  7
+ ],
+ "most_similar_reason": "Candidate 10 is most similar because it shares the target\u2019s arrangement of shallowly outlined, compartmentalized motifs in horizontal bands, including arched or gridded upper elements and a large central curving animal/boat-like form with internal linear infill.",
+ "least_similar_reason": "Candidate 7 is least similar because it shows mostly large architectural or cliff-face forms with vertical recesses and no comparable register of schematic animals, birds, human figures, or patterned symbolic motifs.",
+ "set": "moai_iso_among_random",
+ "i": 7,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0048",
+  "egypt_0014",
+  "egypt_0032",
+  "tanum_0056",
+  "persepolis_0018",
+  "maya_0129",
+  "egypt_0006",
+  "rapa_nui_hoa_iso",
+  "tanum_0327",
+  "gotland_0129"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "egypt",
+  "persepolis",
+  "egypt",
+  "tanum",
+  "gotland",
+  "egypt",
+  "egypt",
+  "maya",
+  "tanum"
+ ],
+ "model": "gpt",
+ "planted_rank": 7
+}

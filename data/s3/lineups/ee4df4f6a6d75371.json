@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  4,
+  6,
+  3,
+  9,
+  2,
+  1,
+  7,
+  10,
+  8
+ ],
+ "most_similar_reason": "Candidate 5, like the target, is a monumental free-standing anthropomorphic monolith whose body surface carries shallow relief motifs \u2014 schematic creatures, arms/hands and a belt-like band with a ring element \u2014 arranged symmetrically over the torso rather than as a flat pictorial panel.",
+ "least_similar_reason": "Candidate 8 shows essentially bare, plainly dressed masonry with no discernible figures, creatures or symbolic motifs at all, so it shares no depicted content with the target's carved figural imagery.",
+ "set": "p43_among_random",
+ "i": 34,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "maya_0146",
+  "tanum_0129",
+  "egypt_0048",
+  "maya_0051",
+  "anatolia_ppn_p43full",
+  "tanum_0359",
+  "assyria_0063",
+  "egypt_0020",
+  "egypt_0040",
+  "gotland_0118"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "assyria",
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "tanum",
+  "gotland",
+  "tanum",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

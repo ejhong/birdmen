@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief human head in profile",
+  "hair and beard rendered as regular rows of tight curls/beads",
+  "figure(s) arranged along a horizontal register",
+  "quadruped animal body with patterned surface treatment",
+  "profile orientation of all figures"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both surfaces show profile human heads in shallow relief whose hair and beards are rendered as dense regular rows of small curls, a fairly specific shared convention, and both place figures and an animal body along a horizontal register. But the depicted scenes differ: B is an orderly procession of upright attendants leading two horned rams with scale-patterned fleece, while A shows a single head amid sprawling, tumbled bodies and angular forms with no processional order or identifiable led animal.",
+ "a": "assyria_0011",
+ "b": "persepolis_0108",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  862
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  10,
+  7,
+  3,
+  1,
+  5,
+  9,
+  6,
+  4,
+  2
+ ],
+ "most_similar_reason": "Candidate 8 shows the same kind of low-relief carving on a rounded boulder surface, with heavy curvilinear scroll and lobed volute forms enclosed in a rounded cartouche-like mass, matching the target's scroll-filled glyphic blocks in both motif vocabulary and rendering.",
+ "least_similar_reason": "Candidate 2 presents essentially bare rock masses in a landscape with no discernible depicted creatures, figures, signs or patterned motifs to correspond with the target's dense rows of curvilinear glyph blocks.",
+ "set": "same_control",
+ "i": 29,
+ "target": "maya_0126",
+ "planted": "maya_0158",
+ "cands": [
+  "anatolia_ppn_0163",
+  "rapa_nui_0109",
+  "mississippian_0000",
+  "rapa_nui_0006",
+  "assyria_0109",
+  "anatolia_ppn_0264",
+  "egypt_0073",
+  "rapa_nui_0070",
+  "assyria_0112",
+  "maya_0158"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "assyria",
+  "mississippian",
+  "assyria",
+  "anatolia_ppn",
+  "rapa_nui",
+  "rapa_nui",
+  "rapa_nui",
+  "anatolia_ppn",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

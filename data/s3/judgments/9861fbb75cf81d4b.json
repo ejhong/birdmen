@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "frontal standing anthropomorphic figure carved in the round on a columnar block",
+  "head crowned by a distinct upper element (headdress/helmet-like superstructure) above the face",
+  "schematic facial features (eyes, nose, mouth) rendered on a broad flat face",
+  "arms/hands brought around to the front of the torso",
+  "rounded boss or disc on the chest/belly area",
+  "incised linear details on the head/upper element"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict a frontal, columnar anthropomorphic figure with a broad schematic face surmounted by a separate crowning element (headdress or toothed superstructure), arms folded onto the front of the torso and a rounded disc/boss on the chest, which is a reasonably specific shared scheme for a standing figure. The clearest difference is that B's crowning element is an explicit grinning, densely toothed mouth forming a second superimposed face, while A's upper element is a plain flaring headdress and A's torso carries incised geometric ornament (concentric circle, bands, hooks) absent in B.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_0264",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2974,
+  888
+ ]
+}

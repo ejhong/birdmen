@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "horizontal register bands dividing the surface",
+  "repeated row of similar motifs along a band",
+  "low-relief carving on a flat vertical stone face",
+  "animals/creatures in profile (B) vs. plant motifs (A) \u2014 only 'repeated figural row' is shared",
+  "zigzag/chevron element"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces organise their content into stacked horizontal registers with a repeated row of similar units in the upper band, and both use flat low-relief outlining, which is the strongest correspondence. But the depicted content is quite different: A shows purely vegetal/geometric ornament (rosettes, palmette-like fronds, interlaced arcs, chevrons) with no living creatures, whereas B is entirely zoomorphic (rows of quadrupeds under arcs, a bird of prey, snakes, a long-necked bird) with no floral motifs.",
+ "a": "assyria_0063",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  348
+ ]
+}

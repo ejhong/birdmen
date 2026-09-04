@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "animal in profile",
+  "horizontal dividing line or band",
+  "rectangular or framed panel/field"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both are upright stone surfaces with low-relief or incised profile animal imagery set below a horizontal division or within a roughly rectangular field. The biggest difference is that A is densely organized into multiple registers with many clear figures and patterned bands, while B has a rounded top, large undecorated areas, and only a faint, sparse central panel.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0199",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  649
+ ]
+}

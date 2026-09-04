@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  5,
+  8,
+  3,
+  7,
+  1,
+  6,
+  9,
+  10,
+  4
+ ],
+ "most_similar_reason": "Both feature schematic depictions of boats with vertical lines representing crew.",
+ "least_similar_reason": "It consists entirely of text with no pictorial elements.",
+ "set": "same_control",
+ "i": 15,
+ "target": "tanum_0049",
+ "planted": "tanum_0076",
+ "cands": [
+  "rapa_nui_0065",
+  "tanum_0076",
+  "persepolis_0004",
+  "egypt_0064",
+  "gotland_0125",
+  "egypt_0053",
+  "persepolis_0000",
+  "catalhoyuk_0065",
+  "maya_0047",
+  "egypt_0066"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "egypt",
+  "gotland",
+  "catalhoyuk",
+  "egypt",
+  "rapa_nui",
+  "maya",
+  "persepolis",
+  "egypt",
+  "persepolis"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

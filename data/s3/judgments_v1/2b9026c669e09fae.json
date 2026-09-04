@@ -1,0 +1,19 @@
+{
+ "shared_elements": [
+  "anthropomorphic or human facial/figure features",
+  "eyes or eye-like forms"
+ ],
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "The only plausible correspondence is that both include anthropomorphic features, especially eye-like forms, though in A these are embedded among many shallow relief motifs while B is a single carved head. The biggest difference is compositional: A is a flat, multi-register decorated slab with animals, figures, and bands, whereas B is a rough three-dimensional face with no comparable patterned layout.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0155",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1098,
+  640
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figure in strict profile",
+  "low relief carving of figures against blank ground",
+  "bearded male figure with elaborately curled/patterned hair and beard",
+  "long fringed or pleated robe",
+  "figure holding an object in a raised hand",
+  "detailed rendering of hair, beard and garment by repeated incised patterning"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both show bearded male figures in strict profile, carved in shallow relief on a plain ground, with hair, beard and garment textures rendered by dense repeated incision, and figures whose hands hold or gesture with objects. But A depicts a single large winged figure with great feathered wings filling the field, whereas B depicts a file of many wingless, hat-wearing attendants of differing sizes processing in a row, one behind another, with no wings anywhere.",
+ "a": "assyria_0032",
+ "b": "persepolis_0025",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3299,
+  316
+ ]
+}

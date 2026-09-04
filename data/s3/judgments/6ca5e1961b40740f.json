@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "profile living figures",
+  "horizontal register or band",
+  "repeated carved/outlined motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The main shared content is only very general: both surfaces include outlined profile figures placed on or within horizontal bands/registers. The biggest difference is that A is dominated by a procession of repeated standing human figures, while B is an assemblage of animals, snakes, bird-like forms, and abstract signs with no comparable human procession or specific shared motif.",
+ "a": "persepolis_0024",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1804,
+  651
+ ]
+}

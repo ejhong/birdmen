@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  10,
+  9,
+  4,
+  1,
+  7,
+  5,
+  2,
+  6,
+  8
+ ],
+ "most_similar_reason": "Candidate 3, like the target, is a tall monolithic pillar carved in shallow relief with a schematic anthropomorphic body \u2014 arms rendered as low bands wrapping the shaft, plus animal/symbol motifs and a belt-like horizontal element \u2014 matching the target's combination of humanoid form and abstract carved signs.",
+ "least_similar_reason": "Candidate 8 shows thin linear painted stick figures, ladders and boat-like forms scattered across a rock face, sharing none of the target's monumental three-dimensional humanoid body, relief-carved arms, loops or belt.",
+ "set": "p43_among_random",
+ "i": 29,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "maya_0048",
+  "egypt_0013",
+  "anatolia_ppn_p43full",
+  "assyria_0078",
+  "egypt_0045",
+  "tanum_0347",
+  "persepolis_0110",
+  "tanum_0340",
+  "assyria_0069",
+  "gotland_0000"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "egypt",
+  "gotland",
+  "egypt",
+  "assyria",
+  "persepolis",
+  "tanum",
+  "assyria",
+  "tanum",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

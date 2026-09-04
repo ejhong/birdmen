@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  5,
+  6,
+  8,
+  9,
+  4,
+  2,
+  3,
+  10,
+  7
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's overall anthropomorphic stele form\u2014a schematic head atop a body with arm-like projections and geometric surface decoration arranged in the same head-to-torso composition.",
+ "least_similar_reason": "Candidate 7 depicts a naturalistic, fully modeled human figure in action pose with realistic anatomy and attire, entirely unlike the target's flat, schematic anthropomorphic stone with abstract geometric motifs.",
+ "set": "p43_iso_among_monoliths",
+ "i": 4,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0113",
+  "maya_0085",
+  "maya_0110",
+  "maya_0053",
+  "gotland_0007",
+  "gotland_0000",
+  "mississippian_0015",
+  "gotland_0112",
+  "gotland_0133",
+  "anatolia_ppn_p43iso"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "gotland",
+  "gotland",
+  "maya",
+  "maya",
+  "gotland",
+  "gotland",
+  "maya",
+  "maya",
+  "mississippian"
+ ],
+ "model": "sonnet",
+ "planted_rank": 9
+}

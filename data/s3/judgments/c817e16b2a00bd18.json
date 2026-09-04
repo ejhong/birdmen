@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "stylized figural/creature form",
+  "circular or oval marks",
+  "curvilinear linear motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific shared content is only that both use schematic curving lines and some circular/oval marks within a larger stylized figure. The major difference is that A is a frontal anthropomorphic figure with torso features, paired breast-like circles and banding, while B appears to be a horizontal profile animal/creature with no comparable human body scheme or symmetrical arrangement.",
+ "a": "rapa_nui_0113",
+ "b": "rapa_nui_0097",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  660
+ ]
+}

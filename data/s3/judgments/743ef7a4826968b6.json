@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic animal or creature forms",
+  "rectilinear grid/crosshatched motifs",
+  "zigzag or chevron-like geometric patterning",
+  "horizontal bands or registers"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is the use of schematic outlined figures together with geometric infill motifs, especially gridded rectangles and angular zigzag/chevron patterning. The biggest difference is that A is dominated by one large, frontal, symmetrical enclosed emblem or creature, while B is a stacked register scene with multiple profile animals and separate sign-like motifs.",
+ "a": "gotland_0129",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  1185
+ ]
+}

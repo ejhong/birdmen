@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  4,
+  10,
+  8,
+  3,
+  5,
+  7,
+  6,
+  2,
+  9
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's overall stele silhouette with an anthropomorphic head-like top surmounting a distinct horizontal band filled with a repeating geometric/patterned motif, closely echoing the target's composition of a head-shaped top over decorated registers.",
+ "least_similar_reason": "Candidate 9 shows an essentially blank, undecorated stone surface with no discernible figures, animals, or geometric motifs, sharing none of the iconographic content found in the target.",
+ "set": "hard",
+ "i": 7,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0125",
+  "egypt_0027",
+  "gotland_0116",
+  "gotland_0123",
+  "egypt_0012",
+  "gotland_0115",
+  "rapa_nui_0113",
+  "tanum_0359",
+  "gotland_0133",
+  "maya_0047"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "gotland",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "sonnet",
+ "planted_rank": 7
+}

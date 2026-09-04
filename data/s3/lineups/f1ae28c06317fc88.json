@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  5,
+  10,
+  4,
+  6,
+  9,
+  7,
+  3,
+  1,
+  8
+ ],
+ "most_similar_reason": "Candidate 2 shows the same subject in the same idiom: schematic longboats in profile with upturned, hooked prow and stern, a keel line, and a row of short vertical strokes along the hull standing for the crew, several such boats arranged over an open rock surface.",
+ "least_similar_reason": "Candidate 8 shows no depicted figures, vessels or motifs at all \u2014 only bare cut surfaces and hollows \u2014 so it shares no iconographic content with the target's crewed boats.",
+ "set": "same_control",
+ "i": 15,
+ "target": "tanum_0049",
+ "planted": "tanum_0076",
+ "cands": [
+  "rapa_nui_0065",
+  "tanum_0076",
+  "persepolis_0004",
+  "egypt_0064",
+  "gotland_0125",
+  "egypt_0053",
+  "persepolis_0000",
+  "catalhoyuk_0065",
+  "maya_0047",
+  "egypt_0066"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "egypt",
+  "gotland",
+  "catalhoyuk",
+  "egypt",
+  "rapa_nui",
+  "maya",
+  "persepolis",
+  "egypt",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

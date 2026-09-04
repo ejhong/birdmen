@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "upright decorated stone surface",
+  "standing anthropomorphic figure",
+  "profile animal or bird-like figures",
+  "paired circular or oval motifs",
+  "horizontal register or band separating motifs",
+  "curving/serpentine carved lines"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both are upright carved stones with a standing anthropomorphic figure and smaller animal-like/profile motifs arranged with some horizontal separation. The biggest difference is compositional: A is a dense multi-register relief with a prominent patterned band and large upper forms, while B is dominated by one central figure on a rounded slab with much fainter, more compact lower motifs.",
+ "a": "anatolia_ppn_p43full",
+ "b": "maya_0066",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1230,
+  670
+ ]
+}

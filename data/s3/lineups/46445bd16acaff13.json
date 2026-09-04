@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  5,
+  9,
+  10,
+  3,
+  1,
+  6,
+  7,
+  2,
+  8
+ ],
+ "most_similar_reason": "Candidate 4, like the target, is a flat slab carved in shallow, schematic low relief with animals and figures shown in profile scattered/stacked across the field alongside abstract motifs (spiral, curved bands), giving the same register-like accumulation of creature and sign rather than one dominant figure.",
+ "least_similar_reason": "Candidate 8 is a single massive three-dimensional anthropomorphic sculpture with a helmeted head and body ornament, showing none of the target's flat profile animals, banded registers or incised geometric filler.",
+ "set": "moai_iso_among_monoliths",
+ "i": 6,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "gotland_0112",
+  "maya_0019",
+  "gotland_0131",
+  "maya_0045",
+  "gotland_0116",
+  "maya_0052",
+  "maya_0106",
+  "rapa_nui_hoa_iso",
+  "egypt_0050",
+  "egypt_0042"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "gotland",
+  "maya",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 10
+}

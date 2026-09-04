@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "horizontal banded/belt motif",
+  "circular disc-like element",
+  "schematic low-relief carving",
+  "possible human or animal-like figure form"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces are schematic low-relief carvings that include a horizontal banded motif and a disc-like circular element, which is a fairly specific shared feature. However, A depicts a narrative frieze with a bird and a quadruped beneath abstract arch shapes, while B depicts a single upright anthropomorphic figure with a belt and chest disc, so the overall subject matter and composition differ substantially.",
+ "a": "anatolia_ppn_0272",
+ "b": "rapa_nui_0004",
+ "model": "sonnet",
+ "set": "target",
+ "usage": [
+  3048,
+  715
+ ]
+}

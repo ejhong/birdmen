@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "outline border/frame following the edge of the slab and enclosing the field",
+  "a prominent vertical shaft or staff-like line on the central axis",
+  "a curved/arched element crossing or capping the vertical shaft",
+  "schematic linear design filling a single upright panel"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both show a single upright field enclosed by a border line that follows the stone's outline, with a dominant vertical shaft on the central axis crossed by a curved or transverse element \u2014 but these are generic compositional features. The depicted content otherwise diverges completely: A shows thin incised linear rows of angular script signs flanking a bare cross/arc device, while B shows a modelled relief motif of a large diamond-lattice-filled rectangular panel above a row of overlapping rounded bosses, with no script and no equivalent of the cross-and-arc.",
+ "a": "gotland_0002",
+ "b": "gotland_0111",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3024,
+  893
+ ]
+}

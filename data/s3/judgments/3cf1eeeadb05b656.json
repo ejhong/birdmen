@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "avian form in profile",
+  "horizontal band of repeated geometric marks",
+  "linear/incised internal detailing"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is that both include avian/profile forms and bands of repeated linear marks, rendered with outline and internal incision-like detailing. The biggest difference is that A is organized around large standing anthropomorphic figures with garments, wings, hands, and held objects, while B is a schematic field of separate animals and abstract signs arranged in registers without the same figure-to-figure scene or attributes.",
+ "a": "assyria_0000",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1857,
+  1167
+ ]
+}

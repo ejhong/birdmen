@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  8,
+  1,
+  10,
+  7,
+  5,
+  4,
+  3,
+  2,
+  9
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it appears to show a small incised panel with schematic figures and sign-like elements arranged on a slab, closely matching the target\u2019s linear carved scene of figures combined with an inscription-like block.",
+ "least_similar_reason": "Candidate 9 is least similar because it depicts a single three-dimensional animal-like figure rather than a decorated surface with schematic human figures, symbols, or an arranged scene.",
+ "set": "same_control",
+ "i": 32,
+ "target": "egypt_0074",
+ "planted": "egypt_0024",
+ "cands": [
+  "gotland_0111",
+  "anatolia_ppn_0259",
+  "rapa_nui_0045",
+  "assyria_0116",
+  "rapa_nui_0106",
+  "anatolia_ppn_0095",
+  "egypt_0024",
+  "assyria_0092",
+  "anatolia_ppn_0175",
+  "maya_0077"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "assyria",
+  "anatolia_ppn",
+  "gotland",
+  "rapa_nui",
+  "anatolia_ppn",
+  "rapa_nui",
+  "anatolia_ppn",
+  "maya",
+  "assyria"
+ ],
+ "model": "gpt",
+ "planted_rank": 5
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  6,
+  4,
+  7,
+  8,
+  3,
+  5,
+  10,
+  9,
+  1
+ ],
+ "most_similar_reason": "Candidate 2 is, like the target, a tall upright anthropomorphic pillar-figure whose body carries low-relief arms bending round to hands meeting at the front over a belt-like band, combined with small subsidiary creatures/symbols on the shaft.",
+ "least_similar_reason": "Candidate 1 shows only a single amorphous red smear with no recognisable figure, body parts, symbols or arrangement in common with the target's carved anthropomorphic body with arms, hands and circular motifs.",
+ "set": "p43_among_random",
+ "i": 39,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "tanum_0034",
+  "anatolia_ppn_p43full",
+  "tanum_0317",
+  "maya_0081",
+  "tanum_0060",
+  "assyria_0015",
+  "assyria_0095",
+  "persepolis_0110",
+  "mississippian_0075",
+  "tanum_0067"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "assyria",
+  "assyria",
+  "tanum",
+  "persepolis",
+  "maya",
+  "tanum",
+  "tanum",
+  "mississippian",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

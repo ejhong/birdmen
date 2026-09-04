@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "horizontal register or band with repeated vertical strokes/ticks",
+  "small schematic human-like figures",
+  "animals/creatures in profile",
+  "linear low-relief / outline drawing with schematic bodies",
+  "repetition of similar motifs in a row"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces carry schematic outline figures arranged in horizontal registers, and both include a band of repeated short vertical strokes (the comb-like row above the animals in A, the row of crew strokes along the hull in B), which is the closest correspondence. Otherwise the content is quite different: A shows profile quadrupeds, a bird with long neck, a snake-like form and abstract emblem-like boxes stacked in vertical panels, while B is dominated by large boats with upcurved prows carrying crew rows, with scattered tiny human figures \u2014 no boats in A, no animals or emblem panels in B.",
+ "a": "anatolia_ppn_p43full",
+ "b": "tanum_0339",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  358
+ ]
+}

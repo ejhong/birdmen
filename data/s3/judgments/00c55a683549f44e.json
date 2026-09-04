@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief carving on a tall upright stone slab/monument",
+  "curvilinear scroll-like motifs",
+  "paired vertical columns of repeated framed motifs",
+  "circular/disc motif",
+  "anthropomorphic or face-like elements within the design"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces show shallow relief on a tall upright monument dominated by rounded, cartouche-like blocks arranged in paired vertical columns, with curvilinear scrolls and at least one prominent disc motif in A; the repetitive framed-sign columns of B find a loose echo in the stacked motifs on A's upper section. However, A is a single sculpted figural body (a broad torso with a headdress-like upper zone, a central disc on the chest, and a banded belt), whereas B is a flat inscribed panel of uniform repeated glyph-like blocks with no overall figure, so the organising logic of the two designs differs substantially.",
+ "a": "rapa_nui_0113",
+ "b": "maya_0147",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2749,
+  361
+ ]
+}

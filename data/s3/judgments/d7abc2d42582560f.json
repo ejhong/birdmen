@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low-relief carved human/deity figures in profile",
+  "hieroglyphic-type sign columns and inscription blocks",
+  "cartouche-like oval enclosing signs",
+  "winged/solar motif at top of a framed field",
+  "registers separating figural scene from dense text",
+  "raised hand/arm gestures of figures"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both surfaces combine profile figures rendered in shallow relief with dense columns of the same repertoire of small pictographic signs, including oval cartouche-like enclosures and a winged/arched motif crowning the field, with a figural scene set above or beside a block of inscription \u2014 a distinctive and conventional combination rather than a generic one. The clearest difference is that A shows a compact, complete two-figure confrontation scene flanking a central element within a rounded frame, whereas B is a large wall dominated by text with only a partial, larger-scale figure and a row of repeated signs, so the specific composition and figure relationships do not match closely.",
+ "a": "egypt_0068",
+ "b": "egypt_0017",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3174,
+  374
+ ]
+}

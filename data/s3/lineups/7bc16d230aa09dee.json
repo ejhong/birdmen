@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  1,
+  4,
+  7,
+  6,
+  10,
+  8,
+  5,
+  3,
+  2
+ ],
+ "most_similar_reason": "Candidate 9, like the target, shows animals rendered in strict profile in shallow relief, set out in a horizontal band with a plant/tree element beside them, in a flattened outline-and-infill style very like the target's stacked profile beasts.",
+ "least_similar_reason": "Candidate 2 depicts only a repeating floral/rosette field with no creatures, human figures or narrative relationships, sharing nothing with the target's menagerie of profile animals and serpents.",
+ "set": "moai_among_random",
+ "i": 11,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0020",
+  "assyria_0140",
+  "persepolis_0029",
+  "assyria_0160",
+  "persepolis_0037",
+  "rapa_nui_0113",
+  "assyria_0122",
+  "egypt_0009",
+  "persepolis_0032",
+  "maya_0026"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "assyria",
+  "persepolis",
+  "persepolis",
+  "persepolis",
+  "persepolis",
+  "maya",
+  "assyria",
+  "egypt",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 5
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "stylized anthropomorphic figure or face/body",
+  "circular or disc-like motifs",
+  "linear/geometric incised motifs",
+  "horizontal bands or register-like divisions"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces include highly stylized anthropomorphic imagery with circular/disc motifs and some linear or banded ornament, so there is a limited overlap in kinds of depicted elements. The biggest difference is that A appears to be a dense multi-register composition with small figures and glyph-like panels, while B is dominated by one large frontal anthropomorphic body/face with paired circular features and broad curved bands.",
+ "a": "maya_0138",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1883,
+  674
+ ]
+}

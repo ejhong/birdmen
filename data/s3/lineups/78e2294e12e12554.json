@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  7,
+  6,
+  5,
+  10,
+  8,
+  1,
+  4,
+  9,
+  3
+ ],
+ "most_similar_reason": "Candidate 2, like the target, shows boldly schematic animal forms carved in shallow relief with thick rounded outlines and curling limbs/tails filling the stone face, rather than naturalistic human scenes.",
+ "least_similar_reason": "Candidate 3 shows a bare rock-cut wall with no depicted creatures, figures or motifs at all, so it shares no iconographic content with the target's relief of animals and symbols.",
+ "set": "moai_close_among_random",
+ "i": 17,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "persepolis_0066",
+  "tanum_0359",
+  "egypt_0005",
+  "egypt_0013",
+  "assyria_0158",
+  "assyria_0052",
+  "rapa_nui_0004",
+  "persepolis_0093",
+  "catalhoyuk_0065",
+  "assyria_0123"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "tanum",
+  "assyria",
+  "catalhoyuk",
+  "egypt",
+  "egypt",
+  "persepolis",
+  "assyria",
+  "assyria",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "standing human figure(s)",
+  "headdress or crown",
+  "frontal/profile figure composition"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both depict standing human figures wearing elaborate headdresses arranged in a composed scene, but the specific iconography differs sharply: A shows a complex multi-figure narrative around a central tree with numerous surrounding symbolic elements and a stepped/wave base register, while B shows two facing figures with winged or feathered attire and a text band above, lacking any tree, stepped platform, or wave motif. The rendering conventions also differ, A uses dense low-relief carving with intricate glyphic framing typical of a narrative relief, whereas B uses a more open, elongated figural style with a script band, so the correspondence is limited to the generic presence of adorned human figures rather than a shared specific scheme.",
+ "a": "maya_0028",
+ "b": "assyria_0116",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  2999,
+  331
+ ]
+}

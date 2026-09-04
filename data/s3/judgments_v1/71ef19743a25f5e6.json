@@ -1,0 +1,19 @@
+{
+ "shared_elements": [
+  "standing human or anthropomorphic figure",
+  "snake or sinuous line"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces include an anthropomorphic figure and a long sinuous form that can be read as snake-like. The biggest difference is that A is a densely carved, relief surface with many compartmentalized animal and patterned motifs, while B is a sparse painted rock surface dominated by one red wavy line and a stick-like figure.",
+ "a": "anatolia_ppn_p43full",
+ "b": "tanum_0344",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  640
+ ]
+}

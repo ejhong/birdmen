@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "stylized animal or creature forms",
+  "abstract curvilinear signs",
+  "horizontal bands or registers",
+  "repeated carved/outlined motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces include schematic outlined motifs organized in stacked horizontal zones, with some animal- or creature-like forms and abstract curving signs. The major difference is that A is dominated by a dense grid of enclosed glyph-like blocks and frontal mask/head forms, while B is dominated by larger profile animals and sparse figures without the same compartmentalized glyphic structure.",
+ "a": "maya_0085",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  550
+ ]
+}

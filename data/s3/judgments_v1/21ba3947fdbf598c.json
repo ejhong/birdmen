@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "animal-like figures in profile",
+  "circle or disc",
+  "curving linear motifs",
+  "horizontal linear elements"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific visible correspondence is the use of simple animal-like profile outlines and occasional circular/curving signs on a stone surface. The biggest difference is that A is a deeply carved, vertically organized relief with clear registers and dense figures, while B is a loose field of thin red linear marks spread across a flat surface with no comparable ordering.",
+ "a": "anatolia_ppn_p43full",
+ "b": "tanum_0086",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  643
+ ]
+}

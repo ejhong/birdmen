@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "animal or zoomorphic forms",
+  "curving/serpentine lines",
+  "round eye-like or spiral motifs"
+ ],
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the presence of carved zoomorphic imagery with curving serpent-like forms and some round/spiral or eye-like details on stone. The biggest difference is compositional: A is a dense, irregular spread over natural boulders, while B is a rectilinear pillar face organized into clear horizontal registers with more schematic low-relief figures.",
+ "a": "rapa_nui_0128",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  650
+ ]
+}

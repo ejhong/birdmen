@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human figure",
+  "human head with facial features",
+  "arms/hands indicated on the body",
+  "anthropomorphic upper body with garment or belt detail"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both depict a human figure with a rendered head and upper body, but that is a near-universal subject; A is a fully three-dimensional, extremely schematic standing pillar-figure with featureless face, tubular body and hands meeting at the waist, while B is a single naturalistic profile bust with carefully modelled eye, nose, ear, elaborately curled beard and hair, patterned headgear and detailed drapery. Nothing beyond the generic 'human figure' is shared: no shared posture, attributes, framing or rendering conventions, and the modes of depiction (frontal blocky sculpture in the round versus profile low relief with dense patterned infill) are opposite.",
+ "a": "anatolia_ppn_0121",
+ "b": "assyria_0105",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3024,
+  335
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "standing bearded male human figures in profile",
+  "long pleated/patterned robes",
+  "tall patterned headdress or cap",
+  "file of figures all facing the same direction (procession)",
+  "figures with arm extended toward the figure ahead / hand-to-hand contact",
+  "smaller subsidiary figure beside a larger figure",
+  "low-relief frieze arranged in a single horizontal register",
+  "horizontal framing band at the base of the scene"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "7",
+ "justification": "Both show a single horizontal register of bearded male figures in strict profile, wearing tall patterned caps and long pleated robes, walking in file with an arm reached forward toward the figure ahead and smaller attendant figures interspersed \u2014 a very specific processional scheme rendered with the same shallow-relief conventions for curled beards, hair masses and garment pleating. The main differences in content are scale and framing: B repeats small figures between bands of rosettes, whereas A shows a few large figures, one raising both hands and one carrying an object, with no rosette borders.",
+ "a": "assyria_0139",
+ "b": "persepolis_0077",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  928
+ ]
+}

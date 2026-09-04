@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "bird or bird-like figure in profile",
+  "anthropomorphic/human body parts, especially arms or hands",
+  "vertical human/animal composite or juxtaposition",
+  "schematic body detailing such as bands/striations"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is that both include bird-like imagery associated with human or human-body elements, including arms/hands and a vertical body-like form. The biggest difference is that A presents one dominant modeled anthropomorphic/animal figure with hands below, while B is a crowded field of separate outlined animals, symbols, and register-like bands with no matching single-figure scheme.",
+ "a": "anatolia_ppn_0086",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  681
+ ]
+}

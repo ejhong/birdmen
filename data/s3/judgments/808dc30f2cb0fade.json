@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic living creatures or body-like forms",
+  "circular or oval motifs",
+  "repeated geometric patterning"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The only real correspondences are generic: both include schematic animate forms and some repeated geometric/circular motifs, with the closest shared element being small oval or circular signs used as part of the decoration. The major difference is that A is a single concentric circular emblem enclosing a frontal central figure, while B is a vertical field of separate profile animals and signs arranged in horizontal registers.",
+ "a": "mississippian_0018",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1777,
+  552
+ ]
+}

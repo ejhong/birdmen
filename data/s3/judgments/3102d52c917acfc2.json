@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "standing human figure in profile",
+  "processional file of figures moving in one direction",
+  "figure with patterned/striated hair or headdress",
+  "figure holding/leading with an outstretched arm",
+  "horizontal frieze band bounded by border strips",
+  "band of repeated ornament along the frieze edge",
+  "long pleated garment"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both show a continuous horizontal frieze of profile human figures advancing in file, rendered in the same low-relief convention with carefully striated hair/beards, pleated robes and an outstretched arm that grasps or leads (a hand in A, an animal's tether in B), and both are framed by bordering ornamental strips. The clearest difference in content is that B's principal subject is a large two-humped pack animal dominating the field, while A shows only closely ranked human attendants with staffs and no animal.",
+ "a": "persepolis_0025",
+ "b": "persepolis_0063",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3349,
+  782
+ ]
+}

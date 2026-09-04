@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  2,
+  10,
+  9,
+  8,
+  4,
+  3,
+  1,
+  5,
+  7
+ ],
+ "most_similar_reason": "Candidate 6 shares the target's overall composition of a vertical stone slab bearing a small emblematic motif at the top followed by horizontal registers of stylized symbols/figures, closely mirroring the target's arrangement of animal and symbolic bands.",
+ "least_similar_reason": "Candidate 7 depicts only schematic red\u2011painted boats with no relief carving, human or animal registers, or the layered iconographic composition seen in the target, making its depicted content the most divergent.",
+ "set": "moai_close_among_random",
+ "i": 10,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "maya_0070",
+  "maya_0137",
+  "maya_0152",
+  "rapa_nui_0004",
+  "tanum_0332",
+  "egypt_0070",
+  "tanum_0237",
+  "mississippian_0001",
+  "assyria_0008",
+  "gotland_0009"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "tanum",
+  "gotland",
+  "tanum",
+  "mississippian",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "assyria"
+ ],
+ "model": "sonnet",
+ "planted_rank": 6
+}

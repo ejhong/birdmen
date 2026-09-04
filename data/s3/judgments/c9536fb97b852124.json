@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief carving on a flat stone surface",
+  "human figures shown in profile/frontal combination",
+  "hieroglyph-like or panelled rectangular signs",
+  "standing figure(s) with headdress or elaborate head element",
+  "registers/bands of elements at the base or edges"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both are low-relief stone surfaces with human figures and small rectangular sign-like panels, but that is about as generic as shared content gets. B depicts a specific narrative siege scene \u2014 archers on a wheeled ram engine attacking a crenellated, arched city wall \u2014 while A shows a single frontal standing figure with headdress flanked by vertical columns of blocky glyph-like signs, with no architecture, no weapons and no action; the compositional logic (narrative left-to-right assault vs. static central icon with text columns) is entirely different.",
+ "a": "maya_0082",
+ "b": "assyria_0092",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3149,
+  333
+ ]
+}

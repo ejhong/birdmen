@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "monolithic human figure with oversized rectangular-topped head",
+  "incised carving on the back of the head and shoulders",
+  "ring/circle-and-disc motif",
+  "paired curved arcs/crescent bands",
+  "double-loop or 'M'-shaped motif spanning the upper back",
+  "vertical incised lines flanking the rear of the head",
+  "broad tapering torso with no separated limbs"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "9",
+ "justification": "Both show a massive blocky human figure viewed from behind, with the same specific back-carving scheme: vertical incised lines down the rear of the head, a paired double-loop/'M' motif across the upper back, a central ring-and-disc, and curved arcs beneath it. The only difference is framing \u2014 A is a close view of the head and upper back while B shows the full figure at a distance \u2014 so the depicted content appears essentially identical.",
+ "a": "rapa_nui_0022",
+ "b": "rapa_nui_0054",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  2999,
+  766
+ ]
+}

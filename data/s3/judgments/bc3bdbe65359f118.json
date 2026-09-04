@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "boat/ship in profile with upturned prow and stern",
+  "crew strokes rendered as short vertical lines along a hull line",
+  "quadruped animal in profile with stick legs",
+  "schematic outline figures pecked/painted on rock surface",
+  "multiple vessels stacked in horizontal registers"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "8",
+ "justification": "Both surfaces show the same highly specific motif: a profile boat with curved, upturned prow and stern whose hull line carries a row of short vertical crew strokes, repeated in loose horizontal registers alongside a schematic stick-legged quadruped, all in the same flat, outline-only, pecked-line convention. B is denser and adds elements absent from A (a human figure with raised arms, and a large grid/ladder-like rectangular framework filling the lower half), whereas A is sparse with only a few isolated ships and one animal.",
+ "a": "tanum_0085",
+ "b": "tanum_0340",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3174,
+  340
+ ]
+}

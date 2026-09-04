@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief human figures (partial, in profile orientation)",
+  "clothed figures with garment/drapery indicated by lines",
+  "hands holding/carrying objects",
+  "horizontal dividing line separating zones or registers",
+  "a row of repeated small motifs along a band"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces show low-relief clothed human figures with hands holding objects, organised into horizontally stacked zones divided by a straight line, with a band of repeated small motifs (a row of rosettes in B, rows of offering signs in A) \u2014 but these are generic conventions of register-based relief. The specific content differs entirely: A depicts seated and standing figures flanking a laden offering table with columns of small pictographic signs, while B shows only the lower body/drapery of a large striding figure above a rosette frieze, with no seated figure, no offering table and no sign columns.",
+ "a": "egypt_0067",
+ "b": "persepolis_0017",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  754
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "standing human figures",
+  "panel of incised script / rows of text signs",
+  "figures set below or beside an inscribed text field",
+  "compartmented/register-like division of the surface"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces combine a block of horizontally ruled inscription with carved human figures placed below/around it, which is a fairly specific commemorative scheme shared by the two. However, A shows a detailed multi-register scene of profile figures seated at offering tables interacting with one another, while B shows only isolated frontal standing figures in niches with no interaction, no seated figures and no furniture or objects.",
+ "a": "egypt_0039",
+ "b": "egypt_0009",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3024,
+  592
+ ]
+}

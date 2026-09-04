@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "stylized upright anthropomorphic body or body parts",
+  "arms/hands indicated schematically",
+  "horizontal band or belt-like lines",
+  "incised/relief linear motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is that both surfaces can be read as upright, highly schematic anthropomorphic forms with simple arm/hand or belt-like linear indications on the front. The major difference is that A is dominated by a single profile quadruped on an otherwise sparse surface, while B is dominated by a frontal face/body with circular facial features and dense geometric/linear ornament, so the iconographic schemes do not closely match.",
+ "a": "anatolia_ppn_0199",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  1200
+ ]
+}

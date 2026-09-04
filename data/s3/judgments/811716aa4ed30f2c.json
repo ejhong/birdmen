@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low-relief carved figures in profile",
+  "bearded male figure(s) with elaborately rendered curled hair/beard",
+  "patterned garment with textured infill",
+  "horned animal head",
+  "stylized plant/tree with repeated foliage units",
+  "figures facing right in procession-like orientation"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both are low-relief profile scenes with bearded male figures whose hair and beard are rendered as regular rows of tight curls, textured patterned garments, a horned animal, and a stylized plant with repeated leaf/floret units \u2014 a shared repertoire and rendering convention. But the depicted scenes differ sharply: A is a horizontal procession of men leading two live rams past a tree, while B is a single large winged, horned-cap figure with raised arm beside a stylized flowering tree, filling the whole field with no processional band or led livestock.",
+ "a": "persepolis_0075",
+ "b": "assyria_0112",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  336
+ ]
+}

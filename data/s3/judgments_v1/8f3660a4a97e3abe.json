@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "animal in profile",
+  "bird or bird-like form",
+  "wing or feather-like forms",
+  "relief carving on a flat stone surface"
+ ],
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific visible correspondence is the use of profile animal/bird imagery carved in relief, including feathered or wing-like forms. The biggest difference is compositional: A is a finely detailed scene with two large interacting figures filling a rectangular panel, while B is a rougher vertical surface with smaller, separated motifs arranged in loose registers.",
+ "a": "assyria_0059",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  648
+ ]
+}

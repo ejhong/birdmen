@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "animals shown in profile",
+  "row of repeated similar figures facing the same direction",
+  "horizontal registers stacked one above another",
+  "dividing band between registers",
+  "low-relief figures set against a plain ground",
+  "anthropomorphic figure with limbs shown"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces organise profile figures into stacked horizontal registers separated by dividing bands, with at least one register consisting of a row of repeated creatures facing the same way \u2014 a generic compositional convention rather than a distinctive shared motif. The depicted content diverges sharply: A shows an animal repertoire (quadrupeds, a descending predator, birds and serpentine forms) with an isolated small anthropomorph, while B shows ranks of clothed human figures in procession carrying staffs, bordered by rosette friezes, and is rendered with far more anatomical and costume detail.",
+ "a": "anatolia_ppn_p43full",
+ "b": "persepolis_0015",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  761
+ ]
+}

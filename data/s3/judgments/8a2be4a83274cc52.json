@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low-relief carving on a large upright boulder-shaped monument",
+  "curved scroll/volute motifs",
+  "circular or disc-like element",
+  "stylized zoomorphic/mask-like face with prominent eye",
+  "headdress-like band across the upper part of the monument",
+  "elements arranged symmetrically about a vertical axis"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show a massive upright rounded monument carved in shallow relief with a headdress-like band of motifs across the top, curved scroll/volute forms and rounded disc-like elements below, arranged roughly symmetrically about a vertical axis, which is a fairly specific shared scheme. However, B's central field is dominated by a single large stylized zoomorphic face with a prominent eye and curling snout, while A's carving is more dispersed into repeated small emblem-like motifs and a broad band with no comparable single dominant creature face, so the specific subject differs.\n",
+ "a": "rapa_nui_0113",
+ "b": "maya_0069",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2924,
+  370
+ ]
+}

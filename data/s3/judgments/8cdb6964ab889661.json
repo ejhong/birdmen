@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic carved/incised figures arranged in horizontal zones",
+  "profile animal or bird-like forms",
+  "rows of repeated signs or abstract motifs",
+  "linear symbols/geometric marks"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both surfaces organize schematic outlined imagery and repeated signs into stacked horizontal zones, including profile animal/bird-like motifs. The largest difference is that A centers on a clear human ritual/encounter scene with identifiable figures and dense sign rows, while B is dominated by large animal/abstract motifs without the same human interaction or iconographic scheme.",
+ "a": "egypt_0071",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  669
+ ]
+}

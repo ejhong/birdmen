@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  3,
+  6,
+  10,
+  2,
+  8,
+  7,
+  5,
+  4,
+  1
+ ],
+ "most_similar_reason": "Candidate 9 is most similar because it presents a schematic, frontal anthropomorphic/symbolic figure on a vertical field with simple incised/relief signs arranged in bands, closest to the target\u2019s abstract human-like body with circular and linear motifs.",
+ "least_similar_reason": "Candidate 1 is least similar because it shows a narrative scene with naturalistic interacting human figures and a large winged composite animal, rather than a single abstract frontal anthropomorphic design with geometric body markings.",
+ "set": "p43_among_random",
+ "i": 10,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "assyria_0059",
+  "mississippian_0007",
+  "maya_0091",
+  "mississippian_0005",
+  "persepolis_0043",
+  "maya_0097",
+  "anatolia_ppn_p43full",
+  "tanum_0340",
+  "egypt_0068",
+  "maya_0060"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "tanum",
+  "mississippian",
+  "maya",
+  "egypt",
+  "persepolis",
+  "assyria",
+  "maya",
+  "mississippian",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 7
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "horizontal bands or register divisions",
+  "schematic outlined figures",
+  "small linear/geometric signs or motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest correspondence is the use of schematic low-detail figures and small linear motifs arranged in stacked horizontal zones. The main difference is that A appears dominated by standing human or cultic figures with inscription-like signs, while B is dominated by profile animals and abstract symbols, so the specific iconography is largely different.",
+ "a": "egypt_0072",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  1164
+ ]
+}

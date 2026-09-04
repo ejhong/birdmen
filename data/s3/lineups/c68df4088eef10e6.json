@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  2,
+  9,
+  8,
+  3,
+  10,
+  1,
+  6,
+  7,
+  5
+ ],
+ "most_similar_reason": "Candidate 4 shows the same core idea as the target: a horizontal band of animals rendered in low relief, each in strict profile with simple outlined bodies and legs, set alongside other motifs on a large flat carved face.",
+ "least_similar_reason": "Candidate 5 is a rectangular panel dominated by a seated/standing human figure with regalia above dense rows of written signs, with no animals, no profile creature registers and none of the target's schematic zoomorphic imagery.",
+ "set": "moai_among_random",
+ "i": 26,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "assyria_0079",
+  "assyria_0090",
+  "gotland_0018",
+  "persepolis_0075",
+  "egypt_0050",
+  "egypt_0039",
+  "egypt_0074",
+  "assyria_0153",
+  "rapa_nui_0113",
+  "egypt_0020"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "assyria",
+  "persepolis",
+  "egypt",
+  "assyria",
+  "egypt",
+  "gotland",
+  "assyria",
+  "egypt",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 3
+}

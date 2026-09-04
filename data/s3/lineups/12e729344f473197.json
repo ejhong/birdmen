@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  8,
+  5,
+  6,
+  7,
+  2,
+  1,
+  9,
+  3,
+  10
+ ],
+ "most_similar_reason": "Candidate 4 shares the arched slab format and border framing.",
+ "least_similar_reason": "Candidate 10 lacks figures, showing only abstract spirals.",
+ "set": "same_control",
+ "i": 39,
+ "target": "gotland_0116",
+ "planted": "gotland_0130",
+ "cands": [
+  "rapa_nui_0063",
+  "tanum_0128",
+  "anatolia_ppn_0232",
+  "gotland_0130",
+  "assyria_0100",
+  "assyria_0160",
+  "assyria_0112",
+  "egypt_0053",
+  "anatolia_ppn_0266",
+  "rapa_nui_0108"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "rapa_nui",
+  "assyria",
+  "tanum",
+  "assyria",
+  "egypt",
+  "assyria",
+  "rapa_nui",
+  "anatolia_ppn"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

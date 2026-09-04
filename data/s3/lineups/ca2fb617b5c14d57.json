@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  7,
+  1,
+  2,
+  3,
+  6,
+  4,
+  5,
+  10,
+  8
+ ],
+ "most_similar_reason": "Candidate 9 presents a similar compositional structure on an upright monument, featuring paired animal figures positioned above a prominent central circular motif.",
+ "least_similar_reason": "Candidate 8 consists of faint, unstructured lines on a natural rock surface, lacking the monumental form and organized iconographic elements of the target.",
+ "set": "p43_among_random",
+ "i": 35,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "maya_0101",
+  "anatolia_ppn_p43full",
+  "maya_0095",
+  "persepolis_0084",
+  "maya_0129",
+  "gotland_0004",
+  "maya_0106",
+  "tanum_0030",
+  "gotland_0026",
+  "tanum_0119"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "gotland",
+  "persepolis",
+  "tanum",
+  "maya",
+  "maya",
+  "gotland",
+  "maya",
+  "maya",
+  "tanum"
+ ],
+ "model": "gemini",
+ "planted_rank": 4
+}

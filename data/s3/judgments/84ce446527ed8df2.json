@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "long-necked bird in profile",
+  "schematic animal figures",
+  "horizontal dividing line or register",
+  "framed or bordered carved field",
+  "curving/arched linear motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The clearest specific correspondence is a schematically outlined long-necked bird shown in profile, placed in the lower part of a surface that also uses horizontal divisions and linear framing. The biggest difference is that B is a crowded multi-register animal-and-figure composition, while A is sparse and centralized, with the bird isolated beneath larger geometric or architectural-looking motifs rather than interacting with a dense set of creatures and signs.",
+ "a": "gotland_0130",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1883,
+  680
+ ]
+}

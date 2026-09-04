@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  5,
+  8,
+  2,
+  9,
+  1,
+  4,
+  7,
+  6,
+  10
+ ],
+ "most_similar_reason": "Candidate 3 is a tall upright slab bearing a bold abstract geometric emblem in its upper field with a row of small schematic quadrupeds shown in strict profile beneath it, closely echoing the target's combination of abstract signs above and stacked profile animals on a standing pillar.",
+ "least_similar_reason": "Candidate 10 depicts only robed human figures interacting in a courtly group, with none of the target's profile animals, birds, snakes or abstract sign-motifs, and in a far more naturalistic, drapery-focused manner.",
+ "set": "moai_among_random",
+ "i": 5,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "tanum_0339",
+  "rapa_nui_0113",
+  "gotland_0113",
+  "tanum_0034",
+  "persepolis_0011",
+  "persepolis_0025",
+  "assyria_0131",
+  "assyria_0110",
+  "tanum_0060",
+  "persepolis_0047"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "tanum",
+  "persepolis",
+  "tanum",
+  "persepolis",
+  "assyria",
+  "assyria",
+  "gotland",
+  "persepolis",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

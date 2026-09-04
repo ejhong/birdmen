@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "horizontal band of repeated vertical strokes / register of upright elements",
+  "band of triangles or zigzag beneath a horizontal line",
+  "row of repeated schematic units across the upper portion",
+  "curved-top slab-shaped surface with registers arranged one above another",
+  "elongated linear object with a hooked/curved end (staff or hook motif)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces are rounded-top slabs organised into stacked horizontal registers, and both share a strikingly specific sequence: a row of repeated upright rectangular/columnar units above a horizontal line, immediately beneath which runs a band of downward-pointing triangles or zigzags, with a long curved-ended object crossing the field. The biggest difference is that A additionally carries large recognisable animals in profile (quadrupeds, a long-necked bird, a snake-like form) filling the lower field, whereas B is entirely abstract/geometric with no creatures at all.",
+ "a": "anatolia_ppn_p43full",
+ "b": "gotland_0123",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  380
+ ]
+}

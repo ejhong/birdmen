@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  6,
+  2,
+  3,
+  1,
+  9,
+  8,
+  7,
+  5,
+  4
+ ],
+ "most_similar_reason": "Both feature animal motifs rendered in relief on a distinctive T-shaped vertical structure.",
+ "least_similar_reason": "Consists entirely of a uniform grid of abstract symbols, lacking any large pictorial animal figures.",
+ "set": "moai_among_random",
+ "i": 32,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0044",
+  "gotland_0124",
+  "assyria_0079",
+  "maya_0050",
+  "tanum_0240",
+  "rapa_nui_0113",
+  "tanum_0082",
+  "egypt_0013",
+  "persepolis_0066",
+  "egypt_0010"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "persepolis",
+  "egypt",
+  "gotland",
+  "tanum",
+  "tanum",
+  "egypt",
+  "assyria",
+  "persepolis"
+ ],
+ "model": "gemini",
+ "planted_rank": 2
+}

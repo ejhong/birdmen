@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "profile figures or creatures",
+  "rows of small repeated signs or marks",
+  "horizontal bands/register-like divisions",
+  "linear low-relief outline drawing"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main correspondence is that both surfaces use schematic linear relief with profile figures/creatures and rows of small sign-like motifs arranged partly in horizontal zones. The biggest difference is that A depicts a human interaction scene with seated and standing figures and offering-like objects, whereas B is dominated by isolated animal/abstract motifs in stacked bands with no comparable seated-figure scene.",
+ "a": "egypt_0041",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  664
+ ]
+}

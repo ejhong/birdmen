@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "quadruped animal shown in profile occupying the main field",
+  "incised/carved figural scene on an upright slab",
+  "possible human figure(s) associated with the animal",
+  "linear outline rendering of limbs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both surfaces are upright slabs whose dominant motif is a large profile quadruped rendered in outline with straight stick-like legs, and both appear to combine that beast with human/anthropomorphic elements above it. But A shows a fully organised two-register composition \u2014 a row of three armed, shielded warriors over a mounted rider with a serpent-like creature beneath, all enclosed by a continuous plaited border \u2014 while B is a single sparse field of thin incised outlines with no framing, no register division, no weaponry and no clear rider, so the specific narrative scheme is not shared.",
+ "a": "gotland_0116",
+ "b": "rapa_nui_0021",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3024,
+  729
+ ]
+}

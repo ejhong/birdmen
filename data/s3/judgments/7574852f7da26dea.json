@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "anthropomorphic or human-like figure",
+  "repeated sign-like motifs",
+  "circle or disc motifs",
+  "curvilinear linear ornament"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main correspondence is that both surfaces include a human-like or deity-like form accompanied by repeated sign-like and circular/curvilinear motifs. The biggest difference is that A shows a detailed profile standing figure with an elaborate headdress amid flanking glyph panels, while B is a single frontal schematic body/idol form with motifs placed on the figure itself rather than a comparable narrative or panel arrangement.",
+ "a": "maya_0048",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  669
+ ]
+}

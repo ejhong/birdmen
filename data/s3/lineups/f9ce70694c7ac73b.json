@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  7,
+  10,
+  3,
+  4,
+  1,
+  5,
+  8,
+  9,
+  2
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it shows a comparable carved, schematic relief field with profile anthropomorphic/zoomorphic figures and compact glyph-like signs arranged in a vertically stacked composition rather than a single isolated figure.",
+ "least_similar_reason": "Candidate 2 is least similar because the visible depicted content is essentially an undecorated upright marker in an architectural setting, with none of the target\u2019s incised figures, animal forms, glyph-like motifs, or register-like arrangement.",
+ "set": "moai_iso_among_monoliths",
+ "i": 28,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0014",
+  "maya_0000",
+  "egypt_0039",
+  "maya_0091",
+  "maya_0052",
+  "maya_0136",
+  "maya_0047",
+  "maya_0149",
+  "rapa_nui_hoa_iso",
+  "maya_0027"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 9
+}

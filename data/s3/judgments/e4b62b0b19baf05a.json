@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "quadruped animal in profile, low relief",
+  "animal with long tail extended along the surface",
+  "carved figures on the broad face of an upright pillar-like slab",
+  "raised-band framing / borders around figures"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both show low-relief animals in strict profile on the broad face of an upright rectangular slab, and both include a quadruped with a long straight tail carried horizontally, which is a reasonably specific shared convention. However, A shows a single isolated animal on an otherwise blank field, while B is a densely packed composition with registers, a horizontal band of repeated hatched elements, a row of arch-like motifs, birds and a snake-like/serpentine element stacked above one another, so the relationships and arrangement barely correspond.",
+ "a": "anatolia_ppn_0084",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  304
+ ]
+}

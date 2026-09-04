@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  3,
+  5,
+  4,
+  10,
+  9,
+  1,
+  7,
+  6,
+  8
+ ],
+ "most_similar_reason": "Candidate 2 is, like the target, a sculpture worked in the round rather than a flat carved panel, presenting a bulky schematic human figure whose rounded head with simplified brow, eyes and nose emerges from an otherwise blocky, minimally modelled body.",
+ "least_similar_reason": "Candidate 8 shows nothing but a rectangular field of dense repeated written signs with no human head, face or bodily form at all, which is the opposite of the target's purely figural schematic heads.",
+ "set": "same_control_monoliths",
+ "i": 21,
+ "target": "anatolia_ppn_0247",
+ "planted": "anatolia_ppn_0080",
+ "cands": [
+  "maya_0085",
+  "rapa_nui_0005",
+  "maya_0019",
+  "maya_0097",
+  "gotland_0111",
+  "egypt_0045",
+  "maya_0111",
+  "egypt_0042",
+  "anatolia_ppn_0080",
+  "maya_0060"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "gotland",
+  "maya",
+  "maya",
+  "maya",
+  "rapa_nui"
+ ],
+ "model": "opus",
+ "planted_rank": 6
+}

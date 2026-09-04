@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "profile animal or creature figures",
+  "standing/anthropomorphic figures or body-like forms",
+  "horizontal bands of repeated geometric signs",
+  "triangular/chevron motifs",
+  "curving linear signs or serpent-like forms"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is the use of stylized profile creatures together with repeated geometric bands, including triangular/chevron-like motifs and curving linear signs. The biggest difference is that B is a dense framed scene centered on a tree with multiple human figures and narrative interactions, while A is a sparse vertical arrangement of isolated animal/sign motifs in registers.",
+ "a": "anatolia_ppn_p43full",
+ "b": "maya_0028",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1804,
+  675
+ ]
+}

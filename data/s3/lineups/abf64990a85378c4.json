@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  10,
+  9,
+  1,
+  2,
+  3,
+  4,
+  5,
+  8,
+  7
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it, like the target, is dominated by a single frontal, highly schematic anthropomorphic figure filling a tall vertical surface with face/body features arranged in stacked, symmetrical bands rather than a narrative scene.",
+ "least_similar_reason": "Candidate 7 is least similar because it consists essentially of narrow vertical rows of repeated signs or text-like marks, lacking the target\u2019s large frontal figure or mask-like arrangement of eyes, central circle, and curved body motifs.",
+ "set": "p43_iso_among_monoliths",
+ "i": 10,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0097",
+  "egypt_0072",
+  "egypt_0074",
+  "egypt_0046",
+  "egypt_0076",
+  "maya_0056",
+  "maya_0146",
+  "egypt_0050",
+  "anatolia_ppn_p43iso",
+  "maya_0027"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "egypt",
+  "egypt",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 3
+}

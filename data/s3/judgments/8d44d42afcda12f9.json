@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "quadruped animals shown in profile with legs rendered as repeated strokes",
+  "a wheeled vehicle / cart-like rectilinear structure",
+  "spoked or radiating wheel form (in B clearly, possible in A)",
+  "animals aligned in a horizontal file across the surface"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both surfaces appear to show a wheeled vehicle associated with a team of profile quadrupeds arranged in a horizontal file, which is a reasonably specific shared subject. However, the manner of depiction is wholly different \u2014 A is extremely schematic, reduced to ladder-like bodies and comb-like legs with no human figures, while B is a detailed, near-naturalistic scene with armed riders, bows, spears and prey animals interacting in a hunt.",
+ "a": "tanum_0129",
+ "b": "assyria_0012",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  764
+ ]
+}

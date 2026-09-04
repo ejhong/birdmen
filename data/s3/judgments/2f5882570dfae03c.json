@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "standing/seated human figures in low relief",
+  "elaborate headdress or headgear",
+  "figure holding an object across the body",
+  "registers or zones dividing the scene",
+  "fields of script-like signs or symbols filling background",
+  "tall upright slab format with figures facing sideways"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show low-relief human figures in ornate headgear arranged in stacked registers on an upright slab, with the surrounding field densely filled by small script-like signs, and in each a principal figure holds an object horizontally across the body. However, A centres on a single large ornately costumed figure with a huge plumed headdress rendered in curvilinear, richly detailed forms, while B shows several slimmer, more schematic figures in facing groups with linear garments and offering-like objects between them, so the specific scene content differs.",
+ "a": "maya_0092",
+ "b": "egypt_0072",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3024,
+  319
+ ]
+}

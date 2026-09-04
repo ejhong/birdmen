@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "human/anthropomorphic face or head",
+  "representation of a body/figure in stone relief or sculpture"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "The only shared content is the presence of an anthropomorphic head/face; A shows a detailed narrative relief with a horse-drawn chariot, a driver, a procession of robed dignitaries in profile with staffs and vessels, stepped crenellations and rosette borders, while B is a single crude, frontal, three-dimensional figure with a bulging round face, grimacing toothed head above and stumpy limbs. There is no correspondence in composition, relationships or rendering conventions: A is a linear, low-relief, profile-based, register-organized scheme, B is a blocky frontal idol with schematic, almost featureless anatomy.",
+ "a": "persepolis_0026",
+ "b": "anatolia_ppn_0264",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2949,
+  314
+ ]
+}

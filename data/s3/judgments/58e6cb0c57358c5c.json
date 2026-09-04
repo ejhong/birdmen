@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "anthropomorphic or human body parts",
+  "bird/feathered forms in profile",
+  "animal figures in profile",
+  "linear/geometric signs or bands"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific overlap is that both include profile figural imagery with feathered/bird-related forms and some anthropomorphic body parts, along with incised linear details. The major difference is that A is dominated by one large, detailed winged human figure holding objects, while B is a scattered/register-like field of small schematic animals and signs with no comparable central winged figure or action.",
+ "a": "assyria_0146",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1804,
+  672
+ ]
+}

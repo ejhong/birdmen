@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  8,
+  2,
+  9,
+  10,
+  1,
+  4,
+  3,
+  5,
+  6
+ ],
+ "most_similar_reason": "Candidate 7 likewise shows a single frontal standing human figure carved in bold low relief with an elaborate headdress, ornamented chest and belt filling the whole upright slab, with figural imagery dominating rather than text.",
+ "least_similar_reason": "Candidate 6 is an unbroken grid of repeated cartouche-like sign blocks with no human figure, headdress, pectoral or body at all, the opposite of the target's single figural image.",
+ "set": "p43_iso_among_monoliths",
+ "i": 22,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "egypt_0039",
+  "maya_0125",
+  "egypt_0070",
+  "maya_0000",
+  "egypt_0064",
+  "maya_0095",
+  "maya_0113",
+  "maya_0088",
+  "anatolia_ppn_p43iso",
+  "egypt_0074"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

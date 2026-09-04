@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "schematic animals in profile",
+  "quadruped-like animal figure",
+  "bird-like/long-necked animal figure",
+  "horizontal dividing line or register",
+  "framed or bounded zone of relief imagery"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both surfaces use schematic low-outline animal figures in profile, including quadruped- and bird-like forms, set with horizontal divisions or bounded zones. The biggest difference is that A is a dense multi-register composition with many distinct motifs, repeated signs, and varied creatures, while B is much sparser and centered on a single framed animal group with little of A\u2019s crowded iconographic program.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0199",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  685
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  3,
+  9,
+  2,
+  7,
+  6,
+  1,
+  5,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 4, like the target, is a free-standing monolithic anthropomorphic pillar whose body itself is the carved surface, bearing shallow low-relief arms/hands wrapping toward the front, a belt-like band across the lower body and isolated symbolic motifs rather than a narrative scene.",
+ "least_similar_reason": "Candidate 10 shows naturalistic profile human figures in courtly interaction with detailed garments, beards and staffs arranged as a narrative frieze, sharing none of the target's abstract, isolated body-borne symbols on a single sculpted figure.",
+ "set": "p43_among_random",
+ "i": 3,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "egypt_0056",
+  "assyria_0115",
+  "tanum_0240",
+  "anatolia_ppn_p43full",
+  "persepolis_0007",
+  "persepolis_0051",
+  "egypt_0020",
+  "persepolis_0097",
+  "egypt_0064",
+  "persepolis_0047"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "tanum",
+  "egypt",
+  "assyria",
+  "egypt",
+  "persepolis",
+  "persepolis",
+  "persepolis",
+  "egypt",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

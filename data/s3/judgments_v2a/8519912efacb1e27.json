@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "large bird in profile with rendered wing",
+  "band of repeated short parallel strokes / hatched register",
+  "snake or elongated serpentine creature",
+  "small quadruped/animal figures in relief",
+  "vertically stacked registers on an upright pillar-shaped surface",
+  "striped or hatched infill used for wings and bodies"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both surfaces are tall upright pillars carrying superimposed registers in which a prominent bird with a hatched, striped wing is the dominant creature, accompanied by serpentine forms, small quadrupeds and a horizontal band of repeated parallel strokes. The differences lie in the specifics: A has a rigid symmetrical scheme (single frontal-standing bird over crossed intertwined snakes over a mirrored pair of confronted birds), while B distributes its animals more loosely and irregularly beneath a row of three large heavy heads that has no counterpart in A.",
+ "a": "anatolia_ppn_0174",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2748,
+  779
+ ]
+}

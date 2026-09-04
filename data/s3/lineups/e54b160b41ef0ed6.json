@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  9,
+  8,
+  6,
+  1,
+  7,
+  5,
+  2,
+  4,
+  10
+ ],
+ "most_similar_reason": "Candidate 3 shows the same kind of tall pillar-shaped slab carved in low relief with schematic animals and abstract signs stacked in registers across its face, matching the target's animal-and-symbol arrangement and flat outlined carving style.",
+ "least_similar_reason": "Candidate 10 depicts a single naturalistic mounted rider figure in a framed panel, a narrative human-on-horseback scene with none of the target's stacked registers of schematic animals, snakes, birds and geometric bands.",
+ "set": "hard",
+ "i": 0,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0125",
+  "egypt_0027",
+  "maya_0047",
+  "gotland_0116",
+  "egypt_0012",
+  "gotland_0123",
+  "gotland_0133",
+  "rapa_nui_0113",
+  "tanum_0359",
+  "gotland_0115"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "gotland",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 3
+}

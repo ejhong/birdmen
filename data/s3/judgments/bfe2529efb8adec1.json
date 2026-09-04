@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "standing human figure in profile/near-profile",
+  "elaborate headdress",
+  "figure holding an upright staff-like object",
+  "long garment with patterned drapery/folds",
+  "low-relief single dominant figure filling the panel",
+  "rectangular framed field with border"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both show a single elaborately dressed standing dignitary in low relief, in profile with a tall headdress and gripping a vertical staff-like implement, filling a framed rectangular field. However the conventions differ sharply: A is spare, linear and anatomically restrained with a plain fluted crown, beard and simple robe, while B is densely packed with ornament, masks, beaded pectorals, plumes and blocks of glyph-like signs plus a basal band, leaving little empty ground.",
+ "a": "persepolis_0067",
+ "b": "maya_0130",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3074,
+  309
+ ]
+}

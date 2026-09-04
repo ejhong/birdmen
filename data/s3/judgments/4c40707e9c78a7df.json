@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "standing human figure in profile",
+  "carved relief of a figure with arms extended forward",
+  "garment with drapery/pleat folds indicated by incised lines",
+  "hands holding/gripping an object"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show a single standing human figure in profile relief, arms extended forward with hands apparently gripping a vertical object, the body clothed in a robe whose folds are rendered as fine parallel incised lines. A shares far more legible detail (crenellated headdress, elaborately curled beard and hair, a spear and a slung bow-case) whereas B preserves only the torso, arms and a fragment of a headdress/hair mass, so the specific attributes that would confirm a shared scheme are largely absent.",
+ "a": "persepolis_0067",
+ "b": "anatolia_ppn_0122",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3024,
+  295
+ ]
+}

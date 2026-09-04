@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "schematic anthropomorphic body or torso",
+  "arms or hands/body-part motifs",
+  "belt-like or horizontal curved bands",
+  "circular or oval motifs",
+  "linear incised/relief signs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both surfaces include a highly schematic upright anthropomorphic conception with body-part motifs and belt- or band-like linear features, rendered with simplified outlines rather than naturalistic modelling. The biggest difference is that B is dominated by a frontal human-like figure with a clear face, paired circular body features, and dense internal patterning, while A shows much sparser reliefs including animal-like/profile motifs and lacks the same frontal facial/iconic scheme.",
+ "a": "anatolia_ppn_0179",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  1729
+ ]
+}

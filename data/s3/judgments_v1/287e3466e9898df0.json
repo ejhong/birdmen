@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "animal figure in profile",
+  "circle or disc motif",
+  "curving linear motif"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces include profile animal imagery accompanied by small circular/curving motifs carved into stone. The biggest difference is compositional: A appears as a single weathered, dense, low-contrast scene dominated by one large rounded form, while B is a clearer upright slab organized into distinct registers and bands with multiple separated figures.",
+ "a": "rapa_nui_0080",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  625
+ ]
+}

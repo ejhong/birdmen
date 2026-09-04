@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  1,
+  9,
+  4,
+  6,
+  2,
+  3,
+  8,
+  5,
+  7
+ ],
+ "most_similar_reason": "Candidate 10 shows the same distinctive idea as the target: a monolithic anthropomorphic pillar/stele whose body carries low-relief arms bending round to meet at the front over a belt-like band, plus additional schematic symbols and animal/abstract motifs carved directly onto the figure's torso.",
+ "least_similar_reason": "Candidate 7 depicts only schematic boats with crew-strokes in a rock-art style, with no human figure, no body-borne symbols and no arrangement resembling the target's anthropomorphic form.",
+ "set": "p43_among_random",
+ "i": 8,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "maya_0125",
+  "gotland_0009",
+  "assyria_0111",
+  "egypt_0045",
+  "persepolis_0073",
+  "maya_0005",
+  "tanum_0049",
+  "egypt_0066",
+  "assyria_0138",
+  "anatolia_ppn_p43full"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "assyria",
+  "assyria",
+  "maya",
+  "persepolis",
+  "tanum",
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  4,
+  9,
+  10,
+  6,
+  7,
+  2,
+  3,
+  1,
+  8
+ ],
+ "most_similar_reason": "Candidate 5 shares the target's layered, multi-register relief composition with animal and human-like figures arranged in stacked horizontal bands, closest in overall iconographic structure.",
+ "least_similar_reason": "Candidate 8 is a plain, undecorated carved head with no birds, registers, geometric bands, or narrative figures, making it the least comparable in depicted content.",
+ "set": "moai_iso_among_monoliths",
+ "i": 6,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "gotland_0112",
+  "maya_0019",
+  "gotland_0131",
+  "maya_0045",
+  "gotland_0116",
+  "maya_0052",
+  "maya_0106",
+  "rapa_nui_hoa_iso",
+  "egypt_0050",
+  "egypt_0042"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "gotland",
+  "maya",
+  "gotland"
+ ],
+ "model": "sonnet",
+ "planted_rank": 10
+}

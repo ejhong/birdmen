@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "stylized human or face-like heads",
+  "eyes and mouth-like facial details",
+  "circles or discs",
+  "parallel bands or stripe motifs",
+  "small dot/oval filler motifs",
+  "curving outline-based motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is that both surfaces include schematic face-like forms together with circles/discs, bands, and dotted or oval fillers rendered with curving outlines. The major difference is that A presents a single frontal anthropomorphic body or figure occupying the surface, whereas B is a dense vertical grid of separate glyph-like compartments with many small signs and profile heads rather than one integrated figure.",
+ "a": "rapa_nui_0113",
+ "b": "maya_0009",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1672,
+  664
+ ]
+}

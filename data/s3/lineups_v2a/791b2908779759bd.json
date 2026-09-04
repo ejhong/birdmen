@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  9,
+  2,
+  7,
+  1,
+  8,
+  5,
+  6,
+  3,
+  4
+ ],
+ "most_similar_reason": "Candidate 10, like the target, presents a set of highly schematic animals rendered in flat profile silhouette scattered alongside abstract linear signs, with no narrative human scene, matching the target's stacked profile creatures and sign-like marks.",
+ "least_similar_reason": "Candidate 4 shows nothing but ruled lines of written characters on a blank arched slab, lacking the animals, creatures and pictorial signs that define the target.",
+ "set": "moai_among_random",
+ "i": 13,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "maya_0085",
+  "persepolis_0069",
+  "persepolis_0043",
+  "egypt_0049",
+  "egypt_0046",
+  "egypt_0074",
+  "maya_0138",
+  "egypt_0068",
+  "rapa_nui_0113",
+  "tanum_0078"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "tanum",
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "persepolis",
+  "persepolis",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

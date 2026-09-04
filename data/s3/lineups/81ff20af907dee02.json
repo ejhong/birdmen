@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  4,
+  5,
+  1,
+  10,
+  6,
+  3,
+  8,
+  2,
+  7
+ ],
+ "most_similar_reason": "Candidate 9 shows a single upright monolithic stone figure with schematic carved facial and body motifs, closely echoing the target's columnar anthropomorphic form and simple abstract emblem.",
+ "least_similar_reason": "Candidate 7 depicts abstract linear boat-like shapes with no anthropomorphic or facial imagery, sharing none of the figural or symbolic content of the target.",
+ "set": "p43_among_random",
+ "i": 9,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "egypt_0072",
+  "gotland_0000",
+  "persepolis_0075",
+  "maya_0023",
+  "maya_0158",
+  "assyria_0047",
+  "tanum_0324",
+  "persepolis_0095",
+  "anatolia_ppn_p43full",
+  "persepolis_0026"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "persepolis",
+  "persepolis",
+  "egypt",
+  "persepolis",
+  "gotland",
+  "assyria",
+  "maya",
+  "tanum",
+  "maya"
+ ],
+ "model": "sonnet",
+ "planted_rank": 1
+}

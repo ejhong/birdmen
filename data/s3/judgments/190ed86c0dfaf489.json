@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figures in profile with patterned/curled hair and beards",
+  "figures shown standing, full-length, in a single register",
+  "hands extended forward holding small objects",
+  "long-handled implement / staff-like object held at the side",
+  "repeated figures at uniform scale along a horizontal frieze",
+  "low-relief carving with incised interior detail (hair, garment, fringe)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces depict full-length human figures in strict profile, uniform in scale along a single horizontal register, with elaborately patterned coiffures and beards, extended hands grasping small objects, and a staff-like implement held at the side \u2014 a fairly specific shared figural convention. The biggest difference in content is that A shows a procession of scantily clad figures driving horned rams past a conifer-like tree between ornamental rosette borders, whereas B shows long-robed figures confronting one another in pairs with no animals, plant or border motifs.",
+ "a": "persepolis_0082",
+ "b": "assyria_0095",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  704
+ ]
+}

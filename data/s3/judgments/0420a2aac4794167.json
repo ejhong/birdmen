@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "standing human figures in profile",
+  "row/file of figures facing the same direction (procession)",
+  "figures in long ankle-length robes",
+  "horizontal register of figures along a wall face",
+  "low-relief carved wall surface as the depicted subject",
+  "figures with headgear/headdress"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both depict files of robed human figures in strict profile, one behind another in a continuous horizontal register on a relief wall, with a shared convention of uniform stance, headgear and overlapping ranks; A's staircase facade also carries the same kind of processional bands. The main differences in content are that A additionally shows architecture (columns, parapets, crenellations) and an animal combat with lion and bull, and shows everything in miniature panoramic view, whereas B isolates a single large-scale scene of attendants carrying bowls and vessels toward a larger frontal-staffed figure, a specific offering relationship absent from A.",
+ "a": "persepolis_0029",
+ "b": "persepolis_0080",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3349,
+  770
+ ]
+}

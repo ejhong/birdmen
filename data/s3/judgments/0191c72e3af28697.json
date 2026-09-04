@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "human-form figure in strict profile with frontal-shoulder convention",
+  "raised arm gesture",
+  "wing/feather rendering (A's wings; B's stylised elements)",
+  "disc or sun motif (A's rosettes; B's sun disc)",
+  "script/inscription integrated with figural imagery",
+  "stylised plant/vegetal forms",
+  "low-relief carved figures with incised detail"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict profile human-bodied figures with raised arms rendered in shallow relief with linear incised detail, alongside script signs and disc motifs, which is a generic level of correspondence found in many figural-plus-inscription traditions. The differences dominate: A shows a single large bird-headed winged being amid rosette-bearing plants filling the whole field with an inscription band running across it, while B is a round-topped stela with a small lunette scene of paired figures adoring a rayed disc above many closely ruled horizontal lines of writing that occupy most of the surface.",
+ "a": "assyria_0021",
+ "b": "egypt_0014",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3124,
+  377
+ ]
+}

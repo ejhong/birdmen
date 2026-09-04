@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  10,
+  3,
+  2,
+  4,
+  9,
+  8,
+  1,
+  6,
+  5
+ ],
+ "most_similar_reason": "Candidate 7 is most similar because it also centers a highly schematic frontal supernatural/anthropomorphic figure or mask with prominent circular facial elements and stacked curving bands arranged vertically on the surface.",
+ "least_similar_reason": "Candidate 5 is least similar because it shows a relatively naturalistic single standing human figure in an architectural setting rather than an abstract frontal mask-like composition with paired circles, arcs, and geometric body markings.",
+ "set": "p43_iso_among_monoliths",
+ "i": 7,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "gotland_0128",
+  "egypt_0067",
+  "maya_0136",
+  "egypt_0045",
+  "egypt_0061",
+  "maya_0097",
+  "maya_0094",
+  "anatolia_ppn_p43iso",
+  "egypt_0046",
+  "gotland_0007"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "egypt",
+  "gotland",
+  "maya",
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 7
+}

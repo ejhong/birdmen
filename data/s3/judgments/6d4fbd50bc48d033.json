@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "human figure (schematic in B, detailed in A)",
+  "quadruped/animal form (camel in A, possible animal-like marks in B)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "Panel A depicts a detailed, naturalistic relief of a two-humped camel led by a robed human figure with a staff, set beneath a rosette-and-pattern border, while panel B shows faint, tiny schematic reddish stick-figure marks scattered irregularly across a rock surface with no coherent scene or border. The only loose correspondence is that both include some kind of human-like or animal-like mark, but the specific forms, proportions, relationships (leading/being led), and stylistic conventions (naturalistic carved relief vs. minimal schematic pictographs) are entirely different.",
+ "a": "persepolis_0062",
+ "b": "tanum_0126",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  3174,
+  318
+ ]
+}

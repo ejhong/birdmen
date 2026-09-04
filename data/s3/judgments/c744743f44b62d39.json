@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "animals in profile (quadrupeds, birds)",
+  "human/humanoid figures",
+  "snake or serpentine form",
+  "horizontal registers/bands of repeated figures",
+  "low-relief figural signs arranged in rows",
+  "kneeling or crouching figure"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces present profile animals (quadrupeds, birds) and human figures carved in low relief and organised into horizontal registers, with a row of repeated animal forms along an upper band in A loosely echoing the rows of small animal and bird signs in B. But B's content is overwhelmingly a dense grid of small repeated sign-like elements with a figural scene confined to the lowest register, while A shows a few large, isolated, sculpturally massive creatures (a snarling quadruped, a serpent, a bird) with no sign-system character; the manner of rendering (bold plastic modelling versus fine, uniform, standardised miniature signs) is quite different.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0075",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  789
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  6,
+  5,
+  9,
+  4,
+  1,
+  10,
+  3,
+  7,
+  2
+ ],
+ "most_similar_reason": "Candidate 8 shows the same compositional scheme as the target: a register of anthropomorphic figures at the top and a separate register with a profile animal (horse\u2011like creature) below, mirroring the target's human\u2011head band over animal figures.",
+ "least_similar_reason": "Candidate 2 is a blank, undifferentiated rock surface with no discernible figures, animals, or patterned registers, sharing no iconographic content with the target's richly detailed anthropomorphic and animal imagery.",
+ "set": "hard",
+ "i": 1,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0123",
+  "egypt_0027",
+  "egypt_0012",
+  "maya_0047",
+  "gotland_0115",
+  "tanum_0359",
+  "gotland_0133",
+  "gotland_0116",
+  "gotland_0125",
+  "rapa_nui_0113"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "gotland",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "sonnet",
+ "planted_rank": 7
+}

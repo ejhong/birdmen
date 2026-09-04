@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "frontal human/anthropomorphic head",
+  "heavy carved brow ridge over eye",
+  "broad nose in relief",
+  "massive block-like body/head volume with low-relief detail"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both depict a schematic anthropomorphic head carved in shallow relief on a massive rounded block, with a heavy overhanging brow, a broad flat nose and simplified eye, which is a reasonably specific shared convention. However, A shows a complete standing figure with headdress, pectoral disc, incised arms and belt bands, none of which appear in B, which offers only an isolated face with no accompanying motifs or discernible composition.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_0244",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2974,
+  608
+ ]
+}

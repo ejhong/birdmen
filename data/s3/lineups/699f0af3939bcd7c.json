@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  8,
+  3,
+  2,
+  5,
+  10,
+  7,
+  4,
+  6,
+  1
+ ],
+ "most_similar_reason": "Candidate 9 likewise centres on a single frontal human personage rendered in bold, deep relief with a broad elaborate headdress framing the face, the same head-and-torso emphasis and heavy plastic modelling seen in the target's carved head.",
+ "least_similar_reason": "Candidate 1 shows nothing but a grid of repeated square inscribed signs, with no human face, body or headdress at all, so it shares none of the target's figural iconography.",
+ "set": "same_control_monoliths",
+ "i": 28,
+ "target": "anatolia_ppn_0222",
+ "planted": "anatolia_ppn_0111",
+ "cands": [
+  "maya_0095",
+  "egypt_0066",
+  "egypt_0068",
+  "maya_0005",
+  "maya_0152",
+  "maya_0077",
+  "maya_0000",
+  "anatolia_ppn_0111",
+  "maya_0092",
+  "maya_0147"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

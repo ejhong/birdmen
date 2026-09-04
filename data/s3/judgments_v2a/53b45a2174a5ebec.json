@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "circle or disc motif",
+  "linear bands or rows of repeated short marks",
+  "schematic incised/relief geometric signs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The main shared depicted content is very generic: both include simple circular motifs and linear/repeated incised signs. A is dominated by a single frontal anthropomorphic figure with body parts and a large circular feature on the torso, whereas B is a flat panel organized into registers with arch-like compartments and small animal/geometric figures, so the iconographic scheme and arrangement are essentially different.",
+ "a": "rapa_nui_0004",
+ "b": "anatolia_ppn_0272",
+ "model": "gpt",
+ "set": "target",
+ "usage": [
+  1944,
+  665
+ ]
+}

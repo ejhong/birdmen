@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  7,
+  6,
+  5,
+  8,
+  1,
+  4,
+  2,
+  9,
+  3
+ ],
+ "most_similar_reason": "Candidate 10, like the target, is a tall freestanding monolithic block whose broad face carries shallow, rounded low-relief motifs arranged in bands across the stone, giving the same impression of a sculpted upright pillar rather than a flat wall panel.",
+ "least_similar_reason": "Candidate 3 shares nothing with the target's carved stone surface: it shows small, scattered, silhouetted painted figures in a lively dispersed composition rendered as flat dark strokes rather than modelled relief on a monolith.",
+ "set": "moai_among_random",
+ "i": 2,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0087",
+  "tanum_0037",
+  "catalhoyuk_0025",
+  "assyria_0140",
+  "egypt_0039",
+  "maya_0023",
+  "egypt_0009",
+  "persepolis_0108",
+  "tanum_0016",
+  "rapa_nui_0113"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "egypt",
+  "persepolis",
+  "catalhoyuk",
+  "tanum",
+  "maya",
+  "persepolis",
+  "egypt",
+  "assyria",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

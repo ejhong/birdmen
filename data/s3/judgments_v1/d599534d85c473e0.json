@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "carved rows of small signs or linear markings",
+  "rectangular carved inscription/panel area",
+  "standing human or anthropomorphic figure"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces include a carved field of small signs arranged in horizontal rows, with possible standing human-like figures lower on the decorated area. The biggest difference is that A is a close, densely pictorial relief on a narrow upright slab, while B is a broad rock-cut cliff face with an architectural-looking central panel and niches, so the overall composition and rendering are quite different.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0051",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  586
+ ]
+}

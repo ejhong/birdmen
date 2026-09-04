@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  10,
+  8,
+  1,
+  6,
+  2,
+  5,
+  3,
+  7,
+  4
+ ],
+ "most_similar_reason": "Candidate 9 shares the target's core composition: an arched stele bearing multiple horizontal registers filled with schematic human and animal figures carved in relief, closely matching the target's layered iconographic arrangement.",
+ "least_similar_reason": "Candidate 4 shows an undecorated, heavily eroded dark stone surface with no discernible figures, symbols, or compositional registers, offering no comparable iconographic content to the target's rich figural bands.",
+ "set": "hard",
+ "i": 6,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0115",
+  "gotland_0123",
+  "egypt_0012",
+  "egypt_0027",
+  "gotland_0125",
+  "rapa_nui_0113",
+  "gotland_0133",
+  "tanum_0359",
+  "gotland_0116",
+  "maya_0047"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "gotland",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "sonnet",
+ "planted_rank": 5
+}

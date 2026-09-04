@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figure shown in profile",
+  "elaborate headdress/headgear",
+  "ornate jewelry or beaded collar/necklace",
+  "low-relief single rectangular panel dominated by one figure",
+  "patterned surface detail on garment/hair"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict a single richly adorned human figure in strict profile with a tall headdress and beaded neck ornament filling a rectangular relief panel, which is the main correspondence. But A shows a full standing figure interacting with a smaller attendant figure and is framed by dense columns of written sign-blocks, while B is a close bust with a curled, tightly patterned beard and hair and no accompanying figures or signs; the rendering conventions (dense angular ornament versus smoothly modelled naturalistic flesh) also differ.",
+ "a": "maya_0048",
+ "b": "assyria_0035",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3324,
+  611
+ ]
+}

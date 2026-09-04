@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic anthropomorphic body/torso or body-like form",
+  "curving arm-like lines on a torso",
+  "circle or disc motifs",
+  "incised linear/geometric marks"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is that both include a highly schematic body-like/anthropomorphic form with curving arm-like elements and circular marks, rendered with simple incised or low-relief outlines. The biggest difference is that A is dominated by multiple profile animals and a horizontal patterned band arranged in registers, while B is essentially a single large human-like figure/back with a few abstract circular and curving motifs rather than a comparable animal-filled scene.",
+ "a": "anatolia_ppn_p43full",
+ "b": "rapa_nui_0054",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1777,
+  1206
+ ]
+}

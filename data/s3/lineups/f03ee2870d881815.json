@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  10,
+  5,
+  9,
+  7,
+  6,
+  8,
+  4,
+  2,
+  3
+ ],
+ "most_similar_reason": "Candidate 1 depicts a winged, bird\u2011headed genie in profile carved in relief with a raised hand, closely matching the target's schematic bird\u2011headed figures arranged in a relief register with a hand gesture toward an object.",
+ "least_similar_reason": "Candidate 3 is simply a text/information panel with unrelated line symbols, sharing no comparable figural or animal iconography with the target's carved bird\u2011headed procession.",
+ "set": "moai_iso_among_random",
+ "i": 3,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "assyria_0112",
+  "rapa_nui_hoa_iso",
+  "tanum_0078",
+  "persepolis_0110",
+  "assyria_0118",
+  "persepolis_0058",
+  "tanum_0054",
+  "assyria_0109",
+  "tanum_0321",
+  "mississippian_0002"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "tanum",
+  "assyria",
+  "assyria",
+  "tanum",
+  "tanum",
+  "persepolis",
+  "persepolis",
+  "mississippian",
+  "assyria"
+ ],
+ "model": "sonnet",
+ "planted_rank": 9
+}

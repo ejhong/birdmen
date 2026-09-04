@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "standing human figure"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "Panel A depicts a procession of figures leading tribute animals (rams) past a tree, rendered in naturalistic profile relief typical of narrative processional art, while Panel B shows a dense grid of small seated/kneeling figures interspersed with columns of script-like signs, a composition typical of inscribed stelae. The only broad commonality is the presence of standing/seated human figures in profile, but their number, activity, scale relative to the surface, and combination with other elements (animals and a tree vs. hieroglyphic-like text blocks) are entirely different, so no specific shared iconographic scheme is evident.",
+ "a": "persepolis_0000",
+ "b": "egypt_0040",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  3174,
+  280
+ ]
+}

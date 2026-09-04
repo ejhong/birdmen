@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "boat/ship depicted in profile with upturned prow and stern",
+  "human or animal figures shown in profile",
+  "quadruped animal in profile",
+  "row of repeated short vertical strokes (crew/oar strokes or crew marks) along a hull",
+  "scene organized into a horizontal register"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces depict a profile ship with sweeping upcurved prow/stern occupying a horizontal band, with repeated small vertical strokes along the hull standing for crew, plus a small quadruped and figures above the vessel. However A's upper field is dominated by large, relatively detailed figures with a horse-like animal, drapery and a mast-like structure treated almost as a narrative tableau, while B is purely linear and schematic with isolated abstracted strokes and a tiny stick-like animal, no defined human bodies, so the correspondence stays at the generic level of 'ship with crew strokes'.",
+ "a": "maya_0115",
+ "b": "tanum_0238",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  372
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "quadruped animal in profile with open jaws / bared teeth",
+  "predatory feline-like beast with heavy limbs",
+  "depiction of animals as the sole subject matter",
+  "bird-like creature (B only, not shared)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both depict a heavy-bodied predatory quadruped shown in profile with an emphatically open, toothed mouth and stiff forelimbs, a fairly specific shared motif of a snarling beast. But A is a single free-standing animal figure with no context, whereas B is a multi-register composition combining several different creatures (birds, a crouching quadruped, a fox-like animal) with abstract bands and repeated arcaded signs, so the relationships and arrangement have almost nothing in common.",
+ "a": "anatolia_ppn_0144",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  304
+ ]
+}

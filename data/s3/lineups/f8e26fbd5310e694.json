@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  4,
+  8,
+  7,
+  3,
+  5,
+  1,
+  10,
+  2,
+  9
+ ],
+ "most_similar_reason": "Candidate 6 shows the same kind of standing anthropomorphic stone figure with a compressed head, carved circular/rosette motifs, and horizontal banding across the torso, closely echoing the target's iconographic arrangement.",
+ "least_similar_reason": "Candidate 9 is a stela covered almost entirely in linear hieroglyphic text with no anthropomorphic figure, circular motifs, or banding, sharing none of the distinctive iconographic elements seen in the target.",
+ "set": "same_control_monoliths",
+ "i": 1,
+ "target": "rapa_nui_0065",
+ "planted": "rapa_nui_0005",
+ "cands": [
+  "maya_0023",
+  "egypt_0045",
+  "gotland_0133",
+  "anatolia_ppn_0263",
+  "maya_0147",
+  "rapa_nui_0005",
+  "maya_0092",
+  "anatolia_ppn_0175",
+  "egypt_0069",
+  "egypt_0067"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "egypt",
+  "gotland"
+ ],
+ "model": "sonnet",
+ "planted_rank": 1
+}

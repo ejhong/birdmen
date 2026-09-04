@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "winged anthropomorphic figure in profile",
+  "bearded male figure with elaborate headdress",
+  "raised arm with hand extended toward stylized plant",
+  "stylized plant/rosette-palmette motif",
+  "tasselled fringed garment with dense linear pleating",
+  "bracelet/armlet with rosette boss",
+  "detailed layered wing feathering",
+  "kneeling or bent-knee posture"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "8",
+ "justification": "Both depict a bearded, winged, richly-garmented figure in profile kneeling beside a stylized plant with one arm raised and hand extended toward the vegetation, wearing rosette-bossed armlets and fringed pleated robes rendered with identical dense linear feather and drapery conventions. The main difference is that A shows a symmetrical pair of such figures flanking a large central stylized tree above a band of inscribed text, whereas B preserves only a single figure with the plant at the edge and no inscription.",
+ "a": "assyria_0153",
+ "b": "assyria_0079",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3349,
+  361
+ ]
+}

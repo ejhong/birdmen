@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  5,
+  3,
+  1,
+  4,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 2, like the target, is a weathered pale stone slab bearing sparse animal figures in shallow relief arranged in stacked zones, with the same simplified, silhouette-like carving of creatures against a plain background.",
+ "least_similar_reason": "Candidate 10 is a painted, thinly drawn linear figure on a flat rock face rather than a carved relief on a shaped monolith, sharing neither the sculptural technique nor the layered composition of animal figures seen in the target.",
+ "set": "moai_among_random",
+ "i": 25,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "rapa_nui_0113",
+  "gotland_0026",
+  "tanum_0074",
+  "egypt_0065",
+  "gotland_0009",
+  "assyria_0120",
+  "assyria_0125",
+  "assyria_0034",
+  "assyria_0109",
+  "tanum_0128"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "assyria",
+  "tanum",
+  "assyria",
+  "gotland",
+  "assyria",
+  "tanum",
+  "egypt",
+  "assyria",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

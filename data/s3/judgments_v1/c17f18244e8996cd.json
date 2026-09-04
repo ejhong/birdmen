@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "standing anthropomorphic figure",
+  "profile animal or bird-like forms",
+  "circle or disc motif",
+  "horizontal bands of pattern",
+  "linear/geometric ornament"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of a vertical decorated field combining anthropomorphic imagery with circular motifs and horizontal patterned bands. The biggest difference is that A is a blocky, shallow stone relief organized in separate registers, while B is a fine linear drawing dominated by one frontal, elaborately dressed figure.",
+ "a": "anatolia_ppn_p43full",
+ "b": "mississippian_0007",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1151,
+  499
+ ]
+}

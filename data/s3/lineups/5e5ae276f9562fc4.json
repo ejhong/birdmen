@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  6,
+  7,
+  8,
+  5,
+  2,
+  9,
+  3,
+  10,
+  1
+ ],
+ "most_similar_reason": "Both show a single standing anthropomorphic figure filling a tall stone, with headdress-like carving at the top and dense surface relief of costume or body ornaments including a prominent central roundel.",
+ "least_similar_reason": "It shows only profile quadrupeds and an isolated whirling geometric motif, with no standing human figure or comparable arrangement of body elements.",
+ "set": "p43_iso_among_monoliths",
+ "i": 8,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "gotland_0026",
+  "egypt_0061",
+  "egypt_0073",
+  "maya_0087",
+  "maya_0101",
+  "maya_0106",
+  "maya_0051",
+  "maya_0060",
+  "egypt_0076",
+  "anatolia_ppn_p43iso"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "gotland",
+  "egypt",
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya"
+ ],
+ "model": "grok",
+ "planted_rank": 9
+}

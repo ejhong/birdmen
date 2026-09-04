@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "schematic incised/relief motifs",
+  "circle or disc motifs",
+  "horizontal bands or registers",
+  "curving linear motifs",
+  "possible bird/animal-like forms"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is that both surfaces use schematic carved outlines with round disc-like forms and horizontal/curving band motifs, with B clearly including profile birds/animals and A possibly having animal- or feather-like decoration on the torso. The biggest difference is that A is dominated by a single frontal anthropomorphic figure with body ornament, whereas B is a multi-register field of separate profile creatures and signs, so the depicted relationships and iconographic scheme do not closely correspond.",
+ "a": "rapa_nui_hoa_iso",
+ "b": "anatolia_ppn_p43iso",
+ "model": "gpt",
+ "set": "target_iso",
+ "usage": [
+  1672,
+  690
+ ]
+}

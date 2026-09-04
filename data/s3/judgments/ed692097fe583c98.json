@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "animal figure in profile",
+  "human/figure elements possibly present"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "Panel A shows schematic line figures of boats with crews, standing humans with staffs, sun-like discs and animal tracks arranged sparsely across a flat surface, while panel B shows deeply relief-carved, layered bands of stylized animals stacked in registers with no boats or human figures visible. The only loose correspondence is the general presence of animal-like forms, but their specific type, posture, and relationship to other elements differ entirely, and the compositional logic (sparse scattered scene vs. dense stacked registers) is not comparable.",
+ "a": "tanum_0056",
+ "b": "anatolia_ppn_0004",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  3174,
+  277
+ ]
+}

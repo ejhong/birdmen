@@ -1,0 +1,28 @@
+{
+ "shared_elements": [
+  "bearded male human figures in profile, standing",
+  "long fringed/pleated robes with patterned edges",
+  "stylised layered hair and beard rendered as rows of curls",
+  "figures carrying or holding objects (cup, whisk, staff/spear, vessels)",
+  "attendant/retainer figures following or facing a principal figure",
+  "low-relief profile heads with frontal eye convention",
+  "horizontal register/band divisions with ornamental border strip",
+  "weapons (sword/dagger, spear) as attributes",
+  "hooved quadruped animal in profile (in B)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both depict bearded men in profile with elaborately curled hair and beards, wearing long patterned robes and carrying objects and weapons, arranged along a groundline in attendant-to-principal relationships, with rows framed by ornamental bands \u2014 a fairly specific shared repertoire rather than generic \"standing figures\". The clearest difference in content is scale and scheme: A is a single large panel of two figures confronting each other with cup and whisk over a field of inscription, whereas B is a long multi-register procession of many small figures leading animals and bearing tribute, with no text and no confronted pair.",
+ "a": "assyria_0008",
+ "b": "persepolis_0093",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  930
+ ]
+}

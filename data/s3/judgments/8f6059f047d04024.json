@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "human or humanoid figure in profile-like orientation",
+  "raised arm/extended arm",
+  "figure with an object held out toward one side"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces depict a single anthropomorphic figure with an arm raised or extended toward something at its side, which is about as generic as figural iconography gets. Beyond that they share nothing: A is a stick-thin schematic outline figure with a boat-like or animal-like sign beside it, while B is a detailed, muscular winged and bearded composite being with elaborate feathering, headgear, patterned garment and a stylised rosette-covered plant, rendered in a wholly different, naturalistic and densely detailed convention.",
+ "a": "tanum_0128",
+ "b": "assyria_0160",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3149,
+  285
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  2,
+  4,
+  9,
+  10,
+  1,
+  6,
+  3,
+  8,
+  5
+ ],
+ "most_similar_reason": "Candidate 7 is most similar because it shows the same distinctive frontal mask-like figure with large round eyes, a circular central feature, curved bands around the mouth/brow, and an elongated decorated upper element above it.",
+ "least_similar_reason": "Candidate 5 is least similar because it is dominated by an arched frame and crosshatched geometric panel, with none of the target\u2019s frontal face/mask imagery, glyph-like upper decoration, or comparable figure arrangement.",
+ "set": "p43_iso_among_monoliths",
+ "i": 0,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0095",
+  "maya_0111",
+  "egypt_0073",
+  "maya_0051",
+  "gotland_0111",
+  "maya_0110",
+  "maya_0069",
+  "egypt_0049",
+  "anatolia_ppn_p43iso",
+  "egypt_0040"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "gotland",
+  "maya",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 4
+}

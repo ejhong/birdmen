@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figures in profile with long hair and beards",
+  "shallow relief carving of figures with muscular limbs",
+  "incised parallel-line patterning (hair, mane, feather/fringe detail)",
+  "rosette-like circular motifs (whorls/discs in A, flower discs in B)",
+  "quadruped animal forms",
+  "frieze-like field filled edge to edge"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both depict bearded profile human figures in shallow relief with the same conventions of dense incised parallel lines for hair, beards, fringes and animal manes, plus small rosette/whorl discs used as filler ornament, which suggests shared carving conventions. But the depicted subjects differ fundamentally: A is a chaotic narrative scene of a chariot, horses, wheels and sprawling bodies in a watery field, while B is a static symmetrical composition of large winged figures flanking a central stylised plant/tree above a band of writing.",
+ "a": "assyria_0039",
+ "b": "assyria_0153",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3349,
+  884
+ ]
+}

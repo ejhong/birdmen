@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "frontal standing/upright human or anthropomorphic figure occupying the whole slab",
+  "elaborate headdress or head ornament on top",
+  "ornaments across the chest (pectoral/necklace elements)",
+  "circular disc motif on the torso",
+  "belt or waist band with hanging elements",
+  "low-relief carving on a tall vertical stone slab"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict a single frontal upright anthropomorphic personage filling a tall vertical slab, with a head/headdress at top, chest ornaments including a round disc-like element at the sternum, and a belt-like horizontal band across the waist with pendant elements below. The clearest difference is in execution and detail: A is a densely carved, deeply modelled figure with fully articulated arms, legs, hands and profuse ornament, while B is a highly abbreviated, blocky columnar form with a schematic head and only sparse incised motifs and no depicted limbs.",
+ "a": "maya_0087",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2974,
+  363
+ ]
+}

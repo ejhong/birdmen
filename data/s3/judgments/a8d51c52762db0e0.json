@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "front-facing anthropomorphic figure",
+  "head above torso",
+  "arms or arm-like forms at the sides",
+  "paired nipples or breasts on the chest",
+  "simplified standing/bust-like body"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces depict a frontal human-like figure with a head, torso, side arms, and paired chest nipples, giving them a broadly comparable anthropomorphic scheme. The biggest difference is that A has extensive incised linear/geometric motifs across the body and a very block-like head/torso, while B emphasizes a large modeled head and relatively plain torso with no comparable internal iconographic decoration.",
+ "a": "rapa_nui_0113",
+ "b": "rapa_nui_0006",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1804,
+  645
+ ]
+}

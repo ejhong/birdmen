@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "upright anthropomorphic figure or body-shaped surface",
+  "elongated head/neck area with vertical incised markings",
+  "side protrusions suggesting ears or arms",
+  "paired circular depressions on the upper torso",
+  "central circular or ring motif on the torso",
+  "curving horizontal parallel bands across the lower torso",
+  "short vertical incised lines hanging below the bands",
+  "schematic low-relief/incised rendering"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "10",
+ "justification": "Both show the same distinctive anthropomorphic decorated figure: paired upper circular depressions flank a central torso motif, with an additional ring below and a set of parallel curved bands crossing the lower body in the same positions. The main difference is only visibility from angle and cropping, with B showing the surface obliquely and less of the lower front, rather than a substantive difference in depicted content.",
+ "a": "rapa_nui_0113",
+ "b": "rapa_nui_0034",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  721
+ ]
+}

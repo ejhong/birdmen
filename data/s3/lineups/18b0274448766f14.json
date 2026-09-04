@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  10,
+  1,
+  5,
+  8,
+  2,
+  3,
+  7,
+  9,
+  4
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it likewise uses a tall, vertical surface dominated by a schematized frontal anthropomorphic/mask-like figure with circular facial elements, geometric bands, and subsidiary symbolic motifs arranged in a rigid vertical composition.",
+ "least_similar_reason": "Candidate 4 is least similar because it depicts a relatively naturalistic standing human holding an object, without the target\u2019s abstract mask-like face, circular/geometric motifs, or relief-style symbolic surface arrangement.",
+ "set": "p43_iso_among_monoliths",
+ "i": 29,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "gotland_0026",
+  "gotland_0133",
+  "egypt_0066",
+  "mississippian_0015",
+  "maya_0136",
+  "maya_0092",
+  "egypt_0073",
+  "maya_0081",
+  "egypt_0049",
+  "anatolia_ppn_p43iso"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "egypt",
+  "gotland",
+  "maya",
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "mississippian",
+  "gotland"
+ ],
+ "model": "gpt",
+ "planted_rank": 2
+}

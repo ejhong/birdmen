@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "anthropomorphic or human-like figure/body elements",
+  "paired circular motifs",
+  "curving linear bands or scroll-like motifs",
+  "bilateral symmetry around a central vertical axis",
+  "incised/outlined geometric ornament"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces use a vertical, roughly bilaterally symmetrical scheme with paired circular features and curving linear ornament around a central axis. The biggest difference is that A shows a complex multi-figure, panelled scene with small humans/creatures and scrollwork, while B is dominated by a single frontal anthropomorphic body or idol with simple facial/torso-like circles and bands.",
+ "a": "gotland_0122",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  687
+ ]
+}

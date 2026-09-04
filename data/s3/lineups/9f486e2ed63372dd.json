@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  10,
+  5,
+  4,
+  9,
+  3,
+  2,
+  8,
+  7,
+  6
+ ],
+ "most_similar_reason": "Candidate 1 features a prominent circular/rosette spiral motif set on an otherwise plain surface, echoing the large concentric circular disk that dominates the target's central field, giving it the closest iconographic match despite differing surrounding elements.",
+ "least_similar_reason": "Candidate 6 shows a highly detailed, naturalistic standing figure with an elaborate multi-tiered headdress and layered figural registers, a style and iconographic arrangement completely unlike the target's schematic face, crossed-arm pattern, and central circular disk.",
+ "set": "p43_iso_among_monoliths",
+ "i": 8,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "gotland_0026",
+  "egypt_0061",
+  "egypt_0073",
+  "maya_0087",
+  "maya_0101",
+  "maya_0106",
+  "maya_0051",
+  "maya_0060",
+  "egypt_0076",
+  "anatolia_ppn_p43iso"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "gotland",
+  "egypt",
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya"
+ ],
+ "model": "sonnet",
+ "planted_rank": 2
+}

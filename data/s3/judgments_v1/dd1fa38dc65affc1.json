@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "upright decorated surface",
+  "profile figures or heads",
+  "animal or bird-like forms in profile",
+  "circle or oval/disc motifs",
+  "repeated glyph-like signs",
+  "linear incised/relief ornament"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both are tall decorated surfaces covered with linear, glyph-like motifs and profile creatures or heads, with some repeated signs and circular/oval details. The biggest difference is compositional: A is dominated by one large standing human figure beside a vertical column of signs, while B is divided into horizontal registers of rougher relief symbols and animal forms with no comparable central figure.",
+ "a": "maya_0158",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1019,
+  672
+ ]
+}

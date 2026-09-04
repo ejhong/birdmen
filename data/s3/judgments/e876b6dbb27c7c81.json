@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "bird-like animal in profile",
+  "curving snake/serpent-like form",
+  "round circle or disc motif",
+  "scorpion/insect-like animal form",
+  "cluster of schematic animal figures"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "The strongest correspondence is the recurrence of a schematic animal assemblage including bird-like forms, serpentine curving forms, round disc-like marks, and possibly a scorpion/insect-like creature. The biggest difference is that B is organized into clear horizontal registers with repeated signs and a large bird panel, while A is a more compact, irregular cluster without the same ordered sequence or distinctive upper band motifs.",
+ "a": "rapa_nui_0124",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  1716
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  9,
+  3,
+  10,
+  8,
+  1,
+  4,
+  2,
+  6,
+  5
+ ],
+ "most_similar_reason": "Candidate 7 is, like the target, an upright monolithic stone slab covered in shallow low-relief carvings of stylized creatures/figures stacked in stacked bands across the face of the stone, matching the target's registered arrangement of animal reliefs on a standing pillar.",
+ "least_similar_reason": "Candidate 5 depicts only a single frontal human face/mask with eyes, nose and beard, sharing none of the target's animal reliefs, banded registers or schematic creature imagery.",
+ "set": "moai_close_among_random",
+ "i": 20,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "catalhoyuk_0039",
+  "egypt_0021",
+  "assyria_0112",
+  "persepolis_0043",
+  "mississippian_0008",
+  "gotland_0129",
+  "maya_0083",
+  "tanum_0070",
+  "rapa_nui_0004",
+  "assyria_0071"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "gotland",
+  "catalhoyuk",
+  "persepolis",
+  "mississippian",
+  "assyria",
+  "assyria",
+  "maya",
+  "egypt",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

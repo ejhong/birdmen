@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "relief carving on a vertical stone surface",
+  "horizontal band or register of repeated patterning",
+  "circle or disc motifs",
+  "paired eye-like forms near the upper area",
+  "stylized animal or mask-like forms"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of a vertical carved stone field with an upper zone of paired eye-like/animal-mask forms and a horizontal patterned band beneath or among them. The biggest difference is compositional: A is a relatively open, flat, shallowly incised surface with scattered profile animals and abstract forms, while B is a dense cylindrical relief dominated by a central frontal standing figure and stacked mask-like faces.",
+ "a": "anatolia_ppn_p43full",
+ "b": "maya_0094",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1045,
+  679
+ ]
+}

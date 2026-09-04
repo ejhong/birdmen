@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "human face/head imagery (glyph elements in A include stylized faces in profile)",
+  "rounded, cartouche-like framing of features"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "A is a dense grid of rounded, block-like script signs arranged in ordered columns and rows, some containing small stylized profile heads, while B is a single frontal human face with a stepped headdress, rendered as a sculptural portrait with naturalistic eyes, nose and mouth. Beyond the incidental presence of stylized human facial features in both, there is no shared motif, relationship or arrangement; the organizing logic (repeating text-like blocks vs one isolated frontal mask) is entirely different.",
+ "a": "maya_0095",
+ "b": "mississippian_0008",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2949,
+  281
+ ]
+}

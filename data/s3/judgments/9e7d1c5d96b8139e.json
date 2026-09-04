@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief carving on stone surface",
+  "animal figures in profile",
+  "horizontal register/band dividing the composition",
+  "repeated row of similar figures",
+  "figures shown in strict profile with frontal-ish torso conventions"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces show low-relief figures organised into horizontal registers with a row of repeated profile figures, which is the strongest correspondence, but A depicts a procession of clothed human figures with garments, headgear and held objects walking in file, while B depicts abstracted animals (a quadruped, a bird-like creature, a reptile/lizard and stylised arms or plant forms) with no human procession. The rendering conventions differ sharply: A is naturalistic with modelled drapery and anatomical detail, B is highly schematic with flattened outline forms and geometric infill.",
+ "a": "persepolis_0070",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  328
+ ]
+}

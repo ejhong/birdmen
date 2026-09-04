@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "animal shown in profile along a horizontal upper register",
+  "small human or humanoid figure with limbs shown schematically",
+  "elongated quadruped/reptilian creature seen from the side",
+  "linear border or framing band along an edge",
+  "low-relief carving on a large upright slab with figures set against a blank ground"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both are upright slabs carved in low relief with an animal in profile occupying an upper band and a small schematic human-like figure to one side, and both use a framing linear border near the top edge. But A's content is a dense stack of registers of birds, quadrupeds and repeated motifs rendered in blocky outline, while B is dominated by two large double spirals and a crescent/disc, motifs absent from A, and B's animal is a single long serpentine beast with a rendered eye and no register system.",
+ "a": "anatolia_ppn_p43full",
+ "b": "gotland_0000",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3124,
+  335
+ ]
+}

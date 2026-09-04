@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "schematic frontal anthropomorphic figure or body",
+  "circular discs or ring motifs on/within the figure",
+  "paired round features flanking a central axis",
+  "curved horizontal bands",
+  "bilateral symmetry",
+  "linear geometric detailing"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both include a highly schematic, front-facing anthropomorphic form organized around a vertical axis, with circular or ring-like motifs placed on the body area and paired round features to either side. The biggest difference is that A is dominated by a radial circular medallion with concentric borders, serrated outer edge, and repeated oval openings enclosing a small central figure, whereas B presents a single upright human-like body/stele with body markings and no surrounding circular frame.",
+ "a": "mississippian_0018",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1777,
+  659
+ ]
+}

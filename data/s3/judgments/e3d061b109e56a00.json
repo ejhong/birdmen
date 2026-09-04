@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "schematic human figures with stick-like limbs, frontal, arms outstretched or raised",
+  "row of small repeated human figures",
+  "elongated linear object (staff/spear/lance) associated with figures",
+  "small isolated animal/quadruped-like sign",
+  "figures scattered over an open rock surface without ground line or frame"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both surfaces show highly schematic stick-limbed human figures, some in rows of repeated small figures and some larger with raised or outstretched arms, together with long straight linear objects (spear/staff-like) that cross the field and relate to the figures, all scattered freely over an unframed rock surface with no groundline. The clearest difference is that B is a dense, crowded composition with large figures apparently grappling/holding weapons and additional ladder-like and hooked signs, while A is sparse, with only a small cluster of tiny figures, one isolated larger figure, and a lone elongated animal-like form far below, so the specific scenes depicted are not the same.",
+ "a": "tanum_0126",
+ "b": "tanum_0005",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3174,
+  384
+ ]
+}

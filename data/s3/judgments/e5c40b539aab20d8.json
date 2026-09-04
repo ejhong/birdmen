@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "human face/head with eyes, nose and mouth",
+  "representation of the human figure (head only in A; full figures in B)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "The only shared content is the human face: A is an isolated, massive schematic head with sunken eyes, a broad ridge nose and a heavy slit mouth, while B shows a procession of small full-length figures in strict profile leading horned rams within a framed register above a petal border. There is no shared relationship, arrangement or rendering convention: A is a single frontal, blocky, sculptural head with no scene, whereas B is a detailed, naturalistic narrative frieze with animals, garments, patterned caps and fleece infill.",
+ "a": "anatolia_ppn_0130",
+ "b": "persepolis_0100",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3274,
+  281
+ ]
+}

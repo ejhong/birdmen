@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figure in strict profile",
+  "outstretched wing(s) rendered with rows of feathers",
+  "raised arm holding an object",
+  "script/inscription signs (in A)",
+  "carved low relief figural scene",
+  "plant/floral motif (rosette-like elements in B; disc in A)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces depict profile human figures in low relief with prominently feathered wings rendered as ordered rows of overlapping plumes, and both include a figure whose arm is raised holding an object. But A is a multi-register composition dominated by rows of small figures and many lines of script beneath a winged disc spanning the top, whereas B is a single large-scale winged anthropomorphic figure beside a stylised plant with rosette-like blossoms, with no register divisions or inscription; the arrangements and the specific figural conventions (bulky bearded figure with horned headdress vs. slender schematic figures) differ substantially.",
+ "a": "egypt_0042",
+ "b": "assyria_0079",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  361
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "stylized anthropomorphic or human-like figure",
+  "central vertical body with appendage-like forms"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The main possible correspondence is that both include a highly stylized anthropomorphic form organized around a vertical body with projecting appendage-like elements. The biggest difference is that A is a dense frontal mask/body composition with circular facial or torso motifs and bands, while B is a sparse stick-like figure intersected by a long horizontal line and adjacent curling form, with no matching internal iconographic scheme.",
+ "a": "rapa_nui_0113",
+ "b": "tanum_0128",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  661
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  2,
+  7,
+  6,
+  5,
+  9,
+  10,
+  4,
+  8,
+  1
+ ],
+ "most_similar_reason": "Candidate 3 shares the target's overall composition of a tall stela divided into horizontal registers filled with figural scenes carved in low relief, closely matching the stacked narrative arrangement of the target.",
+ "least_similar_reason": "Candidate 1 shows only an abstract geometric knot and cross motif with no figural, animal, or narrative content, sharing nothing of the target's stacked figural iconography.",
+ "set": "moai_iso_among_monoliths",
+ "i": 3,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "gotland_0005",
+  "maya_0019",
+  "egypt_0039",
+  "maya_0146",
+  "maya_0069",
+  "maya_0158",
+  "rapa_nui_hoa_iso",
+  "gotland_0111",
+  "maya_0005",
+  "egypt_0069"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "maya",
+  "gotland",
+  "maya",
+  "maya",
+  "gotland",
+  "egypt",
+  "maya"
+ ],
+ "model": "sonnet",
+ "planted_rank": 3
+}

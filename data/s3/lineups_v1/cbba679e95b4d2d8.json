@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  10,
+  2,
+  8,
+  9,
+  6,
+  1,
+  3,
+  7,
+  5
+ ],
+ "most_similar_reason": "Candidate 4 is, like the target, a free-standing upright monolithic block whose weathered, roughly rectangular face carries shallow relief imagery arranged vertically down the shaft, giving the same sense of a carved stone pillar rather than a flat wall panel.",
+ "least_similar_reason": "Candidate 5 is a clean modern line drawing of a symmetrical figural scene with radiating lines and dense text registers, sharing neither the stone surface, the animal imagery, nor the carved low-relief handling of the target.",
+ "set": "moai_among_random",
+ "i": 10,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "assyria_0139",
+  "tanum_0007",
+  "egypt_0014",
+  "maya_0092",
+  "egypt_0056",
+  "assyria_0111",
+  "tanum_0079",
+  "persepolis_0084",
+  "assyria_0041",
+  "rapa_nui_0113"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "tanum",
+  "egypt",
+  "persepolis",
+  "assyria",
+  "maya",
+  "tanum",
+  "assyria",
+  "assyria",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

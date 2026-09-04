@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figures in profile",
+  "quadruped animals shown in profile",
+  "procession/row of figures arranged along a horizontal register",
+  "animals and humans combined in one scene",
+  "repetition of similar figures in a line"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces depict rows of human figures alongside quadrupeds in profile spread along a long horizontal band, which gives a loose arrangement correspondence. But the depicted content differs sharply: A shows a stately procession of robed dignitaries and a horse-drawn chariot with modelled, naturalistic anatomy, drapery and architectural crenellations and rosette borders, while B shows tiny stick-like silhouetted figures with splayed limbs swarming around a single oversized antlered stag and other beasts in an unbounded hunting scene with no framing bands.",
+ "a": "persepolis_0026",
+ "b": "catalhoyuk_0110",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3149,
+  324
+ ]
+}

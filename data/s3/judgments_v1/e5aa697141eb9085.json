@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "carved low-relief surface",
+  "profile figures",
+  "standing human or human-like figure",
+  "repeated linear patterning",
+  "border or band-like divisions"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The closest correspondence is that both are vertical carved stone surfaces using shallow relief and incised linear detail, with profile beings and some patterned framing or banding. The biggest difference is compositional: A is a rough, crowded, register-like surface with schematic animals and signs, while B is a framed panel dominated by one large, finely detailed winged standing figure.",
+ "a": "anatolia_ppn_p43full",
+ "b": "assyria_0157",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1230,
+  599
+ ]
+}

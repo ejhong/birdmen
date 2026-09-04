@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "anthropomorphic or human-like head/face/figure"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "The only real shared depicted content is a very generic anthropomorphic presence: B is a single frontal human-like head or face, while A includes at least one small schematic human-like figure among many other motifs. The biggest difference is that A is a multi-register scene with animals, birds, repeated geometric bands, and figures in profile, whereas B depicts essentially one isolated mask-like frontal face with no comparable surrounding iconography or compositional scheme.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0155",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1751,
+  553
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "upright frontal anthropomorphic figure",
+  "head with simplified facial features",
+  "torso/body indicated below the head",
+  "possible arms or hands indicated on the front of the body",
+  "schematic treatment of human form"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both depict a vertically oriented, frontal, simplified human-like figure with a head, face, and body arranged on a central axis. The biggest difference is that A presents a more complete standing body with rounded head, limbs and lower body, while B is a slab-like figure dominated by incised abstract circular and linear motifs on the torso, with no comparable full-body posture or attributes.",
+ "a": "anatolia_ppn_0121",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  687
+ ]
+}

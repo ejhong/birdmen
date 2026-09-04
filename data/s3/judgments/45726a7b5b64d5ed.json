@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic anthropomorphic figure",
+  "circle/disc motif",
+  "circle with internal cross or spoked interior",
+  "elongated frontal body with head above torso"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both depict a highly schematic frontal humanoid whose body is dominated by a circular motif \u2014 in A a ring/disc on the chest of a carved figure with a large blocky head, and in B a spoked or cross-filled circle set above/at the shoulders of a stick-limbed figure \u2014 plus a repeated linear band above (the row of ticks in B, the register of carved signs on A's head/cap). The correspondence is limited: A is a massive volumetric figure with a broad face, ears, arms folded on a rounded belly and additional carved emblems, whereas B is a pure linear outline figure with sinuous legs and no facial features, its circle occupying the head/upper-body position rather than being one of several body-borne emblems.",
+ "a": "rapa_nui_0113",
+ "b": "tanum_0240",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2974,
+  357
+ ]
+}

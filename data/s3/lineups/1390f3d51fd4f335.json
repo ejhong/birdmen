@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  2,
+  3,
+  1,
+  7,
+  6,
+  4,
+  8,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 5 depicts composite winged humanoid figures facing each other with detailed wing and body articulation, closely matching the target's layered winged figures with human forms and headdress elements.",
+ "least_similar_reason": "Candidate 10 shows a grid of small repeated glyph-like blocks with no winged figures or composite creature iconography, sharing nothing structurally or thematically with the target's overlapping winged humanoid imagery.",
+ "set": "same_control",
+ "i": 5,
+ "target": "mississippian_0045",
+ "planted": "mississippian_0075",
+ "cands": [
+  "anatolia_ppn_0086",
+  "assyria_0071",
+  "assyria_0051",
+  "egypt_0014",
+  "assyria_0059",
+  "maya_0048",
+  "egypt_0000",
+  "gotland_0133",
+  "mississippian_0075",
+  "maya_0011"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "assyria",
+  "maya",
+  "assyria",
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt",
+  "assyria",
+  "anatolia_ppn"
+ ],
+ "model": "sonnet",
+ "planted_rank": 9
+}

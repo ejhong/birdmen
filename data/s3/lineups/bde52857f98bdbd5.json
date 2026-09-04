@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  7,
+  5,
+  8,
+  10,
+  9,
+  1,
+  4,
+  3,
+  2
+ ],
+ "most_similar_reason": "Candidate 6 shares the target's emphasis on schematic, non-narrative motifs\u2014simple animal silhouettes and a bold spiral/circular device\u2014arranged in a plain field much like the target's abstract head, collar lines and central roundel.",
+ "least_similar_reason": "Candidate 2 depicts a detailed narrative scene with a mounted rider and multiple figures rendered in naturalistic relief, which is entirely unlike the target's abstract, geometric anthropomorphic imagery.",
+ "set": "p43_iso_among_monoliths",
+ "i": 2,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "anatolia_ppn_p43iso",
+  "gotland_0116",
+  "egypt_0063",
+  "egypt_0071",
+  "maya_0092",
+  "gotland_0026",
+  "egypt_0048",
+  "maya_0106",
+  "egypt_0064",
+  "maya_0056"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "egypt",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "egypt"
+ ],
+ "model": "sonnet",
+ "planted_rank": 7
+}

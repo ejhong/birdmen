@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  10,
+  5,
+  9,
+  4,
+  6,
+  7,
+  8,
+  2,
+  1
+ ],
+ "most_similar_reason": "It depicts an animal in profile in carved relief, matching the target's schematic profile birds and stacked animal figures on a stone surface.",
+ "least_similar_reason": "It shows only dense rows of repeated signs or writing with no creatures, animals, or comparable pictorial motifs.",
+ "set": "moai_among_random",
+ "i": 8,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "egypt_0040",
+  "tanum_0054",
+  "assyria_0011",
+  "assyria_0021",
+  "gotland_0018",
+  "egypt_0010",
+  "persepolis_0035",
+  "rapa_nui_0113",
+  "gotland_0123",
+  "mississippian_0002"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "assyria",
+  "persepolis",
+  "tanum",
+  "egypt",
+  "gotland",
+  "gotland",
+  "assyria",
+  "egypt",
+  "mississippian"
+ ],
+ "model": "grok",
+ "planted_rank": 8
+}

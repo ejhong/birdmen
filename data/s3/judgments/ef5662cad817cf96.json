@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "animal in profile",
+  "quadruped in profile",
+  "horizontal band or register",
+  "repeated geometric/linear patterning"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main shared content is generic: both include profile animals, including quadrupeds, set among or near horizontal bands with repeated linear/geometric decoration. The biggest difference is that B is a coherent procession of human figures with rams and a floral border, while A is a stacked, emblem-like field of varied animals/birds and abstract signs with no comparable human-led procession.",
+ "a": "anatolia_ppn_p43full",
+ "b": "persepolis_0061",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  664
+ ]
+}

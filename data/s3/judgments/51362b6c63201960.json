@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "human figures in strict profile",
+  "bearded male figure",
+  "low-relief carving of figures on a flat ground",
+  "figures wearing long garments with rendered pleats/folds",
+  "headgear/crown on head",
+  "figures holding staff-like objects (spears)",
+  "procession/orientation of figures in one direction"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show bearded male figures carved in shallow relief in strict profile, wearing headgear and long pleated garments, gripping vertical staff/spear shafts with both hands, a fairly specific conventional posture. However, A depicts a crowded multi-figure procession with pointed caps, a seated/enthroned figure and architectural elements, whereas B isolates a single large crowned figure with bow and quiver filling the whole field, so composition and scale differ markedly.",
+ "a": "assyria_0013",
+ "b": "persepolis_0067",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3224,
+  316
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  2,
+  5,
+  6,
+  7,
+  10,
+  8,
+  9,
+  3,
+  1
+ ],
+ "most_similar_reason": "Candidate 4 is filled with a dense array of carved animals and hybrid figures, sharing the target\u2019s emphasis on large zoomorphic creatures in relief together with ornamental infill rather than isolated human portraits or diagrams.",
+ "least_similar_reason": "Candidate 1 shows only a sparse schematic outline of a boat- or structure-like object and contains none of the birds, plants, living figures or patterned infill that dominate the target.",
+ "set": "moai_iso_among_monoliths",
+ "i": 6,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "gotland_0112",
+  "maya_0019",
+  "gotland_0131",
+  "maya_0045",
+  "gotland_0116",
+  "maya_0052",
+  "maya_0106",
+  "rapa_nui_hoa_iso",
+  "egypt_0050",
+  "egypt_0042"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "gotland",
+  "maya",
+  "gotland"
+ ],
+ "model": "grok",
+ "planted_rank": 7
+}

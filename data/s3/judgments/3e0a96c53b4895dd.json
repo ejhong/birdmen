@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "upright monolithic slab/stela with carved figural relief",
+  "anthropomorphic figure carved in low relief on a vertical stone face",
+  "headdress or elaborate head ornamentation",
+  "frontal/vertical composition filling the stone surface",
+  "curved-top, rounded rectangular field"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both depict an upright rounded-topped stone slab bearing a single anthropomorphic figure in low relief occupying the whole field, with head and headdress at the top and body elements below. However, A shows a densely packed, intricate composition with small dispersed motifs and possible glyph-like blocks along the edges, while B shows a very large, spare, simplified figure with a few bold concentric-disc and band motifs across the torso \u2014 the rendering conventions and level of detail differ sharply.",
+ "a": "maya_0125",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2974,
+  320
+ ]
+}

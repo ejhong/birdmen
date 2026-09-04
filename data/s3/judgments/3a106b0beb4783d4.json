@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "front-facing human or anthropomorphic face",
+  "eyes, nose, and mouth arranged on a vertical facial axis"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main shared content is a frontal human-like visage with facial features arranged conventionally around a central axis. The biggest difference is that A is essentially a mask or face, including a split dual treatment of the face, while B is a full anthropomorphic stela-like figure with torso symbols, discs, and bands that have no counterpart in A.",
+ "a": "mississippian_0008",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1777,
+  656
+ ]
+}

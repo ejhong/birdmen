@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "standing anthropomorphic or human figure",
+  "head or face above a torso",
+  "arms at the sides of the body",
+  "headdress or head ornament",
+  "circular body ornaments or discs",
+  "bands of geometric/linear ornament"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main correspondence is that both surfaces include a vertically oriented human or anthropomorphic figure with a head/headdress, torso, arms, and circular or band-like ornaments on the body. The biggest difference is that A is a highly schematic frontal body-like figure dominated by a few large abstract motifs, while B is a detailed profile standing person with elaborate costume, staff-like objects, attendant heads, and a separate vertical column of signs.",
+ "a": "rapa_nui_0113",
+ "b": "maya_0158",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1672,
+  580
+ ]
+}

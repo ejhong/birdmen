@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  6,
+  8,
+  10,
+  7,
+  5,
+  2,
+  4,
+  3,
+  9
+ ],
+ "most_similar_reason": "Candidate 1, like the target, is an upright shaped slab bearing schematic low-relief human figures combined with abstract geometric bands and chevron/curved motifs spread over the body of the stone rather than a narrative scene, matching the target's mix of a stylised figure with disc and band symbols.",
+ "least_similar_reason": "Candidate 9 shows nothing but rows of repeated written signs filling a rounded slab, with no figure, no head, no disc or curved bands, so it shares none of the target's pictorial iconography.",
+ "set": "p43_iso_among_monoliths",
+ "i": 2,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "anatolia_ppn_p43iso",
+  "gotland_0116",
+  "egypt_0063",
+  "egypt_0071",
+  "maya_0092",
+  "gotland_0026",
+  "egypt_0048",
+  "maya_0106",
+  "egypt_0064",
+  "maya_0056"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "egypt",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

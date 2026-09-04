@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "stylized face or head",
+  "paired eyes",
+  "brow/eye ridge forms",
+  "rounded or circular facial details"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The most specific shared content is a stylized head/face with paired eyes set under raised or outlined brow-like forms. The biggest difference is that A presents a frontal anthropomorphic full-body or torso-like figure with multiple symbolic body markings, while B shows only a close-up head or face, apparently more animal-like and without the same body scheme or accompanying motifs.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_0244",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  660
+ ]
+}

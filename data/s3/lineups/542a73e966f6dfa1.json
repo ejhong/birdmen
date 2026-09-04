@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  6,
+  2,
+  9,
+  3,
+  8,
+  7,
+  1,
+  4,
+  10
+ ],
+ "most_similar_reason": "Candidate 5 is most similar because it shows the same kind of anthropomorphic upright surface with side arms/body features and low-relief schematic animal and circular motifs arranged across the torso area.",
+ "least_similar_reason": "Candidate 10 is least similar because it is dominated by stacked rows of script-like signs on a narrow surface, with none of the target\u2019s anthropomorphic body layout, animal reliefs, or broad curved/belt-like motifs.",
+ "set": "same_control_monoliths",
+ "i": 14,
+ "target": "rapa_nui_0039",
+ "planted": "rapa_nui_0022",
+ "cands": [
+  "anatolia_ppn_0240",
+  "anatolia_ppn_0207",
+  "maya_0081",
+  "egypt_0042",
+  "rapa_nui_0022",
+  "anatolia_ppn_0078",
+  "egypt_0044",
+  "gotland_0116",
+  "anatolia_ppn_0212",
+  "maya_0077"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "maya",
+  "maya",
+  "anatolia_ppn",
+  "egypt",
+  "gotland",
+  "egypt",
+  "anatolia_ppn"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  9,
+  10,
+  6,
+  7,
+  5,
+  2,
+  4,
+  3,
+  8
+ ],
+ "most_similar_reason": "Candidate 1 is most similar because it shows the same kind of schematic relief iconography: long-necked bird/animal figures arranged in a horizontal field beneath a band of repeated signs, closely echoing the target\u2019s profile animals and patterned banding.",
+ "least_similar_reason": "Candidate 8 is least similar because its content is dominated by stacked frontal mask-like/anthropomorphic forms, with none of the target\u2019s profile birds, quadrupeds, or repeated horizontal sign bands.",
+ "set": "moai_close_among_random",
+ "i": 27,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "persepolis_0007",
+  "assyria_0095",
+  "egypt_0007",
+  "rapa_nui_0004",
+  "assyria_0041",
+  "maya_0126",
+  "gotland_0009",
+  "maya_0019",
+  "persepolis_0079",
+  "egypt_0048"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "maya",
+  "persepolis",
+  "gotland",
+  "egypt",
+  "persepolis",
+  "assyria",
+  "assyria"
+ ],
+ "model": "gpt",
+ "planted_rank": 8
+}

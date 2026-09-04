@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic anthropomorphic figure or body/limbs",
+  "long vertical arms at the sides",
+  "hand or finger-like endings",
+  "simple linear or geometric signs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is the convention of a schematic frontal anthropomorphic presence with long arms running down the sides and hand/finger-like terminals, rendered in simple relief lines. The biggest difference is that A is dominated by multiple animal figures and a horizontal patterned register arranged in stacked zones, while B reads mainly as a single large anthropomorphic form with sparse linear markings.",
+ "a": "anatolia_ppn_p43full",
+ "b": "rapa_nui_0053",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  1961
+ ]
+}

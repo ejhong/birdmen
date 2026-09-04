@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "procession of standing human figures in profile facing the same direction",
+  "low relief frieze bounded by a horizontal band of rosettes",
+  "figures wearing head coverings/headdresses and long belted garments",
+  "figures carrying objects (bowls/vessels) in the hands",
+  "tribute-bearer / delegation procession scene",
+  "ground line at the base of the figures"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "8",
+ "justification": "Both show a low-relief procession of profile human figures in long belted robes and distinctive headgear walking in the same direction and carrying bowl-like vessels, framed by a horizontal band of identical multi-petalled rosettes above (and below in B) \u2014 a highly specific conventional scheme with the same rendering of hands, beards and drapery folds. The main difference in depicted content is that B includes a large camel led by a figure with a lead-rope, while A instead ends with a frontal-robed figure clasping the hand of the lead tribute-bearer.",
+ "a": "persepolis_0105",
+ "b": "persepolis_0079",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3349,
+  362
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  2,
+  3,
+  1,
+  4,
+  5,
+  10,
+  7,
+  8,
+  9
+ ],
+ "most_similar_reason": "Both surfaces show a compact stela-like field with human figures in profile arranged as an interacting scene above horizontal bands of inscriptional signs.",
+ "least_similar_reason": "Candidate 9 shows only sparse incised linear marks forming a simple isolated shape, with no human figures, offerings, facing poses, or bands of signs.",
+ "set": "same_control_monoliths",
+ "i": 0,
+ "target": "egypt_0066",
+ "planted": "egypt_0047",
+ "cands": [
+  "maya_0158",
+  "gotland_0131",
+  "maya_0092",
+  "maya_0111",
+  "maya_0088",
+  "egypt_0047",
+  "anatolia_ppn_0267",
+  "anatolia_ppn_0260",
+  "anatolia_ppn_0093",
+  "anatolia_ppn_0261"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "anatolia_ppn",
+  "gotland",
+  "anatolia_ppn",
+  "maya",
+  "maya",
+  "anatolia_ppn",
+  "maya",
+  "anatolia_ppn"
+ ],
+ "model": "grok",
+ "planted_rank": 1
+}

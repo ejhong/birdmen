@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  2,
+  4,
+  6,
+  10,
+  8,
+  7,
+  3,
+  9,
+  1
+ ],
+ "most_similar_reason": "Candidate 5 is closest because it likewise shows a stylized low-relief human figure in profile with elaborate costume or headdress elements and nearby sign-like details arranged as a compact figural scene rather than as pure ornament.",
+ "least_similar_reason": "Candidate 1 is least similar because its surface is dominated by symmetrical abstract scrollwork and a central geometric emblem, with no comparable seated/profile human figures, attendants, or glyph-like narrative elements.",
+ "set": "same_control_monoliths",
+ "i": 7,
+ "target": "egypt_0073",
+ "planted": "egypt_0069",
+ "cands": [
+  "gotland_0117",
+  "maya_0092",
+  "anatolia_ppn_0144",
+  "maya_0087",
+  "maya_0097",
+  "maya_0057",
+  "gotland_0026",
+  "egypt_0069",
+  "gotland_0111",
+  "gotland_0128"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "gotland",
+  "maya",
+  "anatolia_ppn",
+  "gotland",
+  "maya",
+  "maya",
+  "gotland",
+  "maya",
+  "gotland"
+ ],
+ "model": "gpt",
+ "planted_rank": 6
+}

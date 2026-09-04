@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human figure in profile",
+  "bearded male figure with headdress",
+  "low-relief carved figural panel",
+  "framed/bordered panel edge"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict human figures rendered in strict profile in low relief, apparently bearded and wearing tall headgear, with attention to patterned hair/beard treatment, which is the most specific correspondence. But A shows a small multi-figure scene (figures flanking an altar or emblem beneath a disc within an arched panel) above extensive fields of dense inscribed sign-rows, whereas B shows a single isolated bust-length head-and-shoulders figure filling the whole surface with no scene, no companions and no inscription.",
+ "a": "egypt_0060",
+ "b": "assyria_0105",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3024,
+  634
+ ]
+}

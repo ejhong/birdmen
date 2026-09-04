@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  9,
+  8,
+  3,
+  1,
+  6,
+  5,
+  4,
+  7,
+  2
+ ],
+ "most_similar_reason": "Candidate 10 is the only candidate whose relief content, like the target, is dominated by animals and composite creatures shown in strict profile with schematic bodies, beaks/snouts and limbs laid out flat against the surface, rather than by human offering or presentation scenes.",
+ "least_similar_reason": "Candidate 2 shows only large-scale human figures in a single monumental scene, with none of the target's stacked registers of small schematic animals and birds.",
+ "set": "moai_iso_among_random",
+ "i": 11,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0045",
+  "assyria_0139",
+  "persepolis_0025",
+  "egypt_0074",
+  "egypt_0041",
+  "egypt_0044",
+  "maya_0056",
+  "rapa_nui_hoa_iso",
+  "tanum_0007",
+  "assyria_0112"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "egypt",
+  "egypt",
+  "assyria",
+  "maya",
+  "egypt",
+  "assyria",
+  "egypt",
+  "persepolis",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 3
+}

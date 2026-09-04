@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  10,
+  6,
+  5,
+  3,
+  9,
+  1,
+  4,
+  8,
+  2
+ ],
+ "most_similar_reason": "Both feature a single, large upright figure carved in low relief that dominates the overall shape of the monument.",
+ "least_similar_reason": "This features entirely abstract, geometric interlacing patterns with no anthropomorphic elements.",
+ "set": "p43_iso_among_monoliths",
+ "i": 3,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "anatolia_ppn_p43iso",
+  "gotland_0117",
+  "egypt_0063",
+  "maya_0045",
+  "maya_0147",
+  "maya_0152",
+  "maya_0082",
+  "gotland_0112",
+  "egypt_0064",
+  "maya_0097"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "gotland",
+  "maya"
+ ],
+ "model": "gemini",
+ "planted_rank": 7
+}

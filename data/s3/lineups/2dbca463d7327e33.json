@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  1,
+  10,
+  8,
+  6,
+  5,
+  7,
+  3,
+  2,
+  4
+ ],
+ "most_similar_reason": "Candidate 9 shares the target's fundamental anthropomorphic structure, featuring a similarly defined head and shoulder outline indicative of a stylized figure-stone tradition.",
+ "least_similar_reason": "Candidate 4 consists entirely of uniform rows of text, lacking any of the large abstract motifs or stylized figurative elements central to the target.",
+ "set": "p43_among_random",
+ "i": 11,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "gotland_0026",
+  "persepolis_0020",
+  "assyria_0151",
+  "egypt_0049",
+  "egypt_0065",
+  "egypt_0070",
+  "maya_0026",
+  "egypt_0046",
+  "gotland_0133",
+  "anatolia_ppn_p43full"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "persepolis",
+  "egypt",
+  "gotland",
+  "gotland",
+  "assyria"
+ ],
+ "model": "gemini",
+ "planted_rank": 3
+}

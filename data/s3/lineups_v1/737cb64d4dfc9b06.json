@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  3,
+  8,
+  9,
+  6,
+  1,
+  5,
+  7,
+  2,
+  4
+ ],
+ "most_similar_reason": "Candidate 10, like the target, is a free-standing monolithic block of stone whose surface bears shallow carved relief motifs wrapping around the upright body, giving the same sense of a sculpted pillar-like monument rather than a flat panel.",
+ "least_similar_reason": "Candidate 4 is a flat, brightly painted composition of red silhouetted human and animal figures displayed on a white ground, sharing neither the carved stone technique nor the monumental architectural form of the target.",
+ "set": "moai_among_random",
+ "i": 1,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "tanum_0005",
+  "mississippian_0007",
+  "assyria_0099",
+  "catalhoyuk_0039",
+  "tanum_0119",
+  "persepolis_0099",
+  "tanum_0106",
+  "egypt_0066",
+  "assyria_0128",
+  "rapa_nui_0113"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "assyria",
+  "persepolis",
+  "mississippian",
+  "assyria",
+  "tanum",
+  "catalhoyuk",
+  "egypt",
+  "tanum",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

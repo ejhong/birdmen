@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "boat/ship shown in profile",
+  "row of short vertical strokes along the hull (crew marks)",
+  "schematic human figure(s)",
+  "linear, outline-only schematic rendering",
+  "vertical mast-like or staff-like line rising from a figure/hull"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces are dominated by profile boats rendered as a long hull carrying a dense row of short vertical crew strokes, an arbitrary and quite specific convention, and both combine these with small schematic stick-like human figures drawn in pure outline. They differ in composition and detail: A shows a single large ship with mast, rigging and a patterned sail filling the field in a framed, centred layout, while B scatters several small mastless crescent boats plus isolated figures and abstract signs irregularly across the surface.",
+ "a": "gotland_0123",
+ "b": "tanum_0079",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  643
+ ]
+}

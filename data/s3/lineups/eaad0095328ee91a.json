@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  10,
+  6,
+  3,
+  2,
+  8,
+  5,
+  7,
+  9,
+  4
+ ],
+ "most_similar_reason": "Both show compact vertical relief compositions filled with stylized living figures and subsidiary patterned or structural elements rendered with internal linear detailing.",
+ "least_similar_reason": "It shows only scattered, highly schematic stick figures and simple boat outlines, sharing neither the modeled profile creatures nor the stacked pictorial arrangement of the target.",
+ "set": "moai_iso_among_random",
+ "i": 7,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0048",
+  "egypt_0014",
+  "egypt_0032",
+  "tanum_0056",
+  "persepolis_0018",
+  "maya_0129",
+  "egypt_0006",
+  "rapa_nui_hoa_iso",
+  "tanum_0327",
+  "gotland_0129"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "egypt",
+  "persepolis",
+  "egypt",
+  "tanum",
+  "gotland",
+  "egypt",
+  "egypt",
+  "maya",
+  "tanum"
+ ],
+ "model": "grok",
+ "planted_rank": 6
+}

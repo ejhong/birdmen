@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  1,
+  2,
+  9,
+  6,
+  7,
+  3,
+  10,
+  4,
+  5
+ ],
+ "most_similar_reason": "Both display raised carvings on a distinctive T-shaped monumental pillar.",
+ "least_similar_reason": "Shows rudimentary linear marks lacking the complex sculptural forms of the target.",
+ "set": "moai_close_among_random",
+ "i": 37,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "assyria_0125",
+  "assyria_0146",
+  "persepolis_0012",
+  "mississippian_0007",
+  "tanum_0037",
+  "assyria_0011",
+  "assyria_0015",
+  "rapa_nui_0004",
+  "assyria_0120",
+  "mississippian_0006"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "tanum",
+  "assyria",
+  "assyria",
+  "mississippian",
+  "assyria",
+  "mississippian",
+  "persepolis",
+  "assyria",
+  "assyria"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

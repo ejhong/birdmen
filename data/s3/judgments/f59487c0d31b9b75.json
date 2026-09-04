@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "bearded male figure shown in strict profile",
+  "beard rendered as tiered rows of tight curls/beads",
+  "hair mass at back of head rendered in rows of curls",
+  "tall/elaborate headdress or cap with striated or patterned surface",
+  "eye shown in near-frontal form within profile head",
+  "low relief carving of human figures against a plain ground"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces depict bearded men in strict profile whose beards and back hair are rendered as regimented tiered rows of tight curls beneath a tall patterned headdress, a conventional and fairly specific figure type shared between them. The biggest difference in content is that A shows a multi-figure procession of whole standing bodies in robes with held objects arranged in registers above a rosette band, while B shows only a single isolated head and shoulder with no interaction, ornament band or accompanying figures.",
+ "a": "persepolis_0071",
+ "b": "assyria_0084",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  2974,
+  772
+ ]
+}

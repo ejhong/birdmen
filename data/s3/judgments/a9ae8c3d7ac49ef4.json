@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human figure carved in relief",
+  "head shown in profile",
+  "elaborate headdress or head ornament",
+  "relief carving on a boulder/slab surface with figure occupying the whole field"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict a single human figure in profile in relief, with a large elaborated headdress dominating the upper portion and the body/limbs occupying the lower field, which is a reasonably specific shared scheme. However, A is heavily eroded and its details (limbs, possible scrolls) are hard to match to B's specific attributes such as the banded ear/headdress ornament, the raised hand before the face, and the wavy line along the lower band, so the correspondence remains at the level of a general 'profile figure with headdress' convention.",
+ "a": "rapa_nui_0070",
+ "b": "maya_0097",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3224,
+  298
+ ]
+}

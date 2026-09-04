@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "standing human figure"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "Image A depicts a detailed relief scene with a seated figure, an offering figure, and hieroglyphic-style inscriptions, all rendered in a naturalistic carved convention; Image B shows a crude schematic stick figure with raised arms next to a wavy line (likely a snake or path) painted on rock. The only loose commonality is the presence of a human figure, but its form, pose, context, and relationship to other elements (seated on a chair with offerings vs. isolated with a squiggly line) are entirely different, and the overall style (detailed relief vs. minimal line art) shares nothing.'",
+ "a": "egypt_0041",
+ "b": "tanum_0344",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  3174,
+  284
+ ]
+}

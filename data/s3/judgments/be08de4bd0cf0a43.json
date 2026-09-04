@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "upright freestanding stela/monolith carved in relief",
+  "dense low-relief carving covering the full height of the shaft",
+  "rectangular glyph-like blocks arranged in columns/rows",
+  "ornate scrollwork and compartmentalized motifs",
+  "monument set on stepped stone base/platform"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict a tall upright slab-like monument whose face is entirely covered with dense low-relief carving, and both include rectangular block-like sign panels arranged in ordered columns, set on a stepped base. The decisive difference is that B is dominated by a large frontal standing human figure with elaborate headdress, ear ornaments and pendant regalia, whereas A's visible surfaces show only the panelled sign blocks and scrollwork with no figure discernible.",
+ "a": "maya_0152",
+ "b": "maya_0060",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  2749,
+  318
+ ]
+}

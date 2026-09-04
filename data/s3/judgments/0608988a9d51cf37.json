@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figures in profile",
+  "low-relief carving on a flat slab",
+  "raised arm/gesturing hand",
+  "wings or wing-like feathered forms (A) vs none in B",
+  "figures with elaborate garments",
+  "register lines dividing the surface"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both are shallow relief panels showing human figures rendered in strict profile with a raised arm gesture, and both use ruled horizontal lines that divide the field; these are generic conventions of profile-relief figural art. A shows a single colossal winged bearded figure filling the whole field with a bucket-like handled object, while B shows small-scale multi-figure scenes of seated and standing people around offering tables in two stacked registers, plus columns of script signs \u2014 a wholly different subject and composition.",
+ "a": "assyria_0051",
+ "b": "egypt_0067",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3024,
+  318
+ ]
+}

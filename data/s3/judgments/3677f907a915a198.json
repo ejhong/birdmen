@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figure(s) in relief",
+  "frontal/profile human faces",
+  "elaborate headgear or headdress",
+  "procession or arrangement of figures along a stone surface",
+  "relief carving with decorative borders/ornamental motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "Both depict human figures in carved relief with headgear and ornamental motifs, but that is about as generic as shared content gets. A shows a horizontal procession of profile figures leading a camel, framed by bands of rosettes, in a spare low-relief style with plain outlines; B shows a single frontal standing figure entirely enveloped in dense, deeply undercut scrollwork and mask-like ornament on a vertical monolith, with no shared arrangement, relationship or rendering convention.",
+ "a": "persepolis_0068",
+ "b": "maya_0052",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3124,
+  302
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic animal/creature in profile",
+  "curved or hooked appendage/motif",
+  "parallel linear internal markings"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The main overlap is only that both surfaces include schematically outlined animal-like figures with some curved appendages and parallel incised/internal lines. A is a multi-register composition with several distinct birds/animals and geometric bands, while B is dominated by one large horned or spiral-headed creature without the same repeated register structure or specific motifs.",
+ "a": "anatolia_ppn_p43full",
+ "b": "rapa_nui_0101",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  655
+ ]
+}

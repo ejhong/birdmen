@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  5,
+  2,
+  1,
+  6,
+  3,
+  10,
+  4,
+  9,
+  7
+ ],
+ "most_similar_reason": "Candidate 8 shows the same distinctive scheme as the target: a tall narrow shaft carved in low relief with creatures and figural elements stacked one above another in vertical registers, dominated by a frontal animal head at the top, rather than a single scene spread horizontally.",
+ "least_similar_reason": "Candidate 7 shows only an abstract concentric-circle motif with a schematic stick-like figure and straight lines, sharing none of the target's stacked relief animals, birds, snakes, arms or repeated object row.",
+ "set": "moai_among_random",
+ "i": 24,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0084",
+  "maya_0147",
+  "tanum_0016",
+  "gotland_0008",
+  "rapa_nui_0113",
+  "catalhoyuk_0110",
+  "tanum_0351",
+  "mississippian_0006",
+  "egypt_0013",
+  "persepolis_0067"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "catalhoyuk",
+  "mississippian",
+  "tanum",
+  "gotland",
+  "maya",
+  "egypt",
+  "persepolis",
+  "persepolis",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

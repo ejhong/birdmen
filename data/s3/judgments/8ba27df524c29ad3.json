@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "human figure(s) in profile",
+  "animal figure(s) in profile",
+  "low relief carving convention"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both reliefs use profile human and animal figures rendered in low relief, a shared general convention of the depiction style, but the actual subject matter diverges sharply: A shows a dynamic hunting/combat scene with a chariot-borne archer trampling a fallen beast, while B shows a static horizontal procession of standing/walking figures and a single led animal among trees. The compositional logic\u2014dynamic diagonal action versus repetitive marching frieze\u2014differs fundamentally, so the correspondence is limited to generic figural conventions rather than shared iconography.",
+ "a": "assyria_0012",
+ "b": "persepolis_0093",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  3349,
+  886
+ ]
+}

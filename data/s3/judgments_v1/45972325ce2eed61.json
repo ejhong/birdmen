@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "decorated upright stone surface",
+  "anthropomorphic or human-like figure",
+  "circle or disc motifs",
+  "horizontal band or register-like division",
+  "incised/low-relief linear carving"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The most specific correspondence is that both are upright stone surfaces bearing shallow carved motifs including human-like imagery, circular marks, and some horizontal division of the decorated field. The biggest difference is compositional: A is dominated by a single rounded, sculptural anthropomorphic form with motifs on its body, while B is a flat panel organized into multiple registers with many separate pictorial signs and animals.",
+ "a": "rapa_nui_0005",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  487
+ ]
+}

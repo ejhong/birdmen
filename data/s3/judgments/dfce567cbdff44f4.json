@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief carved figural scene",
+  "horizontal register divider / band",
+  "rosette or radiating floral motif (rosette band in B, flower heads in A)",
+  "fine linear incised detailing (feather/hatching in A, patterned bands in B)",
+  "stylized plant/palmette-like ornament"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both are low-relief carvings organised into horizontal registers with a border band of repeated rosette/floral units and dense fine incised linear detail, which is a real but fairly generic shared convention. What is depicted differs almost entirely: A shows a bird-headed winged anthropomorphic figure striding beside a stylized flowering tree with a text band above, while B shows a large multi-spoked chariot wheel with horses and patterned textile, sharing no figure, creature or object type.",
+ "a": "assyria_0102",
+ "b": "persepolis_0006",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3274,
+  322
+ ]
+}

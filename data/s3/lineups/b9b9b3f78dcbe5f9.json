@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  1,
+  9,
+  4,
+  3,
+  7,
+  2,
+  8,
+  5,
+  10
+ ],
+ "most_similar_reason": "Candidate 6 shows a schematic profile bird with long neck and compact body that matches the distinctive repeated waterfowl figures on the target in form, pose, outline style and relationship to surrounding carved lines.",
+ "least_similar_reason": "Candidate 10 depicts a frontal three-dimensional standing human figure rather than a relief surface with profile animals, stacked registers and geometric chevron bands.",
+ "set": "hard",
+ "i": 1,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0123",
+  "egypt_0027",
+  "egypt_0012",
+  "maya_0047",
+  "gotland_0115",
+  "tanum_0359",
+  "gotland_0133",
+  "gotland_0116",
+  "gotland_0125",
+  "rapa_nui_0113"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "gotland",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "grok",
+ "planted_rank": 10
+}

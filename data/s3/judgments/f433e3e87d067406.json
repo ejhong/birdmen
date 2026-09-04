@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "dense field of small pictographic/logographic signs (writing-like glyphs)",
+  "signs arranged in ordered rows/registers",
+  "glyphs incorporating human or animal head forms",
+  "oval/rounded cartouche-like sign outlines",
+  "a larger figural/animal motif set apart from the sign field"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces are dominated by dense arrays of small schematic pictographic signs, some incorporating human/animal heads and oval enclosures, set in ordered rows, with a larger figural or focal motif distinguished from the sign field. But the sign forms and their organisation differ sharply: A shows sloping horizontal registers of outline pictorial signs with a modelled animal/figure above, while B is a rigid rectangular border of squared, heavily infilled glyph blocks enclosing a single large hatched disc \u2014 a scheme with no counterpart in A.",
+ "a": "egypt_0017",
+ "b": "maya_0024",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  875
+ ]
+}

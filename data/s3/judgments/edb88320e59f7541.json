@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "single frontal/standing anthropomorphic figure occupying the whole surface",
+  "headdress or elaborate head covering",
+  "low-relief carving on a tall upright slab",
+  "ornaments on the chest/torso (pendant or disc-like elements)",
+  "belt or banded girdle across the waist"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces present a single large anthropomorphic figure filling the entire tall upright field, with an elaborate headdress above, chest/pectoral ornaments and a banded belt at the waist in roughly the same vertical order. However, A is a clearly outlined profile-oriented figure with articulated arms, legs and a smaller subsidiary figure at its feet rendered in crisp low relief, while B is a massive blocky columnar form with only faint schematic curvilinear and circular motifs and no discernible limbs or secondary figures.",
+ "a": "maya_0105",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2974,
+  341
+ ]
+}

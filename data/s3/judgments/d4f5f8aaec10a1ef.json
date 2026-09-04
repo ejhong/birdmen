@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "large schematic human figure with both arms raised above the head",
+  "human figure with splayed legs and long thin limbs",
+  "small round disc or ball adjacent to a raised arm",
+  "long straight incised line running horizontally across the panel",
+  "smaller subsidiary human/animal figures near the lower left",
+  "pecked/abraded outline figures with narrow torsos and no facial detail"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "10",
+ "justification": "Both show the same distinctive set of large schematic stick-limbed human figures with arms raised over the head, the same small disc set beside a raised arm, the same long horizontal line crossing above the figures, and the same cluster of smaller figures at lower left, in identical relative positions. The only difference is framing: B shows a wider view including an additional figure at right and a long dotted/segmented line, while A is a closer crop of the same central group, so the depicted content is effectively identical.",
+ "a": "tanum_0008",
+ "b": "tanum_0005",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3349,
+  529
+ ]
+}

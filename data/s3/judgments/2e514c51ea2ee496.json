@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "grid of rectangular/rounded glyph blocks in rows and columns",
+  "cartouche-like rounded square signs with internal infill details",
+  "zoomorphic/anthropomorphic head signs in profile within blocks",
+  "paired sign clusters (main sign with attached smaller affixes)",
+  "raised relief carving of dense text field covering entire surface"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "9",
+ "justification": "Both surfaces depict the same distinctive content: a dense, fully covered field of rounded-square glyph cartouches arranged in ordered rows and paired columns, each main sign carrying smaller attached affixes and many containing profile zoomorphic or human-like heads with the same eye and mouth conventions in low raised relief. The only real difference in depicted content is the shaping of the field to a curved, tapering column in A versus a flat rectangular panel in B, which changes the block sequence's visible layout but not the motifs or their internal relationships.",
+ "a": "maya_0149",
+ "b": "maya_0011",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  2799,
+  360
+ ]
+}

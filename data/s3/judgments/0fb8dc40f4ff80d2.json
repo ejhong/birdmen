@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic animal or bird-like figures in profile",
+  "curvilinear outline depiction of bodies/heads",
+  "isolated circular or eye-like forms"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific shared content is the presence of schematic zoomorphic, possibly bird-like profile figures with curving outlines and eye/head details. The biggest difference is that A appears to have scattered petroglyph-like figures on an irregular surface, while B is an organized register-based composition with multiple animals and geometric bands arranged in rows.",
+ "a": "rapa_nui_0073",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1962,
+  659
+ ]
+}

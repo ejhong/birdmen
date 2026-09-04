@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "bearded male figure in profile",
+  "elaborate tiered curled hair/wig with rows of curls",
+  "curled square-cut beard",
+  "shallow bowl or cup held raised in one hand",
+  "arm bent at elbow with hand extended",
+  "long belted robe with patterned/fringed edge",
+  "low-relief figures aligned in a horizontal register",
+  "hands rendered with prominent parallel fingers"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "7",
+ "justification": "Both show the same very specific figure type: a bearded male in strict profile with a stepped mass of tight curls for hair and beard, wearing a long belted robe and raising a shallow bowl in a bent arm, carved in shallow relief along a horizontal register. The chief difference in content is the composition: A is a confronted pair of large principal figures with attendants and a band of inscribed writing running across the garments, whereas B is a repetitive unidirectional file of near-identical smaller bowl-bearers with no inscription.",
+ "a": "assyria_0008",
+ "b": "persepolis_0012",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  800
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "frontal anthropomorphic figure or body",
+  "head or face at the top",
+  "paired circular motifs on the upper body/face area",
+  "central circular motif on the torso",
+  "bilateral symmetry",
+  "linear/geometric body markings"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "The strongest correspondence is a vertically arranged, bilaterally symmetrical frontal anthropomorphic form with a head/face above a torso marked by circular motifs and incised linear/geometric details. The biggest difference is that A shows a much more explicit full standing figure with limbs, a radiant head, and flanking appendages or held elements, while B is a blockier, more abstract torso/monolith with fewer clearly readable body parts and no matching radiate-head scheme.",
+ "a": "mississippian_0006",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  702
+ ]
+}

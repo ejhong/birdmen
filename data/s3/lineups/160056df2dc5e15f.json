@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  10,
+  5,
+  7,
+  1,
+  8,
+  6,
+  3,
+  4,
+  9
+ ],
+ "most_similar_reason": "Candidate 2, like the target, presents a boldly modelled near-three-dimensional human figure with a large frontal face and headdress emerging from the block, with arms and body worked in deep relief and a patterned band framing it, matching the target's high-relief seated figure with a crosshatched net-like surface.",
+ "least_similar_reason": "Candidate 9 shows only a grid of dense inscribed sign blocks with no figure, face, limbs or body ornament, so it shares none of the target's figural iconography.",
+ "set": "same_control_monoliths",
+ "i": 20,
+ "target": "anatolia_ppn_0259",
+ "planted": "anatolia_ppn_0244",
+ "cands": [
+  "maya_0066",
+  "maya_0097",
+  "maya_0125",
+  "maya_0082",
+  "maya_0094",
+  "maya_0088",
+  "maya_0106",
+  "anatolia_ppn_0244",
+  "maya_0095",
+  "rapa_nui_0039"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "rapa_nui",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 6
+}

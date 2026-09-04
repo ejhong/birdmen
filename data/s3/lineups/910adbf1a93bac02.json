@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  10,
+  6,
+  8,
+  4,
+  3,
+  5,
+  2,
+  7,
+  1
+ ],
+ "most_similar_reason": "Candidate 9 shows a single large anthropomorphic figure carved frontally into a rectangular stone slab, echoing the target's blocky standing figure with simplified facial and body features.",
+ "least_similar_reason": "Candidate 1 is essentially a blank, uncarved stone surface with no discernible figures, symbols, or patterns, offering no comparable depicted content to the target's carved anthropomorphic imagery.",
+ "set": "p43_among_random",
+ "i": 8,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "maya_0125",
+  "gotland_0009",
+  "assyria_0111",
+  "egypt_0045",
+  "persepolis_0073",
+  "maya_0005",
+  "tanum_0049",
+  "egypt_0066",
+  "assyria_0138",
+  "anatolia_ppn_p43full"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "assyria",
+  "assyria",
+  "maya",
+  "persepolis",
+  "tanum",
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt"
+ ],
+ "model": "sonnet",
+ "planted_rank": 2
+}

@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "bearded male figure in strict profile",
+  "elaborately curled/patterned hair rendered in rows of tight ringlets",
+  "long layered beard with regular curl rows",
+  "headband/fillet around the head",
+  "low-relief carving with incised interior detail",
+  "profile eye with rendered brow",
+  "rows of repeated small motifs used as surface texture"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict a bearded male head in strict profile with a fillet and hair and beard rendered as regular tiered rows of tight curls, carved in shallow relief with incised interior detailing \ncalled out in the same conventional way. However, A shows two such figures confronting each other with a raised handled bowl, hands, garments and an inscribed field, whereas B pairs its single figure with two large ram heads over a scale-like ground pattern, so the scenes and internal relationships differ substantially.",
+ "a": "assyria_0008",
+ "b": "persepolis_0011",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3249,
+  708
+ ]
+}

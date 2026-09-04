@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "horizontal register band of repeated arch/loop motifs (H-like or arched forms) along the top",
+  "band of short vertical strokes / fringe or zigzag line dividing registers",
+  "quadruped animals in profile below the band",
+  "low-relief carving on a flat stone face",
+  "register-based composition with stacked horizontal zones"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "9",
+ "justification": "Both surfaces show the identical scheme: an upper register of repeated arched/loop symbols, separated by a band of short vertical strokes (fringe/zigzag), above a lower register of profile quadrupeds in low relief with the same schematic outline-and-flat-relief convention. B extends further, adding lower-shaft imagery (bird-like figures, plant/branch motif) not visible on A, and A's animals are more uniformly aligned, but the shared register scheme and motif vocabulary are highly specific.",
+ "a": "anatolia_ppn_0106",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3048,
+  344
+ ]
+}

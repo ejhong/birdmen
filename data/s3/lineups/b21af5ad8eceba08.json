@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  3,
+  6,
+  8,
+  4,
+  7,
+  5,
+  10,
+  1,
+  9
+ ],
+ "most_similar_reason": "Candidate 2 is most similar because it likewise shows schematic incised/relief animal-like forms and small signs arranged on the surface in a non-naturalistic, emblematic style rather than a human narrative scene.",
+ "least_similar_reason": "Candidate 9 is least similar because it shows mainly an architectural niche or recess with simple geometric color blocks and no comparable animal figures, symbolic band, or profile relief iconography.",
+ "set": "moai_close_among_random",
+ "i": 17,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "persepolis_0066",
+  "tanum_0359",
+  "egypt_0005",
+  "egypt_0013",
+  "assyria_0158",
+  "assyria_0052",
+  "rapa_nui_0004",
+  "persepolis_0093",
+  "catalhoyuk_0065",
+  "assyria_0123"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "tanum",
+  "assyria",
+  "catalhoyuk",
+  "egypt",
+  "egypt",
+  "persepolis",
+  "assyria",
+  "assyria",
+  "persepolis"
+ ],
+ "model": "gpt",
+ "planted_rank": 6
+}

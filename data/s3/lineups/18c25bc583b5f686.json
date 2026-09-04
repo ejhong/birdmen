@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  7,
+  5,
+  10,
+  2,
+  3,
+  8,
+  4,
+  6,
+  1
+ ],
+ "most_similar_reason": "Candidate 9 is covered entirely by horizontal registers of large relief script signs \u2014 including bird glyphs, animal and body-part signs \u2014 divided by ruled lines, exactly the kind of sign-row layout and repertoire of pictorial glyphs seen on the target.",
+ "least_similar_reason": "Candidate 1 is a sculptural relief of large human/divine bodies with modelled limbs and drapery and no register-organised pictorial sign system at all, so it shares almost nothing with the target's rows of small glyph-like creatures and symbols.",
+ "set": "moai_iso_among_monoliths",
+ "i": 7,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0097",
+  "egypt_0041",
+  "egypt_0073",
+  "maya_0066",
+  "egypt_0068",
+  "rapa_nui_hoa_iso",
+  "egypt_0076",
+  "maya_0085",
+  "egypt_0040",
+  "egypt_0067"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 9
+}

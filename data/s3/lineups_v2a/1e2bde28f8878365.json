@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  7,
+  9,
+  4,
+  8,
+  10,
+  3,
+  2,
+  6,
+  1
+ ],
+ "most_similar_reason": "Candidate 5 is the only one that, like the target, shows a compact relief scene combining human figures with a quadruped animal rendered in profile in a shared narrative arrangement.",
+ "least_similar_reason": "Candidate 1 shows essentially bare rock with only faint indeterminate marks, offering no recognizable figures, animals or ordered motifs to compare with the target's detailed profile animals and human figures.",
+ "set": "related_control",
+ "i": 26,
+ "target": "persepolis_0095",
+ "planted": "assyria_0063",
+ "cands": [
+  "rapa_nui_0100",
+  "assyria_0063",
+  "gotland_0131",
+  "maya_0056",
+  "gotland_0116",
+  "maya_0076",
+  "rapa_nui_0080",
+  "maya_0085",
+  "rapa_nui_0103",
+  "maya_0147"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "gotland",
+  "maya",
+  "rapa_nui",
+  "maya",
+  "maya",
+  "rapa_nui",
+  "gotland",
+  "rapa_nui",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 8
+}

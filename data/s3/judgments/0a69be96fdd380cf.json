@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "row of repeated arched or handled rectangular signs near the top",
+  "horizontal band of repeated geometric hatching/triangular pattern below the upper signs",
+  "profile animal or bird figures below the band",
+  "small circular eye/disc details"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "7",
+ "justification": "The strongest correspondence is the distinctive upper row of repeated arched/handled rectangular motifs placed above a patterned horizontal band, with schematic profile creatures occupying the area below. The main difference is that A is a crowded, roughly symmetrical composition with multiple overlapping or facing figures and large flanking forms, while B is more clearly divided into vertical registers with fewer, more isolated profile animals.",
+ "a": "maya_0045",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  1721
+ ]
+}

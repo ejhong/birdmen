@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "standing human figures in profile",
+  "rows/groups of figures facing the same direction",
+  "scene divided into stacked horizontal registers",
+  "figures carrying or holding objects (staffs/weapons)",
+  "framing border lines",
+  "vehicle/conveyance (wheeled chariot vs. sailing ship)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces show multiple standing human figures in profile, grouped in rows and stacked in horizontal registers separated by framing lines, with a conveyance included in the upper zone (wheeled vehicle in A, sailing vessel in B). But the depictive conventions differ sharply: A is a modelled, naturalistic low-relief procession of individualised, similarly-costumed attendants advancing in a single direction, while B is a flat silhouette/outline composition with schematic angular figures, a mast-and-sail motif and a plaited interlace border that has no counterpart in A.",
+ "a": "persepolis_0043",
+ "b": "gotland_0009",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3249,
+  731
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "stylized anthropomorphic figure",
+  "face with eyes and mouth",
+  "circle or disc motifs",
+  "linear/geometric markings or bands on the body"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both include schematic anthropomorphic imagery with simple facial features and circular/geometric markings, the closest correspondence being the use of round signs on or near a human-like body. The major difference is that A is a complex, crowded, symmetrical scene of multiple profile figures holding objects around a central emblem, while B is essentially a single frontal figure with sparse incised bands and no comparable held objects, flanking figures, or central scene.",
+ "a": "mississippian_0052",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1989,
+  678
+ ]
+}

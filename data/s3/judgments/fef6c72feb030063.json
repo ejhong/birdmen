@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic animal or bird in profile",
+  "serpent- or long linear animal-like form",
+  "rectangular panel or box-like motif",
+  "repeated short-line/fringe or chevron-like patterning"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both surfaces use schematic outline relief/incision for animal-like figures, including a bird/profile creature and long curving linear forms, together with some repeated geometric infill or fringe patterns. The biggest difference is that B is organized into stacked registers with many repeated signs and distinct figures, while A appears to be a single irregular, loosely arranged composition with no matching sequence or specific iconographic scheme.",
+ "a": "egypt_0053",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  1164
+ ]
+}

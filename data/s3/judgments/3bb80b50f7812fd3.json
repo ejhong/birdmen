@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figure in profile",
+  "raised/gesturing arm",
+  "long garment covering the legs",
+  "figures shown in low relief on a rectangular slab",
+  "carved sign or ornamental filler in upper field"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict human figures in profile with raised arms and long garments carved in low relief on a slab, a broadly generic correspondence. A shows a single large winged bearded figure with elaborate feathered wings, horned headgear and stylised plant rosettes filling the field, while B shows several small, thinly incised figures in a row with a band of sign-like glyphs above; the distinctive winged figure and plant motifs of A have no counterpart in B, and the multi-figure register with inscription in B none in A.",
+ "a": "assyria_0079",
+ "b": "egypt_0046",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  296
+ ]
+}

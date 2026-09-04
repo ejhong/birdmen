@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "standing human figure in profile/near-profile",
+  "low-relief carved figural scene",
+  "multiple figures arranged in a scene",
+  "raised-relief human head with detailed hair or headdress",
+  "offering-like objects or accessory forms beside figures"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces show low-relief human figures standing upright with heads shown in profile-ish orientation, rendered with the same broad convention of raised bodies against a flat ground, and both include secondary carved forms flanking the main figure. However, A presents a complete multi-figure ritual scene with arms raised toward a seated/enthroned figure and a laden offering table plus a lower register, whereas B shows a single frontal-standing figure whose arms are held at the waist with only fragmentary neighbouring heads, so the specific relationships and compositional scheme do not match.",
+ "a": "egypt_0044",
+ "b": "anatolia_ppn_0011",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2974,
+  332
+ ]
+}

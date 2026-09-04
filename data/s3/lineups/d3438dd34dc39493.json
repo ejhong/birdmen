@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  6,
+  7,
+  1,
+  5,
+  4,
+  3,
+  2,
+  10,
+  9
+ ],
+ "most_similar_reason": "Candidate 8 is most similar because it shows a comparable shallow, schematic relief vocabulary of clustered curving outlines, glyph-like forms, and possible human/zoomorphic figures arranged across the surface rather than a single naturalistic scene.",
+ "least_similar_reason": "Candidate 9 is least similar because it mainly depicts large, relatively plain standing figures on a cliff face, lacking the target\u2019s dense schematic iconography, curvilinear infill, repeated signs, and composite animal/human motifs.",
+ "set": "moai_iso_among_random",
+ "i": 28,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "assyria_0116",
+  "persepolis_0110",
+  "persepolis_0011",
+  "assyria_0052",
+  "maya_0127",
+  "rapa_nui_hoa_iso",
+  "mississippian_0007",
+  "maya_0023",
+  "egypt_0006",
+  "assyria_0095"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "assyria",
+  "persepolis",
+  "assyria",
+  "assyria",
+  "persepolis",
+  "egypt",
+  "mississippian",
+  "maya",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 2
+}

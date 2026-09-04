@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "human figure in strict profile",
+  "elaborate curled/beaded beard",
+  "patterned coiffure rendered as rows of curls",
+  "headgear/cap",
+  "low relief bust or full figure facing right or left in procession",
+  "garment with fringed or patterned edging",
+  "earring/jewellery detail",
+  "stylised almond eye shown frontally in a profile head"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both depict bearded male figures in strict profile with the same highly conventional treatment \u2014 beard and hair built from regimented rows of tight curls, a frontal almond eye set in a profile head, an earring, and a fitted cap \u2014 which is a specific, arbitrary set of conventions unlikely to arise independently. The main difference in content is scale and composition: A is a single close-up bust dominating the field, while B is a full-length procession of figures carrying vessels and holding hands, set above a border band of rosettes, with no comparable framing or narrative in A.",
+ "a": "assyria_0123",
+ "b": "persepolis_0097",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  357
+ ]
+}

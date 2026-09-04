@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "human face/head",
+  "animal head",
+  "human and animal imagery combined on one surface"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces depict human heads together with animal heads, but that is a generic coincidence: A shows a narrative procession of profile human figures with elaborately patterned hair and beards leading horned, fleecy rams, while B shows frontal, blocky, schematic heads stacked vertically with a toothy animal-like head above a staring human face. There is no shared relationship, arrangement or rendering convention \u2014 profile relief narrative versus frontal columnar stacking of masks.",
+ "a": "persepolis_0108",
+ "b": "anatolia_ppn_0264",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  645
+ ]
+}

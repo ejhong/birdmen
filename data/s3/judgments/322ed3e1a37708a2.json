@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human figure",
+  "incised script-like signs / small carved symbols",
+  "wig or headdress with side lappets framing the face (A's seated figures, B's head)",
+  "carved relief detail on a flat-ish surface"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both show human figures with a lappeted wig-like headdress and both bear rows of small incised sign-like marks, which is the most specific correspondence; but A is a rectangular field of horizontal register lines of dense script with two tiny seated figures in profile facing inward at the base, while B is a single monumental frontal bust with a broad collar and a disc pendant on the chest and no register structure at all. The correspondence is limited to the generic presence of human figures and inscribed signs, with wholly different composition and scale of depiction.",
+ "a": "egypt_0038",
+ "b": "rapa_nui_0062",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3074,
+  690
+ ]
+}

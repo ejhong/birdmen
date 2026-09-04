@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figure in profile with elaborate curled/beaded hair and beard",
+  "raised or bent arm holding an object",
+  "low-relief carving of figures on a flat panel",
+  "patterned rendering of hair, beard and animal fleece as regular rows of curls/scales",
+  "striated garment folds",
+  "procession/frontal-standing bearded male figures in long robes"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict bearded male figures in strict profile with hair and beard rendered as ordered rows of tight curls, long striated robes, and hands holding objects, all in shallow relief with the same conventions for patterning surfaces (fleece, feathers, hair all as repeated scale-like units). The decisive differences in content are that A shows a multi-figure procession of tribute bearers leading horned rams along a horizontal band bordered by rosette friezes, while B shows a single large winged genius-like figure with a raised hand and staff-like implement filling one panel with no animals or ornamental border.",
+ "a": "persepolis_0061",
+ "b": "assyria_0158",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3124,
+  374
+ ]
+}

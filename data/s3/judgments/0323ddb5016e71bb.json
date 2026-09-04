@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "low-relief human body parts (legs/hands in A, arms/hands in B)",
+  "dense fields of small repeated units used as surface texture (fleece curls in A, feather rows and beaded garment in B)",
+  "figures shown in profile/overlapping, oriented horizontally",
+  "striated linear detailing (horns, feathers, hair-like rows)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces are low reliefs that combine naturalistically modelled human limbs with large fields of tightly repeated small units used to render texture (curled fleece in A, feather rows and beaded sleeve in B), and both use fine parallel striations for detail, which is a real convention-level correspondence. But the depicted subjects differ entirely: A shows a pair of horned rams driven or led by human figures, while B shows a large wing and a garmented arm with a rosette ornament, with no animals and no comparable relationships between the elements.",
+ "a": "persepolis_0095",
+ "b": "assyria_0122",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  895
+ ]
+}

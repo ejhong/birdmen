@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low-relief human figure in profile",
+  "bearded male head with elaborate coiffure/headgear",
+  "figures holding objects in outstretched hands",
+  "garment with patterned/fringed hem rendered by incised lines",
+  "rosette motif (border rosettes in A, rosette-like held object in B)",
+  "procession/directional orientation of figures"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both show low-relief profile human figures with carefully rendered beards/hair, patterned fringed garments and hands extended holding objects, and both include rosette forms, which is a fairly specific set of shared conventions. But A is a horizontal procession scene of small figures leading a camel beneath a rosette frieze, while B is a single monumental winged figure filling the field \u2014 the wings, the isolation and the vertical monumental format have no counterpart in A.",
+ "a": "persepolis_0007",
+ "b": "assyria_0034",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3149,
+  323
+ ]
+}

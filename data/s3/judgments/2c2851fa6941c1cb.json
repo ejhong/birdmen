@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "head shown in strict profile filling most of the field",
+  "low-relief carving with incised surface detail",
+  "hair/fleece rendered as dense rows of repeating small curls or bead-like spirals",
+  "large almond eye with outlined lid shown frontally within a profile head",
+  "layered, overlapping bands of stylised locks"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "3",
+ "justification": "The most specific correspondence is the shared convention of rendering hair or fleece as tightly packed rows of repeating curls/beaded spirals on a profile head carved in low relief, with prominent outlined eyes and layered locks. The subjects, however, differ fundamentally: A shows a single bearded human head with headdress in bust form, while B shows overlapping animal heads (horned ram and bovine) with a woolly body, and there is no comparable relationship or compositional scheme between the two.",
+ "a": "assyria_0084",
+ "b": "persepolis_0110",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3049,
+  869
+ ]
+}

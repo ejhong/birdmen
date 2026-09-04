@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  5,
+  2,
+  1,
+  10,
+  3,
+  4,
+  9,
+  6,
+  8
+ ],
+ "most_similar_reason": "Candidate 7 is most similar because it appears to show a faint linear scene with a profile quadruped/equine form and associated human-like figure, echoing the target\u2019s outlined profile horse-and-person arrangement rather than just a generic animal or figure.",
+ "least_similar_reason": "Candidate 8 is least similar because it consists essentially of a vertical column of repeated inscription-like signs, with no comparable horse, human figure, harnessing, or figural interaction.",
+ "set": "related_control",
+ "i": 7,
+ "target": "persepolis_0089",
+ "planted": "assyria_0091",
+ "cands": [
+  "rapa_nui_0124",
+  "tanum_0034",
+  "rapa_nui_0049",
+  "anatolia_ppn_0129",
+  "anatolia_ppn_0093",
+  "assyria_0091",
+  "tanum_0070",
+  "maya_0077",
+  "mississippian_0045",
+  "anatolia_ppn_0259"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "mississippian",
+  "rapa_nui",
+  "anatolia_ppn",
+  "maya",
+  "rapa_nui",
+  "anatolia_ppn",
+  "tanum",
+  "tanum"
+ ],
+ "model": "gpt",
+ "planted_rank": 9
+}

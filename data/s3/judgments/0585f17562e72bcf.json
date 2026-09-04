@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "schematic anthropomorphic head with flat/level top",
+  "straight continuous brow ridge in relief",
+  "narrow slit-like eyes beneath the brow",
+  "straight vertical nose merging with brow",
+  "narrow straight mouth rendered as a low relief bar/lips",
+  "frontal human figure carved in the round"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "7",
+ "justification": "Both depict a frontal, highly schematic anthropomorphic figure whose face uses the same conventions: a flat-topped cranium, a single continuous straight brow ridge from which a broad nose descends, slit eyes tucked beneath it, and a thin straight mouth in low relief, with no ears or modelled cheeks \u2014 a specific and arbitrary combination rather than a generic face. The chief difference is that B additionally shows a torso with arms and incised body ornament (concentric circles, curved bands, a belt-like element) whereas A presents only the head and neck without any comparable surface motifs.",
+ "a": "anatolia_ppn_0130",
+ "b": "rapa_nui_0039",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2974,
+  818
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "profile animal or bird-like figures",
+  "circle or eye/disc motif",
+  "horizontal or rectangular band with repeated linear/angled pattern",
+  "incised/low-relief decoration on a vertical stone surface"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The most specific correspondence is the presence of profile animal/bird-like forms combined with small circular eye/disc details and a patterned horizontal/rectangular band near the upper part of the carved surface. The biggest difference is that A is a clear, organized multi-register relief covering the slab, while B is a damaged, monochrome fragment with decoration concentrated mainly along one side and with much less legible imagery.",
+ "a": "anatolia_ppn_p43full",
+ "b": "gotland_0133",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1072,
+  675
+ ]
+}

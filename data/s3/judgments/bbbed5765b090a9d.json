@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "low-relief/linear figural motifs on a rock surface",
+  "animal in profile (A)",
+  "repeated row of small vertical elements (A: possibly none; B: row of crew strokes)",
+  "schematic linear rendering"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "A shows animals in profile (a quadruped above a smaller reptilian/lizard-like creature) stacked vertically on a shaped pillar, while B shows two boats with upturned prows carrying rows of schematic crew strokes; the only overlap is that both use simplified linear profile figures on rock. There is no shared motif, no shared relationship between elements, and the subject matter (animals vs vessels with crews) is entirely different.",
+ "a": "anatolia_ppn_0199",
+ "b": "tanum_0054",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  294
+ ]
+}

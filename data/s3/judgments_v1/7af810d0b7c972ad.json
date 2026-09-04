@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "horizontal registers/bands of carved motifs",
+  "profile animal forms",
+  "standing human or anthropomorphic figure",
+  "repeated small signs or symbols"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of shallow carved relief organized partly into horizontal bands, with profile living figures and repeated small symbolic marks. The biggest difference is compositional: A is a dense, rectilinear wall panel dominated by a central scene and a large radiant disc, while B is a narrow upright stone with much sparser, coarser, stacked animal-like motifs.",
+ "a": "egypt_0000",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  658
+ ]
+}

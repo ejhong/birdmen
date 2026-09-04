@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human or anthropomorphic figures",
+  "quadruped animals in profile",
+  "linear/outline animal and figure carving",
+  "horizontal divisions or bands",
+  "repeated upright linear objects or signs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is that both surfaces include schematic profile animals and human/anthropomorphic figures rendered in incised/relief outline, with some repeated linear signs or bands. The biggest difference is that A is a horizontal narrative procession centered on a wheeled vehicle, large animals, attendants, and weapons/standards, whereas B is a vertically stacked composition of isolated symbolic creatures and signs with no chariot or comparable scene structure.",
+ "a": "assyria_0047",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  687
+ ]
+}

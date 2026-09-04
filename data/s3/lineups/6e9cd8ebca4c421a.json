@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  10,
+  7,
+  6,
+  8,
+  5,
+  4,
+  2,
+  9,
+  3
+ ],
+ "most_similar_reason": "Candidate 1 is, like the target, an upright slab bearing a low-relief composition of a figure in an ornate headdress set within a framed panel accompanied by rows of small block-like sign cartouches, matching the target's combination of figural scene above and register of glyph-like signs below.",
+ "least_similar_reason": "Candidate 3 shows a bare T-shaped pillar with no discernible figures, signs or ornament at all, so it shares none of the target's crowded figural scene or sign band.",
+ "set": "same_control_monoliths",
+ "i": 37,
+ "target": "maya_0115",
+ "planted": "maya_0097",
+ "cands": [
+  "egypt_0068",
+  "rapa_nui_0049",
+  "anatolia_ppn_0037",
+  "rapa_nui_0069",
+  "anatolia_ppn_0045",
+  "anatolia_ppn_0205",
+  "gotland_0007",
+  "anatolia_ppn_0078",
+  "rapa_nui_0045",
+  "maya_0097"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "gotland",
+  "anatolia_ppn",
+  "rapa_nui",
+  "anatolia_ppn",
+  "rapa_nui",
+  "rapa_nui",
+  "egypt",
+  "anatolia_ppn"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

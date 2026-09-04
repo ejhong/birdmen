@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "repeated chevron or zigzag motif",
+  "parallel short bar/line motifs",
+  "banded or register-like organization of carved signs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific shared content is the use of repeated chevron/zigzag bands and short parallel bar-like signs as part of a carved linear sign system. The major difference is that A is dominated by a central oval enclosure filled with abstract signs and flanked by symmetrical vertical pattern bands, while B shows profile animals and human/creature figures arranged in horizontal registers with only some patterned bands.",
+ "a": "egypt_0037",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  670
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  7,
+  5,
+  2,
+  9,
+  4,
+  8,
+  3,
+  6,
+  10
+ ],
+ "most_similar_reason": "Candidate 1, like the target, is a free-standing anthropomorphic monolith whose body doubles as a carved surface, bearing schematic low-relief creatures and limb/arm motifs arranged in registers over the figure's torso and back.",
+ "least_similar_reason": "Candidate 10 shows only an eroded, largely featureless slab with no identifiable figures, symbols or arrangement that could correspond to the target's birdman figures, rings and paddle motifs.",
+ "set": "p43_among_random",
+ "i": 36,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "anatolia_ppn_p43full",
+  "persepolis_0068",
+  "tanum_0338",
+  "tanum_0050",
+  "assyria_0000",
+  "tanum_0237",
+  "maya_0027",
+  "gotland_0004",
+  "maya_0024",
+  "gotland_0133"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "gotland",
+  "persepolis",
+  "gotland",
+  "maya",
+  "tanum",
+  "tanum",
+  "tanum",
+  "maya",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

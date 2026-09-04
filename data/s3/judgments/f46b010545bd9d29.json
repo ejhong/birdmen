@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "low-relief carving on a tall upright pillar/stele",
+  "row of repeated animal or creature figures in an upper register",
+  "horizontal band/register divider running across the surface",
+  "quadruped animal in profile in the middle zone",
+  "bird-like creature in the lower zone",
+  "schematic anthropomorphic/animal figures with prominent heads",
+  "repeated small vertical hatch-like signs forming a band"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "3",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both surfaces are tall upright slabs bearing low-relief figural imagery organised into stacked horizontal registers, with a row of repeated creature heads/figures across the top, a band of small repeated marks beneath, profile quadrupeds in the middle zone and a large bird-like figure at the bottom \u2014 a fairly specific shared compositional scheme in a comparably schematic, flat-relief, outline-and-plain-infill manner. The differences lie in the individual motifs: A's figures include more angular, ladder-like and abstract geometric elements and denser, more crowded overlapping forms, while B's are sparser, rounder and more clearly readable as distinct animals, so the specific creatures cannot be matched one-to-one.",
+ "a": "maya_0047",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  435
+ ]
+}

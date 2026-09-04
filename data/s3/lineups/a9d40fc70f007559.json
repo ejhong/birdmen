@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  1,
+  3,
+  6,
+  8,
+  9,
+  4,
+  2,
+  7,
+  5
+ ],
+ "most_similar_reason": "Both feature stylized animal forms and patterned bands arranged on a flat vertical surface.",
+ "least_similar_reason": "It consists solely of text characters and lacks any pictorial figures or scenes.",
+ "set": "moai_close_among_random",
+ "i": 4,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "persepolis_0071",
+  "rapa_nui_0004",
+  "assyria_0095",
+  "egypt_0004",
+  "egypt_0049",
+  "tanum_0237",
+  "mississippian_0055",
+  "maya_0147",
+  "egypt_0060",
+  "gotland_0007"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "egypt",
+  "persepolis",
+  "maya",
+  "egypt",
+  "assyria",
+  "tanum",
+  "egypt",
+  "mississippian",
+  "gotland"
+ ],
+ "model": "gemini",
+ "planted_rank": 8
+}

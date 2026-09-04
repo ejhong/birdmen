@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "avian forms/birds in profile",
+  "standing anthropomorphic figure",
+  "repeated linear/chevron-like patterning",
+  "small circular/rosette-like motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest shared content is avian imagery: A has profile birds among other animal and abstract signs, while B has an avian-headed or winged standing figure with feathered wings, both using outline and repeated internal lines for details. The biggest difference is the iconographic scheme: B is a single large winged anthropomorphic figure interacting with a stylized plant/tree, whereas A is a crowded register-like field of separate animals, birds, abstract bands, and signs with no comparable central figure-tree relationship.",
+ "a": "anatolia_ppn_p43full",
+ "b": "assyria_0096",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  697
+ ]
+}

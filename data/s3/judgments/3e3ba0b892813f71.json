@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "two-wheeled vehicle / cart shown in profile",
+  "wheel(s) rendered as circles",
+  "framing bands and borders around the main image",
+  "small geometric motifs enclosed in square panels",
+  "grid / repeated geometric patterning"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest correspondence is that both surfaces depict a two-wheeled vehicle seen in profile, with the wheels as circles flanking a boxy body, and both frame their imagery with borders containing repeated small geometric motifs. Against that, B shows a full narrative scene \nwith a draught animal, a driver, and registers of processing standing figures beneath a crenellated cornice, while A is a single, isolated, purely linear schematic vehicle with no figures at all, and the manner of depiction (thin incised outline vs. modelled naturalistic relief) is entirely different.",
+ "a": "gotland_0112",
+ "b": "persepolis_0026",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3149,
+  743
+ ]
+}

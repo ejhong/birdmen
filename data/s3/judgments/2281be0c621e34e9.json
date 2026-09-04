@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "animal figures in profile",
+  "anthropomorphic or human-like figures",
+  "horizontal band or register divider",
+  "linear/geometric marks"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is that both surfaces include schematic profile animals and human-like/linear figures arranged around a horizontal band or register. The biggest difference is that A is a dense emblematic composition with repeated signs, birds/animals, and patterned bands on an anthropomorphic pillar-like surface, while B is a looser scene of painted quadrupeds and stick-like figures divided by a broad horizontal stripe.",
+ "a": "anatolia_ppn_p43full",
+ "b": "catalhoyuk_0026",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  664
+ ]
+}

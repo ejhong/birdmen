@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "human figures in strict profile",
+  "seated figure receiving offerings",
+  "standing figure with arm(s) raised in adoration/offering gesture",
+  "offering table/stand piled with goods between figures",
+  "hieroglyphic-style sign inscriptions in bands/columns",
+  "round-topped upright stela field divided by horizontal register lines",
+  "short kilt/long garment conventions on figures"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "8",
+ "justification": "Both show the same highly conventional scene: profile human figures flanking a laden offering stand, with a standing figure raising the arms in adoration toward a larger recipient figure, set in a round-topped panel with register lines and columns/bands of the same script-like signs. The chief differences are that A has a single upper scene with a standing (mummiform-like) recipient plus four long text lines below, while B has two figural registers with seated recipients and additional seated attendants, and less text.",
+ "a": "egypt_0050",
+ "b": "egypt_0039",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  2974,
+  343
+ ]
+}

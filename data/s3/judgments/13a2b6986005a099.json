@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "human figure",
+  "circular motif",
+  "horizontal band or linear ornament"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The main shared content is only generic: both include human imagery and some circular/linear decorative marks. The biggest difference is that A is a single frontal, highly schematic anthropomorphic body covered with incised motifs, while B is a profile procession-like relief dominated by a camel, attendant figures, and an upper rosette border.",
+ "a": "rapa_nui_0113",
+ "b": "persepolis_0062",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  586
+ ]
+}

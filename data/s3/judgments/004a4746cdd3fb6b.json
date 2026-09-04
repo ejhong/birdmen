@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief carving on stone surfaces",
+  "horizontal registers/bands dividing the composition",
+  "repeated figures in profile arranged in a row",
+  "animal figures in profile",
+  "architectural columns/pillars as part of the setting"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces show low-relief figures in profile organised into horizontal registers, with a row of repeated same-facing figures in one band, which is a broad compositional convention rather than a specific shared motif. A depicts a procession of naturalistically proportioned human figures in robes carrying staffs, while B depicts schematic animals (quadrupeds, a bird, a large-beaked head) with no human procession, and the rendering conventions (rounded modelled drapery vs flat outlined schematic beasts) differ markedly.",
+ "a": "persepolis_0024",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2949,
+  314
+ ]
+}

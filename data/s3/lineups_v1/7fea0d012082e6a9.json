@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  10,
+  7,
+  1,
+  8,
+  3,
+  2,
+  5,
+  4,
+  9
+ ],
+ "most_similar_reason": "Candidate 6, like the target, is a tall upright monolithic stone block whose broad face carries shallow, weathered low-relief motifs arranged vertically down the slab, giving the same sculptural-pillar-plus-relief character.",
+ "least_similar_reason": "Candidate 9 is a flat, brightly colored line drawing of a frontal costumed figure with no stone surface, no carving and no weathered relief texture, sharing nothing with the target's monumental incised monolith.",
+ "set": "p43_among_random",
+ "i": 12,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "assyria_0099",
+  "assyria_0092",
+  "assyria_0040",
+  "tanum_0061",
+  "maya_0129",
+  "anatolia_ppn_p43full",
+  "egypt_0007",
+  "assyria_0091",
+  "mississippian_0000",
+  "egypt_0061"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "assyria",
+  "egypt",
+  "assyria",
+  "tanum",
+  "egypt",
+  "mississippian",
+  "assyria",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

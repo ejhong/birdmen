@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human-like face on upper portion",
+  "arms/hands rendered on body",
+  "belt or band motif",
+  "circular disc motif"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both objects appear to be anthropomorphic stelae with a distinct head/face zone atop a body bearing a belt-like band and a circular disc motif near the torso, suggesting a shared generic scheme of a carved humanoid figure. However, A includes additional distinctive elements (arcaded architectural motifs, birds in profile, zigzag/snake-like patterns, a row of small figures) not present in B, while B's body is dominated by a smooth, minimal torso with hands meeting at the belt in a manner not clearly echoed in A, making the specific iconographic details and overall composition diverge significantly.",
+ "a": "anatolia_ppn_p43full2",
+ "b": "rapa_nui_0113",
+ "model": "sonnet",
+ "set": "target",
+ "usage": [
+  2873,
+  319
+ ]
+}

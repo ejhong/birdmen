@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "animal figure in profile",
+  "human or anthropomorphic figure",
+  "elongated horizontal band with repeated short marks"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of a long horizontal register or object filled with repeated short marks, with small figurative motifs nearby. The biggest difference is that A is a densely carved relief divided into stacked compartments, while B is a sparse red painted scene dominated by a single boat-like form on an open rock surface.",
+ "a": "anatolia_ppn_p43full",
+ "b": "tanum_0236",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  423
+ ]
+}

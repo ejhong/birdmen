@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  1,
+  9,
+  7,
+  8,
+  6,
+  2,
+  3,
+  10,
+  4
+ ],
+ "most_similar_reason": "Candidate 5, like the target, is a monolithic upright anthropomorphic pillar whose broad body carries low-relief schematic motifs including arm-like elements running down the front, the same conception of a standing figure-shaped block covered with emblem carvings rather than a scene on a flat panel.",
+ "least_similar_reason": "Candidate 4 shows only repeated floral rosettes and horizontal ornamental bands with no figure, body, or symbolic emblems, sharing nothing with the target's schematic anthropomorphic form and disc motifs.",
+ "set": "p43_among_random",
+ "i": 21,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "egypt_0070",
+  "assyria_0011",
+  "persepolis_0018",
+  "assyria_0063",
+  "anatolia_ppn_p43full",
+  "assyria_0139",
+  "tanum_0327",
+  "tanum_0324",
+  "assyria_0140",
+  "persepolis_0026"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "tanum",
+  "assyria",
+  "tanum",
+  "persepolis",
+  "assyria",
+  "assyria",
+  "assyria",
+  "persepolis",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

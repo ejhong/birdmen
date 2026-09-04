@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "frontal anthropomorphic figure",
+  "large schematic head with prominent nose and brow",
+  "columnar/block-like torso",
+  "arms carved against the body with hands brought toward the abdomen/chest",
+  "oversized head relative to body",
+  "mouth rendered as a small horizontal feature"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict a frontal, radically schematic standing human figure whose oversized head sits directly on a columnar torso, with the arms held flat against the flanks and the hands converging on the belly/chest, and both reduce the face to a heavy brow, a long ridge nose and a small horizontal mouth. The clearest differences in depicted content are the eyes \u2014 deeply hollowed and shadowed under a massive brow in A versus large, sharply outlined staring eyes in B \u2014 and B's additional upper element with a grid of tooth-like marks, which has no counterpart in A.",
+ "a": "rapa_nui_0063",
+ "b": "anatolia_ppn_0261",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2949,
+  883
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  10,
+  1,
+  5,
+  8,
+  3,
+  4,
+  9,
+  2,
+  7
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it shows a vertical surface organized into stacked bands of schematic, incised relief symbols and profile creature-like forms, including comparable linear outlining and internal hatching.",
+ "least_similar_reason": "Candidate 7 is least similar because its content is mainly writing and a symmetrical ornamental cross-like motif, with none of the target\u2019s stacked animal/bird-like figures or comparable iconographic relationships.",
+ "set": "moai_iso_among_random",
+ "i": 9,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "assyria_0120",
+  "rapa_nui_hoa_iso",
+  "catalhoyuk_0039",
+  "persepolis_0080",
+  "assyria_0109",
+  "maya_0137",
+  "gotland_0003",
+  "persepolis_0093",
+  "mississippian_0001",
+  "tanum_0328"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "persepolis",
+  "maya",
+  "catalhoyuk",
+  "tanum",
+  "assyria",
+  "persepolis",
+  "mississippian",
+  "gotland",
+  "assyria"
+ ],
+ "model": "gpt",
+ "planted_rank": 9
+}

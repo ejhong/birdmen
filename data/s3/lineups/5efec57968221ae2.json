@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  3,
+  4,
+  6,
+  1,
+  10,
+  2,
+  8,
+  7,
+  5
+ ],
+ "most_similar_reason": "Candidate 9 is, like the target, a tall narrow monolith whose whole face is covered with shallow relief figures stacked one above another in vertical registers, with schematic outlined bodies rather than a single centred scene.",
+ "least_similar_reason": "Candidate 5 shows only a plain rock-cut architectural facade with no creatures, figures or symbols at all, so it shares none of the target's animal-and-sign imagery.",
+ "set": "moai_among_random",
+ "i": 14,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "egypt_0047",
+  "assyria_0140",
+  "assyria_0119",
+  "egypt_0068",
+  "egypt_0051",
+  "egypt_0064",
+  "persepolis_0023",
+  "rapa_nui_0113",
+  "maya_0092",
+  "maya_0057"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "assyria",
+  "egypt",
+  "assyria",
+  "egypt",
+  "persepolis",
+  "egypt",
+  "maya",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 8
+}

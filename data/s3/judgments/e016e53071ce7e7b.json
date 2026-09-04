@@ -1,0 +1,28 @@
+{
+ "shared_elements": [
+  "low-relief carved narrative frieze",
+  "procession/row of human figures in profile",
+  "figures in long robes/garments with patterned hems",
+  "weapons (bows, spears/lances) carried by figures",
+  "wheeled vehicle (siege engine / chariot) with spoked wheels",
+  "horses/animals in profile drawing a vehicle",
+  "architectural elements (crenellations, towers) integrated into the scene",
+  "horizontal registers separated by bands",
+  "repeating decorative border (rosette-like band)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both are low-relief friezes of profile human figures in long robes moving in a single direction, carrying weapons, combined with a wheeled vehicle on spoked wheels and animals in profile, and both incorporate stepped/crenellated architectural motifs and register-dividing bands; the profile-only convention with overlapping legs and stacked registers is shared. The chief difference in content is the subject: A shows an active assault on a fortified city with archers, a siege engine and city walls, while B shows a calm ceremonial procession of dignitaries beneath a horse-drawn chariot and a rosette border with crenellated parapet.",
+ "a": "assyria_0041",
+ "b": "persepolis_0026",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3149,
+  432
+ ]
+}

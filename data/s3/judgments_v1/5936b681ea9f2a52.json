@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "profile figures carved in low relief",
+  "bird or bird-like animal in profile",
+  "human or humanoid figure",
+  "horizontal register or band",
+  "repeated linear/geometric marks"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The most specific correspondence is that both surfaces use shallow carved outlines to organize profile figures and bird-like forms among horizontal bands or registers. The biggest difference is compositional: A is a stacked, fragmented column of separate motifs and patterns, while B is a more unified framed scene centered on interacting human figures.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0073",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  649
+ ]
+}

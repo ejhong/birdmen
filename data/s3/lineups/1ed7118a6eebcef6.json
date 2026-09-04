@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  4,
+  8,
+  7,
+  5,
+  3,
+  1,
+  10,
+  2,
+  9
+ ],
+ "most_similar_reason": "Candidate 6 shows the identical standing humanoid from the rear, with the same head and shoulder silhouette, paired circular ornaments, upper relief, and horizontal waist band in the same arrangement.",
+ "least_similar_reason": "Candidate 9 shows only horizontal rows of inscription on an arched tablet and contains no human figure, body, circular ornaments, belt, or any comparable motifs.",
+ "set": "same_control_monoliths",
+ "i": 1,
+ "target": "rapa_nui_0065",
+ "planted": "rapa_nui_0005",
+ "cands": [
+  "maya_0023",
+  "egypt_0045",
+  "gotland_0133",
+  "anatolia_ppn_0263",
+  "maya_0147",
+  "rapa_nui_0005",
+  "maya_0092",
+  "anatolia_ppn_0175",
+  "egypt_0069",
+  "egypt_0067"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "egypt",
+  "gotland"
+ ],
+ "model": "grok",
+ "planted_rank": 1
+}

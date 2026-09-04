@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  3,
+  10,
+  9,
+  4,
+  7,
+  1,
+  8,
+  2,
+  6
+ ],
+ "most_similar_reason": "Candidate 5 is, like the target, an upright pillar-shaped monolith bearing low-relief arms/hands and schematic symbolic motifs carved directly onto its faces, treating the stone block itself as a body rather than as a framed picture panel.",
+ "least_similar_reason": "Candidate 6 shows a bare, essentially undecorated rock surface with only faint irregular marks, offering none of the target's figural arms, hands, belt or symbolic emblems.",
+ "set": "p43_among_random",
+ "i": 1,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "persepolis_0097",
+  "egypt_0051",
+  "maya_0137",
+  "mississippian_0009",
+  "anatolia_ppn_p43full",
+  "tanum_0126",
+  "assyria_0047",
+  "persepolis_0100",
+  "egypt_0044",
+  "maya_0105"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "mississippian",
+  "assyria",
+  "tanum",
+  "maya",
+  "persepolis",
+  "persepolis",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

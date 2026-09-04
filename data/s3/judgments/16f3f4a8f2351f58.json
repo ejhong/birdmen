@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "tall vertical monument/pillar with stacked carved registers",
+  "figures carved in high relief on a column-like shaft",
+  "anthropomorphic/animal faces in frontal or profile view",
+  "stacked composition read from top to bottom",
+  "line-drawn rendering of relief carving"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict a tall vertical shaft carved in relief with motifs stacked in registers from top to bottom, which gives a loose compositional correspondence. But the actual content differs sharply: A shows large rounded, sculptural birds (a hooked-beak raptor, a pair of confronted birds) and interlaced crossed bands, while B shows a frontal elaborately costumed human figure with headdress framed by dense columns of small glyph-like blocks, with no birds or interlace and a far more crowded, ornamental surface.",
+ "a": "anatolia_ppn_0174",
+ "b": "maya_0054",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2849,
+  343
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  7,
+  2,
+  9,
+  3,
+  5,
+  4,
+  10,
+  8,
+  6
+ ],
+ "most_similar_reason": "Candidate 1 is, like the target, a low-relief carved panel with figures and animal forms rendered in profile and overlapping within a horizontal scene, the closest match in both the kind of subject (figures with beasts) and the relief-scene format.",
+ "least_similar_reason": "Candidate 6 shows only repeated symmetrical floral/rosette ornament with no figures, animals or narrative relationships, sharing nothing with the target's profile man-and-horse scene.",
+ "set": "related_control",
+ "i": 7,
+ "target": "persepolis_0089",
+ "planted": "assyria_0091",
+ "cands": [
+  "rapa_nui_0124",
+  "tanum_0034",
+  "rapa_nui_0049",
+  "anatolia_ppn_0129",
+  "anatolia_ppn_0093",
+  "assyria_0091",
+  "tanum_0070",
+  "maya_0077",
+  "mississippian_0045",
+  "anatolia_ppn_0259"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "mississippian",
+  "rapa_nui",
+  "anatolia_ppn",
+  "maya",
+  "rapa_nui",
+  "anatolia_ppn",
+  "tanum",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 10
+}

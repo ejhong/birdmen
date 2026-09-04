@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "anthropomorphic/human figure",
+  "circular motifs or discs",
+  "linear/geometric decorative details"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "Both surfaces include human or anthropomorphic forms and some circular/geometric marks, but these are generic correspondences; the closest shared element is the use of circular motifs, though in A they appear as repeated rosettes in a border and in B as parts of a frontal figure. The biggest difference is that A shows a horizontally organized procession with repeated profile figures and an animal, while B shows a single highly schematic frontal anthropomorphic figure with internal symbols.",
+ "a": "persepolis_0099",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  675
+ ]
+}

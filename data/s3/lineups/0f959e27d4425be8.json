@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  8,
+  6,
+  4,
+  1,
+  2,
+  9,
+  5,
+  3,
+  10
+ ],
+ "most_similar_reason": "Candidate 7 depicts a bird/eagle figure rendered with the same schematic profile stance and stylized feather/wing patterning seen in the target's bird figures, matching both subject and stylistic treatment.",
+ "least_similar_reason": "Candidate 3 shows only bare, unmodified rock strata with no carved figures, symbols, or iconographic content at all, sharing nothing with the target's densely figured surface.",
+ "set": "moai_iso_among_random",
+ "i": 6,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "rapa_nui_hoa_iso",
+  "persepolis_0047",
+  "egypt_0006",
+  "tanum_0340",
+  "gotland_0003",
+  "tanum_0070",
+  "mississippian_0009",
+  "mississippian_0075",
+  "gotland_0005",
+  "egypt_0004"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "persepolis",
+  "mississippian",
+  "egypt",
+  "tanum",
+  "gotland",
+  "mississippian",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "sonnet",
+ "planted_rank": 5
+}

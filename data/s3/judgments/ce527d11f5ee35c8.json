@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figures in strict profile",
+  "low-relief carved figural scene on a wall surface",
+  "figures in long fringed/pleated robes",
+  "figures carrying or holding objects in raised hands",
+  "stylized plant/floral motifs",
+  "registers or bands organizing the composition"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both show low-relief profile human figures in long fringed robes with an arm raised holding an object, rendered with the same flat, linear, outline-and-incised-detail conventions and stylized vegetal filler motifs, which is a fairly specific shared manner. But A is a multi-register procession of many small repeated figures leading animals, while B is a single monumental bird-headed winged figure beside a stylized tree, so the compositional scheme and the key subject (composite winged creature vs. human tribute bearers) differ substantially.",
+ "a": "persepolis_0104",
+ "b": "assyria_0134",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3174,
+  325
+ ]
+}

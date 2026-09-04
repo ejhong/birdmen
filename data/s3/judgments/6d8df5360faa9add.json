@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic human or anthropomorphic figure",
+  "simple circular marks/body features",
+  "linear geometric markings"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific commonality is that both surfaces use simplified, schematic human/anthropomorphic forms with some circular and linear details. The major difference is that A is a dispersed scene of many small humans and profile animals apparently interacting, while B is dominated by a single frontal anthropomorphic figure with body-like circular features and geometric carving, with no comparable animal scene or narrative arrangement.",
+ "a": "catalhoyuk_0110",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  487
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "animal figures in profile",
+  "small anthropomorphic figures",
+  "horizontal rows or registers",
+  "repeated short vertical/triangular hatch marks",
+  "linear geometric enclosures or rectangular forms"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both surfaces combine profile animals and small human-like figures with horizontal bands of repeated linear marks, giving each a register-like field of schematic signs. The biggest difference is that B is dominated by long boat- or fence-like linear forms with stick figures, while A is dominated by larger compact animal reliefs and patterned bands, with no clearly matching iconographic scheme.",
+ "a": "anatolia_ppn_p43full",
+ "b": "tanum_0340",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  675
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "animal in profile with four legs",
+  "low-relief carving on a stone surface",
+  "raised-line / outline relief rendering of forms"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both show relief-carved animals in profile view on a stone face, which is about as generic a correspondence as one can have; A is dominated by dense horizontal registers of repeated small signs (a script-like inventory of birds, vessels, human-part and object glyphs) with a single large winged/feathered figure, while B shows only a couple of large isolated quadrupeds (a striding predator above, a longer creature below) with no register lines, no repeated sign system and no accompanying objects. The relationships and arrangements differ fundamentally: A is a densely packed, ruled, text-like grid, B is sparse isolated figures stacked on a tapering pillar-like slab.",
+ "a": "egypt_0017",
+ "b": "anatolia_ppn_0205",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  329
+ ]
+}

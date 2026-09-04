@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "profile bird-like/animal figures",
+  "horizontal register or frieze organization",
+  "linear geometric motifs or signs",
+  "figures rendered mainly in outline/profile"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest correspondence is the use of profile animal or bird-like figures arranged on a carved surface with linear, schematic outlining and some horizontal organization. The biggest difference is that A is primarily a dense animal-and-sign composition with stacked registers and geometric motifs, while B is chiefly a procession of repeated human figures interacting with standards or emblems.",
+ "a": "anatolia_ppn_p43full",
+ "b": "assyria_0013",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  661
+ ]
+}

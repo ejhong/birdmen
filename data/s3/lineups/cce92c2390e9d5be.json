@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  7,
+  2,
+  9,
+  4,
+  3,
+  10,
+  5,
+  6,
+  1
+ ],
+ "most_similar_reason": "Both show schematic low-relief carvings of figures arranged on a standing stone slab in a comparable prehistoric style.",
+ "least_similar_reason": "It depicts only a single large three-dimensional human statue and lacks the birds, geometric patterns, and multi-element composition of the target.",
+ "set": "moai_among_random",
+ "i": 6,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "rapa_nui_0113",
+  "assyria_0039",
+  "assyria_0160",
+  "persepolis_0043",
+  "tanum_0076",
+  "egypt_0028",
+  "maya_0076",
+  "maya_0083",
+  "persepolis_0017",
+  "tanum_0341"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "tanum",
+  "maya",
+  "assyria",
+  "persepolis",
+  "maya",
+  "egypt",
+  "tanum",
+  "assyria",
+  "persepolis"
+ ],
+ "model": "grok",
+ "planted_rank": 10
+}

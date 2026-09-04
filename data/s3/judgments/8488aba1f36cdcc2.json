@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "standing figure in profile with bent/raised arm",
+  "bearded head with curled hair rendered in rows of tight curls",
+  "elaborately patterned long garment with fringes/rows of texture",
+  "hand grasping a small handled object",
+  "wing rendered as overlapping rows of long feathers",
+  "stylised floral/rosette motifs filling the field",
+  "horizontal register band of repeated rosettes or discs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both show low-relief profile figures with tightly curled beards and hair, densely patterned fringed robes, an arm raised holding a small handled object, wings built from stacked rows of long feathers, and a horizontal band of repeated rosettes with stylised floral filler \u2014 a very specific and shared set of conventions. The chief difference in content is that A shows a single hybrid bird-headed winged figure occupying the whole field amid a dense floral thicket, while B shows a repeated file of human-headed figures in tall headdresses stacked in registers.",
+ "a": "assyria_0021",
+ "b": "persepolis_0071",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3099,
+  750
+ ]
+}

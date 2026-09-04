@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  2,
+  4,
+  8,
+  6,
+  10,
+  5,
+  7,
+  3,
+  9
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's composition of a carved stone surface divided into horizontal registers combining animal figures (a quadruped and bird-like creature) with a checkered/patterned decorative band, closely echoing the target's arrangement of figural and geometric bands.",
+ "least_similar_reason": "Candidate 9 shows an eroded, essentially blank slab with no discernible figural or geometric motifs, offering no comparable iconographic content to the target's rich register of animals and patterns.",
+ "set": "hard",
+ "i": 4,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0116",
+  "gotland_0123",
+  "egypt_0027",
+  "maya_0047",
+  "rapa_nui_0113",
+  "gotland_0125",
+  "egypt_0012",
+  "tanum_0359",
+  "gotland_0133",
+  "gotland_0115"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "gotland",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "sonnet",
+ "planted_rank": 7
+}

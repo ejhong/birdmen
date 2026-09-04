@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figures in low relief",
+  "hands rendered in detail (one grasping/resting)",
+  "rosette or floral motifs",
+  "densely patterned infill (garment folds, fleece, scale-like texture)",
+  "horizontal frieze band with repeated figures moving in one direction"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces are horizontal processional friezes of closely spaced human figures rendered in shallow relief, sharing the same conventions of dense repetitive surface texturing (fleece, pleated drapery, beaded borders), carefully modelled hands, and rosette/floral ornament used as a bordering motif. The clearest difference in content is that A includes led animals (horned rams) and a tree, with the figures' hands laid on the animals, whereas B shows only closely packed draped figures and a hand grasping a small object, with no animals or vegetation visible.",
+ "a": "persepolis_0020",
+ "b": "assyria_0015",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  637
+ ]
+}

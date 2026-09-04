@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "standing human figures in strict profile",
+  "procession/file of overlapping figures facing one direction",
+  "long fringed garments with patterned hems",
+  "figures holding staff- or rod-like objects",
+  "figures carrying/holding small objects in extended hands",
+  "stylised patterned beard and hair",
+  "low-relief figures set in a horizontal register"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show a file of bearded human figures in strict profile, overlapping one another, wearing long fringed robes and holding staffs or small offerings, rendered in shallow relief with the same patterned treatment of beard, hair and garment hem. The main difference in content is that A includes a large camel led by the attendants and framing bands of rosettes, while B is a close-set group of large-scale figures (one apparently with a horned or winged attribute) with no animal or ornamental border.",
+ "a": "persepolis_0010",
+ "b": "assyria_0000",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3199,
+  695
+ ]
+}

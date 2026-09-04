@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "upright rectangular slab/stela with relief carving on the main face",
+  "dense low-relief carving covering the whole field",
+  "glyph-like signs with rounded, cartouche-framed elements",
+  "framing border/edge band around the carved panel",
+  "elaborate small faces/heads embedded within motif blocks"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both show a tall upright slab whose face is filled edge-to-edge with dense low relief in the same idiom: rounded cartouche-like blocks containing small faces or heads, framed by a raised border, suggesting a shared sign-and-relief convention. The biggest difference in content is that A depicts a single large elaborately costumed figure with a huge headdress and serpentine ornament dominating the field, whereas B shows only a regular double column grid of repeated square glyph blocks with no large figure (the man leaning on the monument is an onlooker, not part of the carving).",
+ "a": "maya_0027",
+ "b": "maya_0057",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  2999,
+  353
+ ]
+}

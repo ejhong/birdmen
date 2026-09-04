@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  5,
+  9,
+  6,
+  7,
+  2,
+  1,
+  3,
+  10,
+  4
+ ],
+ "most_similar_reason": "Candidate 8 shares the target's core convention of low-relief animals rendered in strict profile, walking in a horizontal register alongside other figures, with schematic outline-and-infill bodies and stacked banded organisation of the surface.",
+ "least_similar_reason": "Candidate 4 shows essentially a plain blocky wall face with no identifiable creatures, figures, symbols or patterned bands, so there is nothing iconographic to correspond with the target's registers of animals and geometric friezes.",
+ "set": "moai_iso_among_random",
+ "i": 2,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0045",
+  "rapa_nui_hoa_iso",
+  "maya_0050",
+  "egypt_0021",
+  "catalhoyuk_0039",
+  "maya_0028",
+  "maya_0105",
+  "persepolis_0022",
+  "tanum_0079",
+  "assyria_0100"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "egypt",
+  "persepolis",
+  "maya",
+  "maya",
+  "tanum",
+  "catalhoyuk",
+  "egypt",
+  "assyria",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 6
+}

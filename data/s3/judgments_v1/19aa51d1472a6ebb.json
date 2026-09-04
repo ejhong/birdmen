@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "profile head or creature",
+  "circle or disc motif",
+  "parallel incised bands or stripes",
+  "relief carving on a stone-like surface"
+ ],
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of shallow carved outlines to show a profile head or creature together with circular motifs and repeated parallel linear bands. The biggest difference is compositional: A is a single large, centered profile bust-like figure on a small rounded slab, while B is a tall, rough pillar divided into crowded registers with multiple small figures and patterned zones.",
+ "a": "mississippian_0001",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1072,
+  654
+ ]
+}

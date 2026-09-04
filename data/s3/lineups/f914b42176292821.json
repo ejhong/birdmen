@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  10,
+  2,
+  7,
+  5,
+  1,
+  4,
+  3,
+  6,
+  8
+ ],
+ "most_similar_reason": "Candidate 9 is most similar because it also shows a dense carved composition of stylized profile creatures, including prominent bird/wing-like forms and surrounding animal motifs, arranged on a flat surface in a schematic outline style comparable to the target.",
+ "least_similar_reason": "Candidate 8 is least similar because it shows mainly an architectural rock face or niche with no comparable animals, human figures, symbolic motifs, or patterned figural arrangement.",
+ "set": "moai_iso_among_random",
+ "i": 31,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "persepolis_0087",
+  "assyria_0116",
+  "persepolis_0066",
+  "maya_0052",
+  "rapa_nui_hoa_iso",
+  "mississippian_0015",
+  "assyria_0059",
+  "egypt_0021",
+  "assyria_0112",
+  "tanum_0338"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "persepolis",
+  "assyria",
+  "assyria",
+  "mississippian",
+  "persepolis",
+  "tanum",
+  "maya",
+  "assyria",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 5
+}

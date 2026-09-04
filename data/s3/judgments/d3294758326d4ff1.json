@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "schematic living figure or animal-like form",
+  "simple linear marks or geometric strokes"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The only plausible overlap is that both surfaces include schematic line-rendered living forms and some simple linear/geometric marks. A appears to have one very faint isolated figure, while B shows a dense, organized program of multiple animals and patterned bands with no matching figure, relationship, or layout.",
+ "a": "tanum_0070",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  639
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  5,
+  4,
+  10,
+  1,
+  7,
+  3,
+  9,
+  6,
+  8
+ ],
+ "most_similar_reason": "Candidate 2 shows the same kind of upright slab-pillar bearing faint, shallow low-relief motifs carved directly on its broad face, in the same schematic, sparse-outline manner as the target's animal and linear elements.",
+ "least_similar_reason": "Candidate 8 is a naturalistic close-up of a bearded human head with carefully patterned hair and beard, sharing none of the target's schematic animal figure or sparse abstract line motifs on a plain pillar face.",
+ "set": "same_control",
+ "i": 20,
+ "target": "anatolia_ppn_0093",
+ "planted": "anatolia_ppn_0095",
+ "cands": [
+  "maya_0054",
+  "anatolia_ppn_0095",
+  "egypt_0065",
+  "maya_0130",
+  "rapa_nui_0046",
+  "persepolis_0093",
+  "assyria_0021",
+  "persepolis_0066",
+  "egypt_0043",
+  "maya_0114"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "egypt",
+  "persepolis",
+  "persepolis",
+  "maya",
+  "rapa_nui",
+  "maya",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "upright anthropomorphic/human figure",
+  "head and torso",
+  "arms/hands",
+  "circular or disc-like ornaments",
+  "linear bands or patterned surface decoration on the body"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces center on an upright anthropomorphic figure with a head, torso, arms, and some circular ornaments or patterned linear decoration associated with the body. The biggest difference is that A is a highly schematic frontal figure or torso with abstract body markings, while B is a detailed profile standing figure with wings, raised hand, clothing, and a held object, forming a very different iconographic scheme.",
+ "a": "rapa_nui_0113",
+ "b": "assyria_0146",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1804,
+  677
+ ]
+}

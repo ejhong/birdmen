@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  8,
+  9,
+  6,
+  7,
+  3,
+  10,
+  4,
+  1,
+  5
+ ],
+ "most_similar_reason": "Candidate 2 shares the primary focus on depicting human anatomy and form, aligning with the target's depiction of a human head.",
+ "least_similar_reason": "Candidate 5 consists entirely of abstract symbols or glyphs, lacking any of the human or facial iconography seen in the target.",
+ "set": "same_control_monoliths",
+ "i": 12,
+ "target": "anatolia_ppn_0155",
+ "planted": "anatolia_ppn_0205",
+ "cands": [
+  "anatolia_ppn_0205",
+  "mississippian_0015",
+  "maya_0147",
+  "maya_0114",
+  "maya_0005",
+  "egypt_0065",
+  "maya_0085",
+  "egypt_0044",
+  "egypt_0067",
+  "gotland_0007"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "egypt",
+  "mississippian",
+  "maya",
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt",
+  "maya",
+  "maya"
+ ],
+ "model": "gemini",
+ "planted_rank": 9
+}

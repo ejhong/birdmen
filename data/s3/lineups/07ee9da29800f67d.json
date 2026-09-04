@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  10,
+  4,
+  6,
+  1,
+  2,
+  7,
+  9,
+  8,
+  5
+ ],
+ "most_similar_reason": "Candidate 3 is most similar because it shows a tall surface covered with schematic low-relief animal/iconic forms arranged vertically in a comparable tradition of sparse, emblematic carving rather than narrative registers or writing.",
+ "least_similar_reason": "Candidate 5 is least similar because its depicted content is almost entirely orderly rows of inscription-like signs on a rounded stele, with no comparable animal or anthropomorphic relief motifs arranged like the target.",
+ "set": "same_control_monoliths",
+ "i": 3,
+ "target": "anatolia_ppn_0027",
+ "planted": "anatolia_ppn_0263",
+ "cands": [
+  "anatolia_ppn_0263",
+  "maya_0088",
+  "maya_0111",
+  "maya_0136",
+  "egypt_0049",
+  "rapa_nui_0063",
+  "egypt_0067",
+  "gotland_0112",
+  "egypt_0071",
+  "maya_0092"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "gotland",
+  "maya",
+  "maya",
+  "egypt",
+  "rapa_nui",
+  "maya",
+  "maya",
+  "egypt",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 5
+}

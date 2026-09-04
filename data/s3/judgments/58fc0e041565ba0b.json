@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "standing human figure in strict profile",
+  "bearded male figure with patterned hair/beard",
+  "long fringed or patterned garment",
+  "figure carrying a handled object (bucket/vessel)",
+  "low-relief carving with figures against a plain ground",
+  "horizontal framing bands/borders separating fields",
+  "animals shown in profile (in B; fish-body in A)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict bearded male figures rendered in strict profile with carefully patterned hair/beard and long garments, carrying handled objects, carved in shallow relief within horizontally banded frames \u2014 the pail-like handled bucket in A finds an echo in the carried vessels of B's processing figures. The biggest difference is subject scale and content: A is a single monumental hybrid figure wearing a scaled fish-skin cloak, while B is a repetitive multi-register procession of many attendants with led animals and trees, with no hybrid creature.",
+ "a": "assyria_0118",
+ "b": "persepolis_0093",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3049,
+  686
+ ]
+}

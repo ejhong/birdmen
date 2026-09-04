@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic human figure with outstretched/raised arms",
+  "long straight linear object (staff/spear-like) associated with a figure",
+  "figures drawn as simple linear silhouettes on an open rock surface",
+  "isolated cup-like dots/small marks"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces depict highly schematic, small-limbed anthropomorphs with splayed or raised arms and legs, each associated with a long straight linear object crossing or held out from the body, rendered in the same reductive stick/silhouette convention with scattered small dots. The main difference in content is scale of scene: A shows a single isolated figure, while B is a populated panel with a row of interacting figures, a quadruped animal and additional signs, so no shared multi-figure composition can be confirmed.",
+ "a": "tanum_0069",
+ "b": "tanum_0067",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3349,
+  616
+ ]
+}

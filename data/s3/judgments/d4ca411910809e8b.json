@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "standing human figure in elaborate costume",
+  "large headdress with scroll/plume elements",
+  "low-relief carving on a monolithic stone surface",
+  "glyph-like blocks or panels of signs",
+  "figures with ornaments at chest/belt (pectoral, loincloth apron)",
+  "volute/scroll motifs framing the head"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both show ceremonial human figures in low relief wearing towering headdresses with scroll/plume elements, adorned with pectorals, belts and hanging apron-like garments, accompanied by blocks of sign-like glyphs framing the scene. The clearest difference is that A presents a multi-figure interaction scene in profile beneath a horizontal text band on a broad slab, while B is a single frontal figure filling a tall vertical field with much denser, more ornate regalia and a frontal face.",
+ "a": "maya_0083",
+ "b": "maya_0094",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  2824,
+  336
+ ]
+}

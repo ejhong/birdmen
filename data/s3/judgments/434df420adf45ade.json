@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "round/pointed-topped stela field with framing border",
+  "human figures in profile with frontal shoulders",
+  "seated figure on a chair/throne",
+  "offering table or stand with offerings before a seated figure",
+  "standing or seated figure with arm extended in offering/adoration gesture",
+  "columns of pictographic script signs filling the field",
+  "figures facing inward toward the scene's centre",
+  "horizontal register dividing lines"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "7",
+ "justification": "Both surfaces show the same distinctive scheme: a profile seated figure on a chair with an offering stand set before it, approached by another figure with arm extended, all combined with columns of small pictographic signs inside a bordered, round-topped panel, rendered in the same shallow-relief profile convention (frontal shoulders, profile head and legs). The main difference in content is scale and organisation: A devotes nearly the whole field to a single large seated deity-like figure with elaborate crown, staff and skirt confronted by one worshipper, while B subdivides the field into registers of many small subsidiary figures around a dominant mass of text.",
+ "a": "egypt_0041",
+ "b": "egypt_0040",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  2974,
+  795
+ ]
+}

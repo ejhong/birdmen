@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  6,
+  1,
+  8,
+  4,
+  7,
+  5,
+  10,
+  3,
+  9
+ ],
+ "most_similar_reason": "Both feature stylized animal forms executed in a distinctive flat-topped raised relief style.",
+ "least_similar_reason": "It relies entirely on incised, rigid geometric motifs rather than the raised, organic animal forms of the target.",
+ "set": "moai_iso_among_monoliths",
+ "i": 2,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0105",
+  "maya_0069",
+  "gotland_0111",
+  "maya_0094",
+  "rapa_nui_hoa_iso",
+  "maya_0097",
+  "maya_0052",
+  "maya_0101",
+  "gotland_0112",
+  "egypt_0074"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "gotland",
+  "maya",
+  "maya",
+  "maya",
+  "gotland",
+  "maya",
+  "maya",
+  "maya",
+  "egypt"
+ ],
+ "model": "gemini",
+ "planted_rank": 7
+}

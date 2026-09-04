@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figure in strict profile",
+  "elaborate curled/beaded long beard",
+  "patterned headgear (cap/tiara/helmet-like covering)",
+  "curled hair rendered as rows of small ringlets",
+  "low relief carving of human subject",
+  "stylised almond eye shown frontally in profile head"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both depict bearded male figures in strict profile with headgear and hair/beard conventionalised into regular rows of tight curls or beads, and both use shallow relief with the eye stylised; this is a fairly specific shared convention for rendering the head. However, A shows a full-length procession of multiple standing figures carrying vessels and interacting (hand-holding, facing a seated/standing dignitary) under a rosette band, while B is a single isolated head-and-shoulders with no scene, no accompanying objects, and no compositional relationships.",
+ "a": "persepolis_0105",
+ "b": "assyria_0084",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3224,
+  340
+ ]
+}

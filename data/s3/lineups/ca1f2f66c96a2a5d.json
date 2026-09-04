@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  6,
+  7,
+  4,
+  2,
+  5,
+  9,
+  1,
+  3,
+  8
+ ],
+ "most_similar_reason": "Candidate 10 is most similar because it shows a vertical slab covered with schematic low-relief animal/linear motifs arranged in stacked zones, including large profile forms and repeated small signs, closely echoing the target\u2019s combination of profile creatures and patterned bands.",
+ "least_similar_reason": "Candidate 8 is least similar because its depicted content is dominated by written lines and a formal floral ornament, with no comparable profile animals, creature groupings, or stacked zoomorphic scene.",
+ "set": "moai_among_random",
+ "i": 27,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "assyria_0035",
+  "persepolis_0026",
+  "assyria_0063",
+  "persepolis_0061",
+  "rapa_nui_0113",
+  "egypt_0044",
+  "persepolis_0099",
+  "gotland_0003",
+  "persepolis_0067",
+  "assyria_0032"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "assyria",
+  "gotland",
+  "assyria",
+  "assyria",
+  "persepolis",
+  "persepolis",
+  "egypt",
+  "persepolis",
+  "persepolis"
+ ],
+ "model": "gpt",
+ "planted_rank": 6
+}

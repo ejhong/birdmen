@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic anthropomorphic/human figure",
+  "circle or disc motifs",
+  "straight or curved linear bands"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces include schematic human-like forms and simple circular/linear signs, with the most specific overlap being anthropomorphic imagery rendered in a simplified linear manner. The biggest difference is that A shows a multi-figure scene of stick-like figures apparently interacting with long horizontal lines or objects, while B is dominated by a single frontal anthropomorphic form with facial/torso discs and decorative bands.",
+ "a": "tanum_0005",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  661
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "human figure",
+  "human head with facial features (eyes, nose, mouth)",
+  "torso and arms"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The only correspondence is the wholly generic one that both depict a human figure with a head, face and torso; A is a single isolated frontal figure with arms at its sides and nipples marked, filling the whole surface, while B is a multi-figure narrative relief with a profile bearded head, patterned hair/beard curls and limbs interacting with objects amid horizontal lines. The conventions differ sharply: A is massive, blocky and extremely schematic with exaggerated brow and nose, whereas B renders anatomy and detail in relatively naturalistic low relief, so nothing suggests a shared iconographic scheme.",
+ "a": "rapa_nui_0006",
+ "b": "assyria_0011",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3124,
+  604
+ ]
+}

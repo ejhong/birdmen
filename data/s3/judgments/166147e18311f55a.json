@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic frontal anthropomorphic face or head",
+  "incised parallel line motifs",
+  "simple geometric features such as circles, ovals, or rectangular compartments"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both surfaces use schematic incised geometry to suggest a frontal human-like head or face, with repeated parallel grooves associated with the head or facial area. The biggest difference is that B presents a full frontal anthropomorphic figure with torso features and large circular motifs, while A appears to show only a compact head or mask-like fragment with a gridded lower face and no comparable body scheme.",
+ "a": "anatolia_ppn_0232",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  651
+ ]
+}

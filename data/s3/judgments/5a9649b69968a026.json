@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic human-like face with eyes",
+  "eyes rendered as simple ovals/hollows",
+  "carved motifs on a tall vertical stone block/pillar",
+  "rounded oval forms in relief"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both surfaces present highly schematic, low-relief faces with simple hollowed oval eyes carved on a tall vertical monolithic form, which is a reasonably specific shared convention. However, A shows a clear stacked composition of a toothy beast head above a full human head with nose and mouth, while B shows overlapping ovals, discs and arc-like elements around a partial face, with no comparable stacking or fanged creature.",
+ "a": "anatolia_ppn_0264",
+ "b": "rapa_nui_0052",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  686
+ ]
+}

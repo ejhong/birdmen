@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "bearded male human figures in strict profile",
+  "low relief carving on a rectangular slab",
+  "figures with detailed patterned hair/beard rendered as rows of curls",
+  "conventional treatment of musculature in arms and legs",
+  "full-height figural scene filling the panel",
+  "stylized natural/landscape filler motifs (water/reeds in A, stylized plants in B)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both panels depict bearded male figures in rigorous profile with identically conventionalized curled hair and beards, patterned garments, and hard-outlined muscular limbs in shallow relief, with stylized vegetal or aquatic filler motifs \u2014 a highly conventional shared manner of rendering the human body. However, the subjects differ substantially: A is a multi-figure narrative of a chariot drawn by horses over a marsh with warriors, while B shows a single static winged figure beside a stylized tree, so no specific scene, grouping or relationship is shared.",
+ "a": "assyria_0131",
+ "b": "assyria_0096",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3174,
+  370
+ ]
+}

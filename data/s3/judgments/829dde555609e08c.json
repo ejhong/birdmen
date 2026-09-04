@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "front-facing anthropomorphic figure or mask",
+  "head/face placed above a body or torso area",
+  "circular or disc motif on the body area",
+  "curvilinear bands or ornamental motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is a frontal anthropomorphic presence organized vertically, with a head/face above a torso-like area and some circular/curving body ornament. The biggest difference is that A depicts a detailed full standing figure with limbs, costume, headdress, and held/attached objects, while B is a much more schematic torso-like form dominated by abstract incised circles and bands, with no comparable full figure or attributes.",
+ "a": "maya_0060",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1777,
+  687
+ ]
+}

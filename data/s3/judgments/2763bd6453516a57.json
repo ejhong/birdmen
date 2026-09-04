@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "central anthropomorphic figure",
+  "head or face near the top",
+  "torso/body markings",
+  "circular or oval motifs",
+  "curvilinear incised/relief details on a vertical field"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The main shared content is a single vertically oriented anthropomorphic figure occupying most of the decorated surface, with a head/face above a body and circular plus curvilinear internal details. The biggest difference is that A is a highly frontal, mask-like or idol-like schematic body with broad symmetric forms, while B shows a more legible standing figure in profile/frontal relief with elaborate regalia or signs arranged around it.",
+ "a": "rapa_nui_0113",
+ "b": "maya_0111",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  686
+ ]
+}

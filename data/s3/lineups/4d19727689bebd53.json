@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  8,
+  9,
+  5,
+  2,
+  7,
+  10,
+  4,
+  3,
+  6
+ ],
+ "most_similar_reason": "Candidate 1 shows a single standing costumed human figure occupying a tall vertical surface in an upright arrangement that matches the target's primary motif and layout.",
+ "least_similar_reason": "Candidate 6 depicts only an isolated oversized human head with no body, costume, accompanying figures or objects, unlike the target's full standing figure.",
+ "set": "same_control_monoliths",
+ "i": 4,
+ "target": "maya_0105",
+ "planted": "maya_0113",
+ "cands": [
+  "maya_0113",
+  "egypt_0065",
+  "anatolia_ppn_0263",
+  "anatolia_ppn_0175",
+  "gotland_0131",
+  "rapa_nui_0006",
+  "egypt_0014",
+  "egypt_0050",
+  "mississippian_0015",
+  "anatolia_ppn_0095"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "egypt",
+  "anatolia_ppn",
+  "gotland",
+  "mississippian",
+  "egypt",
+  "anatolia_ppn",
+  "rapa_nui",
+  "egypt",
+  "anatolia_ppn"
+ ],
+ "model": "grok",
+ "planted_rank": 1
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  5,
+  7,
+  3,
+  6,
+  4,
+  2,
+  10,
+  1,
+  8
+ ],
+ "most_similar_reason": "Candidate 9 is, like the target, a tall free-standing monolithic stone pillar whose broad face carries shallow, weathered low-relief motifs arranged in vertical zones rather than a flat framed picture panel.",
+ "least_similar_reason": "Candidate 8 is not carved at all but a flat rock surface bearing thin red painted linear drawings of boats, so it shares neither the three-dimensional monolithic form nor the relief-carved manner of the target.",
+ "set": "p43_among_random",
+ "i": 13,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "tanum_0327",
+  "persepolis_0073",
+  "maya_0026",
+  "persepolis_0022",
+  "maya_0110",
+  "egypt_0044",
+  "egypt_0041",
+  "tanum_0339",
+  "anatolia_ppn_p43full",
+  "assyria_0052"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "egypt",
+  "egypt",
+  "tanum",
+  "persepolis",
+  "persepolis",
+  "assyria",
+  "maya",
+  "tanum",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

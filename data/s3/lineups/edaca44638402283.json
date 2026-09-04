@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  8,
+  6,
+  3,
+  9,
+  7,
+  2,
+  1,
+  4,
+  5
+ ],
+ "most_similar_reason": "Candidate 10 shows a similarly vertical, stacked composition with a head-like element at top and body below marked by simple symbolic motifs, echoing the target's totem-like arrangement.",
+ "least_similar_reason": "Candidate 5 depicts a horizontal frieze of multiple repeated human figures in a narrative procession, which shares neither the vertical single-figure format nor the abstract geometric symbolism of the target.",
+ "set": "p43_among_random",
+ "i": 10,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "assyria_0059",
+  "mississippian_0007",
+  "maya_0091",
+  "mississippian_0005",
+  "persepolis_0043",
+  "maya_0097",
+  "anatolia_ppn_p43full",
+  "tanum_0340",
+  "egypt_0068",
+  "maya_0060"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "tanum",
+  "mississippian",
+  "maya",
+  "egypt",
+  "persepolis",
+  "assyria",
+  "maya",
+  "mississippian",
+  "maya"
+ ],
+ "model": "sonnet",
+ "planted_rank": 6
+}

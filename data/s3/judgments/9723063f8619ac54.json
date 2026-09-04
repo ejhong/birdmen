@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "human/anthropomorphic face or head",
+  "figures rendered in stone relief/sculpture"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "A is a three-dimensional head with a broad brow ridge, deep-set eyes, nose and mouth, while B is a flat pillar covered in low-relief registers of animals (quadrupeds in profile, a bird with long neck and beak, a row of squatting/bent-legged creatures above a zigzag band); the only overlap is the presence of anthropomorphic/animal faces rendered in carved stone. The subject matter, the multi-register narrative arrangement in B versus a single isolated head in A, and the relief-versus-sculpture-in-the-round conventions differ almost entirely.",
+ "a": "anatolia_ppn_0222",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  306
+ ]
+}

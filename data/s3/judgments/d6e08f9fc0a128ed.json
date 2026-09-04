@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human figures",
+  "repeated figures aligned in a horizontal row",
+  "quadruped animal (small, in A; rams in B)",
+  "profile orientation of figures"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The only real correspondence is generic: both show human figures repeated along a horizontal register, with at least one quadruped present, and both are oriented in profile. Otherwise the content is wholly different \nA is dominated by schematic ships with rows of stroke-like crew marks and tiny stick figures, while B shows fully modelled, bearded men leading heavy horned rams in a procession, with naturalistic detailing of hair, garments and fleece.",
+ "a": "tanum_0332",
+ "b": "persepolis_0084",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  464
+ ]
+}

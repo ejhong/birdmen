@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "human figure represented (small seated/kneeling figures in A; a head in B)",
+  "frontal/profile depiction of human facial features"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "A is a flat rectangular panel densely covered with horizontal registers of small script-like signs, with two small kneeling/seated figures facing each other in the lower zone; B is a three-dimensional head in the round with a broad headdress, brow, eyes, nose and cheeks, and no text or registers at all. The only shared content is that human beings are depicted somewhere in each, which is generic; the organising scheme (register-based inscription with miniature figures versus a single sculpted portrait head) is entirely different.",
+ "a": "egypt_0075",
+ "b": "anatolia_ppn_0222",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2974,
+  279
+ ]
+}

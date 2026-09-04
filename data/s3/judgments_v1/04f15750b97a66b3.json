@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "profile bird or bird-like animal",
+  "profile animal forms",
+  "round eye or circular disc",
+  "short parallel bar/comb-like motif",
+  "horizontal band or register of repeated marks"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "The strongest specific correspondence is the use of low-relief animal imagery, especially profile bird-like forms with round eyes, accompanied by repeated parallel-bar motifs. The biggest difference is that B is organized into clear horizontal registers on a regular upright surface, while A is irregular, crowded, more eroded, and its figures are harder to separate into an ordered sequence.",
+ "a": "maya_0047",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  660
+ ]
+}

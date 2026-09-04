@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  7,
+  9,
+  4,
+  6,
+  3,
+  2,
+  10,
+  1,
+  5
+ ],
+ "most_similar_reason": "Candidate 8 is, like the target, a round-topped slab bearing a low-relief scene of several standing human figures in profile arranged side by side beneath a band of small inscribed sign-like elements, matching the target's combination of figural scene plus writing in the same field.",
+ "least_similar_reason": "Candidate 5 shows only a pair of three-dimensional heads on a block with no relief scene, no standing figures, no offerings and no sign-like inscription, sharing nothing distinctive with the target's narrative relief.",
+ "set": "same_control_monoliths",
+ "i": 18,
+ "target": "egypt_0044",
+ "planted": "egypt_0046",
+ "cands": [
+  "anatolia_ppn_0041",
+  "anatolia_ppn_0212",
+  "anatolia_ppn_0261",
+  "rapa_nui_0025",
+  "anatolia_ppn_0247",
+  "maya_0005",
+  "maya_0111",
+  "egypt_0046",
+  "maya_0106",
+  "anatolia_ppn_0093"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "maya",
+  "maya",
+  "anatolia_ppn",
+  "maya",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "rapa_nui"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

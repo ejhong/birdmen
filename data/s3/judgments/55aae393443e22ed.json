@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "animal figures in profile",
+  "profile quadruped",
+  "bird-like or long-necked animal figures",
+  "schematic human or anthropomorphic figures",
+  "repeated linear/geometric marks"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces include schematic animal imagery, especially profile quadrupeds and bird-like/long-necked creatures, with some human or anthropomorphic forms and repeated linear marks. The biggest difference is that B is a narrative hunting-like scene organized around a huge antlered animal surrounded by running stick figures, while A is a stacked, register-like composition of carved animal and geometric motifs without the same central animal-human action scheme.",
+ "a": "anatolia_ppn_p43full",
+ "b": "catalhoyuk_0039",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  683
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  2,
+  6,
+  1,
+  4,
+  3,
+  5,
+  10,
+  7,
+  8
+ ],
+ "most_similar_reason": "Candidate 9 is, like the target, a tall free-standing monolithic pillar/stele whose face is covered with low-relief imagery organised into stacked registers, combining a central creature-like figure with smaller subsidiary motifs above and below.",
+ "least_similar_reason": "Candidate 8 presents an essentially blank, mottled panel with no legible creatures, figures, symbols or registered arrangement, so it shares none of the target's specific animal-and-symbol iconography.",
+ "set": "moai_among_random",
+ "i": 35,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0128",
+  "rapa_nui_0113",
+  "persepolis_0043",
+  "tanum_0240",
+  "assyria_0084",
+  "tanum_0080",
+  "tanum_0126",
+  "assyria_0116",
+  "maya_0113",
+  "persepolis_0029"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "persepolis",
+  "maya",
+  "assyria",
+  "persepolis",
+  "gotland",
+  "assyria",
+  "tanum",
+  "tanum",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

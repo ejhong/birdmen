@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figure in profile with bearded/detailed head",
+  "elaborate headdress or head covering",
+  "large wing with multiple rows of feathers rendered as parallel rows",
+  "raised forearm with hand extended forward",
+  "patterned garment/body decoration in registers",
+  "winged anthropomorphic being"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both depict a winged anthropomorphic figure shown strictly in profile with an elaborate headdress and a large wing whose feathers are laid out in stacked rows of repeated elongated elements, and in both the figure's forearm is raised and extended forward \u2014 a fairly specific and conventional combination. The main differences are that B presents two interacting figures at full length in a modelled, proportionally naturalistic manner with long fringed robes and held attributes, whereas A shows a single bust-length figure in flat, heavily schematic outline with oval spots and scale-like infill, so the specific interaction and body conventions do not match.",
+ "a": "mississippian_0009",
+ "b": "assyria_0000",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  885
+ ]
+}

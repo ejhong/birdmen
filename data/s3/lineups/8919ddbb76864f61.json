@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  8,
+  10,
+  1,
+  7,
+  9,
+  3,
+  5,
+  4,
+  2
+ ],
+ "most_similar_reason": "Candidate 6 shares the target's convention of a large naturalistic low-relief figure shown in strict profile with carefully incised detailing of hair/feathers and drapery filling the panel, the same kind of monumental single-figure relief scene rather than a schematic or sign-based composition.",
+ "least_similar_reason": "Candidate 2 shows only an eroded three-dimensional head/torso with no scene, no animal, no accompanying figures or attributes, so there is nothing of the target's rider-and-horse composition or its incised profile detailing to correspond with.",
+ "set": "related_control",
+ "i": 36,
+ "target": "persepolis_0089",
+ "planted": "assyria_0134",
+ "cands": [
+  "maya_0026",
+  "anatolia_ppn_0155",
+  "rapa_nui_0046",
+  "tanum_0321",
+  "tanum_0106",
+  "assyria_0134",
+  "maya_0136",
+  "gotland_0007",
+  "egypt_0056",
+  "egypt_0072"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "tanum",
+  "anatolia_ppn",
+  "maya",
+  "rapa_nui",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

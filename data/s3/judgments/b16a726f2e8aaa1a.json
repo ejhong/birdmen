@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figure in profile",
+  "elaborate headdress/headgear",
+  "bearded or ornate facial rendering",
+  "figure holding a small object in an extended hand",
+  "low-relief carved figural scene",
+  "patterned/textured garment surface"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both show human figures in strict profile with elaborate headgear and one hand raised holding a small object, carved in low relief, which is a fairly generic ceremonial convention. They differ sharply in specifics: A is a single seated/enthroned figure surrounded by dense blocks of glyph-like sign panels and a towering feathered, mask-laden headdress, while B shows two striding figures in flowing pleated robes with cylindrical/rounded caps and no writing at all, rendered with smoother naturalistic drapery rather than A's crowded ornamental infill.",
+ "a": "maya_0026",
+ "b": "persepolis_0049",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3224,
+  327
+ ]
+}

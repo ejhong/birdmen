@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  7,
+  5,
+  1,
+  8,
+  4,
+  3,
+  2,
+  10,
+  9
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it likewise shows a small set of schematic profile animal/bird-like figures combined with abstract curvilinear symbols and divided into simple horizontal zones, close to the target\u2019s incised animal-symbol and banded arrangement.",
+ "least_similar_reason": "Candidate 9 is least similar because no comparable depicted motifs are visible on the surface\u2014there are no discernible animals, figures, symbols, or register-like carved designs matching the target.",
+ "set": "moai_iso_among_monoliths",
+ "i": 0,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0085",
+  "maya_0105",
+  "maya_0113",
+  "gotland_0130",
+  "maya_0047",
+  "gotland_0026",
+  "egypt_0041",
+  "maya_0057",
+  "maya_0000",
+  "rapa_nui_hoa_iso"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "gotland",
+  "maya",
+  "gotland"
+ ],
+ "model": "gpt",
+ "planted_rank": 9
+}

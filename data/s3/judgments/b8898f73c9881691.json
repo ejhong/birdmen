@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "human figure(s)",
+  "human head/upper body",
+  "raised arm or limb detail"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "The only shared content is the human figure: A shows a single large bearded head and shoulders in profile with a tall headdress, elaborate curled hair, ear ornament and patterned garment, rendered with careful naturalistic detail; B shows several tiny stick-like frontal figures with splayed hands and feet, holding long lances, plus a spiral disc and a boat. Beyond the generic presence of people there is no correspondence in posture, attributes, arrangement or drawing convention \u2014 one is a monumental portrait bust in profile, the other a schematic multi-figure scene.",
+ "a": "assyria_0035",
+ "b": "tanum_0082",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3324,
+  284
+ ]
+}

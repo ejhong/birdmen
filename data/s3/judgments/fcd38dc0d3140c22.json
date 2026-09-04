@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low-relief carving on a flat stone slab",
+  "bird-headed or beaked creature in profile",
+  "horizontal band separating registers",
+  "repeated row of similar motifs along the top",
+  "raised arm / foreleg motifs",
+  "stylized plant-like or branching forms"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both are flat slabs carved in low relief with a horizontal band across the top above a figural field, and both include a beaked/bird-headed creature seen in profile, which is the most specific shared trait. But A shows an anthropomorphic winged figure standing beside an elaborate, symmetrically rendered sacred plant with rosettes, rendered with detailed naturalistic musculature, feathering and drapery, whereas B shows a stack of schematic animals (quadrupeds, a bird, snake-like forms) and abstract loops with no human figure, no wings and no floral motif, in a far flatter, more outline-only manner.",
+ "a": "assyria_0090",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3049,
+  359
+ ]
+}

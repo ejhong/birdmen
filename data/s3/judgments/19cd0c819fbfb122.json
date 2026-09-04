@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "standing human figure in profile",
+  "long garment reaching to ankles",
+  "figure with headdress/head covering",
+  "subsidiary smaller figure at lower level",
+  "handheld object (staff/implement)",
+  "field of signs or symbols at the top of the panel",
+  "single-scene panel with rounded/framed upper edge"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces depict profile human figures in long garments, carved in low relief on a single upright panel with a band of small signs or symbols above the figural scene, and both include a subordinate smaller figure at a lower level. But A is dominated by one large striding figure towering over a crouching/kneeling figure at his feet, while B shows a row of four similarly sized standing figures facing one another in an interactive group, and the rendering differs (bold modelled relief with detailed costume versus thin schematic incised outlines).",
+ "a": "maya_0105",
+ "b": "egypt_0046",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2974,
+  817
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "human figures",
+  "animal forms",
+  "depiction of the human body in a recognizable posture"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "The only correspondence is the presence of human figures and (in A) animals, which is universal and generic; A shows a sprawling multi-figure hunting scene of tiny stick-like silhouetted people, deer, bulls and dogs scattered across a wide field, while B shows a single large frontal standing figure in elaborate headdress and regalia framed by blocks of glyph-like signs. Their compositional logic, scale of figures, and rendering conventions (flat animated silhouettes vs. dense, static, relief-modelled ceremonial portrait) share nothing distinctive.",
+ "a": "catalhoyuk_0110",
+ "b": "maya_0130",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3224,
+  288
+ ]
+}

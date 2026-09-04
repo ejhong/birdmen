@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "standing human/anthropomorphic figure",
+  "arms or hands indicated on the front/sides",
+  "horizontal division or banding across the body/surface"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both involve a vertical stone form with an anthropomorphic presence, including indicated arms or hands and some horizontal articulation across the body or surface. The biggest difference is that A is a flat, densely decorated relief surface with multiple animal and patterned motifs in registers, while B is a single rounded standing figure with very little surrounding decoration.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0121",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  655
+ ]
+}

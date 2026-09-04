@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human figures in profile",
+  "low-relief carving on a rectangular slab/stele",
+  "scene of multiple figures interacting",
+  "horizontal registers/ground line at base"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both show shallow-relief human figures in profile arranged on an upright slab, but that is about as generic as figural relief gets: A depicts a single large-scale narrative of a horse-drawn chariot with bearded warriors above a field of stylised vegetation/water, while B is a small stele divided into multiple horizontal registers of seated and standing figures interspersed with dense rows of script signs and a winged emblem at the top. Neither the specific motifs (chariot and horse vs. offering-table scenes with inscriptions), the relationships between figures, nor the register-based versus single-scene layout correspond.",
+ "a": "assyria_0131",
+ "b": "egypt_0045",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  322
+ ]
+}

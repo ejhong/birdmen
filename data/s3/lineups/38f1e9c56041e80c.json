@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  8,
+  6,
+  2,
+  7,
+  3,
+  10,
+  4,
+  5,
+  9
+ ],
+ "most_similar_reason": "Candidate 1 shares the distinctive T-shaped pillar form and stylized carved arms.",
+ "least_similar_reason": "Candidate 9 features linear boat motifs with no relation to the target.",
+ "set": "p43_among_random",
+ "i": 28,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "anatolia_ppn_p43full",
+  "egypt_0047",
+  "maya_0147",
+  "tanum_0079",
+  "tanum_0085",
+  "egypt_0065",
+  "persepolis_0025",
+  "assyria_0123",
+  "tanum_0237",
+  "egypt_0020"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "assyria",
+  "tanum",
+  "egypt",
+  "tanum",
+  "egypt",
+  "maya",
+  "tanum",
+  "egypt",
+  "persepolis"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

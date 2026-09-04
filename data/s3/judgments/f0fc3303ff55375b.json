@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "frontal anthropomorphic or torso-like figure",
+  "circular discs or round marks on the torso",
+  "horizontal curved/parallel bands across the lower torso or waist",
+  "bilateral symmetry",
+  "schematic outlined body parts"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "5",
+ "justification": "The strongest correspondence is a frontally arranged, schematic body with round torso motifs and a set of horizontal curved bands placed below them. The biggest difference is that B is explicitly a bird-headed, winged feathered figure with claw-like hands, while A is a blocky human-like slab figure without wings, feathers, or a bird head.",
+ "a": "rapa_nui_0113",
+ "b": "mississippian_0011",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1857,
+  624
+ ]
+}

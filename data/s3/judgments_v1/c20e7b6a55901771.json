@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "decorated stone surface",
+  "stacked horizontal registers or rows",
+  "elongated horizontal curved forms with internal short vertical strokes",
+  "short repeated stroke/comb-like pattern",
+  "small circular or oval marks"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the presence of elongated horizontal motifs divided or fringed by repeated short vertical strokes, set among other marks in a roughly vertical sequence. The biggest difference is that A is sparse, dark, linear drawing on a flat pale surface, while B is a dense carved relief with larger figurative animal-like forms and more continuous filled bands.",
+ "a": "tanum_0060",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  484
+ ]
+}

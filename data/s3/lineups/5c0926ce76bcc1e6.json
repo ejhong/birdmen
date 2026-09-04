@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  10,
+  3,
+  4,
+  2,
+  5,
+  7,
+  9,
+  8,
+  6
+ ],
+ "most_similar_reason": "Candidate 1 is closest because it shows a horizontal relief scene with multiple profile figures and animals arranged in a narrative/processional composition, using comparable linear outlining and shallow interior detail.",
+ "least_similar_reason": "Candidate 6 is least similar because it depicts essentially a single frontal mask-like face rather than a profile procession of humans and animals with accompanying ornamental bands.",
+ "set": "related_control",
+ "i": 1,
+ "target": "persepolis_0073",
+ "planted": "assyria_0012",
+ "cands": [
+  "assyria_0012",
+  "anatolia_ppn_0027",
+  "anatolia_ppn_0218",
+  "rapa_nui_0021",
+  "rapa_nui_0062",
+  "rapa_nui_0046",
+  "egypt_0037",
+  "mississippian_0045",
+  "tanum_0034",
+  "maya_0110"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "rapa_nui",
+  "tanum",
+  "anatolia_ppn",
+  "maya",
+  "mississippian",
+  "rapa_nui",
+  "anatolia_ppn",
+  "rapa_nui",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

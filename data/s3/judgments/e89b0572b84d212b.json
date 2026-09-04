@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic anthropomorphic or zoomorphic figures",
+  "horizontal rows or bands of repeated signs/geometric motifs",
+  "curvilinear incised motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main correspondence is that both surfaces appear to combine schematic figural imagery with rows of repeated sign-like or geometric motifs, possibly including an upright anthropomorphic/zoomorphic figure. The biggest difference is that A has clearly organized registers with multiple profile animals/birds and dense patterned bands, while B seems dominated by a single faint central figure with different flanking/bottom signs and no matching specific iconographic scheme.",
+ "a": "anatolia_ppn_p43full",
+ "b": "maya_0082",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1804,
+  674
+ ]
+}

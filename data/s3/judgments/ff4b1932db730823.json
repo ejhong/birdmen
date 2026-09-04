@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "front-facing anthropomorphic or face-like figure",
+  "paired circular/eye-like forms",
+  "central circular or oval motif",
+  "curving horizontal bands or arcs",
+  "linear border/outline motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is that both surfaces include a schematic frontal, face-like/anthropomorphic composition with paired eye-like circles and curved bands below a central upper area. The biggest difference is that B is dominated by a clear monumental human-like figure or body with facial features and chest bands, while A\u2019s imagery is much fainter and more plaque-like, with different linear motifs and what appears to be a small profile creature or sign rather than the same bodily scheme.",
+ "a": "gotland_0130",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1883,
+  694
+ ]
+}

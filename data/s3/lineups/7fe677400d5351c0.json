@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  8,
+  4,
+  2,
+  9,
+  10,
+  1,
+  6,
+  7,
+  3
+ ],
+ "most_similar_reason": "Candidate 5 shares the relief depiction of a profile figure wearing a tall headdress.",
+ "least_similar_reason": "Candidate 3 is a 3D animal sculpture lacking human figures or a stele format.",
+ "set": "same_control_monoliths",
+ "i": 7,
+ "target": "egypt_0073",
+ "planted": "egypt_0069",
+ "cands": [
+  "gotland_0117",
+  "maya_0092",
+  "anatolia_ppn_0144",
+  "maya_0087",
+  "maya_0097",
+  "maya_0057",
+  "gotland_0026",
+  "egypt_0069",
+  "gotland_0111",
+  "gotland_0128"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "gotland",
+  "maya",
+  "anatolia_ppn",
+  "gotland",
+  "maya",
+  "maya",
+  "gotland",
+  "maya",
+  "gotland"
+ ],
+ "model": "gemini",
+ "planted_rank": 2
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "dense horizontal registers of small repeated carved signs (script-like glyphs)",
+  "rectangular inscribed panel framed by borders",
+  "relief figural scene above the text register",
+  "vertical framing elements/columns at the panel edges"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both surfaces show the same distinctive scheme of a large framed panel filled with many ruled horizontal lines of small pictorial glyph-signs, with a figural relief zone above the text and vertical framing borders at the sides, executed in the same shallow, regular, schematic relief convention. The main difference is that A is a close view where individual signs and a specific figure/emblem in the upper register are legible, while B shows only the overall panel with its lateral figures indistinct, so no single motif can be matched element for element.",
+ "a": "egypt_0017",
+ "b": "egypt_0007",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3224,
+  519
+ ]
+}

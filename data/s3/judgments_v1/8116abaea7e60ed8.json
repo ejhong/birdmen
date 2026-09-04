@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "relief-carved stone surface",
+  "profile figure or creature with outlined features",
+  "repeated linear/geometric patterning",
+  "horizontal zone or band of ornament"
+ ],
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces use low relief with profile figures/creatures and repeated incised patterning, including some horizontally organized ornament. The biggest difference is compositional: A is a crowded, schematic, multi-register field of animals and signs, while B is dominated by one large, detailed standing human-like figure in profile.",
+ "a": "anatolia_ppn_p43full",
+ "b": "assyria_0036",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1124,
+  1149
+ ]
+}

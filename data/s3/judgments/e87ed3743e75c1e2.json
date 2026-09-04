@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "standing human figures in strict profile",
+  "elaborate curled/beaded hairstyle and beard rendered as regular rows of dots or curls",
+  "long pleated/draped robe with parallel folds",
+  "figures carrying or holding objects (spear, bow; carried offerings, harness)",
+  "procession-like alignment of figures along a horizontal register",
+  "low relief with band/register divisions",
+  "rosette band border"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "8",
+ "justification": "Both show low-relief profile human figures with identically conventionalised beaded/curled hair and beard, long pleated robes, and carried attributes, arranged in horizontal registers bounded by a rosette-decorated band \u2014 a highly specific and conventional combination unlikely to arise independently. The chief difference in depicted content is that A isolates a single armed guard with spear and bow filling the field, while B shows a multi-figure procession with a horse's head and carried objects at smaller scale.",
+ "a": "persepolis_0037",
+ "b": "persepolis_0044",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3224,
+  354
+ ]
+}

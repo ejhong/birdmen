@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  9,
+  6,
+  4,
+  10,
+  3,
+  5,
+  8,
+  2,
+  7
+ ],
+ "most_similar_reason": "Candidate 1 shows a bird-like creature with spread, feathered wings rendered in a similar stylized relief manner to the bird-headed winged figure that dominates the upper register of the target stele.",
+ "least_similar_reason": "Candidate 7 depicts only an eroded architectural/rock surface with no figural, animal, or symbolic imagery at all, sharing none of the iconographic content found on the target stele.",
+ "set": "moai_close_among_random",
+ "i": 2,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "assyria_0119",
+  "tanum_0070",
+  "maya_0091",
+  "persepolis_0082",
+  "rapa_nui_0004",
+  "persepolis_0069",
+  "egypt_0051",
+  "persepolis_0017",
+  "mississippian_0007",
+  "egypt_0048"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "mississippian",
+  "egypt",
+  "maya",
+  "persepolis",
+  "assyria",
+  "persepolis",
+  "persepolis",
+  "egypt",
+  "tanum"
+ ],
+ "model": "sonnet",
+ "planted_rank": 7
+}

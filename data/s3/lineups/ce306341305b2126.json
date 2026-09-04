@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  6,
+  4,
+  9,
+  2,
+  8,
+  10,
+  5,
+  3,
+  7
+ ],
+ "most_similar_reason": "Candidate 1 is closest because it also presents a single frontal, elaborately adorned supernatural/anthropomorphic figure with a prominent head area and paired lateral appendages that read like arms or wings, giving it the same central, symmetrical bird/personage emphasis as the target.",
+ "least_similar_reason": "Candidate 7 is least similar because it depicts a schematic boat-like linear motif rather than a central winged or bird-like humanoid figure with body ornaments and bilateral feathered forms.",
+ "set": "same_control",
+ "i": 38,
+ "target": "mississippian_0002",
+ "planted": "mississippian_0006",
+ "cands": [
+  "maya_0130",
+  "rapa_nui_0054",
+  "assyria_0012",
+  "mississippian_0006",
+  "gotland_0128",
+  "assyria_0135",
+  "tanum_0054",
+  "assyria_0015",
+  "maya_0136",
+  "persepolis_0073"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "gotland",
+  "persepolis",
+  "maya",
+  "assyria",
+  "assyria",
+  "tanum",
+  "assyria",
+  "rapa_nui",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 3
+}

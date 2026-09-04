@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  4,
+  1,
+  6,
+  10,
+  7,
+  9,
+  3,
+  5,
+  8
+ ],
+ "most_similar_reason": "Candidate 2 is most similar because it shares the target\u2019s distinctive schematic long boat-like form with repeated vertical strokes and upturned ends, accompanied by simple animal/sign motifs in a sparse linear style.",
+ "least_similar_reason": "Candidate 8 is least similar because it is dominated by rows of inscription-like marks and lacks the target\u2019s pictorial combination of schematic creatures, figures, and boat-like/geometric motifs.",
+ "set": "moai_iso_among_random",
+ "i": 15,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0047",
+  "tanum_0238",
+  "persepolis_0047",
+  "tanum_0063",
+  "maya_0094",
+  "gotland_0004",
+  "rapa_nui_hoa_iso",
+  "egypt_0049",
+  "persepolis_0027",
+  "egypt_0039"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "gotland",
+  "persepolis",
+  "egypt",
+  "tanum",
+  "persepolis",
+  "maya",
+  "tanum",
+  "egypt",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 6
+}

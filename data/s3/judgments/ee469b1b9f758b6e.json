@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "horizontal band or row of repeated short strokes",
+  "schematic linear/elongated figures or motifs",
+  "simple geometric divisions or marks within larger forms"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific shared content is a horizontal, comb-like band of repeated short marks placed above or among more schematic figures. The biggest difference is that A is dominated by a single large standing anthropomorphic form with a circular/quartered body or head element, while B is a crowded multi-register composition of many separate animal-like and abstract motifs with no comparable central figure.",
+ "a": "tanum_0240",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  666
+ ]
+}

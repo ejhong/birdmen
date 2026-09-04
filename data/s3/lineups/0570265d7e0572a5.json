@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  10,
+  7,
+  2,
+  6,
+  8,
+  9,
+  3,
+  4,
+  1
+ ],
+ "most_similar_reason": "Candidate 5 is most similar because it presents a tall vertical decorated surface dominated by a schematic, densely incised supernatural/anthropomorphic image with stacked facial/body motifs and glyph-like details, closest to the target\u2019s frontal mask-like figure with circular features and curving bands.",
+ "least_similar_reason": "Candidate 1 is least similar because it depicts a naturalistic standing human figure holding objects rather than a flat, schematic surface organized around an abstract frontal mask, circular facial signs, and incised symbolic bands.",
+ "set": "p43_iso_among_monoliths",
+ "i": 25,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "mississippian_0015",
+  "gotland_0112",
+  "egypt_0041",
+  "egypt_0076",
+  "maya_0137",
+  "maya_0146",
+  "maya_0149",
+  "egypt_0070",
+  "egypt_0064",
+  "anatolia_ppn_p43iso"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "mississippian",
+  "egypt",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 2
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "linear engraved/outlined schematic motif",
+  "possible boat-like curved hull line with vertical strokes above it",
+  "isolated single motif on an otherwise plain field"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces carry a single, sparse schematic outline-drawn motif built from simple lines, and the faint figure in B has a curved lower line with short strokes rising from it that could be read as a boat with crew, loosely echoing the hull-and-mast ship in A. But A shows a fully explicit and elaborate composition \u2014 a ship with mast, yard, upturned stems, framed by an arch and set above a band of stylised waves \u2014 whereas B shows only a small, ambiguous, unframed figure with no accompanying wave band, arch or comparable internal detail.",
+ "a": "gotland_0008",
+ "b": "tanum_0070",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3249,
+  691
+ ]
+}

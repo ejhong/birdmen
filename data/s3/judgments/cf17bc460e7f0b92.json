@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "schematic stick-like human figures with raised arms",
+  "figure holding/raising a long straight object (staff, spear or pole)",
+  "stick-figure with clearly marked legs and feet",
+  "long straight lines crossing the field",
+  "small scattered dots/cupmarks or minor signs",
+  "figures with filled solid bodies rendered in silhouette"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "7",
+ "justification": "Both surfaces show the same distinctive scheme: schematic silhouette stick-figures with upraised arms, splayed legs and marked feet, one figure lifting a long straight pole/spear above the head, set among long incised lines and scattered small dots/signs on an open rock surface. The clearest difference in content is that B additionally includes boats with crew-stroke rows, a curved lur-like object and a disc-bodied figure, while A shows only the human figures and lines within its cropped view.",
+ "a": "tanum_0008",
+ "b": "tanum_0327",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3349,
+  339
+ ]
+}

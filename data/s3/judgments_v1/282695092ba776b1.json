@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "circle or disc",
+  "repeated geometric band or border",
+  "diagonal hatching / chevron-like marks",
+  "incised or carved linear decoration on a pale surface"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of simple linear geometry\u2014circles, diagonal hatching, and repeated border-like bands\u2014cut or scratched into a light-colored surface. The biggest difference is that A is a carefully organized relief with stacked registers and clear figurative motifs, while B is mostly sparse, irregular geometric graffiti-like marking with no comparable figural composition.",
+ "a": "anatolia_ppn_p43full",
+ "b": "gotland_0118",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  498
+ ]
+}

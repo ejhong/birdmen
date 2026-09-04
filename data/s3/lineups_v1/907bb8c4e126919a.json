@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  5,
+  4,
+  10,
+  2,
+  7,
+  6,
+  1,
+  9,
+  3
+ ],
+ "most_similar_reason": "Candidate 8 shares the target's shallow low-relief carving of animal and figure silhouettes on pale, weathered stone, laid out in a horizontal band beneath a plain upper border.",
+ "least_similar_reason": "Candidate 3 is an almost bare, naturally weathered rock face with no discernible carved figures, registers, or relief modelling of any kind, so it shares neither imagery nor technique with the target.",
+ "set": "moai_among_random",
+ "i": 38,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0047",
+  "rapa_nui_0113",
+  "tanum_0126",
+  "assyria_0157",
+  "maya_0092",
+  "gotland_0122",
+  "persepolis_0035",
+  "persepolis_0063",
+  "tanum_0067",
+  "egypt_0070"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "tanum",
+  "tanum",
+  "persepolis",
+  "gotland",
+  "assyria",
+  "maya",
+  "egypt",
+  "persepolis",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 5
+}

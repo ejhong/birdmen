@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  8,
+  3,
+  1,
+  4,
+  6,
+  5,
+  2,
+  7,
+  9
+ ],
+ "most_similar_reason": "Candidate 10 is most similar because it shows a horizontal relief-like register with profile standing human figures arranged in a procession comparable to the target\u2019s robed figures and animal/processional scene.",
+ "least_similar_reason": "Candidate 9 is least similar because it presents only an isolated geometric spiral/enclosure motif, with none of the target\u2019s profile humans, animal, vegetal element, procession, or rosette-border iconography.",
+ "set": "related_control",
+ "i": 21,
+ "target": "persepolis_0073",
+ "planted": "assyria_0112",
+ "cands": [
+  "gotland_0133",
+  "gotland_0004",
+  "anatolia_ppn_0072",
+  "anatolia_ppn_0041",
+  "anatolia_ppn_0260",
+  "tanum_0085",
+  "tanum_0324",
+  "assyria_0112",
+  "anatolia_ppn_0196",
+  "egypt_0060"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "egypt",
+  "anatolia_ppn",
+  "gotland",
+  "gotland",
+  "tanum",
+  "anatolia_ppn",
+  "tanum"
+ ],
+ "model": "gpt",
+ "planted_rank": 2
+}

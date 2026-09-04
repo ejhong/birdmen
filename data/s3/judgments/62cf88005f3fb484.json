@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "animal in profile",
+  "human or anthropomorphic figure",
+  "horizontal band or register",
+  "repeated decorative/pattern motifs",
+  "linear relief-style outlines"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main shared content is generic: both show profile creatures and human/anthropomorphic figures within a surface organized by horizontal bands or registers. The biggest difference is that A is a coherent procession with a camel and robed figures carrying or leading things, while B is a stacked symbolic tableau of disparate animals/signs and a schematic human figure, with no comparable procession or specific shared motif.",
+ "a": "persepolis_0073",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  927
+ ]
+}

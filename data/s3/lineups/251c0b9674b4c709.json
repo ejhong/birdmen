@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  3,
+  6,
+  5,
+  10,
+  9,
+  2,
+  1,
+  4,
+  8
+ ],
+ "most_similar_reason": "Both feature T-shaped pillars with low-relief carvings, indicating a shared structural and stylistic format.",
+ "least_similar_reason": "It depicts a linear boat scene, contrasting sharply with the target's registers of distinct animal motifs.",
+ "set": "moai_close_among_random",
+ "i": 12,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "persepolis_0105",
+  "assyria_0096",
+  "tanum_0100",
+  "tanum_0026",
+  "maya_0005",
+  "gotland_0133",
+  "rapa_nui_0004",
+  "tanum_0054",
+  "mississippian_0001",
+  "maya_0097"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "assyria",
+  "mississippian",
+  "maya",
+  "maya",
+  "persepolis",
+  "tanum",
+  "tanum",
+  "tanum",
+  "gotland"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

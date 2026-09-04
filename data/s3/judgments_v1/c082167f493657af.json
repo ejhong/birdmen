@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "carved upright stone surface",
+  "abstract/geometric carved signs",
+  "circle or oval motifs",
+  "banded or compartmentalized layout"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both are upright carved stones with incised/relief decoration organized into bands or compartments and including some rounded/circular motifs. The biggest difference is that A is dominated by large, relatively open figural and animal-like forms in horizontal zones, while B is a dense vertical grid of small glyph-like blocks with little comparable figural scene structure.",
+ "a": "anatolia_ppn_p43full",
+ "b": "maya_0147",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  966,
+  593
+ ]
+}

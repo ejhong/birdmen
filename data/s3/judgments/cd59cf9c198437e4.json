@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "multi-petalled rosette",
+  "human figure in long garment (partial, at edge)",
+  "human hand grasping an object",
+  "low-relief horizontal register/band composition",
+  "band of repeated ornament bordering the field",
+  "fringed/pleated drapery rendered as parallel lines"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "5",
+ "justification": "Both surfaces use the same specific repertoire of a multi-petalled rosette repeated as border ornament, robed human figures shown in profile with parallel-line drapery, and a hand closed around a held object, all in shallow relief organised into horizontal registers. The decisive difference is subject: A is dominated by dense rows of wedge-like script signs with figures only at the margins, whereas B shows a continuous procession of tribute-bearers carrying bowls and vessels toward a leading figure, with no writing at all.",
+ "a": "assyria_0015",
+ "b": "persepolis_0097",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  718
+ ]
+}

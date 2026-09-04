@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "human head with facial features (eyes, nose, mouth)",
+  "depiction of hair/headdress mass framing the face"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "Both depict a human head with a bounded mass of hair or headgear framing the face, but A is a multi-figure narrative frieze of bearded men leading horned rams past a stylised tree above a rosette border, while B is a single frontal head in the round with no accompanying figures, animals or ornament. Beyond the generic 'human head', there is no shared motif, relationship or arrangement, and A's crisp linear low-relief conventions (patterned fleece, ordered curls) differ from B's blocky, sparsely detailed modelling.",
+ "a": "persepolis_0069",
+ "b": "anatolia_ppn_0222",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  285
+ ]
+}

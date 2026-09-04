@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "standing human figures in profile",
+  "low-relief figural scene organized in registers/bands",
+  "processional or presentation arrangement of figures facing one direction",
+  "figures with detailed patterned garments and headgear",
+  "carved surface combining figures with dense script/sign columns (A)",
+  "horizontal dividing bands separating rows"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both show low-relief human figures in strict profile, facing a common direction, laid out along horizontal registers with dividing bands, which is a generic processional convention. A, however, depicts a specific cult scene\u2014a rayed sun-disc whose hand-tipped rays reach a royal couple offering at a laden altar, framed by dense columns of pictorial signs\u2014while B shows only repeated files of similarly dressed figures with no disc, no offering table, and no script, so the distinctive iconography is not shared.",
+ "a": "egypt_0028",
+ "b": "persepolis_0015",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  334
+ ]
+}

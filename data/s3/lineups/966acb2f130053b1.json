@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  1,
+  10,
+  9,
+  7,
+  3,
+  4,
+  8,
+  2,
+  5
+ ],
+ "most_similar_reason": "Candidate 6 shows the same type of schematic anthropomorphic stone monument, with a stylized face/headdress at the top and abstract geometric body motifs below, closely echoing the target's composition and figure style.",
+ "least_similar_reason": "Candidate 5 depicts a fully naturalistic Egyptian offering scene with extensive hieroglyphic text and detailed human figures in profile, an entirely different iconographic system from the target's abstract, geometric anthropomorphic carving.",
+ "set": "p43_iso_among_monoliths",
+ "i": 10,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0097",
+  "egypt_0072",
+  "egypt_0074",
+  "egypt_0046",
+  "egypt_0076",
+  "maya_0056",
+  "maya_0146",
+  "egypt_0050",
+  "anatolia_ppn_p43iso",
+  "maya_0027"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "egypt",
+  "egypt",
+  "egypt"
+ ],
+ "model": "sonnet",
+ "planted_rank": 4
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  10,
+  4,
+  5,
+  3,
+  2,
+  8,
+  6,
+  1,
+  9
+ ],
+ "most_similar_reason": "Both contain forms arranged in somewhat distinct horizontal sections.",
+ "least_similar_reason": "It relies on geometric borders rather than naturalistic figures.",
+ "set": "moai_close_among_random",
+ "i": 38,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "rapa_nui_0004",
+  "tanum_0238",
+  "egypt_0033",
+  "assyria_0157",
+  "assyria_0125",
+  "tanum_0080",
+  "persepolis_0104",
+  "tanum_0351",
+  "maya_0024",
+  "egypt_0044"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "persepolis",
+  "tanum",
+  "tanum",
+  "egypt",
+  "assyria",
+  "tanum",
+  "assyria"
+ ],
+ "model": "gemini",
+ "planted_rank": 9
+}

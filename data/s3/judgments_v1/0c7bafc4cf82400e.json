@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "human figure or head in profile",
+  "repeated incised linear/geometric patterning",
+  "low-relief carving on a flat stone surface"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces include profile anthropomorphic imagery combined with repeated incised patterning in low relief. The biggest difference is compositional: A is a vertically stacked, multi-register field of small schematic signs and figures, while B is dominated by one large, comparatively naturalistic profile bust filling a single panel.",
+ "a": "anatolia_ppn_p43full",
+ "b": "assyria_0084",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1230,
+  622
+ ]
+}

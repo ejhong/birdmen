@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  3,
+  4,
+  5,
+  8,
+  9,
+  2,
+  1,
+  7,
+  6
+ ],
+ "most_similar_reason": "Candidate 10 shows the same thing as the target: a tall upright pillar face bearing a single low-relief quadruped in strict profile, rendered in the same flat, schematic outline style with plain uncarved ground around it, still standing amid rough stone walling.",
+ "least_similar_reason": "Candidate 6 is covered edge to edge with a regular grid of dense compound sign-blocks and no animal imagery, an arrangement and subject wholly unlike the target's single isolated profile beast on a bare pillar face.",
+ "set": "same_control_monoliths",
+ "i": 16,
+ "target": "anatolia_ppn_0199",
+ "planted": "anatolia_ppn_0207",
+ "cands": [
+  "maya_0136",
+  "egypt_0067",
+  "egypt_0061",
+  "gotland_0026",
+  "rapa_nui_0044",
+  "maya_0095",
+  "maya_0052",
+  "rapa_nui_0069",
+  "maya_0083",
+  "anatolia_ppn_0207"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "maya",
+  "egypt",
+  "maya",
+  "rapa_nui",
+  "maya",
+  "rapa_nui",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

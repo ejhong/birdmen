@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  6,
+  10,
+  7,
+  5,
+  3,
+  1,
+  9,
+  8,
+  4
+ ],
+ "most_similar_reason": "Candidate 2 shows the same kind of tall upright pillar covered in shallow, flat-relief animals \u2014 quadrupeds and serpentine/bird forms stacked in registers with schematic outlined bodies \u2014 matching the target's arrangement of profile creatures over the pillar face.",
+ "least_similar_reason": "Candidate 4 depicts an arched stele with a mounted rider and standing human figures in a narrative scene, an entirely different subject and composition from the target's registers of schematic animals and geometric bands.",
+ "set": "hard",
+ "i": 2,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0133",
+  "maya_0047",
+  "gotland_0125",
+  "gotland_0116",
+  "gotland_0123",
+  "tanum_0359",
+  "egypt_0012",
+  "gotland_0115",
+  "egypt_0027",
+  "rapa_nui_0113"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "gotland",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 3
+}

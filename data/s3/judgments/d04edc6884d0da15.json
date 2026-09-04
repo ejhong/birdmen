@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "profile animal or bird forms",
+  "human or human-like figures/body parts",
+  "rows or horizontal bands of repeated signs",
+  "linear carved/outlined symbols"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is that both surfaces combine profile figures with rows of small linear signs or symbols arranged in horizontal bands. The biggest difference is that A is dominated by animal-like motifs and abstract bands, while B shows a structured ritual scene with a standing figure facing a seated figure above rows of inscription-like signs.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0050",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  656
+ ]
+}

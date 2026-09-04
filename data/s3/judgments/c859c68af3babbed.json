@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "human figure in strict profile, striding",
+  "stone relief carving with low raised figures",
+  "bearded/headdressed male figures",
+  "hands holding objects in front of the body",
+  "figures facing to the left / processional orientation",
+  "rosette motifs (on bracelet in A; in border bands in B)",
+  "patterned rendering of hair and beard in regular rows",
+  "garment hem and legs with defined musculature"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces depict male figures in strict profile with stylised, regularly patterned hair and beards, striding legs with articulated calf muscles, and hands extended holding objects, and both use rosettes (as a bracelet ornament in A, as border bands in B) \u2014 a fairly specific shared convention. The biggest differences in content are that A shows a single monumental winged figure filling the whole field with a mace and bucket-like attribute, while B shows a multi-figure procession of small tribute-bearers leading a two-humped camel between framing rosette borders.",
+ "a": "assyria_0158",
+ "b": "persepolis_0010",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3124,
+  373
+ ]
+}

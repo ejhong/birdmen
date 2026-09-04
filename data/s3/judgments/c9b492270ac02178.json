@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief carving on a large upright stone slab/pillar",
+  "animal figures in profile with clear outline relief",
+  "quadruped/reptilian creature with elongated body and limbs shown in side view",
+  "curved band or arc motif along the upper part of the surface",
+  "registers or stacked arrangement of motifs down the surface"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces show low-relief, outlined animal figures in profile arranged in stacked zones on a large upright slab, with a curved arc/band motif near the top, and both use a flat, schematic silhouette convention with limbs splayed sideways; the reptilian quadruped with sprawled legs seen from the side in A finds a close counterpart among B's creatures. However, B is far richer and more explicitly composed, with a row of head-and-arm figures under an arcaded band, birds with distinct beaks and eyes, and a vertical stack of several distinct species, whereas A shows only one or two isolated schematic figures with no comparable multi-figure register scheme or bird imagery.",
+ "a": "rapa_nui_0021",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  396
+ ]
+}

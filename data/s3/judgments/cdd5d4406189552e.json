@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief carving on a rectangular monolithic pillar",
+  "animal figures in profile carved in relief on the pillar's broad face",
+  "quadruped/predator-like creature with head shown at upper area",
+  "raised framed panel or band within which figures sit",
+  "T-shaped pillar head above the decorated shaft"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both show a T-headed rectangular pillar whose broad face carries low-relief profile animals set within a raised rectangular framed panel, rendered in the same flat, schematic, outline-with-flat-infill convention with limbs and heads shown in strict profile. A is far richer, stacking multiple registers (row of arched motifs, band of zigzag/net pattern, a canid-like beast over a small figure, a plant-like frond and a large long-necked bird below), whereas B shows only a single sparse pair of small creatures in one panel, so the specific combinations and sequence of motifs do not match.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0179",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  365
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  9,
+  6,
+  4,
+  1,
+  8,
+  10,
+  2,
+  7,
+  5
+ ],
+ "most_similar_reason": "Candidate 3 is the only one that, like the target, shows a large bird-headed creature in bold low relief with a strongly patterned, schematically rendered wing and profile beaked head filling the field, matching the target's raptor/vulture-like birds carved in raised outline.",
+ "least_similar_reason": "Candidate 5 shows a bare rock-cut cliff face with architectural cuttings and essentially no figural or symbolic imagery, sharing none of the target's animals, snakes or banded registers.",
+ "set": "moai_among_random",
+ "i": 14,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "egypt_0047",
+  "assyria_0140",
+  "assyria_0119",
+  "egypt_0068",
+  "egypt_0051",
+  "egypt_0064",
+  "persepolis_0023",
+  "rapa_nui_0113",
+  "maya_0092",
+  "maya_0057"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "assyria",
+  "egypt",
+  "assyria",
+  "egypt",
+  "persepolis",
+  "egypt",
+  "maya",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 6
+}

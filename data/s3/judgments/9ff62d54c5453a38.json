@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figures shown in profile",
+  "low-relief carving of figures in a horizontal register",
+  "figures facing one another / interacting",
+  "figures holding or presenting objects",
+  "repeated figures aligned along a baseline"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces show rows of profile human figures carved in low relief along a common baseline, facing each other and handling objects, which is the main correspondence but a broadly generic one. They differ sharply in everything specific: A is a single large-scale frieze of robed, bearded, tall-hatted courtiers rendered with modelled drapery and hair, while B is a multi-register field of tiny schematic linear figures interspersed with dense rows of pictorial signs and crowned by a winged emblem, with no counterpart in A.",
+ "a": "persepolis_0047",
+ "b": "egypt_0045",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  865
+ ]
+}

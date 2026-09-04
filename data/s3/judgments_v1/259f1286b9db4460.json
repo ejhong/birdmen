@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "profile animal form",
+  "bird- or long-necked animal head in profile",
+  "horizontal band with repeated short vertical/linear marks",
+  "geometric linear patterning on stone"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of a long horizontal register filled with repeated short strokes, accompanied by simplified profile animal forms on a stone surface. The biggest difference is that A is a densely carved, vertically organized relief with multiple stacked motifs, while B is a sparse red-painted composition dominated by a single long boat-like form and scattered figures.",
+ "a": "anatolia_ppn_p43full",
+ "b": "tanum_0238",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  483
+ ]
+}

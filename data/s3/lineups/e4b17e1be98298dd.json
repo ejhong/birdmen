@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  10,
+  1,
+  5,
+  8,
+  4,
+  2,
+  7,
+  3,
+  9
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it likewise presents a schematic low-relief fragment with a large profile figure or creature, bent limb forms, internal linear divisions, and small repeated signs arranged along a register-like edge.",
+ "least_similar_reason": "Candidate 9 is least similar because it is dominated by abstract arched and circular geometric outlines with no comparable profile figures, zoomorphic forms, register of creatures, or hatched bodily infill.",
+ "set": "moai_iso_among_monoliths",
+ "i": 2,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0105",
+  "maya_0069",
+  "gotland_0111",
+  "maya_0094",
+  "rapa_nui_hoa_iso",
+  "maya_0097",
+  "maya_0052",
+  "maya_0101",
+  "gotland_0112",
+  "egypt_0074"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "gotland",
+  "maya",
+  "maya",
+  "maya",
+  "gotland",
+  "maya",
+  "maya",
+  "maya",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 4
+}

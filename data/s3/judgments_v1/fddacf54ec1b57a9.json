@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "circle or disc motif",
+  "curving incised/relief lines",
+  "animal-like figure in profile"
+ ],
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific visible overlap is the presence of carved circular motifs and some curving, animal-like outline forms on stone surfaces. The biggest difference is that A is a sparse, weathered set of pecked/incised marks scattered on an irregular outdoor rock face, while B is a dense, organized rectangular pillar with clear registers, relief figures, and patterned bands.",
+ "a": "rapa_nui_0108",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  649
+ ]
+}

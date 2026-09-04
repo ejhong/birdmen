@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "schematic animal figures in profile",
+  "quadruped-like animals",
+  "long-necked bird-like or animal figures",
+  "repeated short linear strokes or comb-like patterning",
+  "abstract curving and geometric signs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main commonality is that both surfaces mix schematic profile animals with repeated linear/geometric marks, including comb-like rows of short strokes. The biggest difference is that A is a loose field of red stick-like figures and abstract signs, including a prominent circle-with-line motif, while B is a more organized relief composition in stacked bands with larger outlined animals and no closely matching specific motif or scene.",
+ "a": "tanum_0347",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  668
+ ]
+}

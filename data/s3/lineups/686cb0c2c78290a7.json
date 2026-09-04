@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  6,
+  1,
+  7,
+  5,
+  8,
+  10,
+  3,
+  4,
+  2
+ ],
+ "most_similar_reason": "Candidate 9 shows the same kind of monument: a rounded boulder-like standing figure whose swollen head and simplified body are shaped in the round with only broad, schematic ridges for facial features and arms, matching the target's crude, massive anthropomorph.",
+ "least_similar_reason": "Candidate 2 is a flat slab covered almost entirely with rows of small repeated sign-blocks rather than a single massive three-dimensional human figure, so it shares neither the subject nor the sculptural, schematic style.",
+ "set": "same_control_monoliths",
+ "i": 32,
+ "target": "anatolia_ppn_0239",
+ "planted": "anatolia_ppn_0270",
+ "cands": [
+  "maya_0019",
+  "egypt_0040",
+  "egypt_0041",
+  "egypt_0066",
+  "maya_0052",
+  "anatolia_ppn_0270",
+  "maya_0106",
+  "maya_0088",
+  "rapa_nui_0034",
+  "maya_0137"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "rapa_nui",
+  "maya",
+  "maya",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

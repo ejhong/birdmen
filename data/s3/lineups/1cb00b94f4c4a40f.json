@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  2,
+  4,
+  6,
+  3,
+  10,
+  9,
+  1,
+  5,
+  8
+ ],
+ "most_similar_reason": "Candidate 7 is most similar because it shows a vertical surface filled with schematic low-relief animal and sign-like motifs arranged in stacked zones, matching the target\u2019s combination of stylized creatures, abstract symbols, and register-like organization.",
+ "least_similar_reason": "Candidate 8 is least similar because it lacks comparable figural or animal iconography and consists mainly of simple architectural or geometric surface features rather than the target\u2019s clustered symbolic animal scene.",
+ "set": "moai_iso_among_random",
+ "i": 21,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0033",
+  "rapa_nui_hoa_iso",
+  "persepolis_0027",
+  "egypt_0047",
+  "persepolis_0066",
+  "tanum_0074",
+  "maya_0092",
+  "catalhoyuk_0065",
+  "persepolis_0037",
+  "persepolis_0099"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "maya",
+  "catalhoyuk",
+  "persepolis",
+  "tanum",
+  "persepolis",
+  "egypt",
+  "persepolis",
+  "egypt",
+  "persepolis"
+ ],
+ "model": "gpt",
+ "planted_rank": 2
+}

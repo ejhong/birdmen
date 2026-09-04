@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "circle or disc motifs",
+  "incised geometric lines or bands",
+  "repeated simple geometric patterning"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific shared content is the use of schematic incised geometric decoration including circular/disc-like motifs and simple repeated linear patterns. The biggest difference is that A is dominated by a single frontal anthropomorphic figure with face and torso features, while B is a horizontal register-like frieze of abstract/sign-like and possible animal or emblematic motifs with no comparable central human figure or body scheme.",
+ "a": "rapa_nui_0113",
+ "b": "gotland_0128",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  663
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  1,
+  7,
+  5,
+  10,
+  3,
+  2,
+  4,
+  9,
+  6
+ ],
+ "most_similar_reason": "Candidate 8 is an upright standing slab/stele bearing schematic low-relief creatures (a bird-like/animal figure with legs and other beings) stacked on the block's face in the same reductive, outline-and-flat-plane carving idiom as the target pillar's bird, snake and quadruped.",
+ "least_similar_reason": "Candidate 6 shows a densely narrative scene of human figures worshipping a rayed disc amid columns of writing and architectural offering tables, with no animals, no schematic relief creatures and none of the target's isolated, blank-field arrangement of beasts and abstract boxes.",
+ "set": "moai_among_random",
+ "i": 6,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "rapa_nui_0113",
+  "assyria_0039",
+  "assyria_0160",
+  "persepolis_0043",
+  "tanum_0076",
+  "egypt_0028",
+  "maya_0076",
+  "maya_0083",
+  "persepolis_0017",
+  "tanum_0341"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "tanum",
+  "maya",
+  "assyria",
+  "persepolis",
+  "maya",
+  "egypt",
+  "tanum",
+  "assyria",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

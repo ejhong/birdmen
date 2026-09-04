@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief carving in stone",
+  "horizontal registers/bands stacked one above another",
+  "row of repeated arch-like or loop-shaped motifs along the top",
+  "band of repeated angular zigzag/chevron or hatched elements",
+  "row of repeated pendant/vertical tapering motifs",
+  "circle or disc form",
+  "hand/limb rendered in relief"
+ ],
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "The most specific correspondence is the shared vertical sequence of registers: an upper row of repeated arch/loop shapes, beneath it a band of repeated pendant or hatched vertical strokes, and then a zigzag/chevron band, all cut in flat, shallow relief on pale stone. The biggest differences are format and content \u2014 A is a horizontal panel framed by an interlace border and dominated by purely geometric repetition, while B is a vertical free-standing pillar whose lower two-thirds carries naturalistic animals (quadrupeds, a long-necked bird) and a plant-like motif that have no counterpart in A.",
+ "a": "gotland_0128",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2058,
+  825
+ ]
+}

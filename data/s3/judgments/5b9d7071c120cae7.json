@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "animals in profile",
+  "horizontal band of repeated pattern",
+  "wavy or serpentine linear motif",
+  "geometric border/framing lines"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific commonality is the use of schematic profile animals together with horizontal bands of repeated linear/geometric ornament, including wavy serpentine motifs. The major difference is that B is organized around a large central spiral/rosette disc with small animals placed around it inside a framed panel, while A is a crowded stack of disparate animal and sign-like figures with no comparable central medallion or flanking scheme.",
+ "a": "anatolia_ppn_p43full",
+ "b": "gotland_0113",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1883,
+  611
+ ]
+}

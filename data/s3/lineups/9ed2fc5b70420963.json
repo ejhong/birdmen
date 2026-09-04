@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  1,
+  5,
+  7,
+  3,
+  10,
+  4,
+  9,
+  8,
+  6
+ ],
+ "most_similar_reason": "Candidate 2, like the target, is a shallowly incised slab covered with loosely arranged registers of profile creatures and small figures interspersed with sign-like elements, filling the field in the same crowded, schematic outline style.",
+ "least_similar_reason": "Candidate 6 shows only abstract interlace and geometric panels on a shaped anthropomorphic slab, with none of the target's profile birds, animals or banded registers of creatures.",
+ "set": "moai_iso_among_monoliths",
+ "i": 29,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "gotland_0113",
+  "maya_0047",
+  "maya_0085",
+  "maya_0027",
+  "maya_0110",
+  "gotland_0007",
+  "egypt_0066",
+  "gotland_0131",
+  "rapa_nui_hoa_iso",
+  "maya_0056"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "gotland",
+  "gotland",
+  "maya",
+  "maya",
+  "maya",
+  "gotland",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 8
+}

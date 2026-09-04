@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  1,
+  9,
+  6,
+  2,
+  3,
+  8,
+  7,
+  4,
+  10
+ ],
+ "most_similar_reason": "Candidate 5 depicts the same thing as the target: a monolithic anthropomorphic figure with a blocky head atop a pillar-like body, arms carved in shallow relief converging on the front, a belt-like band across the waist and small emblematic motifs on the torso, in the same schematic low-relief idiom.",
+ "least_similar_reason": "Candidate 10 shows nothing but a vertical column of repeated written signs, with no human figure, limbs, belt or animal imagery of the kind that defines the target.",
+ "set": "same_control_monoliths",
+ "i": 14,
+ "target": "rapa_nui_0039",
+ "planted": "rapa_nui_0022",
+ "cands": [
+  "anatolia_ppn_0240",
+  "anatolia_ppn_0207",
+  "maya_0081",
+  "egypt_0042",
+  "rapa_nui_0022",
+  "anatolia_ppn_0078",
+  "egypt_0044",
+  "gotland_0116",
+  "anatolia_ppn_0212",
+  "maya_0077"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "maya",
+  "maya",
+  "anatolia_ppn",
+  "egypt",
+  "gotland",
+  "egypt",
+  "anatolia_ppn"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

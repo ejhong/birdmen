@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  2,
+  5,
+  7,
+  1,
+  10,
+  3,
+  4,
+  6,
+  9
+ ],
+ "most_similar_reason": "Candidate 8 shares the specific motif of a formal procession of human figures depicted in profile.",
+ "least_similar_reason": "Candidate 9 consists only of inscribed text with no figurative elements.",
+ "set": "same_control",
+ "i": 33,
+ "target": "persepolis_0061",
+ "planted": "persepolis_0026",
+ "cands": [
+  "anatolia_ppn_0027",
+  "assyria_0096",
+  "anatolia_ppn_0121",
+  "maya_0066",
+  "assyria_0151",
+  "egypt_0002",
+  "assyria_0079",
+  "persepolis_0026",
+  "egypt_0049",
+  "rapa_nui_0049"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "egypt",
+  "assyria",
+  "anatolia_ppn",
+  "assyria",
+  "rapa_nui",
+  "assyria",
+  "egypt",
+  "anatolia_ppn",
+  "maya"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

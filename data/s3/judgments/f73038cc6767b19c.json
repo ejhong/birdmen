@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic frontal anthropomorphic or mask-like figure",
+  "circular or oval internal features",
+  "linear body/limb markings"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both appear to include a highly schematic frontal human- or mask-like figure with circular/oval features set within or on the body. The biggest difference is that B has a clear, bilaterally organized monumental body with head, paired circular chest features, central circle, and curved abdominal bands, while A is much less legible and does not clearly preserve the same specific set or ordering of motifs.",
+ "a": "tanum_0069",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  674
+ ]
+}

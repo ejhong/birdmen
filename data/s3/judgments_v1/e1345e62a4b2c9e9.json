@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "standing human or anthropomorphic figure",
+  "circle or disc",
+  "long horizontal line or band"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces include small anthropomorphic figures near circular marks and some long horizontal linear element. The biggest difference is compositional: A is a vertically organized carved slab with framed/register-like zones, patterned bands, and profile animal forms, while B is a looser horizontal field of rough linear figures arranged around a long line.",
+ "a": "anatolia_ppn_p43full",
+ "b": "tanum_0005",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  642
+ ]
+}

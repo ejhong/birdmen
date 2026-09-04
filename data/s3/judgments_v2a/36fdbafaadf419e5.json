@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "predatory quadruped/animal head with prominent eyes and muzzle",
+  "human-like figure with arms bent and hands shown",
+  "grid, net or zigzag patterned band",
+  "stacked/registered composition of figures one above another",
+  "animal placed above a human figure",
+  "small subsidiary figures beside a larger one"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both surfaces stack a large-headed predatory animal directly above an anthropomorphic figure whose arms and hands are shown pressed against the body, and both include a distinctive net/grid patterned band as a divider or infill, which is an unusually specific shared scheme. The biggest difference in content is that A adds a whole further repertoire (birds in profile, snake- or plant-like sinuous motifs, a row of repeated animal heads across the top) laid out in flat registers, whereas B shows only the animal-over-human pair worked as a frontal, in-the-round column with no accompanying creatures.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0259",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2848,
+  827
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "a horizontal row of repeated small vertical strokes/signs",
+  "schematic linear outline drawing without infill",
+  "highly reduced human presence (standing/adoring figures vs. crew strokes)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "The only correspondence worth naming is that both surfaces contain a horizontal row of repeated small vertical marks (hieroglyphic signs in one, crew strokes above a hull in the other) and both use pure outline, uninfilled linear forms. Otherwise the depicted content is entirely different: A shows a framed scene of two facing human figures with an offering stand and registers of writing, while B shows two isolated schematic boats with upturned prows and scattered dots and no figures, framing or text.",
+ "a": "egypt_0076",
+ "b": "tanum_0324",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3124,
+  567
+ ]
+}

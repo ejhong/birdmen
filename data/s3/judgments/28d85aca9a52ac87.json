@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "anthropomorphic figure",
+  "face/eye features",
+  "circular or disc motifs",
+  "linear surface markings or patterns"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The main shared content is only generic: both include an anthropomorphic figure with facial/eye-like details and some circular or linear markings. The biggest difference is that A shows a detailed profile winged figure interacting with objects beside a highly organized stylized plant/tree and inscription band, while B shows a single frontal schematic body with isolated circular body/face motifs and no comparable plant, wing, held objects, or scene structure.",
+ "a": "assyria_0090",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1909,
+  592
+ ]
+}

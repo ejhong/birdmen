@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  6,
+  5,
+  1,
+  9,
+  3,
+  8,
+  10,
+  2,
+  7
+ ],
+ "most_similar_reason": "Candidate 4, like the target, is a tall free-standing monolithic shaft whose whole face is covered with shallow low-relief imagery arranged in stacked zones, combining a schematic creature/figure with smaller abstract carved elements around it.",
+ "least_similar_reason": "Candidate 7 shows only a plain wall surface with faint incidental marks and no identifiable creatures, figures or organized motifs, so it shares none of the target's animal-in-profile relief iconography or registered arrangement.",
+ "set": "moai_close_among_random",
+ "i": 19,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "egypt_0027",
+  "tanum_0054",
+  "mississippian_0075",
+  "maya_0027",
+  "maya_0105",
+  "assyria_0119",
+  "egypt_0020",
+  "rapa_nui_0004",
+  "gotland_0004",
+  "tanum_0067"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "tanum",
+  "assyria",
+  "egypt",
+  "egypt",
+  "mississippian",
+  "maya",
+  "gotland",
+  "maya",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 7
+}

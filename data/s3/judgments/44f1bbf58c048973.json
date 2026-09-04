@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figures in strict profile with elaborate coiffure/headdress and beard",
+  "hoofed animal shown in profile moving left-to-right or right-to-left",
+  "procession of figures accompanying animals",
+  "low-relief carving with figures aligned along a ground line",
+  "overlapping paired animals/figures to suggest depth",
+  "patterned rendering of hair/beard and animal coat"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show a shallow relief frieze of bearded, profile human figures with curled patterned hair moving in procession alongside profile hoofed animals along a common ground line, with overlapping pairs of animals and the same conventions for texturing hair and animal coats \u2014 a fairly specific shared repertoire. The subject matter differs, however: A is a chariot/hunt or battle scene with a horse in harness, a spoked wheel and a fallen body beneath, while B is a peaceful tribute-style procession of men leading horned rams with a hand resting on an animal's back.",
+ "a": "assyria_0109",
+ "b": "persepolis_0064",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  375
+ ]
+}

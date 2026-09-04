@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figure in profile, standing",
+  "low-relief carving with figures on a plain ground",
+  "patterned/textured surface detail (scales, garment folds, fringes)",
+  "figure holding a handled object",
+  "bearded male head in profile",
+  "procession-like alignment of figures on a groundline"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both show low-relief profile human figures on a plain ground with careful patterned detailing of hair/beard and garments, and in each case a figure carries a small handled object, which is a moderately specific correspondence. However, A is a single frontal-bodied hybrid figure (fish-cloak/scaled being) with raised arm filling a tall vertical panel, while B is a horizontal processional frieze of camels led by attendants, framed above and below by bands of rosettes \u2014 a motif and compositional scheme entirely absent from A.",
+ "a": "assyria_0118",
+ "b": "persepolis_0079",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3049,
+  329
+ ]
+}

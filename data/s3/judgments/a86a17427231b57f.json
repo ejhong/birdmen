@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "frontal standing anthropomorphic figure carved in low relief",
+  "broad elaborate headdress/head-band occupying the top register",
+  "horizontal dividing band separating upper and lower zones",
+  "arms bent and held symmetrically against the torso",
+  "chest/pectoral ornament (disc or pendant motif)",
+  "paired eye/face-like motifs within the headdress zone",
+  "lower garment or skirt covered in incised linear/hatched patterning",
+  "bilateral symmetry about a vertical axis"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "3",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both depict a frontal, bilaterally symmetric anthropomorphic figure organised into the same stacked zones: an oversized ornamented headdress on top, a horizontal dividing band, a torso with a central pectoral ornament and symmetrically bent arms, and a lower skirt/apron filled with incised linear motifs, all in flat schematic low relief. The most specific difference is that B's headdress contains distinct paired face/eye masks and its lower zone has dense angular hatched panels, whereas A's chest is dominated by a plain concentric disc and its lower zone by broad curved bands, so the individual motifs differ even though the compositional scheme matches closely.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_0004",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2974,
+  818
+ ]
+}

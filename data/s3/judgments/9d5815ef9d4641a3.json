@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "large feathered bird or raptor-like figure",
+  "prominent wings with parallel feather divisions",
+  "incised/linear geometric patterning"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is the presence of a large stylized bird/raptor motif with wings rendered by repeated parallel feather lines. The biggest difference is that A is dominated by a single spread-winged bird-like figure, while B is a register-like composition with multiple separate signs and animals, including quadrupeds or reptiles/scorpion-like figures and repeated top motifs.",
+ "a": "assyria_0032",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1936,
+  2045
+ ]
+}

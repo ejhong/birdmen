@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "anthropomorphic or supernatural figure",
+  "head/face with prominent eye",
+  "circular discs or roundels on the body",
+  "linear geometric body decoration",
+  "possible headdress or head appendage"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both surfaces show a schematic anthropomorphic/supernatural figure with facial features and circular roundels integrated into the body decoration, which is the most specific shared content. The major difference is that A presents a largely frontal, block-like standing figure with centralized body motifs, while B shows a profile, winged figure with a headdress and spotted wing/body elements, so the iconographic scheme is not closely matched.",
+ "a": "rapa_nui_0113",
+ "b": "mississippian_0009",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1962,
+  684
+ ]
+}

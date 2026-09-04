@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  8,
+  1,
+  4,
+  2,
+  3,
+  9,
+  5,
+  6,
+  10
+ ],
+ "most_similar_reason": "Both show stylized animal reliefs on a large pillar.",
+ "least_similar_reason": "It only contains text, lacking any figurative elements.",
+ "set": "same_control",
+ "i": 36,
+ "target": "anatolia_ppn_0103",
+ "planted": "anatolia_ppn_0105",
+ "cands": [
+  "assyria_0131",
+  "catalhoyuk_0110",
+  "tanum_0052",
+  "assyria_0040",
+  "tanum_0106",
+  "egypt_0016",
+  "anatolia_ppn_0105",
+  "maya_0066",
+  "egypt_0047",
+  "egypt_0075"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "tanum",
+  "assyria",
+  "maya",
+  "egypt",
+  "egypt",
+  "tanum",
+  "catalhoyuk",
+  "assyria",
+  "egypt"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  6,
+  1,
+  9,
+  8,
+  7,
+  3,
+  5,
+  2,
+  10
+ ],
+ "most_similar_reason": "Candidate 4, like the target, is a free-standing monolithic block treated as a body, with a schematic arm/hand and a belt-like band carved in low relief around its shaft, matching the target pillar's anthropomorphic arm-and-belt convention combined with sparse relief motifs.",
+ "least_similar_reason": "Candidate 10 is dominated by dense rows of inscribed script beneath a small conventional scene of figures before a symbol, sharing none of the target's stacked profile animals, arms/hands or abstract geometric bands.",
+ "set": "moai_close_among_random",
+ "i": 28,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "persepolis_0085",
+  "egypt_0077",
+  "egypt_0037",
+  "rapa_nui_0004",
+  "egypt_0060",
+  "maya_0106",
+  "assyria_0047",
+  "assyria_0112",
+  "assyria_0039",
+  "egypt_0015"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "persepolis",
+  "egypt",
+  "assyria",
+  "assyria",
+  "assyria",
+  "egypt",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

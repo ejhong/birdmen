@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  6,
+  5,
+  3,
+  8,
+  9,
+  4,
+  1,
+  10,
+  2
+ ],
+ "most_similar_reason": "Candidate 7 shows the same kind of sparse, schematic incised linework cut directly into a natural rock face, with simple curved outlines rather than modelled figures, matching the target's reductive line-drawing idiom of hulls and strokes.",
+ "least_similar_reason": "Candidate 2 depicts an elaborate, densely layered anthropomorphic figure built up from overlapping feathered/plumed costume elements, an entirely different kind of subject rendered with rich internal detail rather than the target's bare outline boats with rows of crew strokes.",
+ "set": "same_control",
+ "i": 30,
+ "target": "tanum_0324",
+ "planted": "tanum_0026",
+ "cands": [
+  "assyria_0099",
+  "mississippian_0045",
+  "maya_0113",
+  "persepolis_0024",
+  "anatolia_ppn_0093",
+  "anatolia_ppn_0072",
+  "tanum_0026",
+  "persepolis_0100",
+  "persepolis_0007",
+  "assyria_0119"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "persepolis",
+  "anatolia_ppn",
+  "persepolis",
+  "anatolia_ppn",
+  "assyria",
+  "assyria",
+  "maya",
+  "mississippian",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

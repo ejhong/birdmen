@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "monolithic upright pillar bearing carved relief decoration",
+  "animal figure in relief on the pillar shaft",
+  "band of parallel incised lines across the shaft (hand/fingers or hatched band)",
+  "animal head shown in profile with rounded muzzle",
+  "elements arranged in stacked horizontal zones down the shaft"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces are upright shafts carved with animal figures and a band of parallel incised strokes running across the shaft (in A a hatched band above the animal register, in B the fingers of a relief arm/hand), and both stack their motifs in horizontal zones down the face, which is a moderately specific shared scheme for decorating a standing pillar. The biggest difference is that A packs multiple registers of varied profile creatures \\u2014 quadrupeds, canid, snake, birds \\u2014 into flat low relief, whereas B shows a single high-relief animal head projecting from the surface beside a plain limb-like element, with no register of assorted animals.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0122",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  985
+ ]
+}

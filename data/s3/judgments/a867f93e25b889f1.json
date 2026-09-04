@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figure in the round",
+  "head with headgear/hair element above the face",
+  "arms and hands articulated against the body",
+  "fine incised/linear surface patterning on skin or garment",
+  "band-like ornaments around limbs (bracelet/armband-like features)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict a three-dimensional human figure with a covered/adorned head, defined arms and hands, and dense fine linear patterning over the body surface, which is the most specific correspondence. But A is a blocky, schematic, compressed figure with a mask-like hatched face and folded limbs, while B is a naturalistically proportioned standing man with one arm raised holding an object, a sash and distinct headdress plume, so the poses, attributes and rendering conventions differ almost entirely.",
+ "a": "anatolia_ppn_0259",
+ "b": "mississippian_0015",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  724
+ ]
+}

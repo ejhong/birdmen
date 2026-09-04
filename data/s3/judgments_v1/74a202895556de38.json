@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "profile animal figures",
+  "bird-like long-necked figure in profile",
+  "branching or plant-like motif",
+  "linear carved decoration on stone"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The strongest correspondence is the presence of schematic profile animals, including long-necked bird-like forms, alongside branching plant-like motifs carved into stone. The biggest difference is compositional: B is organized in clear horizontal registers on a narrow upright surface, while A appears as a broader, faint, more diffuse field of incised motifs without the same ordered banding.",
+ "a": "maya_0162",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  653
+ ]
+}

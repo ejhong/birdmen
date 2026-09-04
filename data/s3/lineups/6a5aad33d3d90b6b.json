@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  3,
+  9,
+  4,
+  1,
+  5,
+  7,
+  2,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 6 shares the target's use of low-relief carved figures arranged in a horizontal register with schematic animal and human forms highlighted by red pigment, closely echoing the composition and stylistic treatment of the target's rows of bird-headed figures.",
+ "least_similar_reason": "Candidate 10 is a grid of small pictographic glyphs in a manuscript-like layout, sharing no compositional, figural, or stylistic correspondence with the target's carved relief registers of birds and geometric bands.",
+ "set": "moai_iso_among_random",
+ "i": 1,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "tanum_0237",
+  "mississippian_0007",
+  "assyria_0109",
+  "rapa_nui_hoa_iso",
+  "tanum_0334",
+  "persepolis_0062",
+  "tanum_0327",
+  "gotland_0005",
+  "maya_0066",
+  "maya_0009"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "tanum",
+  "tanum",
+  "maya",
+  "maya",
+  "assyria",
+  "gotland",
+  "tanum",
+  "mississippian",
+  "persepolis"
+ ],
+ "model": "sonnet",
+ "planted_rank": 4
+}

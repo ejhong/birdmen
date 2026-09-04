@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  10,
+  2,
+  6,
+  4,
+  1,
+  5,
+  7,
+  8,
+  3
+ ],
+ "most_similar_reason": "Candidate 9 is closest because it combines large schematic profile bird/animal-like figures with horizontal divider bands and rows of small pictographic signs, matching the target\u2019s register-like layout and carved outline style.",
+ "least_similar_reason": "Candidate 3 is least similar because it is dominated by symmetrical curving scroll and knot motifs with no comparable profile animals, pictographic signs, or banded figural arrangement.",
+ "set": "moai_iso_among_monoliths",
+ "i": 26,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "gotland_0004",
+  "egypt_0073",
+  "gotland_0117",
+  "egypt_0039",
+  "egypt_0061",
+  "egypt_0074",
+  "rapa_nui_hoa_iso",
+  "maya_0052",
+  "egypt_0066",
+  "maya_0088"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "gotland",
+  "gotland"
+ ],
+ "model": "gpt",
+ "planted_rank": 8
+}

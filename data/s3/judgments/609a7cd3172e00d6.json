@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figures in profile",
+  "seated figure",
+  "offering/objects arranged before figures",
+  "band(s) of script-like signs",
+  "figural scene above, inscription below",
+  "carved upright slab format with a single framed scene"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both show an upright commemorative slab with human figures in profile, one apparently seated with objects/offerings placed in front, and rows of dense script-like signs occupying registers (columns beside the figures in A, horizontal bands below in B). The conventions of depiction differ sharply, however: A's figure is elaborately ornamented with dense, deeply carved regalia and glyph blocks filling every space, while B uses spare, thin outline drawing of slender figures with a curved-top field and clean, empty ground.",
+ "a": "maya_0125",
+ "b": "egypt_0066",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2974,
+  301
+ ]
+}

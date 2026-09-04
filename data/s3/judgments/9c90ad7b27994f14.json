@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic human-like figure",
+  "circle or concentric disc motif",
+  "linear bands or repeated line marks"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific shared content is the use of schematic human/anthropomorphic forms combined with circular or concentric disc-like motifs and simple incised/drawn linear marks. The biggest difference is that A presents a single frontal, solid-bodied figure with torso decoration, while B is a dispersed scene of stick figures, animals, boats, dotted lines, and spiral signs with no comparable central body arrangement.",
+ "a": "rapa_nui_0113",
+ "b": "tanum_0063",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  645
+ ]
+}

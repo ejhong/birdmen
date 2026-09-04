@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  8,
+  6,
+  1,
+  7,
+  2,
+  4,
+  5,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 3 shows a rectangular slab densely filled with low-relief carvings of a standing figure plus surrounding animal and symbolic motifs in a comparable crowded, schematic arrangement.",
+ "least_similar_reason": "Candidate 10 depicts only a schematic incised vessel inside a geometric arched frame and shares none of the target's figures, creatures, or compositional relationships.",
+ "set": "same_control_monoliths",
+ "i": 10,
+ "target": "gotland_0133",
+ "planted": "gotland_0112",
+ "cands": [
+  "egypt_0061",
+  "anatolia_ppn_0205",
+  "maya_0091",
+  "anatolia_ppn_0121",
+  "anatolia_ppn_0037",
+  "maya_0113",
+  "anatolia_ppn_0186",
+  "egypt_0047",
+  "anatolia_ppn_0261",
+  "gotland_0112"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "egypt",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "egypt",
+  "maya",
+  "maya",
+  "anatolia_ppn"
+ ],
+ "model": "grok",
+ "planted_rank": 10
+}

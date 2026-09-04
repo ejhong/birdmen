@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  1,
+  7,
+  2,
+  9,
+  4,
+  3,
+  6,
+  5,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 is closest because it likewise presents a schematic relief scene on a vertical slab dominated by standing human figures in profile, including a prominent staff- or weapon-bearing figure with adjacent smaller figure/sign elements arranged in registers.",
+ "least_similar_reason": "Candidate 10 is least similar because it shows only simple geometric incised lines on a block, with no comparable anthropomorphic figure, staff, headdress, or figural scene.",
+ "set": "same_control_monoliths",
+ "i": 4,
+ "target": "maya_0105",
+ "planted": "maya_0113",
+ "cands": [
+  "maya_0113",
+  "egypt_0065",
+  "anatolia_ppn_0263",
+  "anatolia_ppn_0175",
+  "gotland_0131",
+  "rapa_nui_0006",
+  "egypt_0014",
+  "egypt_0050",
+  "mississippian_0015",
+  "anatolia_ppn_0095"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "egypt",
+  "anatolia_ppn",
+  "gotland",
+  "mississippian",
+  "egypt",
+  "anatolia_ppn",
+  "rapa_nui",
+  "egypt",
+  "anatolia_ppn"
+ ],
+ "model": "gpt",
+ "planted_rank": 2
+}

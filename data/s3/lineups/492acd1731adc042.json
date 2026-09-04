@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  1,
+  7,
+  10,
+  5,
+  3,
+  2,
+  4,
+  9,
+  6
+ ],
+ "most_similar_reason": "Candidate 8 is, like the target, an upright block/stele whose face is covered with shallow low-relief creatures and abstract elements stacked one above another rather than a narrative scene, giving the same convention of animals-as-emblems arranged on a standing monolith.",
+ "least_similar_reason": "Candidate 6 shows a rayed disc extending hands over worshipping human figures amid dense columns of script, a fully anthropocentric ritual scene with no animals or stacked emblem-registers, sharing nothing specific with the target's schematic animal and sign repertoire.",
+ "set": "moai_among_random",
+ "i": 6,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "rapa_nui_0113",
+  "assyria_0039",
+  "assyria_0160",
+  "persepolis_0043",
+  "tanum_0076",
+  "egypt_0028",
+  "maya_0076",
+  "maya_0083",
+  "persepolis_0017",
+  "tanum_0341"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "tanum",
+  "maya",
+  "assyria",
+  "persepolis",
+  "maya",
+  "egypt",
+  "tanum",
+  "assyria",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

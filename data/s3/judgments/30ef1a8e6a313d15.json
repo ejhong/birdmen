@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "animals shown in profile",
+  "repeated animals arranged side by side in a row",
+  "quadruped with head turned in profile",
+  "horizontal register/band dividing the surface",
+  "low-relief figures carved against a plain ground"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces show animals in profile set out in horizontal rows within a relief field, which is about as generic a correspondence as animal art offers; A's creatures are flat, schematic silhouettes (bird-like heads, splayed quadrupeds, a stacked band of small beasts) with no clear human presence, while B shows a bearded human bust above two naturalistically modelled rams' heads with spiralling horns and finely combed fleece. The rendering conventions \u2014 abstract outline forms versus modelled anatomy with dense engraved detail \u2014 are wholly different, as are the specific subjects.",
+ "a": "anatolia_ppn_p43full",
+ "b": "persepolis_0011",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3074,
+  636
+ ]
+}

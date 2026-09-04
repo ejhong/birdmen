@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "incised script-like signs",
+  "registers/rows of small symbols",
+  "carved relief on stone surface"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces carry incised sign-like glyphs of comparable schematic type, including a squarish enclosed sign with an internal circle on B that resembles some of A's signs, suggesting a shared repertoire of script-like symbols. However, A is a densely organised composition of ruled registers with multiple seated and standing human figures facing offering tables alongside long columns of text, while B shows only a few scattered signs and no figures, relationships or register structure.",
+ "a": "egypt_0064",
+ "b": "egypt_0012",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  2974,
+  251
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low-relief human figures in strict profile",
+  "bearded men with elaborately curled/patterned hair and beards",
+  "headgear/caps on figures",
+  "overlapping figures rendered in file",
+  "long garments with incised drapery lines",
+  "carried objects (weapons/staffs/reins) held in hands"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both are shallow relief panels of bearded men shown in strict profile with stylised curled hair/beards, overlapping in ranks and holding objects in outstretched hands, which is a fairly specific shared convention of figure rendering. But the subjects differ substantially: A is a static procession of standing robed figures in a repeating frieze, while B is a dynamic chariot scene with horses, a wheeled vehicle, and a landscape ground of hills and water, with no processional register in A's sense.",
+ "a": "persepolis_0025",
+ "b": "assyria_0131",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  325
+ ]
+}

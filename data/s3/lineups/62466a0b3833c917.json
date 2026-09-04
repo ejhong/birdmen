@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  9,
+  1,
+  5,
+  7,
+  8,
+  3,
+  4,
+  2,
+  10
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it likewise presents a single, highly schematic front-facing anthropomorphic figure dominated by a large mask-like head/face on an elongated pillar-like body, with minimal subsidiary imagery.",
+ "least_similar_reason": "Candidate 10 is least similar because it is organized as a rectangular inscription-like panel of small signs and figures rather than a single crude frontal human or head-and-body figure.",
+ "set": "same_control_monoliths",
+ "i": 32,
+ "target": "anatolia_ppn_0239",
+ "planted": "anatolia_ppn_0270",
+ "cands": [
+  "maya_0019",
+  "egypt_0040",
+  "egypt_0041",
+  "egypt_0066",
+  "maya_0052",
+  "anatolia_ppn_0270",
+  "maya_0106",
+  "maya_0088",
+  "rapa_nui_0034",
+  "maya_0137"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "rapa_nui",
+  "maya",
+  "maya",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  3,
+  1,
+  2,
+  10,
+  9,
+  8,
+  5,
+  4,
+  6
+ ],
+ "most_similar_reason": "Candidate 7 is, like the target, a tall freestanding stone monolith standing in situ whose flat faces are covered with shallow carved relief motifs arranged in stacked registers.",
+ "least_similar_reason": "Candidate 6 is not carved at all but painted in red pigment on a rough rock face, with sketchy linear figures rather than the target's crisp low-relief animals on a dressed stone pillar.",
+ "set": "moai_among_random",
+ "i": 28,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "maya_0023",
+  "maya_0069",
+  "rapa_nui_0113",
+  "egypt_0069",
+  "egypt_0006",
+  "tanum_0129",
+  "maya_0147",
+  "egypt_0062",
+  "persepolis_0062",
+  "egypt_0048"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "persepolis",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "tanum",
+  "egypt",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

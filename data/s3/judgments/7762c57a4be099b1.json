@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "hieroglyph-like sign systems / inscribed script",
+  "human figure (drawn full-length in A; sculpted bust in B)",
+  "disc motif (sun disc in A; circular disc/pendant on chest in B)",
+  "incised linear surface decoration"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces carry dense script-like signs and both include a disc motif and human figure imagery, which is a moderately specific correspondence, and B's incised chest ornament with a central round disc echoes the rayed disc in A's lunette. But A is a flat, register-ordered scene of standing figures adoring a rayed disc above many ruled lines of text, whereas B is a three-dimensional human figure whose body itself carries scattered relief signs and a necklace/garment scheme with no narrative scene or ruled text registers.",
+ "a": "egypt_0015",
+ "b": "rapa_nui_0062",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3049,
+  325
+ ]
+}

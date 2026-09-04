@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  6,
+  7,
+  1,
+  5,
+  4,
+  9,
+  3,
+  2,
+  10
+ ],
+ "most_similar_reason": "Both show multi-element narrative compositions that combine human figures with large animals in profile plus constructed objects, arranged as a coherent activity across the surface.",
+ "least_similar_reason": "The frontal geometric thunderbird with human facial features and spread-wing pose shares neither the profile waterfowl, the linear patterned bands, nor the relationships among elements seen on the target.",
+ "set": "moai_iso_among_random",
+ "i": 3,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "assyria_0112",
+  "rapa_nui_hoa_iso",
+  "tanum_0078",
+  "persepolis_0110",
+  "assyria_0118",
+  "persepolis_0058",
+  "tanum_0054",
+  "assyria_0109",
+  "tanum_0321",
+  "mississippian_0002"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "tanum",
+  "assyria",
+  "assyria",
+  "tanum",
+  "tanum",
+  "persepolis",
+  "persepolis",
+  "mississippian",
+  "assyria"
+ ],
+ "model": "grok",
+ "planted_rank": 9
+}

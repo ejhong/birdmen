@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "bearded male figure shown in profile",
+  "elaborately rendered hair and beard in stacked rows of curls",
+  "headband/cap on the head",
+  "muscular bare forearm extended forward",
+  "arm holding/grasping an object",
+  "long garment with patterned and fringed edging",
+  "low-relief figural scene with a horizontal dividing band across the surface"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both depict a large bearded male in strict profile with the same highly conventional rendering of hair and beard as tiered rows of tight curls, a fillet or cap, a bared muscular forearm reaching forward to grasp, and a fringed patterned robe, which is a distinctive shared figural convention rather than a generic 'standing man'. They differ in scene content and layout: A is a horizontal action frieze pairing the figure with a bridled horse's head and a lower register of legs, while B is a single framed vertical panel of a winged figure raising an object, flanked by columns of floral/rosette ornament and crossed by an inscribed band.",
+ "a": "persepolis_0089",
+ "b": "assyria_0157",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3224,
+  900
+ ]
+}

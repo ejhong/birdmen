@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "standing human figure in profile"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "Panel A shows a chariot hunting scene with a horse, hunter with bow, and a dying lion, while panel B shows two standing human figures facing each other with hieroglyphic-style inscriptions and a small stand or altar between them. The only broad commonality is the presence of a human figure in profile; the subject matter, relationships (hunting/violence vs. presentation/offering), and arrangement (dynamic action scene vs. static formal composition with text bands) are entirely different.",
+ "a": "assyria_0088",
+ "b": "egypt_0076",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  3124,
+  247
+ ]
+}

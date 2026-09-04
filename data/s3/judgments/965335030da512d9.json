@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figures shown in profile",
+  "low relief carving with figures on a plain ground",
+  "register or band organization with a horizontal dividing line",
+  "frieze/border of repeated small motifs (rosettes in A, hieroglyph-like signs in B)",
+  "figures facing one another / interacting across the scene"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both are low reliefs with profile human figures arranged along a horizontal register bounded by bands of repeated small motifs, which is a generic convention rather than a distinctive shared scheme. A shows a large standing camel led by a walking attendant with a staff on a monumental frieze, while B shows two seated figures facing each other across an offering table above lines of script-like signs \u2014 the subjects, postures and combinations are quite different.",
+ "a": "persepolis_0063",
+ "b": "egypt_0066",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  301
+ ]
+}

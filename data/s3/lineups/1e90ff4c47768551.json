@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  8,
+  3,
+  5,
+  2,
+  9,
+  6,
+  4,
+  7,
+  1
+ ],
+ "most_similar_reason": "Candidate 10 shows a monumental rock\u2011cut facade with carved human figures arranged in a procession\u2011like architectural context, echoing the target's row of standing figures rendered in relief on a large stone surface.",
+ "least_similar_reason": "Candidate 1 shows only a faint, abstract reddish mark on a dark stone surface with no discernible figural or iconographic content comparable to the target's detailed procession of human figures.",
+ "set": "related_control",
+ "i": 4,
+ "target": "persepolis_0071",
+ "planted": "assyria_0112",
+ "cands": [
+  "tanum_0070",
+  "anatolia_ppn_0264",
+  "egypt_0012",
+  "anatolia_ppn_0095",
+  "anatolia_ppn_0270",
+  "anatolia_ppn_0207",
+  "tanum_0338",
+  "assyria_0112",
+  "anatolia_ppn_0086",
+  "egypt_0033"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "tanum",
+  "egypt",
+  "egypt",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "tanum"
+ ],
+ "model": "sonnet",
+ "planted_rank": 2
+}

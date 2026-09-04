@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic frontal anthropomorphic figure",
+  "circular or oval marks associated with the figure",
+  "linear appendages or body lines"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific shared content is a highly schematic human-like/front-facing figure using simple circles or ovals and linear body details. The biggest difference is that B presents a clear, organized monumental anthropomorphic icon with large paired circular features and bands on the torso, while A has only a faint, irregular small figure without the same distinctive facial/body arrangement.",
+ "a": "tanum_0070",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  659
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic anthropomorphic figure",
+  "paired or repeated circle/disc motifs",
+  "linear geometric/incised motifs",
+  "broadly symmetrical placement of motifs around a central vertical axis"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The clearest shared content is schematic anthropomorphic imagery with circular/disc details and incised linear geometric forms arranged with some bilateral symmetry. The biggest difference is that A is a multi-figure scene with flanking figures and a separate horizontal patterned register, while B is dominated by one frontal anthropomorphic figure with large paired circular features and curving bands on the body.",
+ "a": "maya_0115",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  672
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human or anthropomorphic figure",
+  "head/face with hair or headdress",
+  "arms/hands",
+  "linear carved/incised details or bands"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The main shared content is only the broad presence of human/anthropomorphic figures with heads, arms, and some patterned linear detailing. The biggest difference is that A is a single frontal, highly schematic monumental figure with circular/body motifs, while B is a repeated profile procession of naturalistically proportioned figures carrying vessels.",
+ "a": "rapa_nui_0113",
+ "b": "persepolis_0012",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  656
+ ]
+}

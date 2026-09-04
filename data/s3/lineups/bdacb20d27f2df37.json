@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  9,
+  5,
+  6,
+  10,
+  1,
+  3,
+  7,
+  8,
+  2
+ ],
+ "most_similar_reason": "Candidate 4 is, like the target, an upright stele-shaped slab whose face is divided into stacked registers filled with small schematic figures and sign-like motifs carved in low relief, matching the target's banded, register-by-register accumulation of compact emblematic images.",
+ "least_similar_reason": "Candidate 2 shows a single large, spindly stick-like figure drawn in bold outline on an open rock face, with none of the target's registered arrangement, animal repertoire or dense low-relief patterning.",
+ "set": "moai_iso_among_random",
+ "i": 37,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "assyria_0118",
+  "tanum_0050",
+  "tanum_0338",
+  "egypt_0072",
+  "persepolis_0027",
+  "rapa_nui_hoa_iso",
+  "tanum_0007",
+  "tanum_0052",
+  "maya_0019",
+  "persepolis_0077"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "assyria",
+  "persepolis",
+  "maya",
+  "tanum",
+  "tanum",
+  "egypt",
+  "persepolis",
+  "tanum",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

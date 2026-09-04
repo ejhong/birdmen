@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "human figure shown in profile/frontal schematic form",
+  "human figure with raised arm(s) holding an object"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "Both surfaces depict a human figure holding or raising an object, but that is the only correspondence: A shows a single large naturalistic bust in profile with elaborately rendered beard, hair, headdress and earring, while B shows tiny stick-like silhouette figures among boats with crew-strokes, cupmarks and abstract signs scattered across an open field. The conventions of depiction (modelled detailed relief portrait vs. minimal schematic outline pictographs) and the arrangement (one dominant figure vs. dispersed small motifs) are entirely unlike.",
+ "a": "assyria_0128",
+ "b": "tanum_0327",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3299,
+  293
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "profile animal figures",
+  "standing human/anthropomorphic figure",
+  "raised or incised outlines on a stone/clay surface"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces include shallowly carved figures in profile, including animal forms and at least one upright human-like figure. The biggest difference is compositional: A is a tall, densely compartmentalized surface with stacked registers and repeated signs, while B is a single horizontal narrative scene with larger interacting figures.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0218",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  645
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "upright freestanding stone monument with carved figural imagery",
+  "anthropomorphic figure carved in relief on a slab/block",
+  "suggestion of a head/upper body atop a broad body",
+  "frontal orientation of the figure"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict a single frontal anthropomorphic figure occupying a tall upright block, with a head above a broad torso, but A shows a naturalistic nude body with modelled breasts, waist and legs emerging from a pillar, while B shows a heavily schematic, almost geometric figure whose 'body' is a field of shallow curvilinear and circular motifs (discs, arcs, bands) with no rendered limbs. The correspondence is limited to the generic idea of a standing frontal figure on a monolith, with no shared specific motifs or relationships.",
+ "a": "egypt_0061",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2974,
+  325
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "shared_elements": [
+  "upright stone surface with low-relief carving",
+  "animal or creature in profile"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both show shallow relief carving on an upright stone face, including at least one profile animal-like figure. The biggest difference is that A has a dense, multi-register composition with many distinct motifs and patterned bands, while B shows a close-up of a much plainer surface with only a few faint, isolated relief forms.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0179",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  641
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "large single figure in strict profile facing left/right",
+  "elaborately patterned hair/beard rendered as regular rows of tight curls or beads",
+  "headdress/cap with banded, dotted border",
+  "pendant earring",
+  "garment with beaded/fringed edging and rosette or floral detail",
+  "wing or feathered element behind the shoulder",
+  "raised arm crossing the body",
+  "low relief with incised interior detailing on a flat rectangular slab"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both depict a large profile figure with a wing behind the shoulder, an arm raised across the body, a dangling earring, a banded dotted headdress and hair/beard rendered as rows of tight regular curls with beaded, fringed garment edges \\u2014 a highly conventional and specific set of rendering habits unlikely to arise independently. The main differences in content are that A's figure has a raptor's head and holds a bucket and cone between flanking stylised plants under an inscription band, whereas B shows a human bearded head at close range with no attributes or flanking motifs visible.",
+ "a": "assyria_0120",
+ "b": "assyria_0123",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3249,
+  775
+ ]
+}

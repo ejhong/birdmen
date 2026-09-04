@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  7,
+  5,
+  2,
+  4,
+  9,
+  3,
+  10,
+  8,
+  6
+ ],
+ "most_similar_reason": "Candidate 1 is most similar because it shows a single upright, front-facing, highly schematic anthropomorphic figure with a carved head-and-body arrangement and simplified incised internal features, closely matching the target\u2019s central frontal figure and abstract body markings.",
+ "least_similar_reason": "Candidate 6 is least similar because it shows mainly a plain rectangular surface with marginal marks or inscription-like edging and lacks the target\u2019s prominent frontal anthropomorphic figure, circular body features, and bold geometric torso motifs.",
+ "set": "p43_among_random",
+ "i": 35,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "maya_0101",
+  "anatolia_ppn_p43full",
+  "maya_0095",
+  "persepolis_0084",
+  "maya_0129",
+  "gotland_0004",
+  "maya_0106",
+  "tanum_0030",
+  "gotland_0026",
+  "tanum_0119"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "gotland",
+  "persepolis",
+  "tanum",
+  "maya",
+  "maya",
+  "gotland",
+  "maya",
+  "maya",
+  "tanum"
+ ],
+ "model": "gpt",
+ "planted_rank": 4
+}

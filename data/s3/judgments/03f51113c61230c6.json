@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "animal figures in profile",
+  "bird-like figure in profile",
+  "linear/geometric signs or patterned bands",
+  "multiple motifs distributed over a vertical surface"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific shared content is the use of schematic profile animal or bird-like figures together with incised geometric/sign-like motifs. The biggest difference is that B is organized around a dominant standing anthropomorphic figure with attributes and surrounding signs, while A is chiefly a field of separate animals and patterned bands with no comparable central figure or scene.",
+ "a": "anatolia_ppn_p43full",
+ "b": "maya_0091",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1883,
+  659
+ ]
+}

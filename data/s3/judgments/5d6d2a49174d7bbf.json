@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "frontal creature/figure in high relief with splayed bent limbs",
+  "paws/hands with clearly incised digits",
+  "second figure placed below the first in a vertical stack",
+  "arms bent inward holding/clutching something at the belly",
+  "large rounded head with heavy brow set close to the body",
+  "vertical, column-like carrying surface"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "7",
+ "justification": "Both show a chunky, frontally posed animal-like being clinging with splayed, digit-incised limbs to a vertical column-like surface, stacked directly above a second, lower figure, with arms bent to clutch at the belly \rangement rather than an arbitrary pose. The main difference is that A's composition is a fully in-the-round stack in which a large predatory head crouches over an emergent human head and gripping hands, while B places a single high-relief creature above a separate, flat low-relief quadruped shown from above/in a different mode, so the second element is an animal rather than a human.",
+ "a": "anatolia_ppn_0263",
+ "b": "anatolia_ppn_0086",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  2974,
+  766
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "anthropomorphic standing figure",
+  "head/face with facial features",
+  "torso with linear or geometric markings",
+  "arms or limb-like forms",
+  "bilateral vertical body organization"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main correspondence is that both present a vertically oriented anthropomorphic figure with a head/face above a torso bearing linear or geometric body markings. The biggest difference is that A is a naturalistic standing figure with modeled limbs, headdress, and held ritual objects, while B is a highly schematic frontal monolithic figure dominated by abstract circular and band motifs and no comparable held-object scene.",
+ "a": "mississippian_0015",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  670
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "standing male figure in profile, facing right/left, filling the panel",
+  "bearded figure with elaborately curled/patterned beard",
+  "long fringed robe with incised drapery lines",
+  "headdress/crown on the head",
+  "figure holding an object in a raised fist",
+  "low-relief carving with fine incised linear detail (hair, beard, garment fringe)",
+  "arm bent at elbow across the body"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both show a single large bearded male figure in strict profile occupying the whole panel, with a headdress, a long fringed robe rendered in fine parallel incised lines, and a hand closed around a held object at chest height \u2014 a very specific shared scheme of low-relief courtly/divine figure rendering. The chief differences are that A's figure is winged and surrounded by stylised plant/palmette motifs while B's figure is wingless, holds a long vertical spear and carries a bow, and stands in an otherwise empty field.",
+ "a": "assyria_0100",
+ "b": "persepolis_0067",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3024,
+  361
+ ]
+}

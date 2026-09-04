@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  3,
+  5,
+  10,
+  8,
+  1,
+  6,
+  7,
+  2,
+  9
+ ],
+ "most_similar_reason": "Candidate 4 shares the target's combination of a stylised, carved relief depicting a hybrid animal\u2011headed/winged anthropomorphic figure in profile, echoing the target's mix of avian and quadruped creatures rendered in a similarly schematic yet naturalistic low\u2011relief style.",
+ "least_similar_reason": "Candidate 9 shows only a bare, undecorated rock surface with no figurative or symbolic motifs, making it the least comparable to the target's dense register of carved animal imagery.",
+ "set": "moai_among_random",
+ "i": 4,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "egypt_0014",
+  "catalhoyuk_0025",
+  "tanum_0074",
+  "assyria_0112",
+  "persepolis_0066",
+  "rapa_nui_0113",
+  "mississippian_0002",
+  "gotland_0128",
+  "egypt_0024",
+  "maya_0069"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "gotland",
+  "tanum",
+  "assyria",
+  "catalhoyuk",
+  "persepolis",
+  "mississippian",
+  "egypt",
+  "maya",
+  "egypt"
+ ],
+ "model": "sonnet",
+ "planted_rank": 7
+}

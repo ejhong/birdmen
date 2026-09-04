@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  5,
+  9,
+  4,
+  6,
+  1,
+  10,
+  3,
+  2,
+  7
+ ],
+ "most_similar_reason": "Both feature a prominent, front-facing central figure with a vertical axis and complex adornments.",
+ "least_similar_reason": "It exclusively depicts rows of abstract symbols, lacking any large figurative representation.",
+ "set": "p43_iso_among_monoliths",
+ "i": 1,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0097",
+  "egypt_0063",
+  "anatolia_ppn_p43iso",
+  "maya_0091",
+  "maya_0082",
+  "gotland_0133",
+  "maya_0057",
+  "maya_0060",
+  "maya_0149",
+  "maya_0115"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "gotland",
+  "maya"
+ ],
+ "model": "gemini",
+ "planted_rank": 8
+}

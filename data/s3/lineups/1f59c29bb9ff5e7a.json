@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  7,
+  3,
+  10,
+  1,
+  5,
+  4,
+  9,
+  6,
+  2
+ ],
+ "most_similar_reason": "Candidate 8 is most similar because it combines carved human/divine figures with surrounding columns of sign-like motifs in a formal relief composition, closest to the target\u2019s seated/standing human scene with adjacent inscription-like symbols.",
+ "least_similar_reason": "Candidate 2 is least similar because it shows no clear recognizable figures, objects, symbols, or organized scene comparable to the target\u2019s figural-and-sign composition.",
+ "set": "same_control",
+ "i": 26,
+ "target": "egypt_0041",
+ "planted": "egypt_0049",
+ "cands": [
+  "persepolis_0085",
+  "tanum_0070",
+  "egypt_0049",
+  "mississippian_0018",
+  "rapa_nui_0099",
+  "maya_0126",
+  "persepolis_0068",
+  "maya_0026",
+  "tanum_0324",
+  "mississippian_0010"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "maya",
+  "persepolis",
+  "rapa_nui",
+  "mississippian",
+  "persepolis",
+  "tanum",
+  "tanum",
+  "mississippian",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 3
+}

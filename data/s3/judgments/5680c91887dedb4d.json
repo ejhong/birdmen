@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "frontal anthropomorphic head or face",
+  "schematic eyes/brow, nose, and mouth facial features",
+  "central vertical human-like figure or bust"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The main correspondence is a centrally presented, frontal, highly schematic anthropomorphic face/head with simplified eyes or brow, nose, and mouth. The biggest difference is that A shows a much fuller composite standing figure with torso markings, circular motifs, bands, and body parts, while B is essentially an isolated head or bust with no comparable body iconography or surrounding motifs.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_0130",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1909,
+  507
+ ]
+}

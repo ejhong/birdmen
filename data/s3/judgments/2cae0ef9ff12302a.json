@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "animal head in profile",
+  "low-relief carved figural scene",
+  "horizontal decorative border band framing the field",
+  "animal eye rendered with outlined almond shape",
+  "repeated ornamental motifs in a band (leaf/rosette-like)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both are low-relief profile animal images set within a field bounded above by a horizontal band of repeating ornament (leaf-like in A, rosettes in B), and both render the eye as a carefully outlined almond with a bulging pupil. However A shows a single monstrous bird-headed creature filling the panel with beak and clawed arms, while B shows a full-bodied naturalistic two-humped camel led by a walking human figure in a processional register, so the subjects and their relationships differ substantially.",
+ "a": "assyria_0099",
+ "b": "persepolis_0063",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  308
+ ]
+}

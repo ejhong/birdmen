@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "animal in profile",
+  "human figure",
+  "framing or border ornament",
+  "rectilinear decorated surface"
+ ],
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The most specific shared feature is the pairing of human and animal imagery on a bordered decorated surface, with both using profile presentation for at least some figures. The biggest difference is compositional: A is a vertical carved surface divided into stacked registers with many small schematic motifs, while B is a single painted framed scene dominated by one mounted figure.",
+ "a": "anatolia_ppn_p43full",
+ "b": "gotland_0115",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  443
+ ]
+}

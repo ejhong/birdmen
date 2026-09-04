@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "circular or spiral-like motif",
+  "curving incised lines",
+  "schematic abstract/geometric signs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific shared content is the use of prominent circular/spiral-like carved signs with curving linear motifs rendered schematically. The biggest difference is that A presents a vertically organized anthropomorphic figure with multiple body-like parts and symmetrical motifs, while B shows essentially an isolated circular/spiral sign on an irregular surface with no comparable full figure or ordered body scheme.",
+ "a": "rapa_nui_0113",
+ "b": "rapa_nui_0103",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  659
+ ]
+}

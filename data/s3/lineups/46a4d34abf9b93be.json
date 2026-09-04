@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  7,
+  2,
+  5,
+  10,
+  9,
+  4,
+  1,
+  6,
+  3
+ ],
+ "most_similar_reason": "Candidate 8 is most similar because it likewise shows a vertical surface crowded with schematic, shallow-outline animal and sign-like motifs arranged in stacked bands, including repeated small figures and wavy/linear elements rather than a single naturalistic scene.",
+ "least_similar_reason": "Candidate 3 is least similar because it depicts a single elaborate winged humanoid figure interacting with a plant-like motif, with no comparable stacked animal assemblage, repeated hatch-band, or profile creature composition.",
+ "set": "moai_among_random",
+ "i": 6,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "rapa_nui_0113",
+  "assyria_0039",
+  "assyria_0160",
+  "persepolis_0043",
+  "tanum_0076",
+  "egypt_0028",
+  "maya_0076",
+  "maya_0083",
+  "persepolis_0017",
+  "tanum_0341"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "tanum",
+  "maya",
+  "assyria",
+  "persepolis",
+  "maya",
+  "egypt",
+  "tanum",
+  "assyria",
+  "persepolis"
+ ],
+ "model": "gpt",
+ "planted_rank": 8
+}

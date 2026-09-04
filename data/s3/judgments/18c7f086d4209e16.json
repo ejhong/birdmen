@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "human figure",
+  "low-relief carving on stone",
+  "circular/disc motif"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "A depicts a narrative processional scene in shallow relief \u2014 a horse in strict profile drawing a spoked-wheel chariot with a driver, above a border band of repeated rosettes \u2014 while B is a three-dimensional blocky standing figure with a massive head, incised arms/hands converging on the belly, and a few schematic discs and hanging elements on the torso. The only overlap is the generic presence of a human form and circular motifs; there is no shared scene, relationship, arrangement, or carving convention (profile narrative relief versus frontal monolithic body-shaped figure).",
+ "a": "persepolis_0088",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3174,
+  284
+ ]
+}

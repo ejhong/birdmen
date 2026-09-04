@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  3,
+  9,
+  5,
+  2,
+  8,
+  6,
+  1,
+  7,
+  4
+ ],
+ "most_similar_reason": "Candidate 10 shows large living beings in strict profile as the main occupying motifs on a vertical relief slab, sharing outline carving, body proportions, and stacked arrangement with the target\u2019s profile waterfowl.",
+ "least_similar_reason": "Candidate 4 is a frontal, in-the-round human figure whose entire surface is filled by an ornate headdress and costume, sharing neither the profile animals, plants, geometric fills, nor relief composition of the target.",
+ "set": "moai_iso_among_monoliths",
+ "i": 10,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "gotland_0133",
+  "egypt_0042",
+  "maya_0091",
+  "maya_0052",
+  "egypt_0072",
+  "maya_0054",
+  "rapa_nui_hoa_iso",
+  "gotland_0112",
+  "egypt_0067",
+  "maya_0105"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "gotland",
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "gotland",
+  "maya"
+ ],
+ "model": "grok",
+ "planted_rank": 9
+}

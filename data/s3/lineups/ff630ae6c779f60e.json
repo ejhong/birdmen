@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  3,
+  9,
+  6,
+  4,
+  10,
+  2,
+  1,
+  5,
+  8
+ ],
+ "most_similar_reason": "Candidate 7, like the target, presents multiple animal/figure motifs stacked vertically in registers on a pillar-like stone surface, carved in a similar naturalistic relief style.",
+ "least_similar_reason": "Candidate 8 shows only flat, schematic silhouette figures and birds on a plain surface, lacking the stacked, naturalistic relief animal imagery and layered composition seen in the target.",
+ "set": "moai_among_random",
+ "i": 0,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "egypt_0014",
+  "maya_0130",
+  "assyria_0112",
+  "assyria_0088",
+  "assyria_0134",
+  "persepolis_0084",
+  "maya_0094",
+  "tanum_0325",
+  "maya_0048",
+  "rapa_nui_0113"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "maya",
+  "tanum",
+  "assyria",
+  "assyria",
+  "persepolis",
+  "assyria",
+  "maya"
+ ],
+ "model": "sonnet",
+ "planted_rank": 6
+}

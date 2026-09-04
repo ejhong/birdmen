@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figure in profile",
+  "bearded male head with elaborate coiffure/headgear",
+  "low relief carving of figures on a flat panel",
+  "rosette motif",
+  "raised arm / hand holding or carrying an object",
+  "procession or figures facing one direction"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both show bearded human figures rendered in shallow relief in strict profile, with carefully patterned hair/beard and an arm raised holding an object, and both include rosette motifs (a rosette on the object in A, rosette borders in B), which is a fairly specific shared convention. The main difference is subject: A is a single large winged supernatural figure filling the field, while B is a horizontal procession of small human attendants leading a two-humped camel between ornamental border bands.",
+ "a": "assyria_0125",
+ "b": "persepolis_0079",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  299
+ ]
+}

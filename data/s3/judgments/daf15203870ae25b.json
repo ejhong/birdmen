@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "profile animal figures",
+  "bird-like figure in profile",
+  "abstract/geometric patterned bands or rows of signs",
+  "rectangular or block-like sign areas",
+  "curving linear motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest correspondence is that both surfaces include schematic profile animals or bird-like forms combined with abstract sign-like or patterned elements. The biggest difference is that B is organized into clear horizontal registers with repeated arched signs and distinct animals below, while A is a dense, interwoven field of glyph-like blocks, curving motifs, and figure/creature forms without the same iconographic scheme.",
+ "a": "maya_0039",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1883,
+  676
+ ]
+}

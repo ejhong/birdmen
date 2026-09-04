@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "schematic anthropomorphic figure or torso",
+  "face/head at the top",
+  "paired circular depressions or discs on the upper torso",
+  "central ring-and-disc/circular motif on the chest or abdomen",
+  "curving horizontal band across the lower torso",
+  "incised linear and curvilinear geometric motifs on the body"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "9",
+ "justification": "Both surfaces show a highly specific schematic anthropomorphic figure with a head/face above a torso bearing paired upper circular marks, a central ring motif, and curved horizontal bands across the lower body, all in very similar relative positions. The main difference is that the upper head/face and some incised details are not identical or equally visible, with A showing more side/profile information and B presenting a more frontal, symmetrical view.",
+ "a": "rapa_nui_0005",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  710
+ ]
+}

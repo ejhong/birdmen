@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  5,
+  4,
+  3,
+  1,
+  10,
+  7,
+  6,
+  8,
+  9
+ ],
+ "most_similar_reason": "Candidate 2 is, like the target, an upright slab bearing schematic animals rendered in shallow relief/incision, stacked in registers above another isolated motif, with the same emphasis on isolated creature signs rather than a narrative scene.",
+ "least_similar_reason": "Candidate 9 shows a naturalistic narrative battle scene with proportioned human figures, a horse-drawn chariot and fallen bodies, sharing none of the target's isolated, schematic animal signs arranged in vertical registers.",
+ "set": "moai_among_random",
+ "i": 25,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "rapa_nui_0113",
+  "gotland_0026",
+  "tanum_0074",
+  "egypt_0065",
+  "gotland_0009",
+  "assyria_0120",
+  "assyria_0125",
+  "assyria_0034",
+  "assyria_0109",
+  "tanum_0128"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "assyria",
+  "tanum",
+  "assyria",
+  "gotland",
+  "assyria",
+  "tanum",
+  "egypt",
+  "assyria",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 5
+}

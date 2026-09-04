@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "animal figure rendered in relief on an upright pillar face",
+  "animal head shown in profile",
+  "curved/arched linear relief band over the animal",
+  "quadruped body"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces are upright pillar faces carrying animal imagery, and in each a beast's head with a curving band or arc above it appears on the shaft, which is the most specific correspondence. However, A presents several registers of flat, low-relief animals (birds, quadrupeds, a fringed geometric band) crowded across the whole face, while B shows a single animal rendered nearly in the round, projecting from an otherwise bare shaft, so the density, composition and relief conventions differ sharply.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0122",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2848,
+  693
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human figure rendered in relief on stone",
+  "large circular disc / rosette motif",
+  "horizontal bands or registers across the lower part",
+  "patterned/decorated garment or body surface"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces show human figures carved in relief together with prominent circular disc/rosette motifs and horizontal banding, which is the most specific shared content, but this is generic enough to arise independently. A presents a single frontal, massive, schematic figure with vaguely modelled discs and bands, whereas B shows two finely detailed figures in profile facing one another, one holding a bowl and a flower, with an inscription running across the panel: no shared scene, posture or interaction.",
+ "a": "rapa_nui_0113",
+ "b": "assyria_0008",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3149,
+  741
+ ]
+}

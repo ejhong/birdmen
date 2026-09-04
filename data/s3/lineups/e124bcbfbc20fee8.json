@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  5,
+  8,
+  6,
+  4,
+  1,
+  9,
+  2,
+  10,
+  3
+ ],
+ "most_similar_reason": "Candidate 7 shows the same thing as the target: a dense field of small, square, individually framed sign-blocks laid out in regular rows and columns in low relief, each block packed with curvilinear internal detail, which is a highly specific script-panel convention rather than a generic pattern.",
+ "least_similar_reason": "Candidate 3 depicts a narrative rock-art scene of boats, quadrupeds and stick-like human figures scattered freely across the surface, with no framed sign-blocks, no columnar text arrangement and none of the target's relief carving conventions.",
+ "set": "same_control",
+ "i": 27,
+ "target": "maya_0152",
+ "planted": "maya_0050",
+ "cands": [
+  "gotland_0131",
+  "anatolia_ppn_0259",
+  "tanum_0017",
+  "gotland_0008",
+  "gotland_0125",
+  "assyria_0069",
+  "maya_0050",
+  "rapa_nui_0025",
+  "rapa_nui_0002",
+  "persepolis_0058"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "gotland",
+  "gotland",
+  "persepolis",
+  "gotland",
+  "tanum",
+  "rapa_nui",
+  "rapa_nui",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

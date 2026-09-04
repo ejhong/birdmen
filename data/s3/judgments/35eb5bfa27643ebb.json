@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "carved rectangular/panel field bounded by a border or frame",
+  "grid of repeated small quadrangular cells (lattice in A, blocks in B)",
+  "a dominant central motif set within a framed field"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The only real correspondence is generic: both surfaces carry a bordered field containing a regular grid of repeated small quadrangular units (a plain diamond/square lattice in A, dense rows of sign-blocks in B), with a larger dominant motif adjacent to it. Otherwise the content differs fundamentally: B depicts an elaborately costumed human figure with feathered headdress, ornaments and a second attendant figure rendered in detailed modelled relief, while A shows only an abstract arched enclosure with a vertical divider and a few rounded lumps, with no figures, creatures or narrative at all.",
+ "a": "gotland_0111",
+ "b": "maya_0048",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3224,
+  660
+ ]
+}

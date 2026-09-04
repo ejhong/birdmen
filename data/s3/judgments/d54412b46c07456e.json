@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "rectangular field of carved script-like blocks arranged in rows/columns",
+  "flat upright carved stone panel/monolith surface",
+  "possible column of glyph blocks along one edge of the upright slab"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces appear to carry rectangular script-like blocks set out in orderly rows/columns, and the upright slab in B seems to bear such a glyph column beside a figural area, which is a reasonably specific correspondence with A's dense all-over glyph grid. The decisive difference is that A is entirely a text field with no figures or scenic composition, whereas B's carved face is dominated by a standing figural image with only subsidiary text, and most of B's frame is architecture rather than decorated surface.",
+ "a": "egypt_0035",
+ "b": "maya_0000",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3224,
+  632
+ ]
+}

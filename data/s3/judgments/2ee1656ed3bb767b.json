@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "anthropomorphic or human-like figure",
+  "facial features",
+  "linear decorative patterning on the body",
+  "circular motifs or discs associated with the body",
+  "band-like ornament across the torso or neck area"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces include a human-like figure with body ornament, including circular marks and linear bands, which is the closest shared depicted content. The major difference is that A is a highly schematic, frontal, block-like figure, while B shows a detailed profile winged figure with feathers, beard, and elaborate costume, so the iconographic scheme is not shared.",
+ "a": "rapa_nui_0113",
+ "b": "assyria_0122",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  621
+ ]
+}

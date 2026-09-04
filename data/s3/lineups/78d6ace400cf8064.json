@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  6,
+  4,
+  7,
+  2,
+  9,
+  1,
+  5,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 3 shares the use of low-relief profile carvings and incorporates prominent bird-related imagery.",
+ "least_similar_reason": "Candidate 10 depicts architectural structures rather than distinct representational figures or symbolic motifs.",
+ "set": "moai_close_among_random",
+ "i": 33,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "gotland_0125",
+  "mississippian_0010",
+  "assyria_0021",
+  "maya_0047",
+  "tanum_0340",
+  "assyria_0146",
+  "egypt_0063",
+  "tanum_0237",
+  "rapa_nui_0004",
+  "egypt_0051"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "egypt",
+  "tanum",
+  "tanum",
+  "assyria",
+  "assyria",
+  "mississippian",
+  "gotland"
+ ],
+ "model": "gemini",
+ "planted_rank": 6
+}

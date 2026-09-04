@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  7,
+  5,
+  9,
+  8,
+  4,
+  3,
+  1,
+  2,
+  10
+ ],
+ "most_similar_reason": "Both depict a vertical layout featuring a central, front-facing figure surrounded by dense, stylized, curvilinear low-relief carving.",
+ "least_similar_reason": "It displays a largely naturalistic, three-dimensional human figure rather than a densely ornamented, stylized relief surface.",
+ "set": "p43_iso_among_monoliths",
+ "i": 13,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "egypt_0042",
+  "egypt_0061",
+  "egypt_0065",
+  "maya_0000",
+  "maya_0113",
+  "maya_0027",
+  "maya_0056",
+  "anatolia_ppn_p43iso",
+  "maya_0023",
+  "mississippian_0015"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "mississippian",
+  "maya"
+ ],
+ "model": "gemini",
+ "planted_rank": 5
+}

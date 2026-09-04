@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  7,
+  1,
+  3,
+  4,
+  8,
+  2,
+  6,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 5 is closest because it also presents a tall, narrow vertical decorated surface densely filled with stacked, highly stylized glyph- or mask-like motifs rather than a single narrative figure or animal.",
+ "least_similar_reason": "Candidate 10 is least similar because it depicts a single naturalistic curled animal with no stacked registers, repeated mask forms, enclosing ornament, or dense symbolic surface arrangement like the target.",
+ "set": "same_control_monoliths",
+ "i": 13,
+ "target": "maya_0053",
+ "planted": "maya_0149",
+ "cands": [
+  "rapa_nui_0022",
+  "anatolia_ppn_0263",
+  "egypt_0068",
+  "egypt_0050",
+  "maya_0149",
+  "anatolia_ppn_0212",
+  "egypt_0063",
+  "egypt_0074",
+  "anatolia_ppn_0186",
+  "rapa_nui_0122"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "rapa_nui",
+  "anatolia_ppn",
+  "egypt",
+  "egypt",
+  "anatolia_ppn",
+  "rapa_nui",
+  "anatolia_ppn",
+  "egypt",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

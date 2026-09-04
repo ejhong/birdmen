@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "profile figures",
+  "human or humanoid figures",
+  "horizontal register/dividing lines",
+  "rectangular/table-like object"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both are upright carved stone surfaces organized with horizontal divisions and contain profile figures alongside rectangular or table-like forms. The biggest difference is that A is dominated by large animal-like motifs and a patterned band in a rougher relief arrangement, while B presents more orderly framed narrative scenes with multiple human figures and finer incised detail.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0039",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  646
+ ]
+}

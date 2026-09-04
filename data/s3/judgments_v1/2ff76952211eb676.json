@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "schematic human or anthropomorphic form",
+  "circle or disc-like motif",
+  "horizontal band of repeated/linear pattern",
+  "incised linear decoration on stone"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest correspondences are the use of rough stone carving, schematic anthropomorphic imagery, circular forms, and a horizontal patterned band dividing or emphasizing part of the decorated surface. The biggest difference is that A is dominated by a single upright body-like figure with rounded sculptural volume, while B is a flat rectangular panel organized into separate registers with multiple small motifs.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_0272",
+ "model": "gpt",
+ "set": "target",
+ "usage": [
+  1362,
+  617
+ ]
+}

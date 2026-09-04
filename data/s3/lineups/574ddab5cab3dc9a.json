@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  2,
+  6,
+  8,
+  9,
+  1,
+  7,
+  3,
+  4,
+  10
+ ],
+ "most_similar_reason": "Candidate 5, like the target, is a wholly anthropomorphic monolith whose entire block is worked into a frontal being \u2014 head/mask above and body ornaments in low relief wrapping the shaft \u2014 rather than a flat panel bearing a scene.",
+ "least_similar_reason": "Candidate 10 shows only an arched frame filled with an abstract checkered/geometric field, with no figure, head, pectoral disc or body ornaments of the kind that define the target.",
+ "set": "p43_iso_among_monoliths",
+ "i": 31,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "anatolia_ppn_p43iso",
+  "maya_0060",
+  "egypt_0072",
+  "gotland_0113",
+  "maya_0019",
+  "maya_0092",
+  "egypt_0039",
+  "egypt_0061",
+  "maya_0110",
+  "gotland_0111"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "gotland",
+  "maya",
+  "gotland",
+  "maya",
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 6
+}

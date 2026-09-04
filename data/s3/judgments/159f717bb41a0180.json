@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figures in profile",
+  "rows/groups of figures aligned horizontally",
+  "figures carrying elongated implements (weapons/paddles)",
+  "horizontal register composition",
+  "martial or procession-like scene"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both show rows of small human figures in profile carrying long implements arranged in horizontal registers, which gives a loose compositional echo, but the specific content differs greatly: A is dominated by large hulled ships with crews rendered as bare stick-and-outline silhouettes plus animals and abstract signs, while B shows modelled, clothed archers and soldiers assaulting a towered, crenellated walled structure. Nothing in A depicts architecture or bows, and nothing in B depicts boats, so the shared traits are the generic ones any narrative fighting scene could produce.",
+ "a": "tanum_0338",
+ "b": "assyria_0041",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  323
+ ]
+}

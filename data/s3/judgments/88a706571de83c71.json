@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low-relief carved scene with figures in strict profile",
+  "standing/walking human figures in profile",
+  "large quadruped animal in profile facing left",
+  "human figures leading or attending animals",
+  "procession-like left-facing movement across a horizontal field",
+  "clothed figures with patterned garments and rendered hair/beard"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces show a shallow relief frieze of profile figures moving leftward, with a large quadruped in profile accompanied by attendant humans in patterned robes, hair and beards rendered in tight rows of curls, and animals fitted with harness/bridle straps. The chief differences in content are that B is a chariot scene with a wheeled vehicle, a driver holding reins, a horse and a trampled fallen body, while A is a peaceful tribute procession with a humped camel, gift-bearing attendants and a rosette border band above.",
+ "a": "persepolis_0007",
+ "b": "assyria_0109",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  345
+ ]
+}

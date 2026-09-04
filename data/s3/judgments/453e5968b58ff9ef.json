@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "frontal standing/upright human-like figure filling the whole surface",
+  "large elaborate headdress occupying the upper part of the monument",
+  "carved relief on a tall upright slab-shaped stone",
+  "curvilinear scroll motifs around the head and torso",
+  "chest/pectoral ornament with a disc or oval element",
+  "arms held across the front of the body",
+  "band or belt across the lower torso"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "3",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both depict a single frontal upright figure occupying an entire tall slab, with a heavy headdress above, scrollwork flanking the head, arms folded across the chest, a disc-like pectoral and a belt band low on the torso \u2014 a specific and shared vertical scheme. The biggest difference is density and legibility of detail: A is crowded with small subsidiary faces, dangling ornaments and interlocking motifs and shows a clear naturalistic human face with legs and feet, whereas B is highly reduced, faceless in the visible view, with sparse shallow scrolls and no lower limbs shown.",
+ "a": "maya_0051",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2949,
+  389
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "carved stone surface",
+  "relief carving technique",
+  "arched or curved motifs near top"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both are carved stone reliefs with some curved/arched motifs, but A shows a single anthropomorphic monolithic figure with vertical composition (head, arms, torso) while B shows a flat slab with horizontal registers of arch shapes above small figures in a narrative or symbolic scene. The overall form, scale, and organizing logic (single humanoid figure vs. layered pictorial panel) are fundamentally different, so similarity is minimal beyond both being carved stone with some rounded motifs.'",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_0272",
+ "model": "sonnet",
+ "set": "target",
+ "usage": [
+  2058,
+  247
+ ]
+}

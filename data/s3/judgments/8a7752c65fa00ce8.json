@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "low-relief human figure shown only in part (lower body/garment)",
+  "long garment with parallel vertical pleats/fluting",
+  "elongated shaft-like objects (staff/spear or animal limb) rendered with parallel incised lines",
+  "horizontal band running along the lower edge of the composition"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both show shallow, smoothly modelled relief in which partial human figures appear as pleated, fluted garments above a horizontal lower border, with slender shafts marked by parallel incisions crossing the field, a fairly specific shared convention for rendering drapery and staffs. The decisive difference is subject: A is dominated by a large recumbent quadruped in profile beneath standing legs, while B contains no animal at all and instead adds a band of rosettes and hands holding weapons, so the scenes themselves do not correspond.",
+ "a": "assyria_0110",
+ "b": "persepolis_0017",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  835
+ ]
+}

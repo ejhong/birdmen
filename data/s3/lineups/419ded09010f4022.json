@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  5,
+  4,
+  8,
+  7,
+  1,
+  6,
+  10,
+  2,
+  3
+ ],
+ "most_similar_reason": "Candidate 9 is most similar because it also centers on a large profile quadruped accompanied by small human figures and linear signs, echoing the target\u2019s animal-and-human interaction even though it is much more schematic.",
+ "least_similar_reason": "Candidate 3 is least similar because it shows a narrow field of repeated abstract/linear markings rather than a figurative scene with a profile animal and human figure.",
+ "set": "related_control",
+ "i": 27,
+ "target": "persepolis_0089",
+ "planted": "assyria_0011",
+ "cands": [
+  "tanum_0060",
+  "maya_0009",
+  "maya_0149",
+  "anatolia_ppn_0027",
+  "assyria_0011",
+  "anatolia_ppn_0130",
+  "tanum_0079",
+  "anatolia_ppn_0266",
+  "tanum_0052",
+  "maya_0138"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "maya",
+  "tanum",
+  "maya",
+  "tanum",
+  "tanum",
+  "anatolia_ppn",
+  "maya",
+  "anatolia_ppn",
+  "anatolia_ppn"
+ ],
+ "model": "gpt",
+ "planted_rank": 2
+}

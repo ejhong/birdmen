@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figure(s) in elaborate costume carved in relief on an upright stone monument",
+  "dense low-relief ornament covering the surface",
+  "block-like glyph or sign elements arranged in columns/rows",
+  "headdress or elaborate headgear with scroll/mask motifs",
+  "ornament composed of curvilinear scrolls and mask-like faces"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both depict costumed human figures rendered in dense low relief on a tall upright slab, combined with column-arranged block glyph-like signs and scroll/mask ornament, a fairly specific conventional pairing of figure plus sign columns. The clearest difference is in figural composition: B shows a single frontal standing figure filling the shaft with symmetrical regalia, while A shows smaller figures in profile/seated postures beneath a vertical stack of sign blocks, so the specific scene differs even if the vocabulary matches.",
+ "a": "maya_0081",
+ "b": "maya_0060",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  2924,
+  355
+ ]
+}

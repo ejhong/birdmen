@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  9,
+  3,
+  7,
+  1,
+  10,
+  5,
+  2,
+  8,
+  4
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it also uses a highly stylized, frontal supernatural/mask-like composition with prominent circular/scrolling eye forms and dense curvilinear relief motifs rather than a naturalistic scene.",
+ "least_similar_reason": "Candidate 4 is least similar because it shows no clearly recognizable depicted figures, symbols, or structured iconographic arrangement comparable to the target\u2019s distinctive frontal mask-like figure.",
+ "set": "p43_iso_among_monoliths",
+ "i": 12,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0054",
+  "gotland_0112",
+  "maya_0091",
+  "maya_0082",
+  "egypt_0069",
+  "maya_0045",
+  "maya_0101",
+  "mississippian_0015",
+  "anatolia_ppn_p43iso",
+  "egypt_0050"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "egypt",
+  "mississippian",
+  "maya",
+  "maya",
+  "maya",
+  "egypt",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 2
+}

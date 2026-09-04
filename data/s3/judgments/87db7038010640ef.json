@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "frontal anthropomorphic figure",
+  "head/face above torso",
+  "bilateral symmetry",
+  "circular body details",
+  "geometric bands or incised/linear ornament"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both present a centrally placed, bilaterally symmetrical frontal human-like figure with a head, torso, circular details, and linear/geometric body ornament. The largest difference is that A is a winged bird-human figure with outstretched feathered wings and elaborate regalia, while B is a blocky standing anthropomorphic figure without the bird attributes or the same surrounding/iconographic scheme.",
+ "a": "mississippian_0002",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  679
+ ]
+}

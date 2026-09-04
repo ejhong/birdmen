@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  5,
+  10,
+  1,
+  7,
+  3,
+  8,
+  6,
+  2,
+  9
+ ],
+ "most_similar_reason": "Candidate 4 is most similar because it shows a relief surface organized into horizontal registers with small profile human/animal-like figures and schematic linear detailing, closely matching the target\u2019s compartmentalized arrangement and carved iconographic style.",
+ "least_similar_reason": "Candidate 9 is least similar because it is dominated by stacked frontal mask-like forms and dense abstract ornament rather than profile figures, animals, or register-based scenes like those on the target.",
+ "set": "moai_iso_among_random",
+ "i": 37,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "assyria_0118",
+  "tanum_0050",
+  "tanum_0338",
+  "egypt_0072",
+  "persepolis_0027",
+  "rapa_nui_hoa_iso",
+  "tanum_0007",
+  "tanum_0052",
+  "maya_0019",
+  "persepolis_0077"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "assyria",
+  "persepolis",
+  "maya",
+  "tanum",
+  "tanum",
+  "egypt",
+  "persepolis",
+  "tanum",
+  "tanum"
+ ],
+ "model": "gpt",
+ "planted_rank": 8
+}

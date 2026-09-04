@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "animal shown in profile relief",
+  "low-relief carving on a flat stone surface",
+  "horizontal register/band dividing the composition",
+  "quadruped with legs indicated"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both are low reliefs containing profile animals and a horizontal dividing band, but that is about as generic as shared content gets: A shows a naturalistically modelled bridled horse with a bearded human figure in a bearded, detailed courtly idiom, while B shows highly schematic stacked creatures (a crouching feline-like beast, birds, snakes/arm-like elements) and rows of abstract U- and H-shaped signs with no human figure. The rendering conventions differ sharply \u2014 modelled musculature and fine incised detail versus flat silhouetted schematic forms \u2014 and no specific motif or relationship recurs.",
+ "a": "persepolis_0089",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  326
+ ]
+}

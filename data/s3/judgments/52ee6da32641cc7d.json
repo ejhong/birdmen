@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "animal figures in profile",
+  "elongated curving/serpentine or ribbon-like forms",
+  "repeated linear signs or geometric patterning",
+  "horizontal division into zones or registers"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific shared content is the use of schematic profile animals combined with repeated linear signs or patterned bands on a vertically organized decorated surface. The biggest difference is that B centers on a horse-and-rider scene with human figures, weapons/shields, border writing and interlaced serpentine bands, while A shows a different set of isolated animal and abstract motifs arranged in carved registers without the same narrative relationships.",
+ "a": "anatolia_ppn_p43full",
+ "b": "gotland_0124",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  654
+ ]
+}

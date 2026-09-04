@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  10,
+  5,
+  2,
+  7,
+  3,
+  9,
+  4,
+  1,
+  6
+ ],
+ "most_similar_reason": "Both feature a vertically oriented, monumental stone carved to represent a single anthropomorphic figure with distinct head shaping and torso ornamentation.",
+ "least_similar_reason": "This candidate shows isolated, simple geometric and zoomorphic symbols, entirely lacking the large-scale anthropomorphic form seen in the target.",
+ "set": "p43_iso_among_monoliths",
+ "i": 2,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "anatolia_ppn_p43iso",
+  "gotland_0116",
+  "egypt_0063",
+  "egypt_0071",
+  "maya_0092",
+  "gotland_0026",
+  "egypt_0048",
+  "maya_0106",
+  "egypt_0064",
+  "maya_0056"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "egypt",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "egypt"
+ ],
+ "model": "gemini",
+ "planted_rank": 9
+}

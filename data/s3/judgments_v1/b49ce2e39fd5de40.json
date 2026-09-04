@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "horizontal bands/registers of carving",
+  "repeated geometric border motifs, including triangular or chevron-like forms",
+  "linear relief carving on stone"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest correspondence is that both surfaces organize carving into horizontal registers, with some repeated geometric border patterning such as triangular or chevron-like forms. The biggest difference is that A is an ornamental floral-and-geometric panel with rosettes and scrolls, while B is an upright figural stone with humans or animals and a much rougher, narrative-looking layout.",
+ "a": "assyria_0063",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  657
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  9,
+  1,
+  2,
+  4,
+  7,
+  6,
+  10,
+  5,
+  8
+ ],
+ "most_similar_reason": "Candidate 3, like the target, sets animals and figures in strict profile within horizontal register bands separated by ruled dividing lines, combining quadrupeds with attendant human/sign elements in a repeating processional arrangement.",
+ "least_similar_reason": "Candidate 8 shows only a bare, barely-worked rock surface with no identifiable creatures, figures, signs or register organisation, so it shares essentially no depicted content with the target's animal-and-sign registers.",
+ "set": "moai_iso_among_random",
+ "i": 12,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0043",
+  "egypt_0032",
+  "persepolis_0010",
+  "persepolis_0012",
+  "egypt_0060",
+  "tanum_0321",
+  "assyria_0131",
+  "egypt_0007",
+  "persepolis_0032",
+  "rapa_nui_hoa_iso"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "persepolis",
+  "egypt",
+  "egypt",
+  "persepolis",
+  "persepolis",
+  "egypt",
+  "tanum",
+  "assyria",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 8
+}

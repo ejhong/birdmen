@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "animal in profile",
+  "standing human figure",
+  "horizontal band/register of decoration"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both are relief-decorated stone surfaces using horizontal registers and profile figures, including animals and at least some human-like standing figures. The biggest difference is that A is a broad, orderly procession in shallow, refined low relief with ornamental borders, whereas B is a narrow upright slab with stacked, irregular, much more schematic and deeply cut motifs.",
+ "a": "persepolis_0068",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  644
+ ]
+}

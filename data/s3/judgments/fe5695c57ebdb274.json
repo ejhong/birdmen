@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "animal figures in profile",
+  "bird or bird-like figure in profile",
+  "quadruped-like animal in profile",
+  "elongated linear or serpentine forms"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both surfaces depict multiple schematic relief animals, including profile bird-like and quadruped-like forms, with simple outlined bodies and minimal internal detail. The biggest difference is that B is organized into clear horizontal registers with repeated motifs and distinct animals, while A appears as a looser, more crowded and less legibly ordered cluster without the same banded iconographic scheme.",
+ "a": "maya_0125",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  672
+ ]
+}

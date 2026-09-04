@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human figure",
+  "stylised hair/headdress rendered as a patterned block",
+  "depiction of a torso/upper body",
+  "curvilinear incised detailing"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "Both depict a human figure with an elaborated, block-like coiffure or headgear rendered as patterned masses, but that is essentially the only correspondence. A shows a narrative low-relief scene in strict profile with a bridled horse being led by a bearded man, while B is a frontal, three-dimensional standing figure covered with abstract discs, ovals and bands with no animal, no action and no profile convention.",
+ "a": "persepolis_0089",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3174,
+  254
+ ]
+}

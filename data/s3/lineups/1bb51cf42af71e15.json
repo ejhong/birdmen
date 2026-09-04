@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  1,
+  9,
+  4,
+  8,
+  5,
+  7,
+  2,
+  3,
+  10
+ ],
+ "most_similar_reason": "Candidate 6 shares the target's overall composition of a tall stele divided into stacked horizontal registers containing schematic figural motifs, echoing the target's layered arrangement of stylized creatures and patterns.",
+ "least_similar_reason": "Candidate 10 depicts sparse red line drawings of boats and sledges on a plain surface, sharing none of the target's dense figural registers, stylized bird forms, or geometric banding.",
+ "set": "moai_iso_among_random",
+ "i": 9,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "assyria_0120",
+  "rapa_nui_hoa_iso",
+  "catalhoyuk_0039",
+  "persepolis_0080",
+  "assyria_0109",
+  "maya_0137",
+  "gotland_0003",
+  "persepolis_0093",
+  "mississippian_0001",
+  "tanum_0328"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "persepolis",
+  "maya",
+  "catalhoyuk",
+  "tanum",
+  "assyria",
+  "persepolis",
+  "mississippian",
+  "gotland",
+  "assyria"
+ ],
+ "model": "sonnet",
+ "planted_rank": 8
+}

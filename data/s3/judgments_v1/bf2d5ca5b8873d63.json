@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "profile animal or bird-like head with circular eye",
+  "repeated zigzag/chevron or triangular patterning",
+  "horizontal row or band of repeated motifs"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The most specific correspondence is the use of profile animal/bird-like forms with round eyes, set alongside or within repeated zigzag/chevron bands. The biggest difference is that A is a rectilinear stone relief organized in stacked registers with varied figures, while B is a curved surface covered in thin dark incised outline drawings dominated by jagged repeated creatures.",
+ "a": "anatolia_ppn_p43full",
+ "b": "mississippian_0075",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  510
+ ]
+}

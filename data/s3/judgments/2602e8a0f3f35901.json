@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human/anthropomorphic figures in relief",
+  "raised or bent arms",
+  "frontal head with schematic facial features",
+  "curved/circular motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both depict anthropomorphic beings in low relief with schematic faces and arm gestures, and both include curved/ring-like motifs, but these are the most generic possible correspondences. A shows a narrative frieze of multiple small active figures in a horizontal band, striding and raising arms in relation to one another, while B is a single monumental frontal statue-figure whose body carries isolated symbolic devices (discs, curved bands, paired appendages on the head), with no interaction between figures and no banded narrative arrangement.",
+ "a": "anatolia_ppn_0218",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3174,
+  287
+ ]
+}

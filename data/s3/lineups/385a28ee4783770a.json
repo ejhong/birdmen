@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  4,
+  8,
+  2,
+  6,
+  10,
+  7,
+  3,
+  5,
+  9
+ ],
+ "most_similar_reason": "Candidate 1, like the target, carries a small number of large, isolated abstract motifs \u2014 a bold curling spiral/ring and a pair of schematic hook-like creature signs \u2014 carved in shallow low relief on a plain tapering surface, rather than a narrative scene, closely echoing the target's ring-and-curved-band emblems.",
+ "least_similar_reason": "Candidate 9 is essentially a field of ruled lines of writing with no figures, creatures or emblematic motifs at all, sharing nothing with the target's sculpted body bearing isolated curvilinear and ring designs.",
+ "set": "p43_iso_among_monoliths",
+ "i": 29,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "gotland_0026",
+  "gotland_0133",
+  "egypt_0066",
+  "mississippian_0015",
+  "maya_0136",
+  "maya_0092",
+  "egypt_0073",
+  "maya_0081",
+  "egypt_0049",
+  "anatolia_ppn_p43iso"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "egypt",
+  "gotland",
+  "maya",
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "mississippian",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 6
+}

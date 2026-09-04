@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "vertical axial composition",
+  "stylized head/face-like or body-like forms",
+  "paired circular/eye-like motifs",
+  "curving or band-like geometric lines"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The most specific overlap is that both surfaces use a vertically organized, highly stylized scheme with paired circular motifs and incised/drawn linear bands. The biggest difference is that A is dominated by explicit profile birds, including facing birds and a large bird figure, while B presents a blocky anthropomorphic or mask-like figure with breasts/face-like features and no clear corresponding bird scheme.",
+ "a": "anatolia_ppn_0174",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1751,
+  672
+ ]
+}

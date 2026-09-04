@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "quadruped animal seen in profile",
+  "elongated animal head/muzzle in profile",
+  "multiple animal figures stacked on a single vertical stone surface",
+  "small round depressions/holes on the surface"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces show animal figures rendered in strict profile, one above another on an upright stone face, with small circular depressions punctuating the field, which is a loose but real correspondence in subject and layout. The manner of depiction differs sharply, however: A's forms are flat, angular, pecked outlines that read as schematic, near-abstract creatures with stick-like limbs, whereas B shows a single modelled, naturalistically proportioned quadruped in raised relief with a second animal head below, so the shared content stays at the generic level of 'animals in profile on a stone slab'.",
+ "a": "tanum_0359",
+ "b": "anatolia_ppn_0088",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  677
+ ]
+}

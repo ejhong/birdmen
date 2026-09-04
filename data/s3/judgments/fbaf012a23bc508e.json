@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic animal figures in profile",
+  "horizontal row of repeated identical small elements",
+  "band of linear/zigzag pattern running horizontally",
+  "small isolated figures scattered on an otherwise plain field"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The only real correspondence is generic: both surfaces carry a horizontal row of many identical repeated small elements set on a line (crew strokes above a hull in A; a row of arch-and-bar signs beneath a patterned band in B), plus small schematic animal-like figures placed loosely on a plain ground. Otherwise the content is quite different: A's dominant subject is a large single boat with upcurved stems and no recognisable creatures, while B is filled with distinct profile birds, quadrupeds and a snake-like form arranged in stacked registers with no vessel or comparable object.",
+ "a": "tanum_0074",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  732
+ ]
+}

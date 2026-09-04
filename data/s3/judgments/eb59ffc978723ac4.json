@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "anthropomorphic or human figure",
+  "circular motifs",
+  "linear signs or geometric markings"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The main shared content is only generic: both include a human or human-like figure and some circular and linear markings. The biggest difference is that A is a complex scene with profile standing figures, a large disc emitting rays, an altar-like structure, and dense rows of signs, while B is dominated by a single frontal schematic anthropomorphic figure with simple circular and band-like motifs.",
+ "a": "egypt_0028",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  455
+ ]
+}

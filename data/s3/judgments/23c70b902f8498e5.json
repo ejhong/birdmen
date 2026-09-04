@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figures shown in profile",
+  "quadruped animals in profile",
+  "procession-like row of figures moving in one direction",
+  "horizontal register/ground lines dividing the scene",
+  "figures interacting with (leading/handling) animals",
+  "band of small repeated motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both depict profile human figures arranged in a horizontal register above a ground line, accompanied by quadruped animals apparently being led or handled, which is a moderately specific shared scheme of a livestock/offering procession. The manner of depiction differs sharply: A is large-scale, naturalistic low relief with carefully rendered fleece, horns, beards and drapery in a single continuous frieze, while B is a multi-register field of tiny, schematic stick-like incised figures interspersed with sign-like elements and a winged emblem at the top, which has no counterpart in A.",
+ "a": "persepolis_0100",
+ "b": "egypt_0063",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  673
+ ]
+}

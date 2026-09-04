@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "monolithic standing pillar carved in low relief",
+  "schematic animal/creature forms rendered in shallow relief",
+  "circular disc motif",
+  "horizontal band or belt-like division across the body of the stone",
+  "serpentine / curved elongated forms",
+  "stacked registers of motifs on a vertical surface",
+  "suggestion of arms or limbs carved on the stone body"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both are anthropomorphising standing pillars whose surfaces carry shallow, highly schematic relief organised into stacked zones, with a horizontal band or belt dividing an upper zone of repeated creature-like motifs from a lower zone, and both include a disc and sinuous serpentine forms. The difference is in the specific content: A shows a clear menagerie of identifiable profile animals (quadrupeds, long-necked birds, insect-like creature) arranged as a narrative-like assemblage, whereas B's carving is dominated by a single anthropomorphic body with a face/headdress, arms and belt, with only faint ornamental motifs rather than a bestiary.",
+ "a": "anatolia_ppn_p43full",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "target",
+ "usage": [
+  2848,
+  960
+ ]
+}

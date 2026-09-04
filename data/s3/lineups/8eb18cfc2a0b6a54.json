@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  8,
+  5,
+  10,
+  9,
+  1,
+  6,
+  2,
+  3,
+  7
+ ],
+ "most_similar_reason": "Both depict decorated surfaces with densely packed, stylized standing figures and complex symbols.",
+ "least_similar_reason": "This displays a sparse linear animal motif, contrasting with the target's dense composition.",
+ "set": "same_control",
+ "i": 11,
+ "target": "maya_0138",
+ "planted": "maya_0019",
+ "cands": [
+  "rapa_nui_0039",
+  "tanum_0348",
+  "tanum_0236",
+  "maya_0019",
+  "gotland_0111",
+  "catalhoyuk_0110",
+  "tanum_0129",
+  "egypt_0075",
+  "egypt_0053",
+  "assyria_0011"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "assyria",
+  "egypt",
+  "tanum",
+  "catalhoyuk",
+  "egypt",
+  "tanum",
+  "gotland",
+  "rapa_nui",
+  "tanum"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

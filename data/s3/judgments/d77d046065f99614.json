@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "repeated units arranged in a horizontal row/band",
+  "framing horizontal lines or registers"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "The only shared content is the generic device of repeated small units set in horizontal rows bounded by lines: rows of block-like glyph cells in A and rows of figures in a register band in B. A depicts an abstract emblematic composition (a large hatched disc with small paired oval signs inside a rectangular glyph border) with no human or animal forms, while B depicts naturalistic processions of standing human figures and animals in profile; the conventions of rendering are entirely unrelated.",
+ "a": "maya_0024",
+ "b": "persepolis_0051",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  256
+ ]
+}

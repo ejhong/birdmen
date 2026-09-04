@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low-relief carving on a large stone surface",
+  "animals in profile",
+  "birds with pronounced beaks",
+  "rows of repeated small signs/motifs in horizontal bands",
+  "quadruped/mammal figure in profile",
+  "abstract geometric elements (discs, rectangles, chevrons)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces show low-relief animals in profile combined with dense rows of repeated small abstract signs arranged in registers, and both include a bird-like creature with a prominent beak plus disc shapes. However, A is a script-like inscription with cartouche-style enclosed sign groups and a single naturalistic winged/kneeling figure, while B is a figural composition of stacked animals (arched quadrupeds, snake-like descending forms, standing bird) with a fringed band, so the sign repertoire, the animal postures and the way elements relate to one another are quite different.",
+ "a": "egypt_0017",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  361
+ ]
+}

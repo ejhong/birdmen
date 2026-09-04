@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "upright carved stone surface",
+  "low-relief animal or zoomorphic forms",
+  "curving snake-like forms",
+  "round or oval motifs",
+  "stacked horizontal zones or registers"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both are upright stone surfaces covered with shallow relief, including animal-like profiles and curving, serpent-like or scroll-like forms arranged in stacked zones. The biggest difference is compositional and graphic: A has more open, separated figures with a clear patterned horizontal band, while B is denser, more compact, and dominated by interlocking curvilinear forms on a rounded slab.",
+ "a": "anatolia_ppn_p43full",
+ "b": "maya_0114",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  670
+ ]
+}

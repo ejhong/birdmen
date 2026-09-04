@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "upright rectangular slab/monolith bearing a figure in relief",
+  "single frontal standing human figure occupying the full height of the slab",
+  "figure carved in relief projecting from the slab's face",
+  "block/plinth base at the foot of the monument"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "0",
+ "gestalt_similarity": "2",
+ "overall": "3",
+ "justification": "Both show a single frontal standing human figure carved in relief filling the height of an upright slab set on a base, which is the main correspondence but is a widely independent solution. The depicted content diverges sharply otherwise: A shows an unadorned, naturalistically modelled nude body with no accompanying motifs, while B shows a heavily costumed figure smothered in headdress, masks, ornaments and sign-like panels rendered in dense schematic low relief.",
+ "a": "egypt_0061",
+ "b": "maya_0056",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2924,
+  600
+ ]
+}

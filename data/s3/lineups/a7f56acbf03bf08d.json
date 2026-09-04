@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  4,
+  1,
+  7,
+  8,
+  6,
+  2,
+  10,
+  3,
+  5
+ ],
+ "most_similar_reason": "Both display stylized animal figures carved in relief on a vertical block.",
+ "least_similar_reason": "Presents a 3D human form without scattered animal designs.",
+ "set": "moai_close_among_random",
+ "i": 18,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "maya_0023",
+  "assyria_0153",
+  "mississippian_0018",
+  "tanum_0100",
+  "rapa_nui_0004",
+  "egypt_0038",
+  "egypt_0012",
+  "egypt_0043",
+  "maya_0069",
+  "persepolis_0047"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "maya",
+  "tanum",
+  "mississippian",
+  "egypt",
+  "maya",
+  "egypt",
+  "assyria",
+  "egypt",
+  "persepolis"
+ ],
+ "model": "gemini",
+ "planted_rank": 10
+}

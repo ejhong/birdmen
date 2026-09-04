@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "horizontal rows or bands of repeated signs",
+  "schematic outline figures on a vertical decorated surface",
+  "bird- or wing-like forms",
+  "animal-like profile signs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The main correspondence is that both surfaces use schematic linear imagery organized in horizontal zones, with some repeated signs and occasional bird/animal-like profile forms. The biggest difference is that A is dominated by a sun-disc-with-rays scene, human figures, an altar/shrine, and dense rows of inscription-like signs, while B is dominated by large isolated animals and abstract symbols with no comparable central human-solar ritual scene.",
+ "a": "egypt_0077",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1751,
+  678
+ ]
+}

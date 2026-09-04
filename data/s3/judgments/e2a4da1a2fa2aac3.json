@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "dense field of pictographic/logographic signs covering the surface",
+  "signs organized in ordered rows/columns",
+  "upright monolithic slab or shaft as the carrying surface",
+  "low-relief carved figural signs including human/animal heads in profile",
+  "human figures rendered small within the sign field"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces are upright slabs entirely covered with a grid-like field of pictographic signs, many of which are profile heads and small human forms carved in low relief, and both organize these signs into strictly ordered rows read across the face \u2014 a real but fairly generic correspondence of the 'inscribed stela' type. They differ sharply in the specific forms: A uses large square, rounded-cornered cartouche-like glyph blocks with tightly packed curvilinear infill, whereas B uses small, linear, widely varied sign shapes in narrow ruled lines beneath a distinct arched lunette scene of seated/standing figures flanking a disc, a figural composition with no counterpart in A.",
+ "a": "maya_0152",
+ "b": "egypt_0069",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2799,
+  387
+ ]
+}

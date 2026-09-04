@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic anthropomorphic or face-like figure",
+  "circular or disc motifs",
+  "paired round marks",
+  "incised linear/curvilinear motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is the use of schematic, incised anthropomorphic or face-like forms with circular marks, including paired round elements. The biggest difference is that B presents a single organized frontal figure with head, torso-like zones and symmetrical features, while A appears to contain multiple scattered, faint carvings on separate rock surfaces without the same clear integrated iconographic scheme.",
+ "a": "rapa_nui_0106",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  666
+ ]
+}

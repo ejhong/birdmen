@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "upright decorated stone surface",
+  "relief carving",
+  "stacked glyph-like blocks or signs",
+  "circle or disc motifs",
+  "horizontal bands/registers",
+  "profile heads or faces"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The most specific correspondence is that both show an upright carved surface organized with stacked glyph-like signs, small circular motifs, and some profile heads within a broadly vertical format. The biggest difference is that A is a broad, rough, shallow-relief face divided into horizontal registers with animal-like/profile signs, while B is a narrow, finely detailed monument dominated by a side column of compact signs and frontal standing human figures.",
+ "a": "anatolia_ppn_p43full",
+ "b": "maya_0054",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1124,
+  671
+ ]
+}

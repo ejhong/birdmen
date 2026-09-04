@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "front-facing anthropomorphic figure with blocky head and shoulders",
+  "paired small circular breast or nipple marks",
+  "large central circular ring or disc on the torso",
+  "nested curved horizontal bands below the central disc",
+  "short pendant vertical or triangular strokes beneath the bands",
+  "incised vertical and wavy/serpentine markings on the head and upper body",
+  "arms or side projections hanging down from the shoulders"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "10",
+ "justification": "Both show the same highly specific anthropomorphic scheme: paired small circles on the upper torso, a larger central ring below them, nested arcing bands beneath that ring, and pendant strokes below, with similar incised head markings above. The only meaningful difference is that some minor carved details are more or less visible in one view than the other, rather than a difference in depicted content.",
+ "a": "rapa_nui_0025",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1725,
+  685
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "bird or bird-like animal in profile",
+  "animal figures in profile",
+  "horizontal band of repeated pattern",
+  "repeated short strokes or chevron-like marks"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The most specific correspondence is a carved profile bird-like creature associated with horizontal ornamental bands of repeated marks. The biggest difference is that A is dominated by one large, rounded, high-relief figure with dense surface detail, while B is a flat, multi-register pillar-like surface with several smaller, more schematic incised figures.",
+ "a": "assyria_0099",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  964
+ ]
+}

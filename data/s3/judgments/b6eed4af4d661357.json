@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic central figure or face-like form",
+  "circle or disc motif",
+  "linear appendage- or band-like marks"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main correspondence is that both use a schematic, geometric vocabulary with a prominent circular element incorporated into a central figure or face-like form, accompanied by simple linear marks. The biggest difference is that A shows a flat pictographic figure with concentric target-like body, limb-like extensions, a separate dot, and a lower linear band, while B shows an upright anthropomorphic carved form dominated by facial features and stacked body/head zones.",
+ "a": "tanum_0351",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  605
+ ]
+}

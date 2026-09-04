@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "standing human figures in profile",
+  "long pleated/draped robes reaching the feet",
+  "figure holding an upright staff or spear",
+  "hand raised holding a bowl or vessel",
+  "row of figures aligned along a single horizontal register",
+  "low relief with incised linear detailing of hair/beard and drapery folds"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "7",
+ "justification": "Both surfaces depict processional friezes of robed, bearded human figures shown in strict profile, striding along a single register, with the very specific combination of an upright staff/spear gripped vertically at one side and a raised hand presenting a bowl-like vessel, rendered in shallow relief with the same convention of long parallel incised drapery folds and finely striated hair. The main difference in content is that A is a uniform repeated file of near-identical figures all facing the same way, whereas B shows a hierarchic encounter with a larger staff-bearing figure confronted by a smaller attendant offering the vessel.",
+ "a": "persepolis_0070",
+ "b": "assyria_0139",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  2974,
+  858
+ ]
+}

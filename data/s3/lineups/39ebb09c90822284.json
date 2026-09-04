@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  4,
+  1,
+  7,
+  8,
+  3,
+  9,
+  2,
+  10,
+  6
+ ],
+ "most_similar_reason": "Candidate 5 contains an arched geometric form that somewhat echoes the semi-circular motifs in the target's upper register.",
+ "least_similar_reason": "Candidate 6 shows a highly ordered row of human figures in profile, contrasting with the target's schematic animal depictions.",
+ "set": "moai_among_random",
+ "i": 37,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "maya_0125",
+  "persepolis_0062",
+  "persepolis_0006",
+  "gotland_0129",
+  "gotland_0112",
+  "persepolis_0025",
+  "assyria_0116",
+  "assyria_0034",
+  "rapa_nui_0113",
+  "persepolis_0012"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "persepolis",
+  "assyria",
+  "gotland",
+  "persepolis",
+  "assyria",
+  "persepolis",
+  "persepolis",
+  "gotland",
+  "maya"
+ ],
+ "model": "gemini",
+ "planted_rank": 7
+}

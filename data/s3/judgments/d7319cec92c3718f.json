@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "schematic face-like or anthropomorphic motif",
+  "paired circular eyes or discs",
+  "single circular mouth/disc below the pair",
+  "curving incised/relief lines or bands below/around the face",
+  "additional circular/spiral motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "The strongest correspondence is a schematic face-like configuration with two round eye/disc elements and a lower circular mouth/disc, accompanied by curving linear bands. The biggest difference is that B presents this as a clear frontal standing/monolithic anthropomorphic figure, while A is a denser, more ambiguous relief with multiple intertwined animal- or mask-like forms and spirals rather than one dominant figure.",
+ "a": "rapa_nui_0124",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  692
+ ]
+}

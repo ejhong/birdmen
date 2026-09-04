@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "circle or disc",
+  "horizontal band or line",
+  "schematic figure with appendage-like limbs"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of simple circular/oval forms together with strong horizontal lines or bands across a decorated stone surface. The biggest difference is that A is a sparse red-painted, largely geometric single motif with a target-like center, while B is a dense carved relief organized into registers with multiple figurative animal-like forms.",
+ "a": "tanum_0351",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  640
+ ]
+}

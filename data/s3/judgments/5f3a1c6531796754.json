@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "anthropomorphic or human figure",
+  "circle or disc motif",
+  "linear/incised signs or bands"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific shared content is only generic: both include anthropomorphic imagery and circular motifs, with some linear marking or banding. The biggest difference is that A shows a complex scene of multiple profile human figures around a prominent radiating disc with dense rows of sign-like text, while B shows a single frontal, highly stylized anthropomorphic body with circles and curved bands on the torso.",
+ "a": "egypt_0014",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1777,
+  657
+ ]
+}

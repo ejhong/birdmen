@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  4,
+  8,
+  1,
+  5,
+  7,
+  6,
+  3,
+  2,
+  10
+ ],
+ "most_similar_reason": "Candidate 9 is most similar because it likewise presents a vertically organized, schematic relief of interlocking glyphic/zoomorphic forms with mask-like facial elements and strong outlined bands rather than a naturalistic scene.",
+ "least_similar_reason": "Candidate 10 is least similar because its visible depicted content is too indistinct and lacks the target\u2019s recognizable frontal mask, paired circular eyes, curved mouth/band motif, and organized symbolic registers.",
+ "set": "p43_iso_among_monoliths",
+ "i": 39,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "egypt_0045",
+  "maya_0106",
+  "egypt_0044",
+  "gotland_0026",
+  "egypt_0042",
+  "maya_0149",
+  "maya_0152",
+  "gotland_0000",
+  "anatolia_ppn_p43iso",
+  "maya_0125"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "gotland",
+  "maya",
+  "gotland",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

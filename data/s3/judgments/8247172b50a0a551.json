@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "profile figures",
+  "human or anthropomorphic figure",
+  "horizontal registers or bands",
+  "linear patterning/striated infill"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific overlap is that both surfaces use profile, outlined figures with some linear internal detailing and are organized partly by horizontal bands/registers. The major difference is that A shows a repeated procession of human attendants holding vessels, while B is dominated by isolated animals/birds and symbols in stacked registers with no comparable procession or vessel-bearing figures.",
+ "a": "persepolis_0012",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  656
+ ]
+}

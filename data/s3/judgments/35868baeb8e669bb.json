@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "round-topped stele with carved relief field",
+  "winged sun-disc / outstretched winged motif across the upper lunette",
+  "human figures in profile facing one another",
+  "registers divided by horizontal lines",
+  "rows of incised hieroglyph-like signs",
+  "offering table or altar between figures",
+  "seated/standing figures with raised arms in gesture of offering or adoration",
+  "deity figure with animal (falcon-like) head wearing a disc"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "8",
+ "justification": "Both are round-topped stelae whose lunette carries an outstretched winged disc, below which profile human figures face one another across an offering stand, accompanied by columns/lines of the same script-like signs. The chief difference is that A packs many small figures into three or four crowded registers of a funerary banquet/mourning type, while B shows a single large two-figure adoration scene with a falcon-headed deity and an empty lower panel.",
+ "a": "egypt_0045",
+ "b": "egypt_0068",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  2974,
+  344
+ ]
+}

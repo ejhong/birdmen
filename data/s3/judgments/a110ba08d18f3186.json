@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "profile figures",
+  "bird-like figure in profile",
+  "row or band of repeated signs/symbols",
+  "linear/geometric marks associated with figures"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest correspondence is that both surfaces use schematic profile figures together with rows or bands of small signs, and B\u2019s bird-like forms loosely echo bird-shaped signs among A\u2019s inscriptional elements. The major difference is that A is a human ritual or presentation scene dominated by standing human figures and text-like signs, whereas B is dominated by animals, abstract symbols, and register-like bands with no comparable human interaction scene.",
+ "a": "egypt_0074",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  832
+ ]
+}

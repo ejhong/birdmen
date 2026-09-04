@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "ram/sheep with large spiral curled horn",
+  "animal head shown with prominent eye and muzzle",
+  "fleece or hide rendered as an incised net/cross-hatched pattern",
+  "animal body with legs indicated"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both depict a horned ram with a heavy spiral horn beside the eye and a fleece rendered as a regular incised cross-hatch or net pattern, which is a reasonably specific shared convention for the same animal. However, A is a multi-figure procession in which human figures lead a file of rams above a band of rosettes, while B shows a single isolated animal with no accompanying figures, band or scene context, so the relationships and arrangement do not correspond.",
+ "a": "persepolis_0027",
+ "b": "anatolia_ppn_0266",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  597
+ ]
+}

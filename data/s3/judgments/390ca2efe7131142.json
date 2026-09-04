@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "animal figures in profile",
+  "human or human-like figures",
+  "horizontal registers or bands",
+  "repeated geometric/pattern motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main correspondences are broad: both surfaces include profile animals, human or human-like figures, and horizontally organized bands with repeated patterning. The biggest difference is that A shows an orderly procession of robed profile figures with a large animal and a rosette frieze, while B shows much more schematic, scattered animals/signs and geometric bands without the same procession, attributes, or iconographic scheme.",
+ "a": "persepolis_0099",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  670
+ ]
+}

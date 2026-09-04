@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "carved marks on a stone surface",
+  "horizontal rows or bands of motifs",
+  "profile bird/animal-like forms",
+  "small repeated sign-like figures"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The most specific correspondence is that both surfaces organize incised or low-relief motifs into horizontal bands, including small profile animal/bird-like signs among other linear forms. The biggest difference is that A is a dense, regular all-over field of small standardized signs, while B is a vertical slab with a few large, rougher pictorial figures separated into broad registers.",
+ "a": "egypt_0016",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  657
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "quadruped mammal shown in profile",
+  "animal rendered in relief against a plain ground",
+  "animal with head turned/limbs indicated schematically"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The only real correspondence is that each shows a quadruped mammal in profile carved in relief on a plain field, a motif almost any tradition could produce; A additionally includes a projecting row of animal heads, a woven/zigzag band, birds, snakes and small human-like figures that have no counterpart in B. A is a multi-register composition of flat, schematic, linear relief figures, while B is a single isolated, rounded, high-relief crouching beast, so the relationships, arrangement and carving conventions differ substantially.",
+ "a": "anatolia_ppn_p43full",
+ "b": "rapa_nui_0122",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  597
+ ]
+}

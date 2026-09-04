@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  7,
+  1,
+  5,
+  2,
+  6,
+  10,
+  4,
+  8,
+  9
+ ],
+ "most_similar_reason": "Both depict stylized figures and curved symbolic motifs in a central, vertical arrangement.",
+ "least_similar_reason": "It features linear, stick-figure narrative scenes, contrasting with the target's solid, abstract symbolic forms.",
+ "set": "p43_among_random",
+ "i": 37,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "assyria_0084",
+  "assyria_0092",
+  "egypt_0068",
+  "egypt_0000",
+  "persepolis_0039",
+  "assyria_0039",
+  "anatolia_ppn_p43full",
+  "tanum_0078",
+  "tanum_0327",
+  "assyria_0088"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "assyria",
+  "egypt",
+  "persepolis",
+  "egypt",
+  "tanum",
+  "tanum",
+  "assyria",
+  "assyria",
+  "assyria"
+ ],
+ "model": "gemini",
+ "planted_rank": 2
+}

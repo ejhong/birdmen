@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "dense field of small schematic signs covering a rock surface",
+  "horizontal registers/lines of repeated glyph-like marks",
+  "rectangular framed sign-groups or cells within the rows",
+  "incised linear signs with no shading or infill"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces are given over almost entirely to a script-like inscription: rows of small, incised, schematic signs stacked in horizontal registers that run across the whole available face, with some signs grouped into rectangular framed cells. The sign repertoires themselves differ (A includes a recognisable figural/animal image and long, tightly packed cursive rows; B's glyphs are larger, blockier and organised into fewer, boxier bands), so the correspondence is at the level of 'organised writing in bands' rather than shared specific motifs.",
+ "a": "egypt_0018",
+ "b": "maya_0070",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  657
+ ]
+}

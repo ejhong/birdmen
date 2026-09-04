@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  1,
+  9,
+  7,
+  5,
+  2,
+  6,
+  10,
+  4,
+  3
+ ],
+ "most_similar_reason": "Candidate 8 is, like the target, an upright rounded-topped slab whose whole face is filled with regular horizontal registers of small incised script signs, the same convention of a text-dominated commemorative tablet.",
+ "least_similar_reason": "Candidate 3 shows only a large modelled face/head in the round with no inscribed signs, no registers and no scene, sharing none of the target's textual or figural conventions.",
+ "set": "same_control_monoliths",
+ "i": 17,
+ "target": "egypt_0049",
+ "planted": "egypt_0063",
+ "cands": [
+  "maya_0146",
+  "maya_0054",
+  "anatolia_ppn_0260",
+  "mississippian_0015",
+  "gotland_0009",
+  "anatolia_ppn_0084",
+  "maya_0110",
+  "egypt_0063",
+  "maya_0092",
+  "rapa_nui_0005"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "maya",
+  "mississippian",
+  "maya",
+  "maya",
+  "rapa_nui",
+  "maya",
+  "anatolia_ppn",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

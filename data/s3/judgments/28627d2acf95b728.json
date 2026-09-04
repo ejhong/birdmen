@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "schematic animal or bird forms in profile",
+  "human/anthropomorphic figure signs",
+  "repeated abstract signs",
+  "horizontal rows or registers of motifs",
+  "linear/geometric banding"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is that both surfaces include schematic profile creatures and small sign-like forms organized at least partly in horizontal rows or bands. The biggest difference is that A is overwhelmingly a dense, regular field of many small repeated script-like signs, while B is a sparse composition of large individual animal/anthropomorphic motifs and geometric bands.",
+ "a": "egypt_0024",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  668
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  4,
+  10,
+  6,
+  8,
+  7,
+  3,
+  5,
+  2,
+  1
+ ],
+ "most_similar_reason": "Candidate 9 shares the target's overall stele composition\u2014a rounded head\u2011shaped top surmounting a body filled with horizontal geometric bands and a stylized emblem\u2014mirroring the target's layered arrangement of anthropomorphic heads over patterned registers.",
+ "least_similar_reason": "Candidate 1 depicts a painted scene of a galloping horse and rider with no anthropomorphic head\u2011shapes, geometric banding, or animal frieze arrangement, making its iconographic content the most divergent from the target.",
+ "set": "hard",
+ "i": 9,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0115",
+  "tanum_0359",
+  "rapa_nui_0113",
+  "gotland_0123",
+  "egypt_0027",
+  "maya_0047",
+  "egypt_0012",
+  "gotland_0133",
+  "gotland_0125",
+  "gotland_0116"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "gotland",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "sonnet",
+ "planted_rank": 7
+}

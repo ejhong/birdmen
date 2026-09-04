@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  8,
+  6,
+  4,
+  2,
+  9,
+  5,
+  1,
+  10,
+  3
+ ],
+ "most_similar_reason": "Candidate 7 shows a prominent schematic figure rendered with outlines and internal patterning, sharing the target's linearly carved creatures and geometric infill more than any other candidate.",
+ "least_similar_reason": "Candidate 3 shows only a barren natural rock face with no creatures, figures, symbols, geometric motifs or arranged elements.",
+ "set": "moai_iso_among_random",
+ "i": 6,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "rapa_nui_hoa_iso",
+  "persepolis_0047",
+  "egypt_0006",
+  "tanum_0340",
+  "gotland_0003",
+  "tanum_0070",
+  "mississippian_0009",
+  "mississippian_0075",
+  "gotland_0005",
+  "egypt_0004"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "persepolis",
+  "mississippian",
+  "egypt",
+  "tanum",
+  "gotland",
+  "mississippian",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "grok",
+ "planted_rank": 8
+}

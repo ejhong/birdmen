@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "frontal standing human figure(s)",
+  "human head with defined outline",
+  "upright figures on a horizontal base/support"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "Both depict upright human figures, and in each case the figures stand on or rise from a horizontal supporting element (a boat hull in A, a stepped platform in B), but that is a near-universal correspondence. A shows two flat, wholly schematic silhouette figures with no attributes inside a curved-ended vessel, while B shows a single richly costumed, naturalistically modelled figure with elaborate headdress, ornaments and glyph-like panels covering the shaft \u2014 utterly different conventions of depiction and content.",
+ "a": "tanum_0321",
+ "b": "maya_0060",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3124,
+  275
+ ]
+}

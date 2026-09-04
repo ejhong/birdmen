@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "anthropomorphic monolithic form",
+  "arm-like relief flanking the torso",
+  "circular disc motif on the body",
+  "horizontal banding across the surface"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both are vertical stone monoliths with a humanoid silhouette, flanking arm-like reliefs, and a central disc motif on the torso, suggesting a loosely comparable anthropomorphic scheme. However, A emphasizes a naturalistic carved face with minimal extra imagery, while B is dominated by abstract animal figures (fox/snake/bird-like) and arched patterning that have no counterpart in A, marking a clear divergence in specific iconography and style.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_p43full2",
+ "model": "sonnet",
+ "set": "target",
+ "usage": [
+  2999,
+  849
+ ]
+}

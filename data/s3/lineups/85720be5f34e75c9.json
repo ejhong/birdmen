@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  3,
+  4,
+  7,
+  6,
+  2,
+  9,
+  10,
+  1,
+  5
+ ],
+ "most_similar_reason": "Candidate 8 is, like the target, an upright carved slab bearing figural relief laid out in stacked panels/registers across a flat face, the closest match in both format and the way images are organised on the surface.",
+ "least_similar_reason": "Candidate 5 depicts only a single frontal human face with headdress and inlaid eyes, sharing none of the target's registered rows of profile animals, birds and geometric banding.",
+ "set": "moai_iso_among_random",
+ "i": 26,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "tanum_0333",
+  "persepolis_0070",
+  "rapa_nui_hoa_iso",
+  "egypt_0017",
+  "mississippian_0008",
+  "persepolis_0073",
+  "maya_0060",
+  "maya_0111",
+  "tanum_0060",
+  "tanum_0325"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "tanum",
+  "egypt",
+  "tanum",
+  "mississippian",
+  "tanum",
+  "maya",
+  "persepolis",
+  "maya",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  2,
+  9,
+  6,
+  8,
+  10,
+  3,
+  1,
+  4,
+  5
+ ],
+ "most_similar_reason": "It shows a vertically stacked schematic relief of figurative scenes with human and animal forms whose arrangement and outline-plus-infill conventions most closely match the target's profile birds, hybrid figure and patterned upper structures.",
+ "least_similar_reason": "It contains only rows of linear signs and no creatures, human figures, objects or geometric pictorial motifs of the kinds depicted on the target.",
+ "set": "moai_iso_among_random",
+ "i": 8,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "assyria_0032",
+  "persepolis_0020",
+  "assyria_0123",
+  "egypt_0045",
+  "gotland_0004",
+  "maya_0158",
+  "egypt_0067",
+  "rapa_nui_hoa_iso",
+  "assyria_0140",
+  "gotland_0113"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "gotland",
+  "egypt",
+  "assyria",
+  "egypt",
+  "gotland",
+  "maya",
+  "assyria",
+  "assyria",
+  "persepolis"
+ ],
+ "model": "grok",
+ "planted_rank": 5
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "low-relief carved figural scene on a rectangular panel",
+  "profile orientation of figures",
+  "patterned/textured infill areas (feathers vs brickwork courses)",
+  "curved/arched forms"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both are shallow relief panels with strictly profile figures and dense repetitive surface patterning (feather rows in A, brick coursing and crenellation in B), and both share a convention of a single unframed rectangular field. But the depicted content differs entirely: A shows one large-scale bird-headed winged being filling the panel, while B shows a small-scale multi-figure siege narrative with fortified walls, towers, an arched gate and archers on a wheeled engine.",
+ "a": "assyria_0119",
+ "b": "assyria_0092",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3349,
+  286
+ ]
+}

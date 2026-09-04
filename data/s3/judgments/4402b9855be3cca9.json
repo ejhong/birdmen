@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "tall stone slab with carved relief divided into registers",
+  "horizontal dividing band with repeated linear/geometric marks",
+  "row of three repeated elements across the upper register",
+  "quadruped animal shown in profile",
+  "small human/anthropomorphic figure",
+  "large animal dominating the lower field with a smaller figure beside it",
+  "border/frame element along the edge"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "3",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces present a vertical slab organised into an upper register of exactly three repeated, evenly spaced elements separated by a hatched horizontal band from a lower field dominated by a large profile quadruped accompanied by a smaller anthropomorphic figure, which is a fairly specific compositional scheme. The biggest difference in content is the identity of the upper triad and the lower actors: A's top row consists of three trapezoidal bag-like objects surmounted by small animals and its lower field mixes bird, snake and human, whereas B's triad are armed standing humans and its lower field shows a single large beast with a rider/attacker.",
+ "a": "anatolia_ppn_p43full",
+ "b": "gotland_0116",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3024,
+  845
+ ]
+}

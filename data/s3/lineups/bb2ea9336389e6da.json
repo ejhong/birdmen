@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  1,
+  10,
+  7,
+  9,
+  6,
+  8,
+  3,
+  4,
+  2
+ ],
+ "most_similar_reason": "Candidate 5, like the target, is a tall upright slab covered with large discrete pictorial sign-forms carved in low relief and set out in ruled rows/columns, the same convention of a writing-like sequence of animal and object emblems rather than a single narrative scene.",
+ "least_similar_reason": "Candidate 2 shows only an abstract lattice/chequer field within a framed panel, with none of the target's profile animals, birds, serpents or repeated pictorial signs arranged in registers.",
+ "set": "moai_iso_among_monoliths",
+ "i": 9,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0073",
+  "gotland_0111",
+  "gotland_0116",
+  "gotland_0131",
+  "maya_0137",
+  "egypt_0069",
+  "maya_0101",
+  "rapa_nui_hoa_iso",
+  "maya_0053",
+  "maya_0147"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "egypt",
+  "gotland",
+  "maya",
+  "gotland",
+  "maya",
+  "maya",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 7
+}

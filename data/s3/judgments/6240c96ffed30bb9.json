@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "standing figure in strict profile, low relief",
+  "elaborately curled/patterned hair and beard",
+  "long fringed or patterned garment",
+  "figure holding a handled object in one hand",
+  "raised arm/hand gesture",
+  "horizontal band framing the composition",
+  "rosette / stylised floral motif"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show bearded, profile, low-relief figures in long patterned robes with heavily stylised curled hair, one arm raised and the other holding a handled vessel-like object, alongside rosette/floral ornament and framing horizontal bands \\u2014 a fairly specific set of shared conventions. The biggest difference in content is that A depicts long repeated processions of purely human attendants stacked in registers, while B shows a single isolated hybrid bird-headed winged figure attending a large stylised sacred plant.\n",
+ "a": "persepolis_0018",
+ "b": "assyria_0090",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3249,
+  709
+ ]
+}

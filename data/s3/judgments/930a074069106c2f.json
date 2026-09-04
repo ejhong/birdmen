@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "bird in profile",
+  "animal figures used as signs or motifs",
+  "rows of repeated small signs",
+  "horizontal register-like divisions",
+  "linear schematic carving/drawing conventions"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "The strongest shared content is the use of profile bird/animal motifs and rows of small schematic signs arranged in horizontal bands or registers. The main difference is that B is dominated by dense sign-writing and seated human figures in ordered registers, while A is a looser animal-and-geometric composition with larger isolated creatures and no comparable human figure scheme.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0040",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  664
+ ]
+}

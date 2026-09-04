@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "standing figure in strict profile",
+  "long fringed/patterned robe",
+  "raised bent arm holding an object",
+  "low-relief figures arranged along a wall surface",
+  "stylized floral/rosette motifs",
+  "quadruped animals in profile (A only pairs, B none)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict profile standing figures in long patterned, fringed robes carved in low relief with one arm bent and raised holding something, and both include rosette-like floral motifs, which is a moderately specific shared convention. However, A shows a whole architectural ruin with columns, stairways, a repeating file of small procession figures and a lion-attacking-bull group, while B shows a single large bird-headed winged figure beside a stylized plant \u2014 the dominant motifs and compositions are quite different.",
+ "a": "persepolis_0029",
+ "b": "assyria_0071",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3249,
+  664
+ ]
+}

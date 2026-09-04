@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "bearded male human figure in profile",
+  "head covering / cap-like headdress",
+  "hair and beard rendered as regular rows of tight curls",
+  "low-relief figure facing right (or left) in strict profile with frontal-ish eye convention",
+  "patterned/detailed garment"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show bearded men in strict profile low relief with soft caps and hair/beard treated as tidy repeating rows of curls, plus attention to patterned dress \u2014 a fairly specific shared figural convention. But A is a single monumental bust filling the field, while B is a horizontal processional frieze with a large camel, staff- and vessel-bearing attendants and a rosette border, none of which recurs in A.",
+ "a": "assyria_0123",
+ "b": "persepolis_0007",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  606
+ ]
+}

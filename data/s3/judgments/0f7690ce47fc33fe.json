@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "standing human figure",
+  "carved glyphic/text-like signs (in A) vs figural carving (in B)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Image A depicts a dense field of small glyphic/text-like carved signs covering a flat surface, while Image B depicts a single standing human figure carved on a freestanding stela set against an architectural staircase, so the actual subject matter differs fundamentally (text vs figural iconography). The only loose commonality is that both involve carved relief on stone associated with a monumental structure, but there is no shared specific motif, pose, or compositional relationship between elements.",
+ "a": "egypt_0035",
+ "b": "maya_0000",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  3224,
+  255
+ ]
+}

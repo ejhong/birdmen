@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  4,
+  7,
+  5,
+  6,
+  9,
+  3,
+  1,
+  10,
+  2
+ ],
+ "most_similar_reason": "Candidate 8 is most similar because it shares the target\u2019s low-relief, linear-outline convention for profile human figures arranged in formal bands with accompanying objects and repeated signs, giving the closest match in figural style and surface organization.",
+ "least_similar_reason": "Candidate 2 is least similar because it appears essentially undecorated, with no recognizable figures, symbols, or narrative arrangement comparable to the target\u2019s profile human scene and surrounding signs.",
+ "set": "same_control",
+ "i": 37,
+ "target": "egypt_0073",
+ "planted": "egypt_0017",
+ "cands": [
+  "tanum_0240",
+  "maya_0000",
+  "rapa_nui_0044",
+  "persepolis_0061",
+  "maya_0106",
+  "maya_0147",
+  "assyria_0131",
+  "persepolis_0026",
+  "egypt_0017",
+  "rapa_nui_0108"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "tanum",
+  "maya",
+  "maya",
+  "rapa_nui",
+  "rapa_nui",
+  "assyria",
+  "maya",
+  "persepolis",
+  "persepolis"
+ ],
+ "model": "gpt",
+ "planted_rank": 6
+}

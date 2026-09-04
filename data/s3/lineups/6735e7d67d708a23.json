@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  5,
+  8,
+  4,
+  2,
+  10,
+  3,
+  7,
+  9,
+  6
+ ],
+ "most_similar_reason": "Candidate 1 shows the same distinctive scheme as the target: a tall upright carved pillar bearing stacked low-relief creatures in profile, one above another in bands, rendered in the same bold, schematic, outlined-and-raised manner rather than as naturalistic figures.",
+ "least_similar_reason": "Candidate 6 depicts a crowded scene of small, stick-like, animated human figures in flat silhouette with no profile animals, no register bands and none of the target's heavy raised-relief schematic creature forms.",
+ "set": "moai_iso_among_random",
+ "i": 20,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0094",
+  "persepolis_0043",
+  "tanum_0061",
+  "tanum_0100",
+  "tanum_0359",
+  "catalhoyuk_0025",
+  "tanum_0056",
+  "rapa_nui_hoa_iso",
+  "assyria_0139",
+  "persepolis_0044"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "persepolis",
+  "tanum",
+  "tanum",
+  "catalhoyuk",
+  "persepolis",
+  "tanum",
+  "assyria",
+  "maya",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 3
+}

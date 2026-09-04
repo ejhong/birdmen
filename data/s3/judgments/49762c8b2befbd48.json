@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "anthropomorphic figure",
+  "head with facial features indicated",
+  "limbs/arms held in a bent posture",
+  "upright/standing orientation"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both depict an upright anthropomorphic figure with head and bent limbs, but that is a near-universal subject and the correspondence stops there: A is a flat, silhouetted, linear painted human in profile-legged striding pose surrounded by small schematic animal and sign motifs, whereas B is a compact three-dimensional composite figure with a crouched body and a large ridged element above the head, with no accompanying secondary motifs. The rendering conventions differ entirely \u2014 thin solid outline drawing versus blocky carved volumes with incised hatching \u2014 so nothing suggests a shared iconographic scheme.",
+ "a": "tanum_0106",
+ "b": "anatolia_ppn_0263",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2974,
+  314
+ ]
+}

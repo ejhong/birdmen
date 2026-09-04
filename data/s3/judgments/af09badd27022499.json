@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief carved figures on a flat stone surface",
+  "animals in profile",
+  "quadruped with four legs shown in side view",
+  "horizontal register/band dividing the composition",
+  "repeated row of similar figures along a band"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both show low-relief animals in profile arranged partly in horizontal registers, and both include a repeated row of similar creatures along an upper band, but this is generic register-based relief practice. A depicts a narrative human scene\u2014archers, a chariot with spoked wheel, harnessed horses, marching soldiers with weapons\u2014whereas B is a non-narrative assemblage of isolated animals (a snarling quadruped facing down, birds, a bird with wing spread, small animals) with no humans, no action between figures, and a pillar-shaped field rather than a continuous frieze.",
+ "a": "assyria_0047",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  326
+ ]
+}

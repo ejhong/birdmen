@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "large stylized anthropomorphic figure or torso with head and shoulders",
+  "incised vertical and curvilinear motifs on the back of the head",
+  "paired small circular depressions on the upper back/shoulder area",
+  "central oval or circular disc on the upper torso/back",
+  "curving scroll-like motifs around the central disc",
+  "multiple horizontal arcing bands across the midsection",
+  "short vertical pendant lines below the bands",
+  "small circular mark near the lower body"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "10",
+ "justification": "Both surfaces show the same distinctive scheme: a blocky anthropomorphic figure/back with paired upper circular marks, a central oval disc, surrounding curvilinear incisions, and stacked arcing bands with pendant vertical strokes below. The main difference is only that the two views expose slightly different side contours and peripheral details, not a substantive difference in the depicted content.",
+ "a": "rapa_nui_0113",
+ "b": "rapa_nui_0065",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1725,
+  630
+ ]
+}

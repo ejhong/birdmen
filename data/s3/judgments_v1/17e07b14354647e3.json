@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "stylized anthropomorphic figure",
+  "incised or low-relief linear carving on stone",
+  "geometric linear motifs"
+ ],
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The most specific shared feature is the use of schematic carved human-like figures and linear incisions on a stone surface. The biggest difference is compositional: A is dominated by a central circular medallion with radiating lines, while B is an upright slab organized in stacked registers with multiple figures and motifs.",
+ "a": "persepolis_0042",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  505
+ ]
+}

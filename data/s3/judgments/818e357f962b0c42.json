@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "anthropomorphic figure with head at top and body below",
+  "arms/hands rendered against the body",
+  "incised linear surface detail on the head/upper body",
+  "frontally oriented columnar monumental figure"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both depict a single columnar anthropomorphic figure with a broad head at the top, limbs drawn tight against the body, and incised linear detail marking headgear or facial banding, which is a real but fairly generic correspondence. The decisive difference is that A is a fully three-dimensional composite in which a large zoomorphic creature is superposed on a crouching figure, whereas B is a flat frontal slab-figure whose torso carries low-relief regalia (a chest disc, curved ornaments and a belt band) with no second creature.",
+ "a": "anatolia_ppn_0175",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2974,
+  786
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "human figures shown frontally/schematically",
+  "multiple figures side by side on a common baseline",
+  "human figures standing/seated in a row"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "Both surfaces depict human figures arranged along a horizontal baseline, but that is a near-universal convention; A shows a multi-register scene of detailed figures with offering table, seated and standing persons, and columns of small sign-like marks, while B shows only two extremely reduced stick-like figures standing on a boat hull with upturned prows. The specific iconography \u2014 an offering scene with furniture and inscription versus a manned vessel rendered as solid silhouette \u2014 has essentially nothing distinctive in common.",
+ "a": "egypt_0067",
+ "b": "tanum_0325",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  279
+ ]
+}

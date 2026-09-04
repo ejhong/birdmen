@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  5,
+  7,
+  6,
+  3,
+  4,
+  10,
+  2,
+  8,
+  1
+ ],
+ "most_similar_reason": "Candidate 9 shows the same distinctive subject: a tall free-standing anthropomorphic pillar whose flat faces carry low-relief schematic arms, hands and body ornaments treated as a single stylized body rather than a scene.",
+ "least_similar_reason": "Candidate 1 depicts pecked/painted rock-art of boats and tiny stick-figures with weapons scattered on an open rock surface, sharing neither the single monumental anthropomorphic body nor its relief-carved arms, belt and disc ornaments.",
+ "set": "p43_among_random",
+ "i": 13,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "tanum_0327",
+  "persepolis_0073",
+  "maya_0026",
+  "persepolis_0022",
+  "maya_0110",
+  "egypt_0044",
+  "egypt_0041",
+  "tanum_0339",
+  "anatolia_ppn_p43full",
+  "assyria_0052"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "egypt",
+  "egypt",
+  "tanum",
+  "persepolis",
+  "persepolis",
+  "assyria",
+  "maya",
+  "tanum",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

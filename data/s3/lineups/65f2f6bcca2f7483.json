@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  2,
+  4,
+  6,
+  5,
+  7,
+  10,
+  3,
+  1,
+  8
+ ],
+ "most_similar_reason": "Candidate 9, like the target, is dominated by a single large humanoid figure carved in relief that fills the whole rounded-topped block, with an elaborate headdress and body ornaments rendered as the stone's principal subject rather than as part of a narrative scene with text.",
+ "least_similar_reason": "Candidate 8 shows nothing but tall columns of repeated inscribed sign-blocks with no figure, face, headdress, disc or belt, so it shares none of the target's anthropomorphic imagery.",
+ "set": "p43_iso_among_monoliths",
+ "i": 35,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0057",
+  "maya_0114",
+  "gotland_0130",
+  "gotland_0005",
+  "egypt_0047",
+  "egypt_0046",
+  "egypt_0050",
+  "maya_0146",
+  "maya_0027",
+  "anatolia_ppn_p43iso"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "gotland",
+  "egypt",
+  "maya",
+  "maya",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 7
+}

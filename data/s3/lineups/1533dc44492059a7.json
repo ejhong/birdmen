@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  6,
+  1,
+  5,
+  4,
+  3,
+  7,
+  2,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 8, like the target, is a tall narrow upright monolith carved in shallow relief with figural motifs stacked in vertical registers across its face rather than a single centred image.",
+ "least_similar_reason": "Candidate 10 shows only ruled rows of repeated written signs with no creatures, limbs or animal figures at all, sharing nothing with the target's profile animals and relief motifs.",
+ "set": "moai_among_random",
+ "i": 15,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "maya_0054",
+  "assyria_0123",
+  "persepolis_0018",
+  "tanum_0129",
+  "maya_0130",
+  "persepolis_0027",
+  "rapa_nui_0113",
+  "maya_0138",
+  "mississippian_0015",
+  "egypt_0038"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "persepolis",
+  "egypt",
+  "mississippian",
+  "tanum",
+  "maya",
+  "assyria",
+  "maya",
+  "persepolis",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 7
+}

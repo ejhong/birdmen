@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "standing or stick-like human figure",
+  "animal figure in profile",
+  "simple linear/curvilinear carved marks"
+ ],
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific visible correspondence is the presence of simplified carved figures, including human-like forms and profile animals, on stone surfaces. The biggest difference is that A is a carefully organized relief panel with stacked horizontal registers and repeated pattern bands, while B is a set of rough natural boulders with faint, scattered, unframed incised or pecked figures.",
+ "a": "anatolia_ppn_p43full",
+ "b": "rapa_nui_0106",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  650
+ ]
+}

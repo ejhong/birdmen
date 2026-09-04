@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  3,
+  6,
+  5,
+  4,
+  9,
+  8,
+  7,
+  1,
+  2
+ ],
+ "most_similar_reason": "Candidate 10 is most similar because it also presents a dense surface of conventionalized, glyph-like carved motifs with compact abstract/zoomorphic forms rather than a naturalistic narrative scene.",
+ "least_similar_reason": "Candidate 2 is least similar because it depicts an isolated sculptural animal or creature head with no repeated signs, grid, registers, or glyphic surface organization like the target.",
+ "set": "same_control",
+ "i": 31,
+ "target": "maya_0146",
+ "planted": "maya_0127",
+ "cands": [
+  "anatolia_ppn_0264",
+  "anatolia_ppn_0260",
+  "persepolis_0023",
+  "anatolia_ppn_0088",
+  "anatolia_ppn_0205",
+  "persepolis_0043",
+  "assyria_0095",
+  "persepolis_0064",
+  "persepolis_0073",
+  "maya_0127"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "persepolis",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "assyria",
+  "persepolis",
+  "persepolis",
+  "persepolis"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "low-relief carved figures in strict profile",
+  "standing/striding human-form figures",
+  "raised arm holding an object",
+  "bearded/patterned hair and beard rendered in regular rows of curls",
+  "horizontal registers separated by plain bands",
+  "band of rosette-like floral motifs",
+  "stylized plant/flower forms",
+  "register of inscription-like or ornamental horizontal band"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both show low-relief profile figures with meticulously patterned coiffures and beards, one arm raised holding an object, set within horizontal registers bounded by plain bands, and both include stylized rosette/floral motifs (a band of rosettes in B, a flowering plant field in A). The clearest difference is the subject: A features a single large bird-headed winged genius amid formal plants, whereas B shows a procession of ordinary human attendants with a horse and weapons, with no wings or animal head.",
+ "a": "assyria_0102",
+ "b": "persepolis_0044",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3274,
+  349
+ ]
+}

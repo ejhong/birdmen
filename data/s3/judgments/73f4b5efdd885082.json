@@ -1,0 +1,18 @@
+{
+ "shared_elements": [],
+ "element_similarity": "0",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "0",
+ "justification": "Image A depicts a row of standing human figures in procession, rendered in a naturalistic low-relief style with drapery, headdresses, and interaction between figures, while image B depicts a single stylized bird-like creature with outstretched wings, talons, and applied disc ornaments in a flat, patterned decorative style. There is no overlap in subject matter (no human figures in B, no bird or creature in A), no shared relationships (touching/holding gestures in A vs. symmetrical wing-spread in B), and no shared arrangement or stylistic convention between the two.",
+ "a": "persepolis_0047",
+ "b": "mississippian_0011",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  3199,
+  258
+ ]
+}

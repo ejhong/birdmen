@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  2,
+  7,
+  6,
+  3,
+  1,
+  8,
+  5,
+  4,
+  9
+ ],
+ "most_similar_reason": "Candidate 10 is most similar because it depicts a single, centrally arranged frontal anthropomorphic figure with a prominent head/headdress, symmetrical body/side appendages, and dense linear internal detailing, closely matching the target\u2019s stylized frontal human-like figure with facial and torso markings.",
+ "least_similar_reason": "Candidate 9 is least similar because it consists almost entirely of rows of small script-like marks without a comparable central anthropomorphic face, body, or figurative arrangement.",
+ "set": "p43_among_random",
+ "i": 30,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "tanum_0333",
+  "mississippian_0045",
+  "anatolia_ppn_p43full",
+  "persepolis_0058",
+  "persepolis_0000",
+  "maya_0095",
+  "maya_0126",
+  "assyria_0039",
+  "egypt_0038",
+  "mississippian_0007"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "mississippian",
+  "maya",
+  "tanum",
+  "maya",
+  "persepolis",
+  "persepolis",
+  "mississippian",
+  "egypt",
+  "assyria"
+ ],
+ "model": "gpt",
+ "planted_rank": 5
+}

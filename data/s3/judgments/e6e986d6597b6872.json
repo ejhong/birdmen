@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "low-relief carving on an upright slab/pillar",
+  "horizontal register bands dividing the surface",
+  "row of repeated small motifs along a band",
+  "animals in profile",
+  "quadruped with head turned/facing outward",
+  "human or humanoid figure in a seated/crouching pose",
+  "bird-like head in profile",
+  "symbolic winged/spread motif near the top"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "3",
+ "justification": "Both are upright slabs carved in shallow relief and divided into stacked horizontal registers, each containing profile animals, a crouching/seated humanoid figure and repeated small motifs in a strip, which gives a similar overall gestalt of a register-organised relief. But the specific content differs sharply: A shows a row of large crouching quadrupeds along the top edge, a fringed/zigzag band, a large predator-headed beast, a bird's head and a plant-like frond, while B shows a winged disc, dense script-like signs, seated human figures with raised arms and offering tables \u2014 none of the specific motifs or their relationships correspond.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0063",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  388
+ ]
+}

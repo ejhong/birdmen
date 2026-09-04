@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  6,
+  4,
+  3,
+  2,
+  9,
+  8,
+  1,
+  5,
+  7
+ ],
+ "most_similar_reason": "Candidate 10 is most similar because it likewise shows a rounded/stele-like surface organized into registers with two opposed schematic figures flanking a central motif above a separated lower band of small geometric signs.",
+ "least_similar_reason": "Candidate 7 is least similar because it shows little or no comparable depicted iconography\u2014no clear paired figures, central emblem, framed register, or geometric frieze\u2014just largely undecorated stone forms.",
+ "set": "same_control_monoliths",
+ "i": 26,
+ "target": "maya_0115",
+ "planted": "maya_0039",
+ "cands": [
+  "anatolia_ppn_0244",
+  "gotland_0111",
+  "maya_0039",
+  "egypt_0074",
+  "anatolia_ppn_0240",
+  "gotland_0009",
+  "anatolia_ppn_0082",
+  "anatolia_ppn_0186",
+  "anatolia_ppn_0179",
+  "egypt_0066"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "gotland",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "egypt",
+  "gotland",
+  "anatolia_ppn",
+  "egypt",
+  "anatolia_ppn"
+ ],
+ "model": "gpt",
+ "planted_rank": 4
+}

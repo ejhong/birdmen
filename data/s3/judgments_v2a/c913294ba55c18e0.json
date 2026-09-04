@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "quadruped predator with forelimbs/claws shown gripping downward",
+  "human or anthropomorphic figure with arms and splayed fingers",
+  "animal head in profile with prominent muzzle and eye",
+  "elongated arms/hands with clearly rendered fingers",
+  "vertically stacked registers of creatures on an upright block",
+  "schematic small figure subordinate to a larger animal"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show the same distinctive combination of a large clawed predator positioned above and reaching over a smaller human-like head/figure, with hands and long fingers rendered as a recurrent motif, and both organise their creatures in stacked vertical tiers on an upright block. The clearest difference is that A additionally carries a whole repertoire of flat-relief profile birds, a row of repeated handled/bag-like signs and banded pattern registers, whereas B reduces the scheme to a few massive interlocked bodies carved in the round with no birds, bands or repeated signs.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0175",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2848,
+  973
+ ]
+}

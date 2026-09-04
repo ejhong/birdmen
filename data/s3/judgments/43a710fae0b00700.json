@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human or humanoid figure shown in profile",
+  "profile head with frontal-style eye",
+  "wing or feathered element rendered as rows of ovals/lozenges",
+  "incised outline drawing with linear infill",
+  "figure with arm(s) extended forward"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both show profile-view anthropomorphic figures drawn as pure incised outlines with an eye rendered frontally and interior detail given by rows of repeated ovals/strokes, and B's right-hand figure has a disc-like element on the head while A's figure wears an elaborate headdress. But A is a single large winged/feathered composite creature filling the field, whereas B is a multi-register scene of two small standing figures facing an offering stand beneath a lunette with a band of sign-like symbols; no shared specific motif, relationship or layout beyond generic profile figures.",
+ "a": "mississippian_0009",
+ "b": "egypt_0048",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3124,
+  335
+ ]
+}

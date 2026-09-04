@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "schematic animal in profile with legs shown",
+  "quadruped/creature figures arranged in registers or rows",
+  "row of repeated vertical marks/short strokes forming a band",
+  "long horizontal element with comb-like projections (row of strokes along a bar)",
+  "stylised animal head with elongated snout in profile",
+  "small human/anthropomorphic figure"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces present flat, schematic profile creatures and a band of repeated short vertical strokes, and both stack figures loosely in horizontal tiers, which gives a weak generic resemblance in convention. But the actual subjects differ almost entirely: A is dominated by long boats with rows of crew-strokes and stick-figure humans, while B shows large relief animals (long-necked bird, snouted quadrupeds, a lizard-like creature) with no boats, and its top register of paired arch-like forms has no counterpart in A.",
+ "a": "tanum_0338",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  358
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  9,
+  4,
+  7,
+  1,
+  6,
+  8,
+  2,
+  10,
+  3
+ ],
+ "most_similar_reason": "Candidate 5 shows a large animal body rendered in shallow, naturalistically modelled relief in strict profile with carefully incised interior detail, the same kind of subject and carving convention as the target's profile horse and rider.",
+ "least_similar_reason": "Candidate 3 depicts only columns of dense abstract sign-like motifs with no animal or human figure and no profile scene, sharing nothing with the target's single naturalistic mounted figure.",
+ "set": "related_control",
+ "i": 27,
+ "target": "persepolis_0089",
+ "planted": "assyria_0011",
+ "cands": [
+  "tanum_0060",
+  "maya_0009",
+  "maya_0149",
+  "anatolia_ppn_0027",
+  "assyria_0011",
+  "anatolia_ppn_0130",
+  "tanum_0079",
+  "anatolia_ppn_0266",
+  "tanum_0052",
+  "maya_0138"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "maya",
+  "tanum",
+  "maya",
+  "tanum",
+  "tanum",
+  "anatolia_ppn",
+  "maya",
+  "anatolia_ppn",
+  "anatolia_ppn"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "standing human or anthropomorphic figure",
+  "quadruped animal in profile",
+  "repeated small marks used as pattern or texture"
+ ],
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is that both surfaces include simplified human/anthropomorphic figures alongside profile animals, with some areas of repeated small marks or texturing. The biggest difference is compositional and technical: A is a crowded, irregular field of dark painted silhouettes, while B is a vertically organized carved relief with larger figures and register-like bands.",
+ "a": "catalhoyuk_0025",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  648
+ ]
+}

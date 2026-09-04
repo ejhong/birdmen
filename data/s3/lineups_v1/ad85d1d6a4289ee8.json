@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  1,
+  9,
+  6,
+  4,
+  2,
+  8,
+  3,
+  5,
+  7
+ ],
+ "most_similar_reason": "Candidate 10 is, like the target, a massive free-standing upright block carved in shallow relief with schematic arms, hands and belt-like bands wrapping the body, so the stone itself takes on an anthropomorphic form rather than serving as a flat picture panel.",
+ "least_similar_reason": "Candidate 7 is a flat rock-surface drawing of linear boat motifs with no anthropomorphic body-shaped monolith, no relief modelling and a completely different graphic, sketch-like manner.",
+ "set": "p43_among_random",
+ "i": 8,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "maya_0125",
+  "gotland_0009",
+  "assyria_0111",
+  "egypt_0045",
+  "persepolis_0073",
+  "maya_0005",
+  "tanum_0049",
+  "egypt_0066",
+  "assyria_0138",
+  "anatolia_ppn_p43full"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "assyria",
+  "assyria",
+  "maya",
+  "persepolis",
+  "tanum",
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low-relief carved frieze with figures on a groundline",
+  "bearded human figures in profile",
+  "quadruped animals in profile facing right",
+  "horned/maned animal heads rendered in detail",
+  "procession/movement toward one side",
+  "narrow horizontal register format"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both are shallow-relief horizontal friezes with bearded human figures and profile quadrupeds moving in a single direction along a groundline, with careful patterned rendering of fleece/mane and hair. But the subjects differ substantially: A is a calm procession of men leading rams beside a tree, while B is a dynamic hunt with a chariot, galloping horses, archers and wounded lions, so the specific relationships (leading a docile animal vs shooting a beast from a moving vehicle) are unrelated.",
+ "a": "persepolis_0075",
+ "b": "assyria_0040",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  319
+ ]
+}

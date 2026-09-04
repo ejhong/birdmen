@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "repeated glyph-like or pictographic signs",
+  "animal or bird-like profile heads/figures with prominent eyes",
+  "horizontal register or band organization",
+  "abstract linear/geometric motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both surfaces use schematic pictographic relief signs, including animal/bird-like forms with prominent eyes, organized partly in rows or registers. The biggest difference is that A is a dense grid of small repeated glyphs, while B is a set of larger figural panels with prominent individual animals and much looser spacing.",
+ "a": "maya_0050",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1883,
+  667
+ ]
+}

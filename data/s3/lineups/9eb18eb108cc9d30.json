@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  5,
+  9,
+  10,
+  3,
+  1,
+  8,
+  4,
+  6,
+  7
+ ],
+ "most_similar_reason": "Candidate 2 shares a basic compositional structure of horizontal registers containing figures rendered in flat profile.",
+ "least_similar_reason": "Candidate 7 depicts a three-dimensional form lacking the flat, register-based arrangement of isolated motifs seen in the target.",
+ "set": "moai_iso_among_monoliths",
+ "i": 10,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "gotland_0133",
+  "egypt_0042",
+  "maya_0091",
+  "maya_0052",
+  "egypt_0072",
+  "maya_0054",
+  "rapa_nui_hoa_iso",
+  "gotland_0112",
+  "egypt_0067",
+  "maya_0105"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "gotland",
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "gotland",
+  "maya"
+ ],
+ "model": "gemini",
+ "planted_rank": 10
+}

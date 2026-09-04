@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "standing human figure in profile",
+  "horse in profile"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both reliefs depict horses and human figures rendered in profile with similar schematic proportions, but A shows a dynamic chariot scene with a warrior grasping reins and spear amid battle motifs, while B shows a static procession of standing figures in horizontal rows with a tree and rosette pattern. The lack of any comparable action, grouping, or narrative relationship between figures marks the biggest difference in depicted content.",
+ "a": "assyria_0131",
+ "b": "persepolis_0051",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  3349,
+  564
+ ]
+}

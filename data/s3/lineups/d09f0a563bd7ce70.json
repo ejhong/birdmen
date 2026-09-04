@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  10,
+  7,
+  1,
+  5,
+  4,
+  8,
+  9,
+  6,
+  2
+ ],
+ "most_similar_reason": "Candidate 3, like the target, is a monumental figure carved fully in the round from a single block, with the body's contours and features rendered as swelling, simplified masses on the boulder itself rather than as flat linework.",
+ "least_similar_reason": "Candidate 2 shows only plain coursed masonry with no creature, figure, symbol or motif of any kind, so it shares nothing with the target's depiction of a modelled animal body.",
+ "set": "same_control",
+ "i": 2,
+ "target": "anatolia_ppn_0144",
+ "planted": "anatolia_ppn_0045",
+ "cands": [
+  "tanum_0344",
+  "egypt_0010",
+  "rapa_nui_0049",
+  "egypt_0048",
+  "tanum_0063",
+  "tanum_0351",
+  "assyria_0011",
+  "maya_0039",
+  "maya_0000",
+  "anatolia_ppn_0045"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "tanum",
+  "assyria",
+  "egypt",
+  "tanum",
+  "tanum",
+  "maya",
+  "rapa_nui"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

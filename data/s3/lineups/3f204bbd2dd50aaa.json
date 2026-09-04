@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  2,
+  1,
+  8,
+  9,
+  7,
+  4,
+  5,
+  6,
+  3
+ ],
+ "most_similar_reason": "Candidate 10, like the target, presents a tapering slab divided into registers in which small schematic profile creatures are set in a row above an isolated abstract geometric sign, matching the target's stacked bands of profile animals combined with block-like signs and patterned strips.",
+ "least_similar_reason": "Candidate 3 shows an essentially plain, unreadable upright slab with no discernible creatures, signs or register divisions, so it shares none of the target's specific iconographic content.",
+ "set": "moai_iso_among_monoliths",
+ "i": 22,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0138",
+  "maya_0136",
+  "maya_0000",
+  "maya_0105",
+  "rapa_nui_hoa_iso",
+  "gotland_0130",
+  "gotland_0116",
+  "gotland_0133",
+  "egypt_0067",
+  "gotland_0026"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "maya",
+  "egypt",
+  "gotland",
+  "gotland",
+  "maya",
+  "gotland",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 8
+}

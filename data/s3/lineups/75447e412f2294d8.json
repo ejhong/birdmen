@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  7,
+  10,
+  4,
+  1,
+  2,
+  8,
+  3,
+  6,
+  9
+ ],
+ "most_similar_reason": "Candidate 5 is most similar because it likewise presents a single large, frontal, schematic anthropomorphic figure occupying a slab-like surface, with simplified body outline and internal incised/relief details rather than a narrative scene or border pattern.",
+ "least_similar_reason": "Candidate 9 is least similar because it is organized as a rectangular diagram with a glyph-like border, central circle, and curving lines, with no comparable frontal human body, face, paired circular body features, or necklace-like bands.",
+ "set": "p43_among_random",
+ "i": 36,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "anatolia_ppn_p43full",
+  "persepolis_0068",
+  "tanum_0338",
+  "tanum_0050",
+  "assyria_0000",
+  "tanum_0237",
+  "maya_0027",
+  "gotland_0004",
+  "maya_0024",
+  "gotland_0133"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "gotland",
+  "persepolis",
+  "gotland",
+  "maya",
+  "tanum",
+  "tanum",
+  "tanum",
+  "maya",
+  "assyria"
+ ],
+ "model": "gpt",
+ "planted_rank": 5
+}

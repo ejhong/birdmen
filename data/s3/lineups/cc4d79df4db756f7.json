@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  1,
+  10,
+  3,
+  7,
+  2,
+  9,
+  5,
+  4,
+  6
+ ],
+ "most_similar_reason": "Candidate 8 is most similar because it presents a single frontal anthropomorphic figure with a large, mask-like head and simplified facial features, matching the target\u2019s emphasis on an isolated frontal human face/head rather than a narrative scene.",
+ "least_similar_reason": "Candidate 6 is least similar because it depicts a profile quadruped animal with small accompanying marks, lacking the target\u2019s frontal human head, facial focus, and anthropomorphic iconography.",
+ "set": "same_control",
+ "i": 0,
+ "target": "anatolia_ppn_0222",
+ "planted": "anatolia_ppn_0006",
+ "cands": [
+  "maya_0097",
+  "assyria_0091",
+  "persepolis_0012",
+  "assyria_0102",
+  "tanum_0106",
+  "anatolia_ppn_0006",
+  "persepolis_0105",
+  "rapa_nui_0063",
+  "assyria_0059",
+  "persepolis_0037"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "assyria",
+  "assyria",
+  "persepolis",
+  "maya",
+  "tanum",
+  "persepolis",
+  "persepolis",
+  "assyria",
+  "rapa_nui"
+ ],
+ "model": "gpt",
+ "planted_rank": 10
+}

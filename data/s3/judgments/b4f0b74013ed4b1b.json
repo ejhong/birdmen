@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "standing figure in strict profile facing right",
+  "elaborately curled/stylized beard and hair rendered in regular rows of curls",
+  "long garment with vertical pleated folds reaching the feet",
+  "raised arm with open hand held before the face",
+  "low-relief carved figures on a flat panel",
+  "procession/frontal-plane orientation of figures along a register"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both surfaces show large low-relief figures in strict right-facing profile with the same conventions: rows of tight beard and hair curls, long pleated robes falling to the feet, and one arm raised with an open hand before the face while the other hangs low holding or gesturing. The decisive difference is that A depicts a single winged, bird-headed hybrid with a bucket-like handled vessel, whereas B shows a file of ordinary bearded men in tall headgear with no wings or attributes of that kind.",
+ "a": "assyria_0151",
+ "b": "persepolis_0047",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  343
+ ]
+}

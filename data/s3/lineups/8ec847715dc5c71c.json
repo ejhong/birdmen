@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  8,
+  6,
+  5,
+  7,
+  9,
+  4,
+  10,
+  2,
+  1
+ ],
+ "most_similar_reason": "Candidate 3 is most similar because it also presents a relief surface organized into registers with dense, schematic profile creatures and repeated geometric or circular motifs, closely matching the target\u2019s stacked bands of stylized animal/bird imagery.",
+ "least_similar_reason": "Candidate 1 is least similar because it shows little to no recognizable depicted iconography, with none of the target\u2019s clear profile animals, repeated bands, or patterned sign-like elements.",
+ "set": "moai_iso_among_monoliths",
+ "i": 31,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0125",
+  "rapa_nui_hoa_iso",
+  "maya_0045",
+  "maya_0130",
+  "egypt_0066",
+  "egypt_0065",
+  "gotland_0133",
+  "egypt_0063",
+  "maya_0147",
+  "maya_0158"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "egypt",
+  "gotland",
+  "maya",
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 9
+}

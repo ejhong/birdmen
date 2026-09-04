@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  6,
+  5,
+  10,
+  2,
+  8,
+  9,
+  4,
+  1,
+  3
+ ],
+ "most_similar_reason": "Candidate 7 shows the same core subject as the target: a single frontal standing dignitary carved in low relief filling the monument, with a towering elaborate headdress, a large round ornament on the chest and heavy regalia over the torso, arranged in the same vertical, figure-dominated composition.",
+ "least_similar_reason": "Candidate 3 depicts no human figure at all, only a fan/disc-shaped surface with sparse incised abstract and cartouche-like marks, sharing none of the target's standing personage, headdress or pectoral iconography.",
+ "set": "p43_iso_among_monoliths",
+ "i": 5,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0149",
+  "egypt_0072",
+  "gotland_0112",
+  "maya_0147",
+  "maya_0110",
+  "maya_0158",
+  "maya_0130",
+  "anatolia_ppn_p43iso",
+  "egypt_0068",
+  "maya_0115"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 6
+}

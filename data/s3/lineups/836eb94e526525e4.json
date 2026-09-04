@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  8,
+  4,
+  5,
+  2,
+  3,
+  10,
+  9,
+  7,
+  6
+ ],
+ "most_similar_reason": "Candidate 1 is most similar because it shows the same general iconographic vocabulary as the target: schematic carved profile animals combined with simple linear/abstract marks arranged across a surface rather than a naturalistic human scene.",
+ "least_similar_reason": "Candidate 6 is least similar because it depicts a regular procession of clothed human figures with objects, lacking the target\u2019s stacked profile animals, schematic creature forms, and distinctive abstract/geometric banding.",
+ "set": "moai_close_among_random",
+ "i": 29,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "gotland_0018",
+  "persepolis_0108",
+  "mississippian_0006",
+  "assyria_0119",
+  "tanum_0317",
+  "persepolis_0105",
+  "persepolis_0047",
+  "maya_0097",
+  "rapa_nui_0004",
+  "maya_0106"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "assyria",
+  "maya",
+  "persepolis",
+  "mississippian",
+  "persepolis",
+  "maya",
+  "persepolis",
+  "tanum",
+  "gotland"
+ ],
+ "model": "gpt",
+ "planted_rank": 8
+}

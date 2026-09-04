@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "standing human figure in profile",
+  "bearded male figure with elaborate curled hair/beard",
+  "long fringed or pleated robe",
+  "figure holding an object in an outstretched hand",
+  "carved low relief with incised linear detail for hair, beard, fringe",
+  "floral/rosette motif"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict bearded male figures in strict profile wearing long fringed robes, rendered in shallow relief with the same conventions of tightly incised curls for hair and beard, hatched fringes and stacked linear folds, and both include stylized floral elements (a rosette band in A, plants in B). The biggest differences in content are that B's single figure has large detailed wings and a horned/tall headdress beside a stylized plant, while A shows a procession of several wingless figures carrying bowls, one leading another by the hand.",
+ "a": "persepolis_0105",
+ "b": "assyria_0096",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3174,
+  329
+ ]
+}

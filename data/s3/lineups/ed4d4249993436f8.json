@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  7,
+  3,
+  1,
+  4,
+  9,
+  2,
+  6,
+  5,
+  8
+ ],
+ "most_similar_reason": "Candidate 10 is most similar because it depicts the same distinctive pair of profile horned ram-like animals with large curled, banded horns, prominent eyes, and bodies filled with dense incised wavy patterning arranged side by side.",
+ "least_similar_reason": "Candidate 8 is least similar because it is a vertical column of small glyph-like signs rather than a figurative animal scene with large profile horned creatures and patterned bodies.",
+ "set": "same_control",
+ "i": 22,
+ "target": "persepolis_0110",
+ "planted": "persepolis_0085",
+ "cands": [
+  "assyria_0123",
+  "assyria_0071",
+  "rapa_nui_0097",
+  "egypt_0065",
+  "tanum_0059",
+  "tanum_0063",
+  "assyria_0040",
+  "maya_0009",
+  "egypt_0073",
+  "persepolis_0085"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "assyria",
+  "maya",
+  "egypt",
+  "tanum",
+  "egypt",
+  "assyria",
+  "tanum",
+  "assyria",
+  "rapa_nui"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  1,
+  4,
+  7,
+  6,
+  2,
+  5,
+  8,
+  10,
+  9
+ ],
+ "most_similar_reason": "Candidate 3 shows the same kind of scene as the target: bearded human figures in strict profile combined with large hoofed animals rendered in profile with patterned manes/coats, laid out as a low relief frieze on a single ground line.",
+ "least_similar_reason": "Candidate 9 shows only an abstract interlaced knot and geometric loop motif with no human figures, animals, plants or procession, sharing nothing with the target's narrative profile imagery.",
+ "set": "same_control",
+ "i": 1,
+ "target": "persepolis_0100",
+ "planted": "persepolis_0063",
+ "cands": [
+  "assyria_0079",
+  "maya_0054",
+  "assyria_0109",
+  "assyria_0146",
+  "tanum_0317",
+  "assyria_0096",
+  "persepolis_0063",
+  "catalhoyuk_0026",
+  "gotland_0005",
+  "gotland_0118"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "gotland",
+  "assyria",
+  "maya",
+  "assyria",
+  "gotland",
+  "catalhoyuk",
+  "tanum",
+  "assyria",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

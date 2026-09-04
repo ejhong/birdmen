@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  4,
+  7,
+  2,
+  6,
+  5,
+  3,
+  10,
+  1,
+  9
+ ],
+ "most_similar_reason": "Candidate 8, like the target, shows a human figure carved in shallow relief in strict profile with carefully patterned hair and beard and finely incised detail, matching the target's profile attendants in both subject and low-relief linear style.",
+ "least_similar_reason": "Candidate 9 presents a bare, undifferentiated rock surface with no identifiable figures, animals, or motifs at all, so it shares none of the target's processional human and animal imagery.",
+ "set": "related_control",
+ "i": 33,
+ "target": "persepolis_0068",
+ "planted": "assyria_0128",
+ "cands": [
+  "egypt_0012",
+  "mississippian_0052",
+  "rapa_nui_0049",
+  "maya_0092",
+  "mississippian_0002",
+  "catalhoyuk_0025",
+  "egypt_0028",
+  "assyria_0128",
+  "egypt_0024",
+  "tanum_0344"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "mississippian",
+  "rapa_nui",
+  "egypt",
+  "egypt",
+  "catalhoyuk",
+  "maya",
+  "egypt",
+  "tanum",
+  "mississippian"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

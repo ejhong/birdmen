@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "animals shown in profile facing right",
+  "low-relief carving on a vertical/flat surface",
+  "horizontal register bands dividing the composition",
+  "row of repeated small motifs forming a border band",
+  "quadruped with four legs shown in side view",
+  "human/anthropomorphic figure"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces carry low relief with animals in profile arranged in horizontal registers bounded by a repeating border band, but the specific content is unrelated: A shows schematic crouching quadrupeds, a large-headed predator or bird, snake-like sinuous forms and abstract net/ladder patterns, while B shows a single naturalistic two-humped pack animal led by a striding human attendant above a band of rosettes. The rendering conventions also differ sharply \u2014 A is flat, angular and highly schematic with outline-only bodies, whereas B models musculature, drapery and facial detail naturalistically.",
+ "a": "anatolia_ppn_p43full",
+ "b": "persepolis_0030",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  356
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "frontal anthropomorphic figure or mask",
+  "centrally placed face/eyes",
+  "circular or oval facial/body motifs",
+  "bilateral vertical composition",
+  "geometric/curvilinear surface ornament"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest correspondence is that both depict a vertically oriented, bilaterally arranged frontal anthropomorphic presence with a central face and circular/oval features. The biggest difference is that A is a detailed full standing human-like figure with limbs, costume, headdress, and dense surrounding iconographic ornament, whereas B is a much more schematic mask/torso-like design with few distinct body parts or attributes.",
+ "a": "maya_0056",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1777,
+  616
+ ]
+}

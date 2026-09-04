@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "quadruped animals shown in profile",
+  "anthropomorphic/human-like figure with limbs shown",
+  "row of repeated figures forming a horizontal frieze",
+  "relief figures set against a plain ground",
+  "raised or outstretched arm/limb gestures"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces show a horizontal frieze of profile quadrupeds combined with small schematic anthropomorphic figures whose limbs are splayed or raised, carved in relief against a blank ground. But A stacks several distinct registers (a top row of crouching beasts, a band of chevron/zigzag ornament, isolated predator, bird and snake-like forms) with figures that do not touch one another, whereas B shows a single continuous band of interlocked human figures with arms thrown up, mounted on or grasping the animals beside them.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0218",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3048,
+  828
+ ]
+}

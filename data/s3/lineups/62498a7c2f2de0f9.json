@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  1,
+  8,
+  4,
+  5,
+  2,
+  9,
+  3,
+  10,
+  7
+ ],
+ "most_similar_reason": "Candidate 6, like the target, combines schematic animals shown in profile with bands of geometric ornament (chevron/zigzag and repeated motifs) laid out in horizontal registers within a framed relief field on an upright slab.",
+ "least_similar_reason": "Candidate 7 shows only abstract interlaced knotwork and no creatures, human figures or registered scene, so it shares none of the target's animal-based iconography.",
+ "set": "moai_iso_among_random",
+ "i": 32,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0152",
+  "maya_0011",
+  "tanum_0325",
+  "maya_0051",
+  "assyria_0051",
+  "gotland_0113",
+  "gotland_0005",
+  "rapa_nui_hoa_iso",
+  "tanum_0339",
+  "persepolis_0004"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "tanum",
+  "gotland",
+  "maya",
+  "persepolis",
+  "tanum",
+  "gotland",
+  "maya",
+  "assyria",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 3
+}

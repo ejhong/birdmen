@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  3,
+  5,
+  7,
+  6,
+  2,
+  4,
+  10,
+  1,
+  8
+ ],
+ "most_similar_reason": "Candidate 9 is most similar because it shows the same kind of upright, front-facing schematic anthropomorphic monolith with large round facial/torso features and incised curving/geometric body markings arranged vertically on the figure.",
+ "least_similar_reason": "Candidate 8 is least similar because it mainly depicts a long linear boat- or ladder-like motif with small marks, lacking the target\u2019s single frontal human-like body, circular features, and torso-based ornamentation.",
+ "set": "p43_among_random",
+ "i": 13,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "tanum_0327",
+  "persepolis_0073",
+  "maya_0026",
+  "persepolis_0022",
+  "maya_0110",
+  "egypt_0044",
+  "egypt_0041",
+  "tanum_0339",
+  "anatolia_ppn_p43full",
+  "assyria_0052"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "egypt",
+  "egypt",
+  "tanum",
+  "persepolis",
+  "persepolis",
+  "assyria",
+  "maya",
+  "tanum",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

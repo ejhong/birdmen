@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  8,
+  4,
+  1,
+  9,
+  2,
+  7,
+  3,
+  10,
+  5
+ ],
+ "most_similar_reason": "Candidate 6 shows a stone pillar with an animal-like creature carved in low relief in a schematic, naturalistic style very similar to the target's carved animal figure on a stone pillar.",
+ "least_similar_reason": "Candidate 5 depicts a dense field of small repeated symbolic glyphs covering the entire surface, which is a fundamentally different compositional and iconographic scheme from the single schematic animal figure on the target.",
+ "set": "same_control_monoliths",
+ "i": 8,
+ "target": "anatolia_ppn_0027",
+ "planted": "anatolia_ppn_0086",
+ "cands": [
+  "maya_0052",
+  "rapa_nui_0054",
+  "egypt_0046",
+  "rapa_nui_0046",
+  "maya_0047",
+  "anatolia_ppn_0086",
+  "egypt_0044",
+  "maya_0069",
+  "rapa_nui_0006",
+  "egypt_0048"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "rapa_nui",
+  "maya",
+  "egypt",
+  "maya",
+  "rapa_nui",
+  "egypt",
+  "rapa_nui",
+  "maya",
+  "egypt"
+ ],
+ "model": "sonnet",
+ "planted_rank": 1
+}

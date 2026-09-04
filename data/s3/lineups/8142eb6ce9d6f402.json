@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  7,
+  3,
+  10,
+  6,
+  5,
+  2,
+  1,
+  4,
+  8
+ ],
+ "most_similar_reason": "Candidate 9 is most similar because it shows a crowded carved panel of schematic profile beings and animal-like forms arranged in stacked zones with the same kind of curving outlines, internal infill lines, and glyph-like iconographic density as the target.",
+ "least_similar_reason": "Candidate 8 is least similar because the visible depicted content is essentially an upright monument in an architectural setting with no clearly comparable carved figures, animals, registers, or glyph-like motifs on the surface.",
+ "set": "moai_iso_among_monoliths",
+ "i": 14,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0069",
+  "maya_0149",
+  "gotland_0116",
+  "maya_0077",
+  "rapa_nui_hoa_iso",
+  "maya_0051",
+  "egypt_0067",
+  "maya_0000",
+  "egypt_0073",
+  "maya_0130"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "maya",
+  "gotland",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 6
+}

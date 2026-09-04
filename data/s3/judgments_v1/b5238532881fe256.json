@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "profile figure or creature",
+  "repeated linear/chevron or feather-like patterning",
+  "circle or disc motif",
+  "decorated stone relief surface"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of profile figures/creatures combined with repeated patterned motifs and small circular marks on a carved stone surface. The biggest difference is compositional: A is dominated by one large, finely modeled winged figure with dense feather detail, while B is a vertical pillar with separate stacked registers of rougher, more schematic animals and signs.",
+ "a": "assyria_0122",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  656
+ ]
+}

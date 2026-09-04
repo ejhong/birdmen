@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "monumental standing pillar/figure carved in low relief",
+  "disc or ring motif",
+  "bird-like creature in profile",
+  "paired, mirrored motifs at the top",
+  "curved crescent-shaped bands",
+  "stacked registers of motifs down the shaft",
+  "schematic quadruped/animal forms"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both are tall standing monolithic forms whose surfaces carry shallow, schematic relief organised in stacked registers, with a prominent circular disc/ring motif in the middle zone, bird-like creatures in profile, and symmetrically paired motifs across the upper part. The biggest difference is that B is explicitly anthropomorphic (a body with head, shoulders and arms wrapping the block, with the carvings functioning as ornament on a back), whereas A is an abstract rectangular slab bearing a narrative-like frieze of distinct animals, snakes, herringbone bands and a small kneeling figure holding a disc, with no unifying body form.",
+ "a": "anatolia_ppn_p43full2",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "target",
+ "usage": [
+  2873,
+  777
+ ]
+}

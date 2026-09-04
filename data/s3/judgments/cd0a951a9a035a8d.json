@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human figure with head and face depicted",
+  "frontal/profile human head with rendered eyes, nose and mouth",
+  "headgear or crown above the head",
+  "patterned or textured surface treatment (rows of small punched marks / beaded rows)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "Both depict human figures with heads bearing some kind of tall headgear and both use rows of small repeated dots/beading as surface texture (the beaded hair and fringes in A, the punched rows on the head in B), but these are generic conventions. A shows a processional file of bearded male figures in profile, full-length, in ceremonial dress with objects and hand gestures, framed by rosette bands; B is a single squat frontal figure with an oversized head and no narrative context, differing entirely in composition, proportion and viewpoint.",
+ "a": "persepolis_0077",
+ "b": "anatolia_ppn_0264",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  317
+ ]
+}

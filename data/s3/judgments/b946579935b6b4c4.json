@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "circular or oval motifs",
+  "curving linear bands",
+  "schematic abstract/zoomorphic-looking relief motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The clearest shared content is the use of schematic curvilinear carving with circles or ovals incorporated into larger abstract forms. The biggest difference is that A is a dense triangular composition of intertwined scroll-like/creature-like elements, while B is organized as a frontal anthropomorphic figure or torso with bilateral features and bands.",
+ "a": "maya_0127",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1962,
+  479
+ ]
+}

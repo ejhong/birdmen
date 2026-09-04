@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "anthropomorphic figure with headdress",
+  "frontal/standing human-like figure",
+  "incised curvilinear surface motifs",
+  "circular/disc-like motif",
+  "banded horizontal elements across the body/garment"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both depict human-like figures with elaborate headgear and incised patterning, and A includes a prominent disc motif while B has ornamented banded garments, but these are generic correspondences. A is a massive block-like figure carved in the round with abstract, schematic spirals, discs and near-illegible surface signs, whereas B is a flat relief panel with two naturalistically proportioned bearded figures in profile facing each other, one holding a bowl and gesturing, with carefully rendered curled hair, fringed robes and weapons \u2014 no shared specific motif or relationship.",
+ "a": "rapa_nui_0113",
+ "b": "assyria_0000",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3024,
+  333
+ ]
+}

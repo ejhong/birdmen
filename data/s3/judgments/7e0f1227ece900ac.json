@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "upright slab/stela with carved relief on one face",
+  "animals rendered in profile",
+  "bird-like creatures",
+  "row of repeated figures across an upper register",
+  "horizontal band or line dividing registers",
+  "small repeated signs arranged in a row",
+  "snake/serpentine form"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both are upright slabs whose upper zone carries a row of repeated figures above a horizontal dividing band, with profile animals/birds and serpentine forms appearing below, which gives a loose registered layout in common. But A is dominated by dense rows of small conventional script signs with seated deities in a shrine-like top register, while B shows large, bold, isolated animal reliefs (birds, quadruped, snake-like body) with no writing and quite different, high-relief schematic conventions.",
+ "a": "egypt_0069",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  326
+ ]
+}

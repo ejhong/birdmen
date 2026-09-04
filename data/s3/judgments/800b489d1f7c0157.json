@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "schematic animal figures",
+  "quadruped in profile",
+  "human or humanoid figure",
+  "horizontal band/register of repeated motifs",
+  "figures scattered across a flat field"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces show schematic figural imagery \u2014 A a crowded field of dancing/running human silhouettes with dotted infill, B a pillar bearing quadrupeds in profile, a bird, snakes and a row of repeated arched motifs above a banded zone; the only real correspondence is the generic presence of animate figures and a horizontal register of repeated elements. The subject matter differs fundamentally: A is a dense human dance/action scene with no clear registers or animals in profile, while B is dominated by isolated animals arranged in ordered registers with no human crowd.",
+ "a": "catalhoyuk_0025",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  322
+ ]
+}

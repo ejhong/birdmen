@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic anthropomorphic or bird-human/animal-like figures",
+  "face- or mask-like motifs with circular eye/disc elements",
+  "isolated circular or ring motifs",
+  "curving incised outline motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "The strongest correspondence is the use of schematic curvilinear figures and mask/face-like forms built around round eye or disc elements, with possible bird-human/animal iconography on both surfaces. The main difference is that B is organized as an axial standing anthropomorphic figure with symmetrical torso/face features, while A appears as scattered, overlapping petroglyph motifs without the same overall figure or layout.",
+ "a": "rapa_nui_0099",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  2238
+ ]
+}

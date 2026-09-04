@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  10,
+  8,
+  5,
+  6,
+  1,
+  3,
+  7,
+  2,
+  9
+ ],
+ "most_similar_reason": "Candidate 4 is, like the target, a single upright pale-stone slab whose whole face is covered in shallow, softly weathered low relief combining a large figure with smaller emblematic signs stacked in horizontal bands.",
+ "least_similar_reason": "Candidate 9 is a small three-dimensional painted mask with a modeled human face and bright color, sharing neither the monolithic slab format nor the incised low-relief animal imagery of the target.",
+ "set": "moai_among_random",
+ "i": 3,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0010",
+  "tanum_0050",
+  "persepolis_0080",
+  "maya_0091",
+  "maya_0005",
+  "persepolis_0020",
+  "persepolis_0047",
+  "rapa_nui_0113",
+  "mississippian_0008",
+  "maya_0027"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "persepolis",
+  "persepolis",
+  "mississippian",
+  "maya",
+  "persepolis",
+  "tanum",
+  "persepolis",
+  "maya",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 3
+}

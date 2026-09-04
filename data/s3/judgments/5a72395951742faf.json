@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "schematic animals in profile",
+  "quadruped animal figures",
+  "bird-like or long-necked animal figures",
+  "snake-like curving/linear figures",
+  "human-like arms or hands on an upright figure/surface",
+  "horizontal bands or registers of decoration"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "7",
+ "justification": "Both surfaces show a very similar repertoire of schematic relief figures: multiple profile animals, including quadrupeds and elongated snake- or bird-like forms, arranged on upright stone-like surfaces with some register-like organization and possible human arm/hand motifs. The biggest difference is that B presents a dense, clearly tiered composition with repeated signs and a prominent diagonal animal/serpent scheme, while A\u2019s visible decoration is sparser and less legible, with fewer clearly corresponding motifs in the same positions.",
+ "a": "anatolia_ppn_0082",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  712
+ ]
+}

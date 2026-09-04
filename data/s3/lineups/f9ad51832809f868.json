@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  3,
+  7,
+  2,
+  4,
+  5,
+  10,
+  1,
+  9,
+  6
+ ],
+ "most_similar_reason": "Candidate 8 shows a large low-relief figure in strict profile with the same conventions as the target \u2014 crisp outline, patterned incised detail filling the body (hair/fleece rendered as rows of tight curls and scale-like units), and a shallow carved slab composition.",
+ "least_similar_reason": "Candidate 6 shows only a sparse row of small schematic marks on a blank surface, with no animals, no profile figures and none of the dense patterned relief modelling that defines the target.",
+ "set": "related_control",
+ "i": 19,
+ "target": "persepolis_0095",
+ "planted": "assyria_0035",
+ "cands": [
+  "rapa_nui_0047",
+  "maya_0085",
+  "maya_0083",
+  "egypt_0070",
+  "mississippian_0000",
+  "catalhoyuk_0102",
+  "gotland_0133",
+  "assyria_0035",
+  "rapa_nui_0049",
+  "tanum_0054"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "mississippian",
+  "rapa_nui",
+  "gotland",
+  "tanum",
+  "catalhoyuk",
+  "rapa_nui",
+  "maya",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

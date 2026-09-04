@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "standing human figure in profile, low relief",
+  "stylized tree/plant with rows of leaves or fronds",
+  "figure adjacent to/alternating with a tree motif",
+  "long garment with patterned fringe or detailing",
+  "horizontal register bands of figures",
+  "repeated figures in file/procession"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both depict robed human figures shown in strict profile in shallow relief, set beside vertical stylized trees whose leaves are rendered as regular repeated fronds, with the figure-and-tree alternation organized into horizontal registers \u2014 a fairly specific shared convention rather than a generic one. The clearest difference in content is that A shows a single large winged figure with a raised hand and bucket-like attribute filling one panel, while B shows repeated unwinged figures in file along a stepped facade with no wings or attributes clearly comparable.",
+ "a": "assyria_0096",
+ "b": "persepolis_0023",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2974,
+  773
+ ]
+}

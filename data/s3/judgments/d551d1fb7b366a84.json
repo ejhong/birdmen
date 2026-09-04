@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "human figure (standing/seated)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "Image A depicts seated and standing human figures around what appears to be a table or offering scene in a naturalistic, carved relief style organized in registers, while Image B shows schematic boats, animals, and abstract line/grid patterns typical of pecked or painted rock art conventions. The only broadly shared element is the presence of human figures, but their form, posture, grouping, and surrounding motifs (furniture and offerings vs. boats and geometric fields) are entirely different, giving no real iconographic overlap beyond the generic category of 'human figure'.",
+ "a": "egypt_0039",
+ "b": "tanum_0340",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  2974,
+  271
+ ]
+}

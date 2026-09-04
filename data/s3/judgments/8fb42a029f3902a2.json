@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figures shown in profile/side view",
+  "paired or repeated figures in a row",
+  "patterned textile or garment detail",
+  "animal motif (feline face in A, rams in B)",
+  "vertical element dividing the field (banner/pole in A, tree in B)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "Both show human figures in profile arranged in a row alongside a tall vertical element (a banner in A, a tree in B) and both include animal imagery, but these are generic correspondences. A is a symmetrical, heavily ornamented pair of costumed figures mirrored about a central axis with rosettes, headdresses and geometric bands, while B is an asymmetrical processional file of men leading horned rams past a tree, rendered naturalistically with no ornament-driven symmetry.",
+ "a": "mississippian_0052",
+ "b": "persepolis_0069",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  307
+ ]
+}

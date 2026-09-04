@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "low-relief carving with figures in strict profile",
+  "bearded/long-haired human figures in profile",
+  "quadruped animals in profile facing right",
+  "procession of human figures accompanying animals",
+  "horizontal ground line / register format",
+  "animals overlapping one another to suggest a group",
+  "detailed patterned rendering of hair and animal coat"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show a rightward-moving profile procession in low relief combining human figures with overlapping quadrupeds along a ground line, with hair and beards rendered as regular patterned masses in the same profile convention. However, A depicts a peaceful tribute-like file of attendants leading horned rams beside a stylised tree, while B depicts a harnessed horse team drawing a spoked-wheel chariot with a rider and a trampled prone body \u2014 a martial scene with vehicle and trampling relationships absent in A.",
+ "a": "persepolis_0069",
+ "b": "assyria_0109",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  341
+ ]
+}

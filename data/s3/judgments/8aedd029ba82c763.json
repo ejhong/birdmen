@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "human or anthropomorphic body/body parts",
+  "circular motifs or eyes",
+  "incised/outlined linear details"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific overlap is that both surfaces include outlined human or anthropomorphic anatomy together with circular and linear markings. The biggest difference is that A is dominated by a horizontal procession of naturalistic horned animals in profile with attendant human figures, while B shows a single frontal, highly schematic anthropomorphic figure with geometric body markings and no comparable animal procession.",
+ "a": "persepolis_0095",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  656
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  6,
+  7,
+  10,
+  5,
+  9,
+  1,
+  4,
+  3,
+  2
+ ],
+ "most_similar_reason": "Candidate 8 likewise shows animals rendered in profile relief in a horizontal row, combined with human/anthropomorphic figures and framed within stacked registers, matching the target's banded arrangement of profile creatures.",
+ "least_similar_reason": "Candidate 2 depicts only a single frontal anthropomorphic bust with facial features and ornaments, with none of the target's profile animals, snakes, birds or register-based geometric motifs.",
+ "set": "moai_among_random",
+ "i": 36,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0112",
+  "rapa_nui_0113",
+  "egypt_0063",
+  "persepolis_0035",
+  "assyria_0100",
+  "tanum_0348",
+  "tanum_0347",
+  "persepolis_0039",
+  "assyria_0138",
+  "gotland_0129"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "assyria",
+  "persepolis",
+  "gotland",
+  "tanum",
+  "assyria",
+  "egypt",
+  "tanum",
+  "persepolis",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 10
+}

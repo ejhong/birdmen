@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "row of arched or handled bag-like motifs",
+  "horizontal band separating registers",
+  "repeated triangular/chevron pattern",
+  "animals in profile",
+  "bird-like or long-necked creature",
+  "schematic relief/outline figures"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "3",
+ "style_similarity": "2",
+ "gestalt_similarity": "3",
+ "overall": "8",
+ "justification": "The strongest correspondence is the distinctive upper scheme: a row of handled/arched bag-like emblems above a horizontal band of repeated triangular or chevron forms, with profile animal figures arranged below. The biggest difference is that B clearly includes a more complex lower animal-and-human scene, including forms like a scorpion and a small human figure, while A\u2019s lower imagery is much less legible and does not clearly repeat all of those specific figures.",
+ "a": "maya_0076",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  696
+ ]
+}

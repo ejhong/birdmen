@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "rectangular stone surface with carved decoration",
+  "horizontal bands or registers",
+  "profile bird motif",
+  "human figure",
+  "small linear signs or glyph-like marks",
+  "circle or disc motifs"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The most specific correspondence is that both surfaces organize carved signs and figures into horizontal registers and include profile birds and human figures on a roughly rectangular stone support. The biggest difference is that A is dominated by a few large, widely spaced relief figures on an upright slab, while B is a dense, grid-like field of small incised signs with figures confined mainly to the lower corners.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0075",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  540
+ ]
+}

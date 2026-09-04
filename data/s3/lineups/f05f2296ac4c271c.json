@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  5,
+  3,
+  8,
+  10,
+  7,
+  6,
+  2,
+  9,
+  4
+ ],
+ "most_similar_reason": "Candidate 1, like the target, shows a purely schematic engraved creature \u2014 a long undulating serpent form beside a small stick-like figure \u2014 rendered in the same reductive outline manner as the target's snake, birds and quadruped, with no naturalistic modelling or narrative human scene.",
+ "least_similar_reason": "Candidate 4 depicts a single large, carefully proportioned robed human dignitary in profile holding a staff, a naturalistic courtly figure type with nothing in common with the target's stacked bands of schematic animals and zigzag filler motifs.",
+ "set": "moai_iso_among_random",
+ "i": 30,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "tanum_0059",
+  "rapa_nui_hoa_iso",
+  "tanum_0100",
+  "persepolis_0037",
+  "tanum_0333",
+  "egypt_0071",
+  "assyria_0051",
+  "persepolis_0051",
+  "egypt_0033",
+  "maya_0129"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "egypt",
+  "persepolis",
+  "tanum",
+  "tanum",
+  "persepolis",
+  "maya",
+  "egypt",
+  "tanum",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 8
+}

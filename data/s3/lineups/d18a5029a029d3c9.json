@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  7,
+  2,
+  3,
+  4,
+  8,
+  10,
+  6,
+  9,
+  1
+ ],
+ "most_similar_reason": "Candidate 5 shows the same kind of large flat slab relief of a standing figure in strict profile with a long garment, patterned feather/hair rendering and finely incised parallel-line detail, matching the target's low-relief profile figures almost convention for convention.",
+ "least_similar_reason": "Candidate 1 shows only faint amorphous painted/stained marks with no recognisable figures, objects or ordered composition, so it shares nothing with the target's carefully carved profile figures and inscription.",
+ "set": "same_control",
+ "i": 28,
+ "target": "assyria_0095",
+ "planted": "assyria_0084",
+ "cands": [
+  "tanum_0034",
+  "maya_0045",
+  "maya_0027",
+  "anatolia_ppn_0205",
+  "persepolis_0067",
+  "maya_0095",
+  "assyria_0084",
+  "anatolia_ppn_0267",
+  "gotland_0133",
+  "egypt_0037"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "anatolia_ppn",
+  "maya",
+  "persepolis",
+  "egypt",
+  "anatolia_ppn",
+  "tanum",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "stylized animal or animal-headed forms",
+  "profile heads or creatures with elongated snouts/beaks",
+  "circular or eye-like discs",
+  "repeated linear/banded motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The main overlap is only broad: both use schematic outline conventions to depict animal-like forms, elongated profile heads, circular/eye-like marks, and some repeated linear ornament. The biggest difference is that A is a single frontal anthropomorphic figure holding staffs and wearing elaborate appendages/regalia, whereas B is a multi-register field of separate profile animals and signs with no comparable central staff-bearing figure or compositional scheme.",
+ "a": "mississippian_0055",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1883,
+  681
+ ]
+}

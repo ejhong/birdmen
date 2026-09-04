@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  10,
+  3,
+  4,
+  8,
+  6,
+  1,
+  7,
+  2,
+  5
+ ],
+ "most_similar_reason": "Candidate 9 shows, like the target, a large figure carved in shallow low relief in strict profile with carefully patterned hair/beard and finely striated wing or garment detail, filling the panel in the same courtly, detail-dense convention.",
+ "least_similar_reason": "Candidate 5 is a crudely pecked schematic linear motif with no human or animal figures, sharing none of the target's profile figures, garments, weapons or animal heads.",
+ "set": "related_control",
+ "i": 37,
+ "target": "persepolis_0044",
+ "planted": "assyria_0112",
+ "cands": [
+  "rapa_nui_0128",
+  "tanum_0119",
+  "egypt_0044",
+  "rapa_nui_0062",
+  "tanum_0000",
+  "rapa_nui_0103",
+  "egypt_0051",
+  "gotland_0009",
+  "assyria_0112",
+  "maya_0048"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "rapa_nui",
+  "gotland",
+  "tanum",
+  "maya",
+  "rapa_nui",
+  "rapa_nui",
+  "tanum",
+  "egypt",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

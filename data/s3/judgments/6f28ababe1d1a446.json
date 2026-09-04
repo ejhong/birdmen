@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "human figure in strict profile",
+  "bearded male head with elaborate hair/headdress",
+  "low relief carving with incised linear detail",
+  "patterned/fringed garments rendered with parallel incised lines",
+  "raised arm holding an object",
+  "winged forms (wings of genie / winged disc above)",
+  "stylized plant/rosette motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show low-relief profile human figures with long beards, elaborately curled hair and finely incised patterned garments, rendered with the same conventions of outline plus dense parallel-line infill, and both include winged motifs and stylized floral/rosette elements. However, A is a single large-scale kneeling winged figure filling the field beside a sacred plant, while B is a crowded multi-figure narrative frieze with horses, chariots, soldiers and attendants \u2014 different compositional schemes and subject matter despite the shared carving idiom.",
+ "a": "assyria_0079",
+ "b": "assyria_0052",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3349,
+  347
+ ]
+}

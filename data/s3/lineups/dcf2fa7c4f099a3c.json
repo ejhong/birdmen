@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  7,
+  8,
+  4,
+  2,
+  6,
+  5,
+  1,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 3 features relief-carved figures in profile organized into structured registers, sharing a basic compositional approach with the target.",
+ "least_similar_reason": "Candidate 10 consists entirely of uniform horizontal rows of script, lacking the figurative elements and distinct motifs of the target.",
+ "set": "moai_iso_among_monoliths",
+ "i": 4,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "rapa_nui_hoa_iso",
+  "maya_0081",
+  "egypt_0048",
+  "maya_0087",
+  "maya_0094",
+  "maya_0056",
+  "egypt_0073",
+  "egypt_0042",
+  "gotland_0004",
+  "egypt_0069"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "gotland",
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "egypt",
+  "maya"
+ ],
+ "model": "gemini",
+ "planted_rank": 8
+}

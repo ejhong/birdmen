@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "upright slab/stela with carved relief on its face",
+  "registers or horizontal bands stacked vertically",
+  "repeated animal or creature heads in a row",
+  "animal figures rendered in profile",
+  "low-relief carving with raised outlined forms against a flat ground"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both are upright carved slabs whose faces are divided into stacked horizontal registers containing repeated creature forms, and both use flat low relief with raised outlined shapes on a plain ground. But A depicts dense double columns of tightly packed, square-framed composite glyphic cartouches with human-like faces, while B shows sparse, widely spaced naturalistic profile animals (quadrupeds, a long-necked bird, arms and a fringe band) with no glyph blocks \u2014 the specific motifs and their relationships have little in common.",
+ "a": "maya_0057",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2949,
+  327
+ ]
+}

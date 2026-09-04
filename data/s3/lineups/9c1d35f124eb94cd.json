@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  9,
+  6,
+  2,
+  4,
+  7,
+  8,
+  3,
+  5,
+  10
+ ],
+ "most_similar_reason": "Candidate 1, like the target, presents animals rendered in strict profile in low relief on a stone surface, with an animal's body and legs sharply outlined against a flat ground and organized into a banded register alongside other figures, matching the target's stacked profile fox/bird/snake imagery.",
+ "least_similar_reason": "Candidate 10 shows only a faint incised abstract outline with a few internal lines and no creatures, limbs or figural scene at all, sharing nothing with the target's repertoire of profile animals, snakes, birds and human arms.",
+ "set": "moai_among_random",
+ "i": 20,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0027",
+  "persepolis_0063",
+  "gotland_0000",
+  "persepolis_0062",
+  "gotland_0117",
+  "rapa_nui_0113",
+  "persepolis_0007",
+  "persepolis_0071",
+  "persepolis_0082",
+  "gotland_0008"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "gotland",
+  "persepolis",
+  "persepolis",
+  "persepolis",
+  "persepolis",
+  "persepolis",
+  "gotland",
+  "persepolis",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 3
+}

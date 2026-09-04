@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "profile animal figure",
+  "horizontal band or divider",
+  "linear carved surface decoration"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest correspondence is that both surfaces use carved linear relief to show profile animals, with some horizontal banding or register-like division. The biggest difference is compositional: A is an orderly horizontal procession with carefully modeled human and animal figures, while B is a vertical pillar with rougher, more schematic motifs stacked and scattered in separate zones.",
+ "a": "persepolis_0069",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  570
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  6,
+  2,
+  3,
+  5,
+  10,
+  4,
+  9,
+  7,
+  8
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's combination of an animal-headed/anthropomorphic figure paired with bird-like motifs and a hieroglyphic-style register above, echoing the target's stacked animal and human figures beneath a symbolic top band.",
+ "least_similar_reason": "Candidate 8 is a plain, undecorated stone figure with no comparable animal, human, or symbolic register imagery, making it the least related in depicted content to the target's rich figural and glyphic composition.",
+ "set": "moai_iso_among_random",
+ "i": 7,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0048",
+  "egypt_0014",
+  "egypt_0032",
+  "tanum_0056",
+  "persepolis_0018",
+  "maya_0129",
+  "egypt_0006",
+  "rapa_nui_hoa_iso",
+  "tanum_0327",
+  "gotland_0129"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "egypt",
+  "persepolis",
+  "egypt",
+  "tanum",
+  "gotland",
+  "egypt",
+  "egypt",
+  "maya",
+  "tanum"
+ ],
+ "model": "sonnet",
+ "planted_rank": 10
+}

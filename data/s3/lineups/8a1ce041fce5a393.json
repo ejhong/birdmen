@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  6,
+  4,
+  8,
+  3,
+  5,
+  1,
+  9,
+  10,
+  2
+ ],
+ "most_similar_reason": "Candidate 7 most closely matches the target\u2019s depicted organization and style: a rounded, framed surface divided into fields with dark schematic motifs, including enclosed geometric borders and lower zoomorphic/curvilinear forms arranged much like the target\u2019s register-based animal imagery.",
+ "least_similar_reason": "Candidate 2 is least similar because it depicts a single freestanding anthropomorphic body with facial and torso features, rather than a framed, register-like surface with paired animals, large profile creatures, and geometric border motifs.",
+ "set": "same_control_monoliths",
+ "i": 36,
+ "target": "gotland_0116",
+ "planted": "gotland_0111",
+ "cands": [
+  "maya_0053",
+  "rapa_nui_0047",
+  "rapa_nui_0052",
+  "maya_0091",
+  "anatolia_ppn_0027",
+  "egypt_0050",
+  "gotland_0111",
+  "maya_0114",
+  "maya_0152",
+  "anatolia_ppn_0266"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "anatolia_ppn",
+  "maya",
+  "maya",
+  "rapa_nui",
+  "anatolia_ppn",
+  "maya",
+  "rapa_nui"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

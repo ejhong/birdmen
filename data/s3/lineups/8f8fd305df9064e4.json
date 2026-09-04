@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  6,
+  5,
+  7,
+  3,
+  9,
+  8,
+  10,
+  4,
+  2
+ ],
+ "most_similar_reason": "Both the target and candidate 1 use fine incised/engraved linear designs on a flat stone slab, combining curvilinear bands with geometric infill in a comparable technique and density of decoration.",
+ "least_similar_reason": "Candidate 2 is a plain, undecorated humanoid statue with smooth surfaces and no incised figurative or geometric motifs, sharing none of the engraved animal-and-band iconography seen in the target.",
+ "set": "same_control_monoliths",
+ "i": 11,
+ "target": "anatolia_ppn_0103",
+ "planted": "anatolia_ppn_0129",
+ "cands": [
+  "gotland_0007",
+  "rapa_nui_0044",
+  "anatolia_ppn_0129",
+  "rapa_nui_0063",
+  "maya_0056",
+  "gotland_0117",
+  "maya_0083",
+  "egypt_0049",
+  "maya_0101",
+  "rapa_nui_0034"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "maya",
+  "rapa_nui",
+  "gotland",
+  "gotland",
+  "rapa_nui",
+  "egypt",
+  "maya",
+  "maya",
+  "rapa_nui"
+ ],
+ "model": "sonnet",
+ "planted_rank": 5
+}

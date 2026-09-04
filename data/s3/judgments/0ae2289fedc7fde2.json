@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief carved human figures in profile",
+  "hand/arm rendered in relief",
+  "dense field of script-like signs or inscription",
+  "rosette/disc-like circular motifs",
+  "figures in registers/panels alongside text"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both are low-relief carvings combining human figures shown in strict profile with dense fields of writing-like signs, and both include small circular/rosette motifs, which is a moderately specific shared convention. But A is a long horizontal frieze of repeated floral rosettes and a text band with only fragmentary bodies and a gripping hand, whereas B is a self-contained round-topped panel showing a seated figure facing standing adorants beneath a winged disc and offering stand \u2014 a specific cult scene absent from A.",
+ "a": "assyria_0015",
+ "b": "egypt_0041",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  305
+ ]
+}

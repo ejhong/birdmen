@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figures in profile",
+  "dense blocks of script-like glyph signs",
+  "glyph signs arranged in ordered rows/columns",
+  "standing/elaborately dressed figure in low relief",
+  "upright slab-shaped carved panel with framed field",
+  "figures with headgear/attributes"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both depict human figures in low relief combined with dense arrays of ordered glyph signs on an upright framed panel, and both render figures schematically in profile with headgear \u2014 a genuinely comparable text-plus-figure scheme. But the specific arrangement differs sharply: A is dominated by one large frontal-bodied, profile-headed figure in ornate regalia flanked by a few glyph blocks, while B relegates a small row of standing figures to a lunette-and-register at the top above a dozen uniform horizontal lines of tiny script, with no monumental figure at all.",
+ "a": "maya_0092",
+ "b": "egypt_0049",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3024,
+  346
+ ]
+}

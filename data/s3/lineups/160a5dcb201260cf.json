@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  9,
+  7,
+  10,
+  3,
+  4,
+  1,
+  8,
+  5,
+  2
+ ],
+ "most_similar_reason": "Candidate 6 shows the same kind of low-relief scene: human figures in strict profile with patterned garments and headgear, arranged in a procession-like row along a horizontal register, holding/leading things, drawn with the same combination of outlined contours and finely incised interior detail as the target's staff-bearing attendants.",
+ "least_similar_reason": "Candidate 2 is a natural rocky coastline with no discernible depicted figures, objects or motifs at all, so it shares no iconographic content with the target's carved human procession.",
+ "set": "same_control",
+ "i": 21,
+ "target": "assyria_0139",
+ "planted": "assyria_0063",
+ "cands": [
+  "anatolia_ppn_0083",
+  "rapa_nui_0073",
+  "anatolia_ppn_0186",
+  "assyria_0063",
+  "egypt_0020",
+  "persepolis_0100",
+  "mississippian_0055",
+  "maya_0081",
+  "tanum_0037",
+  "anatolia_ppn_0155"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "egypt",
+  "persepolis",
+  "anatolia_ppn",
+  "rapa_nui",
+  "maya",
+  "mississippian",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 6
+}

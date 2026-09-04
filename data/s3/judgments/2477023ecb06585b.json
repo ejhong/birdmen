@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "standing/represented human figure",
+  "carved human head in profile"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both images include a carved human figure or head rendered in a somewhat stylized, low-relief or sculptural manner, suggesting a shared broad tradition of figural stone carving. However, image A shows a full standing figure on a stela set against an architectural stepped platform, while image B shows a close-up fragmentary head/figure entangled with abstract stone forms with no comparable architectural or spatial context, so the specific composition and relationships differ substantially.",
+ "a": "maya_0000",
+ "b": "anatolia_ppn_0259",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  3174,
+  246
+ ]
+}

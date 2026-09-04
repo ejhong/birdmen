@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  10,
+  8,
+  7,
+  5,
+  6,
+  2,
+  9,
+  3,
+  4
+ ],
+ "most_similar_reason": "Candidate 1 is most similar because it shows a vertically arranged, rounded-top, schematic anthropomorphic figure with comparable incised circular and curving body motifs, closely echoing the target\u2019s frontal stylized body imagery.",
+ "least_similar_reason": "Candidate 4 is least similar because it depicts a boat-like linear motif with hull/rib forms and curled ends rather than a frontal anthropomorphic figure or comparable body-symbol arrangement.",
+ "set": "p43_among_random",
+ "i": 0,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "gotland_0122",
+  "assyria_0116",
+  "assyria_0088",
+  "tanum_0054",
+  "gotland_0116",
+  "anatolia_ppn_p43full",
+  "mississippian_0009",
+  "maya_0088",
+  "maya_0129",
+  "maya_0126"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "tanum",
+  "assyria",
+  "maya",
+  "mississippian",
+  "gotland",
+  "assyria",
+  "gotland"
+ ],
+ "model": "gpt",
+ "planted_rank": 6
+}

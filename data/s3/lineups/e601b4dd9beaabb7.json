@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  3,
+  2,
+  9,
+  10,
+  8,
+  6,
+  7,
+  5,
+  1
+ ],
+ "most_similar_reason": "Candidate 4 shows the same idea as the target: a single upright slab with a rounded, head-like top treated as a schematic body, bearing a shallow-relief human figure together with belt-like bands and hatched/zigzag geometric fields, arranged as attributes distributed over the body of the stone rather than as a narrative scene.",
+ "least_similar_reason": "Candidate 1 is a long horizontal frieze of repeated standing figures framed by continuous border bands, an entirely different composition and subject from the target's single schematic anthropomorphic slab with head, disc on the chest and belt.",
+ "set": "p43_iso_among_monoliths",
+ "i": 7,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "gotland_0128",
+  "egypt_0067",
+  "maya_0136",
+  "egypt_0045",
+  "egypt_0061",
+  "maya_0097",
+  "maya_0094",
+  "anatolia_ppn_p43iso",
+  "egypt_0046",
+  "gotland_0007"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "egypt",
+  "gotland",
+  "maya",
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 6
+}

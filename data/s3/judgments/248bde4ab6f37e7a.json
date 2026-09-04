@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "glyph-like abstract signs",
+  "horizontal band or register of marks",
+  "oval or circular motifs",
+  "schematic linear carving/drawing conventions"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest overlap is that both surfaces include schematic, glyph-like linear signs arranged partly in horizontal bands, with some oval/circular forms among the markings. The major difference is that B is dominated by a large anthropomorphic/face-like figure with paired round eyes and a curved mouth or chest motif, while A is dominated by an inscription-like panel of repeated signs without the same figural scheme.",
+ "a": "gotland_0125",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  669
+ ]
+}

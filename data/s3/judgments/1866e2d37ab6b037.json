@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "animals shown in profile",
+  "schematic human/anthropomorphic figure with raised arms",
+  "registers or horizontal bands dividing the surface",
+  "row of repeated vertical elements forming a band",
+  "birds or bird-like creatures"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces organise schematic profile animals and small anthropomorphic figures into stacked horizontal registers, and both include a band of repeated vertical strokes, but these are generic organising devices rather than shared motifs. A's content is dominated by large predatory quadrupeds, big-beaked birds and a boar in high-relief with modelled bodies, while B is filled with linear outline boats with crew-strokes, ships and grid/ladder patterns \u2014 no distinctive motif is shared.",
+ "a": "anatolia_ppn_p43full",
+ "b": "tanum_0340",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  305
+ ]
+}

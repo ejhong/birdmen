@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "frontal anthropomorphic/human head or face",
+  "torso/body beneath the head",
+  "basic facial features arranged with eyes, nose and mouth"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict simplified frontal anthropomorphic forms, with a head or face set above a body/torso and basic facial features in conventional positions. The biggest difference is that A shows two conjoined rounded heads/bust-like figures with modeled faces, while B shows a single full frontal figure or slab with incised body symbols, breasts/circles and band-like motifs.",
+ "a": "anatolia_ppn_0247",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1989,
+  564
+ ]
+}

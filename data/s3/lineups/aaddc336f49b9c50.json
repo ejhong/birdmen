@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  8,
+  7,
+  1,
+  10,
+  3,
+  9,
+  4,
+  5,
+  2
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it shows a carved relief procession of profile human figures with animals, using comparable outlined, stylized figural forms and a similar horizontal narrative arrangement to the target\u2019s standing profile figures.",
+ "least_similar_reason": "Candidate 2 is least similar because its depicted content is essentially an isolated abstract/spiral marking on a rock, lacking the target\u2019s profile human figures, staffs, garments, wings, and processional figural composition.",
+ "set": "same_control",
+ "i": 21,
+ "target": "assyria_0139",
+ "planted": "assyria_0063",
+ "cands": [
+  "anatolia_ppn_0083",
+  "rapa_nui_0073",
+  "anatolia_ppn_0186",
+  "assyria_0063",
+  "egypt_0020",
+  "persepolis_0100",
+  "mississippian_0055",
+  "maya_0081",
+  "tanum_0037",
+  "anatolia_ppn_0155"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "egypt",
+  "persepolis",
+  "anatolia_ppn",
+  "rapa_nui",
+  "maya",
+  "mississippian",
+  "tanum"
+ ],
+ "model": "gpt",
+ "planted_rank": 8
+}

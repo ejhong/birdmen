@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  4,
+  1,
+  2,
+  3,
+  6,
+  9,
+  10,
+  8,
+  7
+ ],
+ "most_similar_reason": "Candidate 5, like the target, is a monolithic upright anthropomorphic pillar-figure whose body surface carries shallow low-relief additions \u2014 arm/hand bands, a belt-like girdle and disc-shaped ornaments \u2014 so that the block itself is the human form while carved motifs are applied over its torso, an unusual and specific combination the two share.",
+ "least_similar_reason": "Candidate 7 shows only dense vegetal scrollwork and foliage framing a mask-like emblem, with no standing human form, headdress, pectoral disc or body-borne relief of the kind that defines the target.",
+ "set": "p43_among_random",
+ "i": 25,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "maya_0026",
+  "mississippian_0000",
+  "maya_0085",
+  "maya_0092",
+  "anatolia_ppn_p43full",
+  "mississippian_0001",
+  "assyria_0091",
+  "tanum_0240",
+  "assyria_0035",
+  "tanum_0007"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "mississippian",
+  "assyria",
+  "maya",
+  "tanum",
+  "maya",
+  "mississippian",
+  "assyria",
+  "maya",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "large quadruped animal shown in profile with legs extended",
+  "small schematic human/anthropomorphic figure adjacent to the large animal",
+  "band of repeating geometric pattern (chevron/zigzag) bordering or dividing the field",
+  "animals rendered in low relief outline against a plain ground"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces show a large profile quadruped in low-relief outline paired with a much smaller schematic anthropomorphic figure, and both use a band of repeated geometric (zigzag/chevron) pattern as a framing or dividing element, which is a moderately specific combination. The biggest difference is the overall composition: A is a tall multi-register stele stacking several different creatures (birds, canid, snake-like head, additional small figures) in horizontal tiers, whereas B is a single-scene panel dominated by one animal enclosed within a continuous border.",
+ "a": "anatolia_ppn_p43full",
+ "b": "gotland_0115",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  698
+ ]
+}

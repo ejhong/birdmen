@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  3,
+  8,
+  7,
+  5,
+  6,
+  1,
+  9,
+  10,
+  2
+ ],
+ "most_similar_reason": "Candidate 4 shares the depiction of a stylized figure in profile, matching the target's formal conventions for rendering anatomy and garments.",
+ "least_similar_reason": "Candidate 2 shows a bare architectural structure lacking any figurative scenes or decorative motifs.",
+ "set": "related_control",
+ "i": 25,
+ "target": "persepolis_0062",
+ "planted": "assyria_0134",
+ "cands": [
+  "tanum_0340",
+  "egypt_0010",
+  "anatolia_ppn_0103",
+  "assyria_0134",
+  "maya_0066",
+  "maya_0095",
+  "egypt_0062",
+  "mississippian_0001",
+  "anatolia_ppn_0244",
+  "catalhoyuk_0102"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "egypt",
+  "anatolia_ppn",
+  "egypt",
+  "mississippian",
+  "tanum",
+  "catalhoyuk",
+  "maya",
+  "anatolia_ppn",
+  "maya"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

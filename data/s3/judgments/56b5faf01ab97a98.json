@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "incised linear script-like signs",
+  "straight-line strokes with angled branches (rune-like characters)",
+  "inscribed lines on a stone surface"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both surfaces bear incised angular, stroke-and-branch characters of the same general script-like family, drawn with plain thin lines and no infill. A shows a fully organised composition \u2014 a framing border of text bands around the slab edges and a large arched/cross-shaped internal figure carrying further characters \u2014 whereas B shows only a short, irregular row of similar signs with no framing, figure or evident layout, so the correspondence rests on the character forms alone.",
+ "a": "gotland_0002",
+ "b": "gotland_0018",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3174,
+  264
+ ]
+}

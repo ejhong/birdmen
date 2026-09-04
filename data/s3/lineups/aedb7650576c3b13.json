@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  8,
+  2,
+  4,
+  6,
+  9,
+  5,
+  1,
+  7,
+  10
+ ],
+ "most_similar_reason": "Both surfaces present an assortment of scattered animal and symbolic motifs.",
+ "least_similar_reason": "This shows a bare surface devoid of any figurative or symbolic imagery.",
+ "set": "moai_among_random",
+ "i": 22,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "rapa_nui_0113",
+  "mississippian_0010",
+  "tanum_0340",
+  "maya_0146",
+  "egypt_0066",
+  "maya_0060",
+  "egypt_0021",
+  "mississippian_0005",
+  "persepolis_0067",
+  "egypt_0020"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "egypt",
+  "tanum",
+  "egypt",
+  "egypt",
+  "mississippian",
+  "persepolis",
+  "maya",
+  "maya",
+  "mississippian"
+ ],
+ "model": "gemini",
+ "planted_rank": 8
+}

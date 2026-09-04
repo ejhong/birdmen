@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  8,
+  5,
+  7,
+  1,
+  4,
+  6,
+  3,
+  2,
+  10
+ ],
+ "most_similar_reason": "Candidate 9 is most similar because it shows the same kind of rounded-top inscribed stele with profile human figures, offering/action scenes, and rows or blocks of formal signs arranged in registers across the surface.",
+ "least_similar_reason": "Candidate 10 is least similar because it shows essentially an undecorated upright marker in a landscape, with no comparable figures, signs, registers, or narrative/iconographic arrangement visible.",
+ "set": "same_control_monoliths",
+ "i": 19,
+ "target": "egypt_0067",
+ "planted": "egypt_0076",
+ "cands": [
+  "anatolia_ppn_0088",
+  "anatolia_ppn_0121",
+  "maya_0082",
+  "rapa_nui_0044",
+  "maya_0057",
+  "rapa_nui_0049",
+  "maya_0147",
+  "gotland_0133",
+  "egypt_0076",
+  "maya_0000"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "rapa_nui",
+  "gotland",
+  "rapa_nui"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

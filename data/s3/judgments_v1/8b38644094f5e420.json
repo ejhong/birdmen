@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic human figure",
+  "animal or bird in profile",
+  "horizontal linear band or register",
+  "repeated short strokes / comb-like hatching",
+  "curving or serpentine line"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The most specific correspondence is the use of schematic figures and repeated short strokes organized at least partly along horizontal lines or registers. The biggest difference is that A is a dense carved relief on an upright slab with large framed figures, while B is a spread-out field of thin red linear drawings on a flat rock surface.",
+ "a": "anatolia_ppn_p43full",
+ "b": "tanum_0333",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  569
+ ]
+}

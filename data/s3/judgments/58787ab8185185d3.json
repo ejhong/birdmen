@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human figure",
+  "human head with patterned/striated wig or headdress",
+  "incised script-like signs",
+  "limbs/arms rendered"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both show human figures with wig-like head coverings accompanied by rows of incised script-like signs, which is a reasonably specific shared pairing of figure plus inscription. However, A is a modelled three-dimensional figure seen close up with hatched wig texture and no legible scene relationships, while B is a flat register composition of several linear, schematic standing figures facing one another beneath a band of signs, so relationships, arrangement and drawing conventions differ almost entirely.",
+ "a": "anatolia_ppn_0266",
+ "b": "egypt_0074",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2974,
+  622
+ ]
+}

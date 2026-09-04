@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "profile bird or bird-like animal",
+  "schematic standing human/anthropomorphic figure",
+  "horizontal registers or bands",
+  "repeated geometric patterning/hatching",
+  "carved relief on a stone surface"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of shallow carved outline/relief with profile bird-like forms placed toward an upper zone, accompanied by bands of repeated geometric marks. The biggest difference is that A is a tall, vertically stacked pillar-like composition dominated by isolated symbols and patterns, while B is a wide rectangular narrative/architectural scene with towers, figures, and animals organized across a horizontal field.",
+ "a": "anatolia_ppn_p43full",
+ "b": "assyria_0092",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  673
+ ]
+}

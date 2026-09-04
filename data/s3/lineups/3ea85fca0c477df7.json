@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  7,
+  2,
+  8,
+  6,
+  3,
+  9,
+  4,
+  1,
+  5
+ ],
+ "most_similar_reason": "Candidate 10 shows a single frontal human figure dominating the whole surface, with an elaborate headdress crowning the head and ornamental relief elements laid over the body, exactly the arrangement of the target's one-figure, headdress-topped composition.",
+ "least_similar_reason": "Candidate 5 presents a stela seen at such a distance within an architectural setting that no figures, ornaments or motifs are legible, so it offers essentially no depicted content corresponding to the target's frontal figure with headdress and body ornaments.",
+ "set": "p43_iso_among_monoliths",
+ "i": 27,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0088",
+  "maya_0138",
+  "egypt_0046",
+  "egypt_0064",
+  "maya_0000",
+  "anatolia_ppn_p43iso",
+  "maya_0092",
+  "maya_0136",
+  "egypt_0066",
+  "maya_0087"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 5
+}

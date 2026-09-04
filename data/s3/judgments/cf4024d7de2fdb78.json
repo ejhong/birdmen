@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "animals/figures shown in profile facing right",
+  "low relief carving with incised linear detail",
+  "repeated parallel figures moving in the same direction",
+  "dense patterned infill (fleece hatching / brick coursing)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both are low reliefs with profile figures advancing rightward and heavy use of incised repetitive texture (curled fleece in A, brickwork and crenellations in B), and both stack figures in overlapping parallel file. But A depicts a close-up pair of horned rams with no human presence or setting, while B shows a narrative siege with archers, a battering ram, a walled tower and gate \u2014 different subject matter entirely.",
+ "a": "persepolis_0085",
+ "b": "assyria_0092",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  276
+ ]
+}

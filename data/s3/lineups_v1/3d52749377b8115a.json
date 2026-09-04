@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  2,
+  5,
+  8,
+  9,
+  4,
+  3,
+  7,
+  6,
+  10
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's format of an irregular, roughly rectangular upright stone slab carved in shallow low relief with schematic animal figures stacked within a framed field, rendered in the same flat, silhouette-like manner.",
+ "least_similar_reason": "Candidate 10 is a linear painted figure in red pigment on a flat surface rather than a carved relief on a shaped stone monolith, so both its technique and its single anthropomorphic subject differ most from the target.",
+ "set": "moai_among_random",
+ "i": 12,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0009",
+  "egypt_0012",
+  "persepolis_0077",
+  "persepolis_0069",
+  "maya_0000",
+  "persepolis_0089",
+  "assyria_0128",
+  "rapa_nui_0113",
+  "assyria_0041",
+  "tanum_0240"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "egypt",
+  "persepolis",
+  "assyria",
+  "persepolis",
+  "maya",
+  "tanum",
+  "assyria",
+  "gotland",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

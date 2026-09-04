@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "animals in profile",
+  "repeated linear/geometric patterning used as infill or bands"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The main overlap is only generic: both surfaces include profile animals and incised/repeated linear patterning on or around them. The biggest difference is that B shows a coherent horizontal procession of large, naturalistically rendered horned winged animals with human attendants/parts, while A is a much more schematic vertical composition of varied small animal/sign motifs arranged in stacked zones.",
+ "a": "anatolia_ppn_p43full",
+ "b": "persepolis_0095",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  657
+ ]
+}

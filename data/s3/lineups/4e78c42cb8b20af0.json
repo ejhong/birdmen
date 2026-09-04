@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  2,
+  10,
+  3,
+  8,
+  9,
+  7,
+  6,
+  4,
+  5
+ ],
+ "most_similar_reason": "Candidate 1 shows the same kind of massive monolithic figure with low, smooth relief consisting of a raised ring/disc and paired sweeping curved bands rendered in the same swelling, minimally modelled style seen in the target close-up.",
+ "least_similar_reason": "Candidate 5 depicts nothing but dense ruled rows of small repeated inscribed signs filling a rectangular arched slab, with no sculptural body forms, discs or curved relief bands of the target.",
+ "set": "same_control_monoliths",
+ "i": 9,
+ "target": "anatolia_ppn_0244",
+ "planted": "anatolia_ppn_0041",
+ "cands": [
+  "rapa_nui_0046",
+  "rapa_nui_0047",
+  "anatolia_ppn_0041",
+  "egypt_0040",
+  "egypt_0049",
+  "maya_0077",
+  "maya_0000",
+  "maya_0113",
+  "maya_0105",
+  "rapa_nui_0044"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "rapa_nui",
+  "rapa_nui",
+  "egypt",
+  "maya",
+  "maya",
+  "rapa_nui",
+  "maya",
+  "egypt",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

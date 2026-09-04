@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "upright carved stone surface",
+  "low-relief linear carving",
+  "horizontal band or register",
+  "geometric/repeated patterning",
+  "small compartmentalized carved signs"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The closest correspondence is that both are upright stone surfaces organized by carved registers or panels, with low-relief linear motifs and repeated geometric patterning. The biggest difference is compositional: A is an open field of animal-like and abstract motifs in broad horizontal zones, while B is dominated by a framed central anthropomorphic figure surrounded by dense panelled ornament.",
+ "a": "anatolia_ppn_p43full",
+ "b": "maya_0113",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  657
+ ]
+}

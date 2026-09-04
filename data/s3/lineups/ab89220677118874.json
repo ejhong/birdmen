@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  4,
+  2,
+  1,
+  6,
+  9,
+  8,
+  3,
+  7,
+  10
+ ],
+ "most_similar_reason": "Candidate 5 is most similar because it likewise shows a single frontal, vertically organized anthropomorphic figure filling a tall surface, with a broad head/face, compact body, and schematic incised geometric details arranged along the figure.",
+ "least_similar_reason": "Candidate 10 is least similar because it depicts a loose animal-and-stick-figure scene rather than a frontal monumental human-like figure with body ornaments and organized geometric features.",
+ "set": "p43_among_random",
+ "i": 25,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "maya_0026",
+  "mississippian_0000",
+  "maya_0085",
+  "maya_0092",
+  "anatolia_ppn_p43full",
+  "mississippian_0001",
+  "assyria_0091",
+  "tanum_0240",
+  "assyria_0035",
+  "tanum_0007"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "mississippian",
+  "assyria",
+  "maya",
+  "tanum",
+  "maya",
+  "mississippian",
+  "assyria",
+  "maya",
+  "tanum"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "horizontal bands or registers of signs/pattern",
+  "schematic incised/outlined figures",
+  "bird or bird-like forms in profile",
+  "standing human or anthropomorphic figure",
+  "circle or disc-like sign",
+  "repeated small symbolic signs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest correspondence is that both surfaces organize schematic figures and small signs into horizontal bands, with some profile bird-like signs and human/anthropomorphic forms among the imagery. The biggest difference is that A is dominated by a formal scene of humans worshipping beneath a disc with rays above dense rows of script-like signs, while B shows larger isolated animal/geometric motifs without the same disc-rays-offering relationship or overall iconographic scheme.",
+ "a": "egypt_0015",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1777,
+  696
+ ]
+}

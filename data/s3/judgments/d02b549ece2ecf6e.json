@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic relief figures",
+  "curving linear motifs",
+  "circle or oval sign",
+  "possible anthropomorphic body parts"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The strongest correspondence is that both surfaces use schematic raised/outlined forms, including curved lines and a circular or oval motif on a vertically organized figure-like surface. The major difference is that A is a dense panel of multiple profile animals and repeated bands/signs, while B is dominated by a single anthropomorphic torso/back with a central ring and broad curved bands, so the depicted schemes do not really correspond.",
+ "a": "anatolia_ppn_p43full",
+ "b": "rapa_nui_0004",
+ "model": "gpt",
+ "set": "target",
+ "usage": [
+  1830,
+  1185
+ ]
+}

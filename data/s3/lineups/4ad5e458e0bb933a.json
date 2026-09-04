@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  6,
+  2,
+  9,
+  1,
+  4,
+  3,
+  10,
+  8,
+  5
+ ],
+ "most_similar_reason": "Candidate 7 is most similar because it has the same kind of schematic low-relief vocabulary of small animal/symbol forms arranged across a band-like surface, closest to the target\u2019s profile creatures and repeated linear motifs.",
+ "least_similar_reason": "Candidate 5 is least similar because it is essentially a set of abstract linear marks with no comparable profile animals, bird forms, or organized figural arrangement.",
+ "set": "moai_close_among_random",
+ "i": 37,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "assyria_0125",
+  "assyria_0146",
+  "persepolis_0012",
+  "mississippian_0007",
+  "tanum_0037",
+  "assyria_0011",
+  "assyria_0015",
+  "rapa_nui_0004",
+  "assyria_0120",
+  "mississippian_0006"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "tanum",
+  "assyria",
+  "assyria",
+  "mississippian",
+  "assyria",
+  "mississippian",
+  "persepolis",
+  "assyria",
+  "assyria"
+ ],
+ "model": "gpt",
+ "planted_rank": 9
+}

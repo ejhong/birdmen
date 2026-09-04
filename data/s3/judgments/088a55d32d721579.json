@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "schematic face or mask-like figure",
+  "circular or spiral eye/disc motifs",
+  "curvilinear scroll-like incised motifs",
+  "horizontal band or baseline near the lower part",
+  "frontally presented body/slab-like figure with upper head area and lower torso area"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces show a highly schematic central figure or mask with prominent circular/spiral eye-like motifs and curving incised bands on an upper-and-lower body layout. The biggest difference is that A reads as a largely frontal anthropomorphic statue with paired features and symmetrical torso bands, while B reads more like an asymmetric profile or zoomorphic/curled figure with side scrolls rather than the same frontal bodily scheme.",
+ "a": "rapa_nui_0113",
+ "b": "maya_0069",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1777,
+  701
+ ]
+}

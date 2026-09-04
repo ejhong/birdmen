@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "horizontal banded belt or border motif",
+  "circular disc motif",
+  "row of vertical line elements",
+  "object suspended below a band"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces share a distinctive compositional device\u2014a horizontal banded 'belt' separating an upper register containing a circular/disc motif from a lower register with vertical line elements\u2014which is a fairly specific correspondence rather than a purely generic one. However, the actual scenes differ sharply: A depicts a narrative with a mounted rider or ship and a hanging implement, while B shows an anthropomorphic figure's back with paired ring 'eyes' and a fringe-like lower section, so the specific iconographic content and narrative intent are not shared.",
+ "a": "gotland_0123",
+ "b": "rapa_nui_0065",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  3074,
+  1363
+ ]
+}

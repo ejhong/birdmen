@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  1,
+  10,
+  9,
+  6,
+  5,
+  2,
+  8,
+  4,
+  7
+ ],
+ "most_similar_reason": "Candidate 3 shows a single large quadruped rendered in profile as a low relief filling the stone face, with the body outlined and limbs summarily modelled, which is exactly the target's motif of one animal in profile relief occupying the pillar's surface.",
+ "least_similar_reason": "Candidate 7 shows no creature or figure at all, only an architectural arched niche filled with abstract dotted/geometric fields, which shares nothing with the target's single animal relief on a pillar.",
+ "set": "same_control_monoliths",
+ "i": 6,
+ "target": "anatolia_ppn_0122",
+ "planted": "anatolia_ppn_0267",
+ "cands": [
+  "anatolia_ppn_0267",
+  "gotland_0009",
+  "rapa_nui_0122",
+  "egypt_0043",
+  "maya_0085",
+  "gotland_0000",
+  "gotland_0111",
+  "egypt_0076",
+  "rapa_nui_0063",
+  "maya_0105"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "rapa_nui",
+  "egypt",
+  "maya",
+  "gotland",
+  "maya",
+  "gotland",
+  "gotland",
+  "egypt",
+  "rapa_nui"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

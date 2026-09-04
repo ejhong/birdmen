@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human/anthropomorphic representation",
+  "schematic rendering of body or facial features",
+  "symmetrical composition about a vertical axis",
+  "incised or carved linear detail"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both are schematic anthropomorphic depictions organised symmetrically about a vertical axis \bhead with hair/brows, eyes and a bared row of teeth in A; an incised garment or torso with nested rectangular frames and small central motifs in B. Beyond the generic fact that each reduces a human subject to a few incised lines, they share no specific motif: A is a three-dimensional head with facial features, while B is a flat plaque whose content is a rectilinear framed panel with no face at all.",
+ "a": "anatolia_ppn_0129",
+ "b": "gotland_0130",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3049,
+  297
+ ]
+}

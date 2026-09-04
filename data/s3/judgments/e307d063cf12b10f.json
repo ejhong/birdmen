@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "anthropomorphic figure occupying the whole field",
+  "elaborate headdress/headgear covering the crown",
+  "circular disc ornament at the chest/neck",
+  "small circular ear or side ornament",
+  "incised outline drawing with plain (uninfilled) areas",
+  "banded/striated panel of parallel lines across the lower body",
+  "figure shown from the waist or torso up"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict a single dominant anthropomorphic figure with a broad headdress over the crown, a round disc ornament at the neck/chest and a round ear-level element, all rendered as bare incised outlines with striated bands over the lower torso. The clearest difference is orientation and completeness: A presents a massive frontal, symmetrical figure with the incised motifs spread over a sculptural body, while B shows a strict profile head-and-shoulders with a wing-like fan of parallel lines, so the specific combination of motifs is only loosely parallel.",
+ "a": "rapa_nui_0113",
+ "b": "mississippian_0001",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2874,
+  784
+ ]
+}

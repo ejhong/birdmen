@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "animals/creatures shown in profile",
+  "relief figures arranged in horizontal registers",
+  "a row of repeated similar figures along an upper band",
+  "a small disc/round element within a scene",
+  "a horizontal band separating upper from lower zones"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces divide an upright slab into stacked horizontal registers, with a row of repeated similar figures across an upper band and further figural content below, and both include creatures rendered in strict profile plus a small disc element. But the content is fundamentally different: A shows isolated wild animals (quadruped heads, a predator, birds, a snake-like form) with a zigzag band and no writing, while B shows an anthropomorphic divine assembly of standing human-bodied figures facing one another beneath a winged disc, above many lines of script \u2014 none of A's motifs recur in B, and vice versa.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0070",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  729
+ ]
+}

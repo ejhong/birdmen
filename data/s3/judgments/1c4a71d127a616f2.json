@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic incised/linear geometric motifs",
+  "parallel grooves or stripe-like marks",
+  "curving lines or band-like motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The main correspondence is only that both surfaces use schematic incised linear decoration, including parallel and curving groove-like motifs. The biggest difference is that A is organized as a single frontal anthropomorphic figure with body parts and internal markings, while B is a horizontal field or row of repeated abstract signs with no clear comparable human figure or body scheme.",
+ "a": "rapa_nui_0113",
+ "b": "maya_0023",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  613
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "stylized standing anthropomorphic figure or body",
+  "incised linear/geometric markings",
+  "vertical upright composition"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The clearest shared content is an upright, highly stylized anthropomorphic presence with incised linear/geometric markings on or around it. The biggest difference is that B is dominated by a broad frontal mask-like/body figure with large facial features, while A appears to show a much smaller slender incised human figure within or on a central form, with surrounding vertical inscription-like bands rather than the same facial/body scheme.",
+ "a": "egypt_0061",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  668
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "upright frontal anthropomorphic/figure-like form",
+  "schematic arms or hands on/along the body",
+  "incised or relief signs on the front of a vertical body"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main correspondence is that both present a tall, frontal, schematic human-like form with some bodily indication and markings on the front. The biggest difference is that A is dominated by a full anthropomorphic face and torso with paired circular body features and bands, while B is a much more abstract pillar-like figure with a small animal or creature relief and little comparable facial or torso iconography.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_0037",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1804,
+  676
+ ]
+}

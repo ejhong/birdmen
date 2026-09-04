@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "carved stone relief surface",
+  "horizontal band or register of dense repeated marks near the top",
+  "profile bird or bird-like head",
+  "incised/raised linear detailing",
+  "animal/creature imagery"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest correspondence is that both are carved stone surfaces organized with a dense horizontal band above figural imagery, and both include profile bird-like forms rendered by outline and incision. The biggest difference is that A is a rough, schematic, scattered set of motifs on a narrow upright stone, while B is a carefully composed panel with a large standing winged figure and an elaborate plant-like form, rendered in much finer and more regular relief.",
+ "a": "anatolia_ppn_p43full",
+ "b": "assyria_0102",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1283,
+  680
+ ]
+}

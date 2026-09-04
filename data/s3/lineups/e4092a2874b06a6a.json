@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  5,
+  6,
+  4,
+  1,
+  3,
+  9,
+  2,
+  8,
+  7
+ ],
+ "most_similar_reason": "Both the target and candidate 10 depict a single human figure as the primary subject with a conspicuous circular element placed on the torso.",
+ "least_similar_reason": "Candidate 7 shows virtually no carved motifs or figures, lacking the human form, circular medallion and linear garment details of the target.",
+ "set": "p43_iso_among_monoliths",
+ "i": 3,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "anatolia_ppn_p43iso",
+  "gotland_0117",
+  "egypt_0063",
+  "maya_0045",
+  "maya_0147",
+  "maya_0152",
+  "maya_0082",
+  "gotland_0112",
+  "egypt_0064",
+  "maya_0097"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "gotland",
+  "maya"
+ ],
+ "model": "grok",
+ "planted_rank": 5
+}

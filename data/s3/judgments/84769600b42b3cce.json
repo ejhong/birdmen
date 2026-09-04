@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low relief carving of animals in profile",
+  "quadruped animal with legs shown in side view",
+  "horizontal register/band framing the figural scene",
+  "row of repeated motifs along the top border",
+  "animal head with prominent muzzle/snout",
+  "human or humanoid figure alongside animals"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces show low-relief animals in profile beneath a horizontal band of repeated motifs at the top, and both include a quadruped with a raised head, which is a fairly generic correspondence. The specifics differ sharply: A depicts a naturalistic two-humped pack animal led by a robed man with a staff under a border of rosettes, while B shows schematic, angular predatory beasts, a long-necked bird, a snake-like animal and an arcaded band of abstract signs stacked in several unrelated registers without any leading or handling relationship.",
+ "a": "persepolis_0063",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  350
+ ]
+}

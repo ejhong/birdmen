@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "large quadruped animal shown in profile",
+  "smaller crouching/recumbent creature placed low beneath the larger body",
+  "animal legs/paws rendered in profile",
+  "prominent almond-shaped animal eye",
+  "overlapping figures in a single crowded relief field",
+  "possible feline forms"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces depict massive animal bodies in profile with a smaller, lower crouching creature tucked beneath or between the larger forms, and both render the eye as a large prominent almond and the paws as blunt splayed toes, which is a comparable convention for piled-up animal imagery. However, A shows a clear legible scheme of a standing large animal over a recumbent feline beside a fluted vertical element, while B's arrangement is a dense cluster of heads, a spiral/volute and an outstretched hand-like paw with no matching standing-over-recumbent composition, so the correspondence remains at the level of generic animal relief rather than a shared specific motif.",
+ "a": "assyria_0110",
+ "b": "rapa_nui_0002",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  860
+ ]
+}

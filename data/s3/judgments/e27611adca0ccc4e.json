@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "repeated abstract linear signs or marks",
+  "horizontal bands/registers of marks"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The main correspondence is that both surfaces include repeated linear/abstract marks organized in horizontal rows or bands. The biggest difference is that B is dominated by recognizable schematic figures and motifs\u2014animals, possible human forms, and bold patterned bands\u2014whereas A appears mainly to contain dense inscription-like rows with no clear matching figural iconography.",
+ "a": "egypt_0007",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1883,
+  596
+ ]
+}

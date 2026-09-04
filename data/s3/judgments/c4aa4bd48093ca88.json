@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "standing human figure in strict profile",
+  "long pleated robe with vertical drapery folds",
+  "bearded male figure with styled hair",
+  "figure holding a vertical staff/spear",
+  "low-relief carved figures on architectural surface",
+  "repeated stylized plant/rosette-like motifs on a band",
+  "procession-like row of figures"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "7",
+ "justification": "Both show low-relief bearded male figures in strict profile wearing long pleated robes and holding upright spears/staffs, arranged as parts of a procession along an architectural face, with the same conventions of parallel incised drapery folds, patterned beard and shallow modelling. The main difference is scale and framing of content: A shows a whole staircase facade with rows of small figures and a band of repeated stylized foliate motifs above, while B isolates a single large guard figure with an additional quiver and a fluted headdress rendered in detail.",
+ "a": "persepolis_0023",
+ "b": "persepolis_0067",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3024,
+  359
+ ]
+}

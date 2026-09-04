@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "carved stone surface with relief/incised decoration",
+  "standing human or anthropomorphic figure",
+  "animal or bird-like figure in profile",
+  "repeated sign-like motifs",
+  "horizontal band or register of pattern",
+  "small circular/dot motifs"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces combine profile figural imagery with repeated sign-like motifs arranged partly in bands or registers. The biggest difference is compositional: A is a dense, formal slab centered on a large elaborately dressed standing figure flanked by vertical panels, while B is a rougher upright stone with sparse, stacked scenes and much simpler linear carving.",
+ "a": "maya_0026",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  673
+ ]
+}

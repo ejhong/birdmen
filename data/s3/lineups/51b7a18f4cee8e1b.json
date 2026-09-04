@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  4,
+  8,
+  2,
+  7,
+  6,
+  1,
+  10,
+  3,
+  5
+ ],
+ "most_similar_reason": "Candidate 9 shares the highly specific T-shaped structural form indicative of a stylized anthropomorphic figure.",
+ "least_similar_reason": "Candidate 5 features schematic stick figures that entirely lack the target's solid profile forms and structured composition.",
+ "set": "moai_close_among_random",
+ "i": 29,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "gotland_0018",
+  "persepolis_0108",
+  "mississippian_0006",
+  "assyria_0119",
+  "tanum_0317",
+  "persepolis_0105",
+  "persepolis_0047",
+  "maya_0097",
+  "rapa_nui_0004",
+  "maya_0106"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "assyria",
+  "maya",
+  "persepolis",
+  "mississippian",
+  "persepolis",
+  "maya",
+  "persepolis",
+  "tanum",
+  "gotland"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

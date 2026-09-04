@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  10,
+  5,
+  4,
+  2,
+  7,
+  1,
+  6,
+  9,
+  3
+ ],
+ "most_similar_reason": "Candidate 8 shows a single standing human figure as the full-height subject, with a tall headdress and decorated torso, matching the target's dominant anthropomorphic form.",
+ "least_similar_reason": "Candidate 3 is filled only with rows of incised signs and shows no human figures, circular motifs, radiating elements, or other pictorial content.",
+ "set": "p43_iso_among_monoliths",
+ "i": 2,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "anatolia_ppn_p43iso",
+  "gotland_0116",
+  "egypt_0063",
+  "egypt_0071",
+  "maya_0092",
+  "gotland_0026",
+  "egypt_0048",
+  "maya_0106",
+  "egypt_0064",
+  "maya_0056"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "egypt",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "egypt"
+ ],
+ "model": "grok",
+ "planted_rank": 7
+}

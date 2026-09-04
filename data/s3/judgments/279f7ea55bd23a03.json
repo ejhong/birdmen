@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "profile animal or bird-like figures",
+  "schematic body parts such as eyes/heads",
+  "repeated linear or hatched patterning",
+  "outlined figures with internal incised/detail lines"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest shared content is the use of schematic outlined profile creatures or creature-like figures combined with repeated short linear/hatching details. The biggest difference is that A is organized as stacked horizontal registers with multiple separate animals and patterned bands, while B is a circular composition dominated by a single central anthropomorphic/winged figure enclosed by curved bands.",
+ "a": "anatolia_ppn_p43full",
+ "b": "mississippian_0005",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1804,
+  668
+ ]
+}

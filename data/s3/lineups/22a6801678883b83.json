@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  10,
+  1,
+  5,
+  8,
+  6,
+  7,
+  2,
+  4,
+  3
+ ],
+ "most_similar_reason": "Candidate 9 shares the same tall, tapering anthropomorphic stele silhouette as the target and displays simple, schematic linear/arc motifs in a comparable position on the lower body, echoing the target's geometric ring-and-arc carving on the torso.",
+ "least_similar_reason": "Candidate 3 shows scattered petroglyph-style figures and animals on an open rock surface with no anthropomorphic stele form or comparable geometric torso motifs, making its depicted content the least related to the target's monolithic figure with circular/arc carving.",
+ "set": "p43_among_random",
+ "i": 4,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "anatolia_ppn_p43full",
+  "assyria_0128",
+  "tanum_0008",
+  "persepolis_0104",
+  "egypt_0074",
+  "maya_0095",
+  "maya_0045",
+  "egypt_0050",
+  "gotland_0008",
+  "maya_0069"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "maya",
+  "persepolis",
+  "assyria",
+  "maya",
+  "egypt",
+  "maya",
+  "gotland",
+  "tanum",
+  "egypt"
+ ],
+ "model": "sonnet",
+ "planted_rank": 3
+}

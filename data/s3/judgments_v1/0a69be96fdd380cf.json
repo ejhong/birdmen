@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "horizontal bands or registers",
+  "profile animal or bird-like forms",
+  "anthropomorphic or human-like figures",
+  "circular or eye/disc-like motifs",
+  "repeated geometric patterning"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both are carved stone surfaces organized in horizontal zones, combining repeated abstract/geometric motifs near the top with animal/human-like figures below. The biggest difference is that A is a crowded, high-relief, rounded composition with large paired figures, while B is a taller, more open surface with mostly shallow incised linear motifs and a very different order of forms.",
+ "a": "maya_0045",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  668
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "schematic eyes or facial features"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "The only real overlap is very generic: both include carved schematic features that can be read as eyes or facial detail. A is essentially a single anthropomorphic figure with a head and torso, whereas B is a multi-register surface filled with profile animals, repeated signs, and linear motifs, so there is no shared iconographic scheme.",
+ "a": "anatolia_ppn_0239",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  638
+ ]
+}

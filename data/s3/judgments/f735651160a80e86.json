@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "schematic human figure with outstretched raised arms",
+  "stick-like linear body with splayed limbs",
+  "painted red-pigment rock art figures",
+  "elongated straight line/staff-like element crossing the composition",
+  "animal-like schematic quadruped form"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both surfaces depict red-painted, highly schematic stick-figure anthropomorphs with a vertical linear body, splayed legs and raised arms bent upward, accompanied by long straight staff/line elements crossing the figure and small schematic quadruped/comb-like animal forms \u2014 a fairly specific shared convention of rendering. The main difference is that A is a crowded multi-figure scene with several humans, a concentric-circle disc and boat/sledge-like signs distributed over the panel, whereas B isolates a single large figure with one small adjacent animal.",
+ "a": "tanum_0082",
+ "b": "tanum_0128",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3174,
+  335
+ ]
+}

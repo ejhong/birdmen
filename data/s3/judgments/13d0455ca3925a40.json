@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "standing human figure",
+  "hieroglyphic-like script/signs",
+  "stela/plaque format with figure as\u4e3b focus",
+  "headdress or regalia on figure"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "3",
+ "justification": "Both surfaces are stone stelae dominated by a standing human figure accompanied by columns or blocks of script-like signs, which is a specific enough correspondence to note. However, the figure in A is a single richly costumed frontal figure surrounded by elaborate symbolic headgear and glyph blocks, while B depicts a narrative scene of a figure interacting with an altar/offering and additional smaller figures, rendered in a much more linear, thin-outline style\u2014so the relationships between elements and the drawing conventions differ substantially.",
+ "a": "maya_0137",
+ "b": "egypt_0065",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  2974,
+  853
+ ]
+}

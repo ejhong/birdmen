@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "stylized creatures or zoomorphic forms",
+  "profile animal forms",
+  "repeated sign-like or geometric motifs",
+  "vertical, stacked composition with carved motifs in zones"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main correspondence is that both surfaces use stylized relief drawing to combine creatures with repeated sign-like or geometric motifs in a vertically organized field. The biggest difference is that A is dominated by separate profile animals and bands of pattern, while B centers on a single elaborate frontal anthropomorphic/monster-like figure within a framed composition.",
+ "a": "anatolia_ppn_p43full",
+ "b": "maya_0092",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1883,
+  660
+ ]
+}

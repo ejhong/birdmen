@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "anthropomorphic/human-like figure",
+  "head and torso",
+  "circular disc or rosette motifs",
+  "linear carved/incised patterning on the body or clothing"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main overlap is that both depict a human or human-like figure with some circular motifs and linear surface patterning. The biggest difference is that A is a highly schematic frontal torso-like figure with abstract chest and band designs, while B is a detailed profile standing winged figure with raised hand, beard, clothing, weapons/tools, and rosette ornaments.",
+ "a": "rapa_nui_0113",
+ "b": "assyria_0158",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1804,
+  644
+ ]
+}

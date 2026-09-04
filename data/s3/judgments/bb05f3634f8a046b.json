@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic anthropomorphic/human figure",
+  "circle or concentric-circle motif",
+  "linear appendages or sign-like lines"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main shared content is the presence of schematic human/anthropomorphic forms and circular or concentric circular marks. However, A is a multi-figure scene with small active figures, animals, and weapon- or staff-like lines, while B is dominated by a single frontal anthropomorphic body/idol with circles integrated as facial or bodily features, so the relationships and arrangement are largely unrelated.",
+ "a": "tanum_0082",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  614
+ ]
+}

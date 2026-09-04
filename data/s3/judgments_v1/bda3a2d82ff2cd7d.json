@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "carved stone relief surface",
+  "horizontal band/register organization",
+  "profile quadruped/animal",
+  "standing human or humanoid figure",
+  "horizontal band of repeated geometric ornament"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both surfaces use shallow relief/incision arranged in horizontal zones, with profile animals and human-like figures separated or framed by patterned bands. The biggest difference is that A is rough, irregular, and densely schematic on a narrow slab, while B is highly ordered, rectilinear, and finely finished with a clear chariot-and-procession composition.",
+ "a": "anatolia_ppn_p43full",
+ "b": "persepolis_0026",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1151,
+  610
+ ]
+}

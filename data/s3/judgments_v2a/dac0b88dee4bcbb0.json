@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "anthropomorphic figure / human head with face",
+  "stone monolithic upright form as figure",
+  "carved animal forms (only in B)",
+  "arms/hands rendered against the body (A body, B relief limbs)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict an upright monolithic anthropomorphic subject \u2014 A is a fully three-dimensional human head and torso with a large staring face, while B is a flat pillar whose surface carries low-relief imagery (rows of quadruped-like animals, a bird-headed creature, a fox or canid, a large bird, and a band of zigzag/comb pattern). The shared content is only the generic idea of a human-like standing form; A has no animals, no relief scene and no ornamental bands, and B has no rendered human face, so the specific iconography differs almost entirely.",
+ "a": "anatolia_ppn_0241",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2848,
+  320
+ ]
+}

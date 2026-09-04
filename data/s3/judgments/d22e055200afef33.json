@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "standing human figure in profile",
+  "bearded male figure with elaborately curled/patterned hair and beard",
+  "low-relief carved figures against plain ground",
+  "figure holding a long staff/spear-like object",
+  "bracelet/armlet with rosette or disc on the wrist",
+  "patterned pleated robe with vertical striations",
+  "frontal or raised hand gesture",
+  "procession/row of similar figures (A)"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "7",
+ "justification": "Both show bearded male figures in strict profile, carved in low relief on a plain ground, wearing long vertically pleated garments, with tightly curled stylised hair and beard rendered as rows of regular curls, holding a long upright staff/spear and wearing rosette-set wrist bands \\u2014 a highly specific and conventional combination. The main differences are that B is a single large winged figure occupying the whole panel with a raised hand and pine-cone-like object, whereas A shows a horizontal file of repeated wingless attendants in a processional band.",
+ "a": "persepolis_0024",
+ "b": "assyria_0158",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  2924,
+  376
+ ]
+}

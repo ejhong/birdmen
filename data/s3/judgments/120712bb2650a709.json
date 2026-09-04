@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "hieroglyphic-style script signs in horizontal registers",
+  "relief carving in sunken/low relief on stone surface",
+  "small pictographic signs including human/animal figures",
+  "text organized in rows"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both surfaces carry the same distinctive repertoire of small pictographic script signs carved in low relief and set in horizontal rows, and B's upper zone of signs closely matches the sign-forms filling A entirely. The major difference is that B is dominated by a figural scene of three standing human figures with raised arms flanking a central figure, with the text reduced to a caption band, whereas A shows only continuous text with no figural composition.",
+ "a": "egypt_0016",
+ "b": "egypt_0074",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3174,
+  284
+ ]
+}

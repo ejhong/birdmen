@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  4,
+  10,
+  3,
+  9,
+  6,
+  2,
+  5,
+  7,
+  1
+ ],
+ "most_similar_reason": "Candidate 8, like the target, is a free-standing monolithic block carved in low relief with an abstracted body scheme \u2014 arms/limbs and a disc-and-band motif rendered schematically on the stone's own shaped mass rather than as a framed pictorial scene.",
+ "least_similar_reason": "Candidate 1 shows only repeating floral rosettes and ornamental borders, with none of the target's schematic profile creatures, snake, bird or abstract emblem signs stacked in registers.",
+ "set": "moai_close_among_random",
+ "i": 3,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "assyria_0063",
+  "assyria_0039",
+  "mississippian_0002",
+  "persepolis_0058",
+  "assyria_0153",
+  "egypt_0037",
+  "persepolis_0025",
+  "rapa_nui_0004",
+  "egypt_0032",
+  "tanum_0334"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "persepolis",
+  "tanum",
+  "egypt",
+  "assyria",
+  "assyria",
+  "assyria",
+  "egypt",
+  "persepolis",
+  "mississippian"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

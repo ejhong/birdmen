@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "rectangular inscribed panel/stela field",
+  "horizontal registers of small carved sign-groups (script)",
+  "low-relief incised carving of figures (a standing human figure at the left edge in B, standing figures in A)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both are upright rectangular inscribed fields dominated by stacked horizontal lines of small carved sign-groups, with at least one standing human figure rendered in shallow relief, which is a reasonably specific shared scheme of pictorial panel plus ruled text. The decisive difference is that A preserves a legible figural scene \u2014 a standing deity-like figure facing a bowing worshipper with raised arms across an offering stand, occupying the upper third \u2014 while B shows no comparable interaction, its surface being almost entirely text with only a marginal figure.",
+ "a": "egypt_0050",
+ "b": "egypt_0005",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3024,
+  742
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "carved stone monument displayed in a museum",
+  "human or anthropomorphic figure",
+  "incised low-relief linear detail on a rough stone surface",
+  "circular/disc motif",
+  "head with defined brow and facial features",
+  "weathered, pitted stone texture"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both are weathered stone sculptures of anthropomorphic subjects with shallow incised detail (linear hatching on A's headdress/limbs, circular and banded motifs on B's body), and both show a defined head above a broader body mass. The decisive difference is form: A is a fully three-dimensional, deeply undercut figure in a crouched, twisting pose in pale stone, while B is a flat-fronted, slab-like dark monolith whose imagery is confined to a single frontal relief plane.",
+ "a": "anatolia_ppn_0175",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  1858,
+  304
+ ]
+}

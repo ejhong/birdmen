@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human head with face",
+  "eyes and brows indicated",
+  "nose",
+  "hair/mass framing the face"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict a single human head dominating the field, with eyes, brow ridge, nose and a mass of hair framing the face, which is a generic correspondence any figural tradition could produce. They differ fundamentally in almost every specific: A is a frontal, radically schematic head with flat lozenge eyes, blank surface and no beard, hat or ornament, while B is a strict profile bust with an elaborate tall headdress, pendant earring, patterned curled hair and beard rendered in regimented rows of ringlets, and a decorated garment with an armlet \u2014 an entirely different set of conventions and attributes.",
+ "a": "anatolia_ppn_0240",
+ "b": "assyria_0123",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  523
+ ]
+}

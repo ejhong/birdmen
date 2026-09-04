@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "relief-carved stone surface",
+  "rectangular upright slab or panel",
+  "stylized face or head forms",
+  "profile animal or bird-like forms",
+  "circle or oval motifs",
+  "horizontal registers or bands of decoration"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The most specific correspondence is that both are upright carved stone surfaces using low-relief, rounded stylized motifs arranged at least partly in horizontal zones, with face/head-like and animal/profile forms among the imagery. The biggest difference is compositional: A has a few large, unevenly spaced figures and bands, while B is a dense, regular grid of small glyph-like compartments covering almost the whole panel.",
+ "a": "anatolia_ppn_p43full",
+ "b": "maya_0011",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1230,
+  673
+ ]
+}

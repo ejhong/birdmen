@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "front-facing anthropomorphic figure",
+  "large elongated head above torso",
+  "prominent facial area with nose/brow",
+  "shoulders and upper torso",
+  "arms or side appendages flanking the torso",
+  "paired breast/nipple-like forms on upper chest"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both depict a frontal, highly schematic human-like figure with an oversized elongated head set directly over a torso, with paired chest features and side arms/shoulder forms in roughly the same positions. The biggest difference is that A is covered with additional incised motifs, bands, circles, and internal designs across the head and body, while B presents a much plainer anthropomorphic figure dominated by a large modeled face with brow, nose, and ears.",
+ "a": "rapa_nui_0113",
+ "b": "rapa_nui_0063",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1804,
+  702
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "human/anthropomorphic face or head",
+  "quadruped animal (in A) versus animal-like horned/curled features (in B)",
+  "schematic rendering of facial features (eyes, mouth)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "A is a multi-figure narrative relief on a flat arched panel with a border of zigzag/chevron framing, showing standing armed human figures above a large horned quadruped and a snake-like creature; B is a single sculpted head in the round with curled horn-like or coiled hair masses over the ears and a bared, grid-like row of teeth. The only shared content is the generic presence of anthropomorphic faces and horned/animal attributes, rendered schematically in both, but there is no shared scene, no comparable relationship between elements, and no comparable arrangement (a bordered narrative field versus a three-dimensional isolated head).",
+ "a": "gotland_0116",
+ "b": "anatolia_ppn_0129",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3024,
+  348
+ ]
+}

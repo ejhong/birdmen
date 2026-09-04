@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "round-topped (arched) stele field with a lunette motif at top",
+  "human figures in profile with one arm extended forward",
+  "offering table / stand between figures",
+  "columns of small incised sign-writing (hieroglyph-like script)",
+  "disc or sun-disc motif in the upper area",
+  "horizontal dividing line separating an upper scene from a lower register",
+  "figures facing one another across the central table",
+  "staff/sceptre-like object held by a figure"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "8",
+ "justification": "Both show the same distinctive scheme: an arched panel whose upper zone holds profile human figures facing each other across a laden offering stand, with vertical columns of small incised script between and above them, a disc motif in the lunette, and a ruled line separating a subsidiary lower register. The main differences in depicted content are that A's principal figures are seated with a dense lower register of smaller kneeling/seated attendants, whereas B's are standing, one wearing a horned/disc headdress, with an essentially empty lower band.",
+ "a": "egypt_0067",
+ "b": "egypt_0048",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  2974,
+  723
+ ]
+}

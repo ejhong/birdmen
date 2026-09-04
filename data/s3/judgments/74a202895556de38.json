@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "animal figures in profile",
+  "bird-like or long-necked creature",
+  "curving appendages or wing-like forms",
+  "schematic linear figures",
+  "small abstract signs or motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both surfaces show schematic outline imagery with multiple animal-like figures, including at least one bird- or long-necked creature and curving wing/appendage forms. The biggest difference is that B is organized into clear horizontal registers with repeated top motifs, a patterned band, and distinct animals below, whereas A appears as a more diffuse, crowded field of interlaced figures without the same register structure or the same specific set of motifs.",
+ "a": "maya_0162",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  685
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "avian or bird-like forms in profile",
+  "wing/feather-like linear detailing",
+  "schematic outlined figures",
+  "multiple motifs arranged on a vertical surface"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific overlap is the presence of avian imagery rendered in profile with linear feather or wing detail: A has a large winged bird-headed/hybrid standing figure, while B includes profile bird-like animals among other signs. The major difference is that A is a coherent scene of a single large winged anthropomorphic figure facing a stylized tree and holding objects, whereas B is a stacked assemblage of separate animals and abstract signs with no comparable figure-tree relationship.",
+ "a": "assyria_0134",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  688
+ ]
+}

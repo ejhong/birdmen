@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "schematic animal figures in profile",
+  "horizontal row or band of repeated short marks/geometric strokes"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The most specific shared content is the use of schematic profile animals together with a horizontal repeated-mark band. The biggest difference is that A is dominated by a long boat-like form with curled ends and a row of internal strokes, whereas B is a stacked composition of separate animals and geometric registers with no comparable boat or scene structure.",
+ "a": "tanum_0237",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  649
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "frontal schematic anthropomorphic or mask-like figure",
+  "paired facial features arranged symmetrically",
+  "central vertical facial/body feature",
+  "curving or arched enclosing bands",
+  "incised geometric line motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces show a frontal, highly schematic anthropomorphic/mask-like form with bilateral paired features around a central axis and curved enclosing bands or outlines. The biggest difference is that A is dominated by an abstract face or mask with gridded rectangular paired elements and angular border motifs, while B presents a full upright body-like figure with rounded eyes/circles, torso markings, and different internal iconography.",
+ "a": "gotland_0129",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  580
+ ]
+}

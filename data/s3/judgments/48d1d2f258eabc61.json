@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "upright tall slab carved in relief",
+  "figures arranged in stacked horizontal registers/bands",
+  "animal or creature forms shown in profile",
+  "a horizontal band of small repeated elements",
+  "a row of repeated similar heads/units across the top"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both are tall upright surfaces whose relief content is divided into stacked horizontal registers, each containing profile creature/figure forms, and both include a band of small repeated units running across the width. Beyond that generic scheme the content differs sharply: A is densely packed with human-like figures, headdresses, and blocks of sign-like cartouches filling every space in deep overlapping relief, while B shows a few isolated, widely spaced schematic animals (quadruped, birds, snake-like forms) in shallow relief on an empty ground, with no human figures or sign blocks.",
+ "a": "maya_0138",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3024,
+  691
+ ]
+}

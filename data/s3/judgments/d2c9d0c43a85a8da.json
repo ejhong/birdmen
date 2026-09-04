@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "schematic living figure/figure-derived motif",
+  "incised or relief linear outlines"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "The only real commonality is very generic: both surfaces use simplified carved/incised outlines to depict or mark a figure-like form. The most important difference is that A shows a single profile quadruped animal, while B is dominated by a frontal anthropomorphic figure with body/facial features and geometric circular and band motifs, with no comparable animal scene or arrangement.",
+ "a": "anatolia_ppn_0072",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  654
+ ]
+}

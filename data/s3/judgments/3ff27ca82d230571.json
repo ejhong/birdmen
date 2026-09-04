@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic anthropomorphic or bird-human figures",
+  "round/circular elements within figures",
+  "incised linear outlines with little interior modeling",
+  "paired or repeated figure motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "The strongest correspondence is that both surfaces show schematic, incised linear anthropomorphic/bird-human-looking figures combined with circular body or face elements, rendered in a similar outline-based convention. The biggest difference is that B has a more organized, frontal, vertically stacked body-like scheme with paired rounded forms and bands, while A appears as a looser scatter of petroglyph figures across separate rock faces.",
+ "a": "rapa_nui_0111",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  676
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "profile bird or bird-like creature",
+  "profile animal forms",
+  "human or anthropomorphic figure",
+  "repeated geometric/linear marks or bands"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest shared content is the presence of schematic profile bird/bird-like creatures and other profile animal forms, drawn with linear outlines and some repeated internal or adjacent marks. The major difference is that B is organized as a narrative scene around architecture, towers, and figures interacting with a built setting, while A is a stacked, emblematic arrangement of animals and geometric bands with no comparable architectural scene.",
+ "a": "anatolia_ppn_p43full",
+ "b": "assyria_0092",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  670
+ ]
+}

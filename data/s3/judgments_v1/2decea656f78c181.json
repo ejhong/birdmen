@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "carved stone relief surface",
+  "glyph-like or emblematic signs arranged in bands/blocks",
+  "profile animal or bird-like forms",
+  "rectangular divisions or registers",
+  "curved incised outlines and shallow raised forms"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The most specific correspondence is the use of shallow relief signs and profile creature-like motifs organized into bounded registers or blocks on a stone surface. The biggest difference is compositional: A is a tall, weathered slab with stacked horizontal imagery, while B is a rectangular panel dominated by a large central standing figure flanked by orderly columns of signs.",
+ "a": "anatolia_ppn_p43full",
+ "b": "maya_0048",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  665
+ ]
+}

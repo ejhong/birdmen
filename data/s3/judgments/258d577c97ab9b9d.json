@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low relief carving on a vertical stone surface",
+  "horizontal registers/bands of imagery stacked one above another",
+  "a row of repeated similar figures within a band",
+  "animal figures shown in profile",
+  "human or anthropomorphic figures",
+  "band of repeated small geometric/linear motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces divide their field into stacked horizontal registers, each containing a row of repeated figures, and both include profile animals alongside anthropomorphic forms \u2014 but these are generic organising devices. A shows a naturalistic, densely packed procession of clothed human tribute-bearers with a hoofed animal, rendered with modelled anatomy and drapery, whereas B shows isolated, highly schematic animals (a crouching quadruped, a bird with long neck, a snake-like form) and abstract H-shaped and looped signs on a T-shaped pillar, with no human procession and no interaction between figures.",
+ "a": "persepolis_0104",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  361
+ ]
+}

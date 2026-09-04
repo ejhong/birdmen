@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  10,
+  1,
+  4,
+  3,
+  5,
+  7,
+  6,
+  2,
+  9
+ ],
+ "most_similar_reason": "Candidate 8 features a stylized profile figure in bas-relief with comparable detail.",
+ "least_similar_reason": "Candidate 9 is a site overview lacking distinct figurative iconography.",
+ "set": "related_control",
+ "i": 21,
+ "target": "persepolis_0073",
+ "planted": "assyria_0112",
+ "cands": [
+  "gotland_0133",
+  "gotland_0004",
+  "anatolia_ppn_0072",
+  "anatolia_ppn_0041",
+  "anatolia_ppn_0260",
+  "tanum_0085",
+  "tanum_0324",
+  "assyria_0112",
+  "anatolia_ppn_0196",
+  "egypt_0060"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "egypt",
+  "anatolia_ppn",
+  "gotland",
+  "gotland",
+  "tanum",
+  "anatolia_ppn",
+  "tanum"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

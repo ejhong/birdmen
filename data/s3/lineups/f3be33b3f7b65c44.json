@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  2,
+  6,
+  4,
+  5,
+  7,
+  8,
+  9,
+  3,
+  1
+ ],
+ "most_similar_reason": "Candidate 10 is most similar because it likewise presents a vertical relief surface filled with schematic, profile-oriented living figures arranged in stacked relationships, giving the closest match to the target\u2019s carved sequence of bird/animal forms and signs.",
+ "least_similar_reason": "Candidate 1 is least similar because it depicts a single frontal anthropomorphic figure with body features, lacking the target\u2019s profile animal imagery, stacked composition, and repeated linear/sign motifs.",
+ "set": "moai_close_among_random",
+ "i": 38,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "rapa_nui_0004",
+  "tanum_0238",
+  "egypt_0033",
+  "assyria_0157",
+  "assyria_0125",
+  "tanum_0080",
+  "persepolis_0104",
+  "tanum_0351",
+  "maya_0024",
+  "egypt_0044"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "persepolis",
+  "tanum",
+  "tanum",
+  "egypt",
+  "assyria",
+  "tanum",
+  "assyria"
+ ],
+ "model": "gpt",
+ "planted_rank": 10
+}

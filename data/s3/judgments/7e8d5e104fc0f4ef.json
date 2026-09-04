@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief carving on a flat rectangular stone face",
+  "register or band divisions across the surface",
+  "repeated row of similar motifs along the top",
+  "animal figures in profile",
+  "schematic rendering with raised outlines against a flat ground"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both show low-relief motifs organised into horizontal registers on a flat slab, with a row of repeated similar elements along the top edge, which gives a loose compositional echo. But the content differs entirely: A is a dense grid of block-like abstract sign cartouches with rounded internal detail, while B depicts recognisable creatures in profile (quadrupeds, a large bird with splayed wings, a long-necked bird) arranged freely within bands, so no specific motif is shared.",
+ "a": "maya_0050",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3024,
+  301
+ ]
+}

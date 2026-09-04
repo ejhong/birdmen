@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "animal in profile",
+  "repeated incised linear patterning",
+  "curved or circular forms"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both are stone surfaces with profile animals combined with dense incised linear patterning. The biggest difference is compositional: A is a vertical, register-like surface crowded with small schematic motifs, while B is dominated by one large, more naturalistically modeled horned animal against a patterned field.",
+ "a": "anatolia_ppn_p43full",
+ "b": "persepolis_0110",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  637
+ ]
+}

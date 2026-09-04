@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic animal or bird-like forms",
+  "linear geometric infill or herringbone/chevron-like markings",
+  "horizontal/rectangular dividing or framing lines"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is that both surfaces appear to include schematic zoomorphic forms accompanied by incised linear patterning, with some chevron or herringbone-like detail. The major difference is that B shows a dense, organized panel of clearly identifiable animals and signs, including birds in profile and other creatures in registers, while A shows only a few very worn, indistinct linear/animal-like forms without the same recognizable iconographic scheme.",
+ "a": "anatolia_ppn_0111",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  684
+ ]
+}

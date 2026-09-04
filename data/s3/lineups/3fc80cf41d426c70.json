@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  6,
+  4,
+  10,
+  9,
+  1,
+  3,
+  7,
+  2,
+  5
+ ],
+ "most_similar_reason": "Candidate 8 is, like the target, a free-standing upright slab whose whole face is covered with low-relief creatures and symbols stacked in vertical registers, animals shown schematically in profile with plain outlined bodies, the same combination of monument shape and crowded superimposed figural imagery.",
+ "least_similar_reason": "Candidate 5 shows nothing but rows of written signs on a plain arched slab, with no creatures, figures or pictorial motifs at all to compare with the target's stacked relief animals.",
+ "set": "moai_close_among_random",
+ "i": 36,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "persepolis_0068",
+  "catalhoyuk_0102",
+  "tanum_0079",
+  "maya_0052",
+  "egypt_0069",
+  "rapa_nui_0004",
+  "tanum_0067",
+  "maya_0083",
+  "persepolis_0058",
+  "persepolis_0064"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "persepolis",
+  "catalhoyuk",
+  "persepolis",
+  "egypt",
+  "tanum",
+  "maya",
+  "tanum",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

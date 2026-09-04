@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low-relief carved human figures in strict profile",
+  "standing/striding figures with long garments and detailed hair and beard",
+  "figures carrying or holding objects in the hand",
+  "registers/bands separating relief scenes",
+  "stylized plant/tree motif",
+  "animal shown in profile"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict low-relief profile human figures with long robes, curled hair and beards holding objects, rendered with similar flat-relief, contour-and-detail conventions, and both include a stylized tree and profile animals. However A is a single monumental isolated winged genie filling the whole field, while B is a multi-register procession of many small figures leading animals, so the compositional relationships and arrangement differ sharply.",
+ "a": "assyria_0135",
+ "b": "persepolis_0051",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3174,
+  289
+ ]
+}

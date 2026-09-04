@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low-relief carving on a flat stone slab/panel",
+  "registers or horizontal banding dividing the surface",
+  "animals shown in profile",
+  "repeated row of similar motifs across the top",
+  "figures/creatures facing one direction",
+  "raised arms/forelimbs bent at the elbow"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both are low-relief panels organised into horizontal registers with a repeated row of motifs along the top and profile-oriented subjects, but A depicts two naturalistically modelled human figures in elaborate garments confronting each other with a bowl and drinking tube, while B depicts schematic animals (a crouching quadruped, bird-like creatures, a large long-necked bird) and abstract signs with no human figures. The proportions, anatomical detailing and narrative confrontation of A have no counterpart in B's flat, outline-driven animal iconography, so only very generic features are shared.",
+ "a": "assyria_0008",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3023,
+  350
+ ]
+}

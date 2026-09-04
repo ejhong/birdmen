@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "schematic human figure with outstretched arms and stick-like limbs",
+  "silhouette/solid-filled figures pecked into rock surface",
+  "frontal standing human with legs and no facial detail",
+  "cup-mark-like round dots on the rock",
+  "weapon/staff-like linear attribute held by figure"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both surfaces show the same convention of solid, silhouetted, highly schematic human figures with stick arms held out and simple splayed legs, accompanied by small round cup-like dots, and in both a figure holds an elongated linear implement across the body \u2014 a quite specific shared repertoire. The main difference is content density and subject range: B is a multi-figure scene including crewed boats with keel-line strokes and a large horned/animal-like vessel plus a file of spear-bearers, while A shows a single dominant large figure with one small quadruped-like creature beneath it and no boats.",
+ "a": "tanum_0128",
+ "b": "tanum_0061",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3174,
+  354
+ ]
+}

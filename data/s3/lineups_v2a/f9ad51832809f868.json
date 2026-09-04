@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  3,
+  7,
+  4,
+  2,
+  9,
+  1,
+  5,
+  10,
+  6
+ ],
+ "most_similar_reason": "Candidate 8 shows the same kind of shallow carved relief scene with a large profile head rendered naturalistically with fine incised detailing of hair/beard and eye, closely matching the target's profile-facing rams with meticulously patterned fleece and horns.",
+ "least_similar_reason": "Candidate 6 shows no comparable figural imagery at all \"just a bare wall with tiny scattered marks\" so it shares none of the target's profile animals, human limbs or dense incised patterning.",
+ "set": "related_control",
+ "i": 19,
+ "target": "persepolis_0095",
+ "planted": "assyria_0035",
+ "cands": [
+  "rapa_nui_0047",
+  "maya_0085",
+  "maya_0083",
+  "egypt_0070",
+  "mississippian_0000",
+  "catalhoyuk_0102",
+  "gotland_0133",
+  "assyria_0035",
+  "rapa_nui_0049",
+  "tanum_0054"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "mississippian",
+  "rapa_nui",
+  "gotland",
+  "tanum",
+  "catalhoyuk",
+  "rapa_nui",
+  "maya",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

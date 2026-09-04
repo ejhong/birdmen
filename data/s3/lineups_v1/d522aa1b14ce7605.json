@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  10,
+  4,
+  5,
+  9,
+  6,
+  2,
+  3,
+  1,
+  7
+ ],
+ "most_similar_reason": "Candidate 8 is, like the target, a tall free-standing rectangular stone pillar whose face is covered with shallow relief carvings of figures arranged in stacked registers, matching both the format and the carving technique.",
+ "least_similar_reason": "Candidate 7 is a flat painted red-pigment outline drawing of a boat on a rock surface, with no carved relief, no animal imagery and no upright monolithic form, making it the furthest from the target in both medium and subject.",
+ "set": "moai_among_random",
+ "i": 29,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "tanum_0344",
+  "gotland_0123",
+  "tanum_0063",
+  "rapa_nui_0113",
+  "persepolis_0062",
+  "gotland_0131",
+  "tanum_0339",
+  "maya_0113",
+  "egypt_0076",
+  "assyria_0122"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "assyria",
+  "tanum",
+  "maya",
+  "persepolis",
+  "tanum",
+  "gotland",
+  "tanum",
+  "egypt",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 3
+}

@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "schematic profile figures rendered as simple silhouettes/outlines",
+  "row of repeated short strokes forming a band",
+  "small oval/disc shape",
+  "animal or bird form in profile",
+  "multiple figures scattered over an open surface without a frame"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The only real correspondences are generic: both surfaces carry small schematic profile figures scattered over an open field, and both include a band of repeated short parallel strokes and a small disc-like element. In content they diverge almost entirely \u2014 A is dominated by crewed boats with hull-and-stroke conventions, human figures, a sun-disc on a pole and star/rosette signs, while B shows a stack of quadrupeds and birds in profile plus a row of arcaded loops, with no boats, humans or celestial signs at all.",
+ "a": "tanum_0056",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  719
+ ]
+}

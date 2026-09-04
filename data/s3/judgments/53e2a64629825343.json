@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "animal head/quadruped rendered in profile",
+  "rows of repeated short strokes or marks",
+  "schematic linear outline drawing",
+  "long curved boat-like/hull-like arc with vertical strokes rising from it (in A, lower-left; in B, the boat)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces depict schematic profile animals and dense series of repeated short strokes, and each contains a long shallow arc from which many small vertical marks rise (a crewed hull in B, a hatched curved motif near the animal heads in A), which is the most specific correspondence. Otherwise the content diverges sharply: A is dominated by a continuous field of large barbed zigzag bands attached to long-necked heads with dot-in-circle eyes, while B shows isolated, solid-painted figures \u2014 a single small quadruped, detached legs, and one boat \u2014 scattered on an open field.",
+ "a": "mississippian_0075",
+ "b": "tanum_0238",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  874
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  1,
+  9,
+  7,
+  2,
+  5,
+  8,
+  6,
+  3,
+  10
+ ],
+ "most_similar_reason": "Candidate 4 shares the same conventions as the target: schematic animal and human figures carved in relief and shown in profile against a plain stone ground, similar in stylistic treatment to the stacked animal forms on the target stele.",
+ "least_similar_reason": "Candidate 10 depicts boats and small figures in painted line-drawing style with no relief carving or animal-form iconography, making it the least related in both subject matter and rendering to the target's carved animal figures.",
+ "set": "moai_close_among_random",
+ "i": 3,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "assyria_0063",
+  "assyria_0039",
+  "mississippian_0002",
+  "persepolis_0058",
+  "assyria_0153",
+  "egypt_0037",
+  "persepolis_0025",
+  "rapa_nui_0004",
+  "egypt_0032",
+  "tanum_0334"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "persepolis",
+  "tanum",
+  "egypt",
+  "assyria",
+  "assyria",
+  "assyria",
+  "egypt",
+  "persepolis",
+  "mississippian"
+ ],
+ "model": "sonnet",
+ "planted_rank": 7
+}

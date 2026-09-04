@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  7,
+  5,
+  1,
+  9,
+  4,
+  10,
+  8,
+  3,
+  6
+ ],
+ "most_similar_reason": "Candidate 2 is most similar because it also features bas-relief animal figures carved onto a flat surface.",
+ "least_similar_reason": "Candidate 6 is least similar as it depicts a stylized human figure with symbols instead of dense animal forms.",
+ "set": "same_control_monoliths",
+ "i": 10,
+ "target": "gotland_0133",
+ "planted": "gotland_0112",
+ "cands": [
+  "egypt_0061",
+  "anatolia_ppn_0205",
+  "maya_0091",
+  "anatolia_ppn_0121",
+  "anatolia_ppn_0037",
+  "maya_0113",
+  "anatolia_ppn_0186",
+  "egypt_0047",
+  "anatolia_ppn_0261",
+  "gotland_0112"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "egypt",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "egypt",
+  "maya",
+  "maya",
+  "anatolia_ppn"
+ ],
+ "model": "gemini",
+ "planted_rank": 7
+}

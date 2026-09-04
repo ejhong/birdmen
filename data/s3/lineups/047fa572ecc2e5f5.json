@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  1,
+  5,
+  4,
+  6,
+  9,
+  3,
+  8,
+  7,
+  2
+ ],
+ "most_similar_reason": "Candidate 10 is, like the target, an upright carved monument whose whole face is filled edge-to-edge with dense, rounded curvilinear sign-like units packed into an interlocking field rather than a scene, matching the target's mass of bunched, scroll-filled glyph blocks.",
+ "least_similar_reason": "Candidate 2 is a single sculpted head modelled in the round, with no repeated units, no surface field of signs and no arrangement into columns or registers, so it shares essentially nothing with the target's dense grid of abstract glyphic blocks.",
+ "set": "same_control",
+ "i": 31,
+ "target": "maya_0146",
+ "planted": "maya_0127",
+ "cands": [
+  "anatolia_ppn_0264",
+  "anatolia_ppn_0260",
+  "persepolis_0023",
+  "anatolia_ppn_0088",
+  "anatolia_ppn_0205",
+  "persepolis_0043",
+  "assyria_0095",
+  "persepolis_0064",
+  "persepolis_0073",
+  "maya_0127"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "persepolis",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "assyria",
+  "persepolis",
+  "persepolis",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

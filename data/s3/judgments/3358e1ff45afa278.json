@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "human figure"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "Image A depicts a close-up carved animal-like or hybrid head/torso with no clear multi-figure narrative, while Image B shows a stele-like surface with registers of standing human figures and hieroglyphic-style inscriptions arranged in a scene. The only loose commonality is the presence of a figural form, but the specific motifs, composition into registers, and narrative arrangement in B have no counterpart in A.",
+ "a": "anatolia_ppn_0266",
+ "b": "egypt_0072",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  2974,
+  214
+ ]
+}

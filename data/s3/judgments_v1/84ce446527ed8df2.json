@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "bird in profile",
+  "profile animal or creature",
+  "horizontal divider or register line",
+  "framed or bounded carved field",
+  "curving linear motif",
+  "small circular detail such as an eye or disc"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The most specific correspondence is the presence of schematic profile birds/animals carved in shallow relief on stone, with horizontal lines helping divide the decorated surface. The biggest difference is compositional: A is a sparse, framed slab with a few large, eroded motifs, while B is a densely filled vertical surface arranged in multiple stacked registers with many figures.",
+ "a": "gotland_0130",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1230,
+  522
+ ]
+}

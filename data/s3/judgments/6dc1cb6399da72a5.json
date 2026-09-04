@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "repeated abstract glyph-like signs",
+  "rows or registers of small motifs",
+  "curvilinear scroll/circular motifs",
+  "schematic low-relief linear drawing"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest correspondence is that both surfaces include repeated, schematic, curvilinear signs arranged in ordered rows or registers. The biggest difference is that A is almost entirely a dense column of small glyph-like blocks, while B combines a few sign bands with large representational animal/creature figures occupying much of the surface.",
+ "a": "maya_0077",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  659
+ ]
+}

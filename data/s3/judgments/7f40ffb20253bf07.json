@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief carving on a flat stone panel",
+  "a scene occupying a horizontal band across the field",
+  "spoked wheel / circular disc with radiating spokes",
+  "linear rendering of rigging/reins as long straight lines",
+  "repeated vertical hatched or striped elements (sail grid / chariot and figures)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The only concrete correspondence is a circular disc divided by spokes (the ship's shield-like circle or a chariot wheel) and the use of long straight lines (rigging versus reins) crossing the field, both rendered in shallow linear relief; these are generic and easily arrived at independently. A depicts a single symmetrical ship with mast, gridded sail and hull with a row of triangles, while B depicts a narrative scene of horses, a chariot and human archers with weapons in dynamic profile motion \u2014 different subjects, relationships and conventions of depiction.",
+ "a": "gotland_0123",
+ "b": "assyria_0012",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  353
+ ]
+}

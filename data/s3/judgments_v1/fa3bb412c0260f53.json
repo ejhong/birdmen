@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "profile animal figure on an upright stone surface",
+  "low-relief carving",
+  "rectilinear stone slab or pillar"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both show a simplified animal in profile carved in low relief on a vertical stone face. The biggest difference is compositional density: A has one large, isolated animal on a mostly plain surface, while B is crowded with multiple figures, bands, and registers.",
+ "a": "anatolia_ppn_0083",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  490
+ ]
+}

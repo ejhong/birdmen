@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  1,
+  10,
+  2,
+  4,
+  6,
+  3,
+  5,
+  8,
+  7
+ ],
+ "most_similar_reason": "Candidate 9 shows the same distinctive thing as the target: a monolithic upright pillar/statue with a broad head-slab whose body carries low-relief schematic arms bending around the shaft, plus banded and rounded ornament across the torso, an arbitrary and very specific configuration.",
+ "least_similar_reason": "Candidate 7 is an open expanse of bedrock with scattered faint linear scratchings and no anthropomorphic body, ornament or organised composition of any kind in common with the target's carved standing figure.",
+ "set": "p43_among_random",
+ "i": 16,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "maya_0060",
+  "maya_0091",
+  "gotland_0115",
+  "assyria_0079",
+  "gotland_0018",
+  "maya_0039",
+  "tanum_0080",
+  "tanum_0070",
+  "anatolia_ppn_p43full",
+  "maya_0056"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "tanum",
+  "maya",
+  "maya",
+  "gotland",
+  "maya",
+  "tanum",
+  "assyria",
+  "gotland",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

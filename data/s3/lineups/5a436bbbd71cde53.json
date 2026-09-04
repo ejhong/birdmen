@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  9,
+  3,
+  7,
+  8,
+  10,
+  2,
+  5,
+  4,
+  1
+ ],
+ "most_similar_reason": "Candidate 6, like the target, is an upright carved slab whose surface combines a creature rendered in profile low relief with bold abstract/geometric motifs, filling the field in a comparable flat, outlined, schematic manner rather than as a narrative human scene.",
+ "least_similar_reason": "Candidate 1 shows only a single schematic linear boat with stroke-like crew marks incised on an open rock surface, sharing none of the target's registered animal repertoire (birds, snakes, quadrupeds), relief modelling, or dense panel composition.",
+ "set": "moai_iso_among_random",
+ "i": 39,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "tanum_0074",
+  "persepolis_0097",
+  "rapa_nui_hoa_iso",
+  "tanum_0061",
+  "tanum_0325",
+  "gotland_0000",
+  "assyria_0160",
+  "assyria_0118",
+  "maya_0130",
+  "egypt_0056"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "assyria",
+  "tanum",
+  "maya",
+  "tanum",
+  "assyria",
+  "egypt",
+  "gotland",
+  "tanum",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 3
+}

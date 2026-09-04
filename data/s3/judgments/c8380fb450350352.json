@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "standing human figure",
+  "elaborate headdress"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict standing human figures wearing large ornate headdresses, which is the clearest point of overlap. However, A shows a multi-figure scene with a distinct lower register containing a quadruped and a reclining figure, framed by a decorative border, while B is a single frontal figure accompanied by hieroglyphic text and a subordinate profile face, with no animal element at all, making the compositions, relationships, and rendering style quite different.",
+ "a": "gotland_0116",
+ "b": "maya_0158",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  2849,
+  728
+ ]
+}

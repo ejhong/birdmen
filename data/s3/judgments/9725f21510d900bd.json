@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "tall vertical rectangular panel/pillar entirely covered in low relief",
+  "horizontal band of repeated geometric pattern (zigzag/chevron / net)",
+  "row of repeated arc or crescent shapes",
+  "schematic figures rendered in flat raised relief with outlined contours",
+  "stacked registers of motifs down the shaft",
+  "limbs/arms rendered as narrow flat bands with splayed digits"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "3",
+ "justification": "Both are tall relief-covered vertical slabs organised into stacked registers, with a horizontal zigzag/net band and a row of repeated arc-or-crescent shapes rendered in flat, schematic, outlined low relief, which gives a comparable overall impression. But the depicted subjects diverge almost entirely: A centres on a single frontal anthropomorph with a rayed, mask-like head, arms and legs and flanking crescents, while B shows profile quadrupeds and several birds distributed under an arcade, with no human figure and no radiating head.",
+ "a": "mississippian_0006",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  964
+ ]
+}

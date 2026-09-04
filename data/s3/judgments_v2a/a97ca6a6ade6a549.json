@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "large bird with heavy hooked beak (raptor/vulture type)",
+  "bird shown with folded wings rendered by repeated parallel feather lines",
+  "animal body in a hunched/crouching posture"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict a heavy-beaked raptor-like bird with a hunched body and wings indicated by rows of parallel feather strokes, which is a reasonably specific correspondence. However, A is a single isolated figure in the round with no companions or setting, while B is a crowded multi-register composition stacking crouching quadrupeds, a banded zigzag frieze, several birds, a snake-like head and other creatures in fixed relative positions, and its schematic flat low-relief outlining differs sharply from A's volumetric modelling.",
+ "a": "anatolia_ppn_0142",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2848,
+  656
+ ]
+}

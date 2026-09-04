@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  7,
+  4,
+  8,
+  10,
+  2,
+  1,
+  5,
+  9,
+  3
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it shows the same schematic frontal anthropomorphic monolith with a block-like head, side facial projections, circular chest features, arms along the sides, incised torso motifs, and horizontal belt-like bands.",
+ "least_similar_reason": "Candidate 3 is least similar because it lacks a clear comparable anthropomorphic figure, body-part arrangement, or organized set of incised symbolic motifs, showing instead an irregular, largely non-figurative surface.",
+ "set": "same_control_monoliths",
+ "i": 1,
+ "target": "rapa_nui_0065",
+ "planted": "rapa_nui_0005",
+ "cands": [
+  "maya_0023",
+  "egypt_0045",
+  "gotland_0133",
+  "anatolia_ppn_0263",
+  "maya_0147",
+  "rapa_nui_0005",
+  "maya_0092",
+  "anatolia_ppn_0175",
+  "egypt_0069",
+  "egypt_0067"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "egypt",
+  "gotland"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

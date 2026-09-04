@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  9,
+  8,
+  4,
+  10,
+  3,
+  2,
+  5,
+  7,
+  6
+ ],
+ "most_similar_reason": "Candidate 1, like the target, is a free-standing upright stone monolith of rough, weathered surface carved in shallow low relief with schematic figural and abstract motifs stacked over its broad face rather than a flat framed panel.",
+ "least_similar_reason": "Candidate 6 shows a plain whitewashed wall with a few small painted marks and a modern label, lacking any carved stone surface, relief modelling or figural imagery comparable to the target.",
+ "set": "p43_among_random",
+ "i": 6,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "anatolia_ppn_p43full",
+  "assyria_0052",
+  "persepolis_0025",
+  "tanum_0052",
+  "assyria_0039",
+  "catalhoyuk_0102",
+  "mississippian_0007",
+  "assyria_0000",
+  "assyria_0112",
+  "persepolis_0039"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "assyria",
+  "catalhoyuk",
+  "assyria",
+  "mississippian",
+  "persepolis",
+  "tanum",
+  "persepolis",
+  "assyria",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

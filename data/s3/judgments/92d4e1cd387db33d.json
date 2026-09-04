@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "human figure or human body",
+  "circular/disc motifs",
+  "linear geometric bands or patterning"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific overlap is that both include stylized human imagery together with some circular and linear decorative motifs. The major difference is that A is a single frontal, abstract anthropomorphic figure covered with symbols, whereas B is a narrative/processional scene with profile humans, horned animals, a tree, and a floral border.",
+ "a": "rapa_nui_0113",
+ "b": "persepolis_0020",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  640
+ ]
+}

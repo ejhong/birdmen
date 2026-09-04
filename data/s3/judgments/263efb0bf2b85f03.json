@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "bearded human figures in strict profile",
+  "procession/file of figures moving in one direction",
+  "low-relief horizontal frieze band",
+  "long robes with regular pleat/fold lines",
+  "patterned or curled hair and headgear",
+  "figures carrying/holding objects",
+  "register with base line along the bottom"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "7",
+ "justification": "Both surfaces depict a continuous horizontal register of bearded, robed human figures in strict profile walking in one direction as a procession, rendered in shallow relief with the same conventions for stylised curled hair, headgear, and closely-spaced parallel drapery folds \u2014 a very specific shared scheme. The main difference in depicted content is that A includes large horned rams being led by the attendants (an animal-tribute group in the foreground), while B's frieze shows an unbroken file of human figures only, set below architectural elements (columns, stairway) absent from A.",
+ "a": "persepolis_0100",
+ "b": "persepolis_0024",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3149,
+  640
+ ]
+}

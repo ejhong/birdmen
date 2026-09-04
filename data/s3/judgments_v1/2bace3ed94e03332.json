@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "vertical carved stone surface",
+  "horizontal bands or registers",
+  "rectangular framed panels/compartments",
+  "circle or disc forms",
+  "curving scroll-like motifs",
+  "animal- or head-like profile forms"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both surfaces organize relief carving into horizontal zones on an upright stone, with some repeated framed or banded motifs and circular/curvilinear details. The biggest difference is that A is a dense, regular grid of small rounded glyph-like panels, while B has larger, looser figures and bands with much more open space and irregular placement.",
+ "a": "maya_0085",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  628
+ ]
+}

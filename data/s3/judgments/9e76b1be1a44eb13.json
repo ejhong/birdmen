@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "bearded human figure in profile with elaborately curled/patterned hair",
+  "low-relief figures oriented in a single direction",
+  "stylized tree/plant with dense repeated foliage rendered as rows of incised units",
+  "rosette/floral motifs",
+  "arm extended forward/raised",
+  "garment with patterned hem or fringe",
+  "horned animal head in profile (rams in A; horned headdress in B)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces show profile bearded figures in shallow relief beside a densely patterned stylized tree, with rosette/floral elements and identical conventions for rendering hair, fleece and foliage as rows of repeated incised curls or scales. The decisive difference is the subject: A is a mundane procession of men driving horned rams along a frieze with a floral band beneath, while B is a single winged, horned-capped supernatural figure gesturing toward an ornate palmette-and-rosette plant.",
+ "a": "persepolis_0069",
+ "b": "assyria_0112",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  835
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  1,
+  9,
+  2,
+  7,
+  4,
+  10,
+  3,
+  8,
+  5
+ ],
+ "most_similar_reason": "Candidate 6 shows the same kind of low-relief slab with profile-view living figures (a striding figure with bird-like head/beak elements) set beside bands of framed sign-blocks, matching the target's combination of profile creatures and register-divided glyph-like panels in the same flat, outlined, schematic carving style.",
+ "least_similar_reason": "Candidate 5 depicts only an abstract interlaced knot and a stylised cross-like emblem with no creatures, no profile figures and no register-divided sign panels, so nothing in its content or drawing conventions corresponds to the target.",
+ "set": "moai_iso_among_monoliths",
+ "i": 16,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0085",
+  "maya_0056",
+  "rapa_nui_hoa_iso",
+  "maya_0137",
+  "gotland_0005",
+  "maya_0110",
+  "maya_0053",
+  "maya_0125",
+  "maya_0019",
+  "gotland_0111"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "maya",
+  "gotland",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 8
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  8,
+  9,
+  1,
+  5,
+  2,
+  3,
+  10,
+  7,
+  4
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it likewise presents a non-naturalistic field of schematic animal/sign motifs, including repeated comb-like linear rows and isolated profile creatures, rather than a naturalistic human procession or portrait.",
+ "least_similar_reason": "Candidate 4 is least similar because it shows only a single profile human head or bust with no comparable animal figures, repeated sign bands, or multi-motif arrangement.",
+ "set": "moai_among_random",
+ "i": 34,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0011",
+  "persepolis_0084",
+  "persepolis_0058",
+  "assyria_0105",
+  "persepolis_0075",
+  "tanum_0333",
+  "persepolis_0025",
+  "rapa_nui_0113",
+  "assyria_0110",
+  "assyria_0131"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "persepolis",
+  "assyria",
+  "persepolis",
+  "persepolis",
+  "assyria",
+  "tanum",
+  "persepolis",
+  "assyria",
+  "persepolis"
+ ],
+ "model": "gpt",
+ "planted_rank": 2
+}

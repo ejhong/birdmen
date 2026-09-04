@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "frontal anthropomorphic figure or face on a tall vertical surface",
+  "paired eyes",
+  "central circular or oval feature on the face/torso",
+  "curving linear bands or scroll-like motifs",
+  "symmetrical vertical organization"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both present a front-facing anthropomorphic image organized symmetrically on a tall vertical field, with paired eyes and a central circular feature among curving linear motifs. The biggest difference is that A shows a detailed full-bodied standing figure with limbs, headdress, ornaments, and many subsidiary beings or masks, while B is a much more schematic block-like figure or face with few added iconographic elements.",
+ "a": "maya_0051",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1804,
+  548
+ ]
+}

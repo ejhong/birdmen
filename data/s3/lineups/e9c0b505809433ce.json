@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  2,
+  3,
+  8,
+  9,
+  6,
+  1,
+  7,
+  4,
+  5
+ ],
+ "most_similar_reason": "Both present distinct, stylized animal figures and symbols arranged in groupings on a flat surface.",
+ "least_similar_reason": "It displays linear depictions of boats rather than large, bold animal and geometric motifs.",
+ "set": "moai_close_among_random",
+ "i": 10,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "maya_0070",
+  "maya_0137",
+  "maya_0152",
+  "rapa_nui_0004",
+  "tanum_0332",
+  "egypt_0070",
+  "tanum_0237",
+  "mississippian_0001",
+  "assyria_0008",
+  "gotland_0009"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "tanum",
+  "gotland",
+  "tanum",
+  "mississippian",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "assyria"
+ ],
+ "model": "gemini",
+ "planted_rank": 9
+}

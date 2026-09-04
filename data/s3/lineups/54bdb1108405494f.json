@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  1,
+  8,
+  2,
+  10,
+  4,
+  9,
+  6,
+  7,
+  5
+ ],
+ "most_similar_reason": "Candidate 3 shows the same kind of surface: a stone face covered with schematic, outlined animal and creature forms in profile, isolated against a blank ground and scattered across the panel rather than composed into a narrative scene, matching the target's low-relief menagerie.",
+ "least_similar_reason": "Candidate 5 depicts nothing but dense rows of repeated written signs, with no creatures, figures or pictorial motifs of any kind, so it shares no iconographic content with the target's animal reliefs.",
+ "set": "moai_close_among_random",
+ "i": 1,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "tanum_0334",
+  "persepolis_0017",
+  "tanum_0007",
+  "maya_0105",
+  "egypt_0038",
+  "egypt_0060",
+  "egypt_0014",
+  "rapa_nui_0004",
+  "maya_0060",
+  "maya_0125"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "persepolis",
+  "tanum",
+  "egypt",
+  "tanum",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 3
+}

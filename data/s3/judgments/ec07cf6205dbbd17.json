@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "standing anthropomorphic figure carved in the round (monolithic statue)",
+  "frontal rigid pose with arms held against the torso",
+  "hands/arms brought to the chest or abdomen holding objects",
+  "flat-topped head with schematic facial features",
+  "incised low-relief motifs on the body/torso",
+  "columnar block-like body with no separated legs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both depict a frontal, columnar anthropomorphic monolith with a flat-topped schematic head, an undivided block body, and arms folded across the torso holding objects, with low-relief incised motifs (bands, discs/circular elements) covering the chest and abdomen \\u2014 a fairly specific shared scheme rather than a generic 'human figure'. The clearest differences are in the density and character of the surface iconography: B carries elaborate incised bands, discs and hanging elements over the whole front and a headdress-like patterned band, while A is far plainer, with only a belt-like band and simple held object, and its head is more rounded and less framed.",
+ "a": "anatolia_ppn_0121",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2974,
+  405
+ ]
+}

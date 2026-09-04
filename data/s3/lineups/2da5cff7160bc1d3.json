@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  2,
+  9,
+  3,
+  4,
+  8,
+  6,
+  1,
+  7,
+  5
+ ],
+ "most_similar_reason": "Candidate 10 shares the target's basic scheme of a slab divided into registers combining profile figures/creatures rendered in shallow raised outline with rows and columns of small pictographic sign-like elements filling the field.",
+ "least_similar_reason": "Candidate 5 is an eroded three-dimensional figural block whose only visible motifs are a headdress-like top and a plain disc/band on the body, with none of the target's registers, profile animals or rows of sign-like glyphs.",
+ "set": "moai_iso_among_monoliths",
+ "i": 32,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0111",
+  "egypt_0042",
+  "egypt_0050",
+  "gotland_0116",
+  "rapa_nui_hoa_iso",
+  "maya_0092",
+  "maya_0077",
+  "maya_0113",
+  "egypt_0040",
+  "egypt_0047"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 10
+}

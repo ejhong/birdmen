@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "anthropomorphic figure with elaborate headdress",
+  "frontal/profile human face with large eyes",
+  "arms bent and raised holding or presenting objects",
+  "dense low-relief carving with patterned filler ornament",
+  "ornamental plant/foliate or scroll motifs",
+  "bracelets/armlets and beaded or fringed garment detail"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict a single elaborately adorned anthropomorphic figure in relief, wearing a tall ornate headdress, with bent arms holding attributes and with bracelets and patterned garment detail \u2014 a generic correspondence of 'ornate ritual figure'. But A shows a winged, bearded figure strictly in profile facing a stylised plant with rosettes, while B shows a rigidly frontal, wingless figure entirely enveloped in dense glyph-like ornament with no separate scene element; the rendering conventions (long parallel-line feather and hair combing versus blocky interlocking mask-scrolls) share nothing specific.",
+ "a": "assyria_0112",
+ "b": "maya_0052",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3124,
+  388
+ ]
+}

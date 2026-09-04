@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  2,
+  4,
+  10,
+  8,
+  5,
+  6,
+  7,
+  1,
+  9
+ ],
+ "most_similar_reason": "Both show a simple schematic central motif or figure with a prominent circular element in bold non-naturalistic outline rather than crowded naturalistic scenes.",
+ "least_similar_reason": "It is filled almost entirely with dense rows of small signs and has no comparable large schematic figures, creatures, or circular motifs.",
+ "set": "p43_among_random",
+ "i": 3,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "egypt_0056",
+  "assyria_0115",
+  "tanum_0240",
+  "anatolia_ppn_p43full",
+  "persepolis_0007",
+  "persepolis_0051",
+  "egypt_0020",
+  "persepolis_0097",
+  "egypt_0064",
+  "persepolis_0047"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "tanum",
+  "egypt",
+  "assyria",
+  "egypt",
+  "persepolis",
+  "persepolis",
+  "persepolis",
+  "egypt",
+  "persepolis"
+ ],
+ "model": "grok",
+ "planted_rank": 3
+}

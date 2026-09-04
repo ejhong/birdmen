@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  1,
+  8,
+  2,
+  4,
+  9,
+  3,
+  5,
+  7,
+  10
+ ],
+ "most_similar_reason": "Both surfaces show vertically stacked profile animals (birds or comparable zoomorphs) with internal linear detailing in a comparable schematic-naturalistic relief style and register-like arrangement.",
+ "least_similar_reason": "It depicts a frontal three-dimensional anthropomorphic statue with headdress and no profile animals, geometric fills, or relief scene of the kind shown on the target.",
+ "set": "hard",
+ "i": 8,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "tanum_0359",
+  "gotland_0116",
+  "egypt_0012",
+  "gotland_0115",
+  "egypt_0027",
+  "maya_0047",
+  "gotland_0125",
+  "gotland_0123",
+  "gotland_0133",
+  "rapa_nui_0113"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "gotland",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "grok",
+ "planted_rank": 10
+}

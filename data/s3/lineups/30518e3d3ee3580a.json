@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  3,
+  10,
+  7,
+  8,
+  6,
+  9,
+  5,
+  2,
+  4
+ ],
+ "most_similar_reason": "Candidate 1 is most similar because it shows a carved surface organized into horizontal registers filled with schematic relief signs, small figures, animal-like forms, and geometric dividers, closely matching the target\u2019s register-based arrangement and linear iconographic style.",
+ "least_similar_reason": "Candidate 4 is least similar because it contains no clear depicted figures, animals, symbols, or organized motifs comparable to the target\u2019s carved register of stylized signs and creatures.",
+ "set": "moai_iso_among_random",
+ "i": 2,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0045",
+  "rapa_nui_hoa_iso",
+  "maya_0050",
+  "egypt_0021",
+  "catalhoyuk_0039",
+  "maya_0028",
+  "maya_0105",
+  "persepolis_0022",
+  "tanum_0079",
+  "assyria_0100"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "egypt",
+  "persepolis",
+  "maya",
+  "maya",
+  "tanum",
+  "catalhoyuk",
+  "egypt",
+  "assyria",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 9
+}

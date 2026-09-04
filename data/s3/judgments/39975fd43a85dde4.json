@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic animal forms in profile",
+  "geometric/border motifs",
+  "linear carved outlines",
+  "rectangular or band-like divisions"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The main overlap is only generic: both surfaces use schematic linear outlines and include some animal-like forms together with geometric border or band motifs. The biggest difference is that A is a crowded vertical composition of multiple animals and patterned registers, while B is dominated by a large arched frame enclosing a central boat- or vessel-like motif with sparse symbols.",
+ "a": "anatolia_ppn_p43full",
+ "b": "gotland_0112",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  658
+ ]
+}

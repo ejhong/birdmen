@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "anthropomorphic/human body or body parts",
+  "circular motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The main shared content is only generic: both include a human or human-like body and some circular forms, though in A the circles are rosette ornaments while in B they serve as facial or bodily features. The biggest difference is that A shows a more naturalistic partial standing figure with a separate lower band of floral rosettes, whereas B is a single frontal, highly schematic anthropomorphic figure covered with abstract incised features.",
+ "a": "persepolis_0017",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  665
+ ]
+}

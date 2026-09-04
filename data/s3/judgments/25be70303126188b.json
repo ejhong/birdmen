@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "bearded male human figure in strict profile",
+  "stylized curled/patterned hair and beard rendered as regular rows of curls",
+  "raised or extended arm with hand held forward",
+  "low relief carving of figures on a wall panel",
+  "garment with patterned fringe/texture",
+  "procession-like posture, figures facing right"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show bearded men in strict profile with tightly regimented rows of curls in hair and beard, one arm advanced, carved in shallow relief with patterned infill for hair, fleece and textiles \u2014 a distinctive shared convention. The scenes differ in content and structure, however: A is a single large frontal-torso figure with a wing-like radiating element and a staff filling the whole panel, while B is a horizontal procession of several attendants leading horned rams.",
+ "a": "assyria_0051",
+ "b": "persepolis_0022",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3224,
+  317
+ ]
+}

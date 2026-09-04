@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "bird or animal forms in profile",
+  "repeated small signs or symbols",
+  "horizontal bands/register-like divisions",
+  "schematic linear outline carving/drawing"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is the use of schematic profile creatures, including bird-like forms, alongside rows or bands of repeated signs. The major difference is that A is dominated by dense, orderly sign-text and small seated human figures in registers, while B is dominated by large isolated animal/body-part motifs on a pillar-like field with no comparable seated-figure-and-text scheme.",
+ "a": "egypt_0064",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  936
+ ]
+}

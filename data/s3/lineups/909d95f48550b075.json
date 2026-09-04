@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  9,
+  8,
+  1,
+  10,
+  2,
+  4,
+  6,
+  7,
+  3
+ ],
+ "most_similar_reason": "Candidate 5 is most similar because it shows a closely comparable set of schematic relief animal and symbol motifs on a vertical surface, including curving/serpentine forms and profile creatures arranged as isolated emblems rather than a narrative scene.",
+ "least_similar_reason": "Candidate 3 is least similar because its depicted content is dominated by boats and small painted figures in an open rock-art scene, with none of the target\u2019s distinctive stacked relief emblems, profile animal hybrids, or register-like arrangement.",
+ "set": "moai_iso_among_random",
+ "i": 20,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0094",
+  "persepolis_0043",
+  "tanum_0061",
+  "tanum_0100",
+  "tanum_0359",
+  "catalhoyuk_0025",
+  "tanum_0056",
+  "rapa_nui_hoa_iso",
+  "assyria_0139",
+  "persepolis_0044"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "persepolis",
+  "tanum",
+  "tanum",
+  "catalhoyuk",
+  "persepolis",
+  "tanum",
+  "assyria",
+  "maya",
+  "tanum"
+ ],
+ "model": "gpt",
+ "planted_rank": 3
+}

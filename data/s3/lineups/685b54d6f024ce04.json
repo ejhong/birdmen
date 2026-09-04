@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  3,
+  9,
+  1,
+  5,
+  7,
+  8,
+  10,
+  4,
+  2
+ ],
+ "most_similar_reason": "Candidate 6 shows the same repertoire as the target \u2014 highly schematic animals and elongated hull/boat-like forms with rows of short vertical strokes, loosely stacked in horizontal bands across the surface \u2014 which matches the target's registers of stylised creatures and hatched linear motifs.",
+ "least_similar_reason": "Candidate 2 depicts an architectural setting of columns, steps and terraces with no creatures, no schematic figures and no register-based motif bands, sharing essentially nothing with the target's animal and pattern imagery.",
+ "set": "moai_iso_among_random",
+ "i": 34,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "persepolis_0082",
+  "persepolis_0070",
+  "tanum_0237",
+  "gotland_0130",
+  "maya_0026",
+  "tanum_0328",
+  "assyria_0096",
+  "maya_0106",
+  "persepolis_0030",
+  "rapa_nui_hoa_iso"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "persepolis",
+  "tanum",
+  "gotland",
+  "assyria",
+  "tanum",
+  "persepolis",
+  "maya",
+  "persepolis",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 8
+}

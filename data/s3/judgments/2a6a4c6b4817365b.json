@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "upright freestanding carved stone monument (stela/monolith)",
+  "low-relief carving on the front face",
+  "suggestion of a human figure/frontal form",
+  "incised linear ornament on the surface"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "3",
+ "justification": "Both depict an upright slab-like monument bearing low-relief carving on its principal face, and both appear to present a frontal human-derived form, which is the most specific shared trait. However, B shows a massive head with pronounced facial features, headdress bands and a torso with concentric discs, pendant collars and a belt-like element, whereas A's stela is a thin flat panel whose eroded carving offers no comparable identifiable motifs or relationships.",
+ "a": "maya_0000",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3174,
+  278
+ ]
+}

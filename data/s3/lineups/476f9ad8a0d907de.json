@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  2,
+  5,
+  3,
+  10,
+  9,
+  7,
+  4,
+  1,
+  6
+ ],
+ "most_similar_reason": "Both show stylized figures in profile alongside ornamental vegetation within a similar carving tradition.",
+ "least_similar_reason": "It consists of very simple, painted linear motifs that share none of the target's complex figural details.",
+ "set": "related_control",
+ "i": 3,
+ "target": "persepolis_0023",
+ "planted": "assyria_0153",
+ "cands": [
+  "tanum_0030",
+  "maya_0113",
+  "rapa_nui_0049",
+  "tanum_0238",
+  "maya_0053",
+  "tanum_0344",
+  "egypt_0075",
+  "assyria_0153",
+  "maya_0127",
+  "rapa_nui_0052"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "tanum",
+  "egypt",
+  "maya",
+  "tanum",
+  "tanum",
+  "rapa_nui",
+  "rapa_nui"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human/anthropomorphic figure with raised arm",
+  "figure holding a small object",
+  "figure shown frontally/profile against a plain field",
+  "linear incised lines"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "Both surfaces show anthropomorphic figures with an arm raised and something small held in the hand, which is about as generic as figural imagery gets. Everything else differs: A is a single, richly detailed, naturalistically modelled winged bearded figure in profile with elaborate garment, bracelets and a flowering plant, whereas B shows several stick-thin, schematic, near-featureless figures with splayed limbs scattered across a field of loose lines.",
+ "a": "assyria_0079",
+ "b": "tanum_0008",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  438
+ ]
+}

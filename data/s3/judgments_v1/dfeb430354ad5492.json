@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "standing human figure",
+  "quadruped animal in profile",
+  "small circle or disc",
+  "linear signs or implements"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of simplified human figures alongside profile animals and occasional circular/linear signs on a stone surface. The biggest difference is compositional and technical: A is a loose painted/pecked scatter on a flat surface with large open circles, while B is a vertically carved relief organized into dense bands and registers.",
+ "a": "tanum_0052",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  603
+ ]
+}

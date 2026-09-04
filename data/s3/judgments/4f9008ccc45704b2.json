@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "human figure in strict profile with patterned headgear/hair",
+  "arms extended forward with hands rendered in profile",
+  "detailed rows of curls / repeated dotted texture on hair, beard or headband",
+  "bracelet/armlet at the wrist",
+  "hoofed animal in profile shown at lower level beside the human figure",
+  "patterned infill used for animal coat/plant foliage",
+  "low-relief figures set in a horizontal register",
+  "figures overlapping animals in front of them"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both show large, strictly profile human figures with elaborately patterned headgear, curled beard/hair conventions, bracelets at the wrist and outstretched hands, set in a horizontal relief register above or beside hoofed animals rendered in profile with patterned coats \u2014 a very specific set of shared depiction conventions. The main difference is the scene: A shows a single winged figure attending a stylised rosette-bearing plant and grasping a crouching creature, while B shows a procession of several wingless attendants leading curly-horned rams, so the narrative content and figure-to-figure relations differ.",
+ "a": "assyria_0078",
+ "b": "persepolis_0108",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3324,
+  937
+ ]
+}

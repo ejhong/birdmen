@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  3,
+  7,
+  2,
+  5,
+  9,
+  4,
+  8,
+  1,
+  6
+ ],
+ "most_similar_reason": "Candidate 10 shows animals rendered in low-relief profile silhouette arranged in stacked horizontal registers alongside a plant/tree motif, which is the closest match to the target's vertically stacked animals in profile relief with a banded geometric register above them.",
+ "least_similar_reason": "Candidate 6 shows only a bare surface with a few small scattered marks and no recognisable animals, figures or ordered relief composition, so it shares essentially nothing with the target's dense stacked animal iconography.",
+ "set": "moai_close_among_random",
+ "i": 35,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "persepolis_0051",
+  "maya_0019",
+  "maya_0127",
+  "gotland_0129",
+  "tanum_0063",
+  "catalhoyuk_0102",
+  "egypt_0063",
+  "rapa_nui_0004",
+  "persepolis_0004",
+  "persepolis_0032"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "catalhoyuk",
+  "gotland",
+  "tanum",
+  "persepolis",
+  "egypt",
+  "persepolis",
+  "maya",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 8
+}

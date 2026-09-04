@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "profile creature or figure",
+  "wing or bird-like form",
+  "plant or branch motif",
+  "horizontal band or row of repeated linear signs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific overlap is that both include linear, profile-rendered living forms alongside a plant/branch motif and some repeated band-like markings. The biggest difference is that A is organized around a single large winged standing figure interacting with a stylized plant, while B is a stacked register of separate animals, abstract signs, and bag-like forms with no comparable central figure or scene.",
+ "a": "assyria_0115",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1804,
+  667
+ ]
+}

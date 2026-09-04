@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic silhouette figures",
+  "animal/creature forms in profile",
+  "horizontal band-like organizing line",
+  "elongated curving snake-like forms"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "A shows two schematic humanoid figures standing on a boat with upcurved prow and stern \u2014 a single isolated scene with a horizontal baseline \u2014 while B shows a dense multi-register composition of animals (quadrupeds in profile, a bird with long neck, snake-like or plant-like forms) plus a row of repeated arched/animal motifs across the top. The only real correspondences are generic: schematic silhouetted forms and a horizontal dividing line, with no shared specific motif, posture or relationship.",
+ "a": "tanum_0321",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  294
+ ]
+}

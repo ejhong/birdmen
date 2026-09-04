@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  9,
+  10,
+  3,
+  7,
+  8,
+  4,
+  6,
+  2,
+  5
+ ],
+ "most_similar_reason": "Candidate 1 is most similar because it prominently combines large long-legged birds in profile with standing figures in a shallow, schematic relief style, closely matching the target\u2019s emphasis on profile animal figures\u2014especially birds\u2014arranged across a decorated surface.",
+ "least_similar_reason": "Candidate 5 is least similar because it is essentially a geometric/diagrammatic surface of lines and arcs with no comparable profile animals, birds, bodies, or crowded figural iconography like the target.",
+ "set": "moai_among_random",
+ "i": 19,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0108",
+  "gotland_0117",
+  "egypt_0044",
+  "assyria_0096",
+  "gotland_0002",
+  "rapa_nui_0113",
+  "assyria_0078",
+  "assyria_0146",
+  "persepolis_0062",
+  "assyria_0138"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "assyria",
+  "persepolis",
+  "assyria",
+  "gotland",
+  "egypt",
+  "gotland",
+  "assyria",
+  "assyria",
+  "persepolis"
+ ],
+ "model": "gpt",
+ "planted_rank": 8
+}

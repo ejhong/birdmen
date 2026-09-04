@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  9,
+  4,
+  8,
+  3,
+  6,
+  1,
+  5,
+  10,
+  7
+ ],
+ "most_similar_reason": "Candidate 2, like the target, is a tall upright stone whose whole surface is given over to a single frontal standing human figure with a broad headdress above and body ornaments and belt-like bands across the torso, rather than a narrative scene or text.",
+ "least_similar_reason": "Candidate 7 shows nothing but ruled rows of script with no human figure, ornaments or any pictorial motif, so it shares no depicted subject matter with the target's schematic anthropomorphic image.",
+ "set": "p43_iso_among_monoliths",
+ "i": 21,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "egypt_0066",
+  "maya_0051",
+  "egypt_0072",
+  "anatolia_ppn_p43iso",
+  "maya_0152",
+  "egypt_0073",
+  "egypt_0049",
+  "gotland_0026",
+  "maya_0052",
+  "maya_0149"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "gotland",
+  "maya",
+  "egypt",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 3
+}

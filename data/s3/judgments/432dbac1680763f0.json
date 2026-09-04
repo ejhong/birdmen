@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human figure in profile relief",
+  "bearded male figure with elaborate headdress/crown",
+  "low relief carving of figures with detailed hair and garments",
+  "standing figures facing right"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both depict bearded male figures in strict profile in low relief, with tall headgear and finely patterned hair/beard, and in B a row of small figures facing a principal figure recalls the same convention seen at large scale in A. The biggest difference is content scope: A is an isolated bust-scale head-and-shoulders fragment with no accompanying elements, whereas B shows a full multi-figure scene beneath a winged emblem and above extensive registers of inscribed text.",
+ "a": "assyria_0105",
+ "b": "egypt_0033",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3224,
+  280
+ ]
+}

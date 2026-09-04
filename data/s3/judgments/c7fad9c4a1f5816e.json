@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "profile creatures/animals",
+  "bird or wing forms",
+  "circle or disc-like motif",
+  "horizontal register lines/bands",
+  "row of repeated signs or pattern",
+  "schematic linear relief style"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The most specific overlap is the use of schematic, incised/relief figures organized in horizontal registers, with profile creatures and repeated symbolic or geometric signs. The biggest difference is that B is organized around a formal emblematic scene with a winged disc, central standard, and flanking human figures, while A is dominated by animal figures and patterned bands without the same central cultic/emblematic arrangement.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0068",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  682
+ ]
+}

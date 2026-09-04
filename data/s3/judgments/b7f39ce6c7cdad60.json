@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "bird or bird-like form in profile",
+  "wing or feathered forms",
+  "linear/geometric patterned bands"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific overlap is that both include bird-like/profile forms and some linear patterned details, but in A these belong to a single large winged composite figure holding objects, while in B they are separate animals and signs distributed across a pillar face. The biggest difference is the iconographic scheme: A is dominated by one anthropomorphic winged figure with held attributes, whereas B is a multi-register field of animals, abstract symbols, and repeated motifs with no comparable central figure or object-holding relationship.",
+ "a": "assyria_0034",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  685
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  9,
+  6,
+  2,
+  7,
+  1,
+  4,
+  8,
+  3,
+  10
+ ],
+ "most_similar_reason": "Both depict a stylized upright shape featuring wrapping arms, central hands, and a horizontal band.",
+ "least_similar_reason": "The candidate displays scattered small-scale motifs like boats, lacking the unified upright figure design of the target.",
+ "set": "p43_among_random",
+ "i": 18,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "persepolis_0066",
+  "assyria_0105",
+  "gotland_0000",
+  "maya_0127",
+  "anatolia_ppn_p43full",
+  "egypt_0048",
+  "assyria_0118",
+  "egypt_0018",
+  "maya_0149",
+  "tanum_0061"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "tanum",
+  "assyria",
+  "persepolis",
+  "egypt",
+  "maya",
+  "egypt",
+  "gotland",
+  "maya",
+  "assyria"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

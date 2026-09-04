@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "carved or incised marks on a stone surface",
+  "repeated short linear marks",
+  "roughly horizontal/vertical ordering of marks"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific correspondence is that both surfaces use cut linear marks on stone, with some areas organized into rows or bands. The biggest difference is that B is dominated by large, clearly legible relief animals and horizontal registers, while A appears as a dense, low-relief field of small incisions on a much rougher surface with no comparably clear large figures.",
+ "a": "egypt_0035",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1230,
+  655
+ ]
+}

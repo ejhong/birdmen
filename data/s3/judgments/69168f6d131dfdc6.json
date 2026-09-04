@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "low-relief carving on a flat stone panel",
+  "figure shown in profile",
+  "single principal scene filling the panel"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "The only correspondence is the most generic one: both are low-relief panels showing profile figures as a single scene, A a quadruped animal (with a smaller creature below) and B two elaborately robed human figures facing each other holding objects. Nothing specific is shared: A has no human figures, no garments, no held attributes and no facing pair, and its animal is rendered in a broad, unarticulated schematic outline, whereas B is densely detailed with fringes, curls, jewellery and modelled musculature.",
+ "a": "anatolia_ppn_0207",
+ "b": "assyria_0095",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  280
+ ]
+}

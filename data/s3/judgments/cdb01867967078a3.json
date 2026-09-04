@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "low-relief human figures shown in profile",
+  "bearded figures with long garments",
+  "stylized/conventionalized tree motif",
+  "figures placed to either side of a tree",
+  "figures with raised or extended arms holding objects",
+  "horizontal registers/bands organizing the composition",
+  "rows of repeated similar figures"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces show bearded human figures carved in profile low relief, arranged in relation to a formalized, densely patterned tree motif, with human figures on either side of that tree and horizontal register bands structuring the field. The decisive differences are that A is a rigidly symmetrical heraldic panel of large winged attendants flanking a single central tree above an inscription band, whereas B is a multi-register processional frieze of small repeated figures walking one way, some leading animals, with the tree merely acting as a divider.",
+ "a": "assyria_0153",
+ "b": "persepolis_0051",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  740
+ ]
+}

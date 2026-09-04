@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  1,
+  4,
+  10,
+  3,
+  2,
+  8,
+  7,
+  6,
+  9
+ ],
+ "most_similar_reason": "Both depict an upright stone monument covered in dense, stylized low-relief carvings.",
+ "least_similar_reason": "It shows an unadorned architectural rock niche without figurative or decorative reliefs.",
+ "set": "p43_among_random",
+ "i": 27,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "anatolia_ppn_p43full",
+  "assyria_0109",
+  "egypt_0032",
+  "gotland_0124",
+  "maya_0114",
+  "egypt_0010",
+  "maya_0077",
+  "persepolis_0070",
+  "egypt_0020",
+  "assyria_0151"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt",
+  "persepolis",
+  "egypt",
+  "assyria",
+  "assyria",
+  "maya"
+ ],
+ "model": "gemini",
+ "planted_rank": 2
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "horizontal band or register of carving",
+  "profile human or human-like figure",
+  "bird or bird-like figure in profile",
+  "circle or oval/disc motif",
+  "repeated carved signs or small motifs"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces use shallow carving on an upright stone face with horizontal zones containing repeated signs, including profile figures and disc/oval motifs. The biggest difference is that A is densely organized into many fine, text-like registers with small standardized figures, while B has a few large, rougher, widely spaced relief forms on an irregular architectural surface.",
+ "a": "egypt_0069",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  666
+ ]
+}

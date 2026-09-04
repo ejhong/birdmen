@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  1,
+  6,
+  4,
+  2,
+  7,
+  3,
+  10,
+  8,
+  5
+ ],
+ "most_similar_reason": "Candidate 9 is most similar because it shows a shallow-relief arrangement of multiple schematic profile animals and signs spread across a surface, closest to the target\u2019s combination of outlined animals and abstract motifs in a non-naturalistic carved style.",
+ "least_similar_reason": "Candidate 5 is least similar because it presents no clear depicted creatures, figures, symbols, or arranged iconographic scene comparable to the target\u2019s decorated animal-and-sign relief.",
+ "set": "moai_among_random",
+ "i": 12,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0009",
+  "egypt_0012",
+  "persepolis_0077",
+  "persepolis_0069",
+  "maya_0000",
+  "persepolis_0089",
+  "assyria_0128",
+  "rapa_nui_0113",
+  "assyria_0041",
+  "tanum_0240"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "egypt",
+  "persepolis",
+  "assyria",
+  "persepolis",
+  "maya",
+  "tanum",
+  "assyria",
+  "gotland",
+  "persepolis"
+ ],
+ "model": "gpt",
+ "planted_rank": 9
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "large zoomorphic creature occupying the whole field",
+  "curvilinear scroll/spiral forms used for body parts or joints",
+  "limb-like curved appendages ending in hooked/clawed terminals",
+  "schematic head with a prominent rounded eye/boss"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both surfaces are dominated by a single large curvilinear zoomorph whose limbs and joints resolve into hooked scrolls and spirals, with a rounded boss-like eye, which is a real if fairly broad stylistic correspondence. However, B depicts a legible quadruped with a small human figure above it holding a rein and is enclosed by a ruled geometric border, while A shows no human figure, no frame, and no readable single creature \u2014 its forms are an unbounded interlocking tangle spreading over the whole boulder.",
+ "a": "rapa_nui_0070",
+ "b": "gotland_0115",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  843
+ ]
+}

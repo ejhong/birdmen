@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  5,
+  2,
+  10,
+  8,
+  7,
+  6,
+  1,
+  3,
+  4
+ ],
+ "most_similar_reason": "Candidate 9 is most similar because it shows a comparable upright decorated surface with the same kind of schematic relief program: repeated upper/band motifs combined with profile animals arranged in registers on the face.",
+ "least_similar_reason": "Candidate 4 is least similar because it lacks clearly comparable depicted figures, animal forms, repeated symbolic bands, or organized iconographic relationships present on the target.",
+ "set": "hard",
+ "i": 6,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0115",
+  "gotland_0123",
+  "egypt_0012",
+  "egypt_0027",
+  "gotland_0125",
+  "rapa_nui_0113",
+  "gotland_0133",
+  "tanum_0359",
+  "gotland_0116",
+  "maya_0047"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "gotland",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "gpt",
+ "planted_rank": 7
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  6,
+  5,
+  7,
+  4,
+  8,
+  10,
+  2,
+  1,
+  9
+ ],
+ "most_similar_reason": "Candidate 3 is most similar because it combines crowded stylized relief imagery with large round eye/spiral-like forms, small animal or creature figures, and register-like arrangement much like the target\u2019s zoomorphic, geometric composition.",
+ "least_similar_reason": "Candidate 9 is least similar because it mainly depicts a single frontal anthropomorphic body with a few markings, lacking the target\u2019s multi-register arrangement of stylized animals, repeated signs, and geometric motifs.",
+ "set": "moai_iso_among_monoliths",
+ "i": 1,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0071",
+  "egypt_0044",
+  "maya_0045",
+  "maya_0114",
+  "egypt_0068",
+  "gotland_0116",
+  "gotland_0113",
+  "maya_0095",
+  "rapa_nui_hoa_iso",
+  "maya_0066"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt",
+  "gotland",
+  "maya",
+  "maya",
+  "maya",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 10
+}

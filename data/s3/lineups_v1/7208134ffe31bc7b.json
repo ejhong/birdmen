@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  5,
+  1,
+  4,
+  7,
+  9,
+  10,
+  6,
+  3,
+  8
+ ],
+ "most_similar_reason": "Candidate 2, like the target, is a large freestanding monolith of coarse weathered stone whose whole face is covered with low-relief motifs stacked in bands, giving the same sense of a sculpted standing pillar rather than a flat panel.",
+ "least_similar_reason": "Candidate 8 is a brightly colored modern line drawing of a single winged figure with no stone surface, no relief carving and no registered arrangement of animal motifs, making it the furthest from the target's weathered carved monolith.",
+ "set": "moai_among_random",
+ "i": 17,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0051",
+  "rapa_nui_0113",
+  "egypt_0075",
+  "tanum_0052",
+  "persepolis_0089",
+  "maya_0050",
+  "egypt_0000",
+  "mississippian_0002",
+  "gotland_0008",
+  "gotland_0130"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "gotland",
+  "persepolis",
+  "egypt",
+  "tanum",
+  "maya",
+  "gotland",
+  "persepolis",
+  "mississippian",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

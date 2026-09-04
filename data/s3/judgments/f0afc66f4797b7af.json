@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human figures",
+  "repeated figures in a row",
+  "profile orientation",
+  "handheld/attached objects (spear-like verticals vs staffs/weapons)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "Both show repeated human-related forms in a horizontal row and something like a series of upright stroke elements (the crew strokes on the boat versus the standing bearded attendants with staffs), but that is about the limit of the correspondence. A is dominated by a large schematic outline boat with spiralling prow and stick-like crew strokes, while B shows naturalistic, modelled full-length robed figures with elaborate beards, headgear and held weapons, sharing neither the boat motif nor any specific posture or attribute.",
+ "a": "tanum_0339",
+ "b": "persepolis_0047",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  297
+ ]
+}

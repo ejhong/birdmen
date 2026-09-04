@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "profile animal or bird-like figure",
+  "small circular mark or disc",
+  "incised linear details on carved stone"
+ ],
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of shallow carving/incision to show simplified profile animal or bird-like forms, with occasional small circular marks. The biggest difference is compositional: B is an upright rectangular surface organized into stacked registers with many separate motifs, while A is an irregular fragment dominated by one large ambiguous figure and lacks a comparable ordered layout.",
+ "a": "egypt_0053",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  1122
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "frontal standing anthropomorphic/human figure",
+  "incised linear markings or signs",
+  "rectangular/vertical framed field"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest shared content is the presence of schematic frontal human or anthropomorphic figures together with incised linear markings. The biggest difference is that A is dominated by a single large body-form covered with internal motifs, while B is organized as an architectural panel or field with small flanking figures and dense inscription-like rows.",
+ "a": "rapa_nui_0113",
+ "b": "egypt_0009",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1883,
+  652
+ ]
+}

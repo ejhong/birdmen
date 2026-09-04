@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  2,
+  1,
+  7,
+  3,
+  5,
+  10,
+  6,
+  4,
+  9
+ ],
+ "most_similar_reason": "Candidate 8 employs a comparable schematic, linear style to depict simplistic figures.",
+ "least_similar_reason": "Candidate 9 is a standalone three-dimensional sculptural form rather than a complex surface composition.",
+ "set": "same_control",
+ "i": 25,
+ "target": "tanum_0076",
+ "planted": "tanum_0037",
+ "cands": [
+  "egypt_0062",
+  "gotland_0018",
+  "persepolis_0015",
+  "assyria_0160",
+  "persepolis_0043",
+  "maya_0047",
+  "egypt_0056",
+  "tanum_0037",
+  "anatolia_ppn_0239",
+  "persepolis_0020"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "persepolis",
+  "gotland",
+  "persepolis",
+  "assyria",
+  "anatolia_ppn",
+  "egypt",
+  "egypt",
+  "persepolis"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

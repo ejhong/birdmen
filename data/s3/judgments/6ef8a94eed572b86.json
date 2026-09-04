@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "rectangular or horizontal field of repeated geometric pattern",
+  "chevron/diamond or crosshatched lattice motif",
+  "stacked upper and lower zones of decoration"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is a repeated geometric band or panel with chevron/diamond-like infill placed above other motifs. The biggest difference is that A is dominated by profile animals or creature figures in multiple registers, while B is dominated by an arched frame enclosing a lattice panel and a boat- or crescent-like lower form with circular elements.",
+ "a": "anatolia_ppn_p43full",
+ "b": "gotland_0111",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1883,
+  665
+ ]
+}

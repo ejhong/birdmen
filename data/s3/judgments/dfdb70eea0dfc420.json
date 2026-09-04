@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "profile bird or bird-like animal",
+  "profile animal figures",
+  "repeated linear signs or motifs",
+  "horizontal register-like bands"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both surfaces use schematic outline carving to show profile birds/animals together with repeated signs arranged in horizontal zones. The biggest difference is that B is dominated by organized human/ritual scenes with seated and standing figures, tables, and text-like sign columns, while A is dominated by large isolated zoomorphic emblems and geometric bands without the same human-action scheme.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0067",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  665
+ ]
+}

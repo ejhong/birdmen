@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  8,
+  2,
+  6,
+  7,
+  3,
+  9,
+  4,
+  5,
+  10
+ ],
+ "most_similar_reason": "Candidate 1 shows the same idea of a free-standing monolithic pillar carved with low-relief anthropomorphic elements \u2014 arms bent around the shaft, hands meeting at the front and belt-like bands \u2014 which is the very distinctive scheme of the target's humanized standing stone.",
+ "least_similar_reason": "Candidate 10 shows a bare cut rock face with no depicted figures, symbols or motifs at all, so there is nothing iconographic to correspond with the target's carved anthropomorphic imagery.",
+ "set": "p43_among_random",
+ "i": 28,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "anatolia_ppn_p43full",
+  "egypt_0047",
+  "maya_0147",
+  "tanum_0079",
+  "tanum_0085",
+  "egypt_0065",
+  "persepolis_0025",
+  "assyria_0123",
+  "tanum_0237",
+  "egypt_0020"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "assyria",
+  "tanum",
+  "egypt",
+  "tanum",
+  "egypt",
+  "maya",
+  "tanum",
+  "egypt",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human figures with raised/extended arms",
+  "frontal or profile human figures in schematic outline",
+  "linear engraved figures on stone",
+  "figures grouped in a scene"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both depict engraved human figures with arms raised or extended, but A shows large isolated stick-like frontal figures with orant arms amid free-floating lines, while B shows a formally organised two-register scene of seated and standing figures in profile flanking an offering table, with rows of script-like signs. The only correspondence is the generic one of schematic incised human figures; the compositional conventions (registers, profile posture, offering relationship, writing) are entirely absent from A.",
+ "a": "tanum_0008",
+ "b": "egypt_0067",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  274
+ ]
+}

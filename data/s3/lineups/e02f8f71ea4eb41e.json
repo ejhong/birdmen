@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  5,
+  8,
+  9,
+  3,
+  7,
+  1,
+  2,
+  6,
+  10
+ ],
+ "most_similar_reason": "Candidate 4 is most similar because it presents a single frontal, highly schematic anthropomorphic/geometric figure with a rounded upper outline, central abstract markings, and curved banding across the lower body, closely matching the target\u2019s large mask-like face/body arrangement and incised linear style.",
+ "least_similar_reason": "Candidate 10 is least similar because its surface is dominated by dense rows of small figures and inscription-like signs rather than one large abstract frontal face or body with circular features and broad curved bands.",
+ "set": "p43_iso_among_monoliths",
+ "i": 26,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "egypt_0047",
+  "egypt_0074",
+  "anatolia_ppn_p43iso",
+  "gotland_0131",
+  "gotland_0007",
+  "egypt_0071",
+  "egypt_0041",
+  "maya_0130",
+  "maya_0125",
+  "egypt_0064"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "gotland",
+  "egypt",
+  "maya",
+  "gotland"
+ ],
+ "model": "gpt",
+ "planted_rank": 5
+}

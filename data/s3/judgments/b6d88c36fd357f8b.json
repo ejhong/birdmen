@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "human figure in profile facing left",
+  "raised/bent arm with hand shown",
+  "detailed curled hair and beard rendered as rows of curls",
+  "patterned band or cuff at wrist/arm",
+  "low-relief carving with figure filling the panel",
+  "fringed or scalloped garment edge along lower border",
+  "possible winged or feathered element behind figure"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both show a single large low-relief human figure in strict left-facing profile with elaborately curled hair, a bent arm brought before the chest, a banded wrist cuff or bracelet, and a scalloped/fringed hem defining the lower garment, which is a fairly specific combination of conventions rather than a generic figure. The clearest difference is that A preserves a full standing figure with large detailed wings, a raised open hand and a pine-cone-like object, while B shows only a fragmentary bust-level portion whose attributes and full posture cannot be matched, and B's forms are broader and rounder.",
+ "a": "assyria_0146",
+ "b": "maya_0097",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2999,
+  373
+ ]
+}

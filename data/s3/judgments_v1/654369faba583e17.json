@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "profile animal figures",
+  "human-like figure",
+  "horizontal band of repeated marks or patterning",
+  "stacked/registered placement of motifs on a stone surface"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The most specific correspondence is the use of linear, profile figures combined with horizontal patterned bands, with motifs arranged in stacked zones rather than as a single scene. The biggest difference is that A is a dense carved relief with bulky, integrated forms on a vertical block, while B is a much more open red-line painting/engraving with boat-like and fence-like forms spread across a flat rock surface.",
+ "a": "anatolia_ppn_p43full",
+ "b": "tanum_0340",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  664
+ ]
+}

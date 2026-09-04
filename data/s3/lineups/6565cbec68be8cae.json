@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  3,
+  10,
+  5,
+  9,
+  1,
+  8,
+  7,
+  6,
+  2
+ ],
+ "most_similar_reason": "Candidate 4 shows a schematic anthropomorphic figure with a large bird wing, matching the distinctive hybrid bird-human forms and outline style of motifs carved on the target.",
+ "least_similar_reason": "Candidate 2 shows a rocky cliff and possible architectural cuts with no comparable anthropomorphic figures, creatures, circular motifs, or arranged symbolic elements.",
+ "set": "p43_among_random",
+ "i": 1,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "persepolis_0097",
+  "egypt_0051",
+  "maya_0137",
+  "mississippian_0009",
+  "anatolia_ppn_p43full",
+  "tanum_0126",
+  "assyria_0047",
+  "persepolis_0100",
+  "egypt_0044",
+  "maya_0105"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "mississippian",
+  "assyria",
+  "tanum",
+  "maya",
+  "persepolis",
+  "persepolis",
+  "egypt"
+ ],
+ "model": "grok",
+ "planted_rank": 4
+}

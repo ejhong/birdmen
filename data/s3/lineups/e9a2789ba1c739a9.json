@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  7,
+  9,
+  4,
+  6,
+  8,
+  3,
+  10,
+  2,
+  5
+ ],
+ "most_similar_reason": "Candidate 1 shows the same kind of upright pillar-body treated as a schematic anthropomorph, with low-relief arms bending round the shaft toward the front and belt-like bands plus isolated emblematic signs carved on the surface, matching the target's convention of turning a monolith into a stylised figure.",
+ "least_similar_reason": "Candidate 5 depicts a crowded naturalistic narrative of chariots, horses and falling combatants in profile, sharing none of the target's single frontal schematic body with isolated abstract emblems.",
+ "set": "p43_among_random",
+ "i": 6,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "anatolia_ppn_p43full",
+  "assyria_0052",
+  "persepolis_0025",
+  "tanum_0052",
+  "assyria_0039",
+  "catalhoyuk_0102",
+  "mississippian_0007",
+  "assyria_0000",
+  "assyria_0112",
+  "persepolis_0039"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "assyria",
+  "catalhoyuk",
+  "assyria",
+  "mississippian",
+  "persepolis",
+  "tanum",
+  "persepolis",
+  "assyria",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

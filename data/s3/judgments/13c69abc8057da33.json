@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "glyph blocks arranged in a grid",
+  "rectangular cartouche-like signs with rounded corners",
+  "horizontal register/band of glyphs at the top",
+  "carved relief on an upright slab (stela format)",
+  "schematic faces/heads incorporated into signs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both surfaces are upright slabs bearing rows of rounded-cornered glyph blocks in a grid, with B's top register of such signs closely matching A's entire glyphic field in form and layout, a fairly specific shared convention. The decisive difference is that B is dominated by two elaborately costumed standing human figures in profile facing each other with plumed headdresses and staffs, whereas A shows only text with no figural scene at all.",
+ "a": "maya_0095",
+ "b": "maya_0083",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3024,
+  297
+ ]
+}

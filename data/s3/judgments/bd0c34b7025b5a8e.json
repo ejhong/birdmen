@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "rows or bands of small abstract signs or repeated motifs",
+  "stylized carved figures/creatures",
+  "linear or staff-like forms"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The main shared content is only generic: both surfaces combine stylized figures or creatures with rows of small sign-like motifs. The biggest difference is that A is organized around a single frontal standing anthropomorphic figure with surrounding glyph-like elements, while B is a register-like composition of multiple profile animals and abstract symbols with no comparable central human figure.",
+ "a": "maya_0088",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  658
+ ]
+}

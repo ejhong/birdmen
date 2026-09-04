@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic incised linear motifs",
+  "circle or disc motifs",
+  "parallel curved or horizontal bands",
+  "possible stylized body/face-related forms"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific shared content is the use of schematic incised circles/discs together with bands of parallel lines, with both surfaces including some forms that may be read as highly stylized body or face-related imagery. The biggest difference is that A is organized as a multi-element narrative or glyphic panel with rows of signs and several small figures or creatures, while B is dominated by a single frontal anthropomorphic/mask-like form with paired eye-like circles and a central round feature.",
+ "a": "maya_0083",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  674
+ ]
+}

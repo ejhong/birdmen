@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  7,
+  1,
+  8,
+  4,
+  5,
+  2,
+  3,
+  10,
+  9
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it shows the same kind of schematic relief composition on an upright surface, with simplified animal/profile forms and bands of incised or raised signs arranged vertically rather than a single naturalistic scene.",
+ "least_similar_reason": "Candidate 9 is least similar because it is essentially a rectilinear diagram with a central circle and a border of small glyph-like boxes, lacking the target\u2019s prominent stacked profile animals and bodily/creature motifs.",
+ "set": "moai_among_random",
+ "i": 30,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "egypt_0040",
+  "assyria_0059",
+  "maya_0085",
+  "persepolis_0095",
+  "maya_0048",
+  "egypt_0077",
+  "rapa_nui_0113",
+  "egypt_0063",
+  "maya_0024",
+  "maya_0052"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "maya",
+  "persepolis",
+  "maya",
+  "egypt",
+  "assyria",
+  "maya",
+  "egypt",
+  "maya",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 2
+}

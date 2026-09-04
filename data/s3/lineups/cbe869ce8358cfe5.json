@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  6,
+  9,
+  8,
+  7,
+  3,
+  4,
+  5,
+  1,
+  2
+ ],
+ "most_similar_reason": "Both feature dense, interlocking carved motifs.",
+ "least_similar_reason": "It shows a 3D sculpted face rather than flat patterned blocks.",
+ "set": "same_control",
+ "i": 31,
+ "target": "maya_0146",
+ "planted": "maya_0127",
+ "cands": [
+  "anatolia_ppn_0264",
+  "anatolia_ppn_0260",
+  "persepolis_0023",
+  "anatolia_ppn_0088",
+  "anatolia_ppn_0205",
+  "persepolis_0043",
+  "assyria_0095",
+  "persepolis_0064",
+  "persepolis_0073",
+  "maya_0127"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "persepolis",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "assyria",
+  "persepolis",
+  "persepolis",
+  "persepolis"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

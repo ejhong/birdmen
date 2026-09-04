@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  6,
+  2,
+  8,
+  3,
+  10,
+  7,
+  9,
+  4,
+  5
+ ],
+ "most_similar_reason": "Candidate 1 is the only other piece whose subject is animals rendered as bulky sculptural beasts (a bird-like creature above a crouching quadruped) with no human figures or writing, echoing the target's profile animal and bird carved on the monolith.",
+ "least_similar_reason": "Candidate 5 shows nothing but neat horizontal lines of script on a round-topped slab, with no creatures, figures or pictorial imagery of any kind to compare with the target's animal reliefs.",
+ "set": "same_control_monoliths",
+ "i": 3,
+ "target": "anatolia_ppn_0027",
+ "planted": "anatolia_ppn_0263",
+ "cands": [
+  "anatolia_ppn_0263",
+  "maya_0088",
+  "maya_0111",
+  "maya_0136",
+  "egypt_0049",
+  "rapa_nui_0063",
+  "egypt_0067",
+  "gotland_0112",
+  "egypt_0071",
+  "maya_0092"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "gotland",
+  "maya",
+  "maya",
+  "egypt",
+  "rapa_nui",
+  "maya",
+  "maya",
+  "egypt",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

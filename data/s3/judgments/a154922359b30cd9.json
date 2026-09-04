@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "human figures shown in strict profile",
+  "elaborately curled/patterned hair and long beards",
+  "long robes with linear folds/fringe",
+  "hands holding bowls or shallow dishes raised before the body",
+  "small vessel or flask held in the hand",
+  "figures aligned along a single horizontal register",
+  "attendant/offering-bearer type",
+  "low relief with incised interior detail"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "7",
+ "justification": "Both depict bearded male attendants in profile with tightly patterned curled hair, long linear-folded robes, and bowls or small vessels held up in the hands, drawn in the same shallow relief with incised interior detail \u2014 a very specific offering-bearer scheme rather than a generic figure. The main difference in content is arrangement: A is a confronted pair of full-length figures facing each other across the vessels, while B is a unidirectional file of repeated bearers each wearing a close-fitting cap, with no confronted focus.",
+ "a": "assyria_0095",
+ "b": "persepolis_0012",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  863
+ ]
+}

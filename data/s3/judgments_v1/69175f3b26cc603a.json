@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "upright stone surface with decoration",
+  "horizontal band of repeated pattern",
+  "repeated vertical sign-like motifs",
+  "small triangular or chevron marks",
+  "framed or bounded central register"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The most specific correspondence is a horizontal, bounded register containing repeated vertical sign-like forms, with smaller triangular/chevron marks nearby. The biggest difference is that A is a multi-register carved relief with recognizable profile animals or figures across the slab, while B is a drawn record of a single central panel of abstract repeated marks on an otherwise largely undecorated stone.",
+ "a": "anatolia_ppn_p43full",
+ "b": "gotland_0125",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  630
+ ]
+}

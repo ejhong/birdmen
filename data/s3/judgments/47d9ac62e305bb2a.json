@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "schematic anthropomorphic slab/stela form",
+  "incised outline framing lines following the edge of the slab",
+  "horizontal band(s) crossing the body (belt-like)",
+  "circle/disc motif set centrally on the body",
+  "small isolated schematic sign/motif placed in the middle of a panel",
+  "registers of ornament stacked vertically"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces treat a vertical slab as a schematic body, with incised contour lines echoing the outline, a belt-like horizontal band across the lower torso, and small isolated motifs (a disc/circle, a cross- or T-shaped sign) set centrally within the enclosed field, which is a fairly specific shared scheme of garment/ornament rendering rather than a generic pattern. The clearest differences are that B carries an explicit sculpted head with facial and hair lines and paired circular ornaments on the chest, whereas A is a flat panel dominated by nested rectilinear frames with no head or paired features, so the specific motif vocabulary only partly overlaps.",
+ "a": "gotland_0130",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3049,
+  909
+ ]
+}

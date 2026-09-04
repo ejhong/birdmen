@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "human figure standing frontally",
+  "depiction of a human body with raised/outstretched arms"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "The only overlap is the presence of a human figure: A shows tiny schematic stick-like anthropomorphs with raised arms among boats/ships, weapons and rows of long parallel strokes, while B shows a single large low-relief standing personage in elaborate costume on a stela, accompanied by a block of framed glyph-like signs. Their subject matter (fleet of manned boats and abstract linear fields versus one dignified ruler-like figure with an inscription panel), figure proportions and rendering conventions (silhouetted outline sketch versus modelled relief portrait) share nothing specific.",
+ "a": "tanum_0340",
+ "b": "maya_0000",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  296
+ ]
+}

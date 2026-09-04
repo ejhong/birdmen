@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  7,
+  3,
+  6,
+  5,
+  10,
+  9,
+  8,
+  4,
+  1
+ ],
+ "most_similar_reason": "Candidate 2 is most similar because it also shows a low-relief figural scene with profile humans in close relationship to a profile quadruped, arranged as a narrative/processional composition rather than as isolated symbols.",
+ "least_similar_reason": "Candidate 1 is least similar because it consists mainly of schematic linear boat- or sign-like forms with no comparable naturalistic profile humans, horned animals, procession, or rosette border.",
+ "set": "related_control",
+ "i": 16,
+ "target": "persepolis_0027",
+ "planted": "assyria_0109",
+ "cands": [
+  "tanum_0049",
+  "assyria_0109",
+  "egypt_0021",
+  "tanum_0080",
+  "maya_0081",
+  "egypt_0050",
+  "anatolia_ppn_0260",
+  "egypt_0064",
+  "rapa_nui_0025",
+  "rapa_nui_0124"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "egypt",
+  "egypt",
+  "egypt",
+  "rapa_nui",
+  "maya",
+  "anatolia_ppn",
+  "tanum",
+  "rapa_nui",
+  "tanum"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

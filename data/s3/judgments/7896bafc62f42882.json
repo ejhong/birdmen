@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "circular or oval eye/disc motifs",
+  "schematic linear incisions",
+  "geometric band or curving band motifs",
+  "possible anthropomorphic face/eye features"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The most specific overlap is the use of schematic incised circular/oval motifs that can read as eyes or discs, along with simple linear and band-like ornament. The biggest difference is that A is organized as multiple horizontal registers with profile creatures and repeated geometric patterning, while B is dominated by a single frontal anthropomorphic form with chest symbols arranged symmetrically.",
+ "a": "anatolia_ppn_p43iso",
+ "b": "rapa_nui_hoa_iso",
+ "model": "gpt",
+ "set": "target_iso",
+ "usage": [
+  1672,
+  670
+ ]
+}

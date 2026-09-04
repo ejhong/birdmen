@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic curvilinear or boat-like arc with short parallel strokes",
+  "simple circular/oval signs or marks",
+  "linear geometric markings"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific possible correspondence is the use of schematic curved linear motifs with short repeated strokes, somewhat like a boat/comb form, and simple circular or oval marks. The biggest difference is that B is dominated by a frontal anthropomorphic figure or face with organized facial features, while A appears to show scattered/repeated red linear motifs without a comparable central figure or facial iconography.",
+ "a": "tanum_0030",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  667
+ ]
+}

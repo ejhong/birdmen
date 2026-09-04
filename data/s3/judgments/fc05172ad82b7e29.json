@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human figures in profile carved in low relief",
+  "garments/robes with incised drapery folds",
+  "narrative relief with multiple figures",
+  "staff- or spear-like straight objects held by figures"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both are low-relief carvings of profile human figures in long pleated garments holding straight staff- or spear-like objects, and both render drapery by incised parallel lines, which is a moderately specific shared convention. However, A shows a compact multi-register scene with a large striding figure, subordinate captives/bodies and inscription-like signs on a rounded-top field, while B shows a fragmentary parade of attendants above a row of rosettes and lacks any comparable smiting or captive grouping or sign field.",
+ "a": "egypt_0065",
+ "b": "persepolis_0017",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  294
+ ]
+}

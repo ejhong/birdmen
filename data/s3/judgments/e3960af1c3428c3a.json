@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "standing/frontal anthropomorphic figure carved on an upright monolith",
+  "elaborate headdress or headgear above the face",
+  "symmetrical composition centred on a vertical axis",
+  "circular disc/rosette motifs on the chest area",
+  "curving arms/limbs indicated across the torso",
+  "bands of ornament crossing the body horizontally"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both depict a single frontal anthropomorphic personage occupying the whole height of an upright slab, with a broad headdress at top, disc/rosette elements on the chest and horizontal ornamental bands across the lower body, which is a fairly specific shared scheme. But A is densely covered with intricate, deeply undercut interlocking scroll, mask and glyph-like motifs and small subsidiary figures, whereas B reduces everything to a few broad, shallow, highly schematic outlines with large blank areas, so the manner of depiction and level of elaboration differ sharply.",
+ "a": "maya_0019",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3024,
+  370
+ ]
+}

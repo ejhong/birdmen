@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "upright carved stone surface",
+  "profile animal or bird-like forms",
+  "horizontal bands or stripes",
+  "small circular/rounded marks"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The closest correspondence is that both are upright stone surfaces with low-relief/incised imagery including profile bird- or animal-like forms and some horizontal banding. The biggest difference is compositional: A is dominated by one large standing anthropomorphic figure beside a vertical object, while B is a crowded, multi-register field of repeated animal and abstract motifs.",
+ "a": "maya_0105",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  649
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  9,
+  1,
+  7,
+  8,
+  2,
+  10,
+  4,
+  3,
+  6
+ ],
+ "most_similar_reason": "Candidate 5 shares the target's distinctive scheme of purely linear, schematic incised outlines on a flat slab, including a horizontal register of repeated arc/U-shaped signs above straight banding, closely echoing the target's row of wave-like arcs beneath its outlined motif.",
+ "least_similar_reason": "Candidate 6 shows a tall column densely covered with stacked, ornate naturalistic faces and elaborate deep-relief detail, sharing none of the target's sparse single schematic outline motif with an arc-row and framing band.",
+ "set": "same_control_monoliths",
+ "i": 29,
+ "target": "gotland_0131",
+ "planted": "gotland_0004",
+ "cands": [
+  "anatolia_ppn_0199",
+  "egypt_0067",
+  "maya_0019",
+  "maya_0105",
+  "anatolia_ppn_0045",
+  "maya_0053",
+  "anatolia_ppn_0037",
+  "gotland_0004",
+  "anatolia_ppn_0072",
+  "rapa_nui_0049"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "maya",
+  "maya",
+  "maya",
+  "egypt",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "rapa_nui",
+  "anatolia_ppn"
+ ],
+ "model": "opus",
+ "planted_rank": 5
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  8,
+  7,
+  2,
+  4,
+  1,
+  10,
+  5,
+  3,
+  9
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it shows the same kind of frontal, highly stylized mask-like figure with paired round eyes, a central circular/scrolling feature, and broad curved bands arranged vertically on the surface.",
+ "least_similar_reason": "Candidate 9 is least similar because it depicts profile human figures with linear inscription panels, lacking the target\u2019s frontal abstract mask/torso arrangement and distinctive round-and-curving motif structure.",
+ "set": "p43_iso_among_monoliths",
+ "i": 37,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0056",
+  "maya_0149",
+  "maya_0095",
+  "maya_0060",
+  "anatolia_ppn_p43iso",
+  "maya_0069",
+  "maya_0125",
+  "maya_0019",
+  "egypt_0076",
+  "maya_0087"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 8
+}

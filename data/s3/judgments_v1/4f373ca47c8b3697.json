@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "human figure",
+  "animal in profile",
+  "circle or disc"
+ ],
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The clearest specific overlap is that both surfaces include relief-carved human and animal forms, with at least one circular motif or disc-like form among the imagery. The biggest difference is compositional: A is a vertical, stacked arrangement of schematic figures and patterned zones, while B is a horizontal narrative scene dominated by a chariot, horses, and finely linear detail.",
+ "a": "anatolia_ppn_p43full",
+ "b": "assyria_0088",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  640
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "stylized anthropomorphic or human-like figure",
+  "bird or bird-like profile forms",
+  "repeated geometric bands or zigzag/triangular patterning",
+  "outlined relief figures with internal line details"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is that both surfaces include stylized living beings with bird-like elements and repeated geometric banding rendered with outline-and-incised internal detail. The biggest difference is that A is a register-like field of separate animals, signs, and patterns, while B is a single frontal, symmetrical, elaborately dressed winged anthropomorphic figure.",
+ "a": "anatolia_ppn_p43full",
+ "b": "mississippian_0010",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1725,
+  672
+ ]
+}

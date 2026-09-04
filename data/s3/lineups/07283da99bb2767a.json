@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  3,
+  1,
+  5,
+  6,
+  10,
+  2,
+  9,
+  7,
+  8
+ ],
+ "most_similar_reason": "Candidate 4 likewise centres on a single frontal, schematically carved human figure occupying a tall upright block, with the body framed by incised panel lines rather than being part of a narrative scene, which is the closest match to the target's statue-stele with its frontal head, arms and body markings.",
+ "least_similar_reason": "Candidate 8 is a horizontal frieze of small repeated figures and zigzag banding with no single frontal anthropomorphic body, chest disc or vertical figure-shaped composition, so it shares almost nothing with the target's iconography.",
+ "set": "p43_iso_among_monoliths",
+ "i": 24,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "anatolia_ppn_p43iso",
+  "egypt_0061",
+  "gotland_0026",
+  "maya_0113",
+  "egypt_0073",
+  "egypt_0050",
+  "egypt_0070",
+  "gotland_0128",
+  "egypt_0048",
+  "gotland_0005"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "gotland",
+  "maya",
+  "gotland",
+  "egypt",
+  "gotland",
+  "egypt",
+  "egypt",
+  "egypt",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 3
+}

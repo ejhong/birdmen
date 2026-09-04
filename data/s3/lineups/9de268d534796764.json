@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  5,
+  3,
+  10,
+  1,
+  4,
+  7,
+  6,
+  8,
+  9
+ ],
+ "most_similar_reason": "Candidate 2 shares the target's core combination of small schematic quadrupeds/animals carved in shallow relief on an upright slab together with an abstract geometric emblem, drawn with the same simplified outline-and-silhouette conventions rather than naturalistic modelling.",
+ "least_similar_reason": "Candidate 9 depicts a naturalistic narrative human scene of warriors, horses and a wheeled chariot with detailed anatomy and costume, sharing none of the target's isolated animal signs, geometric symbols or register-like schematic arrangement.",
+ "set": "moai_among_random",
+ "i": 25,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "rapa_nui_0113",
+  "gotland_0026",
+  "tanum_0074",
+  "egypt_0065",
+  "gotland_0009",
+  "assyria_0120",
+  "assyria_0125",
+  "assyria_0034",
+  "assyria_0109",
+  "tanum_0128"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "assyria",
+  "tanum",
+  "assyria",
+  "gotland",
+  "assyria",
+  "tanum",
+  "egypt",
+  "assyria",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 5
+}

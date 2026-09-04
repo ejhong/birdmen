@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "quadruped animal in profile",
+  "standing human figure",
+  "horizontal band or register",
+  "carved relief on stone"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of profile quadrupeds and human figures carved in relief within horizontally organized areas. The biggest difference is that A is a finely detailed, continuous procession across a broad rectangular panel, while B is a rougher, vertically stacked pillar surface with more isolated emblematic motifs.",
+ "a": "persepolis_0075",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  476
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  10,
+  1,
+  4,
+  6,
+  5,
+  9,
+  3,
+  8,
+  2
+ ],
+ "most_similar_reason": "Candidate 7 shows a similarly simple, weathered stone with a faint anthropomorphic form emerging from the rock surface rather than elaborate carved scenes or glyphs, echoing the target's schematic, minimally detailed figure.",
+ "least_similar_reason": "Candidate 2 depicts purely abstract symmetrical spiral/scroll motifs with no anthropomorphic body, face, or limb elements, making its iconographic content fundamentally different from the target's figure-based composition.",
+ "set": "p43_iso_among_monoliths",
+ "i": 3,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "anatolia_ppn_p43iso",
+  "gotland_0117",
+  "egypt_0063",
+  "maya_0045",
+  "maya_0147",
+  "maya_0152",
+  "maya_0082",
+  "gotland_0112",
+  "egypt_0064",
+  "maya_0097"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "gotland",
+  "maya"
+ ],
+ "model": "sonnet",
+ "planted_rank": 3
+}

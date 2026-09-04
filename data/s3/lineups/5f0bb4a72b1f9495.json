@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  6,
+  9,
+  7,
+  8,
+  3,
+  4,
+  10,
+  5,
+  1
+ ],
+ "most_similar_reason": "Candidate 2, like the target, is a single upright slab whose whole face is given over to one frontal, broad-shouldered anthropomorphic figure carved in low relief, with head, arms and body rendered schematically as part of the block itself rather than as a scene.",
+ "least_similar_reason": "Candidate 1 shows nothing but a single vertical column of repeated abstract inscription signs, with no human figure, no body ornament, no disc and no relationship between depicted beings, so it shares essentially nothing with the target's schematic anthropomorph.",
+ "set": "p43_iso_among_monoliths",
+ "i": 16,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0077",
+  "maya_0087",
+  "gotland_0113",
+  "gotland_0000",
+  "gotland_0128",
+  "anatolia_ppn_p43iso",
+  "egypt_0066",
+  "egypt_0044",
+  "egypt_0073",
+  "maya_0114"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "gotland",
+  "maya",
+  "maya",
+  "egypt",
+  "gotland",
+  "gotland",
+  "egypt",
+  "maya",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

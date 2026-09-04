@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  3,
+  5,
+  7,
+  1,
+  10,
+  4,
+  2,
+  9,
+  6
+ ],
+ "most_similar_reason": "Candidate 8 shows a comparable low-relief carving of organic, possibly zoomorphic forms on a stone surface, with similar schematic rendering of rounded body-like shapes.",
+ "least_similar_reason": "Candidate 6 shows only overall geometric incised patterns with no creatures, figures, or other figurative motifs of the kind on the target.",
+ "set": "same_control_monoliths",
+ "i": 5,
+ "target": "anatolia_ppn_0207",
+ "planted": "anatolia_ppn_0142",
+ "cands": [
+  "maya_0005",
+  "anatolia_ppn_0142",
+  "rapa_nui_0069",
+  "maya_0158",
+  "maya_0047",
+  "egypt_0045",
+  "maya_0092",
+  "rapa_nui_0052",
+  "rapa_nui_0022",
+  "maya_0057"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "maya",
+  "rapa_nui",
+  "maya",
+  "rapa_nui",
+  "maya",
+  "maya",
+  "egypt",
+  "rapa_nui",
+  "maya"
+ ],
+ "model": "grok",
+ "planted_rank": 8
+}

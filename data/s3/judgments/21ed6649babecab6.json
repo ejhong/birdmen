@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "upright rounded/rectangular stone slab or stele as the field",
+  "relief carving in low relief on a monolithic slab",
+  "elongated vertical element on the stele body"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "1",
+ "justification": "Both depict an upright slab-shaped monument carrying low-relief carving arranged vertically, but the actual content differs entirely: A shows a ship with mast, rigging, a crew row of figures and a triangular-patterned hull band, while B shows a T-headed pillar with an arm-like vertical element and a single quadruped/reptile in relief clinging to the shaft. Apart from the generic fact of a carved standing stone, no specific motif, relationship or rendering convention is shared.",
+ "a": "gotland_0123",
+ "b": "anatolia_ppn_0037",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3149,
+  295
+ ]
+}

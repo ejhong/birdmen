@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "profile animal figures",
+  "standing human or anthropomorphic figure",
+  "horizontal register or band organization",
+  "repeated geometric/linear motifs",
+  "plant or tree-like form"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main correspondences are generic: both include profile animals, a possible standing human/anthropomorphic figure, horizontal divisions, and some repeated or plant-like motifs rendered in low, linear relief. The biggest difference is that A is a formal procession with humans, a large tree, and paired bovines in a continuous frieze with ornamental borders, whereas B is a stacked, more scattered panel of varied animals and abstract signs without the same processional human-animal scheme.",
+ "a": "persepolis_0000",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  691
+ ]
+}

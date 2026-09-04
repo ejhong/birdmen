@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  1,
+  10,
+  9,
+  5,
+  3,
+  2,
+  8,
+  7,
+  4
+ ],
+ "most_similar_reason": "Candidate 6 shows a large outlined relief figure dominating the stone in a schematic style with internal details, closest in composition and form to the target's profile birds and hatched geometric blocks.",
+ "least_similar_reason": "Candidate 4 shows only a simple painted linear symbol without any animals, patterned structures, or multi-element arranged scene.",
+ "set": "moai_among_random",
+ "i": 9,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "maya_0138",
+  "persepolis_0030",
+  "egypt_0044",
+  "tanum_0128",
+  "maya_0129",
+  "maya_0136",
+  "rapa_nui_0113",
+  "assyria_0100",
+  "assyria_0142",
+  "maya_0137"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "maya",
+  "assyria",
+  "persepolis",
+  "tanum",
+  "maya",
+  "assyria",
+  "egypt"
+ ],
+ "model": "grok",
+ "planted_rank": 9
+}

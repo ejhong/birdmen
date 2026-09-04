@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human figure standing/striding in profile-ish pose with legs apart",
+  "wheel or spoked circular motif",
+  "horizontal band of repeated marks along the top",
+  "weapon or long implement held by a figure"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both show anthropomorphic figures with legs apart alongside a spoked wheel/disc motif and a horizontal band of repeated marks running across the top, which is a modest but non-trivial coincidence. However, A is a dense naturalistic narrative relief of chariots, horses, archers and captives with modelled anatomy and detail, while B is a single hugely simplified stick-like figure with a plain outlined body and a disc held aloft, with no animals or narrative context and utterly different proportions and rendering conventions.",
+ "a": "assyria_0052",
+ "b": "tanum_0240",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  306
+ ]
+}

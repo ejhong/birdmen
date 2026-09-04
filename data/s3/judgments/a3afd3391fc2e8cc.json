@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "low-relief carved figures shown in strict profile facing right",
+  "bearded human-headed figure(s) with elaborately curled/patterned hair and beard",
+  "raised arm/hand gesture with articulated fingers",
+  "patterned garment or body surface rendered as repeated scale/feather-like units",
+  "animal features rendered with dense stylized texture",
+  "procession-like alignment of figures along a horizontal ground line",
+  "decorative border band framing the scene"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show low-relief profile figures on a common groundline with beards/hair rendered as tight rows of stylized curls, one hand raised and fingers carefully articulated, and dense repeated scale- or feather-like patterning filling wings, fleece and garments \u2014 a distinctly shared repertoire of conventions. The subjects differ, however: A is a single winged raptor-headed composite being holding a bucket-like object, while B is a multi-figure procession of men leading horned rams between floral rosette borders.",
+ "a": "assyria_0151",
+ "b": "persepolis_0039",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3174,
+  376
+ ]
+}

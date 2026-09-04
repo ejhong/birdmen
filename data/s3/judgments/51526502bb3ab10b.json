@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "anthropomorphic/human figure",
+  "body parts such as eyes or arms/hands",
+  "circular or disc motifs",
+  "incised linear/geometric markings"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The clearest shared content is the presence of human or human-like bodies with some circular and incised linear motifs. The major difference is that A is dominated by a single frontal, highly abstract anthropomorphic figure with geometric body markings, whereas B shows a detailed profile scene with seated figures, objects, and many sign-like motifs arranged as a narrative panel.",
+ "a": "rapa_nui_0113",
+ "b": "egypt_0073",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  571
+ ]
+}

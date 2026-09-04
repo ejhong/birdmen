@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  9,
+  6,
+  2,
+  7,
+  1,
+  10,
+  5,
+  3,
+  8
+ ],
+ "most_similar_reason": "Candidate 4 likewise shows schematic low-relief creature/arc motifs isolated on the flat face of a plain upright stone block, with no human figures, text or framing, matching the target's single profile animal rendered as a simple outlined silhouette in shallow relief.",
+ "least_similar_reason": "Candidate 8 is covered edge to edge with ordered columns of repeated script-like signs and no animal or creature imagery at all, the opposite of the target's single large profile beast on an otherwise blank surface.",
+ "set": "same_control_monoliths",
+ "i": 22,
+ "target": "anatolia_ppn_0207",
+ "planted": "anatolia_ppn_0045",
+ "cands": [
+  "egypt_0065",
+  "maya_0114",
+  "maya_0092",
+  "anatolia_ppn_0045",
+  "egypt_0043",
+  "maya_0069",
+  "gotland_0131",
+  "maya_0137",
+  "egypt_0061",
+  "egypt_0046"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "maya",
+  "gotland",
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

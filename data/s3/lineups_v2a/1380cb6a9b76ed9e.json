@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  9,
+  3,
+  7,
+  8,
+  4,
+  10,
+  6,
+  2,
+  5
+ ],
+ "most_similar_reason": "Candidate 1, like the target, is dominated by animals rendered in strict profile low relief with rounded bodies and clear outlines, arranged in a horizontal band across the surface alongside other figures, matching the target's registers of profile creatures.",
+ "least_similar_reason": "Candidate 5 shows only incised straight lines, an arc and rows of sign-like marks with no creatures or living forms at all, sharing nothing with the target's repertoire of profile animals and birds.",
+ "set": "moai_among_random",
+ "i": 19,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0108",
+  "gotland_0117",
+  "egypt_0044",
+  "assyria_0096",
+  "gotland_0002",
+  "rapa_nui_0113",
+  "assyria_0078",
+  "assyria_0146",
+  "persepolis_0062",
+  "assyria_0138"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "assyria",
+  "persepolis",
+  "assyria",
+  "gotland",
+  "egypt",
+  "gotland",
+  "assyria",
+  "assyria",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 8
+}

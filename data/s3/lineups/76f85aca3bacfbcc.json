@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  2,
+  5,
+  8,
+  10,
+  7,
+  4,
+  1,
+  6,
+  3
+ ],
+ "most_similar_reason": "Candidate 9 shows a bearded human head in strict profile rendered in shallow, crisply outlined low relief with the same conventions for hair, beard curls and eye as the profile attendants in the target's processional registers.",
+ "least_similar_reason": "Candidate 3 shows a bare wall with an animal skull and scattered small painted marks, sharing none of the target's profile human figures, animals or ordered processional registers.",
+ "set": "related_control",
+ "i": 11,
+ "target": "persepolis_0051",
+ "planted": "assyria_0123",
+ "cands": [
+  "gotland_0008",
+  "egypt_0046",
+  "catalhoyuk_0102",
+  "rapa_nui_0103",
+  "egypt_0074",
+  "tanum_0085",
+  "rapa_nui_0044",
+  "egypt_0071",
+  "assyria_0123",
+  "maya_0057"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "gotland",
+  "tanum",
+  "egypt",
+  "catalhoyuk",
+  "maya",
+  "rapa_nui",
+  "egypt",
+  "rapa_nui",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

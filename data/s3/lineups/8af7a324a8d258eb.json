@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  8,
+  1,
+  5,
+  3,
+  10,
+  7,
+  4,
+  2,
+  6
+ ],
+ "most_similar_reason": "Candidate 9 is most similar because it, like the target, emphasizes a large schematic supernatural or zoomorphic motif built from rounded eye-like forms, curving bands, and bold outlined relief rather than a primarily narrative scene or regular glyph grid.",
+ "least_similar_reason": "Candidate 6 is least similar because it consists almost entirely of a regular array of small glyph-like blocks, with no dominant frontal mask, creature body, or comparable arrangement of large curving symbolic forms.",
+ "set": "p43_iso_among_monoliths",
+ "i": 22,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "egypt_0039",
+  "maya_0125",
+  "egypt_0070",
+  "maya_0000",
+  "egypt_0064",
+  "maya_0095",
+  "maya_0113",
+  "maya_0088",
+  "anatolia_ppn_p43iso",
+  "egypt_0074"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

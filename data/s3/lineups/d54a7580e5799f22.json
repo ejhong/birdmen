@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  4,
+  9,
+  10,
+  8,
+  7,
+  5,
+  1,
+  6,
+  2
+ ],
+ "most_similar_reason": "Candidate 3 is the only other example of a fully three\u2011dimensional, naturalistically carved stone figure (a monumental head/torso) rather than a flat incised or relief drawing, matching the sculptural, full\u2011round treatment of the target's animal head.",
+ "least_similar_reason": "Candidate 2 shows a bare, undecorated stone wall with no carved or painted iconographic content at all, offering nothing comparable to the target's clearly rendered zoomorphic form.",
+ "set": "same_control",
+ "i": 2,
+ "target": "anatolia_ppn_0144",
+ "planted": "anatolia_ppn_0045",
+ "cands": [
+  "tanum_0344",
+  "egypt_0010",
+  "rapa_nui_0049",
+  "egypt_0048",
+  "tanum_0063",
+  "tanum_0351",
+  "assyria_0011",
+  "maya_0039",
+  "maya_0000",
+  "anatolia_ppn_0045"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "tanum",
+  "assyria",
+  "egypt",
+  "tanum",
+  "tanum",
+  "maya",
+  "rapa_nui"
+ ],
+ "model": "sonnet",
+ "planted_rank": 4
+}

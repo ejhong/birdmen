@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "upright slab/monolith with relief carving covering the full face",
+  "frontal human or anthropomorphic figure occupying the vertical shaft",
+  "animals rendered in profile",
+  "arms/hands rendered across the front of the body",
+  "horizontal register or band dividing the composition",
+  "dense low-relief filling of the whole surface"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "3",
+ "justification": "Both are tall upright carved slabs whose whole face is covered with low relief organised in horizontal registers, with an anthropomorphic frontal presence on the shaft and animals in profile flanking it, which gives a broadly comparable gestalt. But the specifics diverge sharply: A shows an elaborately costumed human with an individualised face, headdress, ornaments and dense glyph-like scrollwork, while B shows an abstracted armless-looking pillar-body with a belt-like band, schematic quadrupeds, a bird and a row of loop-and-boss motifs at the top, with no human face or costume at all.",
+ "a": "maya_0052",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2924,
+  374
+ ]
+}

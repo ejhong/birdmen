@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief carving on stone surface",
+  "figures shown in profile",
+  "horizontal register/band organization",
+  "repeated row of similar figures in a row",
+  "animal or creature forms in profile"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces use low relief with profile figures organized into horizontal registers, and both include a row of repeated, near-identical figures across the top; beyond that the content diverges entirely. A shows a naturalistic procession of human bearers in patterned robes carrying bowls and vessels, while B shows schematic animals (a quadruped, a bird with outstretched wing, a crouching creature) with abstract discs and a hatched band, with no human offering-bearers and no held objects.",
+ "a": "persepolis_0012",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  285
+ ]
+}

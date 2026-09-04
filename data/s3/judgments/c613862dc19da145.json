@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figure(s) in profile with elaborate headdress",
+  "dense fields of pictographic/logographic signs in ordered blocks or rows",
+  "script arranged in columns/registers flanking or beneath a figural scene",
+  "figure holding/presenting an object",
+  "ornate ceremonial costume"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces pair a profile human figure in an elaborate tall headdress with extensive fields of block-like script signs arranged in ordered columns and rows around/below the figural scene, a fairly specific documentary-monument scheme. But the depicted content differs strongly: A shows a single large, deeply modelled figure with a mask-like ornament and swirling plume filling the panel, while B shows a radiating sun disc with rayed hands over an offering table and multiple slender figures, with the vast majority of the field given to horizontal text lines; the sign forms and the rendering of bodies (blocky, ornament-encrusted vs. attenuated linear) follow quite different conventions.",
+ "a": "maya_0026",
+ "b": "egypt_0013",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3124,
+  386
+ ]
+}

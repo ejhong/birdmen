@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  5,
+  9,
+  3,
+  4,
+  7,
+  1,
+  2,
+  10,
+  8
+ ],
+ "most_similar_reason": "Candidate 6 shows a similarly schematic anthropomorphic stela with a standing figure combined with geometric checkered patterning, echoing the target's mix of abstract facial/body motifs and geometric infill on a stele-shaped stone.",
+ "least_similar_reason": "Candidate 8 is dominated by dense rows of small hieroglyphic text covering the whole surface, entirely unlike the target's large abstract figural and geometric motifs with no script.",
+ "set": "p43_iso_among_monoliths",
+ "i": 0,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0095",
+  "maya_0111",
+  "egypt_0073",
+  "maya_0051",
+  "gotland_0111",
+  "maya_0110",
+  "maya_0069",
+  "egypt_0049",
+  "anatolia_ppn_p43iso",
+  "egypt_0040"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "gotland",
+  "maya",
+  "maya"
+ ],
+ "model": "sonnet",
+ "planted_rank": 3
+}

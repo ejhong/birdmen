@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  7,
+  10,
+  4,
+  5,
+  1,
+  2,
+  9,
+  6,
+  8
+ ],
+ "most_similar_reason": "Candidate 3 is most similar because it shows a rounded-topped, register-like composition combining profile human/divine figures with dense rows of hieroglyph-like signs in a closely comparable linear relief style.",
+ "least_similar_reason": "Candidate 8 is least similar because it depicts a single frontal monumental head-and-torso figure with no narrative registers, profile figures, or repeated inscription-like signs.",
+ "set": "same_control_monoliths",
+ "i": 31,
+ "target": "egypt_0072",
+ "planted": "egypt_0042",
+ "cands": [
+  "gotland_0112",
+  "anatolia_ppn_0080",
+  "egypt_0042",
+  "maya_0092",
+  "rapa_nui_0022",
+  "anatolia_ppn_0241",
+  "maya_0097",
+  "rapa_nui_0063",
+  "rapa_nui_0069",
+  "gotland_0009"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "rapa_nui",
+  "gotland",
+  "anatolia_ppn",
+  "gotland",
+  "rapa_nui",
+  "maya",
+  "rapa_nui",
+  "maya",
+  "anatolia_ppn"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

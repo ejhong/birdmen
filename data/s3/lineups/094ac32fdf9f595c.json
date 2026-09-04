@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  9,
+  7,
+  8,
+  1,
+  4,
+  3,
+  10,
+  2,
+  5
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it likewise combines profile human figures with prominently horned animal forms in a carved, linear figural scene, echoing the target\u2019s human\u2013ram procession more than the other candidates do.",
+ "least_similar_reason": "Candidate 5 is least similar because it is dominated by a frontal architectural/mask-like form and dense ornamental structure, with no comparable procession, profile attendants, paired horned animals, or floral border.",
+ "set": "related_control",
+ "i": 12,
+ "target": "persepolis_0020",
+ "planted": "assyria_0051",
+ "cands": [
+  "egypt_0015",
+  "anatolia_ppn_0261",
+  "egypt_0048",
+  "egypt_0013",
+  "maya_0052",
+  "egypt_0044",
+  "gotland_0009",
+  "maya_0115",
+  "assyria_0051",
+  "egypt_0027"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "gotland",
+  "anatolia_ppn",
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 2
+}

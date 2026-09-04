@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "carved stone pillar/upright monolith as the decorated field",
+  "animal figures in profile carved in relief",
+  "bird-like/beaked creature",
+  "stacked or tiered composition of figures on a vertical surface",
+  "standing anthropomorphic-pillar form"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces present a vertical stone upright bearing carved figural imagery, with animal/creature forms rendered in low relief in a stacked, tiered arrangement, and both include a beaked or bird-headed creature. However, A is a flat panel densely covered with registers of distinct profile animals (quadrupeds, birds, snake-like and small human-like figures) plus a band of geometric pattern, whereas B is a single three-dimensional standing figure with a large head and arms/hands brought to the body, so the relationships and overall composition differ substantially.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0121",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2848,
+  335
+ ]
+}

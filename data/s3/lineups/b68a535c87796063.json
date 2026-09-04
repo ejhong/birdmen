@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  3,
+  10,
+  2,
+  1,
+  5,
+  9,
+  4,
+  8,
+  7
+ ],
+ "most_similar_reason": "Candidate 6 is, like the target, a tall upright carved slab/pillar covered with shallow relief carvings of small schematic creatures and signs distributed in stacked bands over the whole face, rather than a single dominant figure or scene.",
+ "least_similar_reason": "Candidate 7 shows only an inscription and a single symmetrical interlace cross motif, with no animals, creatures or figural registers of any kind, making it the furthest from the target's dense array of schematic beasts and birds.",
+ "set": "moai_iso_among_random",
+ "i": 9,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "assyria_0120",
+  "rapa_nui_hoa_iso",
+  "catalhoyuk_0039",
+  "persepolis_0080",
+  "assyria_0109",
+  "maya_0137",
+  "gotland_0003",
+  "persepolis_0093",
+  "mississippian_0001",
+  "tanum_0328"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "persepolis",
+  "maya",
+  "catalhoyuk",
+  "tanum",
+  "assyria",
+  "persepolis",
+  "mississippian",
+  "gotland",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figure in low relief, shown in profile",
+  "long robe with patterned/pleated drapery and fringed hem",
+  "hand grasping a rod- or staff-like object",
+  "incised linear detailing to indicate folds and fringes",
+  "figures arranged in a horizontal band with a subsidiary decorated/inscribed band below"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show shallow-relief human figures in profile wearing long robes whose folds and fringed hems are rendered with fine incised lines, with hands gripping slender staff-like implements, and in both the figural band is bordered below by a separate decorated band (inscription in A, a row of rosettes in B). The clearest difference in content is that A presents a legible pair of confronted bearded figures with elaborately curled hair and beards, while B preserves only the lower garment and disconnected hands plus a rosette border, so no heads, faces or facing relationship can be matched.",
+ "a": "assyria_0036",
+ "b": "persepolis_0017",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3099,
+  728
+ ]
+}

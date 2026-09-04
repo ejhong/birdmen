@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "grid of rectangular glyph blocks in rows and columns",
+  "rounded-cornered cartouche signs with internal faces/eyes",
+  "frontal human/deity face with elaborate headdress (B; face-like signs in A)",
+  "framing border band around carved panel"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both surfaces carry the same distinctive convention of square-cornered cartouche signs packed into ordered rows and columns, each filled with rounded, face-like or dotted internal motifs, and both frame the carved field with a border band; B additionally combines this glyph grid with a frontal figure in an elaborate headdress set in a niche above the text, whereas A shows only the glyph grid with no figural scene visible.  The shared sign-block grammar and rendering conventions are specific enough to suggest a common tradition, but the presence versus absence of a large central figure is the main difference in depicted content.",
+ "a": "maya_0095",
+ "b": "maya_0113",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3024,
+  349
+ ]
+}

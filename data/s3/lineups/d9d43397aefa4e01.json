@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  7,
+  4,
+  2,
+  1,
+  6,
+  5,
+  3,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 is most similar because it shares the target\u2019s formal profile relief style, with a finely outlined human figure wearing elaborate headgear/hair and linear internal detailing like the figures in the procession.",
+ "least_similar_reason": "Candidate 10 is least similar because it consists of very schematic red stick-like marks and a serpent-like line, lacking the target\u2019s naturalistic profile animal-and-human procession, rosette borders, and relief-style figure conventions.",
+ "set": "related_control",
+ "i": 33,
+ "target": "persepolis_0068",
+ "planted": "assyria_0128",
+ "cands": [
+  "egypt_0012",
+  "mississippian_0052",
+  "rapa_nui_0049",
+  "maya_0092",
+  "mississippian_0002",
+  "catalhoyuk_0025",
+  "egypt_0028",
+  "assyria_0128",
+  "egypt_0024",
+  "tanum_0344"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "mississippian",
+  "rapa_nui",
+  "egypt",
+  "egypt",
+  "catalhoyuk",
+  "maya",
+  "egypt",
+  "tanum",
+  "mississippian"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

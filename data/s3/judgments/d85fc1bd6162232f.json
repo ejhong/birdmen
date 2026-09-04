@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "human figures in profile with patterned curly hair and beards",
+  "quadruped animals shown in profile",
+  "overlapping animals arranged in file",
+  "continuous horizontal narrative frieze with ground line",
+  "figures moving in a single direction across the field",
+  "human figure holding a long staff/pole-like object",
+  "low-relief carving with incised interior detail (hair, musculature, fleece/mane)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both are continuous low-relief friezes of profile human figures accompanying overlapping quadrupeds in file along a ground line, with the same conventions for patterned curled hair and beards, incised animal coats and muscular contours, and figures carrying long staffs. The subjects differ sharply, however: A shows a violent scene with a wheeled chariot, plunging horses and sprawling fallen bodies, while B shows an orderly, static procession of men leading horned rams past a stylised tree.",
+ "a": "assyria_0039",
+ "b": "persepolis_0069",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  790
+ ]
+}

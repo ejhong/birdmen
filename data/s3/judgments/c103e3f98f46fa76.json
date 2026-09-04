@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "anthropomorphic figure",
+  "head with headdress/hat",
+  "frontal or profile representation of a human-like being",
+  "relief carving with incised linear detail"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both depict a single human-like being with a distinctive headgear rendered in relief, but that is about as far as the correspondence goes: A shows a finely detailed profile bust with naturalistic curled hair and beard, an ear-ring, an eye in profile, and a patterned garment, while B shows a blocky frontal figure whose body is covered with schematic ovals, a large concentric disc on the torso, and a tall columnar cap with vertical incised motifs. The proportions, viewpoint (profile vs frontal), and rendering conventions (curl-by-curl naturalism vs coarse abstract emblems) are quite different, so the shared 'human figure with headdress' is the kind of thing any tradition could produce independently.",
+ "a": "assyria_0105",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3024,
+  357
+ ]
+}

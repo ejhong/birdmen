@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "horizontal band of repeated triangular or chevron-like marks",
+  "register or panel containing a row of repeated vertical abstract signs",
+  "schematic linear motifs arranged in horizontal bands"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific shared content is a horizontal decorative register with repeated triangular/chevron marks, plus a band-like organization of schematic linear signs. The biggest difference is that A is dominated by recognizable profile animals and creature figures distributed over the surface, while B mainly shows an abstract central panel of repeated sign-like forms with no comparable zoomorphic scene.",
+ "a": "anatolia_ppn_p43full",
+ "b": "gotland_0125",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  666
+ ]
+}

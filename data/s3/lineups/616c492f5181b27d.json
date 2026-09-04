@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  6,
+  9,
+  8,
+  4,
+  2,
+  3,
+  10,
+  1,
+  7
+ ],
+ "most_similar_reason": "Candidate 5 is most similar because it shows a schematic linear boat-like form with a long curved hull and upturned ends, with small interior marks, closely matching the target\u2019s paired outlined vessels with recurved prows/sterns and simple infill strokes.",
+ "least_similar_reason": "Candidate 7 is least similar because it offers no clear comparable depicted subject or organized iconographic motif\u2014nothing like the target\u2019s distinctive schematic boats with repeated internal elements.",
+ "set": "same_control",
+ "i": 30,
+ "target": "tanum_0324",
+ "planted": "tanum_0026",
+ "cands": [
+  "assyria_0099",
+  "mississippian_0045",
+  "maya_0113",
+  "persepolis_0024",
+  "anatolia_ppn_0093",
+  "anatolia_ppn_0072",
+  "tanum_0026",
+  "persepolis_0100",
+  "persepolis_0007",
+  "assyria_0119"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "persepolis",
+  "anatolia_ppn",
+  "persepolis",
+  "anatolia_ppn",
+  "assyria",
+  "assyria",
+  "maya",
+  "mississippian",
+  "persepolis"
+ ],
+ "model": "gpt",
+ "planted_rank": 10
+}

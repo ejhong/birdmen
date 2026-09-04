@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  2,
+  3,
+  9,
+  1,
+  8,
+  10,
+  6,
+  5,
+  7
+ ],
+ "most_similar_reason": "Candidate 4 is most similar because it shows a tall upright decorated figure/pillar with schematic relief motifs arranged vertically over a body-like surface, closest to the target\u2019s frontal anthropomorphic, glyph-covered stele-like composition.",
+ "least_similar_reason": "Candidate 7 is least similar because it lacks the target\u2019s recognizable frontal anthropomorphic figure, facial/torso motifs, and organized iconographic decoration, showing mainly indistinct linear markings on a rock face.",
+ "set": "p43_among_random",
+ "i": 3,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "egypt_0056",
+  "assyria_0115",
+  "tanum_0240",
+  "anatolia_ppn_p43full",
+  "persepolis_0007",
+  "persepolis_0051",
+  "egypt_0020",
+  "persepolis_0097",
+  "egypt_0064",
+  "persepolis_0047"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "tanum",
+  "egypt",
+  "assyria",
+  "egypt",
+  "persepolis",
+  "persepolis",
+  "persepolis",
+  "egypt",
+  "persepolis"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

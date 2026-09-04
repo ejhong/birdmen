@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  5,
+  10,
+  3,
+  4,
+  1,
+  9,
+  6,
+  7,
+  8
+ ],
+ "most_similar_reason": "Candidate 2, like the target, is a monolithic standing pillar that is itself an abstracted anthropomorphic body, with schematic low-relief symbols and creature motifs carved onto its broad flat surfaces (including arm-like curved bands running down the sides) rather than a scene set within a framed panel.",
+ "least_similar_reason": "Candidate 8 shows only dense horizontal rows of repeated wedge-like written signs with no figures, bodies, creatures or emblematic motifs, sharing nothing with the target's anthropomorphic form and its curvilinear ring and figure symbols.",
+ "set": "p43_among_random",
+ "i": 24,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "assyria_0102",
+  "anatolia_ppn_p43full",
+  "tanum_0338",
+  "tanum_0237",
+  "maya_0130",
+  "persepolis_0082",
+  "persepolis_0097",
+  "egypt_0016",
+  "assyria_0139",
+  "maya_0149"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "assyria",
+  "maya",
+  "assyria",
+  "maya",
+  "tanum",
+  "persepolis",
+  "egypt",
+  "tanum",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

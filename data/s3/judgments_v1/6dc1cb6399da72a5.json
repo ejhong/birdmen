@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "low-relief carving on a vertical stone surface",
+  "repeated abstract curvilinear signs or motifs",
+  "oval/circular motifs",
+  "stacked horizontal rows or registers of decoration"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The most specific correspondence is that both surfaces are upright stone slabs/pillars covered with shallow relief motifs arranged in stacked zones, including small rounded or oval forms. The biggest difference is that A is dominated by a regular grid of compact inscription-like signs, while B is organized around large, irregularly placed figurative animals and a human-like form with only limited banding.",
+ "a": "maya_0077",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  664
+ ]
+}

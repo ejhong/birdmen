@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  1,
+  3,
+  9,
+  7,
+  2,
+  4,
+  10,
+  5,
+  8
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it shares the target\u2019s distinctive schematic boat-like motif with upright human figures and animal-headed or bird-like ends, rendered as simple linear iconography rather than a naturalistic scene.",
+ "least_similar_reason": "Candidate 8 is least similar because it shows little recognizable figural or symbolic content comparable to the target\u2019s arranged registers of boats, animals, and schematic figures.",
+ "set": "moai_iso_among_random",
+ "i": 12,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0043",
+  "egypt_0032",
+  "persepolis_0010",
+  "persepolis_0012",
+  "egypt_0060",
+  "tanum_0321",
+  "assyria_0131",
+  "egypt_0007",
+  "persepolis_0032",
+  "rapa_nui_hoa_iso"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "persepolis",
+  "egypt",
+  "egypt",
+  "persepolis",
+  "persepolis",
+  "egypt",
+  "tanum",
+  "assyria",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 8
+}

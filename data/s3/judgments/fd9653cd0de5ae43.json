@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic animals in profile",
+  "rows of repeated short strokes or comb-like marks",
+  "horizontal linear bands/register-like elements"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is the use of simplified profile animals together with repeated short stroke patterns arranged along horizontal lines. The major difference is that B is dominated by boat-like forms with curled ends and figures/marks riding in or on them, while A is a vertical field of separate animal and sign motifs with no comparable boat scene or central vehicle motif.",
+ "a": "anatolia_ppn_p43full",
+ "b": "tanum_0049",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  658
+ ]
+}

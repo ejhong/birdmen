@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  7,
+  9,
+  8,
+  3,
+  10,
+  2,
+  5,
+  4,
+  6
+ ],
+ "most_similar_reason": "Candidate 1 shows the same distinctive concept as the target: a monolithic upright pillar carved in low relief as a schematic anthropomorphic body, with arms bending round the shaft toward the front, a belt-like band across the lower body and additional creature/symbol motifs on the shaft.",
+ "least_similar_reason": "Candidate 6 shows essentially no figural carving at all \\u001b\\u2014 just a plain wall with small objects and a skull \\u2014 sharing none of the target's schematic standing body, arms, hands, belt or symbolic motifs.",
+ "set": "p43_among_random",
+ "i": 6,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "anatolia_ppn_p43full",
+  "assyria_0052",
+  "persepolis_0025",
+  "tanum_0052",
+  "assyria_0039",
+  "catalhoyuk_0102",
+  "mississippian_0007",
+  "assyria_0000",
+  "assyria_0112",
+  "persepolis_0039"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "assyria",
+  "catalhoyuk",
+  "assyria",
+  "mississippian",
+  "persepolis",
+  "tanum",
+  "persepolis",
+  "assyria",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

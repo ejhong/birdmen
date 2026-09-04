@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "quadruped animals",
+  "human or humanoid figure with arms/hands",
+  "snake or serpentine element",
+  "human head/face",
+  "vertically stacked tiers of creatures",
+  "incised net/hatched patterning"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces stack the same repertoire of motifs vertically \u2014 animals (including a quadruped with snout and limbs) placed above a human-like figure whose arms and hands are shown, plus serpentine/hatched incised elements \u2014 and in both the animal appears to dominate or overhang the human element, which is a fairly specific shared scheme. The biggest difference in depicted content is the mode of figuring: A presents flat profile creatures in registers across a rectangular field with a band of zigzag/net pattern separating them, while B presents a frontal, fully modelled human head being clasped, with no register bands and no profile animal frieze.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0267",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2848,
+  859
+ ]
+}

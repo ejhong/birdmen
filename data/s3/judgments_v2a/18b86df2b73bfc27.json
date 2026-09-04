@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "low-relief carved figures on a rectangular surface",
+  "animals in profile",
+  "quadruped bodies with visible limbs",
+  "arms/forelimbs raised or extended",
+  "figures arranged in a horizontal row/register",
+  "schematic anthropomorphic-like figure with raised arms",
+  "head shown in profile with prominent snout/beak"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces present a horizontal frieze of relief figures with prominent snouted/beaked profile heads, quadruped or crouching bodies and conspicuously raised, splayed arms or forelimbs, rendered in a comparably schematic low relief with strong outline and little internal detail. However, A stacks several distinct registers including an upper row of animal-headed blocks, a band of hatched/geometric pattern and isolated animals (bird, snake-like curves), whereas B shows a single continuous row of similar figures apparently linked or reaching toward one another along an upper edge, without any geometric band or multi-tier composition.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0276",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3048,
+  395
+ ]
+}

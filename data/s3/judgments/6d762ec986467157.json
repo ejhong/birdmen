@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief carving on a tall vertical pillar-like surface",
+  "circular disc in relief",
+  "schematic animal/creature forms in relief",
+  "vertically stacked/registered composition",
+  "raised outline relief with flat interiors"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both surfaces carry schematic low-relief imagery on a tall vertical monolithic surface, and both include a prominent plain disc in relief plus rather ambiguous animal-like forms rendered as raised outlines with flat interiors. The decisive difference is organisation and subject: A is a multi-register narrative frieze of profile animals, a bird, a squatting figure and a zigzag band, whereas B is a single anthropomorphic figure with head, arms converging on the body and a pendant disc, with no registers or profile animal parade.",
+ "a": "anatolia_ppn_p43iso",
+ "b": "rapa_nui_hoa_iso",
+ "model": "opus",
+ "set": "target_iso",
+ "usage": [
+  2799,
+  910
+ ]
+}

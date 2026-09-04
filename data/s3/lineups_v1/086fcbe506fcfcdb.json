@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  9,
+  7,
+  2,
+  1,
+  5,
+  10,
+  6,
+  3,
+  4
+ ],
+ "most_similar_reason": "Candidate 8 shares the target's defining features: large animal bodies rendered in shallow, rounded low relief on a rough, weathered pale stone surface seen in situ, with the creature's form emerging from an otherwise plain ground.",
+ "least_similar_reason": "Candidate 4 is a flat, brightly coloured graphic of human figures with no carved stone surface, no relief modelling and no animal imagery, making it the furthest from the target's monochrome sculpted monolith.",
+ "set": "moai_among_random",
+ "i": 18,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "egypt_0040",
+  "tanum_0074",
+  "egypt_0014",
+  "mississippian_0052",
+  "persepolis_0080",
+  "assyria_0035",
+  "persepolis_0064",
+  "assyria_0011",
+  "rapa_nui_0113",
+  "persepolis_0073"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "persepolis",
+  "egypt",
+  "persepolis",
+  "persepolis",
+  "assyria",
+  "mississippian",
+  "egypt",
+  "tanum",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

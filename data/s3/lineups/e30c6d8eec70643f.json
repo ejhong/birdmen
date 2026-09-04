@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  9,
+  6,
+  3,
+  4,
+  7,
+  10,
+  8,
+  2,
+  1
+ ],
+ "most_similar_reason": "Candidate 5 is most similar because it likewise shows a tall, frontal, highly schematic anthropomorphic monument with carved facial/body features and geometric bands arranged vertically on the figure.",
+ "least_similar_reason": "Candidate 1 is least similar because it depicts a naturalistic profile human head with beard and headdress rather than a frontal full-body schematic figure with abstract torso markings.",
+ "set": "p43_among_random",
+ "i": 18,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "persepolis_0066",
+  "assyria_0105",
+  "gotland_0000",
+  "maya_0127",
+  "anatolia_ppn_p43full",
+  "egypt_0048",
+  "assyria_0118",
+  "egypt_0018",
+  "maya_0149",
+  "tanum_0061"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "tanum",
+  "assyria",
+  "persepolis",
+  "egypt",
+  "maya",
+  "egypt",
+  "gotland",
+  "maya",
+  "assyria"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  8,
+  10,
+  7,
+  2,
+  1,
+  9,
+  4,
+  6,
+  3
+ ],
+ "most_similar_reason": "Candidate 5 likewise presents a stele-shaped field divided by framing bands of repeated geometric ornament, with small quadrupeds shown flatly in strict profile as isolated schematic emblems rather than in a narrative scene, matching the target's register-by-register array of profile animals and patterned strip.",
+ "least_similar_reason": "Candidate 3 shows a single large, naturalistically modelled human body in the round with musculature, arm gesture and drapery, sharing none of the target's flat, schematic profile animals, sign-like emblems or horizontal register organisation.",
+ "set": "moai_iso_among_monoliths",
+ "i": 35,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0091",
+  "maya_0005",
+  "mississippian_0015",
+  "maya_0101",
+  "gotland_0113",
+  "gotland_0133",
+  "egypt_0014",
+  "egypt_0064",
+  "maya_0111",
+  "rapa_nui_hoa_iso"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "maya",
+  "gotland",
+  "mississippian",
+  "maya",
+  "gotland",
+  "egypt",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 3
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "profile animal or bird forms",
+  "serpent-like or elongated animal signs",
+  "small schematic signs arranged in horizontal rows or bands",
+  "simple geometric/linear motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both surfaces use schematic incised/profile creature forms and small linear signs organized at least partly in horizontal bands. The biggest difference is that A is a sparse composition of large isolated animals and figure-like forms on a pillar-like surface, while B is overwhelmingly a dense field of many small repeated signs with no matching large iconographic scheme or specific figure relationships.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0010",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  670
+ ]
+}

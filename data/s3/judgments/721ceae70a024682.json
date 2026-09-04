@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human/anthropomorphic figures",
+  "low-relief carving on a stone slab/monument",
+  "elaborate headdress or headgear",
+  "ornaments worn on the chest/body",
+  "circular disc motifs",
+  "horizontal registers or banding of motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict anthropomorphic figures rendered in shallow, schematic low relief with elaborate headgear, worn chest ornaments and disc-like circular elements, and both organise motifs into horizontal zones. However A is a multi-figure narrative scene in profile arranged above a band of repeated glyph-like signs, while B is a single frontal three-dimensional bust whose body surface carries an isolated symmetrical arrangement of ornaments, so the compositional schemes and figure conventions differ substantially.",
+ "a": "maya_0115",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3174,
+  330
+ ]
+}

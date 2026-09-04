@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human hand in profile grasping a small object",
+  "fringed/tasselled garment edge with rows of hanging elements",
+  "rosette or floral motifs arranged in a band",
+  "dense repeated incised detail rendering textile/feather patterning",
+  "vertical band of decorative motifs beside a figure"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "7",
+ "justification": "Both surfaces show the same specific repertoire: a profile human hand with carefully separated fingers gripping a small object, richly fringed and tasselled robe edges rendered as rows of tight repeated strokes, and rosette/floral motifs set in bands beside the figure, all in an identically fine, low-relief incised convention. The main difference in depicted content is that A is only a fragment dominated by a broad register of dense repeated sign-like marks across the surface, with no complete figure, whereas B shows a whole winged, bearded standing figure with one arm raised, so the overall composition can only be inferred rather than matched.",
+ "a": "assyria_0015",
+ "b": "assyria_0157",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3224,
+  828
+ ]
+}

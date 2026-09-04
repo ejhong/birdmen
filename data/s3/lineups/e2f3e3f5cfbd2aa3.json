@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  4,
+  3,
+  2,
+  7,
+  5,
+  1,
+  9,
+  10,
+  6
+ ],
+ "most_similar_reason": "Candidate 8 uses similar stylistic conventions for rendering textured forms in profile.",
+ "least_similar_reason": "Candidate 6 lacks a comparable detailed two-dimensional figurative scene.",
+ "set": "related_control",
+ "i": 19,
+ "target": "persepolis_0095",
+ "planted": "assyria_0035",
+ "cands": [
+  "rapa_nui_0047",
+  "maya_0085",
+  "maya_0083",
+  "egypt_0070",
+  "mississippian_0000",
+  "catalhoyuk_0102",
+  "gotland_0133",
+  "assyria_0035",
+  "rapa_nui_0049",
+  "tanum_0054"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "mississippian",
+  "rapa_nui",
+  "gotland",
+  "tanum",
+  "catalhoyuk",
+  "rapa_nui",
+  "maya",
+  "egypt"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

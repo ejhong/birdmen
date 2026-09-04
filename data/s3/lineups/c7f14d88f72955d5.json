@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  10,
+  6,
+  7,
+  9,
+  8,
+  1,
+  4,
+  5,
+  3
+ ],
+ "most_similar_reason": "Candidate 2 is, like the target, a low-relief panel showing human figures in strict profile combined with animals in a processional, register-like composition, with the same convention of overlapping bodies and incised interior detail.",
+ "least_similar_reason": "Candidate 3 shows only plain blocks and rock surface with no figures, animals or ornament at all, so it shares no depicted subject matter with the target's procession of men and rams.",
+ "set": "related_control",
+ "i": 16,
+ "target": "persepolis_0027",
+ "planted": "assyria_0109",
+ "cands": [
+  "tanum_0049",
+  "assyria_0109",
+  "egypt_0021",
+  "tanum_0080",
+  "maya_0081",
+  "egypt_0050",
+  "anatolia_ppn_0260",
+  "egypt_0064",
+  "rapa_nui_0025",
+  "rapa_nui_0124"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "egypt",
+  "egypt",
+  "egypt",
+  "rapa_nui",
+  "maya",
+  "anatolia_ppn",
+  "tanum",
+  "rapa_nui",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

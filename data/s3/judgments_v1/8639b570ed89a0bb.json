@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "relief-carved decorated surface",
+  "horizontal band of geometric pattern",
+  "triangular/chevron-like motifs",
+  "animal or bird forms in profile",
+  "small circular or spiral/disc-like motifs"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of relief carving with horizontal geometric bands, including repeated triangular or chevron-like patterning, alongside profile creatures. The biggest difference is compositional: A is sparse and vertically tiered on a tall upright surface, while B is a dense framed scene organized around a central tree-like form with many figures and curvilinear ornaments.",
+ "a": "anatolia_ppn_p43full",
+ "b": "maya_0028",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1151,
+  665
+ ]
+}

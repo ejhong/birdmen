@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "low-relief carved figures in profile",
+  "horizontal register divided by an ornamental band",
+  "repeated row of similar figures facing the same direction",
+  "animals/creatures rendered in profile (A) alongside profile figures (B)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces organise profile figures into stacked horizontal registers separated by a decorated band, with elements repeated in a row facing consistently one way, which is the only real correspondence. But the depicted content differs fundamentally: A shows highly schematic animals (a predator, small quadruped, snake-like form, bird head, plant/branch) with a zigzag-net band, while B shows a procession of naturalistically proportioned costumed human figures carrying weapons above a rosette band, with no animals at all.",
+ "a": "anatolia_ppn_p43full",
+ "b": "persepolis_0018",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  734
+ ]
+}

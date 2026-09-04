@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  5,
+  6,
+  10,
+  9,
+  8,
+  2,
+  4,
+  1,
+  3
+ ],
+ "most_similar_reason": "Candidate 7 depicts a single standing human figure with headdress and decorated torso filling the surface, matching the target's human head, large central circular body motif, and lower garment-like bands in arrangement and figural focus.",
+ "least_similar_reason": "Candidate 3 shows a large isolated vessel-like or abstract central motif with no human figure, face, headdress, or circular body ornament, sharing almost none of the target's depicted elements.",
+ "set": "p43_iso_among_monoliths",
+ "i": 5,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0149",
+  "egypt_0072",
+  "gotland_0112",
+  "maya_0147",
+  "maya_0110",
+  "maya_0158",
+  "maya_0130",
+  "anatolia_ppn_p43iso",
+  "egypt_0068",
+  "maya_0115"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya"
+ ],
+ "model": "grok",
+ "planted_rank": 6
+}

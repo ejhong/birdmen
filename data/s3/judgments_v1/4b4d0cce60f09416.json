@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "horizontal bands or registers of small repeated signs/patterns",
+  "standing or anthropomorphic figure",
+  "animal-like figures in profile",
+  "linear/incised surface decoration"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The closest correspondence is that both are vertical decorated surfaces using horizontal bands/registers together with simplified figural motifs, including human-like and animal-like forms. The biggest difference is that A is a finely organized, densely inscribed line composition with a top scene and many text rows, while B is a rough carved stone surface with large, sparse relief figures and no comparable overall layout.",
+ "a": "egypt_0015",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1124,
+  661
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "carved relief on a stone surface",
+  "horizontal register or band",
+  "profile human or anthropomorphic figure",
+  "repeated geometric ornament",
+  "small circular or disc-like motif"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces are relief-carved stone panels using horizontal divisions and some profile figures or figure-like forms alongside patterned ornament. The biggest difference is that A is a crowded, rough, highly schematic composition of mixed signs and animals, while B is a much more orderly, shallow, naturalized procession of standing human figures.",
+ "a": "anatolia_ppn_p43full",
+ "b": "persepolis_0071",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1124,
+  656
+ ]
+}

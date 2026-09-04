@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "standing human figure in elaborate costume",
+  "figure holding an object in the hands",
+  "ornate headdress",
+  "jewellery/beaded ornaments (necklaces, bracelets)",
+  "relief carving on a flat upright panel",
+  "decorative fringed/patterned garment hems",
+  "glyph-like inscribed signs within the field"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict elaborately costumed standing human figures in relief with headdresses, bracelets and necklaces, holding objects, accompanied by inscribed sign-like elements. But A is a single frontal figure standing on a crouching captive, engulfed in dense curvilinear ornament that nearly dissolves the body, while B shows two bearded figures in strict profile facing each other across a raised offering, drawn in clean linear outline with orderly patterned drapery and a horizontal text band \u2014 different figure counts, orientation, and wholly different ornamental conventions.",
+ "a": "maya_0051",
+ "b": "assyria_0095",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3124,
+  356
+ ]
+}

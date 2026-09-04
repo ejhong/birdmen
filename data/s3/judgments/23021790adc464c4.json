@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "schematic animal/creature figures",
+  "possible multi-legged arthropod-like creature",
+  "standing or stick-like anthropomorphic figure",
+  "linear geometric signs",
+  "horizontal/diagonal boundary lines or bands"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both surfaces combine schematic creatures, including a possible multi-legged arthropod-like form, with simple linear signs and human-like stick figures. The biggest difference is that A is organized into denser registers with birds/animals, patterned bands, and emblematic motifs, while B is a looser scatter of stick figures and signs under diagonal boundary lines with no matching scene or sequence.",
+ "a": "anatolia_ppn_p43full",
+ "b": "tanum_0008",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  1720
+ ]
+}

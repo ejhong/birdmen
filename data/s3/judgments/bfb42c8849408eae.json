@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "schematic incised/low-relief decoration on an anthropomorph-shaped monolith",
+  "circular/disc motif set centrally on the front",
+  "paired symmetrical elements flanking a central object",
+  "horizontal band/register dividing the lower part of the surface",
+  "small framed panels with geometric (cross/hatched) infill",
+  "strict bilateral symmetry about a vertical axis"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces present a bilaterally symmetrical, purely schematic scheme on a vertically oriented anthropomorph-shaped block, with a central circular/rectangular object flanked by paired motifs and a horizontal banded register with geometric infill below. The decisive difference is that B explicitly depicts a human figure with head, face, hair, arms and pendant ornaments, whereas A depicts no body parts at all, only a framed handled object and grid panels within a bordered field.",
+ "a": "gotland_0112",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3174,
+  1064
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  5,
+  8,
+  1,
+  3,
+  10,
+  7,
+  6,
+  4,
+  9
+ ],
+ "most_similar_reason": "Candidate 2 is most similar because it shows the same distinctive schematic long boat forms with raised ends and rows of short vertical crew-like strokes, repeated horizontally across the surface.",
+ "least_similar_reason": "Candidate 9 is least similar because it depicts only a single human head or bust, with none of the target\u2019s repeated boat imagery, linear crew marks, or surface arrangement.",
+ "set": "same_control",
+ "i": 25,
+ "target": "tanum_0076",
+ "planted": "tanum_0037",
+ "cands": [
+  "egypt_0062",
+  "gotland_0018",
+  "persepolis_0015",
+  "assyria_0160",
+  "persepolis_0043",
+  "maya_0047",
+  "egypt_0056",
+  "tanum_0037",
+  "anatolia_ppn_0239",
+  "persepolis_0020"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "persepolis",
+  "gotland",
+  "persepolis",
+  "assyria",
+  "anatolia_ppn",
+  "egypt",
+  "egypt",
+  "persepolis"
+ ],
+ "model": "gpt",
+ "planted_rank": 3
+}

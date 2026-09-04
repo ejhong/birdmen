@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "vertical decorated slab or panel",
+  "horizontal bands/registers of marks",
+  "repeated small sign-like motifs",
+  "standing human figure",
+  "bird or animal in profile",
+  "circle or disc-like form"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces combine a vertical format with incised or relief figures and horizontal bands of repeated sign-like marks, including profile creatures and human figures. The biggest difference is that B is a highly regular, symmetrical composition with a clear top scene and dense ruled rows below, while A is rougher, more irregular, and much more sparsely organized.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0014",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1124,
+  572
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  1,
+  9,
+  7,
+  2,
+  6,
+  5,
+  3,
+  8,
+  10
+ ],
+ "most_similar_reason": "Both feature stylized, low-relief carvings on a vertical, pillar-like format.",
+ "least_similar_reason": "A three-dimensional naturalistic statue differs entirely from flat, schematic reliefs.",
+ "set": "moai_close_among_random",
+ "i": 22,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "egypt_0039",
+  "egypt_0000",
+  "tanum_0119",
+  "rapa_nui_0004",
+  "assyria_0011",
+  "assyria_0047",
+  "maya_0005",
+  "tanum_0005",
+  "egypt_0050",
+  "mississippian_0015"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "mississippian",
+  "assyria",
+  "tanum",
+  "assyria",
+  "egypt",
+  "egypt",
+  "egypt",
+  "tanum",
+  "maya"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

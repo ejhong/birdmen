@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "upright decorated stone surface",
+  "low-relief/incised carving",
+  "profile figures",
+  "animal or bird forms",
+  "human or anthropomorphic figure",
+  "small circular or oval motif"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest correspondence is that both are upright stone surfaces carved in shallow relief with profile figures, including animal/bird-like forms and at least some human or anthropomorphic imagery. The biggest difference is compositional: A is organized more as stacked bands and isolated emblematic motifs, while B is a crowded narrative scene with multiple interacting human figures under a rounded top.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0044",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  660
+ ]
+}

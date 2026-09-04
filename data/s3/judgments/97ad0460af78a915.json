@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "human figure in profile",
+  "stylized tree with schematic repeating foliage",
+  "curled/beaded hair and beard rendering",
+  "patterned scale-like or overlapping infill on a surface (feathers / fleece)",
+  "low-relief frieze of figures in profile facing one direction",
+  "figure with arm extended toward an adjacent element",
+  "banded register with decorative border/edging"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show profile figures in a shallow frieze standing beside a highly stylized tree rendered as tightly repeated leaf/palmette units, with the same conventions for curled hair, patterned garment or pelt infill, and outlined musculature, which is a fairly specific shared manner of depiction. The chief difference in content is that A depicts a single winged, animal-headed hybrid holding a bucket before the tree, while B depicts a narrative procession of ordinary bearded men leading horned rams above a rosette border.",
+ "a": "assyria_0134",
+ "b": "persepolis_0020",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3174,
+  757
+ ]
+}

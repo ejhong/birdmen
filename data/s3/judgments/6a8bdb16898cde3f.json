@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "schematic boat/ship with upturned prow and stern",
+  "crew shown as vertical stroke-lines along the hull",
+  "small schematic human figures with outstretched arms",
+  "circle/disc motif",
+  "rows of repeated short strokes or cupmarks",
+  "figures with raised arms holding or near an object",
+  "large panel of scattered carvings on rock surface"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "8",
+ "justification": "Both surfaces show the same distinctive repertoire: long schematic boats with in-curving prow/stern and crew rendered as a row of vertical strokes along the hull, accompanied by small stick-like human figures with raised or outstretched arms, discs/circles and rows of repeated small marks, drawn with the same flat outline-and-stroke convention on an open rock panel. The chief difference is emphasis and relationship: A is dominated by one huge boat with the human figures small and peripheral, while B foregrounds large striding/limbed human figures with a big circle beside them, the boats being relegated to the upper zone.",
+ "a": "tanum_0339",
+ "b": "tanum_0347",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3174,
+  383
+ ]
+}

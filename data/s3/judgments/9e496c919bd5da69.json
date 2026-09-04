@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "large stylized anthropomorphic figure",
+  "rectangular/block-like head",
+  "paired circular or oval chest features",
+  "central circular/ring motif on torso",
+  "curved horizontal bands across lower torso",
+  "short vertical incised lines beneath the curved bands",
+  "linear markings on the head/upper body"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "9",
+ "justification": "Both surfaces show the same highly specific iconographic scheme: a schematic human-like figure with a block head, paired circular chest marks, a central ring on the torso, and nested curved bands with short vertical strokes below. The main difference is that the head and upper-body incisions are much clearer and more numerous in B, while in A they are faint or less visible.",
+ "a": "rapa_nui_0045",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  629
+ ]
+}

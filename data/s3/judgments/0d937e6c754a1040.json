@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "front-facing anthropomorphic figure or body on a monolithic surface",
+  "head with incised facial/hair details",
+  "paired round breast/pectoral circles on upper torso",
+  "central circular disc or pendant below the chest",
+  "curved horizontal band or belt across the torso",
+  "short vertical pendant/tassel-like motifs hanging below the band",
+  "schematic incised linear decoration arranged symmetrically"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "9",
+ "justification": "The strongest correspondence is the same schematic human-like torso scheme: paired upper round marks flank a central disc, with a broad curved band beneath and vertical pendant-like marks below, all under an incised head. The main difference is that some upper head/side details and lower-body markings are differently visible or emphasized, so the match is not judged as a perfect one-to-one surface reading.",
+ "a": "rapa_nui_0113",
+ "b": "rapa_nui_0062",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1936,
+  657
+ ]
+}

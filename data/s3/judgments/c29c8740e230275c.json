@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic front-facing anthropomorphic or face-like form",
+  "central vertical line or staff-like motif",
+  "horizontal band(s) across the figure",
+  "repeated short linear/triangular marks"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The most specific correspondence is a schematic upright, front-facing figure-like form with central vertical marking and horizontal bands or repeated incised marks across the middle. The biggest difference is that B clearly shows a full anthropomorphic body with circular breast/eye-like features and curved torso bands, whereas A is much more abstract, dominated by a cross/staff above a comb-like band and triangles, with no matching circular body features.",
+ "a": "gotland_0123",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  685
+ ]
+}

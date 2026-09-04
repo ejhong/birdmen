@@ -1,0 +1,19 @@
+{
+ "shared_elements": [
+  "curving linear motifs",
+  "carved decoration on an upright stone surface"
+ ],
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "The only real correspondence is that both are upright stone surfaces bearing carved or incised curving lines; no specific motif in A clearly matches the animals, registers, or relief figures visible in B. The biggest difference is that A is an abstract, symmetrical, interlaced geometric design, while B is an asymmetrical figurative relief with animals and horizontal bands.",
+ "a": "gotland_0005",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1098,
+  642
+ ]
+}

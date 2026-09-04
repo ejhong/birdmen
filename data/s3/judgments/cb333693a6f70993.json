@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "anthropomorphic or human-like figure/body parts",
+  "circular or disc-like motifs",
+  "incised linear/geometric details"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The only real overlap is generic: both include a human-like or body-like form with carved/incised linear detailing and some circular motifs. The biggest difference is that A is a frontal, highly abstract face/body-like monolith dominated by symmetrical circles and bands, while B is a profile standing figure interacting with a plant/tree and holding objects, with no comparable central iconographic scheme.",
+ "a": "rapa_nui_0113",
+ "b": "assyria_0115",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  665
+ ]
+}

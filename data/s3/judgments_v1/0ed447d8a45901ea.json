@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "circle or disc",
+  "rows of short parallel strokes or comb-like hatching",
+  "curved linear motifs"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific shared features are repeated short parallel strokes\u2014used as internal hatching or fringe-like patterning\u2014and small circular/disc forms. The biggest difference is that A is a scattered red painted line composition dominated by boat-like curved figures and dots, while B is a carved relief organized in stacked horizontal registers with larger animal-like and abstract forms.",
+ "a": "tanum_0328",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  1105
+ ]
+}

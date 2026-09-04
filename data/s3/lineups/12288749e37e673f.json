@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  3,
+  1,
+  4,
+  5,
+  2,
+  9,
+  7,
+  10,
+  8
+ ],
+ "most_similar_reason": "Candidate 6 is a round-topped slab whose face is divided into horizontal registers filled with small incised sign-like elements and figures, matching the target's arched stele format with a figural upper field over banded lines of script.",
+ "least_similar_reason": "Candidate 8 shows only a sculpted head carved in the round with modelled facial features, with no flat relief scene, no paired figures with offerings, and no rows of inscribed signs of the kind that define the target.",
+ "set": "same_control_monoliths",
+ "i": 0,
+ "target": "egypt_0066",
+ "planted": "egypt_0047",
+ "cands": [
+  "maya_0158",
+  "gotland_0131",
+  "maya_0092",
+  "maya_0111",
+  "maya_0088",
+  "egypt_0047",
+  "anatolia_ppn_0267",
+  "anatolia_ppn_0260",
+  "anatolia_ppn_0093",
+  "anatolia_ppn_0261"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "anatolia_ppn",
+  "gotland",
+  "anatolia_ppn",
+  "maya",
+  "maya",
+  "anatolia_ppn",
+  "maya",
+  "anatolia_ppn"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figures in profile",
+  "horses/quadrupeds with figures",
+  "wheeled vehicle / chariot with spoked wheel",
+  "weapons (bow, spear-like forms)",
+  "carved relief scene arranged in horizontal registers",
+  "procession of figures moving in one direction"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both show a horse-drawn conveyance with a spoked wheel accompanied by armed human figures in profile, with weapons and a directional procession, which is a fairly specific correspondence. But A is a single naturalistic narrative frieze of archers, horses and a chariot filling the whole panel, while B is a rounded stone divided into a small upper figural register above a large field entirely occupied by dense interlaced ribbon/serpent ornament, which has no counterpart in A.",
+ "a": "assyria_0047",
+ "b": "gotland_0122",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  314
+ ]
+}

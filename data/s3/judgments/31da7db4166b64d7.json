@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "human figures shown in profile",
+  "elaborately curled/beaded hair and beard rendered as rows of tight curls",
+  "low relief carving of processional figures",
+  "figures with arms extended forward",
+  "patterned garment/textile detail rendered by incised repeating motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show bearded/curly-haired human figures in strict profile low relief, with hair and beard rendered as identical rows of stacked ringlets and drapery marked by fine incised repeating patterns \u2014 a highly conventional and specific shared manner of depiction. However, the depicted scenes differ: A is a close-up of one or two large frontal-torso figures with raised arm and no animals or setting, whereas B is a horizontal procession of small attendants leading horned rams past a conical tree above a rosette border.",
+ "a": "assyria_0036",
+ "b": "persepolis_0069",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3099,
+  320
+ ]
+}

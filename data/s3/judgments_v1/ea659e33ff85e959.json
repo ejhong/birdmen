@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "standing or striding human/anthropomorphic figure",
+  "profile animal figure",
+  "curving or serpentine form",
+  "raised or extended limbs/arms",
+  "low-relief/incised decoration on a hard surface"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of shallow relief to show simplified living figures with extended limbs, including at least one anthropomorphic figure and profile animal-like forms. The biggest difference is compositional: A is a flat upright slab organized into stacked zones with a strong horizontal geometric band, while B is a curved object with a single continuous figural scene and no comparable banding or ordering.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0276",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  673
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "profile bird figures/signs",
+  "profile human or human-like figures",
+  "rows of repeated signs or symbols",
+  "horizontal register-like bands",
+  "linear outline relief with schematic internal details"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is the use of profile birds and other schematic signs arranged in horizontal, register-like rows on an upright decorated surface. The biggest difference is that A is dominated by a central scene of two human figures in a ritual/interactional relationship with inscriptions below and around them, whereas B is dominated by stacked animal and abstract motifs without the same human encounter or object relationships.",
+ "a": "egypt_0076",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1804,
+  674
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic human or anthropomorphic figure",
+  "circle or disc motif",
+  "repeated parallel lines or band-like marks",
+  "curving linear motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific common content is the presence of schematic anthropomorphic forms together with circular/disc-like motifs and repeated linear bands. The biggest difference is that A is dominated by a single frontal body-like figure with internal motifs, while B is a dispersed field of profile animals, boats, rows of marks, and small stick figures with no comparable central figure or iconographic arrangement.",
+ "a": "rapa_nui_0113",
+ "b": "tanum_0017",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  667
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  2,
+  10,
+  4,
+  7,
+  8,
+  9,
+  6,
+  1,
+  3
+ ],
+ "most_similar_reason": "Candidate 5 is most similar because it uses a comparably schematic relief language with prominent circular/scroll-like elements and broad curving bands arranged on a compact upright surface, echoing the target\u2019s abstract frontal emblematic figure or mask-like composition.",
+ "least_similar_reason": "Candidate 3 is least similar because it is almost entirely made up of orderly horizontal inscription-like lines, with no comparable frontal figure, large circular motif, body parts, or curving emblematic design.",
+ "set": "p43_iso_among_monoliths",
+ "i": 20,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "gotland_0004",
+  "maya_0052",
+  "egypt_0049",
+  "egypt_0040",
+  "maya_0083",
+  "maya_0095",
+  "maya_0110",
+  "gotland_0026",
+  "gotland_0009",
+  "anatolia_ppn_p43iso"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "gotland",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "gotland",
+  "gotland",
+  "maya",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 3
+}

@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "human figure (or head/torso) in relief",
+  "carved relief motifs on stone surface",
+  "circular/disc motif"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "Both depict human forms rendered in low relief on stone, and both include a disc-like circular motif (a chariot wheel and shield in A, a ring on the back of the figure in B), but this is generic. A shows a narrative multi-figure siege scene in strict profile with archers, a siege engine and crenellated architecture arranged in horizontal registers, whereas B is a single monolithic frontal head-and-torso figure with isolated abstract emblems on its back, sharing no narrative, relationship or arrangement conventions.",
+ "a": "assyria_0092",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3174,
+  289
+ ]
+}

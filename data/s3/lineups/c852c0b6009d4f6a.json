@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  1,
+  10,
+  3,
+  7,
+  4,
+  5,
+  8,
+  9,
+  2
+ ],
+ "most_similar_reason": "Candidate 6 shows animals (goats/rams) depicted in profile within a stacked relief composition similar to the target's rows of stylized animals like birds and quadrupeds on a stone stele.",
+ "least_similar_reason": "Candidate 2 shows only an abstract painted humanoid figure with no animal imagery, registers, or stele-like arrangement, making it the least comparable in depicted content.",
+ "set": "moai_among_random",
+ "i": 3,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0010",
+  "tanum_0050",
+  "persepolis_0080",
+  "maya_0091",
+  "maya_0005",
+  "persepolis_0020",
+  "persepolis_0047",
+  "rapa_nui_0113",
+  "mississippian_0008",
+  "maya_0027"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "persepolis",
+  "persepolis",
+  "mississippian",
+  "maya",
+  "persepolis",
+  "tanum",
+  "persepolis",
+  "maya",
+  "maya"
+ ],
+ "model": "sonnet",
+ "planted_rank": 8
+}

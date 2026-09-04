@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "animal in profile",
+  "quadruped animal in profile",
+  "horizontal band or row of repeated motifs",
+  "linear incised/outlined internal detailing"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is the use of profile animals and repeated horizontal bands of small motifs, rendered with linear outline and internal incised detail. The main difference is that A depicts an integrated chariot scene with horses, wheel, reins, and human riders, while B is a register-like arrangement of separate animal/symbolic figures and patterned bands with no comparable vehicle or human action.",
+ "a": "assyria_0131",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  669
+ ]
+}

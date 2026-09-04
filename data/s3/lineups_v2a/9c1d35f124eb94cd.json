@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  9,
+  4,
+  2,
+  7,
+  3,
+  8,
+  6,
+  5,
+  10
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's core content of large quadrupeds shown in strict profile, carved in low relief and stacked/aligned in horizontal registers with a banded divider, in the same schematic outline-with-flat-infill manner as the target's fox and bird figures.",
+ "least_similar_reason": "Candidate 10 shows only an incised geometric outline design with no creatures, no profile animals and no registered animal frieze, so it shares almost nothing with the target's menagerie of carved beasts and birds.",
+ "set": "moai_among_random",
+ "i": 20,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0027",
+  "persepolis_0063",
+  "gotland_0000",
+  "persepolis_0062",
+  "gotland_0117",
+  "rapa_nui_0113",
+  "persepolis_0007",
+  "persepolis_0071",
+  "persepolis_0082",
+  "gotland_0008"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "gotland",
+  "persepolis",
+  "persepolis",
+  "persepolis",
+  "persepolis",
+  "persepolis",
+  "gotland",
+  "persepolis",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 8
+}

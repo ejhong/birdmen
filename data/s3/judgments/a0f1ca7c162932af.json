@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "standing male figure in profile",
+  "tall fluted/crenellated headdress",
+  "long curled beard rendered in rows of curls",
+  "long pleated robe with vertical fold lines",
+  "figure holding a long staff/spear vertically",
+  "relief figures walking in procession to left/right",
+  "elaborate coiffure with rolled hair mass at the back of the head"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "8",
+ "justification": "Both show bearded male figures in strict profile wearing the same distinctive tall fluted headdress and long pleated robe, with beards and hair rendered in identical rows of tight curls, and in both a figure grips a long vertical staff/spear held before the body. The main differences are that A isolates a single figure on a plain panel while B shows a procession of several interacting figures (one turning to touch/greet another) framed above and below by bands of rosettes.",
+ "a": "persepolis_0067",
+ "b": "persepolis_0004",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3049,
+  337
+ ]
+}

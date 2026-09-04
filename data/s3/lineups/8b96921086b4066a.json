@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  4,
+  3,
+  2,
+  6,
+  7,
+  5,
+  1,
+  8,
+  9
+ ],
+ "most_similar_reason": "Candidate 10 is most similar because it also presents a single upright surface dominated by schematic, incised, curvilinear and eye- or glyph-like forms rather than a naturalistic scene, giving the closest match to the target\u2019s abstract face/body-like arrangement of circles, arcs, and linear markings.",
+ "least_similar_reason": "Candidate 9 is least similar because it depicts a detailed narrative scene with seated and standing human figures and emblematic panels, unlike the target\u2019s non-narrative, highly abstract arrangement of large circular and arcing motifs.",
+ "set": "p43_iso_among_monoliths",
+ "i": 16,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0077",
+  "maya_0087",
+  "gotland_0113",
+  "gotland_0000",
+  "gotland_0128",
+  "anatolia_ppn_p43iso",
+  "egypt_0066",
+  "egypt_0044",
+  "egypt_0073",
+  "maya_0114"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "gotland",
+  "maya",
+  "maya",
+  "egypt",
+  "gotland",
+  "gotland",
+  "egypt",
+  "maya",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 5
+}

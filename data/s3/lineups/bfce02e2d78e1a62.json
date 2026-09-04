@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  6,
+  7,
+  5,
+  10,
+  2,
+  4,
+  9,
+  8,
+  3
+ ],
+ "most_similar_reason": "Candidate 1, like the target, is a flat stone panel covered in shallow low relief with a creature rendered in profile set among smaller repeated motifs filling the field, the same kind of animal-plus-filler composition worked in raised outline rather than incision.",
+ "least_similar_reason": "Candidate 3 shows essentially no legible depicted imagery at all \\u2014 an unworked, featureless block \\u2014 so it shares none of the target's animals, bands or relief motifs.",
+ "set": "moai_iso_among_random",
+ "i": 13,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "assyria_0090",
+  "tanum_0037",
+  "maya_0125",
+  "tanum_0238",
+  "egypt_0046",
+  "rapa_nui_hoa_iso",
+  "maya_0115",
+  "persepolis_0004",
+  "gotland_0130",
+  "tanum_0007"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "tanum",
+  "tanum",
+  "gotland",
+  "persepolis",
+  "assyria",
+  "egypt",
+  "maya",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

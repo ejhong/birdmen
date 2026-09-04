@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "dense field of script-like signs covering the rock face",
+  "rectangular/blocky glyph units",
+  "signs organised into aligned horizontal rows or registers",
+  "carved relief signs with internal subdivisions (small circles, bars, nested rectangles)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces are dominated by a long, dense inscription of blocky, internally subdivided sign-units set in aligned horizontal rows across a rock face, which is a fairly specific shared scheme rather than mere generic pattern. The clearest difference is that A includes a pictorial element (a figure/animal-like form) interrupting the top of the text field and its signs are much finer and more varied in outline, while B shows only large, coarse, uniformly rectangular sign-blocks with no figural content.",
+ "a": "egypt_0018",
+ "b": "maya_0023",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  606
+ ]
+}

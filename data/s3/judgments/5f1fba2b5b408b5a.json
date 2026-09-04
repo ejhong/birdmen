@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "stylized animal or bird forms in profile",
+  "wing- or feather-like striped forms",
+  "rows or bands of repeated geometric marks",
+  "circular or oval eye/disc motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is the use of schematic outlined animal/bird-like forms with striped feather-like infill and repeated geometric bands or marks. The major difference is that A is organized around a single elaborate frontal anthropomorphic/winged figure with headdress, ornaments, and held objects, while B is a register-like stack of separate profile animals and signs with no comparable central figure or iconographic interaction.",
+ "a": "mississippian_0000",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1909,
+  680
+ ]
+}

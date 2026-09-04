@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  5,
+  6,
+  3,
+  4,
+  8,
+  2,
+  9,
+  1,
+  7
+ ],
+ "most_similar_reason": "Candidate 10 is, like the target, a compact figure carved in the round from a boulder-like block, with a bulbous head/upper mass set on a broad body and schematic limb or wing forms wrapping the sides, rather than a flat picture-field of signs.",
+ "least_similar_reason": "Candidate 7 shows nothing but dense rows of small repeated inscribed signs covering a flat panel, with no creature, body or sculpted form of any kind to correspond to the target's bird figure.",
+ "set": "same_control_monoliths",
+ "i": 34,
+ "target": "anatolia_ppn_0142",
+ "planted": "anatolia_ppn_0086",
+ "cands": [
+  "gotland_0005",
+  "maya_0137",
+  "maya_0053",
+  "egypt_0041",
+  "rapa_nui_0046",
+  "anatolia_ppn_0086",
+  "egypt_0064",
+  "maya_0085",
+  "gotland_0117",
+  "rapa_nui_0039"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "gotland",
+  "rapa_nui",
+  "egypt",
+  "rapa_nui",
+  "gotland",
+  "egypt",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 3
+}

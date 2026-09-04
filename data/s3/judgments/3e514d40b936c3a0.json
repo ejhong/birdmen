@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low-relief carved figural scene",
+  "human figures in strict profile with elaborate curled/patterned beard and hair",
+  "procession-style figures moving/facing one direction",
+  "animals or animal features rendered with patterned, repeated incised texture (fleece, feathers)",
+  "a border/register band bounding the scene",
+  "stylized floral/rosette motifs in a border or field"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both are shallow relief scenes of profile figures with the same conventions: elaborately curled beards and hair rendered as regular incised curls, garments with patterned fringes, texture conveyed by rows of repeated scale-like marks (fleece in A, feathers in B), and a plant/rosette motif bounding or filling the field. But the actual subjects differ: A is a horizontal procession of attendants leading two horned rams past a tree, while B is a single frontally-composed bird-headed winged figure holding a bucket and raising a cone amid stylized flowering plants beneath a block of writing.",
+ "a": "persepolis_0075",
+ "b": "assyria_0120",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3249,
+  381
+ ]
+}

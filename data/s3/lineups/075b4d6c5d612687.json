@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  4,
+  9,
+  1,
+  2,
+  8,
+  5,
+  3,
+  7,
+  6
+ ],
+ "most_similar_reason": "Candidate 10 is most similar because it shows the same arrangement of schematic low-relief animal forms beside a rounded/circular motif within the same bordered panel layout as the target.",
+ "least_similar_reason": "Candidate 6 is least similar because it is organized as a dense grid of repeated abstract glyph-like signs rather than a sparse scene of profile animals and a circular motif.",
+ "set": "same_control_monoliths",
+ "i": 16,
+ "target": "anatolia_ppn_0199",
+ "planted": "anatolia_ppn_0207",
+ "cands": [
+  "maya_0136",
+  "egypt_0067",
+  "egypt_0061",
+  "gotland_0026",
+  "rapa_nui_0044",
+  "maya_0095",
+  "maya_0052",
+  "rapa_nui_0069",
+  "maya_0083",
+  "anatolia_ppn_0207"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "maya",
+  "egypt",
+  "maya",
+  "rapa_nui",
+  "maya",
+  "rapa_nui",
+  "gotland"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

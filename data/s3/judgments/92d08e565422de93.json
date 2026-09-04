@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "front-facing anthropomorphic figure or body",
+  "head/face and torso indicated on a vertical surface",
+  "circular or disc-like motifs on the body/head area",
+  "linear/geometric incised decoration"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both surfaces present a frontal human-like form organized vertically, with head/torso features and circular motifs integrated into the body area. The major difference is that A shows an elaborate full figure with headdress, limbs, held or flanking elements, and surrounding sign-like panels, while B is a much more simplified body/face form with breasts, a large circular central feature, and broad curving bands, lacking the same narrative or emblematic scheme.",
+ "a": "maya_0092",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1883,
+  677
+ ]
+}

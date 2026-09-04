@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "anthropomorphic or human-like figures",
+  "stylized animals in profile",
+  "horizontal bands of repeated signs or geometric motifs",
+  "curvilinear/scroll-like forms",
+  "framed or compartmentalized decorated surface"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces include schematic human/anthropomorphic figures, profile animals, and bands of repeated abstract signs, with the strongest correspondence being the combination of figural imagery with horizontal patterned registers. The biggest difference is that A is a dense, centralized scene organized around a large branching/tree-like central motif flanked by figures, while B is arranged as stacked, sparse relief registers with large isolated animal or sign forms and no comparable central flanking composition.",
+ "a": "maya_0129",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1777,
+  641
+ ]
+}

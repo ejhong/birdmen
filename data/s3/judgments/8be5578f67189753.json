@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human figures",
+  "figure holding an elongated object (staff/spear)",
+  "frontal standing/seated human figure",
+  "enclosed or framed area around a figure"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "Both show human figures, some holding elongated objects, but that is a near-universal correspondence; A presents a single elaborately costumed frontal figure enthroned within an architectural niche surrounded by dense glyph-like panels, while B shows a scattered scene of stick-like figures with weapons and a large horned quadruped in profile with circles/loops. The manner of depiction differs completely: high-relief, ornate, hierarchically framed and detailed in A versus flat, linear, schematic silhouettes freely distributed across the surface in B.\n",
+ "a": "maya_0113",
+ "b": "tanum_0052",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  300
+ ]
+}

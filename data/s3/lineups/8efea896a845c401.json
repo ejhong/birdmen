@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  6,
+  2,
+  10,
+  3,
+  1,
+  8,
+  7,
+  4,
+  5
+ ],
+ "most_similar_reason": "Candidate 9 shows a row of human figures walking in profile in a procession, closely matching the target's repeated file of robed figures carrying items in a similar compositional arrangement.",
+ "least_similar_reason": "Candidate 5 shows only a plain, undecorated stone surface with no figural or symbolic content at all, sharing nothing with the target's procession of human figures.",
+ "set": "related_control",
+ "i": 5,
+ "target": "persepolis_0080",
+ "planted": "assyria_0013",
+ "cands": [
+  "gotland_0002",
+  "egypt_0050",
+  "anatolia_ppn_0264",
+  "tanum_0126",
+  "tanum_0026",
+  "maya_0115",
+  "anatolia_ppn_0122",
+  "anatolia_ppn_0179",
+  "assyria_0013",
+  "maya_0094"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "tanum",
+  "maya",
+  "egypt",
+  "tanum",
+  "maya",
+  "anatolia_ppn",
+  "gotland"
+ ],
+ "model": "sonnet",
+ "planted_rank": 1
+}

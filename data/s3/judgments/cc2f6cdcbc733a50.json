@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "profile animal or creature heads",
+  "bird-like or beaked profile forms",
+  "serpentine or curving animal forms",
+  "repeated geometric/sign-like motifs",
+  "border or band of repeated marks"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main shared content is generic: both surfaces include schematic profile creature forms and repeated sign-like or geometric motifs arranged on an upright decorated field. The biggest difference is that B is organized around a prominent standing human-like figure with elaborate headdress and surrounding scroll/serpent motifs, while A is mainly a set of animal and geometric motifs in horizontal registers without the same central figural scheme.",
+ "a": "anatolia_ppn_p43full",
+ "b": "maya_0027",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1883,
+  664
+ ]
+}

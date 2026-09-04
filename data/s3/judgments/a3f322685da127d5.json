@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "quadruped/predatory animal with large prominent head",
+  "animal shown with limbs/paws rendered as simple blocks",
+  "incised geometric net or hatched infill pattern on a body surface",
+  "animal depicted on/against a monolithic block or pillar"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict a heavy-headed animal with schematically blocked limbs and an incised net/hatched pattern covering part of the body, and in both the creature is bound to a monolithic block, which is the most specific correspondence. But A is a flat, multi-register relief composition combining rows of small animals, a chevron band, bird-headed and human-like figures and a snake-like creature, whereas B is a single three-dimensional crouching beast with no accompanying figures or registers.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0266",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  831
+ ]
+}

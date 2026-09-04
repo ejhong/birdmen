@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  1,
+  5,
+  2,
+  9,
+  8,
+  7,
+  10,
+  4,
+  3
+ ],
+ "most_similar_reason": "Candidate 6 is closest because it shares the target\u2019s schematic carved animal imagery, with large curving outlined creatures arranged as emblematic relief motifs rather than as a naturalistic narrative scene.",
+ "least_similar_reason": "Candidate 3 is least similar because it shows only a few faint, simple linear marks with no comparable combination of recognizable animals, human/body motifs, or dense emblematic arrangement.",
+ "set": "moai_close_among_random",
+ "i": 11,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "gotland_0026",
+  "tanum_0085",
+  "tanum_0126",
+  "mississippian_0001",
+  "tanum_0100",
+  "egypt_0053",
+  "persepolis_0079",
+  "persepolis_0022",
+  "persepolis_0108",
+  "rapa_nui_0004"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "egypt",
+  "gotland",
+  "mississippian",
+  "persepolis",
+  "persepolis",
+  "persepolis",
+  "tanum",
+  "tanum",
+  "tanum"
+ ],
+ "model": "gpt",
+ "planted_rank": 8
+}

@@ -1,0 +1,19 @@
+{
+ "shared_elements": [
+  "profile animal or quadruped",
+  "shallow relief carving on a stone surface"
+ ],
+ "arrangement_similarity": "0",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of shallow, simplified relief to show an animal in profile on a roughly textured stone face. The biggest difference is compositional: A is a sparse single-animal panel, while B is a crowded, vertically stacked surface with multiple figures, bands, and registers.",
+ "a": "anatolia_ppn_0186",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  631
+ ]
+}

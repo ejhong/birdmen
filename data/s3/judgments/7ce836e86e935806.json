@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief human figures in profile",
+  "hand(s) holding an object",
+  "rosette / multi-petalled floral motif",
+  "densely patterned garment or textile surface",
+  "horizontal band composition with repeated ornament"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces show shallow relief human figures in strict profile with heavily patterned robes and hands grasping objects, and both use repeated multi-petalled rosettes as an ornamental element bordering or filling the field, a fairly specific conventional pairing. The biggest difference in content is that B presents a legible processional scene with a large led camel and a file of tribute-bearing figures with vessels, whereas A shows no animals and is dominated by dense allover surface patterning with only fragmentary figural detail.",
+ "a": "assyria_0015",
+ "b": "persepolis_0068",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  744
+ ]
+}

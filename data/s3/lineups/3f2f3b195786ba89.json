@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  5,
+  4,
+  2,
+  6,
+  1,
+  8,
+  7,
+  3,
+  9
+ ],
+ "most_similar_reason": "Candidate 10 is most similar because it shows a dense vertical arrangement of schematic low-relief animal and symbolic motifs, including bird/serpentine/quadruped-like forms and stacked sign-like groupings closely matching the target\u2019s iconographic layout and drawing conventions.",
+ "least_similar_reason": "Candidate 9 is least similar because it depicts only a single frontal mask-like face, lacking the target\u2019s animal figures, repeated signs, register-like arrangement, and relationships among multiple motifs.",
+ "set": "moai_among_random",
+ "i": 3,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0010",
+  "tanum_0050",
+  "persepolis_0080",
+  "maya_0091",
+  "maya_0005",
+  "persepolis_0020",
+  "persepolis_0047",
+  "rapa_nui_0113",
+  "mississippian_0008",
+  "maya_0027"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "persepolis",
+  "persepolis",
+  "mississippian",
+  "maya",
+  "persepolis",
+  "tanum",
+  "persepolis",
+  "maya",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 7
+}

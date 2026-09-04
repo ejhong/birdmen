@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  5,
+  1,
+  2,
+  10,
+  9,
+  8,
+  7,
+  3,
+  6
+ ],
+ "most_similar_reason": "Candidate 4, like the target, covers the surface with schematically outlined animals seen in strict profile combined with smaller stick-like figures and isolated symbolic marks scattered across the field rather than in a narrative scene.",
+ "least_similar_reason": "Candidate 6 is a dense grid of repeated abstract sign-blocks with no animals, no profile creatures and no anthropomorphic elements, sharing nothing with the target's animal-and-symbol imagery.",
+ "set": "moai_among_random",
+ "i": 17,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0051",
+  "rapa_nui_0113",
+  "egypt_0075",
+  "tanum_0052",
+  "persepolis_0089",
+  "maya_0050",
+  "egypt_0000",
+  "mississippian_0002",
+  "gotland_0008",
+  "gotland_0130"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "gotland",
+  "persepolis",
+  "egypt",
+  "tanum",
+  "maya",
+  "gotland",
+  "persepolis",
+  "mississippian",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

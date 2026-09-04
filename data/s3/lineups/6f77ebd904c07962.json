@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  8,
+  5,
+  7,
+  6,
+  10,
+  1,
+  9,
+  2,
+  4
+ ],
+ "most_similar_reason": "Candidate 3 shares the target's stele format with an ornamental motif at the top and a register of animals (deer) below, echoing the target's layered composition of decorative bands over animal figures in profile.",
+ "least_similar_reason": "Candidate 4 shows only an abstract colored patch with no figurative animals, humans, or symbolic motifs, sharing none of the iconographic content found in the target.",
+ "set": "moai_among_random",
+ "i": 5,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "tanum_0339",
+  "rapa_nui_0113",
+  "gotland_0113",
+  "tanum_0034",
+  "persepolis_0011",
+  "persepolis_0025",
+  "assyria_0131",
+  "assyria_0110",
+  "tanum_0060",
+  "persepolis_0047"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "tanum",
+  "persepolis",
+  "tanum",
+  "persepolis",
+  "assyria",
+  "assyria",
+  "gotland",
+  "persepolis",
+  "tanum"
+ ],
+ "model": "sonnet",
+ "planted_rank": 9
+}

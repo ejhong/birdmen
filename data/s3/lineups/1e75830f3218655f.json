@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  8,
+  3,
+  4,
+  10,
+  2,
+  7,
+  6,
+  9,
+  5
+ ],
+ "most_similar_reason": "Candidate 1 shows a carved face at the top and a body below featuring a repeating banded/checkered pattern, closely echoing the target's arrangement of a facial element atop a torso with a distinct fringed band near the base.",
+ "least_similar_reason": "Candidate 5 is an essentially uncarved stone surface, lacking any of the figurative, facial, or geometric motifs present in the target.",
+ "set": "p43_iso_among_monoliths",
+ "i": 1,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "maya_0097",
+  "egypt_0063",
+  "anatolia_ppn_p43iso",
+  "maya_0091",
+  "maya_0082",
+  "gotland_0133",
+  "maya_0057",
+  "maya_0060",
+  "maya_0149",
+  "maya_0115"
+ ],
+ "planted_pos": 3,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "gotland",
+  "maya"
+ ],
+ "model": "sonnet",
+ "planted_rank": 3
+}

@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figure in profile with beard and elaborate coiffure/headgear",
+  "low-relief profile figures walking/striding",
+  "rosette or multi-petalled floral motif",
+  "figure carrying/holding an object in the hand",
+  "long fringed or pleated garment",
+  "animal/creature rendered in profile (camel; winged being)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both depict bearded human figures in strict profile with patterned hair/beard and long fringed garments, holding objects, and both include multi-petalled rosette motifs (as a repeating border band in A, as stylised blossoms on a plant in B), which is a fairly specific shared vocabulary. The scenes themselves differ sharply: A is a horizontal procession frieze of attendants leading a camel between rosette bands, whereas B is a single large winged, kneeling composite being tending a stylised plant, so the compositions and relationships between elements have little in common.",
+ "a": "persepolis_0079",
+ "b": "assyria_0079",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  754
+ ]
+}

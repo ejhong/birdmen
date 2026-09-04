@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  5,
+  8,
+  1,
+  2,
+  7,
+  6,
+  10,
+  4,
+  3
+ ],
+ "most_similar_reason": "Candidate 9 shows a tall upright pillar/stele whose face is divided into stacked registers filled with small carved figures, matching the target's vertical slab organised into horizontal bands of relief creatures and motifs.",
+ "least_similar_reason": "Candidate 3 presents an amorphous, largely featureless worked surface with no identifiable creatures, figures or ordered registers, so it shares none of the target's specific animal and banded-motif iconography.",
+ "set": "moai_iso_among_random",
+ "i": 4,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "rapa_nui_hoa_iso",
+  "assyria_0032",
+  "tanum_0100",
+  "tanum_0076",
+  "persepolis_0007",
+  "catalhoyuk_0026",
+  "catalhoyuk_0110",
+  "assyria_0047",
+  "maya_0057",
+  "tanum_0050"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "tanum",
+  "tanum",
+  "catalhoyuk",
+  "tanum",
+  "catalhoyuk",
+  "maya",
+  "persepolis",
+  "assyria",
+  "assyria"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  1,
+  3,
+  2,
+  4,
+  5,
+  9,
+  7,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 6 shows a stele with small human figures accompanied by rows of hieroglyph-like signs beneath, closely paralleling the target's composition of seated/standing figures above bands of hieroglyphic text.",
+ "least_similar_reason": "Candidate 10 depicts an isolated carved humanoid figure with no accompanying text bands, offering figures, or the seated/standing relief composition seen in the target.",
+ "set": "same_control_monoliths",
+ "i": 0,
+ "target": "egypt_0066",
+ "planted": "egypt_0047",
+ "cands": [
+  "maya_0158",
+  "gotland_0131",
+  "maya_0092",
+  "maya_0111",
+  "maya_0088",
+  "egypt_0047",
+  "anatolia_ppn_0267",
+  "anatolia_ppn_0260",
+  "anatolia_ppn_0093",
+  "anatolia_ppn_0261"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "maya",
+  "anatolia_ppn",
+  "gotland",
+  "anatolia_ppn",
+  "maya",
+  "maya",
+  "anatolia_ppn",
+  "maya",
+  "anatolia_ppn"
+ ],
+ "model": "sonnet",
+ "planted_rank": 1
+}

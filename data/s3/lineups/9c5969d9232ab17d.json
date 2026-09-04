@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  8,
+  5,
+  7,
+  9,
+  2,
+  3,
+  6,
+  1,
+  4
+ ],
+ "most_similar_reason": "Both feature stylized animal forms carved in raised relief.",
+ "least_similar_reason": "It displays a boat and figures, contrasting with the animal motifs.",
+ "set": "hard",
+ "i": 7,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0125",
+  "egypt_0027",
+  "gotland_0116",
+  "gotland_0123",
+  "egypt_0012",
+  "gotland_0115",
+  "rapa_nui_0113",
+  "tanum_0359",
+  "gotland_0133",
+  "maya_0047"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "gotland",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "gemini",
+ "planted_rank": 4
+}

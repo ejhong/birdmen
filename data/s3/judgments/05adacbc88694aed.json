@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "standing human-form figure in profile",
+  "large low-relief panel with figures filling the field",
+  "figure holding an object in raised/extended hand",
+  "elaborate patterned headgear/headdress",
+  "fringed or patterned garment",
+  "stylized beard and hair rendered as rows of curls",
+  "bracelet/armlet on wrist",
+  "held plant or floral element (flower/cone-like object)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both depict large-scale profile standing figures in low relief with rows of tightly curled beard/hair, patterned headgear, fringed robes, bracelets, and a small object (cone/flower) raised in an extended hand \u2014 a very specific shared convention of the courtly attendant figure. The main differences are that A shows a single winged, bird-headed composite being with a bucket-like handled vessel, while B shows a file of repeated ordinary human heads with tall fluted caps and no wings, plus a decorative rosette band.\n",
+ "a": "assyria_0135",
+ "b": "persepolis_0071",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  2924,
+  361
+ ]
+}

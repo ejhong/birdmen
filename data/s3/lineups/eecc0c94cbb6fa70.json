@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  1,
+  8,
+  6,
+  7,
+  2,
+  9,
+  5,
+  4,
+  10
+ ],
+ "most_similar_reason": "Candidate 3, like the target, is covered with repeated, purely schematic animals rendered as flat outlined bodies with toothy/zigzag limb and back markings, scattered and stacked across the surface with no human actors or narrative setting.",
+ "least_similar_reason": "Candidate 10 presents an eroded rock-cut cliff face in which no identifiable figures, animals or motifs can be read at all, so it shares none of the target's specific animal imagery, register arrangement or schematic carving conventions.",
+ "set": "moai_iso_among_random",
+ "i": 16,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "rapa_nui_hoa_iso",
+  "persepolis_0015",
+  "mississippian_0075",
+  "egypt_0024",
+  "assyria_0052",
+  "tanum_0063",
+  "maya_0054",
+  "maya_0152",
+  "persepolis_0051",
+  "egypt_0051"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "persepolis",
+  "mississippian",
+  "assyria",
+  "maya",
+  "egypt",
+  "maya",
+  "persepolis",
+  "egypt",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

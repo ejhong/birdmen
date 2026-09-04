@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  1,
+  9,
+  10,
+  8,
+  7,
+  4,
+  5,
+  3,
+  6
+ ],
+ "most_similar_reason": "Both share an upright form covered in densely packed, somewhat blocky, stylized motifs.",
+ "least_similar_reason": "It displays sparse, schematic stick figures that lack the dense, interwoven complexity of the target.",
+ "set": "p43_among_random",
+ "i": 14,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "maya_0111",
+  "maya_0085",
+  "mississippian_0011",
+  "persepolis_0110",
+  "egypt_0056",
+  "catalhoyuk_0039",
+  "anatolia_ppn_p43full",
+  "maya_0024",
+  "maya_0081",
+  "mississippian_0005"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "maya",
+  "mississippian",
+  "catalhoyuk",
+  "persepolis",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "mississippian"
+ ],
+ "model": "gemini",
+ "planted_rank": 6
+}

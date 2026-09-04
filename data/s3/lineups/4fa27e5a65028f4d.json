@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  6,
+  8,
+  5,
+  1,
+  4,
+  3,
+  9,
+  2,
+  7
+ ],
+ "most_similar_reason": "Both present a distinctive T-shaped vertical format adorned with stylized raised relief carvings.",
+ "least_similar_reason": "This shows a broad architectural facade lacking the detailed zoomorphic and symbolic reliefs of the target.",
+ "set": "moai_among_random",
+ "i": 2,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0087",
+  "tanum_0037",
+  "catalhoyuk_0025",
+  "assyria_0140",
+  "egypt_0039",
+  "maya_0023",
+  "egypt_0009",
+  "persepolis_0108",
+  "tanum_0016",
+  "rapa_nui_0113"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "egypt",
+  "persepolis",
+  "catalhoyuk",
+  "tanum",
+  "maya",
+  "persepolis",
+  "egypt",
+  "assyria",
+  "tanum"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

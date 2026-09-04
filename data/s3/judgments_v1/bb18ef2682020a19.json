@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "vertical decorated slab/surface",
+  "relief or incised carving",
+  "animal figure in profile",
+  "bird-like figure in profile",
+  "circle or oval motif",
+  "horizontal band of pattern"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces include simplified profile animal or bird-like figures along with bands of repeated linear pattern on a tall carved surface. The biggest difference is compositional: A is a polished, symmetrical, frontal anthropomorphic figure dominating the whole object, while B is a rougher, multi-register surface with scattered profile creatures and no comparable central figure.",
+ "a": "mississippian_0006",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  533
+ ]
+}

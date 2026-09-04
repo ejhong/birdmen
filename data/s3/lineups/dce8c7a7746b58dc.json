@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  8,
+  7,
+  4,
+  9,
+  1,
+  2,
+  10,
+  6,
+  3
+ ],
+ "most_similar_reason": "Candidate 5 is the only one that, like the target, carries schematic animals rendered in profile low relief on a plain stone face, set above/beside an abstract emblem, matching the target's convention of isolated creature-signs arranged across the surface rather than a narrative human scene.",
+ "least_similar_reason": "Candidate 3 depicts a single naturalistic, modelled human figure in the round with anatomical detail and raised arm holding foliage, sharing none of the target's registered rows of flat, schematic animal profiles.",
+ "set": "moai_iso_among_monoliths",
+ "i": 18,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0101",
+  "maya_0088",
+  "mississippian_0015",
+  "maya_0005",
+  "gotland_0026",
+  "maya_0097",
+  "egypt_0063",
+  "rapa_nui_hoa_iso",
+  "gotland_0133",
+  "maya_0105"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "gotland",
+  "maya",
+  "maya",
+  "egypt",
+  "maya",
+  "gotland",
+  "maya",
+  "maya",
+  "mississippian"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

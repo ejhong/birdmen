@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "upright carved stone surface",
+  "horizontal registers or dividing bands",
+  "profile bird or animal figure",
+  "circle or disc motif",
+  "standing or profile human-like figure",
+  "repeated small signs or patterned marks"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both are vertically oriented carved stones with imagery organized in horizontal zones, including profile figures and circular motifs. The biggest difference is that B has a formal, symmetrical stela-like layout with framed registers and finely incised figures, while A is rougher, more irregular, and dominated by large animal forms and patterned bands.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0068",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  662
+ ]
+}

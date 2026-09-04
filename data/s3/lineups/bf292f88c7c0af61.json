@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  8,
+  7,
+  4,
+  1,
+  6,
+  5,
+  9,
+  2,
+  10
+ ],
+ "most_similar_reason": "Candidate 3 shows a composed pictorial scene of living figures and a central plant motif with geometric framing on a slab surface, the closest match to the target\u2019s stacked profile creatures, vegetation, and woven infill patterns.",
+ "least_similar_reason": "Candidate 10 shows only dense horizontal rows of writing with no creatures, birds, plants, or geometric pictorial motifs of the kind filling the target.",
+ "set": "moai_iso_among_monoliths",
+ "i": 4,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "rapa_nui_hoa_iso",
+  "maya_0081",
+  "egypt_0048",
+  "maya_0087",
+  "maya_0094",
+  "maya_0056",
+  "egypt_0073",
+  "egypt_0042",
+  "gotland_0004",
+  "egypt_0069"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "gotland",
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "egypt",
+  "maya"
+ ],
+ "model": "grok",
+ "planted_rank": 5
+}

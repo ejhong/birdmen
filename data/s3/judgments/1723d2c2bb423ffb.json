@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "bearded male human figure in strict profile",
+  "elaborate headgear/crown-like cap",
+  "curled and rowed beard rendered as regular ridged bands",
+  "hair mass rendered as rows of curls/beads",
+  "low relief profile heads facing right",
+  "patterned garment with fringe/rosette detailing",
+  "rosette motifs"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "7",
+ "justification": "Both surfaces show bearded male figures in strict profile with tall headgear, beard and hair rendered as regular stacked rows of curls, and garments with fringed/rosette detail, executed in the same low-relief convention with a rigid profile eye and heavy nose \u2014 a distinctive, conventional scheme rather than a generic 'human figure'. The chief difference is scope and composition: A is a single large bust-scale head with an earring and diagonal strap, while B shows a procession of smaller full-length figures interacting (a hand on a shoulder, held objects) framed between horizontal rosette bands.",
+ "a": "assyria_0123",
+ "b": "persepolis_0004",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3199,
+  370
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  8,
+  7,
+  10,
+  6,
+  4,
+  5,
+  1,
+  9,
+  2
+ ],
+ "most_similar_reason": "Candidate 3 shares the target's combination of a carved stela with distinct human/bird\u2011headed figures arranged in a vertical scene beneath a hieroglyphic\u2011style band, closely echoing the target's register\u2011based iconography of deities and birds.",
+ "least_similar_reason": "Candidate 2 shows an essentially blank, unworked stone surface with no figures, animals, or symbolic motifs, offering no iconographic correspondence to the richly decorated target.",
+ "set": "moai_iso_among_monoliths",
+ "i": 4,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "rapa_nui_hoa_iso",
+  "maya_0081",
+  "egypt_0048",
+  "maya_0087",
+  "maya_0094",
+  "maya_0056",
+  "egypt_0073",
+  "egypt_0042",
+  "gotland_0004",
+  "egypt_0069"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "gotland",
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "egypt",
+  "maya"
+ ],
+ "model": "sonnet",
+ "planted_rank": 8
+}

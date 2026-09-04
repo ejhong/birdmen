@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  7,
+  8,
+  1,
+  10,
+  6,
+  9,
+  2,
+  3,
+  4
+ ],
+ "most_similar_reason": "Both depict stylized relief carvings on structurally similar pillar forms.",
+ "least_similar_reason": "It consists entirely of horizontal rows of text, lacking any figurative imagery.",
+ "set": "moai_close_among_random",
+ "i": 0,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "assyria_0123",
+  "maya_0146",
+  "egypt_0049",
+  "egypt_0069",
+  "egypt_0002",
+  "tanum_0063",
+  "rapa_nui_0004",
+  "maya_0111",
+  "gotland_0002",
+  "egypt_0038"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "egypt",
+  "tanum",
+  "egypt",
+  "egypt",
+  "gotland",
+  "egypt",
+  "assyria"
+ ],
+ "model": "gemini",
+ "planted_rank": 2
+}

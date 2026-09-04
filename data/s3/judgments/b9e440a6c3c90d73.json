@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "repeated small vertical strokes arranged in a row",
+  "linear/schematic carved motifs on a rock surface"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "1",
+ "justification": "The only real correspondence is the presence of rows of repeated short vertical strokes set along a horizontal line \u2014 glyph columns in A versus crew-strokes on boat hulls in B \u2014 which is a generic and functionally unrelated resemblance. A shows dense, framed cartouche-like sign blocks stacked in vertical columns filling the whole surface, while B shows a handful of schematic boats with upcurved prows and stern-posts scattered across an open field, with no shared subject matter, relationships or layout.",
+ "a": "maya_0147",
+ "b": "tanum_0076",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2949,
+  282
+ ]
+}

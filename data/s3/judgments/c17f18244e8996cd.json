@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "profile animal or creature forms",
+  "bird-like/feather forms",
+  "circle or disc motifs",
+  "horizontal bands of repeated geometric pattern",
+  "linear/curving appendage or snake-like forms"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondences are schematic animal/bird-like forms combined with discs and repeated geometric bands, with some elongated curving or appendage-like elements. The major difference is that A is an assemblage of separate animals and patterned registers, while B is dominated by a single frontal standing anthropomorphic figure with headdress, wings/feathers, costume, and held attributes.",
+ "a": "anatolia_ppn_p43full",
+ "b": "mississippian_0007",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1804,
+  677
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  3,
+  8,
+  9,
+  2,
+  1,
+  4,
+  7,
+  10,
+  6
+ ],
+ "most_similar_reason": "Candidate 5 shows the same red-painted schematic boats with upturned prow/stern and vertical crew-line motifs on a rock surface, matching the target's distinctive iconography and style.",
+ "least_similar_reason": "Candidate 6 depicts an essentially blank, undecorated stone surface with no figurative or symbolic content comparable to the target's detailed boat imagery.",
+ "set": "same_control",
+ "i": 10,
+ "target": "tanum_0324",
+ "planted": "tanum_0238",
+ "cands": [
+  "gotland_0131",
+  "maya_0091",
+  "persepolis_0097",
+  "egypt_0014",
+  "tanum_0238",
+  "egypt_0002",
+  "anatolia_ppn_0240",
+  "maya_0110",
+  "assyria_0035",
+  "anatolia_ppn_0072"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "maya",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "gotland",
+  "maya",
+  "assyria",
+  "persepolis",
+  "egypt",
+  "egypt"
+ ],
+ "model": "sonnet",
+ "planted_rank": 1
+}

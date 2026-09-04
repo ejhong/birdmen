@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  1,
+  10,
+  8,
+  5,
+  3,
+  2,
+  6,
+  4,
+  9
+ ],
+ "most_similar_reason": "Candidate 7 presents a single large, stylized anthropomorphic figure with a distinctive headdress dominating the surface, echoing the target's monolithic figure whose schematic face, elongated head, and torso markings occupy the whole stone in a similar compositional balance of figure plus surrounding glyphic/linear elements.",
+ "least_similar_reason": "Candidate 9 is an essentially blank, heavily eroded stone slab with no discernible figures, faces, or symbolic motifs, offering no iconographic correspondence to the target's clearly carved anthropomorphic face and circular emblem.",
+ "set": "p43_among_random",
+ "i": 11,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "gotland_0026",
+  "persepolis_0020",
+  "assyria_0151",
+  "egypt_0049",
+  "egypt_0065",
+  "egypt_0070",
+  "maya_0026",
+  "egypt_0046",
+  "gotland_0133",
+  "anatolia_ppn_p43full"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "persepolis",
+  "egypt",
+  "gotland",
+  "gotland",
+  "assyria"
+ ],
+ "model": "sonnet",
+ "planted_rank": 3
+}

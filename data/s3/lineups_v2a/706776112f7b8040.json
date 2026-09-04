@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  9,
+  10,
+  7,
+  5,
+  8,
+  2,
+  3,
+  4,
+  6
+ ],
+ "most_similar_reason": "Candidate 1 is, like the target, a standing monolithic pillar treated as a schematic body, with low-relief arms bending round to hands meeting at the front, a belt-like band across the middle and small emblematic creatures/symbols laid flat on the torso in the same abstracted, outline-carved manner.",
+ "least_similar_reason": "Candidate 6 shows nothing but neat columns of repeated script-like sign blocks covering the whole face, with no body, limbs, ornaments or figural imagery of the kind that defines the target.",
+ "set": "p43_among_random",
+ "i": 4,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "anatolia_ppn_p43full",
+  "assyria_0128",
+  "tanum_0008",
+  "persepolis_0104",
+  "egypt_0074",
+  "maya_0095",
+  "maya_0045",
+  "egypt_0050",
+  "gotland_0008",
+  "maya_0069"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "maya",
+  "persepolis",
+  "assyria",
+  "maya",
+  "egypt",
+  "maya",
+  "gotland",
+  "tanum",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

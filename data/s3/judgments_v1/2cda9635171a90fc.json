@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "low-relief/incised carving on a stone surface",
+  "profile animal or bird-like figures",
+  "wing or feather-like forms",
+  "horizontal band of repeated small marks or pattern",
+  "rectilinear framing/register structure"
+ ],
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of profile creature forms and wing/feather-like carving combined with horizontal patterned bands on a stone surface. The biggest difference is compositional: A is a narrow vertical pillar with stacked, uneven animal registers, while B is a broad horizontal, bilaterally balanced scene focused on two large flanking figures and a central ornament.",
+ "a": "anatolia_ppn_p43full",
+ "b": "assyria_0153",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  625
+ ]
+}

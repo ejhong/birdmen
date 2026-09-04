@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "beaked bird or bird-like head in profile",
+  "schematic animal figures",
+  "claw/talon-like appendages",
+  "repeated linear/geometric patterning or bands"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest correspondence is the use of schematically outlined bird-like imagery, especially a profile beaked head, along with repeated linear patterning. The biggest difference is that A is a single frontal composite bird-human figure with wings, talons, and chest discs, while B is a register-like grouping of separate profile animals and geometric bands with no comparable central figure or iconographic arrangement.",
+ "a": "mississippian_0011",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1857,
+  675
+ ]
+}

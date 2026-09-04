@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "quadruped animal shown in profile",
+  "low-relief carving arranged in stacked horizontal registers",
+  "horizontal band separating registers",
+  "repeated figures aligned along a common ground line",
+  "tree/plant-like motif"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces stack profile figures in superimposed horizontal registers separated by plain bands, with quadrupeds in profile and a foliate/tree-like element appearing in each, which is about as generic as relief iconography gets. The subject matter otherwise diverges completely: A shows isolated, boldly schematic wild creatures (predator, birds, snake-like forms, abstract H-shaped signs) with no interaction, while B shows dense files of naturalistically proportioned clothed humans in procession, holding hands and leading led animals.",
+ "a": "anatolia_ppn_p43full",
+ "b": "persepolis_0051",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  644
+ ]
+}

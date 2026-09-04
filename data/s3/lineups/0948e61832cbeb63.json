@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  7,
+  4,
+  10,
+  9,
+  2,
+  8,
+  1,
+  3,
+  5
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it shows a carved relief scene of standing, clothed human figures in a comparable linear style, with adjacent decorative motifs/bordering elements much like the target\u2019s partial standing figures and rosette band.",
+ "least_similar_reason": "Candidate 5 is least similar because it appears essentially undecorated, lacking the target\u2019s figural bodies, clothing details, held objects, and repeated floral/geometric motifs.",
+ "set": "related_control",
+ "i": 6,
+ "target": "persepolis_0017",
+ "planted": "assyria_0021",
+ "cands": [
+  "anatolia_ppn_0082",
+  "gotland_0008",
+  "gotland_0133",
+  "maya_0060",
+  "maya_0082",
+  "assyria_0021",
+  "maya_0047",
+  "gotland_0018",
+  "egypt_0053",
+  "mississippian_0007"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "egypt",
+  "gotland",
+  "maya",
+  "maya",
+  "mississippian",
+  "gotland",
+  "anatolia_ppn",
+  "maya",
+  "gotland"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

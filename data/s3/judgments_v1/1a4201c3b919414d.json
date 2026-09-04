@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "rectangular carved stone surface",
+  "relief/incised motifs arranged in horizontal rows or bands",
+  "stylized animal- or head-like profile forms",
+  "rounded/oval carved forms"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest correspondence is that both are rectangular stone surfaces covered with shallow relief signs, including some rounded and animal/head-like forms organized in stacked horizontal zones. The biggest difference is that A is a dense, regular grid of many small glyph-like units, while B uses a few much larger profile figures separated by broad horizontal bands.",
+ "a": "maya_0050",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1230,
+  654
+ ]
+}

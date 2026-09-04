@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  9,
+  5,
+  10,
+  7,
+  8,
+  6,
+  3,
+  4,
+  1
+ ],
+ "most_similar_reason": "Candidate 2, like the target, presents a single frontal anthropomorphic figure occupying the whole shaped slab, with a tall elaborate headdress framing the face and ornaments (pendant/collar and belt-like elements) rendered in low relief across the body.",
+ "least_similar_reason": "Candidate 1 shows no figure or imagery at all, only a plain slab bearing a short band of inscribed signs, sharing none of the target's frontal figure, headdress, chest disc or belt iconography.",
+ "set": "p43_iso_among_monoliths",
+ "i": 20,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "gotland_0004",
+  "maya_0052",
+  "egypt_0049",
+  "egypt_0040",
+  "maya_0083",
+  "maya_0095",
+  "maya_0110",
+  "gotland_0026",
+  "gotland_0009",
+  "anatolia_ppn_p43iso"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "gotland",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "gotland",
+  "gotland",
+  "maya",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

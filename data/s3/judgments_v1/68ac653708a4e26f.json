@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "horizontal band or register of decoration",
+  "bird-like figure",
+  "animal figures",
+  "repeated short linear marks or chevrons"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both are upright carved stone surfaces organized at least partly by horizontal bands, with animal or bird-like motifs rendered in shallow relief/incision. The biggest difference is that A is densely divided into many small registers filled with fine, crowded linear figures, whereas B uses a few large, bold animal forms spread across a much more open surface.",
+ "a": "egypt_0045",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  651
+ ]
+}

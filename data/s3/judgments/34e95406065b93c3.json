@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human figures shown in profile",
+  "figures holding/carrying objects in raised hands",
+  "low-relief carving on a flat panel",
+  "repeated figures arranged along a horizontal register"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces depict human figures in profile carved in relief, several with arms raised holding objects, aligned along horizontal registers, which is the most specific correspondence available. Beyond that they differ sharply: B is an orderly, evenly spaced file of near-identical robed, coiffed figures advancing toward a frontal-facing figure beneath a rosette band, rendered with fine naturalistic drapery and anatomical detail, while A is a crowded, irregular composition of squat schematic figures with animals or a wheeled object and no repeated ranks or ornamental border.",
+ "a": "maya_0047",
+ "b": "persepolis_0105",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  729
+ ]
+}

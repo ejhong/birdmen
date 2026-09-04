@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "bearded male human figure in strict profile facing right",
+  "hair and beard rendered as regular rows of tight curls/dots",
+  "eye shown frontally within profile head",
+  "headgear/fillet band around the head",
+  "low-relief figure with flat, evenly raised surface",
+  "patterned garment/fabric with dotted or rosette-like fill",
+  "floral rosette motif"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both depict bearded men in strict profile facing right, with the very specific convention of hair and beard built from regular rows of tight curls or dots, a frontal eye in a profile head, a banded headdress, and dotted/rosette surface fill on garments \\u2014 conventions unlikely to coincide by chance. The main difference in content is scale and scene: A is a multi-figure procession scene with horned rams and a tree in a bordered frieze, while B isolates a single large head-and-shoulders bust with no accompanying figures, animals or narrative action.",
+ "a": "persepolis_0020",
+ "b": "assyria_0123",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  727
+ ]
+}

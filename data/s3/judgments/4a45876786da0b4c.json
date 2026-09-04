@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "horizontal register band of repeated motifs",
+  "carved relief frieze running along a wall",
+  "repetition of near-identical units in a row",
+  "framing lines separating registers"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces show a long horizontal relief band composed of a repeated, evenly spaced series of units bounded by framing lines, and both stack registers (figures above a lower moulding in A; leaf band over zigzag band in B). But A depicts a procession of naturalistic standing human figures in profile carrying staves, while B depicts abstract vegetal/geometric ornament (drooping leaf or petal forms, chevrons, guilloche) with at most a small ambiguous motif, so the actual subject matter differs almost entirely.",
+ "a": "persepolis_0024",
+ "b": "gotland_0128",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3149,
+  299
+ ]
+}

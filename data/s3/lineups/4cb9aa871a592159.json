@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  1,
+  7,
+  5,
+  2,
+  4,
+  3,
+  6,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 is dominated, like the target, by dense rows of small schematic sign-like figures \u2014 including bird and animal forms in strict profile with flat outline-and-infill carving \u2014 organised into horizontal registers across the whole surface rather than a single dominant figural scene.",
+ "least_similar_reason": "Candidate 10 shows an essentially blank, undecorated slab with no discernible figures, signs or geometric motifs at all, so it shares none of the target's register-arranged animal and pattern imagery.",
+ "set": "moai_iso_among_monoliths",
+ "i": 36,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0063",
+  "egypt_0039",
+  "maya_0105",
+  "gotland_0111",
+  "maya_0115",
+  "maya_0051",
+  "egypt_0050",
+  "egypt_0064",
+  "rapa_nui_hoa_iso",
+  "maya_0125"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "gotland",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 9
+}

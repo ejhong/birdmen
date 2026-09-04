@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "stone slab with incised imagery",
+  "curved/arched framing line at top"
+ ],
+ "element_similarity": "0",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "1",
+ "justification": "Panel A depicts a dense inscribed stele with rows of hieroglyphic text, human figures, and a radiating sun disc, while Panel B shows a single schematic boat-like form with a wing-shaped sail and a band of wave motifs beneath an arched outline. Aside from both being flat stone surfaces bearing incised imagery, there is no correspondence in the specific figures, symbols, or their relationships\u2014A is textual/figural narrative, B is a single iconic vessel motif.",
+ "a": "egypt_0032",
+ "b": "gotland_0131",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  3024,
+  485
+ ]
+}

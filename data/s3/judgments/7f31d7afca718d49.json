@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "stylized facial/head-like features arranged symmetrically"
+ ],
+ "element_similarity": "0",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "1",
+ "justification": "Panel A shows a horizontal relief with arch-like repeated motifs above a band of small figures (a quadruped, a bird-like creature, and cross-hatched patterning), while Panel B depicts a single anthropomorphic standing figure with a carved head, arm-like ridges, and a circular disc motif on its torso. The only loose correspondence is that both use carved relief with some symmetrical, schematic facial or geometric motifs, but the actual subject matter (a narrative frieze of animals and patterns vs. a singular humanoid statue with body markings) is fundamentally different.of",
+ "a": "anatolia_ppn_0272",
+ "b": "rapa_nui_0113",
+ "model": "sonnet",
+ "set": "target",
+ "usage": [
+  3174,
+  295
+ ]
+}

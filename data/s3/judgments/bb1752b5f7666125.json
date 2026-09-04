@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief carved figures on a large upright slab/pillar face",
+  "stacked horizontal registers of motifs",
+  "schematic animal or creature forms in profile",
+  "repeated small geometric/symbolic signs in a row",
+  "band-like divider between registers"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces present an upright slab carved in shallow relief with content organised into stacked horizontal registers, combining schematic profile creatures with rows of repeated abstract signs, which is a fairly specific compositional scheme. The clearest difference is that B's content is legible and specific (row of arched/looped signs over a net-like band, a large beaked bird, a small figure, a serpentine/limbed creature, a second bird below), whereas A's carvings are reduced to indistinct lumps and boxy signs with no matching identifiable creature-to-creature relationships.",
+ "a": "egypt_0012",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  718
+ ]
+}

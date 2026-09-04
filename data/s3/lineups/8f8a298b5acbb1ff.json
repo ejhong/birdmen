@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  5,
+  9,
+  1,
+  10,
+  8,
+  7,
+  3,
+  4,
+  6
+ ],
+ "most_similar_reason": "Candidate 2 shows the same kind of low-relief carved panel populated by multiple schematic creatures and figures shown in profile and arranged in stacked bands across the surface, matching the target's register-like piling of animal figures in flat, outlined relief.",
+ "least_similar_reason": "Candidate 6 shows nothing but ruled rows of repeated written signs, with no creatures, figures or pictorial relief of any kind to compare with the target's carved animals.",
+ "set": "moai_close_among_random",
+ "i": 18,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "maya_0023",
+  "assyria_0153",
+  "mississippian_0018",
+  "tanum_0100",
+  "rapa_nui_0004",
+  "egypt_0038",
+  "egypt_0012",
+  "egypt_0043",
+  "maya_0069",
+  "persepolis_0047"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "maya",
+  "tanum",
+  "mississippian",
+  "egypt",
+  "maya",
+  "egypt",
+  "assyria",
+  "egypt",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

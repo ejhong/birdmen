@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  8,
+  7,
+  5,
+  9,
+  3,
+  1,
+  10,
+  2,
+  6
+ ],
+ "most_similar_reason": "Candidate 4 shows the same kind of tall carved pillar covered in low-relief animals and abstract signs stacked in overlapping registers over the whole face, matching the target's crowded, shallow-relief animal repertoire and vertical arrangement.",
+ "least_similar_reason": "Candidate 6 depicts only a rounded slab bearing bands of geometric filler (rows of triangles and hatching) with no animals, creatures or figural relief at all, so it shares nothing distinctive with the target's animal iconography.",
+ "set": "hard",
+ "i": 4,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0116",
+  "gotland_0123",
+  "egypt_0027",
+  "maya_0047",
+  "rapa_nui_0113",
+  "gotland_0125",
+  "egypt_0012",
+  "tanum_0359",
+  "gotland_0133",
+  "gotland_0115"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "gotland",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

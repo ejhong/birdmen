@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "human figures in strict profile",
+  "low-relief carving of figures on a flat ground",
+  "bearded male figure(s) with elaborate coiffure/headgear",
+  "long straight shafted weapon (spear/lance) held vertically or diagonally",
+  "bow",
+  "patterned garment with fine incised parallel lines/fringes",
+  "figures facing the same direction in a single register"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both are profile-view low relief with bearded, elaborately coiffed male figures equipped with the same specific attributes \u2014 a bow and a long straight spear/shaft \u2014 and both use finely incised parallel lines for hair, beard and drapery. However A is a dynamic multi-figure hunting/battle scene with a chariot, galloping horses and collapsing lions, while B shows a single static standing guard-like figure with grounded spear and no animals or vehicles, so the compositional relationships are quite different.",
+ "a": "assyria_0088",
+ "b": "persepolis_0035",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3224,
+  347
+ ]
+}

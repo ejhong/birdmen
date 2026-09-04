@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "front-facing anthropomorphic figure or torso",
+  "block-like head/upper body",
+  "short projecting arms at the sides",
+  "paired circular chest/breast-like elements",
+  "incised geometric or glyph-like signs on the head/torso",
+  "central vertical body axis"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "8",
+ "justification": "Both surfaces show a very similar schematic frontal human-like monolith: a blocky upper body with stub arms, paired circular chest elements, and incised geometric signs distributed over the head and torso. The main difference is that A has a clearer lower-body scheme with curved horizontal bands and a central pendant-like motif, while B is dominated by vertical incised signs and the lower arrangement is not clearly visible.",
+ "a": "rapa_nui_0113",
+ "b": "rapa_nui_0053",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  696
+ ]
+}

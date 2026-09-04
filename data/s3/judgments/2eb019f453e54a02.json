@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "animal shown in profile"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces seem to include an animal rendered in profile, but in A this appears as schematic red-outline horses set against a plain field with a dividing band and plant-like marks, while B shows a single deeply modeled head/face-like form surrounded by dense geometric cross-hatched infill with no clear parallel band structure. The rendering conventions (flat linear silhouette vs. sculpted relief with patterned fill) and overall composition differ enough that only the loosest generic correspondence\u2014'some animal in profile'\u2014can be drawn between them.",
+ "a": "catalhoyuk_0026",
+ "b": "egypt_0053",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  3349,
+  812
+ ]
+}

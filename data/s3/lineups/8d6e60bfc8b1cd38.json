@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  4,
+  3,
+  5,
+  1,
+  10,
+  7,
+  6,
+  2,
+  9
+ ],
+ "most_similar_reason": "Candidate 8 is, like the target, a carefully carved relief panel filled by large figures shown in strict profile with detailed costume, wings/limbs and held attributes rendered naturalistically within a bordered rectangular field, matching the target's profile procession of attendants and animal.",
+ "least_similar_reason": "Candidate 9 shows no depicted creatures, figures or motifs at all \u2014 only plain worked blocks in an excavation \u2014 so it shares nothing iconographic with the target's figured procession.",
+ "set": "related_control",
+ "i": 21,
+ "target": "persepolis_0073",
+ "planted": "assyria_0112",
+ "cands": [
+  "gotland_0133",
+  "gotland_0004",
+  "anatolia_ppn_0072",
+  "anatolia_ppn_0041",
+  "anatolia_ppn_0260",
+  "tanum_0085",
+  "tanum_0324",
+  "assyria_0112",
+  "anatolia_ppn_0196",
+  "egypt_0060"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "egypt",
+  "anatolia_ppn",
+  "gotland",
+  "gotland",
+  "tanum",
+  "anatolia_ppn",
+  "tanum"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

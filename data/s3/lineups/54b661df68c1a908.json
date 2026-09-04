@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  7,
+  2,
+  6,
+  5,
+  4,
+  9,
+  3,
+  10,
+  1
+ ],
+ "most_similar_reason": "Candidate 8 shares a specific scorpion motif and similar animal forms in a matching relief style.",
+ "least_similar_reason": "Candidate 1 depicts a horse, rider, and standing figures, sharing no iconographic elements.",
+ "set": "hard",
+ "i": 4,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "gotland_0116",
+  "gotland_0123",
+  "egypt_0027",
+  "maya_0047",
+  "rapa_nui_0113",
+  "gotland_0125",
+  "egypt_0012",
+  "tanum_0359",
+  "gotland_0133",
+  "gotland_0115"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "gotland",
+  "gotland",
+  "gotland",
+  "egypt",
+  "egypt",
+  "gotland",
+  "tanum"
+ ],
+ "model": "gemini",
+ "planted_rank": 5
+}

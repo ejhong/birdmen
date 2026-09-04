@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  10,
+  7,
+  6,
+  9,
+  2,
+  4,
+  3,
+  1,
+  8
+ ],
+ "most_similar_reason": "Both feature a structured, semi-dense composition of stylized figures and motifs rendered in relief.",
+ "least_similar_reason": "This surface lacks distinct, recognizable iconography or motifs for comparison.",
+ "set": "moai_close_among_random",
+ "i": 26,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "tanum_0344",
+  "gotland_0112",
+  "tanum_0338",
+  "rapa_nui_0004",
+  "assyria_0090",
+  "egypt_0041",
+  "egypt_0044",
+  "gotland_0130",
+  "gotland_0005",
+  "maya_0028"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "assyria",
+  "tanum",
+  "gotland",
+  "egypt",
+  "gotland",
+  "tanum",
+  "gotland"
+ ],
+ "model": "gemini",
+ "planted_rank": 7
+}

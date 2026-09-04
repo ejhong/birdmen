@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  1,
+  7,
+  6,
+  2,
+  10,
+  3,
+  8,
+  4,
+  9
+ ],
+ "most_similar_reason": "Candidate 5, like the target, is a tall free-standing monolithic block whose surface bears only sparse, shallow, schematic carved motifs arranged vertically down the shaft rather than a narrative scene, matching the target's isolated abstract emblems (ring, bands, incised marks) spread over a large plain body.",
+ "least_similar_reason": "Candidate 9 is essentially a flat panel filled edge-to-edge with dense rows of small repeated sign-like characters and no sculpted body, figure or isolated emblem, sharing nothing with the target's anthropomorphic block bearing a few large discrete motifs.",
+ "set": "p43_iso_among_monoliths",
+ "i": 25,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "mississippian_0015",
+  "gotland_0112",
+  "egypt_0041",
+  "egypt_0076",
+  "maya_0137",
+  "maya_0146",
+  "maya_0149",
+  "egypt_0070",
+  "egypt_0064",
+  "anatolia_ppn_p43iso"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "mississippian",
+  "egypt",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 6
+}

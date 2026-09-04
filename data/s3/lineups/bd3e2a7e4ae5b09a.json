@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  6,
+  4,
+  8,
+  1,
+  3,
+  9,
+  7,
+  5,
+  2
+ ],
+ "most_similar_reason": "Candidate 10 shares the target's distinctive stacked composition with a band of repeated zigzag/triangle geometric motifs paired with small figural elements, echoing the target's register of triangular patterning above rows of animal figures.",
+ "least_similar_reason": "Candidate 2 is a single freestanding human statue with no animal figures, registers, or geometric banding, making its depicted content fundamentally different from the target's stacked bird, animal, and pattern imagery.",
+ "set": "moai_close_among_random",
+ "i": 6,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "maya_0091",
+  "rapa_nui_0004",
+  "egypt_0042",
+  "persepolis_0051",
+  "tanum_0050",
+  "tanum_0359",
+  "assyria_0088",
+  "assyria_0015",
+  "assyria_0112",
+  "gotland_0128"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "tanum",
+  "assyria",
+  "persepolis",
+  "gotland",
+  "assyria",
+  "tanum",
+  "assyria"
+ ],
+ "model": "sonnet",
+ "planted_rank": 10
+}

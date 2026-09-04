@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  8,
+  1,
+  5,
+  3,
+  7,
+  2,
+  4,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 6 shares the target's core content: animals shown in strict profile in shallow relief, aligned in a band and combined with other figures, rendered with the same simplified outline-and-flat-infill convention.",
+ "least_similar_reason": "Candidate 10 shows only rows of written signs with no creatures, figures or pictorial motifs, so it shares none of the target's animal imagery or stacked relief composition.",
+ "set": "moai_among_random",
+ "i": 15,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "maya_0054",
+  "assyria_0123",
+  "persepolis_0018",
+  "tanum_0129",
+  "maya_0130",
+  "persepolis_0027",
+  "rapa_nui_0113",
+  "maya_0138",
+  "mississippian_0015",
+  "egypt_0038"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "persepolis",
+  "egypt",
+  "mississippian",
+  "tanum",
+  "maya",
+  "assyria",
+  "maya",
+  "persepolis",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 6
+}

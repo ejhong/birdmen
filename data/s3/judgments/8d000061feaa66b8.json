@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figure shown in profile",
+  "bare muscular forearm with bracelet/armlet at the wrist",
+  "hand extended toward another element",
+  "dense scale-like or curl patterning used as surface infill (fleece / wing feathering)",
+  "animal-like body in profile with legs bent/kneeling",
+  "low relief filling the whole field, figures oriented sideways"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces share the same relief conventions for the human body \u2014 a profile figure with a heavy bare forearm ringed by a bracelet, hand reaching out toward the other element \u2014 and both use dense stylized scale/curl patterning as infill (fleece in A, wing plumage in B), which is a fairly specific shared repertoire. The subjects themselves diverge, however: A shows a pair of naturalistic horned rams being driven or led, while B shows a bearded winged figure with a stylized palmette plant and a crouching quadruped, so the scenes as wholes are different.",
+ "a": "persepolis_0095",
+ "b": "assyria_0078",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3324,
+  891
+ ]
+}

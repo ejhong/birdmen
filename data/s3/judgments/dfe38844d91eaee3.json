@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "circular disc motif",
+  "horizontal band/pattern"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces include a roughly circular disc-like motif and some horizontal banding, but the surrounding content diverges sharply: A depicts an architectural (arch) motif, profile animal/bird figures and zigzag lines on a flat pillar, while B shows a single disc and belt-like band carved on the back of an anthropomorphic statue. The correspondence is limited to generic geometric shapes rather than a shared specific iconographic scheme.",
+ "a": "anatolia_ppn_p43full2",
+ "b": "rapa_nui_0004",
+ "model": "sonnet",
+ "set": "target",
+ "usage": [
+  2999,
+  1085
+ ]
+}

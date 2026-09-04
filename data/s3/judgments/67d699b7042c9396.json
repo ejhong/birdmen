@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "horizontal registers/bands separated by ruled dividing lines",
+  "rows of small pictographic sign-like motifs (script-like carving)",
+  "repeated schematic bird- or plant-like signs within a line",
+  "relief/outline rendering of small figures in profile"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both surfaces are organised as horizontal registers of small pictographic sign-forms set between ruled lines, with individual signs (bird-like and plant-like shapes in profile) repeated along a line, which is a reasonably specific shared convention of a written register system. The biggest difference in content is that A carries an entire figural scene at the top \u2014 adoring human figures beneath a rayed disc, offering table and flanking cartouches \u2014 none of which appears on B, which shows only the banded sign-rows.",
+ "a": "egypt_0015",
+ "b": "anatolia_ppn_0106",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3124,
+  703
+ ]
+}

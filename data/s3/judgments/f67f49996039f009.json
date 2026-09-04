@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "single large standing anthropomorphic figure occupying the whole field",
+  "headdress/cap on the head",
+  "bearded or elaborated face",
+  "body ornaments (necklace/bracelet-like bands, belt or girdle)",
+  "disc/rosette-like circular motif on the torso",
+  "incised surface detail over the body"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict a single dominant upright anthropomorphic figure with a headdress, facial hair suggestion and worn ornaments (bands at the neck/wrist, a girdle), and both include a circular disc-like motif on the torso region, which is the most specific overlap. However, B shows a profile figure in a fish-skin cloak with a raised arm and a distinct handled bucket, an attribute and posture entirely absent from A's frontal, armless-looking columnar figure whose surface motifs are broad and schematic rather than finely linear.",
+ "a": "rapa_nui_0113",
+ "b": "assyria_0118",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  2849,
+  690
+ ]
+}

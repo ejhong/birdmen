@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "round-topped stele field with figural scene above and text below",
+  "standing human figures in profile",
+  "offering table/stand piled with offerings",
+  "sun disc with radiating rays ending in hands",
+  "royal figure(s) with tall crown facing offerings",
+  "register divisions with horizontal lines of writing",
+  "smaller subsidiary figures at one side",
+  "columns/blocks of script signs"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "9",
+ "justification": "Both are round-topped stelae showing a rayed sun disc in the arch whose rays descend over a laden offering stand, with a crowned figure and consort facing it in profile and smaller attendant figures behind, above ruled bands of script. The main difference is proportion of scene to text (B devotes most of the surface to long text registers while A shows a second register of seated/standing figures) and the number of subsidiary figures.\n",
+ "a": "egypt_0047",
+ "b": "egypt_0013",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  2924,
+  325
+ ]
+}

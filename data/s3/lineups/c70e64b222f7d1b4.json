@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  3,
+  4,
+  8,
+  6,
+  2,
+  5,
+  10,
+  9,
+  1
+ ],
+ "most_similar_reason": "Candidate 7 is most similar because it shows the same kind of large, schematic frontal mask-like/anthropomorphic form with prominent circular central feature and curved banding beneath paired facial elements, arranged as a dominant single image.",
+ "least_similar_reason": "Candidate 1 is least similar because it consists mainly of orderly horizontal lines of writing on an arched tablet and lacks the target\u2019s large abstract figural face/body composition and distinctive circular-and-arc motifs.",
+ "set": "p43_iso_among_monoliths",
+ "i": 9,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "egypt_0049",
+  "anatolia_ppn_p43iso",
+  "maya_0152",
+  "maya_0137",
+  "egypt_0073",
+  "egypt_0040",
+  "maya_0069",
+  "maya_0039",
+  "maya_0077",
+  "maya_0095"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya",
+  "maya",
+  "maya"
+ ],
+ "model": "gpt",
+ "planted_rank": 6
+}

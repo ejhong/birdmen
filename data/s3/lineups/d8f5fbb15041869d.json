@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  4,
+  7,
+  6,
+  2,
+  5,
+  3,
+  10,
+  9,
+  1
+ ],
+ "most_similar_reason": "Candidate 8 shows, like the target, a human figure carved in shallow relief in strict profile with a conventionally patterned coiffure and beard rendered as regular rows of curls, matching the target's row of bearded attendants in the same relief idiom.",
+ "least_similar_reason": "Candidate 1 shows an eroded rock mass with no recognisable depicted creatures, figures, objects or ordered motifs, so there is nothing in its content that corresponds to the target's processional figures, animal and floral border.",
+ "set": "related_control",
+ "i": 33,
+ "target": "persepolis_0068",
+ "planted": "assyria_0128",
+ "cands": [
+  "egypt_0012",
+  "mississippian_0052",
+  "rapa_nui_0049",
+  "maya_0092",
+  "mississippian_0002",
+  "catalhoyuk_0025",
+  "egypt_0028",
+  "assyria_0128",
+  "egypt_0024",
+  "tanum_0344"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "mississippian",
+  "rapa_nui",
+  "egypt",
+  "egypt",
+  "catalhoyuk",
+  "maya",
+  "egypt",
+  "tanum",
+  "mississippian"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

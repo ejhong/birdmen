@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "quadruped animals in profile low relief",
+  "animals with heads shown frontally / bent over",
+  "register-like horizontal arrangement of animal figures",
+  "carnivore-like beast with open mouth and visible teeth/snout",
+  "bird-like figure",
+  "repeated row of similar animal forms",
+  "raised-outline relief with plain interior"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both surfaces carry crowded low-relief animal imagery in stacked horizontal registers, including profile quadrupeds with heads turned toward the viewer, a snarling predator head at the lower edge, and bird forms, all rendered in the same raised-outline, flat-interior schematic convention with similar squat proportions. The clearest difference is that B adds a strongly ordered top register of repeated arched/animal signs above a banded chevron strip and a large frontal bird and plant-like motif below, whereas A is a single dense mass of interlocking animals without that hierarchical banding.",
+ "a": "anatolia_ppn_0078",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3048,
+  366
+ ]
+}

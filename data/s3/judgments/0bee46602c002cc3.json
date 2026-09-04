@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "quadruped animal shown in profile",
+  "low-relief carving of animal figure on a vertical surface",
+  "animal facing to the viewer's right"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces depict a quadruped in profile rendered in low relief, but this is a near-universal motif and the species and treatment differ entirely: A shows a naturalistic humped camel led by a human figure, framed by a border band of rosettes and an ordered processional register, while B shows a small schematic feline-like animal with an elongated body and a separate reptilian/serpentine form below it, with no human figures, no border ornament and no register scheme. The arrangement (a bounded horizontal frieze versus isolated motifs stacked on a narrow upright shaft) and the proportions of the animals share nothing specific.",
+ "a": "persepolis_0063",
+ "b": "anatolia_ppn_0041",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  318
+ ]
+}

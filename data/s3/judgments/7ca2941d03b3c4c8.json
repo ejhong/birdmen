@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "round-topped (arched) stela field",
+  "solar disc in the lunette at the apex",
+  "human figures in profile in the upper register",
+  "registers of the same hieroglyphic sign-script",
+  "many long horizontal lines of text filling most of the surface",
+  "oval cartouche-like enclosures around sign groups",
+  "raised/incised outline figures with schematic proportions",
+  "offering or ritual scene above text"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "7",
+ "justification": "Both are arched fields with a solar disc crowning a small figural scene of profile human figures in the lunette, beneath which the entire remaining surface is filled with ruled horizontal lines of the same distinctive hieroglyphic script including cartouche-shaped enclosures \u2014 a highly specific and conventional shared scheme. The chief difference in content is the upper scene: A shows two large adoring figures beneath a disc with radiating hands over an offering table, while B shows a winged disc above a row of many small equal-sized standing figures in a single register.",
+ "a": "egypt_0013",
+ "b": "egypt_0049",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  2924,
+  676
+ ]
+}

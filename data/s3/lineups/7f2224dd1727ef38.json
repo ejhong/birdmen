@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  10,
+  6,
+  7,
+  8,
+  3,
+  2,
+  4,
+  5,
+  9
+ ],
+ "most_similar_reason": "Candidate 1 is most similar because it shows the same kind of schematic relief program: multiple profile animals and birdlike forms stacked on an upright surface, with comparable simplified outlines and dense vertical arrangement.",
+ "least_similar_reason": "Candidate 9 is least similar because it appears to depict mainly a vertical vegetal or ornamental pattern rather than the target\u2019s profile animals, birds, and emblematic carved figures.",
+ "set": "moai_among_random",
+ "i": 9,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "maya_0138",
+  "persepolis_0030",
+  "egypt_0044",
+  "tanum_0128",
+  "maya_0129",
+  "maya_0136",
+  "rapa_nui_0113",
+  "assyria_0100",
+  "assyria_0142",
+  "maya_0137"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "maya",
+  "assyria",
+  "persepolis",
+  "tanum",
+  "maya",
+  "assyria",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 4
+}

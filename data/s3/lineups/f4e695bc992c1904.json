@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  4,
+  10,
+  8,
+  3,
+  1,
+  7,
+  6,
+  2,
+  5
+ ],
+ "most_similar_reason": "Candidate 9 shares a somewhat similar pillar shape and a comparable flat animal relief style.",
+ "least_similar_reason": "Candidate 5 mainly shows geometric shapes and text rather than animal figures.",
+ "set": "same_control",
+ "i": 12,
+ "target": "anatolia_ppn_0082",
+ "planted": "anatolia_ppn_0095",
+ "cands": [
+  "egypt_0040",
+  "egypt_0027",
+  "persepolis_0104",
+  "rapa_nui_0097",
+  "gotland_0003",
+  "maya_0026",
+  "assyria_0140",
+  "egypt_0066",
+  "anatolia_ppn_0095",
+  "assyria_0125"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "assyria",
+  "egypt",
+  "rapa_nui",
+  "egypt",
+  "egypt",
+  "assyria",
+  "maya",
+  "gotland",
+  "persepolis"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

@@ -1,0 +1,27 @@
+{
+ "shared_elements": [
+  "large upright anthropomorphic monolith/pillar carved in low relief",
+  "stylised bird or bird-like creature in profile",
+  "zigzag / chevron patterning",
+  "horizontal band or belt dividing the surface",
+  "disc or circular element on the torso",
+  "arms/hands rendered in low relief on the body",
+  "small quadrupeds or animals arranged in a row across the upper zone",
+  "snake-like sinuous element"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "6",
+ "justification": "Both are monumental upright anthropomorphic slabs whose body surface carries low-relief animals (birds in profile, quadrupeds), zigzag/chevron fields, a horizontal belt-like band and a disc, with arms rendered flat against the body \u2014 a fairly specific shared scheme rather than a generic one. The clearest differences are that A has a sculpted three-dimensional head with facial features and a broad rounded body, while B's imagery is confined to a flat panel with a register of repeated animals along the top and a large bird-and-snake motif lower down, so the specific creature identities and their groupings do not match closely.",
+ "a": "rapa_nui_0004",
+ "b": "anatolia_ppn_p43full2",
+ "model": "opus",
+ "set": "target",
+ "usage": [
+  2999,
+  403
+ ]
+}

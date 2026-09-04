@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "low-relief carving on a flat stone slab",
+  "glyph-like square/rounded blocks with internal detail",
+  "elaborate headdress-like element (in B)",
+  "human-like figure (only B)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces carry low-relief carving composed of dense, rounded-square cartouches filled with small internal motifs, and B's ornament blocks (belt, headdress) share the same block-like glyphic convention seen throughout A, suggesting a comparable sign vocabulary. The decisive difference is that A depicts only a vertical double column of repeated glyph blocks with no figure, while B is dominated by a single frontal standing human figure in profile head with headdress, ornaments and flanking objects.",
+ "a": "maya_0077",
+ "b": "maya_0136",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  2974,
+  308
+ ]
+}

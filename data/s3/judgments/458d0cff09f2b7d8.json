@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human or anthropomorphic figure",
+  "head and torso/body parts",
+  "circular motifs",
+  "linear incised/geometric details"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The main overlap is only generic: both include human or anthropomorphic bodies with some circular and linear details. A is a single highly schematic frontal figure or statue-like body covered with abstract motifs, while B is a profile procession scene with multiple humans and ram-like animals in narrative interaction.",
+ "a": "rapa_nui_0113",
+ "b": "persepolis_0022",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  505
+ ]
+}

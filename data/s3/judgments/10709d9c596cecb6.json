@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "horse in profile facing left",
+  "chariot with spoked wheel",
+  "charioteer/rider standing in chariot box",
+  "reins and pole/yoke lines running from horse to chariot",
+  "bridled horse head with harness ornament",
+  "spoked wheel shown as full circle with radiating spokes",
+  "low-relief profile procession scene"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "8",
+ "justification": "Both depict the same distinctive scheme: a bridled horse in left-facing profile drawing a chariot at right, with long straight reins/pole lines crossing the field to a standing figure in the chariot box, and a multi-spoked wheel rendered as a full circle at the lower right \u2014 the same relative placement and same low-relief profile convention. Differences are in supporting content only: A adds a standing attendant at the far left and a fallen/trampled body beneath the horse, while B adds a decorative rosette border band along the bottom and shows no subsidiary figures.",
+ "a": "assyria_0109",
+ "b": "persepolis_0088",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  355
+ ]
+}

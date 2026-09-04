@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "row of rounded rectangular/arched emblem-like signs at the top",
+  "horizontal band of repeated triangular/chevron pattern",
+  "animal figures in profile below the band",
+  "long curving serpent-like or tail-like forms",
+  "schematic low-relief outline style"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "8",
+ "justification": "The strongest correspondence is the distinctive scheme of several arched, bag-like signs along the top, directly above a horizontal band of repeated triangular/chevron marks, with profile animals and curving linear animal forms below. The main difference is that B contains a denser and clearer set of specific creatures, including a prominent running quadruped and other animals, while A\u2019s lower animal scene is sparser or less legible and does not obviously match creature-for-creature.",
+ "a": "anatolia_ppn_0045",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  616
+ ]
+}

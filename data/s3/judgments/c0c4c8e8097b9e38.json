@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "human figure(s) in profile",
+  "low-relief carved stelae with figural scene",
+  "script signs / glyph blocks integrated with the figures",
+  "elaborate headdress on principal figure",
+  "held objects/staff or emblem in figure's hands",
+  "upper zone of inscription above/beside figures"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both are upright slab monuments carved in low relief showing human figures in profile with elaborate headdresses, holding objects, accompanied by blocks of script signs placed above and beside them \u2014 a broadly shared 'inscribed figural stela' scheme. But the specific forms differ markedly: A shows a seated enthroned figure with a smaller attendant offering, rendered in clean flowing linear outline with clear anatomy, while B shows a standing, densely ornamented figure whose costume, plumes and glyph blocks fill the field in a much more crowded, blocky and geometricised manner.",
+ "a": "egypt_0073",
+ "b": "maya_0088",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  2974,
+  355
+ ]
+}

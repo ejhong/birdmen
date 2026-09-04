@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "three arched or U-shaped motifs in an upper row",
+  "horizontal band of repeated chevron/triangle-like signs",
+  "profile birds or long-necked animals",
+  "small oval or disc-like form",
+  "schematic animal figures arranged in registers"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "9",
+ "justification": "Both surfaces show a very specific scheme: an upper row of three arched motifs above a dense horizontal band of repeated triangular/chevron signs, with schematic profile animals, including long-necked bird-like forms, arranged below in comparable registers. The main depicted difference is that the lower portions do not show exactly the same visible set of animals or details, with A presenting more of the lower vertical scene than B.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0105",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  694
+ ]
+}

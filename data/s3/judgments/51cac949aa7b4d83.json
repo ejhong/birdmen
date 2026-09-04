@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "standing human figure in profile or near-profile",
+  "elongated staff-like object held by or beside a figure",
+  "small repeated sign-like marks",
+  "animal or bird-like figures in profile",
+  "horizontal register or band-like organization"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "Both surfaces include schematic profile figures, some animal/bird-like forms, staff-like linear objects, and repeated sign-like motifs arranged partly in bands or registers. The strongest correspondence is the use of profile human/animal forms with surrounding signs, but A presents a relatively coherent figural scene with standing humans flanking a central action, whereas B is a stacked field of more abstract, emblematic animal and sign motifs with no matching central scene.",
+ "a": "egypt_0065",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  632
+ ]
+}

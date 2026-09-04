@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "standing human figures in profile",
+  "figures facing one another",
+  "figures holding/offering objects",
+  "long garments with hem detail",
+  "low relief carving of a scene on a rectangular/upright slab",
+  "raised arms/hands gestures",
+  "registers or grouped scene of figures"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show low-relief profile human figures in long garments confronting each other and extending arms with held objects, an offering or presentation-type encounter, and both render bodies with outlined profile heads and patterned hems. However, A is a single large-scale pair of figures filling one field with clearly rendered detail (bucket, ladle-like object, sword), while B stacks smaller figures in at least two registers on a pointed-topped slab with additional small objects/altar-like items and possible sign groups, so the compositional organization differs substantially.",
+ "a": "assyria_0095",
+ "b": "egypt_0072",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  323
+ ]
+}

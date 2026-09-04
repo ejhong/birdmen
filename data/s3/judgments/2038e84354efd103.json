@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "low-relief carved figure(s) in strict profile",
+  "standing/striding humanoid figure with one arm raised and bent at the elbow",
+  "elaborately curled, tightly rendered hair and beard rendered as rows of ringlets",
+  "long fringed/patterned robe reaching the ankles",
+  "held object in the raised hand (bucket/vessel and bowls)",
+  "feet in profile with detailed toes on a ground line",
+  "musculature/limbs rendered with schematic modelled contours"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "1",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show profile figures in long fringed robes with tightly curled ringleted hair and beards, one arm raised bent at the elbow while the other hand holds a vessel, carved in shallow relief with the same conventions for hair, drapery folds and feet \u2014 a fairly specific shared repertoire. The chief difference is content: A shows a single monumental bird-headed winged genius filling the field, while B shows a repeated procession of ordinary human attendants carrying bowls toward a figure at the right, so scale, subject and compositional scheme differ.",
+ "a": "assyria_0151",
+ "b": "persepolis_0080",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3174,
+  402
+ ]
+}

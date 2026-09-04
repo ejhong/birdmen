@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "profile quadruped animal",
+  "standing or running human/anthropomorphic figure",
+  "bird in profile",
+  "linear/geometric marks"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is that both surfaces include profile animals accompanied by small human or human-like figures, with bird forms also present. The biggest difference is that A is a carved, vertically organized stone surface with register-like bands and relief motifs, while B is an open painted scene dominated by large red animal silhouettes and scattered running figures.",
+ "a": "anatolia_ppn_p43full",
+ "b": "catalhoyuk_0039",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  508
+ ]
+}

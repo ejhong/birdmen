@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "horizontal rows of repeated incised signs or geometric motifs",
+  "schematic animal or creature figures in profile",
+  "rectangular/vertical decorated field divided into zones or registers"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main shared content is generic: both surfaces include schematic incised relief imagery with repeated horizontal rows of small signs or motifs, and both appear to include some animal/creature forms among the markings. The biggest difference is that A is dominated by large, distinct profile animals and bold patterned bands arranged on a narrow pillar-like surface, while B is dominated by a dense inscription-like central field with standing human figures at the lower sides and no matching large animal scheme.",
+ "a": "anatolia_ppn_p43full",
+ "b": "egypt_0020",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  690
+ ]
+}

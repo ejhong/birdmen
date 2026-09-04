@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  9,
+  5,
+  1,
+  10,
+  3,
+  6,
+  4,
+  8,
+  7
+ ],
+ "most_similar_reason": "Candidate 2, like the target, is a flat slab carved in shallow relief with the surface divided into horizontal registers filled with rows of small pictorial sign-like elements (including animal and object forms) rather than a single dominant figural scene, giving the same script-like, register-organised layout and schematic outline style.",
+ "least_similar_reason": "Candidate 7 is a massive three-dimensional human figure with a headdress carved in the round, with no registers, no rows of small pictorial signs and no profile animal motifs of the kind that fill the target.",
+ "set": "moai_iso_among_monoliths",
+ "i": 10,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "gotland_0133",
+  "egypt_0042",
+  "maya_0091",
+  "maya_0052",
+  "egypt_0072",
+  "maya_0054",
+  "rapa_nui_hoa_iso",
+  "gotland_0112",
+  "egypt_0067",
+  "maya_0105"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "gotland",
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "gotland",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 10
+}

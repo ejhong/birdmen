@@ -1,0 +1,18 @@
+{
+ "shared_elements": [],
+ "element_similarity": "0",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "0",
+ "justification": "Image A depicts a monumental, minimally-featured anthropomorphic head-and-torso figure with abstracted facial features, while image B depicts a flat inscribed panel densely covered in rows of small hieroglyphic-style signs and two seated figures at the bottom in registers. There is no overlap in the kinds of elements depicted (a single large sculpted figure vs. a text-covered stele with rows of small glyphs), no shared relationships between elements, and no shared arrangement or stylistic convention beyond both being carved stone surfaces, which is excluded from comparison.",
+ "a": "rapa_nui_0054",
+ "b": "egypt_0038",
+ "model": "sonnet",
+ "set": "reliability",
+ "usage": [
+  2924,
+  264
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  10,
+  4,
+  3,
+  9,
+  2,
+  5,
+  8,
+  6,
+  1
+ ],
+ "most_similar_reason": "Candidate 7 shows a flat stone slab carved in low relief with animal figures arranged in horizontal registers, echoing the schematic animal carvings on the target pillar's surface.",
+ "least_similar_reason": "Candidate 1 depicts an abstract, rounded sculptural form with no recognizable animal or figurative relief, sharing none of the target's carved animal iconography or flat relief style.",
+ "set": "same_control_monoliths",
+ "i": 3,
+ "target": "anatolia_ppn_0027",
+ "planted": "anatolia_ppn_0263",
+ "cands": [
+  "anatolia_ppn_0263",
+  "maya_0088",
+  "maya_0111",
+  "maya_0136",
+  "egypt_0049",
+  "rapa_nui_0063",
+  "egypt_0067",
+  "gotland_0112",
+  "egypt_0071",
+  "maya_0092"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "gotland",
+  "maya",
+  "maya",
+  "egypt",
+  "rapa_nui",
+  "maya",
+  "maya",
+  "egypt",
+  "egypt"
+ ],
+ "model": "sonnet",
+ "planted_rank": 10
+}

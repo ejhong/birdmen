@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "human figures shown standing/upright",
+  "figures holding or carrying objects",
+  "repeated rows of similar elements (boat hulls with crew strokes / line of figures)",
+  "small quadruped animal figures (A only? \u2014 A has quadrupeds)"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The only real overlap is that both surfaces depict upright human figures, some holding objects, and both use repetition of similar units (boats with crew-strokes in A, a file of robed men in B); this is the sort of coincidence any two traditions could produce. Everything specific differs: A is dominated by profile boats, cup marks and matchstick bodies rendered as bare outlines scattered over the rock, while B is a single horizontal procession of modelled, garment-draped figures with elaborate headgear linking hands in a formal register.",
+ "a": "tanum_0334",
+ "b": "persepolis_0025",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  493
+ ]
+}

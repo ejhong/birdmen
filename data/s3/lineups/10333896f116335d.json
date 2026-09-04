@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  3,
+  10,
+  9,
+  4,
+  6,
+  8,
+  1,
+  2,
+  5
+ ],
+ "most_similar_reason": "Candidate 7 is most similar because it shows a dense low-relief field of schematic curving motifs with circular elements and interlocking animal/scroll-like forms arranged across a slab, closely matching the target\u2019s abstract zoomorphic, spiral-like composition.",
+ "least_similar_reason": "Candidate 5 is least similar because it depicts a single frontal standing human-like figure with simple body features, lacking the target\u2019s crowded curvilinear animal-symbol patterning and interwoven surface arrangement.",
+ "set": "same_control",
+ "i": 17,
+ "target": "rapa_nui_0002",
+ "planted": "rapa_nui_0063",
+ "cands": [
+  "mississippian_0008",
+  "egypt_0004",
+  "anatolia_ppn_0045",
+  "anatolia_ppn_0260",
+  "rapa_nui_0063",
+  "maya_0147",
+  "anatolia_ppn_0105",
+  "persepolis_0066",
+  "persepolis_0062",
+  "assyria_0012"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "persepolis",
+  "mississippian",
+  "anatolia_ppn",
+  "persepolis",
+  "anatolia_ppn",
+  "egypt",
+  "assyria",
+  "maya",
+  "anatolia_ppn"
+ ],
+ "model": "gpt",
+ "planted_rank": 10
+}

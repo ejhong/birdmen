@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic linear human figures with stick limbs",
+  "boat/vessel with upcurved prow",
+  "monochrome silhouette/outline painted rock-art motifs",
+  "raised-arm gesture"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both depict schematic monochrome rock-art painted figures in the same linear stick-and-outline convention, and both include a boat with an upcurved prow crewed or accompanied by small stick-limbed human forms plus an animal-like creature in B and crew rows in A. However, A is dominated by two large multi-tiered ships with rows of identical crew strokes and no dominant single figure, whereas B centres on one large individual figure with outstretched arms above a small vessel and a separate small quadruped, so the composition and emphasis differ substantially.",
+ "a": "tanum_0054",
+ "b": "tanum_0128",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3174,
+  311
+ ]
+}

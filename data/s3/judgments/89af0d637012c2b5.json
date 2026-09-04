@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "low-relief carving arranged in stacked horizontal registers",
+  "row of repeated circular discs / ring motifs",
+  "horizontal band of repeated small vertical or arched signs across the top",
+  "framing border line at the edge of the carved field"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces show shallow relief organised into stacked horizontal registers, with a band of small repeated signs above and rows of circular disc/ring motifs below, and both use flat, schematic outlined forms with plain infill. The decisive difference is that B's registers are populated by clearly identifiable creatures in profile (a quadruped, a bird, a serpentine form) interacting with discs and objects, whereas A shows only abstract repeated ring and block motifs with no recognisable animal or figural subject.",
+ "a": "maya_0126",
+ "b": "anatolia_ppn_p43full",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3174,
+  747
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "profile animal figures",
+  "possible bird in profile",
+  "elongated vertical decorated stone surface",
+  "low-relief carving"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both surfaces carry multiple shallow-carved, schematic animal forms, including at least a possible bird-like profile figure on each. The biggest difference is that B is clearly organized into crisp horizontal zones with legible repeated motifs, while A is heavily eroded and its figures are irregularly distributed and much harder to identify.",
+ "a": "maya_0125",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  644
+ ]
+}

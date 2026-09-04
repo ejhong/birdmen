@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic anthropomorphic figures",
+  "profile animal or bird-like figures",
+  "simple linear signs/marks"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main correspondence is that both surfaces include schematic carved figures, apparently including human/anthropomorphic forms and some animal or bird-like profile forms. The biggest difference is that A is an organized composition with distinct horizontal registers, repeated geometric bands, and clear individual creatures, while B is a loose scatter of faint petroglyph-like figures on separate rock faces without the same register structure or distinctive motifs.",
+ "a": "anatolia_ppn_p43full",
+ "b": "rapa_nui_0106",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  664
+ ]
+}

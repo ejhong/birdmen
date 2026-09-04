@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "low relief carving of figures in strict profile",
+  "human figure in profile with visible arm(s) raised/extended",
+  "quadruped legs and hooved/clawed feet on a groundline",
+  "bearded male figure",
+  "frieze-like horizontal composition with figures on a baseline",
+  "weapon/staff-like straight object held diagonally"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both are profile-view low-relief friezes with human male figures on a groundline, one holding a straight rod-like implement diagonally, and both include a four-legged body; that is about the extent of the correspondence. A shows a naturalistic horse-drawn chariot with wheel and driver plus a rosette border, while B shows composite winged monsters \u2014 a bird-headed, feather-bodied griffin-demon and a winged helmeted figure with elaborately patterned wings and garments \u2014 with no vehicle, no wheel and no floral band.this is generic profile-relief convention rather than a shared scene.",
+ "a": "persepolis_0088",
+ "b": "assyria_0059",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3349,
+  367
+ ]
+}

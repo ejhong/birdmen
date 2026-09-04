@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  9,
+  5,
+  2,
+  7,
+  1,
+  8,
+  3,
+  6,
+  10
+ ],
+ "most_similar_reason": "Candidate 4 is most similar because it likewise has a vertically organized, highly schematic carved figure/symbol composition on an upright form, with abstract body-like zones and repeated curving, circular, and linear signs rather than a naturalistic narrative scene.",
+ "least_similar_reason": "Candidate 10 is least similar because it shows a horizontal procession of multiple naturalistically proportioned profile human figures, lacking the target\u2019s single frontal, totemic, geometric anthropomorphic arrangement.",
+ "set": "p43_among_random",
+ "i": 7,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "assyria_0071",
+  "catalhoyuk_0065",
+  "assyria_0000",
+  "anatolia_ppn_p43full",
+  "tanum_0321",
+  "persepolis_0099",
+  "assyria_0151",
+  "assyria_0122",
+  "persepolis_0071",
+  "persepolis_0012"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "persepolis",
+  "assyria",
+  "tanum",
+  "persepolis",
+  "assyria",
+  "persepolis",
+  "assyria",
+  "assyria",
+  "catalhoyuk"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

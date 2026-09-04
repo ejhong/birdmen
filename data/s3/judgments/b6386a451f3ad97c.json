@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "frontal anthropomorphic/human figure",
+  "head with facial features",
+  "neck or upper torso below the head",
+  "bilateral body symmetry"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict a centrally placed frontal human-like figure with a head/face above a neck or torso, which is the most specific shared content. The biggest difference is that A shows a highly schematic full torso with breasts, arms, circular and banded incised motifs, while B is essentially a rougher head-and-neck/bust without the same body symbols or geometric ornament.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_0239",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  513
+ ]
+}

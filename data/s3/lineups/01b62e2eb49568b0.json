@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  1,
+  4,
+  7,
+  5,
+  6,
+  3,
+  9,
+  2,
+  8
+ ],
+ "most_similar_reason": "Candidate 10 is the only other piece that shows a single large anthropomorphic figure carved in relief with an emphasized elaborate headdress and ornamented torso occupying the whole block, matching the target's schematic body-with-head, neck ornament and belt scheme.",
+ "least_similar_reason": "Candidate 8 shows only an abstract incised outline pattern on a fan-shaped surface with no human figure, headdress, disc ornament or belt, so it shares none of the target's depicted elements.",
+ "set": "p43_iso_among_monoliths",
+ "i": 3,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "anatolia_ppn_p43iso",
+  "gotland_0117",
+  "egypt_0063",
+  "maya_0045",
+  "maya_0147",
+  "maya_0152",
+  "maya_0082",
+  "gotland_0112",
+  "egypt_0064",
+  "maya_0097"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "gotland",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "gotland",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 2
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "bird in profile with curved or hooked beak",
+  "multiple animal figures arranged vertically",
+  "horizontal tiers or register-like separation",
+  "linear hatching or repeated incised patterning"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is the use of profile birds with curved beaks, placed among other motifs on a vertical, tiered surface and rendered with linear outline/detailing. The biggest difference is that A is a symmetrical totem-like composition with large birds flanking or crowning a central anthropomorphic/crossed-limb form, while B is a crowded field of separate animal and sign motifs in horizontal bands with no matching central figure or paired-bird scheme.",
+ "a": "anatolia_ppn_0174",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1751,
+  690
+ ]
+}

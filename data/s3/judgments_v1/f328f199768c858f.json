@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "carved or engraved marks on a stone surface",
+  "horizontal rows or bands of markings",
+  "rough vertical rock/stone support"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces organize carved markings into horizontal bands or rows on a vertical stone face. The biggest difference is that A is a broad, eroded panel of fine, dense, mostly indistinct linear signs, while B has large, boldly raised figural motifs in a much clearer block-like composition.",
+ "a": "egypt_0002",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1230,
+  522
+ ]
+}

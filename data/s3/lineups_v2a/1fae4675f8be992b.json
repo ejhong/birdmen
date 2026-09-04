@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  3,
+  9,
+  2,
+  10,
+  5,
+  8,
+  1,
+  6,
+  7
+ ],
+ "most_similar_reason": "Candidate 4, like the target, is a free-standing monolithic pillar with an implied anthropomorphic body bearing shallow, schematic low-relief motifs (arms/hands and emblematic creatures) spread across its broad face rather than a framed pictorial scene.",
+ "least_similar_reason": "Candidate 7 shows an essentially blank rock-cut wall face with no discernible figures, symbols or motifs, so it shares none of the target's schematic carved emblems on an anthropomorphic form.",
+ "set": "p43_among_random",
+ "i": 3,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "egypt_0056",
+  "assyria_0115",
+  "tanum_0240",
+  "anatolia_ppn_p43full",
+  "persepolis_0007",
+  "persepolis_0051",
+  "egypt_0020",
+  "persepolis_0097",
+  "egypt_0064",
+  "persepolis_0047"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "tanum",
+  "egypt",
+  "assyria",
+  "egypt",
+  "persepolis",
+  "persepolis",
+  "persepolis",
+  "egypt",
+  "persepolis"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

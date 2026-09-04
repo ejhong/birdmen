@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "upright rounded-topped stele/slab with figural scene in upper register",
+  "human figures in profile",
+  "arched/rounded framing at the top of the composition",
+  "script signs arranged in bands or borders",
+  "registers separating a figural scene above from denser content below",
+  "raised/outlined relief figures against a plain ground"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both are upright round-topped stelae with a figural scene confined to an arched upper field and dense sign-filled area below, and both show small profile human figures in outlined relief. But the specific content differs entirely: A shows a rayed disc with adoring figures beneath and many horizontal lines of pictographic text, while B shows a horse-and-rider with attendants above a large field of interlaced ribbon/serpentine knotwork and a border of linear characters \u2014 the animal, the interlace and the horizontal band dividing the scene have no counterpart in A.",
+ "a": "egypt_0032",
+ "b": "gotland_0124",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3024,
+  344
+ ]
+}

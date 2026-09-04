@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  1,
+  5,
+  4,
+  10,
+  3,
+  8,
+  2,
+  7,
+  6
+ ],
+ "most_similar_reason": "Candidate 9 is most similar because it shows the same kind of vertical, schematic animal-symbol composition, including a large bird-like figure, repeated bands of small signs, and other compact motifs arranged in a closely comparable way on the surface.",
+ "least_similar_reason": "Candidate 6 is least similar because it has no clearly comparable depicted figures or motifs\u2014no recognizable bird, animal assemblage, repeated symbolic band, or structured iconographic scene like the target.",
+ "set": "moai_among_random",
+ "i": 8,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "egypt_0040",
+  "tanum_0054",
+  "assyria_0011",
+  "assyria_0021",
+  "gotland_0018",
+  "egypt_0010",
+  "persepolis_0035",
+  "rapa_nui_0113",
+  "gotland_0123",
+  "mississippian_0002"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "assyria",
+  "persepolis",
+  "tanum",
+  "egypt",
+  "gotland",
+  "gotland",
+  "assyria",
+  "egypt",
+  "mississippian"
+ ],
+ "model": "gpt",
+ "planted_rank": 7
+}

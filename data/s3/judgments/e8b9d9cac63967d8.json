@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "human or anthropomorphic figure",
+  "circular motifs",
+  "linear/geometric incised details"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The main shared content is only generic: both include human/anthropomorphic imagery and some circular or linear geometric marks. The biggest difference is that A shows a profile procession of multiple naturalistic human figures with animals and a floral border, while B shows a single frontal, highly schematic anthropomorphic form with no comparable animals, procession, or repeated register.",
+ "a": "persepolis_0061",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  594
+ ]
+}

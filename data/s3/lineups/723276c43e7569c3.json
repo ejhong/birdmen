@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  9,
+  3,
+  7,
+  4,
+  10,
+  5,
+  6,
+  8,
+  1
+ ],
+ "most_similar_reason": "Candidate 2 is closest because it likewise presents a blocky anthropomorphic form dominated by a large simplified head and facial features above a compact torso-like mass, matching the target\u2019s human-headed sculptural iconography better than the more inscriptional or scene-based candidates.",
+ "least_similar_reason": "Candidate 1 is least similar because its depicted content is an ordered field of rectangular glyph-like signs and panels, with no comparable paired human heads, faces, or torso-form arrangement.",
+ "set": "same_control_monoliths",
+ "i": 21,
+ "target": "anatolia_ppn_0247",
+ "planted": "anatolia_ppn_0080",
+ "cands": [
+  "maya_0085",
+  "rapa_nui_0005",
+  "maya_0019",
+  "maya_0097",
+  "gotland_0111",
+  "egypt_0045",
+  "maya_0111",
+  "egypt_0042",
+  "anatolia_ppn_0080",
+  "maya_0060"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "gotland",
+  "maya",
+  "maya",
+  "maya",
+  "rapa_nui"
+ ],
+ "model": "gpt",
+ "planted_rank": 2
+}

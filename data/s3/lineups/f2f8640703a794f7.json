@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  9,
+  10,
+  1,
+  2,
+  3,
+  7,
+  4,
+  6,
+  8
+ ],
+ "most_similar_reason": "Candidate 5 shares a similar layered composition of registers with a standing figure and symbolic bands, echoing the target's stacked arrangement of distinct motifs rather than a single seated-offering scene.",
+ "least_similar_reason": "Candidate 8 depicts an entirely different iconographic system of blocky glyph-like squares with no figural, avian, or geometric register motifs resembling the target's bird and pattern bands.",
+ "set": "moai_iso_among_monoliths",
+ "i": 7,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0097",
+  "egypt_0041",
+  "egypt_0073",
+  "maya_0066",
+  "egypt_0068",
+  "rapa_nui_hoa_iso",
+  "egypt_0076",
+  "maya_0085",
+  "egypt_0040",
+  "egypt_0067"
+ ],
+ "planted_pos": 6,
+ "decoy_groups": [
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "egypt",
+  "maya",
+  "egypt"
+ ],
+ "model": "sonnet",
+ "planted_rank": 9
+}

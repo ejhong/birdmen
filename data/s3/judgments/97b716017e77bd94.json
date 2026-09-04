@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "horizontal registers or bands",
+  "repeated border/pattern motifs",
+  "profile-rendered figures or creatures",
+  "linear relief-style outlines"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is that both surfaces organize outlined, stylized figures within horizontal bands, with patterned borders or registers separating parts of the design. The biggest difference is that A is dominated by schematic animal/bird-like and geometric signs, while B is dominated by repeated standing human figures in orderly processions with clothing and staffs or attributes.",
+ "a": "anatolia_ppn_p43full",
+ "b": "persepolis_0018",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  657
+ ]
+}

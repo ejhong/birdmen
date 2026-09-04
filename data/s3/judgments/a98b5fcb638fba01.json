@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "standing/striding human figures in profile",
+  "low-relief carving of a scene with figures",
+  "raised arms / gesture of arms extended forward",
+  "headgear or crown on figures",
+  "register-like division of the surface (figural zone above, other content below)",
+  "sun-disc with radiating rays (A) vs. radiating spoked wheel (B) \u2014 only loosely comparable"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces show human figures in profile carved in low relief with arms extended and headgear, but the specific subjects diverge entirely: A is an arch-topped stela dominated by dense columns and rows of script beneath a small worship scene of figures with upraised arms beneath a rayed disc, while B is a purely pictorial military scene of horses, a chariot with a spoked wheel, archers/warriors with bows and reins, above a marsh or water band. No shared distinctive motif, no shared relationship (adoration vs. chariot-driving), and no shared compositional scheme (text-dominated stela vs. full-field narrative).",
+ "a": "egypt_0032",
+ "b": "assyria_0131",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3224,
+  392
+ ]
+}

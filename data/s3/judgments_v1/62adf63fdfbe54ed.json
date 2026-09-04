@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "circle or disc",
+  "schematic carved lines on stone",
+  "anthropomorphic or face-like forms"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of schematic carved motifs on stone, including circular/disc-like forms and possible anthropomorphic or face-like shapes. The biggest difference is compositional: A is a flat rectangular panel densely divided into registers with repeated motifs, while B is a freestanding rounded human-like stone form with sparse decoration arranged on a body.",
+ "a": "anatolia_ppn_0272",
+ "b": "rapa_nui_0004",
+ "model": "gpt",
+ "set": "target",
+ "usage": [
+  1362,
+  519
+ ]
+}

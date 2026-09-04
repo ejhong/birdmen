@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "schematic linear engraved motifs on stone",
+  "circular/disc motif",
+  "small anthropomorphic figures (in B; possible schematic body/head forms in A)",
+  "repeated linear elements in rows"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces bear schematic incised/linear motifs and each includes a circular element and small stick-like forms, but the depicted content is otherwise unrelated: A shows a monolithic anthropomorphic figure with a head, torso and low-relief symbols including a concentric disc on the body and a belt-like band, while B shows a large boat with a crewed row of vertical stroke-figures plus smaller boats and human figures scattered over a rock panel. There is no shared relationship or arrangement scheme \u2014 a single frontal body-shaped image versus a dispersed multi-boat scene \u2014 so only the most generic correspondences remain.",
+ "a": "rapa_nui_0113",
+ "b": "tanum_0339",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3174,
+  341
+ ]
+}

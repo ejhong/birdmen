@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  2,
+  6,
+  10,
+  9,
+  7,
+  3,
+  8,
+  4,
+  1
+ ],
+ "most_similar_reason": "Candidate 5 shows a large schematic zoomorphic creature rendered in shallow profile relief with simple outlined body and prominent eye/snout, closely matching the target's profile animal forms carved in flat low relief.",
+ "least_similar_reason": "Candidate 1 presents an essentially blank, unmodelled slab with no discernible creatures, figures, bands or motifs, so it shares none of the target's depicted content.",
+ "set": "moai_iso_among_monoliths",
+ "i": 24,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0125",
+  "maya_0094",
+  "maya_0158",
+  "maya_0101",
+  "maya_0069",
+  "egypt_0068",
+  "maya_0051",
+  "rapa_nui_hoa_iso",
+  "maya_0087",
+  "maya_0091"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 8
+}

@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "bird or bird-like features/figures",
+  "feather or wing-like forms",
+  "geometric patterned bands",
+  "small circular marks or discs"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the presence of bird-related imagery, with A showing a frontal winged anthropomorphic figure and B including profile bird-like animals among carved motifs, plus both use repeated geometric banding. The biggest difference is that A is a brightly colored, symmetrical, centralized drawing, while B is a weathered low-relief stone surface organized in stacked registers with no comparable central figure.",
+ "a": "mississippian_0002",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  560
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  10,
+  8,
+  3,
+  6,
+  2,
+  9,
+  1,
+  7,
+  4
+ ],
+ "most_similar_reason": "Candidate 5 is most similar because it shows the same kind of incised symbolic surface with conventional, non-naturalistic motifs arranged in stacked zones, including angular linear signs and patterned bands comparable to the target\u2019s carved schematic symbols.",
+ "least_similar_reason": "Candidate 4 is least similar because it presents little discernible depicted iconography beyond an irregular rock-like form, lacking the target\u2019s organized register of stylized figures and symbols.",
+ "set": "moai_iso_among_random",
+ "i": 14,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0004",
+  "persepolis_0024",
+  "tanum_0325",
+  "egypt_0012",
+  "gotland_0131",
+  "maya_0158",
+  "egypt_0021",
+  "tanum_0333",
+  "rapa_nui_hoa_iso",
+  "gotland_0111"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "gotland",
+  "maya",
+  "tanum",
+  "persepolis",
+  "gotland",
+  "egypt",
+  "egypt",
+  "egypt",
+  "tanum"
+ ],
+ "model": "gpt",
+ "planted_rank": 7
+}

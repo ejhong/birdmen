@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "circle or disc",
+  "horizontal band of pattern",
+  "incised or low-relief linear decoration on stone",
+  "repeated vertical or diagonal grooves"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is a carved stone surface with a horizontal patterned band and a circular/disc-like motif among other incised linear marks. The biggest difference is that A is a rounded, frontal anthropomorphic figure organized around a body, while B is a flat upright slab covered mainly with profile animal/abstract reliefs in registers.",
+ "a": "rapa_nui_0062",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1283,
+  535
+ ]
+}

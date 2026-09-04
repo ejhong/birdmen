@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "frontal anthropomorphic figure",
+  "head or face with simplified features",
+  "elongated upright body",
+  "arms or side appendages indicated schematically",
+  "incised geometric markings on the body or head"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both depict a highly schematic frontal human-like figure with an upright body, simplified facial/body features, and incised geometric decoration, which is the strongest correspondence. The biggest difference is that A is dominated by a broad torso-like form with circular motifs and curved bands, while B has a distinct round face beneath a tall headdress or upper element with a different stacked figure scheme.",
+ "a": "rapa_nui_0113",
+ "b": "anatolia_ppn_0261",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1830,
+  623
+ ]
+}

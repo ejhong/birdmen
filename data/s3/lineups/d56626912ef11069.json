@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  2,
+  5,
+  3,
+  7,
+  4,
+  9,
+  10,
+  1,
+  6
+ ],
+ "most_similar_reason": "Candidate 8 shows the same kind of low-relief scene as the target: profile human/winged attendant figures arranged symmetrically in a register beside a stylised, formally patterned tree, with the same conventional, evenly spaced processional composition and detailed patterned garments/plumage.",
+ "least_similar_reason": "Candidate 6 shows only a simple painted wavy serpentine line with a tiny stick figure, sharing none of the target's registered rows of detailed profile figures, stylised trees or winged guardians.",
+ "set": "related_control",
+ "i": 3,
+ "target": "persepolis_0023",
+ "planted": "assyria_0153",
+ "cands": [
+  "tanum_0030",
+  "maya_0113",
+  "rapa_nui_0049",
+  "tanum_0238",
+  "maya_0053",
+  "tanum_0344",
+  "egypt_0075",
+  "assyria_0153",
+  "maya_0127",
+  "rapa_nui_0052"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "tanum",
+  "egypt",
+  "maya",
+  "tanum",
+  "tanum",
+  "rapa_nui",
+  "rapa_nui"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

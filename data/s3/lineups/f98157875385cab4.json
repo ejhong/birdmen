@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  4,
+  8,
+  9,
+  7,
+  5,
+  6,
+  10,
+  3,
+  2,
+  1
+ ],
+ "most_similar_reason": "Candidate 4 is most similar because it also presents a tall vertical surface dominated by a central frontal, highly stylized anthropomorphic/monster-like figure with dense carved internal details and glyph-like forms arranged around the body.",
+ "least_similar_reason": "Candidate 1 is least similar because its imagery is organized as horizontal narrative bands with profile animals and small figures, lacking the target\u2019s frontal mask-like figure, large circular facial elements, and vertical emblematic composition.",
+ "set": "p43_iso_among_monoliths",
+ "i": 32,
+ "target": "rapa_nui_hoa_iso",
+ "planted": "anatolia_ppn_p43iso",
+ "cands": [
+  "anatolia_ppn_p43iso",
+  "egypt_0039",
+  "maya_0057",
+  "maya_0111",
+  "maya_0087",
+  "egypt_0070",
+  "maya_0051",
+  "maya_0149",
+  "maya_0113",
+  "egypt_0042"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "maya",
+  "maya",
+  "maya",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 10
+}

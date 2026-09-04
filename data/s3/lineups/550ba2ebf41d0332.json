@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  7,
+  1,
+  10,
+  2,
+  6,
+  9,
+  3,
+  4,
+  5
+ ],
+ "most_similar_reason": "Candidate 8 is most similar because it shows a rounded-topped decorated surface with a crowded, schematic incised/relief scene combining multiple profile human and animal figures in a comparable narrative arrangement.",
+ "least_similar_reason": "Candidate 5 is least similar because it depicts paired frontal/rounded heads or bust-like forms rather than a flat scene of profile humans, animals, and signs interacting across a surface.",
+ "set": "same_control_monoliths",
+ "i": 18,
+ "target": "egypt_0044",
+ "planted": "egypt_0046",
+ "cands": [
+  "anatolia_ppn_0041",
+  "anatolia_ppn_0212",
+  "anatolia_ppn_0261",
+  "rapa_nui_0025",
+  "anatolia_ppn_0247",
+  "maya_0005",
+  "maya_0111",
+  "egypt_0046",
+  "maya_0106",
+  "anatolia_ppn_0093"
+ ],
+ "planted_pos": 8,
+ "decoy_groups": [
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "maya",
+  "maya",
+  "anatolia_ppn",
+  "maya",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "rapa_nui"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

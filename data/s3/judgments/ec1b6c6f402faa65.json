@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "standing human figures in profile-ish posture",
+  "figures holding elongated objects (staff/axe-like implement)",
+  "pair or row of upright figures side by side",
+  "human legs shown separated in walking stance"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both show upright human figures side by side, at least one holding an elongated implement (an axe-like object in A, staffs in B), which is a generic correspondence. Otherwise they differ entirely: A is a highly schematic pair of stick-like painted bodies with outlined limbs and no setting, while B is a naturalistic modelled procession of costumed attendants leading a two-humped camel between ornamental rosette borders, with animals and framing bands wholly absent from A.",
+ "a": "tanum_0050",
+ "b": "persepolis_0010",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  288
+ ]
+}

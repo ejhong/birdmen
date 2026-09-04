@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  7,
+  8,
+  4,
+  10,
+  3,
+  1,
+  9,
+  5,
+  2
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it shows multiple schematic low-relief animal forms arranged on a surface in a comparable iconographic manner, including compact profile creatures and clustered non-human motifs rather than a single human-centered scene.",
+ "least_similar_reason": "Candidate 2 is least similar because its depicted content is essentially a single three-dimensional human figure, lacking the target\u2019s surface arrangement of multiple profile animals and abstract sign-like motifs.",
+ "set": "moai_close_among_random",
+ "i": 6,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "maya_0091",
+  "rapa_nui_0004",
+  "egypt_0042",
+  "persepolis_0051",
+  "tanum_0050",
+  "tanum_0359",
+  "assyria_0088",
+  "assyria_0015",
+  "assyria_0112",
+  "gotland_0128"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "maya",
+  "egypt",
+  "tanum",
+  "assyria",
+  "persepolis",
+  "gotland",
+  "assyria",
+  "tanum",
+  "assyria"
+ ],
+ "model": "gpt",
+ "planted_rank": 10
+}

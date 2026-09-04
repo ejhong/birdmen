@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "profile human figure",
+  "profile animal figure",
+  "bird or long-necked bird in profile",
+  "round or disc-like motif",
+  "horizontal register or baseline",
+  "linear relief carving on a stone-like surface"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "The strongest specific correspondence is that both surfaces use shallow linear relief to show profile humans and animals, with some horizontal organization into bands or baselines. The biggest difference is that A is a vertical, sparsely arranged slab with large schematic figures in stacked zones, while B is a dense horizontal narrative procession with much finer modeling and many overlapping figures.",
+ "a": "anatolia_ppn_p43full",
+ "b": "assyria_0052",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  633
+ ]
+}

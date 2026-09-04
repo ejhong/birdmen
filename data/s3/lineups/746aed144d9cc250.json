@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  1,
+  5,
+  8,
+  3,
+  2,
+  4,
+  7,
+  10,
+  6
+ ],
+ "most_similar_reason": "Candidate 9 is most similar because it has the same kind of schematic sign-like arrangement: repeated comb/boat-like horizontal motifs with small isolated animal or human figures distributed vertically, close to the target\u2019s mixture of linear emblematic signs and profile creatures.",
+ "least_similar_reason": "Candidate 6 is least similar because it depicts a formal procession of naturalistic standing human figures, with none of the target\u2019s bird/animal signs, comb-like bands, or scattered emblematic composition.",
+ "set": "moai_among_random",
+ "i": 5,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "tanum_0339",
+  "rapa_nui_0113",
+  "gotland_0113",
+  "tanum_0034",
+  "persepolis_0011",
+  "persepolis_0025",
+  "assyria_0131",
+  "assyria_0110",
+  "tanum_0060",
+  "persepolis_0047"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "tanum",
+  "persepolis",
+  "tanum",
+  "persepolis",
+  "assyria",
+  "assyria",
+  "gotland",
+  "persepolis",
+  "tanum"
+ ],
+ "model": "gpt",
+ "planted_rank": 6
+}

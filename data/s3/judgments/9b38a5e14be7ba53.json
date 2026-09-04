@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic animal or creature figures",
+  "horizontal band or register-like divider",
+  "short repeated linear/geometric marks"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is that both surfaces use schematic carved outline figures together with band-like linear/geometric divisions, with creature forms placed in relation to those bands. The biggest difference is that B has a dense, multi-register composition of distinct animals and repeated signs, while A is dominated by a large curved band/arc and a few unclear, sparse motifs rather than the same specific animal-and-symbol scheme.",
+ "a": "rapa_nui_0069",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  1184
+ ]
+}

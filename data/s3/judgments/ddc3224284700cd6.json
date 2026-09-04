@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "animal figure(s) in profile",
+  "horizontal row or band of repeated linear/abstract signs",
+  "schematic carved/outlined figures"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is that both surfaces include schematic animal-like figures and a horizontal sequence of repeated marks or signs. The biggest difference is that A is a dense composition of multiple recognizable profile creatures plus a geometric band, while B is much sparser and dominated by small repeated stick-like signs with no clearly matching animal types or iconographic relationships.",
+ "a": "anatolia_ppn_p43full",
+ "b": "tanum_0000",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  1310
+ ]
+}

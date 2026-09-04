@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  10,
+  5,
+  3,
+  6,
+  7,
+  4,
+  2,
+  9,
+  8
+ ],
+ "most_similar_reason": "Candidate 1 is most similar because it shows a schematic upright anthropomorphic/stele-like figure with simple incised linear body markings, bands, and central emblematic forms arranged on a tall rounded form like the target.",
+ "least_similar_reason": "Candidate 8 is least similar because it depicts a perspectival architectural scene with columns and a framed setting rather than a schematic anthropomorphic figure or comparable incised symbolic body motifs.",
+ "set": "same_control",
+ "i": 24,
+ "target": "rapa_nui_0034",
+ "planted": "rapa_nui_0100",
+ "cands": [
+  "gotland_0112",
+  "rapa_nui_0100",
+  "gotland_0117",
+  "tanum_0074",
+  "egypt_0073",
+  "mississippian_0052",
+  "egypt_0037",
+  "persepolis_0029",
+  "egypt_0033",
+  "maya_0158"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "egypt",
+  "tanum",
+  "egypt",
+  "egypt",
+  "gotland",
+  "maya",
+  "mississippian",
+  "persepolis",
+  "gotland"
+ ],
+ "model": "gpt",
+ "planted_rank": 8
+}

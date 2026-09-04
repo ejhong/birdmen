@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "upright decorated stone or slab",
+  "animal in profile",
+  "human or anthropomorphic figure",
+  "horizontal band or register of pattern",
+  "curving linear motifs"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The clearest correspondence is that both are upright decorated surfaces with figural motifs arranged in horizontal zones, including profile animals and some human-like figures. The biggest difference is that A is a sparse, blocky carved relief with isolated motifs, while B is a dense, drawn or incised composition with an arched outline, borders, ships, and much more continuous narrative detail.",
+ "a": "anatolia_ppn_p43full",
+ "b": "gotland_0124",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1177,
+  660
+ ]
+}

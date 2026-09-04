@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "profile animals",
+  "bird-like figure in profile",
+  "snake-like/curving linear animal form",
+  "horizontal bands or registers",
+  "repeated geometric/sign-like motifs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces show low-relief, schematic compositions organized in stacked horizontal zones, with profile animals/bird-like creatures and repeated sign-like or geometric bands; the most specific commonality is the combination of animal figures with horizontal patterned registers on a vertical decorated face. The biggest difference is that B presents a clearer ordered animal panel with distinct large creatures and top sign motifs, while A appears more densely packed and includes a prominent central anthropomorphic or composite figure/register structure not matched in B.",
+ "a": "maya_0138",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1883,
+  691
+ ]
+}

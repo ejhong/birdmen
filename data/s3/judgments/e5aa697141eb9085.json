@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "anthropomorphic/human body parts or figure",
+  "arms and hands",
+  "profile animal or bird-like forms",
+  "repeated linear/geometric pattern bands",
+  "incised outline-and-infill detailing"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "0",
+ "overall": "2",
+ "justification": "The most specific overlap is that both include anthropomorphic elements with arms/hands and repeated decorative patterning, with some profile creature or wing/bird-like forms rendered by incised outlines. The biggest difference is that B is a coherent standing winged human figure holding objects beside vegetation, whereas A is a much more schematic surface of separated animal signs, bands, and abstract motifs with no comparable single figural scene or object-holding relationship.",
+ "a": "anatolia_ppn_p43full",
+ "b": "assyria_0157",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1883,
+  690
+ ]
+}

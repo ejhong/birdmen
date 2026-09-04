@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "single dominant anthropomorphic figure filling the field",
+  "elaborate headdress/helmet",
+  "frontal or profile face with prominent eyes",
+  "raised arm/hand gesture",
+  "richly patterned garment with dense textile ornament",
+  "ornate accessory objects held or attached to the body",
+  "low-relief carving with intricate surface detail"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces are dominated by a single elaborately costumed anthropomorphic figure with a tall headdress, heavily patterned dress and a raised arm, carved in dense low relief that fills the whole field. But the specific forms diverge sharply: A shows a strictly frontal, symmetrical standing figure with masklike face, jewelled apron and small kneeling figures at the base, while B shows a bearded profile figure with large feathered wings striding beside a stylized rosette-bearing plant, and neither the wings, the profile view, nor the floral element has any counterpart in A.",
+ "a": "maya_0060",
+ "b": "assyria_0160",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3124,
+  369
+ ]
+}

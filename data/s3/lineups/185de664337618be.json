@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  3,
+  9,
+  10,
+  6,
+  8,
+  5,
+  2,
+  4,
+  1
+ ],
+ "most_similar_reason": "Candidate 7, like the target, is a slab carved in shallow relief divided into stacked horizontal registers containing small profile animal and figural forms combined with blocky sign-like elements, with the same flat, schematic outline drawing and low-relief infill.",
+ "least_similar_reason": "Candidate 1 shows nothing but a dense grid of repeated inscription blocks with no animals, figures or register scenes at all, so it shares none of the target's depicted creatures or their arrangement.",
+ "set": "moai_iso_among_monoliths",
+ "i": 14,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0069",
+  "maya_0149",
+  "gotland_0116",
+  "maya_0077",
+  "rapa_nui_hoa_iso",
+  "maya_0051",
+  "egypt_0067",
+  "maya_0000",
+  "egypt_0073",
+  "maya_0130"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "maya",
+  "egypt",
+  "egypt",
+  "maya",
+  "maya",
+  "gotland",
+  "maya"
+ ],
+ "model": "opus",
+ "planted_rank": 7
+}

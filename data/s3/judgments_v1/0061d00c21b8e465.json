@@ -1,0 +1,20 @@
+{
+ "shared_elements": [
+  "horizontal band of pattern",
+  "parallel incised grooves/lines",
+  "rectangular or segmented row"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is a horizontally organized band made of repeated incised/relief segments, with adjacent parallel grooves. The biggest difference is that A is a large upright slab with multiple registers and many figurative animal-like forms, while B is a small rounded fragment with a compact, mostly geometric motif on one face.",
+ "a": "anatolia_ppn_p43full",
+ "b": "anatolia_ppn_0232",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  638
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "central oval/circular motif",
+  "vertical bands or borders of linear decoration",
+  "repeated chevron/zigzag-like marks",
+  "rows of short parallel strokes",
+  "schematic incised signs"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific correspondence is the use of schematic incised linear motifs arranged in vertical bands, including repeated chevron-like marks and short parallel strokes around a central oval or circular form. The major difference is that B is organized as a frontal anthropomorphic figure with body and facial features, while A is essentially a sign or inscription panel with a cartouche-like central enclosure and no figure.",
+ "a": "egypt_0037",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  2015,
+  678
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "animal in profile",
+  "human or anthropomorphic figure",
+  "vertical plant/tree-like motif",
+  "horizontal register or band of repeated geometric pattern"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The most specific overlap is that both surfaces include profile animals, human/anthropomorphic figures, a vertical plant-like form, and horizontal patterned/register bands. However, A shows a relatively naturalistic procession with standing people, a camel, and a tree in a single frieze, while B is a much more schematic stacked composition of varied signs and animals with no matching procession or camel-leading scene.",
+ "a": "persepolis_0010",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  671
+ ]
+}

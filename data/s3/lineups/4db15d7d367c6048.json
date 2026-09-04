@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  5,
+  4,
+  6,
+  3,
+  1,
+  10,
+  7,
+  9,
+  8,
+  2
+ ],
+ "most_similar_reason": "Candidate 5 is most similar because it shows a tall anthropomorphic/monumental surface with low-relief, schematic motifs including body-like features and animal/ornamental forms arranged vertically, closest to the target\u2019s carved, stacked animal-and-sign iconography.",
+ "least_similar_reason": "Candidate 2 is least similar because it appears to consist mainly of vertical inscription-like markings on a narrow slab, lacking the target\u2019s distinctive combination of profile animals, birds, and patterned registers.",
+ "set": "moai_among_random",
+ "i": 24,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "persepolis_0084",
+  "maya_0147",
+  "tanum_0016",
+  "gotland_0008",
+  "rapa_nui_0113",
+  "catalhoyuk_0110",
+  "tanum_0351",
+  "mississippian_0006",
+  "egypt_0013",
+  "persepolis_0067"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "catalhoyuk",
+  "mississippian",
+  "tanum",
+  "gotland",
+  "maya",
+  "egypt",
+  "persepolis",
+  "persepolis",
+  "tanum"
+ ],
+ "model": "gpt",
+ "planted_rank": 1
+}

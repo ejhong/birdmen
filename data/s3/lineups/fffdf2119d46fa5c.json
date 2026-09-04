@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  9,
+  6,
+  1,
+  8,
+  2,
+  4,
+  10,
+  5,
+  7,
+  3
+ ],
+ "most_similar_reason": "Both feature detailed, naturalistic bas-relief carvings of standing figures in profile.",
+ "least_similar_reason": "It lacks any figurative or decorative carved content.",
+ "set": "related_control",
+ "i": 32,
+ "target": "persepolis_0058",
+ "planted": "assyria_0120",
+ "cands": [
+  "anatolia_ppn_0072",
+  "anatolia_ppn_0212",
+  "anatolia_ppn_0132",
+  "gotland_0007",
+  "maya_0127",
+  "anatolia_ppn_0041",
+  "tanum_0333",
+  "anatolia_ppn_0095",
+  "assyria_0120",
+  "anatolia_ppn_0174"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "gotland",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "tanum",
+  "anatolia_ppn",
+  "maya"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

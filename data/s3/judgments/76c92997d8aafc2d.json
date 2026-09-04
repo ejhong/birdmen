@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "winged anthropomorphic figure in profile",
+  "large wing rendered as stacked rows of feathers",
+  "human head in profile with headdress/cap",
+  "arm raised/extended in front of the body",
+  "circular disc/rosette motifs on the body or wing",
+  "single large figure dominating the field"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "7",
+ "justification": "Both surfaces depict a single large winged humanoid seen in strict profile, with a capped/headdressed head, an arm brought forward, and wings articulated as tiered registers of long feathers, a specific and conventional combination unlikely to arise independently. The differences are that A adds prominent disc/rosette markings over the torso and wing and is a bare schematic outline, while B is a modelled relief with dense patterned garment detail and a band of inscribed signs across the field that A lacks.",
+ "a": "mississippian_0009",
+ "b": "assyria_0116",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  827
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  3,
+  2,
+  4,
+  8,
+  6,
+  1,
+  9,
+  7,
+  10,
+  5
+ ],
+ "most_similar_reason": "Both feature stylized animal figures in raised relief.",
+ "least_similar_reason": "This image shows only text without pictorial elements.",
+ "set": "moai_among_random",
+ "i": 16,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0113",
+ "cands": [
+  "egypt_0000",
+  "persepolis_0095",
+  "maya_0081",
+  "rapa_nui_0113",
+  "egypt_0016",
+  "assyria_0036",
+  "tanum_0332",
+  "persepolis_0025",
+  "tanum_0061",
+  "tanum_0078"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "tanum",
+  "tanum",
+  "persepolis",
+  "tanum",
+  "maya",
+  "egypt",
+  "persepolis",
+  "egypt",
+  "assyria"
+ ],
+ "model": "gemini",
+ "planted_rank": 3
+}

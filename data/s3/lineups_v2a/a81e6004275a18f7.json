@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  5,
+  3,
+  9,
+  4,
+  10,
+  7,
+  8,
+  6,
+  2
+ ],
+ "most_similar_reason": "Candidate 1, like the target, shows human figures carved in shallow relief in strict profile with detailed garments, beards and hands, rendered in the same naturalistic yet formal convention and filling the surface as a continuous figural composition.",
+ "least_similar_reason": "Candidate 2 shows a bare, undecorated rock outcrop with no depicted figures, signs or motifs at all, so it shares nothing with the target's row of processing human figures.",
+ "set": "related_control",
+ "i": 17,
+ "target": "persepolis_0024",
+ "planted": "assyria_0122",
+ "cands": [
+  "assyria_0122",
+  "rapa_nui_0111",
+  "maya_0129",
+  "catalhoyuk_0039",
+  "maya_0087",
+  "anatolia_ppn_0144",
+  "egypt_0042",
+  "gotland_0005",
+  "tanum_0359",
+  "tanum_0328"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "egypt",
+  "maya",
+  "rapa_nui",
+  "catalhoyuk",
+  "tanum",
+  "maya",
+  "tanum",
+  "anatolia_ppn",
+  "gotland"
+ ],
+ "model": "opus",
+ "planted_rank": 1
+}

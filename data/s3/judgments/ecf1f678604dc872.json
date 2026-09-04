@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "horizontal band or register with repeated motifs across upper part of the surface",
+  "row of repeated curved/hook-like elements in a band",
+  "zigzag or triangular band bordering a register",
+  "animal figures in profile",
+  "paired/repeated elements aligned in a row",
+  "framed panel set on a large upright slab with rounded top"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both show an upright slab bearing a horizontally banded panel in which a row of repeated curved, hook-shaped forms runs above/below a border of triangles or zigzag chevrons, and both include profile animal-like figures with rows of repeated units. However, A depicts identifiable creatures (quadrupeds, a large bird with a long neck, human-like figures, a serpent-like form) filling the whole shaft in a narrative-like stacked composition, whereas B is confined to an abstract, purely ornamental panel of repeated hooks and geometric bands with no recognisable creature or figure.",
+ "a": "anatolia_ppn_p43full",
+ "b": "gotland_0125",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2974,
+  366
+ ]
+}

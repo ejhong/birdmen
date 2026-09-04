@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "schematic animal or creature forms",
+  "birdlike/profile animal heads or bodies",
+  "horizontal bands or rows of repeated signs",
+  "rectilinear/geometric infill motifs",
+  "curved scroll- or serpent-like forms"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The strongest correspondence is the use of schematic relief figures combined with horizontal bands of repeated geometric signs, with some birdlike/profile animal forms and curled serpent- or scroll-like elements. The major difference is that A is dominated by a single large central anthropomorphic or composite figure with flanking lower curls, while B is arranged as stacked registers of separate animals, heads, and signs rather than one central figure.",
+ "a": "maya_0136",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1830,
+  687
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "schematic human figures with stick-like limbs",
+  "human figures in active/dynamic poses (arms raised, legs apart)",
+  "groups of small figures scattered across an open surface",
+  "large quadruped animal in profile",
+  "monochrome red silhouette figures",
+  "circular/oval motifs (dotted arcs in A, concentric circles in B)"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces show small red schematic human figures with stick limbs in animated postures scattered informally across an open field, with at least one larger quadruped-like animal in profile, and both include curved/circular non-figurative motifs among the figures. However, A is dominated by a huge naturalistic antlered stag with figures converging on it in an evident hunting/encounter relationship and shows carefully modelled bodies with fringed skirts and dotted decoration, whereas B's figures are simple crude outlines with no comparable dominant animal or hunting relationship, so the correspondence stays at the level of shared generic conventions rather than a shared specific scene.",
+ "a": "catalhoyuk_0039",
+ "b": "tanum_0066",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3349,
+  388
+ ]
+}

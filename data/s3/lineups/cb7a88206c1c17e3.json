@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  4,
+  9,
+  3,
+  6,
+  1,
+  10,
+  7,
+  2,
+  5
+ ],
+ "most_similar_reason": "Candidate 8 shares the target's composition of a tall relief surface organized into horizontal bands containing stacked figural and geometric motifs, echoing the target's layered arrangement of birds, patterned bands, and interacting figures.",
+ "least_similar_reason": "Candidate 5 is a freestanding carved statue with a single human-like figure and no birds, hatched bands, or multi-register iconographic arrangement, making its depicted content the most different from the target's layered relief of animals and patterns.",
+ "set": "moai_iso_among_monoliths",
+ "i": 2,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "maya_0105",
+  "maya_0069",
+  "gotland_0111",
+  "maya_0094",
+  "rapa_nui_hoa_iso",
+  "maya_0097",
+  "maya_0052",
+  "maya_0101",
+  "gotland_0112",
+  "egypt_0074"
+ ],
+ "planted_pos": 5,
+ "decoy_groups": [
+  "gotland",
+  "maya",
+  "maya",
+  "maya",
+  "gotland",
+  "maya",
+  "maya",
+  "maya",
+  "egypt"
+ ],
+ "model": "sonnet",
+ "planted_rank": 10
+}

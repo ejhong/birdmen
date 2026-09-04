@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "profile animal",
+  "standing human or anthropomorphic figure",
+  "horizontal band or register",
+  "repeated sign-like or geometric motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The most specific overlap is that both surfaces include profile animals and upright human/anthropomorphic figures, with some use of horizontal bands or repeated motifs. The biggest difference is that A is a relatively naturalistic scene dominated by one large reclining animal flanked by standing figures, while B is a schematic multi-register composition of small signs, birds/animals, and abstract motifs with no comparable central reclining creature or flanking arrangement.",
+ "a": "assyria_0110",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  673
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "profile animal figures",
+  "human figure",
+  "horizontal band of repeated ornament or signs",
+  "linear outline drawing with internal detail"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main commonalities are generic: both surfaces include outlined animal figures, a human figure, and a horizontal decorative/sign band. The biggest difference is that B shows a coherent procession-like scene with a camel and attendant beneath a rosette border, while A shows a dense vertical assemblage of varied schematic creatures and signs with no comparable camel-human relationship or ornamental scheme.",
+ "a": "anatolia_ppn_p43full",
+ "b": "persepolis_0062",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  661
+ ]
+}

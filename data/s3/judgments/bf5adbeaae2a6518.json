@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "carved standing/frontal anthropomorphic figure on an upright stone monument",
+  "headdress or elaborate head element above the figure",
+  "low-relief carving covering the whole face of an upright slab",
+  "circular/disc motifs on the body or field",
+  "symmetrical vertical composition about a central axis"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "2",
+ "arrangement_similarity": "2",
+ "style_similarity": "1",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both are upright slab monuments bearing a frontal, axially symmetrical anthropomorphic figure with an elaborated head/headdress at top, disc motifs on the torso area, and relief filling the whole face. But A shows a densely packed, multi-register composition with small glyph-like blocks and subsidiary figures in narrative panels, whereas B is a single large, sparsely detailed schematic figure with broad plain surfaces and no register divisions or sign-like blocks, so the manner of depiction differs strongly.",
+ "a": "maya_0138",
+ "b": "rapa_nui_0113",
+ "model": "opus",
+ "set": "search_hoa",
+ "usage": [
+  3024,
+  336
+ ]
+}

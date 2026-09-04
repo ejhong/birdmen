@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  10,
+  9,
+  3,
+  8,
+  1,
+  4,
+  6,
+  2,
+  5,
+  7
+ ],
+ "most_similar_reason": "Candidate 10 is most similar because it shows a formal low-relief scene with a profile robed human figure, elaborate head/hand treatment, and adjacent ordered bands of conventional signs, matching the target\u2019s profile ceremonial figures and organized relief composition more closely than the others.",
+ "least_similar_reason": "Candidate 7 is least similar because it depicts architectural cuttings or openings rather than human or animal figures, held objects, symbolic motifs, or a comparable narrative relief arrangement.",
+ "set": "related_control",
+ "i": 37,
+ "target": "persepolis_0044",
+ "planted": "assyria_0112",
+ "cands": [
+  "rapa_nui_0128",
+  "tanum_0119",
+  "egypt_0044",
+  "rapa_nui_0062",
+  "tanum_0000",
+  "rapa_nui_0103",
+  "egypt_0051",
+  "gotland_0009",
+  "assyria_0112",
+  "maya_0048"
+ ],
+ "planted_pos": 9,
+ "decoy_groups": [
+  "rapa_nui",
+  "gotland",
+  "tanum",
+  "maya",
+  "rapa_nui",
+  "rapa_nui",
+  "tanum",
+  "egypt",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 2
+}

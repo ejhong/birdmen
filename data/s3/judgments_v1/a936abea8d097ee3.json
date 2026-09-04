@@ -1,0 +1,21 @@
+{
+ "shared_elements": [
+  "horizontal bands or registers of carved motifs",
+  "profile human or human-like figure",
+  "profile animal or bird-like figures",
+  "repeated linear signs or symbols"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The strongest correspondence is that both surfaces use low carved relief organized partly in horizontal registers, with profile figures/signs embedded among repeated linear motifs. The biggest difference is that A is a broad rock face filled mainly with dense, regular rows of small inscription-like signs, while B is a tall upright slab with larger, rougher, more isolated pictorial figures and stronger panel divisions.",
+ "a": "egypt_0017",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  1362,
+  660
+ ]
+}

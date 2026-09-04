@@ -1,0 +1,25 @@
+{
+ "shared_elements": [
+  "standing human figures in profile",
+  "low relief carving of figural scene",
+  "figures in procession/facing one another",
+  "long robed garments",
+  "headgear/crowns on figures",
+  "raised platform or ground line beneath figures"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both depict low-relief scenes of robed human figures in strict profile with distinctive headgear, standing on a ground line, which is a real but broad correspondence. A shows a wide architectural panorama with columns, a stepped terrace, a repeated file of identical attendants and a lion-attacking-bull group, while B shows a small closed scene of a few figures confronting one another around a central object with sign-like markings, so the specific combinations and relationships differ almost entirely.",
+ "a": "persepolis_0029",
+ "b": "egypt_0065",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  301
+ ]
+}

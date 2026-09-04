@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  2,
+  7,
+  1,
+  5,
+  4,
+  9,
+  10,
+  6,
+  3,
+  8
+ ],
+ "most_similar_reason": "Candidate 2 shows the same thing as the target: a broad flat pillar face bordered by low-relief animals rendered in profile, schematic and outlined against a plain undecorated field, with the creatures running along the narrow edge in the same way.",
+ "least_similar_reason": "Candidate 8 depicts a crowded scene of frontal human figures with objects and symbolic devices arranged in registers across the whole surface, with none of the target's isolated profile animals on an otherwise blank pillar face.",
+ "set": "same_control_monoliths",
+ "i": 10,
+ "target": "gotland_0133",
+ "planted": "gotland_0112",
+ "cands": [
+  "egypt_0061",
+  "anatolia_ppn_0205",
+  "maya_0091",
+  "anatolia_ppn_0121",
+  "anatolia_ppn_0037",
+  "maya_0113",
+  "anatolia_ppn_0186",
+  "egypt_0047",
+  "anatolia_ppn_0261",
+  "gotland_0112"
+ ],
+ "planted_pos": 10,
+ "decoy_groups": [
+  "egypt",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "anatolia_ppn",
+  "egypt",
+  "maya",
+  "maya",
+  "anatolia_ppn"
+ ],
+ "model": "opus",
+ "planted_rank": 7
+}

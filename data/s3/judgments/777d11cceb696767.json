@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "procession of standing human figures in profile",
+  "bearded male figures with rounded curled hairstyle and headdress/cap",
+  "figures carrying bowls, vessels or handled objects with both hands",
+  "figures walking in single file facing the same direction",
+  "low-relief frieze along a horizontal register",
+  "robed figure holding a staff / long rod",
+  "overlapping ranks of near-identical figures"
+ ],
+ "element_similarity": "3",
+ "relationship_similarity": "3",
+ "arrangement_similarity": "3",
+ "style_similarity": "3",
+ "gestalt_similarity": "3",
+ "overall": "9",
+ "justification": "Both show a single-file procession of bearded, curly-haired men in long robes, rendered in shallow profile relief with identical proportions and hair/beard conventions, several carrying bowls or vessels held forward in both hands, and a staff-bearing attendant among them. The main differences in depicted content are B's added camel head, rosette band and rows of spear-bearers behind, which A does not show; otherwise the scheme is effectively the same.",
+ "a": "persepolis_0080",
+ "b": "persepolis_0099",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3349,
+  334
+ ]
+}

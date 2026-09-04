@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "quadruped animal shown in profile",
+  "horned/eared animal head in profile",
+  "relief carving on stone surface",
+  "animals aligned facing the same direction",
+  "horizontal register or ground band",
+  "human body parts (arm/hand, leg) rendered alongside animals"
+ ],
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both are stone reliefs whose animals are shown strictly in profile facing the same direction, with human limbs appearing among them and a horizontal band organising the field, but A stacks isolated, widely spaced creatures in vertical tiers on a narrow pillar while B is a dense horizontal frieze of two overlapping, near-identical beasts. The rendering differs sharply: A is shallow, flat and schematic with sparse incised detail, whereas B is deeply modelled, volumetric and covered in fine ornamental surface patterning.",
+ "a": "anatolia_ppn_p43full",
+ "b": "persepolis_0095",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  2058,
+  797
+ ]
+}

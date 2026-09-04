@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "boat/ship shown in profile with upcurved prows",
+  "schematic human figures",
+  "quadruped animals in profile (A more clearly)",
+  "small repeated marks/strokes along a line (crew strokes / hatching)",
+  "curved-line motifs and rounded/arched shapes"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "4",
+ "justification": "The clearest correspondence is the profile boat with strongly upcurved prows and rows of short strokes along its hull, which appears at the base of A and repeatedly in B, together with small schematic human figures in both. Beyond that the content diverges: A organises animals, riders and figures into stacked horizontal registers beneath arcaded architectural framing and renders bodies with modelled, textured infill, while B scatters oversized outline figures carrying large concentric discs among free-floating cup-mark dots with no framing or registers.",
+ "a": "anatolia_ppn_0004",
+ "b": "tanum_0063",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  832
+ ]
+}

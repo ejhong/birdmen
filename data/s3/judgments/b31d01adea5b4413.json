@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "animal in profile",
+  "human or anthropomorphic figure",
+  "horizontal register or band of repeated geometric/ornamental motifs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The main shared content is only broad: both include profile living figures and some horizontally organized repeated ornament or signs. The biggest difference is that A is a coherent horse-and-wheeled-chariot scene with harness and a floral border, while B is a stacked set of schematic signs, birds/animals, and anthropomorphic figures with no comparable vehicle scene or specific relationships.",
+ "a": "persepolis_0088",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  570
+ ]
+}

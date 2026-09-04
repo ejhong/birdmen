@@ -1,0 +1,26 @@
+{
+ "shared_elements": [
+  "human figures shown in strict profile",
+  "bearded male figure with elaborately rendered hair",
+  "long pleated/patterned robe",
+  "figure holding an upright staff or rod",
+  "low-relief frieze arranged in a horizontal register on a ground line",
+  "figures facing in a consistent direction within the register",
+  "band/register divider separating scenes"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "2",
+ "style_similarity": "3",
+ "gestalt_similarity": "2",
+ "overall": "5",
+ "justification": "Both surfaces show shallow, closely comparable relief friezes of profile male figures in long pleated garments with carefully patterned hair/headgear, each holding a vertical staff-like implement and set on a single ground line within a horizontal register, which is a fairly specific shared convention of depiction. The subjects differ, however: A is a static audience scene with a seated, enthroned figure receiving an offering bowl from a standing attendant, whereas B is a procession in which a figure leads a large humped animal, above a band of rosettes and a further register of figures absent in A.",
+ "a": "assyria_0138",
+ "b": "persepolis_0062",
+ "model": "opus",
+ "set": "poscontrol",
+ "usage": [
+  3174,
+  679
+ ]
+}

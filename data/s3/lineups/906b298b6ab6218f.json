@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  1,
+  7,
+  10,
+  3,
+  8,
+  6,
+  2,
+  5,
+  9,
+  4
+ ],
+ "most_similar_reason": "Candidate 1 shares the same overall format of a pillar featuring stylistically similar bas-relief carvings.",
+ "least_similar_reason": "Candidate 4 displays painted linear depictions of boats rather than dense, low-relief compositions.",
+ "set": "moai_close_among_random",
+ "i": 30,
+ "target": "anatolia_ppn_p43full",
+ "planted": "rapa_nui_0004",
+ "cands": [
+  "rapa_nui_0004",
+  "maya_0050",
+  "maya_0023",
+  "tanum_0085",
+  "tanum_0086",
+  "gotland_0111",
+  "gotland_0113",
+  "egypt_0076",
+  "tanum_0087",
+  "assyria_0140"
+ ],
+ "planted_pos": 1,
+ "decoy_groups": [
+  "gotland",
+  "maya",
+  "tanum",
+  "assyria",
+  "gotland",
+  "maya",
+  "tanum",
+  "tanum",
+  "egypt"
+ ],
+ "model": "gemini",
+ "planted_rank": 1
+}

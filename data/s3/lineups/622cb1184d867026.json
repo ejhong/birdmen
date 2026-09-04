@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  6,
+  7,
+  3,
+  8,
+  2,
+  4,
+  10,
+  1,
+  5,
+  9
+ ],
+ "most_similar_reason": "Candidate 6 is most similar because it shows the same kind of upright anthropomorphic slab with sparse schematic relief/incised motifs, including rounded paired elements and linear bands arranged vertically on the body-like surface.",
+ "least_similar_reason": "Candidate 9 is least similar because it depicts a colorful feathered/costumed figure or object with dense naturalistic plumage, rather than a schematic carved surface with abstract body-like symbols and bands.",
+ "set": "p43_among_random",
+ "i": 20,
+ "target": "rapa_nui_0113",
+ "planted": "anatolia_ppn_p43full",
+ "cands": [
+  "gotland_0005",
+  "egypt_0072",
+  "gotland_0000",
+  "egypt_0042",
+  "egypt_0077",
+  "maya_0101",
+  "anatolia_ppn_p43full",
+  "egypt_0048",
+  "mississippian_0045",
+  "gotland_0009"
+ ],
+ "planted_pos": 7,
+ "decoy_groups": [
+  "maya",
+  "gotland",
+  "gotland",
+  "egypt",
+  "mississippian",
+  "gotland",
+  "egypt",
+  "egypt",
+  "egypt"
+ ],
+ "model": "gpt",
+ "planted_rank": 2
+}

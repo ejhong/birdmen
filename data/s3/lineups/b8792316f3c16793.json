@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  7,
+  9,
+  8,
+  4,
+  10,
+  3,
+  6,
+  5,
+  2,
+  1
+ ],
+ "most_similar_reason": "Candidate 7 is, like the target, an upright rectangular slab bearing human figures shown frontally/in profile with elaborate headgear and regalia accompanied by rows of small script signs, the same combination of ruler-figure plus inscription on a single monument face.",
+ "least_similar_reason": "Candidate 1 is a detached three-dimensional carved head with no slab surface, no standing figure, no accompanying signs and no comparable arrangement of elements.",
+ "set": "same_control",
+ "i": 34,
+ "target": "maya_0000",
+ "planted": "maya_0057",
+ "cands": [
+  "anatolia_ppn_0232",
+  "tanum_0129",
+  "assyria_0095",
+  "maya_0057",
+  "catalhoyuk_0102",
+  "anatolia_ppn_0083",
+  "egypt_0076",
+  "gotland_0124",
+  "persepolis_0037",
+  "assyria_0096"
+ ],
+ "planted_pos": 4,
+ "decoy_groups": [
+  "gotland",
+  "tanum",
+  "persepolis",
+  "anatolia_ppn",
+  "catalhoyuk",
+  "anatolia_ppn",
+  "assyria",
+  "assyria",
+  "egypt"
+ ],
+ "model": "opus",
+ "planted_rank": 4
+}

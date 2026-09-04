@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "schematic animal or creature figures",
+  "curved linear/outline motifs",
+  "circular or oval signs"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "0",
+ "arrangement_similarity": "0",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "The main commonality is only broad: both surfaces include schematic carved/outlined creatures and some simple curved or circular marks. The biggest difference is that B has an organized multi-register scene with rows of identifiable animals, signs, and repeated pattern bands, whereas A appears as a sparse, irregular scatter of curvilinear petroglyph-like motifs without comparable registers or repeated iconographic relationships.",
+ "a": "rapa_nui_0108",
+ "b": "anatolia_ppn_p43full",
+ "model": "gpt",
+ "set": "search_p43_gpt",
+ "usage": [
+  2015,
+  645
+ ]
+}

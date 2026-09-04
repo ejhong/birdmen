@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "schematic human figure with raised/outstretched arms",
+  "stick-like limbs and simplified body",
+  "carved/painted rock-art figures on bare rock surface",
+  "small isolated dot/disc-like element",
+  "elongated linear motif extending horizontally"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "2",
+ "gestalt_similarity": "2",
+ "overall": "4",
+ "justification": "Both surfaces show highly schematic, silhouetted stick-figure humans with raised arms rendered as thick simple lines on rock, and both include a small isolated disc-like element, which points to a comparable schematic figurative convention. However, the depicted content differs substantially: A shows a large striding figure with a staff plus a manned boat with a crew-stroke row and an animal, while B shows a single small figure beside a long undulating serpentine line and nothing else, so the specific motifs and their relationships do not correspond.",
+ "a": "tanum_0348",
+ "b": "tanum_0059",
+ "model": "opus",
+ "set": "same",
+ "usage": [
+  3174,
+  319
+ ]
+}

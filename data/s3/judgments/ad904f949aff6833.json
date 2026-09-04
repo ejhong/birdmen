@@ -1,0 +1,22 @@
+{
+ "shared_elements": [
+  "single anthropomorphic/human figure as main subject",
+  "head and torso/body details",
+  "linear incised/carved internal decoration or ornament"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "0",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "The main correspondence is that both surfaces center on an anthropomorphic figure with a head, torso, and internal linear detailing or ornament. The biggest difference is that A shows a relatively naturalistic profile standing winged figure with raised hand and garments, while B shows a highly schematic frontal torso-like figure with circular and band motifs and no comparable wings, pose, or held/gestural attributes.",
+ "a": "assyria_0051",
+ "b": "rapa_nui_0113",
+ "model": "gpt",
+ "set": "search_hoa_gpt",
+ "usage": [
+  1883,
+  616
+ ]
+}

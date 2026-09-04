@@ -1,0 +1,23 @@
+{
+ "shared_elements": [
+  "standing human figure in relief",
+  "dense field of repeated script/sign units arranged in rows or blocks",
+  "vertical monumental carved panel combining figures and writing",
+  "low/relief carving of costume detail"
+ ],
+ "element_similarity": "2",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "3",
+ "justification": "Both surfaces combine standing human figures with an extensive field of ordered writing signs on a single monumental relief panel, which is the most specific correspondence. However, in A the text overwhelmingly dominates with tiny subsidiary figures at the base, while B is built around one large frontal figure in elaborate plumed headdress and costume holding a ceremonial bar, with only small framing glyph blocks; the sign forms (linear rows of small pictographic signs vs. squarish sculptural glyph blocks) and the relief conventions are quite different.",
+ "a": "egypt_0020",
+ "b": "maya_0087",
+ "model": "opus",
+ "set": "null",
+ "usage": [
+  3174,
+  736
+ ]
+}

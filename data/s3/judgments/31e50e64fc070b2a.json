@@ -1,0 +1,24 @@
+{
+ "shared_elements": [
+  "low-relief figures shown in profile",
+  "animal/creature forms",
+  "plant- or frond-like motif",
+  "horizontal register or border band",
+  "raised outline carving on a vertical rectangular field"
+ ],
+ "element_similarity": "1",
+ "relationship_similarity": "1",
+ "arrangement_similarity": "1",
+ "style_similarity": "1",
+ "gestalt_similarity": "1",
+ "overall": "2",
+ "justification": "Both surfaces present profile creatures in low relief on a rectangular field, with a plant/frond-like element and a bordering band, but these are near-universal relief conventions rather than a shared motif. A shows stacked registers of purely animal forms (quadrupeds, long-necked birds, snake, abstract chevron band) with no human presence, while B is dominated by a single bearded, winged anthropomorph gesturing toward an elaborate stylised palmette tree, rendered with far more naturalistic anatomy, hatched infill and detailed feathering.",
+ "a": "anatolia_ppn_p43full",
+ "b": "assyria_0078",
+ "model": "opus",
+ "set": "search_p43",
+ "usage": [
+  3124,
+  797
+ ]
+}

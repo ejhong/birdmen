@@ -1,0 +1,46 @@
+{
+ "ranking": [
+  8,
+  1,
+  6,
+  7,
+  10,
+  5,
+  9,
+  3,
+  2,
+  4
+ ],
+ "most_similar_reason": "Shares the depiction of animals shown in profile arranged on a surface.",
+ "least_similar_reason": "Lacks any figurative or symbolic iconography entirely.",
+ "set": "moai_iso_among_random",
+ "i": 2,
+ "target": "anatolia_ppn_p43iso",
+ "planted": "rapa_nui_hoa_iso",
+ "cands": [
+  "egypt_0045",
+  "rapa_nui_hoa_iso",
+  "maya_0050",
+  "egypt_0021",
+  "catalhoyuk_0039",
+  "maya_0028",
+  "maya_0105",
+  "persepolis_0022",
+  "tanum_0079",
+  "assyria_0100"
+ ],
+ "planted_pos": 2,
+ "decoy_groups": [
+  "egypt",
+  "persepolis",
+  "maya",
+  "maya",
+  "tanum",
+  "catalhoyuk",
+  "egypt",
+  "assyria",
+  "maya"
+ ],
+ "model": "gemini",
+ "planted_rank": 9
+}
