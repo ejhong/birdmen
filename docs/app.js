@@ -8,6 +8,7 @@
   const svg = (w, h) => { const s = sv("svg", { viewBox: `0 0 ${w} ${h}`, width: "100%" }); s.style.maxWidth = w + "px"; s.style.display = "block"; return s; };
   const COL = { ink: "#201b12", soft: "#4c453a", faint: "#877e6c", rule: "#d9d0be", copper: "#9a5b33", moss: "#47705f", rust: "#8e4a38", slate: "#5d6672", gold: "#96731f" };
   const pct = x => (100 * x).toFixed(0) + "%";
+  const ord = n => { n = Math.round(n); const s = ["th", "st", "nd", "rd"], v = n % 100; return n + (s[(v - 20) % 10] || s[v] || s[0]); };
   const CL = { bird_people: "Bird-people", cosmic_serpent: "Cosmic serpent", world_centre: "World centre" };
   const KEY = { bird_people: "b", cosmic_serpent: "s", world_centre: "c" };
 
@@ -123,7 +124,7 @@
       s.append(sv("line", { x1: x(g.moran_null_mean - 2 * g.moran_null_sd), x2: x(g.moran_null_mean + 2 * g.moran_null_sd), y1: y + 10, y2: y + 10, stroke: COL.faint, "stroke-width": 2 }));
       s.append(sv("line", { x1: x(g.moran_null_mean), x2: x(g.moran_null_mean), y1: y + 2, y2: y + 18, stroke: COL.faint }));
       s.append(sv("rect", { x: x(lo), y: y + 4, width: Math.max(0, x(g.moran) - x(lo)), height: 12, fill: COL.copper, "fill-opacity": .85 }));
-      s.append(sv("text", { x: x(lo) + 4, y: y + 30, "font-size": 10.5, fill: COL.soft }, `I = ${g.moran.toFixed(2)} · ${(100 * g.moran_pct).toFixed(0)}th percentile of random motif sets`));
+      s.append(sv("text", { x: x(lo) + 4, y: y + 30, "font-size": 10.5, fill: COL.soft }, `I = ${g.moran.toFixed(2)} · ${ord(100 * g.moran_pct)} percentile of random motif sets`));
     });
     for (let v = 0; v <= hi; v += 0.1) s.append(sv("text", { x: x(v), y: Hc - 6, "text-anchor": "middle", "font-size": 11, fill: COL.faint }, v.toFixed(1)));
     s.append(sv("text", { x: L, y: Hc - 22, "font-size": 11, fill: COL.faint }, "Moran's I over ten nearest neighbours · grey whisker: random motif sets of equal frequency, mean ± 2 sd"));
