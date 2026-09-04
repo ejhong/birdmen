@@ -1,0 +1,89 @@
+{
+ "registers": "1",
+ "elements": {
+  "bird": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "human": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "bird_human_hybrid": {
+   "present": true,
+   "position": "middle",
+   "count": "1"
+  },
+  "other_hybrid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "quadruped": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "reptile_or_snake": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "fish": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "insect_or_arachnid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "disc_or_circle": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "container_or_bag": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "weapon_or_staff": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "plant_or_tree": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "geometric_band": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "text_or_glyphs": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  }
+ },
+ "facing_pair": false,
+ "bilateral_symmetry": false,
+ "dominant_figure": "bird_human_hybrid",
+ "headless_human": false,
+ "bird_posture": "profile",
+ "hybrid_type": "bird_headed_human",
+ "medium": "relief",
+ "confidence": "2",
+ "notes": "Weathered basalt boulders on a grassy coastal edge bear low-relief curvilinear carvings, the clearest being a crouching profile figure with a curved beak-like head and spiral-like body lines on the foreground rock.",
+ "_model": "claude-opus-5",
+ "_usage": [
+  3485,
+  750
+ ]
+}

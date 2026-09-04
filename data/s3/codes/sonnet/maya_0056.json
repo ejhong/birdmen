@@ -1,0 +1,89 @@
+{
+ "registers": "3+",
+ "elements": {
+  "bird": {
+   "present": true,
+   "position": "top",
+   "count": "1"
+  },
+  "human": {
+   "present": true,
+   "position": "middle",
+   "count": "1"
+  },
+  "bird_human_hybrid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "other_hybrid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "quadruped": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "reptile_or_snake": {
+   "present": true,
+   "position": "bottom",
+   "count": "1"
+  },
+  "fish": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "insect_or_arachnid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "disc_or_circle": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "container_or_bag": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "weapon_or_staff": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "plant_or_tree": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "geometric_band": {
+   "present": true,
+   "position": "top",
+   "count": "3+"
+  },
+  "text_or_glyphs": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  }
+ },
+ "facing_pair": false,
+ "bilateral_symmetry": true,
+ "dominant_figure": "human",
+ "headless_human": false,
+ "bird_posture": "frontal",
+ "hybrid_type": "none",
+ "medium": "relief",
+ "confidence": "3",
+ "notes": "A tall carved stone slab shows a central human-like face with elaborate headdress and crossed arms at chest, flanked by ornate symmetrical panels, with a bird-like element at the top and possible reptilian or animal motifs near the base, all rendered in dense low-relief carving.",
+ "_model": "claude-sonnet-5",
+ "_usage": [
+  3337,
+  554
+ ]
+}

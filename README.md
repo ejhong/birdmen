@@ -12,6 +12,7 @@ Site: **https://ejhong.github.io/birdmen/**
 
 - `docs/index.html` — the overview: every recurring picture and story (bird-men, handbags, the navel, hands on the belly, serpents, the civilisers), what the lost-source and scholarly accounts each say, what can be tested, and the design of study 3 (the pictures).
 - `docs/myths.html` — study 2: the motif co-occurrence test on the Berezkin catalogue (the results below).
+- `docs/pictures.html` — study 3 pilot: 1,270 Commons images from ten traditions, blind-coded composition (Opus 5 and Sonnet 5), pre-registered in `docs/study3/preregistration.md`; code in `pipeline/s3_*.py`, data in `data/s3/` (raw images not committed).
 - Study 1, Indus and rongorongo, lives in its own repo: https://github.com/ejhong/rongo
 
 **Note: this tests myths only, on a 2016 snapshot with thin coverage of the ancient Near East and Easter Island. It does not test the similarity of the pictures, which is the stronger part of the claim and remains open.**

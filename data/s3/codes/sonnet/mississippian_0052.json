@@ -1,0 +1,89 @@
+{
+ "registers": "1",
+ "elements": {
+  "bird": {
+   "present": true,
+   "position": "top",
+   "count": "1"
+  },
+  "human": {
+   "present": true,
+   "position": "top",
+   "count": "2"
+  },
+  "bird_human_hybrid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "other_hybrid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "quadruped": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "reptile_or_snake": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "fish": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "insect_or_arachnid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "disc_or_circle": {
+   "present": true,
+   "position": "middle",
+   "count": "3+"
+  },
+  "container_or_bag": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "weapon_or_staff": {
+   "present": true,
+   "position": "middle",
+   "count": "2"
+  },
+  "plant_or_tree": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "geometric_band": {
+   "present": true,
+   "position": "top",
+   "count": "3+"
+  },
+  "text_or_glyphs": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  }
+ },
+ "facing_pair": true,
+ "bilateral_symmetry": true,
+ "dominant_figure": "human",
+ "headless_human": false,
+ "bird_posture": "frontal",
+ "hybrid_type": "none",
+ "medium": "painting",
+ "confidence": "4",
+ "notes": "Two mirrored seated human figures facing a central vertical band topped by a small frontal bird-like face, each human holding a round disc-shaped object with a rod, joined by a wide patterned belt with a central circular medallion.",
+ "_model": "claude-sonnet-5",
+ "_usage": [
+  3020,
+  533
+ ]
+}

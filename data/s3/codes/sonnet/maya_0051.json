@@ -1,0 +1,89 @@
+{
+ "registers": "3+",
+ "elements": {
+  "bird": {
+   "present": true,
+   "position": "top",
+   "count": "1"
+  },
+  "human": {
+   "present": true,
+   "position": "middle",
+   "count": "2"
+  },
+  "bird_human_hybrid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "other_hybrid": {
+   "present": true,
+   "position": "top",
+   "count": "1"
+  },
+  "quadruped": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "reptile_or_snake": {
+   "present": true,
+   "position": "top",
+   "count": "1"
+  },
+  "fish": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "insect_or_arachnid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "disc_or_circle": {
+   "present": true,
+   "position": "middle",
+   "count": "3+"
+  },
+  "container_or_bag": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "weapon_or_staff": {
+   "present": true,
+   "position": "bottom",
+   "count": "1"
+  },
+  "plant_or_tree": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "geometric_band": {
+   "present": true,
+   "position": "top",
+   "count": "2"
+  },
+  "text_or_glyphs": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  }
+ },
+ "facing_pair": false,
+ "bilateral_symmetry": true,
+ "dominant_figure": "human",
+ "headless_human": false,
+ "bird_posture": "profile",
+ "hybrid_type": "none",
+ "medium": "relief",
+ "confidence": "3",
+ "notes": "A tall carved stone slab shows a large central standing human figure in an elaborate headdress with a smaller human figure below, surrounded by dense abstract scrollwork, circular ornaments, a bird-like creature and animal heads near the top, and a staff-like object at the base, all rendered in deep, worn relief.",
+ "_model": "claude-sonnet-5",
+ "_usage": [
+  3411,
+  564
+ ]
+}

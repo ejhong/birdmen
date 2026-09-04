@@ -1,0 +1,89 @@
+{
+ "registers": "3+",
+ "elements": {
+  "bird": {
+   "present": true,
+   "position": "top",
+   "count": "3+"
+  },
+  "human": {
+   "present": true,
+   "position": "middle",
+   "count": "3+"
+  },
+  "bird_human_hybrid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "other_hybrid": {
+   "present": true,
+   "position": "top",
+   "count": "2"
+  },
+  "quadruped": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "reptile_or_snake": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "fish": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "insect_or_arachnid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "disc_or_circle": {
+   "present": true,
+   "position": "middle",
+   "count": "3+"
+  },
+  "container_or_bag": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "weapon_or_staff": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "plant_or_tree": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "geometric_band": {
+   "present": true,
+   "position": "top",
+   "count": "3+"
+  },
+  "text_or_glyphs": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  }
+ },
+ "facing_pair": true,
+ "bilateral_symmetry": true,
+ "dominant_figure": "human",
+ "headless_human": false,
+ "bird_posture": "mixed",
+ "hybrid_type": "none",
+ "medium": "statue_surface",
+ "confidence": "3",
+ "notes": "A tall, densely carved vertical stone slab depicting a large central human-like face surrounded by an elaborate headdress packed with smaller figures, scrollwork, and bird-like forms, with a standing human body with hands holding round objects below, all rendered with symmetrical, layered ornamentation.",
+ "_model": "claude-sonnet-5",
+ "_usage": [
+  3374,
+  564
+ ]
+}

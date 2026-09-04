@@ -1,0 +1,89 @@
+{
+ "registers": "1",
+ "elements": {
+  "bird": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "human": {
+   "present": true,
+   "position": "top",
+   "count": "2"
+  },
+  "bird_human_hybrid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "other_hybrid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "quadruped": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "reptile_or_snake": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "fish": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "insect_or_arachnid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "disc_or_circle": {
+   "present": true,
+   "position": "middle",
+   "count": "1"
+  },
+  "container_or_bag": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "weapon_or_staff": {
+   "present": true,
+   "position": "middle",
+   "count": "1"
+  },
+  "plant_or_tree": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "geometric_band": {
+   "present": true,
+   "position": "middle",
+   "count": "3+"
+  },
+  "text_or_glyphs": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  }
+ },
+ "facing_pair": false,
+ "bilateral_symmetry": false,
+ "dominant_figure": "geometric_band",
+ "headless_human": false,
+ "bird_posture": "none",
+ "hybrid_type": "none",
+ "medium": "petroglyph",
+ "confidence": "3",
+ "notes": "A rock surface bears several red-pigmented pecked or painted motifs including two toothed, curving comb-like bands, two simple stick-figure humans, a small circular figure with a pole, and a vertical staff-like line with a small human figure at its base.",
+ "_model": "claude-sonnet-5",
+ "_usage": [
+  3485,
+  547
+ ]
+}

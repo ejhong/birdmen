@@ -1,0 +1,12 @@
+{
+ "usable": false,
+ "reason": "The image shows two separate statues (labeled I and II) side by side in one frame, violating the single-object requirement, even though statue II shows carved back designs.",
+ "medium": "statue_surface",
+ "is_replica_or_drawing": true,
+ "single_object": false,
+ "_model": "claude-sonnet-5",
+ "_usage": [
+  1604,
+  401
+ ]
+}

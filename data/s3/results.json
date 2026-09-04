@@ -1,0 +1,3378 @@
+{
+ "n_images": 1270,
+ "n_triaged_usable": 756,
+ "n_coded": 450,
+ "per_group": {
+  "anatolia_ppn": 60,
+  "assyria": 60,
+  "catalhoyuk": 7,
+  "egypt": 59,
+  "gotland": 26,
+  "maya": 60,
+  "mississippian": 16,
+  "persepolis": 60,
+  "rapa_nui": 42,
+  "tanum": 60
+ },
+ "fetched_per_group": {
+  "anatolia_ppn": 273,
+  "assyria": 158,
+  "catalhoyuk": 108,
+  "egypt": 77,
+  "gotland": 94,
+  "maya": 149,
+  "mississippian": 18,
+  "persepolis": 111,
+  "rapa_nui": 124,
+  "tanum": 158
+ },
+ "usable_per_group": {
+  "anatolia_ppn": 106,
+  "assyria": 151,
+  "catalhoyuk": 7,
+  "egypt": 59,
+  "gotland": 26,
+  "maya": 115,
+  "mississippian": 16,
+  "persepolis": 110,
+  "rapa_nui": 42,
+  "tanum": 124
+ },
+ "alpha": {
+  "bilateral_symmetry": 0.668075690090499,
+  "bird.position": 0.28180028727988515,
+  "bird.present": 0.308641975308642,
+  "bird_human_hybrid.position": 0.6383363471971066,
+  "bird_human_hybrid.present": 0.6738500193274063,
+  "bird_posture": 0.19717405266538213,
+  "container_or_bag.position": 0.4116648752616394,
+  "container_or_bag.present": 0.4972889022097491,
+  "disc_or_circle.position": 0.5439493748453317,
+  "disc_or_circle.present": 0.6210526315789474,
+  "dominant_figure": 0.6132371218163943,
+  "facing_pair": 0.5385629531970995,
+  "fish.position": 0.3974559250167373,
+  "fish.present": 0.3966480446927374,
+  "geometric_band.position": 0.5056125290286897,
+  "geometric_band.present": 0.630452312517624,
+  "headless_human": 0.32885906040268453,
+  "human.position": 0.5841539961547949,
+  "human.present": 0.7207116003886636,
+  "hybrid_type": 0.5162590701424348,
+  "insect_or_arachnid.position": 0.3974559250167373,
+  "insect_or_arachnid.present": 0.3966480446927374,
+  "medium": 0.7063880439095358,
+  "other_hybrid.position": 0.23267427225853599,
+  "other_hybrid.present": 0.26277850589777196,
+  "plant_or_tree.position": 0.5707112317552274,
+  "plant_or_tree.present": 0.6566258493514043,
+  "quadruped.position": 0.6082355335458924,
+  "quadruped.present": 0.730107956817273,
+  "registers": 0.4534499885050989,
+  "reptile_or_snake.position": 0.2309036881664045,
+  "reptile_or_snake.present": 0.2499999999999999,
+  "text_or_glyphs.position": 0.7469389841772961,
+  "text_or_glyphs.present": 0.8175018024513339,
+  "weapon_or_staff.position": 0.5274488069540867,
+  "weapon_or_staff.present": 0.616676920164687
+ },
+ "kept_features": [
+  "bird_human_hybrid.present",
+  "human.present",
+  "quadruped.present",
+  "text_or_glyphs.position",
+  "text_or_glyphs.present"
+ ],
+ "nfn_quantiles": {},
+ "target": {
+  "distance": NaN,
+  "percentile": null,
+  "p43_nfn": [
+   NaN,
+   null
+  ],
+  "hoa_nfn": [
+   NaN,
+   null
+  ],
+  "drivers": {
+   "bird_human_hybrid.present": {
+    "p43": "False",
+    "hoa": "False"
+   },
+   "human.present": {
+    "p43": "False",
+    "hoa": "False"
+   },
+   "quadruped.present": {
+    "p43": "True",
+    "hoa": "False"
+   },
+   "text_or_glyphs.position": {
+    "p43": "none",
+    "hoa": null
+   },
+   "text_or_glyphs.present": {
+    "p43": "False",
+    "hoa": null
+   }
+  },
+  "base_rates": {
+   "bird_human_hybrid.present": {
+    "False": 0.912,
+    "True": 0.088
+   },
+   "human.present": {
+    "False": 0.401,
+    "True": 0.599
+   },
+   "quadruped.present": {
+    "False": 0.756,
+    "True": 0.244
+   },
+   "text_or_glyphs.position": {
+    "bottom": 0.013,
+    "top": 0.228,
+    "middle": 0.035,
+    "none": 0.724
+   },
+   "text_or_glyphs.present": {
+    "False": 0.691,
+    "True": 0.309
+   }
+  }
+ },
+ "group_distances": {
+  "anatolia_ppn|anatolia_ppn": null,
+  "anatolia_ppn|assyria": null,
+  "anatolia_ppn|catalhoyuk": null,
+  "anatolia_ppn|egypt": null,
+  "anatolia_ppn|gotland": null,
+  "anatolia_ppn|maya": null,
+  "anatolia_ppn|mississippian": null,
+  "anatolia_ppn|persepolis": null,
+  "anatolia_ppn|rapa_nui": null,
+  "anatolia_ppn|tanum": null,
+  "assyria|assyria": null,
+  "assyria|catalhoyuk": null,
+  "assyria|egypt": null,
+  "assyria|gotland": null,
+  "assyria|maya": null,
+  "assyria|mississippian": null,
+  "assyria|persepolis": null,
+  "assyria|rapa_nui": null,
+  "assyria|tanum": null,
+  "catalhoyuk|catalhoyuk": null,
+  "catalhoyuk|egypt": null,
+  "catalhoyuk|gotland": null,
+  "catalhoyuk|maya": null,
+  "catalhoyuk|mississippian": null,
+  "catalhoyuk|persepolis": null,
+  "catalhoyuk|rapa_nui": null,
+  "catalhoyuk|tanum": null,
+  "egypt|egypt": null,
+  "egypt|gotland": null,
+  "egypt|maya": null,
+  "egypt|mississippian": null,
+  "egypt|persepolis": null,
+  "egypt|rapa_nui": null,
+  "egypt|tanum": null,
+  "gotland|gotland": null,
+  "gotland|maya": null,
+  "gotland|mississippian": null,
+  "gotland|persepolis": null,
+  "gotland|rapa_nui": null,
+  "gotland|tanum": null,
+  "maya|maya": null,
+  "maya|mississippian": null,
+  "maya|persepolis": null,
+  "maya|rapa_nui": null,
+  "maya|tanum": null,
+  "mississippian|mississippian": null,
+  "mississippian|persepolis": null,
+  "mississippian|rapa_nui": null,
+  "mississippian|tanum": null,
+  "persepolis|persepolis": null,
+  "persepolis|rapa_nui": null,
+  "persepolis|tanum": null,
+  "rapa_nui|rapa_nui": null,
+  "rapa_nui|tanum": null,
+  "tanum|tanum": null
+ },
+ "nearest_groups": {
+  "anatolia_ppn": [],
+  "assyria": [],
+  "catalhoyuk": [],
+  "egypt": [],
+  "gotland": [],
+  "maya": [],
+  "mississippian": [],
+  "persepolis": [],
+  "rapa_nui": [],
+  "tanum": []
+ },
+ "positive_controls": {
+  "assyria_persepolis": false,
+  "anatolia_catalhoyuk": false
+ },
+ "mantel": {
+  "r": NaN,
+  "p": 0.0
+ },
+ "nfn": [
+  {
+   "id": "anatolia_ppn_0004",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0006",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0011",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0027",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0037",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0041",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0045",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0072",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0078",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0080",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0082",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0083",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0084",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0086",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0088",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0093",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0095",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0103",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0105",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0106",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0107",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0111",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0121",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0122",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0129",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0130",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0132",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0142",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0144",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0155",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0163",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0174",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0175",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0179",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0186",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0195",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0196",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0199",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0205",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0207",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0212",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0218",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0222",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0223",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0232",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0239",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0240",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0241",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0244",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0247",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0259",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0260",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0261",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0263",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0264",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0266",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0267",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0270",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0272",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "anatolia_ppn_0276",
+   "group": "anatolia_ppn",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "catalhoyuk_0025",
+   "group": "catalhoyuk",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "catalhoyuk_0026",
+   "group": "catalhoyuk",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "catalhoyuk_0031",
+   "group": "catalhoyuk",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "catalhoyuk_0039",
+   "group": "catalhoyuk",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "catalhoyuk_0065",
+   "group": "catalhoyuk",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "catalhoyuk_0102",
+   "group": "catalhoyuk",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "catalhoyuk_0110",
+   "group": "catalhoyuk",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0002",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0004",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0005",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0006",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0019",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0021",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0022",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0025",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0034",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0039",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0044",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0045",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0046",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0047",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0049",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0052",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0053",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0054",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0062",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0063",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0065",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0069",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0070",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0071",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0073",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0079",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0080",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0082",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0096",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0097",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0099",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0100",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0101",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0103",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0106",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0108",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0109",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0111",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0113",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0122",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0124",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "rapa_nui_0128",
+   "group": "rapa_nui",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0000",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0008",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0011",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0012",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0013",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0015",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0021",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0032",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0034",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0035",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0036",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0039",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0040",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0041",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0047",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0051",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0052",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0059",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0063",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0069",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0071",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0078",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0079",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0084",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0088",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0090",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0091",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0092",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0095",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0096",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0099",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0100",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0102",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0105",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0109",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0110",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0111",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0112",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0115",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0116",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0118",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0119",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0120",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0122",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0123",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0125",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0128",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0131",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0134",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0135",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0138",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0139",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0140",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0142",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0146",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0151",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0153",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0157",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0158",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "assyria_0160",
+   "group": "assyria",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0000",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0004",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0006",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0007",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0010",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0011",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0012",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0015",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0017",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0018",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0020",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0022",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0023",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0024",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0025",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0026",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0027",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0029",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0030",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0032",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0035",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0037",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0039",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0042",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0043",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0044",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0047",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0049",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0051",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0058",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0061",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0062",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0063",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0064",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0066",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0067",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0068",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0069",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0070",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0071",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0073",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0075",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0077",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0079",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0080",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0082",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0084",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0085",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0087",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0088",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0089",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0093",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0095",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0097",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0099",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0100",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0104",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0105",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0108",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "persepolis_0110",
+   "group": "persepolis",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0000",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0002",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0004",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0005",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0006",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0007",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0009",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0010",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0012",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0013",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0014",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0015",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0016",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0017",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0018",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0020",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0021",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0024",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0027",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0028",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0032",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0033",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0035",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0037",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0038",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0039",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0040",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0041",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0042",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0043",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0044",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0045",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0046",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0047",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0048",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0049",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0050",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0051",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0053",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0056",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0059",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0060",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0061",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0062",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0063",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0064",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0065",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0066",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0067",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0068",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0069",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0070",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0071",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0072",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0073",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0074",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0075",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0076",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "egypt_0077",
+   "group": "egypt",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0000",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0005",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0009",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0011",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0019",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0023",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0024",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0026",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0027",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0028",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0039",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0045",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0047",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0048",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0050",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0051",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0052",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0053",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0054",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0056",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0057",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0060",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0066",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0069",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0070",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0076",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0077",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0081",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0082",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0083",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0085",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0087",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0088",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0091",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0092",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0094",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0095",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0097",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0101",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0105",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0106",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0110",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0111",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0113",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0114",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0115",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0125",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0126",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0127",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0129",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0130",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0136",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0137",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0138",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0146",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0147",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0149",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0152",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0158",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "maya_0162",
+   "group": "maya",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "mississippian_0000",
+   "group": "mississippian",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "mississippian_0001",
+   "group": "mississippian",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "mississippian_0002",
+   "group": "mississippian",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "mississippian_0005",
+   "group": "mississippian",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "mississippian_0006",
+   "group": "mississippian",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "mississippian_0007",
+   "group": "mississippian",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "mississippian_0008",
+   "group": "mississippian",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "mississippian_0009",
+   "group": "mississippian",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "mississippian_0010",
+   "group": "mississippian",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "mississippian_0011",
+   "group": "mississippian",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "mississippian_0015",
+   "group": "mississippian",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "mississippian_0018",
+   "group": "mississippian",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "mississippian_0045",
+   "group": "mississippian",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "mississippian_0052",
+   "group": "mississippian",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "mississippian_0055",
+   "group": "mississippian",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "mississippian_0075",
+   "group": "mississippian",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "gotland_0000",
+   "group": "gotland",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "gotland_0002",
+   "group": "gotland",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "gotland_0003",
+   "group": "gotland",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "gotland_0004",
+   "group": "gotland",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "gotland_0005",
+   "group": "gotland",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "gotland_0007",
+   "group": "gotland",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "gotland_0008",
+   "group": "gotland",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "gotland_0009",
+   "group": "gotland",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "gotland_0018",
+   "group": "gotland",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "gotland_0026",
+   "group": "gotland",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "gotland_0111",
+   "group": "gotland",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "gotland_0112",
+   "group": "gotland",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "gotland_0113",
+   "group": "gotland",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "gotland_0115",
+   "group": "gotland",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "gotland_0116",
+   "group": "gotland",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "gotland_0117",
+   "group": "gotland",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "gotland_0118",
+   "group": "gotland",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "gotland_0122",
+   "group": "gotland",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "gotland_0123",
+   "group": "gotland",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "gotland_0124",
+   "group": "gotland",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "gotland_0125",
+   "group": "gotland",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "gotland_0128",
+   "group": "gotland",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "gotland_0129",
+   "group": "gotland",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "gotland_0130",
+   "group": "gotland",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "gotland_0131",
+   "group": "gotland",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "gotland_0133",
+   "group": "gotland",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0000",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0005",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0007",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0008",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0016",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0017",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0026",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0030",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0034",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0037",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0049",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0050",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0052",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0054",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0056",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0059",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0060",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0061",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0063",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0066",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0067",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0069",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0070",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0074",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0076",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0078",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0079",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0080",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0082",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0085",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0086",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0087",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0100",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0106",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0119",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0126",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0128",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0129",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0236",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0237",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0238",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0240",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0317",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0321",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0324",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0325",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0327",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0328",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0332",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0333",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0334",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0338",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0339",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0340",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0341",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0344",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0347",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0348",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0351",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  },
+  {
+   "id": "tanum_0359",
+   "group": "tanum",
+   "d": NaN,
+   "nn": null,
+   "nn_group": null
+  }
+ ],
+ "settings": {
+  "alpha_min": 0.67,
+  "mode": "consensus"
+ }
+}

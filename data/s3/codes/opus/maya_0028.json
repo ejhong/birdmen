@@ -1,0 +1,89 @@
+{
+ "registers": "1",
+ "elements": {
+  "bird": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "human": {
+   "present": true,
+   "position": "middle",
+   "count": "3+"
+  },
+  "bird_human_hybrid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "other_hybrid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "quadruped": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "reptile_or_snake": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "fish": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "insect_or_arachnid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "disc_or_circle": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "container_or_bag": {
+   "present": true,
+   "position": "middle",
+   "count": "2"
+  },
+  "weapon_or_staff": {
+   "present": true,
+   "position": "middle",
+   "count": "2"
+  },
+  "plant_or_tree": {
+   "present": true,
+   "position": "top",
+   "count": "1"
+  },
+  "geometric_band": {
+   "present": true,
+   "position": "top",
+   "count": "3+"
+  },
+  "text_or_glyphs": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  }
+ },
+ "facing_pair": true,
+ "bilateral_symmetry": true,
+ "dominant_figure": "plant_or_tree",
+ "headless_human": false,
+ "bird_posture": "none",
+ "hybrid_type": "none",
+ "medium": "relief",
+ "confidence": "3",
+ "notes": "A carved relief panel showing a large central tree-like form flanked symmetrically by several seated and standing elaborately costumed human figures holding objects, framed by bands of repeated abstract pattern along the top, bottom and edges.",
+ "_model": "claude-opus-5",
+ "_usage": [
+  2800,
+  965
+ ]
+}

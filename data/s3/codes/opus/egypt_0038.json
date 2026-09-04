@@ -1,0 +1,89 @@
+{
+ "registers": "3+",
+ "elements": {
+  "bird": {
+   "present": true,
+   "position": "top",
+   "count": "3+"
+  },
+  "human": {
+   "present": true,
+   "position": "bottom",
+   "count": "2"
+  },
+  "bird_human_hybrid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "other_hybrid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "quadruped": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "reptile_or_snake": {
+   "present": true,
+   "position": "top",
+   "count": "1"
+  },
+  "fish": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "insect_or_arachnid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "disc_or_circle": {
+   "present": true,
+   "position": "top",
+   "count": "3+"
+  },
+  "container_or_bag": {
+   "present": true,
+   "position": "middle",
+   "count": "2"
+  },
+  "weapon_or_staff": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "plant_or_tree": {
+   "present": true,
+   "position": "middle",
+   "count": "1"
+  },
+  "geometric_band": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "text_or_glyphs": {
+   "present": true,
+   "position": "top",
+   "count": "3+"
+  }
+ },
+ "facing_pair": true,
+ "bilateral_symmetry": false,
+ "dominant_figure": "human",
+ "headless_human": false,
+ "bird_posture": "profile",
+ "hybrid_type": "none",
+ "medium": "relief",
+ "confidence": "4",
+ "notes": "A rectangular stone slab carved in shallow relief with many ruled horizontal lines of small glyph signs (including bird, circle and vessel shapes) above a lower field where two seated/kneeling human figures face inward across columns of glyphs.",
+ "_model": "claude-opus-5",
+ "_usage": [
+  3485,
+  871
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "registers": "1",
+ "elements": {
+  "bird": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "human": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "bird_human_hybrid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "other_hybrid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "quadruped": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "reptile_or_snake": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "fish": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "insect_or_arachnid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "disc_or_circle": {
+   "present": true,
+   "position": "middle",
+   "count": "2"
+  },
+  "container_or_bag": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "weapon_or_staff": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "plant_or_tree": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "geometric_band": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "text_or_glyphs": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  }
+ },
+ "facing_pair": false,
+ "bilateral_symmetry": false,
+ "dominant_figure": "disc_or_circle",
+ "headless_human": false,
+ "bird_posture": "none",
+ "hybrid_type": "none",
+ "medium": "petroglyph",
+ "confidence": "3",
+ "notes": "A large boulder in the foreground bears pecked concentric circular motifs connected by curving lines, set among other large rocks with faint carved shapes near a coastline.",
+ "_model": "claude-sonnet-5",
+ "_usage": [
+  3485,
+  518
+ ]
+}

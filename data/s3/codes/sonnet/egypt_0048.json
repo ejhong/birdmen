@@ -1,0 +1,89 @@
+{
+ "registers": "3+",
+ "elements": {
+  "bird": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "human": {
+   "present": true,
+   "position": "middle",
+   "count": "2"
+  },
+  "bird_human_hybrid": {
+   "present": true,
+   "position": "middle",
+   "count": "1"
+  },
+  "other_hybrid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "quadruped": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "reptile_or_snake": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "fish": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "insect_or_arachnid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "disc_or_circle": {
+   "present": true,
+   "position": "top",
+   "count": "1"
+  },
+  "container_or_bag": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "weapon_or_staff": {
+   "present": true,
+   "position": "middle",
+   "count": "2"
+  },
+  "plant_or_tree": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "geometric_band": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "text_or_glyphs": {
+   "present": true,
+   "position": "top",
+   "count": "3+"
+  }
+ },
+ "facing_pair": true,
+ "bilateral_symmetry": true,
+ "dominant_figure": "bird_human_hybrid",
+ "headless_human": false,
+ "bird_posture": "profile",
+ "hybrid_type": "bird_headed_human",
+ "medium": "relief",
+ "confidence": "4",
+ "notes": "A stone slab with an arched top shows a winged sun-disc and hieroglyphic text in the upper register, and below it two standing figures\u2014one human, one falcon-headed\u2014facing each other across a small stand, each holding a staff.",
+ "_model": "claude-sonnet-5",
+ "_usage": [
+  3485,
+  548
+ ]
+}

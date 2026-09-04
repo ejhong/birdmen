@@ -1,0 +1,89 @@
+{
+ "registers": "3+",
+ "elements": {
+  "bird": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "human": {
+   "present": true,
+   "position": "middle",
+   "count": "1"
+  },
+  "bird_human_hybrid": {
+   "present": true,
+   "position": "top",
+   "count": "1"
+  },
+  "other_hybrid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "quadruped": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "reptile_or_snake": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "fish": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "insect_or_arachnid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "disc_or_circle": {
+   "present": true,
+   "position": "middle",
+   "count": "3+"
+  },
+  "container_or_bag": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "weapon_or_staff": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "plant_or_tree": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "geometric_band": {
+   "present": true,
+   "position": "bottom",
+   "count": "3+"
+  },
+  "text_or_glyphs": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  }
+ },
+ "facing_pair": false,
+ "bilateral_symmetry": true,
+ "dominant_figure": "bird_human_hybrid",
+ "headless_human": false,
+ "bird_posture": "frontal",
+ "hybrid_type": "bird_headed_human",
+ "medium": "relief",
+ "confidence": "3",
+ "notes": "A tall vertical panel shows a face-like bird-human head with radiating rays at the top, above a standing human-like body flanked by crescent or disc shapes, ending in a fringed, pointed lower section with a starburst motif and a fan-like band of parallel lines at the base.",
+ "_model": "claude-sonnet-5",
+ "_usage": [
+  2890,
+  568
+ ]
+}

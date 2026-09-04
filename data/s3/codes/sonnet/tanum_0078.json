@@ -1,0 +1,89 @@
+{
+ "registers": "1",
+ "elements": {
+  "bird": {
+   "present": true,
+   "position": "top",
+   "count": "3+"
+  },
+  "human": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "bird_human_hybrid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "other_hybrid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "quadruped": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "reptile_or_snake": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "fish": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "insect_or_arachnid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "disc_or_circle": {
+   "present": true,
+   "position": "middle",
+   "count": "1"
+  },
+  "container_or_bag": {
+   "present": true,
+   "position": "middle",
+   "count": "1"
+  },
+  "weapon_or_staff": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "plant_or_tree": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "geometric_band": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "text_or_glyphs": {
+   "present": true,
+   "position": "top",
+   "count": "3+"
+  }
+ },
+ "facing_pair": false,
+ "bilateral_symmetry": false,
+ "dominant_figure": "bird",
+ "headless_human": false,
+ "bird_posture": "mixed",
+ "hybrid_type": "none",
+ "medium": "petroglyph",
+ "confidence": "3",
+ "notes": "A red-painted rendering of a rock carving on an information panel shows a cluster of small stick-like bird figures at the top, a larger boat- or vessel-like shape with a curved handle in the middle, and scattered footprint- and line-like marks below, all set against a white background bordered by explanatory text in multiple languages.",
+ "_model": "claude-sonnet-5",
+ "_usage": [
+  3448,
+  568
+ ]
+}

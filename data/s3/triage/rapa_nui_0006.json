@@ -1,0 +1,12 @@
+{
+ "usable": true,
+ "reason": "This is a single moai (Easter Island statue) shown in close-up; the statue's own carved surface (facial features, torso, arms, hands) is clearly discernible as the statue's carved form itself, functioning as its own decorated/carved surface.",
+ "medium": "statue_surface",
+ "is_replica_or_drawing": false,
+ "single_object": true,
+ "_model": "claude-sonnet-5",
+ "_usage": [
+  1641,
+  123
+ ]
+}

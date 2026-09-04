@@ -1,0 +1,12 @@
+{
+ "usable": false,
+ "reason": "This is a freestanding Moai statue photographed in a museum setting; it is a plain carved figure without additional decorative surface imagery (reliefs, figures, or designs) beyond its own sculpted form. The image also includes museum context (people, signage) rather than an isolated decorated surface.",
+ "medium": "statue_surface",
+ "is_replica_or_drawing": false,
+ "single_object": true,
+ "_model": "claude-sonnet-5",
+ "_usage": [
+  1752,
+  140
+ ]
+}

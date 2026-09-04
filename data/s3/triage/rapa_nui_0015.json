@@ -1,0 +1,12 @@
+{
+ "usable": false,
+ "reason": "Foreground is a plain carved stone head/statue (moai-like) with no discernible separate carved imagery on its surface; background shows a museum room with multiple separate artifacts (a carved wooden object, a canoe prow or similar carving) behind glass, making this a museum scene with multiple objects rather than a single decorated surface.",
+ "medium": "statue_surface",
+ "is_replica_or_drawing": false,
+ "single_object": false,
+ "_model": "claude-sonnet-5",
+ "_usage": [
+  1752,
+  151
+ ]
+}

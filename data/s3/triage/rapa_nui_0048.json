@@ -1,0 +1,12 @@
+{
+ "usable": false,
+ "reason": "This is a single freestanding Moai statue displayed in a museum. It is a plain carved figure without additional decorative imagery on its surface (no separate carved figures or designs beyond the basic anthropomorphic form). The image also shows a museum room setting with visitors and other display cases in the background.",
+ "medium": "statue_surface",
+ "is_replica_or_drawing": false,
+ "single_object": true,
+ "_model": "claude-sonnet-5",
+ "_usage": [
+  1678,
+  140
+ ]
+}

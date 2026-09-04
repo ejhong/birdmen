@@ -1,0 +1,89 @@
+{
+ "registers": "1",
+ "elements": {
+  "bird": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "human": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "bird_human_hybrid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "other_hybrid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "quadruped": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "reptile_or_snake": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "fish": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "insect_or_arachnid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "disc_or_circle": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "container_or_bag": {
+   "present": true,
+   "position": "middle",
+   "count": "1"
+  },
+  "weapon_or_staff": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "plant_or_tree": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "geometric_band": {
+   "present": true,
+   "position": "bottom",
+   "count": "1"
+  },
+  "text_or_glyphs": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  }
+ },
+ "facing_pair": false,
+ "bilateral_symmetry": true,
+ "dominant_figure": "container_or_bag",
+ "headless_human": false,
+ "bird_posture": "none",
+ "hybrid_type": "none",
+ "medium": "incised",
+ "confidence": "2",
+ "notes": "An arched outline encloses a symmetrical incised design resembling a boat-like vessel with a central mast-like line flanked by two triangular forms, set above a band of repeated scalloped or wave-like curves.",
+ "_model": "claude-sonnet-5",
+ "_usage": [
+  3485,
+  1177
+ ]
+}

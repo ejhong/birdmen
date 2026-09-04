@@ -1,0 +1,89 @@
+{
+ "registers": "3+",
+ "elements": {
+  "bird": {
+   "present": true,
+   "position": "bottom",
+   "count": "1"
+  },
+  "human": {
+   "present": true,
+   "position": "middle",
+   "count": "1"
+  },
+  "bird_human_hybrid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "other_hybrid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "quadruped": {
+   "present": true,
+   "position": "middle",
+   "count": "1"
+  },
+  "reptile_or_snake": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "fish": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "insect_or_arachnid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "disc_or_circle": {
+   "present": true,
+   "position": "middle",
+   "count": "1"
+  },
+  "container_or_bag": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "weapon_or_staff": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "plant_or_tree": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "geometric_band": {
+   "present": true,
+   "position": "top",
+   "count": "2"
+  },
+  "text_or_glyphs": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  }
+ },
+ "facing_pair": false,
+ "bilateral_symmetry": false,
+ "dominant_figure": "quadruped",
+ "headless_human": false,
+ "bird_posture": "spread_wings",
+ "hybrid_type": "none",
+ "medium": "relief",
+ "confidence": "2",
+ "notes": "A heavily worn carved stone fragment shows arch-like forms at the top, a zigzag geometric band, a middle scene with an animal and a human figure near a circular shape, and a lower zone of repeated chevron patterning ending in a possible bird-like form with splayed lines resembling feathers.",
+ "_model": "claude-sonnet-5",
+ "_usage": [
+  3485,
+  1517
+ ]
+}

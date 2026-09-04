@@ -1,0 +1,89 @@
+{
+ "registers": "1",
+ "elements": {
+  "bird": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "human": {
+   "present": true,
+   "position": "top",
+   "count": "3+"
+  },
+  "bird_human_hybrid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "other_hybrid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "quadruped": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "reptile_or_snake": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "fish": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "insect_or_arachnid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "disc_or_circle": {
+   "present": true,
+   "position": "middle",
+   "count": "1"
+  },
+  "container_or_bag": {
+   "present": true,
+   "position": "middle",
+   "count": "1"
+  },
+  "weapon_or_staff": {
+   "present": true,
+   "position": "middle",
+   "count": "1"
+  },
+  "plant_or_tree": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "geometric_band": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "text_or_glyphs": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  }
+ },
+ "facing_pair": true,
+ "bilateral_symmetry": false,
+ "dominant_figure": "human",
+ "headless_human": false,
+ "bird_posture": "none",
+ "hybrid_type": "none",
+ "medium": "relief",
+ "confidence": "4",
+ "notes": "A single-register carved stone relief showing bearded human figures in profile, one wearing a rounded cap and a sheathed blade at the waist while extending a small spherical object toward two figures in tall fluted and rounded headgear facing him, with a partial hand holding a round object at the left edge.",
+ "_model": "claude-opus-5",
+ "_usage": [
+  3596,
+  911
+ ]
+}

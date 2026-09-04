@@ -1,0 +1,89 @@
+{
+ "registers": "2",
+ "elements": {
+  "bird": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "human": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "bird_human_hybrid": {
+   "present": true,
+   "position": "middle",
+   "count": "1"
+  },
+  "other_hybrid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "quadruped": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "reptile_or_snake": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "fish": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "insect_or_arachnid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "disc_or_circle": {
+   "present": true,
+   "position": "middle",
+   "count": "2"
+  },
+  "container_or_bag": {
+   "present": true,
+   "position": "middle",
+   "count": "1"
+  },
+  "weapon_or_staff": {
+   "present": true,
+   "position": "middle",
+   "count": "1"
+  },
+  "plant_or_tree": {
+   "present": true,
+   "position": "middle",
+   "count": "1"
+  },
+  "geometric_band": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "text_or_glyphs": {
+   "present": true,
+   "position": "top",
+   "count": "3+"
+  }
+ },
+ "facing_pair": false,
+ "bilateral_symmetry": false,
+ "dominant_figure": "bird_human_hybrid",
+ "headless_human": false,
+ "bird_posture": "none",
+ "hybrid_type": "other",
+ "medium": "relief",
+ "confidence": "3",
+ "notes": "A heavily eroded carved stone panel with a band of dense script lines across the top and, below it, a large winged standing figure in profile holding a small object in a raised hand and a handled container-like item, with a rosette-and-palmette plant motif at the left edge.",
+ "_model": "claude-opus-5",
+ "_usage": [
+  3596,
+  923
+ ]
+}

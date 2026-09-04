@@ -1,0 +1,12 @@
+{
+ "usable": false,
+ "reason": "This is a single freestanding Moai statue photographed in a museum setting; the surface shows its own sculpted form (face, torso, arms) but no separate carved or painted imagery/decoration on the body distinct from the statue's own figure.",
+ "medium": "statue_surface",
+ "is_replica_or_drawing": false,
+ "single_object": true,
+ "_model": "claude-sonnet-5",
+ "_usage": [
+  1456,
+  122
+ ]
+}

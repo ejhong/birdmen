@@ -1,0 +1,89 @@
+{
+ "registers": "3+",
+ "elements": {
+  "bird": {
+   "present": true,
+   "position": "bottom",
+   "count": "1"
+  },
+  "human": {
+   "present": true,
+   "position": "middle",
+   "count": "1"
+  },
+  "bird_human_hybrid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "other_hybrid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "quadruped": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "reptile_or_snake": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "fish": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "insect_or_arachnid": {
+   "present": true,
+   "position": "bottom",
+   "count": "1"
+  },
+  "disc_or_circle": {
+   "present": true,
+   "position": "middle",
+   "count": "1"
+  },
+  "container_or_bag": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "weapon_or_staff": {
+   "present": true,
+   "position": "middle",
+   "count": "1"
+  },
+  "plant_or_tree": {
+   "present": true,
+   "position": "top",
+   "count": "1"
+  },
+  "geometric_band": {
+   "present": true,
+   "position": "top",
+   "count": "1"
+  },
+  "text_or_glyphs": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  }
+ },
+ "facing_pair": false,
+ "bilateral_symmetry": false,
+ "dominant_figure": "bird",
+ "headless_human": false,
+ "bird_posture": "profile",
+ "hybrid_type": "none",
+ "medium": "relief",
+ "confidence": "3",
+ "notes": "A carved stone slab shows three horizontal bands: an upper band of repeated arch-like or leaf-like shapes, a middle band containing a seated human figure, a round object, and a slender vertical shape, and a lower band with an elongated bird-like form beneath a small scorpion-like shape.",
+ "_model": "claude-sonnet-5",
+ "_usage": [
+  3485,
+  1494
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "registers": "2",
+ "elements": {
+  "bird": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "human": {
+   "present": true,
+   "position": "top",
+   "count": "3+"
+  },
+  "bird_human_hybrid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "other_hybrid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "quadruped": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "reptile_or_snake": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "fish": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "insect_or_arachnid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "disc_or_circle": {
+   "present": true,
+   "position": "top",
+   "count": "1"
+  },
+  "container_or_bag": {
+   "present": true,
+   "position": "middle",
+   "count": "1"
+  },
+  "weapon_or_staff": {
+   "present": true,
+   "position": "middle",
+   "count": "1"
+  },
+  "plant_or_tree": {
+   "present": true,
+   "position": "top",
+   "count": "1"
+  },
+  "geometric_band": {
+   "present": true,
+   "position": "top",
+   "count": "3+"
+  },
+  "text_or_glyphs": {
+   "present": true,
+   "position": "top",
+   "count": "3+"
+  }
+ },
+ "facing_pair": true,
+ "bilateral_symmetry": true,
+ "dominant_figure": "plant_or_tree",
+ "headless_human": false,
+ "bird_posture": "none",
+ "hybrid_type": "none",
+ "medium": "relief",
+ "confidence": "3",
+ "notes": "A carved panel shows a central tree-like form flanked by two facing human figures, with additional seated and standing figures below, a band of glyph-like blocks and geometric patterning across the top, and a wavy line pattern along the bottom edge.",
+ "_model": "claude-sonnet-5",
+ "_usage": [
+  2800,
+  543
+ ]
+}

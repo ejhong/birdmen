@@ -1,0 +1,12 @@
+{
+ "usable": false,
+ "reason": "This shows a single freestanding moai statue displayed in a museum gallery. The statue is a figure itself (its whole form is the sculpted figure), not a decorated surface with separate carved/painted imagery on it. No additional carved designs or figures are visible on its body, so per instructions this does not qualify as usable.",
+ "medium": "statue_surface",
+ "is_replica_or_drawing": false,
+ "single_object": true,
+ "_model": "claude-sonnet-5",
+ "_usage": [
+  1752,
+  145
+ ]
+}

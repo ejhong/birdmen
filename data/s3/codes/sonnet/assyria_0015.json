@@ -1,0 +1,89 @@
+{
+ "registers": "1",
+ "elements": {
+  "bird": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "human": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "bird_human_hybrid": {
+   "present": true,
+   "position": "top",
+   "count": "1"
+  },
+  "other_hybrid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "quadruped": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "reptile_or_snake": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "fish": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "insect_or_arachnid": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "disc_or_circle": {
+   "present": true,
+   "position": "top",
+   "count": "1"
+  },
+  "container_or_bag": {
+   "present": true,
+   "position": "bottom",
+   "count": "1"
+  },
+  "weapon_or_staff": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "plant_or_tree": {
+   "present": true,
+   "position": "top",
+   "count": "2"
+  },
+  "geometric_band": {
+   "present": false,
+   "position": "none",
+   "count": "0"
+  },
+  "text_or_glyphs": {
+   "present": true,
+   "position": "middle",
+   "count": "3+"
+  }
+ },
+ "facing_pair": false,
+ "bilateral_symmetry": false,
+ "dominant_figure": "bird_human_hybrid",
+ "headless_human": false,
+ "bird_posture": "profile",
+ "hybrid_type": "bird_headed_human",
+ "medium": "relief",
+ "confidence": "3",
+ "notes": "A large panel of dense cuneiform-like text covers most of the surface, with a winged bird-headed humanoid figure and stylized plant forms visible at the upper edge and a handled container held near the bottom right.",
+ "_model": "claude-sonnet-5",
+ "_usage": [
+  2930,
+  542
+ ]
+}

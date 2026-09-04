@@ -1,0 +1,12 @@
+{
+ "usable": false,
+ "reason": "This is a freestanding moai statue photographed in a museum interior. It shows the carved form of the figure itself (head, ears, torso) but there is no separate decorated surface with distinct figures or designs beyond the sculptural form of the statue.",
+ "medium": "statue_surface",
+ "is_replica_or_drawing": false,
+ "single_object": true,
+ "_model": "claude-sonnet-5",
+ "_usage": [
+  1641,
+  124
+ ]
+}

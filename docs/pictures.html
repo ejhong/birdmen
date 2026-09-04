@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Study 3: The Pictures</title>
+<meta name="description" content="Is the composition of Göbekli Tepe's Pillar 43 closer to the carved back of an Easter Island moai than unrelated decorated panels ordinarily get to each other? A pre-registered pilot on 1,270 images from ten traditions, coded blind by two vision models.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<style>
+.pairrow { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+.pcard { background: #fff; border: 1px solid var(--rule); border-radius: 6px; padding: 10px; }
+.pcard .ph { height: 300px; display: flex; align-items: center; justify-content: center; background: var(--paper-2); border-radius: 3px; overflow: hidden; }
+.pcard .ph img { max-height: 300px; max-width: 100%; object-fit: contain; }
+.pcard .cap { font-family: var(--mono); font-size: .72rem; color: var(--ink-soft); margin-top: 8px; line-height: 1.5; }
+.pcard .cap b { color: var(--ink); }
+.nn-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 12px; }
+.nn { background: #fff; border: 1px solid var(--rule); border-radius: 6px; padding: 8px; }
+.nn .two { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; align-items: center; }
+.nn .ph { height: 150px; display: flex; align-items: center; justify-content: center; background: var(--paper-2); border-radius: 3px; overflow: hidden; }
+.nn .ph img { max-height: 150px; max-width: 100%; object-fit: contain; }
+.nn .cap { font-family: var(--mono); font-size: .64rem; color: var(--ink-soft); margin-top: 6px; line-height: 1.5; }
+table.feat td.v { font-family: var(--mono); font-size: .74rem; }
+table.feat tr.match td { background: rgba(71, 112, 95, .10); }
+table.feat tr.mismatch td { background: rgba(142, 74, 56, .07); }
+.heat { display: grid; gap: 2px; font-family: var(--mono); font-size: .62rem; }
+.heat div { padding: 6px 2px; text-align: center; border-radius: 2px; color: var(--ink); }
+.heat .lbl { text-align: right; padding-right: 6px; color: var(--ink-soft); background: transparent; }
+.heat .top { writing-mode: vertical-rl; transform: rotate(180deg); height: 96px; background: transparent; color: var(--ink-soft); }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="wrap">
+    <div class="eyebrow"><a href="./" style="border:0">Deep Memory test bench</a> &middot; study 3 of 3 &middot; pilot</div>
+    <h1 style="margin-top:14px">Study 3: is Pillar 43 unusually like the moai's back?</h1>
+    <p class="deck">The strongest image in the whole complex is a Göbekli Tepe pillar beside the carved back of an Easter Island statue. This pilot puts the pair inside a closed corpus of decorated surfaces from ten traditions, coded blind by two vision models against a pre-registered feature list, and asks how close any panel ordinarily gets to its best match in a foreign tradition.</p>
+    <div class="meta">
+      <span><b>Status</b> pilot &middot; pre-registered 4 Sept 2026</span>
+      <span><b>Corpus</b> <span data-v="n_images"></span> Commons images &middot; <span data-v="n_coded"></span> coded</span>
+      <span><b>Pre-registration</b> <a href="study3/preregistration.md">the document</a></span>
+      <span><b>Overview</b> <a href="./">all the pictures and stories</a></span>
+      <span><b>Code &amp; data</b> <a href="https://github.com/ejhong/birdmen">github.com/ejhong/birdmen</a></span>
+    </div>
+  </div>
+</header>
+
+<nav class="toc"><div class="wrap"><ol>
+  <li><a href="./">&larr; Overview</a></li>
+  <li><a href="#verdict">Verdict</a></li>
+  <li><a href="#target">The pair</a></li>
+  <li><a href="#corpus">Corpus</a></li>
+  <li><a href="#coding">Coding and reliability</a></li>
+  <li><a href="#null">The null</a></li>
+  <li><a href="#groups">Groups and geography</a></li>
+  <li><a href="#drivers">What drives the score</a></li>
+  <li><a href="#neighbours">Nearest neighbours</a></li>
+  <li><a href="#limits">Limits</a></li>
+</ol></div></nav>
+
+<main>
+
+<section class="part" id="verdict"><div class="wrap">
+  <div class="part-head"><div class="n">01</div><h2>The verdict, for the pilot</h2></div>
+  <div class="prose">
+    <div class="verdict"><div class="eyebrow">In one paragraph</div>
+      <p><b>The pre-registered test returned no verdict, and the reason is the finding.</b> Of <span data-v="all"></span> composition features, only <span data-v="kept"></span> reached the pre-registered agreement threshold between the two blind coders, too few to compute the distance the plan required. The features that failed are the ones the claim is made of: whether a bird is present at all (alpha <span data-v="alpha_bird"></span>), a snake (<span data-v="alpha_snake"></span>), a container (<span data-v="alpha_bag"></span>), a headless human (<span data-v="alpha_headless"></span>), the bird's posture (<span data-v="alpha_posture"></span>). Two vision models looking at the same eroded surfaces do not agree on what is carved on them. Everything below the reliability table is therefore <b>exploratory</b>, labelled as such and logged in the pre-registration: with a relaxed threshold and disagreement kept as noise, Pillar 43 and the moai's back are farther apart than <span data-v="j_pct"></span>% of panels are from their own nearest foreign neighbour, Pillar 43's closest foreign match is a <span data-v="p43_nn_group"></span> and the moai's a <span data-v="hoa_nn_group"></span>, <span data-v="pc_both"></span>, and composition barely separates a tradition's own panels from foreign ones. Nothing in the pilot moves the pair toward "unusual"; what the pilot establishes is that the instrument has to be rebuilt before the question can be answered.</p>
+    </div>
+    <div class="stats" id="stats"></div>
+    <p>Everything was fixed before coding: the categories, the feature list, the reliability threshold, the distance, the null and the predictions. The <a href="study3/preregistration.md">pre-registration</a> logs one change made after a three-image dry run and the two exploratory variants added after the fact.</p>
+  </div>
+</div></section>
+
+<section class="part" id="target"><div class="wrap">
+  <div class="part-head"><div class="n">02</div><h2>The pair, as coded</h2></div>
+  <div class="pairrow" id="pair"></div>
+  <div class="prose"><p style="margin-top:18px">Each panel's card shows the two coders' one-sentence descriptions, written without any knowledge of what the object is. Below the cards, the nearest foreign neighbour each panel actually has in the corpus.</p></div>
+  <div class="pairrow" id="pair-nn"></div>
+</div></section>
+
+<section class="part" id="corpus"><div class="wrap">
+  <div class="part-head"><div class="n">03</div><h2>The corpus</h2></div>
+  <div class="prose"><p>Every file in the pre-registered Wikimedia Commons categories was fetched, then triaged blind by Sonnet 5 for whether it shows a single decorated surface that can be coded (site views, museum rooms, undecorated statues and unreadable fragments are dropped). Several photographs of the same object can survive triage; the pilot accepts that and the neighbour analysis is cross-group only.</p></div>
+  <figure><div class="frame plain"><table class="inv" id="corpus-table"></table></div><figcaption><b>Images fetched and images that survived triage, by group.</b> The Mississippian and Çatalhöyük groups are thin on Commons; a full study would draw them from museum collections.</figcaption></figure>
+</div></section>
+
+<section class="part" id="coding"><div class="wrap">
+  <div class="part-head"><div class="n">04</div><h2>Coding, and how much the coders agreed</h2></div>
+  <div class="prose"><p>Opus 5 and Sonnet 5 coded every usable image independently, from the image and the feature definitions alone. Agreement per feature is Krippendorff's alpha; features under 0.67 were dropped before any distance was computed, as pre-registered. The retained features are what the whole analysis runs on.</p></div>
+  <figure><div class="frame plain"><table class="inv" id="alpha-table"></table></div><figcaption><b>Inter-coder agreement.</b> Green rows were retained. Presence features agree far better than position features, which is expected: "is there a bird" is easier than "which third of the panel is the topmost bird in".</figcaption></figure>
+</div></section>
+
+<section class="part" id="null"><div class="wrap">
+  <div class="part-head"><div class="n">05</div><h2>The null: how close does any panel get to a foreign one? (exploratory)</h2></div>
+  <div class="prose"><p>The pre-registered version could not be computed. In the exploratory variant shown here, features with alpha ≥ 0.5 are kept, each coder's mismatch is averaged rather than requiring consensus, and shared absences are ignored so that sparsely coded panels do not become everyone's neighbour. For every coded panel, its distance to every panel in a different group was computed and the smallest kept. That distribution is the yardstick. The moai was chosen as Pillar 43's match from all of world art, so the fair question is not "how similar are these two" but "how similar is any panel to its best foreign match".</p></div>
+  <figure><div class="frame plain" id="fig-null"></div><figcaption id="cap-null"></figcaption></figure>
+</div></section>
+
+<section class="part" id="groups"><div class="wrap">
+  <div class="part-head"><div class="n">06</div><h2>Groups, positive controls, and geography (exploratory)</h2></div>
+  <div class="prose"><p>Mean composition distance between every pair of groups. The positive controls are the two pairs with documented descent or continuity, Assyria to Persepolis and Anatolian PPN to Çatalhöyük: they must be among each other's two closest groups for the method to be trusted.</p></div>
+  <figure><div class="frame plain" id="fig-heat"></div><figcaption id="cap-heat"></figcaption></figure>
+  <div class="prose"><p id="mantel-text"></p></div>
+</div></section>
+
+<section class="part" id="drivers"><div class="wrap">
+  <div class="part-head"><div class="n">07</div><h2>What drives the target pair's score (exploratory)</h2></div>
+  <div class="prose"><p>Feature by feature: the consensus code of Pillar 43, of the moai's back, whether they match, and how common that value is across the whole corpus. A match on a value that most panels share carries little information; a match on a rare value would.</p></div>
+  <figure><div class="frame plain"><table class="inv feat" id="drivers-table"></table></div><figcaption id="cap-drivers"></figcaption></figure>
+</div></section>
+
+<section class="part" id="neighbours"><div class="wrap">
+  <div class="part-head"><div class="n">08</div><h2>Nearest foreign neighbours, sampled (exploratory)</h2></div>
+  <div class="prose"><p>What "close" looks like in this corpus. Each card is a panel and the foreign panel it is nearest to, with the distance. Shuffle to see others.</p></div>
+  <div class="chart-controls"><button class="btn" id="btn-shuffle">Shuffle</button></div>
+  <div class="nn-grid" id="nn-grid"></div>
+</div></section>
+
+<section class="part" id="limits"><div class="wrap">
+  <div class="part-head"><div class="n">09</div><h2>What this pilot does and does not show</h2></div>
+  <div class="prose">
+    <p><b>It is a pilot on Commons photographs.</b> Coverage is uneven, several images show the same object from different angles, and the Orongo petroglyph corpus is far larger than what is photographed online. The full study needs the published corpora.</p>
+    <p><b>The coders are vision models, and they disagree.</b> They are blind to provenance, which humans rarely are, but they misread eroded surfaces, they read the three handled shapes on Pillar 43 as animals when shown it cold, and on the feature the whole claim turns on, "is there a bird", their agreement is <span data-v="alpha_bird"></span>. Where they agree well is on the easy things: text blocks (<span data-v="alpha_text"></span>), quadrupeds (<span data-v="alpha_quad"></span>), human figures (<span data-v="alpha_human"></span>). A full study needs human coders with a shared training set, higher-resolution images, and a feature list refined on the disagreements listed above.</p>
+    <p><b>Commons photographs are the wrong resolution for this.</b> Many are oblique, shadowed or partial, and the same object appears in several. The Pillar 43 photograph used here omits the headless man at the base, so the coded pillar has no human figure; the published drawing would. Published corpora and orthophotos are the fix.</p>
+    <p><b>Composition is not meaning.</b> Two panels can share "birds at the top and a snake at the bottom" because that is how the sky and the ground are, everywhere. The drivers table separates common values from rare ones for that reason.</p>
+    <p><b>What would change the verdict.</b> The pre-registration says it: the target pair in the closest 5% of nearest-foreign-neighbour distances, driven by features with corpus base rates under 25%, with the positive controls passing.</p>
+  </div>
+</div></section>
+
+</main>
+
+<footer><div class="wrap">Built by Eugene Hong with Claude, September 2026. Third study of the <a href="./">Deep Memory test bench</a>. <a href="https://github.com/ejhong/birdmen/issues">Corrections welcome</a>.</div></footer>
+
+<script src="s3.js"></script>
+</body>
+</html>
