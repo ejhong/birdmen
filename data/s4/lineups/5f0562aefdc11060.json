@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  7,
+  6,
+  9,
+  8,
+  4,
+  3,
+  1,
+  5,
+  10
+ ],
+ "most_similar_reason": "Candidate 2 shares the target's culture-hero core: a divine figure who travels the land teaching humanity agriculture, plowing and useful plants, rescuing people from a wretched pre-civilized state, who dies a sacrificial death and is thereafter worshipped as a god of farming and healing.",
+ "least_similar_reason": "Candidate 10 is a bare notice that a many-named creator god is worshipped in a river region, with no murder, dismemberment, searching spouse, avenging son, or teaching of agriculture to compare.",
+ "set": "hancock",
+ "pair": "Osiris | Viracocha",
+ "i": 56,
+ "target": "Osiris",
+ "planted": "Viracocha",
+ "cands": [
+  "Palamedes (mythology)",
+  "Shennong",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Ogun",
+  "Sang Hyang Tunggal",
+  "Viracocha",
+  "Huitzilopochtli",
+  "Gesar",
+  "Kvasir",
+  "Makunaima"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 3
+}

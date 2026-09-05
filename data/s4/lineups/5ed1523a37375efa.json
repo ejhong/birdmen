@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  4,
+  8,
+  1,
+  6,
+  2,
+  5,
+  7,
+  10,
+  9
+ ],
+ "most_similar_reason": "Candidate 3 matches the target's core arc most closely: a bearded creator/culture hero with multiple conflicting versions of his story who destroys an earlier failed race of humans and fashions the present humanity, teaches civilization's arts, and finally departs over the water with an expectation of return.",
+ "least_similar_reason": "Candidate 9 is a revenge tale of a crippled smith who murders a king's sons and seduces his daughter before flying away, sharing none of the target's creation, culture-bringing, calendrical, astral, or self-sacrifice motifs.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Viracocha",
+ "i": 17,
+ "target": "Quetzalcoatl",
+ "planted": "Viracocha",
+ "cands": [
+  "Great Peacemaker",
+  "Cadmus",
+  "Viracocha",
+  "Yellow Emperor",
+  "Wisakedjak",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Agastya",
+  "Prometheus",
+  "Wayland the Smith",
+  "Adapa"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

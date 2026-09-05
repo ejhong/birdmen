@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  5,
+  4,
+  7,
+  10,
+  3,
+  2,
+  1,
+  6,
+  8
+ ],
+ "most_similar_reason": "Candidate 9 matches the target most closely as a creator-culture-hero deity with conflicting versions of his acts, who makes and destroys races of humans (giants) and remakes mankind, teaches the foundations of civilization, is tied to sun/moon/stars, and finally departs across the water with an expectation of return.",
+ "least_similar_reason": "Candidate 8 is not a narrative at all but a linguistic and historical discussion of a divine name's distribution, containing no birth, deeds, gifts to humanity, or death of a deity to compare with the target.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Viracocha",
+ "i": 19,
+ "target": "Quetzalcoatl",
+ "planted": "Viracocha",
+ "cands": [
+  "Romulus and Remus",
+  "Cadmus",
+  "Gesar",
+  "Dangun",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "White Buffalo Calf Woman",
+  "Apkallu",
+  "Waaq",
+  "Viracocha",
+  "Great Peacemaker"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

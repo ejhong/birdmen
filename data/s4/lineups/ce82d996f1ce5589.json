@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  4,
+  10,
+  7,
+  6,
+  5,
+  9,
+  2,
+  3,
+  8
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's core pattern of a bearded, civilizing creator-god who makes the present humans after earlier races were destroyed, invents/gives the arts of civilization (books, calendar, crops), and finally departs from his people in a miraculous vanishing.",
+ "least_similar_reason": "Candidate 8 is not a narrative at all but an abstract account of a term for sacred power, with no creator figure, no creation of humans, no flood, teaching, or departure.",
+ "set": "hancock",
+ "pair": "Viracocha | Quetzalcoatl",
+ "i": 5,
+ "target": "Viracocha",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Quetzalcoatl",
+  "Aeneas",
+  "Wayland the Smith",
+  "Shennong",
+  "Djanggawul",
+  "R\u00edgs\u00feula",
+  "Sky Woman",
+  "Wakan Tanka",
+  "Amirani",
+  "T\u0101ne"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  7,
+  4,
+  5,
+  3,
+  10,
+  9,
+  1,
+  8,
+  6
+ ],
+ "most_similar_reason": "Candidate 2 matches the target's core plot most closely: a god is killed by jealous brothers, is revived from death (by his mother's magic rather than a wife's), later defeats those brothers, travels developing the land with a helper, marries goddesses, and ultimately becomes ruler of the netherworld.",
+ "least_similar_reason": "Candidate 6 is least similar because it is only a bare creation account of an ancestor-turned-creator who makes humans from reeds and then forgets and abandons them, with no brother-rival, murder, dismemberment, resurrection, avenging son, or teaching of agriculture.",
+ "set": "hancock",
+ "pair": "Osiris | Viracocha",
+ "i": 52,
+ "target": "Osiris",
+ "planted": "Viracocha",
+ "cands": [
+  "Baiame",
+  "\u014ckuninushi",
+  "Viracocha",
+  "Hiawatha",
+  "Huitzilopochtli",
+  "Unkulunkulu",
+  "Heitsi-eibib",
+  "Mwari",
+  "Ilmarinen",
+  "Oduduwa"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 5
+}

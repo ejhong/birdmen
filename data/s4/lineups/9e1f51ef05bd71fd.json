@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  9,
+  3,
+  8,
+  10,
+  6,
+  7,
+  5,
+  4,
+  1
+ ],
+ "most_similar_reason": "Candidate 2 matches the target most closely because it centers on a divine culture-bringer who orders the founding of a great city, travels with companions bearing his own name, teaches humanity the foundations of civilization and useful knowledge, is tied to a world-destroying flood that separates earlier from later humanity, and finally departs into the waters, mirroring the seven flood-era sages who taught the arts of civilization, founded cities, and were banished into the primeval deep.",
+ "least_similar_reason": "Candidate 1 is least similar because it is a personal revenge-and-escape saga about a captive smith who murders a king's sons and seduces his daughter, with no divine sages, no teaching of civilization to humankind, no flood, and no founding of cities.",
+ "set": "hancock",
+ "pair": "Oannes | Viracocha",
+ "i": 37,
+ "target": "Oannes",
+ "planted": "Viracocha",
+ "cands": [
+  "Wayland the Smith",
+  "Viracocha",
+  "Kutkh",
+  "Amirani",
+  "Gesar",
+  "Anansi",
+  "Tezcatlipoca",
+  "Oduduwa",
+  "Glooscap",
+  "Ilmarinen"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 1
+}

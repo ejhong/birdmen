@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Study 5: The Raven and the Dove</title>
+<meta name="description" content="263 flood stories from every continent, coded blind for 26 details. Which details are everywhere, which are regional, and which travel with the Bible? A test of the claim that the world's flood myths remember one Ice Age cataclysm.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<style>
+.heat { display: grid; gap: 2px; font-family: var(--mono); font-size: .62rem; }
+.heat div { padding: 6px 2px; text-align: center; border-radius: 2px; color: var(--ink); }
+.heat .lbl { text-align: right; padding-right: 6px; color: var(--ink-soft); background: transparent; white-space: nowrap; }
+.heat .top { writing-mode: vertical-rl; transform: rotate(180deg); height: 120px; background: transparent; color: var(--ink-soft); }
+.story { background: #fff; border: 1px solid var(--rule); border-radius: 6px; padding: 12px 14px; margin: 10px 0; }
+.story .h { font-family: var(--mono); font-size: .72rem; color: var(--ink-soft); margin-bottom: 6px; }
+.story .h b { color: var(--ink); }
+.story p { font-size: .92rem; margin: 6px 0; line-height: 1.5; }
+.tag { display: inline-block; font-family: var(--mono); font-size: .62rem; padding: 1px 6px; border: 1px solid var(--rule); border-radius: 3px; margin: 0 3px 3px 0; color: var(--ink-soft); }
+.tag.on { background: rgba(154,91,51,.12); color: var(--copper); border-color: rgba(154,91,51,.3); }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="wrap">
+    <div class="eyebrow"><a href="./" style="border:0">Deep Memory test bench</a> &middot; study 5 of 5 &middot; pilot</div>
+    <h1 style="margin-top:14px">Study 5: the raven and the dove</h1>
+    <p class="deck">Flood stories are told on every continent, and the lost-civilisation literature reads them as one memory of one cataclysm at the end of the Ice Age. The alternative is older and duller: floods happen everywhere, so flood stories arise everywhere, and the details that make them look like one story are the details of one story, Genesis, carried around the world in the last five centuries. This page codes 263 flood stories for 26 details, blind, and asks which details are universal, which are regional, and which travel with the Bible.</p>
+    <div class="meta">
+      <span><b>Status</b> pilot &middot; pre-registered 4 Sept 2026</span>
+      <span><b>Corpus</b> <span data-v="n"></span> stories &middot; 9 regions</span>
+      <span><b>Pre-registration</b> <a href="study5/preregistration.md">the document</a></span>
+      <span><b>Overview</b> <a href="./">all the pictures and stories</a></span>
+      <span><b>Code &amp; data</b> <a href="https://github.com/ejhong/birdmen">github.com/ejhong/birdmen</a></span>
+    </div>
+  </div>
+</header>
+
+<nav class="toc"><div class="wrap"><ol>
+  <li><a href="./">&larr; Overview</a></li>
+  <li><a href="#verdict">Verdict</a></li>
+  <li><a href="#claim">The claim</a></li>
+  <li><a href="#corpus">Corpus</a></li>
+  <li><a href="#coding">Coding</a></li>
+  <li><a href="#map">Detail by region</a></li>
+  <li><a href="#diagnostic">The Genesis details</a></li>
+  <li><a href="#neighbours">Nearest to Genesis</a></li>
+  <li><a href="#structure">Regional structure</a></li>
+  <li><a href="#limits">Limits</a></li>
+</ol></div></nav>
+
+<main>
+
+<section class="part" id="verdict"><div class="wrap">
+  <div class="part-head"><div class="n">01</div><h2>The verdict, for the pilot</h2></div>
+  <div class="prose">
+    <div class="verdict"><div class="eyebrow">In one paragraph</div><p id="verdict-p"></p></div>
+    <div class="stats" id="stats"></div>
+  </div>
+</div></section>
+
+<section class="part" id="claim"><div class="wrap">
+  <div class="part-head"><div class="n">02</div><h2>The claim, and what would tell the two accounts apart</h2></div>
+  <div class="prose">
+    <p><b>The lost-civilisation reading.</b> In <i>Fingerprints of the Gods</i> (1995), <i>Underworld</i> (2002) and <i>Magicians of the Gods</i> (2015), Graham Hancock collects flood stories from Mesopotamia, Greece, India, China, the Americas, Africa and Oceania and argues that their number and their agreement cannot be coincidence: they are, on his reading, the memory of a real, worldwide catastrophe, which he places at the end of the Younger Dryas around 11,600 years ago, when meltwater and, he argues, comet fragments raised the seas and drowned the coasts of an advanced civilisation whose survivors carried the story, and the arts of civilisation, to the rest of the world. Plato's date for the sinking of Atlantis, nine thousand years before Solon, is close to that horizon, and the coincidence is part of the case. The stories are said to agree on the essentials: a warning, a chosen survivor, a vessel, animals saved, a landing on a mountain, a bird sent to find land, a sacrifice, a promise.</p>
+    <p><b>The ordinary reading.</b> Rivers flood, coasts flood, tsunamis strike, and every people that lives by water has a story about the time the water came. Frazer collected the world's flood stories in 1918 and concluded that most were local memories of local floods, some were etiological (why the rocks are shaped so, why the tribes are separate), and a number in the Americas, Africa and the Pacific had taken on details from Genesis after contact with missionaries, which is why the raven and the dove turn up in places that had never heard of Noah before the eighteenth century. The Genesis story itself has a documented ancestry: it descends, in detail, from the Babylonian flood in the <i>Epic of Gilgamesh</i>, which descends from Atra-Hasis and the Sumerian Ziusudra, a chain of transmission over two thousand years within one region. That chain is what a real transmission looks like in a text: the same bird, the same mountain, the same sacrifice, the same sequence.</p>
+    <p><b>What would tell them apart.</b> The two readings make different predictions about which details go where. If one ancient event seeded the world's stories, the specific details should be spread across regions regardless of later contact with the Bible, and the stories should not sort by region. If floods are local and Genesis was carried later, the generic details (a flood, a survivor, a mountain) should be everywhere, the Genesis-specific details (the bird, the raven or dove, the sacrifice, the rainbow, the forty days, the animals loaded) should concentrate in the Near East and in stories that themselves show Christian contact, and the rest of the world's stories should sort by region, each with its own signature: the earth-diver in North America, the sibling couple in a gourd in East and Southeast Asia, the flood from a broken vessel or an angry ancestor in Africa.</p>
+  </div>
+</div></section>
+
+<section class="part" id="corpus"><div class="wrap">
+  <div class="part-head"><div class="n">03</div><h2>The corpus</h2></div>
+  <div class="prose">
+    <p>Mark Isaak's <a href="https://www.talkorigins.org/faqs/flood-myths.html">Flood Stories from Around the World</a> is the largest open compendium there is: <span data-v="n"></span> summaries, each with its source (Frazer, Gaster, Vitaliano, Dundes, the ethnographies), grouped by region and, on a <a href="https://www.talkorigins.org/faqs/flood-myths-lang.html">companion page</a>, by language family. It is a secondary source of summaries, and the limits of that are stated at the end. It is also exactly the kind of collection the lost-civilisation books draw on, which makes it the right thing to test.</p>
+  </div>
+  <figure><div class="frame plain"><table class="inv" id="region-table"></table></div><figcaption><b>Stories by region.</b> The "ancient" column counts stories from the ancient Near East and the classical and early Asian literate traditions, where the Genesis family and its relatives are documented in texts far older than any missionary.</figcaption></figure>
+</div></section>
+
+<section class="part" id="coding"><div class="wrap">
+  <div class="part-head"><div class="n">04</div><h2>The coding</h2></div>
+  <div class="prose">
+    <p>Claude Sonnet 5 read each summary and answered 26 questions with yes, no or unclear, from the text only: is the flood a punishment; does a god warn the hero; is a vessel built, and of what kind; do the survivors flee to a mountain or a tree; are animals or seeds taken; is a bird sent out, and is it a raven or a dove; does another animal scout, or dive for earth; is a duration stated, and is it forty; is there a sacrifice after, a rainbow or promise; are people re-made from stones or seeds, or by sibling marriage; is anyone bearded or pale; is there a fire or darkness as well; a previous race of giants; does the text itself mention Noah, the Bible or missionaries; is the flood local or the whole world. The coder was told not to name or guess the culture. "Unclear" was used on average <span data-v="unclear"></span> times per story out of 26, mostly on the shortest summaries.</p>
+    <p>Two groups of details were fixed in advance. <b>Generic</b>: any flood story might have them (punishment, a lone survivor or family, a mountain, the whole world, a vessel). <b>Diagnostic</b>: the details that make the Genesis account the Genesis account, and that it shares with its Mesopotamian ancestors (a warning from a god, animals taken aboard, a bird sent out, the raven or dove by name, a sacrifice after, a rainbow or promise, the number forty). The diagnostic score of a story is how many of those seven it has.</p>
+  </div>
+</div></section>
+
+<section class="part" id="map"><div class="wrap">
+  <div class="part-head"><div class="n">05</div><h2>Every detail, by region</h2></div>
+  <div class="prose"><p>Share of stories in each region with each detail. Darker is more common. Diagnostic details are marked.</p></div>
+  <figure><div class="frame plain" style="overflow-x:auto"><div id="heat"></div></div><figcaption id="cap-heat"></figcaption></figure>
+</div></section>
+
+<section class="part" id="diagnostic"><div class="wrap">
+  <div class="part-head"><div class="n">06</div><h2>Where the Genesis details go</h2></div>
+  <figure><div class="frame plain" id="fig-diag"></div><figcaption id="cap-diag"></figcaption></figure>
+  <div class="prose"><p id="diag-text"></p></div>
+  <h3>The stories outside the ancient Near East with the most Genesis details</h3>
+  <div class="prose"><p>Every story from outside the ancient literate traditions that carries three or more of the seven diagnostic details, with its region, its diagnostic details, any Christian names or terms in the summary, and the opening of the summary. Read them: this is where the claim lives or dies. The keyword flag undercounts. The Masai story at the top of the list, which Frazer took from the German officer Moritz Merker's 1904 account, has a righteous man who "found grace in God's eyes", an ark, animals, a dove and a rainbow, and no keyword; Frazer himself doubted it was untouched by Genesis. The Altaic story has an ark on a mountain and birds sent out, from a people long in contact with Islam, whose scripture has Noah. The Zapotec, Tarascan, Popoluca and Totonac stories were recorded in Mexico centuries after the friars, and two of them name angels, saints and Noéh. What the list does not contain is any story with three or more of the seven details from a people with no known contact with the book.</p></div>
+  <div id="far-list"></div>
+</div></section>
+
+<section class="part" id="neighbours"><div class="wrap">
+  <div class="part-head"><div class="n">07</div><h2>The stories nearest to Genesis</h2></div>
+  <div class="prose"><p>Similarity between stories is the share of details they have in common (Jaccard, over 25 yes/no details, the Bible-mention flag excluded). These are the closest stories to the Hebrew account, and to the Babylonian one.</p></div>
+  <figure><div class="frame plain"><table class="inv" id="nn-table"></table></div><figcaption><b>Nearest neighbours of the Hebrew flood story.</b> A real transmission chain (Babylonian, Sumerian, Chaldean, Islamic) should sit at the top. What follows it is the question.</figcaption></figure>
+</div></section>
+
+<section class="part" id="structure"><div class="wrap">
+  <div class="part-head"><div class="n">08</div><h2>Regional structure</h2></div>
+  <div class="prose"><p id="structure-text"></p></div>
+  <figure><div class="frame plain"><table class="inv" id="distinct-table"></table></div><figcaption><b>What each region's flood stories have that others do not.</b> The three details whose prevalence in the region most exceeds their prevalence everywhere else (shown when the gap is at least 15 points).</figcaption></figure>
+</div></section>
+
+<section class="part" id="limits"><div class="wrap">
+  <div class="part-head"><div class="n">09</div><h2>Limits</h2></div>
+  <div class="prose">
+    <p><b>Summaries, not texts.</b> Isaak's entries are paragraph summaries of stories that are often much longer. A detail absent from a summary may be present in the story; that is why "unclear" exists and why prevalences are lower bounds. The right full study codes the sources themselves: Frazer's three hundred pages, Dundes's anthology, the ethnographies.</p>
+    <p><b>Dates are publication dates.</b> The year attached to a story is when its source was published, not when the story was first told or first recorded, and for most of the world the two are separated by contact. A proper stratigraphy needs the collection date of each telling, which the sources contain and the summaries do not.</p>
+    <p><b>One coder.</b> A single model coded each story once. Study 3 showed how much two coders can disagree on images; on short texts the task is easier, and spot checks agree, but a second coder and an agreement statistic are the first improvement.</p>
+    <p><b>"Mentions the Bible" is a weak proxy for contact.</b> A story can have taken the dove from a missionary without the summary saying so, and Isaak's own notes flag suspected influence only sometimes. The proxy errs toward the lost-civilisation reading: it under-counts contact.</p>
+    <p><b>The corpus is the compilers' corpus.</b> It over-represents what nineteenth- and twentieth-century English-language ethnography recorded, and North America above all. Regional comparisons are between samples of unequal size and quality.</p>
+    <p><b>What would change the verdict.</b> Diagnostic details as common outside the ancient Near East as inside it, in stories with no sign of Christian contact, recorded before contact; and no regional structure in the rest. The pre-registration says so.</p>
+  </div>
+</div></section>
+
+</main>
+
+<footer><div class="wrap">Built by Eugene Hong with Claude, September 2026. Fifth study of the <a href="./">Deep Memory test bench</a>. <a href="https://github.com/ejhong/birdmen/issues">Corrections welcome</a>.</div></footer>
+
+<script src="s5.js"></script>
+</body>
+</html>

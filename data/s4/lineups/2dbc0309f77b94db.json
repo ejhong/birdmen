@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  8,
+  2,
+  6,
+  3,
+  9,
+  5,
+  7,
+  4,
+  10
+ ],
+ "most_similar_reason": "Candidate 1 matches the target most closely as a bearded creator/culture-hero told in several conflicting versions who destroys an earlier flawed race and remakes humankind, teaches civilization to a people, and finally departs in a marvelous manner with expectation of return.",
+ "least_similar_reason": "Candidate 10 is least similar because it contains virtually no narrative at all\u2014only a bare statement that a supreme being had two names\u2014so it shares none of the target's births, creations, underworld journey, transgression, or transformation into a star.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Viracocha",
+ "i": 14,
+ "target": "Quetzalcoatl",
+ "planted": "Viracocha",
+ "cands": [
+  "Viracocha",
+  "Great Peacemaker",
+  "Aeneas",
+  "Sang Hyang Tunggal",
+  "Tangaroa",
+  "Orpheus",
+  "Nyame",
+  "Sky Woman",
+  "Ninigi-no-Mikoto",
+  "Bumba"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

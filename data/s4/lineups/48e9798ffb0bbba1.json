@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  5,
+  6,
+  10,
+  8,
+  3,
+  4,
+  2,
+  1,
+  9
+ ],
+ "most_similar_reason": "Candidate 7 shares the target's core profile of a white/bearded culture-hero creator god who makes the present race of humans after earlier races were destroyed, teaches civilization (books, calendar, crops, food preparation), and departs in a famed disappearance with promise of return.",
+ "least_similar_reason": "Candidate 9 is not a divine narrative at all but a description of harvest customs involving a straw figure housing a crop spirit, sharing none of the target's creator-deity, flood, stone-humans, or teaching-and-departure motifs.",
+ "set": "hancock",
+ "pair": "Viracocha | Quetzalcoatl",
+ "i": 6,
+ "target": "Viracocha",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Mwari",
+  "Ilmarinen",
+  "R\u00edgs\u00feula",
+  "Kvasir",
+  "Mbombo",
+  "Kutkh",
+  "Quetzalcoatl",
+  "Sky Woman",
+  "Corn Mother",
+  "Wisakedjak"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

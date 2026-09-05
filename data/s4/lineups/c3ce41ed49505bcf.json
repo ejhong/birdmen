@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  1,
+  2,
+  3,
+  9,
+  5,
+  10,
+  6,
+  4,
+  8
+ ],
+ "most_similar_reason": "Candidate 7 is closest because, like the target, it centers on a creator deity involved in making the world and humanity through successive creations in which an earlier world/race is destroyed and replaced, with cosmic ordering, rivalry, and a deity driven into exile/disappearance.",
+ "least_similar_reason": "Candidate 8 is least similar because it contains no narrative at all\ndash;merely the bare identification of a spirit as a deity, with no creation, flood, teaching, or disappearance episodes to compare.",
+ "set": "hancock",
+ "pair": "Viracocha | Osiris",
+ "i": 44,
+ "target": "Viracocha",
+ "planted": "Osiris",
+ "cands": [
+  "Osiris",
+  "Unkulunkulu",
+  "Oduduwa",
+  "Corn Mother",
+  "Mwari",
+  "Anansi",
+  "Tezcatlipoca",
+  "Abassi",
+  "Ninigi-no-Mikoto",
+  "Sang Hyang Tunggal"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 2
+}

@@ -1,0 +1,723 @@
+{
+ "Kukulkan": {
+  "region": "mesoamerica",
+  "named_figure_guess": "Quetzalcoatl / Kukulkan \u2014 Mesoamerican plumed serpent (likely the Nahua/Zapotec-Mixtec 'feathered serpent' tales, cf. Tlaloc's herald)",
+  "confidence": "medium",
+  "true_region": "mesoamerica",
+  "title": "Kukulkan"
+ },
+ "Viracocha": {
+  "region": "andes",
+  "named_figure_guess": "Viracocha (Con Ticci Viracocha), Inca creator god; Lake Titicaca, Tiwanaku, Manco Capac and Mama Ocllo",
+  "confidence": "high",
+  "true_region": "andes",
+  "title": "Viracocha"
+ },
+ "Quetzalcoatl": {
+  "region": "mesoamerica",
+  "named_figure_guess": "Quetzalcoatl (Aztec feathered serpent god, with twin Xolotl; Tezcatlipoca as the trickster)",
+  "confidence": "high",
+  "true_region": "mesoamerica",
+  "title": "Quetzalc\u014d\u0101tl"
+ },
+ "Votan": {
+  "region": "mesoamerica",
+  "named_figure_guess": "Votan (Maya/Tzeltal culture hero of Chiapas, founder of Nachan, associated with the Tower of Babel legend in N\u00fa\u00f1ez de la Vega's account)",
+  "confidence": "high",
+  "true_region": "mesoamerica",
+  "title": "Votan"
+ },
+ "Osiris": {
+  "region": "egypt",
+  "named_figure_guess": "Osiris (murdered by Set; Isis, Nephthys, Horus) \u2014 Plutarch's De Iside et Osiride version",
+  "confidence": "high",
+  "true_region": "egypt",
+  "title": "Osiris"
+ },
+ "Bochica": {
+  "region": "andes",
+  "named_figure_guess": "Bochica (Nemterequeteba/Sugamuxi) of the Muisca \u2014 likely the figure Idacanzas/Bochica associated with the Sun Temple at Sogamoso",
+  "confidence": "medium",
+  "true_region": "andes",
+  "title": "Bochica"
+ },
+ "Adapa": {
+  "region": "mesopotamia",
+  "named_figure_guess": "Adapa (Adapa and the South Wind; Ea/Enki of Eridu, Anu, gatekeepers Dumuzi and Gizzida)",
+  "confidence": "high",
+  "true_region": "mesopotamia",
+  "title": "Adapa"
+ },
+ "Thoth": {
+  "region": "egypt",
+  "named_figure_guess": "Thoth (with Ra, Ma'at, Nut, Geb, Osiris, Set, Isis, Nephthys, Horus; and the Thamus/Theuth story from Plato's Phaedrus)",
+  "confidence": "high",
+  "true_region": "egypt",
+  "title": "Thoth"
+ },
+ "Tunupa": {
+  "region": "andes",
+  "named_figure_guess": "Tunupa, the volcano deity associated with the Salar de Uyuni salt flat (Bolivian Aymara/Quechua legend, with the mummy cave and village of Coquesa)",
+  "confidence": "high",
+  "true_region": "andes",
+  "title": "Tunupa"
+ },
+ "Nommo": {
+  "region": "west_africa",
+  "named_figure_guess": "Nommo (Dogon myth of Amma and the Nommo, Sirius)",
+  "confidence": "high",
+  "true_region": "west_africa",
+  "title": "Nommo"
+ },
+ "Itzamna": {
+  "region": "mesoamerica",
+  "named_figure_guess": "Itzamna (Maya creator sky god; his bird form Itzam-Ye/Vucub Caquix shot by the Hero Twins)",
+  "confidence": "high",
+  "true_region": "mesoamerica",
+  "title": "Itzamna"
+ },
+ "Manco C\u00e1pac": {
+  "region": "andes",
+  "named_figure_guess": "Manco C\u00e1pac (Ayar Manco) and the Ayar brothers, founding of Cusco",
+  "confidence": "high",
+  "true_region": "andes",
+  "title": "Manco C\u00e1pac"
+ },
+ "Enki": {
+  "region": "mesopotamia",
+  "named_figure_guess": "Enki/Ea (Sumerian-Akkadian god of the Abzu; warns Atrahasis of the flood)",
+  "confidence": "high",
+  "true_region": "mesopotamia",
+  "title": "Enki"
+ },
+ "Isis": {
+  "region": "egypt",
+  "named_figure_guess": "Isis (with Osiris, Set, Horus, Nephthys; includes the Contendings of Horus and Set and the Papyrus Westcar birth of the three kings)",
+  "confidence": "high",
+  "true_region": "egypt",
+  "title": "Isis"
+ },
+ "Pachacamac": {
+  "region": "andes",
+  "named_figure_guess": "Pachacamac (Inca/central-coast Peruvian creator god, defeated by Vichama)",
+  "confidence": "high",
+  "true_region": "andes",
+  "title": "Pachacamac"
+ },
+ "Idris (prophet)": {
+  "region": "near_east",
+  "named_figure_guess": "Idris (Enoch) \u2014 Islamic prophet narrative, from Qisas al-Anbiya",
+  "confidence": "high",
+  "true_region": "near_east",
+  "title": "Idris (prophet)"
+ },
+ "Enoch (ancestor of Noah)": {
+  "region": "near_east",
+  "named_figure_guess": "Enoch (Hanokh), son of Jared, father of Methuselah \u2014 Jewish/rabbinic legends of Enoch's ascension as Metatron",
+  "confidence": "high",
+  "true_region": "near_east",
+  "title": "Enoch"
+ },
+ "Genesis flood narrative": {
+  "region": "near_east",
+  "named_figure_guess": "Noah and the Flood (Genesis, Hebrew Bible)",
+  "confidence": "high",
+  "true_region": "near_east",
+  "title": "Genesis flood narrative"
+ },
+ "Gilgamesh flood myth": {
+  "region": "mesopotamia",
+  "named_figure_guess": "Gilgamesh and Utnapishtim (Epic of Gilgamesh, flood tablet XI)",
+  "confidence": "high",
+  "true_region": "mesopotamia",
+  "title": "Gilgamesh flood myth"
+ },
+ "Atra-Hasis": {
+  "region": "mesopotamia",
+  "named_figure_guess": "Atrahasis (Enki, Enlil, Mami/Nintu, Namtar, Adad) \u2014 the Atrahasis flood epic",
+  "confidence": "high",
+  "true_region": "mesopotamia",
+  "title": "Atra-Hasis"
+ },
+ "Ramayana": {
+  "region": "india",
+  "named_figure_guess": "Rama (the Ramayana; Valmiki, Dasharatha, Sita, Lakshmana, Ravana, Hanuman)",
+  "confidence": "high",
+  "true_region": "india",
+  "title": "Ramayana"
+ },
+ "Barlaam and Josaphat": {
+  "region": "india",
+  "named_figure_guess": "Barlaam and Josaphat (King Abenner and Prince Josaphat) \u2014 the Christianized legend of the Buddha",
+  "confidence": "high",
+  "true_region": "europe",
+  "title": "Barlaam and Josaphat"
+ },
+ "Reamker": {
+  "region": "southeast_asia",
+  "named_figure_guess": "Rama and Sita (Ramayana, in a Southeast Asian version such as the Thai Ramakien or Khmer Reamker; Hanuman and the mermaid Suvannamaccha, Ravana/Tosakanth slain via his navel)",
+  "confidence": "high",
+  "true_region": "southeast_asia",
+  "title": "Reamker"
+ },
+ "Gautama Buddha": {
+  "region": "india",
+  "named_figure_guess": "Gautama Buddha (Siddhartha Gautama, the Shakyamuni Buddha)",
+  "confidence": "high",
+  "true_region": "india",
+  "title": "The Buddha"
+ },
+ "Ramakien": {
+  "region": "southeast_asia",
+  "named_figure_guess": "The Ramakien (Thai version of the Ramayana) \u2014 Phra Ram (Rama/Vishnu), Nang Sida (Sita, daughter of Thotsakan/Ravana), Hanuman, Phali and Sukhrip; possibly the Khmer Reamker",
+  "confidence": "high",
+  "true_region": "southeast_asia",
+  "title": "Ramakien"
+ },
+ "Panchatantra": {
+  "region": "india",
+  "named_figure_guess": "The Panchatantra of Vishnu Sharma (taught to the sons of King Amarashakti); includes Mitra-bheda with Damanaka/Karataka and the mongoose-and-snake tale",
+  "confidence": "high",
+  "true_region": "india",
+  "title": "Panchatantra"
+ },
+ "Kalila wa-Dimna": {
+  "region": "india",
+  "named_figure_guess": "The Panchatantra / Kalila wa-Dimna (Vishnu Sharma telling fables to the king's sons; Karataka and Damanaka, the lion Pingalaka and the bull Sanjivaka)",
+  "confidence": "high",
+  "true_region": "near_east",
+  "title": "Kal\u012bla wa-Dimna"
+ },
+ "Deucalion": {
+  "region": "greece",
+  "named_figure_guess": "Deucalion and Pyrrha (flood of Deucalion; Zeus, Lycaon, Themis's oracle)",
+  "confidence": "high",
+  "true_region": "greece",
+  "title": "Deucalion"
+ },
+ "Manu (Hinduism)": {
+  "region": "india",
+  "named_figure_guess": "Manu (Svayambhuva Manu and Vaivasvata Manu, the Manvantaras and the Matsya avatar flood myth)",
+  "confidence": "high",
+  "true_region": "india",
+  "title": "Manu (Hinduism)"
+ },
+ "Matsya": {
+  "region": "india",
+  "named_figure_guess": "Matsya (Vishnu's fish avatar) rescuing Manu from the flood; the demon Hayagriva steals the Vedas from Brahma",
+  "confidence": "high",
+  "true_region": "india",
+  "title": "Matsya"
+ },
+ "Utnapishtim": {
+  "region": "mesopotamia",
+  "named_figure_guess": "Utnapishtim (Ziusudra) and Gilgamesh \u2014 the flood story in the Epic of Gilgamesh",
+  "confidence": "high",
+  "true_region": "mesopotamia",
+  "title": "Utnapishtim"
+ },
+ "Noah": {
+  "region": "near_east",
+  "named_figure_guess": "Noah and the Flood (Genesis, Hebrew Bible)",
+  "confidence": "high",
+  "true_region": "near_east",
+  "title": "Noah"
+ },
+ "Prometheus": {
+  "region": "greece",
+  "named_figure_guess": "Prometheus (Titan; trick at Mekone, theft of fire, Pandora, punishment freed by Heracles)",
+  "confidence": "high",
+  "true_region": "greece",
+  "title": "Prometheus"
+ },
+ "Cadmus": {
+  "region": "greece",
+  "named_figure_guess": "Cadmus (founder of Thebes) and Harmonia",
+  "confidence": "high",
+  "true_region": "greece",
+  "title": "Cadmus"
+ },
+ "Ziusudra": {
+  "region": "mesopotamia",
+  "named_figure_guess": "Ziusudra (Eridu Genesis / Sumerian Flood Story), with the Berossus variant Xisuthros son of Ardates",
+  "confidence": "high",
+  "true_region": "mesopotamia",
+  "title": "Ziusudra"
+ },
+ "Triptolemus": {
+  "region": "greece",
+  "named_figure_guess": "Triptolemus (Demeter and Persephone, Eleusinian Mysteries)",
+  "confidence": "high",
+  "true_region": "greece",
+  "title": "Triptolemus"
+ },
+ "Palamedes (mythology)": {
+  "region": "greece",
+  "named_figure_guess": "Palamedes (Trojan War; rivalry with Odysseus)",
+  "confidence": "high",
+  "true_region": "greece",
+  "title": "Palamedes (mythology)"
+ },
+ "Orpheus": {
+  "region": "greece",
+  "named_figure_guess": "Orpheus and Eurydice",
+  "confidence": "high",
+  "true_region": "greece",
+  "title": "Orpheus"
+ },
+ "Romulus and Remus": {
+  "region": "rome",
+  "named_figure_guess": "Romulus and Remus (founding of Rome; Rhea Silvia, Mars, Amulius, Numitor)",
+  "confidence": "high",
+  "true_region": "rome",
+  "title": "Romulus and Remus"
+ },
+ "Aeneas": {
+  "region": "rome",
+  "named_figure_guess": "Aeneas (Virgil's Aeneid; Anchises, Venus, Dido, Lavinia, Turnus, Romulus and Remus)",
+  "confidence": "high",
+  "true_region": "rome",
+  "title": "Aeneas"
+ },
+ "V\u00e4in\u00e4m\u00f6inen": {
+  "region": "finland",
+  "named_figure_guess": "V\u00e4in\u00e4m\u00f6inen (Kalevala; contest with Joukahainen, the Sampo, the kantele, and Marjatta's son)",
+  "confidence": "high",
+  "true_region": "finland",
+  "title": "V\u00e4in\u00e4m\u00f6inen"
+ },
+ "Ilmarinen": {
+  "region": "finland",
+  "named_figure_guess": "Ilmarinen and the forging of the Sampo (Kalevala), with V\u00e4in\u00e4m\u00f6inen and Louhi of Pohjola",
+  "confidence": "high",
+  "true_region": "finland",
+  "title": "Ilmarinen"
+ },
+ "Wayland the Smith": {
+  "region": "germanic",
+  "named_figure_guess": "V\u00f6lundr (Wayland the Smith) and King N\u00ed\u00f0u\u00f0r, from the V\u00f6lundarkvi\u00f0a",
+  "confidence": "high",
+  "true_region": "germanic",
+  "title": "Wayland the Smith"
+ },
+ "Kvasir": {
+  "region": "germanic",
+  "named_figure_guess": "Kvasir (Norse myth of the Mead of Poetry; dwarves Fjalar and Galar; Loki's capture as salmon)",
+  "confidence": "high",
+  "true_region": "germanic",
+  "title": "Kvasir"
+ },
+ "Bran the Blessed": {
+  "region": "celtic",
+  "named_figure_guess": "Branwen daughter of Ll\\u0177r \u2014 Bendigeidfran (Br\u00e2n the Blessed), Matholwch, Efnysien; Second Branch of the Mabinogi",
+  "confidence": "high",
+  "true_region": "celtic",
+  "title": "Br\u00e2n the Blessed"
+ },
+ "R\u00edgs\u00feula": {
+  "region": "germanic",
+  "named_figure_guess": "R\u00edgs\u00feula \u2014 Heimdallr as R\u00edgr, fathering \u00der\u00e6ll, Karl, and Jarl (and Konr ungr)",
+  "confidence": "high",
+  "true_region": "germanic",
+  "title": "R\u00edgs\u00feula"
+ },
+ "Fuxi": {
+  "region": "china",
+  "named_figure_guess": "Fuxi (with Pangu, N\u00fcwa, and Huaxu); Fuxi and N\u00fcwa creation myth and the eight trigrams",
+  "confidence": "high",
+  "true_region": "china",
+  "title": "Fuxi"
+ },
+ "Amirani": {
+  "region": "caucasus",
+  "named_figure_guess": "Amirani (Georgian; son of Dali, chained to the Caucasus, dog Q'ursha)",
+  "confidence": "high",
+  "true_region": "caucasus",
+  "title": "Amirani"
+ },
+ "Shennong": {
+  "region": "china",
+  "named_figure_guess": "Shennong (the Divine Farmer, Yan Di), whose minister/descendant was Chiyou; discoverer of tea",
+  "confidence": "high",
+  "true_region": "china",
+  "title": "Shennong"
+ },
+ "N\u00fcwa": {
+  "region": "china",
+  "named_figure_guess": "N\u00fcwa (with Fuxi; the Zhou Xin/King Zhou temple episode from Fengshen Yanyi)",
+  "confidence": "high",
+  "true_region": "china",
+  "title": "N\u00fcwa"
+ },
+ "Yu the Great": {
+  "region": "china",
+  "named_figure_guess": "Yu the Great (Da Yu), tamer of the flood and founder of the Xia dynasty; son of Gun, successor of Shun",
+  "confidence": "high",
+  "true_region": "china",
+  "title": "Yu the Great"
+ },
+ "Sosruko": {
+  "region": "caucasus",
+  "named_figure_guess": "Sosruko (Soslan) of the Nart sagas, son of Satanaya, who stole fire from the giant",
+  "confidence": "high",
+  "true_region": "caucasus",
+  "title": "Sosruko"
+ },
+ "Cangjie": {
+  "region": "china",
+  "named_figure_guess": "Cangjie, inventor of Chinese writing under the Yellow Emperor",
+  "confidence": "high",
+  "true_region": "china",
+  "title": "Cangjie"
+ },
+ "Dangun": {
+  "region": "korea",
+  "named_figure_guess": "Dangun (Hwanung and Ungnyeo, founding of Gojoseon)",
+  "confidence": "high",
+  "true_region": "korea",
+  "title": "Tan'gun"
+ },
+ "Ninigi-no-Mikoto": {
+  "region": "japan",
+  "named_figure_guess": "Ninigi-no-Mikoto (descent of the Heavenly Grandchild; marriage to Konohanasakuya-hime, rejection of Iwanaga-hime)",
+  "confidence": "high",
+  "true_region": "japan",
+  "title": "Ninigi-no-Mikoto"
+ },
+ "\u014ckuninushi": {
+  "region": "japan",
+  "named_figure_guess": "\u014ckuninushi (\u014cnamuji), the Hare of Inaba, Susanoo's trials, and the transfer of the land (kuni-yuzuri)",
+  "confidence": "high",
+  "true_region": "japan",
+  "title": "\u014ckuninushi"
+ },
+ "Gesar": {
+  "region": "tibet",
+  "named_figure_guess": "King Gesar of Ling (Epic of Gesar)",
+  "confidence": "high",
+  "true_region": "tibet",
+  "title": "Epic of King Gesar"
+ },
+ "Bhagiratha": {
+  "region": "india",
+  "named_figure_guess": "Bhagiratha and the descent of the Ganga (Sagara's 60,000 sons, Kapila, Shiva, Jahnu)",
+  "confidence": "high",
+  "true_region": "india",
+  "title": "Bhagiratha"
+ },
+ "Rama": {
+  "region": "india",
+  "named_figure_guess": "Rama (Ramayana) \u2014 Rama, avatar of Vishnu, Sita, Lakshmana, Ravana, Shabari, Shurpanakha, Sugriva, Hanuman",
+  "confidence": "high",
+  "true_region": "india",
+  "title": "Rama"
+ },
+ "Agastya": {
+  "region": "india",
+  "named_figure_guess": "Agastya (with Lopamudra; Vindhya mountains, Vatapi and Ilvala, Rama)",
+  "confidence": "high",
+  "true_region": "india",
+  "title": "Agastya"
+ },
+ "Sang Hyang Tunggal": {
+  "region": "southeast_asia",
+  "named_figure_guess": "Acintya (Sang Hyang Widhi Wasa), the Balinese Hindu supreme godhead depicted as a naked flaming figure",
+  "confidence": "high",
+  "true_region": "southeast_asia",
+  "title": "Acintya"
+ },
+ "M\u0101ui (M\u0101ori mythology)": {
+  "region": "polynesia",
+  "named_figure_guess": "M\u0101ui (Maori version of M\u0101ui-tikitiki-a-Taranga, including fishing up New Zealand, stealing fire from Mahuika, and death at Hine-nui-te-p\u014d)",
+  "confidence": "high",
+  "true_region": "polynesia",
+  "title": "M\u0101ui (M\u0101ori mythology)"
+ },
+ "M\u0101ui (Hawaiian mythology)": {
+  "region": "polynesia",
+  "named_figure_guess": "M\u0101ui (Hawaiian version \u2014 fishing up the islands with the hook M\u0101naiakalani, snaring the sun, pushing up the sky, and slaying the eel Kuna/Tuna from whom the coconut grew)",
+  "confidence": "high",
+  "true_region": "polynesia",
+  "title": "M\u0101ui (Hawaiian mythology)"
+ },
+ "T\u0101ne": {
+  "region": "polynesia",
+  "named_figure_guess": "T\u0101ne (T\u0101ne Mahuta) separating Rangi and Papa; M\u0101ori myth, with T\u016b, T\u0101whirim\u0101tea, Tangaroa, and Hine-nui-te-p\u014d",
+  "confidence": "high",
+  "true_region": "polynesia",
+  "title": "T\u0101ne"
+ },
+ "Tangaroa": {
+  "region": "polynesia",
+  "named_figure_guess": "Tangaroa (Maori), separation of Rangi and Papa; Tawhirimatea's attack; Maui obtaining fire",
+  "confidence": "high",
+  "true_region": "polynesia",
+  "title": "Tangaroa"
+ },
+ "Baiame": {
+  "region": "australia",
+  "named_figure_guess": "Baiame (Biame), the All-Father sky god of southeastern Aboriginal Australia; his emu wife Birrahgnooloo and son/brother Daramulum",
+  "confidence": "high",
+  "true_region": "australia",
+  "title": "Baiame"
+ },
+ "Tagaro": {
+  "region": "polynesia",
+  "named_figure_guess": "Tangaroa (M\u0101ori sea god, son of Rangi and Papa; rival of T\u0101ne, attacked by T\u0101whirim\u0101tea) \u2014 with the fire-theft episode featuring M\u0101ui",
+  "confidence": "high",
+  "true_region": "melanesia",
+  "title": "Tangaroa"
+ },
+ "Kilibob and Manup": {
+  "region": "melanesia",
+  "named_figure_guess": "Kilibob and Manup (Madang/Karkar Island cargo myth of the two brothers)",
+  "confidence": "high",
+  "true_region": "melanesia",
+  "title": "Kilibob and Manup"
+ },
+ "Wandjina": {
+  "region": "australia",
+  "named_figure_guess": "Wandjina (Wanjina) rain spirits of the Kimberley, associated with Ungud/Wallungunder and the Rainbow Serpent",
+  "confidence": "high",
+  "true_region": "australia",
+  "title": "Wandjina"
+ },
+ "Djanggawul": {
+  "region": "australia",
+  "named_figure_guess": "The Djanggawu (Djang'kawu) siblings \u2014 two sisters and their brother \u2014 Yolngu creation journey from Burralku to Yalangbara, Arnhem Land (Dhuwa moiety ancestors)",
+  "confidence": "high",
+  "true_region": "australia",
+  "title": "Djang'kawu"
+ },
+ "Kutkh": {
+  "region": "siberia",
+  "named_figure_guess": "Kutkh (Kutq), the Raven creator-trickster of the Koryak/Itelmen/Chukchi of Kamchatka",
+  "confidence": "high",
+  "true_region": "siberia",
+  "title": "Kutkh"
+ },
+ "Nanabozho": {
+  "region": "north_america",
+  "named_figure_guess": "Nanabozho (Nanabush/Manabozho), the Great Hare of the Anishinaabe/Ojibwe, and his fight with Paul Bunyan",
+  "confidence": "high",
+  "true_region": "north_america",
+  "title": "Nanabozho"
+ },
+ "Glooscap": {
+  "region": "north_america",
+  "named_figure_guess": "Glooscap (Gluskabe) of the Wabanaki/Mi'kmaq, with his evil twin Malsum, Grandmother Woodchuck, the wind bird Wuchowsen, and the giant frog Aglebemu",
+  "confidence": "high",
+  "true_region": "north_america",
+  "title": "Glooscap"
+ },
+ "Sky Woman": {
+  "region": "north_america",
+  "named_figure_guess": "Iroquois (Haudenosaunee) Sky Woman (Ataensic) and her twin grandsons Sapling/Teharonhiawako and Flint/Tawiskaron, with the Three Sisters origin from Corn Mother's body",
+  "confidence": "high",
+  "true_region": "north_america",
+  "title": "Atahensic"
+ },
+ "Coyote (mythology)": {
+  "region": "north_america",
+  "named_figure_guess": "Coyote (Old Man Coyote), the Native North American trickster-creator",
+  "confidence": "high",
+  "true_region": "north_america",
+  "title": "Coyote (mythology)"
+ },
+ "Great Peacemaker": {
+  "region": "north_america",
+  "named_figure_guess": "Deganawida, the Great Peacemaker (Haudenosaunee/Iroquois Great Law of Peace, with Hiawatha and Jigonhsasee)",
+  "confidence": "high",
+  "true_region": "north_america",
+  "title": "Great Peacemaker"
+ },
+ "Hiawatha": {
+  "region": "north_america",
+  "named_figure_guess": "The Great Peacemaker (Deganawidah), Hiawatha, and Tadodaho \u2014 the founding of the Iroquois (Haudenosaunee) Confederacy",
+  "confidence": "high",
+  "true_region": "north_america",
+  "title": "Hiawatha"
+ },
+ "White Buffalo Calf Woman": {
+  "region": "north_america",
+  "named_figure_guess": "White Buffalo Calf Woman (Ptes\u00e1\u014bwi\u014b) bringing the sacred pipe and seven rites to the Lakota Sioux",
+  "confidence": "high",
+  "true_region": "north_america",
+  "title": "White Buffalo Calf Woman"
+ },
+ "Kokopelli": {
+  "region": "north_america",
+  "named_figure_guess": "Kokopelli (Hopi/Southwestern Puebloan fertility trickster; consort Kokopelmana)",
+  "confidence": "high",
+  "true_region": "north_america",
+  "title": "Kokopelli"
+ },
+ "Maya Hero Twins": {
+  "region": "mesoamerica",
+  "named_figure_guess": "Popol Vuh Hero Twins (Hunahpu and Xbalanque), with Xquic, Hun Hunahpu, and Vucub Caquix",
+  "confidence": "high",
+  "true_region": "mesoamerica",
+  "title": "Maya Hero Twins"
+ },
+ "Tezcatlipoca": {
+  "region": "mesoamerica",
+  "named_figure_guess": "Tezcatlipoca (with Quetzalcoatl; jaguar Tepeyollotl, Cipactli, Tollan/Tula)",
+  "confidence": "high",
+  "true_region": "mesoamerica",
+  "title": "Tezcatlipoca"
+ },
+ "Mama Ocllo": {
+  "region": "andes",
+  "named_figure_guess": "Mama Ocllo (Mama Ocllo and Manco C\u00e1pac founding Cusco, Inca myth)",
+  "confidence": "high",
+  "true_region": "andes",
+  "title": "Mama Ocllo"
+ },
+ "Corn Mother": {
+  "region": "europe",
+  "named_figure_guess": "The Corn-Mother / 'Baba' (Old Woman) last-sheaf harvest spirit of Slavic-Baltic (Polish/Lithuanian) tradition, as recorded by Frazer",
+  "confidence": "medium",
+  "true_region": "north_america",
+  "title": "Corn dolly"
+ },
+ "Huitzilopochtli": {
+  "region": "mesoamerica",
+  "named_figure_guess": "Huitzilopochtli (Aztec/Mexica; birth at Coatepec from Coatlicue, Coyolxauhqui and Centzon Huitznahua; founding of Tenochtitlan; Copil's heart)",
+  "confidence": "high",
+  "true_region": "mesoamerica",
+  "title": "Hu\u012btzil\u014dp\u014dchtli"
+ },
+ "Bachu\u00e9": {
+  "region": "andes",
+  "named_figure_guess": "Bachu\u00e9 (Muisca goddess who emerged from Lake Iguaque; also called Furachogua, 'the good woman')",
+  "confidence": "high",
+  "true_region": "andes",
+  "title": "Bachu\u00e9"
+ },
+ "Ogun": {
+  "region": "west_africa",
+  "named_figure_guess": "Ogun (Yoruba orisha of iron and war, Onire, first king of Ire)",
+  "confidence": "high",
+  "true_region": "west_africa",
+  "title": "Ogun"
+ },
+ "Makunaima": {
+  "region": "central_africa",
+  "named_figure_guess": "Nzambi (Nzambi a Mpungu / Zambi / Nyambe), Bantu creator god of the Congo basin",
+  "confidence": "low",
+  "true_region": "amazonia",
+  "title": "Makunaima"
+ },
+ "Anansi": {
+  "region": "west_africa",
+  "named_figure_guess": "Anansi (Kwaku Ananse) and Nyame \u2014 the Akan/Ashanti tale of how Anansi won the sky god's stories",
+  "confidence": "high",
+  "true_region": "west_africa",
+  "title": "Anansi"
+ },
+ "Obatala": {
+  "region": "west_africa",
+  "named_figure_guess": "Obatala (Orisha-nla) and the creation of the earth by Oduduwa, Yoruba myth of Ile-Ife",
+  "confidence": "high",
+  "true_region": "west_africa",
+  "title": "\u1eccbatala"
+ },
+ "Mbombo": {
+  "region": "central_africa",
+  "named_figure_guess": "Bumba, the Bushongo (Bakuba) creation myth of the Congo",
+  "confidence": "high",
+  "true_region": "central_africa",
+  "title": "Mbombo"
+ },
+ "Mwari": {
+  "region": "southern_africa",
+  "named_figure_guess": "Mwari (Musikavanhu), the Shona supreme god, worshipped at Great Zimbabwe and through the Matopo Hills oracle (Njelele), linked to the Mutapa king Mutota",
+  "confidence": "high",
+  "true_region": "southern_africa",
+  "title": "Mwari"
+ },
+ "Unkulunkulu": {
+  "region": "southern_africa",
+  "named_figure_guess": "Unkulunkulu, the Zulu/Nguni ancestor-creator who emerged from the reed bed (uhlanga)",
+  "confidence": "high",
+  "true_region": "southern_africa",
+  "title": "Unkulunkulu"
+ },
+ "Oduduwa": {
+  "region": "west_africa",
+  "named_figure_guess": "Oduduwa of Ile-Ife (Yoruba), with Obatala as rival, Oranmiyan the warlike grandson and Moremi the heroine",
+  "confidence": "high",
+  "true_region": "west_africa",
+  "title": "Oduduwa"
+ },
+ "Abassi": {
+  "region": "cannot_tell",
+  "named_figure_guess": "unknown",
+  "confidence": "low",
+  "true_region": "west_africa",
+  "title": "Abassi"
+ },
+ "Bumba": {
+  "region": "andes",
+  "named_figure_guess": "Viracocha (Con Ticci Viracocha / Pachacamac), supreme creator god of the Inca",
+  "confidence": "low",
+  "true_region": "central_africa",
+  "title": "Bumba"
+ },
+ "Berossus": {
+  "region": "mesopotamia",
+  "named_figure_guess": "Berossus' Babyloniaca \u2014 Oannes revealing knowledge, Marduk defeating Tiamat, the ten antediluvian kings ending with Xisuthros (Ziusudra) who survived the flood, and Semiramis, said to found Babylon, daughter of Derketo and wife of Ninus",
+  "confidence": "high",
+  "true_region": "mesopotamia",
+  "title": "Berossus"
+ },
+ "Apkallu": {
+  "region": "mesopotamia",
+  "named_figure_guess": "The Seven Apkallu (antediluvian sages), including Adapa/Uanna-Oannes as described by Berossus; the Erra and Ishum episode where Marduk banishes the sages to the Apsu",
+  "confidence": "high",
+  "true_region": "mesopotamia",
+  "title": "Apkallu"
+ },
+ "Nyame": {
+  "region": "west_africa",
+  "named_figure_guess": "Anansi (Kwaku Ananse) and the creator sky-god Nyame \u2014 Akan/Ashanti creation and the struggle with Death (Owuo)",
+  "confidence": "low",
+  "true_region": "west_africa",
+  "title": "Nyankapon-Nyame-Odomankoma"
+ },
+ "Yellow Emperor": {
+  "region": "china",
+  "named_figure_guess": "The Yellow Emperor (Huangdi), Xuanyuan/Youxiong, and his conflict with Chiyou; recorded by Sima Qian",
+  "confidence": "high",
+  "true_region": "china",
+  "title": "Yellow Emperor"
+ },
+ "Ayar Manco": {
+  "region": "andes",
+  "named_figure_guess": "Manco C\u00e1pac, Inca founder-hero (Tambo Toco cave of origin, Cusco, Mama Ocllo)",
+  "confidence": "high",
+  "true_region": "andes",
+  "title": "Manco C\u00e1pac"
+ },
+ "Wakan Tanka": {
+  "region": "north_america",
+  "named_figure_guess": "Wakan Tanka (Great Spirit/Great Mystery) of the Lakota Sioux",
+  "confidence": "high",
+  "true_region": "north_america",
+  "title": "Wakan Tanka"
+ },
+ "Oannes": {
+  "region": "mesopotamia",
+  "named_figure_guess": "The seven apkallu (Adapa/Uanna-Oannes), Mesopotamian antediluvian sages",
+  "confidence": "high",
+  "true_region": "mesopotamia",
+  "title": "Apkallu"
+ },
+ "Waaq": {
+  "region": "east_africa",
+  "named_figure_guess": "Waaq (Waaqa), the ancient Cushitic sky god of the Somali/Oromo \u2014 Waaqeffanna, with the Jidwaaq ('Path of God') clan",
+  "confidence": "high",
+  "true_region": "east_africa",
+  "title": "Waaq"
+ }
+}

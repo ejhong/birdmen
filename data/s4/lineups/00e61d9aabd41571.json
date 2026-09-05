@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  9,
+  8,
+  6,
+  1,
+  2,
+  10,
+  7,
+  5,
+  4
+ ],
+ "most_similar_reason": "Candidate 3 matches the target most closely because it features civilizing sage-figures who emerge from the waters to teach humanity the arts of civilization, are tied to the founding of a great city, and are bound up with a great flood that divides pre-flood from post-flood humanity, before being banished back into the primeval waters \u2014 closely echoing the target's water-emergent creator-teacher who brings civilization and departs across the sea.",
+ "least_similar_reason": "Candidate 4 is least similar because it is a dynastic exile-and-abduction epic about a princely avatar's marriage, banishment, and quest to recover his wife, with no creation of humankind, no flood, no teaching of civilization, and no departure across the water.",
+ "set": "hancock",
+ "pair": "Viracocha | Oannes",
+ "i": 20,
+ "target": "Viracocha",
+ "planted": "Oannes",
+ "cands": [
+  "Djanggawul",
+  "Yu the Great",
+  "Oannes",
+  "Rama",
+  "Palamedes (mythology)",
+  "Kilibob and Manup",
+  "Aeneas",
+  "Wisakedjak",
+  "Tezcatlipoca",
+  "Kvasir"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

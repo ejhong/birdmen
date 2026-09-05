@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  8,
+  7,
+  4,
+  10,
+  1,
+  3,
+  2,
+  9,
+  6
+ ],
+ "most_similar_reason": "Candidate 5, like the target, is a composite account of a creator-culture-hero god with multiple conflicting versions of his origin and family, who makes/remakes humankind after destroying an earlier failed race, teaches civilization, is tied to light and the sun, and finally departs in a miraculous vanishing with the promise of return.",
+ "least_similar_reason": "Candidate 6 is not a narrative at all but a lexical-theological note on a term for a diffuse 'Great Spirit,' with no birth stories, culture-hero deeds, creation of humans, or any episodic content resembling the target.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Viracocha",
+ "i": 13,
+ "target": "Quetzalcoatl",
+ "planted": "Viracocha",
+ "cands": [
+  "Ziusudra",
+  "Corn Mother",
+  "Bran the Blessed",
+  "Ninigi-no-Mikoto",
+  "Viracocha",
+  "Wakan Tanka",
+  "Kokopelli",
+  "Prometheus",
+  "Waaq",
+  "Adapa"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 1
+}

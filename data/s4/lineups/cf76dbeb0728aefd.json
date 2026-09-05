@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  6,
+  4,
+  2,
+  5,
+  9,
+  8,
+  7,
+  1,
+  10
+ ],
+ "most_similar_reason": "Candidate 3 matches the target's core pattern most closely: a civilizing figure (with companions sharing his name) who orders the founding of a great city, teaches humankind the foundations of civilization, is tied to a great flood dividing eras of humanity, and finally departs across/into the waters.",
+ "least_similar_reason": "Candidate 10 is least similar because it contains no narrative at all\ninstead merely naming a deity, so it shares no episodes, roles, or motifs with the target's account of civilizing sages, flood-era kings, and their banishment.",
+ "set": "hancock",
+ "pair": "Oannes | Viracocha",
+ "i": 35,
+ "target": "Oannes",
+ "planted": "Viracocha",
+ "cands": [
+  "Bumba",
+  "Obatala",
+  "Viracocha",
+  "Palamedes (mythology)",
+  "Ninigi-no-Mikoto",
+  "Shennong",
+  "Wayland the Smith",
+  "Sky Woman",
+  "Qat (deity)",
+  "Abassi"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

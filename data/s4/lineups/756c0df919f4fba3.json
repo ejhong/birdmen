@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  2,
+  3,
+  6,
+  8,
+  4,
+  9,
+  1,
+  5,
+  7
+ ],
+ "most_similar_reason": "Candidate 10 shares the target's core profile of a wandering creator-culture-hero told in multiple conflicting variants: he makes the present humankind after earlier races were destroyed, invents books/the calendar, gives a grain crop and other civilizing arts, and departs in a transformative disappearance, matching the target's flood-destroyed first race, stone-made humans, teaching of plants and civilization, and final vanishing.",
+ "least_similar_reason": "Candidate 7 is a heroic-dynastic war saga of marriage alliance, a magic cauldron, and a talking severed head, with no creator figure, no creation of humans or heavenly bodies, no flood, and no teaching of civilization.",
+ "set": "hancock",
+ "pair": "Viracocha | Quetzalcoatl",
+ "i": 1,
+ "target": "Viracocha",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Bhagiratha",
+  "Great Peacemaker",
+  "Dangun",
+  "Yu the Great",
+  "Rama",
+  "Sky Woman",
+  "Bran the Blessed",
+  "Yellow Emperor",
+  "Wandjina",
+  "Quetzalcoatl"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  7,
+  10,
+  6,
+  1,
+  8,
+  3,
+  2,
+  4,
+  5
+ ],
+ "most_similar_reason": "Candidate 9 matches the target most closely as a bearded/serpent culture-hero creator who fashions the present humankind after earlier failed races were destroyed, teaches civilization (books, calendar, crops, food preparation), works wonders, and finally departs in disgrace/transfiguration with the expectation of celestial return.",
+ "least_similar_reason": "Candidate 5 is least similar: it is a dynastic penance-and-river-descent legend about funeral rites for ancestors, with no creator figure, no fashioning of humans, no civilizing teaching, and no departing culture hero.",
+ "set": "hancock",
+ "pair": "Viracocha | Quetzalcoatl",
+ "i": 2,
+ "target": "Viracocha",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Ziusudra",
+  "Mwari",
+  "Oduduwa",
+  "Romulus and Remus",
+  "Bhagiratha",
+  "Adapa",
+  "Berossus",
+  "Ilmarinen",
+  "Quetzalcoatl",
+  "Sky Woman"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

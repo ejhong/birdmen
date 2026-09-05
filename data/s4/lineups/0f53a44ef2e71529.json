@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  8,
+  7,
+  4,
+  9,
+  2,
+  10,
+  3,
+  5,
+  6
+ ],
+ "most_similar_reason": "Candidate 1 mirrors the target's euhemerized strand most closely: a divine culture hero who travels the world teaching agriculture (grain crops) and secret rites with a goddess's support, is attacked by a jealous foreign king, and ends as a ruler/judge of the underworld.",
+ "least_similar_reason": "Candidate 6 is not a narrative at all but an account of a divine name's linguistic spread and decline, sharing none of the target's episodes, roles, or motifs.",
+ "set": "hancock",
+ "pair": "Osiris | Viracocha",
+ "i": 54,
+ "target": "Osiris",
+ "planted": "Viracocha",
+ "cands": [
+  "Triptolemus",
+  "Coyote (mythology)",
+  "Kutkh",
+  "Amirani",
+  "Wisakedjak",
+  "Waaq",
+  "Prometheus",
+  "Heitsi-eibib",
+  "Viracocha",
+  "Anansi"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 5
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  7,
+  1,
+  6,
+  10,
+  2,
+  8,
+  4,
+  9,
+  5
+ ],
+ "most_similar_reason": "Candidate 3 matches the target most closely because it centers on a water-emergent, civilization-teaching figure (who also travels with companions bearing his name, echoing a group of sages) who is tied to a great flood, a founded city, the making/instructing of humankind, and a final departure across the waters.",
+ "least_similar_reason": "Candidate 5 is least similar because it is an etymological and linguistic account of a sky-god's name across peoples, with no sages, no flood, no teaching of civilization, and essentially no narrative events at all.",
+ "set": "hancock",
+ "pair": "Oannes | Viracocha",
+ "i": 32,
+ "target": "Oannes",
+ "planted": "Viracocha",
+ "cands": [
+  "Triptolemus",
+  "Palamedes (mythology)",
+  "Viracocha",
+  "Sang Hyang Tunggal",
+  "Waaq",
+  "White Buffalo Calf Woman",
+  "Yellow Emperor",
+  "Amirani",
+  "Mwari",
+  "Obatala"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

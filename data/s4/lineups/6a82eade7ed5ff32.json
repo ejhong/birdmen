@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  5,
+  2,
+  10,
+  3,
+  1,
+  8,
+  9,
+  4,
+  6
+ ],
+ "most_similar_reason": "Candidate 7 matches most closely because it features civilizing culture-bringers who emerge from the waters to teach humankind the arts of civilization, are tied to a great flood that divides eras of humanity, found a great city (and further cities), and finally depart back into the primeval waters, paralleling the target's water-emerging, city-founding, flood-sending teacher who walks away across the sea.",
+ "least_similar_reason": "Candidate 6 is least similar because it is an abstract discussion of a term for sacred power with no creator figure, no deeds, no flood, no teaching episodes, and no narrative sequence at all.",
+ "set": "hancock",
+ "pair": "Viracocha | Oannes",
+ "i": 26,
+ "target": "Viracocha",
+ "planted": "Oannes",
+ "cands": [
+  "Cadmus",
+  "Nanabozho",
+  "Hiawatha",
+  "Sosruko",
+  "Baiame",
+  "Wakan Tanka",
+  "Oannes",
+  "Cangjie",
+  "Anansi",
+  "Wisakedjak"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  9,
+  8,
+  4,
+  1,
+  7,
+  5,
+  10,
+  2,
+  3
+ ],
+ "most_similar_reason": "Candidate 6 shares the target's core pattern of divine civilizers who come to teach humanity the arts of civilization, appear as a group of companions associated with the same identity, are tied to a great flood that divides eras, are credited with laying the foundations of a great city, and finally vanish into the primeval waters.",
+ "least_similar_reason": "Candidate 3 contains no narrative at all\u2014only the bare identification of a spirit as a deity\u2014so it shares none of the target's episodes, roles, or motifs.",
+ "set": "hancock",
+ "pair": "Viracocha | Oannes",
+ "i": 25,
+ "target": "Viracocha",
+ "planted": "Oannes",
+ "cands": [
+  "Tezcatlipoca",
+  "Orpheus",
+  "Abassi",
+  "Baiame",
+  "Ilmarinen",
+  "Oannes",
+  "Wandjina",
+  "Nanabozho",
+  "Itzamna",
+  "Anansi"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

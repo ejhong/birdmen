@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  8,
+  3,
+  6,
+  9,
+  10,
+  7,
+  2,
+  1,
+  4
+ ],
+ "most_similar_reason": "Candidate 5, like the target, centers on a bearded, robed creator-culture-hero who makes the current humans after an earlier failed race was destroyed, brings light and heavenly bodies, teaches civilization and useful plants, and finally departs/vanishes, matching the target's creator-teacher-departure pattern in close detail.",
+ "least_similar_reason": "Candidate 4 is not a narrative at all but a linguistic and historical account of a divine name's spread and decline, sharing none of the target's episodes, figures, or motifs.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Viracocha",
+ "i": 15,
+ "target": "Quetzalcoatl",
+ "planted": "Viracocha",
+ "cands": [
+  "Makunaima",
+  "Wayland the Smith",
+  "T\u0101ne",
+  "Waaq",
+  "Viracocha",
+  "Tagaro",
+  "Anansi",
+  "Nanabozho",
+  "Romulus and Remus",
+  "Oduduwa"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 1
+}

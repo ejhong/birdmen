@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  8,
+  7,
+  2,
+  1,
+  3,
+  4,
+  5,
+  6,
+  10
+ ],
+ "most_similar_reason": "Candidate 9 shares the target's most distinctive cluster: a civilizing figure who emerges from the water to teach humanity the arts of civilization and the story of creation, associated with founding great cities and with a world-destroying flood, and who finally departs into the deep/heaven never to return.",
+ "least_similar_reason": "Candidate 10 is not a story about a divine figure at all but a set of agricultural harvest customs involving a straw figure made from the last sheaf, sharing none of the target's creation, flood, teaching, or departure motifs.",
+ "set": "hancock",
+ "pair": "Viracocha | Osiris",
+ "i": 41,
+ "target": "Viracocha",
+ "planted": "Osiris",
+ "cands": [
+  "Tezcatlipoca",
+  "Unkulunkulu",
+  "Wisakedjak",
+  "Oduduwa",
+  "Mwari",
+  "Kokopelli",
+  "Osiris",
+  "Prometheus",
+  "Apkallu",
+  "Corn Mother"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 3
+}

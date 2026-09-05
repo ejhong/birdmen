@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  7,
+  1,
+  5,
+  9,
+  8,
+  3,
+  10,
+  2,
+  4
+ ],
+ "most_similar_reason": "Candidate 6, like the target, centers on a bearded-style creator/culture hero who fashions the present humankind after earlier flawed races were destroyed, invents writing, the calendar and crafts, teaches civilization, and finally departs in a transformative disappearance with a promise of celestial return.",
+ "least_similar_reason": "Candidate 4 is a shapeshifting trickster's cycle of resurrections, incest and a single stone-throwing monster duel, sharing none of the target's creation-of-humans, flood, civilizing-teacher, or departure-over-the-sea motifs.",
+ "set": "hancock",
+ "pair": "Viracocha | Quetzalcoatl",
+ "i": 8,
+ "target": "Viracocha",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Berossus",
+  "Bhagiratha",
+  "Oduduwa",
+  "Heitsi-eibib",
+  "Prometheus",
+  "Quetzalcoatl",
+  "Baiame",
+  "Coyote (mythology)",
+  "Nanabozho",
+  "Ogun"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

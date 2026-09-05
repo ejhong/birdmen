@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  9,
+  8,
+  5,
+  7,
+  6,
+  10,
+  2,
+  4,
+  1
+ ],
+ "most_similar_reason": "Candidate 3, like the target, centers on a creator/culture-hero deity with multiple conflicting origin versions who makes the current humans after earlier flawed races were destroyed, invents and teaches the arts of civilization (books, calendar, crops, food preparation), and finally departs in a transfigured disappearance associated with return.",
+ "least_similar_reason": "Candidate 1 is not a narrative at all but an etymological and historical account of a divine name's spread and decline, containing none of the target's creation, flood, teaching, or departure episodes.",
+ "set": "hancock",
+ "pair": "Viracocha | Quetzalcoatl",
+ "i": 3,
+ "target": "Viracocha",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Waaq",
+  "Palamedes (mythology)",
+  "Quetzalcoatl",
+  "Bumba",
+  "\u014ckuninushi",
+  "Wandjina",
+  "Agastya",
+  "Ogun",
+  "Triptolemus",
+  "Kvasir"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

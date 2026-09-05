@@ -1,0 +1,1169 @@
+{
+ "n_corpus": 106,
+ "pairs": [
+  {
+   "set": "hancock",
+   "pair": "Viracocha | Quetzalcoatl",
+   "emb_rank": 3,
+   "emb_rank_rev": 2,
+   "tfidf_rank": 63,
+   "tfidf_rank_rev": 68,
+   "emb_cos": 0.7218832969665527,
+   "tfidf_cos": 0.06629410767938201
+  },
+  {
+   "set": "hancock",
+   "pair": "Viracocha | Oannes",
+   "emb_rank": 52,
+   "emb_rank_rev": 7,
+   "tfidf_rank": 9,
+   "tfidf_rank_rev": 12,
+   "emb_cos": 0.5688411593437195,
+   "tfidf_cos": 0.1312799637481267
+  },
+  {
+   "set": "hancock",
+   "pair": "Viracocha | Osiris",
+   "emb_rank": 39,
+   "emb_rank_rev": 28,
+   "tfidf_rank": 54,
+   "tfidf_rank_rev": 56,
+   "emb_cos": 0.589106559753418,
+   "tfidf_cos": 0.07475915052299272
+  },
+  {
+   "set": "hancock",
+   "pair": "Quetzalcoatl | Oannes",
+   "emb_rank": 73,
+   "emb_rank_rev": 29,
+   "tfidf_rank": 56,
+   "tfidf_rank_rev": 36,
+   "emb_cos": 0.500809371471405,
+   "tfidf_cos": 0.07703295860480108
+  },
+  {
+   "set": "hancock",
+   "pair": "Quetzalcoatl | Osiris",
+   "emb_rank": 3,
+   "emb_rank_rev": 4,
+   "tfidf_rank": 10,
+   "tfidf_rank_rev": 18,
+   "emb_cos": 0.7040335536003113,
+   "tfidf_cos": 0.16256178981019936
+  },
+  {
+   "set": "hancock",
+   "pair": "Oannes | Osiris",
+   "emb_rank": 63,
+   "emb_rank_rev": 89,
+   "tfidf_rank": 29,
+   "tfidf_rank_rev": 49,
+   "emb_cos": 0.40444234013557434,
+   "tfidf_cos": 0.0844887578400291
+  },
+  {
+   "set": "hancock",
+   "pair": "Bochica | Quetzalcoatl",
+   "emb_rank": 40,
+   "emb_rank_rev": 47,
+   "tfidf_rank": 60,
+   "tfidf_rank_rev": 74,
+   "emb_cos": 0.5590095520019531,
+   "tfidf_cos": 0.058474558609853136
+  },
+  {
+   "set": "hancock",
+   "pair": "Votan | Quetzalcoatl",
+   "emb_rank": 40,
+   "emb_rank_rev": 64,
+   "tfidf_rank": 66,
+   "tfidf_rank_rev": 70,
+   "emb_cos": 0.5216012597084045,
+   "tfidf_cos": 0.0628500723849279
+  },
+  {
+   "set": "hancock",
+   "pair": "Thoth | Quetzalcoatl",
+   "emb_rank": 1,
+   "emb_rank_rev": 14,
+   "tfidf_rank": 3,
+   "tfidf_rank_rev": 1,
+   "emb_cos": 0.647129237651825,
+   "tfidf_cos": 0.23092296255856162
+  },
+  {
+   "set": "hancock",
+   "pair": "Nommo | Oannes",
+   "emb_rank": 20,
+   "emb_rank_rev": 20,
+   "tfidf_rank": 29,
+   "tfidf_rank_rev": 25,
+   "emb_cos": 0.5146660804748535,
+   "tfidf_cos": 0.08852153650433538
+  },
+  {
+   "set": "hancock",
+   "pair": "Viracocha | Bochica",
+   "emb_rank": 7,
+   "emb_rank_rev": 2,
+   "tfidf_rank": 8,
+   "tfidf_rank_rev": 5,
+   "emb_cos": 0.6914799213409424,
+   "tfidf_cos": 0.13635961583855327
+  },
+  {
+   "set": "positive",
+   "pair": "Gilgamesh flood myth | Genesis flood narrative",
+   "emb_rank": 5,
+   "emb_rank_rev": 2,
+   "tfidf_rank": 5,
+   "tfidf_rank_rev": 1,
+   "emb_cos": 0.7261893153190613,
+   "tfidf_cos": 0.29985183713474556
+  },
+  {
+   "set": "positive",
+   "pair": "Atra-Hasis | Gilgamesh flood myth",
+   "emb_rank": 60,
+   "emb_rank_rev": 52,
+   "tfidf_rank": 6,
+   "tfidf_rank_rev": 11,
+   "emb_cos": 0.4916911721229553,
+   "tfidf_cos": 0.2158878614756511
+  },
+  {
+   "set": "positive",
+   "pair": "Utnapishtim | Noah",
+   "emb_rank": 4,
+   "emb_rank_rev": 14,
+   "tfidf_rank": 6,
+   "tfidf_rank_rev": 13,
+   "emb_cos": 0.6628425121307373,
+   "tfidf_cos": 0.1769056199146418
+  },
+  {
+   "set": "positive",
+   "pair": "Ramayana | Reamker",
+   "emb_rank": 1,
+   "emb_rank_rev": 1,
+   "tfidf_rank": 3,
+   "tfidf_rank_rev": 2,
+   "emb_cos": 0.8096807599067688,
+   "tfidf_cos": 0.42828733205301694
+  },
+  {
+   "set": "positive",
+   "pair": "Ramayana | Ramakien",
+   "emb_rank": 4,
+   "emb_rank_rev": 1,
+   "tfidf_rank": 1,
+   "tfidf_rank_rev": 1,
+   "emb_cos": 0.6587066650390625,
+   "tfidf_cos": 0.4954240575992457
+  },
+  {
+   "set": "positive",
+   "pair": "Gautama Buddha | Barlaam and Josaphat",
+   "emb_rank": 4,
+   "emb_rank_rev": 18,
+   "tfidf_rank": 3,
+   "tfidf_rank_rev": 9,
+   "emb_cos": 0.4599350392818451,
+   "tfidf_cos": 0.08660710241820127
+  },
+  {
+   "set": "positive",
+   "pair": "Panchatantra | Kalila wa-Dimna",
+   "emb_rank": 1,
+   "emb_rank_rev": 1,
+   "tfidf_rank": 1,
+   "tfidf_rank_rev": 2,
+   "emb_cos": 0.7144169211387634,
+   "tfidf_cos": 0.16569378194146286
+  },
+  {
+   "set": "positive",
+   "pair": "Manu (Hinduism) | Matsya",
+   "emb_rank": 13,
+   "emb_rank_rev": 18,
+   "tfidf_rank": 3,
+   "tfidf_rank_rev": 1,
+   "emb_cos": 0.5903350710868835,
+   "tfidf_cos": 0.32948921302147915
+  },
+  {
+   "set": "positive",
+   "pair": "Deucalion | Noah",
+   "emb_rank": 1,
+   "emb_rank_rev": 5,
+   "tfidf_rank": 1,
+   "tfidf_rank_rev": 4,
+   "emb_cos": 0.7405226826667786,
+   "tfidf_cos": 0.2520816288956584
+  },
+  {
+   "set": "related",
+   "pair": "Quetzalcoatl | Kukulkan",
+   "emb_rank": 7,
+   "emb_rank_rev": 1,
+   "tfidf_rank": 53,
+   "tfidf_rank_rev": 25,
+   "emb_cos": 0.681358814239502,
+   "tfidf_cos": 0.07802898097798568
+  },
+  {
+   "set": "related",
+   "pair": "Viracocha | Manco C\u00e1pac",
+   "emb_rank": 32,
+   "emb_rank_rev": 26,
+   "tfidf_rank": 2,
+   "tfidf_rank_rev": 7,
+   "emb_cos": 0.6091435551643372,
+   "tfidf_cos": 0.19530331841815166
+  },
+  {
+   "set": "related",
+   "pair": "Viracocha | Tunupa",
+   "emb_rank": 86,
+   "emb_rank_rev": 12,
+   "tfidf_rank": 97,
+   "tfidf_rank_rev": 48,
+   "emb_cos": 0.4675593674182892,
+   "tfidf_cos": 0.03094311812725457
+  },
+  {
+   "set": "related",
+   "pair": "Osiris | Isis",
+   "emb_rank": 5,
+   "emb_rank_rev": 2,
+   "tfidf_rank": 1,
+   "tfidf_rank_rev": 1,
+   "emb_cos": 0.6887001395225525,
+   "tfidf_cos": 0.3242769287145621
+  },
+  {
+   "set": "related",
+   "pair": "Enki | Oannes",
+   "emb_rank": 46,
+   "emb_rank_rev": 9,
+   "tfidf_rank": 9,
+   "tfidf_rank_rev": 5,
+   "emb_cos": 0.5538094639778137,
+   "tfidf_cos": 0.18749379623811047
+  },
+  {
+   "set": "related",
+   "pair": "Fuxi | N\u00fcwa",
+   "emb_rank": 8,
+   "emb_rank_rev": 14,
+   "tfidf_rank": 1,
+   "tfidf_rank_rev": 4,
+   "emb_cos": 0.6400147676467896,
+   "tfidf_cos": 0.17395582899208747
+  },
+  {
+   "set": "related",
+   "pair": "M\u0101ui (M\u0101ori mythology) | M\u0101ui (Hawaiian mythology)",
+   "emb_rank": 1,
+   "emb_rank_rev": 1,
+   "tfidf_rank": 1,
+   "tfidf_rank_rev": 1,
+   "emb_cos": 0.781575620174408,
+   "tfidf_cos": 0.2687097616529424
+  },
+  {
+   "set": "related",
+   "pair": "Idris (prophet) | Enoch (ancestor of Noah)",
+   "emb_rank": 3,
+   "emb_rank_rev": 10,
+   "tfidf_rank": 2,
+   "tfidf_rank_rev": 1,
+   "emb_cos": 0.6060987710952759,
+   "tfidf_cos": 0.2003239655419726
+  },
+  {
+   "set": "random",
+   "pair": "Mama Ocllo | \u014ckuninushi",
+   "emb_rank": 20,
+   "emb_rank_rev": 38,
+   "tfidf_rank": 32,
+   "tfidf_rank_rev": 36,
+   "emb_cos": 0.5915868878364563,
+   "tfidf_cos": 0.12585170423461303
+  },
+  {
+   "set": "random",
+   "pair": "Prometheus | Wayland the Smith",
+   "emb_rank": 92,
+   "emb_rank_rev": 37,
+   "tfidf_rank": 57,
+   "tfidf_rank_rev": 13,
+   "emb_cos": 0.42358988523483276,
+   "tfidf_cos": 0.08258583129419443
+  },
+  {
+   "set": "random",
+   "pair": "Bachu\u00e9 | T\u0101ne",
+   "emb_rank": 54,
+   "emb_rank_rev": 64,
+   "tfidf_rank": 68,
+   "tfidf_rank_rev": 72,
+   "emb_cos": 0.4676031172275543,
+   "tfidf_cos": 0.04703556670869768
+  },
+  {
+   "set": "random",
+   "pair": "Bumba | Anansi",
+   "emb_rank": 73,
+   "emb_rank_rev": 90,
+   "tfidf_rank": 33,
+   "tfidf_rank_rev": 43,
+   "emb_cos": 0.3595406711101532,
+   "tfidf_cos": 0.05542447202140588
+  },
+  {
+   "set": "random",
+   "pair": "Sang Hyang Tunggal | V\u00e4in\u00e4m\u00f6inen",
+   "emb_rank": 58,
+   "emb_rank_rev": 96,
+   "tfidf_rank": 76,
+   "tfidf_rank_rev": 96,
+   "emb_cos": 0.3556411564350128,
+   "tfidf_cos": 0.02965657815430021
+  },
+  {
+   "set": "random",
+   "pair": "Nanabozho | Oduduwa",
+   "emb_rank": 105,
+   "emb_rank_rev": 98,
+   "tfidf_rank": 96,
+   "tfidf_rank_rev": 94,
+   "emb_cos": 0.1942984163761139,
+   "tfidf_cos": 0.024838746013971683
+  },
+  {
+   "set": "random",
+   "pair": "Cangjie | Coyote (mythology)",
+   "emb_rank": 47,
+   "emb_rank_rev": 29,
+   "tfidf_rank": 58,
+   "tfidf_rank_rev": 46,
+   "emb_cos": 0.4577583074569702,
+   "tfidf_cos": 0.04823201102554364
+  },
+  {
+   "set": "random",
+   "pair": "Itzamna | Coyote (mythology)",
+   "emb_rank": 73,
+   "emb_rank_rev": 32,
+   "tfidf_rank": 67,
+   "tfidf_rank_rev": 34,
+   "emb_cos": 0.44630900025367737,
+   "tfidf_cos": 0.05525733608154883
+  },
+  {
+   "set": "random",
+   "pair": "Kilibob and Manup | Ziusudra",
+   "emb_rank": 40,
+   "emb_rank_rev": 102,
+   "tfidf_rank": 82,
+   "tfidf_rank_rev": 102,
+   "emb_cos": 0.366317480802536,
+   "tfidf_cos": 0.017489988170283875
+  },
+  {
+   "set": "random",
+   "pair": "Mama Ocllo | Abassi",
+   "emb_rank": 69,
+   "emb_rank_rev": 19,
+   "tfidf_rank": 99,
+   "tfidf_rank_rev": 54,
+   "emb_cos": 0.47331351041793823,
+   "tfidf_cos": 0.03244460755484339
+  },
+  {
+   "set": "random",
+   "pair": "Triptolemus | Nyame",
+   "emb_rank": 93,
+   "emb_rank_rev": 48,
+   "tfidf_rank": 86,
+   "tfidf_rank_rev": 46,
+   "emb_cos": 0.4010370969772339,
+   "tfidf_cos": 0.047949555144037946
+  },
+  {
+   "set": "random",
+   "pair": "Agastya | Wayland the Smith",
+   "emb_rank": 50,
+   "emb_rank_rev": 19,
+   "tfidf_rank": 96,
+   "tfidf_rank_rev": 53,
+   "emb_cos": 0.4598448574542999,
+   "tfidf_cos": 0.024892593072257926
+  },
+  {
+   "set": "random",
+   "pair": "Romulus and Remus | Prometheus",
+   "emb_rank": 76,
+   "emb_rank_rev": 89,
+   "tfidf_rank": 59,
+   "tfidf_rank_rev": 72,
+   "emb_cos": 0.4317770004272461,
+   "tfidf_cos": 0.054857173965705976
+  },
+  {
+   "set": "random",
+   "pair": "Coyote (mythology) | Maya Hero Twins",
+   "emb_rank": 37,
+   "emb_rank_rev": 63,
+   "tfidf_rank": 71,
+   "tfidf_rank_rev": 82,
+   "emb_cos": 0.42658084630966187,
+   "tfidf_cos": 0.03322011396909576
+  },
+  {
+   "set": "random",
+   "pair": "Nanabozho | Mwari",
+   "emb_rank": 31,
+   "emb_rank_rev": 51,
+   "tfidf_rank": 4,
+   "tfidf_rank_rev": 7,
+   "emb_cos": 0.45576146245002747,
+   "tfidf_cos": 0.1640633942259972
+  },
+  {
+   "set": "random",
+   "pair": "Djanggawul | Ilmarinen",
+   "emb_rank": 93,
+   "emb_rank_rev": 103,
+   "tfidf_rank": 56,
+   "tfidf_rank_rev": 81,
+   "emb_cos": 0.2521667182445526,
+   "tfidf_cos": 0.02895038340132829
+  },
+  {
+   "set": "random",
+   "pair": "Tezcatlipoca | Ayar Manco",
+   "emb_rank": 20,
+   "emb_rank_rev": 36,
+   "tfidf_rank": 54,
+   "tfidf_rank_rev": 75,
+   "emb_cos": 0.572907030582428,
+   "tfidf_cos": 0.06455984600940058
+  },
+  {
+   "set": "random",
+   "pair": "Palamedes (mythology) | Mama Ocllo",
+   "emb_rank": 78,
+   "emb_rank_rev": 95,
+   "tfidf_rank": 33,
+   "tfidf_rank_rev": 57,
+   "emb_cos": 0.35348665714263916,
+   "tfidf_cos": 0.08131833250244269
+  },
+  {
+   "set": "random",
+   "pair": "Tezcatlipoca | Sang Hyang Tunggal",
+   "emb_rank": 92,
+   "emb_rank_rev": 36,
+   "tfidf_rank": 10,
+   "tfidf_rank_rev": 6,
+   "emb_cos": 0.402071475982666,
+   "tfidf_cos": 0.1478365242673397
+  },
+  {
+   "set": "random",
+   "pair": "Mama Ocllo | Wakan Tanka",
+   "emb_rank": 103,
+   "emb_rank_rev": 58,
+   "tfidf_rank": 73,
+   "tfidf_rank_rev": 22,
+   "emb_cos": 0.29669710993766785,
+   "tfidf_cos": 0.07246396633201733
+  },
+  {
+   "set": "random",
+   "pair": "Ogun | Gesar",
+   "emb_rank": 22,
+   "emb_rank_rev": 45,
+   "tfidf_rank": 37,
+   "tfidf_rank_rev": 60,
+   "emb_cos": 0.5695046782493591,
+   "tfidf_cos": 0.07943308364442922
+  },
+  {
+   "set": "random",
+   "pair": "Cadmus | Tagaro",
+   "emb_rank": 57,
+   "emb_rank_rev": 21,
+   "tfidf_rank": 31,
+   "tfidf_rank_rev": 17,
+   "emb_cos": 0.5298783183097839,
+   "tfidf_cos": 0.15342598410813474
+  },
+  {
+   "set": "random",
+   "pair": "Djanggawul | Berossus",
+   "emb_rank": 56,
+   "emb_rank_rev": 83,
+   "tfidf_rank": 40,
+   "tfidf_rank_rev": 80,
+   "emb_cos": 0.3652068078517914,
+   "tfidf_cos": 0.03966706606248327
+  },
+  {
+   "set": "random",
+   "pair": "Kokopelli | Romulus and Remus",
+   "emb_rank": 78,
+   "emb_rank_rev": 95,
+   "tfidf_rank": 102,
+   "tfidf_rank_rev": 102,
+   "emb_cos": 0.344129353761673,
+   "tfidf_cos": 0.010195345768809977
+  },
+  {
+   "set": "random",
+   "pair": "Mbombo | Qat (deity)",
+   "emb_rank": 38,
+   "emb_rank_rev": 59,
+   "tfidf_rank": 45,
+   "tfidf_rank_rev": 59,
+   "emb_cos": 0.5071957111358643,
+   "tfidf_cos": 0.07033632943790272
+  },
+  {
+   "set": "random",
+   "pair": "Rama | Gesar",
+   "emb_rank": 1,
+   "emb_rank_rev": 1,
+   "tfidf_rank": 9,
+   "tfidf_rank_rev": 1,
+   "emb_cos": 0.7848897576332092,
+   "tfidf_cos": 0.21797473164584316
+  },
+  {
+   "set": "random",
+   "pair": "Palamedes (mythology) | Corn Mother",
+   "emb_rank": 104,
+   "emb_rank_rev": 104,
+   "tfidf_rank": 93,
+   "tfidf_rank_rev": 83,
+   "emb_cos": 0.16592131555080414,
+   "tfidf_cos": 0.02279670392248452
+  },
+  {
+   "set": "random",
+   "pair": "Mbombo | Romulus and Remus",
+   "emb_rank": 53,
+   "emb_rank_rev": 60,
+   "tfidf_rank": 79,
+   "tfidf_rank_rev": 76,
+   "emb_cos": 0.4615374803543091,
+   "tfidf_cos": 0.043606643452633057
+  },
+  {
+   "set": "random",
+   "pair": "Adapa | Rama",
+   "emb_rank": 14,
+   "emb_rank_rev": 15,
+   "tfidf_rank": 5,
+   "tfidf_rank_rev": 5,
+   "emb_cos": 0.6540210843086243,
+   "tfidf_cos": 0.24361370951217312
+  },
+  {
+   "set": "random",
+   "pair": "Amirani | Great Peacemaker",
+   "emb_rank": 78,
+   "emb_rank_rev": 53,
+   "tfidf_rank": 58,
+   "tfidf_rank_rev": 31,
+   "emb_cos": 0.40832072496414185,
+   "tfidf_cos": 0.07477305223557766
+  },
+  {
+   "set": "random",
+   "pair": "Gesar | Kvasir",
+   "emb_rank": 54,
+   "emb_rank_rev": 38,
+   "tfidf_rank": 59,
+   "tfidf_rank_rev": 24,
+   "emb_cos": 0.5419392585754395,
+   "tfidf_cos": 0.08095347178763761
+  },
+  {
+   "set": "random",
+   "pair": "Ninigi-no-Mikoto | Coyote (mythology)",
+   "emb_rank": 92,
+   "emb_rank_rev": 65,
+   "tfidf_rank": 97,
+   "tfidf_rank_rev": 67,
+   "emb_cos": 0.3690756559371948,
+   "tfidf_cos": 0.03447621192472291
+  },
+  {
+   "set": "random",
+   "pair": "Amirani | Pachacamac",
+   "emb_rank": 28,
+   "emb_rank_rev": 44,
+   "tfidf_rank": 30,
+   "tfidf_rank_rev": 28,
+   "emb_cos": 0.5773292779922485,
+   "tfidf_cos": 0.1428626326700403
+  },
+  {
+   "set": "random",
+   "pair": "Ilmarinen | Gesar",
+   "emb_rank": 28,
+   "emb_rank_rev": 72,
+   "tfidf_rank": 25,
+   "tfidf_rank_rev": 67,
+   "emb_cos": 0.4775006175041199,
+   "tfidf_cos": 0.0732437582107017
+  },
+  {
+   "set": "random",
+   "pair": "Palamedes (mythology) | Tezcatlipoca",
+   "emb_rank": 59,
+   "emb_rank_rev": 89,
+   "tfidf_rank": 45,
+   "tfidf_rank_rev": 50,
+   "emb_cos": 0.40633371472358704,
+   "tfidf_cos": 0.068233970632306
+  },
+  {
+   "set": "random",
+   "pair": "Rama | Unkulunkulu",
+   "emb_rank": 90,
+   "emb_rank_rev": 82,
+   "tfidf_rank": 91,
+   "tfidf_rank_rev": 85,
+   "emb_cos": 0.35916098952293396,
+   "tfidf_cos": 0.019334097825167658
+  },
+  {
+   "set": "random",
+   "pair": "Yellow Emperor | Ogun",
+   "emb_rank": 6,
+   "emb_rank_rev": 12,
+   "tfidf_rank": 13,
+   "tfidf_rank_rev": 3,
+   "emb_cos": 0.6039755344390869,
+   "tfidf_cos": 0.13399048788234522
+  },
+  {
+   "set": "random",
+   "pair": "Kvasir | Amirani",
+   "emb_rank": 48,
+   "emb_rank_rev": 54,
+   "tfidf_rank": 74,
+   "tfidf_rank_rev": 83,
+   "emb_cos": 0.5255122780799866,
+   "tfidf_cos": 0.03452362006599848
+  },
+  {
+   "set": "random",
+   "pair": "Ayar Manco | Cangjie",
+   "emb_rank": 90,
+   "emb_rank_rev": 78,
+   "tfidf_rank": 62,
+   "tfidf_rank_rev": 20,
+   "emb_cos": 0.3964627981185913,
+   "tfidf_cos": 0.0879040565823217
+  },
+  {
+   "set": "random",
+   "pair": "Coyote (mythology) | Sang Hyang Tunggal",
+   "emb_rank": 43,
+   "emb_rank_rev": 31,
+   "tfidf_rank": 54,
+   "tfidf_rank_rev": 62,
+   "emb_cos": 0.414899617433548,
+   "tfidf_cos": 0.04262460625448646
+  },
+  {
+   "set": "random",
+   "pair": "Aeneas | Palamedes (mythology)",
+   "emb_rank": 2,
+   "emb_rank_rev": 1,
+   "tfidf_rank": 2,
+   "tfidf_rank_rev": 1,
+   "emb_cos": 0.749079167842865,
+   "tfidf_cos": 0.259435989059619
+  },
+  {
+   "set": "random",
+   "pair": "Agastya | Bran the Blessed",
+   "emb_rank": 59,
+   "emb_rank_rev": 45,
+   "tfidf_rank": 18,
+   "tfidf_rank_rev": 21,
+   "emb_cos": 0.43667662143707275,
+   "tfidf_cos": 0.10346904026979915
+  },
+  {
+   "set": "random",
+   "pair": "Abassi | Ziusudra",
+   "emb_rank": 29,
+   "emb_rank_rev": 88,
+   "tfidf_rank": 34,
+   "tfidf_rank_rev": 85,
+   "emb_cos": 0.4369365870952606,
+   "tfidf_cos": 0.05035491270213853
+  },
+  {
+   "set": "random",
+   "pair": "Aeneas | Djanggawul",
+   "emb_rank": 99,
+   "emb_rank_rev": 83,
+   "tfidf_rank": 88,
+   "tfidf_rank_rev": 41,
+   "emb_cos": 0.293412983417511,
+   "tfidf_cos": 0.03959184699496947
+  },
+  {
+   "set": "random",
+   "pair": "\u014ckuninushi | Anansi",
+   "emb_rank": 47,
+   "emb_rank_rev": 10,
+   "tfidf_rank": 64,
+   "tfidf_rank_rev": 37,
+   "emb_cos": 0.5726449489593506,
+   "tfidf_cos": 0.06233160273933232
+  },
+  {
+   "set": "random",
+   "pair": "Makunaima | Wakan Tanka",
+   "emb_rank": 33,
+   "emb_rank_rev": 12,
+   "tfidf_rank": 52,
+   "tfidf_rank_rev": 44,
+   "emb_cos": 0.4159165322780609,
+   "tfidf_cos": 0.04407852184084971
+  },
+  {
+   "set": "random",
+   "pair": "Itzamna | Great Peacemaker",
+   "emb_rank": 92,
+   "emb_rank_rev": 74,
+   "tfidf_rank": 87,
+   "tfidf_rank_rev": 82,
+   "emb_cos": 0.3739764392375946,
+   "tfidf_cos": 0.03789061555209112
+  },
+  {
+   "set": "random",
+   "pair": "Wandjina | Yu the Great",
+   "emb_rank": 32,
+   "emb_rank_rev": 73,
+   "tfidf_rank": 75,
+   "tfidf_rank_rev": 96,
+   "emb_cos": 0.43761399388313293,
+   "tfidf_cos": 0.027815566654935973
+  },
+  {
+   "set": "random",
+   "pair": "Kutkh | Cangjie",
+   "emb_rank": 13,
+   "emb_rank_rev": 16,
+   "tfidf_rank": 14,
+   "tfidf_rank_rev": 14,
+   "emb_cos": 0.5275024771690369,
+   "tfidf_cos": 0.10131566215503746
+  },
+  {
+   "set": "random",
+   "pair": "Tangaroa | Glooscap",
+   "emb_rank": 43,
+   "emb_rank_rev": 91,
+   "tfidf_rank": 26,
+   "tfidf_rank_rev": 33,
+   "emb_cos": 0.4570254385471344,
+   "tfidf_cos": 0.12557108397165348
+  },
+  {
+   "set": "random",
+   "pair": "Ilmarinen | Rama",
+   "emb_rank": 34,
+   "emb_rank_rev": 72,
+   "tfidf_rank": 14,
+   "tfidf_rank_rev": 55,
+   "emb_cos": 0.45898786187171936,
+   "tfidf_cos": 0.08945996090518142
+  },
+  {
+   "set": "random",
+   "pair": "Djanggawul | Nanabozho",
+   "emb_rank": 21,
+   "emb_rank_rev": 38,
+   "tfidf_rank": 22,
+   "tfidf_rank_rev": 55,
+   "emb_cos": 0.4411275386810303,
+   "tfidf_cos": 0.051313268574984874
+  },
+  {
+   "set": "random",
+   "pair": "Cadmus | Rama",
+   "emb_rank": 4,
+   "emb_rank_rev": 6,
+   "tfidf_rank": 10,
+   "tfidf_rank_rev": 13,
+   "emb_cos": 0.7115205526351929,
+   "tfidf_cos": 0.20325581992149838
+  },
+  {
+   "set": "random",
+   "pair": "Apkallu | Mbombo",
+   "emb_rank": 22,
+   "emb_rank_rev": 45,
+   "tfidf_rank": 62,
+   "tfidf_rank_rev": 68,
+   "emb_cos": 0.4844723045825958,
+   "tfidf_cos": 0.049974805178805745
+  },
+  {
+   "set": "random",
+   "pair": "Berossus | Wakan Tanka",
+   "emb_rank": 97,
+   "emb_rank_rev": 53,
+   "tfidf_rank": 45,
+   "tfidf_rank_rev": 14,
+   "emb_cos": 0.30694663524627686,
+   "tfidf_cos": 0.08954217527944373
+  },
+  {
+   "set": "random",
+   "pair": "Ogun | Aeneas",
+   "emb_rank": 2,
+   "emb_rank_rev": 10,
+   "tfidf_rank": 9,
+   "tfidf_rank_rev": 44,
+   "emb_cos": 0.6683961749076843,
+   "tfidf_cos": 0.11182323326853076
+  },
+  {
+   "set": "random",
+   "pair": "Maya Hero Twins | White Buffalo Calf Woman",
+   "emb_rank": 16,
+   "emb_rank_rev": 16,
+   "tfidf_rank": 35,
+   "tfidf_rank_rev": 24,
+   "emb_cos": 0.5365829467773438,
+   "tfidf_cos": 0.0683145281692127
+  },
+  {
+   "set": "random",
+   "pair": "Mbombo | R\u00edgs\u00feula",
+   "emb_rank": 58,
+   "emb_rank_rev": 85,
+   "tfidf_rank": 39,
+   "tfidf_rank_rev": 35,
+   "emb_cos": 0.4510749876499176,
+   "tfidf_cos": 0.07328535509461459
+  },
+  {
+   "set": "random",
+   "pair": "Ninigi-no-Mikoto | Maya Hero Twins",
+   "emb_rank": 62,
+   "emb_rank_rev": 23,
+   "tfidf_rank": 57,
+   "tfidf_rank_rev": 25,
+   "emb_cos": 0.5129551887512207,
+   "tfidf_cos": 0.08785252916581393
+  },
+  {
+   "set": "random",
+   "pair": "Great Peacemaker | Prometheus",
+   "emb_rank": 41,
+   "emb_rank_rev": 87,
+   "tfidf_rank": 105,
+   "tfidf_rank_rev": 103,
+   "emb_cos": 0.4388800859451294,
+   "tfidf_cos": 0.0024898924943688827
+  }
+ ],
+ "summary": {
+  "hancock": {
+   "n": 11,
+   "emb_median": 24.0,
+   "tfidf_median": 32.5,
+   "emb_cos_mean": 0.5839093029499054
+  },
+  "positive": {
+   "n": 9,
+   "emb_median": 4.0,
+   "tfidf_median": 3.0,
+   "emb_cos_mean": 0.6504800154103173
+  },
+  "related": {
+   "n": 8,
+   "emb_median": 8.5,
+   "tfidf_median": 3.0,
+   "emb_cos_mean": 0.628532562404871
+  },
+  "random": {
+   "n": 60,
+   "emb_median": 53.0,
+   "tfidf_median": 53.5,
+   "emb_cos_mean": 0.4560468855003516
+  }
+ },
+ "nn": {
+  "Viracocha": [
+   {
+    "key": "Enki",
+    "title": "Enki",
+    "region": "mesopotamia",
+    "cos": 0.7288042902946472
+   },
+   {
+    "key": "Ziusudra",
+    "title": "Ziusudra",
+    "region": "mesopotamia",
+    "cos": 0.7266095876693726
+   },
+   {
+    "key": "Quetzalcoatl",
+    "title": "Quetzalc\u014d\u0101tl",
+    "region": "mesoamerica",
+    "cos": 0.7218832969665527
+   },
+   {
+    "key": "Mbombo",
+    "title": "Mbombo",
+    "region": "central_africa",
+    "cos": 0.7088053226470947
+   },
+   {
+    "key": "Genesis flood narrative",
+    "title": "Genesis flood narrative",
+    "region": "near_east",
+    "cos": 0.6955931186676025
+   }
+  ],
+  "Quetzalcoatl": [
+   {
+    "key": "Huitzilopochtli",
+    "title": "Hu\u012btzil\u014dp\u014dchtli",
+    "region": "mesoamerica",
+    "cos": 0.7468370199203491
+   },
+   {
+    "key": "Viracocha",
+    "title": "Viracocha",
+    "region": "andes",
+    "cos": 0.7218832969665527
+   },
+   {
+    "key": "Osiris",
+    "title": "Osiris",
+    "region": "egypt",
+    "cos": 0.7040335536003113
+   },
+   {
+    "key": "Pachacamac",
+    "title": "Pachacamac",
+    "region": "andes",
+    "cos": 0.6891505122184753
+   },
+   {
+    "key": "Sky Woman",
+    "title": "Atahensic",
+    "region": "north_america",
+    "cos": 0.6884934902191162
+   }
+  ],
+  "Oannes": [
+   {
+    "key": "Manu (Hinduism)",
+    "title": "Manu (Hinduism)",
+    "region": "india",
+    "cos": 0.6215644478797913
+   },
+   {
+    "key": "Kvasir",
+    "title": "Kvasir",
+    "region": "germanic",
+    "cos": 0.5867759585380554
+   },
+   {
+    "key": "Bochica",
+    "title": "Bochica",
+    "region": "andes",
+    "cos": 0.5828624963760376
+   },
+   {
+    "key": "Adapa",
+    "title": "Adapa",
+    "region": "mesopotamia",
+    "cos": 0.5758593678474426
+   },
+   {
+    "key": "Ziusudra",
+    "title": "Ziusudra",
+    "region": "mesopotamia",
+    "cos": 0.5744719505310059
+   }
+  ],
+  "Osiris": [
+   {
+    "key": "Atra-Hasis",
+    "title": "Atra-Hasis",
+    "region": "mesopotamia",
+    "cos": 0.7691434621810913
+   },
+   {
+    "key": "Triptolemus",
+    "title": "Triptolemus",
+    "region": "greece",
+    "cos": 0.7277184128761292
+   },
+   {
+    "key": "Huitzilopochtli",
+    "title": "Hu\u012btzil\u014dp\u014dchtli",
+    "region": "mesoamerica",
+    "cos": 0.713351845741272
+   },
+   {
+    "key": "Quetzalcoatl",
+    "title": "Quetzalc\u014d\u0101tl",
+    "region": "mesoamerica",
+    "cos": 0.7040335536003113
+   },
+   {
+    "key": "Isis",
+    "title": "Isis",
+    "region": "egypt",
+    "cos": 0.6887001395225525
+   }
+  ],
+  "Bochica": [
+   {
+    "key": "Votan",
+    "title": "Votan",
+    "region": "mesoamerica",
+    "cos": 0.7212820053100586
+   },
+   {
+    "key": "Viracocha",
+    "title": "Viracocha",
+    "region": "andes",
+    "cos": 0.6914799213409424
+   },
+   {
+    "key": "Ogun",
+    "title": "Ogun",
+    "region": "west_africa",
+    "cos": 0.6880430579185486
+   },
+   {
+    "key": "Ayar Manco",
+    "title": "Manco C\u00e1pac",
+    "region": "andes",
+    "cos": 0.684020459651947
+   },
+   {
+    "key": "Cadmus",
+    "title": "Cadmus",
+    "region": "greece",
+    "cos": 0.6758158802986145
+   }
+  ],
+  "Gilgamesh flood myth": [
+   {
+    "key": "Adapa",
+    "title": "Adapa",
+    "region": "mesopotamia",
+    "cos": 0.766696035861969
+   },
+   {
+    "key": "Noah",
+    "title": "Noah",
+    "region": "near_east",
+    "cos": 0.7628342509269714
+   },
+   {
+    "key": "Ziusudra",
+    "title": "Ziusudra",
+    "region": "mesopotamia",
+    "cos": 0.7453237771987915
+   },
+   {
+    "key": "Deucalion",
+    "title": "Deucalion",
+    "region": "greece",
+    "cos": 0.7393182516098022
+   },
+   {
+    "key": "Genesis flood narrative",
+    "title": "Genesis flood narrative",
+    "region": "near_east",
+    "cos": 0.7261893153190613
+   }
+  ],
+  "Gautama Buddha": [
+   {
+    "key": "Enoch (ancestor of Noah)",
+    "title": "Enoch",
+    "region": "near_east",
+    "cos": 0.522689938545227
+   },
+   {
+    "key": "Agastya",
+    "title": "Agastya",
+    "region": "india",
+    "cos": 0.477980375289917
+   },
+   {
+    "key": "Shennong",
+    "title": "Shennong",
+    "region": "china",
+    "cos": 0.4643109142780304
+   },
+   {
+    "key": "Barlaam and Josaphat",
+    "title": "Barlaam and Josaphat",
+    "region": "europe",
+    "cos": 0.4599350392818451
+   },
+   {
+    "key": "R\u00edgs\u00feula",
+    "title": "R\u00edgs\u00feula",
+    "region": "germanic",
+    "cos": 0.43992212414741516
+   }
+  ],
+  "Ramayana": [
+   {
+    "key": "Reamker",
+    "title": "Reamker",
+    "region": "southeast_asia",
+    "cos": 0.8096807599067688
+   },
+   {
+    "key": "Rama",
+    "title": "Rama",
+    "region": "india",
+    "cos": 0.753085196018219
+   },
+   {
+    "key": "Gesar",
+    "title": "Epic of King Gesar",
+    "region": "tibet",
+    "cos": 0.7027201652526855
+   },
+   {
+    "key": "Ramakien",
+    "title": "Ramakien",
+    "region": "southeast_asia",
+    "cos": 0.6587066650390625
+   },
+   {
+    "key": "Aeneas",
+    "title": "Aeneas",
+    "region": "rome",
+    "cos": 0.6549535393714905
+   }
+  ]
+ }
+}

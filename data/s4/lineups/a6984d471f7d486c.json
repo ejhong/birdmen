@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  8,
+  9,
+  10,
+  7,
+  6,
+  4,
+  1,
+  2,
+  5
+ ],
+ "most_similar_reason": "Candidate 3 shares the target's core plot of a deadly rivalry between two brothers in which the victim ends up concealed inside a tree that is cut down, plus the culture-hero role of distributing crops, food plants, and practical skills to peoples of different lands.",
+ "least_similar_reason": "Candidate 5 is a static description of a flute-playing fertility spirit's attributes and associations, with no murderous brother, dismemberment, searching wife, revival, or avenging son\u2014no narrative sequence at all.",
+ "set": "hancock",
+ "pair": "Osiris | Viracocha",
+ "i": 51,
+ "target": "Osiris",
+ "planted": "Viracocha",
+ "cands": [
+  "Wayland the Smith",
+  "Ogun",
+  "Kilibob and Manup",
+  "Viracocha",
+  "Kokopelli",
+  "Aeneas",
+  "Romulus and Remus",
+  "Tangaroa",
+  "Shennong",
+  "Kvasir"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 7
+}

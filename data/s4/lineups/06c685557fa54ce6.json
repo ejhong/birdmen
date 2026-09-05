@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  2,
+  1,
+  9,
+  5,
+  7,
+  6,
+  3,
+  8,
+  4
+ ],
+ "most_similar_reason": "Candidate 10 shares the core profile of the target: a civilizing creator-god with multiple conflicting origin accounts who fashions the present humankind after earlier races were destroyed, gives crops, books and calendar, teaches arts to people, is linked with light and the heavens, and finally departs in a self-inflicted disappearance/transfiguration with the expectation of his cosmic return.",
+ "least_similar_reason": "Candidate 4 is a revenge tale about a captive smith who murders a king's sons, makes vessels from their skulls, seduces the daughter and escapes by flight, sharing none of the target's creation, flood, teaching, or departure-over-the-sea motifs.",
+ "set": "hancock",
+ "pair": "Viracocha | Quetzalcoatl",
+ "i": 9,
+ "target": "Viracocha",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Unkulunkulu",
+  "Triptolemus",
+  "Adapa",
+  "Wayland the Smith",
+  "Ziusudra",
+  "Yu the Great",
+  "Djanggawul",
+  "Bumba",
+  "Hiawatha",
+  "Quetzalcoatl"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  10,
+  4,
+  6,
+  9,
+  5,
+  8,
+  7,
+  3,
+  2
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's core pattern of divine civilizers who teach humanity the arts of civilization, oversee the founding of a great city, are associated with companions bearing the same name (a plurality of like figures), and are tied to a great flood that divides earlier and later humanity.",
+ "least_similar_reason": "Candidate 2 is a smith-god metalworking cycle centered on forging objects, a magic mill, and a golden bride, with no group of civilizing sages, no antediluvian kings or flood-divided epochs, and no hybrid guardian figures teaching humanity.",
+ "set": "hancock",
+ "pair": "Oannes | Viracocha",
+ "i": 34,
+ "target": "Oannes",
+ "planted": "Viracocha",
+ "cands": [
+  "Viracocha",
+  "Ilmarinen",
+  "Kilibob and Manup",
+  "Huitzilopochtli",
+  "Glooscap",
+  "Djanggawul",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "White Buffalo Calf Woman",
+  "T\u0101ne",
+  "Yellow Emperor"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

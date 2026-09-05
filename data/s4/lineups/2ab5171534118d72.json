@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  8,
+  7,
+  5,
+  2,
+  3,
+  9,
+  6,
+  10,
+  1
+ ],
+ "most_similar_reason": "Candidate 4, like the target, features a being sent to earth by/as a creator power who is a co-creator of the world, whose first task is naming all the plants and animals and who teaches his people the arts of civilization (fishing, writing), matching the target's combination of creator role and civilizing instruction including plant-naming.",
+ "least_similar_reason": "Candidate 1 is a dynastic penance-and-river-descent tale about funeral rites for ancestors, with no creator figure, no making of humanity, no flood-destruction of a first race, and no wandering teacher of civilization.",
+ "set": "hancock",
+ "pair": "Viracocha | Osiris",
+ "i": 46,
+ "target": "Viracocha",
+ "planted": "Osiris",
+ "cands": [
+  "Bhagiratha",
+  "Osiris",
+  "White Buffalo Calf Woman",
+  "Nanabozho",
+  "Wisakedjak",
+  "Romulus and Remus",
+  "Tezcatlipoca",
+  "Shennong",
+  "Ilmarinen",
+  "Rama"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 5
+}

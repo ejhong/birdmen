@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  9,
+  10,
+  4,
+  8,
+  6,
+  5,
+  2,
+  3,
+  7
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's most distinctive cluster: civilizing beings who emerge from a body of water, come in a group bearing shared names, lay the foundations of a great city (and found others), teach humankind the arts of civilization, are bracketed by a great flood, and finally return into the waters.",
+ "least_similar_reason": "Candidate 7 is least similar because it contains no narrative at all\u2014no creation, teaching, flood, or departure\u2014merely noting that a spirit is recognized as a deity.",
+ "set": "hancock",
+ "pair": "Viracocha | Oannes",
+ "i": 29,
+ "target": "Viracocha",
+ "planted": "Oannes",
+ "cands": [
+  "Oannes",
+  "Ilmarinen",
+  "Mwari",
+  "Dangun",
+  "Nyame",
+  "Ninigi-no-Mikoto",
+  "Abassi",
+  "Yu the Great",
+  "Qat (deity)",
+  "Prometheus"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  7,
+  1,
+  8,
+  2,
+  10,
+  4,
+  6,
+  5,
+  9
+ ],
+ "most_similar_reason": "Candidate 3 matches the target's core pattern most closely: a creator deity in human form who shapes the world's landscape, then teaches people their laws, traditions, and culture, has a wife and offspring, and finally departs from the world at a specific place after finishing his creative work.",
+ "least_similar_reason": "Candidate 9 concerns a miracle-working ascetic sage's marriage, schooling, and feats within an already-created world, sharing none of the target's creator role, making of humans, destroying flood, civilizing wandering in disguise, or departure across the water.",
+ "set": "hancock",
+ "pair": "Viracocha | Oannes",
+ "i": 22,
+ "target": "Viracocha",
+ "planted": "Oannes",
+ "cands": [
+  "Great Peacemaker",
+  "Makunaima",
+  "Baiame",
+  "R\u00edgs\u00feula",
+  "Kokopelli",
+  "Maya Hero Twins",
+  "Oannes",
+  "Wisakedjak",
+  "Agastya",
+  "Ogun"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 2
+}

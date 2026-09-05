@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  9,
+  8,
+  2,
+  1,
+  7,
+  4,
+  5,
+  3,
+  6
+ ],
+ "most_similar_reason": "Candidate 10, like the target, centers on a bearded/priestly sky creator deity who makes humankind, fathers lesser deities, gives names to the features of the land, and brings the arts of civilization (notably writing) to people, matching the target's creator-plus-culture-hero pattern most closely.",
+ "least_similar_reason": "Candidate 6 is a heroic-dynastic war saga of a giant king, a marriage alliance, a resurrection cauldron and a talking severed head, with no creator deity, no making of humans, no flood, and no teaching of civilization.",
+ "set": "hancock",
+ "pair": "Viracocha | Osiris",
+ "i": 43,
+ "target": "Viracocha",
+ "planted": "Osiris",
+ "cands": [
+  "Nyame",
+  "Osiris",
+  "Sosruko",
+  "Palamedes (mythology)",
+  "Waaq",
+  "Bran the Blessed",
+  "Kokopelli",
+  "R\u00edgs\u00feula",
+  "Nanabozho",
+  "Itzamna"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 4
+}

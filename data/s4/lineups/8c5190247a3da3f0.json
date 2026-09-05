@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  6,
+  2,
+  7,
+  5,
+  4,
+  9,
+  8,
+  10,
+  3
+ ],
+ "most_similar_reason": "Candidate 1 matches the target's core pattern most closely: divine emissaries descend from the gods with a retinue to teach humanity the arts of civilization (including medicine and healing practices), they found a named foundational city, and their activity is tied to a primeval royal lineage and its ritual cult.",
+ "least_similar_reason": "Candidate 3 is a folk agricultural harvest custom about housing a crop spirit in a straw effigy, with no divine emissaries, no teaching of civilization, no kings, flood, or cities, so it shares almost nothing with the target beyond the vague presence of ritual figures.",
+ "set": "hancock",
+ "pair": "Oannes | Viracocha",
+ "i": 36,
+ "target": "Oannes",
+ "planted": "Viracocha",
+ "cands": [
+  "Dangun",
+  "Prometheus",
+  "Corn Mother",
+  "R\u00edgs\u00feula",
+  "Romulus and Remus",
+  "Viracocha",
+  "White Buffalo Calf Woman",
+  "Bhagiratha",
+  "Coyote (mythology)",
+  "Unkulunkulu"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 2
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  6,
+  7,
+  3,
+  9,
+  10,
+  1,
+  8,
+  5,
+  2
+ ],
+ "most_similar_reason": "Candidate 4 matches the target's core pattern most closely: a single creator/sky deity who shapes the world, teaches humankind its laws, customs and civilization, is credited with a family (wives and a child), and then departs from the world at a specific place, with a described anthropomorphic iconography.",
+ "least_similar_reason": "Candidate 2 is not a story of a creator or culture-bringer at all but an agricultural harvest custom about housing a crop spirit in a straw figure, sharing no figures, episodes, or motifs with the target.",
+ "set": "hancock",
+ "pair": "Viracocha | Oannes",
+ "i": 24,
+ "target": "Viracocha",
+ "planted": "Oannes",
+ "cands": [
+  "Nyame",
+  "Corn Mother",
+  "Djanggawul",
+  "Baiame",
+  "Romulus and Remus",
+  "Oannes",
+  "Unkulunkulu",
+  "Aeneas",
+  "Cangjie",
+  "Gesar"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 2
+}

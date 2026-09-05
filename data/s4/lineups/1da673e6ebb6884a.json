@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  2,
+  5,
+  9,
+  3,
+  7,
+  6,
+  4,
+  8,
+  1
+ ],
+ "most_similar_reason": "Candidate 10 shares the target's core pattern of divine civilizing teachers who bring the arts of civilization to humanity, order the founding of a great city, are bound up with a great flood dividing eras of mankind, and are linked to emergence from and departure across primeval waters.",
+ "least_similar_reason": "Candidate 1 is a bare identification of a deity with no events, roles, teaching, flood, or sages of any kind, so it shares no narrative content with the target.",
+ "set": "hancock",
+ "pair": "Oannes | Viracocha",
+ "i": 38,
+ "target": "Oannes",
+ "planted": "Viracocha",
+ "cands": [
+  "Abassi",
+  "Agastya",
+  "Anansi",
+  "Mwari",
+  "\u014ckuninushi",
+  "Heitsi-eibib",
+  "Maya Hero Twins",
+  "Makunaima",
+  "Rama",
+  "Viracocha"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  5,
+  10,
+  3,
+  8,
+  9,
+  6,
+  2,
+  4,
+  7
+ ],
+ "most_similar_reason": "Candidate 1, like the target, centers on a creator/culture-hero who forms the first humans (with figures born from stone), reshapes the land, deals with a flawed or destructive first order of things, and then bestows the foundations of civilization on his creations.",
+ "least_similar_reason": "Candidate 7 is least similar because it reduces to a small trickster's single feat of stealing fire from a giant, with no creation of humans, no flood, no wandering teacher of civilization, and no departure across the sea.",
+ "set": "hancock",
+ "pair": "Viracocha | Osiris",
+ "i": 48,
+ "target": "Viracocha",
+ "planted": "Osiris",
+ "cands": [
+  "Glooscap",
+  "Kokopelli",
+  "Osiris",
+  "Anansi",
+  "Shennong",
+  "Orpheus",
+  "Sosruko",
+  "Ilmarinen",
+  "Wandjina",
+  "Triptolemus"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 4
+}

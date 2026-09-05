@@ -3,3 +3,5 @@ __pycache__/
 .DS_Store
 data/s3/raw/
 data/s3/*.log
+data/s4/*.log
+data/s5/*.log

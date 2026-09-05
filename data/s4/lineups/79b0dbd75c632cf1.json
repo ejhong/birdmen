@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  7,
+  3,
+  10,
+  4,
+  5,
+  6,
+  9,
+  2,
+  8
+ ],
+ "most_similar_reason": "Candidate 1, like the target, features civilizing figures who emerge from primeval waters to teach humankind the arts of civilization, are linked to the founding of a great city, are bound up with a great flood, and finally vanish back into the waters.",
+ "least_similar_reason": "Candidate 8 has no creator or culture-hero figure at all, only an agricultural harvest custom of housing a crop spirit in a straw doll, sharing none of the target's creation, flood, teaching, or departure motifs.",
+ "set": "hancock",
+ "pair": "Viracocha | Oannes",
+ "i": 21,
+ "target": "Viracocha",
+ "planted": "Oannes",
+ "cands": [
+  "Oannes",
+  "Sang Hyang Tunggal",
+  "Nanabozho",
+  "Oduduwa",
+  "Ninigi-no-Mikoto",
+  "Kvasir",
+  "Baiame",
+  "Corn Mother",
+  "Agastya",
+  "Ogun"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

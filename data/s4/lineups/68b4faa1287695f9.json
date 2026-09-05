@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  6,
+  3,
+  5,
+  4,
+  1,
+  9,
+  7,
+  10,
+  2
+ ],
+ "most_similar_reason": "Candidate 8 matches the target most closely because it is a creator/culture-hero deity with multiple conflicting birth and origin accounts who fashions the current race of humans after earlier destroyed races, brings the arts of civilization (books, calendar, staple crops, food preparation), is linked to light and celestial bodies, and departs in a self-transforming disappearance associated with a promised cosmic return.",
+ "least_similar_reason": "Candidate 2 is least similar because it describes an impersonal agricultural harvest custom of housing a crop spirit in a straw figure, with no creator or teacher figure, no creation of humans, no flood, teachings, miracles, or departure across the sea.",
+ "set": "hancock",
+ "pair": "Viracocha | Quetzalcoatl",
+ "i": 0,
+ "target": "Viracocha",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Heitsi-eibib",
+  "Corn Mother",
+  "Kilibob and Manup",
+  "Tagaro",
+  "Ogun",
+  "White Buffalo Calf Woman",
+  "Bran the Blessed",
+  "Quetzalcoatl",
+  "Sang Hyang Tunggal",
+  "Wayland the Smith"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

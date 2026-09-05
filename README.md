@@ -44,3 +44,5 @@ python build_site.py   # -> docs/data/site.json
   matrices with fixed row and column totals", *Nature Communications* 5:4114 (curveball).
 
 Code and derived data: MIT. Catalogue-derived data: CC BY-NC-SA 4.0, per the source.
+- `docs/heroes.html` — study 4: blind lineups of de-identified culture-hero myths (Viracocha, Quetzalcoatl, Oannes, Osiris … vs a world pool; documented transmissions as positive controls), judged by Claude Opus 5 and Sonnet 5; `pipeline/s4_heroes.py`, data in `data/s4/`, pre-registration `docs/study4/preregistration.md`.
+- `docs/floods.html` — study 5: 263 flood stories from Mark Isaak's compendium coded blind for 26 details; which are universal, regional, or travel with Genesis; `pipeline/s5_floods.py`, `s5_analysis.py`, data in `data/s5/`, pre-registration `docs/study5/preregistration.md`.

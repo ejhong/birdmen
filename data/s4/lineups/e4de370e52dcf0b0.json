@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  3,
+  1,
+  10,
+  9,
+  4,
+  2,
+  7,
+  6,
+  8
+ ],
+ "most_similar_reason": "Candidate 5 matches the target most closely in role and episode structure: a civilizing figure (with companions bearing his name) who emerges from primeval waters, orders the founding of a great city, teaches humankind the arts of civilization, and is bound up with a great flood that divides an earlier failed race from later humanity.",
+ "least_similar_reason": "Candidate 8 is a bare one-line note that a creator god is known by variant names among certain peoples, containing no events, teachings, sages, flood, or civilizing acts to compare with the target.",
+ "set": "hancock",
+ "pair": "Oannes | Viracocha",
+ "i": 31,
+ "target": "Oannes",
+ "planted": "Viracocha",
+ "cands": [
+  "Great Peacemaker",
+  "Sosruko",
+  "White Buffalo Calf Woman",
+  "Tagaro",
+  "Viracocha",
+  "Unkulunkulu",
+  "Heitsi-eibib",
+  "Makunaima",
+  "Kutkh",
+  "Agastya"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 1
+}

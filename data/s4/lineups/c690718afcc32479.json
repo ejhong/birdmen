@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  7,
+  6,
+  8,
+  10,
+  1,
+  2,
+  5,
+  3,
+  4
+ ],
+ "most_similar_reason": "Candidate 9 shares the target's core profile of a divine benefactor who fashions humankind out of inert material (clay rather than stone), acts as the source of human arts and civilization, is tied to a flood hero, and suffers/withdraws after conflict with those he served.",
+ "least_similar_reason": "Candidate 4 is not a narrative at all but an explanation of an abstract term for sacred power, with no creator figure making people, no flood, no teaching journey, and no departure across the sea.",
+ "set": "hancock",
+ "pair": "Viracocha | Osiris",
+ "i": 42,
+ "target": "Viracocha",
+ "planted": "Osiris",
+ "cands": [
+  "Ilmarinen",
+  "Yu the Great",
+  "Palamedes (mythology)",
+  "Wakan Tanka",
+  "Sosruko",
+  "Cadmus",
+  "Unkulunkulu",
+  "Osiris",
+  "Prometheus",
+  "Oduduwa"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 4
+}

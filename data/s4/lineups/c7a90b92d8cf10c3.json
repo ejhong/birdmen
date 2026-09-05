@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  5,
+  6,
+  2,
+  10,
+  9,
+  8,
+  1,
+  7,
+  4
+ ],
+ "most_similar_reason": "Candidate 3 matches the target most closely as a creator/culture-hero deity who fashions the present humankind after earlier races were destroyed, invents the arts of civilization (books, calendar, crops), is variously described with conflicting parentage and multiple versions, and finally departs in shame/self-immolation with an expectation of celestial return \u2014 the same composite creator-civilizer-departing-god pattern.",
+ "least_similar_reason": "Candidate 4 is least similar because it is a cycle of trickster episodes about a spider outwitting a sky god for stories, wisdom, and names, with no creation of the world or humans, no flood, no civilizing mission, and no departing/returning savior figure.",
+ "set": "hancock",
+ "pair": "Viracocha | Quetzalcoatl",
+ "i": 7,
+ "target": "Viracocha",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "\u014ckuninushi",
+  "Sky Woman",
+  "Quetzalcoatl",
+  "Anansi",
+  "Makunaima",
+  "Triptolemus",
+  "Tagaro",
+  "Gesar",
+  "Wandjina",
+  "Cangjie"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

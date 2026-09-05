@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  3,
+  6,
+  2,
+  1,
+  8,
+  9,
+  7,
+  4,
+  5
+ ],
+ "most_similar_reason": "Candidate 10 shares the target's core creation sequence most closely: a primordial darkness ended by the deity procuring light and setting sun, moon, and stars in the sky, the forming of humankind from earth/soil, the gifting of civilizing skills and tools to people, and destructive floods sent against them.",
+ "least_similar_reason": "Candidate 5 is least similar because it concerns a sage born of a jar whose story revolves around marriage, ascetic feats, and mediating divine quarrels, with no creation of humans, no light-bringing, no civilizing flood, and no vanishing across the sea.",
+ "set": "hancock",
+ "pair": "Viracocha | Osiris",
+ "i": 49,
+ "target": "Viracocha",
+ "planted": "Osiris",
+ "cands": [
+  "Unkulunkulu",
+  "Osiris",
+  "Kutkh",
+  "Kvasir",
+  "Agastya",
+  "Shennong",
+  "Yu the Great",
+  "Nyame",
+  "Yellow Emperor",
+  "T\u0101ne"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 4
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  3,
+  6,
+  7,
+  9,
+  10,
+  2,
+  1,
+  5,
+  4
+ ],
+ "most_similar_reason": "Candidate 8 matches the target's core pattern most closely: a civilizing creator deity who makes the present humans after earlier races were destroyed, teaches the arts of civilization, is associated with light/sun-moon-stars, and finally departs across the water with a promise of return, mirroring the target hero's creation of mankind from the bones of destroyed races and his fiery departure/star transformation.",
+ "least_similar_reason": "Candidate 4 is not a narrative at all but a description of an abstract, non-acting symbol of an unknowable divine principle, sharing none of the target's births, sibling gods, culture-bringing deeds, incest, or self-immolation episodes.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Viracocha",
+ "i": 11,
+ "target": "Quetzalcoatl",
+ "planted": "Viracocha",
+ "cands": [
+  "Kokopelli",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Nanabozho",
+  "Sang Hyang Tunggal",
+  "Waaq",
+  "T\u0101ne",
+  "Glooscap",
+  "Viracocha",
+  "Coyote (mythology)",
+  "Apkallu"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  2,
+  3,
+  6,
+  7,
+  8,
+  4,
+  10,
+  1,
+  9
+ ],
+ "most_similar_reason": "Candidate 5 shares the closest structural cluster with the target: a god who is a child of the sky father and earth mother, embroiled in violent rivalry among brothers, involved in a marriage/adultery triangle, and featuring a killing followed by a magical revival through incantations, plus lasting enmity and required offerings to the slain/wronged deity.",
+ "least_similar_reason": "Candidate 9 is a bare identification of a supreme deity with two names and contains no narrative events, roles, or motifs that could correspond to the target's murder, dismemberment, search, revival, and vengeance sequence.",
+ "set": "hancock",
+ "pair": "Osiris | Viracocha",
+ "i": 55,
+ "target": "Osiris",
+ "planted": "Viracocha",
+ "cands": [
+  "Abassi",
+  "Gesar",
+  "Viracocha",
+  "Anansi",
+  "Tangaroa",
+  "Baiame",
+  "Nanabozho",
+  "Coyote (mythology)",
+  "Bumba",
+  "Wandjina"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 3
+}

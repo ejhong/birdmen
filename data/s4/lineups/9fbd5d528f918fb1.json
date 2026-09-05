@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  5,
+  2,
+  3,
+  4,
+  6,
+  8,
+  7,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's core sequence most closely: a white-skinned creator existing amid darkness and primordial water who brings forth the sun, moon and stars, produces humankind (including a white ruler-figure set over the earth), and finally withdraws from the world after handing creation to mankind.",
+ "least_similar_reason": "Candidate 10 is not a narrative at all but a philological account of a sky-god's name and its survival in place names and clans, sharing none of the target's episodes of creation, flood, stone-made humans, or the wandering civilizing teacher.",
+ "set": "hancock",
+ "pair": "Viracocha | Oannes",
+ "i": 28,
+ "target": "Viracocha",
+ "planted": "Oannes",
+ "cands": [
+  "Mbombo",
+  "T\u0101ne",
+  "Wisakedjak",
+  "Cadmus",
+  "Oannes",
+  "Hiawatha",
+  "Makunaima",
+  "Heitsi-eibib",
+  "Mwari",
+  "Waaq"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 2
+}

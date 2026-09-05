@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  3,
+  1,
+  6,
+  9,
+  8,
+  4,
+  5,
+  10,
+  2
+ ],
+ "most_similar_reason": "Candidate 7 matches the target most closely because it centers on a divine civilizer with human form who teaches humankind the foundations of civilization, orders the building of a great city, is associated with a great flood that separates an earlier flawed race from later humans, and is linked to emergence from and departure across primeval waters, echoing the apkallu-type sage sent from the gods.",
+ "least_similar_reason": "Candidate 2 is least similar because it contains almost no narrative at all\ni.e. a single statement that a supreme deity had two names, with none of the target's sages, kings, flood, city-founding, teaching, or fish-hybrid motifs.",
+ "set": "hancock",
+ "pair": "Oannes | Viracocha",
+ "i": 30,
+ "target": "Oannes",
+ "planted": "Viracocha",
+ "cands": [
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Bumba",
+  "Oduduwa",
+  "Cadmus",
+  "Bhagiratha",
+  "Kutkh",
+  "Viracocha",
+  "Tangaroa",
+  "Qat (deity)",
+  "Aeneas"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}
