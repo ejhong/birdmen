@@ -51,6 +51,7 @@ table.feat tr.mismatch td { background: rgba(142, 74, 56, .07); }
 <nav class="toc"><div class="wrap"><ol>
   <li><a href="./">&larr; Overview</a></li>
   <li><a href="#verdict">Verdict</a></li>
+  <li><a href="#qualifications">Qualifications</a></li>
   <li><a href="#lineup">Pilot C: lineups</a></li>
   <li><a href="#judge">Pilot B: direct judgment</a></li>
   <li><a href="#pilotA">Pilot A: feature coding</a></li>
@@ -67,7 +68,7 @@ table.feat tr.mismatch td { background: rgba(142, 74, 56, .07); }
 <main>
 
 <section class="part" id="verdict"><div class="wrap">
-  <div class="part-head"><div class="n">01</div><h2>The verdict, for the pilots</h2></div>
+  <div class="part-head"><div class="n">01</div><h2>The verdict, for the pilots (provisional: see the qualifications)</h2></div>
   <div class="prose">
     <div class="verdict"><div class="eyebrow">In one paragraph</div><p id="verdict-b"></p></div>
     <div class="stats" id="stats-b"></div>
@@ -75,8 +76,22 @@ table.feat tr.mismatch td { background: rgba(142, 74, 56, .07); }
   </div>
 </div></section>
 
+<section class="part" id="qualifications"><div class="wrap">
+  <div class="part-head"><div class="n">02</div><h2>Qualifications, after review</h2></div>
+  <div class="prose">
+    <p>A reviewer read the narrative, the prompts, the saved results and the images, and raised objections that are correct. They are answered here with the data where the data can answer them, and stated as open where it cannot. The verdict above should be read as provisional in their light.</p>
+    <p><b>1. The prompt mixes resemblance with historical interpretation.</b> True. The judges were told to ask whether a correspondence "would suggest a shared iconographic tradition, as opposed to what two unrelated traditions could easily produce independently". A model can see a resemblance and then discount it because it finds independent invention plausible; those are two judgments, and the overall score folds them together. What the data can say: the five sub-scores (elements, relationships, arrangement, style, gestalt) are resemblance-only, and on their sum the pair sits at the <span data-q="sub_pct"></span>th percentile of the foreign null (<span data-q="sub_target"></span> of 15 against a null mean of <span data-q="sub_null"></span>), the same place the overall score puts it. A clean fix is a re-run with a resemblance-only prompt, which is the first thing to do when the accounts are topped up.</p>
+    <p><b>2. The judges disagree about the alternatives.</b> True, and consequential. Among the <span data-q="n_foreign"></span> panels outside the two target traditions, Opus rates <span data-q="above_opus"></span> above the moai as a match for Pillar 43; GPT-5.5 rates <span data-q="above_gpt"></span> above it (<span data-q="above_gpt_groups"></span>). Two instruments meant to stand in for the same human judgment should not differ by that much, and until they agree the direct-score verdict rests on which judge one trusts. Their rank correlation on the 447 Pillar 43 comparisons is <span data-q="rho_gpt"></span>. The lineups are less exposed to this: every judge that completed the matched sets ranked the moai below chance.</p>
+    <p><b>3. Some same-tradition controls compare two photographs of the same object.</b> True. Forty of the 125 Rapa Nui images are photographs of Hoa Hakananai'a, and the same-tradition controls were drawn without checking. Every control pair was afterwards shown to Claude Sonnet 5 with the question "same object or different objects?" (this check was added after the review, and is labelled post hoc in the pre-registration). In the pilot B same-tradition set, <span data-q="same_n_sameobj"></span> of 200 pairs are the same object and <span data-q="same_n_unsure"></span> are unsure; same-object pairs average <span data-q="same_sameobj_mean"></span>, and with them and the unsure pairs removed the control falls from <span data-q="same_all_mean"></span> to <span data-q="same_diffobj_mean"></span>, with the target pair at its <span data-q="same_diffobj_pct"></span>th percentile. In the lineups, the same-tradition control is <span data-q="sc_all"></span> with every trial and <span data-q="sc_diff"></span> with same-object and unsure trials removed; the monolith control <span data-q="scm_all"></span> and <span data-q="scm_diff"></span>. The tables below now show both.</p>
+    <p><b>4. Candidates were shown small.</b> True. In the lineup composites the target is about 800 pixels tall and each candidate about 240 to 250, before the judge's own downscaling. A reader of this page sees the candidates larger than the judges did. Whether a human could pick the moai out at that size is not known; a re-run with fewer, larger candidates (five instead of ten) is cheap and should be done.</p>
+    <p><b>5. Background removal was applied to the target pair only.</b> True. In the matched lineups the target and the planted moai were the only images on a plain ground; the nine decoys kept their backgrounds. That makes the planted item the odd one out, which should make it easier, not harder, to pick as the target's match. The result went the other way (0 of 116), so the asymmetry does not rescue the pair, but it is an uncontrolled factor and the honest design isolates every candidate or none.</p>
+    <p><b>6. Neighbours are not a fair null.</b> Raised separately, and right. Çatalhöyük and Göbekli Tepe, Assyria and Persepolis, Gotland and Tanum may share by contact, so a neighbour scoring as high as the moai says nothing against the moai. In the foreign null those related pairs average <span data-q="rel_mean"></span> against <span data-q="dist_mean"></span> for the rest, and with them removed the pair sits at the <span data-q="dist_pct"></span>th percentile of the distant null rather than the <span data-q="null_pct"></span>th. Of the panels GPT-5.5 rates above the moai, none is from Çatalhöyük; the strongest competitors are Egyptian and Maya stelae, which are not neighbours of either target.</p>
+    <p><b>What stands, what does not.</b> The object-type finding stands: the first-round positive was the judges matching carved standing stones against wall reliefs, and their reasons say so. The matched-lineup null result stands with the caveats of points 4 and 5. The direct-score picture is the least settled, because of points 1 and 2: the pair is unusual by Opus's lights (95th percentile of distant foreign pairs, one foreign panel above it) and ordinary by GPT-5.5's (61 above it). Neither instrument has yet been shown to reproduce human judgment of resemblance, and that, not the verdict, is the main result of these pilots.</p>
+  </div>
+</div></section>
+
 <section class="part" id="lineup"><div class="wrap">
-  <div class="part-head"><div class="n">02</div><h2>Pilot C: blind lineups</h2></div>
+  <div class="part-head"><div class="n">03</div><h2>Pilot C: blind lineups</h2></div>
   <div class="prose">
     <p>The cleanest question to ask a judge is not "how similar are these two" but "pick it out of a lineup". A judge sees one target panel and ten numbered candidates, and ranks all ten by similarity of depicted content to the target, under the same instruction as pilot B: compare what is shown, ignore medium, preservation and photography. One candidate is planted; the other nine are random decoys from other traditions. If the planted candidate is nothing special it ranks first one time in ten and averages 5.5; if it stands out, it ranks first most of the time. The same design tests the controls: does a random Assyrian panel get picked out when the target is from Persepolis, and does a panel get picked out among strangers when the target is from its own tradition?</p>
   </div>
@@ -101,7 +116,7 @@ table.feat tr.mismatch td { background: rgba(142, 74, 56, .07); }
 </div></section>
 
 <section class="part" id="judge"><div class="wrap">
-  <div class="part-head"><div class="n">03</div><h2>Pilot B: the pair judged directly, against everything else</h2></div>
+  <div class="part-head"><div class="n">04</div><h2>Pilot B: the pair judged directly, against everything else</h2></div>
   <div class="prose">
     <p>Each judgment shows a model two panels side by side, labelled A and B in random order, with no captions, names or places, and asks for a similarity score from 0 to 10 on a fixed rubric (shared elements and how specific they are, relationships between elements, arrangement, style of depiction, gestalt) with a two-sentence justification. The judge is told, at length, what it is comparing: <b>what is depicted</b>, the kinds of things shown, the forms they take, how they relate to each other, how they are arranged, and the style in which they are drawn; and what it must ignore: the medium, the material, erosion, and the photographs themselves (lighting, angle, crop, resolution, background). A crisp museum photograph of carved stone and a blurred field snapshot of painted clay are highly similar if they show the same scene; two stone slabs photographed the same way are not similar if they show different things. It is also given the standard of evidence: does the correspondence look like something two surfaces would share only if they shared an iconographic tradition, or like something any two unrelated traditions could produce independently? Arbitrary, specific, conventional correspondences score high; universal or obvious ones score low. The judge is not told the purpose of the study, any hypothesis, or any culture. Three judges: Claude Opus 5, Claude Sonnet 5, GPT-5.5. Opus is the primary judge for the null and the searches; GPT-5.5 repeats the searches and part of the null independently. Pillar 43 is judged from the excavators' photographs of the whole pillar, headless man included, and separately from the top-only Commons photograph used in pilot A, so the effect of that mistake is measured rather than assumed.</p>
   </div>
@@ -118,7 +133,7 @@ table.feat tr.mismatch td { background: rgba(142, 74, 56, .07); }
 </div></section>
 
 <section class="part" id="pilotA"><div class="wrap">
-  <div class="part-head"><div class="n">04</div><h2>Pilot A: feature coding, and why it failed</h2></div>
+  <div class="part-head"><div class="n">05</div><h2>Pilot A: feature coding, and why it failed</h2></div>
   <div class="prose">
     <p>The first design coded every panel into 36 composition features (which classes of thing are present, in which third of the panel, how many registers, symmetry, and so on) and measured distance between feature vectors. Two blind coders agreed on only <span data-v="kept"></span> of the 36 features to the pre-registered standard, and least of all on birds (<span data-v="alpha_bird"></span>), snakes (<span data-v="alpha_snake"></span>) and bird posture (<span data-v="alpha_posture"></span>). With a relaxed threshold the nearest neighbours it produced were not similar by any human standard: Pillar 43's was a <span data-v="p43_nn_group"></span>, the moai's a <span data-v="hoa_nn_group"></span>. The feature scheme threw away the gestalt, and matching on presence and absence rewarded shared generic values. The sections below keep that record; pilot B replaced the method.</p>
     <div class="stats" id="stats"></div>
@@ -126,52 +141,52 @@ table.feat tr.mismatch td { background: rgba(142, 74, 56, .07); }
 </div></section>
 
 <section class="part" id="target"><div class="wrap">
-  <div class="part-head"><div class="n">05</div><h2>The pair, as coded</h2></div>
+  <div class="part-head"><div class="n">06</div><h2>The pair, as coded</h2></div>
   <div class="pairrow" id="pair"></div>
   <div class="prose"><p style="margin-top:18px">Each panel's card shows the two coders' one-sentence descriptions, written without any knowledge of what the object is. Below the cards, the nearest foreign neighbour each panel actually has in the corpus.</p></div>
   <div class="pairrow" id="pair-nn"></div>
 </div></section>
 
 <section class="part" id="corpus"><div class="wrap">
-  <div class="part-head"><div class="n">06</div><h2>The corpus</h2></div>
+  <div class="part-head"><div class="n">07</div><h2>The corpus</h2></div>
   <div class="prose"><p>Every file in the pre-registered Wikimedia Commons categories was fetched, then triaged blind by Sonnet 5 for whether it shows a single decorated surface that can be coded (site views, museum rooms, undecorated statues and unreadable fragments are dropped). Several photographs of the same object can survive triage; the pilot accepts that and the neighbour analysis is cross-group only.</p></div>
   <figure><div class="frame plain"><table class="inv" id="corpus-table"></table></div><figcaption><b>Images fetched and images that survived triage, by group.</b> The Mississippian and Çatalhöyük groups are thin on Commons; a full study would draw them from museum collections.</figcaption></figure>
 </div></section>
 
 <section class="part" id="coding"><div class="wrap">
-  <div class="part-head"><div class="n">07</div><h2>Coding, and how much the coders agreed</h2></div>
+  <div class="part-head"><div class="n">08</div><h2>Coding, and how much the coders agreed</h2></div>
   <div class="prose"><p>Opus 5 and Sonnet 5 coded every usable image independently, from the image and the feature definitions alone. Agreement per feature is Krippendorff's alpha; features under 0.67 were dropped before any distance was computed, as pre-registered. The retained features are what the whole analysis runs on.</p></div>
   <figure><div class="frame plain"><table class="inv" id="alpha-table"></table></div><figcaption><b>Inter-coder agreement.</b> Green rows were retained. Presence features agree far better than position features, which is expected: "is there a bird" is easier than "which third of the panel is the topmost bird in".</figcaption></figure>
 </div></section>
 
 <section class="part" id="null"><div class="wrap">
-  <div class="part-head"><div class="n">08</div><h2>The null: how close does any panel get to a foreign one? (exploratory)</h2></div>
+  <div class="part-head"><div class="n">09</div><h2>The null: how close does any panel get to a foreign one? (exploratory)</h2></div>
   <div class="prose"><p>The pre-registered version could not be computed. In the exploratory variant shown here, features with alpha ≥ 0.5 are kept, each coder's mismatch is averaged rather than requiring consensus, and shared absences are ignored so that sparsely coded panels do not become everyone's neighbour. For every coded panel, its distance to every panel in a different group was computed and the smallest kept. That distribution is the yardstick. The moai was chosen as Pillar 43's match from all of world art, so the fair question is not "how similar are these two" but "how similar is any panel to its best foreign match".</p></div>
   <figure><div class="frame plain" id="fig-null"></div><figcaption id="cap-null"></figcaption></figure>
 </div></section>
 
 <section class="part" id="groups"><div class="wrap">
-  <div class="part-head"><div class="n">09</div><h2>Groups, positive controls, and geography (exploratory)</h2></div>
+  <div class="part-head"><div class="n">10</div><h2>Groups, positive controls, and geography (exploratory)</h2></div>
   <div class="prose"><p>Mean composition distance between every pair of groups. The positive controls are the two pairs with documented descent or continuity, Assyria to Persepolis and Anatolian PPN to Çatalhöyük: they must be among each other's two closest groups for the method to be trusted.</p></div>
   <figure><div class="frame plain" id="fig-heat"></div><figcaption id="cap-heat"></figcaption></figure>
   <div class="prose"><p id="mantel-text"></p></div>
 </div></section>
 
 <section class="part" id="drivers"><div class="wrap">
-  <div class="part-head"><div class="n">10</div><h2>What drives the target pair's score (exploratory)</h2></div>
+  <div class="part-head"><div class="n">11</div><h2>What drives the target pair's score (exploratory)</h2></div>
   <div class="prose"><p>Feature by feature: the consensus code of Pillar 43, of the moai's back, whether they match, and how common that value is across the whole corpus. A match on a value that most panels share carries little information; a match on a rare value would.</p></div>
   <figure><div class="frame plain"><table class="inv feat" id="drivers-table"></table></div><figcaption id="cap-drivers"></figcaption></figure>
 </div></section>
 
 <section class="part" id="neighbours"><div class="wrap">
-  <div class="part-head"><div class="n">11</div><h2>Nearest foreign neighbours, sampled (exploratory)</h2></div>
+  <div class="part-head"><div class="n">12</div><h2>Nearest foreign neighbours, sampled (exploratory)</h2></div>
   <div class="prose"><p>What "close" looks like in this corpus. Each card is a panel and the foreign panel it is nearest to, with the distance. Shuffle to see others.</p></div>
   <div class="chart-controls"><button class="btn" id="btn-shuffle">Shuffle</button></div>
   <div class="nn-grid" id="nn-grid"></div>
 </div></section>
 
 <section class="part" id="limits"><div class="wrap">
-  <div class="part-head"><div class="n">12</div><h2>What these pilots do and do not show</h2></div>
+  <div class="part-head"><div class="n">13</div><h2>What these pilots do and do not show</h2></div>
   <div class="prose">
     <p><b>It is a pilot on Commons photographs.</b> Coverage is uneven, several images show the same object from different angles, and the Orongo petroglyph corpus is far larger than what is photographed online. Only Maya, Egypt and Gotland contribute enough free-standing monoliths to serve as matched decoys. The full study needs the published corpora and orthophotos.</p>
     <p><b>The judges are vision models.</b> They are blind to provenance, which humans rarely are, and five families from four companies agree on the controls: a same-tradition panel is picked out of a lineup about half the time, a related-tradition panel three quarters of the time. But they are also easily led by what a photograph is of rather than what is carved on it. The first round of lineups showed that: the two carved standing stones found each other in a crowd of wall reliefs, and the judges said so in their reasons. Any similarity study that uses these models has to match its decoys on object type and strip its backgrounds, or it will measure the wrong thing.</p>

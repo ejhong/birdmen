@@ -11,7 +11,14 @@ def main():
     L = [json.load(open(os.path.join(LD, f))) for f in os.listdir(LD) if f.endswith(".json")]
     L = [x for x in L if "planted_rank" in x]
     sets = sorted(set(x["set"] for x in L)); judges = ["opus", "gpt", "gemini", "sonnet", "grok"]
-    res = dict(n=len(L), by_set={}, trials=[])
+    SO = json.load(open(os.path.join(S3, "sameobj.json"))) if os.path.exists(os.path.join(S3, "sameobj.json")) else {}
+    def flag(x): return SO.get(f"{x['target']}|{x['planted']}", {}).get("verdict", "n/a")
+    # same-tradition controls with same-object (and unsure) trials excluded
+    for s in ("same_control", "same_control_monoliths"):
+        for x in L:
+            if x["set"] == s and flag(x) == "different_objects": x2 = dict(x); x2["set"] = s + "_diffobj"; L.append(x2)
+    sets = sorted(set(x["set"] for x in L))
+    res = dict(n=len(L), by_set={}, trials=[], sameobj_counts={s: {v: sum(1 for x in L if x["set"] == s and x["model"] == "opus" and flag(x) == v) for v in ("same_object", "same_object_different_part", "unsure", "different_objects")} for s in ("same_control", "same_control_monoliths")})
     for s in sets:
         res["by_set"][s] = {}
         for j in judges + ["all"]:
@@ -22,7 +29,7 @@ def main():
             res["by_set"][s][j] = dict(n=len(rows), mean_rank=float(ranks.mean()), sd=float(ranks.std()), rank1=n1, top3=n3, share_rank1=n1 / len(rows), share_top3=n3 / len(rows),
                                        p_rank1=float(binomtest(n1, len(rows), 0.1, alternative="greater").pvalue), p_top3=float(binomtest(n3, len(rows), 0.3, alternative="greater").pvalue),
                                        hist=np.bincount(ranks, minlength=11)[1:].tolist())
-    for x in L:
+    for x in [x for x in L if not x["set"].endswith("_diffobj")]:
         res["trials"].append(dict(set=x["set"], i=x["i"], model=x["model"], target=x["target"], planted=x["planted"], planted_rank=x["planted_rank"], ranking=x["ranking"], cands=x["cands"],
                                   top_id=x["cands"][x["ranking"][0] - 1], top_group=corpus[x["cands"][x["ranking"][0] - 1]]["group"], why_top=x.get("most_similar_reason", ""), why_last=x.get("least_similar_reason", "")))
     # which decoy groups beat the moai most often in the target sets

@@ -53,6 +53,25 @@ def main():
         s3 = np.array([r["score"] for r in by.get("poscontrol", [])]); res["target"]["opus_pct_pos"] = float((s3 < m_opus).mean() * 100) if len(s3) else None
     if null_gpt and m_gpt is not None:
         s = np.array([r["score"] for r in null_gpt]); res["target"]["gpt_pct_null"] = float((s < m_gpt).mean() * 100); res["target"]["gpt_share_null_ge"] = float((s >= m_gpt).mean())
+    # related neighbours: pairs of traditions that may share by contact are not a fair null
+    RELATED = {frozenset(x) for x in (("anatolia_ppn", "catalhoyuk"), ("assyria", "persepolis"), ("gotland", "tanum"))}
+    def related(r): return frozenset((corpus[r["a"]]["group"], corpus[r["b"]]["group"])) in RELATED
+    nd = [r for r in null_opus if not related(r)]; res["null_distant"] = dist(nd); res["null_related_pairs"] = dist([r for r in null_opus if related(r)])
+    if nd and m_opus is not None:
+        s = np.array([r["score"] for r in nd]); res["target"]["opus_pct_null_distant"] = float((s < m_opus).mean() * 100)
+    # same-object pairs inside the same-tradition control (flagged by s3_sameobj.py)
+    SO = json.load(open(os.path.join(S3, "sameobj.json"))) if os.path.exists(os.path.join(S3, "sameobj.json")) else {}
+    def sameobj(a, b): v = SO.get(f"{a}|{b}", {}).get("verdict"); return v in ("same_object", "same_object_different_part")
+    def unsure(a, b): return SO.get(f"{a}|{b}", {}).get("verdict") == "unsure"
+    same_rows = by.get("same", []); res["same_diffobj"] = dist([r for r in same_rows if not sameobj(r["a"], r["b"]) and not unsure(r["a"], r["b"])]); res["same_sameobj"] = dist([r for r in same_rows if sameobj(r["a"], r["b"])])
+    res["same_n_sameobj"] = int(sum(sameobj(r["a"], r["b"]) for r in same_rows)); res["same_n_unsure"] = int(sum(unsure(r["a"], r["b"]) for r in same_rows))
+    if res["same_diffobj"] and m_opus is not None:
+        s = np.array([r["score"] for r in same_rows if not sameobj(r["a"], r["b"]) and not unsure(r["a"], r["b"])]); res["target"]["opus_pct_same_diffobj"] = float((s < m_opus).mean() * 100)
+    # resemblance-only: the sub-score sum (element+relationship+arrangement+style+gestalt, 0-15), target vs null
+    if null_opus:
+        ts = [r["sub"] for r in tg if r["model"] == "opus" and (r["a"] in (T["pillar43"], T.get("pillar43_alt")) or r["b"] in (T["pillar43"], T.get("pillar43_alt")))]
+        if ts:
+            tsub = float(np.mean(ts)); ns = np.array([r["sub"] for r in null_opus]); res["target"]["opus_sub_mean"] = tsub; res["target"]["opus_sub_pct_null"] = float((ns < tsub).mean() * 100); res["null_sub_mean"] = float(ns.mean())
     # object type: the null restricted to monolith x monolith pairs, and the target's place in it
     if MONO:
         nm = [r for r in null_opus if r["a"] in MONO and r["b"] in MONO]; res["null_mono"] = dist(nm)
@@ -83,7 +102,11 @@ def main():
             if tscore is not None:
                 def other(r): return r["b"] if r["a"] == T["pillar43"] else r["a"]
                 allsc = [r["score"] for r in by[sname]]; fsc = [r["score"] for r in by[sname] if corpus[other(r)]["group"] not in ("anatolia_ppn", "rapa_nui")]
-                res[f"rank_moai_in_p43_search_{judge}"] = dict(target=float(tscore), n_better_all=int(sum(1 for v in allsc if v > tscore)), n_all=len(allsc), n_better=int(sum(1 for v in fsc if v > tscore)), n_equal=int(sum(1 for v in fsc if v == tscore)), n=len(fsc))
+                above = {}
+                for r in by[sname]:
+                    g = corpus[other(r)]["group"]
+                    if g not in ("anatolia_ppn", "rapa_nui") and r["score"] > tscore: above[g] = above.get(g, 0) + 1
+                res[f"rank_moai_in_p43_search_{judge}"] = dict(target=float(tscore), n_better_all=int(sum(1 for v in allsc if v > tscore)), n_all=len(allsc), n_better=int(sum(1 for v in fsc if v > tscore)), n_equal=int(sum(1 for v in fsc if v == tscore)), n=len(fsc), above_by_group=dict(sorted(above.items(), key=lambda kv: -kv[1])))
     # reliability vs opus on the same 200 null pairs
     nullmap = {(r["a"], r["b"]): r["score"] for r in null_opus}
     rel = {}
