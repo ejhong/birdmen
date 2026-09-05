@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  5,
+  2,
+  4,
+  10,
+  1,
+  6,
+  9,
+  8,
+  3
+ ],
+ "most_similar_reason": "Candidate 7 shares the most distinctive structural motifs with the target: a divine figure is set four trials by a higher god (snake/python, insect swarm, and other creatures) which he overcomes with a spouse's magical aid, after which he is granted a new name/title from that same deity, echoing the underworld god's four deadly trials, the daughter's aid, and the bestowal of the new name 'Master of the Great Land.'",
+ "least_similar_reason": "Candidate 3 is a purely doctrinal description of a supreme deity's worship and ritual protocol with no narrative of trials, siblings, marriages, or a journey to and from an underworld, making it the least similar in content to the target's rich mythic plot.",
+ "set": "random",
+ "pair": "\u014ckuninushi | Anansi",
+ "i": 604,
+ "target": "\u014ckuninushi",
+ "planted": "Anansi",
+ "cands": [
+  "R\u00edgs\u00feula",
+  "Cadmus",
+  "Mwari",
+  "Amirani",
+  "Heitsi-eibib",
+  "Glooscap",
+  "Anansi",
+  "Hiawatha",
+  "Itzamna",
+  "Bhagiratha"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

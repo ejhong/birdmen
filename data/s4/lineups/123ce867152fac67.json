@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  8,
+  6,
+  2,
+  3,
+  7,
+  4,
+  1,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 5 shares the closest narrative shape: a divine hero among rival brothers who wins a princess through a contest/ordeal, is driven out and journeys to another realm, obtains a divine bow and other weapons, gains a helper who aids his work, and returns to defeat his rivals and rule, with multiple wives and a decisive marriage motif.",
+ "least_similar_reason": "Candidate 10 is a bare identification of a deity with no characters, actions, or events at all, so it offers no episodes, relationships, or motifs to correspond with the target's bride-winning, exile, abduction, and rescue-alliance sequence.",
+ "set": "random",
+ "pair": "Rama | Unkulunkulu",
+ "i": 595,
+ "target": "Rama",
+ "planted": "Unkulunkulu",
+ "cands": [
+  "Unkulunkulu",
+  "Obatala",
+  "White Buffalo Calf Woman",
+  "Nyame",
+  "\u014ckuninushi",
+  "Hiawatha",
+  "Mbombo",
+  "Bran the Blessed",
+  "Sang Hyang Tunggal",
+  "Abassi"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 8
+}

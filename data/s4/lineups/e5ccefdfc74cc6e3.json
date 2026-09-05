@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  7,
+  10,
+  9,
+  2,
+  6,
+  4,
+  1,
+  5,
+  3
+ ],
+ "most_similar_reason": "Candidate 8 is essentially a variant of the same epic: a divine incarnation hero wins a princess at an archery/bow contest, is exiled to the forest with his brother, spurns a demoness, has his wife abducted by a multi-headed demon king of an island realm, allies with monkey figures including an exiled monkey prince and a monkey general who finds her, kills the demon king, and returns home.",
+ "least_similar_reason": "Candidate 3 is a static iconographic description of a humpbacked flute-playing fertility trickster with no plot, hero, abduction, exile, or battle, sharing nothing with the target's narrative sequence.",
+ "set": "positive",
+ "pair": "Ramayana | Ramakien",
+ "i": 304,
+ "target": "Ramayana",
+ "planted": "Ramakien",
+ "cands": [
+  "Yellow Emperor",
+  "Glooscap",
+  "Kokopelli",
+  "Tezcatlipoca",
+  "Sosruko",
+  "Coyote (mythology)",
+  "\u014ckuninushi",
+  "Ramakien",
+  "Wayland the Smith",
+  "Orpheus"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  6,
+  5,
+  7,
+  2,
+  1,
+  4,
+  3,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 8, like the target, describes a solitary creator who fashions humans (and livestock) from a primordial substance, completes creation piecemeal, and then withdraws/forgets his creation, paralleling the target's creator who finishes creation and withdraws into the heavens.",
+ "least_similar_reason": "Candidate 10 is a hero-biography of a miraculous warrior-king who wins a bride through a horse race and wages wars, sharing no cosmogonic vomiting, animal-creation, or withdrawal motifs with the target's creation myth.",
+ "set": "random",
+ "pair": "Mbombo | Qat (deity)",
+ "i": 584,
+ "target": "Mbombo",
+ "planted": "Qat (deity)",
+ "cands": [
+  "Itzamna",
+  "Agastya",
+  "Adapa",
+  "Bachu\u00e9",
+  "Coyote (mythology)",
+  "Glooscap",
+  "Qat (deity)",
+  "Unkulunkulu",
+  "Romulus and Remus",
+  "Gesar"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 4
+}

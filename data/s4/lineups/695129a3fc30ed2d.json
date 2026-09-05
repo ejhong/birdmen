@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  7,
+  10,
+  3,
+  2,
+  8,
+  1,
+  9,
+  4,
+  5
+ ],
+ "most_similar_reason": "Candidate 6 shares the closest cluster of distinctive motifs with the target: a bearded creator-type figure, city-founding commanded by divine sign, sun/moon/star creation myths, siblings as minor deities, and journeys to establish civilization, mirroring the target's city-building, sun/moon/star creation, and family of minor deities.",
+ "least_similar_reason": "Candidate 4 is a bare one-line statement about a deity known by two names with no narrative content, sharing no specific motifs, events, or details with the richly detailed target myth.",
+ "set": "related",
+ "pair": "Viracocha | Tunupa",
+ "i": 448,
+ "target": "Viracocha",
+ "planted": "Tunupa",
+ "cands": [
+  "Cangjie",
+  "Tangaroa",
+  "Heitsi-eibib",
+  "Bumba",
+  "Tunupa",
+  "Huitzilopochtli",
+  "Ninigi-no-Mikoto",
+  "Amirani",
+  "Makunaima",
+  "Glooscap"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 10
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  10,
+  3,
+  7,
+  9,
+  6,
+  4,
+  2,
+  1,
+  5
+ ],
+ "most_similar_reason": "Candidate 8 matches the target's core pattern of a benefactor figure who gives humanity its arts and sciences at the dawn of the world, is tied genealogically to the flood hero, and does so against a backdrop of conflict among the gods over cosmic order.",
+ "least_similar_reason": "Candidate 5 is least similar because it contains no narrative at all\ntonly a bare identification of a deity, with none of the target's episodes of revealed knowledge, cosmic combat, king lists, flood, or city foundation.",
+ "set": "random",
+ "pair": "Berossus | Wakan Tanka",
+ "i": 614,
+ "target": "Berossus",
+ "planted": "Wakan Tanka",
+ "cands": [
+  "Wakan Tanka",
+  "Wayland the Smith",
+  "Yu the Great",
+  "Heitsi-eibib",
+  "Abassi",
+  "Tagaro",
+  "Ninigi-no-Mikoto",
+  "Prometheus",
+  "Baiame",
+  "Aeneas"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 9
+}

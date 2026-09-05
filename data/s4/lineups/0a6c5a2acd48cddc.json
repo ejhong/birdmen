@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  1,
+  10,
+  7,
+  5,
+  3,
+  4,
+  6,
+  9,
+  8
+ ],
+ "most_similar_reason": "Candidate 2 is essentially a direct retelling of the same Ramayana narrative\u2014shared hero, wife, archery contest, exile, demon-king abduction, monkey allies, and final victory\u2014matching nearly every plot beat of the target.",
+ "least_similar_reason": "Candidate 8 describes Aboriginal rain-spirit origin and rock-art traditions with no hero, demon, quest, or reunion narrative, sharing only the vague generic notion of powerful creator beings, making it the least similar in actual story content.",
+ "set": "positive",
+ "pair": "Ramakien | Ramayana",
+ "i": 310,
+ "target": "Ramakien",
+ "planted": "Ramayana",
+ "cands": [
+  "Aeneas",
+  "Ramayana",
+  "Dangun",
+  "Glooscap",
+  "Tezcatlipoca",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Itzamna",
+  "Wandjina",
+  "Mama Ocllo",
+  "Orpheus"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  1,
+  9,
+  10,
+  4,
+  3,
+  6,
+  7,
+  5,
+  8
+ ],
+ "most_similar_reason": "Candidate 2 directly recounts the fish-avatar (Matsya) flood myth with the first man/ruler, the boat tied for safety, the seven sages, and the preservation of sacred scriptures\u2014matching the target's core structure almost exactly.",
+ "least_similar_reason": "Candidate 8 describes an abstract, non-narrative theological symbol representing an unknowable divine principle, with no flood, fish, rescue, or creation-of-humanity plot at all, making it the least similar in content.",
+ "set": "positive",
+ "pair": "Matsya | Manu (Hinduism)",
+ "i": 372,
+ "target": "Matsya",
+ "planted": "Manu (Hinduism)",
+ "cands": [
+  "Huitzilopochtli",
+  "Manu (Hinduism)",
+  "Kutkh",
+  "Great Peacemaker",
+  "Kokopelli",
+  "Unkulunkulu",
+  "Mwari",
+  "Sang Hyang Tunggal",
+  "Bachu\u00e9",
+  "Triptolemus"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 1
+}

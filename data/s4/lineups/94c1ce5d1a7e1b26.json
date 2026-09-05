@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  2,
+  6,
+  8,
+  4,
+  1,
+  3,
+  7,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 5 shares the most distinctive motifs with the target: a hero carrying a golden staff given by a divine father, siblings acting as companions, founding of a city later divided into districts, a temple built where the staff sank, and a mummified ruler later moved to a temple on an island in a great lake\u2014closely paralleling the target's golden\u2011staff bearer, sun/fertility offspring founding a civilization, and lake\u2011centered sacred geography.",
+ "least_similar_reason": "Candidate 10 contains no narrative content at all beyond naming a deity, so it shares none of the specific creation, flood, or civilizing\u2011teacher motifs that define the target story.",
+ "set": "related",
+ "pair": "Viracocha | Manco C\u00e1pac",
+ "i": 420,
+ "target": "Viracocha",
+ "planted": "Manco C\u00e1pac",
+ "cands": [
+  "Kutkh",
+  "Huitzilopochtli",
+  "Amirani",
+  "Obatala",
+  "Manco C\u00e1pac",
+  "Mbombo",
+  "Ilmarinen",
+  "Adapa",
+  "Kokopelli",
+  "Abassi"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

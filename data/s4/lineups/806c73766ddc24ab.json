@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  9,
+  1,
+  3,
+  2,
+  6,
+  8,
+  5,
+  4,
+  10
+ ],
+ "most_similar_reason": "Candidate 7 directly features a plumed/feathered serpent deity with a sister caretaker, cave dwelling, transformation into the sea causing earthquakes, and a tongue burned by the sun while linked to rain prediction\u2014paralleling the target's feathered serpent mythos, its underworld/celestial transformation, and its close ties to weather and cosmic cycles.",
+ "least_similar_reason": "Candidate 10 is a trickster spider narrative focused on story-ownership, wisdom containers, and riddle contests with no serpent deity, cosmic birth myths, underworld journey, or self-sacrifice motifs shared with the target.",
+ "set": "related",
+ "pair": "Quetzalcoatl | Kukulkan",
+ "i": 405,
+ "target": "Quetzalcoatl",
+ "planted": "Kukulkan",
+ "cands": [
+  "Prometheus",
+  "Adapa",
+  "Orpheus",
+  "Mwari",
+  "Ilmarinen",
+  "Agastya",
+  "Kukulkan",
+  "Berossus",
+  "Tangaroa",
+  "Anansi"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

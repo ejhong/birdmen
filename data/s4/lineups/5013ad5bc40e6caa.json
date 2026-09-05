@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  1,
+  7,
+  3,
+  8,
+  6,
+  4,
+  2,
+  9,
+  5
+ ],
+ "most_similar_reason": "Candidate 10 is essentially the same story: exile engineered by a queen mother for her own son, the wife won in a bridal contest, the loyal younger brother, the mutilation of the seductive demoness whose ten-headed brother then uses a golden deer and a voice-trick to abduct the wife, the alliance with monkey-beings after helping their leader defeat a rival, the search by a monkey warrior, the bridge to the island, and the final battle and fidelity ordeal.",
+ "least_similar_reason": "Candidate 5 contains no narrative at all\ban unnamed deity merely identified as worshipped\bso it shares no roles, episodes, or motifs with the target's epic of exile, abduction, and rescue.",
+ "set": "positive",
+ "pair": "Ramayana | Reamker",
+ "i": 282,
+ "target": "Ramayana",
+ "planted": "Reamker",
+ "cands": [
+  "Gesar",
+  "Kutkh",
+  "Mama Ocllo",
+  "Tagaro",
+  "Abassi",
+  "T\u0101ne",
+  "Ninigi-no-Mikoto",
+  "Hiawatha",
+  "Mwari",
+  "Reamker"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

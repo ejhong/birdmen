@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  4,
+  10,
+  3,
+  5,
+  6,
+  2,
+  7,
+  1,
+  8
+ ],
+ "most_similar_reason": "Candidate 9 depicts a Mesoamerican-style civilizing hero who descends to earth, is linked to a cave where chiefs seek wisdom, and inspires a sun temple and festivals commemorating his arrival, closely paralleling the feathered serpent's role as culture-bringer and object of temple worship tied to solar/celestial symbolism.",
+ "least_similar_reason": "Candidate 8 describes a folk harvest custom about a grain spirit housed in a straw figure, which shares only the loose theme of agricultural fertility and lacks any of the deity's birth myths, cosmic siblings, underworld journey, or self-sacrifice motifs central to the target.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Bochica",
+ "i": 135,
+ "target": "Quetzalcoatl",
+ "planted": "Bochica",
+ "cands": [
+  "Tagaro",
+  "\u014ckuninushi",
+  "Romulus and Remus",
+  "Triptolemus",
+  "Aeneas",
+  "Rama",
+  "Oduduwa",
+  "Corn Mother",
+  "Bochica",
+  "Ninigi-no-Mikoto"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

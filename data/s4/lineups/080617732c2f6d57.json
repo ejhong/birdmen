@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  7,
+  1,
+  5,
+  6,
+  10,
+  9,
+  3,
+  4,
+  2
+ ],
+ "most_similar_reason": "Candidate 8 shares the target's core narrative shape of a faith founded by a wandering teacher, a royal heir who encounters a solitary ascetic, renounces sovereignty and worldly life, and withdraws to live as a holy man \u2014 a chain of specific correspondences (royal birth, renunciation of rule, ascetic mentor, spread of a monastic-style religion) found in no other candidate.",
+ "least_similar_reason": "Candidate 2 is not a story at all but an explanation of a term for a diffuse sacred power and its cognates in related languages, containing no founder figure, no biography, no teachings transmitted, and no sequence of events resembling the target.",
+ "set": "positive",
+ "pair": "Gautama Buddha | Barlaam and Josaphat",
+ "i": 327,
+ "target": "Gautama Buddha",
+ "planted": "Barlaam and Josaphat",
+ "cands": [
+  "Mama Ocllo",
+  "Wakan Tanka",
+  "Nyame",
+  "Wandjina",
+  "R\u00edgs\u00feula",
+  "Cadmus",
+  "Triptolemus",
+  "Barlaam and Josaphat",
+  "Glooscap",
+  "Qat (deity)"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

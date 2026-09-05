@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  1,
+  10,
+  2,
+  6,
+  3,
+  9,
+  8,
+  5,
+  4
+ ],
+ "most_similar_reason": "Candidate 7, like the target, presents a figure with conflicting accounts of his origin who travels from town to town as a civilizing/religion-founding hero, is received by and counsels tribal chiefs, and whose mission culminates in a sacred gathering place with an instituted lasting rite.",
+ "least_similar_reason": "Candidate 4 is a heroic war saga of marriage alliance, a magic cauldron, and a talking severed head, with no conflicting identifications of the figure, no civilizing/religion-founding mission, no cave of counsel, and no chiefs seeking wisdom or sun temple.",
+ "set": "hancock",
+ "pair": "Bochica | Quetzalcoatl",
+ "i": 129,
+ "target": "Bochica",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Quetzalcoatl",
+  "Ogun",
+  "Agastya",
+  "Bran the Blessed",
+  "Sky Woman",
+  "Palamedes (mythology)",
+  "Great Peacemaker",
+  "Wakan Tanka",
+  "Gesar",
+  "Apkallu"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 2
+}

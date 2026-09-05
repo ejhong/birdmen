@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  2,
+  10,
+  5,
+  3,
+  6,
+  1,
+  7,
+  8,
+  9
+ ],
+ "most_similar_reason": "Candidate 4 recounts the Mesopotamian flood myth, sharing nearly every distinctive motif with the target: a god warns a chosen man to build a boat, a flood of fixed duration destroys life, the boat rests on a mountain, birds (including a raven that does not return) are released to test the waters, and the hero offers a sacrifice that the gods gather around, paralleling the covenant scene.",
+ "least_similar_reason": "Candidate 9 is a bare, near-contentless statement about a supreme deity with two names, sharing no specific events, characters, or motifs with the flood narrative.",
+ "set": "positive",
+ "pair": "Genesis flood narrative | Gilgamesh flood myth",
+ "i": 239,
+ "target": "Genesis flood narrative",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Amirani",
+  "Kutkh",
+  "Itzamna",
+  "Gilgamesh flood myth",
+  "Huitzilopochtli",
+  "Great Peacemaker",
+  "Shennong",
+  "Wayland the Smith",
+  "Bumba",
+  "Romulus and Remus"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

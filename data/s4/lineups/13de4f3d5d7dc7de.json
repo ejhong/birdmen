@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  3,
+  1,
+  6,
+  10,
+  8,
+  2,
+  9,
+  5,
+  4
+ ],
+ "most_similar_reason": "Candidate 7's culture hero, first among legendary rulers, credited with founding writing, calendar, boats and other civilizational arts, linked to later dynasties and verified by a historian compiling oral and textual traditions, closely parallels the target's seven sages who bring civilization to primeval kings, found cities, and are later succeeded by fully human sage-experts whose accounts are recorded.",
+ "least_similar_reason": "Candidate 4 describes an abstract theological symbol of divine transcendence with no narrative of teaching, flood, sages, or civilization-founding, making it the least similar to the target's concrete mythic episodes.",
+ "set": "hancock",
+ "pair": "Oannes | Viracocha",
+ "i": 32,
+ "target": "Oannes",
+ "planted": "Viracocha",
+ "cands": [
+  "Triptolemus",
+  "Palamedes (mythology)",
+  "Viracocha",
+  "Sang Hyang Tunggal",
+  "Waaq",
+  "White Buffalo Calf Woman",
+  "Yellow Emperor",
+  "Amirani",
+  "Mwari",
+  "Obatala"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 2
+}

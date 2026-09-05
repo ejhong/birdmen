@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  9,
+  2,
+  5,
+  8,
+  4,
+  10,
+  6,
+  1,
+  7
+ ],
+ "most_similar_reason": "Candidate 3 depicts a bearded, human-form civilizing deity who descends, founds a great city, teaches civilization and religion, disappears across the sea, and is expected to return\u2014closely paralleling the target's civilizing hero who founds a religion, appears in towns, and is commemorated through sacred sites and rituals.",
+ "least_similar_reason": "Candidate 7 is a self-contained trickster-spider cycle about story ownership, wisdom, and skull games with no civilizing hero, cave retreat, sun temple, or divine city-founding motifs, making it the least thematically aligned with the target.",
+ "set": "hancock",
+ "pair": "Bochica | Viracocha",
+ "i": 211,
+ "target": "Bochica",
+ "planted": "Viracocha",
+ "cands": [
+  "Nanabozho",
+  "Tezcatlipoca",
+  "Viracocha",
+  "Oduduwa",
+  "Ziusudra",
+  "Bhagiratha",
+  "Anansi",
+  "Berossus",
+  "Ninigi-no-Mikoto",
+  "Romulus and Remus"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 1
+}

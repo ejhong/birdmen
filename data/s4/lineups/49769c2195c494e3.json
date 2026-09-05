@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  6,
+  10,
+  8,
+  9,
+  5,
+  3,
+  4,
+  2,
+  7
+ ],
+ "most_similar_reason": "Candidate 1 is essentially a retelling of the Buddha legend itself (the Barlaam-and-Josaphat tradition), sharing the core motifs of royal birth, conversion to a persecuted ascetic faith, renunciation of rule, and final withdrawal into seclusion with a teacher.",
+ "least_similar_reason": "Candidate 7 concerns a smith-god's metalworking feats (forging the sky, fire, a magic mill, a golden bride) with no royal birth, renunciation, enlightenment, ethical teaching, or monastic order, making it the least thematically or structurally related to the target.",
+ "set": "positive",
+ "pair": "Gautama Buddha | Barlaam and Josaphat",
+ "i": 329,
+ "target": "Gautama Buddha",
+ "planted": "Barlaam and Josaphat",
+ "cands": [
+  "Barlaam and Josaphat",
+  "Coyote (mythology)",
+  "Sky Woman",
+  "Wakan Tanka",
+  "T\u0101ne",
+  "White Buffalo Calf Woman",
+  "Ilmarinen",
+  "Romulus and Remus",
+  "Huitzilopochtli",
+  "Yu the Great"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

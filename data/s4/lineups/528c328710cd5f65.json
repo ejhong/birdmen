@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  10,
+  4,
+  2,
+  3,
+  1,
+  8,
+  9,
+  5,
+  6
+ ],
+ "most_similar_reason": "Candidate 7 matches the target's most distinctive cluster of motifs: primordial semi-divine beings sent by/from the sky god as amphibious fish-men who require water and are consigned to primeval waters, who bring wisdom and civilization to humans, found cities and temples, and stand as the origin of the first sages/priests.",
+ "least_similar_reason": "Candidate 6 is only a bare statement that a supreme deity has two names, containing no creation sequence, twins, sacrifice, dismemberment, watery descent, or shrine-founding to compare with the target.",
+ "set": "hancock",
+ "pair": "Nommo | Oannes",
+ "i": 182,
+ "target": "Nommo",
+ "planted": "Oannes",
+ "cands": [
+  "Triptolemus",
+  "Maya Hero Twins",
+  "Shennong",
+  "Dangun",
+  "Amirani",
+  "Bumba",
+  "Oannes",
+  "Heitsi-eibib",
+  "Gesar",
+  "Glooscap"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

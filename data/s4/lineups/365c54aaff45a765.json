@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  10,
+  9,
+  4,
+  2,
+  1,
+  3,
+  7,
+  6,
+  8
+ ],
+ "most_similar_reason": "Candidate 5 matches the target's core pattern of a culture-hero god of one cardinal/cosmic domain born into a set of divine siblings, who teaches humanity agriculture and crafts, commits incest with his sister, is undone by a rival trickster brother-god, is sealed inside a chest, and afterward is transformed into a lasting cult figure associated with death/underworld journeys and rebirth.",
+ "least_similar_reason": "Candidate 8 is a doctrinal description of an unknowable supreme deity approached through spirit mediums, with no fratricidal rivalry, dismemberment, resurrection, avenging son, or agricultural teaching\u2014indeed almost no narrative events at all.",
+ "set": "hancock",
+ "pair": "Osiris | Quetzalcoatl",
+ "i": 90,
+ "target": "Osiris",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Adapa",
+  "Gesar",
+  "Ilmarinen",
+  "Ogun",
+  "Quetzalcoatl",
+  "Mbombo",
+  "Kutkh",
+  "Mwari",
+  "Pachacamac",
+  "T\u0101ne"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  7,
+  3,
+  9,
+  5,
+  1,
+  8,
+  6,
+  2,
+  4
+ ],
+ "most_similar_reason": "Candidate 10 shares the target's most distinctive episode almost exactly \u2014 a son of the sun deity emerging with a sister/consort, carrying a golden staff, founding a civilization, with a sacred great lake and creator-god paternity.",
+ "least_similar_reason": "Candidate 4 contains no narrative at all, merely noting that a spirit is recognized as a deity, so it shares none of the target's creation, flood, teaching, or departure episodes.",
+ "set": "related",
+ "pair": "Viracocha | Manco C\u00e1pac",
+ "i": 422,
+ "target": "Viracocha",
+ "planted": "Manco C\u00e1pac",
+ "cands": [
+  "Ziusudra",
+  "Cangjie",
+  "Prometheus",
+  "Abassi",
+  "Tezcatlipoca",
+  "Kvasir",
+  "Mbombo",
+  "R\u00edgs\u00feula",
+  "Shennong",
+  "Manco C\u00e1pac"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  7,
+  10,
+  9,
+  3,
+  8,
+  2,
+  1,
+  6,
+  4
+ ],
+ "most_similar_reason": "Candidate 5 shares the closest structural and thematic parallels: a civilizing deity with multiple conflicting origin/birth accounts (echoing the target's varied witness testimonies), who teaches, gives a calendar, and is linked to celestial/solar symbolism, closely mirroring the target's civilizing hero who descends to found a religion and is honored with sun-related worship.",
+ "least_similar_reason": "Candidate 4 is least similar, focusing entirely on monster-slaying, dragon transformation, and divine punishment with no elements of conflicting memory, civilizing teaching, hospitality, or temple/religious founding as in the target.",
+ "set": "hancock",
+ "pair": "Bochica | Quetzalcoatl",
+ "i": 128,
+ "target": "Bochica",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Kutkh",
+  "Mbombo",
+  "Kvasir",
+  "Amirani",
+  "Quetzalcoatl",
+  "Rama",
+  "Nanabozho",
+  "R\u00edgs\u00feula",
+  "Qat (deity)",
+  "Yellow Emperor"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

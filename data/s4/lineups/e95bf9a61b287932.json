@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  3,
+  1,
+  8,
+  2,
+  7,
+  5,
+  4,
+  10,
+  9
+ ],
+ "most_similar_reason": "Candidate 6 features the same core pattern as Quetzalcoatl lore: a divine culture hero remembered through multiple conflicting testimonies (echoing the target's several conflicting birth stories), who travels between towns, retreats to a cave where chiefs seek his wisdom, and is honored with a sacred city and sun temple\u2014closely mirroring the historical Quetzalcoatl/Cholula civilizing-hero tradition.",
+ "least_similar_reason": "Candidate 9 describes Australian rain/cloud spirits tied to rock art, waterholes, and seasonal repainting rituals, sharing only the broadest 'creator deity' framing with the target and none of its distinctive birth myths, underworld journey, self-immolation, or cacao-gift motifs.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Bochica",
+ "i": 134,
+ "target": "Quetzalcoatl",
+ "planted": "Bochica",
+ "cands": [
+  "Cangjie",
+  "Heitsi-eibib",
+  "Sky Woman",
+  "Ninigi-no-Mikoto",
+  "Adapa",
+  "Bochica",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Qat (deity)",
+  "Wandjina",
+  "Kokopelli"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

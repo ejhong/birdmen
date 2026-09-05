@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  4,
+  7,
+  9,
+  2,
+  8,
+  6,
+  3,
+  5,
+  1
+ ],
+ "most_similar_reason": "Candidate 10 depicts Enki/Ea, his sage-servants, and the man-made-from-clay and flood-warning-through-a-reed-wall motifs that are the direct mythological source for the target's apkallu, tablets of destiny, and flood narrative.",
+ "least_similar_reason": "Candidate 1 is a peace-prophet conversion narrative among human tribal leaders with no sages, flood, fish/bird hybrids, or city-founding motifs, making it the least thematically or structurally related to the target.",
+ "set": "related",
+ "pair": "Oannes | Enki",
+ "i": 497,
+ "target": "Oannes",
+ "planted": "Enki",
+ "cands": [
+  "Hiawatha",
+  "Pachacamac",
+  "Qat (deity)",
+  "Palamedes (mythology)",
+  "Ilmarinen",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Glooscap",
+  "Ninigi-no-Mikoto",
+  "Huitzilopochtli",
+  "Enki"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  8,
+  4,
+  9,
+  7,
+  1,
+  3,
+  6,
+  2,
+  5
+ ],
+ "most_similar_reason": "Candidate 10 (a moon deity akin to Thoth) shares the target's specific motifs of inventing writing/books and the calendar, a birth story tied to extra calendar days and multiple divine siblings including a slain god and rival, and a role as judge/counselor in the underworld\u2014paralleling the target's calendar-inventing, underworld-journeying feathered serpent with a twin star aspect.",
+ "least_similar_reason": "Candidate 5 (a flute-playing fertility trickster like Kokopelli) is largely a static cultural description of attributes and associations rather than a narrative with conflicting birth stories, underworld journeys, sibling gods of the directions, or a dramatic downfall, making it the least similar in content and structure.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Thoth",
+ "i": 178,
+ "target": "Quetzalcoatl",
+ "planted": "Thoth",
+ "cands": [
+  "Orpheus",
+  "Unkulunkulu",
+  "Bran the Blessed",
+  "T\u0101ne",
+  "Kokopelli",
+  "Ogun",
+  "Aeneas",
+  "Pachacamac",
+  "Mbombo",
+  "Thoth"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  8,
+  5,
+  7,
+  3,
+  6,
+  10,
+  2,
+  1,
+  4
+ ],
+ "most_similar_reason": "Candidate 9 likewise centers on a mortal hero closely bound to a great goddess who protects and heals him, who travels from land to land among hostile and hospitable kings, founds cities, and is finally exalted after death with a role in the underworld, echoing the target's divine-patron, wandering, city-founding, and apotheosis sequence.",
+ "least_similar_reason": "Candidate 4 is merely a bare note that a creator god is known by several names among peoples of a river basin, with no hero, journey, war, founding, or any narrative episode to compare.",
+ "set": "random",
+ "pair": "Aeneas | Djanggawul",
+ "i": 603,
+ "target": "Aeneas",
+ "planted": "Djanggawul",
+ "cands": [
+  "Mwari",
+  "Nyame",
+  "Ilmarinen",
+  "Makunaima",
+  "Shennong",
+  "Tangaroa",
+  "Djanggawul",
+  "Ogun",
+  "Triptolemus",
+  "Itzamna"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 4
+}

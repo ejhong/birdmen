@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  7,
+  1,
+  9,
+  5,
+  2,
+  8,
+  3,
+  6,
+  4
+ ],
+ "most_similar_reason": "Candidate 10 shares the target's most distinctive cluster of motifs: a divine culture-bringer associated with the nine goddesses of inspiration and woodland spirits, a beloved woman and the underworld, an attempt to bring the dead back to life, and finally the hero being torn limb from limb and buried, with his death explicitly linked to another dismembered figure.",
+ "least_similar_reason": "Candidate 4 only shares the generic idea of civilizing knowledge being brought to humanity, with no murderous brother, dismemberment, searching spouse, revival, avenging son, or rule over the dead.",
+ "set": "hancock",
+ "pair": "Osiris | Oannes",
+ "i": 116,
+ "target": "Osiris",
+ "planted": "Oannes",
+ "cands": [
+  "Bran the Blessed",
+  "Aeneas",
+  "Yu the Great",
+  "Oannes",
+  "Shennong",
+  "Kokopelli",
+  "Huitzilopochtli",
+  "Prometheus",
+  "Ayar Manco",
+  "Orpheus"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 10
+}

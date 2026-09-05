@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  1,
+  3,
+  7,
+  8,
+  2,
+  9,
+  4,
+  10,
+  6
+ ],
+ "most_similar_reason": "Candidate 5 shares the target's central and unusual complex of a deity's body being dismembered/disposed and its parts becoming the source of grain and other crops, coupled with a lethal antagonism between siblings (good and evil twin) and a mother-figure whose death underwrites agriculture and the ordering of the world.",
+ "least_similar_reason": "Candidate 6 is a single bare statement that a being with two names is a supreme deity, containing no narrative events, relationships, or motifs at all to compare with the target's murder, dismemberment, search, revival, and vengeance sequence.",
+ "set": "hancock",
+ "pair": "Osiris | Viracocha",
+ "i": 59,
+ "target": "Osiris",
+ "planted": "Viracocha",
+ "cands": [
+  "Viracocha",
+  "Ogun",
+  "Qat (deity)",
+  "Ziusudra",
+  "Sky Woman",
+  "Bumba",
+  "Gesar",
+  "Hiawatha",
+  "Adapa",
+  "Wakan Tanka"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 2
+}

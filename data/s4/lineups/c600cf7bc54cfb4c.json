@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  8,
+  2,
+  3,
+  5,
+  7,
+  4,
+  6,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 1 describes the same Fuxi\u2013N\u00fcwa mythological complex: a divine brother-sister pair who live on a sacred mountain, use a fire/sign to confirm their marriage (paralleling the mist omen), and mold clay figures by hand to create the first humans, closely mirroring the target's creation and marriage motifs.",
+ "least_similar_reason": "Candidate 10 is a North American trickster rabbit narrative about naming plants, founding a religious society, and battling a giant lumberjack, sharing no distinctive motifs (clay creation, sky pillars, flood-serpent, mist omen, fan origin) with the target's cosmogonic sibling-marriage and sky-repair myth.",
+ "set": "related",
+ "pair": "N\u00fcwa | Fuxi",
+ "i": 512,
+ "target": "N\u00fcwa",
+ "planted": "Fuxi",
+ "cands": [
+  "Fuxi",
+  "Tezcatlipoca",
+  "\u014ckuninushi",
+  "Aeneas",
+  "Glooscap",
+  "Bran the Blessed",
+  "Pachacamac",
+  "Huitzilopochtli",
+  "Kokopelli",
+  "Nanabozho"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

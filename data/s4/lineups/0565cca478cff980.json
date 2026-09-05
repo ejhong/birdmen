@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  5,
+  1,
+  10,
+  9,
+  8,
+  6,
+  3,
+  4,
+  7
+ ],
+ "most_similar_reason": "Candidate 2 depicts a Mesoamerican-style serpent-associated culture hero/king with a founded kingdom named for a serpent, four trips to a distant homeland, a day-name calendar, and titles linking him to darkness/jaguar deities\u2014closely paralleling the target's feathered serpent deity's calendar invention, cardinal-direction kingship, and multiple culture-hero exploits.",
+ "least_similar_reason": "Candidate 7 offers only a single generic line about a supreme deity with two names, sharing no specific motifs, episodes, or relationships with the target's richly detailed birth stories, underworld journey, incest, and self-immolation narrative.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Votan",
+ "i": 158,
+ "target": "Quetzalcoatl",
+ "planted": "Votan",
+ "cands": [
+  "Cangjie",
+  "Votan",
+  "Aeneas",
+  "Wayland the Smith",
+  "Pachacamac",
+  "Cadmus",
+  "Bumba",
+  "Palamedes (mythology)",
+  "Berossus",
+  "Glooscap"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 1
+}

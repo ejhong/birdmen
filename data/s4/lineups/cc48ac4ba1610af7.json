@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  9,
+  1,
+  8,
+  6,
+  7,
+  3,
+  2,
+  10,
+  4
+ ],
+ "most_similar_reason": "Candidate 5 depicts the same figure under another name (the second prophet after Adam, equated with Enoch/Idris), sharing the walk-with-God theme, being raised to a heavenly station, taken by the angel of death in the fourth heaven, credited with inventing writing, measures, and garments, and encountered by another prophet during a heavenly journey\u2014matching the target's Enoch traditions almost point for point.",
+ "least_similar_reason": "Candidate 4 describes an abstract, ineffable creator deity approached only through spirit mediums and oracles, with no patriarchal figure, ascension, scribal role, or flood prophecy, making it thematically and narratively unrelated to the target's Enoch traditions.",
+ "set": "related",
+ "pair": "Enoch (ancestor of Noah) | Idris (prophet)",
+ "i": 556,
+ "target": "Enoch (ancestor of Noah)",
+ "planted": "Idris (prophet)",
+ "cands": [
+  "Berossus",
+  "T\u0101ne",
+  "Orpheus",
+  "Mwari",
+  "Idris (prophet)",
+  "Ninigi-no-Mikoto",
+  "Oduduwa",
+  "Mama Ocllo",
+  "Prometheus",
+  "Maya Hero Twins"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

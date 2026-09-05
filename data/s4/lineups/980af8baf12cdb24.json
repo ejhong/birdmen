@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  5,
+  8,
+  3,
+  7,
+  6,
+  9,
+  4,
+  2,
+  1
+ ],
+ "most_similar_reason": "Candidate 10 also concerns a feathered/plumed serpent deity known through several conflicting tales, with birth stories, links to wind, sun/star flight, an incestuous-sister motif, and multiple episodes of cosmic travel and world-shaping, matching the target's cluster of serpent-god narratives.",
+ "least_similar_reason": "Candidate 1 is a flood-survivor and kingship story with no serpent figure, no sun-scorching or rain-heralding motifs, and none of the target's multi-tale serpent episodes.",
+ "set": "related",
+ "pair": "Kukulkan | Quetzalcoatl",
+ "i": 412,
+ "target": "Kukulkan",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Ziusudra",
+  "R\u00edgs\u00feula",
+  "Mbombo",
+  "Kvasir",
+  "Yellow Emperor",
+  "Sky Woman",
+  "Agastya",
+  "Shennong",
+  "Kilibob and Manup",
+  "Quetzalcoatl"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

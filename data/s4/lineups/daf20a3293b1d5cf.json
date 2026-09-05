@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  7,
+  9,
+  5,
+  6,
+  8,
+  4,
+  3,
+  2,
+  10
+ ],
+ "most_similar_reason": "Candidate 1 shares the exact flood-myth core with the target: gods swearing to send a flood, a wise god secretly warning the flood hero through a reed wall, building a sealed boat, loading animals and family, a storm of fixed duration, and survival followed by divine reconciliation.",
+ "least_similar_reason": "Candidate 10 is a genealogical sea-deity myth about sibling rivalry, adultery, and fire-theft with no creation-of-humans, flood, or labor-rebellion motifs found in the target.",
+ "set": "positive",
+ "pair": "Atra-Hasis | Gilgamesh flood myth",
+ "i": 241,
+ "target": "Atra-Hasis",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Gilgamesh flood myth",
+  "Mwari",
+  "Yellow Emperor",
+  "Wandjina",
+  "Huitzilopochtli",
+  "Romulus and Remus",
+  "Yu the Great",
+  "Heitsi-eibib",
+  "Glooscap",
+  "Tangaroa"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

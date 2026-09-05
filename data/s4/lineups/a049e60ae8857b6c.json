@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  9,
+  7,
+  8,
+  2,
+  6,
+  5,
+  3,
+  1,
+  10
+ ],
+ "most_similar_reason": "Candidate 4 shares the closest structural and thematic overlaps: a deity associated with a celestial partner and writing/calendar invention, involvement in resurrecting a slain god, cosmic day-creation myth involving light/gambling, and a role in the underworld judging the dead\u2014paralleling the target's inventor-of-books, resurrection-of-mankind, and celestial/underworld motifs.",
+ "least_similar_reason": "Candidate 10 is a bare fragment with almost no narrative content, sharing only the generic notion of a supreme deity, offering no comparable motifs to the target's rich birth stories, underworld journey, or self-immolation myth.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Thoth",
+ "i": 171,
+ "target": "Quetzalcoatl",
+ "planted": "Thoth",
+ "cands": [
+  "Wayland the Smith",
+  "Romulus and Remus",
+  "Gesar",
+  "Thoth",
+  "Heitsi-eibib",
+  "Coyote (mythology)",
+  "T\u0101ne",
+  "Tagaro",
+  "Mama Ocllo",
+  "Bumba"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

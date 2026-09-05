@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  10,
+  4,
+  8,
+  3,
+  5,
+  2,
+  7,
+  1,
+  9
+ ],
+ "most_similar_reason": "Candidate 6 mirrors the target's structure of multiple conflicting identities for the same deity and depicts a civilizing hero who descends to earth, is welcomed in towns, retreats to a cave where chiefs seek his wisdom, and is honored with a sun temple\u2014paralleling Quetzalcoatl's varied birth myths and his role as culture-bringer linked to solar/celestial worship.",
+ "least_similar_reason": "Candidate 9 is a purely linguistic/etymological account of a word for 'sky god' across related languages, with no narrative events, births, creation acts, or mythic episodes comparable to the target's rich story content.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Bochica",
+ "i": 130,
+ "target": "Quetzalcoatl",
+ "planted": "Bochica",
+ "cands": [
+  "Makunaima",
+  "Wayland the Smith",
+  "Kutkh",
+  "Apkallu",
+  "Unkulunkulu",
+  "Bochica",
+  "Corn Mother",
+  "Rama",
+  "Waaq",
+  "Obatala"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  7,
+  10,
+  6,
+  8,
+  4,
+  3,
+  2,
+  9,
+  5
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's exact distinctive episode chain: gods decreeing a secret flood, a wise god circumventing his oath by warning a chosen man through a reed wall, the construction of a sealed, waterproof boat loaded with kin and animals, and the multi-day deluge sent by a storm god.",
+ "least_similar_reason": "Candidate 5 contains no narrative at all\ns\nonly the bare identification of a deity\ns\nso it shares no roles, events, or motifs with the target's account of divine labor strife, human creation, and the flood.",
+ "set": "positive",
+ "pair": "Atra-Hasis | Gilgamesh flood myth",
+ "i": 240,
+ "target": "Atra-Hasis",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Gilgamesh flood myth",
+  "Anansi",
+  "Great Peacemaker",
+  "Aeneas",
+  "Abassi",
+  "Cadmus",
+  "Huitzilopochtli",
+  "Ayar Manco",
+  "Makunaima",
+  "Ilmarinen"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

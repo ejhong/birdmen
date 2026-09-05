@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  10,
+  5,
+  6,
+  1,
+  2,
+  7,
+  3,
+  8,
+  9
+ ],
+ "most_similar_reason": "Candidate 4 is a flood narrative with nearly identical distinctive motifs: a god secretly warns a chosen man to build a boat to save living things, the deluge destroys humanity, the boat grounds on a mountain, birds (including a raven that does not return) are released to test the waters, and the survivor offers a sacrifice after which the gods make a lasting pledge.",
+ "least_similar_reason": "Candidate 9 is a single-line statement that a supreme deity had two names, containing no flood, no chosen survivor, no vessel, no birds, and no sequence of events at all to compare.",
+ "set": "positive",
+ "pair": "Genesis flood narrative | Gilgamesh flood myth",
+ "i": 239,
+ "target": "Genesis flood narrative",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Amirani",
+  "Kutkh",
+  "Itzamna",
+  "Gilgamesh flood myth",
+  "Huitzilopochtli",
+  "Great Peacemaker",
+  "Shennong",
+  "Wayland the Smith",
+  "Bumba",
+  "Romulus and Remus"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

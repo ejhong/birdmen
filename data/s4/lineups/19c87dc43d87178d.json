@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  10,
+  7,
+  1,
+  3,
+  4,
+  5,
+  8,
+  2,
+  9
+ ],
+ "most_similar_reason": "Candidate 6 shares the identical distinctive episode chain: angry high gods decree a flood, one clever god circumvents his oath by whispering the warning through a reed wall to a favored wise man, who builds a sealed, waterproof ship, loads family and animals, and rides out a storm sent to wipe out noisy humanity.",
+ "least_similar_reason": "Candidate 9 has no flood, no boat, no warning god, and no quest for immortality \\u2014 only a sky creator who shapes landscape, gives law and initiation rites, and returns to the sky, sharing nothing distinctive with the target.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Atra-Hasis",
+ "i": 255,
+ "target": "Gilgamesh flood myth",
+ "planted": "Atra-Hasis",
+ "cands": [
+  "Ninigi-no-Mikoto",
+  "Heitsi-eibib",
+  "Shennong",
+  "Hiawatha",
+  "R\u00edgs\u00feula",
+  "Atra-Hasis",
+  "Yu the Great",
+  "Coyote (mythology)",
+  "Baiame",
+  "Prometheus"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

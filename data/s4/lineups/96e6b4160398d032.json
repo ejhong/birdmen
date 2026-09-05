@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  6,
+  9,
+  1,
+  3,
+  10,
+  8,
+  2,
+  7,
+  4
+ ],
+ "most_similar_reason": "Candidate 5 shares the closest constellation of distinctive motifs: a dismembered/resurrected fertility-agriculture god associated with the underworld, incestuous family entanglement, sealing in a chest and death by fire, and creation/teaching of crops, closely paralleling the target's dismemberment, reassembly, incest-adjacent conception, and underworld lordship.",
+ "least_similar_reason": "Candidate 4 is an extremely minimal, generic statement about a creator god with no shared plot motifs, characters, or episodes corresponding to the target's rich narrative of murder, dismemberment, and resurrection.",
+ "set": "hancock",
+ "pair": "Osiris | Quetzalcoatl",
+ "i": 93,
+ "target": "Osiris",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Cadmus",
+  "Kokopelli",
+  "Apkallu",
+  "Makunaima",
+  "Quetzalcoatl",
+  "Aeneas",
+  "Wisakedjak",
+  "Cangjie",
+  "Romulus and Remus",
+  "Bachu\u00e9"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

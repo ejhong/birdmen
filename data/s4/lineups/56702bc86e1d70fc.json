@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  8,
+  9,
+  6,
+  5,
+  10,
+  1,
+  4,
+  7,
+  2
+ ],
+ "most_similar_reason": "Candidate 3 matches the target's most distinctive frame \u2014 a divine culture hero who is one of four sons tied to cardinal directions, sent from a supreme spirit to teach humanity, credited with inventing a writing system and with co-creating the world, while also being a trickster-shaped figure of chaos.",
+ "least_similar_reason": "Candidate 2 is not a narrative at all but a philological account of a divine name's spread and decline across languages, with no birth, culture-hero deeds, underworld journey, or creation of mankind to compare.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Thoth",
+ "i": 172,
+ "target": "Quetzalcoatl",
+ "planted": "Thoth",
+ "cands": [
+  "Bachu\u00e9",
+  "Waaq",
+  "Nanabozho",
+  "Rama",
+  "Mama Ocllo",
+  "T\u0101ne",
+  "Hiawatha",
+  "Shennong",
+  "Thoth",
+  "Dangun"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 3
+}

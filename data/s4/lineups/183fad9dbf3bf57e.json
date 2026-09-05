@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  5,
+  7,
+  8,
+  1,
+  4,
+  3,
+  2,
+  10,
+  9
+ ],
+ "most_similar_reason": "Candidate 6 is, like the target, a full cosmogony in which a primal creator/culture-hero shapes the world's landforms, controls the animals and a storm-causing great bird, and hands humans fire and other essentials before creation is settled, matching the target's sequence of creation, animal-agents, weather/thunder figure, and gift of fire.",
+ "least_similar_reason": "Candidate 9 contains no creation of the cosmos, animals, or humankind at all, being purely a dynastic legend of abandoned twins founding a city, so it shares only the vaguest notion of a first ruler with the target.",
+ "set": "random",
+ "pair": "Mbombo | Qat (deity)",
+ "i": 584,
+ "target": "Mbombo",
+ "planted": "Qat (deity)",
+ "cands": [
+  "Itzamna",
+  "Agastya",
+  "Adapa",
+  "Bachu\u00e9",
+  "Coyote (mythology)",
+  "Glooscap",
+  "Qat (deity)",
+  "Unkulunkulu",
+  "Romulus and Remus",
+  "Gesar"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 3
+}

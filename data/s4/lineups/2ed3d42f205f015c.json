@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  7,
+  10,
+  5,
+  1,
+  6,
+  2,
+  8,
+  9,
+  4
+ ],
+ "most_similar_reason": "Candidate 3 shares the target's core cluster of motifs\u2014a fertility/agriculture deity linked to grain and other crops, sibling incest, a journey to the underworld, sealing of the body (in a chest that is burned rather than a lead-sealed box), and special significance attached to his genitals in creation/resurrection, closely paralleling the Osirian material in the target.",
+ "least_similar_reason": "Candidate 4 is a static description of a trickster fertility spirit's attributes and cultic associations rather than a narrative of murder, dismemberment, search, and filial vengeance, sharing only the generic theme of a fertility/agriculture deity with the target.",
+ "set": "hancock",
+ "pair": "Osiris | Quetzalcoatl",
+ "i": 96,
+ "target": "Osiris",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Qat (deity)",
+  "Gesar",
+  "Quetzalcoatl",
+  "Kokopelli",
+  "Amirani",
+  "Dangun",
+  "Ayar Manco",
+  "Kvasir",
+  "Corn Mother",
+  "Glooscap"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 1
+}

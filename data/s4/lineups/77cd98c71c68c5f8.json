@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  8,
+  7,
+  5,
+  2,
+  10,
+  3,
+  9,
+  6,
+  4
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's exact mythic complex: a snake-bodied brother-sister pair living on a sacred mountain who seek an omen (merging flames rather than gathering mist) to sanction their marriage, then create the first humans out of clay, with the male sibling serving as the culture hero who institutes marriage and teaches the arts of civilization.",
+ "least_similar_reason": "Candidate 4 is a dynastic founding epic about a mortal hero's flight from a fallen city, wanderings, love affair, and war, with no creation of humanity, no sibling-spouse pair, no repair of a damaged cosmos, and none of the target's distinctive motifs.",
+ "set": "related",
+ "pair": "N\u00fcwa | Fuxi",
+ "i": 512,
+ "target": "N\u00fcwa",
+ "planted": "Fuxi",
+ "cands": [
+  "Fuxi",
+  "Tezcatlipoca",
+  "\u014ckuninushi",
+  "Aeneas",
+  "Glooscap",
+  "Bran the Blessed",
+  "Pachacamac",
+  "Huitzilopochtli",
+  "Kokopelli",
+  "Nanabozho"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  7,
+  10,
+  6,
+  2,
+  1,
+  9,
+  4,
+  5,
+  8
+ ],
+ "most_similar_reason": "Candidate 3 alone concerns a historical-style religious founder and his community, with a royal heir renouncing rule and worldly life to follow an ascetic teacher in seclusion, closely echoing the target's prince-turned-wandering-ascetic and his order of followers.",
+ "least_similar_reason": "Candidate 8 offers nothing but a nameless supreme deity with two names, containing no events, teachings, renunciation, or followers to compare with the target's biography and doctrinal transmission.",
+ "set": "positive",
+ "pair": "Gautama Buddha | Barlaam and Josaphat",
+ "i": 320,
+ "target": "Gautama Buddha",
+ "planted": "Barlaam and Josaphat",
+ "cands": [
+  "Huitzilopochtli",
+  "T\u0101ne",
+  "Barlaam and Josaphat",
+  "Sky Woman",
+  "Unkulunkulu",
+  "Itzamna",
+  "Orpheus",
+  "Bumba",
+  "Heitsi-eibib",
+  "Baiame"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

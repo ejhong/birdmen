@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  8,
+  6,
+  1,
+  10,
+  7,
+  9,
+  5,
+  3,
+  2
+ ],
+ "most_similar_reason": "Candidate 4 shares the target's core content of place-bound spirit beings tied to specific landscape features, including a cave that holds the images/remains of the beings at their death place and an associated sacred site maintained by the local people, matching the target's mountain deity with its cave of mummies and adjacent ancient settlement.",
+ "least_similar_reason": "Candidate 2 is a long human-political founding legend about a peacemaker uniting tribes into a confederacy, with no personified landform, no explanation of a landscape feature's origin, and no cave, burial, or village site.",
+ "set": "related",
+ "pair": "Tunupa | Viracocha",
+ "i": 456,
+ "target": "Tunupa",
+ "planted": "Viracocha",
+ "cands": [
+  "Bumba",
+  "Great Peacemaker",
+  "Agastya",
+  "Wandjina",
+  "Orpheus",
+  "Makunaima",
+  "Waaq",
+  "Djanggawul",
+  "White Buffalo Calf Woman",
+  "Viracocha"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 5
+}

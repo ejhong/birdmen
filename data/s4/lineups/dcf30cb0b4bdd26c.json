@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  3,
+  2,
+  5,
+  4,
+  9,
+  1,
+  10,
+  8,
+  7
+ ],
+ "most_similar_reason": "Candidate 6 shares the same core distinctive episode-set as the target almost point for point: a murdered brother-king dismembered by a jealous sibling, a wife/sister who searches for and reassembles the scattered pieces, magical revival to conceive a posthumous son, the king becoming lord of the underworld, and the son eventually avenging him.",
+ "least_similar_reason": "Candidate 7 is a self-contained trickster-spider cycle about stories, wisdom, and tricking a sky god, sharing only the vague motif of a divine trickster figure with no correspondence to the death, dismemberment, resurrection, or kingship struggle central to the target.",
+ "set": "related",
+ "pair": "Isis | Osiris",
+ "i": 477,
+ "target": "Isis",
+ "planted": "Osiris",
+ "cands": [
+  "Shennong",
+  "Obatala",
+  "Cadmus",
+  "Ayar Manco",
+  "Berossus",
+  "Osiris",
+  "Anansi",
+  "White Buffalo Calf Woman",
+  "Qat (deity)",
+  "Gesar"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

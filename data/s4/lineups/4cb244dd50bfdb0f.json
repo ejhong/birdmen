@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  9,
+  3,
+  1,
+  6,
+  7,
+  4,
+  8,
+  2,
+  5
+ ],
+ "most_similar_reason": "Candidate 10 shares the exact core episode: a fish-avatar of a preserver god warns the first man/progenitor of a coming flood, tells him to build a boat, tows it to safety, and the boat carries the seven sages, family, and sacred scriptures, preserving humanity for a new age.",
+ "least_similar_reason": "Candidate 5 is a single bare sentence naming a supreme deity with no flood, fish, rescue, or any narrative events at all to compare.",
+ "set": "positive",
+ "pair": "Matsya | Manu (Hinduism)",
+ "i": 375,
+ "target": "Matsya",
+ "planted": "Manu (Hinduism)",
+ "cands": [
+  "Tangaroa",
+  "Bran the Blessed",
+  "Glooscap",
+  "Baiame",
+  "Bumba",
+  "Aeneas",
+  "Great Peacemaker",
+  "Palamedes (mythology)",
+  "Kvasir",
+  "Manu (Hinduism)"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  5,
+  4,
+  3,
+  10,
+  7,
+  2,
+  8,
+  6,
+  1
+ ],
+ "most_similar_reason": "Candidate 9 centers on the very same kind of figure\u2014a feathered/plumed serpent deity with several conflicting, mutually inconsistent tales about his birth and deeds, tied to wind, sun/star imagery, a journey through the land of the dead, and an incident with his sister\u2014matching the target's cluster of serpent-deity variants almost point for point.",
+ "least_similar_reason": "Candidate 1 is about an immortal smith forging metal objects, a golden maiden, and a magic mill, sharing no serpent, sun-flight, sister-in-a-cave, earthquake, rain-wind, or death-journey motifs with the target.",
+ "set": "related",
+ "pair": "Kukulkan | Quetzalcoatl",
+ "i": 410,
+ "target": "Kukulkan",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Ilmarinen",
+  "Yu the Great",
+  "T\u0101ne",
+  "Pachacamac",
+  "Bachu\u00e9",
+  "\u014ckuninushi",
+  "Mbombo",
+  "Mama Ocllo",
+  "Quetzalcoatl",
+  "Adapa"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

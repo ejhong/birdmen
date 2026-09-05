@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  9,
+  6,
+  3,
+  4,
+  8,
+  7,
+  2,
+  1,
+  5
+ ],
+ "most_similar_reason": "Candidate 10 is another flood narrative with nearly identical structural beats\u2014divine warning to a righteous man, ark-building, a lengthy storm, resting on a mountain, sending out birds (culminating in a raven that does not return) to test dryness, and a concluding sacrifice with divine blessing/covenant-like response.",
+ "least_similar_reason": "Candidate 5 is a discursive explanation of a spiritual concept ('Great Spirit/Mystery') with no narrative events, characters, or plot, sharing no concrete motifs with the flood story.",
+ "set": "positive",
+ "pair": "Genesis flood narrative | Gilgamesh flood myth",
+ "i": 235,
+ "target": "Genesis flood narrative",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Sky Woman",
+  "Mama Ocllo",
+  "Triptolemus",
+  "Maya Hero Twins",
+  "Wakan Tanka",
+  "Kvasir",
+  "Cangjie",
+  "Dangun",
+  "Obatala",
+  "Gilgamesh flood myth"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

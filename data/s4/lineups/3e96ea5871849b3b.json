@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  1,
+  4,
+  7,
+  6,
+  9,
+  2,
+  3,
+  10,
+  8
+ ],
+ "most_similar_reason": "Candidate 5 shares the target's core episode almost point for point: a deity secretly warns a chosen man of a divinely decreed flood, he builds a great boat and loads living things, the flood destroys all humanity, the boat grounds on a mountain, birds (including one that does not return) are released to test the waters, and he offers a sacrifice after which the gods relent and bless him.",
+ "least_similar_reason": "Candidate 8 is a single bare statement that a two-named being was a supreme deity, containing no flood, no chosen righteous man, no vessel, birds, sacrifice, or covenant\ttand indeed no narrative events at all.",
+ "set": "positive",
+ "pair": "Genesis flood narrative | Gilgamesh flood myth",
+ "i": 230,
+ "target": "Genesis flood narrative",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Yu the Great",
+  "Yellow Emperor",
+  "\u014ckuninushi",
+  "Prometheus",
+  "Gilgamesh flood myth",
+  "T\u0101ne",
+  "Obatala",
+  "Bumba",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Maya Hero Twins"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 1
+}

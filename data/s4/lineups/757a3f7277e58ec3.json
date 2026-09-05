@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  5,
+  6,
+  3,
+  10,
+  8,
+  2,
+  4,
+  1,
+  7
+ ],
+ "most_similar_reason": "Candidate 9 clearly parallels the target's account of Idris/Enoch: a descendant of the first patriarch who walked with God, was taken up without dying, made chief of angels, given a heavenly station, credited as a scribe/lawgiver, and linked to later prophetic revelation and a righteous city taken to heaven\u2014matching the target's themes of prophetic succession, high station, and heavenly ascent.",
+ "least_similar_reason": "Candidate 7 is a generic trickster-fire-theft myth about a small cunning hero serving gods and doted on by his mother, sharing no specific motifs (migration, fire-worshipers, writing/measures invention, ascension through heavens, soul-taking angel) with the target.",
+ "set": "related",
+ "pair": "Idris (prophet) | Enoch (ancestor of Noah)",
+ "i": 548,
+ "target": "Idris (prophet)",
+ "planted": "Enoch (ancestor of Noah)",
+ "cands": [
+  "Nyame",
+  "Glooscap",
+  "Bran the Blessed",
+  "Kilibob and Manup",
+  "Rama",
+  "Ziusudra",
+  "Sosruko",
+  "Maya Hero Twins",
+  "Enoch (ancestor of Noah)",
+  "Oduduwa"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

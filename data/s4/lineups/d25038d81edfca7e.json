@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  2,
+  8,
+  1,
+  4,
+  3,
+  9,
+  10,
+  7,
+  6
+ ],
+ "most_similar_reason": "Candidate 5 shares the closest structural match: a deity destroys wicked mankind with a flood, a forewarned hero builds a vessel with his wife, survives, offers thanks afterward, and becomes ancestor of repopulated peoples, paralleling the target's flood, ark, sacrifice, and post-flood repopulation themes.",
+ "least_similar_reason": "Candidate 6 describes an agricultural harvest-spirit folk custom with no flood, hero, deity covenant, or ancestral lineage, making it thematically and structurally unrelated to the target.",
+ "set": "positive",
+ "pair": "Noah | Deucalion",
+ "i": 393,
+ "target": "Noah",
+ "planted": "Deucalion",
+ "cands": [
+  "Ninigi-no-Mikoto",
+  "Wisakedjak",
+  "Bumba",
+  "Djanggawul",
+  "Deucalion",
+  "Corn Mother",
+  "Ogun",
+  "Yu the Great",
+  "Bachu\u00e9",
+  "Nyame"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

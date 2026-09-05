@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  5,
+  9,
+  3,
+  6,
+  7,
+  4,
+  1,
+  10,
+  8
+ ],
+ "most_similar_reason": "Candidate 2 shares the target's most distinctive motifs\u2014a divine founder carrying a golden staff, born of a sun god (and moon goddess) parentage, who founds a great city with sibling companions and later has his remains enshrined, closely mirroring the target's tale of the sun-god's son with a golden staff founding a civilization after the flood.",
+ "least_similar_reason": "Candidate 8 describes an abstract, non-narrative theological symbol with no creation, flood, city-founding, or teaching episodes, sharing only the vaguest thematic link (a divine principle tied to the sun) with the target's richly event-driven creator myth.",
+ "set": "related",
+ "pair": "Viracocha | Manco C\u00e1pac",
+ "i": 427,
+ "target": "Viracocha",
+ "planted": "Manco C\u00e1pac",
+ "cands": [
+  "Tagaro",
+  "Manco C\u00e1pac",
+  "Wisakedjak",
+  "Cadmus",
+  "Apkallu",
+  "Hiawatha",
+  "White Buffalo Calf Woman",
+  "Sang Hyang Tunggal",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Orpheus"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 1
+}

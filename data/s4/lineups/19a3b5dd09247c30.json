@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  3,
+  6,
+  1,
+  9,
+  2,
+  4,
+  5,
+  10,
+  7
+ ],
+ "most_similar_reason": "Candidate 8 matches most closely because, like the target, it presents a single deity with several conflicting and incompatible accounts of his origin/identity before resolving into a civilizing hero who descends among people, founds religious practice, teaches and gives gifts, is tied to a sacred mountain/site and to solar-astral cult and worship.",
+ "least_similar_reason": "Candidate 7 is least similar because it centers on a small trickster's single feat of stealing fire from a giant and his mother's devotion, with no varying identifications of the figure, no descent to found a religion, no cave, sacred city, sun temple, or festivals.",
+ "set": "hancock",
+ "pair": "Bochica | Quetzalcoatl",
+ "i": 121,
+ "target": "Bochica",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Kutkh",
+  "Yu the Great",
+  "Ogun",
+  "T\u0101ne",
+  "Kilibob and Manup",
+  "Sang Hyang Tunggal",
+  "Sosruko",
+  "Quetzalcoatl",
+  "Adapa",
+  "Prometheus"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

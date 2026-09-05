@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  9,
+  4,
+  1,
+  2,
+  5,
+  7,
+  10,
+  8,
+  3
+ ],
+ "most_similar_reason": "Candidate 6 recounts the life of a royal-born teacher who renounces palace life, undergoes a spiritual awakening, and founds a religious order\u2014the same core motifs of royal renunciation, conversion to a new faith, and abandonment of worldly rule that underlie the target legend (which is itself a retelling of the Buddha story).",
+ "least_similar_reason": "Candidate 3 describes an agricultural folk custom about a grain spirit and harvest rituals, sharing no rulers, prophecies, conversions, or renunciation of kingship, making it thematically unrelated to the target.",
+ "set": "positive",
+ "pair": "Barlaam and Josaphat | Gautama Buddha",
+ "i": 337,
+ "target": "Barlaam and Josaphat",
+ "planted": "Gautama Buddha",
+ "cands": [
+  "Palamedes (mythology)",
+  "Adapa",
+  "Corn Mother",
+  "Ziusudra",
+  "Qat (deity)",
+  "Gautama Buddha",
+  "Orpheus",
+  "Sang Hyang Tunggal",
+  "Aeneas",
+  "Glooscap"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

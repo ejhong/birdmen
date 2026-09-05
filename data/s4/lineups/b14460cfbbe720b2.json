@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  5,
+  3,
+  1,
+  9,
+  10,
+  6,
+  4,
+  8,
+  7
+ ],
+ "most_similar_reason": "Candidate 2, like the target, centers on a primordial civilizing figure at the head of a list of legendary pre-historic rulers who is credited with bringing the arts of civilization (writing, vehicles, calendar, etc.), is known by multiple names, has cosmological/temple associations, and whose traditions were compiled into a written account.",
+ "least_similar_reason": "Candidate 7 is not a narrative at all but an etymological survey of a sky-god's name across languages, sharing none of the target's sages, kings, flood, teaching of civilization, or fish-hybrid motifs.",
+ "set": "hancock",
+ "pair": "Oannes | Osiris",
+ "i": 102,
+ "target": "Oannes",
+ "planted": "Osiris",
+ "cands": [
+  "Pachacamac",
+  "Yellow Emperor",
+  "R\u00edgs\u00feula",
+  "Heitsi-eibib",
+  "Osiris",
+  "Rama",
+  "Waaq",
+  "Bumba",
+  "Tangaroa",
+  "Wandjina"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 2
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  4,
+  2,
+  7,
+  10,
+  6,
+  5,
+  1,
+  8,
+  3
+ ],
+ "most_similar_reason": "Candidate 9 is structurally and thematically the Panchatantra itself, featuring the same five-fable frame narrative taught to a ruler, the jackal minister at a lion's court, the four-animal friendship of rodent/bird/turtle/horned animal, and the crow-owl war of loyal versus disloyal counsel.",
+ "least_similar_reason": "Candidate 3 shares no narrative, teaching framework, or animal-fable content with the target, reducing to a generic trickster-steals-fire motif with no correspondence to the princes, the sage, or the interlinked fables.",
+ "set": "positive",
+ "pair": "Panchatantra | Kalila wa-Dimna",
+ "i": 340,
+ "target": "Panchatantra",
+ "planted": "Kalila wa-Dimna",
+ "cands": [
+  "Glooscap",
+  "Hiawatha",
+  "Sosruko",
+  "Anansi",
+  "Qat (deity)",
+  "Bran the Blessed",
+  "Mama Ocllo",
+  "Tezcatlipoca",
+  "Kalila wa-Dimna",
+  "Romulus and Remus"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

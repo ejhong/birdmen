@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  2,
+  6,
+  1,
+  5,
+  4,
+  9,
+  3,
+  7,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 shares the closest thematic cluster with the target: sages/hero figures tied to primeval kings, a great flood-adjacent event, funeral rites, penance to a great god, and boons of healing/merit paralleling the specific motifs of sages, kings, and healing gifts to gods.",
+ "least_similar_reason": "Candidate 10 is the least similar, being a minimal ancestor/creator narrative from reeds with no mention of sages, kings, floods, tablets, temples, or fish/bird hybrids that define the target's distinctive content.",
+ "set": "hancock",
+ "pair": "Oannes | Viracocha",
+ "i": 36,
+ "target": "Oannes",
+ "planted": "Viracocha",
+ "cands": [
+  "Dangun",
+  "Prometheus",
+  "Corn Mother",
+  "R\u00edgs\u00feula",
+  "Romulus and Remus",
+  "Viracocha",
+  "White Buffalo Calf Woman",
+  "Bhagiratha",
+  "Coyote (mythology)",
+  "Unkulunkulu"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 3
+}

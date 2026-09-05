@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  9,
+  8,
+  2,
+  5,
+  6,
+  7,
+  3,
+  10,
+  1
+ ],
+ "most_similar_reason": "Candidate 4 matches the target's most distinctive structural features: a divine culture-hero who is one of four sons linked to a cardinal direction, sent by a supreme god to teach humanity, who names/orders creation and is credited with inventing a writing system and other arts, while also having a trickster-like, chaotic side.",
+ "least_similar_reason": "Candidate 1 has no narrative at all\u2014no birth, journey, creation of humans, or gifts to mankind\u2014only an abstract, non-acting symbol of an unknowable supreme principle and its iconography.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Votan",
+ "i": 152,
+ "target": "Quetzalcoatl",
+ "planted": "Votan",
+ "cands": [
+  "Sang Hyang Tunggal",
+  "Kvasir",
+  "Anansi",
+  "Nanabozho",
+  "Tagaro",
+  "Hiawatha",
+  "Yu the Great",
+  "T\u0101ne",
+  "Votan",
+  "Wayland the Smith"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 2
+}

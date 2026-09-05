@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  6,
+  8,
+  10,
+  7,
+  4,
+  9,
+  3,
+  5,
+  2
+ ],
+ "most_similar_reason": "Candidate 1 is unmistakably part of the same Maui-type hero cycle, sharing the magic fishhook made for fishing up land, the trickster fishing trip with brothers, sun-taming and sky-lifting feats that parallel the target's fishhook-island and fire-theft episodes.",
+ "least_similar_reason": "Candidate 2 is a purely linguistic/etymological survey of a divine name across languages with no narrative events, heroes, or mythic episodes to compare with the target's rich story of birth, underworld journey, and death.",
+ "set": "related",
+ "pair": "M\u0101ui (M\u0101ori mythology) | M\u0101ui (Hawaiian mythology)",
+ "i": 520,
+ "target": "M\u0101ui (M\u0101ori mythology)",
+ "planted": "M\u0101ui (Hawaiian mythology)",
+ "cands": [
+  "M\u0101ui (Hawaiian mythology)",
+  "Waaq",
+  "Wandjina",
+  "Cadmus",
+  "Wakan Tanka",
+  "Shennong",
+  "Yu the Great",
+  "Apkallu",
+  "Oduduwa",
+  "Ilmarinen"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

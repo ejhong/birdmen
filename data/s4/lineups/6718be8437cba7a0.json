@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  3,
+  7,
+  1,
+  5,
+  6,
+  2,
+  9,
+  4,
+  8
+ ],
+ "most_similar_reason": "Candidate 10 features a culture hero credited with inventing writing, a calendar, and other foundational technologies, involved in a rivalry with a rival deity, and later verified through historical inquiry\u2014paralleling the target hero's inventions of numbers/letters and his rivalry and disputed legacy.",
+ "least_similar_reason": "Candidate 8 is a bare stub naming a creator god with no narrative content, sharing no specific motifs, events, or relationships with the target's detailed tale of war, deception, and invention.",
+ "set": "random",
+ "pair": "Palamedes (mythology) | Tezcatlipoca",
+ "i": 594,
+ "target": "Palamedes (mythology)",
+ "planted": "Tezcatlipoca",
+ "cands": [
+  "Heitsi-eibib",
+  "White Buffalo Calf Woman",
+  "Berossus",
+  "Abassi",
+  "T\u0101ne",
+  "Tangaroa",
+  "Tezcatlipoca",
+  "Makunaima",
+  "Corn Mother",
+  "Yellow Emperor"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 3
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  9,
+  2,
+  5,
+  1,
+  10,
+  3,
+  4,
+  6,
+  8
+ ],
+ "most_similar_reason": "Candidate 7 shares the vomiting/regurgitation creation motif, a giant primordial creator figure shaping land and animals, and the emergence of specific creatures and landscape features from bodily acts, closely mirroring the target's vomiting cosmogony.",
+ "least_similar_reason": "Candidate 8 is a foundational twin-hero legend involving a she-wolf, usurpers, and city-founding through fratricide, sharing no structural or motif overlap with the target's vomiting creator deity and animal-creation myth.",
+ "set": "random",
+ "pair": "Mbombo | Romulus and Remus",
+ "i": 587,
+ "target": "Mbombo",
+ "planted": "Romulus and Remus",
+ "cands": [
+  "Kokopelli",
+  "Coyote (mythology)",
+  "R\u00edgs\u00feula",
+  "Ziusudra",
+  "Ilmarinen",
+  "Rama",
+  "Kutkh",
+  "Romulus and Remus",
+  "Prometheus",
+  "Wisakedjak"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 10
+}

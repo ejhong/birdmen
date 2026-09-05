@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  9,
+  2,
+  8,
+  5,
+  1,
+  4,
+  7,
+  10,
+  3
+ ],
+ "most_similar_reason": "Candidate 6 is essentially the same flood narrative (Atrahasis) with the identical distinctive motif of a god secretly warning the flood hero through a reed wall, commanding him to build a boat to survive divine destruction, matching the target's core episode almost point for point.",
+ "least_similar_reason": "Candidate 3 is not a narrative at all but a linguistic/etymological discussion of a divine name across cultures, sharing no plot, characters, or specific motifs with the target's flood and immortality-quest story.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Atra-Hasis",
+ "i": 259,
+ "target": "Gilgamesh flood myth",
+ "planted": "Atra-Hasis",
+ "cands": [
+  "Pachacamac",
+  "Amirani",
+  "Waaq",
+  "Cangjie",
+  "Ogun",
+  "Atra-Hasis",
+  "Wayland the Smith",
+  "Agastya",
+  "Cadmus",
+  "Sky Woman"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

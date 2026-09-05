@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  4,
+  10,
+  9,
+  1,
+  7,
+  2,
+  5,
+  6,
+  8
+ ],
+ "most_similar_reason": "Candidate 3 is closest because it centers on a deity tied to specific named landforms\u2014he created the mountains, lakes and caves of a region and flattened a mountain's summit, which remains visible today, with an adjacent sacred cave containing figures\u2014matching the target's mountain-deity whose legends explain a surrounding landscape feature and whose slope holds a cave and an ancient site at its base.",
+ "least_similar_reason": "Candidate 8 is least similar because it concerns a court historian inventing a writing system from animal tracks and natural forms, with no mountain deity, no landscape-origin explanation, and no cave, burials, or ancient settlement.",
+ "set": "related",
+ "pair": "Tunupa | Viracocha",
+ "i": 458,
+ "target": "Tunupa",
+ "planted": "Viracocha",
+ "cands": [
+  "Glooscap",
+  "Coyote (mythology)",
+  "Baiame",
+  "Ninigi-no-Mikoto",
+  "Hiawatha",
+  "White Buffalo Calf Woman",
+  "Viracocha",
+  "Cangjie",
+  "Ogun",
+  "Huitzilopochtli"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 6
+}

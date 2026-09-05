@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  2,
+  8,
+  9,
+  4,
+  5,
+  7,
+  10,
+  6,
+  1
+ ],
+ "most_similar_reason": "Candidate 3 describes Enoch/Idris-like figure raised to heaven without dying, made chief of angels, taught secrets, called a scribe, and linked to prophetic revelation\u2014paralleling the target's account of the prophet's ascension, angelic encounter, and identity as the second messenger after Adam.",
+ "least_similar_reason": "Candidate 1 is a trickster hero myth about stealing fire from a giant, sharing only the loosest generic motifs (a smaller figure interacting with greater beings) with none of the specific prophetic, migratory, or ascension details of the target.",
+ "set": "related",
+ "pair": "Idris (prophet) | Enoch (ancestor of Noah)",
+ "i": 546,
+ "target": "Idris (prophet)",
+ "planted": "Enoch (ancestor of Noah)",
+ "cands": [
+  "Sosruko",
+  "Great Peacemaker",
+  "Enoch (ancestor of Noah)",
+  "Mwari",
+  "Waaq",
+  "Heitsi-eibib",
+  "Qat (deity)",
+  "Ayar Manco",
+  "Ninigi-no-Mikoto",
+  "Glooscap"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 1
+}

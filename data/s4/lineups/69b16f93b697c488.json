@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  9,
+  6,
+  1,
+  2,
+  3,
+  8,
+  10,
+  7,
+  5
+ ],
+ "most_similar_reason": "Candidate 4 features the same mythic hero type (a Maui-like trickster) who owns a magic fish-hook, secretly fishes up islands with his brothers, snares the sun with a hair rope, pushes up the sky, and creates the first coconut tree\u2014paralleling the target's magic jawbone hook, fishing up of the great fish/island, brothers' interference, and culture-hero feats.",
+ "least_similar_reason": "Candidate 5 involves a sacred woman bringing ceremonial and pipe teachings to a starving people, sharing only the barest generic mythic elements (a supernatural figure, transformation, and teaching) with no correspondence to the target's birth, fishing, fire-theft, or death motifs.",
+ "set": "related",
+ "pair": "M\u0101ui (M\u0101ori mythology) | M\u0101ui (Hawaiian mythology)",
+ "i": 522,
+ "target": "M\u0101ui (M\u0101ori mythology)",
+ "planted": "M\u0101ui (Hawaiian mythology)",
+ "cands": [
+  "Ziusudra",
+  "Adapa",
+  "Agastya",
+  "M\u0101ui (Hawaiian mythology)",
+  "White Buffalo Calf Woman",
+  "\u014ckuninushi",
+  "Romulus and Remus",
+  "Dangun",
+  "Tagaro",
+  "Palamedes (mythology)"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

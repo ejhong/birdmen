@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  7,
+  5,
+  4,
+  6,
+  3,
+  1,
+  9,
+  10,
+  2
+ ],
+ "most_similar_reason": "Candidate 8 shares the target's exact structure and content: a wise advisor instructing a ruler through a nested frame-cycle of animal fables, including the scheming jackal/canine at the lion king's court who destroys a friendship, the four-friend cooperation tale of rodent, black bird, shelled reptile, and horned grazer, and the war between crows and a bird-of-prey king won by infiltration and counsel.",
+ "least_similar_reason": "Candidate 2 is a cosmogonic myth of a sky woman's fall, twin creators, and crops sprouting from a corpse, with no advisor, no king or princes, no fables, and none of the target's didactic frame-tale machinery.",
+ "set": "positive",
+ "pair": "Panchatantra | Kalila wa-Dimna",
+ "i": 342,
+ "target": "Panchatantra",
+ "planted": "Kalila wa-Dimna",
+ "cands": [
+  "Cadmus",
+  "Sky Woman",
+  "Orpheus",
+  "Yu the Great",
+  "White Buffalo Calf Woman",
+  "\u014ckuninushi",
+  "Apkallu",
+  "Kalila wa-Dimna",
+  "Bachu\u00e9",
+  "Tezcatlipoca"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

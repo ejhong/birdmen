@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  6,
+  1,
+  7,
+  8,
+  4,
+  3,
+  2,
+  5,
+  9
+ ],
+ "most_similar_reason": "Candidate 10 shares the closest cluster of specific motifs with the target: a trickster-creator deity who fashions mankind from clay, tricks a supreme sky god (paralleling the night god's trickery with the fermented drink), steals/brings a vital gift to humanity (fire, echoing the target's gift of cacao/grain and calendar), and is ultimately punished for his transgression, mirroring the target's cycle of divine gift-giving, deception, and self-sacrifice.",
+ "least_similar_reason": "Candidate 9 contains no narrative content at all beyond naming a deity, so it shares none of the distinctive birth stories, creation acts, or moral drama that define the target myth.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Osiris",
+ "i": 86,
+ "target": "Quetzalcoatl",
+ "planted": "Osiris",
+ "cands": [
+  "Osiris",
+  "Mbombo",
+  "R\u00edgs\u00feula",
+  "Tagaro",
+  "Mwari",
+  "Obatala",
+  "Yellow Emperor",
+  "Kokopelli",
+  "Abassi",
+  "Prometheus"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 3
+}

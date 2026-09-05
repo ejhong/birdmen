@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  10,
+  3,
+  7,
+  5,
+  9,
+  8,
+  6,
+  2,
+  4
+ ],
+ "most_similar_reason": "Candidate 1 shares the core motif of a bearded, human-like creator/civilizing hero who appears in different towns, teaches civilization and religious practice, is remembered through varied local legends, and eventually disappears mysteriously, closely mirroring the target's multiplicity of witness accounts and the hero's civilizing mission.",
+ "least_similar_reason": "Candidate 4 provides almost no narrative content beyond identifying a deity, sharing none of the specific motifs\u2014destroyed building, cave consultations, sun temple, or founding festivals\u2014found in the target.",
+ "set": "hancock",
+ "pair": "Bochica | Viracocha",
+ "i": 213,
+ "target": "Bochica",
+ "planted": "Viracocha",
+ "cands": [
+  "Viracocha",
+  "Corn Mother",
+  "Prometheus",
+  "Abassi",
+  "Kvasir",
+  "Djanggawul",
+  "Rama",
+  "Cangjie",
+  "Wayland the Smith",
+  "Huitzilopochtli"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

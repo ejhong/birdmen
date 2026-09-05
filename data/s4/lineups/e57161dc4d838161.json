@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  7,
+  1,
+  10,
+  4,
+  6,
+  8,
+  5,
+  2,
+  9
+ ],
+ "most_similar_reason": "Candidate 3 shares the most distinctive elements with the target: a divine founder-figure associated with a great lake and a sun deity whose offspring carries a golden staff and founds a civilization/city, plus the same pattern of a creator-god parent, wandering companions, and city-founding traditions.",
+ "least_similar_reason": "Candidate 9 is least similar because it contains no narrative at all\u2014no siblings, journey, founding, or any events\u2014only the bare identification of a deity.",
+ "set": "related",
+ "pair": "Manco C\u00e1pac | Viracocha",
+ "i": 431,
+ "target": "Manco C\u00e1pac",
+ "planted": "Viracocha",
+ "cands": [
+  "Great Peacemaker",
+  "Tagaro",
+  "Viracocha",
+  "Ziusudra",
+  "Wayland the Smith",
+  "Agastya",
+  "Maya Hero Twins",
+  "Ilmarinen",
+  "Abassi",
+  "Triptolemus"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

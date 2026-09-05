@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  2,
+  9,
+  4,
+  10,
+  7,
+  3,
+  8,
+  6,
+  5
+ ],
+ "most_similar_reason": "Candidate 1 is essentially the same core myth: a murdered king-god dismembered by his jealous brother, revived through his sister-wife's magic and grief to conceive their avenging son, who later fights the usurper for the throne.",
+ "least_similar_reason": "Candidate 5 is an extremely vague, single-sentence reference to a creator god with no shared narrative events, relationships, or motifs with the target story.",
+ "set": "related",
+ "pair": "Isis | Osiris",
+ "i": 473,
+ "target": "Isis",
+ "planted": "Osiris",
+ "cands": [
+  "Osiris",
+  "Huitzilopochtli",
+  "Bhagiratha",
+  "Romulus and Remus",
+  "Makunaima",
+  "Kutkh",
+  "Kvasir",
+  "Anansi",
+  "Shennong",
+  "Kilibob and Manup"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

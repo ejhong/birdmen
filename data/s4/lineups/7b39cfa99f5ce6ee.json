@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  9,
+  2,
+  6,
+  8,
+  10,
+  5,
+  7,
+  3,
+  4
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's core arc of a royal heir raised in confinement/palace life who encounters an ascetic holy man, adopts a renunciant faith founded by a wandering teacher, abandons rule, and withdraws to live as a solitary ascetic, mirroring the prince-turned-mendicant-founder pattern.",
+ "least_similar_reason": "Candidate 4 is a heroic-dynastic war saga of marriage alliance, a magic cauldron, battle, and a talking severed head, with no teacher, renunciation, doctrine, or religious order of any kind.",
+ "set": "positive",
+ "pair": "Gautama Buddha | Barlaam and Josaphat",
+ "i": 326,
+ "target": "Gautama Buddha",
+ "planted": "Barlaam and Josaphat",
+ "cands": [
+  "Barlaam and Josaphat",
+  "Waaq",
+  "Tangaroa",
+  "Bran the Blessed",
+  "Wisakedjak",
+  "R\u00edgs\u00feula",
+  "Heitsi-eibib",
+  "Prometheus",
+  "Sang Hyang Tunggal",
+  "Glooscap"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  3,
+  2,
+  9,
+  8,
+  5,
+  1,
+  4,
+  10,
+  6
+ ],
+ "most_similar_reason": "Candidate 7 shares the core motifs of the target's second half almost exactly: sibling deities who become husband-wife after a divine sign (mist/fire) on a sacred mountain, creation of humans from clay (with a class distinction), and a goddess who mends a broken sky/world order, paralleling the Fuxi-N\u00fcwa material embedded in the target.",
+ "least_similar_reason": "Candidate 6 is a bare, generic statement about a creator god with no shared specific motifs\u2014no egg, division of sky/earth, sibling-serpent marriage, clay humans, trigrams, or river writing\u2014making it the least similar to the target's richly detailed mythic sequence.",
+ "set": "related",
+ "pair": "Fuxi | N\u00fcwa",
+ "i": 503,
+ "target": "Fuxi",
+ "planted": "N\u00fcwa",
+ "cands": [
+  "Triptolemus",
+  "Oduduwa",
+  "Tangaroa",
+  "Wandjina",
+  "Pachacamac",
+  "Makunaima",
+  "N\u00fcwa",
+  "Huitzilopochtli",
+  "Dangun",
+  "Kokopelli"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  4,
+  1,
+  3,
+  10,
+  7,
+  2,
+  8,
+  6,
+  5
+ ],
+ "most_similar_reason": "Candidate 9 explicitly describes a civilizing hero who descends to earth, is worshipped as a wind deity, founds a religion, retreats into a cave for wisdom, and is honored with a sun temple\u2014matching the same Quetzalcoatl-type mythic cycle as the target.",
+ "least_similar_reason": "Candidate 5 is an extremely brief, generic mention of a creator god with no specific motifs, events, or relationships that correspond to the rich, distinctive narrative details of the target myth.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Bochica",
+ "i": 139,
+ "target": "Quetzalcoatl",
+ "planted": "Bochica",
+ "cands": [
+  "T\u0101ne",
+  "Agastya",
+  "Shennong",
+  "Qat (deity)",
+  "Makunaima",
+  "Sang Hyang Tunggal",
+  "Palamedes (mythology)",
+  "Wayland the Smith",
+  "Bochica",
+  "Mbombo"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

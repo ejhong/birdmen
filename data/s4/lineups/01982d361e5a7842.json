@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  2,
+  8,
+  6,
+  7,
+  3,
+  9,
+  1,
+  5,
+  10
+ ],
+ "most_similar_reason": "Candidate 4 shares the target's central and highly distinctive episode almost detail for detail: gods sworn to secrecy decree a flood, one clever/wise god warns his favored man through a reed wall to build a sealed boat and load kin and animals, and the storm rages for days.",
+ "least_similar_reason": "Candidate 10 is a set of trickster contest tales about winning stories, spilling wisdom, and losing a skull, with no divine labor, no creation of humans from a slain god, and no flood or warning motif.",
+ "set": "positive",
+ "pair": "Atra-Hasis | Gilgamesh flood myth",
+ "i": 246,
+ "target": "Atra-Hasis",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Cadmus",
+  "Huitzilopochtli",
+  "Ninigi-no-Mikoto",
+  "Gilgamesh flood myth",
+  "Bran the Blessed",
+  "Dangun",
+  "Mama Ocllo",
+  "Baiame",
+  "Ayar Manco",
+  "Anansi"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

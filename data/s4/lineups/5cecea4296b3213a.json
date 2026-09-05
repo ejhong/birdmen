@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  6,
+  7,
+  4,
+  5,
+  2,
+  1,
+  9,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 3 shares the most specific Mesoamerican motifs with the target\u2014serpent-named kingdoms, a jaguar deity of darkness, inclusion in a twenty-day calendar, multiple journeys to a homeland, and ritual objects tied to a culture hero\u2014closely mirroring Quetzalcoatl's calendar-inventing, serpent-associated mythology.",
+ "least_similar_reason": "Candidate 10 describes an abstract philosophical/theological symbol devoid of any narrative events, births, family relationships, or concrete deeds, making it the least comparable to the richly eventful and anthropomorphic story of the target deity.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Votan",
+ "i": 155,
+ "target": "Quetzalcoatl",
+ "planted": "Votan",
+ "cands": [
+  "Romulus and Remus",
+  "Bran the Blessed",
+  "Votan",
+  "Rama",
+  "Amirani",
+  "Mbombo",
+  "Kokopelli",
+  "Abassi",
+  "Makunaima",
+  "Sang Hyang Tunggal"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 1
+}

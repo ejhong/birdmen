@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  8,
+  3,
+  7,
+  6,
+  1,
+  2,
+  5,
+  4,
+  10
+ ],
+ "most_similar_reason": "Candidate 9 shares the distinctive motif of a creator figure naming/creating all plants and animals across the land and explicitly confronting and asking a foreign intruder to leave without further exploiting the territory, closely paralleling the target's siblings covering the continent with flora/fauna and telling the foreign people to leave the land.",
+ "least_similar_reason": "Candidate 10 is a dynastic hero myth about twin brothers raised by a wolf who found a city through internal rivalry and fratricide, sharing none of the target's canoe journey, landscape-creation objects, ceremonial founding, or encounter-and-expulsion of foreigners.",
+ "set": "random",
+ "pair": "Djanggawul | Nanabozho",
+ "i": 611,
+ "target": "Djanggawul",
+ "planted": "Nanabozho",
+ "cands": [
+  "Dangun",
+  "Shennong",
+  "Kutkh",
+  "Rama",
+  "Amirani",
+  "Ogun",
+  "Bachu\u00e9",
+  "Kilibob and Manup",
+  "Nanabozho",
+  "Romulus and Remus"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

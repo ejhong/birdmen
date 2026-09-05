@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  3,
+  7,
+  1,
+  5,
+  6,
+  2,
+  9,
+  8,
+  4
+ ],
+ "most_similar_reason": "Candidate 10, like the target, centers on a princely/sovereign culture hero credited with inventing writing, counting-related devices, vehicles and a game, and who is locked in a rivalry with a counterpart figure whose traditions were later sifted and compiled into history.",
+ "least_similar_reason": "Candidate 4 offers no narrative whatsoever\ninstead merely naming a deity worshipped by some peoples, so it shares no roles, episodes, or motifs with the target's inventor-hero war story.",
+ "set": "random",
+ "pair": "Palamedes (mythology) | Tezcatlipoca",
+ "i": 594,
+ "target": "Palamedes (mythology)",
+ "planted": "Tezcatlipoca",
+ "cands": [
+  "Heitsi-eibib",
+  "White Buffalo Calf Woman",
+  "Berossus",
+  "Abassi",
+  "T\u0101ne",
+  "Tangaroa",
+  "Tezcatlipoca",
+  "Makunaima",
+  "Corn Mother",
+  "Yellow Emperor"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 3
+}

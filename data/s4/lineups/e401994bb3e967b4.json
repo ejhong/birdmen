@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  4,
+  9,
+  8,
+  3,
+  10,
+  6,
+  2,
+  5,
+  1
+ ],
+ "most_similar_reason": "Candidate 7 describes the seven apkallu sages, their role as civilizing servants of a great god, their connection to tablets of destiny, and a flood narrative and banishment into primeval waters\u2014these are the same servant-sages and flood-adjacent motifs explicitly tied to the target deity's household and mythic cycle.",
+ "least_similar_reason": "Candidate 1 is not a narrative at all but a discussion of a linguistic/spiritual concept ('Great Spirit/Mystery') with no matching characters, creation-of-man, flood, or kingmaking episodes, making it the least similar in content and structure.",
+ "set": "related",
+ "pair": "Enki | Oannes",
+ "i": 488,
+ "target": "Enki",
+ "planted": "Oannes",
+ "cands": [
+  "Wakan Tanka",
+  "Romulus and Remus",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Nyame",
+  "Makunaima",
+  "Cadmus",
+  "Oannes",
+  "\u014ckuninushi",
+  "Ilmarinen",
+  "Yellow Emperor"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

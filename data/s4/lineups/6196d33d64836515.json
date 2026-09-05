@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  10,
+  7,
+  4,
+  1,
+  8,
+  3,
+  6,
+  9,
+  2
+ ],
+ "most_similar_reason": "Candidate 5 is essentially the same narrative as the target\u2014an exiled prince won his wife through an archery contest, is banished by a jealous stepmother, is joined by his brother, faces a demoness whose nose and ears are cut off, loses his wife to a ten-headed demon king via a golden deer trick, and allies with monkey-people to rescue her\u2014matching nearly every distinctive motif and sequence.",
+ "least_similar_reason": "Candidate 2 is a purely conceptual, non-narrative discussion of a spiritual term with no characters, plot, or events, sharing no story motifs with the target at all.",
+ "set": "positive",
+ "pair": "Reamker | Ramayana",
+ "i": 291,
+ "target": "Reamker",
+ "planted": "Ramayana",
+ "cands": [
+  "Ilmarinen",
+  "Wakan Tanka",
+  "Kokopelli",
+  "Dangun",
+  "Ramayana",
+  "Baiame",
+  "Yu the Great",
+  "Anansi",
+  "Hiawatha",
+  "Bran the Blessed"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

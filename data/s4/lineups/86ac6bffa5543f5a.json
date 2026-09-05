@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  9,
+  8,
+  3,
+  2,
+  5,
+  10,
+  4,
+  7,
+  1
+ ],
+ "most_similar_reason": "Candidate 6 shares the core motif of primeval sage-kings tied to flood control, dynastic founding, and civilizing works alongside divine ancestry, closely paralleling the target's pairing of sages with antediluvian kings and their civilizing/founding roles.",
+ "least_similar_reason": "Candidate 1 is a folkloric harvest custom about grain spirits and effigies with no sages, kings, flood, tablets of destiny, or divine city-founding, making it thematically unrelated to the target.",
+ "set": "random",
+ "pair": "Apkallu | Mbombo",
+ "i": 613,
+ "target": "Apkallu",
+ "planted": "Mbombo",
+ "cands": [
+  "Corn Mother",
+  "Gesar",
+  "Ilmarinen",
+  "Nanabozho",
+  "Maya Hero Twins",
+  "Yu the Great",
+  "Kilibob and Manup",
+  "Agastya",
+  "Mbombo",
+  "T\u0101ne"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 2
+}

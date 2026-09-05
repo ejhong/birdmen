@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  9,
+  5,
+  3,
+  4,
+  8,
+  7,
+  1,
+  2,
+  6
+ ],
+ "most_similar_reason": "Candidate 10, like the target, centers on a bearded-priest-like creator sky deity who made humankind, fathered generations of lesser deities, is tied to books/writing and medicine, and once walked the land dividing it and giving names to its features\u2014closely echoing the target's staff-and-book creator who names and classifies plants and teaches civilization.",
+ "least_similar_reason": "Candidate 6 is merely a brief note about a personified mountain, a salt flat, mummies and a village, with no creator figure, no making of humans, no flood, and no culture-teaching wanderer.",
+ "set": "related",
+ "pair": "Viracocha | Tunupa",
+ "i": 442,
+ "target": "Viracocha",
+ "planted": "Tunupa",
+ "cands": [
+  "Tagaro",
+  "Sosruko",
+  "\u014ckuninushi",
+  "Ninigi-no-Mikoto",
+  "Coyote (mythology)",
+  "Tunupa",
+  "Tangaroa",
+  "Bhagiratha",
+  "Prometheus",
+  "Itzamna"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 10
+}

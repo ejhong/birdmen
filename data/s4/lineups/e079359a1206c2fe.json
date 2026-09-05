@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  3,
+  9,
+  8,
+  4,
+  1,
+  7,
+  6,
+  2,
+  10
+ ],
+ "most_similar_reason": "Candidate 5 is essentially another flood-hero myth with the same core structure: a god secretly warns a chosen man to build a boat, a storm destroys all life, the boat rests on a mountain, birds (including a raven that does not return) are released to test the water, and the hero makes a sacrifice that appeases the gods\u2014paralleling almost every major beat of the target story.",
+ "least_similar_reason": "Candidate 10 centers on a shapeshifting trickster rabbit-spirit who fights a giant lumberjack and slaps him with a fish, sharing no flood, corruption-of-humanity, ark, or covenant motifs with the target.",
+ "set": "positive",
+ "pair": "Genesis flood narrative | Gilgamesh flood myth",
+ "i": 236,
+ "target": "Genesis flood narrative",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Itzamna",
+  "Anansi",
+  "Tezcatlipoca",
+  "Baiame",
+  "Gilgamesh flood myth",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Maya Hero Twins",
+  "Coyote (mythology)",
+  "Sky Woman",
+  "Nanabozho"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

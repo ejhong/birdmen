@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  4,
+  1,
+  3,
+  9,
+  6,
+  8,
+  5,
+  10,
+  2
+ ],
+ "most_similar_reason": "Candidate 7 shares the core Osiris myth structure almost exactly: sibling-spouse deities, dismemberment by a brother, reassembly and magical revival for conception, protection of the son in the marshes, and the son's eventual battle for the throne with the mother's aid.",
+ "least_similar_reason": "Candidate 2 is an abstract theological description of a supreme creator's attributes and worship practices, with no narrative of murder, dismemberment, family conflict, or resurrection paralleling the target's plot.",
+ "set": "related",
+ "pair": "Osiris | Isis",
+ "i": 468,
+ "target": "Osiris",
+ "planted": "Isis",
+ "cands": [
+  "Cadmus",
+  "Mwari",
+  "Ninigi-no-Mikoto",
+  "Bran the Blessed",
+  "Coyote (mythology)",
+  "Gesar",
+  "Isis",
+  "Glooscap",
+  "Apkallu",
+  "Wisakedjak"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

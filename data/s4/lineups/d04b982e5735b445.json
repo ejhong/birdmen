@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  4,
+  8,
+  7,
+  9,
+  2,
+  3,
+  5,
+  6,
+  1
+ ],
+ "most_similar_reason": "Candidate 10 is an explicit variant of the same epic, sharing nearly every distinctive motif\u2014royal exile, forest demoness insult, golden deer-like abduction ruse, monkey allies, causeway building, fire ordeal, and final reunion\u2014making it essentially a retelling of the target.",
+ "least_similar_reason": "Candidate 1 concerns an agricultural sage-deity who tests herbs and dies from poison, sharing only the generic theme of a divine benefactor to humanity with no overlap in the target's royal exile, abduction, and battle narrative.",
+ "set": "positive",
+ "pair": "Ramayana | Ramakien",
+ "i": 306,
+ "target": "Ramayana",
+ "planted": "Ramakien",
+ "cands": [
+  "Shennong",
+  "Ziusudra",
+  "Hiawatha",
+  "Gesar",
+  "Wisakedjak",
+  "Corn Mother",
+  "Cadmus",
+  "Huitzilopochtli",
+  "Tezcatlipoca",
+  "Ramakien"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

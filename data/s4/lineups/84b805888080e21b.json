@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  1,
+  4,
+  5,
+  6,
+  10,
+  9,
+  8,
+  3,
+  7
+ ],
+ "most_similar_reason": "Candidate 2, like the target, centers on a creator-hero who forms the first humans from inert material (wood vs. stones), shapes the world's features (islands, night and dawn vs. sun, moon, stars), is himself linked to stone, and ultimately departs over the sea with a promise of return.",
+ "least_similar_reason": "Candidate 7 involves no creation of humans, no flood, no teaching of civilization, and no departure over water\u2014only a small trickster's theft of fire from a giant, which shares nothing distinctive with the target.",
+ "set": "related",
+ "pair": "Viracocha | Tunupa",
+ "i": 447,
+ "target": "Viracocha",
+ "planted": "Tunupa",
+ "cands": [
+  "Great Peacemaker",
+  "Qat (deity)",
+  "Tunupa",
+  "Dangun",
+  "Triptolemus",
+  "Yellow Emperor",
+  "Sosruko",
+  "Mwari",
+  "Gesar",
+  "Ilmarinen"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 9
+}

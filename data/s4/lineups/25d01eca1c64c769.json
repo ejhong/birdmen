@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  3,
+  6,
+  1,
+  2,
+  7,
+  4,
+  9,
+  5,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 matches the target's most distinctive motifs: amphibious fish-like primordial beings sent by a high god who bring civilization and religious knowledge to humanity, are linked to the founding of sacred cities/temples and to the first priestly experts, and end up dwelling in/being placed into primeval waters.",
+ "least_similar_reason": "Candidate 10 is a purely human-scale revenge tale about a captive smith, with no creator god, no primordial twins, no cosmic sacrifice or dismemberment producing shrines, and no water-dwelling sky visitors.",
+ "set": "hancock",
+ "pair": "Nommo | Oannes",
+ "i": 184,
+ "target": "Nommo",
+ "planted": "Oannes",
+ "cands": [
+  "Glooscap",
+  "Coyote (mythology)",
+  "Wandjina",
+  "Wisakedjak",
+  "Aeneas",
+  "Djanggawul",
+  "Great Peacemaker",
+  "Oannes",
+  "Bumba",
+  "Wayland the Smith"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  6,
+  4,
+  10,
+  9,
+  8,
+  5,
+  7,
+  3,
+  2
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's core arc of a royal heir who encounters a holy man, embraces a renunciant faith, abandons throne and household life, and withdraws into ascetic seclusion within a founded religious community \u2014 the same distinctive prince-turned-ascetic pattern.",
+ "least_similar_reason": "Candidate 2 is a sprawling cycle of trickster and creation episodes involving animal cunning, lies, and world-shaping, with no founder-teacher, no renunciation, no doctrine or monastic community, and none of the target's biographical or didactic structure.",
+ "set": "positive",
+ "pair": "Gautama Buddha | Barlaam and Josaphat",
+ "i": 329,
+ "target": "Gautama Buddha",
+ "planted": "Barlaam and Josaphat",
+ "cands": [
+  "Barlaam and Josaphat",
+  "Coyote (mythology)",
+  "Sky Woman",
+  "Wakan Tanka",
+  "T\u0101ne",
+  "White Buffalo Calf Woman",
+  "Ilmarinen",
+  "Romulus and Remus",
+  "Huitzilopochtli",
+  "Yu the Great"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  6,
+  2,
+  10,
+  3,
+  5,
+  8,
+  1,
+  4,
+  9
+ ],
+ "most_similar_reason": "Candidate 7 shares the target's core cluster of motifs: a culture-bringing deity who gives a grain crop and calendar/writing to humanity, has an intimate bond with a sister, journeys to the underworld, and is destroyed after being sealed inside a chest, then transformed into a celestial/reborn form.",
+ "least_similar_reason": "Candidate 9 is a collection of spider-trickster contest and cleverness tales with no dying-and-rising god, no fratricidal usurper, no sister-wife or avenging son, and no agricultural culture-hero teaching.",
+ "set": "hancock",
+ "pair": "Osiris | Quetzalcoatl",
+ "i": 99,
+ "target": "Osiris",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Ninigi-no-Mikoto",
+  "Pachacamac",
+  "Dangun",
+  "Coyote (mythology)",
+  "Yellow Emperor",
+  "\u014ckuninushi",
+  "Quetzalcoatl",
+  "Yu the Great",
+  "Anansi",
+  "Shennong"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

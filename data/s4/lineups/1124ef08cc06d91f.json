@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  2,
+  4,
+  5,
+  1,
+  10,
+  9,
+  6,
+  3,
+  7
+ ],
+ "most_similar_reason": "Candidate 8 clearly depicts the same figure (Enoch/Idris)\u2014son of a patriarch, walking with God, taken up without dying, made chief of angels and guardian of celestial secrets, called 'Great Scribe,' and linked to revelation given to a later prophet, matching the target's core narrative of the prophet's ascension and heavenly role.",
+ "least_similar_reason": "Candidate 7 describes an abstract, unknowable supreme deity approached through mediums and oracles with no narrative events, prophets, migrations, or heavenly ascension, sharing only the generic concept of a deity with the target.",
+ "set": "related",
+ "pair": "Idris (prophet) | Enoch (ancestor of Noah)",
+ "i": 542,
+ "target": "Idris (prophet)",
+ "planted": "Enoch (ancestor of Noah)",
+ "cands": [
+  "Ogun",
+  "Apkallu",
+  "Unkulunkulu",
+  "Aeneas",
+  "Oduduwa",
+  "Triptolemus",
+  "Mwari",
+  "Enoch (ancestor of Noah)",
+  "Tagaro",
+  "T\u0101ne"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

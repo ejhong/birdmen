@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  3,
+  9,
+  10,
+  2,
+  8,
+  5,
+  4,
+  7,
+  1
+ ],
+ "most_similar_reason": "Candidate 6 shares the same distinctive cluster of motifs: a founding civilizing figure carrying a staff, a golden staff explicitly borne by a son of the sun deity and a female consort who found a civilization, emergence from a great lake, and the ordering of a great city's construction, matching the target's golden-staff, sun-and-moon-parentage founding myth.",
+ "least_similar_reason": "Candidate 1 is not a narrative at all but a philological account of a divine name's spread and decline, containing no hero, siblings, migration, city-founding, or any of the target's episodes.",
+ "set": "related",
+ "pair": "Manco C\u00e1pac | Viracocha",
+ "i": 439,
+ "target": "Manco C\u00e1pac",
+ "planted": "Viracocha",
+ "cands": [
+  "Waaq",
+  "Hiawatha",
+  "Oduduwa",
+  "Nanabozho",
+  "Sky Woman",
+  "Viracocha",
+  "Mwari",
+  "Baiame",
+  "\u014ckuninushi",
+  "Ogun"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

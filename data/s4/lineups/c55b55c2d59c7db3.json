@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  8,
+  2,
+  9,
+  7,
+  1,
+  5,
+  10,
+  6,
+  3
+ ],
+ "most_similar_reason": "Candidate 4 centers, like the target, on a hybrid part-human/part-animal culture-bringer of superhuman wisdom who teaches humanity agriculture, crafts and especially healing remedies (a catalogued set of herbal cures), and is linked to successor figures who continue his knowledge, matching the target's fish-man sage who brings the arts of civilization and crafts healing poultices.",
+ "least_similar_reason": "Candidate 3 is not a narrative at all but a philological account of a divine name's spread and decline across languages and places, sharing no figures, episodes, or motifs with the target's sages, kings, flood, and temple rituals.",
+ "set": "hancock",
+ "pair": "Oannes | Osiris",
+ "i": 107,
+ "target": "Oannes",
+ "planted": "Osiris",
+ "cands": [
+  "Anansi",
+  "Osiris",
+  "Waaq",
+  "Shennong",
+  "Tangaroa",
+  "Corn Mother",
+  "Huitzilopochtli",
+  "Baiame",
+  "Djanggawul",
+  "Maya Hero Twins"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 3
+}

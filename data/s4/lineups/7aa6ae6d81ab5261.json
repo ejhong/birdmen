@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  6,
+  4,
+  2,
+  5,
+  9,
+  8,
+  3,
+  7,
+  10
+ ],
+ "most_similar_reason": "Candidate 1 shares the most distinctive motifs with the target\u2014a benevolent, civilizing figure who walks upon a great lake, founds a confederated settlement, teaches laws and peace, disappears/is presumed dead yet returns, and is prophesied to come back in a time of crisis, paralleling the target's water-walking creator who founds a city, teaches civilization, and is expected to return.",
+ "least_similar_reason": "Candidate 10 focuses entirely on a smith-god's metallurgical feats (forging tools, mills, and a golden maiden) with no creation of humanity, flood, city-founding, or water-walking disappearance, making it the least thematically aligned with the target.",
+ "set": "related",
+ "pair": "Viracocha | Tunupa",
+ "i": 447,
+ "target": "Viracocha",
+ "planted": "Tunupa",
+ "cands": [
+  "Great Peacemaker",
+  "Qat (deity)",
+  "Tunupa",
+  "Dangun",
+  "Triptolemus",
+  "Yellow Emperor",
+  "Sosruko",
+  "Mwari",
+  "Gesar",
+  "Ilmarinen"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 8
+}

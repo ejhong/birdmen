@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  5,
+  6,
+  2,
+  10,
+  3,
+  1,
+  9,
+  8,
+  7
+ ],
+ "most_similar_reason": "Candidate 4 shares the most distinctive flood-myth motifs with the target: gods deciding to destroy noisy humanity, a wise/clever god secretly warning a chosen man through a reed wall, instructions to build a waterproof ship, loading family and animals, and sealing the vessel before the storm\u2014an extremely close match in structure and specific details.",
+ "least_similar_reason": "Candidate 7 describes rain/cloud creator spirits and rock-art traditions with no flood hero, boat, secret warning, or rejuvenation quest, sharing only the generic idea of powerful beings punishing people with floods.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Atra-Hasis",
+ "i": 253,
+ "target": "Gilgamesh flood myth",
+ "planted": "Atra-Hasis",
+ "cands": [
+  "Bumba",
+  "Hiawatha",
+  "Nyame",
+  "Atra-Hasis",
+  "Bhagiratha",
+  "Palamedes (mythology)",
+  "Wandjina",
+  "Abassi",
+  "Makunaima",
+  "Bachu\u00e9"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

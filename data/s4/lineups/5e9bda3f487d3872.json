@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  8,
+  3,
+  7,
+  4,
+  5,
+  10,
+  9,
+  6,
+  2
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's most distinctive specifics: a divine founder-figure sent/descended as son of a sun deity with a sister-consort, carrying a golden staff, founding a civilization/city, with a great lake as a key site.",
+ "least_similar_reason": "Candidate 2 is a sea-god genealogy about parting sky and earth, fish and reptile ancestry, and a fire-theft quarrel, sharing none of the target's creator-teacher, flood, stone-born humans, or city-founding motifs.",
+ "set": "related",
+ "pair": "Viracocha | Manco C\u00e1pac",
+ "i": 429,
+ "target": "Viracocha",
+ "planted": "Manco C\u00e1pac",
+ "cands": [
+  "Manco C\u00e1pac",
+  "Tagaro",
+  "Huitzilopochtli",
+  "Itzamna",
+  "Sky Woman",
+  "Palamedes (mythology)",
+  "R\u00edgs\u00feula",
+  "Dangun",
+  "Gesar",
+  "Cadmus"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

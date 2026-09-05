@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  9,
+  1,
+  5,
+  10,
+  7,
+  4,
+  8,
+  3,
+  2
+ ],
+ "most_similar_reason": "Candidate 6 is a near-parallel flood narrative: a deity resolves to destroy wicked mankind by deluge, commands one favored man to build a great vessel, he loads family and animals, the waters kill everyone else, and after landing he makes a sacrifice that the deity accepts and rewards with a blessing/covenant.",
+ "least_similar_reason": "Candidate 2 is not a narrative at all but a linguistic-historical account of a divine name's spread and decline, sharing no flood, vessel, hero, trial, or quest for immortality with the target.",
+ "set": "positive",
+ "pair": "Utnapishtim | Noah",
+ "i": 260,
+ "target": "Utnapishtim",
+ "planted": "Noah",
+ "cands": [
+  "Yu the Great",
+  "Waaq",
+  "Sang Hyang Tunggal",
+  "White Buffalo Calf Woman",
+  "Maya Hero Twins",
+  "Noah",
+  "Ayar Manco",
+  "Yellow Emperor",
+  "Wisakedjak",
+  "Dangun"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

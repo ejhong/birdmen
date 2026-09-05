@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  8,
+  6,
+  9,
+  3,
+  2,
+  10,
+  1,
+  5,
+  7
+ ],
+ "most_similar_reason": "Candidate 4 shares the target's alternate origin account almost point for point: a golden staff, a hero who is the son of a sun deity and a fertility-associated woman, the founding of a civilization near a great lake, and later disappearance/movement of the divine figure, closely paralleling the target's staff, sun/moon parentage, and lake-temple motifs.",
+ "least_similar_reason": "Candidate 7 is an unrelated tale of a captured, crippled craftsman who takes gruesome revenge on a king's family and escapes by flight, sharing none of the target's core motifs of sibling groups, a golden staff, city founding, or a mummified ruler moved to an island temple.",
+ "set": "related",
+ "pair": "Manco C\u00e1pac | Viracocha",
+ "i": 430,
+ "target": "Manco C\u00e1pac",
+ "planted": "Viracocha",
+ "cands": [
+  "Prometheus",
+  "Apkallu",
+  "Triptolemus",
+  "Viracocha",
+  "Sky Woman",
+  "Romulus and Remus",
+  "Wayland the Smith",
+  "Huitzilopochtli",
+  "Itzamna",
+  "Heitsi-eibib"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

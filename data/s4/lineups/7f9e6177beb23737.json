@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  6,
+  7,
+  8,
+  1,
+  3,
+  2,
+  4,
+  5,
+  10
+ ],
+ "most_similar_reason": "Candidate 9 most closely matches the target's shape: a hero descended from a supreme ancestor-deity through a divine father, who takes up rule of the land as founder of a ruling line, aided by attendant helper figures, and who dies and is buried at a named mountain tomb where he is remembered/venerated.",
+ "least_similar_reason": "Candidate 10 is a loose anthology of trickster episodes (lying, hiding water, fishing advice from excrement, animal councils) with no divine descent to rule the earth, no regalia, no marriage-and-mortality curse, and no tomb or shrine cult, so it shares nothing beyond generic mythic creation material.",
+ "set": "random",
+ "pair": "Ninigi-no-Mikoto | Coyote (mythology)",
+ "i": 591,
+ "target": "Ninigi-no-Mikoto",
+ "planted": "Coyote (mythology)",
+ "cands": [
+  "Triptolemus",
+  "Agastya",
+  "Pachacamac",
+  "Tezcatlipoca",
+  "Wayland the Smith",
+  "Romulus and Remus",
+  "Baiame",
+  "Rama",
+  "Yu the Great",
+  "Coyote (mythology)"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 10
+}

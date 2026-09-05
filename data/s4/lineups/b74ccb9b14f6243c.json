@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  2,
+  4,
+  9,
+  3,
+  7,
+  10,
+  8,
+  6,
+  5
+ ],
+ "most_similar_reason": "Candidate 1 shares the identical core myth: a brother-sister spouse pair born of earth and sky deities, the jealous brother murdering and dismembering the king, the goddess and her sister gathering the scattered pieces, magically reviving him to conceive a son who avenges him, and the dead king thereafter ruling the underworld.",
+ "least_similar_reason": "Candidate 5 is a bare one-line note that a creator god is recognized among certain peoples, offering no episodes, relationships, or motifs to correspond with the target's detailed narrative.",
+ "set": "related",
+ "pair": "Isis | Osiris",
+ "i": 473,
+ "target": "Isis",
+ "planted": "Osiris",
+ "cands": [
+  "Osiris",
+  "Huitzilopochtli",
+  "Bhagiratha",
+  "Romulus and Remus",
+  "Makunaima",
+  "Kutkh",
+  "Kvasir",
+  "Anansi",
+  "Shennong",
+  "Kilibob and Manup"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

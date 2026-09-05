@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  3,
+  10,
+  9,
+  6,
+  7,
+  4,
+  2,
+  1,
+  5
+ ],
+ "most_similar_reason": "Candidate 8 mirrors the target's core motifs most closely\u2014a primordial being who is credited as the father of human arts and sciences, is linked to a flood hero, and figures in a larger cosmogonic/etiological narrative involving trickery, sacrifice, and divine punishment, paralleling the Oannes/Berossus-style fragments of creation, revelation of knowledge, and flood lineage in the target.",
+ "least_similar_reason": "Candidate 5 is essentially a bare identification of a deity with no narrative content at all, sharing none of the target's specific motifs such as creation, revelation of knowledge, king lists, flood survival, or city-founding legends.",
+ "set": "random",
+ "pair": "Berossus | Wakan Tanka",
+ "i": 614,
+ "target": "Berossus",
+ "planted": "Wakan Tanka",
+ "cands": [
+  "Wakan Tanka",
+  "Wayland the Smith",
+  "Yu the Great",
+  "Heitsi-eibib",
+  "Abassi",
+  "Tagaro",
+  "Ninigi-no-Mikoto",
+  "Prometheus",
+  "Baiame",
+  "Aeneas"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 9
+}

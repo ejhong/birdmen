@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  3,
+  2,
+  8,
+  7,
+  6,
+  5,
+  10,
+  9,
+  1
+ ],
+ "most_similar_reason": "Candidate 4 shares the target's core sequence most closely: a sky-dwelling creator origin, primordial twins of whom one is a rebellious/evil disruptor of order, and above all a slain progenitor whose body is dismembered and distributed so that its parts scatter across the world to sustain and feed human beings.",
+ "least_similar_reason": "Candidate 1 is a local agricultural harvest custom about housing a grain spirit in a straw doll, with no creator god, no primordial twins, no dismemberment or sky-descended aquatic beings, and no founding of shrines or priesthood.",
+ "set": "hancock",
+ "pair": "Nommo | Oannes",
+ "i": 189,
+ "target": "Nommo",
+ "planted": "Oannes",
+ "cands": [
+  "Corn Mother",
+  "Huitzilopochtli",
+  "Oannes",
+  "Sky Woman",
+  "Wisakedjak",
+  "Tagaro",
+  "Maya Hero Twins",
+  "Itzamna",
+  "Cadmus",
+  "R\u00edgs\u00feula"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 2
+}

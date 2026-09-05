@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  4,
+  8,
+  5,
+  1,
+  6,
+  10,
+  2,
+  9,
+  3
+ ],
+ "most_similar_reason": "Candidate 7, like the target, centers on a royal founder-hero who leads migrating kin-groups out of an origin place, defeats hostile tribes, founds and divides a great city into districts, establishes a dynasty and empire, and whose sacred remains are kept in a temple until later moved.",
+ "least_similar_reason": "Candidate 3 is a generic sketch of a trickster/flood-and-recreation spirit with no dynastic founder, no migration and distribution of lands, no city or calendar or relic motifs shared with the target.",
+ "set": "hancock",
+ "pair": "Votan | Quetzalcoatl",
+ "i": 149,
+ "target": "Votan",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Hiawatha",
+  "Mbombo",
+  "Wisakedjak",
+  "Quetzalcoatl",
+  "Triptolemus",
+  "Baiame",
+  "Ayar Manco",
+  "Dangun",
+  "Orpheus",
+  "Djanggawul"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 2
+}

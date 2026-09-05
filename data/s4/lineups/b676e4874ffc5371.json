@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  4,
+  3,
+  2,
+  10,
+  8,
+  7,
+  6,
+  1,
+  5
+ ],
+ "most_similar_reason": "Candidate 9 directly recounts the fish-avatar (Matsya) rescuing the first man/king Manu from the flood, complete with seven sages, sacred scriptures, and the preserver god's series of incarnations, matching almost every core motif of the target.",
+ "least_similar_reason": "Candidate 5 describes a harvest folklore custom about a straw 'old woman' figure embodying a grain spirit, containing no flood, fish, deity, or rescue motifs at all, making it the least related to the target's mythic flood-fish narrative.",
+ "set": "positive",
+ "pair": "Matsya | Manu (Hinduism)",
+ "i": 371,
+ "target": "Matsya",
+ "planted": "Manu (Hinduism)",
+ "cands": [
+  "Unkulunkulu",
+  "Glooscap",
+  "Ninigi-no-Mikoto",
+  "Kvasir",
+  "Corn Mother",
+  "Ilmarinen",
+  "Shennong",
+  "Heitsi-eibib",
+  "Manu (Hinduism)",
+  "Amirani"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

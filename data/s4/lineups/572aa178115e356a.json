@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  10,
+  8,
+  9,
+  3,
+  6,
+  4,
+  1,
+  7,
+  2
+ ],
+ "most_similar_reason": "Candidate 5 shares the target's entire distinctive sequence: a god secretly warns a chosen man of a divinely decreed flood, he builds a large vessel and loads it with kin and animals, the storm destroys all humanity, the boat grounds on a mountain, he releases birds until one (the raven) fails to return, and he then offers a sacrifice after which the gods make a lasting concession to him.",
+ "least_similar_reason": "Candidate 2 is a cycle of trickster-wager tales about winning stories, spilling wisdom, and stealing a name, with no flood, no divine decision to destroy humanity, no vessel, birds, sacrifice, or covenant.",
+ "set": "positive",
+ "pair": "Genesis flood narrative | Gilgamesh flood myth",
+ "i": 236,
+ "target": "Genesis flood narrative",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Itzamna",
+  "Anansi",
+  "Tezcatlipoca",
+  "Baiame",
+  "Gilgamesh flood myth",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Maya Hero Twins",
+  "Coyote (mythology)",
+  "Sky Woman",
+  "Nanabozho"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 1
+}

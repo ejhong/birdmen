@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  2,
+  5,
+  10,
+  8,
+  3,
+  9,
+  7,
+  6,
+  4
+ ],
+ "most_similar_reason": "Candidate 1 centers on the same kind of figure\u2014a feathered/plumed serpent deity known through several variant tales\u2014including birth stories, a sister relationship, association with wind, and journeys between worlds, matching the target's distinctive serpent-deity cycle.",
+ "least_similar_reason": "Candidate 4 is an etymological and historical account of a sky-god's name across languages, with no serpent, no sister, and essentially no narrative episodes at all.",
+ "set": "related",
+ "pair": "Kukulkan | Quetzalcoatl",
+ "i": 415,
+ "target": "Kukulkan",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Quetzalcoatl",
+  "Coyote (mythology)",
+  "Ilmarinen",
+  "Waaq",
+  "Mama Ocllo",
+  "Corn Mother",
+  "Palamedes (mythology)",
+  "Agastya",
+  "Mwari",
+  "Djanggawul"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

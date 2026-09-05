@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  7,
+  10,
+  5,
+  1,
+  2,
+  6,
+  3,
+  4,
+  8
+ ],
+ "most_similar_reason": "Candidate 9 shares the same distinctive cluster of motifs: humans molded from clay by a divine creator, a brother-and-sister pair who live on a sacred mountain and marry only after seeking an omen (mist rather than merging fire), and their role as paired progenitors of humanity alongside cosmic repair/ordering of the world.",
+ "least_similar_reason": "Candidate 8 contains no narrative at all\u2014only the bare identification of a deity\u2014so it shares no episodes, roles, or motifs with the target.",
+ "set": "related",
+ "pair": "Fuxi | N\u00fcwa",
+ "i": 501,
+ "target": "Fuxi",
+ "planted": "N\u00fcwa",
+ "cands": [
+  "Ayar Manco",
+  "Triptolemus",
+  "Wandjina",
+  "Amirani",
+  "Kutkh",
+  "Kilibob and Manup",
+  "Bachu\u00e9",
+  "Abassi",
+  "N\u00fcwa",
+  "Qat (deity)"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

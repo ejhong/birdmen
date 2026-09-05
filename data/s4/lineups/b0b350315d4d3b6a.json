@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  9,
+  3,
+  6,
+  1,
+  2,
+  7,
+  8,
+  4,
+  5
+ ],
+ "most_similar_reason": "Candidate 10 explicitly recounts the same Matsya/Manu flood myth\u2014a fish-avatar of a preserver god warning the seventh ruler, towing his boat with sacred scriptures and seven sages to safety\u2014directly mirroring the target's core narrative and even its embedded cyclical framework.",
+ "least_similar_reason": "Candidate 5 is a bare, minimal statement about a supreme deity with two names and shares no plot, motifs, or events with the fish-flood-savior narrative of the target.",
+ "set": "positive",
+ "pair": "Matsya | Manu (Hinduism)",
+ "i": 375,
+ "target": "Matsya",
+ "planted": "Manu (Hinduism)",
+ "cands": [
+  "Tangaroa",
+  "Bran the Blessed",
+  "Glooscap",
+  "Baiame",
+  "Bumba",
+  "Aeneas",
+  "Great Peacemaker",
+  "Palamedes (mythology)",
+  "Kvasir",
+  "Manu (Hinduism)"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

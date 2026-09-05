@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  3,
+  7,
+  5,
+  6,
+  4,
+  9,
+  8,
+  10,
+  1
+ ],
+ "most_similar_reason": "Candidate 2 shares the target's most distinctive cluster of motifs: a primordial creation in which twins are born, one twin violates the created order, and a primordial body is killed, dismembered and scattered so that its parts become the source of gifts/growths distributed across the land to feed humankind.",
+ "least_similar_reason": "Candidate 1 is a heroic exile-and-founding saga of a mortal prince, with no primordial creation, no multiplying twins from a first being, no sacrificial dismemberment seeding shrines, and no water-dwelling sky visitors.",
+ "set": "hancock",
+ "pair": "Nommo | Oannes",
+ "i": 183,
+ "target": "Nommo",
+ "planted": "Oannes",
+ "cands": [
+  "Aeneas",
+  "Sky Woman",
+  "Oannes",
+  "Mwari",
+  "Maya Hero Twins",
+  "T\u0101ne",
+  "Mbombo",
+  "Ilmarinen",
+  "Bhagiratha",
+  "Bumba"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 2
+}

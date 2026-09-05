@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  4,
+  3,
+  8,
+  9,
+  2,
+  6,
+  1,
+  7,
+  5
+ ],
+ "most_similar_reason": "Candidate 10 depicts the same ancestral prophet figure\u2014descendant of the first man, credited with writing, astronomy, measures, preaching against his people's wrongdoing, and above all being 'raised' bodily to a heavenly station rather than dying normally, matching the target's central ascension motif and legendary elaborations.",
+ "least_similar_reason": "Candidate 5 is a philological account of a divine name's survival in languages and place names, with no ancestral figure, ascension, teaching, or narrative episodes in common with the target.",
+ "set": "related",
+ "pair": "Enoch (ancestor of Noah) | Idris (prophet)",
+ "i": 559,
+ "target": "Enoch (ancestor of Noah)",
+ "planted": "Idris (prophet)",
+ "cands": [
+  "Wisakedjak",
+  "Tagaro",
+  "Ayar Manco",
+  "Dangun",
+  "Waaq",
+  "Sosruko",
+  "Wandjina",
+  "\u014ckuninushi",
+  "R\u00edgs\u00feula",
+  "Idris (prophet)"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

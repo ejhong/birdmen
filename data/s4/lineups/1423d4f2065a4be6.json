@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  6,
+  4,
+  9,
+  3,
+  5,
+  1,
+  8,
+  10,
+  2
+ ],
+ "most_similar_reason": "Candidate 7 shares the core Chinese creation complex directly\u2014siblings marrying on a sacred mountain after a divine sign (mist paralleling the target's merging fires), creation of humans from clay, and a goddess who mends the sky, closely mirroring the target's N\u00fcwa/Fuxi figures and clay-people motif.",
+ "least_similar_reason": "Candidate 2 describes an abstract theological/iconographic concept with no narrative of creation, siblings, clay humans, or cultural inventions, making it the least similar in content and structure to the target myth.",
+ "set": "related",
+ "pair": "Fuxi | N\u00fcwa",
+ "i": 507,
+ "target": "Fuxi",
+ "planted": "N\u00fcwa",
+ "cands": [
+  "White Buffalo Calf Woman",
+  "Sang Hyang Tunggal",
+  "Ziusudra",
+  "Mbombo",
+  "Baiame",
+  "T\u0101ne",
+  "N\u00fcwa",
+  "Orpheus",
+  "Ninigi-no-Mikoto",
+  "Kokopelli"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

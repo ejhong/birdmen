@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  1,
+  2,
+  7,
+  9,
+  3,
+  10,
+  6,
+  8,
+  4
+ ],
+ "most_similar_reason": "Candidate 5 centers on a faith founded by a traveling teacher whose community is joined by a royal heir who renounces rulership for ascetic seclusion, mirroring the target's prince-turned-wandering-ascetic religious founder and his order.",
+ "least_similar_reason": "Candidate 4 is a bare statement that a deity with two names is a people's supreme god, offering no teacher, teaching, awakening, order, or narrative sequence to compare with the target.",
+ "set": "positive",
+ "pair": "Gautama Buddha | Barlaam and Josaphat",
+ "i": 328,
+ "target": "Gautama Buddha",
+ "planted": "Barlaam and Josaphat",
+ "cands": [
+  "Hiawatha",
+  "Baiame",
+  "Romulus and Remus",
+  "Bumba",
+  "Barlaam and Josaphat",
+  "Tagaro",
+  "Kvasir",
+  "Bran the Blessed",
+  "Apkallu",
+  "Heitsi-eibib"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 1
+}

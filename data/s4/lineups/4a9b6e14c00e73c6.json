@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  8,
+  2,
+  4,
+  9,
+  1,
+  3,
+  5,
+  7,
+  6
+ ],
+ "most_similar_reason": "Candidate 10 features a prince credited with inventing writing, numbers, and letters and acting as a wise counselor whose wisdom leads to his unjust death, closely echoing Thoth's roles as inventor of writing and law and his function as counselor, even sharing the motif of a forged letter causing downfall.",
+ "least_similar_reason": "Candidate 6 gives almost no narrative detail beyond naming a supreme deity, lacking any of the specific motifs\u2014writing invention, cosmic gambling, underworld judgment, or divine genealogy\u2014that define the target myth.",
+ "set": "hancock",
+ "pair": "Thoth | Quetzalcoatl",
+ "i": 168,
+ "target": "Thoth",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Aeneas",
+  "Anansi",
+  "Ilmarinen",
+  "Adapa",
+  "Tagaro",
+  "Bumba",
+  "Sosruko",
+  "Quetzalcoatl",
+  "Orpheus",
+  "Palamedes (mythology)"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 2
+}

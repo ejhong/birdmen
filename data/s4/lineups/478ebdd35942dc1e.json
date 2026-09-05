@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  3,
+  2,
+  6,
+  7,
+  8,
+  10,
+  9,
+  1,
+  5
+ ],
+ "most_similar_reason": "Candidate 4 shares the target's core: a royal-born prince who abandons throne and palace life to follow/found a renunciant religious teaching, wandering as an ascetic with a monastic community \u2014 the same conversion-and-renunciation biography that underlies the target's tale.",
+ "least_similar_reason": "Candidate 5 is not a story at all but an etymological account of a divine name across languages, with no ruler, teacher, conversion, prophecy, or abdication to compare.",
+ "set": "positive",
+ "pair": "Barlaam and Josaphat | Gautama Buddha",
+ "i": 332,
+ "target": "Barlaam and Josaphat",
+ "planted": "Gautama Buddha",
+ "cands": [
+  "Ogun",
+  "Gesar",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Gautama Buddha",
+  "Waaq",
+  "Aeneas",
+  "Ayar Manco",
+  "Mama Ocllo",
+  "Amirani",
+  "R\u00edgs\u00feula"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

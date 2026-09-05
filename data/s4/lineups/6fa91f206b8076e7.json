@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  10,
+  3,
+  7,
+  6,
+  1,
+  4,
+  9,
+  2,
+  5
+ ],
+ "most_similar_reason": "Candidate 8 depicts Ea/Enki, the Mesopotamian god of wisdom and subterranean waters directly associated with the apkallu sages, creation of humans from clay, and the flood myth where he warns his protege through a reed wall\u2014this is the same mythological tradition and deity underlying the target's seven sages narrative.",
+ "least_similar_reason": "Candidate 5 is an extremely minimal fragment naming only a supreme deity with two names, sharing no specific motifs, structure, or narrative content with the target's elaborate mythology of sages, kings, floods, and civilization-bringing.",
+ "set": "related",
+ "pair": "Oannes | Enki",
+ "i": 498,
+ "target": "Oannes",
+ "planted": "Enki",
+ "cands": [
+  "Mbombo",
+  "Nyame",
+  "Ninigi-no-Mikoto",
+  "Unkulunkulu",
+  "Bumba",
+  "Orpheus",
+  "Aeneas",
+  "Enki",
+  "Anansi",
+  "Shennong"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

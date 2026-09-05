@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  3,
+  6,
+  7,
+  10,
+  9,
+  2,
+  1,
+  5,
+  4
+ ],
+ "most_similar_reason": "Candidate 8 shares the closest cluster of specific motifs with the target: a bearded, human-like creator god who rises from water, makes sun/moon/stars, creates humankind (with a destroyed first race and a flood), teaches civilization while wandering as a beggar, and finally disappears across the sea promising to return, paralleling Quetzalcoatl's roles as culture-bringer, world-shaper, and departing deity.",
+ "least_similar_reason": "Candidate 4 is a purely abstract theological/philosophical symbol with no narrative of birth, kinship, journeys, or cultural gifts, sharing only the vague generic idea of a divine figure linked to light, making it the least similar in actual story content.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Viracocha",
+ "i": 11,
+ "target": "Quetzalcoatl",
+ "planted": "Viracocha",
+ "cands": [
+  "Kokopelli",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Nanabozho",
+  "Sang Hyang Tunggal",
+  "Waaq",
+  "T\u0101ne",
+  "Glooscap",
+  "Viracocha",
+  "Coyote (mythology)",
+  "Apkallu"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

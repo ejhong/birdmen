@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  3,
+  8,
+  6,
+  1,
+  5,
+  10,
+  9,
+  4,
+  2
+ ],
+ "most_similar_reason": "Candidate 7 shares the core plot almost point for point: a supreme god angered by human wickedness resolves to destroy mankind by flood, forewarns a single righteous hero who builds a wooden vessel and provisions it, rides out the deluge with his wife/family until the waters recede and the vessel grounds, gives thanks/offering to the god afterward, and then becomes the ancestor from whom the repopulated peoples and their lands descend.",
+ "least_similar_reason": "Candidate 2 is only a bare note that a variously named creator god is worshipped in a river basin, offering no flood, no vessel, no repopulation, and no episodes at all to correspond with the target.",
+ "set": "positive",
+ "pair": "Deucalion | Noah",
+ "i": 386,
+ "target": "Deucalion",
+ "planted": "Noah",
+ "cands": [
+  "Heitsi-eibib",
+  "Makunaima",
+  "Berossus",
+  "Cangjie",
+  "Amirani",
+  "Pachacamac",
+  "Noah",
+  "Yu the Great",
+  "Ilmarinen",
+  "Agastya"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

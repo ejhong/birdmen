@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  7,
+  10,
+  8,
+  2,
+  9,
+  1,
+  6,
+  4,
+  5
+ ],
+ "most_similar_reason": "Candidate 3 shares the target's core content of primordial ancestor figures who shape the land's valleys, islands and waters, turn things to stone, and bring into being the first people and the resources of the world.",
+ "least_similar_reason": "Candidate 5 contains no narrative at all\ta bare mention of a deity with no journey, creation acts, objects, or offspring\tso it shares nothing specific with the target.",
+ "set": "random",
+ "pair": "Djanggawul | Berossus",
+ "i": 582,
+ "target": "Djanggawul",
+ "planted": "Berossus",
+ "cands": [
+  "Prometheus",
+  "Tagaro",
+  "Glooscap",
+  "Cangjie",
+  "Abassi",
+  "Anansi",
+  "Aeneas",
+  "Agastya",
+  "Berossus",
+  "Cadmus"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 6
+}

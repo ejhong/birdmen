@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  4,
+  1,
+  5,
+  7,
+  10,
+  3,
+  2,
+  9,
+  8
+ ],
+ "most_similar_reason": "Candidate 6 belongs to the same mythic complex as the target\u2014a wisdom god of the subterranean primeval waters, magic and crafts whose servants explicitly include a group of sages, tied to the creation of mankind from clay and to the great flood\u2014matching the target's sages, watery abyss, flood chronology and civilizing wisdom.",
+ "least_similar_reason": "Candidate 8 concerns a humpbacked flute-playing fertility trickster who carries babies and seeds and presides over rain and game animals, with no sages, no kings, no flood, and no transmission of civilization's arts by emissaries of the gods.",
+ "set": "related",
+ "pair": "Oannes | Enki",
+ "i": 493,
+ "target": "Oannes",
+ "planted": "Enki",
+ "cands": [
+  "Dangun",
+  "Pachacamac",
+  "Palamedes (mythology)",
+  "Mama Ocllo",
+  "Yellow Emperor",
+  "Enki",
+  "Yu the Great",
+  "Kokopelli",
+  "Sosruko",
+  "Kilibob and Manup"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

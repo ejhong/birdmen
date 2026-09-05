@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  5,
+  3,
+  7,
+  10,
+  4,
+  1,
+  6,
+  2,
+  9
+ ],
+ "most_similar_reason": "Candidate 8 is plainly a variant of the same epic\u2014divine incarnation as a prince, winning a princess at an archery/bow contest, forest exile with a loyal brother, the spurned demoness, the abduction of the wife by the multi-headed demon king of an island realm, the monkey allies who find her, and the final victory and homecoming.",
+ "least_similar_reason": "Candidate 9 is least similar because it is a bare notice about an ancestral/creator figure who makes humans from reeds and then forgets them, with no hero, no bride, no exile, abduction, or battle.",
+ "set": "positive",
+ "pair": "Ramayana | Ramakien",
+ "i": 302,
+ "target": "Ramayana",
+ "planted": "Ramakien",
+ "cands": [
+  "Coyote (mythology)",
+  "Djanggawul",
+  "Romulus and Remus",
+  "Oduduwa",
+  "Gesar",
+  "Kutkh",
+  "Orpheus",
+  "Ramakien",
+  "Unkulunkulu",
+  "Yu the Great"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

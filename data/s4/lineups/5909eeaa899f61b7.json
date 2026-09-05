@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  8,
+  1,
+  10,
+  6,
+  5,
+  9,
+  2,
+  4,
+  3
+ ],
+ "most_similar_reason": "Candidate 7 shares the strongest cluster of specific Mesoamerican-type motifs with the target\u2014an origin from a cave, division of a city into four districts (echoing the four cardinal-direction gods), a staff-carrying culture hero descended from sun and moon deities, and marriage to a sister, closely paralleling Quetzalcoatl's own sibling incest and cosmic four-part order.",
+ "least_similar_reason": "Candidate 3 is the least similar, offering only a bare creation-from-reeds myth with no birth-story multiplicity, star/twin motifs, underworld journey, grain-gift, or self-sacrifice, sharing almost none of the target's distinctive narrative details.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Oannes",
+ "i": 62,
+ "target": "Quetzalcoatl",
+ "planted": "Oannes",
+ "cands": [
+  "Cadmus",
+  "Ninigi-no-Mikoto",
+  "Unkulunkulu",
+  "Oduduwa",
+  "\u014ckuninushi",
+  "Amirani",
+  "Ayar Manco",
+  "Triptolemus",
+  "Wayland the Smith",
+  "Oannes"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 4
+}

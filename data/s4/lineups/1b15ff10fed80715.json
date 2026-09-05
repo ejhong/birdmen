@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  1,
+  4,
+  7,
+  6,
+  8,
+  3,
+  5,
+  10,
+  9
+ ],
+ "most_similar_reason": "Candidate 2 matches the target almost point for point: a pious early prophet descended from the first man who taught writing, astronomy, and measures, was 'raised to a high station,' and was carried by an angel into the heavens where he was taken without an ordinary death.",
+ "least_similar_reason": "Candidate 9 is a cycle of comic trickster exploits by a spider who bargains and cheats his way to stories and wisdom, sharing none of the target's piety, ascension to heaven, angelic office, or transmission of sacred learning.",
+ "set": "related",
+ "pair": "Enoch (ancestor of Noah) | Idris (prophet)",
+ "i": 558,
+ "target": "Enoch (ancestor of Noah)",
+ "planted": "Idris (prophet)",
+ "cands": [
+  "Prometheus",
+  "Idris (prophet)",
+  "White Buffalo Calf Woman",
+  "Baiame",
+  "Unkulunkulu",
+  "Agastya",
+  "Gesar",
+  "Oduduwa",
+  "Anansi",
+  "Wayland the Smith"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 1
+}

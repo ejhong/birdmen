@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  3,
+  9,
+  5,
+  1,
+  2,
+  6,
+  7,
+  4,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 shares the most distinctive motifs with the target: a divine birth involving a body sacrificed/killed, creation of sun, moon, and stars from body parts, and especially the planting of a grain crop from the corpse as a gift to mankind, mirroring the target's grain gift and cosmic-star-birth themes.",
+ "least_similar_reason": "Candidate 10 is a single vague sentence with no narrative content, sharing no specific motifs, events, or relationships with the richly detailed target myth.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Viracocha",
+ "i": 14,
+ "target": "Quetzalcoatl",
+ "planted": "Viracocha",
+ "cands": [
+  "Viracocha",
+  "Great Peacemaker",
+  "Aeneas",
+  "Sang Hyang Tunggal",
+  "Tangaroa",
+  "Orpheus",
+  "Nyame",
+  "Sky Woman",
+  "Ninigi-no-Mikoto",
+  "Bumba"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 5
+}

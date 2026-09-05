@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  6,
+  5,
+  3,
+  8,
+  10,
+  7,
+  4,
+  1,
+  2
+ ],
+ "most_similar_reason": "Candidate 9 follows the same heroic-biography arc as the target: a miraculously/divinely conceived royal child threatened by a usurping kinsman, cast out and raised in humble/feral conditions, who wins a contest, reclaims his rightful position, becomes king, and rules through wars and institutions.",
+ "least_similar_reason": "Candidate 2 is a single bare statement that a creator god is recognized among peoples of a river basin, with no birth, twins, exposure, rescue, rivalry, or city-founding events to compare.",
+ "set": "random",
+ "pair": "Romulus and Remus | Prometheus",
+ "i": 572,
+ "target": "Romulus and Remus",
+ "planted": "Prometheus",
+ "cands": [
+  "Bachu\u00e9",
+  "Makunaima",
+  "Qat (deity)",
+  "Kutkh",
+  "Bhagiratha",
+  "Glooscap",
+  "Sosruko",
+  "Prometheus",
+  "Gesar",
+  "Tangaroa"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 5
+}

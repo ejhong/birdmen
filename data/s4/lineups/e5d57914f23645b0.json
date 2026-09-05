@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  9,
+  1,
+  4,
+  7,
+  2,
+  3,
+  10,
+  8,
+  5
+ ],
+ "most_similar_reason": "Candidate 6 centers on a semi-divine benefactor of humankind explicitly cast as the father of human arts and sciences who is sent/acts to bring the elements of civilization to people, is tied to a flood hero, and is punished/banished by the chief god \u2014 closely paralleling the target's sages who bring wisdom and crafts, are linked to the antediluvian world, and are cast out by a great god.",
+ "least_similar_reason": "Candidate 5 is a brief origin account of a mother goddess emerging from a lake and populating the earth with her consort before turning into snakes, with no group of civilizing sages, no teaching of arts, no flood, no kings, cities, or healing motifs.",
+ "set": "hancock",
+ "pair": "Oannes | Osiris",
+ "i": 103,
+ "target": "Oannes",
+ "planted": "Osiris",
+ "cands": [
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Kilibob and Manup",
+  "Hiawatha",
+  "\u014ckuninushi",
+  "Bachu\u00e9",
+  "Prometheus",
+  "Osiris",
+  "Huitzilopochtli",
+  "Agastya",
+  "Cadmus"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 5
+}

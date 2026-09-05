@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  1,
+  7,
+  5,
+  8,
+  6,
+  3,
+  10,
+  2,
+  9
+ ],
+ "most_similar_reason": "Candidate 4 shares the core flood-narrative structure with the target: a creator/gods deciding to destroy humanity, a warned hero building a large boat, loading it with life, a storm-driven flood, the boat resting on a mountain, the release of birds (dove, swallow, raven) to test dryness, the raven not returning, and a subsequent sacrifice and divine reconciliation.",
+ "least_similar_reason": "Candidate 9 describes rain/cloud spirit origin beings and rock art traditions with no flood, hero, boat, or covenant motifs, sharing only the loosest thematic link of divine punishment via floods.",
+ "set": "positive",
+ "pair": "Genesis flood narrative | Gilgamesh flood myth",
+ "i": 238,
+ "target": "Genesis flood narrative",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Obatala",
+  "Anansi",
+  "Kilibob and Manup",
+  "Gilgamesh flood myth",
+  "T\u0101ne",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Coyote (mythology)",
+  "Amirani",
+  "Wandjina",
+  "Wayland the Smith"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

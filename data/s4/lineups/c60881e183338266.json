@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  9,
+  4,
+  3,
+  8,
+  10,
+  5,
+  6,
+  2,
+  1
+ ],
+ "most_similar_reason": "Candidate 7 features a creator deity intimately tied to a specific mountain that he shaped and later flattened, with a nearby sacred cave containing rock paintings of him\u2014closely mirroring the target's mountain deity, cave, and associated sacred imagery.",
+ "least_similar_reason": "Candidate 1 is about the invention of writing and has no connection to a mountain deity, salt flat, cave, or village, making it the least thematically related to the target.",
+ "set": "related",
+ "pair": "Tunupa | Viracocha",
+ "i": 452,
+ "target": "Tunupa",
+ "planted": "Viracocha",
+ "cands": [
+  "Cangjie",
+  "Bhagiratha",
+  "Wakan Tanka",
+  "Mwari",
+  "White Buffalo Calf Woman",
+  "Berossus",
+  "Baiame",
+  "Viracocha",
+  "Wandjina",
+  "Ogun"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 5
+}

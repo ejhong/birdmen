@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  10,
+  4,
+  9,
+  3,
+  7,
+  5,
+  8,
+  2,
+  6
+ ],
+ "most_similar_reason": "Candidate 1 recounts the life of the Buddha, the very tradition on which the target's legend of a persecuted-then-converted royal heir and abdicating ruler is modeled, sharing the core motifs of renunciation, ascetic conversion, and withdrawal from worldly rule.",
+ "least_similar_reason": "Candidate 6 provides only a bare identification of a deity with no narrative events, sharing none of the specific motifs of persecution, prophecy, conversion, or abdication found in the target.",
+ "set": "positive",
+ "pair": "Barlaam and Josaphat | Gautama Buddha",
+ "i": 331,
+ "target": "Barlaam and Josaphat",
+ "planted": "Gautama Buddha",
+ "cands": [
+  "Gautama Buddha",
+  "Anansi",
+  "Palamedes (mythology)",
+  "Cadmus",
+  "Qat (deity)",
+  "Abassi",
+  "Yellow Emperor",
+  "Coyote (mythology)",
+  "Romulus and Remus",
+  "Gesar"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

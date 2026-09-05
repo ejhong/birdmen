@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  5,
+  8,
+  3,
+  6,
+  7,
+  9,
+  4,
+  1,
+  2
+ ],
+ "most_similar_reason": "Candidate 10 describes the same feathered-serpent deity (Quetzalcoatl-type figure) with parallel motifs of solar contact, underworld journeys, calendar invention, twin star aspects, and self-transformation, closely mirroring the target's core plumed-serpent mythos.",
+ "least_similar_reason": "Candidate 2 is a genealogical myth about a wandering god fathering social classes through hospitality tests, sharing no serpent, sun, or earthquake motifs with the target.",
+ "set": "related",
+ "pair": "Kukulkan | Quetzalcoatl",
+ "i": 412,
+ "target": "Kukulkan",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Ziusudra",
+  "R\u00edgs\u00feula",
+  "Mbombo",
+  "Kvasir",
+  "Yellow Emperor",
+  "Sky Woman",
+  "Agastya",
+  "Shennong",
+  "Kilibob and Manup",
+  "Quetzalcoatl"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

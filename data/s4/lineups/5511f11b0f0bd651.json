@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  3,
+  7,
+  10,
+  9,
+  5,
+  6,
+  2,
+  4,
+  8
+ ],
+ "most_similar_reason": "Candidate 1 shares the same Trojan War mythic universe as the target\u2014allied kings, oath-bound expeditions, and heroic deeds tied to the same cycle of events (the taking of a queen, coalition warfare, and heroic death accounts)\u2014giving it far more concrete narrative overlap than any other candidate.",
+ "least_similar_reason": "Candidate 8 is an extremely minimal, generic statement about a creator god with no plot, relationships, or specific motifs to compare against the elaborate genealogical and heroic narrative of the target.",
+ "set": "random",
+ "pair": "Aeneas | Palamedes (mythology)",
+ "i": 600,
+ "target": "Aeneas",
+ "planted": "Palamedes (mythology)",
+ "cands": [
+  "Palamedes (mythology)",
+  "Nanabozho",
+  "Ayar Manco",
+  "Kokopelli",
+  "Sky Woman",
+  "Wisakedjak",
+  "Dangun",
+  "Makunaima",
+  "Wayland the Smith",
+  "Great Peacemaker"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

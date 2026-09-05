@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  1,
+  7,
+  3,
+  6,
+  9,
+  8,
+  10,
+  4,
+  2
+ ],
+ "most_similar_reason": "Candidate 5 is the closely related Mesopotamian flood narrative itself, sharing the reed-wall warning, secretive wise god, boat-building, animal loading, seven/six-day storm, and divine remorse that directly parallel the target's flood sequence.",
+ "least_similar_reason": "Candidate 2 is not a narrative at all but a linguistic/etymological discussion of a divine name's survival across languages, sharing no events, figures, or motifs with the target myth.",
+ "set": "positive",
+ "pair": "Atra-Hasis | Gilgamesh flood myth",
+ "i": 249,
+ "target": "Atra-Hasis",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Obatala",
+  "Waaq",
+  "\u014ckuninushi",
+  "Anansi",
+  "Gilgamesh flood myth",
+  "Maya Hero Twins",
+  "Coyote (mythology)",
+  "Agastya",
+  "Baiame",
+  "Yellow Emperor"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

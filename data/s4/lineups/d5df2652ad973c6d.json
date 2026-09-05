@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  3,
+  2,
+  5,
+  9,
+  1,
+  7,
+  10,
+  6,
+  4
+ ],
+ "most_similar_reason": "Candidate 8 shares the core flood narrative almost episode for episode: a god warns a chosen man, who builds a great vessel that survives a rain-flood, rests on a mountain, releases birds (one of which does not return) to test the waters, then offers a sacrifice and receives a divine blessing/covenant.",
+ "least_similar_reason": "Candidate 4 contains no narrative at all\ff0djust the bare identification of a spirit as a deity\ff0dso it shares no episodes, roles, or motifs with the target.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Genesis flood narrative",
+ "i": 225,
+ "target": "Gilgamesh flood myth",
+ "planted": "Genesis flood narrative",
+ "cands": [
+  "Pachacamac",
+  "Triptolemus",
+  "Yu the Great",
+  "Abassi",
+  "Ilmarinen",
+  "Corn Mother",
+  "Kutkh",
+  "Genesis flood narrative",
+  "Sky Woman",
+  "Anansi"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

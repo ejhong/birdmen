@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  7,
+  4,
+  1,
+  10,
+  6,
+  5,
+  3,
+  2,
+  8
+ ],
+ "most_similar_reason": "Candidate 9 most closely matches the target's pattern of a creator/culture-hero who forms humans from stone and other primal matter, shapes the world's landforms and weather, and then teaches or gives his creations the foundations of civilization (fire, pottery, nets, boats, knowledge of good and evil), including a failed or corrected first attempt at ordering the world.",
+ "least_similar_reason": "Candidate 8 is least similar because it is only a brief note about a personified mountain, a salt flat, mummies in a cave, and a village, with no creator figure, no making of humans or light, no flood, and no culture-teaching or departure episode.",
+ "set": "related",
+ "pair": "Viracocha | Tunupa",
+ "i": 443,
+ "target": "Viracocha",
+ "planted": "Tunupa",
+ "cands": [
+  "Sky Woman",
+  "Heitsi-eibib",
+  "Agastya",
+  "Prometheus",
+  "Tagaro",
+  "Nyame",
+  "Kutkh",
+  "Tunupa",
+  "Glooscap",
+  "Ogun"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 10
+}

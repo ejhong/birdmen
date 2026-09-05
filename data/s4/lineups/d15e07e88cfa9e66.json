@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  10,
+  3,
+  4,
+  9,
+  7,
+  8,
+  6,
+  1,
+  2
+ ],
+ "most_similar_reason": "Candidate 5 retells the same core narrative as the target\u2014a divine hero born to destroy a demon king, exiled with his wife and brother, whose wife is abducted, rescued with monkey allies, and finally reunited with him after trial\u2014matching nearly all major plot beats and figures of the target myth.",
+ "least_similar_reason": "Candidate 2 describes Australian Aboriginal rain-spirit origin and rock-art traditions with no shared characters, plot structure, or motifs (no demon king, hero, abduction, or monkey allies), making it the least similar to the target.",
+ "set": "positive",
+ "pair": "Ramakien | Ramayana",
+ "i": 315,
+ "target": "Ramakien",
+ "planted": "Ramayana",
+ "cands": [
+  "Apkallu",
+  "Wandjina",
+  "Aeneas",
+  "Cadmus",
+  "Ramayana",
+  "Hiawatha",
+  "Tezcatlipoca",
+  "Triptolemus",
+  "Tagaro",
+  "Orpheus"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

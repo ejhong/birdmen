@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  10,
+  9,
+  1,
+  7,
+  8,
+  4,
+  6,
+  3,
+  2
+ ],
+ "most_similar_reason": "Candidate 5 is essentially the same epic: exile engineered by a stepmother wanting her own son crowned, the loyal wife won by a bow-feat and the devoted younger brother in exile, the demoness whose nose and ears are cut off, the golden-deer ruse and the abduction by the many-headed island demon king, the alliance with the monkey people against a usurper, the search by a devoted monkey ally, and the final defeat of the demon king.",
+ "least_similar_reason": "Candidate 2 is not a narrative at all but a terminological and theological discussion of a word for sacred power, sharing no characters, episodes, or plot with the target.",
+ "set": "positive",
+ "pair": "Reamker | Ramayana",
+ "i": 291,
+ "target": "Reamker",
+ "planted": "Ramayana",
+ "cands": [
+  "Ilmarinen",
+  "Wakan Tanka",
+  "Kokopelli",
+  "Dangun",
+  "Ramayana",
+  "Baiame",
+  "Yu the Great",
+  "Anansi",
+  "Hiawatha",
+  "Bran the Blessed"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 1
+}

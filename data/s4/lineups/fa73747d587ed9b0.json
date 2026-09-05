@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  7,
+  5,
+  3,
+  6,
+  2,
+  9,
+  8,
+  1,
+  10
+ ],
+ "most_similar_reason": "Candidate 4 shares the core Mesopotamian flood-myth apparatus with the target\u2014divine council deciding to flood humanity, a clever god secretly warning a chosen man through a reed wall, instructions to build a boat and preserve life, and a plague/flood cycle\u2014making it almost a direct parallel narrative.",
+ "least_similar_reason": "Candidate 10 describes a seasonal agricultural folk custom about a straw 'old woman' figure embodying a grain spirit, sharing no motifs of flood, gods, boats, or immortality with the target myth.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Atra-Hasis",
+ "i": 256,
+ "target": "Gilgamesh flood myth",
+ "planted": "Atra-Hasis",
+ "cands": [
+  "Kokopelli",
+  "Shennong",
+  "Bran the Blessed",
+  "Atra-Hasis",
+  "\u014ckuninushi",
+  "Ayar Manco",
+  "Amirani",
+  "Baiame",
+  "Mbombo",
+  "Corn Mother"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  2,
+  9,
+  5,
+  7,
+  6,
+  3,
+  4,
+  1,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 shares the exact distinctive episode complex of the target: a fish-avatar of a god who warns the first man/king of a coming flood, instructs him to build a boat towed by the fish to safety, with seven sages and sacred scriptures preserved, and the survivor made ruler of an age of humanity.",
+ "least_similar_reason": "Candidate 10 is not a narrative at all but a description of an abstract term for sacred power, with no first man, flood, boat, dynastic ages, or incarnations.",
+ "set": "positive",
+ "pair": "Manu (Hinduism) | Matsya",
+ "i": 365,
+ "target": "Manu (Hinduism)",
+ "planted": "Matsya",
+ "cands": [
+  "Cangjie",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Great Peacemaker",
+  "Bran the Blessed",
+  "Aeneas",
+  "Kilibob and Manup",
+  "\u014ckuninushi",
+  "Matsya",
+  "Yu the Great",
+  "Wakan Tanka"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

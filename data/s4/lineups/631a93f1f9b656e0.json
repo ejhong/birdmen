@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  5,
+  3,
+  4,
+  10,
+  7,
+  2,
+  1,
+  9,
+  6
+ ],
+ "most_similar_reason": "Candidate 8 shares the most distinctive correspondences with the target: a culture hero who is one of four sons associated with cardinal directions, sent to teach mankind, credited with inventing a writing system and other arts, a co-creator with shapeshifting animal aspects and a trickster dimension.",
+ "least_similar_reason": "Candidate 6 is a bare one-line statement that a being with two names was a supreme deity, containing no episodes, inventions, births, or relationships to compare with the target's rich narrative.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Bochica",
+ "i": 132,
+ "target": "Quetzalcoatl",
+ "planted": "Bochica",
+ "cands": [
+  "Wakan Tanka",
+  "Corn Mother",
+  "Tagaro",
+  "R\u00edgs\u00feula",
+  "Bochica",
+  "Bumba",
+  "Ogun",
+  "Nanabozho",
+  "Makunaima",
+  "Kilibob and Manup"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 2
+}

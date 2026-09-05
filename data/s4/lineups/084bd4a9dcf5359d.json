@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  3,
+  9,
+  7,
+  1,
+  6,
+  2,
+  10,
+  5,
+  4
+ ],
+ "most_similar_reason": "Candidate 8 shares the target's core pattern of sibling ancestors traveling by canoe across the sea, distributing plants, animals and skills, and having their vessel and objects transform into islands and landforms.",
+ "least_similar_reason": "Candidate 4 is a dynastic hero-and-abduction epic about marriage, exile and rescue, with none of the target's sibling creator-ancestors, sea voyage, landscape-shaping transformations, or founding of clans and ceremonies.",
+ "set": "random",
+ "pair": "Djanggawul | Nanabozho",
+ "i": 611,
+ "target": "Djanggawul",
+ "planted": "Nanabozho",
+ "cands": [
+  "Dangun",
+  "Shennong",
+  "Kutkh",
+  "Rama",
+  "Amirani",
+  "Ogun",
+  "Bachu\u00e9",
+  "Kilibob and Manup",
+  "Nanabozho",
+  "Romulus and Remus"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 3
+}

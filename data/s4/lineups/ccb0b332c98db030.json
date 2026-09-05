@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  8,
+  3,
+  5,
+  4,
+  6,
+  2,
+  7,
+  10,
+  9
+ ],
+ "most_similar_reason": "Candidate 1 shares the core flood-myth structure with the target\u2014a chosen hero forewarned by a divine figure, building a vessel to survive a flood sent to punish human wickedness, followed by thanksgiving and repopulation of the earth\u2014making it the closest match in plot and motif.",
+ "least_similar_reason": "Candidate 9 is an abstract theological description of a symbolic, non-narrative deity with no flood, hero, family, or repopulation elements, making it the least similar to the target's concrete mythic sequence of events.",
+ "set": "positive",
+ "pair": "Deucalion | Noah",
+ "i": 388,
+ "target": "Deucalion",
+ "planted": "Noah",
+ "cands": [
+  "Noah",
+  "Pachacamac",
+  "Bhagiratha",
+  "Bran the Blessed",
+  "Romulus and Remus",
+  "Maya Hero Twins",
+  "T\u0101ne",
+  "Yu the Great",
+  "Sang Hyang Tunggal",
+  "Qat (deity)"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

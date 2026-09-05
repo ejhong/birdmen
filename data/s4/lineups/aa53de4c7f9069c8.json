@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  9,
+  4,
+  8,
+  10,
+  2,
+  3,
+  6,
+  7,
+  5
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's core pattern of a divine civilizing hero who arrives among people, teaches and is consulted for wisdom, is remembered in several contradictory versions, and is tied to the founding of a sacred city with a sun temple commemorating his coming.",
+ "least_similar_reason": "Candidate 5 is a revenge tale of a crippled smith who murders a king's sons and escapes by flight, with no creation of the world or humankind, no flood, no teaching of civilization, and no departing god who walks over the sea.",
+ "set": "hancock",
+ "pair": "Viracocha | Bochica",
+ "i": 202,
+ "target": "Viracocha",
+ "planted": "Bochica",
+ "cands": [
+  "Bochica",
+  "Cangjie",
+  "\u014ckuninushi",
+  "Coyote (mythology)",
+  "Wayland the Smith",
+  "Heitsi-eibib",
+  "Kokopelli",
+  "Kilibob and Manup",
+  "Yellow Emperor",
+  "Cadmus"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

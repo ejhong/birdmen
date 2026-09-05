@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  3,
+  5,
+  8,
+  6,
+  2,
+  4,
+  10,
+  1,
+  9
+ ],
+ "most_similar_reason": "Candidate 7 describes the same type of culture-hero creator deity (Quetzalcoatl-like) with strikingly parallel motifs: multiple birth/origin legends, creation of mankind from remnants of destroyed races via self-sacrificed blood, invention of the calendar and books, teaching of agriculture, and a final self-immolation/disappearance tied to the morning star\u2014closely mirroring the target's bearded creator who forms humans from stones, teaches civilization, and vanishes across the sea.",
+ "least_similar_reason": "Candidate 9 is a harvest folk-custom about a straw effigy housing a grain spirit, with no creator deity, flood, human creation, or teaching narrative, making it thematically unrelated to the target's cosmogonic culture-hero myth.",
+ "set": "hancock",
+ "pair": "Viracocha | Quetzalcoatl",
+ "i": 6,
+ "target": "Viracocha",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Mwari",
+  "Ilmarinen",
+  "R\u00edgs\u00feula",
+  "Kvasir",
+  "Mbombo",
+  "Kutkh",
+  "Quetzalcoatl",
+  "Sky Woman",
+  "Corn Mother",
+  "Wisakedjak"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

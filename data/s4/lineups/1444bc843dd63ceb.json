@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  6,
+  8,
+  4,
+  1,
+  7,
+  5,
+  3,
+  2,
+  9
+ ],
+ "most_similar_reason": "Candidate 10 explicitly features a 'plumed serpent' deity with multiple divergent origin tales, a sister caretaker, transformation motifs, and ties to rain and sun deities, closely mirroring the target's Quetzalcoatl-style feathered serpent mythology and its multiple birth accounts.",
+ "least_similar_reason": "Candidate 9 depicts unrelated ancestral creation figures traveling by canoe and shaping landscapes with digging sticks, sharing no distinctive motifs (feathered serpent, multiple births, underworld journey, self-sacrifice) with the target myth.",
+ "set": "related",
+ "pair": "Quetzalcoatl | Kukulkan",
+ "i": 409,
+ "target": "Quetzalcoatl",
+ "planted": "Kukulkan",
+ "cands": [
+  "Cangjie",
+  "Wakan Tanka",
+  "Waaq",
+  "Kvasir",
+  "Mwari",
+  "Bachu\u00e9",
+  "Oduduwa",
+  "Triptolemus",
+  "Djanggawul",
+  "Kukulkan"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

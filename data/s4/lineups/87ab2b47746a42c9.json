@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  5,
+  1,
+  9,
+  3,
+  8,
+  2,
+  7,
+  4,
+  6
+ ],
+ "most_similar_reason": "Candidate 10 shares the exact frame-tale structure of an advisor teaching a ruler through nested animal fables, including the jackal/dog courtiers at a lion's court, a band of four small animals rescuing each other, a crow-and-bird-of-prey war with a spy, and warnings against hasty/false actions, closely mirroring the target's five collections.",
+ "least_similar_reason": "Candidate 6 is a agricultural folk-custom about a grain spirit and harvest doll with no animal fables, royal pupils, or teaching frame, sharing only the loosest thematic link of traditional wisdom-lore.",
+ "set": "positive",
+ "pair": "Panchatantra | Kalila wa-Dimna",
+ "i": 341,
+ "target": "Panchatantra",
+ "planted": "Kalila wa-Dimna",
+ "cands": [
+  "Cadmus",
+  "Bachu\u00e9",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Kokopelli",
+  "\u014ckuninushi",
+  "Corn Mother",
+  "Wisakedjak",
+  "Great Peacemaker",
+  "Ziusudra",
+  "Kalila wa-Dimna"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

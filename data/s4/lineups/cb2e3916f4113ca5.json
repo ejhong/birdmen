@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  10,
+  9,
+  1,
+  7,
+  3,
+  6,
+  5,
+  2,
+  8
+ ],
+ "most_similar_reason": "Candidate 4 directly retells the Manu flood myth with a fish-avatar god warning of the deluge, towing the boat with sacred scriptures and sages, and situates it within the same ten/fourteen-avatar cosmic cycle as the target's creator-god framework.",
+ "least_similar_reason": "Candidate 8 is a self-contained revenge tale about a captured, mutilated craftsman who kills a king's sons and seduces his daughter before flying away, sharing no flood, fish, boat, or creation motifs with the target.",
+ "set": "positive",
+ "pair": "Matsya | Manu (Hinduism)",
+ "i": 373,
+ "target": "Matsya",
+ "planted": "Manu (Hinduism)",
+ "cands": [
+  "T\u0101ne",
+  "Bran the Blessed",
+  "White Buffalo Calf Woman",
+  "Manu (Hinduism)",
+  "Yellow Emperor",
+  "Mama Ocllo",
+  "Kilibob and Manup",
+  "Wayland the Smith",
+  "Pachacamac",
+  "Tezcatlipoca"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

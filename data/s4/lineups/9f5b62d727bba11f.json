@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  4,
+  5,
+  7,
+  3,
+  1,
+  9,
+  6,
+  2,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 shares the exact flood narrative core with the target: gods swearing to a flood, a wise god secretly warning the flood hero through a reed wall, building a boat, seven/six days of storm, and the wise god rebuking the storm god afterward, closely mirroring the target's clever god instructing the wise man through a reed wall to build a waterproof ship.",
+ "least_similar_reason": "Candidate 10 is least similar, being a minimal ancestor/creator figure story about reeds and forgetting creation, with none of the divine labor rebellion, human creation from blood and clay, plagues, or flood-boat motifs central to the target.",
+ "set": "positive",
+ "pair": "Atra-Hasis | Gilgamesh flood myth",
+ "i": 243,
+ "target": "Atra-Hasis",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Qat (deity)",
+  "Sosruko",
+  "Tezcatlipoca",
+  "Maya Hero Twins",
+  "Oduduwa",
+  "Cangjie",
+  "Ogun",
+  "Gilgamesh flood myth",
+  "Kutkh",
+  "Unkulunkulu"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

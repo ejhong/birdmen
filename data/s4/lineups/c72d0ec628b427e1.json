@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  1,
+  9,
+  4,
+  5,
+  8,
+  10,
+  3,
+  6,
+  2
+ ],
+ "most_similar_reason": "Candidate 7's bearded creator deity who rises from primeval waters to bring light, teaches civilization, wanders as a beggar imparting arts and knowledge, causes and survives a flood, and finally disappears across the sea (walking on water) closely parallels the target's Oannes-like first sage who emerges to teach civilization, the flood context of the primeval kings, and the sages' eventual banishment/disappearance into the waters.",
+ "least_similar_reason": "Candidate 2 is a bare one-line statement about a two-named supreme deity with no narrative content shared with the elaborate mythos of the seven sages, flood, tablets of destiny, or civilizing acts described in the target.",
+ "set": "hancock",
+ "pair": "Oannes | Viracocha",
+ "i": 30,
+ "target": "Oannes",
+ "planted": "Viracocha",
+ "cands": [
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Bumba",
+  "Oduduwa",
+  "Cadmus",
+  "Bhagiratha",
+  "Kutkh",
+  "Viracocha",
+  "Tangaroa",
+  "Qat (deity)",
+  "Aeneas"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

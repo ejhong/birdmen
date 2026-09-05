@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  10,
+  4,
+  1,
+  6,
+  5,
+  2,
+  7,
+  9,
+  8
+ ],
+ "most_similar_reason": "Candidate 3 tells the same myth from the wife-sister's perspective: the sibling-spouse king born of earth and sky deities is murdered and dismembered by his jealous brother, the goddess and her sister gather the scattered pieces and reassemble him, she magically revives him to conceive a son who later avenges his father and takes the throne, while the restored king rules only in the underworld.",
+ "least_similar_reason": "Candidate 8 contains no narrative at all\u2014merely the bare identification of a deity\u2014so it shares none of the target's roles, episodes, or motifs.",
+ "set": "related",
+ "pair": "Osiris | Isis",
+ "i": 465,
+ "target": "Osiris",
+ "planted": "Isis",
+ "cands": [
+  "Nyame",
+  "Amirani",
+  "Isis",
+  "Pachacamac",
+  "Dangun",
+  "Hiawatha",
+  "Yellow Emperor",
+  "Abassi",
+  "Wakan Tanka",
+  "Tangaroa"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

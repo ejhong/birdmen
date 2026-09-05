@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  1,
+  3,
+  2,
+  6,
+  8,
+  7,
+  9,
+  10,
+  5
+ ],
+ "most_similar_reason": "Candidate 4 shares the core N\u00fcwa-Fuxi mythic complex: a sibling pair living on a sacred mountain who marry after a divine sign, create humanity from clay and animate it, and one figure institutes cosmic order (trigrams, sacrifice), closely mirroring the target's clay-people creation and sibling-marriage motifs.",
+ "least_similar_reason": "Candidate 5 offers only a bare mention of a deity with two names and no narrative content overlapping with the target's specific creation, cosmic-repair, or marriage motifs.",
+ "set": "related",
+ "pair": "N\u00fcwa | Fuxi",
+ "i": 517,
+ "target": "N\u00fcwa",
+ "planted": "Fuxi",
+ "cands": [
+  "Tezcatlipoca",
+  "Qat (deity)",
+  "Pachacamac",
+  "Fuxi",
+  "Bumba",
+  "Amirani",
+  "Anansi",
+  "Wayland the Smith",
+  "Wandjina",
+  "Baiame"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

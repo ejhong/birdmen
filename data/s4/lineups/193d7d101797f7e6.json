@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  2,
+  1,
+  3,
+  9,
+  8,
+  6,
+  5,
+  4,
+  10
+ ],
+ "most_similar_reason": "Candidate 7 shares the core episode almost point for point: a supreme god decides to destroy wicked humanity with a flood, a single favored hero is forewarned and builds a wooden vessel, he and his family alone survive, the waters recede, he gives thanks/offerings to the god, and the earth is repopulated from him with peoples descended from his children.",
+ "least_similar_reason": "Candidate 10 is not a narrative at all but a description of a supreme deity's attributes and worship through mediums, with no flood, no surviving couple, no repopulation, and no founding-hero sequence.",
+ "set": "positive",
+ "pair": "Deucalion | Noah",
+ "i": 380,
+ "target": "Deucalion",
+ "planted": "Noah",
+ "cands": [
+  "Apkallu",
+  "Aeneas",
+  "Mama Ocllo",
+  "Baiame",
+  "Hiawatha",
+  "T\u0101ne",
+  "Noah",
+  "Huitzilopochtli",
+  "Romulus and Remus",
+  "Mwari"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

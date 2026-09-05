@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  1,
+  10,
+  3,
+  8,
+  6,
+  7,
+  2,
+  4,
+  5
+ ],
+ "most_similar_reason": "Candidate 9 tells essentially the same myth: the sister-wife goddess whose brother-husband king is murdered by a jealous brother and dismembered, whose scattered pieces she and her sister recover and reassemble, who is magically revived just long enough for her to conceive a son that later avenges him, after which he rules the underworld.",
+ "least_similar_reason": "Candidate 5 shares nothing with the target beyond generic supernatural agency\u2014it is a shapeshifting rabbit trickster who names animals and slaps a giant lumberjack with a fish, with no murdered king, dismemberment, resurrection, avenging son, or protective mother-goddess.",
+ "set": "related",
+ "pair": "Isis | Osiris",
+ "i": 479,
+ "target": "Isis",
+ "planted": "Osiris",
+ "cands": [
+  "Triptolemus",
+  "Yu the Great",
+  "Pachacamac",
+  "Hiawatha",
+  "Nanabozho",
+  "Itzamna",
+  "Agastya",
+  "Wayland the Smith",
+  "Osiris",
+  "Romulus and Remus"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

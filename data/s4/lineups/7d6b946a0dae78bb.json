@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  1,
+  9,
+  2,
+  5,
+  6,
+  3,
+  4,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 7 shares the core flood-hero narrative structure (divine mandate, boat-building, family and animals preserved, sacrifice after landing, divine blessing, and post-flood episode with sons), making it the closest match to the target's flood myth.",
+ "least_similar_reason": "Candidate 10 describes a humpbacked flute-playing fertility trickster deity with no flood, ark, or immortality-quest narrative, sharing no meaningful plot elements with the target.",
+ "set": "positive",
+ "pair": "Utnapishtim | Noah",
+ "i": 264,
+ "target": "Utnapishtim",
+ "planted": "Noah",
+ "cands": [
+  "Aeneas",
+  "R\u00edgs\u00feula",
+  "Wakan Tanka",
+  "Abassi",
+  "Pachacamac",
+  "Baiame",
+  "Noah",
+  "Bumba",
+  "Dangun",
+  "Kokopelli"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

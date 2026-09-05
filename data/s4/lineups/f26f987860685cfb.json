@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  10,
+  6,
+  9,
+  4,
+  5,
+  2,
+  7,
+  1,
+  3
+ ],
+ "most_similar_reason": "Candidate 8 shares numerous distinctive motifs with the target's feathered serpent deity\u2014an anthropomorphic bearded creator who rises from a lake, makes humans from stone, destroys a flawed race by flood, disappears across the sea walking on water, and wanders disguised teaching civilization\u2014paralleling Quetzalcoatl's mythic cycle of creation, journeying, and eventual departure.",
+ "least_similar_reason": "Candidate 3 offers only a bare statement that a deity had two names and was supreme, sharing no specific narrative content, motifs, or events with the richly detailed target myth.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Viracocha",
+ "i": 16,
+ "target": "Quetzalcoatl",
+ "planted": "Viracocha",
+ "cands": [
+  "Ilmarinen",
+  "Amirani",
+  "Bumba",
+  "Anansi",
+  "Sosruko",
+  "Ninigi-no-Mikoto",
+  "Hiawatha",
+  "Viracocha",
+  "Kilibob and Manup",
+  "Triptolemus"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

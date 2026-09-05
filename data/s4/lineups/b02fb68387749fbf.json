@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  4,
+  6,
+  3,
+  7,
+  8,
+  2,
+  10,
+  9,
+  5
+ ],
+ "most_similar_reason": "Candidate 1 shares the core flood-hero episode with a wise god secretly warning a mortal through a reed wall to build a waterproof boat and survive a divine-sent flood, matching the target's most distinctive motifs almost point for point.",
+ "least_similar_reason": "Candidate 5 is a bare, contentless notice of a deity's worship with no narrative events, sharing nothing of the target's plot, characters, or motifs.",
+ "set": "positive",
+ "pair": "Atra-Hasis | Gilgamesh flood myth",
+ "i": 240,
+ "target": "Atra-Hasis",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Gilgamesh flood myth",
+  "Anansi",
+  "Great Peacemaker",
+  "Aeneas",
+  "Abassi",
+  "Cadmus",
+  "Huitzilopochtli",
+  "Ayar Manco",
+  "Makunaima",
+  "Ilmarinen"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

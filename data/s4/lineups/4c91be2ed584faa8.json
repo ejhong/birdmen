@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  6,
+  7,
+  10,
+  9,
+  8,
+  3,
+  2,
+  5,
+  1
+ ],
+ "most_similar_reason": "Candidate 4 matches the target's core premise most closely: a semi-divine being explicitly sent down by a higher god to teach humanity, credited with naming/ordering the world, inventing crafts (fishing) and writing, founding an institution, and acting as co-creator \u2014 the same culture-bringer-of-civilization role as the fish-sages.",
+ "least_similar_reason": "Candidate 1 is a description of agricultural harvest customs with a grain spirit housed in a straw doll, sharing none of the target's civilizing sages, primeval kings, flood, or transmission of knowledge to humankind.",
+ "set": "random",
+ "pair": "Apkallu | Mbombo",
+ "i": 613,
+ "target": "Apkallu",
+ "planted": "Mbombo",
+ "cands": [
+  "Corn Mother",
+  "Gesar",
+  "Ilmarinen",
+  "Nanabozho",
+  "Maya Hero Twins",
+  "Yu the Great",
+  "Kilibob and Manup",
+  "Agastya",
+  "Mbombo",
+  "T\u0101ne"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 5
+}

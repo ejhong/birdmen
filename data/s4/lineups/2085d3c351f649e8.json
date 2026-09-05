@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  2,
+  7,
+  5,
+  8,
+  6,
+  1,
+  4,
+  10,
+  3
+ ],
+ "most_similar_reason": "Candidate 9 shares the closest cluster of specific motifs with the target: a divine hero leading siblings on a migration, conflict with a sister figure, founding a city on a lake island, and a heart/eagle-serpent sign for city placement, mirroring the target's cave-emergence, sibling conquest, marshy city founding, and island temple relocation.",
+ "least_similar_reason": "Candidate 3 is a purely abstract theological and iconographic description with no narrative of siblings, migration, conquest, or city founding, making it the least similar in content to the target's concrete mythic sequence.",
+ "set": "related",
+ "pair": "Manco C\u00e1pac | Viracocha",
+ "i": 434,
+ "target": "Manco C\u00e1pac",
+ "planted": "Viracocha",
+ "cands": [
+  "Bhagiratha",
+  "Viracocha",
+  "Sang Hyang Tunggal",
+  "Rama",
+  "Obatala",
+  "Mbombo",
+  "Maya Hero Twins",
+  "Qat (deity)",
+  "Huitzilopochtli",
+  "Nyame"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 2
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  7,
+  5,
+  9,
+  3,
+  8,
+  4,
+  10,
+  2,
+  6
+ ],
+ "most_similar_reason": "Candidate 1 centers on the same figure\u2014a feathered/plumed serpent deity\u2014told through multiple regional myth variants, including sibling caretaking, flight, earthquakes, and solar interactions, closely mirroring the target's structure of multiple conflicting feathered-serpent birth/myth traditions.",
+ "least_similar_reason": "Candidate 6 provides no narrative content at all beyond naming a regional deity, sharing no specific motifs, events, or relationships with the richly detailed target myth.",
+ "set": "related",
+ "pair": "Quetzalcoatl | Kukulkan",
+ "i": 400,
+ "target": "Quetzalcoatl",
+ "planted": "Kukulkan",
+ "cands": [
+  "Kukulkan",
+  "Corn Mother",
+  "Ninigi-no-Mikoto",
+  "Nyame",
+  "Heitsi-eibib",
+  "Abassi",
+  "Pachacamac",
+  "Amirani",
+  "Bhagiratha",
+  "Palamedes (mythology)"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

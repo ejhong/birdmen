@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  6,
+  9,
+  2,
+  8,
+  5,
+  3,
+  1,
+  10,
+  4
+ ],
+ "most_similar_reason": "Candidate 7 shares the closest thematic cluster with the target: a deity credited with inventing writing/calendars, dividing the cosmos among four sibling gods, journeying to the underworld, and shaping humanity, mirroring Thoth's roles as inventor of writing, counselor among the Ennead, and underworld judge.",
+ "least_similar_reason": "Candidate 4 contains almost no narrative content\u2014just a bare statement that a deity is worshipped\u2014so it shares none of the specific motifs (writing, judgment of the dead, epagomenal days, or divine kinship) found in the target myth.",
+ "set": "hancock",
+ "pair": "Thoth | Quetzalcoatl",
+ "i": 167,
+ "target": "Thoth",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Rama",
+  "Oduduwa",
+  "Aeneas",
+  "Abassi",
+  "Cadmus",
+  "Triptolemus",
+  "Quetzalcoatl",
+  "\u014ckuninushi",
+  "Dangun",
+  "Ogun"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

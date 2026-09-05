@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  6,
+  5,
+  3,
+  2,
+  9,
+  7,
+  4,
+  1,
+  8
+ ],
+ "most_similar_reason": "Candidate 10 shares the target's exact flood episode: gods swearing an oath to destroy humanity, a wise god secretly warning the flood hero through a reed wall, the sealed boat loaded with kin and animals, and the ensuing storm.",
+ "least_similar_reason": "Candidate 8 concerns a human prophet founding a political peace league with condolence rites and no creation of humanity, divine labor revolt, plague/famine cycle, or flood.",
+ "set": "positive",
+ "pair": "Atra-Hasis | Gilgamesh flood myth",
+ "i": 248,
+ "target": "Atra-Hasis",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Tagaro",
+  "Wisakedjak",
+  "T\u0101ne",
+  "Bhagiratha",
+  "Coyote (mythology)",
+  "Prometheus",
+  "Bachu\u00e9",
+  "Hiawatha",
+  "Tezcatlipoca",
+  "Gilgamesh flood myth"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

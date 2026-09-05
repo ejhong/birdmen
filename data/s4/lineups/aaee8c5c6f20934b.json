@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  9,
+  5,
+  7,
+  2,
+  4,
+  3,
+  6,
+  1,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 shares the exact flood-warning-fish-avatar-boat-tow-mountain motif with sages and scriptures preserved, directly mirroring the target's flood narrative and fish deity rescue.",
+ "least_similar_reason": "Candidate 10 is an abstract discussion of a linguistic/religious concept with no narrative figures, events, or flood/progenitor motifs, making it wholly unrelated in content to the target's mythic genealogy and flood story.",
+ "set": "positive",
+ "pair": "Manu (Hinduism) | Matsya",
+ "i": 365,
+ "target": "Manu (Hinduism)",
+ "planted": "Matsya",
+ "cands": [
+  "Cangjie",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Great Peacemaker",
+  "Bran the Blessed",
+  "Aeneas",
+  "Kilibob and Manup",
+  "\u014ckuninushi",
+  "Matsya",
+  "Yu the Great",
+  "Wakan Tanka"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

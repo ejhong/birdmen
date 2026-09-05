@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  3,
+  2,
+  5,
+  9,
+  6,
+  1,
+  10,
+  7,
+  8
+ ],
+ "most_similar_reason": "Candidate 4's culture hero, like the target's moon deity, is explicitly credited with inventing writing, a calendar, and works of religion/science/law, bears titles emphasizing cosmic and multi-faced (four-faced) divinity, and is embroiled in a rain-versus-fire/drought rivalry that echoes the target's young god vs. rival god conflict resolved through wisdom, making it the closest thematic match.",
+ "least_similar_reason": "Candidate 8 is an extremely generic one-line description of a creator god with no specific motifs\u2014no writing invention, no scribal role, no underworld judgment, no birth-of-gods episode\u2014so it shares nothing distinctive with the richly detailed target myth.",
+ "set": "hancock",
+ "pair": "Thoth | Quetzalcoatl",
+ "i": 163,
+ "target": "Thoth",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Wayland the Smith",
+  "Apkallu",
+  "Quetzalcoatl",
+  "Yellow Emperor",
+  "Obatala",
+  "Aeneas",
+  "Bumba",
+  "Makunaima",
+  "Bhagiratha",
+  "Mama Ocllo"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 2
+}

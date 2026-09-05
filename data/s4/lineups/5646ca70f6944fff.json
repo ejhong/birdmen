@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  5,
+  1,
+  9,
+  8,
+  7,
+  6,
+  2,
+  3,
+  4
+ ],
+ "most_similar_reason": "Candidate 10 matches the target's hero-biography arc most closely: a divinely aided hero competes for and wins a princess, is persecuted by a jealous kinsman/brothers, is aided by a helper and reborn, wins a new grand title, defeats his rivals to become ruler, wages/settles conquests, takes multiple wives, and finally descends to and rules an underworld realm.",
+ "least_similar_reason": "Candidate 4 is not a story at all but an explanation of a term for a diffuse sacred power, containing no hero, birth, contest, marriage, war, or journey to parallel the target.",
+ "set": "random",
+ "pair": "Gesar | Kvasir",
+ "i": 590,
+ "target": "Gesar",
+ "planted": "Kvasir",
+ "cands": [
+  "Qat (deity)",
+  "Kvasir",
+  "Corn Mother",
+  "Wakan Tanka",
+  "Huitzilopochtli",
+  "Nyame",
+  "Ilmarinen",
+  "Hiawatha",
+  "Mama Ocllo",
+  "\u014ckuninushi"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 8
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  5,
+  8,
+  3,
+  6,
+  4,
+  2,
+  7,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 1 recounts the life of the founding teacher (a prince who renounces royal life to become an ascetic and later establishes a persecuted religious order), which is the same underlying religious tradition and teacher-figure motif that anchors the target's narrative of conversion and renunciation of rule.",
+ "least_similar_reason": "Candidate 10 is an origin myth about the invention of writing with no themes of rulers, religious persecution, prophecy, or conversion, sharing no meaningful motifs with the target.",
+ "set": "positive",
+ "pair": "Barlaam and Josaphat | Gautama Buddha",
+ "i": 334,
+ "target": "Barlaam and Josaphat",
+ "planted": "Gautama Buddha",
+ "cands": [
+  "Gautama Buddha",
+  "Ilmarinen",
+  "Oduduwa",
+  "Djanggawul",
+  "Apkallu",
+  "Bran the Blessed",
+  "Heitsi-eibib",
+  "Mwari",
+  "Corn Mother",
+  "Cangjie"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

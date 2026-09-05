@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  10,
+  4,
+  5,
+  1,
+  8,
+  7,
+  2,
+  3,
+  6
+ ],
+ "most_similar_reason": "Candidate 9 matches the target most closely because its deity is likewise a divine culture-bringer credited with inventing books and the calendar (a day-count motif), is bound up with sibling gods born in a set of four ruling divisions, journeys to the underworld and effects a resurrection/re-creation of life, and is tied to a celestial body's cycles.",
+ "least_similar_reason": "Candidate 6 is least similar because it is a bare identification of a creator god with no episodes, relationships, inventions, or judgments to compare with the target's dense sequence of myths.",
+ "set": "hancock",
+ "pair": "Thoth | Quetzalcoatl",
+ "i": 161,
+ "target": "Thoth",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Dangun",
+  "Bhagiratha",
+  "Corn Mother",
+  "Orpheus",
+  "Kutkh",
+  "Makunaima",
+  "Mama Ocllo",
+  "Ilmarinen",
+  "Quetzalcoatl",
+  "Sky Woman"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  2,
+  5,
+  8,
+  6,
+  7,
+  9,
+  4,
+  10,
+  3
+ ],
+ "most_similar_reason": "Candidate 1 shares the most distinctive correspondences with the target: a civilizing deity who gives a grain crop and a cultivated plant to humanity, journeys to the underworld, is entangled in incest/sibling relations, and is enclosed and sealed inside a chest that becomes the vehicle of his death and transformation.",
+ "least_similar_reason": "Candidate 3 is merely a bare note that a creator god is known by variant names among peoples of a river basin, offering no episodes, relationships, or motifs to compare with the target's murder, dismemberment, search, and revival narrative.",
+ "set": "hancock",
+ "pair": "Osiris | Quetzalcoatl",
+ "i": 94,
+ "target": "Osiris",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Quetzalcoatl",
+  "Kilibob and Manup",
+  "Makunaima",
+  "White Buffalo Calf Woman",
+  "Yellow Emperor",
+  "Ninigi-no-Mikoto",
+  "Berossus",
+  "Qat (deity)",
+  "Ilmarinen",
+  "Mbombo"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

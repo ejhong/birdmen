@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  10,
+  9,
+  8,
+  3,
+  6,
+  5,
+  7,
+  1,
+  4
+ ],
+ "most_similar_reason": "Candidate 2 shares the core flood narrative structure almost exactly: a divine warning to a righteous man, building a vessel, loading it with life, a devastating flood, the boat resting on a mountain, release of birds (raven-like and dove-like) to test for dry land, and a concluding sacrifice with divine reconciliation.",
+ "least_similar_reason": "Candidate 4 is a genealogical and cultural-inventions catalog about a legendary sovereign with no flood, boat, birds, immortality plant, or serpent motif, sharing only the vague theme of a culture hero credited with inventions.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Genesis flood narrative",
+ "i": 226,
+ "target": "Gilgamesh flood myth",
+ "planted": "Genesis flood narrative",
+ "cands": [
+  "Shennong",
+  "Genesis flood narrative",
+  "Obatala",
+  "Yellow Emperor",
+  "Kilibob and Manup",
+  "Anansi",
+  "Itzamna",
+  "Tagaro",
+  "Kvasir",
+  "Cangjie"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 1
+}

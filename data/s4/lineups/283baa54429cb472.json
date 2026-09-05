@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  5,
+  3,
+  7,
+  2,
+  10,
+  6,
+  9,
+  1,
+  8
+ ],
+ "most_similar_reason": "Candidate 4 shares the exact distinctive episode: angered high gods decree a flood to destroy noisy humanity, a clever god circumvents his oath by speaking a warning through a reed wall to a wise man, who builds a sealed waterproof ship, loads family and animals, and rides out a multi-day deluge.",
+ "least_similar_reason": "Candidate 8 is a bare identification of a deity with no actions, figures, events, or motifs at all, so it shares nothing with the target's elaborate flood-and-immortality narrative.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Atra-Hasis",
+ "i": 253,
+ "target": "Gilgamesh flood myth",
+ "planted": "Atra-Hasis",
+ "cands": [
+  "Bumba",
+  "Hiawatha",
+  "Nyame",
+  "Atra-Hasis",
+  "Bhagiratha",
+  "Palamedes (mythology)",
+  "Wandjina",
+  "Abassi",
+  "Makunaima",
+  "Bachu\u00e9"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

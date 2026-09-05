@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  10,
+  7,
+  1,
+  4,
+  2,
+  8,
+  5,
+  3,
+  6
+ ],
+ "most_similar_reason": "Candidate 9 shares the closest cluster of distinctive motifs\u2014a deity who invents writing/calendars, journeys to the underworld, helps create mankind, has a twin/counterpart, and is entangled in sibling rivalry and self-sacrifice, paralleling Thoth's roles as inventor of writing, underworld judge, and counselor amid divine conflict.",
+ "least_similar_reason": "Candidate 6 is an extremely sparse, generic statement about a creator god with almost no concrete narrative details, actions, or relationships to compare against the richly specific Thoth mythos.",
+ "set": "hancock",
+ "pair": "Thoth | Quetzalcoatl",
+ "i": 161,
+ "target": "Thoth",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Dangun",
+  "Bhagiratha",
+  "Corn Mother",
+  "Orpheus",
+  "Kutkh",
+  "Makunaima",
+  "Mama Ocllo",
+  "Ilmarinen",
+  "Quetzalcoatl",
+  "Sky Woman"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  10,
+  1,
+  2,
+  8,
+  6,
+  5,
+  3,
+  4,
+  9
+ ],
+ "most_similar_reason": "Candidate 7 shares the identical distinctive episode complex: a council of high gods decrees a flood, a clever god circumvents his oath of silence by speaking through a reed wall to a favored wise man, who builds and seals a waterproof ship, loads family and animals, and rides out a storm of set duration.",
+ "least_similar_reason": "Candidate 9 has no hero, gods, journey, flood, or immortality quest at all\u2014only an agricultural harvest custom of making a straw figure to house a crop spirit.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Atra-Hasis",
+ "i": 257,
+ "target": "Gilgamesh flood myth",
+ "planted": "Atra-Hasis",
+ "cands": [
+  "Maya Hero Twins",
+  "Ilmarinen",
+  "Great Peacemaker",
+  "Kokopelli",
+  "White Buffalo Calf Woman",
+  "Ogun",
+  "Atra-Hasis",
+  "Huitzilopochtli",
+  "Corn Mother",
+  "Dangun"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

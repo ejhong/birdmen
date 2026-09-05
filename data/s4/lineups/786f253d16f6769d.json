@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  8,
+  4,
+  1,
+  9,
+  5,
+  3,
+  10,
+  2,
+  7
+ ],
+ "most_similar_reason": "Candidate 6 shares the core narrative of a bearded, human-like civilizing deity who descends, teaches civilization, founds cities, disappears across water, and is remembered in multiple, sometimes contradictory forms\\'s of him, closely paralleling the target's civilizing hero who founds a religion, visits towns, and is venerated with festivals.",
+ "least_similar_reason": "Candidate 2 is an unrelated heroic saga about a monster-slaying strongman who fights giants and dragons and is ultimately chained beneath a mountain, sharing no specific motifs (witness testimonies, temple, cave, chiefs, sun worship) with the target myth.",
+ "set": "hancock",
+ "pair": "Bochica | Viracocha",
+ "i": 210,
+ "target": "Bochica",
+ "planted": "Viracocha",
+ "cands": [
+  "Itzamna",
+  "Amirani",
+  "Kokopelli",
+  "Ziusudra",
+  "Unkulunkulu",
+  "Viracocha",
+  "Ilmarinen",
+  "Baiame",
+  "Gesar",
+  "Heitsi-eibib"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

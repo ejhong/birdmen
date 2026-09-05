@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  7,
+  2,
+  5,
+  10,
+  8,
+  6,
+  3,
+  1,
+  4
+ ],
+ "most_similar_reason": "Candidate 9 shares the core cosmogonic sequence of a giant, human-formed creator who emerges amid darkness and primordial water, brings forth the sun, moon and stars, creates humankind (with a favored white ruler), and eventually withdraws from the world, closely mirroring the target's creation-of-light and human-creation-then-departure structure.",
+ "least_similar_reason": "Candidate 4 is an extremely vague, single-sentence mention of a creator god with no shared specific motifs (no flood, stones, sun/moon creation, disguise, staff, or disappearance across water), making it the least comparable in content.",
+ "set": "hancock",
+ "pair": "Viracocha | Osiris",
+ "i": 45,
+ "target": "Viracocha",
+ "planted": "Osiris",
+ "cands": [
+  "Kokopelli",
+  "Prometheus",
+  "Yellow Emperor",
+  "Makunaima",
+  "Ilmarinen",
+  "Bran the Blessed",
+  "Osiris",
+  "Kilibob and Manup",
+  "Mbombo",
+  "Romulus and Remus"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 2
+}

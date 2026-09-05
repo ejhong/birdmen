@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  5,
+  4,
+  8,
+  1,
+  9,
+  3,
+  7,
+  6,
+  2
+ ],
+ "most_similar_reason": "Candidate 10 is essentially the same work: a sage instructing royalty through a nested cycle of animal fables with the identical constituent tales\u2014the scheming jackal in the lion king's court who destroys a friendship, the four weak allies (crow, mouse, turtle, deer) who rescue one another, and the war of crows against birds of prey decided by counsel.",
+ "least_similar_reason": "Candidate 2 is a flood-and-kingship narrative with divine warnings, a boat, and sacrifice, sharing no animal fables, no didactic frame, and none of the target's court-intrigue or friendship motifs.",
+ "set": "positive",
+ "pair": "Kalila wa-Dimna | Panchatantra",
+ "i": 350,
+ "target": "Kalila wa-Dimna",
+ "planted": "Panchatantra",
+ "cands": [
+  "Romulus and Remus",
+  "Ziusudra",
+  "Amirani",
+  "Dangun",
+  "Coyote (mythology)",
+  "Ninigi-no-Mikoto",
+  "Bran the Blessed",
+  "Mbombo",
+  "Tangaroa",
+  "Panchatantra"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

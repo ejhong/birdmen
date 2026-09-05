@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  9,
+  4,
+  8,
+  3,
+  7,
+  1,
+  2,
+  5,
+  6
+ ],
+ "most_similar_reason": "Candidate 10 shares the closest thematic cluster with the target: a bearded, human-form creator deity who forms humankind, divides land and names its features, invents writing/teaching civilization, and has multiple offspring who continue creation, echoing the target's Quetzalcoatl/Viracocha-style culture-hero who teaches, names, and creates humans from stones.",
+ "least_similar_reason": "Candidate 6 is an extremely minimal, localized myth about a mountain deity linked to a salt flat and a cave of mummies, sharing no meaningful motifs\u2014no creation of humanity, no flood, no teaching journey, no disappearance across water\u2014making it the least similar to the target's rich, multi-episode creation and culture-hero narrative.",
+ "set": "related",
+ "pair": "Viracocha | Tunupa",
+ "i": 442,
+ "target": "Viracocha",
+ "planted": "Tunupa",
+ "cands": [
+  "Tagaro",
+  "Sosruko",
+  "\u014ckuninushi",
+  "Ninigi-no-Mikoto",
+  "Coyote (mythology)",
+  "Tunupa",
+  "Tangaroa",
+  "Bhagiratha",
+  "Prometheus",
+  "Itzamna"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 10
+}

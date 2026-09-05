@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  1,
+  9,
+  5,
+  6,
+  2,
+  10,
+  3,
+  4,
+  8
+ ],
+ "most_similar_reason": "Candidate 7 shares the target's core episode almost point for point: a deity resolves to destroy all mankind by flood, commands one favored man to build a great boat, he loads his family and animals, all others perish, and after the waters recede he offers sacrifice and receives a divine blessing/covenant.",
+ "least_similar_reason": "Candidate 8 is a bare one-line identification of a supreme deity with two names, containing no events, no flood, no vessel, no hero, and thus nothing to correspond with the target's narrative.",
+ "set": "positive",
+ "pair": "Utnapishtim | Noah",
+ "i": 264,
+ "target": "Utnapishtim",
+ "planted": "Noah",
+ "cands": [
+  "Aeneas",
+  "R\u00edgs\u00feula",
+  "Wakan Tanka",
+  "Abassi",
+  "Pachacamac",
+  "Baiame",
+  "Noah",
+  "Bumba",
+  "Dangun",
+  "Kokopelli"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

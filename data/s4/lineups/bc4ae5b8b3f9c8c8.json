@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  10,
+  3,
+  1,
+  8,
+  6,
+  4,
+  7,
+  5,
+  2
+ ],
+ "most_similar_reason": "Candidate 9 matches the target most closely because it also concerns a civilizing hero-deity of contested identity who comes to earth, appears in successive places, teaches the foundations of religion and civilization, is linked to the sun and to the founding of a sacred city, and is commemorated in tradition.",
+ "least_similar_reason": "Candidate 2 is least similar because it is only a bare identification of a spirit as a deity, with no episodes, no hero's arrival, no teaching, cave, chiefs, temple, or festival to compare.",
+ "set": "hancock",
+ "pair": "Bochica | Viracocha",
+ "i": 217,
+ "target": "Bochica",
+ "planted": "Viracocha",
+ "cands": [
+  "Obatala",
+  "Abassi",
+  "Oduduwa",
+  "Tagaro",
+  "Bumba",
+  "Orpheus",
+  "Corn Mother",
+  "Kvasir",
+  "Viracocha",
+  "Great Peacemaker"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

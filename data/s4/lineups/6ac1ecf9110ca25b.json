@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  3,
+  7,
+  9,
+  8,
+  1,
+  2,
+  10,
+  6,
+  4
+ ],
+ "most_similar_reason": "Candidate 5 most closely parallels the target because it centers on a deified figure who is credited with creating and shaping mountains, lakes, rivers, and caves, and specifically describes a sacred mountain associated with him containing a nearby cave with paintings representing him\u2014mirroring the target's mountain deity with an associated cave and sacred site.",
+ "least_similar_reason": "Candidate 4 is least similar, as it is a fragmentary king-list and flood/founding-city narrative with no mountain deity, salt flat, cave, or mummies, sharing only the barest generic mythic framing with the target.",
+ "set": "related",
+ "pair": "Tunupa | Viracocha",
+ "i": 450,
+ "target": "Tunupa",
+ "planted": "Viracocha",
+ "cands": [
+  "Anansi",
+  "Rama",
+  "Ilmarinen",
+  "Berossus",
+  "Baiame",
+  "Great Peacemaker",
+  "Viracocha",
+  "Maya Hero Twins",
+  "\u014ckuninushi",
+  "Aeneas"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 3
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  6,
+  1,
+  8,
+  10,
+  4,
+  9,
+  7,
+  3,
+  5
+ ],
+ "most_similar_reason": "Candidate 2 depicts a second-generation prophet who is raised to a high celestial station, taught writing, astronomy, and measures, and is directly identified with the figure of Enoch/Idris, matching the target's core motifs of ascension without death, scribal role, and secret knowledge.",
+ "least_similar_reason": "Candidate 5 is a Polynesian-style creation myth about island-making, wood-carved humans, and a fall into death through a sky-tree, sharing only generic themes of creation and mortality with no correspondence to the target's patriarchal, scribal, or ascension motifs.",
+ "set": "related",
+ "pair": "Enoch (ancestor of Noah) | Idris (prophet)",
+ "i": 552,
+ "target": "Enoch (ancestor of Noah)",
+ "planted": "Idris (prophet)",
+ "cands": [
+  "Yu the Great",
+  "Idris (prophet)",
+  "Anansi",
+  "Kvasir",
+  "Qat (deity)",
+  "Dangun",
+  "Unkulunkulu",
+  "Obatala",
+  "Mwari",
+  "Triptolemus"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 1
+}

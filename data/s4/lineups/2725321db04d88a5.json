@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  4,
+  8,
+  9,
+  3,
+  10,
+  6,
+  5,
+  2,
+  1
+ ],
+ "most_similar_reason": "Candidate 7 shares the same mythic world and specific motifs as the target: divine wisdom-bringing sages (the hero's servants in the target) associated with subterranean primeval waters, civilizing arts, a pre-flood/post-flood scheme, and a great god who banishes and retrieves them.",
+ "least_similar_reason": "Candidate 1 is not a narrative at all but an explanation of a diffuse term for sacred power, with no craftsman-magician deity, no creation of humans from clay, no flood warning, and no episodic events to compare.",
+ "set": "related",
+ "pair": "Enki | Oannes",
+ "i": 488,
+ "target": "Enki",
+ "planted": "Oannes",
+ "cands": [
+  "Wakan Tanka",
+  "Romulus and Remus",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Nyame",
+  "Makunaima",
+  "Cadmus",
+  "Oannes",
+  "\u014ckuninushi",
+  "Ilmarinen",
+  "Yellow Emperor"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

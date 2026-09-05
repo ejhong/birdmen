@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  8,
+  2,
+  1,
+  4,
+  9,
+  10,
+  7,
+  6,
+  3
+ ],
+ "most_similar_reason": "Candidate 5 matches nearly episode for episode: a chief god decides to wipe out wicked humanity with a deluge, the forewarned hero builds a wooden chest/ark and rides out the flood with his wife, the vessel grounds on a mountain, the survivors give thanks/offering to the god, and the earth is then repopulated through the hero's line.",
+ "least_similar_reason": "Candidate 3 is a bare statement that a being with two names was a people's supreme deity, containing no flood, no hero, no ark, covenant, sons, or any narrative events to correspond with the target.",
+ "set": "positive",
+ "pair": "Noah | Deucalion",
+ "i": 393,
+ "target": "Noah",
+ "planted": "Deucalion",
+ "cands": [
+  "Ninigi-no-Mikoto",
+  "Wisakedjak",
+  "Bumba",
+  "Djanggawul",
+  "Deucalion",
+  "Corn Mother",
+  "Ogun",
+  "Yu the Great",
+  "Bachu\u00e9",
+  "Nyame"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 1
+}

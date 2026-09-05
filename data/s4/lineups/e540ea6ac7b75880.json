@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  7,
+  1,
+  4,
+  10,
+  9,
+  2,
+  6,
+  5,
+  3
+ ],
+ "most_similar_reason": "Candidate 8 shares the exact narrative core with the target: exile due to a stepmother wanting her son enthroned, a wife won through a bow/arrow feat, a demoness whose nose and ear are cut off, a golden deer decoy, abduction by a ten-headed demon king, alliance with monkey-like beings, a search leading to a bridge to an island, and final battle killing the demon by piercing a vital spot.",
+ "least_similar_reason": "Candidate 3 is a linguistic and etymological discussion of a word for God across cultures with no narrative characters, events, or plot, sharing no meaningful story elements with the target's heroic exile-and-rescue tale.",
+ "set": "positive",
+ "pair": "Ramayana | Reamker",
+ "i": 286,
+ "target": "Ramayana",
+ "planted": "Reamker",
+ "cands": [
+  "Cadmus",
+  "Apkallu",
+  "Waaq",
+  "Ogun",
+  "Sosruko",
+  "Yellow Emperor",
+  "Aeneas",
+  "Reamker",
+  "Ziusudra",
+  "Triptolemus"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

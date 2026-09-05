@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  9,
+  6,
+  4,
+  8,
+  10,
+  7,
+  5,
+  1,
+  2
+ ],
+ "most_similar_reason": "Candidate 3, like the target, features a sacred female figure who appears to teach a chosen man/tribe a set of secret ceremonial rites and instructions (paralleling Demeter teaching Triptolemus her mysteries) with strong emphasis on ritual objects and cosmic symbolism.",
+ "least_similar_reason": "Candidate 2 is essentially a linguistic/etymological survey of a divine name with no narrative events, deities in action, or motifs resembling the target's story of abduction, nursing, immortalization, or agricultural teaching.",
+ "set": "random",
+ "pair": "Triptolemus | Nyame",
+ "i": 570,
+ "target": "Triptolemus",
+ "planted": "Nyame",
+ "cands": [
+  "Pachacamac",
+  "Waaq",
+  "White Buffalo Calf Woman",
+  "Huitzilopochtli",
+  "Nyame",
+  "Nanabozho",
+  "Heitsi-eibib",
+  "Romulus and Remus",
+  "Yellow Emperor",
+  "Rama"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 8
+}

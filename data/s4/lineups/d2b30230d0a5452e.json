@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  8,
+  3,
+  6,
+  4,
+  10,
+  7,
+  9,
+  5,
+  2
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's most distinctive motif almost exactly\u2014a son of the sun deity paired with a female consort carrying a golden staff who found a civilization near a great lake\u2014along with a creator-father, siblings/companions bearing the same name, and the teaching-and-founding pattern.",
+ "least_similar_reason": "Candidate 2 concerns a creator god's cyclical struggle with personified Death, drums and animal emblems, with no founding siblings, no staff, no city foundation or dynastic succession that defines the target.",
+ "set": "related",
+ "pair": "Manco C\u00e1pac | Viracocha",
+ "i": 435,
+ "target": "Manco C\u00e1pac",
+ "planted": "Viracocha",
+ "cands": [
+  "Viracocha",
+  "Nyame",
+  "Apkallu",
+  "Ziusudra",
+  "Anansi",
+  "Ogun",
+  "Prometheus",
+  "Romulus and Remus",
+  "Wandjina",
+  "Amirani"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

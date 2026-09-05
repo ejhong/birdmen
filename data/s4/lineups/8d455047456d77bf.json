@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  4,
+  3,
+  9,
+  8,
+  6,
+  10,
+  5,
+  2,
+  1
+ ],
+ "most_similar_reason": "Candidate 7 shares the most distinctive Maui-type motifs with the target: a hero with a magic fishhook who tricks his brothers on a fishing expedition to raise islands from the sea, endures sibling teasing, and performs feats (like taming the sun and killing an eel to create the coconut) that directly parallel the target's fishhook, fish-raising, and trickster-hero structure.",
+ "least_similar_reason": "Candidate 1 describes a humpbacked flute-playing fertility and agriculture deity tied to childbirth, seasons, and animal fertility, sharing only the broadest 'trickster/deity' framing with the target and none of its specific birth, underworld, fishhook, fire-theft, or death-goddess episodes.",
+ "set": "related",
+ "pair": "M\u0101ui (M\u0101ori mythology) | M\u0101ui (Hawaiian mythology)",
+ "i": 526,
+ "target": "M\u0101ui (M\u0101ori mythology)",
+ "planted": "M\u0101ui (Hawaiian mythology)",
+ "cands": [
+  "Kokopelli",
+  "Cangjie",
+  "Adapa",
+  "Ninigi-no-Mikoto",
+  "Wisakedjak",
+  "Oduduwa",
+  "M\u0101ui (Hawaiian mythology)",
+  "Ayar Manco",
+  "Mama Ocllo",
+  "Nyame"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

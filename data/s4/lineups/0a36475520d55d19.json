@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  8,
+  10,
+  1,
+  2,
+  4,
+  7,
+  5,
+  6,
+  3
+ ],
+ "most_similar_reason": "Candidate 9 shares the target's exact distinctive episode chain: a wise god who secretly circumvents the assembly's decree by speaking through a reed wall to a favored man, ordering him to build a sealed, waterproof ship, load family, food, and animals, and ride out the divinely sent flood meant to wipe out noisy humanity.",
+ "least_similar_reason": "Candidate 3 is a static description of a humpbacked flute-playing fertility trickster who distributes babies and seeds, with no flood, no boat, no quest to a survivor, and no immortality or serpent motif in common with the target.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Atra-Hasis",
+ "i": 250,
+ "target": "Gilgamesh flood myth",
+ "planted": "Atra-Hasis",
+ "cands": [
+  "Nyame",
+  "T\u0101ne",
+  "Kokopelli",
+  "Ayar Manco",
+  "Bachu\u00e9",
+  "Oduduwa",
+  "Sosruko",
+  "Shennong",
+  "Atra-Hasis",
+  "Tagaro"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

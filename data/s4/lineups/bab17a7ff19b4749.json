@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  2,
+  7,
+  5,
+  8,
+  1,
+  6,
+  3,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 4 depicts the very religious founder-teacher figure whose faith is at the center of the target story\u2014a wandering ascetic who attains awakening, builds a monastic community, and is known by many exalted teacher-titles, closely matching the target's 'traveling teacher' who founded the persecuted faith.",
+ "least_similar_reason": "Candidate 10, a Norse myth about the wise being formed from spittle, his murder for a magical mead of poetry, and the capture of a trickster fish-god, shares no meaningful correspondence with the target's themes of royal persecution, prophecy, isolation, conversion, or renunciation of rule.",
+ "set": "positive",
+ "pair": "Barlaam and Josaphat | Gautama Buddha",
+ "i": 339,
+ "target": "Barlaam and Josaphat",
+ "planted": "Gautama Buddha",
+ "cands": [
+  "Romulus and Remus",
+  "Hiawatha",
+  "Tagaro",
+  "Gautama Buddha",
+  "Adapa",
+  "T\u0101ne",
+  "White Buffalo Calf Woman",
+  "Yu the Great",
+  "Cangjie",
+  "Kvasir"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

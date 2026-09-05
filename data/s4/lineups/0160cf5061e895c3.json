@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  1,
+  2,
+  7,
+  9,
+  8,
+  6,
+  3,
+  5,
+  10
+ ],
+ "most_similar_reason": "Candidate 4 shares the target's core episodes almost point for point: the brother-and-sister pair living on a sacred mountain who seek a divine sign (mist rather than merging flames) to sanction their marriage, the molding of humans from clay, and the same divine-couple culture-hero relationship after a cosmic ordering of sky and earth.",
+ "least_similar_reason": "Candidate 10 gives only a bare statement that a two-named being was a supreme deity, with no creation acts, sibling marriage, human-making, or cultural inventions to compare.",
+ "set": "related",
+ "pair": "Fuxi | N\u00fcwa",
+ "i": 502,
+ "target": "Fuxi",
+ "planted": "N\u00fcwa",
+ "cands": [
+  "Mama Ocllo",
+  "Dangun",
+  "Agastya",
+  "N\u00fcwa",
+  "Ogun",
+  "Kilibob and Manup",
+  "Kutkh",
+  "Tezcatlipoca",
+  "Itzamna",
+  "Bumba"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

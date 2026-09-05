@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  8,
+  6,
+  5,
+  1,
+  10,
+  2,
+  3,
+  9,
+  4
+ ],
+ "most_similar_reason": "Candidate 7, like the target, is a compilation of multiple distinct myths about one primordial craftsman-deity involving specific, unusual creation objects (a chain from the sky, a bird scattering sand, a snail shell, a seed) and a later unrelated kingship tale, closely mirroring the target's structure of several disparate smith-god episodes culminating in a separate mill/kingship narrative.",
+ "least_similar_reason": "Candidate 4 is not a narrative at all but a linguistic and etymological survey of a divine name across languages, sharing no actual mythic events, figures, or motifs with the target's smith-god tales.",
+ "set": "random",
+ "pair": "Ilmarinen | Rama",
+ "i": 610,
+ "target": "Ilmarinen",
+ "planted": "Rama",
+ "cands": [
+  "Gesar",
+  "Oduduwa",
+  "Sosruko",
+  "Waaq",
+  "Rama",
+  "Yu the Great",
+  "Obatala",
+  "Tezcatlipoca",
+  "Corn Mother",
+  "R\u00edgs\u00feula"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 4
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  9,
+  1,
+  10,
+  5,
+  2,
+  4,
+  6,
+  7,
+  8
+ ],
+ "most_similar_reason": "Candidate 3 mirrors the target's overall narrative shape most closely: a princely hero among several brothers wins a bride through a divine feat, is exiled by his father's word, travels with his wife and a brother, faces a supernatural threat to his wife, and forms crucial alliances to recover her, paralleling the target's exile-quest, marriage, companions, and ally-recruitment structure.",
+ "least_similar_reason": "Candidate 8 is a bare one-line statement that a being with two names was a supreme deity, containing no narrative events, characters, or motifs comparable to the elaborate quest, marriage, dragon-slaying, and transformation story of the target.",
+ "set": "random",
+ "pair": "Cadmus | Tagaro",
+ "i": 581,
+ "target": "Cadmus",
+ "planted": "Tagaro",
+ "cands": [
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Itzamna",
+  "Rama",
+  "Mwari",
+  "Kvasir",
+  "Abassi",
+  "Makunaima",
+  "Bumba",
+  "Bachu\u00e9",
+  "Tagaro"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 4
+}

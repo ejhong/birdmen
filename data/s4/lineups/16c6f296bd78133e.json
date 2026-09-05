@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  3,
+  7,
+  9,
+  6,
+  10,
+  5,
+  2,
+  8,
+  4
+ ],
+ "most_similar_reason": "Candidate 1 explicitly identifies its subject as the 'plumed serpent' and, like the target, presents multiple conflicting mythic accounts of the same feathered-serpent deity from different peoples, mirroring the target's structure of variant birth/nature stories about one god.",
+ "least_similar_reason": "Candidate 4 (the vengeful smith imprisoned and mutilated by a king) shares only generic mythic tropes like craftsmanship and flight, with no birth-story multiplicity, celestial twinship, underworld creation of mankind, incest, or self-sacrifice found in the target.",
+ "set": "related",
+ "pair": "Quetzalcoatl | Kukulkan",
+ "i": 401,
+ "target": "Quetzalcoatl",
+ "planted": "Kukulkan",
+ "cands": [
+  "Kukulkan",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Heitsi-eibib",
+  "Wayland the Smith",
+  "Gesar",
+  "Yu the Great",
+  "Glooscap",
+  "Hiawatha",
+  "Wisakedjak",
+  "Agastya"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  2,
+  4,
+  5,
+  9,
+  8,
+  7,
+  10,
+  3,
+  1
+ ],
+ "most_similar_reason": "Candidate 6 explicitly describes a patriarchal figure (second prophet after Adam) who is taught writing, astronomy, and measures, is raised to heaven in the fourth level, and is identified with Enoch/Idris, closely mirroring the target's Enoch traditions of ascension, scribal wisdom, and non-death.",
+ "least_similar_reason": "Candidate 1 is a wholly unrelated Aboriginal creation myth about ancestral sisters shaping the landscape with digging sticks and ceremonies, sharing no specific motifs (ascension, scribehood, flood prophecy, angelic guardianship) with the target.",
+ "set": "related",
+ "pair": "Enoch (ancestor of Noah) | Idris (prophet)",
+ "i": 554,
+ "target": "Enoch (ancestor of Noah)",
+ "planted": "Idris (prophet)",
+ "cands": [
+  "Djanggawul",
+  "Ogun",
+  "Wandjina",
+  "Yellow Emperor",
+  "Heitsi-eibib",
+  "Idris (prophet)",
+  "Huitzilopochtli",
+  "Kokopelli",
+  "Anansi",
+  "Coyote (mythology)"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

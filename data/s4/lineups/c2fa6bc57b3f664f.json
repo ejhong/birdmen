@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  9,
+  8,
+  7,
+  3,
+  2,
+  5,
+  6,
+  1,
+  4
+ ],
+ "most_similar_reason": "Candidate 10 shares the same core Chinese creation-myth complex: sibling deities who become husband and wife after a heavenly sign (fire uniting, paralleling the mist omen), the molding of humanity from clay brought to life, and cosmogonic themes of separating heaven and earth, closely mirroring the target's goddess-brother marriage and clay-people creation.",
+ "least_similar_reason": "Candidate 4 is a purely abstract theological/iconographic description with no narrative events, characters, or actions, sharing none of the target's concrete mythic episodes like clay creation, sky repair, or marriage trials.",
+ "set": "related",
+ "pair": "N\u00fcwa | Fuxi",
+ "i": 516,
+ "target": "N\u00fcwa",
+ "planted": "Fuxi",
+ "cands": [
+  "Djanggawul",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Wisakedjak",
+  "Sang Hyang Tunggal",
+  "Rama",
+  "Kilibob and Manup",
+  "Tezcatlipoca",
+  "R\u00edgs\u00feula",
+  "Itzamna",
+  "Fuxi"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

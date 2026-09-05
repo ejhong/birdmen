@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  8,
+  10,
+  7,
+  6,
+  4,
+  9,
+  1,
+  2,
+  5
+ ],
+ "most_similar_reason": "Candidate 3 mirrors the target most closely: a royal heir raised in confinement encounters an ascetic, embraces the teaching of a wandering founder-teacher, renounces kingship, and withdraws into the homeless ascetic life, matching the target's prince-turned-mendicant-founder pattern.",
+ "least_similar_reason": "Candidate 5 has no teacher, no renunciation, no doctrine or canon at all\ndd only impersonal rain-spirits, rock paintings, and repainting rituals, sharing nothing beyond the vaguest religious framing.",
+ "set": "positive",
+ "pair": "Gautama Buddha | Barlaam and Josaphat",
+ "i": 323,
+ "target": "Gautama Buddha",
+ "planted": "Barlaam and Josaphat",
+ "cands": [
+  "Kutkh",
+  "Bachu\u00e9",
+  "Barlaam and Josaphat",
+  "Palamedes (mythology)",
+  "Wandjina",
+  "Glooscap",
+  "Gesar",
+  "Kvasir",
+  "Tezcatlipoca",
+  "Triptolemus"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  9,
+  1,
+  3,
+  5,
+  2,
+  10,
+  7,
+  8,
+  4
+ ],
+ "most_similar_reason": "Candidate 6, like the target, features a group of primordial semi-divine beings sent/descended from the sky god who require and dive into water, who impart life-knowledge to humanity, are tied to shrines and ritual sites, and are named as the source of the first religious specialists\u2014matching the target's amphibious fish-sages who bring civilization, found cities/temples, and dwell in the primeval waters.",
+ "least_similar_reason": "Candidate 4 is a warrior-king's biography of miraculous birth, a horse-race bride contest, and conquests of enemy fortresses, with no group of civilizing sages, no flood-era kings, no aquatic hybrid beings, and no transmission of arts or ritual figurines.",
+ "set": "hancock",
+ "pair": "Oannes | Nommo",
+ "i": 198,
+ "target": "Oannes",
+ "planted": "Nommo",
+ "cands": [
+  "Yu the Great",
+  "Hiawatha",
+  "Ayar Manco",
+  "Gesar",
+  "Wandjina",
+  "Nommo",
+  "Romulus and Remus",
+  "Orpheus",
+  "Mama Ocllo",
+  "Tangaroa"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

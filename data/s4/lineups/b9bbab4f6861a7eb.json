@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  8,
+  6,
+  1,
+  10,
+  9,
+  5,
+  2,
+  7,
+  3
+ ],
+ "most_similar_reason": "Candidate 4 shares the core Cadmus motif of a hero slaying a multi-headed dragon (with each head spawning a new dragon), being swallowed and escaping from within, and ultimately being punished/transformed in a serpent-related, grief-laden fate, closely echoing the dragon-slaying and eventual serpent transformation in the target.",
+ "least_similar_reason": "Candidate 3 contains no narrative content at all beyond identifying a deity as worshipped, sharing none of the specific events, figures, or motifs found in the target myth.",
+ "set": "random",
+ "pair": "Cadmus | Rama",
+ "i": 612,
+ "target": "Cadmus",
+ "planted": "Rama",
+ "cands": [
+  "Rama",
+  "Hiawatha",
+  "Abassi",
+  "Amirani",
+  "Ziusudra",
+  "Ninigi-no-Mikoto",
+  "Ilmarinen",
+  "Oduduwa",
+  "T\u0101ne",
+  "Gesar"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 4
+}

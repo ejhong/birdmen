@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  3,
+  4,
+  6,
+  2,
+  9,
+  5,
+  1,
+  10,
+  8
+ ],
+ "most_similar_reason": "Candidate 7 (the Maya Hero Twins/Hun Hunahpu cycle) mirrors the target's core structure most closely: a father-god figure is killed by rival underworld lords, his remains/head are lost or hidden, a woman becomes pregnant through a magical/spiritual act tied to his remains, and his sons later avenge him by defeating his killers in a contest, echoing the Osirian pattern of death, loss of a body part, magical conception, and filial vengeance.",
+ "least_similar_reason": "Candidate 8 is not a narrative at all but an abstract theological description of a supreme, ineffable creator god approached through mediums, sharing only the vague general notion of a fertility-linked deity with none of the specific mythic events\u2014murder, dismemberment, search, or vengeance\u2014found in the target.",
+ "set": "hancock",
+ "pair": "Osiris | Viracocha",
+ "i": 58,
+ "target": "Osiris",
+ "planted": "Viracocha",
+ "cands": [
+  "Apkallu",
+  "Viracocha",
+  "Wayland the Smith",
+  "Kvasir",
+  "Ziusudra",
+  "Aeneas",
+  "Maya Hero Twins",
+  "Mwari",
+  "Dangun",
+  "Nanabozho"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 5
+}

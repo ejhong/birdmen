@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  2,
+  5,
+  3,
+  10,
+  8,
+  6,
+  7,
+  1,
+  9
+ ],
+ "most_similar_reason": "Candidate 4 is essentially the same story: a great god incarnates as a prince to destroy a demon king, wins a princess at a bow/archery contest, is exiled to the forest with his brother, spurns and mutilates a demoness, has his wife abducted by the demon king, allies with monkey-people and installs the exiled monkey brother on the throne, and a devoted monkey ally finds the captive wife before the demon king is slain and the couple returns to be crowned.",
+ "least_similar_reason": "Candidate 9 contains no narrative at all\ba bare note that a spirit is recognized as a deity\bso it shares no episodes, roles, or motifs with the target.",
+ "set": "positive",
+ "pair": "Ramakien | Ramayana",
+ "i": 317,
+ "target": "Ramakien",
+ "planted": "Ramayana",
+ "cands": [
+  "Corn Mother",
+  "Dangun",
+  "Prometheus",
+  "Ramayana",
+  "Yellow Emperor",
+  "Mwari",
+  "Waaq",
+  "Kvasir",
+  "Abassi",
+  "Ayar Manco"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

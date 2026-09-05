@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  6,
+  5,
+  7,
+  1,
+  4,
+  2,
+  3,
+  10,
+  8
+ ],
+ "most_similar_reason": "Candidate 9 shares the target's distinctive profile of a serpent-associated culture hero of the same tradition who founds/teaches, is tied to the calendar and directional/night-jaguar-like deities, journeys away and returns, and ends with a burning associated with him.",
+ "least_similar_reason": "Candidate 8 describes a static, abstract theological symbol that performs no actions and has no narrative episodes, sharing none of the target's founding, migration, land-division, or relic motifs.",
+ "set": "hancock",
+ "pair": "Votan | Quetzalcoatl",
+ "i": 146,
+ "target": "Votan",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Romulus and Remus",
+  "Kvasir",
+  "Makunaima",
+  "Sky Woman",
+  "Dangun",
+  "Yu the Great",
+  "Gesar",
+  "Sang Hyang Tunggal",
+  "Quetzalcoatl",
+  "Waaq"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

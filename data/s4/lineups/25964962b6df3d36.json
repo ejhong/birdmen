@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  8,
+  1,
+  6,
+  4,
+  7,
+  9,
+  5,
+  3,
+  2
+ ],
+ "most_similar_reason": "Candidate 10 centers on the same distinctive figure\u2014a plumed/winged serpent deity with multiple conflicting tales, a sister who cares for him, celestial/sun associations, wind-sweeping and rain-heralding functions, and a journey through a death-realm\u2014matching the target's feathered serpent with variant birth stories, sister episode, wind god role, and underworld journey.",
+ "least_similar_reason": "Candidate 2 offers no narrative at all\u2014only an abstract discussion of a term for a diffuse sacred power and its translation\u2014sharing none of the target's births, creation deeds, gifts to humanity, or transformation episodes.",
+ "set": "related",
+ "pair": "Quetzalcoatl | Kukulkan",
+ "i": 409,
+ "target": "Quetzalcoatl",
+ "planted": "Kukulkan",
+ "cands": [
+  "Cangjie",
+  "Wakan Tanka",
+  "Waaq",
+  "Kvasir",
+  "Mwari",
+  "Bachu\u00e9",
+  "Oduduwa",
+  "Triptolemus",
+  "Djanggawul",
+  "Kukulkan"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

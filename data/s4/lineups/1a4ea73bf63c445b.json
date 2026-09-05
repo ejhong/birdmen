@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  6,
+  9,
+  4,
+  8,
+  1,
+  10,
+  5,
+  7,
+  2
+ ],
+ "most_similar_reason": "Candidate 3 centers on a sacred mountain and a personified mountain deity, with landscape features and a named ancestral burial place attached to the story, closely echoing the target's mountain-as-deity plus tomb/ruins motif.",
+ "least_similar_reason": "Candidate 2 is a human-scale revenge saga about a captive smith, murder, and escape by flight, with no mountain deity, no landscape-origin explanation, and no burial cave or ancient settlement.",
+ "set": "related",
+ "pair": "Tunupa | Viracocha",
+ "i": 459,
+ "target": "Tunupa",
+ "planted": "Viracocha",
+ "cands": [
+  "Mbombo",
+  "Wayland the Smith",
+  "Ninigi-no-Mikoto",
+  "Mwari",
+  "Makunaima",
+  "Dangun",
+  "Nyame",
+  "Viracocha",
+  "Wisakedjak",
+  "Maya Hero Twins"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 5
+}

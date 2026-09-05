@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  8,
+  5,
+  2,
+  4,
+  1,
+  6,
+  9,
+  10,
+  7
+ ],
+ "most_similar_reason": "Candidate 3 retells the same core narrative as the target\u2014an exiled prince, a wife won by a bow feat, a nose\u2011and\u2011ear\u2011cutting demoness, a golden deer lure, a ten\u2011headed demon abductor, and monkey allies helping rescue the wife\u2014matching nearly every distinctive plot beat of the target.",
+ "least_similar_reason": "Candidate 7 contains no narrative content at all beyond naming a deity, sharing no actions, relationships, or motifs with the target's elaborate story of exile, abduction, and battle.",
+ "set": "positive",
+ "pair": "Ramayana | Reamker",
+ "i": 287,
+ "target": "Ramayana",
+ "planted": "Reamker",
+ "cands": [
+  "Tangaroa",
+  "Nanabozho",
+  "Reamker",
+  "Kvasir",
+  "Apkallu",
+  "Wayland the Smith",
+  "Abassi",
+  "Huitzilopochtli",
+  "Sosruko",
+  "Hiawatha"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 1
+}

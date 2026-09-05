@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  4,
+  2,
+  9,
+  7,
+  10,
+  6,
+  5,
+  8,
+  3
+ ],
+ "most_similar_reason": "Candidate 1, like the target, has sun-deity offspring sent down from the sky with a divinely given sacred object to found a settlement, descending to a specific place, marrying within the divine pair, and becoming the ancestors from whom all later rulers descend.",
+ "least_similar_reason": "Candidate 3 is not a narrative at all but an explanation of a term for a diffuse sacred power, containing none of the target's characters, descent, marriage, or birth episodes.",
+ "set": "random",
+ "pair": "Ninigi-no-Mikoto | Maya Hero Twins",
+ "i": 618,
+ "target": "Ninigi-no-Mikoto",
+ "planted": "Maya Hero Twins",
+ "cands": [
+  "Mama Ocllo",
+  "Obatala",
+  "Wakan Tanka",
+  "Maya Hero Twins",
+  "Kutkh",
+  "Nyame",
+  "Coyote (mythology)",
+  "Wisakedjak",
+  "Hiawatha",
+  "Sosruko"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 2
+}

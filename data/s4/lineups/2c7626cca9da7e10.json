@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  6,
+  3,
+  7,
+  4,
+  9,
+  1,
+  2,
+  10,
+  5
+ ],
+ "most_similar_reason": "Candidate 8 is a near-identical frame narrative: a wise advisor instructs a ruler through nested animal fables, opening with a scheming jackal-like courtier at a lion king's court who destroys the friendship between the lion and a horned animal, followed by the tale of four weak friends (rodent, black bird, shelled reptile, horned grazer) who rescue one another, and a war between black birds and a bird of prey won by infiltration \ff exactly the target's first three books.",
+ "least_similar_reason": "Candidate 5 is not a narrative at all but a description of harvest customs involving a straw figure made from the last sheaf, sharing no characters, plot, or didactic fable structure with the target.",
+ "set": "positive",
+ "pair": "Panchatantra | Kalila wa-Dimna",
+ "i": 344,
+ "target": "Panchatantra",
+ "planted": "Kalila wa-Dimna",
+ "cands": [
+  "Heitsi-eibib",
+  "Kutkh",
+  "\u014ckuninushi",
+  "Coyote (mythology)",
+  "Corn Mother",
+  "Triptolemus",
+  "Anansi",
+  "Kalila wa-Dimna",
+  "Qat (deity)",
+  "Romulus and Remus"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

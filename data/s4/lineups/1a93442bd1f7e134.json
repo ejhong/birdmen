@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  1,
+  10,
+  5,
+  3,
+  4,
+  6,
+  7,
+  8,
+  2
+ ],
+ "most_similar_reason": "Candidate 9, like the target, centers on place-bound spirit beings tied to a specific landscape whose stories explain features of the terrain and are anchored to concrete sacred sites\u2014especially a cave containing the beings' own images and an adjacent waterhole, paralleling the target's mountain deity, salt flat origin, mummy cave, and ancient village.",
+ "least_similar_reason": "Candidate 2 is a long heroic biography of city-founding, dragon-slaying, sown teeth and serpent transformation, with no personified landform, no origin story for a terrain feature, and no cave burial or ruined settlement.",
+ "set": "related",
+ "pair": "Tunupa | Viracocha",
+ "i": 451,
+ "target": "Tunupa",
+ "planted": "Viracocha",
+ "cands": [
+  "Djanggawul",
+  "Cadmus",
+  "Heitsi-eibib",
+  "Viracocha",
+  "Glooscap",
+  "Adapa",
+  "Unkulunkulu",
+  "Tagaro",
+  "Wandjina",
+  "Kutkh"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 6
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  10,
+  5,
+  4,
+  3,
+  9,
+  8,
+  2,
+  6,
+  1
+ ],
+ "most_similar_reason": "Candidate 7, like the target, presents a Mesoamerican-style culture hero tied to a serpent emblem and a jaguar/darkness aspect, who founds and orders the world for peoples, is one of twenty calendar day-names, and whose relics are ritually burned \u2014 matching the target's feathered-serpent inventor of the calendar, direction-ruling gods, and fiery end.",
+ "least_similar_reason": "Candidate 1 is not a story about a deity or hero at all but an agricultural harvest custom of dressing the last sheaf, sharing only the incidental presence of a grain crop with the target.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Votan",
+ "i": 157,
+ "target": "Quetzalcoatl",
+ "planted": "Votan",
+ "cands": [
+  "Corn Mother",
+  "Wandjina",
+  "Wisakedjak",
+  "Baiame",
+  "Hiawatha",
+  "Makunaima",
+  "Votan",
+  "Wayland the Smith",
+  "Ogun",
+  "Heitsi-eibib"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

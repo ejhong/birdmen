@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  6,
+  10,
+  8,
+  3,
+  5,
+  7,
+  1,
+  2,
+  9
+ ],
+ "most_similar_reason": "Candidate 4 shares the closest thematic cluster with the target: divine beings who require a watery environment, are banished into primeval waters, teach wisdom and civilization, and are associated with tablets of destiny and sacred fragments (poultices) distributed for merit, mirroring the target's water-dwelling star-beings who taught and gave their bodies to humanity.",
+ "least_similar_reason": "Candidate 9 is an epic hero narrative about an avatar's marriage, exile, and quest with no elements of primordial creation, twin multiplication, dismemberment, or water-dwelling star beings, making it the least thematically related to the target myth.",
+ "set": "hancock",
+ "pair": "Nommo | Oannes",
+ "i": 188,
+ "target": "Nommo",
+ "planted": "Oannes",
+ "cands": [
+  "Yu the Great",
+  "Cangjie",
+  "Ninigi-no-Mikoto",
+  "Oannes",
+  "Prometheus",
+  "Maya Hero Twins",
+  "Djanggawul",
+  "Mwari",
+  "Rama",
+  "Bachu\u00e9"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

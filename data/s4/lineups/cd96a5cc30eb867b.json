@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  4,
+  9,
+  7,
+  6,
+  10,
+  8,
+  3,
+  2,
+  1
+ ],
+ "most_similar_reason": "Candidate 5 shares the target's core plot almost point for point: a favored man is instructed by deity to build a huge vessel to survive a world-destroying flood, loads his family and animals, all others perish, the boat grounds on a mountain, birds are sent out, and he offers sacrifice and receives a divine blessing/reward afterward.",
+ "least_similar_reason": "Candidate 1 has no narrative at all, merely naming a spirit recognized as a deity, so it shares no episodes, roles, or motifs with the flood-hero story.",
+ "set": "positive",
+ "pair": "Noah | Utnapishtim",
+ "i": 273,
+ "target": "Noah",
+ "planted": "Utnapishtim",
+ "cands": [
+  "Abassi",
+  "Heitsi-eibib",
+  "Itzamna",
+  "Bhagiratha",
+  "Utnapishtim",
+  "Shennong",
+  "Glooscap",
+  "Baiame",
+  "Oduduwa",
+  "Wandjina"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 1
+}

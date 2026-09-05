@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  9,
+  4,
+  3,
+  6,
+  7,
+  2,
+  10,
+  8,
+  5
+ ],
+ "most_similar_reason": "Candidate 1 is a nearly point-for-point flood narrative \u2014 a god warns a chosen righteous man, who builds a great vessel to preserve life, the deluge covers the mountains and kills all flesh, the vessel grounds on a mountain, birds are released in sequence until one does not return, and the survivor offers a sacrifice followed by a divine promise/blessing.",
+ "least_similar_reason": "Candidate 5 is not a narrative at all but a linguistic and religious-historical account of a divine name's spread and decline, sharing no hero, journey, flood, or immortality motif with the target.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Genesis flood narrative",
+ "i": 227,
+ "target": "Gilgamesh flood myth",
+ "planted": "Genesis flood narrative",
+ "cands": [
+  "Genesis flood narrative",
+  "Tagaro",
+  "Rama",
+  "Ninigi-no-Mikoto",
+  "Waaq",
+  "Sky Woman",
+  "Ilmarinen",
+  "Cangjie",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Kokopelli"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

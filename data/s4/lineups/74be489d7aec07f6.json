@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  7,
+  2,
+  1,
+  3,
+  9,
+  10,
+  4,
+  8,
+  6
+ ],
+ "most_similar_reason": "Candidate 5 shares the deepest structural overlap with the target: a creator/sky deity who shapes the land, teaches humanity its laws, culture, and civilization, has wives and children who are minor deities, is depicted anthropomorphically with distinctive iconography, and ultimately withdraws from the world after completing his work, paralleling the target's civilizing creator with a family of minor deities and eventual disappearance.",
+ "least_similar_reason": "Candidate 6 is not really a narrative at all but an abstract description of a spiritual concept ('Great Spirit/Great Mystery') with no creator figure, flood, city-building, teaching episodes, or family relationships, making it the least similar to the richly narrative target myth.",
+ "set": "hancock",
+ "pair": "Viracocha | Oannes",
+ "i": 26,
+ "target": "Viracocha",
+ "planted": "Oannes",
+ "cands": [
+  "Cadmus",
+  "Nanabozho",
+  "Hiawatha",
+  "Sosruko",
+  "Baiame",
+  "Wakan Tanka",
+  "Oannes",
+  "Cangjie",
+  "Anansi",
+  "Wisakedjak"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 2
+}

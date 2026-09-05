@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  4,
+  8,
+  2,
+  5,
+  1,
+  6,
+  7,
+  10,
+  3
+ ],
+ "most_similar_reason": "Candidate 9 recounts the same Mesopotamian flood myth tradition\u2014gods deciding to destroy overpopulated/noisy humanity, a clever god secretly warning a wise man through a reed wall, instructions to build a waterproof boat, and prior divine punishments (plague, famine) that mirror the flood hero's tale in the target almost point for point.",
+ "least_similar_reason": "Candidate 3 is an extremely brief, generic statement about a creator god with no narrative events, motifs, or structure corresponding to the flood, boat, or youth-plant episodes in the target.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Atra-Hasis",
+ "i": 252,
+ "target": "Gilgamesh flood myth",
+ "planted": "Atra-Hasis",
+ "cands": [
+  "Nyame",
+  "Agastya",
+  "Makunaima",
+  "Bhagiratha",
+  "Gesar",
+  "Anansi",
+  "Wayland the Smith",
+  "Glooscap",
+  "Atra-Hasis",
+  "Kilibob and Manup"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

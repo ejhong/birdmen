@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  8,
+  3,
+  4,
+  6,
+  2,
+  5,
+  10,
+  1,
+  7
+ ],
+ "most_similar_reason": "Candidate 9 depicts a civilizing hero-god who travels between towns, retreats to a cave, is consulted by chiefs, and inspires the founding of a sun temple and festivals\u2014paralleling the target's Quetzalcoatl-type culture hero who teaches, invents, and is venerated with sacred rites and cyclical commemoration.",
+ "least_similar_reason": "Candidate 7 is a Trojan War hero credited with inventing writing and numbers who dies through political betrayal, sharing only the generic 'clever inventor figure' motif with no birth myths, cosmic siblings, underworld journey, or serpent/star imagery found in the target.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Bochica",
+ "i": 136,
+ "target": "Quetzalcoatl",
+ "planted": "Bochica",
+ "cands": [
+  "Kvasir",
+  "Ogun",
+  "T\u0101ne",
+  "Shennong",
+  "Kokopelli",
+  "Ninigi-no-Mikoto",
+  "Palamedes (mythology)",
+  "Glooscap",
+  "Bochica",
+  "Wandjina"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

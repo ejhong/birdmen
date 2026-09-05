@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  5,
+  1,
+  6,
+  4,
+  3,
+  7,
+  8,
+  10,
+  9
+ ],
+ "most_similar_reason": "Candidate 2 shares the clearest structural echoes with the target\u2014a clever hero who outwits a deadly trap (avoiding a fatal stone-throwing challenge) and causes an antagonist to fall into a pit where stones and death are involved, paralleling the target's 'lured into a well and crushed with stones' death variant and its overall theme of trickery and cleverness defining the hero's fate.",
+ "least_similar_reason": "Candidate 9 is not really a narrative at all but an abstract linguistic/theological discussion of a concept of sacredness, sharing none of the target's specific plot elements like war, invention, feigned madness, or violent death.",
+ "set": "random",
+ "pair": "Palamedes (mythology) | Mama Ocllo",
+ "i": 577,
+ "target": "Palamedes (mythology)",
+ "planted": "Mama Ocllo",
+ "cands": [
+  "Kutkh",
+  "Heitsi-eibib",
+  "Kilibob and Manup",
+  "Glooscap",
+  "Ogun",
+  "Ilmarinen",
+  "Mama Ocllo",
+  "White Buffalo Calf Woman",
+  "Wakan Tanka",
+  "Mbombo"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 7
+}

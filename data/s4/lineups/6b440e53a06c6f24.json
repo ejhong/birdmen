@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  7,
+  5,
+  3,
+  10,
+  8,
+  6,
+  9,
+  2,
+  4
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's defining episode almost point for point: a deity destroys wicked mankind with a great flood, a single favored hero is forewarned and builds a wooden vessel, rides out the deluge until it grounds on a mountain, gives thanks to the god afterward, and then repopulates the earth, his descendants becoming named peoples.",
+ "least_similar_reason": "Candidate 4 is not a narrative at all but an explanation of a term for the sacred, with no hero, no flood, no sequence of events, and no shared motifs with the target.",
+ "set": "positive",
+ "pair": "Noah | Deucalion",
+ "i": 391,
+ "target": "Noah",
+ "planted": "Deucalion",
+ "cands": [
+  "Deucalion",
+  "Corn Mother",
+  "Shennong",
+  "Wakan Tanka",
+  "Sky Woman",
+  "Ogun",
+  "Tezcatlipoca",
+  "Hiawatha",
+  "Anansi",
+  "Djanggawul"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

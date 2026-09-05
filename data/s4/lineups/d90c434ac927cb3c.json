@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  10,
+  9,
+  2,
+  6,
+  7,
+  3,
+  4,
+  1,
+  5
+ ],
+ "most_similar_reason": "Candidate 8 mirrors the target almost exactly, describing a nested cycle of animal fables told to a ruler\u2014including a scheming canine minister at a lion's court, a rescue-friendship group of small animals, a bird war of loyalty and betrayal, and other moral tales about trust, treachery, and hasty action, matching the Panchatantra structure and motifs closely.",
+ "least_similar_reason": "Candidate 5 is an abstract discussion of a spiritual concept ('Great Spirit/Mystery') with no narrative events, characters, or teaching structure, making it the least similar to the target's structured animal-fable teaching story.",
+ "set": "positive",
+ "pair": "Panchatantra | Kalila wa-Dimna",
+ "i": 345,
+ "target": "Panchatantra",
+ "planted": "Kalila wa-Dimna",
+ "cands": [
+  "Unkulunkulu",
+  "Yu the Great",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Berossus",
+  "Wakan Tanka",
+  "Cadmus",
+  "Bran the Blessed",
+  "Kalila wa-Dimna",
+  "White Buffalo Calf Woman",
+  "Anansi"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

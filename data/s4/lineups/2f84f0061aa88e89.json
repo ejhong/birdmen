@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  4,
+  2,
+  3,
+  7,
+  9,
+  5,
+  1,
+  6,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 shares nearly every distinctive episode with the target: exile forced by a queen mother wanting her own son crowned, the wife won by a contest and accompanying him, the loyal younger brother, the demoness whose nose and ear are cut off, her ten-headed demon brother sending a golden deer decoy and abducting the wife, the alliance with monkey-beings whose king is restored against a rival, a devoted monkey warrior finding her, and the climactic battle and triumphant return.",
+ "least_similar_reason": "Candidate 10 is a cosmogonic account of a creator god, personified Death, poison, a sacred drum, and a spider trickster, with no exile, marriage, abduction, or heroic rescue narrative in common with the target.",
+ "set": "positive",
+ "pair": "Ramayana | Reamker",
+ "i": 285,
+ "target": "Ramayana",
+ "planted": "Reamker",
+ "cands": [
+  "Apkallu",
+  "Orpheus",
+  "Obatala",
+  "\u014ckuninushi",
+  "Sosruko",
+  "Wisakedjak",
+  "Nanabozho",
+  "Reamker",
+  "Baiame",
+  "Nyame"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

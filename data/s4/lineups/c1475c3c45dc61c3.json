@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  9,
+  8,
+  2,
+  1,
+  3,
+  4,
+  7,
+  5,
+  6
+ ],
+ "most_similar_reason": "Candidate 10 is a direct variant of the same epic, sharing the incarnate god-hero, the archery/bow contest for a princess, forest exile with a brother, the spurned demoness, the abduction by the island demon king, the alliance with monkey allies who locate the wife, and the final victory and return home.",
+ "least_similar_reason": "Candidate 6 is an ethnographic account of harvest customs involving a straw figure made from the last sheaf, with no hero, no divine birth, no abduction or rescue, and no comparable narrative sequence at all.",
+ "set": "positive",
+ "pair": "Ramayana | Ramakien",
+ "i": 305,
+ "target": "Ramayana",
+ "planted": "Ramakien",
+ "cands": [
+  "Tagaro",
+  "Orpheus",
+  "Bachu\u00e9",
+  "Djanggawul",
+  "Mwari",
+  "Corn Mother",
+  "Unkulunkulu",
+  "\u014ckuninushi",
+  "Gesar",
+  "Ramakien"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

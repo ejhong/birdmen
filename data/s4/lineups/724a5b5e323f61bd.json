@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  9,
+  8,
+  7,
+  4,
+  6,
+  10,
+  5,
+  2,
+  1
+ ],
+ "most_similar_reason": "Candidate 3 most closely mirrors the target's core motif of a personified deity whose actions directly explain the origin of specific natural landforms (valleys, islands, colors of the world), paralleling the mountain deity's role in explaining the salt flat's origin.",
+ "least_similar_reason": "Candidate 1 is an elaborate heroic epic centered on birth, singing contests, smithing, and a tragic judgment scene, sharing no meaningful connection to a place-bound mountain deity, salt flat origin myth, or sacred cave/village imagery.",
+ "set": "related",
+ "pair": "Tunupa | Viracocha",
+ "i": 453,
+ "target": "Tunupa",
+ "planted": "Viracocha",
+ "cands": [
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Adapa",
+  "Glooscap",
+  "Nyame",
+  "Orpheus",
+  "Great Peacemaker",
+  "T\u0101ne",
+  "Viracocha",
+  "Ogun",
+  "Romulus and Remus"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 3
+}

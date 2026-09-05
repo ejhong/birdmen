@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  8,
+  10,
+  2,
+  3,
+  5,
+  1,
+  9,
+  6,
+  7
+ ],
+ "most_similar_reason": "Candidate 4 shares nearly the entire plot of the target: a great god incarnating as a prince to destroy a demon king, winning a princess at a bow/archery contest, exile to the forest, mutilation of a seductive demoness, the abduction of the wife, alliance with monkey-people and a devoted monkey ally who locates her, and the final defeat of the demon king and return home.",
+ "least_similar_reason": "Candidate 7 is not a narrative at all but a description of an abstract term for sacred power, with no characters, deeds, or events corresponding to the target's incarnations, abduction, and rescue plot.",
+ "set": "positive",
+ "pair": "Ramakien | Ramayana",
+ "i": 316,
+ "target": "Ramakien",
+ "planted": "Ramayana",
+ "cands": [
+  "Anansi",
+  "Palamedes (mythology)",
+  "Yellow Emperor",
+  "Ramayana",
+  "Cangjie",
+  "Makunaima",
+  "Wakan Tanka",
+  "Orpheus",
+  "Bachu\u00e9",
+  "Prometheus"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

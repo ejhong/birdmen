@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  10,
+  4,
+  9,
+  7,
+  6,
+  3,
+  8,
+  2,
+  1
+ ],
+ "most_similar_reason": "Candidate 5 is essentially the same flood narrative type as the target: a favored man is told by a deity to build a great vessel, bring family and animals, survive a world-destroying flood, send out birds (dove/raven) to test the waters, then offer sacrifice afterward and receive divine favor, mirroring the ark, animals, receding waters, and post-flood offering in the target almost beat for beat.",
+ "least_similar_reason": "Candidate 1 provides only a bare identification of a deity worshipped by a people with no narrative events, actions, or relationships, sharing no substantive plot elements with the target's detailed flood, covenant, and family drama.",
+ "set": "positive",
+ "pair": "Noah | Utnapishtim",
+ "i": 273,
+ "target": "Noah",
+ "planted": "Utnapishtim",
+ "cands": [
+  "Abassi",
+  "Heitsi-eibib",
+  "Itzamna",
+  "Bhagiratha",
+  "Utnapishtim",
+  "Shennong",
+  "Glooscap",
+  "Baiame",
+  "Oduduwa",
+  "Wandjina"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  2,
+  10,
+  4,
+  7,
+  6,
+  5,
+  3,
+  9,
+  1
+ ],
+ "most_similar_reason": "Candidate 8 shares the core motif of a wise culture-hero bringing civilization\u2014teaching books, the calendar, agriculture, and creation myths\u2014paralleling the sages' role as teachers of civilization and creators of humanity, and even features a dual-named/dual-aspect deity akin to the sage known by two names.",
+ "least_similar_reason": "Candidate 1 describes a monotheistic creator deity approached only through mediums and oracles, with no sages, flood, fish-bird hybrids, city founding, or tablets of destiny, making it thematically and structurally unrelated to the target myth.",
+ "set": "hancock",
+ "pair": "Oannes | Quetzalcoatl",
+ "i": 71,
+ "target": "Oannes",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Mwari",
+  "T\u0101ne",
+  "Wayland the Smith",
+  "Ogun",
+  "Gesar",
+  "Great Peacemaker",
+  "Romulus and Remus",
+  "Quetzalcoatl",
+  "Sosruko",
+  "Bumba"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

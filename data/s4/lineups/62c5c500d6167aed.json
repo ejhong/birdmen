@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  4,
+  10,
+  9,
+  8,
+  3,
+  6,
+  5,
+  7,
+  1
+ ],
+ "most_similar_reason": "Candidate 2 recounts virtually the same flood narrative\u2014a god warns a chosen man, he builds a great vessel, all other life perishes, the vessel grounds on a mountain, birds are released to test the receding waters (one failing to return), and a sacrifice and divine promise follow.",
+ "least_similar_reason": "Candidate 1 is not a narrative at all but an account of the spread and decline of a divine name across languages and place-names, sharing no episodes, characters, or motifs with the flood-and-immortality quest of the target.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Genesis flood narrative",
+ "i": 229,
+ "target": "Gilgamesh flood myth",
+ "planted": "Genesis flood narrative",
+ "cands": [
+  "Waaq",
+  "Genesis flood narrative",
+  "Agastya",
+  "Prometheus",
+  "Itzamna",
+  "Hiawatha",
+  "Corn Mother",
+  "Tangaroa",
+  "Aeneas",
+  "Orpheus"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 1
+}

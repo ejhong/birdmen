@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  3,
+  8,
+  10,
+  5,
+  7,
+  6,
+  2,
+  9,
+  4
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's core theme of a divine or semi-divine figure sent to bring the arts and sciences of civilization to humanity, includes a flood-hero connection, and involves the establishment of a sacrificial precedent, paralleling the sages' role as civilizers and instituters of ritual and myth.",
+ "least_similar_reason": "Candidate 4 describes an abstract theological symbol representing an ineffable divine principle with no narrative action, sages, kings, floods, or civilizing acts, making it structurally and thematically the most distant from the target's concrete mythic events.",
+ "set": "hancock",
+ "pair": "Oannes | Quetzalcoatl",
+ "i": 75,
+ "target": "Oannes",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Prometheus",
+  "Djanggawul",
+  "Quetzalcoatl",
+  "Sang Hyang Tunggal",
+  "Kutkh",
+  "Kilibob and Manup",
+  "Tagaro",
+  "Baiame",
+  "Waaq",
+  "Mbombo"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 2
+}

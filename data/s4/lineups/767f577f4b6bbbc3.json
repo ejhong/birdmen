@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  5,
+  1,
+  6,
+  2,
+  4,
+  9,
+  10,
+  3,
+  7
+ ],
+ "most_similar_reason": "Candidate 8 shares the core flood-myth structure almost point for point: a divine command to build a great vessel, saving family and animals from a world-destroying flood while others perish, followed by a post-flood sacrifice and divine blessing, closely mirroring the target's flood narrative.",
+ "least_similar_reason": "Candidate 7 is an abstract theological discussion of a 'Great Spirit' concept with no narrative events, characters, or plot, sharing none of the specific flood, ark, or quest-for-immortality motifs found in the target.",
+ "set": "positive",
+ "pair": "Utnapishtim | Noah",
+ "i": 263,
+ "target": "Utnapishtim",
+ "planted": "Noah",
+ "cands": [
+  "Palamedes (mythology)",
+  "Qat (deity)",
+  "Unkulunkulu",
+  "Tagaro",
+  "Rama",
+  "Huitzilopochtli",
+  "Wakan Tanka",
+  "Noah",
+  "Mbombo",
+  "Nanabozho"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

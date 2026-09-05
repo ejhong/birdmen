@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  3,
+  5,
+  1,
+  10,
+  7,
+  6,
+  9,
+  2,
+  8
+ ],
+ "most_similar_reason": "Candidate 4, like the target, centers on a semi-divine civilizing hero who descends among the people, travels from town to town teaching and dispensing wisdom to chiefs, and is linked to the founding of a sacred city with a sun temple and commemorative rites, echoing the target's city-founding, wandering teacher who is later venerated.",
+ "least_similar_reason": "Candidate 8 is not a narrative at all but an etymological and historical account of a divine name's spread and decline, containing none of the target's creation acts, flood, teaching, or departure across the sea.",
+ "set": "hancock",
+ "pair": "Viracocha | Bochica",
+ "i": 208,
+ "target": "Viracocha",
+ "planted": "Bochica",
+ "cands": [
+  "Unkulunkulu",
+  "Kokopelli",
+  "Tezcatlipoca",
+  "Bochica",
+  "Hiawatha",
+  "Kvasir",
+  "Ilmarinen",
+  "Waaq",
+  "Tagaro",
+  "White Buffalo Calf Woman"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

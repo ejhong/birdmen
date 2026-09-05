@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  1,
+  10,
+  8,
+  3,
+  5,
+  6,
+  2,
+  7,
+  4
+ ],
+ "most_similar_reason": "Candidate 9 shares the flood-hero core sequence (divine warning, ark-building, family/animal preservation, sacrifice after the flood, divine blessing) that most closely parallels the target's flood-survival narrative, though it lacks the immortality quest.",
+ "least_similar_reason": "Candidate 4 concerns agricultural harvest folk customs about grain-spirit effigies and has no flood, vessel, deity command, or immortality-quest elements shared with the target.",
+ "set": "positive",
+ "pair": "Utnapishtim | Noah",
+ "i": 268,
+ "target": "Utnapishtim",
+ "planted": "Noah",
+ "cands": [
+  "Mbombo",
+  "Yellow Emperor",
+  "Kokopelli",
+  "Corn Mother",
+  "Nyame",
+  "Wayland the Smith",
+  "Cangjie",
+  "Kvasir",
+  "Noah",
+  "Triptolemus"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

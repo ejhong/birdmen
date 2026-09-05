@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  4,
+  3,
+  2,
+  1,
+  5,
+  6,
+  8,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 7 shares the same distinctive core narrative: a sibling-spouse pair descended from earth and sky deities, the brother's murder and dismemberment of the king, the goddess and her sister gathering the scattered pieces, magical revival long enough to conceive a son who later avenges his father, and the dead king's rule in the underworld.",
+ "least_similar_reason": "Candidate 10 is a bare statement that a multi-named creator god is worshipped in a region, containing no episodes, relationships, or motifs to compare with the target's detailed dismemberment-revival-avenger cycle.",
+ "set": "related",
+ "pair": "Isis | Osiris",
+ "i": 478,
+ "target": "Isis",
+ "planted": "Osiris",
+ "cands": [
+  "Obatala",
+  "Tangaroa",
+  "Bran the Blessed",
+  "Orpheus",
+  "Agastya",
+  "Heitsi-eibib",
+  "Osiris",
+  "Dangun",
+  "Berossus",
+  "Makunaima"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

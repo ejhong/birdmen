@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  4,
+  7,
+  3,
+  6,
+  2,
+  1,
+  8,
+  10,
+  9
+ ],
+ "most_similar_reason": "Candidate 5 shares the same core narrative: a chosen righteous man commanded by a deity to build a great vessel, loading family and animals, surviving a world-destroying flood that kills everyone else, then offering sacrifice after the waters recede and receiving divine blessing.",
+ "least_similar_reason": "Candidate 9 is a bare one-line note that a creator god is recognized under variant names in a region, containing no flood, vessel, hero, or quest for immortality at all.",
+ "set": "positive",
+ "pair": "Utnapishtim | Noah",
+ "i": 267,
+ "target": "Utnapishtim",
+ "planted": "Noah",
+ "cands": [
+  "Kutkh",
+  "Kvasir",
+  "Ayar Manco",
+  "Prometheus",
+  "Noah",
+  "Agastya",
+  "Triptolemus",
+  "Itzamna",
+  "Makunaima",
+  "Wakan Tanka"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 1
+}

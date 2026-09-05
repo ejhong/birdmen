@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  1,
+  7,
+  6,
+  3,
+  5,
+  2,
+  4,
+  9,
+  8
+ ],
+ "most_similar_reason": "Candidate 10 shares the target's most distinctive cluster: a wrongful accusation of a wife's adultery that must be answered, a fateful wrong choice between two options that permanently explains a lasting condition of the people, and a hero who arrives on an island bringing valuable treasures and founding lines of descent.",
+ "least_similar_reason": "Candidate 8 is a pure cosmogonic account of a solitary creator vomiting stars, animals and men, with no brothers, no rivalry over a wife, no boat- or craft-making, and no etiology of unevenly distributed goods.",
+ "set": "random",
+ "pair": "Kilibob and Manup | Ziusudra",
+ "i": 568,
+ "target": "Kilibob and Manup",
+ "planted": "Ziusudra",
+ "cands": [
+  "Obatala",
+  "Kutkh",
+  "Ilmarinen",
+  "Ziusudra",
+  "Oduduwa",
+  "Huitzilopochtli",
+  "Ayar Manco",
+  "Mbombo",
+  "Gesar",
+  "Ninigi-no-Mikoto"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 8
+}

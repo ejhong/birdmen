@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  7,
+  10,
+  2,
+  5,
+  4,
+  6,
+  1,
+  3,
+  8
+ ],
+ "most_similar_reason": "Candidate 9 shares the closest cluster of distinctive motifs with the target: N\u00fcwa/Fuxi-style creation of humans from clay, sibling marriage confirmed by a mist/fire omen on a sacred mountain, and cosmic repair myths tied to the same mythological complex as Pangu and Fuxi.",
+ "least_similar_reason": "Candidate 8 provides no narrative content at all, only naming a deity without any events, creations, or relationships to compare against the richly detailed target myth.",
+ "set": "related",
+ "pair": "Fuxi | N\u00fcwa",
+ "i": 501,
+ "target": "Fuxi",
+ "planted": "N\u00fcwa",
+ "cands": [
+  "Ayar Manco",
+  "Triptolemus",
+  "Wandjina",
+  "Amirani",
+  "Kutkh",
+  "Kilibob and Manup",
+  "Bachu\u00e9",
+  "Abassi",
+  "N\u00fcwa",
+  "Qat (deity)"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

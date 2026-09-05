@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  5,
+  9,
+  8,
+  2,
+  7,
+  1,
+  6,
+  3,
+  4
+ ],
+ "most_similar_reason": "Candidate 10 shares the core epic arc of the target\u2014a divinely-born hero who survives attempts on his life by rivals, wins a bride and rulership through trials, gains magical aid and weapons, becomes king through conflict, and ultimately relinquishes his earthly rule to withdraw into an underworld/otherworldly realm, closely paralleling the target's marriage-contest kingship, wars, and final descent/ascension pattern.",
+ "least_similar_reason": "Candidate 4 is a purely conceptual, non-narrative description of a spiritual term (\"Great Spirit/Mystery\") with no hero, birth, conflict, marriage, or journey of any kind, sharing no plot elements with the target's heroic life story.",
+ "set": "random",
+ "pair": "Gesar | Kvasir",
+ "i": 590,
+ "target": "Gesar",
+ "planted": "Kvasir",
+ "cands": [
+  "Qat (deity)",
+  "Kvasir",
+  "Corn Mother",
+  "Wakan Tanka",
+  "Huitzilopochtli",
+  "Nyame",
+  "Ilmarinen",
+  "Hiawatha",
+  "Mama Ocllo",
+  "\u014ckuninushi"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 5
+}

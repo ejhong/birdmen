@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  2,
+  10,
+  8,
+  7,
+  9,
+  1,
+  6,
+  4,
+  5
+ ],
+ "most_similar_reason": "Candidate 3 tells essentially the same figure's story: an early righteous ancestor-prophet descended from the first man who preached repentance, was famed as a scribe/teacher of secrets, and was taken up to heaven so that he did not die an ordinary death\u2014matching the target's ascension, fourth-heaven translation, and inventor-of-writing motifs.",
+ "least_similar_reason": "Candidate 5 is not a narrative at all but a linguistic account of a divine name's spread and decline, sharing none of the target's prophet, migration, invention, or heavenly ascent episodes.",
+ "set": "related",
+ "pair": "Idris (prophet) | Enoch (ancestor of Noah)",
+ "i": 546,
+ "target": "Idris (prophet)",
+ "planted": "Enoch (ancestor of Noah)",
+ "cands": [
+  "Sosruko",
+  "Great Peacemaker",
+  "Enoch (ancestor of Noah)",
+  "Mwari",
+  "Waaq",
+  "Heitsi-eibib",
+  "Qat (deity)",
+  "Ayar Manco",
+  "Ninigi-no-Mikoto",
+  "Glooscap"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

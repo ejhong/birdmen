@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  4,
+  1,
+  10,
+  8,
+  5,
+  2,
+  9,
+  3,
+  6
+ ],
+ "most_similar_reason": "Candidate 7 shares the target's core pattern of a creator/culture-hero god who teaches humanity agriculture and grain cultivation, is bound in a sibling/brother relationship marked by trickery, is sealed into a chest and disposed of, and ends as a figure tied to death and the underworld.",
+ "least_similar_reason": "Candidate 6 contains no narrative at all\u2014no birth, deeds, gifts, or relationships\u2014so it shares nothing with the target beyond the bare label of a deity.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Osiris",
+ "i": 80,
+ "target": "Quetzalcoatl",
+ "planted": "Osiris",
+ "cands": [
+  "Kilibob and Manup",
+  "Ninigi-no-Mikoto",
+  "Ziusudra",
+  "Cadmus",
+  "Romulus and Remus",
+  "Abassi",
+  "Osiris",
+  "Hiawatha",
+  "Tagaro",
+  "White Buffalo Calf Woman"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

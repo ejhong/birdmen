@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  3,
+  1,
+  4,
+  7,
+  2,
+  5,
+  10,
+  8,
+  9
+ ],
+ "most_similar_reason": "Candidate 6 shares the target's core profile of a founding culture-hero/first-priest figure closely tied to a great deity, who teaches agriculture and secret rites, is honored in ritual cycles, travels teaching and naming/founding places, and ends up associated with a subterranean realm and its rulership.",
+ "least_similar_reason": "Candidate 9 is least similar because it offers no narrative at all\ncontent beyond the bare fact that a spirit is recognized as a deity, sharing none of the target's episodes, inventions, or relationships.",
+ "set": "random",
+ "pair": "Itzamna | Coyote (mythology)",
+ "i": 567,
+ "target": "Itzamna",
+ "planted": "Coyote (mythology)",
+ "cands": [
+  "Shennong",
+  "\u014ckuninushi",
+  "Mbombo",
+  "Coyote (mythology)",
+  "Amirani",
+  "Triptolemus",
+  "Djanggawul",
+  "Wayland the Smith",
+  "Abassi",
+  "Romulus and Remus"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 4
+}

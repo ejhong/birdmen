@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  8,
+  4,
+  3,
+  10,
+  9,
+  5,
+  2,
+  1,
+  7
+ ],
+ "most_similar_reason": "Candidate 6 is a direct retelling of the same narrative: exile caused by a stepmother wanting her son to inherit, a wife won through an archery feat, a demoness whose nose and ears are cut off, her ten-headed demon-king brother who uses a golden deer and disguise to abduct the wife, alliance with monkey-like beings to help search for her, a bridge built to an island stronghold, and a climactic duel ending in the demon's death\u2014matching nearly every distinctive motif of the target.",
+ "least_similar_reason": "Candidate 7 concerns founding ancestors, rival deities, and the establishment of multiple kingdoms through lineage and creation myths, sharing only the vaguest generic themes of kingship and divine origin with no correspondence to the target's specific plot of exile, abduction, or monkey allies.",
+ "set": "positive",
+ "pair": "Ramayana | Reamker",
+ "i": 284,
+ "target": "Ramayana",
+ "planted": "Reamker",
+ "cands": [
+  "R\u00edgs\u00feula",
+  "White Buffalo Calf Woman",
+  "Cadmus",
+  "Palamedes (mythology)",
+  "Great Peacemaker",
+  "Reamker",
+  "Oduduwa",
+  "Ninigi-no-Mikoto",
+  "Hiawatha",
+  "Orpheus"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  7,
+  10,
+  2,
+  6,
+  4,
+  1,
+  3,
+  5,
+  9
+ ],
+ "most_similar_reason": "Candidate 8 mirrors almost every major plot beat of the target\u2014an incarnate hero winning a princess at an archery contest, exile with a brother, a demoness's rejection, abduction by a multi-headed demon king, alliance with monkey princes, a causeway, and the final battle and reunion\u2014making it a clear variant of the same epic narrative.",
+ "least_similar_reason": "Candidate 9 involves a crippled craftsman's revenge through murder, mutilation, and seduction with no exile, marriage quest, demon king, or army of allies, sharing no substantive plot or character correspondence with the target.",
+ "set": "positive",
+ "pair": "Ramayana | Ramakien",
+ "i": 304,
+ "target": "Ramayana",
+ "planted": "Ramakien",
+ "cands": [
+  "Yellow Emperor",
+  "Glooscap",
+  "Kokopelli",
+  "Tezcatlipoca",
+  "Sosruko",
+  "Coyote (mythology)",
+  "\u014ckuninushi",
+  "Ramakien",
+  "Wayland the Smith",
+  "Orpheus"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

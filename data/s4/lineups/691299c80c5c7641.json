@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  2,
+  10,
+  5,
+  1,
+  3,
+  8,
+  6,
+  7,
+  4
+ ],
+ "most_similar_reason": "Candidate 9 matches the target most closely as both center on a civilizing hero-deity who descends/appears among people, travels from town to town teaching wisdom and religion, is consulted by locals, and is linked to a sacred city with a sun temple commemorating his arrival.",
+ "least_similar_reason": "Candidate 4 is least similar because it is not a narrative at all but a discussion of a term for a diffuse sacred power, with no creator figure, no creation of humans, no flood, and no journey or disappearance.",
+ "set": "hancock",
+ "pair": "Viracocha | Bochica",
+ "i": 207,
+ "target": "Viracocha",
+ "planted": "Bochica",
+ "cands": [
+  "Ogun",
+  "Apkallu",
+  "Yu the Great",
+  "Wakan Tanka",
+  "Yellow Emperor",
+  "Sang Hyang Tunggal",
+  "Corn Mother",
+  "Bhagiratha",
+  "Bochica",
+  "T\u0101ne"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

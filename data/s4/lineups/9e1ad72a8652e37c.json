@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  3,
+  4,
+  6,
+  8,
+  9,
+  2,
+  10,
+  7,
+  5
+ ],
+ "most_similar_reason": "Candidate 1 recounts the same distinctive episode set\u2014sibling spouses born of earth and sky deities, the brother's murder and dismemberment of the king, the wife and her sister gathering the scattered pieces, magical revival long enough to conceive, the son born and later avenging his father while the dead king rules the underworld.",
+ "least_similar_reason": "Candidate 5 is not a narrative at all but a description of a term for a diffuse 'Great Spirit/Great Mystery' sacred power, sharing no characters, events, or motifs with the murdered-and-dismembered fertility god story.",
+ "set": "related",
+ "pair": "Osiris | Isis",
+ "i": 462,
+ "target": "Osiris",
+ "planted": "Isis",
+ "cands": [
+  "Isis",
+  "Agastya",
+  "Obatala",
+  "Shennong",
+  "Wakan Tanka",
+  "Palamedes (mythology)",
+  "Makunaima",
+  "Kokopelli",
+  "Baiame",
+  "Unkulunkulu"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

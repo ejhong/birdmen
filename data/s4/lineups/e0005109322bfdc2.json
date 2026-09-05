@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  8,
+  3,
+  5,
+  6,
+  4,
+  1,
+  7,
+  2,
+  9
+ ],
+ "most_similar_reason": "Candidate 10 matches the target's core arc most closely: a civilizing deity who comes to earth, appears among towns teaching religion and the foundations of civilization, is linked to sun/light and to the ordering of a great sacred city, and is remembered in multiple conflicting versions.",
+ "least_similar_reason": "Candidate 9 shares almost nothing with the target\u2014it is a sky-woman fall, turtle-earth, and twin-brothers creation tale whose gifts are food plants grown from a corpse, with no descending civilizing teacher, no cave consultation by chiefs, no sacred sun temple, and none of the target's odd cat/wind/idol identifications.",
+ "set": "hancock",
+ "pair": "Bochica | Viracocha",
+ "i": 219,
+ "target": "Bochica",
+ "planted": "Viracocha",
+ "cands": [
+  "Ninigi-no-Mikoto",
+  "T\u0101ne",
+  "Nanabozho",
+  "Oduduwa",
+  "White Buffalo Calf Woman",
+  "Glooscap",
+  "Cadmus",
+  "Tezcatlipoca",
+  "Sky Woman",
+  "Viracocha"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

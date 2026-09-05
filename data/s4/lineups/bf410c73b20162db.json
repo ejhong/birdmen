@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  5,
+  9,
+  1,
+  6,
+  8,
+  4,
+  7,
+  10,
+  3
+ ],
+ "most_similar_reason": "Candidate 2 shares the most distinctive cluster of motifs with the target: a culture-hero deity who gives a cultivated crop and teaches its use, has a rival/twin counterpart and a sister with whom he is sexually entangled, journeys to the underworld, and is famously sealed inside a chest at his death, closely echoing the target god's coffin-box, agricultural teaching, sister-wife, and underworld lordship.",
+ "least_similar_reason": "Candidate 3 is not a narrative at all but a discussion of a term for a diffuse sacred power and its translation, containing no characters, deaths, dismemberment, avenging son, or teaching of agriculture.",
+ "set": "hancock",
+ "pair": "Osiris | Quetzalcoatl",
+ "i": 91,
+ "target": "Osiris",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Tagaro",
+  "Quetzalcoatl",
+  "Wakan Tanka",
+  "Sosruko",
+  "Orpheus",
+  "Gesar",
+  "Makunaima",
+  "Agastya",
+  "Pachacamac",
+  "Sang Hyang Tunggal"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  2,
+  10,
+  3,
+  8,
+  1,
+  5,
+  4,
+  6,
+  7
+ ],
+ "most_similar_reason": "Candidate 9 depicts a civilizing hero who appears in towns, is welcomed hospitably, retreats to a cave to teach chiefs, and is honored with a sun temple and festivals of his arrival\u2014closely mirroring the target's wandering teacher-god who founds civilization, is linked to sun worship, and is remembered through ritual commemoration of his return.",
+ "least_similar_reason": "Candidate 7 describes a folk harvest ritual about a grain spirit housed in a straw doll, sharing no thematic, narrative, or figure-based overlap with the target's creator-deity flood and civilization myth.",
+ "set": "hancock",
+ "pair": "Viracocha | Bochica",
+ "i": 207,
+ "target": "Viracocha",
+ "planted": "Bochica",
+ "cands": [
+  "Ogun",
+  "Apkallu",
+  "Yu the Great",
+  "Wakan Tanka",
+  "Yellow Emperor",
+  "Sang Hyang Tunggal",
+  "Corn Mother",
+  "Bhagiratha",
+  "Bochica",
+  "T\u0101ne"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

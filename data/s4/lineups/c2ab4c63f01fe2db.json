@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  4,
+  9,
+  3,
+  7,
+  10,
+  1,
+  5,
+  6,
+  2
+ ],
+ "most_similar_reason": "Candidate 8 matches the target most closely because it likewise features a civilizing culture-hero who descends/appears among people, travels from town to town dispensing teaching and wisdom, and is commemorated at a sacred sun-temple city, mirroring the target's wandering, teaching, city-founding white god.",
+ "least_similar_reason": "Candidate 2 is least similar because it is not a narrative at all but a linguistic and historical account of a divine name's spread and decline, with no creator figure acting, no creation of humans, flood, teaching, or departure across the sea.",
+ "set": "hancock",
+ "pair": "Viracocha | Bochica",
+ "i": 204,
+ "target": "Viracocha",
+ "planted": "Bochica",
+ "cands": [
+  "Wandjina",
+  "Waaq",
+  "Cadmus",
+  "Dangun",
+  "Heitsi-eibib",
+  "Bran the Blessed",
+  "Agastya",
+  "Bochica",
+  "Obatala",
+  "Aeneas"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

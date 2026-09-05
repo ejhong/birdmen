@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  4,
+  7,
+  6,
+  2,
+  3,
+  1,
+  8,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 5 shares the core flood-hero narrative structure with the target: a divinely warned patriarch builds a vessel, preserves his family and animal pairs, survives a world-destroying flood, offers sacrifice afterward, receives divine blessing/covenant, and later experiences a drunkenness episode involving his sons, closely mirroring the ark-building, survival, sacrifice, and post-flood family dynamics of the target.",
+ "least_similar_reason": "Candidate 10 is an abstract theological discussion of a term for sacredness or divine mystery with no narrative events, characters, or actions at all, making it entirely unrelated to the target's concrete flood-survival and immortality-quest storyline.",
+ "set": "positive",
+ "pair": "Utnapishtim | Noah",
+ "i": 267,
+ "target": "Utnapishtim",
+ "planted": "Noah",
+ "cands": [
+  "Kutkh",
+  "Kvasir",
+  "Ayar Manco",
+  "Prometheus",
+  "Noah",
+  "Agastya",
+  "Triptolemus",
+  "Itzamna",
+  "Makunaima",
+  "Wakan Tanka"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

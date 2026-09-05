@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  7,
+  8,
+  1,
+  9,
+  6,
+  5,
+  2,
+  10,
+  4
+ ],
+ "most_similar_reason": "Candidate 3 shares the closest thematic cluster with the target: a group of primeval divine culture-bearers/sages who teach humans civilization and arts, aid a flood-adjacent hero, and face punishment by a higher sky god, echoing the target's sages who teach civilization, are tied to flood kings, and are later banished by a great god.",
+ "least_similar_reason": "Candidate 4 is a sprawling trickster cycle about world-creation, animal councils, and transformation myths with no seven sages, flood-paired kings, healing poultices, or fish/bird hybrid figurines, making it the least similar in structure and motif.",
+ "set": "hancock",
+ "pair": "Oannes | Osiris",
+ "i": 108,
+ "target": "Oannes",
+ "planted": "Osiris",
+ "cands": [
+  "Osiris",
+  "White Buffalo Calf Woman",
+  "Prometheus",
+  "Coyote (mythology)",
+  "Gesar",
+  "Sky Woman",
+  "Agastya",
+  "Mama Ocllo",
+  "Djanggawul",
+  "Nyame"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 4
+}

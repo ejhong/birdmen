@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  7,
+  10,
+  5,
+  2,
+  4,
+  3,
+  6,
+  9,
+  8
+ ],
+ "most_similar_reason": "Candidate 1 matches the target most closely because it likewise presents a figure known through several conflicting accounts and then, in a developed telling, as a civilizing hero who comes among people, teaches them, is linked to a founded/sacred city and the sun deity, and departs into a place of concealment.",
+ "least_similar_reason": "Candidate 8 is least similar because it supplies no narrative at all\ninb\nonly the bare identification of a spirit as a deity, with none of the target's contradictory identifications, cave retreat, chiefly consultations, or sun temple.",
+ "set": "hancock",
+ "pair": "Bochica | Viracocha",
+ "i": 212,
+ "target": "Bochica",
+ "planted": "Viracocha",
+ "cands": [
+  "Viracocha",
+  "Glooscap",
+  "Heitsi-eibib",
+  "Mbombo",
+  "Sang Hyang Tunggal",
+  "Sosruko",
+  "Yellow Emperor",
+  "Abassi",
+  "Rama",
+  "Nanabozho"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

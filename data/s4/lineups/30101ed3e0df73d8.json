@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  8,
+  3,
+  1,
+  10,
+  4,
+  9,
+  5,
+  7,
+  2
+ ],
+ "most_similar_reason": "Candidate 6 reproduces nearly the entire target plot \u2014 exile forced by a queen mother wanting her son on the throne, the wife won in a marriage contest, the loyal younger brother, the demoness whose nose and ears are cut off, the ten-headed demon's golden-deer ruse and abduction, the alliance with monkey-beings after helping their leader defeat a rival, the bridge to the island, and the trial of the wife's fidelity.",
+ "least_similar_reason": "Candidate 2 shares nothing but a sacred visitation: it is a ceremonial-gift revelation with no exiled prince, abducted wife, demon adversary, or dynastic conflict.",
+ "set": "positive",
+ "pair": "Ramayana | Reamker",
+ "i": 284,
+ "target": "Ramayana",
+ "planted": "Reamker",
+ "cands": [
+  "R\u00edgs\u00feula",
+  "White Buffalo Calf Woman",
+  "Cadmus",
+  "Palamedes (mythology)",
+  "Great Peacemaker",
+  "Reamker",
+  "Oduduwa",
+  "Ninigi-no-Mikoto",
+  "Hiawatha",
+  "Orpheus"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

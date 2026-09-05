@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  3,
+  1,
+  9,
+  6,
+  2,
+  7,
+  10,
+  4,
+  8
+ ],
+ "most_similar_reason": "Candidate 5 shares the same distinctive flood narrative: gods decree the destruction of noisy humanity, a clever god secretly circumvents his oath by speaking through a reed wall to a favored wise man, who builds a sealed waterproof ship and loads it with family and animals before a multi-day deluge.",
+ "least_similar_reason": "Candidate 8 is not a narrative at all but a description of cave-painting spirits and repainting rituals, with no hero, journey, warned survivor, boat, or quest for immortality.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Atra-Hasis",
+ "i": 251,
+ "target": "Gilgamesh flood myth",
+ "planted": "Atra-Hasis",
+ "cands": [
+  "Aeneas",
+  "T\u0101ne",
+  "Prometheus",
+  "Great Peacemaker",
+  "Atra-Hasis",
+  "Qat (deity)",
+  "Huitzilopochtli",
+  "Wandjina",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Anansi"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 1
+}

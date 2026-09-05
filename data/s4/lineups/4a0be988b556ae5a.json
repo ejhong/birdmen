@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  9,
+  10,
+  8,
+  5,
+  7,
+  6,
+  2,
+  3,
+  1
+ ],
+ "most_similar_reason": "Candidate 4 shares the target's exact mythic world: a group of semi-divine sages serving as bringers of wisdom and civilization, associated with a god of the subterranean primeval waters, the tablets of destiny, and a great flood that divides primeval from later ages.",
+ "least_similar_reason": "Candidate 1 is a heroic war saga of kings, marriage-alliance, a magic cauldron, and a talking severed head, with no creator-deity, no fashioning of humans, no wisdom-god's cunning, and no flood-warning motif.",
+ "set": "related",
+ "pair": "Enki | Oannes",
+ "i": 487,
+ "target": "Enki",
+ "planted": "Oannes",
+ "cands": [
+  "Bran the Blessed",
+  "Orpheus",
+  "Aeneas",
+  "Oannes",
+  "Palamedes (mythology)",
+  "Hiawatha",
+  "Wandjina",
+  "Triptolemus",
+  "T\u0101ne",
+  "Anansi"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

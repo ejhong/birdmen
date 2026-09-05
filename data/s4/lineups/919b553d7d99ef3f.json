@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  4,
+  1,
+  10,
+  8,
+  6,
+  9,
+  5,
+  7,
+  2
+ ],
+ "most_similar_reason": "Candidate 3 shares the closest thematic core with the target: a craftsman god fashions an artificial woman (Pandora) at a higher god's command, closely paralleling the target's smith-god forging a golden maiden, and both stories also feature fire-origin myths and trickster crafting narratives.",
+ "least_similar_reason": "Candidate 2 is a purely theological description of a supreme creator deity's worship, mediums, and taboos, containing no forging, craftsmanship, magic objects, or narrative episodes that correspond to the target's smith-god tales.",
+ "set": "random",
+ "pair": "Ilmarinen | Gesar",
+ "i": 593,
+ "target": "Ilmarinen",
+ "planted": "Gesar",
+ "cands": [
+  "Amirani",
+  "Mwari",
+  "Prometheus",
+  "Yu the Great",
+  "Kutkh",
+  "Gesar",
+  "Kokopelli",
+  "Romulus and Remus",
+  "Bachu\u00e9",
+  "Oduduwa"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 6
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  3,
+  8,
+  1,
+  6,
+  9,
+  5,
+  2,
+  4,
+  10
+ ],
+ "most_similar_reason": "Candidate 7 is essentially the same work: a wise counselor instructs a king through a nested cycle of animal fables, including the scheming jackal-like courtier who destroys the lion king's friendship with a horned beast, the four friends (mouse, crow, turtle, deer) who save one another, and the war between crows and owls won by infiltration \u2014 matching the target's frame story and its first three books almost episode for episode.",
+ "least_similar_reason": "Candidate 10 is a brief ethnographic note on an ancestor-turned-creator figure who makes people and cattle from reeds and then forgets them, with no teacher-pupil frame, no fables, no animal characters acting in stories, and no moral instruction.",
+ "set": "positive",
+ "pair": "Panchatantra | Kalila wa-Dimna",
+ "i": 349,
+ "target": "Panchatantra",
+ "planted": "Kalila wa-Dimna",
+ "cands": [
+  "Kilibob and Manup",
+  "Kokopelli",
+  "\u014ckuninushi",
+  "Ogun",
+  "Itzamna",
+  "Wayland the Smith",
+  "Kalila wa-Dimna",
+  "Mama Ocllo",
+  "Tangaroa",
+  "Unkulunkulu"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  10,
+  2,
+  6,
+  7,
+  3,
+  9,
+  4,
+  8,
+  5
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's core narrative of a royal heir who abandons palace life and worldly rule to follow an ascetic path, becoming the founding teacher of a monastic religious community.",
+ "least_similar_reason": "Candidate 5 is a single bare statement about a supreme deity's names, with no plot, characters in relation, prophecy, conversion, or abdication to compare.",
+ "set": "positive",
+ "pair": "Barlaam and Josaphat | Gautama Buddha",
+ "i": 338,
+ "target": "Barlaam and Josaphat",
+ "planted": "Gautama Buddha",
+ "cands": [
+  "Gautama Buddha",
+  "Cadmus",
+  "Dangun",
+  "Cangjie",
+  "Bumba",
+  "Aeneas",
+  "White Buffalo Calf Woman",
+  "Corn Mother",
+  "Mbombo",
+  "Romulus and Remus"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

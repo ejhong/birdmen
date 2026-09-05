@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  7,
+  5,
+  10,
+  8,
+  3,
+  6,
+  1,
+  2,
+  4
+ ],
+ "most_similar_reason": "Candidate 9 centers on a feathered serpent deity known through multiple conflicting origin and life tales\u2014paralleling the target's structure of several distinct stories about a plumed serpent, including cosmic transformations, shame, and journeys between realms.",
+ "least_similar_reason": "Candidate 4 is not a narrative at all but an abstract discussion of a linguistic/spiritual concept ('Great Spirit'), sharing no plot, figures, or motifs with the target's serpent-deity myths.",
+ "set": "related",
+ "pair": "Kukulkan | Quetzalcoatl",
+ "i": 417,
+ "target": "Kukulkan",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Palamedes (mythology)",
+  "Wayland the Smith",
+  "Makunaima",
+  "Wakan Tanka",
+  "Cadmus",
+  "Romulus and Remus",
+  "Pachacamac",
+  "Kokopelli",
+  "Quetzalcoatl",
+  "Tagaro"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

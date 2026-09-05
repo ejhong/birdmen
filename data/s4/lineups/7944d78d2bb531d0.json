@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  8,
+  4,
+  3,
+  2,
+  9,
+  6,
+  1,
+  7,
+  5
+ ],
+ "most_similar_reason": "Candidate 10 shares the distinctive motif of a deity being tricked into drinking a fermented beverage that leads to disastrous, shame-inducing consequences, followed by creation/re-creation of humanity from raw materials and a divine breathing of life, closely echoing the target's fermentation-trick, human creation from bones with blood-gifted life, and twin/sibling rivalry themes.",
+ "least_similar_reason": "Candidate 5 is a bare one-line statement about a supreme deity with two names and shares no specific narrative motifs, events, or relationships with the elaborate birth stories, sibling incest, self-immolation, or cultural gifts described in the target.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Oannes",
+ "i": 63,
+ "target": "Quetzalcoatl",
+ "planted": "Oannes",
+ "cands": [
+  "Sosruko",
+  "Nyame",
+  "Oannes",
+  "Shennong",
+  "Bumba",
+  "Hiawatha",
+  "Unkulunkulu",
+  "Triptolemus",
+  "Palamedes (mythology)",
+  "Obatala"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 4
+}

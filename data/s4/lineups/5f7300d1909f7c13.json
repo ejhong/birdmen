@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  8,
+  10,
+  1,
+  7,
+  5,
+  3,
+  6,
+  2,
+  9
+ ],
+ "most_similar_reason": "Candidate 4 directly parallels the target's flood narrative: a fish-avatar of a god grows from small to large, warns a man/king of a coming flood, tows his boat to safety, involves seven sages and sacred scriptures stolen by a demon, and ends with the man being made ruler of the current age\u2014mirroring the target's Manu-fish-flood-seven sages-scripture rescue episode almost point for point.",
+ "least_similar_reason": "Candidate 9 is a single generic sentence naming a supreme deity with two names, containing no motifs, events, or relationships comparable to the target's elaborate genealogical, cosmic-cycle, and flood narrative.",
+ "set": "positive",
+ "pair": "Manu (Hinduism) | Matsya",
+ "i": 367,
+ "target": "Manu (Hinduism)",
+ "planted": "Matsya",
+ "cands": [
+  "Kvasir",
+  "Kokopelli",
+  "Baiame",
+  "Matsya",
+  "Tagaro",
+  "Ilmarinen",
+  "Tangaroa",
+  "Yellow Emperor",
+  "Bumba",
+  "Ayar Manco"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

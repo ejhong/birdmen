@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  6,
+  4,
+  10,
+  8,
+  9,
+  3,
+  2,
+  1,
+  5
+ ],
+ "most_similar_reason": "Candidate 7 mirrors the target almost point-for-point: an exiled prince, a bow-winning marriage, a stepmother's plot, a loyal brother who mutilates a seductive demoness, a golden-deer decoy, an abduction by a ten-headed demon king, an alliance with monkey-like beings, a bridge to the demon's island, and the hero's eventual victory and reunion.",
+ "least_similar_reason": "Candidate 5 is a purely etymological and linguistic discussion of a word for 'God' across cultures, containing no narrative, characters, or events comparable to the heroic, familial, and mythic plot of the target.",
+ "set": "positive",
+ "pair": "Ramayana | Reamker",
+ "i": 289,
+ "target": "Ramayana",
+ "planted": "Reamker",
+ "cands": [
+  "Makunaima",
+  "Bachu\u00e9",
+  "Kokopelli",
+  "Tezcatlipoca",
+  "Waaq",
+  "Itzamna",
+  "Reamker",
+  "Anansi",
+  "Kutkh",
+  "Nanabozho"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

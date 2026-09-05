@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  4,
+  10,
+  7,
+  8,
+  2,
+  9,
+  5,
+  1,
+  6
+ ],
+ "most_similar_reason": "Candidate 3 shares the target's exact core episode\u2014gods secretly deciding on a flood, a wise god warning his favored man through a reed wall to build a sealed boat and load family, animals, and craftsmen, and the storm's onset\u2014making it a near-parallel telling of the same flood narrative.",
+ "least_similar_reason": "Candidate 6 concerns a musician-poet's charmed instrument, his lost bride, an underworld journey, and his dismemberment, with no divine labor, creation of humankind, plague/famine cycles, or flood-and-ark material at all.",
+ "set": "positive",
+ "pair": "Atra-Hasis | Gilgamesh flood myth",
+ "i": 247,
+ "target": "Atra-Hasis",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Ogun",
+  "Sky Woman",
+  "Gilgamesh flood myth",
+  "Huitzilopochtli",
+  "Aeneas",
+  "Orpheus",
+  "Itzamna",
+  "R\u00edgs\u00feula",
+  "Ilmarinen",
+  "Mbombo"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

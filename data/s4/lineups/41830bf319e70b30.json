@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  9,
+  2,
+  10,
+  8,
+  7,
+  5,
+  4,
+  1,
+  3
+ ],
+ "most_similar_reason": "Candidate 6 shares the target's exact distinctive flood episode: gods decree a deluge, a clever god secretly warns his human favorite by speaking to a reed wall, and the man builds and seals a waterproof boat loaded with family and animals to survive the storm.",
+ "least_similar_reason": "Candidate 3 is not a narrative at all but a linguistic and religious-history note about a divine name, sharing no characters, episodes, or motifs with the target's flood and quest story.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Atra-Hasis",
+ "i": 259,
+ "target": "Gilgamesh flood myth",
+ "planted": "Atra-Hasis",
+ "cands": [
+  "Pachacamac",
+  "Amirani",
+  "Waaq",
+  "Cangjie",
+  "Ogun",
+  "Atra-Hasis",
+  "Wayland the Smith",
+  "Agastya",
+  "Cadmus",
+  "Sky Woman"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  6,
+  9,
+  8,
+  5,
+  3,
+  2,
+  10,
+  1,
+  4
+ ],
+ "most_similar_reason": "Candidate 7 shares the target's core profile of a culture-bringing god credited with inventing books/writing and the calendar, bound up with celestial/lunar-planetary identity, an underworld journey, and gifts of knowledge and crops to humanity.",
+ "least_similar_reason": "Candidate 4 has no narrative at all\ntheir figure performs no actions, invents nothing, and interacts with no other beings, so it shares no episodes or motifs with the target.",
+ "set": "hancock",
+ "pair": "Thoth | Quetzalcoatl",
+ "i": 167,
+ "target": "Thoth",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Rama",
+  "Oduduwa",
+  "Aeneas",
+  "Abassi",
+  "Cadmus",
+  "Triptolemus",
+  "Quetzalcoatl",
+  "\u014ckuninushi",
+  "Dangun",
+  "Ogun"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

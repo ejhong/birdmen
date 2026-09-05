@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  3,
+  6,
+  9,
+  1,
+  7,
+  8,
+  10,
+  5,
+  4
+ ],
+ "most_similar_reason": "Candidate 2 shares nearly every distinctive plot beat with the target\u2014exile by a stepmother favoring her own son, winning a wife via a bow/archery contest, the brother cutting off a demoness's nose and ears, the golden deer ruse, abduction of the wife, alliance with monkey-people to restore a king, and the final battle with a demon king\u2014making it clearly the same core narrative.",
+ "least_similar_reason": "Candidate 4 is an abstract linguistic/etymological discussion of a divine name across cultures with no characters, plot, or events corresponding to the target's exile, abduction, and rescue narrative.",
+ "set": "positive",
+ "pair": "Reamker | Ramayana",
+ "i": 295,
+ "target": "Reamker",
+ "planted": "Ramayana",
+ "cands": [
+  "Apkallu",
+  "Ramayana",
+  "Cadmus",
+  "Waaq",
+  "Unkulunkulu",
+  "Triptolemus",
+  "Itzamna",
+  "Sky Woman",
+  "Ziusudra",
+  "Nyame"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 1
+}

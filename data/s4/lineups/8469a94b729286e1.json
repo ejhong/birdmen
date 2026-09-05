@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  10,
+  5,
+  4,
+  3,
+  6,
+  1,
+  2,
+  7,
+  9
+ ],
+ "most_similar_reason": "Candidate 8 recounts essentially the same narrative arc\u2014hero exiled by a scheming stepmother, wife won by breaking a bow, forest seduction by a demoness whose nose/ears are cut off, abduction via a golden-deer ruse, alliance with monkey-people to restore a king, and a climactic battle with a demon king\u2014matching the target's sequence and specific motifs almost point for point.",
+ "least_similar_reason": "Candidate 9 is a fragmentary cosmogonic and king-list account with a flood myth and a mythologized queen, sharing no structural or motif overlap with the target's exile, abduction, and twin-son narrative.",
+ "set": "positive",
+ "pair": "Reamker | Ramayana",
+ "i": 290,
+ "target": "Reamker",
+ "planted": "Ramayana",
+ "cands": [
+  "Hiawatha",
+  "Cangjie",
+  "Shennong",
+  "Glooscap",
+  "Romulus and Remus",
+  "Tagaro",
+  "Djanggawul",
+  "Ramayana",
+  "Berossus",
+  "Maya Hero Twins"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

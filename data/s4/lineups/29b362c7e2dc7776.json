@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  8,
+  10,
+  4,
+  3,
+  2,
+  1,
+  5,
+  6,
+  7
+ ],
+ "most_similar_reason": "Candidate 9 matches the target's most unusual element\u2014amphibious, part-fish beings sent down by a sky deity who must live in water, who bring civilization/teaching to humans and are the origin of the earliest sages/priest-kings\u2014paralleling the target's water-dwelling star visitors who dive into a made reservoir and give rise to the people's first religious leader.",
+ "least_similar_reason": "Candidate 7 is a list of a culture hero's inventions, titles and dynastic claims with no primordial creation of twins, no rebellion, no sacrificial dismemberment scattering into shrines, and no water-dwelling sky visitors.",
+ "set": "hancock",
+ "pair": "Nommo | Oannes",
+ "i": 186,
+ "target": "Nommo",
+ "planted": "Oannes",
+ "cands": [
+  "Romulus and Remus",
+  "Coyote (mythology)",
+  "Baiame",
+  "Nanabozho",
+  "Bachu\u00e9",
+  "Cadmus",
+  "Yellow Emperor",
+  "Huitzilopochtli",
+  "Oannes",
+  "Tezcatlipoca"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

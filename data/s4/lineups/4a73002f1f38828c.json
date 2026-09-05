@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  2,
+  8,
+  4,
+  5,
+  10,
+  7,
+  9,
+  3,
+  6
+ ],
+ "most_similar_reason": "Candidate 1 matches the target's most distinctive cluster: a culture-hero god who teaches humanity agriculture and civilized arts, is tricked by a rival/brother figure, is enclosed and sealed inside a chest/box, dies in that way, and is afterwards connected with the underworld and reborn in cult, mirroring the target's stone-chest death, underworld journey, and gift of grain.",
+ "least_similar_reason": "Candidate 6 shares only the vaguest element (a serpent creator mentioned in passing) and is otherwise a static account of rain spirits and repainted rock art with no birth stories, culture-hero gifts, underworld journey, or transformation into a star.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Osiris",
+ "i": 83,
+ "target": "Quetzalcoatl",
+ "planted": "Osiris",
+ "cands": [
+  "Osiris",
+  "Aeneas",
+  "Unkulunkulu",
+  "Oduduwa",
+  "R\u00edgs\u00feula",
+  "Wandjina",
+  "Wisakedjak",
+  "Ogun",
+  "Sosruko",
+  "Kilibob and Manup"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

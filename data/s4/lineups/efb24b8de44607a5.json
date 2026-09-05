@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  1,
+  3,
+  7,
+  6,
+  10,
+  9,
+  4,
+  2,
+  8
+ ],
+ "most_similar_reason": "Candidate 5 is explicitly Mesoamerican in flavor, featuring a serpent-named kingdom, a calendar of twenty day-names, a jaguar deity of darkness, and repeated journeys to a homeland\u2014closely paralleling the target's Feathered Serpent's calendar-invention, serpent symbolism, and cyclical mythic geography.",
+ "least_similar_reason": "Candidate 8 is a purely conceptual discussion of an abstract 'Great Spirit/Great Mystery' term with no narrative events, births, journeys, or deeds, sharing almost nothing concrete with the target's rich cycle of specific births, underworld journeys, and self-sacrifice.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Votan",
+ "i": 150,
+ "target": "Quetzalcoatl",
+ "planted": "Votan",
+ "cands": [
+  "Glooscap",
+  "Mwari",
+  "Cadmus",
+  "Wisakedjak",
+  "Votan",
+  "R\u00edgs\u00feula",
+  "Yu the Great",
+  "Wakan Tanka",
+  "Djanggawul",
+  "Kilibob and Manup"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

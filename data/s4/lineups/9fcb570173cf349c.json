@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  5,
+  8,
+  10,
+  4,
+  9,
+  3,
+  2,
+  1,
+  7
+ ],
+ "most_similar_reason": "Candidate 6 depicts Enki/Ea, the Mesopotamian god of wisdom and subterranean waters who creates mankind from clay, commands a group of sages/apkallu as servants, and warns his human prot\u00e9g\u00e9 of the flood through a reed wall, directly paralleling the target's apkallu, flood, and wisdom-god motifs from the same mythological tradition.",
+ "least_similar_reason": "Candidate 7 is a shapeshifting trickster hero involved in incestuous transformation and a stone-throwing duel with a monster, sharing no meaningful overlap with the target's seven sages, flood, city-founding, or ritual figurine motifs.",
+ "set": "related",
+ "pair": "Oannes | Enki",
+ "i": 490,
+ "target": "Oannes",
+ "planted": "Enki",
+ "cands": [
+  "V\u00e4in\u00e4m\u00f6inen",
+  "R\u00edgs\u00feula",
+  "Mbombo",
+  "T\u0101ne",
+  "Prometheus",
+  "Enki",
+  "Heitsi-eibib",
+  "Palamedes (mythology)",
+  "Djanggawul",
+  "Aeneas"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

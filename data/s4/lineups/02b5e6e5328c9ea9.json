@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  5,
+  10,
+  8,
+  3,
+  4,
+  1,
+  2,
+  7,
+  9
+ ],
+ "most_similar_reason": "Candidate 6 shares the deepest structural overlap with the target: a divine figure sent from heaven to create the earth over the waters (echoing the lake-rising creation act), symbolic dual creation objects (gourd halves, shell of sand scattered by a bird), and a lineage of culture-heroes/princes spreading civilization and founding many kingdoms, paralleling the target's creator teaching civilization and his descendants founding cities.",
+ "least_similar_reason": "Candidate 9 contains no narrative content at all beyond naming a deity, offering nothing comparable to the rich creation, flood, and civilizing-hero storyline of the target.",
+ "set": "related",
+ "pair": "Viracocha | Tunupa",
+ "i": 449,
+ "target": "Viracocha",
+ "planted": "Tunupa",
+ "cands": [
+  "Amirani",
+  "Sosruko",
+  "Romulus and Remus",
+  "Palamedes (mythology)",
+  "Yu the Great",
+  "Oduduwa",
+  "Tunupa",
+  "Tagaro",
+  "Abassi",
+  "Djanggawul"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 9
+}

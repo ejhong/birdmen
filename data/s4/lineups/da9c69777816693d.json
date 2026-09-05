@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  6,
+  3,
+  9,
+  7,
+  8,
+  10,
+  4,
+  5,
+  1
+ ],
+ "most_similar_reason": "Candidate 2, like the target, centers on a legendary sage-figure attached to a ruler who brings the arts of civilization (writing) to humanity and then formally teaches it to others, with commemorative shrines and hybrid/animal-omen motifs, matching the target's culture-bringing sages paired with kings.",
+ "least_similar_reason": "Candidate 1 is a portrait of a fertility/trickster flute-player deity with no sages, kings, flood, city-founding, or transmission of civilized arts, sharing only the vaguest notion of a supernatural being connected to agriculture.",
+ "set": "hancock",
+ "pair": "Oannes | Osiris",
+ "i": 105,
+ "target": "Oannes",
+ "planted": "Osiris",
+ "cands": [
+  "Kokopelli",
+  "Cangjie",
+  "Bachu\u00e9",
+  "Sosruko",
+  "Unkulunkulu",
+  "Osiris",
+  "Bhagiratha",
+  "Ilmarinen",
+  "T\u0101ne",
+  "Tagaro"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 2
+}

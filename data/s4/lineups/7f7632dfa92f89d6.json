@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  6,
+  9,
+  3,
+  4,
+  2,
+  8,
+  10,
+  5,
+  1
+ ],
+ "most_similar_reason": "Candidate 7 shares the core Chinese creation-myth complex with the target: a divine figure creating humans from clay, a sibling pair (Fuxi/N\u00fcwa-type) whose union is confirmed by a natural omen before marriage, and world-mending after cosmic disaster, closely mirroring the target's clay-human creation and sibling marriage confirmed by merging fires.",
+ "least_similar_reason": "Candidate 1 describes an abstract linguistic and spiritual concept of a diffuse sacred power rather than any narrative of a creation figure, siblings, clay humans, or cultural inventions, sharing no concrete motifs with the target.",
+ "set": "related",
+ "pair": "Fuxi | N\u00fcwa",
+ "i": 505,
+ "target": "Fuxi",
+ "planted": "N\u00fcwa",
+ "cands": [
+  "Wakan Tanka",
+  "Orpheus",
+  "Baiame",
+  "Apkallu",
+  "Tagaro",
+  "Glooscap",
+  "N\u00fcwa",
+  "Amirani",
+  "Dangun",
+  "Wisakedjak"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

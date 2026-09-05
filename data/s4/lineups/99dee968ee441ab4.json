@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  2,
+  4,
+  7,
+  5,
+  8,
+  6,
+  9,
+  10,
+  3
+ ],
+ "most_similar_reason": "Candidate 1 is essentially a parallel retelling of the same epic core\u2014exile by a stepmother wanting her son to inherit, a wife won through a bow/arrow contest, a loyal brother joining in exile, a demoness mutilated in the forest, a golden-deer decoy, abduction by a demon king, and alliance with monkey-people to rescue her\u2014matching almost every distinctive motif of the target.",
+ "least_similar_reason": "Candidate 3 contains only a single vague statement about a deity with two names and shares none of the target's specific characters, events, or motifs.",
+ "set": "positive",
+ "pair": "Reamker | Ramayana",
+ "i": 298,
+ "target": "Reamker",
+ "planted": "Ramayana",
+ "cands": [
+  "Ramayana",
+  "Amirani",
+  "Bumba",
+  "Cadmus",
+  "Kilibob and Manup",
+  "Glooscap",
+  "Obatala",
+  "T\u0101ne",
+  "Anansi",
+  "R\u00edgs\u00feula"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

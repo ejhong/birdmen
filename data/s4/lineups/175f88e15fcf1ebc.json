@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  10,
+  6,
+  9,
+  2,
+  8,
+  7,
+  3,
+  5,
+  1
+ ],
+ "most_similar_reason": "Candidate 4 shares the exact frame of a wise advisor teaching a ruler's heirs through nested animal fables, including the same jackal-in-lion's-court treachery tale, the four cooperating weak animals (crow, mouse, turtle, deer), the crow-owl war of counsel, and the loyal-animal-killed-in-haste motif, all matching the target's structure and specific episodes closely.",
+ "least_similar_reason": "Candidate 1 is a sky-father creation and initiation myth with rock art and geographic etiology, sharing no nested fable structure, animal-court politics, or specific episodes with the target.",
+ "set": "positive",
+ "pair": "Kalila wa-Dimna | Panchatantra",
+ "i": 356,
+ "target": "Kalila wa-Dimna",
+ "planted": "Panchatantra",
+ "cands": [
+  "Baiame",
+  "Ziusudra",
+  "Tezcatlipoca",
+  "Panchatantra",
+  "Nyame",
+  "\u014ckuninushi",
+  "Bachu\u00e9",
+  "Cangjie",
+  "Gesar",
+  "Maya Hero Twins"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

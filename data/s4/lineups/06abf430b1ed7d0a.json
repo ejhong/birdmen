@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  4,
+  9,
+  8,
+  1,
+  5,
+  2,
+  10,
+  3,
+  7
+ ],
+ "most_similar_reason": "Candidate 6, like the target, presents a culture-hero deity remembered through several conflicting, contradictory accounts of his origin and nature, who descends among people as a civilizing teacher founding religious practice, is associated with wind and sacred sites, and is commemorated in cult.",
+ "least_similar_reason": "Candidate 7 is a dynastic tale of horse sacrifice, ancestral funeral rites, and bringing a river down from heaven through austerities, sharing none of the target's distinctive elements of contradictory memories of a figure, a civilizing hero descending to found a religion, cave consultations by chiefs, or a sun temple in a sacred city.",
+ "set": "hancock",
+ "pair": "Bochica | Quetzalcoatl",
+ "i": 126,
+ "target": "Bochica",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Aeneas",
+  "Mbombo",
+  "Ilmarinen",
+  "Oduduwa",
+  "R\u00edgs\u00feula",
+  "Quetzalcoatl",
+  "Bhagiratha",
+  "Orpheus",
+  "Obatala",
+  "Coyote (mythology)"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

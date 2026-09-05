@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  8,
+  1,
+  5,
+  10,
+  2,
+  6,
+  4,
+  7,
+  3
+ ],
+ "most_similar_reason": "Candidate 9 shares the core structural motifs of the target\u2014children of an earth mother and sky father in conflict, a brother's violent attack driving the god into hiding, and a magical revival through incantation to restore life\u2014closely echoing Osiris's sibling rivalry, dismemberment, and reanimation by Isis.",
+ "least_similar_reason": "Candidate 3 is a purely abstract theological symbol with no narrative of birth, family conflict, murder, dismemberment, or resurrection, making it the least similar to the target's rich mythic plot.",
+ "set": "hancock",
+ "pair": "Osiris | Oannes",
+ "i": 113,
+ "target": "Osiris",
+ "planted": "Oannes",
+ "cands": [
+  "Dangun",
+  "Ilmarinen",
+  "Sang Hyang Tunggal",
+  "Unkulunkulu",
+  "Cangjie",
+  "Kutkh",
+  "Mwari",
+  "Oannes",
+  "Tangaroa",
+  "Cadmus"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 2
+}

@@ -1,21 +1,103 @@
 {
- "n": 49,
+ "n": 1177,
  "by_set": {
   "hancock": {
    "opus": {
-    "n": 49,
-    "mean_rank": 1.6122448979591837,
-    "rank1": 36,
-    "share_rank1": 0.7346938775510204,
-    "share_top3": 0.8775510204081632,
-    "p_rank1": 6.944875806127611e-26,
+    "n": 220,
+    "mean_rank": 1.9545454545454546,
+    "rank1": 135,
+    "share_rank1": 0.6136363636363636,
+    "share_top3": 0.85,
+    "p_rank1": 4.176989055494566e-77,
     "hist": [
-     36,
-     5,
-     2,
+     135,
+     37,
+     15,
+     11,
+     12,
      4,
+     3,
      1,
      1,
+     1
+    ]
+   },
+   "sonnet": {
+    "n": 177,
+    "mean_rank": 2.016949152542373,
+    "rank1": 113,
+    "share_rank1": 0.6384180790960452,
+    "share_top3": 0.8361581920903954,
+    "p_rank1": 1.5556737260655215e-67,
+    "hist": [
+     113,
+     26,
+     9,
+     9,
+     5,
+     8,
+     2,
+     3,
+     2,
+     0
+    ]
+   },
+   "all": {
+    "n": 397,
+    "mean_rank": 1.9823677581863979,
+    "rank1": 248,
+    "share_rank1": 0.6246851385390428,
+    "share_top3": 0.8438287153652393,
+    "p_rank1": 8.303087655314964e-143,
+    "hist": [
+     248,
+     63,
+     24,
+     20,
+     17,
+     12,
+     5,
+     4,
+     3,
+     1
+    ]
+   }
+  },
+  "positive": {
+   "opus": {
+    "n": 180,
+    "mean_rank": 1.0,
+    "rank1": 180,
+    "share_rank1": 1.0,
+    "share_top3": 1.0,
+    "p_rank1": 1.00000000000001e-180,
+    "hist": [
+     180,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "sonnet": {
+    "n": 179,
+    "mean_rank": 1.005586592178771,
+    "rank1": 178,
+    "share_rank1": 0.994413407821229,
+    "share_top3": 1.0,
+    "p_rank1": 1.612000000000016e-176,
+    "hist": [
+     178,
+     1,
+     0,
+     0,
+     0,
+     0,
      0,
      0,
      0,
@@ -23,38 +105,505 @@
     ]
    },
    "all": {
-    "n": 49,
-    "mean_rank": 1.6122448979591837,
-    "rank1": 36,
-    "share_rank1": 0.7346938775510204,
-    "share_top3": 0.8775510204081632,
-    "p_rank1": 6.944875806127611e-26,
+    "n": 359,
+    "mean_rank": 1.0027855153203342,
+    "rank1": 358,
+    "share_rank1": 0.9972144846796658,
+    "share_top3": 1.0,
+    "p_rank1": 0.0,
     "hist": [
-     36,
-     5,
-     2,
-     4,
+     358,
      1,
-     1,
+     0,
+     0,
+     0,
+     0,
      0,
      0,
      0,
      0
     ]
    }
+  },
+  "random": {
+   "opus": {
+    "n": 60,
+    "mean_rank": 5.583333333333333,
+    "rank1": 3,
+    "share_rank1": 0.05,
+    "share_top3": 0.3,
+    "p_rank1": 0.9469549181840072,
+    "hist": [
+     3,
+     6,
+     9,
+     5,
+     6,
+     6,
+     9,
+     4,
+     8,
+     4
+    ]
+   },
+   "sonnet": {
+    "n": 51,
+    "mean_rank": 5.196078431372549,
+    "rank1": 7,
+    "share_rank1": 0.13725490196078433,
+    "share_top3": 0.37254901960784315,
+    "p_rank1": 0.24518354160431188,
+    "hist": [
+     7,
+     6,
+     6,
+     6,
+     3,
+     4,
+     4,
+     2,
+     9,
+     4
+    ]
+   },
+   "all": {
+    "n": 111,
+    "mean_rank": 5.405405405405405,
+    "rank1": 10,
+    "share_rank1": 0.09009009009009009,
+    "share_top3": 0.3333333333333333,
+    "p_rank1": 0.6821143960403468,
+    "hist": [
+     10,
+     12,
+     15,
+     11,
+     9,
+     10,
+     13,
+     6,
+     17,
+     8
+    ]
+   }
+  },
+  "related": {
+   "opus": {
+    "n": 160,
+    "mean_rank": 1.75,
+    "rank1": 138,
+    "share_rank1": 0.8625,
+    "share_top3": 0.89375,
+    "p_rank1": 6.077932479009699e-113,
+    "hist": [
+     138,
+     5,
+     0,
+     1,
+     2,
+     3,
+     1,
+     1,
+     5,
+     4
+    ]
+   },
+   "sonnet": {
+    "n": 150,
+    "mean_rank": 1.6533333333333333,
+    "rank1": 131,
+    "share_rank1": 0.8733333333333333,
+    "share_top3": 0.9066666666666666,
+    "p_rank1": 7.6109191133990535e-109,
+    "hist": [
+     131,
+     3,
+     2,
+     1,
+     3,
+     1,
+     1,
+     2,
+     3,
+     3
+    ]
+   },
+   "all": {
+    "n": 310,
+    "mean_rank": 1.7032258064516128,
+    "rank1": 269,
+    "share_rank1": 0.867741935483871,
+    "share_top3": 0.9,
+    "p_rank1": 3.551202456829463e-220,
+    "hist": [
+     269,
+     8,
+     2,
+     2,
+     5,
+     4,
+     2,
+     3,
+     8,
+     7
+    ]
+   }
   }
  },
  "by_pair": {
-  "Oannes | Viracocha": {
-   "set": "hancock",
-   "n": 10,
-   "mean_rank": 1.1,
-   "rank1": 9,
-   "share_rank1": 0.9,
+  "Atra-Hasis | Gilgamesh flood myth": {
+   "set": "positive",
+   "n": 20,
+   "mean_rank": 1.0,
+   "rank1": 20,
+   "share_rank1": 1.0,
    "share_top3": 1.0,
-   "p_rank1": 9.100000000000004e-09,
+   "p_rank1": 1.0000000000000011e-20,
    "hist": [
-    9,
+    20,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 8 shares the exact flood narrative core with the target: gods swearing to a flood, a wise god secretly warning the flood hero through a reed wall, building a boat, seven/six days of storm, and the wise god rebuking the storm god afterward, closely mirroring the target's clever god instructing the wise man through a reed wall to build a waterproof ship.",
+    "Candidate 5 shares the target's exact core episode: gods secretly resolving to send a flood, a wise god warning a chosen man through a reed wall to build a sealed boat and load kin and animals, and the storm that destroys humanity."
+   ],
+   "beaten_by": {}
+  },
+  "Barlaam and Josaphat | Gautama Buddha": {
+   "set": "positive",
+   "n": 19,
+   "mean_rank": 1.0,
+   "rank1": 19,
+   "share_rank1": 1.0,
+   "share_top3": 1.0,
+   "p_rank1": 1.000000000000001e-19,
+   "hist": [
+    19,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 9,
+     "mean_rank": 1.0,
+     "rank1": 9,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000005e-09,
+     "hist": [
+      9,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 6, like the target, centers on a wandering teacher of royal birth who renounces the world, attains awakening, and founds a monastic religious order that others convert to and retreat into, matching the target's core religious-founder/conversion/seclusion motifs.",
+    "Candidate 6 shares the target's core: a royal-born figure who renounces palace life and rule for the ascetic/solitary life, founding a religious community around a wandering teacher's doctrine, which is precisely the legend cycle the target retells."
+   ],
+   "beaten_by": {}
+  },
+  "Bochica | Quetzalcoatl": {
+   "set": "hancock",
+   "n": 20,
+   "mean_rank": 1.15,
+   "rank1": 17,
+   "share_rank1": 0.85,
+   "share_top3": 1.0,
+   "p_rank1": 8.466310000000009e-15,
+   "hist": [
+    17,
+    3,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.2,
+     "rank1": 8,
+     "share_rank1": 0.8,
+     "share_top3": 1.0,
+     "p_rank1": 3.736000000000001e-07,
+     "hist": [
+      8,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.1,
+     "rank1": 9,
+     "share_rank1": 0.9,
+     "share_top3": 1.0,
+     "p_rank1": 9.100000000000004e-09,
+     "hist": [
+      9,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 10 matches the target most closely because it likewise presents a single figure remembered through several conflicting, mutually incompatible accounts of his origin and nature (including a wind/idol-like aspect), who then becomes a civilizing culture hero descending to teach, bringing arts and crops, associated with solar/stellar cult and sacred sites.",
+    "Candidate 8 matches the target's two-part structure most closely: a figure whose origins are given in several mutually contradictory accounts by different tellers, who is then presented as a descending civilizing hero associated with wind and light who founds religious practice, brings gifts and teachings to particular peoples, is linked to a sacred mountain/site, and is commemorated in cult."
+   ],
+   "beaten_by": {
+    "Great Peacemaker": 2,
+    "Baiame": 1
+   }
+  },
+  "Bochica | Viracocha": {
+   "set": "hancock",
+   "n": 19,
+   "mean_rank": 1.0,
+   "rank1": 19,
+   "share_rank1": 1.0,
+   "share_top3": 1.0,
+   "p_rank1": 1.000000000000001e-19,
+   "hist": [
+    19,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 9,
+     "mean_rank": 1.0,
+     "rank1": 9,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000005e-09,
+     "hist": [
+      9,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 6 matches the target most closely because it too concerns a bearded civilizing hero who comes to earth, appears in successive towns teaching religion and civilization, is linked to a sun deity and a founded sacred city, and is remembered in several conflicting variant traditions.",
+    "Candidate 1 matches the target most closely because it centers on a civilizing hero-deity who comes among people, orders/founds a great city, teaches religion and the arts of civilization while wandering town to town, and is remembered in multiple conflicting versions of his identity and family."
+   ],
+   "beaten_by": {}
+  },
+  "Deucalion | Noah": {
+   "set": "positive",
+   "n": 20,
+   "mean_rank": 1.0,
+   "rank1": 20,
+   "share_rank1": 1.0,
+   "share_top3": 1.0,
+   "p_rank1": 1.0000000000000011e-20,
+   "hist": [
+    20,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 7 shares the core flood-myth skeleton with the target\u2014a divine warning to a righteous patriarch, construction of a vessel, preservation of family, post-flood thanksgiving offering, and the survivors' sons becoming ancestors of the peoples who repopulate the earth\u2014making it the closest structural and thematic match despite the added animal and vineyard episodes.",
+    "Candidate 6 shares the target's core plot almost point for point: a supreme god angered by human wickedness sends a world-destroying flood, a single favored man is forewarned and builds a wooden vessel provisioned for survival, he and his family ride out the waters, give thanks/offer sacrifice on landing, and then repopulate the earth, with his offspring becoming the ancestors of named peoples."
+   ],
+   "beaten_by": {}
+  },
+  "Enki | Oannes": {
+   "set": "related",
+   "n": 20,
+   "mean_rank": 1.05,
+   "rank1": 19,
+   "share_rank1": 0.95,
+   "share_top3": 1.0,
+   "p_rank1": 1.810000000000002e-18,
+   "hist": [
+    19,
     1,
     0,
     0,
@@ -85,26 +634,46 @@
       0,
       0
      ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
     }
    },
    "reasons_top": [
-    "Candidate 10 shares the target's core pattern of divine civilizing teachers who bring the arts of civilization to humanity, order the founding of a great city, are bound up with a great flood dividing eras of mankind, and are linked to emergence from and departure across primeval waters.",
-    "Candidate 1 shares the target's core pattern of divine civilizers who teach humanity the arts of civilization, oversee the founding of a great city, are associated with companions bearing the same name (a plurality of like figures), and are tied to a great flood that divides earlier and later humanity."
+    "Candidate 10 shares the target's most distinctive complex: divine sages who bring crafts and civilization to mankind, a pre-flood/post-flood framework, banishment into primeval subterranean waters, and a wisdom god's association with these fish-sage servants.",
+    "Candidate 4 shares the same mythic milieu and the target's most distinctive elements: a group of semi-divine sages serving as bringers of civilization to mankind, associated with subterranean/primeval waters, a great flood dividing eras, and a wise god who dispatches and reclaims them."
    ],
    "beaten_by": {
-    "Tan'gun": 1
+    "Prometheus": 1
    }
   },
-  "Quetzalcoatl | Viracocha": {
-   "set": "hancock",
-   "n": 10,
+  "Enoch (ancestor of Noah) | Idris (prophet)": {
+   "set": "related",
+   "n": 20,
    "mean_rank": 1.0,
-   "rank1": 10,
+   "rank1": 20,
    "share_rank1": 1.0,
    "share_top3": 1.0,
-   "p_rank1": 1.0000000000000006e-10,
+   "p_rank1": 1.0000000000000011e-20,
    "hist": [
-    10,
+    20,
     0,
     0,
     0,
@@ -135,24 +704,2428 @@
       0,
       0
      ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
     }
    },
    "reasons_top": [
-    "Candidate 1 matches the target most closely as a bearded creator/culture-hero told in several conflicting versions who destroys an earlier flawed race and remakes humankind, teaches civilization to a people, and finally departs in a marvelous manner with expectation of return.",
-    "Candidate 3 matches the target's core arc most closely: a bearded creator/culture hero with multiple conflicting versions of his story who destroys an earlier failed race of humans and fashions the present humanity, teaches civilization's arts, and finally departs over the water with an expectation of return."
+    "Candidate 10 is essentially the same figure: an early antediluvian prophet descended from the first man, noted for piety and asceticism, credited as the first to write and to study the stars, who preached to an unheeding people, and who was taken up alive into the heavens (dying there rather than on earth) \u2014 matching the target's ascension, scribal role, and preaching motifs almost point for point.",
+    "Candidate 6 explicitly describes a patriarchal figure (second prophet after Adam) who is taught writing, astronomy, and measures, is raised to heaven in the fourth level, and is identified with Enoch/Idris, closely mirroring the target's Enoch traditions of ascension, scribal wisdom, and non-death."
    ],
    "beaten_by": {}
   },
-  "Viracocha | Oannes": {
-   "set": "hancock",
-   "n": 10,
-   "mean_rank": 1.3,
-   "rank1": 7,
-   "share_rank1": 0.7,
+  "Fuxi | N\u00fcwa": {
+   "set": "related",
+   "n": 20,
+   "mean_rank": 1.0,
+   "rank1": 20,
+   "share_rank1": 1.0,
    "share_top3": 1.0,
-   "p_rank1": 9.121600000000001e-06,
+   "p_rank1": 1.0000000000000011e-20,
    "hist": [
-    7,
+    20,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 7 shares the same distinctive cluster of motifs: a brother\u2013sister pair living on a sacred mountain who take a natural sign (mist/merging flames) as divine approval for their marriage, the molding of humans from clay/mud, and repair or ordering of the damaged cosmos.",
+    "Candidate 8 belongs to the same mythic complex as the target (N\u00fcwa paired with Fuxi), sharing the sibling\u2011spouse marriage confirmed by a natural sign, creation of humans from clay, and a great flood/ball\u2011of\u2011flesh origin motif, making it the closest match in both figures and specific episodes."
+   ],
+   "beaten_by": {}
+  },
+  "Gautama Buddha | Barlaam and Josaphat": {
+   "set": "positive",
+   "n": 20,
+   "mean_rank": 1.0,
+   "rank1": 20,
+   "share_rank1": 1.0,
+   "share_top3": 1.0,
+   "p_rank1": 1.0000000000000011e-20,
+   "hist": [
+    20,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 7 mirrors the Buddha legend almost point-for-point (a royal heir isolated to prevent contact with a persecuted ascetic faith, secretly converted by a holy man, later renouncing rule to live as an ascetic with his teacher), making it the clearest structural and thematic echo of the target's renunciation-and-awakening narrative.",
+    "Candidate 5 shares the core narrative arc of a royal figure encountering a religious teacher, converting despite opposition, and ultimately renouncing worldly rule to enter seclusion/asceticism\u2014paralleling the target's theme of royal renunciation for spiritual life and the master-disciple transmission of teaching."
+   ],
+   "beaten_by": {}
+  },
+  "Genesis flood narrative | Gilgamesh flood myth": {
+   "set": "positive",
+   "n": 20,
+   "mean_rank": 1.0,
+   "rank1": 20,
+   "share_rank1": 1.0,
+   "share_top3": 1.0,
+   "p_rank1": 1.0000000000000011e-20,
+   "hist": [
+    20,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 8 matches the target almost episode for episode: a god secretly warns a chosen man of a divinely decreed flood, he builds a great boat and loads it with living creatures, the deluge destroys all humanity, the boat grounds on a mountain, birds (including a raven that does not return) are released to test the waters, and he offers a sacrifice around which the gods gather and grant a blessing.",
+    "Candidate 5 (the Gilgamesh flood account) shares the same core structure as the target: a god warns a chosen man to build a boat, animals and kin are saved, a flood of fixed duration destroys all life, the boat lands on a mountain, birds (including a raven that does not return) are released to test the waters, and the survivor offers a sacrifice that appeases the gods."
+   ],
+   "beaten_by": {}
+  },
+  "Gilgamesh flood myth | Atra-Hasis": {
+   "set": "positive",
+   "n": 20,
+   "mean_rank": 1.0,
+   "rank1": 20,
+   "share_rank1": 1.0,
+   "share_top3": 1.0,
+   "p_rank1": 1.0000000000000011e-20,
+   "hist": [
+    20,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 7 shares the closest match with the target's flood narrative, including the secret warning through a reed wall, the gods' council to send a flood, and the building of a waterproof ship to preserve life.",
+    "Candidate 9 shares the same flood myth core\u2014a clever god warning the flood hero through a reed wall, secret instructions to build a boat, gathering family and animals, and the flood as divine punishment for human noise\u2014closely mirroring the target's Utnapishtim narrative."
+   ],
+   "beaten_by": {}
+  },
+  "Gilgamesh flood myth | Genesis flood narrative": {
+   "set": "positive",
+   "n": 20,
+   "mean_rank": 1.0,
+   "rank1": 20,
+   "share_rank1": 1.0,
+   "share_top3": 1.0,
+   "p_rank1": 1.0000000000000011e-20,
+   "hist": [
+    20,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 10 shares the target's core episode almost point for point: a divine warning of a world-destroying flood to one chosen man, the building of a great vessel loaded with living things, the flood destroying all flesh, the boat coming to rest on a mountain, the sending out of birds (including one that does not return) to test the waters, and a sacrifice afterward followed by a divine promise/blessing.",
+    "Candidate 1 shares the closest match to the flood narrative core: a righteous hero warned by a god, building a vessel, surviving a flood that kills all life, releasing birds (raven-like and dove-like) to test the waters, landing on a mountain, and offering sacrifice afterward."
+   ],
+   "beaten_by": {}
+  },
+  "Idris (prophet) | Enoch (ancestor of Noah)": {
+   "set": "related",
+   "n": 20,
+   "mean_rank": 1.0,
+   "rank1": 20,
+   "share_rank1": 1.0,
+   "share_top3": 1.0,
+   "p_rank1": 1.0000000000000011e-20,
+   "hist": [
+    20,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 3 tells essentially the same figure's story: an early righteous ancestor-prophet descended from the first man who preached repentance, was famed as a scribe/teacher of secrets, and was taken up to heaven so that he did not die an ordinary death\u2014matching the target's ascension, fourth-heaven translation, and inventor-of-writing motifs.",
+    "Candidate 10 depicts the same ancestral figure-type: a righteous patriarch descended from the first man who is bodily taken up to a heavenly realm without ordinary death, becomes a scribe/teacher of secrets, preaches repentance, and is linked to conveying revelation to a later prophet \u2014 matching the target's culture-hero prophet raised to a high station, first user of the pen, and soul taken in the fourth heaven."
+   ],
+   "beaten_by": {}
+  },
+  "Isis | Osiris": {
+   "set": "related",
+   "n": 20,
+   "mean_rank": 1.0,
+   "rank1": 20,
+   "share_rank1": 1.0,
+   "share_top3": 1.0,
+   "p_rank1": 1.0000000000000011e-20,
+   "hist": [
+    20,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 6 shares the same core distinctive episode-set as the target almost point for point: a murdered brother-king dismembered by a jealous sibling, a wife/sister who searches for and reassembles the scattered pieces, magical revival to conceive a posthumous son, the king becoming lord of the underworld, and the son eventually avenging him.",
+    "Candidate 7 mirrors the target almost point-for-point: a divine brother-husband king murdered and dismembered by a jealous brother, a wife (with her sister) who searches for and reassembles the pieces, magically revives him to conceive a son, and that son later avenges the father and defeats the usurper, with the god thereafter ruling the underworld."
+   ],
+   "beaten_by": {}
+  },
+  "Kalila wa-Dimna | Panchatantra": {
+   "set": "positive",
+   "n": 20,
+   "mean_rank": 1.0,
+   "rank1": 20,
+   "share_rank1": 1.0,
+   "share_top3": 1.0,
+   "p_rank1": 1.0000000000000011e-20,
+   "hist": [
+    20,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 9 is a nearly exact match: a wise advisor instructs royalty through a nested cycle of animal fables including the scheming jackal at the lion king's court who destroys a friendship, the four cooperating weak animals (crow, mouse, turtle, deer), and the war between crows and owls.",
+    "Candidate 4 is explicitly the Panchatantra/Kalila-wa-Dimna frame tale, matching the target's structure of a sage teaching princes through nested animal fables, including the jackal-lion court intrigue, the four cooperating weak animals, and the crow-owl war, all paralleling the target's canine schemer, friendship quartet, and bird-of-prey war motifs almost point for point."
+   ],
+   "beaten_by": {}
+  },
+  "Kukulkan | Quetzalcoatl": {
+   "set": "related",
+   "n": 20,
+   "mean_rank": 1.0,
+   "rank1": 20,
+   "share_rank1": 1.0,
+   "share_top3": 1.0,
+   "p_rank1": 1.0000000000000011e-20,
+   "hist": [
+    20,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 9 centers on a feathered/plumed serpent deity with multiple birth myths, a sibling relationship turning tragic, an underworld journey tied to creation, and a transformation into a celestial body, closely paralleling the target's cluster of plumed-serpent tales, sibling bonds, and life-death journeys.",
+    "Candidate 2 describes the same feathered serpent deity (Quetzalcoatl) with multiple conflicting birth/origin tales, a link to the wind/rain, and cosmic roles, matching the target's core figure and multi-story structure far more closely than any other candidate."
+   ],
+   "beaten_by": {}
+  },
+  "Manco C\u00e1pac | Viracocha": {
+   "set": "related",
+   "n": 18,
+   "mean_rank": 1.1666666666666667,
+   "rank1": 15,
+   "share_rank1": 0.8333333333333334,
+   "share_top3": 1.0,
+   "p_rank1": 6.074200000000005e-13,
+   "hist": [
+    15,
+    3,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.1,
+     "rank1": 9,
+     "share_rank1": 0.9,
+     "share_top3": 1.0,
+     "p_rank1": 9.100000000000004e-09,
+     "hist": [
+      9,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 8,
+     "mean_rank": 1.25,
+     "rank1": 6,
+     "share_rank1": 0.75,
+     "share_top3": 1.0,
+     "p_rank1": 2.341000000000001e-05,
+     "hist": [
+      6,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 3 shares the most distinctive elements with the target: a divine founder-figure associated with a great lake and a sun deity whose offspring carries a golden staff and founds a civilization/city, plus the same pattern of a creator-god parent, wandering companions, and city-founding traditions.",
+    "Candidate 6 shares the same distinctive cluster of motifs: a founding civilizing figure carrying a staff, a golden staff explicitly borne by a son of the sun deity and a female consort who found a civilization, emergence from a great lake, and the ordering of a great city's construction, matching the target's golden-staff, sun-and-moon-parentage founding myth."
+   ],
+   "beaten_by": {
+    "Hu\u012btzil\u014dp\u014dchtli": 2,
+    "Oduduwa": 1
+   }
+  },
+  "Manu (Hinduism) | Matsya": {
+   "set": "positive",
+   "n": 20,
+   "mean_rank": 1.0,
+   "rank1": 20,
+   "share_rank1": 1.0,
+   "share_top3": 1.0,
+   "p_rank1": 1.0000000000000011e-20,
+   "hist": [
+    20,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 4 explicitly retells the fish-avatar flood myth with a growing fish, a boat tied to its horn, seven sages, sacred scriptures, and a demon returning stolen texts\u2014matching the target's Matsya/Manu flood narrative almost point for point.",
+    "Candidate 4 shares the target's central and unusual episode almost exactly: a fish incarnation of a great god warns the first man/king of a coming deluge, instructs him to build a boat towed by the fish's horn, and the boat carries seven sages and the sacred scriptures, preserving humanity and knowledge, with the survivor becoming ruler of the current age."
+   ],
+   "beaten_by": {}
+  },
+  "Matsya | Manu (Hinduism)": {
+   "set": "positive",
+   "n": 20,
+   "mean_rank": 1.0,
+   "rank1": 20,
+   "share_rank1": 1.0,
+   "share_top3": 1.0,
+   "p_rank1": 1.0000000000000011e-20,
+   "hist": [
+    20,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 4 shares the exact core episode: a fish-avatar of the preserver god warns the seventh archetypal first-man/ruler of a deluge, tells him to build a boat, which is loaded with the sacred scriptures, family, and seven sages and towed to safety, all set within a cycle of successive human ages headed by that same progenitor figure.",
+    "Candidate 9 shares the fish-avatar of a creator/preserver god warning the first man of a flood, the boat, seven sages, sacred scriptures, and towing to safety, matching the target's core myth almost exactly."
+   ],
+   "beaten_by": {}
+  },
+  "M\u0101ui (Hawaiian mythology) | M\u0101ui (M\u0101ori mythology)": {
+   "set": "related",
+   "n": 20,
+   "mean_rank": 1.0,
+   "rank1": 20,
+   "share_rank1": 1.0,
+   "share_top3": 1.0,
+   "p_rank1": 1.0000000000000011e-20,
+   "hist": [
+    20,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 4 matches the target almost episode for episode: a trickster youngest brother with a magic fishhook made from a relative's body-part who secretly joins his brothers' fishing trip and hauls up a great fish that becomes land, whose brothers' disobedience spoils the result, and who also performs feats concerning fire/light, his sister, and mortality.",
+    "Candidate 6 shares the target's exact distinctive episodes and figure: a mischievous demigod with a magic fishhook made from a relative's body part who secretly joins his brothers' fishing trip and hauls up land/islands, whose brothers' disobedience spoils the result, and who performs further feats for humanity (fire, sun/light, mortality) in the same trickster-culture-hero pattern."
+   ],
+   "beaten_by": {}
+  },
+  "M\u0101ui (M\u0101ori mythology) | M\u0101ui (Hawaiian mythology)": {
+   "set": "related",
+   "n": 20,
+   "mean_rank": 1.0,
+   "rank1": 20,
+   "share_rank1": 1.0,
+   "share_top3": 1.0,
+   "p_rank1": 1.0000000000000011e-20,
+   "hist": [
+    20,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 1 shares the target's exact distinctive episode-set: a trickster youngest son with a magic fish-hook who deceives his brothers on a fishing trip and hauls up islands that are spoiled/left imperfect when the brothers disobey, plus the same relations to mother, sister's hair, and a sky/sun feat.",
+    "Candidate 4 shares the target's core episodes almost point for point: a trickster youngest brother with a magic fish-hook who deceives his brothers into hauling up land that becomes islands (spoiled when they look/act wrongly), plus a rope of his sister's hair, dealings with his mother and father, and other world-shaping feats for humanity."
+   ],
+   "beaten_by": {}
+  },
+  "Noah | Deucalion": {
+   "set": "positive",
+   "n": 20,
+   "mean_rank": 1.05,
+   "rank1": 19,
+   "share_rank1": 0.95,
+   "share_top3": 1.0,
+   "p_rank1": 1.810000000000002e-18,
+   "hist": [
+    19,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.1,
+     "rank1": 9,
+     "share_rank1": 0.9,
+     "share_top3": 1.0,
+     "p_rank1": 9.100000000000004e-09,
+     "hist": [
+      9,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 5 shares the closest structural match: a deity destroys wicked mankind with a flood, a forewarned hero builds a vessel with his wife, survives, offers thanks afterward, and becomes ancestor of repopulated peoples, paralleling the target's flood, ark, sacrifice, and post-flood repopulation themes.",
+    "Candidate 10 shares the core flood-narrative structure with the target: a father warns his son of a divine flood sent to punish humanity, the hero builds a vessel, survives with his wife, the waters recede on a mountain, he offers thanks to the god, and he becomes progenitor of the peoples who repopulate the earth."
+   ],
+   "beaten_by": {
+    "Berossus": 1
+   }
+  },
+  "Noah | Utnapishtim": {
+   "set": "positive",
+   "n": 20,
+   "mean_rank": 1.0,
+   "rank1": 20,
+   "share_rank1": 1.0,
+   "share_top3": 1.0,
+   "p_rank1": 1.0000000000000011e-20,
+   "hist": [
+    20,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 8 shares the core flood narrative structure almost exactly\u2014a divinely warned man builds a giant vessel, saves his family and animals, survives a devastating flood, sends out birds (dove, then a bird that does not return) to test the receding waters, offers sacrifice afterward, and receives divine favor, paralleling the target's ark, flood, bird-testing, and post-flood sacrifice.",
+    "Candidate 5 shares the target's central and highly distinctive episode almost point for point: a favored man is commanded by a deity to build a huge vessel with precise dimensions, load family and animals, survive a world-destroying flood, land on a mountain, send out birds, and offer sacrifice afterward, receiving divine blessing."
+   ],
+   "beaten_by": {}
+  },
+  "Nommo | Oannes": {
+   "set": "hancock",
+   "n": 17,
+   "mean_rank": 1.1764705882352942,
+   "rank1": 14,
+   "share_rank1": 0.8235294117647058,
+   "share_top3": 1.0,
+   "p_rank1": 5.068900000000004e-12,
+   "hist": [
+    14,
+    3,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.2,
+     "rank1": 8,
+     "share_rank1": 0.8,
+     "share_top3": 1.0,
+     "p_rank1": 3.736000000000001e-07,
+     "hist": [
+      8,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 7,
+     "mean_rank": 1.1428571428571428,
+     "rank1": 6,
+     "share_rank1": 0.8571428571428571,
+     "share_top3": 1.0,
+     "p_rank1": 6.400000000000001e-06,
+     "hist": [
+      6,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 10 shares the target's most distinctive complex: primordial semi-aquatic beings sent/descended from the divine realm who require water, emerge to bring civilization and sacred knowledge to humans, are tied to the founding of shrines/temples and cities, and are later returned into primeval waters.",
+    "Candidate 3 shares the target's most distinctive cluster: a set of primordial civilizing beings sent from the gods who are part-fish and belong in/return to primeval waters, who bring knowledge and cult foundations to humanity and are tied to the origin of priestly/temple institutions."
+   ],
+   "beaten_by": {
+    "Atahensic": 2,
+    "Hu\u012btzil\u014dp\u014dchtli": 1
+   }
+  },
+  "N\u00fcwa | Fuxi": {
+   "set": "related",
+   "n": 20,
+   "mean_rank": 1.0,
+   "rank1": 20,
+   "share_rank1": 1.0,
+   "share_top3": 1.0,
+   "p_rank1": 1.0000000000000011e-20,
+   "hist": [
+    20,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 1 shares the target's exact mythic complex: a snake-bodied brother-sister pair living on a sacred mountain who seek an omen (merging flames rather than gathering mist) to sanction their marriage, then create the first humans out of clay, with the male sibling serving as the culture hero who institutes marriage and teaches the arts of civilization.",
+    "Candidate 4 shares the core N\u00fcwa-Fuxi mythic complex: a sibling pair living on a sacred mountain who marry after a divine sign, create humanity from clay and animate it, and one figure institutes cosmic order (trigrams, sacrifice), closely mirroring the target's clay-people creation and sibling-marriage motifs."
+   ],
+   "beaten_by": {}
+  },
+  "Oannes | Enki": {
+   "set": "related",
+   "n": 20,
+   "mean_rank": 1.0,
+   "rank1": 20,
+   "share_rank1": 1.0,
+   "share_top3": 1.0,
+   "p_rank1": 1.0000000000000011e-20,
+   "hist": [
+    20,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 6 depicts Enki/Ea, the very deity intimately tied to the seven Apkallu sages in Mesopotamian tradition, sharing the same mythic complex: wisdom god ruling subterranean waters, creation of humans from clay, warning of the flood through indirect means (reed wall) while under oath of secrecy, and explicit mention of a group of sage-servants, closely mirroring the target's sage-flood-wisdom nexus.",
+    "Candidate 6 shares the same divine milieu as the target\u2014a wisdom god of the subterranean freshwater abyss whose servants explicitly include a group of sages, who creates humanity from clay, warns of the flood, and solves problems among the gods\u2014matching the target's sages, primeval waters, and civilizing wisdom directly."
+   ],
+   "beaten_by": {}
+  },
+  "Oannes | Nommo": {
+   "set": "hancock",
+   "n": 20,
+   "mean_rank": 1.7,
+   "rank1": 17,
+   "share_rank1": 0.85,
+   "share_top3": 0.9,
+   "p_rank1": 8.466310000000009e-15,
+   "hist": [
+    17,
+    1,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    1,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.1,
+     "rank1": 9,
+     "share_rank1": 0.9,
+     "share_top3": 1.0,
+     "p_rank1": 9.100000000000004e-09,
+     "hist": [
+      9,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 2.3,
+     "rank1": 8,
+     "share_rank1": 0.8,
+     "share_top3": 0.8,
+     "p_rank1": 3.736000000000001e-07,
+     "hist": [
+      8,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 4 most closely mirrors the target's distinctive motif of primordial teacher-beings sent/descended from the sky who require and dive into water, who impart life and knowledge to humanity, and who are linked to the origin of later human religious specialists.",
+    "Candidate 9 matches the target most closely because it features primordial amphibious beings who descend from the sky as emissaries of a high god, must live in water and dive into a body of water, give their substance/life-principles to humanity, and are linked to shrines and to the first religious leader\u2014paralleling the fish-sages sent to civilize humans and banished into the primeval waters."
+   ],
+   "beaten_by": {
+    "Mama Ocllo": 3,
+    "Triptolemus": 1,
+    "White Buffalo Calf Woman": 1,
+    "Itzamna": 1,
+    "\u014ckuninushi": 1,
+    "Rama": 1
+   }
+  },
+  "Oannes | Osiris": {
+   "set": "hancock",
+   "n": 19,
+   "mean_rank": 3.263157894736842,
+   "rank1": 1,
+   "share_rank1": 0.05263157894736842,
+   "share_top3": 0.631578947368421,
+   "p_rank1": 0.8649148282327008,
+   "hist": [
+    1,
+    8,
+    3,
+    2,
+    3,
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 2.8,
+     "rank1": 1,
+     "share_rank1": 0.1,
+     "share_top3": 0.8,
+     "p_rank1": 0.6513215599000001,
+     "hist": [
+      1,
+      4,
+      3,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 9,
+     "mean_rank": 3.7777777777777777,
+     "rank1": 0,
+     "share_rank1": 0.0,
+     "share_top3": 0.4444444444444444,
+     "p_rank1": 1.0,
+     "hist": [
+      0,
+      4,
+      0,
+      2,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 6 shares the target's core pattern of a semi-divine figure who is also a primeval king and culture-bringer, travelling to teach humanity the arts of civilization (agriculture, abandoning savagery) with a retinue of subordinate beings, whose relics are distributed to found multiple cult centers\u2014closely echoing the sages who civilize mankind, are paired with antediluvian kings, and found seven cities."
+   ],
+   "beaten_by": {
+    "Cangjie": 4,
+    "Agastya": 4,
+    "Prometheus": 4,
+    "Mama Ocllo": 3,
+    "\u014ckuninushi": 3,
+    "Tangaroa": 2
+   }
+  },
+  "Oannes | Quetzalcoatl": {
+   "set": "hancock",
+   "n": 20,
+   "mean_rank": 2.4,
+   "rank1": 5,
+   "share_rank1": 0.25,
+   "share_top3": 0.9,
+   "p_rank1": 0.04317449528446339,
+   "hist": [
+    5,
+    8,
+    5,
+    1,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.8,
+     "rank1": 4,
+     "share_rank1": 0.4,
+     "share_top3": 1.0,
+     "p_rank1": 0.0127951984,
+     "hist": [
+      4,
+      4,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 3.0,
+     "rank1": 1,
+     "share_rank1": 0.1,
+     "share_top3": 0.8,
+     "p_rank1": 0.6513215599000001,
+     "hist": [
+      1,
+      4,
+      3,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 3 most closely matches the target's core pattern of a divine culture-bringer who teaches humanity the arts of civilization (writing, calendar, crops), is tied to primeval kings/eras and a destroyed prior world, and is linked to a specific temple/city and ritual cult, echoing the sages' role as civilizers of humankind.",
+    "Candidate 1, like the target, centers on a hybrid divine culture-bringer who descends to humanity after earlier world-destructions to bestow the arts of civilization\u2014writing/books, the calendar, crops, and craft knowledge\u2014and is bound up with the origin of the current human race and with sacred rites."
+   ],
+   "beaten_by": {
+    "Mama Ocllo": 6,
+    "Prometheus": 5,
+    "Tan'gun": 2,
+    "Yellow Emperor": 2,
+    "Nanabozho": 2,
+    "Pachacamac": 1
+   }
+  },
+  "Oannes | Viracocha": {
+   "set": "hancock",
+   "n": 20,
+   "mean_rank": 1.25,
+   "rank1": 16,
+   "share_rank1": 0.8,
+   "share_top3": 1.0,
+   "p_rank1": 3.2634676000000035e-13,
+   "hist": [
+    16,
+    3,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.1,
+     "rank1": 9,
+     "share_rank1": 0.9,
+     "share_top3": 1.0,
+     "p_rank1": 9.100000000000004e-09,
+     "hist": [
+      9,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.4,
+     "rank1": 7,
+     "share_rank1": 0.7,
+     "share_top3": 1.0,
+     "p_rank1": 9.121600000000001e-06,
+     "hist": [
+      7,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 5 shares the most distinctive thematic cluster with the target\u2014a divine, human-formed teacher who emerges from a primeval body of water, founds cities, brings civilization and its arts, causes and survives a great flood, and ultimately disappears across the sea, paralleling the Apkallu/Oannes complex of civilizing sages tied to floodwaters and city-founding.",
+    "Candidate 10 shares the target's core pattern of divine civilizing teachers who bring the arts of civilization to humanity, order the founding of a great city, are bound up with a great flood dividing eras of mankind, and are linked to emergence from and departure across primeval waters."
+   ],
+   "beaten_by": {
+    "Yellow Emperor": 2,
+    "Tan'gun": 1,
+    "Bhagiratha": 1,
+    "Prometheus": 1
+   }
+  },
+  "Osiris | Isis": {
+   "set": "related",
+   "n": 20,
+   "mean_rank": 1.0,
+   "rank1": 20,
+   "share_rank1": 1.0,
+   "share_top3": 1.0,
+   "p_rank1": 1.0000000000000011e-20,
+   "hist": [
+    20,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 1 retells the Isis-Osiris-Horus myth almost exactly, with the same core cast (earth/sky-descended siblings, brother-husband god slain by a jealous brother, wife and sister recovering and reassembling the dismembered body, magical revival to conceive a son, and the son's eventual vengeance) mirroring the target's primary narrative in structure and specific motifs.",
+    "Candidate 7 shares the core Osiris myth structure almost exactly: sibling-spouse deities, dismemberment by a brother, reassembly and magical revival for conception, protection of the son in the marshes, and the son's eventual battle for the throne with the mother's aid."
+   ],
+   "beaten_by": {}
+  },
+  "Osiris | Oannes": {
+   "set": "hancock",
+   "n": 16,
+   "mean_rank": 6.1875,
+   "rank1": 0,
+   "share_rank1": 0.0,
+   "share_top3": 0.0625,
+   "p_rank1": 1.0,
+   "hist": [
+    0,
+    1,
+    0,
+    2,
+    3,
+    4,
+    2,
+    1,
+    2,
+    1
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 6.4,
+     "rank1": 0,
+     "share_rank1": 0.0,
+     "share_top3": 0.0,
+     "p_rank1": 1.0,
+     "hist": [
+      0,
+      0,
+      0,
+      1,
+      3,
+      2,
+      2,
+      0,
+      1,
+      1
+     ]
+    },
+    "sonnet": {
+     "n": 6,
+     "mean_rank": 5.833333333333333,
+     "rank1": 0,
+     "share_rank1": 0.0,
+     "share_top3": 0.16666666666666666,
+     "p_rank1": 1.0,
+     "hist": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      2,
+      0,
+      1,
+      1,
+      0
+     ]
+    }
+   },
+   "reasons_top": [],
+   "beaten_by": {
+    "Heitsi-eibib": 5,
+    "Atahensic": 5,
+    "Maya Hero Twins": 4,
+    "Triptolemus": 4,
+    "Mama Ocllo": 4,
+    "Tangaroa": 4
+   }
+  },
+  "Osiris | Quetzalcoatl": {
+   "set": "hancock",
+   "n": 16,
+   "mean_rank": 1.0,
+   "rank1": 16,
+   "share_rank1": 1.0,
+   "share_top3": 1.0,
+   "p_rank1": 1.0000000000000008e-16,
+   "hist": [
+    16,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 6,
+     "mean_rank": 1.0,
+     "rank1": 6,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000004e-06,
+     "hist": [
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 2 shares the target's core profile of a culture-bringing god who gives grain and a cultivated plant to humanity, is undone by a rival/brother-figure's trickery, is sealed inside a chest, journeys to the underworld, and is tied to death-and-rebirth and cult worship.",
+    "Candidate 2 shares the most distinctive cluster of motifs with the target: a culture-hero deity who gives a cultivated crop and teaches its use, has a rival/twin counterpart and a sister with whom he is sexually entangled, journeys to the underworld, and is famously sealed inside a chest at his death, closely echoing the target god's coffin-box, agricultural teaching, sister-wife, and underworld lordship."
+   ],
+   "beaten_by": {}
+  },
+  "Osiris | Viracocha": {
+   "set": "hancock",
+   "n": 17,
+   "mean_rank": 4.352941176470588,
+   "rank1": 1,
+   "share_rank1": 0.058823529411764705,
+   "share_top3": 0.35294117647058826,
+   "p_rank1": 0.8332281830033343,
+   "hist": [
+    1,
+    3,
+    2,
+    3,
+    4,
+    1,
+    1,
+    2,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 4.4,
+     "rank1": 0,
+     "share_rank1": 0.0,
+     "share_top3": 0.4,
+     "p_rank1": 1.0,
+     "hist": [
+      0,
+      2,
+      2,
+      1,
+      3,
+      0,
+      1,
+      1,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 7,
+     "mean_rank": 4.285714285714286,
+     "rank1": 1,
+     "share_rank1": 0.14285714285714285,
+     "share_top3": 0.2857142857142857,
+     "p_rank1": 0.5217031,
+     "hist": [
+      1,
+      1,
+      0,
+      2,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 3 shares the closest structural match: a culture-bringing high god who journeys with companions, teaches agriculture and civilization, is associated with sons/daughters, floods, and disappearance across water, echoing the target's culture-hero telling of the fertility god's world travels and teaching of crops."
+   ],
+   "beaten_by": {
+    "Kvasir": 4,
+    "Maya Hero Twins": 4,
+    "Tangaroa": 3,
+    "Br\u00e2n the Blessed": 3,
+    "\u014ckuninushi": 3,
+    "Heitsi-eibib": 3
+   }
+  },
+  "Panchatantra | Kalila wa-Dimna": {
+   "set": "positive",
+   "n": 20,
+   "mean_rank": 1.0,
+   "rank1": 20,
+   "share_rank1": 1.0,
+   "share_top3": 1.0,
+   "p_rank1": 1.0000000000000011e-20,
+   "hist": [
+    20,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 9 mirrors the target almost exactly, featuring a nested cycle of animal fables\u2014jackal courtiers at a lion's court, a mouse-crow-turtle-deer friendship, a crow-owl war through treachery, and other moralizing tales about trust, loyalty, and hasty judgment.",
+    "Candidate 9 is structurally and thematically the Panchatantra itself, featuring the same five-fable frame narrative taught to a ruler, the jackal minister at a lion's court, the four-animal friendship of rodent/bird/turtle/horned animal, and the crow-owl war of loyal versus disloyal counsel."
+   ],
+   "beaten_by": {}
+  },
+  "Quetzalcoatl | Bochica": {
+   "set": "hancock",
+   "n": 19,
+   "mean_rank": 1.6842105263157894,
+   "rank1": 10,
+   "share_rank1": 0.5263157894736842,
+   "share_top3": 0.9473684210526315,
+   "p_rank1": 3.929882327128003e-06,
+   "hist": [
+    10,
+    6,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 2.3,
+     "rank1": 1,
+     "share_rank1": 0.1,
+     "share_top3": 0.9,
+     "p_rank1": 0.6513215599000001,
+     "hist": [
+      1,
+      6,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 9,
+     "mean_rank": 1.0,
+     "rank1": 9,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000005e-09,
+     "hist": [
+      9,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 8, like the target, centers on a divine wind-associated civilizing hero who descends to found a religion, travels among towns and peoples, is remembered in multiple conflicting accounts, and is tied to a sun temple and sacred site.",
+    "Candidate 5 explicitly describes a civilizing feathered-serpent-type hero who descends to found a religion, dwells in a cave consulted by chiefs, and is honored with a sun temple and festivals\u2014paralleling the target deity's role as culture-bringer and object of cult veneration."
+   ],
+   "beaten_by": {
+    "Shennong": 3,
+    "Nanabozho": 2,
+    "Triptolemus": 2,
+    "Yellow Emperor": 1,
+    "\u1eccbatala": 1,
+    "T\u0101ne": 1
+   }
+  },
+  "Quetzalcoatl | Kukulkan": {
+   "set": "related",
+   "n": 20,
+   "mean_rank": 1.0,
+   "rank1": 20,
+   "share_rank1": 1.0,
+   "share_top3": 1.0,
+   "p_rank1": 1.0000000000000011e-20,
+   "hist": [
+    20,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 7 directly features a plumed/feathered serpent deity with a sister caretaker, cave dwelling, transformation into the sea causing earthquakes, and a tongue burned by the sun while linked to rain prediction\u2014paralleling the target's feathered serpent mythos, its underworld/celestial transformation, and its close ties to weather and cosmic cycles.",
+    "Candidate 7 centers on the same type of deity\u2014a plumed/feathered serpent\u2014with multiple conflicting origin tales, a sister who cares for him, his flight to the sea causing earthquakes, and his association with rain and wind, closely echoing the target's core figure and motifs."
+   ],
+   "beaten_by": {}
+  },
+  "Quetzalcoatl | Oannes": {
+   "set": "hancock",
+   "n": 19,
+   "mean_rank": 4.684210526315789,
+   "rank1": 0,
+   "share_rank1": 0.0,
+   "share_top3": 0.15789473684210525,
+   "p_rank1": 1.0,
+   "hist": [
+    0,
+    0,
+    3,
+    6,
+    5,
+    4,
+    1,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 4.2,
+     "rank1": 0,
+     "share_rank1": 0.0,
+     "share_top3": 0.3,
+     "p_rank1": 1.0,
+     "hist": [
+      0,
+      0,
+      3,
+      3,
+      3,
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 9,
+     "mean_rank": 5.222222222222222,
+     "rank1": 0,
+     "share_rank1": 0.0,
+     "share_top3": 0.0,
+     "p_rank1": 1.0,
+     "hist": [
+      0,
+      0,
+      0,
+      3,
+      2,
+      3,
+      1,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [],
+   "beaten_by": {
+    "Manco C\u00e1pac": 8,
+    "Triptolemus": 7,
+    "Shennong": 6,
+    "Great Peacemaker": 6,
+    "Bachu\u00e9": 4,
+    "Yellow Emperor": 3
+   }
+  },
+  "Quetzalcoatl | Osiris": {
+   "set": "hancock",
+   "n": 20,
+   "mean_rank": 1.4,
+   "rank1": 15,
+   "share_rank1": 0.75,
+   "share_top3": 1.0,
+   "p_rank1": 9.481303720000011e-12,
+   "hist": [
+    15,
+    2,
+    3,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.1,
+     "rank1": 9,
+     "share_rank1": 0.9,
+     "share_top3": 1.0,
+     "p_rank1": 9.100000000000004e-09,
+     "hist": [
+      9,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.7,
+     "rank1": 6,
+     "share_rank1": 0.6,
+     "share_top3": 1.0,
+     "p_rank1": 0.0001469026,
+     "hist": [
+      6,
+      1,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 10 matches the target most closely: a culture-hero god who teaches humanity agriculture and civilization, is tricked by a rival into being sealed inside a box/chest, dies through that trickery, is bound up with a sibling-spouse relationship and underworld journeying, and afterward is reborn/enthroned as a cosmic ruler, mirroring the target's teaching of grain and cacao, his descent to the underworld, his shameful incest, and his self-sealing in a stone chest and transformation into a star.",
+    "Candidate 1 matches the target's most distinctive cluster: a culture-hero god who teaches humanity agriculture and civilized arts, is tricked by a rival/brother figure, is enclosed and sealed inside a chest/box, dies in that way, and is afterwards connected with the underworld and reborn in cult, mirroring the target's stone-chest death, underworld journey, and gift of grain."
+   ],
+   "beaten_by": {
+    "\u1eccbatala": 2,
+    "Cangjie": 1,
+    "Atahensic": 1,
+    "Heitsi-eibib": 1,
+    "Great Peacemaker": 1,
+    "Manco C\u00e1pac": 1
+   }
+  },
+  "Quetzalcoatl | Thoth": {
+   "set": "hancock",
+   "n": 18,
+   "mean_rank": 1.4444444444444444,
+   "rank1": 11,
+   "share_rank1": 0.6111111111111112,
+   "share_top3": 1.0,
+   "p_rank1": 1.6260549209200012e-07,
+   "hist": [
+    11,
+    6,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.5,
+     "rank1": 6,
+     "share_rank1": 0.6,
+     "share_top3": 1.0,
+     "p_rank1": 0.0001469026,
+     "hist": [
+      6,
+      3,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 8,
+     "mean_rank": 1.375,
+     "rank1": 5,
+     "share_rank1": 0.625,
+     "share_top3": 1.0,
+     "p_rank1": 0.0004316500000000002,
+     "hist": [
+      5,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 5, like the target, centers on a culture-bringing deity who invents writing and is bound up with the calendar (winning the five extra days), who functions in the underworld and in a myth of a god's death and restoration among a set of sibling deities born together.",
+    "Candidate 10 (a moon deity akin to Thoth) shares the target's specific motifs of inventing writing/books and the calendar, a birth story tied to extra calendar days and multiple divine siblings including a slain god and rival, and a role as judge/counselor in the underworld\u2014paralleling the target's calendar-inventing, underworld-journeying feathered serpent with a twin star aspect."
+   ],
+   "beaten_by": {
+    "Nanabozho": 4,
+    "Oduduwa": 1,
+    "\u1eccbatala": 1,
+    "Shennong": 1,
+    "Bachu\u00e9": 1
+   }
+  },
+  "Quetzalcoatl | Viracocha": {
+   "set": "hancock",
+   "n": 20,
+   "mean_rank": 1.2,
+   "rank1": 19,
+   "share_rank1": 0.95,
+   "share_top3": 0.95,
+   "p_rank1": 1.810000000000002e-18,
+   "hist": [
+    19,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.4,
+     "rank1": 9,
+     "share_rank1": 0.9,
+     "share_top3": 0.9,
+     "p_rank1": 9.100000000000004e-09,
+     "hist": [
+      9,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 5 shares the closest structural and thematic overlap: a bearded, human-like creator deity who forms humanity out of stone (paralleling creation from bone/blood), destroys an earlier flawed race with a flood, teaches civilization and writing, and ultimately disappears by walking across the sea, mirroring the target deity's role as culture-bringer, calendar/book inventor, mankind-creator, and eventual self-transformation/ascension.",
+    "Candidate 8 shares the closest cluster of specific motifs with the target: a bearded, human-like creator god who rises from water, makes sun/moon/stars, creates humankind (with a destroyed first race and a flood), teaches civilization while wandering as a beggar, and finally disappears across the sea promising to return, paralleling Quetzalcoatl's roles as culture-bringer, world-shaper, and departing deity."
+   ],
+   "beaten_by": {
+    "Atahensic": 1,
+    "Aeneas": 1,
+    "Ninigi-no-Mikoto": 1,
+    "Tangaroa": 1
+   }
+  },
+  "Quetzalcoatl | Votan": {
+   "set": "hancock",
+   "n": 17,
+   "mean_rank": 1.1764705882352942,
+   "rank1": 14,
+   "share_rank1": 0.8235294117647058,
+   "share_top3": 1.0,
+   "p_rank1": 5.068900000000004e-12,
+   "hist": [
+    14,
     3,
     0,
     0,
@@ -183,52 +3156,21 @@
       0,
       0
      ]
-    }
-   },
-   "reasons_top": [
-    "Candidate 6 shares the target's core pattern of divine civilizers who come to teach humanity the arts of civilization, appear as a group of companions associated with the same identity, are tied to a great flood that divides eras, are credited with laying the foundations of a great city, and finally vanish into the primeval waters.",
-    "Candidate 7 matches most closely because it features civilizing culture-bringers who emerge from the waters to teach humankind the arts of civilization, are tied to a great flood that divides eras of humanity, found a great city (and further cities), and finally depart back into the primeval waters, paralleling the target's water-emerging, city-founding, flood-sending teacher who walks away across the sea."
-   ],
-   "beaten_by": {
-    "Baiame": 2,
-    "Mbombo": 1
-   }
-  },
-  "Viracocha | Osiris": {
-   "set": "hancock",
-   "n": 9,
-   "mean_rank": 3.888888888888889,
-   "rank1": 0,
-   "share_rank1": 0.0,
-   "share_top3": 0.3333333333333333,
-   "p_rank1": 1.0,
-   "hist": [
-    0,
-    1,
-    2,
-    4,
-    1,
-    1,
-    0,
-    0,
-    0,
-    0
-   ],
-   "by_judge": {
-    "opus": {
-     "n": 9,
-     "mean_rank": 3.888888888888889,
-     "rank1": 0,
-     "share_rank1": 0.0,
-     "share_top3": 0.3333333333333333,
-     "p_rank1": 1.0,
+    },
+    "sonnet": {
+     "n": 7,
+     "mean_rank": 1.0,
+     "rank1": 7,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000004e-07,
      "hist": [
+      7,
       0,
-      1,
-      2,
-      4,
-      1,
-      1,
+      0,
+      0,
+      0,
+      0,
       0,
       0,
       0,
@@ -236,26 +3178,25 @@
      ]
     }
    },
-   "reasons_top": [],
+   "reasons_top": [
+    "Candidate 7 shares many specific Mesoamerican motifs with the target\u2014a serpent-named kingdom, a calendar day-name, a jaguar/darkness deity title, and repeated journeys to a distant homeland\u2014paralleling Quetzalcoatl/Kukulkan-Votan traditions almost directly.",
+    "Candidate 3 shares the target's core profile of a serpent-associated culture hero/deity of the same calendrical world\u2014linked to a serpent-named kingdom, a day name in a twenty-day calendar, a dark jaguar aspect, repeated journeys, apportioning lands and civilizing peoples\u2014making its figure and episodes correspond closely."
+   ],
    "beaten_by": {
-    "Nanabozho": 3,
-    "Prometheus": 3,
-    "Glooscap": 2,
-    "Shennong": 2,
-    "Tezcatlipoca": 2,
-    "Kutkh": 1
+    "Nanabozho": 2,
+    "Prometheus": 1
    }
   },
-  "Viracocha | Quetzalcoatl": {
-   "set": "hancock",
-   "n": 10,
+  "Ramakien | Ramayana": {
+   "set": "positive",
+   "n": 20,
    "mean_rank": 1.0,
-   "rank1": 10,
+   "rank1": 20,
    "share_rank1": 1.0,
    "share_top3": 1.0,
-   "p_rank1": 1.0000000000000006e-10,
+   "p_rank1": 1.0000000000000011e-20,
    "hist": [
-    10,
+    20,
     0,
     0,
     0,
@@ -286,13 +3227,942 @@
       0,
       0
      ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
     }
    },
    "reasons_top": [
-    "Candidate 9 matches the target most closely as a bearded/serpent culture-hero creator who fashions the present humankind after earlier failed races were destroyed, teaches civilization (books, calendar, crops, food preparation), works wonders, and finally departs in disgrace/transfiguration with the expectation of celestial return.",
-    "Candidate 10 shares the core profile of the target: a civilizing creator-god with multiple conflicting origin accounts who fashions the present humankind after earlier races were destroyed, gives crops, books and calendar, teaches arts to people, is linked with light and the heavens, and finally departs in a self-inflicted disappearance/transfiguration with the expectation of his cosmic return."
+    "Candidate 10 is plainly the same narrative: a divine incarnation born to destroy a demon king, winning a princess by breaking a bow at a contest, exile with a loyal brother, the mutilated demoness, the wife's abduction, alliance with monkey allies and a devoted monkey helper who finds her, and the final victory over the demon king.",
+    "Candidate 4 retells the same core Ramayana narrative\u2014divine incarnation to slay a demon king, forest exile, a golden-deer trick, abduction of the wife, alliance with monkey-people, and eventual victory and reunion\u2014matching the target's plot beat for beat far more closely than any other candidate."
    ],
    "beaten_by": {}
+  },
+  "Ramayana | Ramakien": {
+   "set": "positive",
+   "n": 20,
+   "mean_rank": 1.0,
+   "rank1": 20,
+   "share_rank1": 1.0,
+   "share_top3": 1.0,
+   "p_rank1": 1.0000000000000011e-20,
+   "hist": [
+    20,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 4 is a direct variant of the same epic: a divine incarnation as hero, an archery/bow contest winning a princess, forest exile with a brother, a spurned demoness, the princess's abduction by a multi-headed demon king of an island realm, an alliance with monkey allies who locate her, and the demon king's defeat and the couple's return.",
+    "Candidate 8 retells essentially the same epic core\u2014prince incarnation of a sky god, bow-contest marriage, forest exile, demoness rejection, golden-deer-style abduction by a multi-headed demon king, monkey allies (including a devoted monkey general), causeway building, and a final battle and reunion\u2014matching the target's plot beat for beat."
+   ],
+   "beaten_by": {}
+  },
+  "Ramayana | Reamker": {
+   "set": "positive",
+   "n": 20,
+   "mean_rank": 1.0,
+   "rank1": 20,
+   "share_rank1": 1.0,
+   "share_top3": 1.0,
+   "p_rank1": 1.0000000000000011e-20,
+   "hist": [
+    20,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 8 shares the exact narrative core with the target: exile due to a stepmother wanting her son enthroned, a wife won through a bow/arrow feat, a demoness whose nose and ear are cut off, a golden deer decoy, abduction by a ten-headed demon king, alliance with monkey-like beings, a search leading to a bridge to an island, and final battle killing the demon by piercing a vital spot.",
+    "Candidate 2 is essentially a condensed retelling of the same epic: exile by a scheming queen mother, a wife won through an archery contest, a loyal brother joining in exile, a demoness whose nose and ears are cut off, a ten-headed demon king using a golden-deer trick to abduct the wife, an alliance with monkey-like beings to restore a rightful ruler, and a climactic battle ending in the demon's death via a vulnerable point."
+   ],
+   "beaten_by": {}
+  },
+  "Reamker | Ramayana": {
+   "set": "positive",
+   "n": 20,
+   "mean_rank": 1.0,
+   "rank1": 20,
+   "share_rank1": 1.0,
+   "share_top3": 1.0,
+   "p_rank1": 1.0000000000000011e-20,
+   "hist": [
+    20,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 4 recounts essentially the same epic: a hero exiled by a stepmother/queen who wants her own son crowned, winning his wife through an archery/bow contest, joined in forest exile by his faithful wife and loyal brother, the demoness whose nose and ears are cut off, the golden deer ruse and abduction by the demon king, the alliance with monkey-people whose king is restored against a rival, the devoted simian ally who locates the wife on the demon's island, and the final battle to recover her.",
+    "Candidate 1 shares the same overarching narrative structure as the target\u2014exile by a stepmother, winning a wife through an archery feat, a demoness mutilated by the brother, a golden deer lure, abduction of the wife by a demon king, alliance with monkey-people, and a climactic battle\u2014making it essentially a variant of the same epic."
+   ],
+   "beaten_by": {}
+  },
+  "Thoth | Quetzalcoatl": {
+   "set": "hancock",
+   "n": 19,
+   "mean_rank": 1.105263157894737,
+   "rank1": 17,
+   "share_rank1": 0.8947368421052632,
+   "share_top3": 1.0,
+   "p_rank1": 1.4023000000000013e-15,
+   "hist": [
+    17,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 9,
+     "mean_rank": 1.2222222222222223,
+     "rank1": 7,
+     "share_rank1": 0.7777777777777778,
+     "share_top3": 1.0,
+     "p_rank1": 2.9980000000000008e-06,
+     "hist": [
+      7,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 3 shares the most distinctive cluster with the target: a divine culture-bringer credited with inventing books/writing and the calendar, associated with a celestial body, tied to a set of four sibling gods born of a divine couple, who journeys to the underworld and figures in creation/restoration of life.",
+    "Candidate 4 matches the target most closely because it centers on a culture-bringing god credited with inventing books/writing and the calendar, associated with light, justice and order, tied to a set of four sibling deities born of a primordial couple, and undertaking an underworld journey and rebirth\u2014the same cluster of scribe/calendar/creation motifs."
+   ],
+   "beaten_by": {
+    "Yellow Emperor": 1,
+    "Palamedes (mythology)": 1
+   }
+  },
+  "Tunupa | Viracocha": {
+   "set": "related",
+   "n": 20,
+   "mean_rank": 4.75,
+   "rank1": 0,
+   "share_rank1": 0.0,
+   "share_top3": 0.3,
+   "p_rank1": 1.0,
+   "hist": [
+    0,
+    4,
+    2,
+    2,
+    5,
+    4,
+    2,
+    0,
+    0,
+    1
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 4.5,
+     "rank1": 0,
+     "share_rank1": 0.0,
+     "share_top3": 0.3,
+     "p_rank1": 1.0,
+     "hist": [
+      0,
+      3,
+      0,
+      1,
+      2,
+      3,
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 5.0,
+     "rank1": 0,
+     "share_rank1": 0.0,
+     "share_top3": 0.3,
+     "p_rank1": 1.0,
+     "hist": [
+      0,
+      1,
+      2,
+      1,
+      3,
+      1,
+      1,
+      0,
+      0,
+      1
+     ]
+    }
+   },
+   "reasons_top": [],
+   "beaten_by": {
+    "Glooscap": 8,
+    "Baiame": 8,
+    "Wandjina": 6,
+    "Mwari": 5,
+    "Ninigi-no-Mikoto": 4,
+    "Wisakedjak": 4
+   }
+  },
+  "Utnapishtim | Noah": {
+   "set": "positive",
+   "n": 20,
+   "mean_rank": 1.0,
+   "rank1": 20,
+   "share_rank1": 1.0,
+   "share_top3": 1.0,
+   "p_rank1": 1.0000000000000011e-20,
+   "hist": [
+    20,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 3 is essentially the same flood narrative core as the target: a chosen righteous man is commanded by a deity to build a vessel, gathers family and animals, survives the deluge that destroys the rest of mankind, later releases birds to test the receding waters, offers sacrifice upon landing, and receives a divine blessing/covenant, mirroring the target's ark-building, animal preservation, bird-testing, and post-flood sacrifice almost beat for beat.",
+    "Candidate 7 shares the target's core episode almost point for point: a deity resolves to destroy all mankind by flood, commands one favored man to build a great boat, he loads his family and animals, all others perish, and after the waters recede he offers sacrifice and receives a divine blessing/covenant."
+   ],
+   "beaten_by": {}
+  },
+  "Viracocha | Bochica": {
+   "set": "hancock",
+   "n": 18,
+   "mean_rank": 1.1111111111111112,
+   "rank1": 16,
+   "share_rank1": 0.8888888888888888,
+   "share_top3": 1.0,
+   "p_rank1": 1.255600000000001e-14,
+   "hist": [
+    16,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.2,
+     "rank1": 8,
+     "share_rank1": 0.8,
+     "share_top3": 1.0,
+     "p_rank1": 3.736000000000001e-07,
+     "hist": [
+      8,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 8,
+     "mean_rank": 1.0,
+     "rank1": 8,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000005e-08,
+     "hist": [
+      8,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 1 depicts a bearded/human-formed civilizing hero who travels between towns, retreats to a cave to be consulted by chiefs, and is honored with a sun temple and festivals\u2014closely paralleling the target's wandering teacher-god who founds cities, teaches wisdom, and is linked to sun worship.",
+    "Candidate 9, like the target, centers on a civilizing hero who descends/appears among people, travels from town to town giving wisdom and founding a religion, is remembered in confused and varying accounts, and is linked to a sacred city with a sun temple and commemorative rites."
+   ],
+   "beaten_by": {
+    "Mbombo": 1,
+    "Apkallu": 1
+   }
+  },
+  "Viracocha | Manco C\u00e1pac": {
+   "set": "related",
+   "n": 15,
+   "mean_rank": 1.0,
+   "rank1": 15,
+   "share_rank1": 1.0,
+   "share_top3": 1.0,
+   "p_rank1": 1.0000000000000009e-15,
+   "hist": [
+    15,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 5,
+     "mean_rank": 1.0,
+     "rank1": 5,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000003e-05,
+     "hist": [
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 1 shares the target's most distinctive specifics: a divine founder-figure sent/descended as son of a sun deity with a sister-consort, carrying a golden staff, founding a civilization/city, with a great lake as a key site.",
+    "Candidate 1 shares the target's most distinctive episode almost verbatim \u2014 a child of the sun deity carrying a golden staff who emerges near a great lake and founds a civilization by establishing a city \u2014 plus the sibling/founder-with-siblings and lake-island motifs."
+   ],
+   "beaten_by": {}
+  },
+  "Viracocha | Oannes": {
+   "set": "hancock",
+   "n": 15,
+   "mean_rank": 1.5333333333333334,
+   "rank1": 8,
+   "share_rank1": 0.5333333333333333,
+   "share_top3": 1.0,
+   "p_rank1": 3.3624887968000015e-05,
+   "hist": [
+    8,
+    6,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.3,
+     "rank1": 7,
+     "share_rank1": 0.7,
+     "share_top3": 1.0,
+     "p_rank1": 9.121600000000001e-06,
+     "hist": [
+      7,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 5,
+     "mean_rank": 2.0,
+     "rank1": 1,
+     "share_rank1": 0.2,
+     "share_top3": 1.0,
+     "p_rank1": 0.40951000000000004,
+     "hist": [
+      1,
+      3,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 6 shares the target's core pattern of divine civilizers who come to teach humanity the arts of civilization, appear as a group of companions associated with the same identity, are tied to a great flood that divides eras, are credited with laying the foundations of a great city, and finally vanish into the primeval waters.",
+    "Candidate 7 matches most closely because it features civilizing culture-bringers who emerge from the waters to teach humankind the arts of civilization, are tied to a great flood that divides eras of humanity, found a great city (and further cities), and finally depart back into the primeval waters, paralleling the target's water-emerging, city-founding, flood-sending teacher who walks away across the sea."
+   ],
+   "beaten_by": {
+    "Baiame": 5,
+    "Great Peacemaker": 1,
+    "R\u00edgs\u00feula": 1,
+    "Mbombo": 1
+   }
+  },
+  "Viracocha | Osiris": {
+   "set": "hancock",
+   "n": 14,
+   "mean_rank": 3.4285714285714284,
+   "rank1": 0,
+   "share_rank1": 0.0,
+   "share_top3": 0.5,
+   "p_rank1": 1.0,
+   "hist": [
+    0,
+    4,
+    3,
+    5,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 3.9,
+     "rank1": 0,
+     "share_rank1": 0.0,
+     "share_top3": 0.3,
+     "p_rank1": 1.0,
+     "hist": [
+      0,
+      1,
+      2,
+      5,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 4,
+     "mean_rank": 2.25,
+     "rank1": 0,
+     "share_rank1": 0.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0,
+     "hist": [
+      0,
+      3,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [],
+   "beaten_by": {
+    "Nanabozho": 4,
+    "Shennong": 3,
+    "Tezcatlipoca": 3,
+    "Prometheus": 3,
+    "Kutkh": 2,
+    "Glooscap": 2
+   }
+  },
+  "Viracocha | Quetzalcoatl": {
+   "set": "hancock",
+   "n": 17,
+   "mean_rank": 1.0,
+   "rank1": 17,
+   "share_rank1": 1.0,
+   "share_top3": 1.0,
+   "p_rank1": 1.000000000000001e-17,
+   "hist": [
+    17,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.0,
+     "rank1": 10,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000006e-10,
+     "hist": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 7,
+     "mean_rank": 1.0,
+     "rank1": 7,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000004e-07,
+     "hist": [
+      7,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 8 shares the closest set of distinctive motifs with the target: a creator/culture-hero deity who is linked to destroyed prior races of humanity, who creates or recreates mankind through sacrificial/blood rites, teaches calendar, writing and cultivation, and ultimately disappears in a transformative, quasi-ascension event, paralleling the target's giant-race destruction, stone-based re-creation, and final vanishing after teaching civilization.",
+    "Candidate 9 matches the target most closely as a bearded/serpent culture-hero creator who fashions the present humankind after earlier failed races were destroyed, teaches civilization (books, calendar, crops, food preparation), works wonders, and finally departs in disgrace/transfiguration with the expectation of celestial return."
+   ],
+   "beaten_by": {}
+  },
+  "Viracocha | Tunupa": {
+   "set": "related",
+   "n": 17,
+   "mean_rank": 9.176470588235293,
+   "rank1": 0,
+   "share_rank1": 0.0,
+   "share_top3": 0.0,
+   "p_rank1": 1.0,
+   "hist": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    8,
+    6
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 9.3,
+     "rank1": 0,
+     "share_rank1": 0.0,
+     "share_top3": 0.0,
+     "p_rank1": 1.0,
+     "hist": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      5,
+      4
+     ]
+    },
+    "sonnet": {
+     "n": 7,
+     "mean_rank": 9.0,
+     "rank1": 0,
+     "share_rank1": 0.0,
+     "share_top3": 0.0,
+     "p_rank1": 1.0,
+     "hist": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      3,
+      2
+     ]
+    }
+   },
+   "reasons_top": [],
+   "beaten_by": {
+    "Tangaroa": 14,
+    "Prometheus": 7,
+    "Amirani": 7,
+    "Ninigi-no-Mikoto": 7,
+    "Cangjie": 6,
+    "Great Peacemaker": 6
+   }
+  },
+  "Votan | Quetzalcoatl": {
+   "set": "hancock",
+   "n": 17,
+   "mean_rank": 1.1176470588235294,
+   "rank1": 15,
+   "share_rank1": 0.8823529411764706,
+   "share_top3": 1.0,
+   "p_rank1": 1.1170000000000011e-13,
+   "hist": [
+    15,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "by_judge": {
+    "opus": {
+     "n": 10,
+     "mean_rank": 1.2,
+     "rank1": 8,
+     "share_rank1": 0.8,
+     "share_top3": 1.0,
+     "p_rank1": 3.736000000000001e-07,
+     "hist": [
+      8,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sonnet": {
+     "n": 7,
+     "mean_rank": 1.0,
+     "rank1": 7,
+     "share_rank1": 1.0,
+     "share_top3": 1.0,
+     "p_rank1": 1.0000000000000004e-07,
+     "hist": [
+      7,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   },
+   "reasons_top": [
+    "Candidate 5 shares the deepest and most specific Mesoamerican mythic framework with the target\u2014an actual feathered-serpent deity linked to the calendar and day-names, twin star aspects, creation of mankind, and a dramatic self-immolation/ash motif, closely paralleling the target's serpent-named kingdom, twenty-day calendar name, jaguar-deity title, and ritual-object burning.",
+    "Candidate 8 shares the target's most distinctive cluster of traits: a serpent-associated culture hero of the same kind of calendrical world, credited with the calendar and writing, bringing a crop and a plant to a people, tied to a day-sign/deity roles including a dark night-sorcery god, and ending with his ritual burning."
+   ],
+   "beaten_by": {
+    "Manco C\u00e1pac": 2
+   }
   }
  },
  "trials": [],

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  6,
+  10,
+  8,
+  2,
+  9,
+  1,
+  7,
+  4,
+  5
+ ],
+ "most_similar_reason": "Candidate 3 shares the same mythic lineage as the target (a bearded/serpent-associated culture hero linked to a calendar and book, who creates mankind from remnants of an earlier destroyed race using his own essence, teaches agriculture and civilization, and ultimately disappears/transforms rather than dying normally), giving it the densest set of specific, unusual correspondences with the target.",
+ "least_similar_reason": "Candidate 5 is only a bare generic statement that a creator god is recognized among river-basin peoples, offering no narrative events, motifs, or details to compare against the rich, specific storyline of the target.",
+ "set": "hancock",
+ "pair": "Viracocha | Quetzalcoatl",
+ "i": 7,
+ "target": "Viracocha",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "\u014ckuninushi",
+  "Sky Woman",
+  "Quetzalcoatl",
+  "Anansi",
+  "Makunaima",
+  "Triptolemus",
+  "Tagaro",
+  "Gesar",
+  "Wandjina",
+  "Cangjie"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  1,
+  10,
+  6,
+  8,
+  9,
+  2,
+  5,
+  7,
+  3
+ ],
+ "most_similar_reason": "Candidate 4 shares the target's most distinctive combination: a heroic warrior who slays multiple dragons/serpent-monsters born from a monstrous foe, then journeys overseas to win a bride who is a supernatural king's daughter, and ends with a strange fate imposed by a god rather than an ordinary death.",
+ "least_similar_reason": "Candidate 3 contains no narrative at all\u2014only the bare identification of a deity\u2014so it shares no episodes, roles, or motifs with the target.",
+ "set": "random",
+ "pair": "Cadmus | Rama",
+ "i": 612,
+ "target": "Cadmus",
+ "planted": "Rama",
+ "cands": [
+  "Rama",
+  "Hiawatha",
+  "Abassi",
+  "Amirani",
+  "Ziusudra",
+  "Ninigi-no-Mikoto",
+  "Ilmarinen",
+  "Oduduwa",
+  "T\u0101ne",
+  "Gesar"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 2
+}

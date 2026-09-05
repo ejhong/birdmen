@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  5,
+  8,
+  9,
+  10,
+  1,
+  7,
+  2,
+  6,
+  4
+ ],
+ "most_similar_reason": "Candidate 3 is the same story-type in nearly every detail: a god warns one chosen man of a coming flood, he builds a great vessel to preserve living things, the deluge destroys all flesh, the vessel grounds on a mountain, birds are released in sequence until one does not return, and he then offers a sacrifice after which the god blesses him and makes a promise.",
+ "least_similar_reason": "Candidate 4 contains no narrative at all\ns\nit is a static description of an abstract, unknowable divine principle and its iconography, with no hero, no journey, no flood, and no sequence of events to compare.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Genesis flood narrative",
+ "i": 223,
+ "target": "Gilgamesh flood myth",
+ "planted": "Genesis flood narrative",
+ "cands": [
+  "Huitzilopochtli",
+  "Mwari",
+  "Genesis flood narrative",
+  "Sang Hyang Tunggal",
+  "Qat (deity)",
+  "Waaq",
+  "Djanggawul",
+  "T\u0101ne",
+  "Pachacamac",
+  "Coyote (mythology)"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

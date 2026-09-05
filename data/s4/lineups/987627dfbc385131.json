@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  7,
+  9,
+  6,
+  10,
+  5,
+  8,
+  3,
+  4,
+  2
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's exact distinctive episode-set: a trickster youngest son with a magic fish-hook who deceives his brothers on a fishing trip and hauls up islands that are spoiled/left imperfect when the brothers disobey, plus the same relations to mother, sister's hair, and a sky/sun feat.",
+ "least_similar_reason": "Candidate 2 is a descriptive account of a supreme deity approached through spirit mediums, with no hero, no trickster deeds, no fishing-up of land, fire theft, or origin of death, and essentially no narrative sequence at all.",
+ "set": "related",
+ "pair": "M\u0101ui (M\u0101ori mythology) | M\u0101ui (Hawaiian mythology)",
+ "i": 523,
+ "target": "M\u0101ui (M\u0101ori mythology)",
+ "planted": "M\u0101ui (Hawaiian mythology)",
+ "cands": [
+  "M\u0101ui (Hawaiian mythology)",
+  "Mwari",
+  "White Buffalo Calf Woman",
+  "Hiawatha",
+  "Yu the Great",
+  "Heitsi-eibib",
+  "Prometheus",
+  "Aeneas",
+  "Glooscap",
+  "Adapa"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  10,
+  1,
+  8,
+  7,
+  9,
+  5,
+  6,
+  3,
+  4
+ ],
+ "most_similar_reason": "Candidate 2 is the only story centered on a religion founded by a wandering human teacher and on royal figures renouncing their throne to live as solitary ascetics, closely echoing the target's prince-turned-mendicant founder of a monastic faith.",
+ "least_similar_reason": "Candidate 4 concerns an ancestral/creator deity who makes humans and livestock from reeds and then forgets and abandons his creation, with no teacher, no teachings, no disciples, and no renunciation or awakening at all.",
+ "set": "positive",
+ "pair": "Gautama Buddha | Barlaam and Josaphat",
+ "i": 322,
+ "target": "Gautama Buddha",
+ "planted": "Barlaam and Josaphat",
+ "cands": [
+  "Cangjie",
+  "Barlaam and Josaphat",
+  "Pachacamac",
+  "Unkulunkulu",
+  "Ziusudra",
+  "Nyame",
+  "Kilibob and Manup",
+  "Palamedes (mythology)",
+  "T\u0101ne",
+  "Mama Ocllo"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 1
+}

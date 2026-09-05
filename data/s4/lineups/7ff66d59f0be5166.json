@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  3,
+  6,
+  5,
+  1,
+  10,
+  8,
+  2,
+  4,
+  9
+ ],
+ "most_similar_reason": "Candidate 7 shares the near-identical Mesopotamian-style flood narrative structure: a divine warning to a righteous hero, building a large vessel, a flood destroying humanity, the vessel resting on a mountain, release of birds (raven/dove-type sequence) to test the waters, and a final sacrifice with divine reconciliation.",
+ "least_similar_reason": "Candidate 9 is a purely linguistic and etymological discussion of a word for 'God' across cultures, containing no flood narrative, hero journey, or any of the distinctive motifs present in the target story.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Genesis flood narrative",
+ "i": 220,
+ "target": "Gilgamesh flood myth",
+ "planted": "Genesis flood narrative",
+ "cands": [
+  "Yellow Emperor",
+  "Makunaima",
+  "Obatala",
+  "Mwari",
+  "Triptolemus",
+  "Wisakedjak",
+  "Genesis flood narrative",
+  "Oduduwa",
+  "Waaq",
+  "Glooscap"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

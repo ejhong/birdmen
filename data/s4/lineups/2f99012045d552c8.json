@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  9,
+  8,
+  7,
+  2,
+  3,
+  10,
+  5,
+  4,
+  1
+ ],
+ "most_similar_reason": "Candidate 6 shares the strongest structural parallels: a divinely\u2011born hero wins a bride through a competitive test (a race, echoing the bow contest), later his wife is kidnapped by a rival king while he is occupied fighting a demon, and he must use cunning/magic to infiltrate the enemy's stronghold and recover her, closely mirroring the target's marriage\u2011contest and abduction/rescue arc.",
+ "least_similar_reason": "Candidate 1 is merely a brief statement that a deity has two names, containing no narrative events, characters, or motifs comparable to the target's detailed story of marriage, exile, and abduction.",
+ "set": "random",
+ "pair": "Rama | Gesar",
+ "i": 585,
+ "target": "Rama",
+ "planted": "Gesar",
+ "cands": [
+  "Bumba",
+  "Triptolemus",
+  "Ilmarinen",
+  "Wandjina",
+  "Mwari",
+  "Gesar",
+  "Yu the Great",
+  "Ayar Manco",
+  "\u014ckuninushi",
+  "Sky Woman"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

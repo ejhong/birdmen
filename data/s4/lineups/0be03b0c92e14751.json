@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  1,
+  4,
+  8,
+  9,
+  7,
+  6,
+  10,
+  3,
+  5
+ ],
+ "most_similar_reason": "Candidate 2, like the target, centers on a royal founder-hero who leads kin-groups in a migration, defeats hostile tribes, founds and divides a great city into an empire-forming kingdom, establishes a dynastic lineage, and whose bodily remains are preserved as sacred relics in a sanctuary.",
+ "least_similar_reason": "Candidate 5 is a purely cosmogonic account of a sea god's descent, feud with a forest god, and fire-theft, with no founder-hero, migration, land division, city-founding, calendar, or relic-cult motifs.",
+ "set": "hancock",
+ "pair": "Votan | Quetzalcoatl",
+ "i": 141,
+ "target": "Votan",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Quetzalcoatl",
+  "Ayar Manco",
+  "Qat (deity)",
+  "Ogun",
+  "Tagaro",
+  "Kilibob and Manup",
+  "Adapa",
+  "Pachacamac",
+  "Ziusudra",
+  "R\u00edgs\u00feula"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 2
+}

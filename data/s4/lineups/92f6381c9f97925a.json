@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  9,
+  1,
+  10,
+  5,
+  4,
+  7,
+  8,
+  3,
+  2
+ ],
+ "most_similar_reason": "Candidate 6 (the Noah story) shares the core flood-survival narrative structure almost exactly: a chosen mortal builds a vessel on divine command, loads family and animals, survives the flood while all others perish, sends out birds to test the receding waters, offers a sacrifice upon disembarking, and receives a divine blessing/covenant tied to humanity's continuation.",
+ "least_similar_reason": "Candidate 2 is not a narrative at all but a linguistic and etymological survey of a divine name across cultures, sharing no plot elements, characters, or events with the target's flood-hero and immortality-quest story.",
+ "set": "positive",
+ "pair": "Utnapishtim | Noah",
+ "i": 260,
+ "target": "Utnapishtim",
+ "planted": "Noah",
+ "cands": [
+  "Yu the Great",
+  "Waaq",
+  "Sang Hyang Tunggal",
+  "White Buffalo Calf Woman",
+  "Maya Hero Twins",
+  "Noah",
+  "Ayar Manco",
+  "Yellow Emperor",
+  "Wisakedjak",
+  "Dangun"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

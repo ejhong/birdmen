@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  1,
+  5,
+  7,
+  9,
+  6,
+  2,
+  10,
+  8,
+  4
+ ],
+ "most_similar_reason": "Candidate 3 shares the flood narrative core almost point-for-point: a god warns a righteous man to build a vessel, animals and family are saved, a flood destroys humanity, birds are released to test the waters, and a sacrifice is offered afterward leading to a covenant.",
+ "least_similar_reason": "Candidate 4 concerns a smith-god's metallurgical feats and crafting exploits with no flood, ark, divine council, or rejuvenation-plant motifs, making it thematically and structurally unrelated to the target.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Genesis flood narrative",
+ "i": 222,
+ "target": "Gilgamesh flood myth",
+ "planted": "Genesis flood narrative",
+ "cands": [
+  "Dangun",
+  "Pachacamac",
+  "Genesis flood narrative",
+  "Ilmarinen",
+  "Kvasir",
+  "Qat (deity)",
+  "Mama Ocllo",
+  "Itzamna",
+  "Gesar",
+  "Baiame"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 1
+}

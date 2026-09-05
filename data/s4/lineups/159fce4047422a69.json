@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  3,
+  5,
+  8,
+  1,
+  6,
+  7,
+  10,
+  9,
+  4
+ ],
+ "most_similar_reason": "Candidate 2 centers on the same feathered/plumed serpent deity, told through multiple variant birth and adventure tales involving the sun/morning star, wind, sacrifice, incest-shame, and gifts to humans, matching the target's multi-tale portrait of a winged serpent tied to wind, rain, sun, and a sister.",
+ "least_similar_reason": "Candidate 4 is only a bare identification of a creator god by variant names with no episodes, figures, relationships, or motifs to correspond with the target's serpent narratives.",
+ "set": "related",
+ "pair": "Kukulkan | Quetzalcoatl",
+ "i": 413,
+ "target": "Kukulkan",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Dangun",
+  "Quetzalcoatl",
+  "Kokopelli",
+  "Makunaima",
+  "Yellow Emperor",
+  "Sosruko",
+  "Ziusudra",
+  "Obatala",
+  "Palamedes (mythology)",
+  "Bran the Blessed"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 1
+}

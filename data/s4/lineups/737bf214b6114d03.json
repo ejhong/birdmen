@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  6,
+  4,
+  1,
+  3,
+  7,
+  2,
+  10,
+  9,
+  8
+ ],
+ "most_similar_reason": "Candidate 5 shares the core flood-myth architecture with the target almost beat-for-beat: a wise god secretly warning a chosen man through a reed wall, instructions to build a waterproof boat, loading it with family, craftsmen and animals, a storm-driven flood, the boat resting on a mountain, and the storm god's anger at survivors being rebuked by the wise god \u2014 the same Mesopotamian flood tradition underlying the target's ending.",
+ "least_similar_reason": "Candidate 8 is not a narrative at all but a linguistic/etymological discussion of a divine name's survival across languages and place names, sharing no plot, characters, or mythic events with the target's detailed creation-and-flood story.",
+ "set": "positive",
+ "pair": "Atra-Hasis | Gilgamesh flood myth",
+ "i": 242,
+ "target": "Atra-Hasis",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Glooscap",
+  "Djanggawul",
+  "Dangun",
+  "T\u0101ne",
+  "Gilgamesh flood myth",
+  "Yu the Great",
+  "Nanabozho",
+  "Waaq",
+  "Makunaima",
+  "Hiawatha"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  9,
+  5,
+  10,
+  8,
+  3,
+  1,
+  2,
+  7,
+  6
+ ],
+ "most_similar_reason": "Candidate 4 shares the core Maui-cycle motifs almost exactly: a magic fishhook used to fish up islands with brothers who spoil the process, shapeshifting, and a fatal quest for immortality by entering a goddess's body, mirroring the target's fishhook, brother-trickery, and mortality themes.",
+ "least_similar_reason": "Candidate 6 is a purely abstract theological description of an ineffable divine principle with no narrative events, characters, or motifs resembling the target's concrete mythic episodes.",
+ "set": "related",
+ "pair": "M\u0101ui (Hawaiian mythology) | M\u0101ui (M\u0101ori mythology)",
+ "i": 532,
+ "target": "M\u0101ui (Hawaiian mythology)",
+ "planted": "M\u0101ui (M\u0101ori mythology)",
+ "cands": [
+  "Palamedes (mythology)",
+  "Makunaima",
+  "Bran the Blessed",
+  "M\u0101ui (M\u0101ori mythology)",
+  "Agastya",
+  "Sang Hyang Tunggal",
+  "Corn Mother",
+  "Mbombo",
+  "Triptolemus",
+  "Baiame"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

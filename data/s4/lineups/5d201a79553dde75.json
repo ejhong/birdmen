@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  9,
+  2,
+  7,
+  5,
+  4,
+  3,
+  1,
+  6,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 shares the same Mesoamerican mythic complex as the target, including a feathered-serpent deity, a place among the twenty-day calendar signs, morning-star associations, teaching/culture-hero deeds, and ritual burning/ascension motifs.",
+ "least_similar_reason": "Candidate 10 describes a purely abstract, non-narrative theological symbol with no journeys, kingdoms, city-founding, or genealogical elements, making it structurally and thematically unrelated to the target's action-driven heroic saga.",
+ "set": "hancock",
+ "pair": "Votan | Quetzalcoatl",
+ "i": 147,
+ "target": "Votan",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Amirani",
+  "Ogun",
+  "Nanabozho",
+  "White Buffalo Calf Woman",
+  "Shennong",
+  "Makunaima",
+  "Prometheus",
+  "Quetzalcoatl",
+  "Triptolemus",
+  "Sang Hyang Tunggal"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

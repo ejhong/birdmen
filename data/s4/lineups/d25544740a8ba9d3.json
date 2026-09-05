@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  5,
+  9,
+  4,
+  1,
+  2,
+  3,
+  6,
+  7,
+  8
+ ],
+ "most_similar_reason": "Candidate 10 describes Enoch, the same prophetic figure as the target's 'second holy messenger' (Idris), sharing the distinctive motifs of being raised to a celestial realm without dying, becoming a 'Great Scribe,' being taught secrets/mysteries, guiding angels, communicating divine revelation to a later prophet, and connecting to the flood narrative\u2014paralleling the target's emphasis on writing, high station, and prophetic succession.",
+ "least_similar_reason": "Candidate 8 contains no narrative content whatsoever\u2014only a bare statement that a deity is worshipped\u2014sharing none of the specific episodes, relationships, or motifs (migration, heavenly ascent, inventions, angelic encounter) that define the target story.",
+ "set": "related",
+ "pair": "Idris (prophet) | Enoch (ancestor of Noah)",
+ "i": 545,
+ "target": "Idris (prophet)",
+ "planted": "Enoch (ancestor of Noah)",
+ "cands": [
+  "Agastya",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Obatala",
+  "Mama Ocllo",
+  "Great Peacemaker",
+  "Pachacamac",
+  "Sang Hyang Tunggal",
+  "Abassi",
+  "Yu the Great",
+  "Enoch (ancestor of Noah)"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

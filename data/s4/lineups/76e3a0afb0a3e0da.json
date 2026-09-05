@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  9,
+  7,
+  6,
+  10,
+  8,
+  4,
+  3,
+  5,
+  2
+ ],
+ "most_similar_reason": "Candidate 1 shares the core Maui-cycle elements: the magic fishhook, fishing up islands with brothers, shapeshifting trickster hero, and taming the sun/sky, matching the target's fishhook, fish-island, and sibling motifs almost exactly.",
+ "least_similar_reason": "Candidate 2 describes an abstract supreme creator deity and its worship through mediums and oracles, with no narrative hero, birth, fishing, fire theft, or underworld journey paralleling the target's story.",
+ "set": "related",
+ "pair": "M\u0101ui (M\u0101ori mythology) | M\u0101ui (Hawaiian mythology)",
+ "i": 523,
+ "target": "M\u0101ui (M\u0101ori mythology)",
+ "planted": "M\u0101ui (Hawaiian mythology)",
+ "cands": [
+  "M\u0101ui (Hawaiian mythology)",
+  "Mwari",
+  "White Buffalo Calf Woman",
+  "Hiawatha",
+  "Yu the Great",
+  "Heitsi-eibib",
+  "Prometheus",
+  "Aeneas",
+  "Glooscap",
+  "Adapa"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

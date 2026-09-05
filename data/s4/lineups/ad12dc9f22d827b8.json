@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  7,
+  8,
+  2,
+  10,
+  6,
+  1,
+  5,
+  3,
+  4
+ ],
+ "most_similar_reason": "Candidate 9 shares virtually the entire plot: exile engineered by a stepmother/queen mother wanting her own son crowned, the bride won by a feat with a bow, the loyal younger brother and faithful wife joining the exile, the forest demoness whose nose and ears are cut off, the golden deer decoy and the wife's abduction by the demon king, the alliance with monkey-people after restoring their king against a rival, and the final victory over the demon.",
+ "least_similar_reason": "Candidate 4 is a bare ethnographic note about an ancestor-turned-creator figure making humans from reeds and forgetting them, with no hero, no exile, no abduction, and no narrative sequence resembling the target.",
+ "set": "positive",
+ "pair": "Reamker | Ramayana",
+ "i": 294,
+ "target": "Reamker",
+ "planted": "Ramayana",
+ "cands": [
+  "Heitsi-eibib",
+  "Maya Hero Twins",
+  "Itzamna",
+  "Unkulunkulu",
+  "Kutkh",
+  "Adapa",
+  "Aeneas",
+  "Cadmus",
+  "Ramayana",
+  "\u014ckuninushi"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

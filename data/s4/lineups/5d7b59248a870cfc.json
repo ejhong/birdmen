@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  5,
+  10,
+  8,
+  1,
+  2,
+  7,
+  4,
+  6,
+  3
+ ],
+ "most_similar_reason": "Candidate 9, like the target, centers on a divine culture-hero credited with inventing writing and books, fixing the calendar/extra days, acting in the underworld, aiding the creation and revival of life, and standing in a cosmic family of four deities born together.",
+ "least_similar_reason": "Candidate 3 contains no narrative at all\u2014no birth, deeds, inventions, or death\u2014so it shares none of the target's episodes or motifs beyond the bare fact of a deity.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Thoth",
+ "i": 173,
+ "target": "Quetzalcoatl",
+ "planted": "Thoth",
+ "cands": [
+  "Palamedes (mythology)",
+  "Hiawatha",
+  "Abassi",
+  "Tagaro",
+  "Glooscap",
+  "Sang Hyang Tunggal",
+  "Ogun",
+  "Cangjie",
+  "Thoth",
+  "Sky Woman"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

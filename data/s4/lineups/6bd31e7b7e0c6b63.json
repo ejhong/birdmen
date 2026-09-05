@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  2,
+  9,
+  7,
+  6,
+  5,
+  8,
+  4,
+  1,
+  10
+ ],
+ "most_similar_reason": "Candidate 3's seven fish/bird-man sages sent by the gods, associated with primeval waters, banishment into those waters, and foundation of cities/temples most closely parallels the Nommo-like water beings, their aquatic nature, and their role as culture-bringers and origin of religious leadership in the target myth.",
+ "least_similar_reason": "Candidate 10 provides only a bare statement that a being with two names was a supreme deity, sharing no concrete motifs of creation, twins, rebellion, dismemberment, or shrines with the target.",
+ "set": "hancock",
+ "pair": "Nommo | Oannes",
+ "i": 183,
+ "target": "Nommo",
+ "planted": "Oannes",
+ "cands": [
+  "Aeneas",
+  "Sky Woman",
+  "Oannes",
+  "Mwari",
+  "Maya Hero Twins",
+  "T\u0101ne",
+  "Mbombo",
+  "Ilmarinen",
+  "Bhagiratha",
+  "Bumba"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  3,
+  5,
+  1,
+  10,
+  9,
+  7,
+  8,
+  4,
+  2
+ ],
+ "most_similar_reason": "Candidate 6 shares the target's distinctive cluster of motifs: a founding culture-hero associated with a sun deity who emerges from/near a great lake, carries a golden staff, travels with siblings/companions, and founds a city and civilization, teaching and ruling before dying or departing.",
+ "least_similar_reason": "Candidate 2 is not a narrative at all but a description of an abstract, non-acting theological symbol, sharing none of the target's founding journey, sibling marriage, staff, city-building, or dynastic succession.",
+ "set": "related",
+ "pair": "Manco C\u00e1pac | Viracocha",
+ "i": 438,
+ "target": "Manco C\u00e1pac",
+ "planted": "Viracocha",
+ "cands": [
+  "Bhagiratha",
+  "Sang Hyang Tunggal",
+  "Oduduwa",
+  "Kokopelli",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Viracocha",
+  "Kvasir",
+  "Nyame",
+  "Ilmarinen",
+  "Sky Woman"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

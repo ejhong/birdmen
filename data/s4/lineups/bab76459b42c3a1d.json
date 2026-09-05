@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  8,
+  1,
+  9,
+  3,
+  10,
+  5,
+  2,
+  4,
+  7
+ ],
+ "most_similar_reason": "Candidate 6 shares the target's distinctive framing of a deity remembered through multiple conflicting origin accounts, and like the target hero he is a civilizing figure who teaches, gives culture (calendar, crops), undergoes a symbolic death/transformation, and is linked to sacred astral/temple veneration, closely paralleling the target's shift from fragmented witness testimony to an elaborated civilizing-hero myth with religious founding and commemorative festivals.",
+ "least_similar_reason": "Candidate 7 is an abstract discussion of a spiritual concept ('Great Spirit/Mystery') with no narrative of a hero, journey, cave retreat, or founding of a religious center, making it the least similar to the target's concrete mythic episodes.",
+ "set": "hancock",
+ "pair": "Bochica | Quetzalcoatl",
+ "i": 125,
+ "target": "Bochica",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Apkallu",
+  "T\u0101ne",
+  "Obatala",
+  "Wisakedjak",
+  "Aeneas",
+  "Quetzalcoatl",
+  "Wakan Tanka",
+  "Baiame",
+  "Triptolemus",
+  "Yu the Great"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

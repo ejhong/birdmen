@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  7,
+  9,
+  8,
+  2,
+  6,
+  5,
+  3,
+  1,
+  10
+ ],
+ "most_similar_reason": "Candidate 4 matches the target's most distinctive features: a divine culture-bringer who invents writing/books and secures the extra days that fix the calendar, is tied to a celestial body, functions in the underworld, and is bound up with four deities born to a primordial sky/earth couple.",
+ "least_similar_reason": "Candidate 10 is a bare statement that a two-named being was a people's supreme deity, offering no episodes, relationships, or motifs to correspond with the target's rich sequence of births, inventions, underworld journey, incest, and stellar transformation.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Thoth",
+ "i": 171,
+ "target": "Quetzalcoatl",
+ "planted": "Thoth",
+ "cands": [
+  "Wayland the Smith",
+  "Romulus and Remus",
+  "Gesar",
+  "Thoth",
+  "Heitsi-eibib",
+  "Coyote (mythology)",
+  "T\u0101ne",
+  "Tagaro",
+  "Mama Ocllo",
+  "Bumba"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

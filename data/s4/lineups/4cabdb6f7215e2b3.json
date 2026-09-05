@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  5,
+  9,
+  2,
+  8,
+  6,
+  3,
+  1,
+  4,
+  10
+ ],
+ "most_similar_reason": "Candidate 7 centers on the same plumed/feathered serpent deity with multiple conflicting birth tales, a sibling relationship, and motifs of flight, earthquakes, and solar interaction that closely mirror the target's core figure and narrative structure.",
+ "least_similar_reason": "Candidate 10 is a purely etymological and linguistic discussion of a word for 'sky God' with no narrative actions, births, deeds, or relationships, sharing no concrete story elements with the target myth.",
+ "set": "related",
+ "pair": "Quetzalcoatl | Kukulkan",
+ "i": 403,
+ "target": "Quetzalcoatl",
+ "planted": "Kukulkan",
+ "cands": [
+  "Abassi",
+  "Great Peacemaker",
+  "Sang Hyang Tunggal",
+  "Bumba",
+  "Nanabozho",
+  "Kvasir",
+  "Kukulkan",
+  "R\u00edgs\u00feula",
+  "Romulus and Remus",
+  "Waaq"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  3,
+  7,
+  1,
+  6,
+  8,
+  10,
+  2,
+  4,
+  5
+ ],
+ "most_similar_reason": "Candidate 9 shares the most distinctive cluster of motifs with the target: a divine culture-hero born of a human mother and a divine father, one of four sons tied to cardinal directions, sent to teach humanity, credited as co-creator of the world and inventor of a writing system, and framed partly as a trickster.",
+ "least_similar_reason": "Candidate 5 is a heroic-dynastic war saga about marriage alliance, a magic reviving cauldron, and a talking severed head, with no culture-hero creation, calendar/writing invention, star transformation, or gift-to-mankind episodes resembling the target.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Thoth",
+ "i": 175,
+ "target": "Quetzalcoatl",
+ "planted": "Thoth",
+ "cands": [
+  "Sky Woman",
+  "Anansi",
+  "Thoth",
+  "Djanggawul",
+  "Bran the Blessed",
+  "Kvasir",
+  "Prometheus",
+  "White Buffalo Calf Woman",
+  "Nanabozho",
+  "Sosruko"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 2
+}

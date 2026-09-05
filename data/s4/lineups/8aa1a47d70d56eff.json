@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  9,
+  5,
+  2,
+  3,
+  6,
+  7,
+  10,
+  4,
+  8
+ ],
+ "most_similar_reason": "Candidate 1 shares the specific combination of a golden staff carried by a divine hero, described explicitly as 'a son of the sun deity' who founds a civilization, closely mirroring the target's alternate version of the hero as son of a sun god and moon goddess carrying a golden staff to found a temple/city.",
+ "least_similar_reason": "Candidate 8 is a minimal, generic ancestor-creator narrative involving reeds and forgotten creation, with no siblings, cave emergence, golden staff, marriage, city founding, or conflict motifs that define the target story.",
+ "set": "related",
+ "pair": "Manco C\u00e1pac | Viracocha",
+ "i": 432,
+ "target": "Manco C\u00e1pac",
+ "planted": "Viracocha",
+ "cands": [
+  "Viracocha",
+  "Maya Hero Twins",
+  "Qat (deity)",
+  "Kokopelli",
+  "Obatala",
+  "Agastya",
+  "Prometheus",
+  "Unkulunkulu",
+  "Djanggawul",
+  "Nyame"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

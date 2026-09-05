@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  7,
+  2,
+  5,
+  8,
+  4,
+  3,
+  6,
+  10,
+  1
+ ],
+ "most_similar_reason": "Candidate 9 most closely mirrors the target's abstract, theological framing of a supreme deity known by an alternate name, echoing the target's emphasis on a symbolic figure representing an ultimate divine principle rather than a narrative character.",
+ "least_similar_reason": "Candidate 1 is a heroic, war-focused epic about a prince's cunning, battles, and varying death accounts, sharing none of the target's themes of ineffable divinity, sun association, or symbolic ritual representation.",
+ "set": "random",
+ "pair": "Sang Hyang Tunggal | V\u00e4in\u00e4m\u00f6inen",
+ "i": 564,
+ "target": "Sang Hyang Tunggal",
+ "planted": "V\u00e4in\u00e4m\u00f6inen",
+ "cands": [
+  "Palamedes (mythology)",
+  "Pachacamac",
+  "Amirani",
+  "Tangaroa",
+  "Berossus",
+  "Wayland the Smith",
+  "Unkulunkulu",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Bumba",
+  "Adapa"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 5
+}

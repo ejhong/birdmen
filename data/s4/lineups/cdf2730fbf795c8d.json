@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  8,
+  4,
+  6,
+  3,
+  7,
+  10,
+  5,
+  2,
+  9
+ ],
+ "most_similar_reason": "Candidate 1 shares the striking and unusual motif of a divine hero, son of a sun deity, carrying a golden staff to found a civilization, closely mirroring the target's golden staff given by a creator god and the alternate 'son of a sun god' founding-temple tradition.",
+ "least_similar_reason": "Candidate 9 describes ancestral rain/cloud spirits and rock art traditions with no siblings, city-founding, golden staff, conquest, or dynastic succession, making it the least thematically or structurally related to the target myth.",
+ "set": "related",
+ "pair": "Manco C\u00e1pac | Viracocha",
+ "i": 435,
+ "target": "Manco C\u00e1pac",
+ "planted": "Viracocha",
+ "cands": [
+  "Viracocha",
+  "Nyame",
+  "Apkallu",
+  "Ziusudra",
+  "Anansi",
+  "Ogun",
+  "Prometheus",
+  "Romulus and Remus",
+  "Wandjina",
+  "Amirani"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

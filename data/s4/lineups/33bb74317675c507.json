@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  6,
+  7,
+  3,
+  1,
+  5,
+  9,
+  2,
+  4,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 most closely matches the target's core profile: a royal culture hero credited with inventing counting/letters (writing) and games (dice), embedded in dynastic-heroic legend and preserved through multiple competing variant accounts of his identity and fate.",
+ "least_similar_reason": "Candidate 10 is least similar because it describes an abstract theological term and its translation debates rather than a hero figure who invents, teaches, battles a rival, or founds a lineage.",
+ "set": "random",
+ "pair": "Yellow Emperor | Ogun",
+ "i": 596,
+ "target": "Yellow Emperor",
+ "planted": "Ogun",
+ "cands": [
+  "Hiawatha",
+  "Orpheus",
+  "Great Peacemaker",
+  "Djanggawul",
+  "Kvasir",
+  "Ogun",
+  "Kutkh",
+  "Palamedes (mythology)",
+  "White Buffalo Calf Woman",
+  "Wakan Tanka"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 2
+}

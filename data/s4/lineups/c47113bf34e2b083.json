@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  8,
+  4,
+  2,
+  3,
+  10,
+  1,
+  7,
+  5,
+  6
+ ],
+ "most_similar_reason": "Candidate 9 shares the fish-avatar of a creator/preserver god warning the first man of a flood, the boat, seven sages, sacred scriptures, and towing to safety, matching the target's core myth almost exactly.",
+ "least_similar_reason": "Candidate 6 concerns an agricultural spirit embodied in a straw figure with no flood, fish-god, or rescue narrative, sharing only the generic theme of ritual and renewal.",
+ "set": "positive",
+ "pair": "Matsya | Manu (Hinduism)",
+ "i": 378,
+ "target": "Matsya",
+ "planted": "Manu (Hinduism)",
+ "cands": [
+  "Ninigi-no-Mikoto",
+  "Aeneas",
+  "Cangjie",
+  "Adapa",
+  "Kilibob and Manup",
+  "Corn Mother",
+  "Heitsi-eibib",
+  "Apkallu",
+  "Manu (Hinduism)",
+  "Mama Ocllo"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

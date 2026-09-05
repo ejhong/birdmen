@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  5,
+  3,
+  8,
+  2,
+  10,
+  6,
+  9,
+  4,
+  1
+ ],
+ "most_similar_reason": "Candidate 7 shares the near-identical core myth: a murdered agricultural/underworld god, sibling-spouse goddess searching for scattered body parts with her sister's help, magical revival to conceive a posthumous son who avenges him and claims kingship.",
+ "least_similar_reason": "Candidate 1 concerns a harvest-spirit folk custom about crafting straw figures and has no divine family, murder, dismemberment, or resurrection narrative paralleling the target.",
+ "set": "related",
+ "pair": "Isis | Osiris",
+ "i": 475,
+ "target": "Isis",
+ "planted": "Osiris",
+ "cands": [
+  "Corn Mother",
+  "Heitsi-eibib",
+  "Sky Woman",
+  "Cangjie",
+  "Obatala",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Osiris",
+  "T\u0101ne",
+  "Itzamna",
+  "Tagaro"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

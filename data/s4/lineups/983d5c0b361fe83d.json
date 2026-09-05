@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  5,
+  10,
+  1,
+  4,
+  8,
+  6,
+  3,
+  9,
+  2
+ ],
+ "most_similar_reason": "Candidate 7 depicts the Mesopotamian god of wisdom and subterranean waters who commands sages, creates mankind from clay, and warns of the flood via a reed wall\u2014directly matching the mythological universe of the seven Apkallu sages, their master deity, and the flood narrative in the target.",
+ "least_similar_reason": "Candidate 2 offers only a single sentence naming a supreme deity with two names, providing no comparable motifs of sages, flood, city-founding, healing, or figurine rituals found in the target.",
+ "set": "related",
+ "pair": "Oannes | Enki",
+ "i": 499,
+ "target": "Oannes",
+ "planted": "Enki",
+ "cands": [
+  "Tezcatlipoca",
+  "Bumba",
+  "Sky Woman",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Dangun",
+  "Hiawatha",
+  "Enki",
+  "Maya Hero Twins",
+  "Nanabozho",
+  "Itzamna"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

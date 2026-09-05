@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  3,
+  8,
+  9,
+  10,
+  7,
+  6,
+  4,
+  5,
+  1
+ ],
+ "most_similar_reason": "Candidate 2 depicts a figure raised to a heavenly realm without dying, taught secrets, called a scribe, associated with revelation and flood prophecy\u2014paralleling the target prophet's ascension, patience, and role as intermediary between Adam's line and the deity.",
+ "least_similar_reason": "Candidate 1 is a purely symbolic, non-narrative theological abstraction with no events, journeys, teachings, or relationships resembling the target's concrete prophetic biography.",
+ "set": "related",
+ "pair": "Idris (prophet) | Enoch (ancestor of Noah)",
+ "i": 541,
+ "target": "Idris (prophet)",
+ "planted": "Enoch (ancestor of Noah)",
+ "cands": [
+  "Sang Hyang Tunggal",
+  "Enoch (ancestor of Noah)",
+  "Palamedes (mythology)",
+  "Pachacamac",
+  "Wayland the Smith",
+  "Qat (deity)",
+  "Amirani",
+  "Mama Ocllo",
+  "Aeneas",
+  "White Buffalo Calf Woman"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 1
+}

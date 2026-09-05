@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  8,
+  6,
+  4,
+  9,
+  7,
+  3,
+  5,
+  1,
+  10
+ ],
+ "most_similar_reason": "Candidate 2 depicts a prophet explicitly identified with the second messenger after Adam (paralleling Enoch as son of a patriarch), who is 'raised to a high station' and taken bodily into the fourth heaven by the angel of death rather than dying, matching the target's core motif of being taken up without experiencing death, plus shared motifs of being an early scribe/inventor of writing and measures, teaching, and appearing in another prophet's heavenly ascent\u2014closely mirroring Enoch's roles as scribe, heavenly attendant, and intermediary of revelation.",
+ "least_similar_reason": "Candidate 10 is a smith's revenge tale involving imprisonment, mutilation, murder of a king's sons, and a flying escape, sharing no meaningful overlap with the target's themes of patriarchal lineage, ascension without death, celestial guardianship, or scribal revelation.",
+ "set": "related",
+ "pair": "Enoch (ancestor of Noah) | Idris (prophet)",
+ "i": 558,
+ "target": "Enoch (ancestor of Noah)",
+ "planted": "Idris (prophet)",
+ "cands": [
+  "Prometheus",
+  "Idris (prophet)",
+  "White Buffalo Calf Woman",
+  "Baiame",
+  "Unkulunkulu",
+  "Agastya",
+  "Gesar",
+  "Oduduwa",
+  "Anansi",
+  "Wayland the Smith"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 1
+}

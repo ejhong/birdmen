@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  7,
+  2,
+  3,
+  1,
+  9,
+  5,
+  6,
+  10,
+  8
+ ],
+ "most_similar_reason": "Candidate 4 shares the core N\u00fcwa/Fuxi mythos directly: a brother-sister pair with serpent bodies on a sacred mountain who take a fire/sign as a marriage omen, create humans from clay animated by divine power, and are linked to cosmic order (sky, trigrams) much like the target's sibling-marriage and clay-creation motifs.",
+ "least_similar_reason": "Candidate 8 depicts diffuse cloud/rain ancestral spirits embodied in rock art with no clay creation of social classes, no sky-mending, no sibling marriage, and no dynastic curse narrative, making it the most structurally and thematically distant from the target.",
+ "set": "related",
+ "pair": "N\u00fcwa | Fuxi",
+ "i": 513,
+ "target": "N\u00fcwa",
+ "planted": "Fuxi",
+ "cands": [
+  "\u014ckuninushi",
+  "Prometheus",
+  "Glooscap",
+  "Fuxi",
+  "Agastya",
+  "Apkallu",
+  "Mama Ocllo",
+  "Wandjina",
+  "Rama",
+  "Hiawatha"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

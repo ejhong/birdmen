@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  7,
+  3,
+  5,
+  2,
+  9,
+  1,
+  4,
+  10,
+  8
+ ],
+ "most_similar_reason": "Candidate 6 centers on a primeval, sage-like figure who emerges from the sea and reveals writing, arts, and sciences to humanity, closely paralleling the target's legendary inventor of writing serving a ruler's lineage.",
+ "least_similar_reason": "Candidate 8 is an etymological survey of a divine name across languages and religions, with no narrative about an inventor of writing, a ruler, or the distinctive motifs of the target story.",
+ "set": "random",
+ "pair": "Cangjie | Coyote (mythology)",
+ "i": 566,
+ "target": "Cangjie",
+ "planted": "Coyote (mythology)",
+ "cands": [
+  "Romulus and Remus",
+  "\u014ckuninushi",
+  "Triptolemus",
+  "Tangaroa",
+  "Adapa",
+  "Berossus",
+  "Apkallu",
+  "Waaq",
+  "Huitzilopochtli",
+  "Coyote (mythology)"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 9
+}

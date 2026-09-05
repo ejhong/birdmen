@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  4,
+  10,
+  9,
+  7,
+  8,
+  5,
+  6,
+  2,
+  1
+ ],
+ "most_similar_reason": "Candidate 3 is essentially the same figure and story: a pious antediluvian descendant of the first man who preached repentance, was 'taken' by the deity without ordinary death and raised into the heavens, given scribal/celestial-knowledge roles, and linked to conveying revelation and to a flood-surviving descendant.",
+ "least_similar_reason": "Candidate 1 is merely a bare note that a multi-named creator god is worshipped in a river region, with no prophet, no teaching or inventions, no ascent, and essentially no narrative at all.",
+ "set": "related",
+ "pair": "Idris (prophet) | Enoch (ancestor of Noah)",
+ "i": 543,
+ "target": "Idris (prophet)",
+ "planted": "Enoch (ancestor of Noah)",
+ "cands": [
+  "Makunaima",
+  "Unkulunkulu",
+  "Enoch (ancestor of Noah)",
+  "Cangjie",
+  "Cadmus",
+  "Obatala",
+  "Great Peacemaker",
+  "Agastya",
+  "Nanabozho",
+  "Palamedes (mythology)"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

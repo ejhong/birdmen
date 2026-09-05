@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  5,
+  3,
+  7,
+  10,
+  4,
+  1,
+  6,
+  9,
+  2
+ ],
+ "most_similar_reason": "Candidate 8 retells essentially the same epic core\u2014prince incarnation of a sky god, bow-contest marriage, forest exile, demoness rejection, golden-deer-style abduction by a multi-headed demon king, monkey allies (including a devoted monkey general), causeway building, and a final battle and reunion\u2014matching the target's plot beat for beat.",
+ "least_similar_reason": "Candidate 2 is a pure ancestral landscape-creation narrative about sisters forming geography and ceremonies with no hero, exile, marriage contest, abduction, or war, sharing almost none of the target's distinctive motifs.",
+ "set": "positive",
+ "pair": "Ramayana | Ramakien",
+ "i": 302,
+ "target": "Ramayana",
+ "planted": "Ramakien",
+ "cands": [
+  "Coyote (mythology)",
+  "Djanggawul",
+  "Romulus and Remus",
+  "Oduduwa",
+  "Gesar",
+  "Kutkh",
+  "Orpheus",
+  "Ramakien",
+  "Unkulunkulu",
+  "Yu the Great"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

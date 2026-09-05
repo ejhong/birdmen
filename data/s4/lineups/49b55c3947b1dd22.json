@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  10,
+  5,
+  9,
+  4,
+  3,
+  6,
+  2,
+  8,
+  1
+ ],
+ "most_similar_reason": "Candidate 7 is essentially the same work: a wise counselor instructing a ruler through a nested cycle of animal fables, including the scheming jackal-type courtier at a lion king's court who destroys a friendship, the four-animal alliance of rodent, black bird, shelled reptile and horned grazer who save one another, and the war between black birds and their bird enemies won by infiltration and counsel.",
+ "least_similar_reason": "Candidate 1 is a bare identification of a local deity with no narrative, characters, teaching, or events at all, so it shares nothing with the target's framed fable cycle.",
+ "set": "positive",
+ "pair": "Panchatantra | Kalila wa-Dimna",
+ "i": 347,
+ "target": "Panchatantra",
+ "planted": "Kalila wa-Dimna",
+ "cands": [
+  "Abassi",
+  "Heitsi-eibib",
+  "Obatala",
+  "Yellow Emperor",
+  "Palamedes (mythology)",
+  "Maya Hero Twins",
+  "Kalila wa-Dimna",
+  "Wakan Tanka",
+  "Mama Ocllo",
+  "Anansi"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

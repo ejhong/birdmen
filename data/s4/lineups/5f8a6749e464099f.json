@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  7,
+  6,
+  3,
+  1,
+  5,
+  4,
+  10,
+  9,
+  2
+ ],
+ "most_similar_reason": "Candidate 8 shares the same core narrative sequence with the target: a divine hero incarnate, a bow contest to win a princess who is secretly the demon king's daughter, exile to the forest, spurning a demoness leading to the wife's abduction, alliance with monkey princes and a monkey general, building a causeway, killing the demon king, and reunion with the wife who must prove her fidelity.",
+ "least_similar_reason": "Candidate 2 is a Mesopotamian-style king-list and flood/city-founding fragment collection with no hero's exile, bow contest, abduction, or monkey allies, making it thematically and structurally unrelated to the target's epic hero narrative.",
+ "set": "positive",
+ "pair": "Ramayana | Ramakien",
+ "i": 303,
+ "target": "Ramayana",
+ "planted": "Ramakien",
+ "cands": [
+  "Ogun",
+  "Berossus",
+  "Itzamna",
+  "Glooscap",
+  "Tagaro",
+  "R\u00edgs\u00feula",
+  "Huitzilopochtli",
+  "Ramakien",
+  "Dangun",
+  "Kutkh"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

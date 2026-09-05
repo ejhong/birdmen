@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  8,
+  5,
+  4,
+  2,
+  10,
+  6,
+  7,
+  3,
+  1
+ ],
+ "most_similar_reason": "Candidate 9 tells essentially the same figure's story: an early patriarch descended from the first man who preached against his people's wrongdoing, was credited with the invention of writing, astronomy, weights and measures, and was 'raised to a high station' \u2014 taken up bodily into the heavens by an angel without ordinary death, matching the target's ascension, angelic exaltation, and scribal/teaching motifs.",
+ "least_similar_reason": "Candidate 1 is a description of agricultural harvest customs involving a corn-spirit and straw effigies, with no ancestral figure, no ascension, no revelation or teaching, and no relationship to the target's motifs at all.",
+ "set": "related",
+ "pair": "Enoch (ancestor of Noah) | Idris (prophet)",
+ "i": 557,
+ "target": "Enoch (ancestor of Noah)",
+ "planted": "Idris (prophet)",
+ "cands": [
+  "Corn Mother",
+  "Maya Hero Twins",
+  "Bumba",
+  "Baiame",
+  "Yellow Emperor",
+  "Bran the Blessed",
+  "Makunaima",
+  "Agastya",
+  "Idris (prophet)",
+  "Coyote (mythology)"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

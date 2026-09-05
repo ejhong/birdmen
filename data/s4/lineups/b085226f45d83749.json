@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  8,
+  5,
+  4,
+  3,
+  10,
+  6,
+  9,
+  2,
+  7
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's defining figure and structure: a plumed/feathered serpent deity presented through several conflicting tellings, including an unusual birth, a close sister relationship, and associations with wind, sky and cosmic bodies.",
+ "least_similar_reason": "Candidate 7 is only a bare notice that a creator god is known by variant names in a region, offering no episodes, inventions, or relationships to correspond with the target's rich cycle.",
+ "set": "related",
+ "pair": "Quetzalcoatl | Kukulkan",
+ "i": 402,
+ "target": "Quetzalcoatl",
+ "planted": "Kukulkan",
+ "cands": [
+  "Kukulkan",
+  "Wayland the Smith",
+  "Baiame",
+  "Tangaroa",
+  "Triptolemus",
+  "Amirani",
+  "Makunaima",
+  "Yellow Emperor",
+  "Ziusudra",
+  "Nyame"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

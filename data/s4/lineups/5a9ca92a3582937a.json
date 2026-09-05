@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  3,
+  6,
+  1,
+  8,
+  5,
+  9,
+  10,
+  7,
+  4
+ ],
+ "most_similar_reason": "Candidate 2 shares the target's most distinctive cluster: a civilizing prophet-figure who travels teaching law and healing, works miracles, literally walks upon a great lake, is presumed lost yet reappears, and is prophesied to return as a light in a time of trouble.",
+ "least_similar_reason": "Candidate 4 is an etymological/linguistic account of a divine name's survival in place-names and clans, with no creator figure, no creation or flood, no culture-hero deeds, and essentially no narrative events at all.",
+ "set": "related",
+ "pair": "Viracocha | Tunupa",
+ "i": 440,
+ "target": "Viracocha",
+ "planted": "Tunupa",
+ "cands": [
+  "Hiawatha",
+  "Great Peacemaker",
+  "T\u0101ne",
+  "Waaq",
+  "Tangaroa",
+  "Dangun",
+  "Tunupa",
+  "White Buffalo Calf Woman",
+  "Wandjina",
+  "Palamedes (mythology)"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 9
+}

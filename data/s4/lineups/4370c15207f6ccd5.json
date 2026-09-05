@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  8,
+  2,
+  10,
+  7,
+  4,
+  9,
+  3,
+  6,
+  5
+ ],
+ "most_similar_reason": "Candidate 1 shares the same mythic world as the target\u2014a wisdom god of the subterranean freshwater deep who is explicitly attended by a group of sages, tied to the creation of humanity, the great flood and its survivor, and to craft and incantation lore\u2014matching the target's flood-framed sages of wisdom and their divine patron.",
+ "least_similar_reason": "Candidate 5 has no narrative at all\u2014no sages, kings, flood, cities, or teaching of arts\u2014only an abstract, non-acting symbol of transcendent divinity, so it shares essentially no episodes or roles with the target.",
+ "set": "related",
+ "pair": "Oannes | Enki",
+ "i": 491,
+ "target": "Oannes",
+ "planted": "Enki",
+ "cands": [
+  "Enki",
+  "T\u0101ne",
+  "Huitzilopochtli",
+  "Pachacamac",
+  "Sang Hyang Tunggal",
+  "Bumba",
+  "Wisakedjak",
+  "Yellow Emperor",
+  "Cadmus",
+  "Kutkh"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

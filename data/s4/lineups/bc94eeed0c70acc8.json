@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  7,
+  10,
+  4,
+  6,
+  3,
+  5,
+  2,
+  1,
+  8
+ ],
+ "most_similar_reason": "Candidate 9 shares the closest cluster of motifs with the target: a bearded creator god who forms mankind from stone/earth after destroying an earlier flawed race in a flood, teaches humans civilization and agriculture, then disappears across the sea, mirroring the target's creation of a new race of mankind from bones of prior destroyed peoples, its civilizing gifts, and its final transformation/ascension.",
+ "least_similar_reason": "Candidate 8 is a purely etymological/linguistic survey of a divine name with no narrative events, deities' deeds, birth stories, or mythic episodes to compare with the richly plotted target myth.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Viracocha",
+ "i": 19,
+ "target": "Quetzalcoatl",
+ "planted": "Viracocha",
+ "cands": [
+  "Romulus and Remus",
+  "Cadmus",
+  "Gesar",
+  "Dangun",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "White Buffalo Calf Woman",
+  "Apkallu",
+  "Waaq",
+  "Viracocha",
+  "Great Peacemaker"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

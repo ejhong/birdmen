@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  8,
+  3,
+  4,
+  7,
+  10,
+  2,
+  9,
+  6,
+  1
+ ],
+ "most_similar_reason": "Candidate 5 depicts a civilizing hero descending to earth, retreating into a cave to be consulted by chiefs, and being commemorated with a sun-temple and festivals\u2014closely paralleling the target deity's role as a culture-bringing, morning-star-linked figure venerated with sacred sites and festivals.",
+ "least_similar_reason": "Candidate 1 merely discusses an abstract linguistic/philosophical concept of a 'Great Spirit or Mystery' with no narrative events, births, journeys, or specific mythic episodes corresponding to the target's rich, detailed story.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Bochica",
+ "i": 132,
+ "target": "Quetzalcoatl",
+ "planted": "Bochica",
+ "cands": [
+  "Wakan Tanka",
+  "Corn Mother",
+  "Tagaro",
+  "R\u00edgs\u00feula",
+  "Bochica",
+  "Bumba",
+  "Ogun",
+  "Nanabozho",
+  "Makunaima",
+  "Kilibob and Manup"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

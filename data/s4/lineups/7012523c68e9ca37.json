@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  7,
+  10,
+  4,
+  9,
+  2,
+  3,
+  8,
+  6,
+  1
+ ],
+ "most_similar_reason": "Candidate 5 recounts the identical distinctive episode of a fish-form of a great god warning the first man/king of a coming deluge, instructing him to build a boat that the fish tows to safety, with the same odd details of seven sages aboard, the rescued scriptures stolen by a demon, and the survivor becoming ruler of the current age of humanity.",
+ "least_similar_reason": "Candidate 1 concerns an immortal smith forging a sky-dome, a magic mill and golden brides, with no first human, no progenitor lineage, no dynastic ages and no flood-rescue by a divine animal.",
+ "set": "positive",
+ "pair": "Manu (Hinduism) | Matsya",
+ "i": 368,
+ "target": "Manu (Hinduism)",
+ "planted": "Matsya",
+ "cands": [
+  "Ilmarinen",
+  "Cadmus",
+  "Kutkh",
+  "Ninigi-no-Mikoto",
+  "Matsya",
+  "Hiawatha",
+  "Prometheus",
+  "Nanabozho",
+  "Shennong",
+  "Unkulunkulu"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  1,
+  6,
+  9,
+  5,
+  8,
+  7,
+  10,
+  4,
+  3
+ ],
+ "most_similar_reason": "Candidate 2 (the feathered-serpent deity) shares the target's core themes of a fertility/agriculture god who teaches crop cultivation, is tied to a rival brother figure among a divine family, dies violently (self-immolation paralleling dismemberment) and is resurrected as a celestial/underworld power, closely echoing the Osiris-Dionysus fusion in the target.",
+ "least_similar_reason": "Candidate 3 offers only a single vague sentence about a deity with two names being supreme, containing none of the target's distinctive motifs of murder, dismemberment, recovery, or agricultural teaching, making it the least similar.",
+ "set": "hancock",
+ "pair": "Osiris | Quetzalcoatl",
+ "i": 95,
+ "target": "Osiris",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Kvasir",
+  "Quetzalcoatl",
+  "Bumba",
+  "Berossus",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Nyame",
+  "Great Peacemaker",
+  "Anansi",
+  "Aeneas",
+  "Hiawatha"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 1
+}

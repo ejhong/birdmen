@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  10,
+  1,
+  5,
+  9,
+  2,
+  8,
+  4,
+  7,
+  3
+ ],
+ "most_similar_reason": "Candidate 6 directly parallels the target by describing a single sky-deity referred to by two names (an old native name and a newer borrowed one) who functioned as the supreme god of a people, matching the target's core motif almost exactly.",
+ "least_similar_reason": "Candidate 3 is a cycle of spider-trickster tales about cunning, wisdom, and rivalry with a sky god, sharing no meaningful correspondence with the target's simple statement about a supreme deity known by two names.",
+ "set": "random",
+ "pair": "Bumba | Anansi",
+ "i": 563,
+ "target": "Bumba",
+ "planted": "Anansi",
+ "cands": [
+  "Shennong",
+  "Triptolemus",
+  "Anansi",
+  "Maya Hero Twins",
+  "Glooscap",
+  "Waaq",
+  "Yu the Great",
+  "Cadmus",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "\u014ckuninushi"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 10
+}

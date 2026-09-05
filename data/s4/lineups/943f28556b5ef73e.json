@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  5,
+  3,
+  1,
+  6,
+  2,
+  8,
+  10,
+  4,
+  9
+ ],
+ "most_similar_reason": "Candidate 7 shares the core flood-hero narrative structure (divine command to build a boat, saving family and animals, offering sacrifice after, divine covenant, and even the post-flood drunkenness/nakedness episode mirroring the same textual tradition), making it by far the closest match to the target's flood and immortality-granting sequence.",
+ "least_similar_reason": "Candidate 9 is merely a one-line description of a deity's names with no narrative content, sharing no motifs, events, or structure with the target's flood and immortality quest story.",
+ "set": "positive",
+ "pair": "Utnapishtim | Noah",
+ "i": 262,
+ "target": "Utnapishtim",
+ "planted": "Noah",
+ "cands": [
+  "Anansi",
+  "Great Peacemaker",
+  "Agastya",
+  "Sosruko",
+  "Romulus and Remus",
+  "T\u0101ne",
+  "Noah",
+  "Wayland the Smith",
+  "Bumba",
+  "Kokopelli"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

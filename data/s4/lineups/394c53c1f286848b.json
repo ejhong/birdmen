@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  7,
+  2,
+  1,
+  3,
+  10,
+  9,
+  5,
+  8,
+  4
+ ],
+ "most_similar_reason": "Candidate 6 shares the core plot almost point for point: a supreme god angered by human wickedness sends a world-destroying flood, a forewarned righteous hero builds a wooden vessel and provisions it, he and his family survive the waters, give thanks/offerings on emerging, and repopulate the earth so that later peoples and nations descend from him.",
+ "least_similar_reason": "Candidate 4 is not a narrative at all but a lexical-theological note on a term for a diffuse 'Great Spirit,' with no hero, flood, vessel, repopulation, or any sequence of events to compare.",
+ "set": "positive",
+ "pair": "Deucalion | Noah",
+ "i": 383,
+ "target": "Deucalion",
+ "planted": "Noah",
+ "cands": [
+  "Ninigi-no-Mikoto",
+  "Dangun",
+  "Glooscap",
+  "Wakan Tanka",
+  "Baiame",
+  "Noah",
+  "Mama Ocllo",
+  "Waaq",
+  "Gesar",
+  "Bhagiratha"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  5,
+  6,
+  9,
+  4,
+  10,
+  3,
+  2,
+  1,
+  7
+ ],
+ "most_similar_reason": "Candidate 8 shares the core Andean-creation-cycle motifs of the target (siblings emerging near a great lake, a golden staff marking divine authority, founding of a city, and a temple built on an island in a great lake), matching almost exactly the embedded Manco Capac/Titicaca narrative in the target.",
+ "least_similar_reason": "Candidate 7 is a purely conceptual/theological discussion of a term for sacred power with no narrative of creation, flood, teaching, or divine wandering, making it the least similar to the target's richly event-based creator-god story.",
+ "set": "related",
+ "pair": "Viracocha | Manco C\u00e1pac",
+ "i": 424,
+ "target": "Viracocha",
+ "planted": "Manco C\u00e1pac",
+ "cands": [
+  "Yellow Emperor",
+  "Bran the Blessed",
+  "Ilmarinen",
+  "Obatala",
+  "Tezcatlipoca",
+  "R\u00edgs\u00feula",
+  "Wakan Tanka",
+  "Manco C\u00e1pac",
+  "Ninigi-no-Mikoto",
+  "Tangaroa"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

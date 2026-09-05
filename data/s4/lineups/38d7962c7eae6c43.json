@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  4,
+  2,
+  3,
+  5,
+  10,
+  9,
+  8,
+  1,
+  7
+ ],
+ "most_similar_reason": "Candidate 6 recounts the same core myth from the male victim's side\u2014the brother-husband king murdered and dismembered by a jealous brother, the wife and her sister gathering the scattered pieces, magical revival for the conception of an avenging son, and the murdered king's rule in the underworld\u2014matching motif for motif.",
+ "least_similar_reason": "Candidate 7 is a set of episodic spider-trickster contests over stories and wisdom with no dismembered king, no searching wife, no revival or avenging son, sharing nothing distinctive with the target.",
+ "set": "related",
+ "pair": "Isis | Osiris",
+ "i": 477,
+ "target": "Isis",
+ "planted": "Osiris",
+ "cands": [
+  "Shennong",
+  "Obatala",
+  "Cadmus",
+  "Ayar Manco",
+  "Berossus",
+  "Osiris",
+  "Anansi",
+  "White Buffalo Calf Woman",
+  "Qat (deity)",
+  "Gesar"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

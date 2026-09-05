@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  3,
+  4,
+  9,
+  1,
+  8,
+  6,
+  2,
+  7,
+  5
+ ],
+ "most_similar_reason": "Candidate 10 (the prophet raised to a high station, taken by the angel of death in the fourth heaven, taught writing, astronomy, and measures) is essentially the same Enoch-figure tradition as the target, sharing the ascension motif, scribal/inventive role, and the specific detail of being taken up rather than dying.",
+ "least_similar_reason": "Candidate 5 is a purely etymological and linguistic discussion of a divine name across cultures with no narrative events, figures, or actions, making it structurally and thematically unrelated to the target's story of Enoch's ascension and cosmic roles.",
+ "set": "related",
+ "pair": "Enoch (ancestor of Noah) | Idris (prophet)",
+ "i": 559,
+ "target": "Enoch (ancestor of Noah)",
+ "planted": "Idris (prophet)",
+ "cands": [
+  "Wisakedjak",
+  "Tagaro",
+  "Ayar Manco",
+  "Dangun",
+  "Waaq",
+  "Sosruko",
+  "Wandjina",
+  "\u014ckuninushi",
+  "R\u00edgs\u00feula",
+  "Idris (prophet)"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

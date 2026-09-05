@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  7,
+  3,
+  9,
+  2,
+  5,
+  6,
+  4,
+  8,
+  1
+ ],
+ "most_similar_reason": "Candidate 10 shares the target's most distinctive episodes almost exactly: a trickster hero with a magic fishhook who secretly joins his brothers on a fishing trip, hauls up land from the sea, has the brothers spoil the feat by acting against his instructions, and performs further exploits shaping the world for humanity.",
+ "least_similar_reason": "Candidate 1 has no trickster hero, no brothers, no fishing up of land, sun-snaring or sky-lifting, instead telling of a sky god's son who descends to teach, transforms a bear into a woman, and founds a dynasty.",
+ "set": "related",
+ "pair": "M\u0101ui (Hawaiian mythology) | M\u0101ui (M\u0101ori mythology)",
+ "i": 534,
+ "target": "M\u0101ui (Hawaiian mythology)",
+ "planted": "M\u0101ui (M\u0101ori mythology)",
+ "cands": [
+  "Dangun",
+  "Huitzilopochtli",
+  "Prometheus",
+  "Baiame",
+  "Sky Woman",
+  "Ilmarinen",
+  "Nanabozho",
+  "Ninigi-no-Mikoto",
+  "Agastya",
+  "M\u0101ui (M\u0101ori mythology)"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

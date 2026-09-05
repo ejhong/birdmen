@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  7,
+  8,
+  2,
+  4,
+  3,
+  10,
+  6,
+  1,
+  5
+ ],
+ "most_similar_reason": "Candidate 9 shares the target's most distinctive cluster of motifs: a primordial deity who molds/parents humanity, an incestuous union within the divine family that peoples the earth, and a divine spouse who withdraws to the underworld and remains connected to her descendants there.",
+ "least_similar_reason": "Candidate 5 is a revenge tale of a crippled smith who kills a king's sons and seduces his daughter, with no mother goddess, no origin of humanity, no water emergence or underworld return, and no cultic worship.",
+ "set": "random",
+ "pair": "Bachu\u00e9 | T\u0101ne",
+ "i": 562,
+ "target": "Bachu\u00e9",
+ "planted": "T\u0101ne",
+ "cands": [
+  "Agastya",
+  "Prometheus",
+  "Nanabozho",
+  "Mwari",
+  "Wayland the Smith",
+  "Rama",
+  "Dangun",
+  "Qat (deity)",
+  "T\u0101ne",
+  "Shennong"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

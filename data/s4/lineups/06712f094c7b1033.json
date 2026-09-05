@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  10,
+  9,
+  6,
+  3,
+  5,
+  1,
+  2,
+  8,
+  4
+ ],
+ "most_similar_reason": "Candidate 7 depicts the same core figure \u2014 a feathered/plumed serpent deity \u2014 recounted through multiple conflicting birth and life tales, including underworld journeys, solar/star associations, incest with a sister, and self-immolation, closely mirroring the target's multi-tale plumed serpent mythology.",
+ "least_similar_reason": "Candidate 4 is a classical hero-founder narrative (a mortal prince's descent, war exploits, exile, and deification) with no serpent deity, sibling caretaker, sun conflict, or destructive snake motifs, making it the least thematically or narratively connected to the target.",
+ "set": "related",
+ "pair": "Kukulkan | Quetzalcoatl",
+ "i": 416,
+ "target": "Kukulkan",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Sky Woman",
+  "Berossus",
+  "Ogun",
+  "Aeneas",
+  "Dangun",
+  "Coyote (mythology)",
+  "Quetzalcoatl",
+  "Hiawatha",
+  "Great Peacemaker",
+  "Bachu\u00e9"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

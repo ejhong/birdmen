@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  1,
+  2,
+  4,
+  9,
+  8,
+  6,
+  7,
+  10,
+  3
+ ],
+ "most_similar_reason": "Candidate 5 shares the closest cluster of distinctive motifs with the target: a sibling/incestuous relationship, a self-destructive death followed by transformation into a heavenly/underworld ruler, an association with agricultural crops (maize, cacao) and civilization-teaching, and multiple conflicting birth/origin tellings that mirror the target's own dual-tradition structure.",
+ "least_similar_reason": "Candidate 3 offers only a bare statement that a being with two names was a supreme deity, containing none of the specific narrative elements\u2014murder, dismemberment, marriage, resurrection, or agricultural teaching\u2014that define the target myth.",
+ "set": "hancock",
+ "pair": "Osiris | Quetzalcoatl",
+ "i": 92,
+ "target": "Osiris",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Corn Mother",
+  "T\u0101ne",
+  "Bumba",
+  "Nyame",
+  "Quetzalcoatl",
+  "Great Peacemaker",
+  "Ziusudra",
+  "Yellow Emperor",
+  "Wayland the Smith",
+  "Apkallu"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

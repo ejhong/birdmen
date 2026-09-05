@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  6,
+  9,
+  8,
+  4,
+  2,
+  1,
+  3,
+  7,
+  5
+ ],
+ "most_similar_reason": "Candidate 10 shares the core flood-myth structure with the target: a righteous hero warned by a divine or paternal figure builds a vessel, survives a god-sent flood with his wife, gives thanks afterward, and becomes the ancestor of new peoples through his descendants, closely mirroring Noah's story of salvation, sacrifice, and repopulation.",
+ "least_similar_reason": "Candidate 5 is least similar, being a brief account of a small trickster figure stealing fire from a giant with no flood, covenant, ark, or genealogical themes connecting it to the target narrative.",
+ "set": "positive",
+ "pair": "Noah | Deucalion",
+ "i": 392,
+ "target": "Noah",
+ "planted": "Deucalion",
+ "cands": [
+  "Qat (deity)",
+  "Kvasir",
+  "Kutkh",
+  "Heitsi-eibib",
+  "Sosruko",
+  "T\u0101ne",
+  "Wayland the Smith",
+  "\u014ckuninushi",
+  "Mama Ocllo",
+  "Deucalion"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

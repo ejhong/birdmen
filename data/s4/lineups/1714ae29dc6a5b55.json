@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  2,
+  3,
+  6,
+  8,
+  4,
+  9,
+  1,
+  5,
+  7
+ ],
+ "most_similar_reason": "Candidate 10 shares the deepest specific overlap with the target: a bearded/feathered creator god who forms a new race of humans from the remains (bones/stones) of earlier, flawed creations, teaches civilization, calendar and books, and ultimately vanishes/transforms (linked to a celestial body), closely mirroring the target's stone-formed humans, teaching mission, and mysterious disappearance.",
+ "least_similar_reason": "Candidate 7 is a heroic saga about a giant king's marriage alliance, war, magical cauldron of resurrection, and death by decapitation\u2014an entirely different narrative structure with no creation, flood, teaching, or divine departure motifs matching the target.",
+ "set": "hancock",
+ "pair": "Viracocha | Quetzalcoatl",
+ "i": 1,
+ "target": "Viracocha",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Bhagiratha",
+  "Great Peacemaker",
+  "Dangun",
+  "Yu the Great",
+  "Rama",
+  "Sky Woman",
+  "Bran the Blessed",
+  "Yellow Emperor",
+  "Wandjina",
+  "Quetzalcoatl"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

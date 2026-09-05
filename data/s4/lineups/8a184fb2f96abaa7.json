@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  1,
+  10,
+  2,
+  5,
+  6,
+  8,
+  4,
+  9,
+  3
+ ],
+ "most_similar_reason": "Candidate 7 shares the core arc of a royal heir raised in a sheltered palace who encounters an ascetic holy man, converts, renounces kingship, and withdraws to a life of solitary religious seclusion within a community founded by a traveling teacher\u2014essentially the same renunciation-of-royalty-for-the-ascetic-path story as the target.",
+ "least_similar_reason": "Candidate 3 is a tale of a captive smith's mutilation, revenge killings, grisly ornament-making, seduction, and escape by flight, with no teacher, doctrine, renunciation, or founding of a community in common with the target.",
+ "set": "positive",
+ "pair": "Gautama Buddha | Barlaam and Josaphat",
+ "i": 321,
+ "target": "Gautama Buddha",
+ "planted": "Barlaam and Josaphat",
+ "cands": [
+  "Great Peacemaker",
+  "Mama Ocllo",
+  "Wayland the Smith",
+  "Bachu\u00e9",
+  "Cangjie",
+  "Oduduwa",
+  "Barlaam and Josaphat",
+  "Romulus and Remus",
+  "Coyote (mythology)",
+  "Hiawatha"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

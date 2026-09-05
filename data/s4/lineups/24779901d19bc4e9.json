@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  2,
+  7,
+  5,
+  8,
+  1,
+  6,
+  4,
+  3,
+  10
+ ],
+ "most_similar_reason": "Candidate 9 is essentially the same Osiris-Isis myth: sibling-spouse deity, murder and dismemberment by a jealous brother, sister's search and reassembly of the body, magical revival for conception, birth of an avenging son, and the god's rule in the underworld, matching nearly every distinctive motif in the target.",
+ "least_similar_reason": "Candidate 10 is a linguistic and etymological discussion of a word for God with no narrative of gods, siblings, murder, dismemberment, or a son's revenge, sharing no concrete story elements with the target.",
+ "set": "related",
+ "pair": "Isis | Osiris",
+ "i": 476,
+ "target": "Isis",
+ "planted": "Osiris",
+ "cands": [
+  "Ogun",
+  "Yu the Great",
+  "Wandjina",
+  "Kokopelli",
+  "Oduduwa",
+  "Anansi",
+  "Ziusudra",
+  "Bachu\u00e9",
+  "Osiris",
+  "Waaq"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

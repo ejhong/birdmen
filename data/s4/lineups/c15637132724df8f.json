@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  4,
+  10,
+  9,
+  1,
+  5,
+  7,
+  2,
+  8,
+  3
+ ],
+ "most_similar_reason": "Candidate 6 is, like the target, a plumed/feathered serpent deity with multiple conflicting birth tales, cosmic associations (sun/star, wind), a sister, a journey through an underworld/death realm, and gifts brought to humankind, matching the target's distinctive figure and episodic structure almost point for point.",
+ "least_similar_reason": "Candidate 3 is a purely human warrior-prince of a siege epic concerned with oaths, feigned madness, and competing accounts of his murder, sharing no serpent figure, no cosmological or seasonal motifs, and no sibling-cave or sun-encounter episodes with the target.",
+ "set": "related",
+ "pair": "Kukulkan | Quetzalcoatl",
+ "i": 419,
+ "target": "Kukulkan",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Sky Woman",
+  "Gesar",
+  "Palamedes (mythology)",
+  "Cadmus",
+  "Shennong",
+  "Quetzalcoatl",
+  "Ninigi-no-Mikoto",
+  "Aeneas",
+  "Wisakedjak",
+  "Amirani"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

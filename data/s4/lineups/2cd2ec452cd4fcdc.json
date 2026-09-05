@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  4,
+  2,
+  7,
+  1,
+  3,
+  5,
+  8,
+  6,
+  10
+ ],
+ "most_similar_reason": "Candidate 9 is essentially the same work: a wise advisor instructs a ruler through a nested cycle of animal fables, including the scheming jackal-like courtier who destroys the lion's friendship with another animal, the four friends (rodent, crow, turtle, deer) who save each other, and the war between crows and owls won by an infiltrator.",
+ "least_similar_reason": "Candidate 10 shares nothing with the target\u2014no teacher, no fables, no animal counsel\u2014being instead a foundation legend of exposed twins, a she-wolf, and a fratricidal quarrel over city-founding omens.",
+ "set": "positive",
+ "pair": "Panchatantra | Kalila wa-Dimna",
+ "i": 340,
+ "target": "Panchatantra",
+ "planted": "Kalila wa-Dimna",
+ "cands": [
+  "Glooscap",
+  "Hiawatha",
+  "Sosruko",
+  "Anansi",
+  "Qat (deity)",
+  "Bran the Blessed",
+  "Mama Ocllo",
+  "Tezcatlipoca",
+  "Kalila wa-Dimna",
+  "Romulus and Remus"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  4,
+  2,
+  3,
+  8,
+  5,
+  1,
+  7,
+  6,
+  10
+ ],
+ "most_similar_reason": "Candidate 9 shares the core Polynesian-style motifs of a trickster hero with a magic fishhook, brothers on a fishing expedition, fishing up land/islands, and mortality themes tied to gods, closely mirroring the target's central episodes.",
+ "least_similar_reason": "Candidate 10 describes a generic, abstract supreme creator deity approached through mediums and taboos, with no shared motifs of fishing, trickery, siblings, or cosmic ordering found in the target.",
+ "set": "related",
+ "pair": "M\u0101ui (Hawaiian mythology) | M\u0101ui (M\u0101ori mythology)",
+ "i": 530,
+ "target": "M\u0101ui (Hawaiian mythology)",
+ "planted": "M\u0101ui (M\u0101ori mythology)",
+ "cands": [
+  "Kokopelli",
+  "\u014ckuninushi",
+  "Tagaro",
+  "Orpheus",
+  "Baiame",
+  "Makunaima",
+  "Itzamna",
+  "Ninigi-no-Mikoto",
+  "M\u0101ui (M\u0101ori mythology)",
+  "Mwari"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  5,
+  4,
+  8,
+  1,
+  7,
+  6,
+  2,
+  3,
+  10
+ ],
+ "most_similar_reason": "Candidate 9 shares the core cluster of motifs\u2014an envious brother's conspiracy, a magic cauldron that revives the dead (echoing the god's brief magical revival), decapitation and ritual burial of a body part in a symbolic location, and a war of vengeance\u2014paralleling the murder\u2011revival\u2011revenge structure of the target myth.",
+ "least_similar_reason": "Candidate 10 concerns a forgetful creator who makes humans from reeds and then abandons his creation, sharing none of the target's distinctive murder, dismemberment, search\u2011and\u2011revival, or vengeance motifs.",
+ "set": "hancock",
+ "pair": "Osiris | Viracocha",
+ "i": 57,
+ "target": "Osiris",
+ "planted": "Viracocha",
+ "cands": [
+  "\u014ckuninushi",
+  "Nanabozho",
+  "Wisakedjak",
+  "Kvasir",
+  "Adapa",
+  "Ilmarinen",
+  "Romulus and Remus",
+  "Viracocha",
+  "Bran the Blessed",
+  "Unkulunkulu"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 4
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  9,
+  10,
+  7,
+  3,
+  2,
+  6,
+  8,
+  1,
+  5
+ ],
+ "most_similar_reason": "Candidate 4 shares the core flood-myth structure with the target: a wicked mankind, divine warning to a favored man, construction of a vessel, survival of a couple, landing after the flood, thanksgiving/sacrifice to the deity, and subsequent genealogical spread of peoples, including a drunkenness and family episode paralleling the hero's later fate.",
+ "least_similar_reason": "Candidate 5 is an epic hero narrative (bow-stringing contest, exile, kidnapping, alliance with monkeys) with no flood, no primordial parentage, no stone-to-people creation, and no genealogical city-founding motifs, making it the most divergent from the target's specific mythic content.",
+ "set": "positive",
+ "pair": "Deucalion | Noah",
+ "i": 387,
+ "target": "Deucalion",
+ "planted": "Noah",
+ "cands": [
+  "Coyote (mythology)",
+  "Bachu\u00e9",
+  "Cangjie",
+  "Noah",
+  "Rama",
+  "Kokopelli",
+  "T\u0101ne",
+  "Heitsi-eibib",
+  "Oduduwa",
+  "Obatala"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

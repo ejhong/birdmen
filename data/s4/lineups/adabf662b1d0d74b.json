@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  4,
+  9,
+  6,
+  3,
+  1,
+  8,
+  7,
+  10,
+  5
+ ],
+ "most_similar_reason": "Candidate 2 matches the target most closely as a bearded civilizing hero who comes to found a religion/civilization, teaches and works wonders among towns, orders a great city built that becomes sacred, is linked to sun deity and solar founding lineage, and is remembered in multiple divergent versions with commemorative belief in his return.",
+ "least_similar_reason": "Candidate 5 is least similar because it concerns a mortal sage summoned up to heaven over breaking the wind's wings and refusing food of life, with no descent to earth, no civilizing mission, no cave retreat, and no founding of a sacred city or sun temple.",
+ "set": "hancock",
+ "pair": "Bochica | Viracocha",
+ "i": 218,
+ "target": "Bochica",
+ "planted": "Viracocha",
+ "cands": [
+  "Ogun",
+  "Viracocha",
+  "Cadmus",
+  "Nanabozho",
+  "Adapa",
+  "Tezcatlipoca",
+  "Yu the Great",
+  "\u014ckuninushi",
+  "Huitzilopochtli",
+  "Djanggawul"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 1
+}

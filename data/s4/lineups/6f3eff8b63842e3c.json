@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  5,
+  7,
+  3,
+  6,
+  9,
+  4,
+  2,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 1 shares the same Mesoamerican mythic complex\u2014creation of the world upon primordial waters, a sibling-consort deity, gourd/shell-and-sand cosmogony, robe theft, and a serpent-associated founding god who fathers many royal dynasties\u2014paralleling the feathered serpent's own birth-story cycle, sibling relations, and dynastic/creation role.",
+ "least_similar_reason": "Candidate 10 is a purely abstract theological symbol with no narrative events, births, transformations, or cultural inventions, sharing only the vague notion of a supreme, luminous divine principle with the target's richly narrative mythology.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Thoth",
+ "i": 176,
+ "target": "Quetzalcoatl",
+ "planted": "Thoth",
+ "cands": [
+  "Oduduwa",
+  "Unkulunkulu",
+  "Cadmus",
+  "Mbombo",
+  "Thoth",
+  "R\u00edgs\u00feula",
+  "Cangjie",
+  "Djanggawul",
+  "Tagaro",
+  "Sang Hyang Tunggal"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 2
+}

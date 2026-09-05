@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  2,
+  5,
+  1,
+  9,
+  4,
+  6,
+  3,
+  7,
+  8
+ ],
+ "most_similar_reason": "Candidate 10 shares the target's core plot of a god murdered by jealous brothers, restored to life through a female relative's divine aid, avenging himself on the fratricidal brother, and ultimately becoming ruler of the underworld/land of the dead.",
+ "least_similar_reason": "Candidate 8 is only a bare statement that a creator god is worshipped under several names, containing no episodes, relationships, or motifs that could correspond to the target's dismemberment, search, revival, and vengeance narrative.",
+ "set": "hancock",
+ "pair": "Osiris | Oannes",
+ "i": 110,
+ "target": "Osiris",
+ "planted": "Oannes",
+ "cands": [
+  "Aeneas",
+  "Tangaroa",
+  "Mbombo",
+  "Oannes",
+  "Mama Ocllo",
+  "Ilmarinen",
+  "Wandjina",
+  "Makunaima",
+  "Dangun",
+  "\u014ckuninushi"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 6
+}

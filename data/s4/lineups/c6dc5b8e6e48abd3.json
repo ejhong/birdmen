@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  10,
+  7,
+  2,
+  5,
+  6,
+  8,
+  3,
+  1,
+  9
+ ],
+ "most_similar_reason": "Candidate 4 is essentially the same work: a wise elder instructs royal pupils through nested animal fable collections featuring a scheming jackal in a lion king's court who destroys a friendship, the four friends (crow, mouse, turtle, deer), and the war between crows and owls decided by counsel.",
+ "least_similar_reason": "Candidate 9 is a descriptive account of a term for a diffuse sacred power with no characters, plot, animals, or instructional frame at all.",
+ "set": "positive",
+ "pair": "Kalila wa-Dimna | Panchatantra",
+ "i": 353,
+ "target": "Kalila wa-Dimna",
+ "planted": "Panchatantra",
+ "cands": [
+  "Waaq",
+  "Gesar",
+  "Mwari",
+  "Panchatantra",
+  "T\u0101ne",
+  "Pachacamac",
+  "Cangjie",
+  "Bachu\u00e9",
+  "Wakan Tanka",
+  "Kvasir"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

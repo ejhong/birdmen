@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  4,
+  10,
+  7,
+  6,
+  9,
+  5,
+  3,
+  2,
+  8
+ ],
+ "most_similar_reason": "Candidate 1 (Quetzalcoatl) shares the core structure of a composite creator-deity narrative with multiple conflicting versions, the destruction and remaking of humanity, teaching of civilization (books, calendar, crops), and a final disappearance across the sea/into fire, closely echoing the target's layered myth of a bearded creator god who destroys and remakes mankind and vanishes over water.",
+ "least_similar_reason": "Candidate 8 is a purely expository description of a spiritual concept with no narrative events, figures, or actions, sharing none of the specific mythic motifs\u2014creation, flood, teaching, disappearance\u2014found in the target.",
+ "set": "hancock",
+ "pair": "Viracocha | Quetzalcoatl",
+ "i": 5,
+ "target": "Viracocha",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Quetzalcoatl",
+  "Aeneas",
+  "Wayland the Smith",
+  "Shennong",
+  "Djanggawul",
+  "R\u00edgs\u00feula",
+  "Sky Woman",
+  "Wakan Tanka",
+  "Amirani",
+  "T\u0101ne"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

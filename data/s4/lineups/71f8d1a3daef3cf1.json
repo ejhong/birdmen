@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  2,
+  8,
+  1,
+  4,
+  9,
+  6,
+  3,
+  7,
+  5
+ ],
+ "most_similar_reason": "Candidate 10 shares the core flood-hero narrative structure\u2014a chosen man building a vessel to save his family and animals from a divine flood, sending birds to test the receding waters, and making a sacrifice followed by divine blessing\u2014paralleling the target's ark-building and flood-survival episode almost point for point.",
+ "least_similar_reason": "Candidate 5 is an extremely vague, generic statement about a creator god with no concrete narrative details, sharing no specific motifs, events, or figures with the target's detailed flood and immortality-quest story.",
+ "set": "positive",
+ "pair": "Utnapishtim | Noah",
+ "i": 265,
+ "target": "Utnapishtim",
+ "planted": "Noah",
+ "cands": [
+  "Bran the Blessed",
+  "Wisakedjak",
+  "Tangaroa",
+  "Kvasir",
+  "Makunaima",
+  "Mama Ocllo",
+  "Unkulunkulu",
+  "Kilibob and Manup",
+  "Ayar Manco",
+  "Noah"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  8,
+  4,
+  1,
+  10,
+  3,
+  7,
+  2,
+  6,
+  9
+ ],
+ "most_similar_reason": "Candidate 5 shares the closest structural and thematic overlap: a bearded, human-like creator deity who forms humanity out of stone (paralleling creation from bone/blood), destroys an earlier flawed race with a flood, teaches civilization and writing, and ultimately disappears by walking across the sea, mirroring the target deity's role as culture-bringer, calendar/book inventor, mankind-creator, and eventual self-transformation/ascension.",
+ "least_similar_reason": "Candidate 9 is not a narrative at all but a linguistic/etymological discussion of a word for God across languages, containing no deity actions, births, journeys, or mythic events comparable to the target's rich narrative structure.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Viracocha",
+ "i": 13,
+ "target": "Quetzalcoatl",
+ "planted": "Viracocha",
+ "cands": [
+  "Ziusudra",
+  "Corn Mother",
+  "Bran the Blessed",
+  "Ninigi-no-Mikoto",
+  "Viracocha",
+  "Wakan Tanka",
+  "Kokopelli",
+  "Prometheus",
+  "Waaq",
+  "Adapa"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

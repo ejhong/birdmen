@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  1,
+  7,
+  5,
+  9,
+  10,
+  8,
+  3,
+  4,
+  6
+ ],
+ "most_similar_reason": "Candidate 2 shares an unusually specific cluster with the target: quarreling brothers on an island where one is a fisherman, an adultery conflict centered on marks/wounds on the thighs, a brother becoming a lizard who hides in a tree in the forest, and the resulting split between sea-going canoe craft and land, echoing the target's fish-versus-reptile and sea-versus-forest division.",
+ "least_similar_reason": "Candidate 6 is a flood-survival and kingship narrative with a warned boat-builder and divine immortality, sharing none of the target's sibling separation of sky and earth, sea-deity genealogy of fish and reptiles, or fire-stealing trickster episode.",
+ "set": "random",
+ "pair": "Tangaroa | Glooscap",
+ "i": 609,
+ "target": "Tangaroa",
+ "planted": "Glooscap",
+ "cands": [
+  "Pachacamac",
+  "Kilibob and Manup",
+  "Aeneas",
+  "Amirani",
+  "Ninigi-no-Mikoto",
+  "Ziusudra",
+  "Huitzilopochtli",
+  "Baiame",
+  "Glooscap",
+  "Obatala"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 5
+}

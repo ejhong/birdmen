@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  9,
+  8,
+  6,
+  3,
+  7,
+  4,
+  2,
+  1,
+  10
+ ],
+ "most_similar_reason": "Candidate 5 shares the closest structural and motif parallels: a hero born of unusual/miraculous circumstances tied to royal lineage, involving divine intervention, a river, exile/threat from kin, and eventual restoration and rule, echoing the target's themes of divine parentage, river motifs, and dynastic conflict.",
+ "least_similar_reason": "Candidate 10 is a cosmological/genealogical myth about sea, sky, and earth deities with no human infancy, twins, she-wolf, or city-founding motifs, making it the least similar in content and structure.",
+ "set": "random",
+ "pair": "Romulus and Remus | Prometheus",
+ "i": 572,
+ "target": "Romulus and Remus",
+ "planted": "Prometheus",
+ "cands": [
+  "Bachu\u00e9",
+  "Makunaima",
+  "Qat (deity)",
+  "Kutkh",
+  "Bhagiratha",
+  "Glooscap",
+  "Sosruko",
+  "Prometheus",
+  "Gesar",
+  "Tangaroa"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 3
+}

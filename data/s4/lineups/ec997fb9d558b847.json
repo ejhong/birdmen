@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  4,
+  1,
+  9,
+  3,
+  7,
+  6,
+  5,
+  2,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 describes a civilizing hero who wanders between towns, retreats to a cave where chiefs seek his wisdom, and whose arrival leads to the building of a sun temple and commemorative festivals\u2014closely mirroring the target's wandering, teaching creator god who founds cities and is venerated with temples upon his disappearance.",
+ "least_similar_reason": "Candidate 10 is a Romulus-and-Remus-type foundation legend centered on twin brothers raised by a wolf, augury disputes, and fratricide, sharing only the generic motif of city-founding with no trace of the target's cosmogonic creation, stone-born humans, flood, or teaching-deity themes.",
+ "set": "hancock",
+ "pair": "Viracocha | Bochica",
+ "i": 209,
+ "target": "Viracocha",
+ "planted": "Bochica",
+ "cands": [
+  "Glooscap",
+  "Yellow Emperor",
+  "\u014ckuninushi",
+  "Kutkh",
+  "Bhagiratha",
+  "Palamedes (mythology)",
+  "Tagaro",
+  "Bochica",
+  "Shennong",
+  "Romulus and Remus"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

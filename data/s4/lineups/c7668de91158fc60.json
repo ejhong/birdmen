@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  4,
+  2,
+  10,
+  5,
+  9,
+  6,
+  1,
+  8,
+  7
+ ],
+ "most_similar_reason": "Candidate 3 shares the most distinctive cluster with the target: a divine culture-bringer credited with inventing books/writing and the calendar, associated with a celestial body, tied to a set of four sibling gods born of a divine couple, who journeys to the underworld and figures in creation/restoration of life.",
+ "least_similar_reason": "Candidate 7 is a bare one-line identification of a supreme deity with two names, containing no episodes, inventions, relationships, or events to correspond with the target's rich sequence.",
+ "set": "hancock",
+ "pair": "Thoth | Quetzalcoatl",
+ "i": 163,
+ "target": "Thoth",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Wayland the Smith",
+  "Apkallu",
+  "Quetzalcoatl",
+  "Yellow Emperor",
+  "Obatala",
+  "Aeneas",
+  "Bumba",
+  "Makunaima",
+  "Bhagiratha",
+  "Mama Ocllo"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  1,
+  3,
+  2,
+  10,
+  8,
+  7,
+  9,
+  4,
+  5
+ ],
+ "most_similar_reason": "Candidate 6 (the Prometheus-type myth) most closely parallels the target's core structure of a divine being sent to teach humanity civilization and arts, tied to the creation of humans and to a flood-hero lineage, mirroring the sages' civilizing mission and their pairing with pre-flood kings.",
+ "least_similar_reason": "Candidate 5 is a self-contained mother-goddess origin myth about birth and transformation into snakes with no wisdom-teaching, flood, tablets, fish-men, or city-founding motifs, making it the least thematically connected to the target's specific narrative elements.",
+ "set": "hancock",
+ "pair": "Oannes | Osiris",
+ "i": 103,
+ "target": "Oannes",
+ "planted": "Osiris",
+ "cands": [
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Kilibob and Manup",
+  "Hiawatha",
+  "\u014ckuninushi",
+  "Bachu\u00e9",
+  "Prometheus",
+  "Osiris",
+  "Huitzilopochtli",
+  "Agastya",
+  "Cadmus"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 7
+}

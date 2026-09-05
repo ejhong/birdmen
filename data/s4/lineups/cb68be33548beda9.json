@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  8,
+  5,
+  9,
+  4,
+  3,
+  7,
+  1,
+  6,
+  2
+ ],
+ "most_similar_reason": "Candidate 10 shares the exact frame of a wise advisor teaching a ruler through a nested cycle of animal fables, including a jackal-lion court intrigue, a crow-owl war of loyalty and espionage, and four cooperating weak animals (crow, mouse, turtle, deer) who rescue one another\u2014matching the target's structure, characters, and moral themes almost point for point.",
+ "least_similar_reason": "Candidate 2 is a Mesopotamian flood myth about a king building a boat and gaining immortality, with no animal fables, court intrigue, or nested storytelling structure, making it thematically and structurally the most distant from the target.",
+ "set": "positive",
+ "pair": "Kalila wa-Dimna | Panchatantra",
+ "i": 350,
+ "target": "Kalila wa-Dimna",
+ "planted": "Panchatantra",
+ "cands": [
+  "Romulus and Remus",
+  "Ziusudra",
+  "Amirani",
+  "Dangun",
+  "Coyote (mythology)",
+  "Ninigi-no-Mikoto",
+  "Bran the Blessed",
+  "Mbombo",
+  "Tangaroa",
+  "Panchatantra"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

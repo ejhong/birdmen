@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  7,
+  9,
+  3,
+  6,
+  4,
+  1,
+  2,
+  8,
+  5
+ ],
+ "most_similar_reason": "Candidate 10 matches the target most closely in the core role and episode-set: a divine culture hero who fashions/vivifies humanity, is the father of arts and civilized gifts, brings a vital benefit (fire/maize, books) to mankind, tricks or is tricked in a divine deception, and ends in self-sacrificial suffering and eventual release.",
+ "least_similar_reason": "Candidate 5 is a genealogical account of a sea deity's family quarrels and fish/reptile ancestry with no culture-hero creation of mankind, no calendar or crop gift, no birth-story variants, and no astral transformation, sharing only the generic presence of gods and a fire-theft episode.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Votan",
+ "i": 153,
+ "target": "Quetzalcoatl",
+ "planted": "Votan",
+ "cands": [
+  "Agastya",
+  "Gesar",
+  "Great Peacemaker",
+  "Yu the Great",
+  "Tagaro",
+  "Coyote (mythology)",
+  "Votan",
+  "Tangaroa",
+  "Pachacamac",
+  "Prometheus"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 2
+}

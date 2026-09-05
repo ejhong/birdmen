@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  6,
+  1,
+  9,
+  2,
+  8,
+  4,
+  7,
+  10,
+  5
+ ],
+ "most_similar_reason": "Candidate 3 shares the deepest structural core with the target\u2014a fertility/agriculture god who is dismembered, has body parts scattered and reassembled (missing genitals), is revived/avenged, rules the underworld, and in an alternate telling teaches humanity to cultivate crops, closely paralleling the target's underworld journey, creation-through-sacrifice, and teaching of agriculture.",
+ "least_similar_reason": "Candidate 5 is a purely abstract theological symbol with no birth stories, siblings, journeys, inventions, or narrative action, making it the least similar to the target's richly eventful mythic biography.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Osiris",
+ "i": 81,
+ "target": "Quetzalcoatl",
+ "planted": "Osiris",
+ "cands": [
+  "Nanabozho",
+  "Great Peacemaker",
+  "Osiris",
+  "White Buffalo Calf Woman",
+  "Sang Hyang Tunggal",
+  "T\u0101ne",
+  "Bachu\u00e9",
+  "Hiawatha",
+  "Palamedes (mythology)",
+  "Anansi"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 1
+}

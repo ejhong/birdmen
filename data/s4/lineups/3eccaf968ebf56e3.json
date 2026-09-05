@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  5,
+  9,
+  10,
+  6,
+  4,
+  1,
+  8,
+  3,
+  2
+ ],
+ "most_similar_reason": "Candidate 7 shares the same mythic world as the target\u2014a wisdom-and-crafts god of the subterranean fresh waters who has a group of sages among his servants, creates humanity, and saves his prot\u00e9g\u00e9 from the divine flood\u2014matching the target's flood-era sages, temple-shrine setting, and god-to-human transmission of skills.",
+ "least_similar_reason": "Candidate 2 is a one-line statement about a supreme deity with two names, containing none of the target's sages, flood, teaching of civilization, cities, healing poultices, or protective figurines.",
+ "set": "related",
+ "pair": "Oannes | Enki",
+ "i": 499,
+ "target": "Oannes",
+ "planted": "Enki",
+ "cands": [
+  "Tezcatlipoca",
+  "Bumba",
+  "Sky Woman",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Dangun",
+  "Hiawatha",
+  "Enki",
+  "Maya Hero Twins",
+  "Nanabozho",
+  "Itzamna"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  3,
+  9,
+  8,
+  6,
+  10,
+  7,
+  4,
+  2,
+  5
+ ],
+ "most_similar_reason": "Candidate 1 centers on the same kind of plumed/feathered serpent deity told through multiple variant tales, including odd birth accounts, a sister relationship, celestial associations and links to wind and to the sun, matching the target's cluster of serpent-deity episodes most closely.",
+ "least_similar_reason": "Candidate 5 is a human revenge-and-escape saga about a crippled smith who murders a king's sons and seduces his daughter, with no serpent figure, no sun or rain deity, no sibling caretaker in a cave, and no world-shaping or otherworld journey of the target's type.",
+ "set": "related",
+ "pair": "Kukulkan | Quetzalcoatl",
+ "i": 414,
+ "target": "Kukulkan",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Quetzalcoatl",
+  "Anansi",
+  "Wandjina",
+  "Nanabozho",
+  "Wayland the Smith",
+  "\u014ckuninushi",
+  "Gesar",
+  "Mama Ocllo",
+  "Glooscap",
+  "Great Peacemaker"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

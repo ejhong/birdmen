@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  4,
+  5,
+  10,
+  7,
+  2,
+  8,
+  1,
+  9,
+  6
+ ],
+ "most_similar_reason": "Candidate 3 shares the target's exact core plot: a deity resolves to destroy wicked mankind with a flood, commands one favored man to build a great vessel, he saves his family and animals, the waters recede, he offers a sacrifice that pleases the deity, and he receives a divine blessing afterward.",
+ "least_similar_reason": "Candidate 6 concerns a court historian inventing a writing system from animal tracks and natural forms, with no flood, no vessel, no rescue of life, and no quest for immortality, sharing only the generic presence of a ruler and a marvel.",
+ "set": "positive",
+ "pair": "Utnapishtim | Noah",
+ "i": 266,
+ "target": "Utnapishtim",
+ "planted": "Noah",
+ "cands": [
+  "Ilmarinen",
+  "Wandjina",
+  "Noah",
+  "Qat (deity)",
+  "Tagaro",
+  "Cangjie",
+  "Mbombo",
+  "Bran the Blessed",
+  "Wayland the Smith",
+  "Pachacamac"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  4,
+  3,
+  10,
+  2,
+  9,
+  5,
+  6,
+  8,
+  7
+ ],
+ "most_similar_reason": "Candidate 1 shares the core flood-hero narrative: a favored man commanded by a deity to build a vessel, bring family and animals aboard, survive a world-destroying flood, send out birds to test for land, and offer sacrifice afterward that pleases the gods.",
+ "least_similar_reason": "Candidate 7 lacks any flood-hero, ark, animals, covenant, or patriarchal lineage narrative, instead describing rock-art spirit beings and rain-making rituals with no structural or episodic overlap with the target.",
+ "set": "positive",
+ "pair": "Noah | Utnapishtim",
+ "i": 278,
+ "target": "Noah",
+ "planted": "Utnapishtim",
+ "cands": [
+  "Utnapishtim",
+  "Agastya",
+  "Dangun",
+  "Bhagiratha",
+  "Kvasir",
+  "Kutkh",
+  "Wandjina",
+  "Nanabozho",
+  "Wayland the Smith",
+  "T\u0101ne"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

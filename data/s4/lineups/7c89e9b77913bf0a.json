@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  2,
+  8,
+  10,
+  7,
+  9,
+  4,
+  1,
+  6,
+  5
+ ],
+ "most_similar_reason": "Candidate 3 shares the core motif of ancestral sibling-figures actively shaping the physical world\u2014raising islands, carving valleys, painting the land's colors, and bestowing culture-bearing objects (tools, fire, canoes)\u2014paralleling the target's siblings who transform sacred objects into landforms and endow people with ceremonial and material culture.",
+ "least_similar_reason": "Candidate 5 contains almost no narrative content beyond naming a deity, offering no actions, journeys, or creative episodes to compare with the richly detailed landscape-creation and ancestral journey of the target.",
+ "set": "random",
+ "pair": "Djanggawul | Berossus",
+ "i": 582,
+ "target": "Djanggawul",
+ "planted": "Berossus",
+ "cands": [
+  "Prometheus",
+  "Tagaro",
+  "Glooscap",
+  "Cangjie",
+  "Abassi",
+  "Anansi",
+  "Aeneas",
+  "Agastya",
+  "Berossus",
+  "Cadmus"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 6
+}

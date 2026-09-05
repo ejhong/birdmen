@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  6,
+  10,
+  3,
+  9,
+  5,
+  8,
+  1,
+  2,
+  7
+ ],
+ "most_similar_reason": "Candidate 4 shares the exact core myth: the fertility king, child of earth and sky deities, brother-husband of the goddess, murdered and dismembered by his jealous brother, whose body the goddess and her sister search out and reassemble, magically reviving him to conceive a son who avenges him while the father rules the dead.",
+ "least_similar_reason": "Candidate 7 is a bare account of an ancestor-turned-creator figure who makes humans from reeds and forgets them, with no dismembered king, searching sister-wife, avenging son, or any comparable episodes.",
+ "set": "related",
+ "pair": "Isis | Osiris",
+ "i": 474,
+ "target": "Isis",
+ "planted": "Osiris",
+ "cands": [
+  "Apkallu",
+  "Baiame",
+  "Prometheus",
+  "Osiris",
+  "Hiawatha",
+  "Huitzilopochtli",
+  "Unkulunkulu",
+  "Great Peacemaker",
+  "Ilmarinen",
+  "Bran the Blessed"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

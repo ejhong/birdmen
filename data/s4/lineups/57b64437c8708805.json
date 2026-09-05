@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  3,
+  4,
+  2,
+  1,
+  9,
+  5,
+  10,
+  6,
+  8
+ ],
+ "most_similar_reason": "Candidate 7 shares the target's core plot almost point for point: a deity warns a righteous man to build a huge vessel, he loads family and animals, all other life perishes, the boat grounds on a mountain, birds are sent out, and he offers sacrifice and receives a divine blessing/covenant afterward.",
+ "least_similar_reason": "Candidate 8 is not a narrative at all but an explanation of a term for a diffuse sacred power, sharing no characters, events, flood, or covenant with the target.",
+ "set": "positive",
+ "pair": "Noah | Utnapishtim",
+ "i": 272,
+ "target": "Noah",
+ "planted": "Utnapishtim",
+ "cands": [
+  "Sky Woman",
+  "Mbombo",
+  "Wisakedjak",
+  "Rama",
+  "Heitsi-eibib",
+  "Nyame",
+  "Utnapishtim",
+  "Wakan Tanka",
+  "Anansi",
+  "Sosruko"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

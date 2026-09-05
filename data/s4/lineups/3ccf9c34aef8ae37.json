@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  4,
+  5,
+  2,
+  3,
+  8,
+  6,
+  10,
+  9,
+  1
+ ],
+ "most_similar_reason": "Candidate 7 shares the same distinctive flood narrative: a council of gods decrees the flood, a clever god evades his oath by secretly warning his human prot\u00e9g\u00e9 through a reed wall, and the man builds a sealed, waterproof ship loaded with family and animals as the storm begins.",
+ "least_similar_reason": "Candidate 1 is only a bare statement that a supreme deity had two names, containing no flood, no hero's quest, and no narrative events at all to compare.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Atra-Hasis",
+ "i": 258,
+ "target": "Gilgamesh flood myth",
+ "planted": "Atra-Hasis",
+ "cands": [
+  "Bumba",
+  "Bhagiratha",
+  "Unkulunkulu",
+  "Prometheus",
+  "Ninigi-no-Mikoto",
+  "Ilmarinen",
+  "Atra-Hasis",
+  "Bran the Blessed",
+  "Wayland the Smith",
+  "Itzamna"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

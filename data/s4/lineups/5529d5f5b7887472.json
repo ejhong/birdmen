@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  8,
+  3,
+  4,
+  5,
+  1,
+  7,
+  9,
+  10,
+  2
+ ],
+ "most_similar_reason": "Candidate 6 is a direct variant of the same epic: a divine incarnation hero wins a princess at an archery/bow contest, is exiled to the forest with his brother, spurns a demoness, has his wife abducted by a multi-headed demon king of an island realm, allies with monkey figures and a monkey general who finds her and burns the enemy city, kills the demon king, and returns home with the rescued wife.",
+ "least_similar_reason": "Candidate 2 is not a narrative at all but an explanation of a term for a sacred power, sharing no characters, events, or motifs with the target's heroic exile-and-rescue story.",
+ "set": "positive",
+ "pair": "Ramayana | Ramakien",
+ "i": 301,
+ "target": "Ramayana",
+ "planted": "Ramakien",
+ "cands": [
+  "Tagaro",
+  "Wakan Tanka",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Orpheus",
+  "Triptolemus",
+  "Ramakien",
+  "Shennong",
+  "Aeneas",
+  "Cangjie",
+  "Oduduwa"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

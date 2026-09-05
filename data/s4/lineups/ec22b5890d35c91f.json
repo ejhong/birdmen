@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  6,
+  3,
+  4,
+  9,
+  2,
+  7,
+  1,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 5 directly parallels the Enki/Ea mythic cycle, describing the seven sages (apkallu) who serve the wisdom god, their role in founding cities and temples, their banishment into primeval waters and later attempt at retrieval, and their connection to a human prot\u00e9g\u00e9 instructed to gain favor with gods\u2014matching the target's servant sages, city-founding, and Adapa-like episode almost point for point.",
+ "least_similar_reason": "Candidate 10 is a linguistic and etymological discussion about the survival of a sky-god's name across cultures, containing no narrative events, deities' deeds, or creation motifs comparable to the target myth.",
+ "set": "related",
+ "pair": "Enki | Oannes",
+ "i": 481,
+ "target": "Enki",
+ "planted": "Oannes",
+ "cands": [
+  "Romulus and Remus",
+  "Yu the Great",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Huitzilopochtli",
+  "Oannes",
+  "Obatala",
+  "Amirani",
+  "Corn Mother",
+  "Triptolemus",
+  "Waaq"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

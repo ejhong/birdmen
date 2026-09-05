@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  9,
+  4,
+  8,
+  3,
+  2,
+  10,
+  1,
+  7,
+  6
+ ],
+ "most_similar_reason": "Candidate 5 shares the target's core profile of a wandering culture-founder who travels from place to place teaching a new order of life, literally walks upon water, performs miraculous survivals, and is expected to return in a time of trouble.",
+ "least_similar_reason": "Candidate 6 is merely a personified mountain tied to a salt flat, with no creator figure, no human-making, no flood, no teaching of civilization, and no departure or promised return.",
+ "set": "related",
+ "pair": "Viracocha | Tunupa",
+ "i": 444,
+ "target": "Viracocha",
+ "planted": "Tunupa",
+ "cands": [
+  "Orpheus",
+  "Bumba",
+  "Cangjie",
+  "Nanabozho",
+  "Great Peacemaker",
+  "Tunupa",
+  "Bran the Blessed",
+  "Gesar",
+  "Prometheus",
+  "Kokopelli"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 10
+}

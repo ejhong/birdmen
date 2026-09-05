@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  7,
+  5,
+  1,
+  4,
+  2,
+  3,
+  9,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 6 depicts Enki/Ea, the very deity intimately tied to the seven Apkallu sages in Mesopotamian tradition, sharing the same mythic complex: wisdom god ruling subterranean waters, creation of humans from clay, warning of the flood through indirect means (reed wall) while under oath of secrecy, and explicit mention of a group of sage-servants, closely mirroring the target's sage-flood-wisdom nexus.",
+ "least_similar_reason": "Candidate 10 is a Pacific island sibling-rivalry origin myth about canoe-building, adultery accusations, and the uneven distribution of foreign goods, sharing no meaningful overlap with the target's motifs of primeval sages, flood-era kings, tablets of destiny, or fish/bird hybrid wisdom-bringers.",
+ "set": "related",
+ "pair": "Oannes | Enki",
+ "i": 493,
+ "target": "Oannes",
+ "planted": "Enki",
+ "cands": [
+  "Dangun",
+  "Pachacamac",
+  "Palamedes (mythology)",
+  "Mama Ocllo",
+  "Yellow Emperor",
+  "Enki",
+  "Yu the Great",
+  "Kokopelli",
+  "Sosruko",
+  "Kilibob and Manup"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

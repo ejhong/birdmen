@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  6,
+  5,
+  4,
+  10,
+  3,
+  9,
+  8,
+  7,
+  1
+ ],
+ "most_similar_reason": "Candidate 2 shares the same Mesoamerican mythic complex as the target\u2014featured serpent/day-calendar deity, invention of the calendar and books, ties to a jaguar/night god, and cacao-giving\u2014paralleling the target's serpent kingdom, twenty day-name calendar, and jaguar deity of darkness.",
+ "least_similar_reason": "Candidate 1 is a linguistic/etymological essay about the survival of a divine name rather than a narrative of a heroic founder, migration, city-building, or calendar, sharing almost none of the specific plot motifs of the target.",
+ "set": "hancock",
+ "pair": "Votan | Quetzalcoatl",
+ "i": 148,
+ "target": "Votan",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Waaq",
+  "Quetzalcoatl",
+  "Romulus and Remus",
+  "Yu the Great",
+  "Cangjie",
+  "Apkallu",
+  "Tagaro",
+  "Nanabozho",
+  "R\u00edgs\u00feula",
+  "Palamedes (mythology)"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 1
+}

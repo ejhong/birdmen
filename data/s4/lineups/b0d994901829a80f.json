@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  1,
+  5,
+  4,
+  6,
+  9,
+  3,
+  8,
+  7,
+  10
+ ],
+ "most_similar_reason": "Candidate 2 shares nearly the entire target plot\u2014exile engineered by a queen so her son can rule, faithful wife won in a bride-contest, loyal younger brother, the demoness whose nose and ears are cut off, her ten-headed demon-king brother, the golden-deer ruse and disguised abduction, the alliance with monkey-people after helping their leader defeat a rival, the search by a monkey warrior to the island, and the climactic slaying of the demon and triumphant return.",
+ "least_similar_reason": "Candidate 10 is a brief character sketch of a small trickster who steals fire from a giant and is doted on by his mother, sharing none of the target's exile, abduction, animal-ally, or demon-slaying narrative.",
+ "set": "positive",
+ "pair": "Ramayana | Reamker",
+ "i": 281,
+ "target": "Ramayana",
+ "planted": "Reamker",
+ "cands": [
+  "Gesar",
+  "Reamker",
+  "Itzamna",
+  "Tangaroa",
+  "Dangun",
+  "Glooscap",
+  "Wisakedjak",
+  "Cangjie",
+  "Kutkh",
+  "Sosruko"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 1
+}

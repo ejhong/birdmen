@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  3,
+  1,
+  8,
+  9,
+  4,
+  5,
+  7,
+  6,
+  2
+ ],
+ "most_similar_reason": "Candidate 10 shares the target's core episode almost point for point: a divine warning of a world-destroying flood to one chosen man, the building of a great vessel loaded with living things, the flood destroying all flesh, the boat coming to rest on a mountain, the sending out of birds (including one that does not return) to test the waters, and a sacrifice afterward followed by a divine promise/blessing.",
+ "least_similar_reason": "Candidate 2 is merely a bare note that a creator figure with variant names is worshipped in a region, containing no flood, no boat, no hero's quest, and no narrative events at all to correspond with the target.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Genesis flood narrative",
+ "i": 224,
+ "target": "Gilgamesh flood myth",
+ "planted": "Genesis flood narrative",
+ "cands": [
+  "Prometheus",
+  "Makunaima",
+  "Yu the Great",
+  "Amirani",
+  "Rama",
+  "Palamedes (mythology)",
+  "Hiawatha",
+  "Glooscap",
+  "Mbombo",
+  "Genesis flood narrative"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

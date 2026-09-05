@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  10,
+  4,
+  9,
+  5,
+  3,
+  8,
+  7,
+  1,
+  2
+ ],
+ "most_similar_reason": "Candidate 6 shares the target's core: a royal-born figure who renounces palace life and rule for the ascetic/solitary life, founding a religious community around a wandering teacher's doctrine, which is precisely the legend cycle the target retells.",
+ "least_similar_reason": "Candidate 2 is not a narrative at all but a lexical-theological explanation of a term for the sacred, with no ruler, heir, conversion, prophecy, or renunciation.",
+ "set": "positive",
+ "pair": "Barlaam and Josaphat | Gautama Buddha",
+ "i": 335,
+ "target": "Barlaam and Josaphat",
+ "planted": "Gautama Buddha",
+ "cands": [
+  "Sky Woman",
+  "Wakan Tanka",
+  "Oduduwa",
+  "Ayar Manco",
+  "Cangjie",
+  "Gautama Buddha",
+  "Coyote (mythology)",
+  "Waaq",
+  "Apkallu",
+  "R\u00edgs\u00feula"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

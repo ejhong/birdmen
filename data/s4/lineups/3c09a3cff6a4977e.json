@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  7,
+  10,
+  5,
+  3,
+  8,
+  4,
+  6,
+  2,
+  1
+ ],
+ "most_similar_reason": "Candidate 9 matches the target's most distinctive cluster: a miraculous non-sexual conception (swallowing a substance, birth counted in nines), a divine culture hero who gives grain and agriculture to a starving mankind, discovers and teaches the preparation of a special beverage plant, and dies sacrificially to be worshipped thereafter.",
+ "least_similar_reason": "Candidate 1 is not a narrative at all but a linguistic-historical account of a sky god's name spreading and declining among peoples, with no birth stories, culture-hero deeds, or comparable episodes.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Bochica",
+ "i": 137,
+ "target": "Quetzalcoatl",
+ "planted": "Bochica",
+ "cands": [
+  "Waaq",
+  "Ilmarinen",
+  "Sky Woman",
+  "Kutkh",
+  "Bochica",
+  "Baiame",
+  "Nanabozho",
+  "Aeneas",
+  "Shennong",
+  "Triptolemus"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 4
+}

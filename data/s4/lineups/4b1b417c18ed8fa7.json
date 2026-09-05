@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  9,
+  3,
+  4,
+  10,
+  5,
+  7,
+  2,
+  8,
+  6
+ ],
+ "most_similar_reason": "Candidate 1 shares the exact core episode of a fish-avatar of a preserver god warning the first-man/seventh ruler of a coming flood, instructing him to build a boat loaded with sacred texts, family, and seven sages, and towing it to safety, plus the same framework of successive rulers of cosmic ages.",
+ "least_similar_reason": "Candidate 6 is a wholly unrelated tale of a giant king, a marriage alliance, a resurrection cauldron, and a talking severed head, with no flood, fish, creator god, or preservation of humanity.",
+ "set": "positive",
+ "pair": "Matsya | Manu (Hinduism)",
+ "i": 370,
+ "target": "Matsya",
+ "planted": "Manu (Hinduism)",
+ "cands": [
+  "Manu (Hinduism)",
+  "Bumba",
+  "Mbombo",
+  "Itzamna",
+  "Nyame",
+  "Bran the Blessed",
+  "Cangjie",
+  "Waaq",
+  "Pachacamac",
+  "Huitzilopochtli"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

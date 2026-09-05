@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  2,
+  10,
+  8,
+  1,
+  5,
+  3,
+  4,
+  6,
+  7
+ ],
+ "most_similar_reason": "Candidate 9 shares the target's motifs of fish-associated primeval deities, banishment into or hiding within cosmic waters, and a god being magically revived through incantations, closely echoing the apkallu's fish-form, watery exile, and the recurring theme of divine restoration.",
+ "least_similar_reason": "Candidate 7 is essentially a linguistic and etymological study of a divine name across cultures with no narrative of sages, floods, kings, or teaching civilization, making it the least similar in content to the target myth.",
+ "set": "hancock",
+ "pair": "Oannes | Osiris",
+ "i": 102,
+ "target": "Oannes",
+ "planted": "Osiris",
+ "cands": [
+  "Pachacamac",
+  "Yellow Emperor",
+  "R\u00edgs\u00feula",
+  "Heitsi-eibib",
+  "Osiris",
+  "Rama",
+  "Waaq",
+  "Bumba",
+  "Tangaroa",
+  "Wandjina"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 6
+}

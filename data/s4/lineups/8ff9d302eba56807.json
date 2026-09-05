@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  9,
+  8,
+  1,
+  7,
+  6,
+  4,
+  2,
+  3,
+  5
+ ],
+ "most_similar_reason": "Candidate 10 is the same myth complex from the other spouse's perspective: sibling-spouses born of earth and sky, the murderous brother who dismembers the king, the wife and her sister gathering the scattered pieces, magical revival just long enough to conceive the avenging son, and the dead king's rule in the underworld.",
+ "least_similar_reason": "Candidate 5 is a descriptive account of harvest customs with a straw figure and no divine characters, murder, resurrection, or avenging son, sharing nothing with the target's narrative.",
+ "set": "related",
+ "pair": "Isis | Osiris",
+ "i": 472,
+ "target": "Isis",
+ "planted": "Osiris",
+ "cands": [
+  "\u014ckuninushi",
+  "Agastya",
+  "R\u00edgs\u00feula",
+  "Qat (deity)",
+  "Corn Mother",
+  "Shennong",
+  "Nyame",
+  "Ogun",
+  "Ziusudra",
+  "Osiris"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  8,
+  6,
+  2,
+  5,
+  9,
+  3,
+  10,
+  7,
+  4
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's most distinctive cluster: a snake-bodied brother-sister pair who live together on a sacred mountain, seek an omen (fire/mist) to sanction their incestuous marriage, and then create humankind out of clay.",
+ "least_similar_reason": "Candidate 4 contains no narrative at all\ta bare mention of a deity being worshipped\tso it shares no episodes, roles, or motifs with the target.",
+ "set": "related",
+ "pair": "N\u00fcwa | Fuxi",
+ "i": 511,
+ "target": "N\u00fcwa",
+ "planted": "Fuxi",
+ "cands": [
+  "Fuxi",
+  "Glooscap",
+  "Adapa",
+  "Abassi",
+  "White Buffalo Calf Woman",
+  "Oduduwa",
+  "Great Peacemaker",
+  "Obatala",
+  "Apkallu",
+  "Romulus and Remus"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  10,
+  4,
+  9,
+  6,
+  3,
+  1,
+  5,
+  7,
+  2
+ ],
+ "most_similar_reason": "Candidate 8 mirrors the target almost point-for-point: a forewarned patriarch builds a vessel, survives a divine flood sent for human wickedness, gives thanks afterward, and repopulates the earth through a symbolic act, closely paralleling the ark, covenant, and post-flood repopulation themes of the target.",
+ "least_similar_reason": "Candidate 2 contains no narrative content at all beyond naming a worshipped spirit, sharing no discernible plot, motifs, or relationships with the target's flood, covenant, and patriarchal lineage story.",
+ "set": "positive",
+ "pair": "Noah | Deucalion",
+ "i": 398,
+ "target": "Noah",
+ "planted": "Deucalion",
+ "cands": [
+  "Nyame",
+  "Abassi",
+  "Mbombo",
+  "Wisakedjak",
+  "Bran the Blessed",
+  "Tangaroa",
+  "Cangjie",
+  "Deucalion",
+  "Kvasir",
+  "Berossus"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

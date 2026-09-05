@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  3,
+  4,
+  8,
+  10,
+  7,
+  9,
+  6,
+  1,
+  2
+ ],
+ "most_similar_reason": "Candidate 5 is essentially the same epic: a great god incarnates as a prince to destroy a demon king, wins his bride at a bow/archery contest, is exiled to the forest with his brother, spurns and mutilates a demoness, has his wife abducted by the demon king, allies with monkeys and a devoted monkey ally who finds her, and finally slays the demon king and returns home.",
+ "least_similar_reason": "Candidate 2 has no comparable narrative at all\ninstead describing rain-spirit beings, rock paintings, and repainting rituals, with none of the target's incarnation, abduction, monkey allies, or demon-king plot.",
+ "set": "positive",
+ "pair": "Ramakien | Ramayana",
+ "i": 315,
+ "target": "Ramakien",
+ "planted": "Ramayana",
+ "cands": [
+  "Apkallu",
+  "Wandjina",
+  "Aeneas",
+  "Cadmus",
+  "Ramayana",
+  "Hiawatha",
+  "Tezcatlipoca",
+  "Triptolemus",
+  "Tagaro",
+  "Orpheus"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 1
+}

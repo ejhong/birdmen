@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  3,
+  6,
+  8,
+  5,
+  9,
+  7,
+  10,
+  1,
+  4
+ ],
+ "most_similar_reason": "Candidate 2 (the Osiris myth) shares the closest cluster of specific motifs with the target: a sibling-spouse relationship, being sealed in a container and left for death, dismemberment/resurrection, teaching agriculture and grain cultivation, and becoming ruler of the underworld/afterlife, all paralleling the feathered serpent's sibling incest, enclosure in a stone chest, self-destruction, resurrection as a celestial body, and role in agriculture and the underworld.",
+ "least_similar_reason": "Candidate 4 contains almost no narrative content\u2014just a name and a vague statement of supreme deity status\u2014so it shares none of the distinctive birth stories, sibling incest, underworld journey, or agricultural/cacao motifs that define the target myth.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Osiris",
+ "i": 84,
+ "target": "Quetzalcoatl",
+ "planted": "Osiris",
+ "cands": [
+  "Mbombo",
+  "Osiris",
+  "Triptolemus",
+  "Bumba",
+  "Obatala",
+  "Heitsi-eibib",
+  "Amirani",
+  "R\u00edgs\u00feula",
+  "Romulus and Remus",
+  "V\u00e4in\u00e4m\u00f6inen"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  5,
+  6,
+  7,
+  1,
+  4,
+  2,
+  3,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 9 shares the most distinctive Mesoamerican motifs with the target\u2014a feathered-serpent culture hero linked to the calendar's day names, kingdom-founding, journeys to a distant/underworld realm, and cultural inventions like the calendar and books, closely paralleling the target's Votan-like figure with the twenty day-name calendar, serpent-named kingdom, and multiple trips to a homeland.",
+ "least_similar_reason": "Candidate 10 is a linguistic and etymological survey of a word for God rather than a narrative with characters, events, or motifs, sharing no concrete plot elements with the target's tale of a hero dividing lands and founding a serpent-named kingdom.",
+ "set": "hancock",
+ "pair": "Votan | Quetzalcoatl",
+ "i": 146,
+ "target": "Votan",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Romulus and Remus",
+  "Kvasir",
+  "Makunaima",
+  "Sky Woman",
+  "Dangun",
+  "Yu the Great",
+  "Gesar",
+  "Sang Hyang Tunggal",
+  "Quetzalcoatl",
+  "Waaq"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

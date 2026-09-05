@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  4,
+  2,
+  5,
+  3,
+  9,
+  10,
+  8,
+  1,
+  6
+ ],
+ "most_similar_reason": "Candidate 7 (the Osiris myth) shares the closest cluster of distinctive motifs with the target: a fertility/agriculture\u2011teaching god who is both sibling and spouse to a goddess, is betrayed by a brother, sealed in a container, dismembered with a missing genital part, magically revived/resurrected, and becomes lord of the dead\u2014paralleling the target's incestuous sibling relationship, self\u2011entombment/burning, resurrection as a star, and role as a bringer of agricultural knowledge.",
+ "least_similar_reason": "Candidate 6 contains no narrative content at all beyond naming a deity, so it shares none of the specific birth stories, divine kinship, underworld journey, or cultural gifts that define the target myth.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Osiris",
+ "i": 80,
+ "target": "Quetzalcoatl",
+ "planted": "Osiris",
+ "cands": [
+  "Kilibob and Manup",
+  "Ninigi-no-Mikoto",
+  "Ziusudra",
+  "Cadmus",
+  "Romulus and Remus",
+  "Abassi",
+  "Osiris",
+  "Hiawatha",
+  "Tagaro",
+  "White Buffalo Calf Woman"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

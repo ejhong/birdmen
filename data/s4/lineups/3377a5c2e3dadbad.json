@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  8,
+  5,
+  6,
+  10,
+  9,
+  2,
+  3,
+  7,
+  1
+ ],
+ "most_similar_reason": "Candidate 4 shares the most distinctive Mesoamerican-specific motifs with the target: a serpent-symbol founder-hero, calendar day-names, a jaguar-deity association, multiple journeys to a homeland, and dynastic city-founding, closely echoing the feathered serpent's calendar-inventing, culture-hero role.",
+ "least_similar_reason": "Candidate 1 is the least similar, offering only a bare creation-from-reeds myth with a forgetful, uninvolved creator god, lacking any of the target's distinctive birth variants, sibling-direction structure, underworld journey, self-sacrifice, or twin-star motifs.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Votan",
+ "i": 159,
+ "target": "Quetzalcoatl",
+ "planted": "Votan",
+ "cands": [
+  "Unkulunkulu",
+  "Agastya",
+  "Tagaro",
+  "Votan",
+  "Nanabozho",
+  "Ziusudra",
+  "Tangaroa",
+  "Pachacamac",
+  "Oduduwa",
+  "Prometheus"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

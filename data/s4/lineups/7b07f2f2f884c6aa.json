@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  5,
+  3,
+  2,
+  7,
+  9,
+  4,
+  10,
+  1,
+  8
+ ],
+ "most_similar_reason": "Candidate 6 shares the central plot almost point for point: a supreme god angered by human wickedness sends a great flood, a forewarned hero builds a wooden vessel and provisions it, he and his family survive while the rest of mankind perishes, the vessel comes to rest after the waters recede, thanks/offerings are made to the god, and the survivors repopulate the earth with descendants who become ancestors of peoples.",
+ "least_similar_reason": "Candidate 8 is a shapeshifting rabbit trickster who names animals, invents fishing and writing, and brawls with a giant lumberjack, sharing none of the target's flood, ark, stone-throwing repopulation, or dynastic founding motifs.",
+ "set": "positive",
+ "pair": "Deucalion | Noah",
+ "i": 384,
+ "target": "Deucalion",
+ "planted": "Noah",
+ "cands": [
+  "Heitsi-eibib",
+  "Unkulunkulu",
+  "Ninigi-no-Mikoto",
+  "Kutkh",
+  "Aeneas",
+  "Noah",
+  "Amirani",
+  "Nanabozho",
+  "Tagaro",
+  "Ilmarinen"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

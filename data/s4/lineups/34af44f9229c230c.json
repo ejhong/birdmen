@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  1,
+  3,
+  6,
+  10,
+  9,
+  2,
+  4,
+  5,
+  8
+ ],
+ "most_similar_reason": "Candidate 7 shares the same mythic world and figures as the target\u2014a wisdom god of the subterranean freshwaters whose servants include a group of sages, involved in flood lore, craft, and problem-solving among the gods\u2014matching the target's sages, their divine sender, and the pre/post-flood framework in specific detail.",
+ "least_similar_reason": "Candidate 8 is not a narrative at all but a descriptive account of a term for diffuse sacred power, with no sages, kings, flood, teaching of civilization, or any episodic correspondence to the target.",
+ "set": "related",
+ "pair": "Oannes | Enki",
+ "i": 495,
+ "target": "Oannes",
+ "planted": "Enki",
+ "cands": [
+  "Dangun",
+  "Maya Hero Twins",
+  "Shennong",
+  "Sky Woman",
+  "Mwari",
+  "Yellow Emperor",
+  "Enki",
+  "Wakan Tanka",
+  "Ogun",
+  "Glooscap"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

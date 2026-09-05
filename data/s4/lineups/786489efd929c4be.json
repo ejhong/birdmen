@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  9,
+  10,
+  3,
+  6,
+  5,
+  4,
+  2,
+  1,
+  8
+ ],
+ "most_similar_reason": "Candidate 7 shares the target's most distinctive elements almost exactly\u2014a creator deity associated with a great lake, a child of the sun deity paired with a female figure who carry a golden staff and found a civilization, plus a bearded civilizing wanderer who teaches, orders a city built, and travels with companions bearing his name.",
+ "least_similar_reason": "Candidate 8 is a genealogical myth about a sea deity, his separation of sky and earth, and fish/reptile ancestry with a fire-theft episode, sharing none of the target's founder-hero, sibling-marriage, staff, or city-founding motifs.",
+ "set": "related",
+ "pair": "Manco C\u00e1pac | Viracocha",
+ "i": 437,
+ "target": "Manco C\u00e1pac",
+ "planted": "Viracocha",
+ "cands": [
+  "Shennong",
+  "Nanabozho",
+  "Ziusudra",
+  "Mbombo",
+  "Itzamna",
+  "Hiawatha",
+  "Viracocha",
+  "Tagaro",
+  "\u014ckuninushi",
+  "Berossus"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  6,
+  3,
+  1,
+  9,
+  4,
+  7,
+  5,
+  2,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 (a Palamedes-like figure) shares the specific and unusual motif of a legendary founder-hero credited with inventing writing (letters and numbers) alongside other cultural innovations, and like the target has multiple conflicting accounts of his fate/identity, paralleling the target's multiple names and traditions to reconcile.",
+ "least_similar_reason": "Candidate 10 is not a narrative at all but an abstract discussion of a term for the sacred/divine, lacking any culture hero, inventions, rival deities, or historical verification, making it structurally and thematically the most distant from the target.",
+ "set": "random",
+ "pair": "Yellow Emperor | Ogun",
+ "i": 596,
+ "target": "Yellow Emperor",
+ "planted": "Ogun",
+ "cands": [
+  "Hiawatha",
+  "Orpheus",
+  "Great Peacemaker",
+  "Djanggawul",
+  "Kvasir",
+  "Ogun",
+  "Kutkh",
+  "Palamedes (mythology)",
+  "White Buffalo Calf Woman",
+  "Wakan Tanka"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 2
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  10,
+  8,
+  1,
+  6,
+  5,
+  3,
+  9,
+  2,
+  4
+ ],
+ "most_similar_reason": "Candidate 7 shares the core flood-myth structure with the target almost exactly: a secret divine warning delivered through a reed wall, the building of a waterproof boat to escape a flood decreed by the assembled gods, and the moral tension between destructive and protective deities.",
+ "least_similar_reason": "Candidate 4 is a static descriptive profile of a trickster fertility deity with no narrative sequence of events, sharing none of the flood, boat, journey, or immortality motifs central to the target.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Atra-Hasis",
+ "i": 257,
+ "target": "Gilgamesh flood myth",
+ "planted": "Atra-Hasis",
+ "cands": [
+  "Maya Hero Twins",
+  "Ilmarinen",
+  "Great Peacemaker",
+  "Kokopelli",
+  "White Buffalo Calf Woman",
+  "Ogun",
+  "Atra-Hasis",
+  "Huitzilopochtli",
+  "Corn Mother",
+  "Dangun"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

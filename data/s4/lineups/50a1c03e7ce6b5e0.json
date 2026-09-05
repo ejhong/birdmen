@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  9,
+  8,
+  6,
+  1,
+  2,
+  5,
+  7,
+  3,
+  10
+ ],
+ "most_similar_reason": "Candidate 4 recounts the same core Matsya-flood narrative found in the target: a fish-avatar of a creator/preserver god that grows, warns of a flood, is tied to a boat, tows it to safety, involves seven sages and sacred scriptures, and results in the survivor becoming ruler of the age\u2014matching the target's flood episode almost point for point.",
+ "least_similar_reason": "Candidate 10 contains no narrative content at all beyond naming a deity, so it shares none of the specific motifs, genealogies, or events that define the target story.",
+ "set": "positive",
+ "pair": "Manu (Hinduism) | Matsya",
+ "i": 361,
+ "target": "Manu (Hinduism)",
+ "planted": "Matsya",
+ "cands": [
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Ilmarinen",
+  "Sosruko",
+  "Matsya",
+  "Bachu\u00e9",
+  "Palamedes (mythology)",
+  "Anansi",
+  "Yellow Emperor",
+  "Ayar Manco",
+  "Abassi"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

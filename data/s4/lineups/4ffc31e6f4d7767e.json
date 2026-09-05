@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  10,
+  4,
+  9,
+  3,
+  2,
+  6,
+  7,
+  1,
+  5
+ ],
+ "most_similar_reason": "Candidate 8 shares the target's exact frame and contents\u2014a wise advisor instructing a ruler through nested animal fables, including the scheming jackal-like courtier at the lion king's court who destroys a friendship, the four cooperating friends (rodent, black bird, shelled reptile, and horned grazer), and the war between crows and birds of prey won by cunning counsel.",
+ "least_similar_reason": "Candidate 5 is not a narrative at all but an explanation of a term for sacred power, with no characters, teaching frame, animal fables, or sequence of events to compare with the target.",
+ "set": "positive",
+ "pair": "Panchatantra | Kalila wa-Dimna",
+ "i": 345,
+ "target": "Panchatantra",
+ "planted": "Kalila wa-Dimna",
+ "cands": [
+  "Unkulunkulu",
+  "Yu the Great",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Berossus",
+  "Wakan Tanka",
+  "Cadmus",
+  "Bran the Blessed",
+  "Kalila wa-Dimna",
+  "White Buffalo Calf Woman",
+  "Anansi"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

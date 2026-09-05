@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  3,
+  7,
+  10,
+  4,
+  6,
+  2,
+  5,
+  1,
+  9
+ ],
+ "most_similar_reason": "Candidate 8 is essentially a condensed retelling of the same epic narrative core: a sky-god hero incarnate, born to a king via sacrifice, wins a princess at an archery/bow contest, is exiled with a loyal brother, a demoness is mutilated, the wife is abducted by a demon king via a golden-deer trick, and the hero allies with monkey-people to wage war and rescue her\u2014matching almost every major beat of the target.",
+ "least_similar_reason": "Candidate 9 contains no narrative content at all beyond naming a regional deity, sharing no discernible motifs, characters, or events with the target's elaborate mythic cycle.",
+ "set": "positive",
+ "pair": "Ramakien | Ramayana",
+ "i": 313,
+ "target": "Ramakien",
+ "planted": "Ramayana",
+ "cands": [
+  "Makunaima",
+  "Hiawatha",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Mbombo",
+  "Wisakedjak",
+  "Cangjie",
+  "Triptolemus",
+  "Ramayana",
+  "Abassi",
+  "Obatala"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

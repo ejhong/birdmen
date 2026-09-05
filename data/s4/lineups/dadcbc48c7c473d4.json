@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  8,
+  5,
+  10,
+  6,
+  9,
+  1,
+  2,
+  3,
+  4
+ ],
+ "most_similar_reason": "Candidate 7 is essentially the Isis/Osiris myth itself, matching the target's core narrative almost point-for-point: sibling-spouse gods, a murderous brother, dismemberment and searching by two sister goddesses, magical revival for conception, a posthumous underworld king, and a son who avenges him and fights the usurper.",
+ "least_similar_reason": "Candidate 4 involves creation ancestors shaping a landscape and founding clans through journeys and ceremonies, with no death, dismemberment, sibling-spouse marriage, murder plot, or avenging son, making it thematically and structurally the most distant from the target.",
+ "set": "related",
+ "pair": "Osiris | Isis",
+ "i": 460,
+ "target": "Osiris",
+ "planted": "Isis",
+ "cands": [
+  "Tagaro",
+  "Kilibob and Manup",
+  "Baiame",
+  "Djanggawul",
+  "Sky Woman",
+  "Prometheus",
+  "Isis",
+  "Maya Hero Twins",
+  "Glooscap",
+  "Bran the Blessed"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

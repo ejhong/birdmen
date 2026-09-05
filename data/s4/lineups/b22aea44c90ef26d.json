@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  9,
+  1,
+  5,
+  10,
+  2,
+  4,
+  7,
+  8,
+  6
+ ],
+ "most_similar_reason": "Candidate 3 is closest because it is likewise a heroic biography of a royal prince who wins a divine bride through a feat, journeys far with a brother/kin after a family crisis, and must recover a woman abducted by a supernatural king, matching the target's quest-for-abducted-sister, bride-winning, and exile-and-founding sequence more than any other.",
+ "least_similar_reason": "Candidate 6 is least similar because it contains no narrative at all\ttmerely the bare identification of a spirit as a deity, with no hero, quest, founding, or transformation.",
+ "set": "random",
+ "pair": "Cadmus | Tagaro",
+ "i": 581,
+ "target": "Cadmus",
+ "planted": "Tagaro",
+ "cands": [
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Itzamna",
+  "Rama",
+  "Mwari",
+  "Kvasir",
+  "Abassi",
+  "Makunaima",
+  "Bumba",
+  "Bachu\u00e9",
+  "Tagaro"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 5
+}

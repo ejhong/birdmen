@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  4,
+  9,
+  10,
+  5,
+  1,
+  7,
+  2,
+  3,
+  8
+ ],
+ "most_similar_reason": "Candidate 6 shares the same distinctive cluster of motifs: a snake-bodied brother-sister pair living on a sacred mountain who take a sign (fire/mist merging) as divine approval to marry, humans made from clay, and the male partner as culture hero establishing marriage and civilization.",
+ "least_similar_reason": "Candidate 8 is a bare one-line statement that a deity with two names was a people's supreme god, containing no narrative events, characters, or motifs to compare with the target.",
+ "set": "related",
+ "pair": "N\u00fcwa | Fuxi",
+ "i": 514,
+ "target": "N\u00fcwa",
+ "planted": "Fuxi",
+ "cands": [
+  "Baiame",
+  "Corn Mother",
+  "Waaq",
+  "Ninigi-no-Mikoto",
+  "Kutkh",
+  "Fuxi",
+  "Nanabozho",
+  "Bumba",
+  "Amirani",
+  "Gesar"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  5,
+  7,
+  2,
+  10,
+  3,
+  8,
+  9,
+  4,
+  1
+ ],
+ "most_similar_reason": "Candidate 6 shares the closest specific narrative structure with the target: a divinely commanded flood, a giant boat built to preserve family and animals, the boat resting on a mountain, birds sent out to test the waters, a post-flood sacrifice accepted by the gods, and blessings/immortality granted to the survivor.",
+ "least_similar_reason": "Candidate 1 involves a small trickster hero stealing fire from a giant with his mother's help, sharing no flood, ark, covenant, or family-curse elements with the target and thus bears only the most generic mythic resemblance.",
+ "set": "positive",
+ "pair": "Noah | Utnapishtim",
+ "i": 271,
+ "target": "Noah",
+ "planted": "Utnapishtim",
+ "cands": [
+  "Sosruko",
+  "\u014ckuninushi",
+  "Hiawatha",
+  "Tagaro",
+  "Yu the Great",
+  "Utnapishtim",
+  "Triptolemus",
+  "Baiame",
+  "Djanggawul",
+  "Romulus and Remus"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

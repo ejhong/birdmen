@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  10,
+  7,
+  9,
+  6,
+  3,
+  1,
+  8,
+  4,
+  2
+ ],
+ "most_similar_reason": "Candidate 5 features a bearded creator/culture hero who rises from primeval waters, teaches humanity the arts of civilization, orders the building of a great city, and is linked to a flood that destroys an earlier race before he disappears across the sea\u2014closely paralleling the Apkallu/Oannes motif of civilizing sages emerging from water, founding cities, and being tied to the flood narrative.",
+ "least_similar_reason": "Candidate 2 is a heroic biography centered on miraculous birth, hostile uncles, a horse race for a bride, and personal conquests, sharing no meaningful overlap with the target's themes of divine sages teaching civilization, founding cities, tablets of destiny, or the flood-linked fish/bird hybrid figures.",
+ "set": "hancock",
+ "pair": "Oannes | Viracocha",
+ "i": 33,
+ "target": "Oannes",
+ "planted": "Viracocha",
+ "cands": [
+  "Mwari",
+  "Gesar",
+  "Coyote (mythology)",
+  "Aeneas",
+  "Viracocha",
+  "Tagaro",
+  "Baiame",
+  "Djanggawul",
+  "Ninigi-no-Mikoto",
+  "Triptolemus"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

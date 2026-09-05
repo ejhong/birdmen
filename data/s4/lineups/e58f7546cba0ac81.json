@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  3,
+  7,
+  1,
+  9,
+  2,
+  5,
+  4,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 6 shares the core motif of a wise, semi-divine culture hero who creates humanity, imparts civilization's arts, and mediates between gods and men, closely echoing the apkallu's role as civilizing sages.",
+ "least_similar_reason": "Candidate 10 provides no narrative content at all, only naming a deity without any of the sage, flood, or civilizing motifs central to the target myth.",
+ "set": "hancock",
+ "pair": "Oannes | Quetzalcoatl",
+ "i": 76,
+ "target": "Oannes",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Quetzalcoatl",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Kvasir",
+  "Amirani",
+  "Mbombo",
+  "Prometheus",
+  "Palamedes (mythology)",
+  "Djanggawul",
+  "Pachacamac",
+  "Abassi"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 4
+}

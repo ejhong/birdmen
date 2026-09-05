@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  2,
+  5,
+  4,
+  9,
+  7,
+  3,
+  6,
+  1,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 most closely mirrors the target's overall shape\u2014a line of long-lived kings/patriarchs culminating in a flood survivor, paralleling the target's genealogy-to-flood structure even down to the ten-king count echoing the ten Genesis patriarchs.",
+ "least_similar_reason": "Candidate 10, the mead-of-poetry myth about a wise being created from spittle and killed for his blood, shares no flood, ark, covenant, family, or genealogical motifs with the target and is thematically unrelated.",
+ "set": "positive",
+ "pair": "Noah | Deucalion",
+ "i": 395,
+ "target": "Noah",
+ "planted": "Deucalion",
+ "cands": [
+  "Nyame",
+  "Deucalion",
+  "Yellow Emperor",
+  "Wisakedjak",
+  "Apkallu",
+  "Ogun",
+  "Rama",
+  "Berossus",
+  "Pachacamac",
+  "Kvasir"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 2
+}

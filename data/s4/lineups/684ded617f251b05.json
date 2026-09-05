@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  10,
+  8,
+  3,
+  1,
+  7,
+  9,
+  5,
+  2,
+  6
+ ],
+ "most_similar_reason": "Candidate 4 clearly parallels the target's core mythic complex (Pangu/N\u00fcwa-Fuxi tradition): a creator figure whose death forms the world, sibling deities living on a sacred mountain who marry after a divine sign (mist vs. fire), the molding of humans from clay, and sky-mending/creation motifs drawn from the same cultural tradition.",
+ "least_similar_reason": "Candidate 6 depicts a humpbacked flute-playing fertility trickster associated with childbirth, agriculture, and animals in a desert culture, sharing only the loosest generic theme of a deity overseeing fertility and nature with no specific correspondences to the target's cosmogony, sibling marriage, or cultural inventions.",
+ "set": "related",
+ "pair": "Fuxi | N\u00fcwa",
+ "i": 508,
+ "target": "Fuxi",
+ "planted": "N\u00fcwa",
+ "cands": [
+  "Mama Ocllo",
+  "White Buffalo Calf Woman",
+  "Itzamna",
+  "N\u00fcwa",
+  "Aeneas",
+  "Kokopelli",
+  "Agastya",
+  "Baiame",
+  "Ziusudra",
+  "Glooscap"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

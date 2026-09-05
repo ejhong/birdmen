@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  4,
+  3,
+  6,
+  10,
+  1,
+  2,
+  5,
+  7,
+  9
+ ],
+ "most_similar_reason": "Candidate 8 shares the closest structural parallels to the target's creation myth\u2014a creator god molds humans from clay and breathes life into them, his first attempt is flawed (deformed/drunk creation, echoing the flawed giant race), and he is also linked to founding and later reclaiming a great city, mirroring the target's themes of imperfect first creation, breath-given life, and city-building.",
+ "least_similar_reason": "Candidate 9 contains no narrative content at all beyond naming a deity worshipped by a people, sharing none of the target's specific motifs of creation, flood, wandering teacher, or disappearance across the sea.",
+ "set": "hancock",
+ "pair": "Viracocha | Osiris",
+ "i": 47,
+ "target": "Viracocha",
+ "planted": "Osiris",
+ "cands": [
+  "Palamedes (mythology)",
+  "Kokopelli",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Osiris",
+  "Sang Hyang Tunggal",
+  "Bran the Blessed",
+  "Bumba",
+  "Obatala",
+  "Abassi",
+  "Aeneas"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 2
+}

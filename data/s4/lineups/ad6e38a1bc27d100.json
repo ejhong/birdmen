@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  9,
+  4,
+  8,
+  3,
+  10,
+  7,
+  1,
+  6,
+  2
+ ],
+ "most_similar_reason": "Candidate 5 shares the most distinctive and unusual motifs with the target: a bearded/human-like culture-hero who walks upon a great lake, teaches and unites peoples, founds a civil order (council/confederacy), and is prophesied to return in a time of trouble, paralleling the target's water-walking creator who teaches civilization and is expected to return.",
+ "least_similar_reason": "Candidate 2 is a bare, almost contentless statement about a deity with two names and gives no narrative details\u2014creation acts, floods, teaching, or water-walking\u2014that correspond to any of the target's specific and unusual episodes.",
+ "set": "related",
+ "pair": "Viracocha | Tunupa",
+ "i": 444,
+ "target": "Viracocha",
+ "planted": "Tunupa",
+ "cands": [
+  "Orpheus",
+  "Bumba",
+  "Cangjie",
+  "Nanabozho",
+  "Great Peacemaker",
+  "Tunupa",
+  "Bran the Blessed",
+  "Gesar",
+  "Prometheus",
+  "Kokopelli"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 9
+}

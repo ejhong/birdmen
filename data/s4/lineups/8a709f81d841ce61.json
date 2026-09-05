@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  4,
+  6,
+  3,
+  9,
+  8,
+  1,
+  5,
+  7,
+  2
+ ],
+ "most_similar_reason": "Candidate 10 shares the core motif of primeval, water-associated divine beings (fish-like sages) sent to bring wisdom and civilization to humanity, closely paralleling the target's Nommo-like beings who require water, teach humans, and are entrusted with cosmic tablets/destiny.",
+ "least_similar_reason": "Candidate 2 is not a narrative myth at all but a linguistic and etymological study of a word for God, sharing no events, figures, or motifs with the target's creation and dismemberment story.",
+ "set": "hancock",
+ "pair": "Nommo | Oannes",
+ "i": 180,
+ "target": "Nommo",
+ "planted": "Oannes",
+ "cands": [
+  "Great Peacemaker",
+  "Waaq",
+  "Romulus and Remus",
+  "Bachu\u00e9",
+  "Kokopelli",
+  "Triptolemus",
+  "Sosruko",
+  "Rama",
+  "Aeneas",
+  "Oannes"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

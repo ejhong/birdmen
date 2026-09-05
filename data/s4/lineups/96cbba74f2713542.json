@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  10,
+  9,
+  2,
+  7,
+  1,
+  5,
+  8,
+  3,
+  6
+ ],
+ "most_similar_reason": "Candidate 4 shares the target's core plot almost point for point: a supreme god destroys wicked mankind with a flood, the forewarned righteous hero builds and provisions a vessel, he and his family survive, give thanks/offerings after the waters recede, and then repopulate the earth, with his offspring becoming ancestors of whole peoples.",
+ "least_similar_reason": "Candidate 6 is a static description of a humpbacked flute-playing fertility trickster's attributes and associations, with no flood, no survival vessel, no repopulation episode, and essentially no narrative sequence in common with the target.",
+ "set": "positive",
+ "pair": "Deucalion | Noah",
+ "i": 387,
+ "target": "Deucalion",
+ "planted": "Noah",
+ "cands": [
+  "Coyote (mythology)",
+  "Bachu\u00e9",
+  "Cangjie",
+  "Noah",
+  "Rama",
+  "Kokopelli",
+  "T\u0101ne",
+  "Heitsi-eibib",
+  "Oduduwa",
+  "Obatala"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

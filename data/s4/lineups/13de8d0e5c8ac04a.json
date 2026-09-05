@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  3,
+  6,
+  5,
+  1,
+  9,
+  8,
+  7,
+  10,
+  4
+ ],
+ "most_similar_reason": "Candidate 2 shares nearly every distinctive episode with the target: exile demanded by a stepmother/queen mother to enthrone her own son, the wife won by an archery/bow contest, the loyal younger brother's exile, the forest demoness mutilated by nose/ear cutting, her demon-king brother's golden-deer ruse and abduction of the wife, the alliance with monkey-people restoring their king against a rival, the devoted simian emissary who locates her on the demon's stronghold, and the final defeat of the demon king.",
+ "least_similar_reason": "Candidate 4 is not a narrative at all but a philological discussion of a divine name's spread and decline, sharing no characters, episodes, or motifs with the target's abduction-and-rescue tale.",
+ "set": "positive",
+ "pair": "Reamker | Ramayana",
+ "i": 295,
+ "target": "Reamker",
+ "planted": "Ramayana",
+ "cands": [
+  "Apkallu",
+  "Ramayana",
+  "Cadmus",
+  "Waaq",
+  "Unkulunkulu",
+  "Triptolemus",
+  "Itzamna",
+  "Sky Woman",
+  "Ziusudra",
+  "Nyame"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 1
+}

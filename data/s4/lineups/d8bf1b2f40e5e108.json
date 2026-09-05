@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  2,
+  3,
+  9,
+  7,
+  5,
+  6,
+  8,
+  10,
+  1
+ ],
+ "most_similar_reason": "Candidate 4 is a direct retelling of the same epic cycle\u2014an incarnate hero, his wife who is revealed to be a demon king's daughter, exile to the forest, abduction of the wife by a multi-headed demon king, alliance with monkey-people, and a climactic war ending in the wife's rescue and return to the capital\u2014matching nearly every major beat of the target story.",
+ "least_similar_reason": "Candidate 1 concerns a horned culture-hero who invents agriculture, medicine, and writing and dies from self-testing poisonous plants, sharing no meaningful structural or motif overlap with the target's cosmic battle, incarnations, monkey allies, or abduction narrative.",
+ "set": "positive",
+ "pair": "Ramakien | Ramayana",
+ "i": 311,
+ "target": "Ramakien",
+ "planted": "Ramayana",
+ "cands": [
+  "Shennong",
+  "Amirani",
+  "Itzamna",
+  "Ramayana",
+  "Kvasir",
+  "White Buffalo Calf Woman",
+  "Apkallu",
+  "Oduduwa",
+  "Nyame",
+  "Wayland the Smith"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

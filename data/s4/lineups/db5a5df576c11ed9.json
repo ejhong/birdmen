@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  6,
+  5,
+  9,
+  3,
+  1,
+  8,
+  7,
+  2,
+  10
+ ],
+ "most_similar_reason": "Candidate 4 recounts the life of the traveling teacher (Buddha) whose community and doctrine are the very object of persecution and conversion described in the target, sharing the core figure of a renunciant founder-teacher who leads others to enlightenment through ascetic withdrawal.",
+ "least_similar_reason": "Candidate 10 is an island-origin trickster tale about two feuding brothers and the creation of geographic features, sharing no elements of religious conversion, royal isolation, or renunciation of rule found in the target.",
+ "set": "positive",
+ "pair": "Barlaam and Josaphat | Gautama Buddha",
+ "i": 336,
+ "target": "Barlaam and Josaphat",
+ "planted": "Gautama Buddha",
+ "cands": [
+  "Unkulunkulu",
+  "Wayland the Smith",
+  "Pachacamac",
+  "Gautama Buddha",
+  "Ziusudra",
+  "Obatala",
+  "R\u00edgs\u00feula",
+  "Baiame",
+  "Maya Hero Twins",
+  "Kilibob and Manup"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

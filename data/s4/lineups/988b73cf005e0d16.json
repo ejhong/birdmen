@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  10,
+  2,
+  5,
+  3,
+  4,
+  9,
+  7,
+  6,
+  1
+ ],
+ "most_similar_reason": "Candidate 8 shares the target's most distinctive cluster of traits: a serpent-associated culture hero of the same kind of calendrical world, credited with the calendar and writing, bringing a crop and a plant to a people, tied to a day-sign/deity roles including a dark night-sorcery god, and ending with his ritual burning.",
+ "least_similar_reason": "Candidate 1 is not a narrative at all but a description of an abstract, non-acting symbol of ineffable divinity, sharing none of the target's migrations, founding of kingdoms, division of lands, culture-bringing, or ritual objects.",
+ "set": "hancock",
+ "pair": "Votan | Quetzalcoatl",
+ "i": 142,
+ "target": "Votan",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Sang Hyang Tunggal",
+  "Oduduwa",
+  "Triptolemus",
+  "Kilibob and Manup",
+  "Apkallu",
+  "Wisakedjak",
+  "Unkulunkulu",
+  "Quetzalcoatl",
+  "White Buffalo Calf Woman",
+  "Yellow Emperor"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

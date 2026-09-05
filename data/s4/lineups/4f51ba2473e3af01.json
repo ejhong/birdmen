@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  6,
+  4,
+  7,
+  8,
+  3,
+  1,
+  10,
+  9,
+  2
+ ],
+ "most_similar_reason": "Candidate 5 matches the target most closely as a divine culture hero with a miraculous birth and multiple conflicting variant accounts of his career and death, who fashions the first human beings and animates them, has a trickster counterpart whose meddling brings death, establishes cosmic features like night and dawn, and ends by falling/departing in a transformative death.",
+ "least_similar_reason": "Candidate 2 is least similar because it is not a narrative at all but an abstract discussion of a term for an impersonal sacred power, with no birth stories, culture-hero deeds, creation of humanity, or any episodic events to compare.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Oannes",
+ "i": 61,
+ "target": "Quetzalcoatl",
+ "planted": "Oannes",
+ "cands": [
+  "Kvasir",
+  "Wakan Tanka",
+  "Agastya",
+  "Bachu\u00e9",
+  "Qat (deity)",
+  "Ayar Manco",
+  "Oannes",
+  "Kokopelli",
+  "Bhagiratha",
+  "Ilmarinen"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 4
+}

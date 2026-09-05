@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  10,
+  5,
+  3,
+  8,
+  4,
+  1,
+  2,
+  7,
+  9
+ ],
+ "most_similar_reason": "Candidate 6, like the target, centers on a divine progenitor sent to create the earth over the waters who then founds a holy city, orders its political institutions, and becomes the ancestor from whom later peoples and lineages descend, matching the target's creator-founder-civilizer pattern.",
+ "least_similar_reason": "Candidate 9 contains no narrative at all\u2014only the bare identification of a deity\u2014so it shares none of the target's episodes, roles, or motifs.",
+ "set": "related",
+ "pair": "Viracocha | Tunupa",
+ "i": 449,
+ "target": "Viracocha",
+ "planted": "Tunupa",
+ "cands": [
+  "Amirani",
+  "Sosruko",
+  "Romulus and Remus",
+  "Palamedes (mythology)",
+  "Yu the Great",
+  "Oduduwa",
+  "Tunupa",
+  "Tagaro",
+  "Abassi",
+  "Djanggawul"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 9
+}

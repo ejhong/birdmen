@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  4,
+  9,
+  8,
+  2,
+  10,
+  1,
+  5,
+  3,
+  6
+ ],
+ "most_similar_reason": "Candidate 7 depicts Ea/Enki, the Mesopotamian god of wisdom and subterranean waters who created mankind, commanded sages, and warned of the flood by speaking to a reed wall\u2014directly paralleling the target's Apkallu myth, its sage-servants, flood warning, and creation of humans from clay.",
+ "least_similar_reason": "Candidate 6 describes an abstract, formless theological symbol of ultimate divine reality with no sages, flood, kings, or civilizing acts, sharing only the vague generic notion of a transcendent divine principle with the target myth.",
+ "set": "related",
+ "pair": "Oannes | Enki",
+ "i": 492,
+ "target": "Oannes",
+ "planted": "Enki",
+ "cands": [
+  "Wisakedjak",
+  "Bhagiratha",
+  "Sosruko",
+  "Yellow Emperor",
+  "Gesar",
+  "Sang Hyang Tunggal",
+  "Enki",
+  "Itzamna",
+  "Baiame",
+  "Glooscap"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

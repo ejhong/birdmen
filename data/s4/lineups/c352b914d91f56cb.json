@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  6,
+  4,
+  1,
+  2,
+  7,
+  8,
+  3,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 5 reproduces the target's most distinctive embedded episode almost exactly\u2014a child of the sun deity emerging with siblings/sister-wife, carrying a golden staff, founding a city and civilization, with the great lake and cave/temple details.",
+ "least_similar_reason": "Candidate 10 contains no narrative at all\u2014only the bare identification of a deity\u2014so it shares no episodes, roles, or motifs with the target's creation, flood, and civilizing-teacher story.",
+ "set": "related",
+ "pair": "Viracocha | Manco C\u00e1pac",
+ "i": 420,
+ "target": "Viracocha",
+ "planted": "Manco C\u00e1pac",
+ "cands": [
+  "Kutkh",
+  "Huitzilopochtli",
+  "Amirani",
+  "Obatala",
+  "Manco C\u00e1pac",
+  "Mbombo",
+  "Ilmarinen",
+  "Adapa",
+  "Kokopelli",
+  "Abassi"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 1
+}

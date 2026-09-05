@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  8,
+  5,
+  1,
+  4,
+  6,
+  2,
+  3,
+  7,
+  10
+ ],
+ "most_similar_reason": "Candidate 9 mirrors the target almost exactly, featuring a nested cycle of animal fables\u2014jackal courtiers at a lion's court, a mouse-crow-turtle-deer friendship, a crow-owl war through treachery, and other moralizing tales about trust, loyalty, and hasty judgment.",
+ "least_similar_reason": "Candidate 10 is a Norse-style myth about the creation of a wise being from spit and his death to create a poetic mead, sharing only the abstract theme of wisdom but none of the animal-fable structure, characters, or teaching purpose of the target.",
+ "set": "positive",
+ "pair": "Panchatantra | Kalila wa-Dimna",
+ "i": 343,
+ "target": "Panchatantra",
+ "planted": "Kalila wa-Dimna",
+ "cands": [
+  "Great Peacemaker",
+  "T\u0101ne",
+  "Tangaroa",
+  "Prometheus",
+  "Nanabozho",
+  "Glooscap",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Apkallu",
+  "Kalila wa-Dimna",
+  "Kvasir"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

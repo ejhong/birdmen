@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  3,
+  5,
+  7,
+  9,
+  2,
+  6,
+  8,
+  4,
+  1
+ ],
+ "most_similar_reason": "Candidate 10 shares the closest cluster of distinctive motifs with the target\u2014a bearded creator deity who destroys an earlier flawed race by flood, remakes humankind from stone/earth, teaches civilization while wandering in disguise, and finally disappears walking across the sea, paralleling the target's destroyed prior races, creation of new mankind, teaching of writing/calendar, and eventual self-immolation/ascension.",
+ "least_similar_reason": "Candidate 1 revolves around an abstract cosmic struggle between a creator and a personified Death mediated by drums and animal totems (vulture, spider), sharing only the loosest generic 'creator god' framework with no correspondence to the target's specific birth myths, cardinal-direction siblings, incestuous scandal, or cacao/chocolate episode.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Viracocha",
+ "i": 18,
+ "target": "Quetzalcoatl",
+ "planted": "Viracocha",
+ "cands": [
+  "Nyame",
+  "Ziusudra",
+  "Yellow Emperor",
+  "Mwari",
+  "Tangaroa",
+  "Kokopelli",
+  "Romulus and Remus",
+  "Wandjina",
+  "Dangun",
+  "Viracocha"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

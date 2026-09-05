@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  2,
+  5,
+  4,
+  10,
+  3,
+  7,
+  8,
+  9,
+  1
+ ],
+ "most_similar_reason": "Candidate 6 is essentially the same narrative: a great god born as a prince to destroy a demon king, winning a princess by a bow/archery feat, exile to the forest with a loyal brother, the mutilated demoness, the wife's abduction by the demon king, alliance with monkey-people and installing the exiled monkey prince, the devoted monkey ally who finds the captive wife, and the final victory and return.",
+ "least_similar_reason": "Candidate 1 is only a bare note that a creator god of several names is worshipped in a river region, with no characters, episodes, or events that correspond to the target's hero, demon king, abduction, or animal allies.",
+ "set": "positive",
+ "pair": "Ramakien | Ramayana",
+ "i": 318,
+ "target": "Ramakien",
+ "planted": "Ramayana",
+ "cands": [
+  "Makunaima",
+  "Amirani",
+  "Baiame",
+  "Tezcatlipoca",
+  "Palamedes (mythology)",
+  "Ramayana",
+  "Ogun",
+  "Shennong",
+  "Unkulunkulu",
+  "Wayland the Smith"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

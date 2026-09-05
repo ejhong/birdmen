@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  8,
+  6,
+  2,
+  3,
+  9,
+  5,
+  10,
+  1,
+  7
+ ],
+ "most_similar_reason": "Candidate 4 shares the target's most distinctive details almost exactly \u2014 a founding figure who is the child of a sun deity, carries a golden staff, emerges/rises in connection with a great lake, and establishes a civilization with a companion after a period of darkness \u2014 plus the same civilizing-teacher role.",
+ "least_similar_reason": "Candidate 7 is a revenge tale of a crippled smith who kills a king's sons, seduces his daughter and escapes by flight, sharing no founding-hero, sibling-migration, sacred-staff, or city-origin elements with the target.",
+ "set": "related",
+ "pair": "Manco C\u00e1pac | Viracocha",
+ "i": 430,
+ "target": "Manco C\u00e1pac",
+ "planted": "Viracocha",
+ "cands": [
+  "Prometheus",
+  "Apkallu",
+  "Triptolemus",
+  "Viracocha",
+  "Sky Woman",
+  "Romulus and Remus",
+  "Wayland the Smith",
+  "Huitzilopochtli",
+  "Itzamna",
+  "Heitsi-eibib"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

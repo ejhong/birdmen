@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  7,
+  2,
+  10,
+  5,
+  3,
+  9,
+  4,
+  1,
+  6
+ ],
+ "most_similar_reason": "Candidate 8 shares the core plot exactly: a divinely warned man builds a vessel to survive a god-sent flood punishing human wickedness, lands on a mountain, gives thanks/sacrifice, and then repopulates the earth as ancestor of peoples.",
+ "least_similar_reason": "Candidate 6 has no flood, no divine command or covenant, and no ancestral repopulation\u2014only a smith's captivity and grisly revenge, sharing nothing distinctive with the target.",
+ "set": "positive",
+ "pair": "Noah | Deucalion",
+ "i": 394,
+ "target": "Noah",
+ "planted": "Deucalion",
+ "cands": [
+  "Anansi",
+  "Dangun",
+  "White Buffalo Calf Woman",
+  "Nanabozho",
+  "Huitzilopochtli",
+  "Wayland the Smith",
+  "Kilibob and Manup",
+  "Deucalion",
+  "Kutkh",
+  "Qat (deity)"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

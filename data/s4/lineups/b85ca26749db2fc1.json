@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  1,
+  2,
+  9,
+  7,
+  6,
+  3,
+  5,
+  10,
+  8
+ ],
+ "most_similar_reason": "Candidate 4 matches the target's core sequence almost point for point: a deity destroys wicked mankind with a flood, one favored hero is forewarned and builds a vessel, he and his family survive, give thanks/offerings after landing, and the earth is repopulated through his descendants.",
+ "least_similar_reason": "Candidate 8 is a single bare statement that a deity had two names and was supreme, containing no flood, no hero, no repopulation, and no narrative events at all to compare.",
+ "set": "positive",
+ "pair": "Deucalion | Noah",
+ "i": 389,
+ "target": "Deucalion",
+ "planted": "Noah",
+ "cands": [
+  "Berossus",
+  "Pachacamac",
+  "Kutkh",
+  "Noah",
+  "Nanabozho",
+  "Rama",
+  "Qat (deity)",
+  "Bumba",
+  "Tezcatlipoca",
+  "Great Peacemaker"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

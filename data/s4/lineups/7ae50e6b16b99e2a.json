@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  10,
+  5,
+  1,
+  6,
+  7,
+  8,
+  2,
+  3,
+  4
+ ],
+ "most_similar_reason": "Candidate 9, like the target, centers on a civilizing hero who descends/appears among people, travels from town to town giving wisdom and founding a religion, is remembered in confused and varying accounts, and is linked to a sacred city with a sun temple and commemorative rites.",
+ "least_similar_reason": "Candidate 4 shares nothing with the target's creation-and-civilizing pattern, being instead a revenge tale of a crippled captive smith who murders a king's sons, seduces his daughter, and escapes by flight.",
+ "set": "hancock",
+ "pair": "Viracocha | Bochica",
+ "i": 200,
+ "target": "Viracocha",
+ "planted": "Bochica",
+ "cands": [
+  "Yellow Emperor",
+  "Heitsi-eibib",
+  "Amirani",
+  "Wayland the Smith",
+  "Tezcatlipoca",
+  "Hiawatha",
+  "Oduduwa",
+  "Agastya",
+  "Bochica",
+  "Kutkh"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  4,
+  8,
+  7,
+  3,
+  1,
+  5,
+  2,
+  6,
+  10
+ ],
+ "most_similar_reason": "Candidate 9 shares the most distinctive motifs with the target: a hero carrying a golden staff given by a creator/sun-god father, siblings (sons and daughters of divine parents), founding a city divided into quarters, and variant tellings involving a sun-god son and flood-like origin, closely paralleling the target's golden-staff, flood-survivor, and city-founding episodes.",
+ "least_similar_reason": "Candidate 10 concerns a small trickster who steals fire from a giant and is doted on by his mother, sharing no meaningful overlap with the target's creator-deity flood, city-building, and civilizing teacher narrative.",
+ "set": "related",
+ "pair": "Viracocha | Manco C\u00e1pac",
+ "i": 425,
+ "target": "Viracocha",
+ "planted": "Manco C\u00e1pac",
+ "cands": [
+  "Cadmus",
+  "Kokopelli",
+  "Sky Woman",
+  "R\u00edgs\u00feula",
+  "Yellow Emperor",
+  "Bumba",
+  "Baiame",
+  "Adapa",
+  "Manco C\u00e1pac",
+  "Sosruko"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

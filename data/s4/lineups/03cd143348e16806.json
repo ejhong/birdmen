@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  3,
+  7,
+  9,
+  10,
+  5,
+  2,
+  6,
+  4,
+  8
+ ],
+ "most_similar_reason": "Candidate 1 is set in the same kind of great coalition war against a foreign city that occupies the target's middle section, with allied kings bound by oaths over an abducted queen, a royal hero fighting beside a chief warrior who is wounded, rivalry among leaders, and a detailed account of the hero's fate.",
+ "least_similar_reason": "Candidate 8 is a bare notice that a differently-named creator god is worshipped in a river basin, containing no characters, actions, or episodes that could correspond to the target's hero's divine birth, exile, wanderings, war, and deification.",
+ "set": "random",
+ "pair": "Aeneas | Palamedes (mythology)",
+ "i": 600,
+ "target": "Aeneas",
+ "planted": "Palamedes (mythology)",
+ "cands": [
+  "Palamedes (mythology)",
+  "Nanabozho",
+  "Ayar Manco",
+  "Kokopelli",
+  "Sky Woman",
+  "Wisakedjak",
+  "Dangun",
+  "Makunaima",
+  "Wayland the Smith",
+  "Great Peacemaker"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

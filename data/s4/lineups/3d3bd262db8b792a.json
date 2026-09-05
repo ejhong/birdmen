@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  3,
+  7,
+  2,
+  5,
+  4,
+  6,
+  1,
+  9,
+  8
+ ],
+ "most_similar_reason": "Candidate 10 is essentially the same narrative: a high god incarnating as a prince to destroy a demon king, the archery/bow contest winning the princess, the forest exile with a loyal brother, the mutilated demoness, the abduction of the wife, the alliance with monkeys and the devoted monkey ally who locates her, and the final defeat of the demon king.",
+ "least_similar_reason": "Candidate 8 contains no narrative at all\ba bare mention that a spirit is recognized as a deity\bso it shares no episodes, roles, or motifs with the target.",
+ "set": "positive",
+ "pair": "Ramakien | Ramayana",
+ "i": 319,
+ "target": "Ramakien",
+ "planted": "Ramayana",
+ "cands": [
+  "Ziusudra",
+  "Huitzilopochtli",
+  "Qat (deity)",
+  "Pachacamac",
+  "Dangun",
+  "Mama Ocllo",
+  "Tezcatlipoca",
+  "Abassi",
+  "White Buffalo Calf Woman",
+  "Ramayana"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

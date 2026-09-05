@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  1,
+  2,
+  5,
+  6,
+  4,
+  3,
+  8,
+  10,
+  9
+ ],
+ "most_similar_reason": "Candidate 7 tells the identical episode-for-episode story from the wife's perspective: sibling-consort spouses born of earth and sky deities, the jealous brother murdering and dismembering the king, the goddess and her sister gathering the scattered pieces, the magical revival and posthumous conception, and the son's eventual vengeance and the dead king's rule in the underworld.",
+ "least_similar_reason": "Candidate 9 shares nothing beyond being a myth\u2014a bird-named trickster who causes a world flood and helps remake the world, with no fratricide, dismemberment, resurrection, avenging son, agriculture-teaching, or rule over the dead.",
+ "set": "related",
+ "pair": "Osiris | Isis",
+ "i": 461,
+ "target": "Osiris",
+ "planted": "Isis",
+ "cands": [
+  "Maya Hero Twins",
+  "\u014ckuninushi",
+  "Djanggawul",
+  "Oduduwa",
+  "Obatala",
+  "Cadmus",
+  "Isis",
+  "Ziusudra",
+  "Wisakedjak",
+  "Sosruko"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  8,
+  6,
+  1,
+  2,
+  10,
+  5,
+  4,
+  9,
+  7
+ ],
+ "most_similar_reason": "Candidate 3 is essentially the same narrative: a hero exiled by a queen-stepmother wanting her own son crowned, a wife won by a bridal contest, the loyal younger brother, the demoness whose nose and ears are cut off, the golden-deer ruse and the abduction by the ten-headed island demon, the alliance with monkey-people and their usurped king, and the final battle and triumphant return.",
+ "least_similar_reason": "Candidate 7 contains no narrative at all\ns\nno hero, no events, no relationships\ns\nonly the bare identification of a deity, so it shares nothing with the target's elaborate plot.",
+ "set": "positive",
+ "pair": "Ramayana | Reamker",
+ "i": 287,
+ "target": "Ramayana",
+ "planted": "Reamker",
+ "cands": [
+  "Tangaroa",
+  "Nanabozho",
+  "Reamker",
+  "Kvasir",
+  "Apkallu",
+  "Wayland the Smith",
+  "Abassi",
+  "Huitzilopochtli",
+  "Sosruko",
+  "Hiawatha"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

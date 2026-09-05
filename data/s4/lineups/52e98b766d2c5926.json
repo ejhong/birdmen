@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  1,
+  10,
+  4,
+  7,
+  8,
+  6,
+  5,
+  2,
+  3
+ ],
+ "most_similar_reason": "Candidate 9 shares the target's core climax\u2014a hero punished by a sky god for defiance, bound to a mountain, tormented by a creature (eagle vs. winged dog) that reverses his suffering, later rescued by a strongman\u2014paralleling the chaining, guardian animal, and eventual (partial) release motif most closely among all candidates.",
+ "least_similar_reason": "Candidate 3 is a linguistic and etymological discussion about the word for 'God' across related peoples, containing no narrative events, characters, or mythic episodes comparable to the target's hero story.",
+ "set": "random",
+ "pair": "Amirani | Pachacamac",
+ "i": 592,
+ "target": "Amirani",
+ "planted": "Pachacamac",
+ "cands": [
+  "Ogun",
+  "Yellow Emperor",
+  "Waaq",
+  "Triptolemus",
+  "Kokopelli",
+  "Mbombo",
+  "Sky Woman",
+  "Cangjie",
+  "Prometheus",
+  "Pachacamac"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 3
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  2,
+  4,
+  3,
+  7,
+  8,
+  9,
+  1,
+  5,
+  10
+ ],
+ "most_similar_reason": "Candidate 6 shares the core Ramayana-like plot structure: a prince incarnation of a god, exile with wife and brother, bow-breaking contest, demoness seduction attempt, golden deer trick, abduction of wife by a demon king, alliance with monkeys, and final battle and reunion, matching the target's central hero narrative extremely closely.",
+ "least_similar_reason": "Candidate 10 is a self-contained Germanic smith-revenge tale with no sky god, demon king, monkey allies, or exiled princess narrative, sharing only generic motifs like trickery and revenge.",
+ "set": "positive",
+ "pair": "Ramakien | Ramayana",
+ "i": 318,
+ "target": "Ramakien",
+ "planted": "Ramayana",
+ "cands": [
+  "Makunaima",
+  "Amirani",
+  "Baiame",
+  "Tezcatlipoca",
+  "Palamedes (mythology)",
+  "Ramayana",
+  "Ogun",
+  "Shennong",
+  "Unkulunkulu",
+  "Wayland the Smith"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  3,
+  10,
+  9,
+  1,
+  4,
+  5,
+  2,
+  6,
+  8
+ ],
+ "most_similar_reason": "Candidate 7 shares the most distinctive structural fingerprints with the target: a Mesoamerican-style deity/founder with multiple mutually conflicting birth accounts (divine father, sun/moon parentage, sorceress mother), a quadripartite civic/cosmic division echoing the four-directional gods, and\u2014most strikingly\u2014a sibling marriage paralleling the target's shame-inducing incest with his sister.",
+ "least_similar_reason": "Candidate 8 is a purely abstract theological/linguistic discussion of a 'Great Spirit' concept with no narrative events, births, siblings, underworld journeys, sacrifices, or cultural gifts, sharing nothing of the target's specific mythic episodes.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Oannes",
+ "i": 60,
+ "target": "Quetzalcoatl",
+ "planted": "Oannes",
+ "cands": [
+  "Glooscap",
+  "Kokopelli",
+  "Bachu\u00e9",
+  "Palamedes (mythology)",
+  "Kutkh",
+  "Corn Mother",
+  "Ayar Manco",
+  "Wakan Tanka",
+  "Oannes",
+  "Shennong"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 4
+}

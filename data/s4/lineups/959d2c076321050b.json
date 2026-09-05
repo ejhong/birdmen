@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  9,
+  7,
+  1,
+  2,
+  4,
+  5,
+  10,
+  3,
+  8
+ ],
+ "most_similar_reason": "Candidate 6 shares the target's core content of a royal heir who encounters a renunciant religious teaching, abandons worldly rule and household life for asceticism, and the founding/spread of a monastic community by a wandering teacher.",
+ "least_similar_reason": "Candidate 8 is not a narrative at all but a description of an abstract symbolic figure and its iconography, with no ruler, heir, conversion, or renunciation sequence.",
+ "set": "positive",
+ "pair": "Barlaam and Josaphat | Gautama Buddha",
+ "i": 337,
+ "target": "Barlaam and Josaphat",
+ "planted": "Gautama Buddha",
+ "cands": [
+  "Palamedes (mythology)",
+  "Adapa",
+  "Corn Mother",
+  "Ziusudra",
+  "Qat (deity)",
+  "Gautama Buddha",
+  "Orpheus",
+  "Sang Hyang Tunggal",
+  "Aeneas",
+  "Glooscap"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

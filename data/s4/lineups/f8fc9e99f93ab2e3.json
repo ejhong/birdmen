@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  2,
+  9,
+  5,
+  1,
+  7,
+  6,
+  4,
+  10,
+  3
+ ],
+ "most_similar_reason": "Candidate 8 shares the target's core profile of a civilizing deity who invents writing/books and the calendar, is tied to a celestial body, is embedded in a family of four sibling gods born in a creation cycle, journeys to the underworld, and uses magic to restore/create life.",
+ "least_similar_reason": "Candidate 3 is least similar because it contains no narrative at all\u2014only the bare identification of a deity\u2014so there are no roles, events, inventions, or motifs to correspond with the target.",
+ "set": "hancock",
+ "pair": "Thoth | Quetzalcoatl",
+ "i": 164,
+ "target": "Thoth",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Heitsi-eibib",
+  "Palamedes (mythology)",
+  "Abassi",
+  "Mwari",
+  "Hiawatha",
+  "Wandjina",
+  "Amirani",
+  "Quetzalcoatl",
+  "Orpheus",
+  "Waaq"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  7,
+  4,
+  5,
+  2,
+  1,
+  9,
+  6,
+  10,
+  3
+ ],
+ "most_similar_reason": "Candidate 8 is closest because, like the target, it is a brief account of a single local supernatural figure whose varying names and attributes differ by community and whose stories function chiefly to explain how particular landscape features and natural things came to be.",
+ "least_similar_reason": "Candidate 3 is least similar because it is a long dynastic-heroic romance about bow-stringing contests, exile, abduction and animal allies, with no personified landform, no etiology of a natural feature, and no burial or ruined-settlement motifs.",
+ "set": "related",
+ "pair": "Tunupa | Viracocha",
+ "i": 455,
+ "target": "Tunupa",
+ "planted": "Viracocha",
+ "cands": [
+  "Bumba",
+  "Coyote (mythology)",
+  "Rama",
+  "Glooscap",
+  "Yellow Emperor",
+  "Great Peacemaker",
+  "Kutkh",
+  "Wisakedjak",
+  "Viracocha",
+  "\u014ckuninushi"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 7
+}

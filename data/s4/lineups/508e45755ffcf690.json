@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  4,
+  10,
+  1,
+  2,
+  6,
+  8,
+  5,
+  3,
+  7
+ ],
+ "most_similar_reason": "Candidate 9 shares the closest structural match: a divinely forewarned patriarch builds a vessel to survive a flood sent to punish human wickedness, gives thanks afterward, and becomes ancestor of peoples who repopulate and spread across the earth.",
+ "least_similar_reason": "Candidate 7 describes an abstract, unknowable supreme deity worshipped through mediums and oracles with no flood, ark, hero, or family lineage, sharing only the generic idea of a god.",
+ "set": "positive",
+ "pair": "Noah | Deucalion",
+ "i": 390,
+ "target": "Noah",
+ "planted": "Deucalion",
+ "cands": [
+  "Kvasir",
+  "Glooscap",
+  "Gesar",
+  "Adapa",
+  "Heitsi-eibib",
+  "Mbombo",
+  "Mwari",
+  "T\u0101ne",
+  "Deucalion",
+  "Wisakedjak"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

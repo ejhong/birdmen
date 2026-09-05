@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  10,
+  7,
+  3,
+  5,
+  1,
+  8,
+  4,
+  6,
+  2
+ ],
+ "most_similar_reason": "Candidate 9 shares the exact same mythic complex as the target: a wisdom god's fish-sage servants who bring crafts and civilization to humanity, pre-flood kings, a great flood, banishment into primeval waters, and craftsmen/temple lore, matching the target hero's retinue of sages and his role as bringer of wisdom to mankind.",
+ "least_similar_reason": "Candidate 2 is a warrior-king's biography of miraculous birth, horse race, marriage, and conquests, with no creation of humanity, no clay-fashioning, no flood warning, and no craft/wisdom-god role.",
+ "set": "related",
+ "pair": "Enki | Oannes",
+ "i": 489,
+ "target": "Enki",
+ "planted": "Oannes",
+ "cands": [
+  "Huitzilopochtli",
+  "Gesar",
+  "Ilmarinen",
+  "Yellow Emperor",
+  "\u014ckuninushi",
+  "Wandjina",
+  "Kvasir",
+  "Oduduwa",
+  "Oannes",
+  "T\u0101ne"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

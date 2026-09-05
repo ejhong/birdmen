@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  3,
+  5,
+  2,
+  8,
+  9,
+  6,
+  7,
+  10,
+  1
+ ],
+ "most_similar_reason": "Candidate 4 shares the target's most distinctive core: a superhuman figure who rises out of the water to teach humankind the arts of civilization and the story of creation, is bound up with a great flood, is associated with founding cities, and finally departs into the deep/heaven never to return, with several variant retellings.",
+ "least_similar_reason": "Candidate 1 is a description of a harvest ritual making a straw doll for a crop spirit, with no creator figure, no creation of humans, no flood, and no culture-hero teaching or departure.",
+ "set": "related",
+ "pair": "Viracocha | Tunupa",
+ "i": 445,
+ "target": "Viracocha",
+ "planted": "Tunupa",
+ "cands": [
+  "Corn Mother",
+  "Tezcatlipoca",
+  "Prometheus",
+  "Apkallu",
+  "Coyote (mythology)",
+  "Cadmus",
+  "Amirani",
+  "Yu the Great",
+  "Tangaroa",
+  "Tunupa"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 9
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  8,
+  6,
+  9,
+  10,
+  4,
+  7,
+  3,
+  2,
+  1
+ ],
+ "most_similar_reason": "Candidate 5 is clearly the same narrative tradition: a wise advisor teaches princes through nested animal fables including a lion king with a jackal minister who breaks trust, the four-animal friendship group (crow, mouse, turtle, deer), and a crow-owl war decided by counsel, matching the target's frame story and specific fable motifs almost exactly.",
+ "least_similar_reason": "Candidate 1 is an abstract discussion of a spiritual concept of sacredness with no narrative frame, characters, animals, or plot events, making it the least similar to the target's animal-fable storytelling structure.",
+ "set": "positive",
+ "pair": "Kalila wa-Dimna | Panchatantra",
+ "i": 358,
+ "target": "Kalila wa-Dimna",
+ "planted": "Panchatantra",
+ "cands": [
+  "Wakan Tanka",
+  "Mwari",
+  "Pachacamac",
+  "Apkallu",
+  "Panchatantra",
+  "Tangaroa",
+  "Aeneas",
+  "Kilibob and Manup",
+  "R\u00edgs\u00feula",
+  "Wisakedjak"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

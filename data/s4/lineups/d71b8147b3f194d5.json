@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  6,
+  3,
+  1,
+  9,
+  4,
+  8,
+  7,
+  5,
+  2
+ ],
+ "most_similar_reason": "Candidate 10 is essentially the same figure: an early antediluvian prophet descended from the first man, noted for piety and asceticism, credited as the first to write and to study the stars, who preached to an unheeding people, and who was taken up alive into the heavens (dying there rather than on earth) \u2014 matching the target's ascension, scribal role, and preaching motifs almost point for point.",
+ "least_similar_reason": "Candidate 2 concerns a shapeshifting rabbit trickster who names animals and brawls with a giant lumberjack, sharing none of the target's ascension, scribal, or antediluvian-patriarch motifs beyond a generic culture-teaching role.",
+ "set": "related",
+ "pair": "Enoch (ancestor of Noah) | Idris (prophet)",
+ "i": 553,
+ "target": "Enoch (ancestor of Noah)",
+ "planted": "Idris (prophet)",
+ "cands": [
+  "Agastya",
+  "Nanabozho",
+  "Bhagiratha",
+  "Romulus and Remus",
+  "Kokopelli",
+  "Hiawatha",
+  "Baiame",
+  "Sosruko",
+  "Mbombo",
+  "Idris (prophet)"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

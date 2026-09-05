@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  3,
+  10,
+  7,
+  6,
+  5,
+  4,
+  8,
+  1,
+  9
+ ],
+ "most_similar_reason": "Candidate 2 shares the closest cluster of distinctive motifs with the target: a culture-bringing deity tied to a celestial body who invents books/writing and the calendar, is entangled with a sibling/creator-couple set of four directional deities, journeys to the underworld, and features birth-and-rebirth episodes with a heart transformed at death, paralleling the target's calendar-winning scribe-moon-god, the four siblings born of sky and earth, and the underworld heart-weighing.",
+ "least_similar_reason": "Candidate 9 is least similar because it contains no narrative at all\ru2014only the bare identification of a spirit as a deity\ru2014so it shares none of the target's roles, episodes, or motifs.",
+ "set": "hancock",
+ "pair": "Thoth | Quetzalcoatl",
+ "i": 166,
+ "target": "Thoth",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Bumba",
+  "Quetzalcoatl",
+  "Hiawatha",
+  "Ziusudra",
+  "Yu the Great",
+  "Aeneas",
+  "Bhagiratha",
+  "Unkulunkulu",
+  "Abassi",
+  "Ayar Manco"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 1
+}

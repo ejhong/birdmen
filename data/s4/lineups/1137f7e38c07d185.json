@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  3,
+  8,
+  2,
+  4,
+  1,
+  7,
+  6,
+  10,
+  9
+ ],
+ "most_similar_reason": "Candidate 5 shares the target's most distinctive episode\u2014a trickster culture-hero who defies a great god by taking a forbidden route and forcibly wresting fire from him for humanity, embedded like the target in a cosmogony of divine generations and lasting divine grudges.",
+ "least_similar_reason": "Candidate 9 concerns a historical-style peacemaker founding a political confederacy through diplomacy and prophecy, with no creation of humans, no fire theft, no sacrificial trick, and no bound-and-tortured benefactor.",
+ "set": "random",
+ "pair": "Prometheus | Wayland the Smith",
+ "i": 561,
+ "target": "Prometheus",
+ "planted": "Wayland the Smith",
+ "cands": [
+  "Cangjie",
+  "Huitzilopochtli",
+  "Mbombo",
+  "Wayland the Smith",
+  "Tagaro",
+  "Baiame",
+  "Nyame",
+  "Dangun",
+  "Great Peacemaker",
+  "Heitsi-eibib"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 5
+}

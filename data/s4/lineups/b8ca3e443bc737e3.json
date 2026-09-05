@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  3,
+  9,
+  10,
+  5,
+  2,
+  7,
+  4,
+  8,
+  1
+ ],
+ "most_similar_reason": "Candidate 6 matches the target almost point for point: a wise counselor instructing royalty through a nested cycle of animal fables, including the scheming jackal at the lion king's court who destroys a friendship, the four weak friends (crow, mouse, turtle, deer) who save each other, and the war between crows and owls decided by heeded or ignored counsel.",
+ "least_similar_reason": "Candidate 1 is a static doctrinal description of a supreme creator deity approached through spirit mediums, with no narrative sequence, no animals, no counselor-king frame, and no episodes of friendship or betrayal.",
+ "set": "positive",
+ "pair": "Kalila wa-Dimna | Panchatantra",
+ "i": 354,
+ "target": "Kalila wa-Dimna",
+ "planted": "Panchatantra",
+ "cands": [
+  "Mwari",
+  "Tangaroa",
+  "Yu the Great",
+  "Ziusudra",
+  "T\u0101ne",
+  "Panchatantra",
+  "Pachacamac",
+  "Bachu\u00e9",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Orpheus"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

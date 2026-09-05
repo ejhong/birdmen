@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  5,
+  6,
+  3,
+  4,
+  10,
+  7,
+  9,
+  8,
+  1
+ ],
+ "most_similar_reason": "Candidate 2 matches almost exactly: a bare identification of a spirit/deity recognized as a god by a group of peoples in a particular region, with no narrative action, mirroring the target's stub-like description of a creator god venerated across a region.",
+ "least_similar_reason": "Candidate 1 shares nothing with the target: it is a detailed heroic-war biography of a mortal prince with sieges, feigned madness, betrayal, and multiple death versions, rather than a named creator deity revered by regional peoples.",
+ "set": "random",
+ "pair": "Makunaima | Wakan Tanka",
+ "i": 605,
+ "target": "Makunaima",
+ "planted": "Wakan Tanka",
+ "cands": [
+  "Palamedes (mythology)",
+  "Abassi",
+  "Yellow Emperor",
+  "Mbombo",
+  "Wakan Tanka",
+  "Unkulunkulu",
+  "Sosruko",
+  "Bran the Blessed",
+  "Orpheus",
+  "Prometheus"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 2
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  10,
+  6,
+  1,
+  8,
+  4,
+  7,
+  2,
+  5,
+  9
+ ],
+ "most_similar_reason": "Candidate 3 features an explicit trickster companion capable of turning into a spider who, out of envy, imitates the hero's creation of humans from wood and inadvertently introduces death by burying his figures\u2014paralleling the target's trickster who secretly destroys rival human models to ensure only his own creation lives, plus shared motifs of shaping first humans and a spider-associated trickster.",
+ "least_similar_reason": "Candidate 9 is an extremely brief, generic statement that a creator god is recognized among river-basin peoples, containing no actual narrative events, characters, or motifs to compare with the richly detailed trickster episodes in the target.",
+ "set": "random",
+ "pair": "Coyote (mythology) | Sang Hyang Tunggal",
+ "i": 599,
+ "target": "Coyote (mythology)",
+ "planted": "Sang Hyang Tunggal",
+ "cands": [
+  "Dangun",
+  "Romulus and Remus",
+  "Qat (deity)",
+  "Cadmus",
+  "Sang Hyang Tunggal",
+  "Ayar Manco",
+  "Bhagiratha",
+  "Agastya",
+  "Makunaima",
+  "Wandjina"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 9
+}

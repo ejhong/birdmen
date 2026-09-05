@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  5,
+  8,
+  10,
+  2,
+  1,
+  4,
+  3,
+  7,
+  9
+ ],
+ "most_similar_reason": "Candidate 6 shares the core flood-hero structure with a deity destroying wicked mankind, a forewarned patriarch building a vessel, survival, post-flood sacrifice/thanks to the deity, and repopulation of the earth through his descendants, closely mirroring the target's flood-and-repopulation myth.",
+ "least_similar_reason": "Candidate 9 is a folklore harvest custom about a straw effigy housing a grain spirit, sharing no narrative structure, characters, or motifs with the target's flood and repopulation myth.",
+ "set": "positive",
+ "pair": "Deucalion | Noah",
+ "i": 381,
+ "target": "Deucalion",
+ "planted": "Noah",
+ "cands": [
+  "Gesar",
+  "R\u00edgs\u00feula",
+  "Sang Hyang Tunggal",
+  "Yellow Emperor",
+  "Ayar Manco",
+  "Noah",
+  "Abassi",
+  "Glooscap",
+  "Corn Mother",
+  "Bran the Blessed"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

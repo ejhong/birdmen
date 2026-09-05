@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  3,
+  8,
+  10,
+  4,
+  6,
+  1,
+  2,
+  5,
+  7
+ ],
+ "most_similar_reason": "Candidate 9 shares the target's core pattern of a divine agriculture-bringer who travels from land to land teaching kings and peoples to sow grain (aided by a great goddess who searches for a lost loved one), suffers murderous attacks from a jealous ruler, and ends as a ruler/judge of the underworld and object of mystery cult.",
+ "least_similar_reason": "Candidate 7 is not a narrative at all but a linguistic-historical account of a divine name's distribution and decline, containing none of the target's characters, murder-and-dismemberment plot, or culture-hero teaching episodes.",
+ "set": "hancock",
+ "pair": "Osiris | Oannes",
+ "i": 117,
+ "target": "Osiris",
+ "planted": "Oannes",
+ "cands": [
+  "Oannes",
+  "Kutkh",
+  "Sky Woman",
+  "Dangun",
+  "Anansi",
+  "Cadmus",
+  "Waaq",
+  "T\u0101ne",
+  "Triptolemus",
+  "Tezcatlipoca"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 7
+}

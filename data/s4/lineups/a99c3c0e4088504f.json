@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  5,
+  4,
+  9,
+  1,
+  3,
+  10,
+  6,
+  7,
+  8
+ ],
+ "most_similar_reason": "Candidate 2 is essentially a variant of the same epic: a god incarnates as a hero, wins a princess at an archery/bow contest, is exiled to the forest with his brother, spurns a demoness, has his wife abducted by a multi-headed demon king of an island realm, allies with monkey heroes who find her, kills the demon king, and returns home with the recovered wife.",
+ "least_similar_reason": "Candidate 8 shares nothing with the target beyond a supernatural female figure: it is a short ritual-origin account of a holy woman who kills a lustful man and teaches ceremonies and a sacred pipe, with no hero, exile, abduction, or war against a demon king.",
+ "set": "positive",
+ "pair": "Ramayana | Ramakien",
+ "i": 309,
+ "target": "Ramayana",
+ "planted": "Ramakien",
+ "cands": [
+  "Yellow Emperor",
+  "Ramakien",
+  "Ogun",
+  "Huitzilopochtli",
+  "Maya Hero Twins",
+  "Apkallu",
+  "Ziusudra",
+  "White Buffalo Calf Woman",
+  "Prometheus",
+  "Mama Ocllo"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 1
+}

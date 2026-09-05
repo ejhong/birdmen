@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  5,
+  3,
+  1,
+  8,
+  9,
+  6,
+  7,
+  4,
+  10
+ ],
+ "most_similar_reason": "Candidate 2 is a flood story with the same distinctive sequence: a god resolves to destroy corrupt humanity, warns one man to build a great vessel, the flood covers the mountains, the boat grounds on a mountain range, birds (including one that does not return) are released to test the waters, and the survivor then offers a sacrifice and receives a divine blessing/covenant.",
+ "least_similar_reason": "Candidate 10 concerns the invention of writing by a four-eyed court scribe inspired by animal tracks, sharing no flood, boat, deluge-survivor, immortality, or quest elements with the target.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Genesis flood narrative",
+ "i": 226,
+ "target": "Gilgamesh flood myth",
+ "planted": "Genesis flood narrative",
+ "cands": [
+  "Shennong",
+  "Genesis flood narrative",
+  "Obatala",
+  "Yellow Emperor",
+  "Kilibob and Manup",
+  "Anansi",
+  "Itzamna",
+  "Tagaro",
+  "Kvasir",
+  "Cangjie"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 1
+}

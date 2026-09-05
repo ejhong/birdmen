@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  10,
+  5,
+  2,
+  6,
+  3,
+  4,
+  9,
+  8,
+  1
+ ],
+ "most_similar_reason": "Candidate 7 is unmistakably a Panchatantra-style nested frame narrative with the same core motifs: a lion king's court with two canine ministers (one loyal, one ambitious), a war caused by treachery, a group of four weak animals (rodent, bird, tortoise, horned animal) who cooperate to escape danger, and a war between birds of prey and crows decided by espionage\u2014paralleling the target's five books almost episode for episode.",
+ "least_similar_reason": "Candidate 1 offers only a bare statement that a deity is worshipped by a people, with no narrative events, characters, or teachings, sharing nothing of the target's specific structure of nested animal fables about governance.",
+ "set": "positive",
+ "pair": "Panchatantra | Kalila wa-Dimna",
+ "i": 347,
+ "target": "Panchatantra",
+ "planted": "Kalila wa-Dimna",
+ "cands": [
+  "Abassi",
+  "Heitsi-eibib",
+  "Obatala",
+  "Yellow Emperor",
+  "Palamedes (mythology)",
+  "Maya Hero Twins",
+  "Kalila wa-Dimna",
+  "Wakan Tanka",
+  "Mama Ocllo",
+  "Anansi"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  7,
+  9,
+  3,
+  2,
+  1,
+  5,
+  6,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 4 shares the closest mythic context with the target\u2014Mesopotamian sages (apkallu) tied to a wisdom god, flood survival, and primeval subterranean waters\u2014mirroring the target's servant-sages, flood warning, and wisdom-deity motifs almost directly.",
+ "least_similar_reason": "Candidate 10 is a culturally distinct prophet/peacemaker narrative about cannibalism, grief, and uniting tribes through condolence rituals, sharing no meaningful overlap with the target's themes of creation from clay, subterranean waters, or divine trickery among gods.",
+ "set": "related",
+ "pair": "Enki | Oannes",
+ "i": 482,
+ "target": "Enki",
+ "planted": "Oannes",
+ "cands": [
+  "Mbombo",
+  "Bachu\u00e9",
+  "Sky Woman",
+  "Oannes",
+  "R\u00edgs\u00feula",
+  "Kokopelli",
+  "Agastya",
+  "Mwari",
+  "Ilmarinen",
+  "Hiawatha"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

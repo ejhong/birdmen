@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  9,
+  10,
+  5,
+  6,
+  4,
+  1,
+  3,
+  8,
+  2
+ ],
+ "most_similar_reason": "Candidate 7 (the Osiris-type myth) shares the deepest specific correspondences with the target: a deity born of a divine couple, murdered/betrayed by a jealous brother, dismembered with the genitals lost, magically reassembled and revived, associated with teaching agriculture/grain and calendar-like cultural gifts, and ultimately becoming ruler of the underworld/dead, closely mirroring Quetzalcoatl's mythic pattern of creation, teaching, dismemberment-like sacrifice, and rulership of death and rebirth.",
+ "least_similar_reason": "Candidate 2 provides almost no narrative content beyond a name and supreme status, sharing none of the distinctive birth, sacrifice, or cultural-invention motifs that define the target myth.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Osiris",
+ "i": 88,
+ "target": "Quetzalcoatl",
+ "planted": "Osiris",
+ "cands": [
+  "Bachu\u00e9",
+  "Bumba",
+  "Anansi",
+  "Orpheus",
+  "Adapa",
+  "Amirani",
+  "Osiris",
+  "Ogun",
+  "Prometheus",
+  "Ninigi-no-Mikoto"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

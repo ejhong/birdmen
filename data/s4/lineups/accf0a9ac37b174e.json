@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  10,
+  8,
+  7,
+  1,
+  2,
+  9,
+  3,
+  4,
+  6
+ ],
+ "most_similar_reason": "Candidate 5 shares the closest thematic cluster with the target\u2014a nature/fertility deity who governs animal reproduction (fish, reptiles), obtains the moon and stars for the sky, fathers offspring with non-human beings, and is linked to agriculture (nets/hooks) and creation of humans, paralleling Kokopelli's domains of fertility, animals, moon imagery, and agriculture.",
+ "least_similar_reason": "Candidate 6 is a purely heroic war-epic figure involved in dice invention, feigned madness, and battlefield deaths, sharing no meaningful overlap with the target's fertility, trickster, music, or lunar motifs.",
+ "set": "random",
+ "pair": "Kokopelli | Romulus and Remus",
+ "i": 583,
+ "target": "Kokopelli",
+ "planted": "Romulus and Remus",
+ "cands": [
+  "Nyame",
+  "R\u00edgs\u00feula",
+  "Cadmus",
+  "Romulus and Remus",
+  "T\u0101ne",
+  "Palamedes (mythology)",
+  "Sosruko",
+  "Djanggawul",
+  "Adapa",
+  "Baiame"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 9
+}

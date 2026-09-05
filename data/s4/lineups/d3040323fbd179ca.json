@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  9,
+  10,
+  8,
+  6,
+  7,
+  3,
+  5,
+  4,
+  1
+ ],
+ "most_similar_reason": "Candidate 2 features a singular culture-hero figure who, like the first of the seven sages, brings the foundational art of civilization (writing) to humanity, teaches it to officials, and is honored with monuments\u2014closely paralleling the sage who taught civilization and had cities/temples founded in his honor.",
+ "least_similar_reason": "Candidate 1 describes a fertility/trickster deity tied to agriculture, childbirth, and animal fertility with no connection to primeval sages, flood-era kings, tablets of destiny, or civilizing knowledge, making it the least thematically or structurally similar to the target myth.",
+ "set": "hancock",
+ "pair": "Oannes | Osiris",
+ "i": 105,
+ "target": "Oannes",
+ "planted": "Osiris",
+ "cands": [
+  "Kokopelli",
+  "Cangjie",
+  "Bachu\u00e9",
+  "Sosruko",
+  "Unkulunkulu",
+  "Osiris",
+  "Bhagiratha",
+  "Ilmarinen",
+  "T\u0101ne",
+  "Tagaro"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 5
+}

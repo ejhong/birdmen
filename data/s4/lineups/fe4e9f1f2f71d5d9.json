@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  4,
+  3,
+  2,
+  9,
+  1,
+  10,
+  5,
+  6,
+  7
+ ],
+ "most_similar_reason": "Candidate 8 is essentially a direct retelling of the same epic\u2014exile by a scheming queen mother, a wife won through a feat of arms, a loyal brother who mutilates a seductive demoness, her ten-headed demon brother abducting the wife via a golden-deer ruse, alliance with monkey-like beings, a bridge-building rescue mission, and a climactic battle to reclaim the wife\u2014matching nearly every distinctive motif of the target.",
+ "least_similar_reason": "Candidate 7 concerns an unrelated trickster rabbit-spirit who names plants, founds a religious society, and wrestles a giant lumberjack over logging rights, sharing no meaningful plot, character, or motif overlap with the target's royal exile and demon-abduction epic.",
+ "set": "positive",
+ "pair": "Ramayana | Reamker",
+ "i": 285,
+ "target": "Ramayana",
+ "planted": "Reamker",
+ "cands": [
+  "Apkallu",
+  "Orpheus",
+  "Obatala",
+  "\u014ckuninushi",
+  "Sosruko",
+  "Wisakedjak",
+  "Nanabozho",
+  "Reamker",
+  "Baiame",
+  "Nyame"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

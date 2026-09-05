@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  8,
+  5,
+  6,
+  4,
+  7,
+  2,
+  10,
+  9,
+  3
+ ],
+ "most_similar_reason": "Candidate 1 shares nearly every distinctive element of the target: sibling-spouse deities born of earth and sky, a jealous brother who murders and dismembers the king, the wife and her sister gathering the scattered pieces, magical revival just long enough to conceive a son, the husband's rule in the underworld, and the son's eventual vengeance against the usurper.",
+ "least_similar_reason": "Candidate 3 concerns static rain-spirit imagery, cave paintings, and repainting rituals with no murdered god, dismemberment, resurrection, or avenging heir, sharing only the vaguest notion of powerful beings tied to fertility.",
+ "set": "related",
+ "pair": "Osiris | Isis",
+ "i": 463,
+ "target": "Osiris",
+ "planted": "Isis",
+ "cands": [
+  "Isis",
+  "Mbombo",
+  "Wandjina",
+  "Wayland the Smith",
+  "Tagaro",
+  "Adapa",
+  "Yellow Emperor",
+  "Bran the Blessed",
+  "R\u00edgs\u00feula",
+  "Nanabozho"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

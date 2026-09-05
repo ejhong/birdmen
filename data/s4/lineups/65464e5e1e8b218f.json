@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  4,
+  1,
+  10,
+  8,
+  7,
+  3,
+  9,
+  5,
+  2
+ ],
+ "most_similar_reason": "Candidate 6 is itself a nested cycle of animal fables (a lion king's court, scheming canines, four cooperative weak animals rescuing each other, a bird-of-prey vs. crow war with a spy delivering secrets) that mirrors the target's Panchatantra structure and specific motifs almost exactly.",
+ "least_similar_reason": "Candidate 2 describes Aboriginal creation spirits and rock-art traditions about rain and lightning beings, sharing no characters, teaching framework, or animal-fable motifs with the target story.",
+ "set": "positive",
+ "pair": "Panchatantra | Kalila wa-Dimna",
+ "i": 348,
+ "target": "Panchatantra",
+ "planted": "Kalila wa-Dimna",
+ "cands": [
+  "Dangun",
+  "Wandjina",
+  "Cadmus",
+  "R\u00edgs\u00feula",
+  "T\u0101ne",
+  "Kalila wa-Dimna",
+  "Romulus and Remus",
+  "Oduduwa",
+  "Bran the Blessed",
+  "Yu the Great"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

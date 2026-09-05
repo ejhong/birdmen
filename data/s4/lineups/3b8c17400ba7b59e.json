@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  8,
+  7,
+  1,
+  3,
+  2,
+  10,
+  9,
+  6,
+  4
+ ],
+ "most_similar_reason": "Candidate 5 shares the core structural motifs of the target: divine beings sent by a higher god to bring civilization and teach human customs, paired with a founding king/hero, founding a great city, and establishing a royal lineage that follows.",
+ "least_similar_reason": "Candidate 4 describes a purely agricultural folk custom about a harvest spirit and straw figures with no gods, sages, floods, or civilizing missions, making it the most disconnected from the target's mythic content.",
+ "set": "hancock",
+ "pair": "Oannes | Quetzalcoatl",
+ "i": 70,
+ "target": "Oannes",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Cangjie",
+  "Mbombo",
+  "Djanggawul",
+  "Corn Mother",
+  "Mama Ocllo",
+  "Sosruko",
+  "Quetzalcoatl",
+  "Pachacamac",
+  "Wisakedjak",
+  "Kutkh"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 3
+}

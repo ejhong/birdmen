@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  3,
+  4,
+  6,
+  10,
+  2,
+  9,
+  1,
+  7,
+  5
+ ],
+ "most_similar_reason": "Candidate 8 shares the most distinctive core motifs with the target: it is explicitly a feathered/plumed serpent deity with multiple conflicting birth and origin tales, a sister who cares for him, a connection to the sun deity, and a role predicting rain, closely mirroring the target's serpent deity's varied birth myths and cosmic associations.",
+ "least_similar_reason": "Candidate 5's raven-trickster creation myth, while involving world-shaping and light-bringing acts, lacks the specific distinctive motifs of the target\u2014no feathered serpent, no conflicting virgin-birth tales, no cardinal-direction siblings, no incest-shame-immolation sequence\u2014making it the most generic and least aligned in particulars.",
+ "set": "related",
+ "pair": "Quetzalcoatl | Kukulkan",
+ "i": 408,
+ "target": "Quetzalcoatl",
+ "planted": "Kukulkan",
+ "cands": [
+  "Orpheus",
+  "Nyame",
+  "Qat (deity)",
+  "Tagaro",
+  "Kutkh",
+  "Mbombo",
+  "Ninigi-no-Mikoto",
+  "Kukulkan",
+  "Gesar",
+  "Yu the Great"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

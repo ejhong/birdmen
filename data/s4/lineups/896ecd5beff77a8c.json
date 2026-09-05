@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  1,
+  7,
+  10,
+  5,
+  4,
+  6,
+  2,
+  8,
+  9
+ ],
+ "most_similar_reason": "Candidate 3 is essentially the same work: a wise teacher instructs royal pupils through nested animal fable cycles with the identical distinctive contents \u2014 the scheming jackal at the lion king's court destroying a friendship, the four friends (crow, mouse, turtle, deer), and the war between crows and owls won by superior counsel.",
+ "least_similar_reason": "Candidate 9 is a single bare sentence identifying a supreme deity with two names, containing no narrative, characters, or events to compare with the target's elaborate fable cycle.",
+ "set": "positive",
+ "pair": "Kalila wa-Dimna | Panchatantra",
+ "i": 359,
+ "target": "Kalila wa-Dimna",
+ "planted": "Panchatantra",
+ "cands": [
+  "Prometheus",
+  "Sang Hyang Tunggal",
+  "Panchatantra",
+  "Sosruko",
+  "Nanabozho",
+  "White Buffalo Calf Woman",
+  "Amirani",
+  "Makunaima",
+  "Bumba",
+  "Wayland the Smith"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

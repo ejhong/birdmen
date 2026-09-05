@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  3,
+  1,
+  5,
+  7,
+  6,
+  9,
+  2,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 4 shares the same distinctive episode almost point for point: a god secretly warns a chosen man to build a great boat and load it with living things, a multi-day storm destroys all humanity, the boat grounds on a mountain, birds (including one that does not return) are released to test the waters, and the survivor offers a sacrifice after which the gods make a lasting pledge to him.",
+ "least_similar_reason": "Candidate 10 concerns a crippled smith's captivity, revenge killings, skull-cups and an escape by flying garment, with no creator god, no destruction of humanity, no vessel of survival, and no covenant or renewal of life.",
+ "set": "positive",
+ "pair": "Genesis flood narrative | Gilgamesh flood myth",
+ "i": 238,
+ "target": "Genesis flood narrative",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Obatala",
+  "Anansi",
+  "Kilibob and Manup",
+  "Gilgamesh flood myth",
+  "T\u0101ne",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Coyote (mythology)",
+  "Amirani",
+  "Wandjina",
+  "Wayland the Smith"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  4,
+  10,
+  8,
+  9,
+  6,
+  2,
+  3,
+  5,
+  1
+ ],
+ "most_similar_reason": "Candidate 7 shares nearly the entire plot of the target\u2014exile engineered by a queen mother wanting her own son crowned, a wife won by a marriage contest, the loyal younger brother, the seductress demoness whose nose and ears are cut off, her ten-headed demon-ruler brother, the golden-deer lure and abduction, the alliance with monkey-people after helping their leader defeat a rival, the search by a monkey warrior, and the final battle with the demon king.",
+ "least_similar_reason": "Candidate 1 is merely a note that a creator god is recognized under variant names in a region, containing no characters, actions, or episodes that correspond to the target's hero narrative.",
+ "set": "positive",
+ "pair": "Ramayana | Reamker",
+ "i": 289,
+ "target": "Ramayana",
+ "planted": "Reamker",
+ "cands": [
+  "Makunaima",
+  "Bachu\u00e9",
+  "Kokopelli",
+  "Tezcatlipoca",
+  "Waaq",
+  "Itzamna",
+  "Reamker",
+  "Anansi",
+  "Kutkh",
+  "Nanabozho"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

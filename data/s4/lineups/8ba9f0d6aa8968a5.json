@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  6,
+  4,
+  10,
+  3,
+  1,
+  5,
+  2,
+  9,
+  7
+ ],
+ "most_similar_reason": "Candidate 8 is the Mesopotamian flood account (Utnapishtim) that shares nearly every distinctive motif with the target: a warned righteous man building a boat, a flood lasting a fixed number of days, the boat resting on a mountain, sequential release of birds (including one that does not return), a subsequent sacrifice, and a divine reconciliation/blessing afterward.",
+ "least_similar_reason": "Candidate 7 is a set of trickster (spider) tales about stealing stories, hoarding wisdom, and guessing a hidden name, sharing no flood, ark, chosen hero, or covenant motifs with the target.",
+ "set": "positive",
+ "pair": "Genesis flood narrative | Gilgamesh flood myth",
+ "i": 233,
+ "target": "Genesis flood narrative",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Dangun",
+  "Oduduwa",
+  "\u014ckuninushi",
+  "Maya Hero Twins",
+  "Sky Woman",
+  "Wisakedjak",
+  "Anansi",
+  "Gilgamesh flood myth",
+  "Bran the Blessed",
+  "Amirani"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

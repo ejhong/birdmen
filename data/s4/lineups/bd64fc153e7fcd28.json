@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  3,
+  7,
+  10,
+  5,
+  2,
+  9,
+  8,
+  4,
+  1
+ ],
+ "most_similar_reason": "Candidate 6 shares the same Mesoamerican mythological framework as the target, featuring a feathered/bird deity paired with a goddess, transformation into snakes, and emergence from/return to a sacred lake, closely echoing the feathered serpent's cosmogonic and dual-nature motifs.",
+ "least_similar_reason": "Candidate 1 is an extremely generic, vague description of a creator god in a river-basin region with none of the distinctive birth stories, inventions, sacrifices, or celestial twin motifs that define the target myth.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Thoth",
+ "i": 170,
+ "target": "Quetzalcoatl",
+ "planted": "Thoth",
+ "cands": [
+  "Makunaima",
+  "Bhagiratha",
+  "Thoth",
+  "Kokopelli",
+  "Aeneas",
+  "Bachu\u00e9",
+  "Prometheus",
+  "White Buffalo Calf Woman",
+  "Hiawatha",
+  "Agastya"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 2
+}

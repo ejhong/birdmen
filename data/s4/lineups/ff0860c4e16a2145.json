@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  3,
+  5,
+  7,
+  10,
+  2,
+  8,
+  6,
+  9,
+  1
+ ],
+ "most_similar_reason": "Candidate 4 mirrors the core Osiris pattern most closely: a slain brother figure whose head lodges in a tree and magically impregnates a woman, followed by an avenging son (twins) who defeat the underworld rulers responsible for his death, echoing the target's tree-burial, magical conception, and filial vengeance motifs.",
+ "least_similar_reason": "Candidate 1 is a heroic-war narrative about a clever prince's exploits and various death accounts in a siege context, sharing only generic mythic elements like conflict and death with no dismemberment, resurrection, or divine family structure paralleling the target.",
+ "set": "hancock",
+ "pair": "Osiris | Viracocha",
+ "i": 53,
+ "target": "Osiris",
+ "planted": "Viracocha",
+ "cands": [
+  "Palamedes (mythology)",
+  "Viracocha",
+  "Obatala",
+  "Maya Hero Twins",
+  "Ogun",
+  "White Buffalo Calf Woman",
+  "Glooscap",
+  "Ilmarinen",
+  "Hiawatha",
+  "Prometheus"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 6
+}

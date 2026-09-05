@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  3,
+  1,
+  9,
+  6,
+  7,
+  2,
+  10,
+  4,
+  8
+ ],
+ "most_similar_reason": "Candidate 5 shares the core flood-myth structure almost exactly: gods decide to destroy noisy humanity, a wise/clever god secretly warns the flood hero by speaking through a reed wall, instructs him to build a boat, load animals and family, and endure a multi-day storm\u2014paralleling the target's central episode in remarkable specific detail.",
+ "least_similar_reason": "Candidate 8 describes Aboriginal creation spirits, rock art, and seasonal rain ceremonies with no flood hero, boat, immortality quest, or any of the target's distinctive narrative motifs, making it the most unrelated in content and structure.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Atra-Hasis",
+ "i": 251,
+ "target": "Gilgamesh flood myth",
+ "planted": "Atra-Hasis",
+ "cands": [
+  "Aeneas",
+  "T\u0101ne",
+  "Prometheus",
+  "Great Peacemaker",
+  "Atra-Hasis",
+  "Qat (deity)",
+  "Huitzilopochtli",
+  "Wandjina",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Anansi"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  4,
+  6,
+  3,
+  10,
+  5,
+  8,
+  9,
+  1,
+  7
+ ],
+ "most_similar_reason": "Candidate 2 shares the target's most distinctive package of motifs: a serpent-associated culture hero of a calendar-keeping people who invents/gives the calendar and day-signs, is paired with a god of night and sorcery, teaches and gifts a crop or foodstuff to humanity, and travels/returns in cycles, matching the target's serpent-named kingdom, jaguar-of-darkness title, and day-name identity.",
+ "least_similar_reason": "Candidate 7 is a genealogical myth of sea and forest deities, fish and reptile ancestors, and a fire-theft quarrel, with no culture hero founding kingdoms, dividing lands among peoples, migrations, calendars, or cult relics.",
+ "set": "hancock",
+ "pair": "Votan | Quetzalcoatl",
+ "i": 148,
+ "target": "Votan",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Waaq",
+  "Quetzalcoatl",
+  "Romulus and Remus",
+  "Yu the Great",
+  "Cangjie",
+  "Apkallu",
+  "Tagaro",
+  "Nanabozho",
+  "R\u00edgs\u00feula",
+  "Palamedes (mythology)"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 1
+}

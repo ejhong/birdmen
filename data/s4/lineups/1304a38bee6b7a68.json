@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  3,
+  1,
+  9,
+  4,
+  7,
+  2,
+  5,
+  10,
+  8
+ ],
+ "most_similar_reason": "Candidate 6 shares the same Mesoamerican mythic complex as the target\u2014a serpent-named kingdom, a calendar with twenty day-names, association with a jaguar deity, and multiple journeys to a distant homeland\u2014paralleling Quetzalcoatl's calendar invention, serpent identity, and cardinal-direction/day-sign lore.",
+ "least_similar_reason": "Candidate 8 is a cosmogonic king-list and flood account with no culture-hero figure, birth myths, sibling deities, or self-sacrifice motifs, sharing only the barest generic mythic scaffolding with the target.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Votan",
+ "i": 151,
+ "target": "Quetzalcoatl",
+ "planted": "Votan",
+ "cands": [
+  "Great Peacemaker",
+  "Romulus and Remus",
+  "Heitsi-eibib",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Anansi",
+  "Votan",
+  "Shennong",
+  "Berossus",
+  "Rama",
+  "Cangjie"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

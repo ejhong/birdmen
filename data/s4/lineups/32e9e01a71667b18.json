@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  9,
+  3,
+  5,
+  2,
+  6,
+  7,
+  10,
+  8,
+  4
+ ],
+ "most_similar_reason": "Candidate 1 shares the most distinctive specific motifs with the target: a founding pair including a son of the sun deity who carries a golden staff and founds a civilization, emergence near a great lake, and multiple variant versions of the founder's origin.",
+ "least_similar_reason": "Candidate 4 is a static descriptive portrait of a flute-playing fertility trickster with no founding journey, siblings, staff, or city-founding sequence at all.",
+ "set": "related",
+ "pair": "Manco C\u00e1pac | Viracocha",
+ "i": 432,
+ "target": "Manco C\u00e1pac",
+ "planted": "Viracocha",
+ "cands": [
+  "Viracocha",
+  "Maya Hero Twins",
+  "Qat (deity)",
+  "Kokopelli",
+  "Obatala",
+  "Agastya",
+  "Prometheus",
+  "Unkulunkulu",
+  "Djanggawul",
+  "Nyame"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

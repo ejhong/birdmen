@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  9,
+  4,
+  1,
+  5,
+  10,
+  6,
+  8,
+  3,
+  2
+ ],
+ "most_similar_reason": "Candidate 7 shares the most distinctive episodes with the target: a civilizing god who teaches humanity to sow grain crops, whose sibling relationship is central, who is treacherously sealed inside a box/chest and thereby destroyed, and who is thereafter associated with the underworld and reborn/transfigured status.",
+ "least_similar_reason": "Candidate 2 is a single sentence naming a supreme deity with no events, roles, gifts, or motifs to compare with the target's rich cycle of births, creation, and self-immolation.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Osiris",
+ "i": 88,
+ "target": "Quetzalcoatl",
+ "planted": "Osiris",
+ "cands": [
+  "Bachu\u00e9",
+  "Bumba",
+  "Anansi",
+  "Orpheus",
+  "Adapa",
+  "Amirani",
+  "Osiris",
+  "Ogun",
+  "Prometheus",
+  "Ninigi-no-Mikoto"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

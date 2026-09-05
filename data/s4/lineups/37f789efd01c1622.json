@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  4,
+  3,
+  8,
+  5,
+  7,
+  2,
+  6,
+  10,
+  1
+ ],
+ "most_similar_reason": "Candidate 9 shares the closest structural echoes: a divine founder/peacemaker figure who unites warring factions into a confederated political structure, aided by key allies, with prophetic/creation elements and matrilineal or dual-power motifs paralleling the target's confederacy formation and prophecy of serpents.",
+ "least_similar_reason": "Candidate 1 is a purely abstract theological/symbolic figure representing an ineffable metaphysical principle with no narrative journey, allies, confederacy-building, or prophecy, making it the least similar in content and structure to the target's concrete political and mythic hero story.",
+ "set": "random",
+ "pair": "Great Peacemaker | Prometheus",
+ "i": 619,
+ "target": "Great Peacemaker",
+ "planted": "Prometheus",
+ "cands": [
+  "Sang Hyang Tunggal",
+  "Kutkh",
+  "Kvasir",
+  "Prometheus",
+  "Tagaro",
+  "Yellow Emperor",
+  "Djanggawul",
+  "Tezcatlipoca",
+  "Oduduwa",
+  "Makunaima"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 2
+}

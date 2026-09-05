@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  5,
+  7,
+  8,
+  4,
+  1,
+  10,
+  6,
+  2,
+  9
+ ],
+ "most_similar_reason": "Candidate 3 shares nearly every distinctive element: a sister-wife of a brother-king born of earth and sky deities, a jealous brother who murders and dismembers him, the goddess and her sister gathering the scattered pieces, magical revival long enough to conceive a son, and that son later avenging his father and taking the throne while the murdered god remains in the underworld.",
+ "least_similar_reason": "Candidate 9 is merely a vague account of an ancestor-turned-creator who makes people from reeds and forgets them, sharing no murder, dismemberment, searching wife, avenging son, or agricultural teaching.",
+ "set": "related",
+ "pair": "Osiris | Isis",
+ "i": 467,
+ "target": "Osiris",
+ "planted": "Isis",
+ "cands": [
+  "R\u00edgs\u00feula",
+  "Djanggawul",
+  "Isis",
+  "Nyame",
+  "Prometheus",
+  "Baiame",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Tangaroa",
+  "Unkulunkulu",
+  "Agastya"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

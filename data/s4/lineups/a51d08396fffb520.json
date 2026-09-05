@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  9,
+  4,
+  1,
+  2,
+  3,
+  6,
+  10,
+  7,
+  5
+ ],
+ "most_similar_reason": "Candidate 8 matches the target most closely because it too describes a bearded-style civilizing hero who descends/appears among humans, wanders from town to town founding a religion and dispensing wisdom to those who seek him, and whose cult is centered on a sacred city with a great sun temple, echoing the target's traveling teacher-creator who ordered a great city built and taught civilization.",
+ "least_similar_reason": "Candidate 5 is least similar because it concerns a mortal king's ancestral funeral rites and the ascetic feat of bringing a river goddess down to earth, with none of the target's creation of light and humankind, flood, wandering civilizer, or departure over the sea.",
+ "set": "hancock",
+ "pair": "Viracocha | Bochica",
+ "i": 209,
+ "target": "Viracocha",
+ "planted": "Bochica",
+ "cands": [
+  "Glooscap",
+  "Yellow Emperor",
+  "\u014ckuninushi",
+  "Kutkh",
+  "Bhagiratha",
+  "Palamedes (mythology)",
+  "Tagaro",
+  "Bochica",
+  "Shennong",
+  "Romulus and Remus"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

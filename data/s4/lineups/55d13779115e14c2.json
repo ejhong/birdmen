@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  10,
+  3,
+  1,
+  8,
+  6,
+  4,
+  2,
+  5,
+  7
+ ],
+ "most_similar_reason": "Candidate 9 depicts a bearded civilizing creator-hero who rises from a lake, brings light and civilization, teaches people while wandering in disguise, and eventually disappears across the water, closely mirroring the target's Andean-style civilizing hero who descends to found a religion, teaches, and is linked to sun worship and sacred sites.",
+ "least_similar_reason": "Candidate 7 describes a purely agricultural harvest-spirit custom involving straw dolls and seasonal rituals, sharing no figures, hero journeys, chiefs, caves, or sun-temple motifs with the target myth.",
+ "set": "hancock",
+ "pair": "Bochica | Viracocha",
+ "i": 217,
+ "target": "Bochica",
+ "planted": "Viracocha",
+ "cands": [
+  "Obatala",
+  "Abassi",
+  "Oduduwa",
+  "Tagaro",
+  "Bumba",
+  "Orpheus",
+  "Corn Mother",
+  "Kvasir",
+  "Viracocha",
+  "Great Peacemaker"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

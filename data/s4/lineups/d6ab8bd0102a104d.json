@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  1,
+  2,
+  5,
+  6,
+  4,
+  3,
+  8,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 7 is essentially the same myth complex as the target (a slain agricultural/fertility king-god, brother usurper, dismemberment, wife and sister searching for and reassembling the pieces, missing phallus, magical revival for conception, and a son who avenges the father and takes the throne), matching almost every distinctive motif in the target.",
+ "least_similar_reason": "Candidate 10 concerns a small trickster figure who steals fire from a giant and is devoted to his mother, sharing no meaningful overlap with the target's themes of divine kingship, fratricide, dismemberment, resurrection, or filial vengeance.",
+ "set": "related",
+ "pair": "Osiris | Isis",
+ "i": 461,
+ "target": "Osiris",
+ "planted": "Isis",
+ "cands": [
+  "Maya Hero Twins",
+  "\u014ckuninushi",
+  "Djanggawul",
+  "Oduduwa",
+  "Obatala",
+  "Cadmus",
+  "Isis",
+  "Ziusudra",
+  "Wisakedjak",
+  "Sosruko"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  7,
+  8,
+  5,
+  10,
+  3,
+  4,
+  6,
+  2,
+  1
+ ],
+ "most_similar_reason": "Candidate 9 centers on the same kind of feathered-serpent deity told through several conflicting tales, with birth stories, celestial encounters, wind/rain associations, an underworld journey, and gifts brought to humans, matching the target's multi-version serpent-god structure most closely.",
+ "least_similar_reason": "Candidate 1 is a purely human warrior-prince legend of oaths, war, cleverness, and variant deaths, with no serpent figure, no deity, and none of the target's cave, sun, rain, or otherworld-journey motifs.",
+ "set": "related",
+ "pair": "Kukulkan | Quetzalcoatl",
+ "i": 417,
+ "target": "Kukulkan",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Palamedes (mythology)",
+  "Wayland the Smith",
+  "Makunaima",
+  "Wakan Tanka",
+  "Cadmus",
+  "Romulus and Remus",
+  "Pachacamac",
+  "Kokopelli",
+  "Quetzalcoatl",
+  "Tagaro"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  3,
+  10,
+  7,
+  2,
+  1,
+  9,
+  5,
+  4,
+  8
+ ],
+ "most_similar_reason": "Candidate 6 (the Noah story) shares the core flood-myth skeleton of the target: a chief deity angered by human wickedness sends a flood, the hero is forewarned, builds a vessel, survives with his family, offers thanks/sacrifice afterward, receives a divine blessing/covenant, and becomes ancestor of peoples who repopulate the earth.",
+ "least_similar_reason": "Candidate 8 is not a narrative at all but an etymological/linguistic discussion of a word for God across languages, containing no hero, flood, ark, oracle, or repopulation motifs found in the target.",
+ "set": "positive",
+ "pair": "Deucalion | Noah",
+ "i": 383,
+ "target": "Deucalion",
+ "planted": "Noah",
+ "cands": [
+  "Ninigi-no-Mikoto",
+  "Dangun",
+  "Glooscap",
+  "Wakan Tanka",
+  "Baiame",
+  "Noah",
+  "Mama Ocllo",
+  "Waaq",
+  "Gesar",
+  "Bhagiratha"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

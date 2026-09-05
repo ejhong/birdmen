@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  9,
+  4,
+  5,
+  3,
+  2,
+  6,
+  1,
+  8,
+  7
+ ],
+ "most_similar_reason": "Candidate 10 is another flood-hero narrative with an ark built by divine command, animals and family saved, birds sent out to find land, and a post-flood sacrifice, closely mirroring the target's flood myth structure.",
+ "least_similar_reason": "Candidate 7 describes a fertility trickster flute-player deity associated with childbirth, agriculture, and animal companions, sharing no plot elements, flood motif, or family structure with the target story.",
+ "set": "positive",
+ "pair": "Noah | Utnapishtim",
+ "i": 277,
+ "target": "Noah",
+ "planted": "Utnapishtim",
+ "cands": [
+  "Mbombo",
+  "\u014ckuninushi",
+  "Wayland the Smith",
+  "Bhagiratha",
+  "Pachacamac",
+  "Heitsi-eibib",
+  "Kokopelli",
+  "Qat (deity)",
+  "Romulus and Remus",
+  "Utnapishtim"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

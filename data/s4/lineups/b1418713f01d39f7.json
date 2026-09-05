@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  8,
+  5,
+  4,
+  9,
+  3,
+  7,
+  6,
+  10,
+  1
+ ],
+ "most_similar_reason": "Candidate 2 shares the core narrative almost point for point: a righteous man forewarned of a divinely sent flood sent to punish human wickedness, who builds a wooden vessel, rides out the deluge with his wife, lands on a mountain when the waters recede, gives thanks/sacrifice to the god, and then becomes the ancestor from whom repopulated peoples and founding lineages descend.",
+ "least_similar_reason": "Candidate 1 has no flood, no ark, no ancestral line or covenant, and instead concerns a creator god's death and duel with personified Death, sharing only the generic presence of a deity.",
+ "set": "positive",
+ "pair": "Noah | Deucalion",
+ "i": 395,
+ "target": "Noah",
+ "planted": "Deucalion",
+ "cands": [
+  "Nyame",
+  "Deucalion",
+  "Yellow Emperor",
+  "Wisakedjak",
+  "Apkallu",
+  "Ogun",
+  "Rama",
+  "Berossus",
+  "Pachacamac",
+  "Kvasir"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 1
+}

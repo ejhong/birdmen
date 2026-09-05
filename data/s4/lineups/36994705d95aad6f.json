@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  8,
+  2,
+  6,
+  5,
+  4,
+  7,
+  3,
+  9,
+  1
+ ],
+ "most_similar_reason": "Candidate 10 shares the core flood narrative: a supreme god destroys wicked mankind with a deluge, one favored man is warned and builds a vessel, survives with his family, lands on a mountain, gives thanks/offerings, and then repopulates the earth as ancestor of peoples.",
+ "least_similar_reason": "Candidate 1 is a static description of a humpbacked flute-playing fertility trickster with no flood, no ancestral patriarch, no covenant, and no narrative sequence resembling the target.",
+ "set": "positive",
+ "pair": "Noah | Deucalion",
+ "i": 399,
+ "target": "Noah",
+ "planted": "Deucalion",
+ "cands": [
+  "Kokopelli",
+  "Obatala",
+  "Nanabozho",
+  "Tezcatlipoca",
+  "Gesar",
+  "Bhagiratha",
+  "Pachacamac",
+  "Aeneas",
+  "Nyame",
+  "Deucalion"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

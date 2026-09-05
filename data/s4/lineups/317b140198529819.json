@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  3,
+  2,
+  1,
+  6,
+  4,
+  7,
+  5,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 shares the target's core pattern of a civilizing hero-deity who descends/appears among people, travels from place to place teaching and dispensing wisdom to those who come to him, is remembered in several conflicting versions, and leaves behind a sacred site with a sun temple and commemorative rites.",
+ "least_similar_reason": "Candidate 10 is a cycle of trickster-spider contests over stories, wisdom and food with no creator figure, no making of humans, no flood, no teaching of civilization, and no departure-and-return promise.",
+ "set": "hancock",
+ "pair": "Viracocha | Bochica",
+ "i": 201,
+ "target": "Viracocha",
+ "planted": "Bochica",
+ "cands": [
+  "T\u0101ne",
+  "Ziusudra",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Kutkh",
+  "Nyame",
+  "Triptolemus",
+  "Cangjie",
+  "Bochica",
+  "Ilmarinen",
+  "Anansi"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

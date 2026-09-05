@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  9,
+  6,
+  1,
+  2,
+  5,
+  4,
+  7,
+  10,
+  3
+ ],
+ "most_similar_reason": "Candidate 8 retells the same core narrative sequence\u2014exile by a stepmother/queen mother for her own son, a wife won through a bow/arrow feat, forest exile with a brother, a seductive demoness mutilated by the brother, a golden-deer trick, abduction by a ten-headed demon king, alliance with monkey-like beings, a bridge to an island, and a climactic navel-piercing battle\u2014matching the target's plot beat for beat.",
+ "least_similar_reason": "Candidate 3 describes a seasonal harvest folk custom about a straw 'old woman' figure embodying a grain spirit, sharing no characters, quests, or narrative structure with the target's royal exile-and-rescue epic.",
+ "set": "positive",
+ "pair": "Ramayana | Reamker",
+ "i": 280,
+ "target": "Ramayana",
+ "planted": "Reamker",
+ "cands": [
+  "Palamedes (mythology)",
+  "Tezcatlipoca",
+  "Corn Mother",
+  "Coyote (mythology)",
+  "Nanabozho",
+  "Oduduwa",
+  "Kutkh",
+  "Reamker",
+  "Yu the Great",
+  "Djanggawul"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

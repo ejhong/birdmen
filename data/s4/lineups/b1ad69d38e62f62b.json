@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  1,
+  6,
+  2,
+  7,
+  3,
+  8,
+  5,
+  10,
+  9
+ ],
+ "most_similar_reason": "Candidate 4 matches the target most closely because it centers on a culture-bringing god credited with inventing books/writing and the calendar, associated with light, justice and order, tied to a set of four sibling deities born of a primordial couple, and undertaking an underworld journey and rebirth\u2014the same cluster of scribe/calendar/creation motifs.",
+ "least_similar_reason": "Candidate 9 is least similar because it is a bare account of an ancestor-turned-creator who makes people from reeds and then forgets them, with no scribe or counselor figure, no invention of writing, no calendar episode, and no judgment of the dead.",
+ "set": "hancock",
+ "pair": "Thoth | Quetzalcoatl",
+ "i": 165,
+ "target": "Thoth",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Palamedes (mythology)",
+  "Ilmarinen",
+  "Aeneas",
+  "Quetzalcoatl",
+  "Ninigi-no-Mikoto",
+  "Agastya",
+  "Cadmus",
+  "\u014ckuninushi",
+  "Unkulunkulu",
+  "Wandjina"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

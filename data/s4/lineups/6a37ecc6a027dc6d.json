@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  10,
+  9,
+  5,
+  3,
+  4,
+  1,
+  2,
+  8,
+  6
+ ],
+ "most_similar_reason": "Candidate 7 shares many specific Mesoamerican motifs with the target\u2014a serpent-named kingdom, a calendar day-name, a jaguar/darkness deity title, and repeated journeys to a distant homeland\u2014paralleling Quetzalcoatl/Kukulkan-Votan traditions almost directly.",
+ "least_similar_reason": "Candidate 6 is a bare, generic statement about a river-basin creator god with no specific narrative details, sharing nothing distinctive with the target's rich birth, sacrifice, and incest motifs.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Votan",
+ "i": 157,
+ "target": "Quetzalcoatl",
+ "planted": "Votan",
+ "cands": [
+  "Corn Mother",
+  "Wandjina",
+  "Wisakedjak",
+  "Baiame",
+  "Hiawatha",
+  "Makunaima",
+  "Votan",
+  "Wayland the Smith",
+  "Ogun",
+  "Heitsi-eibib"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

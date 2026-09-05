@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  5,
+  4,
+  6,
+  8,
+  2,
+  10,
+  1,
+  7,
+  3
+ ],
+ "most_similar_reason": "Candidate 9 depicts a prophet raised to a high heavenly station (the fourth heaven) after living piously, credited with inventing writing, measures, and other cultural firsts, and encountered by another prophet during a heavenly journey\\u2014paralleling the target's Enoch-like figure who is taken up without dying, made a scribe, and appears in later revelatory traditions.",
+ "least_similar_reason": "Candidate 3 is a bare one-line statement about a supreme deity with two names, containing no narrative details, motifs, or events that correspond to the rich, specific traditions described in the target.",
+ "set": "related",
+ "pair": "Enoch (ancestor of Noah) | Idris (prophet)",
+ "i": 557,
+ "target": "Enoch (ancestor of Noah)",
+ "planted": "Idris (prophet)",
+ "cands": [
+  "Corn Mother",
+  "Maya Hero Twins",
+  "Bumba",
+  "Baiame",
+  "Yellow Emperor",
+  "Bran the Blessed",
+  "Makunaima",
+  "Agastya",
+  "Idris (prophet)",
+  "Coyote (mythology)"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

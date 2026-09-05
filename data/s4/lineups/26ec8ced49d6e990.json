@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  4,
+  6,
+  2,
+  1,
+  5,
+  3,
+  8,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 7 shares the most distinctive episodes with the target: a hero of miraculous birth with a set of rival brothers, a trickster helper, and above all the motif of escaping hostile brothers by way of a tree that grows impossibly tall into the sky, plus etiological transformations explaining features of the world.",
+ "least_similar_reason": "Candidate 10 is least similar because it is a bare description of an ancestor/creator figure who makes people from reeds and then forgets them, with no siblings, no otherworld journey, no contest, trickery, or transformation echoing the target's twin-hero revenge narrative.",
+ "set": "random",
+ "pair": "Maya Hero Twins | White Buffalo Calf Woman",
+ "i": 616,
+ "target": "Maya Hero Twins",
+ "planted": "White Buffalo Calf Woman",
+ "cands": [
+  "Ayar Manco",
+  "Adapa",
+  "Yellow Emperor",
+  "Agastya",
+  "White Buffalo Calf Woman",
+  "Bhagiratha",
+  "Qat (deity)",
+  "Berossus",
+  "Baiame",
+  "Unkulunkulu"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 6
+}

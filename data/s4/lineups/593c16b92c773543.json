@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  5,
+  10,
+  3,
+  1,
+  9,
+  6,
+  8,
+  4,
+  7
+ ],
+ "most_similar_reason": "Candidate 2 shares the most distinctive cluster with the target: a serpent-named founding culture hero of the same mythic milieu who apportions lands, is also identified as a jaguar/darkness deity, whose name is one of the calendar's day names, and whose cult objects are ritually destroyed\u2014matching the target's feathered-serpent culture hero with calendar, directional/dual divine identities, and multiple conflicting legends.",
+ "least_similar_reason": "Candidate 7 is a bare statement that a deity with two names was supreme, containing no birth stories, culture-hero deeds, creation of mankind, or death-and-transformation episode to compare with the target.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Votan",
+ "i": 158,
+ "target": "Quetzalcoatl",
+ "planted": "Votan",
+ "cands": [
+  "Cangjie",
+  "Votan",
+  "Aeneas",
+  "Wayland the Smith",
+  "Pachacamac",
+  "Cadmus",
+  "Bumba",
+  "Palamedes (mythology)",
+  "Berossus",
+  "Glooscap"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 1
+}

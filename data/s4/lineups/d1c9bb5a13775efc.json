@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  7,
+  2,
+  4,
+  9,
+  1,
+  3,
+  6,
+  10,
+  5
+ ],
+ "most_similar_reason": "Candidate 8 is essentially a retelling of the same nested collection of animal fables (jackal/lion court, four unlikely friends, crow-owl war, false submission, mongoose-like betrayal motifs) framed as moral instruction, matching the target's structure and specific episodes almost exactly.",
+ "least_similar_reason": "Candidate 5 describes a harvest folk custom about a straw 'corn-spirit' figure with no animal fables, royal pupils, or teaching frame, making it the least thematically or structurally related to the target.",
+ "set": "positive",
+ "pair": "Panchatantra | Kalila wa-Dimna",
+ "i": 344,
+ "target": "Panchatantra",
+ "planted": "Kalila wa-Dimna",
+ "cands": [
+  "Heitsi-eibib",
+  "Kutkh",
+  "\u014ckuninushi",
+  "Coyote (mythology)",
+  "Corn Mother",
+  "Triptolemus",
+  "Anansi",
+  "Kalila wa-Dimna",
+  "Qat (deity)",
+  "Romulus and Remus"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  9,
+  4,
+  3,
+  8,
+  2,
+  1,
+  6,
+  7,
+  5
+ ],
+ "most_similar_reason": "Candidate 10 is a flood story with nearly identical distinctive episodes: a god secretly warns a chosen man to build a boat, all life is loaded aboard, the flood destroys humanity, the boat rests on a mountain, birds are released in sequence (including one that does not return), and the survivor offers a sacrifice after which the gods respond with a blessing/covenant.",
+ "least_similar_reason": "Candidate 5 is not a narrative at all but an explanation of a term for a sacred power, sharing no characters, events, or motifs with the flood story.",
+ "set": "positive",
+ "pair": "Genesis flood narrative | Gilgamesh flood myth",
+ "i": 235,
+ "target": "Genesis flood narrative",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Sky Woman",
+  "Mama Ocllo",
+  "Triptolemus",
+  "Maya Hero Twins",
+  "Wakan Tanka",
+  "Kvasir",
+  "Cangjie",
+  "Dangun",
+  "Obatala",
+  "Gilgamesh flood myth"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

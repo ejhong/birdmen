@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  9,
+  1,
+  8,
+  3,
+  10,
+  4,
+  6,
+  5,
+  2
+ ],
+ "most_similar_reason": "Candidate 7 centers on the same type of deity\u2014a plumed/feathered serpent\u2014with multiple conflicting origin tales, a sister who cares for him, his flight to the sea causing earthquakes, and his association with rain and wind, closely echoing the target's core figure and motifs.",
+ "least_similar_reason": "Candidate 2 is a trickster spider cycle about stealing stories and wisdom with no serpent deity, no birth myths, no cosmic siblings, and no creation-of-mankind or self-sacrifice motifs, making it the least thematically connected to the target.",
+ "set": "related",
+ "pair": "Quetzalcoatl | Kukulkan",
+ "i": 407,
+ "target": "Quetzalcoatl",
+ "planted": "Kukulkan",
+ "cands": [
+  "Tangaroa",
+  "Anansi",
+  "Obatala",
+  "\u014ckuninushi",
+  "Yu the Great",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Kukulkan",
+  "Tagaro",
+  "T\u0101ne",
+  "Great Peacemaker"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

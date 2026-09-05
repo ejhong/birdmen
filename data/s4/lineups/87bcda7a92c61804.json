@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  10,
+  9,
+  6,
+  5,
+  3,
+  4,
+  1,
+  7,
+  8
+ ],
+ "most_similar_reason": "Candidate 2 shares the closest narrative skeleton with the target: a royal heir who abandons or is drawn away from political life through contact with a solitary holy teacher, converts despite parental opposition, and ultimately renounces rulership entirely to live as an ascetic alongside his spiritual mentor\u2014mirroring the Buddha's own renunciation of royal life for asceticism and teaching.",
+ "least_similar_reason": "Candidate 8 is a war epic centered on political alliances, feigned madness, battlefield killings, and conflicting death accounts, sharing only the generic motifs of a notable figure and inventions, with no renunciation, awakening, teaching mission, or religious order comparable to the target.",
+ "set": "positive",
+ "pair": "Gautama Buddha | Barlaam and Josaphat",
+ "i": 322,
+ "target": "Gautama Buddha",
+ "planted": "Barlaam and Josaphat",
+ "cands": [
+  "Cangjie",
+  "Barlaam and Josaphat",
+  "Pachacamac",
+  "Unkulunkulu",
+  "Ziusudra",
+  "Nyame",
+  "Kilibob and Manup",
+  "Palamedes (mythology)",
+  "T\u0101ne",
+  "Mama Ocllo"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 1
+}

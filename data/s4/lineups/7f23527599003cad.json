@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  8,
+  4,
+  9,
+  10,
+  7,
+  2,
+  3,
+  1,
+  6
+ ],
+ "most_similar_reason": "Candidate 5 shares the target's core structure of a civilizing, quasi-divine hero who is remembered through multiple conflicting mythic accounts (varying origins/identities) yet ultimately becomes a benevolent, culture-founding figure associated with calendars, teaching, and sacred rites, closely paralleling the target's blend of contradictory local testimonies about a mythic figure and his later transformation into a civilizing religious founder.",
+ "least_similar_reason": "Candidate 6 is a loose collection of trickster tales focused on creation, deception, and animal transformations with no analog to the target's motif of conflicting eyewitness identities, cave retreats, chiefly pilgrimages, or the founding of a sun temple and commemorative festivals.",
+ "set": "hancock",
+ "pair": "Bochica | Quetzalcoatl",
+ "i": 127,
+ "target": "Bochica",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Aeneas",
+  "Cadmus",
+  "Palamedes (mythology)",
+  "Mwari",
+  "Quetzalcoatl",
+  "Coyote (mythology)",
+  "Yu the Great",
+  "White Buffalo Calf Woman",
+  "Prometheus",
+  "Berossus"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

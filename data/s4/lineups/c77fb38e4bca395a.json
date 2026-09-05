@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  1,
+  9,
+  8,
+  3,
+  7,
+  2,
+  5,
+  6,
+  10
+ ],
+ "most_similar_reason": "Candidate 4 depicts the same mythological complex as the target (N\u00fcwa/Fuxi), including a creator goddess making humans from clay, a sibling pair who become husband and wife after a divine sign (mist paralleling the fire piles), and cosmic repair motifs echoing the body-becomes-world theme of Pangu.",
+ "least_similar_reason": "Candidate 10 provides only a single generic sentence about a supreme deity with two names, offering no specific motifs, events, or relationships comparable to the rich sequence of creation, sibling marriage, invention, and death found in the target.",
+ "set": "related",
+ "pair": "Fuxi | N\u00fcwa",
+ "i": 502,
+ "target": "Fuxi",
+ "planted": "N\u00fcwa",
+ "cands": [
+  "Mama Ocllo",
+  "Dangun",
+  "Agastya",
+  "N\u00fcwa",
+  "Ogun",
+  "Kilibob and Manup",
+  "Kutkh",
+  "Tezcatlipoca",
+  "Itzamna",
+  "Bumba"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

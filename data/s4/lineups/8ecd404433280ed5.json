@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  2,
+  4,
+  8,
+  3,
+  9,
+  5,
+  6,
+  7,
+  10
+ ],
+ "most_similar_reason": "Candidate 1 shares the closest structural cluster of motifs with the target\u2014a culture-hero deity who teaches agriculture (grain/wine) and civilization, is dismembered/resurrected, becomes lord of the underworld, and whose myth blends multiple traditions of death and rebirth, paralleling the target's culture-hero acts, underworld journey, and self-sacrificial death/transformation.",
+ "least_similar_reason": "Candidate 10 is a localized trickster/sibling-rivalry origin tale about canoes and islands with no birth-story multiplicity, no creation of mankind, no astral twinning, and no self-sacrifice or teaching of a sacred crop, making it thematically and structurally the most distant from the target.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Osiris",
+ "i": 83,
+ "target": "Quetzalcoatl",
+ "planted": "Osiris",
+ "cands": [
+  "Osiris",
+  "Aeneas",
+  "Unkulunkulu",
+  "Oduduwa",
+  "R\u00edgs\u00feula",
+  "Wandjina",
+  "Wisakedjak",
+  "Ogun",
+  "Sosruko",
+  "Kilibob and Manup"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

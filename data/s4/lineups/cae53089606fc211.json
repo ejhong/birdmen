@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  10,
+  4,
+  9,
+  8,
+  6,
+  5,
+  7,
+  2,
+  1
+ ],
+ "most_similar_reason": "Candidate 3 clearly parallels the target's Enoch/Idris figure: raised to heaven without dying, made a scribe and communicator of divine revelation, associated with astronomy and piety, and linked to a later prophet and a flood prophecy\u2014matching the target's core themes of ascension, revelation-lineage, and cultural inventions.",
+ "least_similar_reason": "Candidate 1 is only a vague, generic creator-god figure recognized among river-basin peoples, sharing no specific motifs (writing, ascension, migration, or inventions) with the target's detailed prophetic narrative.",
+ "set": "related",
+ "pair": "Idris (prophet) | Enoch (ancestor of Noah)",
+ "i": 543,
+ "target": "Idris (prophet)",
+ "planted": "Enoch (ancestor of Noah)",
+ "cands": [
+  "Makunaima",
+  "Unkulunkulu",
+  "Enoch (ancestor of Noah)",
+  "Cangjie",
+  "Cadmus",
+  "Obatala",
+  "Great Peacemaker",
+  "Agastya",
+  "Nanabozho",
+  "Palamedes (mythology)"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 1
+}

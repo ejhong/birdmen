@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  4,
+  10,
+  5,
+  9,
+  6,
+  1,
+  7,
+  8,
+  3
+ ],
+ "most_similar_reason": "Candidate 2 shares the most distinctive functional overlaps with the target's moon-scribe deity: it is credited with inventing books and the calendar, journeys to the underworld, participates in creating mankind, and involves multiple conflicting birth/genealogy accounts and self-sacrifice, mirroring Thoth's roles as inventor of writing/science and his complex mythic involvements.",
+ "least_similar_reason": "Candidate 3 is not a narrative myth at all but an ethnographic/philosophical discussion of a linguistic concept for sacredness, lacking any of the specific figures, events, inventions, or judgment motifs found in the target.",
+ "set": "hancock",
+ "pair": "Thoth | Quetzalcoatl",
+ "i": 160,
+ "target": "Thoth",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Great Peacemaker",
+  "Quetzalcoatl",
+  "Wakan Tanka",
+  "Anansi",
+  "Ninigi-no-Mikoto",
+  "Ogun",
+  "Kokopelli",
+  "Wandjina",
+  "Bhagiratha",
+  "Ayar Manco"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  3,
+  1,
+  6,
+  9,
+  2,
+  5,
+  10,
+  7,
+  4
+ ],
+ "most_similar_reason": "Candidate 8 shares the closest cluster of distinctive motifs with the target: a Mesoamerican-style trickster/culture hero linked to the underworld god, associated with sun and moon, subject to incestuous transformation and repeated death-and-resurrection, paralleling Quetzalcoatl's underworld journey, celestial (morning/evening star) duality, incest scandal, and cyclical death/rebirth.",
+ "least_similar_reason": "Candidate 4 is a bare, generic statement about a supreme deity with two names and shares no specific narrative content, motifs, or events with the elaborate birth stories, underworld journey, sibling incest, or cacao myth of the target.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Osiris",
+ "i": 82,
+ "target": "Quetzalcoatl",
+ "planted": "Osiris",
+ "cands": [
+  "Osiris",
+  "Kvasir",
+  "Great Peacemaker",
+  "Bumba",
+  "Yu the Great",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Wisakedjak",
+  "Heitsi-eibib",
+  "Ilmarinen",
+  "Oduduwa"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 3
+}

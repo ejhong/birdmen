@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  8,
+  6,
+  2,
+  4,
+  10,
+  5,
+  3,
+  7,
+  1
+ ],
+ "most_similar_reason": "Candidate 9 is a nearly exact match: a wise advisor instructs royalty through a nested cycle of animal fables including the scheming jackal at the lion king's court who destroys a friendship, the four cooperating weak animals (crow, mouse, turtle, deer), and the war between crows and owls.",
+ "least_similar_reason": "Candidate 1 is a brief cosmogonic account of a creator god, first humans, and a defeated deity ruling fish, sharing no framing narrator, animal fables, courtly intrigue, or friendship motifs with the target.",
+ "set": "positive",
+ "pair": "Kalila wa-Dimna | Panchatantra",
+ "i": 355,
+ "target": "Kalila wa-Dimna",
+ "planted": "Panchatantra",
+ "cands": [
+  "Pachacamac",
+  "Apkallu",
+  "Heitsi-eibib",
+  "Yu the Great",
+  "Qat (deity)",
+  "Bran the Blessed",
+  "Kutkh",
+  "Maya Hero Twins",
+  "Panchatantra",
+  "Triptolemus"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

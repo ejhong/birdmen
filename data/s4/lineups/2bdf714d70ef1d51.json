@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  5,
+  3,
+  6,
+  8,
+  4,
+  7,
+  2,
+  10,
+  1
+ ],
+ "most_similar_reason": "Candidate 9 centers on a feathered/plumed serpent deity with multiple birth myths, a sibling relationship turning tragic, an underworld journey tied to creation, and a transformation into a celestial body, closely paralleling the target's cluster of plumed-serpent tales, sibling bonds, and life-death journeys.",
+ "least_similar_reason": "Candidate 1 focuses entirely on a smith-god's metalworking feats and forged brides, sharing no serpent deity, sibling-cave motif, or life-death journey found in the target.",
+ "set": "related",
+ "pair": "Kukulkan | Quetzalcoatl",
+ "i": 410,
+ "target": "Kukulkan",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Ilmarinen",
+  "Yu the Great",
+  "T\u0101ne",
+  "Pachacamac",
+  "Bachu\u00e9",
+  "\u014ckuninushi",
+  "Mbombo",
+  "Mama Ocllo",
+  "Quetzalcoatl",
+  "Adapa"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

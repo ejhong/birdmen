@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  8,
+  9,
+  6,
+  1,
+  7,
+  5,
+  2,
+  10,
+  3
+ ],
+ "most_similar_reason": "Candidate 4 directly parallels the target's Mesopotamian mythological framework, featuring the seven apkallu sages (paralleling the hero's sage servants), a flood narrative, banishment into primeval waters, tablets of destiny, and healing knowledge\u2014core motifs tied to the same wisdom/water deity tradition as the target.",
+ "least_similar_reason": "Candidate 3 explicitly states it contains no narrative details, actions, relationships, or events beyond identifying a deity name, making it entirely devoid of the rich mythological content, family relationships, and specific creation/flood/kingmaker episodes that define the target story.",
+ "set": "related",
+ "pair": "Enki | Oannes",
+ "i": 485,
+ "target": "Enki",
+ "planted": "Oannes",
+ "cands": [
+  "Shennong",
+  "Makunaima",
+  "Abassi",
+  "Oannes",
+  "Mama Ocllo",
+  "Bran the Blessed",
+  "Sky Woman",
+  "\u014ckuninushi",
+  "Aeneas",
+  "Bumba"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

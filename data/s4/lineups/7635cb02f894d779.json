@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  4,
+  10,
+  9,
+  2,
+  1,
+  8,
+  6,
+  5,
+  7
+ ],
+ "most_similar_reason": "Candidate 3 features a mountain deity who shapes mountains, lakes, and caves, leaps from and flattens a specific sacred mountain, and is depicted in a nearby cave with paintings at a revered site\u2014closely mirroring the target's mountain deity, cave, and associated sacred landscape.",
+ "least_similar_reason": "Candidate 7 describes a bearded creator who rises from a lake, builds a city, and vanishes across the sea, with no mountain deity, cave, mummies, or salt flat motifs, making it the least thematically connected to the target.",
+ "set": "related",
+ "pair": "Tunupa | Viracocha",
+ "i": 458,
+ "target": "Tunupa",
+ "planted": "Viracocha",
+ "cands": [
+  "Glooscap",
+  "Coyote (mythology)",
+  "Baiame",
+  "Ninigi-no-Mikoto",
+  "Hiawatha",
+  "White Buffalo Calf Woman",
+  "Viracocha",
+  "Cangjie",
+  "Ogun",
+  "Huitzilopochtli"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 10
+}

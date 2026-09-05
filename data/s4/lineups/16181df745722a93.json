@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  10,
+  4,
+  9,
+  3,
+  7,
+  5,
+  8,
+  2,
+  6
+ ],
+ "most_similar_reason": "Candidate 1, like the target, centers on a royal heir who leaves worldly life for an ascetic religious path founded/taught by a wandering teacher, with renunciation of rule, solitary practice, and the founding of a devoted community.",
+ "least_similar_reason": "Candidate 6 is a bare identification of a deity with no narrative at all, sharing none of the target's episodes of prophecy, confinement, conversion, abdication, or hermit life.",
+ "set": "positive",
+ "pair": "Barlaam and Josaphat | Gautama Buddha",
+ "i": 331,
+ "target": "Barlaam and Josaphat",
+ "planted": "Gautama Buddha",
+ "cands": [
+  "Gautama Buddha",
+  "Anansi",
+  "Palamedes (mythology)",
+  "Cadmus",
+  "Qat (deity)",
+  "Abassi",
+  "Yellow Emperor",
+  "Coyote (mythology)",
+  "Romulus and Remus",
+  "Gesar"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

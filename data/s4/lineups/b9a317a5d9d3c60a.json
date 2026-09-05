@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  7,
+  6,
+  9,
+  4,
+  5,
+  3,
+  1,
+  2,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 retells essentially the same epic \u2014 a divine incarnation hero who wins a princess at an archery/bow contest, is exiled to the forest with his brother, spurns a demoness, whose rejection leads a multi-headed demon king to abduct the wife, after which the hero allies with monkey figures and an exiled monkey prince, finds and rescues her, and kills the demon king before returning home.",
+ "least_similar_reason": "Candidate 10 is a cosmogonic trickster-raven cycle about shaping land, stealing light, and animal-spirit pranks, with no hero-prince, exile, abduction of a wife, or war against a demon king.",
+ "set": "positive",
+ "pair": "Ramayana | Ramakien",
+ "i": 303,
+ "target": "Ramayana",
+ "planted": "Ramakien",
+ "cands": [
+  "Ogun",
+  "Berossus",
+  "Itzamna",
+  "Glooscap",
+  "Tagaro",
+  "R\u00edgs\u00feula",
+  "Huitzilopochtli",
+  "Ramakien",
+  "Dangun",
+  "Kutkh"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

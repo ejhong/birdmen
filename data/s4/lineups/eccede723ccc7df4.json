@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  3,
+  6,
+  1,
+  7,
+  2,
+  10,
+  5,
+  4,
+  9
+ ],
+ "most_similar_reason": "Candidate 8 shares the most distinctive cluster with the target: a culture-hero deity with multiple conflicting versions of his birth and end, who creates and animates the first humans, is paired with a trickster counterpart, orders the world (night/dawn), and finally departs the world with a promise of return, closely paralleling the feathered serpent's creation of mankind, trickery by a rival god, and fiery departure into the sky.",
+ "least_similar_reason": "Candidate 9 is not a hero's biography at all but a static description of rain spirits and rock-painting practice, with no birth accounts, no creation of humans, no gift of writing or crops, and no downfall or transformation into a star.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Bochica",
+ "i": 134,
+ "target": "Quetzalcoatl",
+ "planted": "Bochica",
+ "cands": [
+  "Cangjie",
+  "Heitsi-eibib",
+  "Sky Woman",
+  "Ninigi-no-Mikoto",
+  "Adapa",
+  "Bochica",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Qat (deity)",
+  "Wandjina",
+  "Kokopelli"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 3
+}

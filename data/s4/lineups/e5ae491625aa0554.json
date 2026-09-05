@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  1,
+  3,
+  9,
+  10,
+  4,
+  7,
+  2,
+  6,
+  8
+ ],
+ "most_similar_reason": "Candidate 5 shares the most distinctive thematic cluster with the target\u2014a divine, human-formed teacher who emerges from a primeval body of water, founds cities, brings civilization and its arts, causes and survives a great flood, and ultimately disappears across the sea, paralleling the Apkallu/Oannes complex of civilizing sages tied to floodwaters and city-founding.",
+ "least_similar_reason": "Candidate 8 is an extremely sparse, generic statement about a creator god with no concrete motifs (no flood, no sages, no city-founding, no hybrid beings) to compare against the richly detailed target myth.",
+ "set": "hancock",
+ "pair": "Oannes | Viracocha",
+ "i": 31,
+ "target": "Oannes",
+ "planted": "Viracocha",
+ "cands": [
+  "Great Peacemaker",
+  "Sosruko",
+  "White Buffalo Calf Woman",
+  "Tagaro",
+  "Viracocha",
+  "Unkulunkulu",
+  "Heitsi-eibib",
+  "Makunaima",
+  "Kutkh",
+  "Agastya"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  8,
+  7,
+  5,
+  4,
+  1,
+  3,
+  2,
+  10,
+  9
+ ],
+ "most_similar_reason": "Candidate 6 (the moon-deity scribe) shares the richest set of specific structural parallels with the target\u2014an inventor of writing/calendar-like science who helps engineer the birth of four sibling deities, aids in restoring a slain god to enable a son's conception, mediates a conflict between two divine factions, and serves as judge of the dead, closely echoing Quetzalcoatl's roles as calendar-inventor, creator of mankind with another god, and cosmic judge/underworld figure.",
+ "least_similar_reason": "Candidate 9 is an extremely minimal, generic statement about a nameless creator god with no specific motifs, events, or relationships that correspond to any of the target's distinctive birth stories, cosmic roles, or deeds.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Thoth",
+ "i": 174,
+ "target": "Quetzalcoatl",
+ "planted": "Thoth",
+ "cands": [
+  "Dangun",
+  "Wisakedjak",
+  "Kutkh",
+  "Cadmus",
+  "Agastya",
+  "Thoth",
+  "Tangaroa",
+  "Obatala",
+  "Makunaima",
+  "Sosruko"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

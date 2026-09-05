@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  6,
+  4,
+  2,
+  8,
+  1,
+  10,
+  3,
+  7,
+  5
+ ],
+ "most_similar_reason": "Candidate 9 features a civilizing culture-hero explicitly linked to wind and multiple conflicting origin/identity accounts, closely paralleling the target's shifting testimonies (building, animal father, idol, wind) and its theme of a deity who brings knowledge, calendars, and religion to humanity.",
+ "least_similar_reason": "Candidate 5 concerns ancestral creation figures shaping landscapes and clans through canoe journeys and ceremonial objects, sharing only the loosest 'mythic journey' framework with no correspondence to the target's conflicting testimonies, cave retreat, chiefly consultations, or sun-temple founding.",
+ "set": "hancock",
+ "pair": "Bochica | Quetzalcoatl",
+ "i": 122,
+ "target": "Bochica",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "T\u0101ne",
+  "Cadmus",
+  "Orpheus",
+  "Berossus",
+  "Djanggawul",
+  "R\u00edgs\u00feula",
+  "Kvasir",
+  "Romulus and Remus",
+  "Quetzalcoatl",
+  "Glooscap"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

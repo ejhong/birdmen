@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  7,
+  6,
+  3,
+  9,
+  2,
+  5,
+  10,
+  4,
+  8
+ ],
+ "most_similar_reason": "Candidate 1 shares the specific fish-avatar warning of a flood, the boat, the towing to safety, sacred scriptures, and the cyclical renewal of ages/rulers that closely mirrors the target's flood and Manu-like narrative.",
+ "least_similar_reason": "Candidate 8 concerns an abstract creator-death cosmological struggle with no progenitor lineage, flood, boat, or fish-avatar motifs, making it the least similar in content.",
+ "set": "positive",
+ "pair": "Manu (Hinduism) | Matsya",
+ "i": 362,
+ "target": "Manu (Hinduism)",
+ "planted": "Matsya",
+ "cands": [
+  "Matsya",
+  "Amirani",
+  "Shennong",
+  "White Buffalo Calf Woman",
+  "Oduduwa",
+  "Yu the Great",
+  "Adapa",
+  "Nyame",
+  "Tagaro",
+  "Wakan Tanka"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

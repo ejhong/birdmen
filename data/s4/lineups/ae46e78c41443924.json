@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  5,
+  1,
+  4,
+  10,
+  7,
+  6,
+  8,
+  9,
+  2
+ ],
+ "most_similar_reason": "Candidate 3 shares the target's core cluster of craft-and-fire motifs: a divine artificer figure, the origin of fire, and above all the fashioning of an artificial woman by a smith/craftsman god as a fateful, ill-omened creation, plus culture-hero gifts to humanity.",
+ "least_similar_reason": "Candidate 2 describes an abstract, unknowable supreme deity approached through spirit mediums, with no artificer, no forging, no crafted objects or narrative episodes resembling the smith-god's exploits.",
+ "set": "random",
+ "pair": "Ilmarinen | Gesar",
+ "i": 593,
+ "target": "Ilmarinen",
+ "planted": "Gesar",
+ "cands": [
+  "Amirani",
+  "Mwari",
+  "Prometheus",
+  "Yu the Great",
+  "Kutkh",
+  "Gesar",
+  "Kokopelli",
+  "Romulus and Remus",
+  "Bachu\u00e9",
+  "Oduduwa"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 7
+}

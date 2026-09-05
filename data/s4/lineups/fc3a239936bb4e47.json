@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  2,
+  3,
+  4,
+  7,
+  10,
+  6,
+  8,
+  1,
+  5
+ ],
+ "most_similar_reason": "Candidate 9 is essentially the same narrative complex: the archetypal first man/progenitor whose name titles successive world-ages, with the seventh warned by a fish-incarnation of a preserver god who instructs him to build a boat loaded with the scriptures, seven sages and his family, then tows it through the deluge to safety.",
+ "least_similar_reason": "Candidate 5 has no gods, no flood, no fish or rescued ancestor at all, describing instead an agricultural harvest custom of making a straw figure to house a grain spirit.",
+ "set": "positive",
+ "pair": "Matsya | Manu (Hinduism)",
+ "i": 371,
+ "target": "Matsya",
+ "planted": "Manu (Hinduism)",
+ "cands": [
+  "Unkulunkulu",
+  "Glooscap",
+  "Ninigi-no-Mikoto",
+  "Kvasir",
+  "Corn Mother",
+  "Ilmarinen",
+  "Shennong",
+  "Heitsi-eibib",
+  "Manu (Hinduism)",
+  "Amirani"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

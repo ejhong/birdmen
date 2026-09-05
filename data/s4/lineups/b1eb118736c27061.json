@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  7,
+  6,
+  9,
+  1,
+  3,
+  4,
+  2,
+  10,
+  5
+ ],
+ "most_similar_reason": "Candidate 8 shares the core structural sequence of the target's flood narrative\u2014a hero commanded by a deity to build a boat, save family and animals, survive the flood, release birds, offer sacrifice, and receive divine favor\u2014making it by far the closest match in plot and motif.",
+ "least_similar_reason": "Candidate 5 is a minimal, abstract mention of a creator god with no narrative events, characters, or motifs corresponding to the flood, ark, covenant, or patriarchal lineage found in the target.",
+ "set": "positive",
+ "pair": "Noah | Utnapishtim",
+ "i": 279,
+ "target": "Noah",
+ "planted": "Utnapishtim",
+ "cands": [
+  "Huitzilopochtli",
+  "Orpheus",
+  "Djanggawul",
+  "Amirani",
+  "Makunaima",
+  "Dangun",
+  "Prometheus",
+  "Utnapishtim",
+  "Shennong",
+  "Great Peacemaker"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

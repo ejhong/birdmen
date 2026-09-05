@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  4,
+  2,
+  6,
+  7,
+  3,
+  1,
+  5,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 9 shares the specific, unusual pairing of inventing a system of writing (paralleling the deity's invention of books/calendar) with the striking detail of grain falling from the sky as a marvel tied to that invention, echoing the target's grain-crop gift.",
+ "least_similar_reason": "Candidate 10 is a generic trickster/flood-creation narrative with no birth-story variants, no cardinal-direction siblings, no underworld bone-creation of humanity, no incest/shame episode, and no cultural gifts like writing or cacao, sharing only the broad idea of a creator-trickster figure.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Osiris",
+ "i": 89,
+ "target": "Quetzalcoatl",
+ "planted": "Osiris",
+ "cands": [
+  "Bran the Blessed",
+  "Osiris",
+  "Heitsi-eibib",
+  "Sky Woman",
+  "Wayland the Smith",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Rama",
+  "Kutkh",
+  "Cangjie",
+  "Wisakedjak"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 3
+}

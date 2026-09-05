@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  8,
+  1,
+  7,
+  5,
+  9,
+  6,
+  2,
+  10,
+  3
+ ],
+ "most_similar_reason": "Candidate 4 shares the same mythic milieu and the target's most distinctive elements: a group of semi-divine sages serving as bringers of civilization to mankind, associated with subterranean/primeval waters, a great flood dividing eras, and a wise god who dispatches and reclaims them.",
+ "least_similar_reason": "Candidate 3 offers no narrative at all\\u2014merely naming a spirit recognized as a deity\\u2014so it shares none of the target's roles, episodes, or motifs such as creating humans from clay, the flood warning, or the sages.",
+ "set": "related",
+ "pair": "Enki | Oannes",
+ "i": 485,
+ "target": "Enki",
+ "planted": "Oannes",
+ "cands": [
+  "Shennong",
+  "Makunaima",
+  "Abassi",
+  "Oannes",
+  "Mama Ocllo",
+  "Bran the Blessed",
+  "Sky Woman",
+  "\u014ckuninushi",
+  "Aeneas",
+  "Bumba"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  5,
+  7,
+  2,
+  9,
+  3,
+  1,
+  6,
+  4,
+  10
+ ],
+ "most_similar_reason": "Candidate 8, like the target, centers on a culture-hero figure (or group of legendary rulers) known by multiple names who originates writing, calendars, and civilization, is claimed as ancestor by royal dynasties, and whose legends are later cross-checked by a historian compiling an authoritative written account\u2014paralleling the target's sage with two names, city-founding, and 'original account' listing the seven cities.",
+ "least_similar_reason": "Candidate 10 is a purely etymological/linguistic discussion of a divine name's survival across languages and religions, with no narrative of sages, civilization-teaching, kings, floods, or protective figurines, making it structurally and thematically unrelated to the target myth.",
+ "set": "hancock",
+ "pair": "Oannes | Quetzalcoatl",
+ "i": 74,
+ "target": "Oannes",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Mbombo",
+  "T\u0101ne",
+  "Djanggawul",
+  "Makunaima",
+  "Nanabozho",
+  "Aeneas",
+  "Quetzalcoatl",
+  "Yellow Emperor",
+  "Kilibob and Manup",
+  "Waaq"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 3
+}

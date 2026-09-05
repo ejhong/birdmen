@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  1,
+  7,
+  10,
+  9,
+  5,
+  8,
+  3,
+  2,
+  6
+ ],
+ "most_similar_reason": "Candidate 4 depicts Enki/Ea, the Mesopotamian god of wisdom and subterranean waters who commands a retinue of sages, creates mankind from clay, and warns his human prot\u00e9g\u00e9 of the coming flood by speaking through a reed wall\u2014directly paralleling the target's apkallu, primeval kings, and flood narrative from the same mythological tradition.",
+ "least_similar_reason": "Candidate 6 is a classical epic of a fleeing hero, doomed love affairs, war, and city-founding with no sages, no flood-linked wisdom transmission, and no civilizing teaching motifs, making it thematically the most distant from the target.",
+ "set": "related",
+ "pair": "Oannes | Enki",
+ "i": 494,
+ "target": "Oannes",
+ "planted": "Enki",
+ "cands": [
+  "Yellow Emperor",
+  "Huitzilopochtli",
+  "Coyote (mythology)",
+  "Enki",
+  "Wandjina",
+  "Aeneas",
+  "Glooscap",
+  "Unkulunkulu",
+  "Mbombo",
+  "Anansi"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

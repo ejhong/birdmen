@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  6,
+  5,
+  7,
+  3,
+  9,
+  2,
+  4,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's core narrative almost exactly: a fish incarnation of a god warns the first man/king of a deluge, instructs him to build a boat that is towed to safety with seven sages aboard, sacred scriptures are rescued from a demon, and the survivor becomes ruler of the current world age.",
+ "least_similar_reason": "Candidate 10 is not a narrative at all but an explanation of a term for a diffuse sacred power, containing no progenitor figure, flood, boat, teaching, or sequence of events to correspond with the target.",
+ "set": "positive",
+ "pair": "Manu (Hinduism) | Matsya",
+ "i": 362,
+ "target": "Manu (Hinduism)",
+ "planted": "Matsya",
+ "cands": [
+  "Matsya",
+  "Amirani",
+  "Shennong",
+  "White Buffalo Calf Woman",
+  "Oduduwa",
+  "Yu the Great",
+  "Adapa",
+  "Nyame",
+  "Tagaro",
+  "Wakan Tanka"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

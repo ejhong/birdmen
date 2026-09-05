@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  3,
+  5,
+  6,
+  4,
+  1,
+  8,
+  9,
+  7,
+  2
+ ],
+ "most_similar_reason": "Candidate 10 is essentially the same flood narrative core as the target\u2014a righteous man warned by a deity, building a large vessel, surviving a catastrophic flood, releasing birds to test for dry land, offering a sacrifice, and receiving a divine covenant/blessing afterward.",
+ "least_similar_reason": "Candidate 2 is an extremely generic, minimal description of a creator god with no narrative events, characters, or motifs corresponding to the flood, boat-building, or immortality-quest elements of the target.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Genesis flood narrative",
+ "i": 224,
+ "target": "Gilgamesh flood myth",
+ "planted": "Genesis flood narrative",
+ "cands": [
+  "Prometheus",
+  "Makunaima",
+  "Yu the Great",
+  "Amirani",
+  "Rama",
+  "Palamedes (mythology)",
+  "Hiawatha",
+  "Glooscap",
+  "Mbombo",
+  "Genesis flood narrative"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

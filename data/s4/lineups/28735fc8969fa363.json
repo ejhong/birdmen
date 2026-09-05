@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  5,
+  4,
+  9,
+  10,
+  3,
+  6,
+  7,
+  8,
+  1
+ ],
+ "most_similar_reason": "Candidate 2 recounts nearly the same epic\u2014an incarnate god-hero who wins a princess in an archery contest, is exiled with his brother, loses his wife to a multi-headed demon king, allies with monkey princes and a monkey general, builds a causeway, and defeats the demon king to reunite with his wife\u2014mirroring almost every major plot beat of the target.",
+ "least_similar_reason": "Candidate 1 is a genealogical and cultural-invention myth about a legendary sovereign credited with calendars, writing, and dynastic origins, sharing no specific narrative motifs (exile, bow contest, abduction, monkey allies) with the target's heroic quest story.",
+ "set": "positive",
+ "pair": "Ramayana | Ramakien",
+ "i": 309,
+ "target": "Ramayana",
+ "planted": "Ramakien",
+ "cands": [
+  "Yellow Emperor",
+  "Ramakien",
+  "Ogun",
+  "Huitzilopochtli",
+  "Maya Hero Twins",
+  "Apkallu",
+  "Ziusudra",
+  "White Buffalo Calf Woman",
+  "Prometheus",
+  "Mama Ocllo"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 1
+}

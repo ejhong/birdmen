@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  9,
+  4,
+  3,
+  6,
+  10,
+  7,
+  5,
+  1,
+  2
+ ],
+ "most_similar_reason": "Candidate 8 features a wandering civilizing deity who appears in towns, is welcomed with hospitality, retreats to a cave where local chiefs seek his wisdom, and is linked to a sun temple and commemorative festivals\u2014closely echoing the target's bearded traveling creator who teaches civilization, is sought by peoples, and is honored with rites of return.",
+ "least_similar_reason": "Candidate 2 is an abstract linguistic and etymological discussion of a word for 'God' across related peoples, containing no narrative events, creation acts, floods, or teaching episodes, making it thematically and structurally unrelated to the target's mythic narrative.",
+ "set": "hancock",
+ "pair": "Viracocha | Bochica",
+ "i": 204,
+ "target": "Viracocha",
+ "planted": "Bochica",
+ "cands": [
+  "Wandjina",
+  "Waaq",
+  "Cadmus",
+  "Dangun",
+  "Heitsi-eibib",
+  "Bran the Blessed",
+  "Agastya",
+  "Bochica",
+  "Obatala",
+  "Aeneas"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

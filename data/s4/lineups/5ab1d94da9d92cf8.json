@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  1,
+  3,
+  5,
+  8,
+  9,
+  2,
+  7,
+  4,
+  10
+ ],
+ "most_similar_reason": "Candidate 6 shares the most distinctive motifs with the target\u2014a deity credited with inventing writing and the calendar, associated with a celestial twin (morning/evening star, paralleling the moon/sun pairing), involved in the creation of humanity, and linked to the underworld and self-sacrifice, echoing Thoth's roles as scribe-inventor, counselor, and underworld judge.",
+ "least_similar_reason": "Candidate 10 offers only a bare identification of a creator god with no narrative content, actions, relationships, or motifs to compare against the richly detailed mythic episodes of the target.",
+ "set": "hancock",
+ "pair": "Thoth | Quetzalcoatl",
+ "i": 162,
+ "target": "Thoth",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Berossus",
+  "White Buffalo Calf Woman",
+  "T\u0101ne",
+  "Abassi",
+  "Orpheus",
+  "Quetzalcoatl",
+  "Wandjina",
+  "Amirani",
+  "Pachacamac",
+  "Makunaima"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

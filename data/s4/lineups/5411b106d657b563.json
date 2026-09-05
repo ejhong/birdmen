@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  6,
+  9,
+  4,
+  7,
+  8,
+  2,
+  3,
+  5,
+  1
+ ],
+ "most_similar_reason": "Candidate 10 features sage-like semi-divine figures born through unusual supernatural means, credited with teaching, taming nature (lowering a mountain, drinking the ocean), aiding gods, and interacting with kings/exiled princes\u2014paralleling the target's sages as civilizing culture-heroes who perform miraculous feats and serve the gods.",
+ "least_similar_reason": "Candidate 1 is purely an etymological and linguistic history of a divine name across cultures, with no sages, kings, floods, cities, or civilizing acts, making it thematically unrelated to the target's mythic narrative content.",
+ "set": "hancock",
+ "pair": "Oannes | Osiris",
+ "i": 100,
+ "target": "Oannes",
+ "planted": "Osiris",
+ "cands": [
+  "Waaq",
+  "Huitzilopochtli",
+  "Mwari",
+  "Great Peacemaker",
+  "Wakan Tanka",
+  "Osiris",
+  "Rama",
+  "Ilmarinen",
+  "Aeneas",
+  "Agastya"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 2
+}

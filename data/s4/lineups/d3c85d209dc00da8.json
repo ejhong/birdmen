@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  4,
+  6,
+  3,
+  1,
+  7,
+  10,
+  5,
+  8,
+  2
+ ],
+ "most_similar_reason": "Candidate 9 shares the most distinctive specific motifs with the target: a founder figure who is son of a sun/creator god, carrying a golden staff, emerging with siblings, marrying a sister-consort, founding a city, and connections to a great lake and island temple, matching the target's flood-survivor pair with golden staff who founded a civilization.",
+ "least_similar_reason": "Candidate 2 is not a narrative at all but a lexical and theological discussion of a term for sacred power, with no creator figure, no creation of humans, no flood, and no sequence of events to compare.",
+ "set": "related",
+ "pair": "Viracocha | Manco C\u00e1pac",
+ "i": 423,
+ "target": "Viracocha",
+ "planted": "Manco C\u00e1pac",
+ "cands": [
+  "Hiawatha",
+  "Wakan Tanka",
+  "Adapa",
+  "Yu the Great",
+  "Tagaro",
+  "\u014ckuninushi",
+  "Ogun",
+  "Kokopelli",
+  "Manco C\u00e1pac",
+  "Amirani"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  8,
+  2,
+  1,
+  5,
+  9,
+  10,
+  4,
+  7,
+  3
+ ],
+ "most_similar_reason": "Candidate 6 shares the target's distinctive core episodes almost exactly: a trickster-hero with a magic fish-hook who deceives his brothers on a fishing trip and hauls up islands (with the brothers' disobedience spoiling the result), plus feats using his mother's/sister's hair and cosmic reordering for humanity's benefit.",
+ "least_similar_reason": "Candidate 3 is a single bare statement that a two-named being was a supreme deity, containing no events, deeds, or relationships to compare with the target's rich sequence of exploits.",
+ "set": "related",
+ "pair": "M\u0101ui (M\u0101ori mythology) | M\u0101ui (Hawaiian mythology)",
+ "i": 524,
+ "target": "M\u0101ui (M\u0101ori mythology)",
+ "planted": "M\u0101ui (Hawaiian mythology)",
+ "cands": [
+  "Kvasir",
+  "Orpheus",
+  "Bumba",
+  "Yellow Emperor",
+  "Djanggawul",
+  "M\u0101ui (Hawaiian mythology)",
+  "Unkulunkulu",
+  "Sosruko",
+  "Ayar Manco",
+  "Dangun"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  10,
+  8,
+  3,
+  5,
+  6,
+  7,
+  4,
+  9,
+  2
+ ],
+ "most_similar_reason": "Candidate 1 matches the target most closely because it centers on a civilizing hero/deity who descends or appears among people, travels from place to place teaching them the foundations of civilization and religion, is variously described in conflicting versions, and is tied to a sun deity's offspring founding a sacred civilization.",
+ "least_similar_reason": "Candidate 2 is least similar because it describes an agricultural harvest custom of housing a grain spirit in a straw doll, with no hero figure, no descent to earth, no teaching of wisdom, and no founding of a shrine or religion.",
+ "set": "hancock",
+ "pair": "Bochica | Viracocha",
+ "i": 213,
+ "target": "Bochica",
+ "planted": "Viracocha",
+ "cands": [
+  "Viracocha",
+  "Corn Mother",
+  "Prometheus",
+  "Abassi",
+  "Kvasir",
+  "Djanggawul",
+  "Rama",
+  "Cangjie",
+  "Wayland the Smith",
+  "Huitzilopochtli"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

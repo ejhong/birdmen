@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  9,
+  3,
+  1,
+  5,
+  8,
+  6,
+  10,
+  4,
+  2
+ ],
+ "most_similar_reason": "Candidate 7 tells essentially the same life: a righteous early ancestor descended from the first man who preaches to a wayward people, is the first to use the pen, study the stars and establish measures, and is famously 'raised to a high station' \u2014 carried up through the heavens by an angel and taken by God rather than dying an ordinary death, matching the target's ascension, scribal role, and angelic associations point for point.",
+ "least_similar_reason": "Candidate 2 describes a humpbacked flute-playing fertility trickster who distributes unborn children and brings rain and spring, sharing none of the target's motifs of a righteous ancestor, bodily ascension without death, heavenly scribe-hood, angelic command, or flood prophecy.",
+ "set": "related",
+ "pair": "Enoch (ancestor of Noah) | Idris (prophet)",
+ "i": 550,
+ "target": "Enoch (ancestor of Noah)",
+ "planted": "Idris (prophet)",
+ "cands": [
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Kokopelli",
+  "Ogun",
+  "Tezcatlipoca",
+  "Glooscap",
+  "Ilmarinen",
+  "Idris (prophet)",
+  "Obatala",
+  "Berossus",
+  "Huitzilopochtli"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

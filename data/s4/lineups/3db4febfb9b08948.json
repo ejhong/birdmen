@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  3,
+  8,
+  1,
+  6,
+  2,
+  4,
+  7,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 5 shares the closest cluster of specific motifs with the target: giant antagonists/kinsmen, a marriage sought across the sea, a war of vengeance in which the hero's kin are slaughtered, magical restoration of the dead, and the hero's own fatal, self-sacrificial end after superhuman feats.",
+ "least_similar_reason": "Candidate 10 is a pure cosmogony about a creator vomiting up the heavens, animals, and men, with no hero biography, no combat with giants or dragons, no bride quest, and no punishment or imprisonment.",
+ "set": "random",
+ "pair": "Amirani | Great Peacemaker",
+ "i": 589,
+ "target": "Amirani",
+ "planted": "Great Peacemaker",
+ "cands": [
+  "Palamedes (mythology)",
+  "Tezcatlipoca",
+  "Great Peacemaker",
+  "Kilibob and Manup",
+  "Bran the Blessed",
+  "Wayland the Smith",
+  "Dangun",
+  "Agastya",
+  "Apkallu",
+  "Mbombo"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 2
+}

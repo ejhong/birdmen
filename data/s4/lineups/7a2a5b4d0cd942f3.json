@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  3,
+  4,
+  8,
+  2,
+  1,
+  7,
+  9,
+  5,
+  6
+ ],
+ "most_similar_reason": "Candidate 10 is unmistakably the Enoch/Idris figure himself, sharing the exact core motifs of the target: son of a patriarch, taken without death, made scribe and guardian of celestial secrets, chief of angels, and linked to conveying revelation to a later prophet and to the flood narrative, matching the target's Idris-Mi'raj material almost point for point.",
+ "least_similar_reason": "Candidate 6 is not a narrative at all but a linguistic/etymological discussion of a divine name across languages, sharing no plot elements, characters, or specific motifs with the target's prophet story.",
+ "set": "related",
+ "pair": "Idris (prophet) | Enoch (ancestor of Noah)",
+ "i": 547,
+ "target": "Idris (prophet)",
+ "planted": "Enoch (ancestor of Noah)",
+ "cands": [
+  "Heitsi-eibib",
+  "Sosruko",
+  "Ziusudra",
+  "Hiawatha",
+  "Makunaima",
+  "Waaq",
+  "Wisakedjak",
+  "Nyame",
+  "Djanggawul",
+  "Enoch (ancestor of Noah)"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

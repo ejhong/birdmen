@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  9,
+  6,
+  10,
+  7,
+  1,
+  3,
+  4,
+  5,
+  8
+ ],
+ "most_similar_reason": "Candidate 2 most closely parallels the target's structure: a hero conceived through a divine being overcome by desire, who grows into a renowned figure and passes through a long chain of episodes\u2014marriage to a royal daughter promised elsewhere, warfare and reconciliation among divine factions, long-distance journeys to distant lands, and encounters with exiles and prophecy\u2014culminating in his elevation to divine status.",
+ "least_similar_reason": "Candidate 8 shares almost nothing with the target: it is an abstract account of a creator, personified Death, poison, a sacred drum, and vulture/spider emblems, with no birth-from-a-vessel, no marriage or family, no ascetic sage, and none of the distinctive episodic deeds.",
+ "set": "random",
+ "pair": "Agastya | Wayland the Smith",
+ "i": 571,
+ "target": "Agastya",
+ "planted": "Wayland the Smith",
+ "cands": [
+  "Wayland the Smith",
+  "Aeneas",
+  "Heitsi-eibib",
+  "Pachacamac",
+  "Sosruko",
+  "Sky Woman",
+  "Tagaro",
+  "Nyame",
+  "T\u0101ne",
+  "Tangaroa"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 6
+}

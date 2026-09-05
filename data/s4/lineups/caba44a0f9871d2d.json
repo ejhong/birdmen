@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  10,
+  6,
+  1,
+  4,
+  8,
+  5,
+  7,
+  9,
+  3
+ ],
+ "most_similar_reason": "Candidate 2 tells essentially the same figure's story: an early patriarch descended from the first man, a prophet of repentance credited with writing, measures and other arts, who is famously 'raised to a high station' \u2014 taken up into heaven so that he does not die an ordinary death.",
+ "least_similar_reason": "Candidate 3 is a cycle of trickster-spider tales about stealing stories, hoarding wisdom and outwitting a sky deity, sharing none of the target's ancestral-patriarch, ascension-without-death, scribal or revelatory motifs.",
+ "set": "related",
+ "pair": "Enoch (ancestor of Noah) | Idris (prophet)",
+ "i": 552,
+ "target": "Enoch (ancestor of Noah)",
+ "planted": "Idris (prophet)",
+ "cands": [
+  "Yu the Great",
+  "Idris (prophet)",
+  "Anansi",
+  "Kvasir",
+  "Qat (deity)",
+  "Dangun",
+  "Unkulunkulu",
+  "Obatala",
+  "Mwari",
+  "Triptolemus"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 1
+}

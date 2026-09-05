@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  3,
+  8,
+  6,
+  9,
+  5,
+  10,
+  1,
+  4,
+  2
+ ],
+ "most_similar_reason": "Candidate 7 shares the core flood-myth skeleton\u2014divine anger at human wickedness, a forewarned hero building a vessel, survival of the deluge, post-flood thanksgiving/sacrifice, and sons who become ancestors of peoples\u2014closely paralleling the target's Deucalion-style flood narrative.",
+ "least_similar_reason": "Candidate 2 is a bare, generic statement about a creator god with no flood, no vessel, no repopulation motif, and no narrative detail linking it to the target's specific events.",
+ "set": "positive",
+ "pair": "Deucalion | Noah",
+ "i": 386,
+ "target": "Deucalion",
+ "planted": "Noah",
+ "cands": [
+  "Heitsi-eibib",
+  "Makunaima",
+  "Berossus",
+  "Cangjie",
+  "Amirani",
+  "Pachacamac",
+  "Noah",
+  "Yu the Great",
+  "Ilmarinen",
+  "Agastya"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

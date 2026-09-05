@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  1,
+  7,
+  4,
+  3,
+  9,
+  10,
+  6,
+  2,
+  8
+ ],
+ "most_similar_reason": "Candidate 5 (the Gilgamesh flood account) shares the same core structure as the target: a god warns a chosen man to build a boat, animals and kin are saved, a flood of fixed duration destroys all life, the boat lands on a mountain, birds (including a raven that does not return) are released to test the waters, and the survivor offers a sacrifice that appeases the gods.",
+ "least_similar_reason": "Candidate 8 offers only a bare statement that a deity had two names, providing no narrative events, motifs, or relationships comparable to the flood, covenant, or ark elements of the target.",
+ "set": "positive",
+ "pair": "Genesis flood narrative | Gilgamesh flood myth",
+ "i": 230,
+ "target": "Genesis flood narrative",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Yu the Great",
+  "Yellow Emperor",
+  "\u014ckuninushi",
+  "Prometheus",
+  "Gilgamesh flood myth",
+  "T\u0101ne",
+  "Obatala",
+  "Bumba",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Maya Hero Twins"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  4,
+  10,
+  6,
+  7,
+  5,
+  2,
+  8,
+  1,
+  3
+ ],
+ "most_similar_reason": "Candidate 9 matches the target closely: a wind-associated civilizing deity whose origins are given in several mutually conflicting accounts by different sources, who descends among peoples, teaches them arts and a religion/calendar, retreats/withdraws, and is tied to solar-astral cult and sacred sites.",
+ "least_similar_reason": "Candidate 3 is least similar because it centers on a musician's love, underworld rescue and dismemberment, with no variant identities, no descent to teach a religion, no cave consultation by chiefs, and no founding of a sacred city with a sun temple.",
+ "set": "hancock",
+ "pair": "Bochica | Quetzalcoatl",
+ "i": 122,
+ "target": "Bochica",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "T\u0101ne",
+  "Cadmus",
+  "Orpheus",
+  "Berossus",
+  "Djanggawul",
+  "R\u00edgs\u00feula",
+  "Kvasir",
+  "Romulus and Remus",
+  "Quetzalcoatl",
+  "Glooscap"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

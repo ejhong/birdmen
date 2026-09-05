@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  6,
+  3,
+  5,
+  2,
+  9,
+  10,
+  1,
+  4,
+  8
+ ],
+ "most_similar_reason": "Candidate 7 centers on culture-bringing sage figures who reveal writing and the arts of civilization to humankind while serving alongside kings, mirroring the target's court historian who invents writing and teaches it to rulers.",
+ "least_similar_reason": "Candidate 8 is a philological account of a divine name's distribution across languages, containing no inventor figure, no teaching of an art, and no narrative sequence at all.",
+ "set": "random",
+ "pair": "Cangjie | Coyote (mythology)",
+ "i": 566,
+ "target": "Cangjie",
+ "planted": "Coyote (mythology)",
+ "cands": [
+  "Romulus and Remus",
+  "\u014ckuninushi",
+  "Triptolemus",
+  "Tangaroa",
+  "Adapa",
+  "Berossus",
+  "Apkallu",
+  "Waaq",
+  "Huitzilopochtli",
+  "Coyote (mythology)"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 7
+}

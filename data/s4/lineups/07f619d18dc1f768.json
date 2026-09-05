@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  2,
+  8,
+  6,
+  7,
+  3,
+  4,
+  5,
+  1,
+  9
+ ],
+ "most_similar_reason": "Candidate 10 shares the core flood-narrative structure with the target: a father warns his son of a divine flood sent to punish humanity, the hero builds a vessel, survives with his wife, the waters recede on a mountain, he offers thanks to the god, and he becomes progenitor of the peoples who repopulate the earth.",
+ "least_similar_reason": "Candidate 9 is an abstract cosmological myth about the creation of the universe, life, and death and a mythic struggle with a personified Death figure, sharing no flood, ark, ancestral lineage, or drunkenness/curse motifs with the target.",
+ "set": "positive",
+ "pair": "Noah | Deucalion",
+ "i": 399,
+ "target": "Noah",
+ "planted": "Deucalion",
+ "cands": [
+  "Kokopelli",
+  "Obatala",
+  "Nanabozho",
+  "Tezcatlipoca",
+  "Gesar",
+  "Bhagiratha",
+  "Pachacamac",
+  "Aeneas",
+  "Nyame",
+  "Deucalion"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

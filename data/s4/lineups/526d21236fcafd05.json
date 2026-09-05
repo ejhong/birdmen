@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  6,
+  10,
+  3,
+  9,
+  1,
+  2,
+  7,
+  5,
+  8
+ ],
+ "most_similar_reason": "Candidate 4 is essentially the same Osiris-Isis narrative: a murdered brother-husband king dismembered by a jealous brother, a sister-wife who searches for and reassembles the pieces, revives him magically to conceive a son, and that son later avenges him while the god rules the underworld.",
+ "least_similar_reason": "Candidate 8 describes a peacemaker figure uniting tribes through diplomacy, prophecy, and symbolic serpents, sharing no distinctive motifs of sibling marriage, dismemberment, resurrection, or maternal protection found in the target myth.",
+ "set": "related",
+ "pair": "Isis | Osiris",
+ "i": 474,
+ "target": "Isis",
+ "planted": "Osiris",
+ "cands": [
+  "Apkallu",
+  "Baiame",
+  "Prometheus",
+  "Osiris",
+  "Hiawatha",
+  "Huitzilopochtli",
+  "Unkulunkulu",
+  "Great Peacemaker",
+  "Ilmarinen",
+  "Bran the Blessed"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

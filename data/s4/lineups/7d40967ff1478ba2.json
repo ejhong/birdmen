@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  6,
+  2,
+  4,
+  9,
+  10,
+  5,
+  3,
+  8,
+  1
+ ],
+ "most_similar_reason": "Candidate 7 shares the core sequence with the target: a divine decision to destroy wicked humanity by flood, a forewarned hero who builds a wooden vessel, survives with his wife/family, gives thanks/sacrifice to the god afterward, and becomes the ancestor from whom later peoples descend.",
+ "least_similar_reason": "Candidate 1 is not a narrative at all but a philological account of a divine name's spread and decline, sharing no episodes, characters, or motifs with the flood-and-repopulation story.",
+ "set": "positive",
+ "pair": "Deucalion | Noah",
+ "i": 385,
+ "target": "Deucalion",
+ "planted": "Noah",
+ "cands": [
+  "Waaq",
+  "Mama Ocllo",
+  "Sosruko",
+  "T\u0101ne",
+  "Wayland the Smith",
+  "Ziusudra",
+  "Noah",
+  "Cangjie",
+  "Maya Hero Twins",
+  "Qat (deity)"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  1,
+  10,
+  8,
+  5,
+  6,
+  2,
+  7,
+  4,
+  3
+ ],
+ "most_similar_reason": "Candidate 9 shares the target's core narrative shape: a great god who is the child of a sky father and earth mother, embroiled in lethal rivalry with brothers, who is killed and then brought back to life by incantations/magic, with genealogies of divine offspring and a lasting cult of offerings.",
+ "least_similar_reason": "Candidate 3 has no narrative at all\u2014no birth, murder, search, or teaching\u2014only an abstract, non-acting symbol of an unknowable supreme principle, so it shares none of the target's episodes, roles, or motifs.",
+ "set": "hancock",
+ "pair": "Osiris | Oannes",
+ "i": 113,
+ "target": "Osiris",
+ "planted": "Oannes",
+ "cands": [
+  "Dangun",
+  "Ilmarinen",
+  "Sang Hyang Tunggal",
+  "Unkulunkulu",
+  "Cangjie",
+  "Kutkh",
+  "Mwari",
+  "Oannes",
+  "Tangaroa",
+  "Cadmus"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 4
+}

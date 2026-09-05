@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  2,
+  3,
+  8,
+  9,
+  5,
+  10,
+  6,
+  7,
+  1
+ ],
+ "most_similar_reason": "Candidate 4, like the target's sage, centers on a singular culture-bringing figure who invents a foundational system of civilization (writing), is marked by unusual physical traits, draws inspiration from natural/animal signs, teaches it to human leaders, and is honored afterward with monuments\u2014closely echoing the target's theme of sages bringing civilization, teaching, and being memorialized.",
+ "least_similar_reason": "Candidate 1 is a family/genealogical drama among elemental nature deities involving parental separation, sibling conflict, and ritual offerings for sea travel, with no motifs of wisdom-bringing sages, floods, kings, tablets, or civilizing teachings that define the target myth.",
+ "set": "hancock",
+ "pair": "Oannes | Osiris",
+ "i": 104,
+ "target": "Oannes",
+ "planted": "Osiris",
+ "cands": [
+  "Tangaroa",
+  "Osiris",
+  "Obatala",
+  "Cangjie",
+  "Rama",
+  "Nyame",
+  "Qat (deity)",
+  "R\u00edgs\u00feula",
+  "Great Peacemaker",
+  "Sky Woman"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 2
+}

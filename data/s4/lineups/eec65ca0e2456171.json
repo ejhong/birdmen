@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  8,
+  4,
+  10,
+  9,
+  6,
+  3,
+  1,
+  2,
+  7
+ ],
+ "most_similar_reason": "Candidate 5 explicitly recounts the same Matsya (fish-avatar) flood myth\u2014including the fish towing the boat, seven sages, sacred scriptures, and successive world-ages/rulers\u2014making it a direct match to the target's core narrative.",
+ "least_similar_reason": "Candidate 7 is an etymological and linguistic discussion of a sky-god name with no flood, fish, boat, or creation narrative, sharing only the generic concept of a deity.",
+ "set": "positive",
+ "pair": "Matsya | Manu (Hinduism)",
+ "i": 379,
+ "target": "Matsya",
+ "planted": "Manu (Hinduism)",
+ "cands": [
+  "Aeneas",
+  "Wayland the Smith",
+  "Great Peacemaker",
+  "Tezcatlipoca",
+  "Manu (Hinduism)",
+  "Unkulunkulu",
+  "Waaq",
+  "Pachacamac",
+  "Kutkh",
+  "Mbombo"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

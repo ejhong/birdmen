@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  10,
+  6,
+  5,
+  9,
+  7,
+  2,
+  4,
+  1,
+  8
+ ],
+ "most_similar_reason": "Candidate 3 shares the closest structural parallels to the target: it centers on a royal figure's conversion to a religion founded by a wandering teacher, his renunciation of rule to become a solitary ascetic, and the transmission of that faith across generations, mirroring the target's themes of renunciation, asceticism, and the founding of a monastic tradition.",
+ "least_similar_reason": "Candidate 8 is a bare, generic statement about a supreme deity with two names, containing no narrative content, events, teachings, or biographical details comparable to the target's rich account of a teacher's life and doctrine.",
+ "set": "positive",
+ "pair": "Gautama Buddha | Barlaam and Josaphat",
+ "i": 320,
+ "target": "Gautama Buddha",
+ "planted": "Barlaam and Josaphat",
+ "cands": [
+  "Huitzilopochtli",
+  "T\u0101ne",
+  "Barlaam and Josaphat",
+  "Sky Woman",
+  "Unkulunkulu",
+  "Itzamna",
+  "Orpheus",
+  "Bumba",
+  "Heitsi-eibib",
+  "Baiame"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 1
+}

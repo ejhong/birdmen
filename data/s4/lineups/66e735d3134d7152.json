@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  5,
+  4,
+  6,
+  7,
+  8,
+  2,
+  10,
+  1,
+  9
+ ],
+ "most_similar_reason": "Candidate 3 shares the closest structural match: a culture-bringing high god who journeys with companions, teaches agriculture and civilization, is associated with sons/daughters, floods, and disappearance across water, echoing the target's culture-hero telling of the fertility god's world travels and teaching of crops.",
+ "least_similar_reason": "Candidate 9 is a bare one-line statement naming a supreme deity with no narrative content, sharing no motifs, events, or relationships with the richly detailed target myth.",
+ "set": "hancock",
+ "pair": "Osiris | Viracocha",
+ "i": 55,
+ "target": "Osiris",
+ "planted": "Viracocha",
+ "cands": [
+  "Abassi",
+  "Gesar",
+  "Viracocha",
+  "Anansi",
+  "Tangaroa",
+  "Baiame",
+  "Nanabozho",
+  "Coyote (mythology)",
+  "Bumba",
+  "Wandjina"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 1
+}

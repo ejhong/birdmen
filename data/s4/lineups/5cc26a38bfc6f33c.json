@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  8,
+  2,
+  7,
+  6,
+  4,
+  5,
+  1,
+  3,
+  10
+ ],
+ "most_similar_reason": "Candidate 9 shares the flood hero's warning by a god, the ark building, the bird-release sequence (dove/swallow/raven vs black/white bird), the boat resting on a mountain, and a post-flood sacrifice with divine reconciliation, closely mirroring the target's structure and motifs.",
+ "least_similar_reason": "Candidate 10 is a linguistic/etymological survey of a divine name across cultures with no narrative of a flood, hero, or covenant, sharing no plot elements with the target.",
+ "set": "positive",
+ "pair": "Genesis flood narrative | Gilgamesh flood myth",
+ "i": 234,
+ "target": "Genesis flood narrative",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Wakan Tanka",
+  "T\u0101ne",
+  "Abassi",
+  "Hiawatha",
+  "Yellow Emperor",
+  "Kokopelli",
+  "Bachu\u00e9",
+  "Pachacamac",
+  "Gilgamesh flood myth",
+  "Waaq"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

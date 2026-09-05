@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  6,
+  3,
+  4,
+  5,
+  8,
+  2,
+  1,
+  7,
+  9
+ ],
+ "most_similar_reason": "Candidate 10 shares the most distinctive episodes with the target: a culture-hero deity who is tricked into drinking a fermented drink and disgraces himself, who nonetheless creates and gives life to mankind (from clay/bones with divine help), descends between sky and earth, has a rival/sibling divinity, and bestows crops, tools and civilization on humanity.",
+ "least_similar_reason": "Candidate 9 is essentially a linguistic and historical note on the surviving names of a sky god rather than a narrative, containing none of the target's birth stories, creation of mankind, culture-bringing, intoxication, or astral transformation.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Bochica",
+ "i": 130,
+ "target": "Quetzalcoatl",
+ "planted": "Bochica",
+ "cands": [
+  "Makunaima",
+  "Wayland the Smith",
+  "Kutkh",
+  "Apkallu",
+  "Unkulunkulu",
+  "Bochica",
+  "Corn Mother",
+  "Rama",
+  "Waaq",
+  "Obatala"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 2
+}

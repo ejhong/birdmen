@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  10,
+  6,
+  9,
+  8,
+  3,
+  5,
+  2,
+  1,
+  7
+ ],
+ "most_similar_reason": "Candidate 4 is a nearly one-to-one match: a wise elder instructing royal pupils through nested animal fable collections, with the scheming jackal at the lion king's court destroying the lion's friendship with another animal, the four friends (crow, mouse, turtle, deer) who repeatedly save each other, and the crow-versus-owl war.",
+ "least_similar_reason": "Candidate 7 is a brief mother-goddess origin legend with a lake emergence, serpent transformation, and chronicler's account, sharing none of the target's frame-tale structure, animal fables, court intrigue, or friendship-and-betrayal motifs.",
+ "set": "positive",
+ "pair": "Kalila wa-Dimna | Panchatantra",
+ "i": 356,
+ "target": "Kalila wa-Dimna",
+ "planted": "Panchatantra",
+ "cands": [
+  "Baiame",
+  "Ziusudra",
+  "Tezcatlipoca",
+  "Panchatantra",
+  "Nyame",
+  "\u014ckuninushi",
+  "Bachu\u00e9",
+  "Cangjie",
+  "Gesar",
+  "Maya Hero Twins"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

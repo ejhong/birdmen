@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  1,
+  8,
+  5,
+  3,
+  9,
+  2,
+  6,
+  10,
+  4
+ ],
+ "most_similar_reason": "Candidate 7 centers on the same distinctive figure\u2014a plumed/feathered serpent deity known through several conflicting variant tales, tied to wind, rain, the sun and cosmic movement, with an unusual sibling relationship\u2014matching the target's multi-version feathered-serpent mythology most closely.",
+ "least_similar_reason": "Candidate 4 describes an abstract, unknowable supreme creator approached through spirit mediums, with no birth stories, culture-hero deeds, underworld journey, or narrative episodes to correspond with the target.",
+ "set": "related",
+ "pair": "Quetzalcoatl | Kukulkan",
+ "i": 405,
+ "target": "Quetzalcoatl",
+ "planted": "Kukulkan",
+ "cands": [
+  "Prometheus",
+  "Adapa",
+  "Orpheus",
+  "Mwari",
+  "Ilmarinen",
+  "Agastya",
+  "Kukulkan",
+  "Berossus",
+  "Tangaroa",
+  "Anansi"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

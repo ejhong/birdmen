@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  7,
+  3,
+  5,
+  8,
+  10,
+  1,
+  6,
+  4,
+  2
+ ],
+ "most_similar_reason": "Candidate 9, like the target, centers on a miraculously conceived sage-figure who grows and speaks preternaturally early, masters and transmits sacred/technical learning, subdues threats to humanity through his own bodily/ascetic powers (ingesting poisons as the target drinks the ocean), and is remembered as a benefactor-teacher.",
+ "least_similar_reason": "Candidate 2 is not a hero narrative at all but a description of agrarian harvest customs involving a straw figure, sharing none of the target's births, marriages, contests with demons, or feats of a sage.",
+ "set": "random",
+ "pair": "Agastya | Bran the Blessed",
+ "i": 601,
+ "target": "Agastya",
+ "planted": "Bran the Blessed",
+ "cands": [
+  "Bran the Blessed",
+  "Corn Mother",
+  "Amirani",
+  "Anansi",
+  "Ninigi-no-Mikoto",
+  "Wisakedjak",
+  "Yu the Great",
+  "Aeneas",
+  "Shennong",
+  "Oduduwa"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 7
+}

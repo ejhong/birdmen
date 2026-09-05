@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  8,
+  10,
+  2,
+  4,
+  9,
+  7,
+  3,
+  5,
+  1
+ ],
+ "most_similar_reason": "Candidate 6 shares the target's core pattern of a semi-divine figure who is also a primeval king and culture-bringer, travelling to teach humanity the arts of civilization (agriculture, abandoning savagery) with a retinue of subordinate beings, whose relics are distributed to found multiple cult centers\u2014closely echoing the sages who civilize mankind, are paired with antediluvian kings, and found seven cities.",
+ "least_similar_reason": "Candidate 1 is not a narrative at all but an etymological and historical note about a word for a sky god and its survival in names and places, with no culture-bringing figures, no sequence of mythic events, and none of the target's distinctive motifs (flood, sages, kings, crafts, figurines).",
+ "set": "hancock",
+ "pair": "Oannes | Osiris",
+ "i": 100,
+ "target": "Oannes",
+ "planted": "Osiris",
+ "cands": [
+  "Waaq",
+  "Huitzilopochtli",
+  "Mwari",
+  "Great Peacemaker",
+  "Wakan Tanka",
+  "Osiris",
+  "Rama",
+  "Ilmarinen",
+  "Aeneas",
+  "Agastya"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

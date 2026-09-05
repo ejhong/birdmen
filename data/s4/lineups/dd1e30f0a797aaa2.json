@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  8,
+  2,
+  4,
+  5,
+  10,
+  7,
+  6,
+  9,
+  1
+ ],
+ "most_similar_reason": "Candidate 3 is essentially the same flood narrative structure: a deity warns a righteous man to build a vessel, load it with life, endure a flood of set duration, release birds (including a raven/dove pattern) to test the recession of waters, then offer sacrifice that appeases the gods, closely mirroring the target's flood hero episode.",
+ "least_similar_reason": "Candidate 1 describes agricultural harvest folklore about a grain spirit and straw figures, sharing no gods, flood, hero journey, or any of the specific motifs (boat, animals, birds, immortality, rejuvenating plant) found in the target.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Genesis flood narrative",
+ "i": 221,
+ "target": "Gilgamesh flood myth",
+ "planted": "Genesis flood narrative",
+ "cands": [
+  "Corn Mother",
+  "Tezcatlipoca",
+  "Genesis flood narrative",
+  "Unkulunkulu",
+  "Mwari",
+  "Wakan Tanka",
+  "Sang Hyang Tunggal",
+  "Ninigi-no-Mikoto",
+  "Bumba",
+  "Waaq"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  3,
+  2,
+  4,
+  1,
+  6,
+  5,
+  8,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 7 mirrors the target almost point-for-point: a divine brother-husband king murdered and dismembered by a jealous brother, a wife (with her sister) who searches for and reassembles the pieces, magically revives him to conceive a son, and that son later avenges the father and defeats the usurper, with the god thereafter ruling the underworld.",
+ "least_similar_reason": "Candidate 10 is a bare one-line attribution of a creator god with no narrative content, sharing no specific motifs, family structure, or episodes with the target.",
+ "set": "related",
+ "pair": "Isis | Osiris",
+ "i": 478,
+ "target": "Isis",
+ "planted": "Osiris",
+ "cands": [
+  "Obatala",
+  "Tangaroa",
+  "Bran the Blessed",
+  "Orpheus",
+  "Agastya",
+  "Heitsi-eibib",
+  "Osiris",
+  "Dangun",
+  "Berossus",
+  "Makunaima"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

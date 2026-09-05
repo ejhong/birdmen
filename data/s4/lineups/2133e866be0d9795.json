@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  9,
+  4,
+  8,
+  1,
+  2,
+  3,
+  5,
+  7,
+  10
+ ],
+ "most_similar_reason": "Candidate 6 shares the distinctive motif of a divine/prophetic figure converting a cannibal and teaching him to abandon cannibalism, plus themes of grief, ritual mourning, and reconciliation echoing the target's cannibalism-ending king and mourning goddess.",
+ "least_similar_reason": "Candidate 10 describes an abstract, unknowable supreme creator worshipped through mediums and oracles with no narrative of murder, dismemberment, marriage, or filial revenge, making it structurally and thematically the most distant from the target's concrete mythic episodes.",
+ "set": "hancock",
+ "pair": "Osiris | Oannes",
+ "i": 114,
+ "target": "Osiris",
+ "planted": "Oannes",
+ "cands": [
+  "Itzamna",
+  "Baiame",
+  "Wandjina",
+  "Nyame",
+  "Heitsi-eibib",
+  "Hiawatha",
+  "Cangjie",
+  "Oannes",
+  "Ayar Manco",
+  "Mwari"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 4
+}

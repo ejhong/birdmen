@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  9,
+  4,
+  1,
+  2,
+  7,
+  3,
+  10,
+  6,
+  8
+ ],
+ "most_similar_reason": "Candidate 5 explicitly describes a civilizing feathered-serpent-type hero who descends to found a religion, dwells in a cave consulted by chiefs, and is honored with a sun temple and festivals\u2014paralleling the target deity's role as culture-bringer and object of cult veneration.",
+ "least_similar_reason": "Candidate 8 describes a European agricultural harvest custom about a grain spirit housed in a straw figure, sharing only the faint motif of a grain-related spirit and none of the target's birth myths, underworld journey, twin star imagery, or dramatic self-destruction narrative.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Bochica",
+ "i": 138,
+ "target": "Quetzalcoatl",
+ "planted": "Bochica",
+ "cands": [
+  "\u014ckuninushi",
+  "Orpheus",
+  "Kilibob and Manup",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Bochica",
+  "Wisakedjak",
+  "Bhagiratha",
+  "Corn Mother",
+  "Prometheus",
+  "Anansi"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

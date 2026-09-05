@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  10,
+  1,
+  4,
+  7,
+  5,
+  6,
+  9,
+  8,
+  2
+ ],
+ "most_similar_reason": "Candidate 3 explicitly describes the same nested frame-tale structure of animal fables taught to princes by a wise advisor, including the lion king's jackal minister, the four cooperating weak animals (crow, mouse, turtle, deer), and the crow-owl war\u2014matching the target's distinctive Panchatantra-style structure and specific fable content almost exactly.",
+ "least_similar_reason": "Candidate 2 is a purely theological/symbolic description of an abstract divine principle with no narrative events, characters interacting, or animal fables, making it the least similar to the target's story-driven, moralistic animal fable cycle.",
+ "set": "positive",
+ "pair": "Kalila wa-Dimna | Panchatantra",
+ "i": 359,
+ "target": "Kalila wa-Dimna",
+ "planted": "Panchatantra",
+ "cands": [
+  "Prometheus",
+  "Sang Hyang Tunggal",
+  "Panchatantra",
+  "Sosruko",
+  "Nanabozho",
+  "White Buffalo Calf Woman",
+  "Amirani",
+  "Makunaima",
+  "Bumba",
+  "Wayland the Smith"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 1
+}

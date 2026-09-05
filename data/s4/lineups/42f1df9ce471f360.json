@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  10,
+  8,
+  3,
+  9,
+  6,
+  2,
+  7,
+  1,
+  5
+ ],
+ "most_similar_reason": "Candidate 4 matches the target most closely as a divine culture hero with a miraculous conception (mother swallowing something, birth counted in nines), who gives humanity grain and agriculture, invents tools and institutions, discovers a plant-based beverage he introduces to people, and dies sacrificially for mankind to be worshipped afterward.",
+ "least_similar_reason": "Candidate 5 is a bare statement that a two-named being was a supreme deity, offering no episodes, gifts, births, or relationships that could correspond to the target's rich narrative.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Oannes",
+ "i": 63,
+ "target": "Quetzalcoatl",
+ "planted": "Oannes",
+ "cands": [
+  "Sosruko",
+  "Nyame",
+  "Oannes",
+  "Shennong",
+  "Bumba",
+  "Hiawatha",
+  "Unkulunkulu",
+  "Triptolemus",
+  "Palamedes (mythology)",
+  "Obatala"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 4
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  5,
+  9,
+  8,
+  7,
+  2,
+  4,
+  6,
+  10,
+  3
+ ],
+ "most_similar_reason": "Candidate 1 shares the core motif of a mysterious bearded civilizing hero who is remembered/interpreted in multiple ways, teaches civilization while wandering in disguise, is associated with the sun/moon and later disappears, closely paralleling the target's contested identity, teaching mission, and sun-associated sacred legacy.",
+ "least_similar_reason": "Candidate 3 offers almost no narrative detail beyond naming a deity worshipped by a group, lacking any of the distinctive episodes\u2014multiple contested identities, cave retreats, chiefly pilgrimages, or sun-temple founding\u2014that define the target story.",
+ "set": "hancock",
+ "pair": "Bochica | Viracocha",
+ "i": 214,
+ "target": "Bochica",
+ "planted": "Viracocha",
+ "cands": [
+  "Viracocha",
+  "Kutkh",
+  "Abassi",
+  "Bhagiratha",
+  "Tezcatlipoca",
+  "Wayland the Smith",
+  "Kokopelli",
+  "Nanabozho",
+  "White Buffalo Calf Woman",
+  "Waaq"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

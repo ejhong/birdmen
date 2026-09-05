@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  3,
+  2,
+  7,
+  10,
+  1,
+  4,
+  8,
+  5,
+  9
+ ],
+ "most_similar_reason": "Candidate 6 shares the closest structure with the target: a culture-hero/trickster who shapes landforms, releases withheld game/water, controls a giant storm-bird, and gives humanity fire, fishing nets, and other skills, matching the target's landscape-forming, light/water-releasing, net-weaving raven.",
+ "least_similar_reason": "Candidate 9 is not a narrative at all but an abstract discussion of a term for sacred power, with no creator figure, episodes, animals, or gifts to humanity.",
+ "set": "random",
+ "pair": "Kutkh | Cangjie",
+ "i": 608,
+ "target": "Kutkh",
+ "planted": "Cangjie",
+ "cands": [
+  "Apkallu",
+  "Sosruko",
+  "Nyame",
+  "R\u00edgs\u00feula",
+  "Bumba",
+  "Glooscap",
+  "Djanggawul",
+  "Cangjie",
+  "Wakan Tanka",
+  "Ogun"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 8
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  7,
+  2,
+  6,
+  4,
+  3,
+  8,
+  1,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 5 recounts essentially the same episode as the target: a fish incarnation of a great god warns the first man/king of a coming deluge, has him build a boat that is towed to safety with seven sages aboard, recovers the stolen sacred scriptures from a demon, and the survivor becomes ruler of the present age of humanity.",
+ "least_similar_reason": "Candidate 10 has no first man, no lineage of rulers, no flood-rescue or teaching of knowledge\u2014only cloud-spirit painters of a landscape whose images are ritually repainted\u2014so it shares almost nothing with the target's content.",
+ "set": "positive",
+ "pair": "Manu (Hinduism) | Matsya",
+ "i": 363,
+ "target": "Manu (Hinduism)",
+ "planted": "Matsya",
+ "cands": [
+  "Kvasir",
+  "Yellow Emperor",
+  "Glooscap",
+  "Qat (deity)",
+  "Matsya",
+  "Obatala",
+  "Apkallu",
+  "Romulus and Remus",
+  "Kutkh",
+  "Wandjina"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  7,
+  10,
+  3,
+  5,
+  4,
+  1,
+  2,
+  9,
+  8
+ ],
+ "most_similar_reason": "Candidate 6 shares the flood narrative's core distinctive elements: gods laboring, a wise/clever god secretly instructing a chosen man through a reed wall, building a waterproof boat, gathering family and animals, and a seven-day storm sent to destroy humanity, closely mirroring the target's flood hero episode.",
+ "least_similar_reason": "Candidate 8 is a loosely connected set of trickster tales involving creation, animal councils, and transformations with no flood, boat, reed-wall warning, plant of youth, or serpent motif, sharing only the generic trickster/hero framework.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Atra-Hasis",
+ "i": 255,
+ "target": "Gilgamesh flood myth",
+ "planted": "Atra-Hasis",
+ "cands": [
+  "Ninigi-no-Mikoto",
+  "Heitsi-eibib",
+  "Shennong",
+  "Hiawatha",
+  "R\u00edgs\u00feula",
+  "Atra-Hasis",
+  "Yu the Great",
+  "Coyote (mythology)",
+  "Baiame",
+  "Prometheus"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

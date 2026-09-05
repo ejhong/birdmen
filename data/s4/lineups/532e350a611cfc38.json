@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  7,
+  9,
+  5,
+  10,
+  1,
+  6,
+  3,
+  2,
+  8
+ ],
+ "most_similar_reason": "Candidate 4 shares the exact core narrative: a primal first man/progenitor who heads successive world-ages, warned by a fish incarnation of a great god, builds a boat carrying the sacred scriptures, his family and seven sages, and is towed to safety through the deluge.",
+ "least_similar_reason": "Candidate 8, a tale of a crippled smith's revenge involving murdered princes, skull-cups, seduction, and escape by a flying garment, shares no flood, no fish, no first-man progenitor, and no culture-bringing episode with the target.",
+ "set": "positive",
+ "pair": "Matsya | Manu (Hinduism)",
+ "i": 373,
+ "target": "Matsya",
+ "planted": "Manu (Hinduism)",
+ "cands": [
+  "T\u0101ne",
+  "Bran the Blessed",
+  "White Buffalo Calf Woman",
+  "Manu (Hinduism)",
+  "Yellow Emperor",
+  "Mama Ocllo",
+  "Kilibob and Manup",
+  "Wayland the Smith",
+  "Pachacamac",
+  "Tezcatlipoca"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

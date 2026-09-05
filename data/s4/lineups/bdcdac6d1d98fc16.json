@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  9,
+  3,
+  6,
+  8,
+  1,
+  4,
+  2,
+  10,
+  7
+ ],
+ "most_similar_reason": "Candidate 5 most closely mirrors the target's core motif of divine beings sent by a god to civilize a primitive humanity, pairing with a paired figure to found a city, teach household and building arts, and establish a temple\u2014paralleling the apkallu's mission to teach civilization, found cities, and build/enlarge temples for their paired kings.",
+ "least_similar_reason": "Candidate 7 is a purely etymological/linguistic discussion of a divine name with no narrative of sages, kings, floods, or civilizing acts, sharing no meaningful plot or motif overlap with the target myth.",
+ "set": "hancock",
+ "pair": "Oannes | Nommo",
+ "i": 196,
+ "target": "Oannes",
+ "planted": "Nommo",
+ "cands": [
+  "Nommo",
+  "Kokopelli",
+  "Hiawatha",
+  "Wayland the Smith",
+  "Mama Ocllo",
+  "Tezcatlipoca",
+  "Waaq",
+  "Glooscap",
+  "Bhagiratha",
+  "Sang Hyang Tunggal"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 6
+}

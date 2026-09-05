@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  7,
+  3,
+  5,
+  4,
+  8,
+  6,
+  2,
+  10,
+  1
+ ],
+ "most_similar_reason": "Candidate 9 most closely parallels the target's account of a founding culture-hero who unites rival communities into a single confederated polity after conflict, aided by a female figure whose knowledge secures peace, and who establishes an enduring line of chiefs/kingship among a people.",
+ "least_similar_reason": "Candidate 1 is least similar because it describes a static, non-narrative theological symbol of an unknowable divinity with no journey, no founding of a polity, no allies or teaching, and no sequence of events at all.",
+ "set": "random",
+ "pair": "Great Peacemaker | Prometheus",
+ "i": 619,
+ "target": "Great Peacemaker",
+ "planted": "Prometheus",
+ "cands": [
+  "Sang Hyang Tunggal",
+  "Kutkh",
+  "Kvasir",
+  "Prometheus",
+  "Tagaro",
+  "Yellow Emperor",
+  "Djanggawul",
+  "Tezcatlipoca",
+  "Oduduwa",
+  "Makunaima"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 5
+}

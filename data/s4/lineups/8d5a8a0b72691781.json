@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  9,
+  3,
+  8,
+  6,
+  1,
+  10,
+  5,
+  7,
+  4
+ ],
+ "most_similar_reason": "Candidate 2 shares the distinctive motif of four sibling deities coded by the four cardinal-direction colors (black, white, blue, red) born from a primordial parental pair, along with the central figure's identity as an animal-form trickster/culture hero (a wildcat counterpart) engaged in rivalrous but collaborative world-creation, closely echoing the target's four directional spirit-sons and animal-shapeshifting trickster nature.",
+ "least_similar_reason": "Candidate 4 is a bare, single-sentence statement about a supreme deity's names with no narrative content, sharing none of the target's specific trickster, sibling, teaching, or animal-transformation motifs.",
+ "set": "random",
+ "pair": "Nanabozho | Mwari",
+ "i": 574,
+ "target": "Nanabozho",
+ "planted": "Mwari",
+ "cands": [
+  "Triptolemus",
+  "Tezcatlipoca",
+  "Prometheus",
+  "Bumba",
+  "Mbombo",
+  "Dangun",
+  "Mwari",
+  "Shennong",
+  "Qat (deity)",
+  "Palamedes (mythology)"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 9
+}

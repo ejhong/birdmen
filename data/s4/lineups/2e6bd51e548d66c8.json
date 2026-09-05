@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  7,
+  5,
+  10,
+  4,
+  3,
+  8,
+  9,
+  2,
+  6
+ ],
+ "most_similar_reason": "Candidate 1 centers on a plumed/feathered serpent deity told through several divergent traditions, including his relationship with a sister and celestial/solar and wind associations, directly echoing the target's feathered serpent with conflicting accounts and wind/star aspects.",
+ "least_similar_reason": "Candidate 6 contains no narrative at all\u2014merely the bare identification of a spirit as a deity\u2014so it shares no episodes, roles, or motifs with the target.",
+ "set": "related",
+ "pair": "Quetzalcoatl | Kukulkan",
+ "i": 400,
+ "target": "Quetzalcoatl",
+ "planted": "Kukulkan",
+ "cands": [
+  "Kukulkan",
+  "Corn Mother",
+  "Ninigi-no-Mikoto",
+  "Nyame",
+  "Heitsi-eibib",
+  "Abassi",
+  "Pachacamac",
+  "Amirani",
+  "Bhagiratha",
+  "Palamedes (mythology)"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

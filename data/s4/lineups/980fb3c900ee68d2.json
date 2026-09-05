@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  6,
+  5,
+  8,
+  3,
+  7,
+  9,
+  1,
+  2,
+  4
+ ],
+ "most_similar_reason": "Candidate 10 shares the closest configuration: a war deity among the primordial/creator family who helps order the world, leads and fights on behalf of a people, kills kin/rivals, founds a city with which he is identified, and is thereafter venerated.",
+ "least_similar_reason": "Candidate 4 is not a story of a divine or heroic figure at all but a description of harvest customs with a crop spirit housed in a straw figure, sharing none of the target's roles, deeds, or motifs.",
+ "set": "random",
+ "pair": "Ogun | Aeneas",
+ "i": 615,
+ "target": "Ogun",
+ "planted": "Aeneas",
+ "cands": [
+  "Kilibob and Manup",
+  "Sky Woman",
+  "Shennong",
+  "Corn Mother",
+  "Aeneas",
+  "Yellow Emperor",
+  "Rama",
+  "Wayland the Smith",
+  "Apkallu",
+  "Huitzilopochtli"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 3
+}

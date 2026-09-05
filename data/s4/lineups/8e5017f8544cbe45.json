@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  4,
+  5,
+  7,
+  3,
+  1,
+  10,
+  2,
+  9,
+  6
+ ],
+ "most_similar_reason": "Candidate 8 shares the core motif of a bearded, human-like divine teacher who rises from primeval waters, creates humanity, brings civilization and light, disappears across the sea after a flood, and sends emissaries to teach mankind\u2014paralleling the apkallu's role as divine civilizers tied to a flood and primeval waters.",
+ "least_similar_reason": "Candidate 6 describes an abstract theological/iconographic concept of divine transcendence with no narrative of teaching civilization, flood, sages, or kings, making it the least similar in content to the target myth.",
+ "set": "hancock",
+ "pair": "Oannes | Viracocha",
+ "i": 39,
+ "target": "Oannes",
+ "planted": "Viracocha",
+ "cands": [
+  "Maya Hero Twins",
+  "Aeneas",
+  "Qat (deity)",
+  "Prometheus",
+  "Yu the Great",
+  "Sang Hyang Tunggal",
+  "Tagaro",
+  "Viracocha",
+  "Orpheus",
+  "Sky Woman"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

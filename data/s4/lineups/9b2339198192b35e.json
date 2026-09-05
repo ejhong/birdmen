@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  4,
+  1,
+  9,
+  3,
+  7,
+  6,
+  10,
+  5,
+  2
+ ],
+ "most_similar_reason": "Candidate 8 shares the target's signature episodes almost point for point: a trickster hero with a magic fish-hook who secretly joins his brothers and fishes up islands that fail to be perfect because the brothers break his prohibition, plus hair-based ropes, a mother's demands, and a mischief-maker teased by his siblings.",
+ "least_similar_reason": "Candidate 2 is a purely human dynastic-war story about a clever prince, oath-bound allies, and disputed accounts of his murder, with none of the target's trickster feats, fishing-up-land, fire-theft, or death-origin motifs.",
+ "set": "related",
+ "pair": "M\u0101ui (M\u0101ori mythology) | M\u0101ui (Hawaiian mythology)",
+ "i": 529,
+ "target": "M\u0101ui (M\u0101ori mythology)",
+ "planted": "M\u0101ui (Hawaiian mythology)",
+ "cands": [
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Palamedes (mythology)",
+  "Sky Woman",
+  "Glooscap",
+  "Bachu\u00e9",
+  "Ayar Manco",
+  "Agastya",
+  "M\u0101ui (Hawaiian mythology)",
+  "Ninigi-no-Mikoto",
+  "Oduduwa"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

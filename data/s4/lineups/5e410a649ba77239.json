@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  7,
+  6,
+  2,
+  5,
+  9,
+  4,
+  1,
+  10,
+  8
+ ],
+ "most_similar_reason": "Candidate 3 centers on the same figure type\u2014a feathered/plumed serpent deity told of in multiple variant tales with differing birth stories, associations with wind, sun/star, and the underworld journey\u2014matching the target's multi-version portrait of a plumed serpent almost point for point.",
+ "least_similar_reason": "Candidate 8 is a cycle of spider-trickster wager and wisdom tales with no serpent deity, no sun encounter, no cave-reared child, and no world-destroying journey, sharing only the generic feature of a deity and multiple episodes.",
+ "set": "related",
+ "pair": "Kukulkan | Quetzalcoatl",
+ "i": 418,
+ "target": "Kukulkan",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Hiawatha",
+  "Amirani",
+  "Quetzalcoatl",
+  "Sky Woman",
+  "Coyote (mythology)",
+  "Bachu\u00e9",
+  "Cadmus",
+  "Anansi",
+  "T\u0101ne",
+  "Agastya"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

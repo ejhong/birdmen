@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  2,
+  10,
+  8,
+  3,
+  9,
+  5,
+  1,
+  7,
+  6
+ ],
+ "most_similar_reason": "Candidate 4 is essentially the same narrative: a great god incarnates as a prince to destroy a demon king, wins a princess by breaking/stringing a bow at a contest, is exiled to the forest with his brother, rejects and mutilates a demoness, has his wife abducted by the demon king, allies with monkey-people after restoring their king against a usurping brother, and with a devoted monkey ally locates his wife and defeats the demon king.",
+ "least_similar_reason": "Candidate 6 shares nothing beyond a supernatural being interacting with humans\u2014it is a revelation story about a sacred woman bringing ceremonies and a pipe, with no incarnating god, demon king, abducted wife, animal allies, or heroic war.",
+ "set": "positive",
+ "pair": "Ramakien | Ramayana",
+ "i": 311,
+ "target": "Ramakien",
+ "planted": "Ramayana",
+ "cands": [
+  "Shennong",
+  "Amirani",
+  "Itzamna",
+  "Ramayana",
+  "Kvasir",
+  "White Buffalo Calf Woman",
+  "Apkallu",
+  "Oduduwa",
+  "Nyame",
+  "Wayland the Smith"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  8,
+  9,
+  4,
+  7,
+  5,
+  1,
+  6,
+  10,
+  2
+ ],
+ "most_similar_reason": "Candidate 3 shares the flood-hero archetype nearly point-for-point (deity-directed ark building to escape a mankind-destroying flood, family and animals saved, sacrifice offered after landing, divine favor granted), making it the closest match despite lacking the Gilgamesh-epic epilogue.",
+ "least_similar_reason": "Candidate 2 is a rock-art/spirit-painting origin story about cloud and rain beings with no flood-survival vessel, no ruler, no animal-release sequence, and no quest for immortality, sharing only the vaguest thematic link to creation and weather deities.",
+ "set": "positive",
+ "pair": "Utnapishtim | Noah",
+ "i": 266,
+ "target": "Utnapishtim",
+ "planted": "Noah",
+ "cands": [
+  "Ilmarinen",
+  "Wandjina",
+  "Noah",
+  "Qat (deity)",
+  "Tagaro",
+  "Cangjie",
+  "Mbombo",
+  "Bran the Blessed",
+  "Wayland the Smith",
+  "Pachacamac"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 1
+}

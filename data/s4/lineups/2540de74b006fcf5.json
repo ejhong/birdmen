@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  5,
+  9,
+  8,
+  3,
+  7,
+  1,
+  10,
+  6,
+  4
+ ],
+ "most_similar_reason": "Candidate 2 shares the flood-survival core narrative structure almost point-for-point: a favored mortal builds a boat at a deity's command, saves family and animals, is spared while all else perish, then makes a sacrifice after the waters recede that pleases the deity, closely mirroring the target's flood-hero arc.",
+ "least_similar_reason": "Candidate 4 is a bare, contentless statement that a deity is worshipped by a people, with no narrative events, tasks, objects, or relationships to compare to the target's elaborate flood and immortality quest.",
+ "set": "positive",
+ "pair": "Utnapishtim | Noah",
+ "i": 261,
+ "target": "Utnapishtim",
+ "planted": "Noah",
+ "cands": [
+  "Heitsi-eibib",
+  "Noah",
+  "Mama Ocllo",
+  "Abassi",
+  "Bhagiratha",
+  "Baiame",
+  "Bachu\u00e9",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Triptolemus",
+  "T\u0101ne"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 1
+}

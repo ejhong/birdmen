@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  9,
+  4,
+  5,
+  7,
+  1,
+  10,
+  2,
+  3,
+  8
+ ],
+ "most_similar_reason": "Candidate 6 shares the core distinctive motifs of the target\u2014broken sky pillars mended, primordial creation, sibling deities who become husband and wife after a fire-based marriage sign, and humans made from clay animated by divine power\u2014making it clearly the closest match to the same mythic tradition.",
+ "least_similar_reason": "Candidate 8 is a single generic sentence naming a supreme deity with no shared narrative content, motifs, or events with the target story.",
+ "set": "related",
+ "pair": "N\u00fcwa | Fuxi",
+ "i": 514,
+ "target": "N\u00fcwa",
+ "planted": "Fuxi",
+ "cands": [
+  "Baiame",
+  "Corn Mother",
+  "Waaq",
+  "Ninigi-no-Mikoto",
+  "Kutkh",
+  "Fuxi",
+  "Nanabozho",
+  "Bumba",
+  "Amirani",
+  "Gesar"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

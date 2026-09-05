@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  4,
+  2,
+  7,
+  9,
+  8,
+  3,
+  6,
+  1,
+  10
+ ],
+ "most_similar_reason": "Candidate 5 explicitly recounts the fish-avatar warning the first man, the growing-fish/horn-towing rescue, the seven sages and scriptures, and even a king becoming ruler of the current age, matching the target's flood-and-Manu narrative almost point for point.",
+ "least_similar_reason": "Candidate 10 is an abstract philosophical discussion of a 'Great Spirit/Mystery' concept with no narrative of a first human, flood, rulers, or divine incarnations, sharing no concrete motifs with the target story.",
+ "set": "positive",
+ "pair": "Manu (Hinduism) | Matsya",
+ "i": 369,
+ "target": "Manu (Hinduism)",
+ "planted": "Matsya",
+ "cands": [
+  "Wandjina",
+  "Mbombo",
+  "Nyame",
+  "Ziusudra",
+  "Matsya",
+  "Anansi",
+  "Itzamna",
+  "Qat (deity)",
+  "Ogun",
+  "Wakan Tanka"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

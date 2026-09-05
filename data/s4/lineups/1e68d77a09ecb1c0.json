@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  8,
+  10,
+  4,
+  9,
+  3,
+  2,
+  7,
+  1,
+  6
+ ],
+ "most_similar_reason": "Candidate 5, like the target, presents a figure whose origins are given in several irreconcilable variant accounts and who then appears as a developed civilizing/religious hero who descends among people, founds cult and teaching, is tied to celestial (sun/star) worship, and brings gifts to particular towns.",
+ "least_similar_reason": "Candidate 6 is a sprawling trickster-and-creation cycle about outwitting, animal-shaping and world-making, with no confused witness testimony about a single figure's identity, no descent to found a religion, no cave consultation by chiefs, and no sacred city or sun temple.",
+ "set": "hancock",
+ "pair": "Bochica | Quetzalcoatl",
+ "i": 127,
+ "target": "Bochica",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Aeneas",
+  "Cadmus",
+  "Palamedes (mythology)",
+  "Mwari",
+  "Quetzalcoatl",
+  "Coyote (mythology)",
+  "Yu the Great",
+  "White Buffalo Calf Woman",
+  "Prometheus",
+  "Berossus"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 1
+}

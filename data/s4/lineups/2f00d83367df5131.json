@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  5,
+  10,
+  8,
+  4,
+  6,
+  1,
+  9,
+  3,
+  2
+ ],
+ "most_similar_reason": "Candidate 7 tells essentially the same figure's story: an early patriarch-prophet descended from the first man, credited as first to use the pen and with measures and learning, given the title of being 'raised to a high station,' who preaches repentance, leads followers, and is carried alive into the heavens where his soul is taken so he never dies an ordinary death.",
+ "least_similar_reason": "Candidate 2 is only a bare note that a creator deity is known by several names among peoples of a river basin, sharing no episode, role, or motif with the target's ascended patriarch-scribe.",
+ "set": "related",
+ "pair": "Enoch (ancestor of Noah) | Idris (prophet)",
+ "i": 555,
+ "target": "Enoch (ancestor of Noah)",
+ "planted": "Idris (prophet)",
+ "cands": [
+  "Sky Woman",
+  "Makunaima",
+  "Wakan Tanka",
+  "Rama",
+  "Cangjie",
+  "Nyame",
+  "Idris (prophet)",
+  "Ninigi-no-Mikoto",
+  "Tagaro",
+  "Shennong"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

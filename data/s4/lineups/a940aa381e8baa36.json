@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  4,
+  1,
+  9,
+  10,
+  5,
+  3,
+  8,
+  2,
+  6
+ ],
+ "most_similar_reason": "Candidate 7 shares the target's core narrative almost point for point: a fish incarnation of a great god warns the first man/king of a coming deluge, instructs him to build a boat towed to safety, the boat carries seven sages and the sacred scriptures (recovered from a demon), and the survivor becomes the progenitor-ruler of the current age of humanity.",
+ "least_similar_reason": "Candidate 6 is not a narrative of divine figures, kings, or a flood at all but an ethnographic account of harvest customs in which the last sheaf is made into a straw figure to house a grain spirit, sharing no roles, events, or motifs with the target.",
+ "set": "positive",
+ "pair": "Manu (Hinduism) | Matsya",
+ "i": 364,
+ "target": "Manu (Hinduism)",
+ "planted": "Matsya",
+ "cands": [
+  "Apkallu",
+  "Wayland the Smith",
+  "Cangjie",
+  "Ziusudra",
+  "Romulus and Remus",
+  "Corn Mother",
+  "Matsya",
+  "Amirani",
+  "Prometheus",
+  "Pachacamac"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

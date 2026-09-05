@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  2,
+  7,
+  3,
+  6,
+  5,
+  1,
+  8,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 4 shares the target's exact core: a snake-bodied brother\u2013sister pair living on a mythic mountain who take an omen (merging flames rather than gathering mist) as divine approval to marry, then create the first humans out of clay, within a cosmology of sky-and-earth separation and culture-founding institutions.",
+ "least_similar_reason": "Candidate 10 involves no creation of humanity, no cosmic repair, and no sibling marriage\u2014only a prophet reforming a cannibal and a tyrant to found a political peace\u2014so it shares nothing beyond generic supernatural agency.",
+ "set": "related",
+ "pair": "N\u00fcwa | Fuxi",
+ "i": 513,
+ "target": "N\u00fcwa",
+ "planted": "Fuxi",
+ "cands": [
+  "\u014ckuninushi",
+  "Prometheus",
+  "Glooscap",
+  "Fuxi",
+  "Agastya",
+  "Apkallu",
+  "Mama Ocllo",
+  "Wandjina",
+  "Rama",
+  "Hiawatha"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

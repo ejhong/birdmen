@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  8,
+  2,
+  5,
+  7,
+  1,
+  10,
+  4,
+  9,
+  6
+ ],
+ "most_similar_reason": "Candidate 3 shares the target's most distinctive cluster: a set of primordial civilizing beings sent from the gods who are part-fish and belong in/return to primeval waters, who bring knowledge and cult foundations to humanity and are tied to the origin of priestly/temple institutions.",
+ "least_similar_reason": "Candidate 6 has no narrative at all\u2014no primordial being, sacrifice, dismemberment, descent, or water motif\u2014only an abstract, non-acting symbol of an unknowable divine principle.",
+ "set": "hancock",
+ "pair": "Nommo | Oannes",
+ "i": 181,
+ "target": "Nommo",
+ "planted": "Oannes",
+ "cands": [
+  "Ninigi-no-Mikoto",
+  "Huitzilopochtli",
+  "Oannes",
+  "White Buffalo Calf Woman",
+  "Itzamna",
+  "Sang Hyang Tunggal",
+  "T\u0101ne",
+  "Wandjina",
+  "Wisakedjak",
+  "Pachacamac"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  8,
+  3,
+  2,
+  5,
+  10,
+  7,
+  6,
+  9,
+  4
+ ],
+ "most_similar_reason": "Candidate 1 centers on the same core figure\u2014the feathered/plumed serpent deity\u2014with multiple variant birth and life tales, closely paralleling the target's structure of several stories about one serpent deity.",
+ "least_similar_reason": "Candidate 4 is a linguistic and etymological discussion of a word for God rather than a mythic narrative, sharing no episodic content, motifs, or figures with the target's serpent-deity tales.",
+ "set": "related",
+ "pair": "Kukulkan | Quetzalcoatl",
+ "i": 415,
+ "target": "Kukulkan",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Quetzalcoatl",
+  "Coyote (mythology)",
+  "Ilmarinen",
+  "Waaq",
+  "Mama Ocllo",
+  "Corn Mother",
+  "Palamedes (mythology)",
+  "Agastya",
+  "Mwari",
+  "Djanggawul"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

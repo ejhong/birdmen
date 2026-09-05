@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  8,
+  5,
+  4,
+  6,
+  2,
+  9,
+  1,
+  10,
+  7
+ ],
+ "most_similar_reason": "Candidate 3 features primordial fish-like beings who descend from the sky, require a watery environment, and give their bodies to nourish humanity while founding a religious tradition, closely paralleling the target's fish-men sages who bring civilization and are tied to water and religious founding.",
+ "least_similar_reason": "Candidate 7 describes an abstract theological symbol of ineffable divine transcendence with no narrative of teaching, flood, sages, or kings, making it the least similar to the concrete mythic episodes of the target.",
+ "set": "hancock",
+ "pair": "Oannes | Nommo",
+ "i": 195,
+ "target": "Oannes",
+ "planted": "Nommo",
+ "cands": [
+  "Wisakedjak",
+  "Yu the Great",
+  "Nommo",
+  "Glooscap",
+  "Wandjina",
+  "Kilibob and Manup",
+  "Sang Hyang Tunggal",
+  "T\u0101ne",
+  "Bhagiratha",
+  "Corn Mother"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 1
+}

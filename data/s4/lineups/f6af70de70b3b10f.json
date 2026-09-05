@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  5,
+  4,
+  2,
+  1,
+  3,
+  6,
+  7,
+  10,
+  8
+ ],
+ "most_similar_reason": "Candidate 9 matches the target most closely as a divine culture hero who fashions the present race of humanity, is credited as father of arts and crafts, is entangled in a deceptive drink/offering trick with a chief god, and suffers a fiery, self-sacrificial fate tied to gifts given to mankind.",
+ "least_similar_reason": "Candidate 8 is not a story about a deity or hero at all but a description of harvest customs surrounding a grain-spirit doll, sharing only the incidental element of a grain crop.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Bochica",
+ "i": 138,
+ "target": "Quetzalcoatl",
+ "planted": "Bochica",
+ "cands": [
+  "\u014ckuninushi",
+  "Orpheus",
+  "Kilibob and Manup",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Bochica",
+  "Wisakedjak",
+  "Bhagiratha",
+  "Corn Mother",
+  "Prometheus",
+  "Anansi"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 2
+}

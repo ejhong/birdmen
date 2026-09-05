@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  9,
+  10,
+  4,
+  5,
+  1,
+  6,
+  8,
+  2,
+  7
+ ],
+ "most_similar_reason": "Candidate 3 most closely parallels the target's core motif of divine figures sent by a god to teach humanity the arts of civilization (house-building, crafts) and to found a great city, mirroring the seven sages' civilizing mission and city-founding.",
+ "least_similar_reason": "Candidate 7 is an abstract theological discussion of a sacred concept with no narrative events, characters, or motifs comparable to the sages, kings, floods, or teachings in the target myth.",
+ "set": "hancock",
+ "pair": "Oannes | Nommo",
+ "i": 191,
+ "target": "Oannes",
+ "planted": "Nommo",
+ "cands": [
+  "Rama",
+  "Nommo",
+  "Mama Ocllo",
+  "Itzamna",
+  "\u014ckuninushi",
+  "Amirani",
+  "Wakan Tanka",
+  "Tangaroa",
+  "Triptolemus",
+  "White Buffalo Calf Woman"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 9
+}

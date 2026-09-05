@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  9,
+  3,
+  5,
+  7,
+  8,
+  1,
+  6,
+  2,
+  10
+ ],
+ "most_similar_reason": "Candidate 4 shares the closest match to the flood narrative structure: a chosen mortal builds a vessel at divine command, saves family and animals, sends out birds to test the receding waters, and makes a sacrifice afterward, mirroring the target's flood, ark, and covenant sequence.",
+ "least_similar_reason": "Candidate 10 is an abstract theological description of a creator deity's worship and mediums with no narrative events, characters, or flood/ark motifs corresponding to the target story.",
+ "set": "positive",
+ "pair": "Noah | Utnapishtim",
+ "i": 274,
+ "target": "Noah",
+ "planted": "Utnapishtim",
+ "cands": [
+  "Coyote (mythology)",
+  "Nanabozho",
+  "Amirani",
+  "Utnapishtim",
+  "Agastya",
+  "Sosruko",
+  "Kilibob and Manup",
+  "Anansi",
+  "Bran the Blessed",
+  "Mwari"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

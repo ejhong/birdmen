@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  3,
+  1,
+  10,
+  5,
+  4,
+  8,
+  6,
+  2,
+  7
+ ],
+ "most_similar_reason": "Candidate 9 most closely echoes the target's core motifs of a landscape-shaping deity whose sacred power is tied to specific physical sites (caves, waterholes) where images or remains commemorate their presence, paralleling the mountain deity's cave of mummies and its link to a distinctive natural feature.",
+ "least_similar_reason": "Candidate 7 is least similar, describing a vague ancestor-turned-creator figure formed from reeds who creates humans and animals then simply abandons his creation, with no mountain, salt flat, cave, mummies, or village motifs at all.",
+ "set": "related",
+ "pair": "Tunupa | Viracocha",
+ "i": 451,
+ "target": "Tunupa",
+ "planted": "Viracocha",
+ "cands": [
+  "Djanggawul",
+  "Cadmus",
+  "Heitsi-eibib",
+  "Viracocha",
+  "Glooscap",
+  "Adapa",
+  "Unkulunkulu",
+  "Tagaro",
+  "Wandjina",
+  "Kutkh"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 6
+}

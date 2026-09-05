@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  5,
+  6,
+  4,
+  3,
+  9,
+  10,
+  2,
+  1,
+  7
+ ],
+ "most_similar_reason": "Candidate 8 shares the most distinctive and specific motifs with the target\u2014seven sages/apkallu who serve as the god's attendants, the sage known by two names (Adapa), the founding of cities, tablets of destiny, and the flood aftermath\u2014paralleling the target's servants of minor beings and sages, and its Adapa-like human prot\u00e9g\u00e9 story.",
+ "least_similar_reason": "Candidate 7 is an extremely minimal, generic statement about a supreme deity with no shared motifs, relationships, or narrative events corresponding to the target's detailed creation, flood, and trickster episodes.",
+ "set": "related",
+ "pair": "Enki | Oannes",
+ "i": 480,
+ "target": "Enki",
+ "planted": "Oannes",
+ "cands": [
+  "Cangjie",
+  "Great Peacemaker",
+  "Mbombo",
+  "Mama Ocllo",
+  "Prometheus",
+  "Itzamna",
+  "Bumba",
+  "Oannes",
+  "Qat (deity)",
+  "Wandjina"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

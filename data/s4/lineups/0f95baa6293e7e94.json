@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  8,
+  2,
+  4,
+  1,
+  5,
+  7,
+  10,
+  6,
+  9
+ ],
+ "most_similar_reason": "Candidate 3 is the same flood narrative: a god resolves to destroy corrupt humanity, secretly instructs a chosen man to build a great vessel to preserve life, the deluge covers the mountains, the boat grounds on a mountain range, birds are released in sequence until one does not return, and the survivor offers a sacrifice after which the god blesses him and promises restraint.",
+ "least_similar_reason": "Candidate 9 is a single-sentence note that a deity with two names was a people's supreme god, containing no events, characters in relation, or motifs that could correspond to the target's flood and quest-for-immortality narrative.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Genesis flood narrative",
+ "i": 221,
+ "target": "Gilgamesh flood myth",
+ "planted": "Genesis flood narrative",
+ "cands": [
+  "Corn Mother",
+  "Tezcatlipoca",
+  "Genesis flood narrative",
+  "Unkulunkulu",
+  "Mwari",
+  "Wakan Tanka",
+  "Sang Hyang Tunggal",
+  "Ninigi-no-Mikoto",
+  "Bumba",
+  "Waaq"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

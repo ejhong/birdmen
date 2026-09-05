@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  10,
+  1,
+  3,
+  9,
+  5,
+  4,
+  6,
+  2,
+  7
+ ],
+ "most_similar_reason": "Candidate 8 shares the target's exact flood episode\u2014gods secretly sworn to destroy humanity, a wise god warning the chosen survivor through a reed wall, the sealed boat loaded with kin and animals, and the storm-god's fury\u2014making it a direct parallel to the target's climax.",
+ "least_similar_reason": "Candidate 7 concerns a warrior-smith deity who founds a city, kills disrespectful subjects, and vanishes into the earth, sharing none of the target's divine labor revolt, creation of humans from clay and blood, plagues, or flood.",
+ "set": "positive",
+ "pair": "Atra-Hasis | Gilgamesh flood myth",
+ "i": 243,
+ "target": "Atra-Hasis",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Qat (deity)",
+  "Sosruko",
+  "Tezcatlipoca",
+  "Maya Hero Twins",
+  "Oduduwa",
+  "Cangjie",
+  "Ogun",
+  "Gilgamesh flood myth",
+  "Kutkh",
+  "Unkulunkulu"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

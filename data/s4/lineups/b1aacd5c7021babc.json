@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  6,
+  5,
+  3,
+  4,
+  9,
+  8,
+  2,
+  7,
+  10
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's most distinctive episode almost exactly\u2014the hero seizes and binds the wings of the storm-causing wind power, halting the wind until conditions become unbearable, and then relents\u2014along with a post-cataclysm setting and a culture-hero who negotiates gifts and losses for mankind.",
+ "least_similar_reason": "Candidate 10 is a single sentence naming a supreme deity with no events, roles, or motifs at all, so it shares nothing with the target's narrative.",
+ "set": "random",
+ "pair": "Adapa | Rama",
+ "i": 588,
+ "target": "Adapa",
+ "planted": "Rama",
+ "cands": [
+  "Glooscap",
+  "Romulus and Remus",
+  "Obatala",
+  "Wisakedjak",
+  "Shennong",
+  "Kvasir",
+  "Wayland the Smith",
+  "Rama",
+  "White Buffalo Calf Woman",
+  "Bumba"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 7
+}

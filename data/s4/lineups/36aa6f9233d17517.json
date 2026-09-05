@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  7,
+  5,
+  4,
+  3,
+  10,
+  6,
+  9,
+  1,
+  2
+ ],
+ "most_similar_reason": "Candidate 8 matches the target most closely because it centers on an animal-shaped trickster culture hero who is both co-creator of the world and greedy, foolish deceiver, who names/shapes the landscape through bodily comic episodes and gives humanity light, fire, language and practical skills like net-weaving (fishing), just as the rabbit trickster creates the earth, names creatures, and invents fishing and writing.",
+ "least_similar_reason": "Candidate 2 is least similar because it is not a narrative at all but a linguistic and historical account of a divine name's spread and decline, with no trickster, no culture hero teaching or creating, and no episodic contest or transformation.",
+ "set": "random",
+ "pair": "Nanabozho | Oduduwa",
+ "i": 565,
+ "target": "Nanabozho",
+ "planted": "Oduduwa",
+ "cands": [
+  "Rama",
+  "Waaq",
+  "Mbombo",
+  "Oduduwa",
+  "Triptolemus",
+  "Bran the Blessed",
+  "Dangun",
+  "Kutkh",
+  "Orpheus",
+  "Bachu\u00e9"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 4
+}

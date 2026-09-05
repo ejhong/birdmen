@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  6,
+  5,
+  10,
+  2,
+  4,
+  3,
+  1,
+  8,
+  7
+ ],
+ "most_similar_reason": "Candidate 9 shares the distinctive motif of a divine founder-figure who establishes and rules a city and then vanishes into the earth at a specific spot, promising continued aid\u2014paralleling the target's golden rod sinking into the ground at the site where the city and its temple were built, plus the shared theme of a sacred founder tied to a particular place and lineage of worship.",
+ "least_similar_reason": "Candidate 7 contains no narrative content at all beyond naming a deity, sharing none of the target's specific motifs of sibling-spouse founders, the sun god's mission, the golden rod, or the teaching of household and building skills.",
+ "set": "random",
+ "pair": "Mama Ocllo | Wakan Tanka",
+ "i": 579,
+ "target": "Mama Ocllo",
+ "planted": "Wakan Tanka",
+ "cands": [
+  "Orpheus",
+  "Prometheus",
+  "Kvasir",
+  "Agastya",
+  "Yu the Great",
+  "Aeneas",
+  "Abassi",
+  "Wakan Tanka",
+  "Ogun",
+  "Ziusudra"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 9
+}

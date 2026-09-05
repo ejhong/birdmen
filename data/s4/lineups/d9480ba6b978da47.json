@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  7,
+  6,
+  5,
+  9,
+  1,
+  3,
+  10,
+  8,
+  4
+ ],
+ "most_similar_reason": "Candidate 2 (Romulus and Remus) most closely mirrors the target's core plot: a divinely-descended sibling pair who journey together, use a divine sign (bird augury instead of a sinking rod) to choose the site of a city, found it, establish its institutions, and become the ancestral rulers, with one sibling's death marking the transition to sole kingship.",
+ "least_similar_reason": "Candidate 4 is an agricultural folklore custom about a straw 'old woman' figure representing a grain spirit, with no divine siblings, hero-founder, city, or teaching of civilization, making it the least similar to the target's mythic founding narrative.",
+ "set": "random",
+ "pair": "Mama Ocllo | \u014ckuninushi",
+ "i": 560,
+ "target": "Mama Ocllo",
+ "planted": "\u014ckuninushi",
+ "cands": [
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Romulus and Remus",
+  "Sosruko",
+  "Corn Mother",
+  "Agastya",
+  "\u014ckuninushi",
+  "Oduduwa",
+  "Coyote (mythology)",
+  "Rama",
+  "Heitsi-eibib"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 3
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  1,
+  3,
+  9,
+  10,
+  4,
+  8,
+  7,
+  2,
+  6
+ ],
+ "most_similar_reason": "Candidate 5 shares the exact frame of a wise advisor teaching princes/kings through nested animal fable collections, including near-identical episodes (jackal minister at lion king's court, cooperating weak animals crow/mouse/turtle/deer, feigned loyalty in a bird war), matching the target's structure and specific motifs closely.",
+ "least_similar_reason": "Candidate 6 is a cosmological myth about a creator god's death and rivalry with Death itself, with no animal fable frame, court advisor, or nested moral tales, sharing only the barest generic mythic elements with the target.",
+ "set": "positive",
+ "pair": "Kalila wa-Dimna | Panchatantra",
+ "i": 352,
+ "target": "Kalila wa-Dimna",
+ "planted": "Panchatantra",
+ "cands": [
+  "Apkallu",
+  "Ilmarinen",
+  "Triptolemus",
+  "Shennong",
+  "Panchatantra",
+  "Nyame",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Yu the Great",
+  "Prometheus",
+  "\u014ckuninushi"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  7,
+  6,
+  10,
+  4,
+  9,
+  1,
+  3,
+  8,
+  5
+ ],
+ "most_similar_reason": "Candidate 2 matches the target most closely because it is a cosmogonic culture-hero god embedded in a set of divine brothers with cosmic roles who orders the sky with lights, fashions humans (molding a woman from soil, as the target's god remakes mankind), gives humanity practical arts and baskets of knowledge (paralleling books, calendar, and crops), and commits an unwitting incest that ends with a shameful separation and a descent to the underworld.",
+ "least_similar_reason": "Candidate 5 is least similar because it is not a narrative at all but a linguistic and historical account of a divine name's spread and decline, with no birth stories, culture-bringing deeds, creation of humans, or any comparable episodes.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Oannes",
+ "i": 66,
+ "target": "Quetzalcoatl",
+ "planted": "Oannes",
+ "cands": [
+  "Ogun",
+  "T\u0101ne",
+  "Sosruko",
+  "Oduduwa",
+  "Waaq",
+  "Oannes",
+  "Tagaro",
+  "Sang Hyang Tunggal",
+  "Kokopelli",
+  "Baiame"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 3
+}

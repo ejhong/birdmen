@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  10,
+  2,
+  4,
+  3,
+  9,
+  1,
+  5,
+  7,
+  6
+ ],
+ "most_similar_reason": "Candidate 8 shares the most distinctive cluster with the target: a deity linked to a celestial body who invents books and the calendar, gives a crop/gift to mankind, is involved in complex divine birth stories with a set of four sibling gods ruling their spheres, journeys to the underworld and restores/creates life, closely paralleling the Thoth-like inventor-scribe god embedded in a family myth of four deities and resurrection.",
+ "least_similar_reason": "Candidate 6 is a bare statement that a two-named being was a supreme deity, containing no episodes, inventions, relationships, or motifs that could correspond to the target's writing-invention, calendar-gambling, resurrection, and judgment narratives.",
+ "set": "hancock",
+ "pair": "Thoth | Quetzalcoatl",
+ "i": 168,
+ "target": "Thoth",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Aeneas",
+  "Anansi",
+  "Ilmarinen",
+  "Adapa",
+  "Tagaro",
+  "Bumba",
+  "Sosruko",
+  "Quetzalcoatl",
+  "Orpheus",
+  "Palamedes (mythology)"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

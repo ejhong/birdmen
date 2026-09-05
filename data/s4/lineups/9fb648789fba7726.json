@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  5,
+  7,
+  9,
+  2,
+  6,
+  1,
+  10,
+  3,
+  8
+ ],
+ "most_similar_reason": "Candidate 4 shares the core Maui-cycle motifs of the target\u2014magic fishhook fishing up islands, tricking brothers by telling them not to look back, snaring the sun, and pushing up the sky\u2014making it clearly the same mythic tradition.",
+ "least_similar_reason": "Candidate 8 describes an abstract theological/iconographic symbol of divine transcendence with no narrative events, characters, or actions, sharing nothing of the target's concrete birth, trickster, and death myth structure.",
+ "set": "related",
+ "pair": "M\u0101ui (M\u0101ori mythology) | M\u0101ui (Hawaiian mythology)",
+ "i": 527,
+ "target": "M\u0101ui (M\u0101ori mythology)",
+ "planted": "M\u0101ui (Hawaiian mythology)",
+ "cands": [
+  "Rama",
+  "Dangun",
+  "Wayland the Smith",
+  "M\u0101ui (Hawaiian mythology)",
+  "Glooscap",
+  "White Buffalo Calf Woman",
+  "Maya Hero Twins",
+  "Sang Hyang Tunggal",
+  "Sky Woman",
+  "Ziusudra"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

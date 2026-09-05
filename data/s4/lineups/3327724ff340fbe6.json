@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  8,
+  7,
+  10,
+  5,
+  1,
+  9,
+  4,
+  3,
+  2
+ ],
+ "most_similar_reason": "Candidate 6 most closely mirrors the target's core figure as a Mesoamerican-style feathered civilizing deity who appears in towns, retreats to a cave to be consulted by chiefs, and becomes the object of a sun-temple cult and commemorative festivals, paralleling Quetzalcoatl's role as calendar-giver, culture hero, and object of religious veneration.",
+ "least_similar_reason": "Candidate 2 (the Iroquois-style peacemaker converting a cannibal and a snake-haired tyrant through condolence rituals) shares only the loosest generic 'culture hero unites peoples' framework, with none of the distinctive birth myths, cardinal-direction gods, star transformation, incest, or cacao motifs found in the target.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Bochica",
+ "i": 133,
+ "target": "Quetzalcoatl",
+ "planted": "Bochica",
+ "cands": [
+  "Ogun",
+  "Hiawatha",
+  "Gesar",
+  "Agastya",
+  "Glooscap",
+  "Bochica",
+  "Sky Woman",
+  "Berossus",
+  "White Buffalo Calf Woman",
+  "Yellow Emperor"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

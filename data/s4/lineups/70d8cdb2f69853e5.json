@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  5,
+  2,
+  3,
+  10,
+  9,
+  4,
+  7,
+  1,
+  6
+ ],
+ "most_similar_reason": "Candidate 8 shares the core flood-myth structure almost point for point: a forewarned patriarch builds a vessel, survives with his wife while mankind is destroyed, lands on a mountain, offers thanks to the god, and receives instructions for repopulating the earth, closely mirroring the target's flood, ark, sacrifice, and covenant sequence.",
+ "least_similar_reason": "Candidate 6 is a tale of a crippled smith's elaborate revenge against a king\u2014killing his sons, making trophies from their remains, and seducing his daughter\u2014sharing no flood, patriarch, covenant, or ancestral-peoples motifs with the target.",
+ "set": "positive",
+ "pair": "Noah | Deucalion",
+ "i": 394,
+ "target": "Noah",
+ "planted": "Deucalion",
+ "cands": [
+  "Anansi",
+  "Dangun",
+  "White Buffalo Calf Woman",
+  "Nanabozho",
+  "Huitzilopochtli",
+  "Wayland the Smith",
+  "Kilibob and Manup",
+  "Deucalion",
+  "Kutkh",
+  "Qat (deity)"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

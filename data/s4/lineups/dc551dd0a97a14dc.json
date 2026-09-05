@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  2,
+  9,
+  10,
+  8,
+  5,
+  4,
+  7,
+  3,
+  6
+ ],
+ "most_similar_reason": "Candidate 1 shares the most specific, unusual motifs with the target\u2014a golden staff carried by a divine founder, siblings/companions, emergence near or connection to a great lake, the founding of a city and temple, and a lineage tied to a sun and moon deity\u2014closely paralleling the target's golden-staff flood survivors and lake-centered creation/founding narrative.",
+ "least_similar_reason": "Candidate 6 is a bare, one-sentence statement about a deity's dual names with no narrative content, sharing none of the target's distinctive events (flood, stone-humans, water-walking, beggar disguise, staff and book).",
+ "set": "related",
+ "pair": "Viracocha | Manco C\u00e1pac",
+ "i": 428,
+ "target": "Viracocha",
+ "planted": "Manco C\u00e1pac",
+ "cands": [
+  "Manco C\u00e1pac",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Waaq",
+  "Wandjina",
+  "Cangjie",
+  "Bumba",
+  "Wakan Tanka",
+  "Aeneas",
+  "Triptolemus",
+  "Romulus and Remus"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

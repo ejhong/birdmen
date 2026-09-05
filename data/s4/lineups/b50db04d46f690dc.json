@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  9,
+  6,
+  3,
+  10,
+  1,
+  8,
+  2,
+  7,
+  4
+ ],
+ "most_similar_reason": "Candidate 5 shares the closest cluster of distinctive motifs with the target: a divine culture-hero who teaches humanity agriculture (giving a grain crop and a cultivated plant), is undone through the trickery of a rival god, is sealed inside a chest, journeys to/rules in connection with the underworld, and is bound up with sibling/twin relations and self-sacrificial bodily elements.",
+ "least_similar_reason": "Candidate 4 is a bare one-line notice of a creator god's names among peoples of a river basin, containing none of the target's episodes, roles, or motifs.",
+ "set": "hancock",
+ "pair": "Osiris | Quetzalcoatl",
+ "i": 93,
+ "target": "Osiris",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Cadmus",
+  "Kokopelli",
+  "Apkallu",
+  "Makunaima",
+  "Quetzalcoatl",
+  "Aeneas",
+  "Wisakedjak",
+  "Cangjie",
+  "Romulus and Remus",
+  "Bachu\u00e9"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 1
+}

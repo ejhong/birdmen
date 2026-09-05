@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  3,
+  2,
+  9,
+  8,
+  5,
+  4,
+  6,
+  1,
+  7
+ ],
+ "most_similar_reason": "Candidate 10 explicitly recounts the M\u0101ui-type trickster hero using a magic fishhook to haul up land from the sea, tricking his brothers while fishing, and later performing feats like snaring the sun and propping up the sky, matching the target's core fishhook, brothers, and island-creation episodes almost point for point.",
+ "least_similar_reason": "Candidate 7 is not a narrative at all but a linguistic/etymological discussion of a divine name across cultures, sharing no plot events, characters, or motifs with the target myth.",
+ "set": "related",
+ "pair": "M\u0101ui (M\u0101ori mythology) | M\u0101ui (Hawaiian mythology)",
+ "i": 521,
+ "target": "M\u0101ui (M\u0101ori mythology)",
+ "planted": "M\u0101ui (Hawaiian mythology)",
+ "cands": [
+  "Bachu\u00e9",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Tagaro",
+  "Great Peacemaker",
+  "Dangun",
+  "Djanggawul",
+  "Waaq",
+  "Ayar Manco",
+  "Bran the Blessed",
+  "M\u0101ui (Hawaiian mythology)"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  1,
+  5,
+  4,
+  3,
+  6,
+  9,
+  7,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 2 is essentially a condensed retelling of the same epic: exile by a scheming queen mother, a wife won through an archery contest, a loyal brother joining in exile, a demoness whose nose and ears are cut off, a ten-headed demon king using a golden-deer trick to abduct the wife, an alliance with monkey-like beings to restore a rightful ruler, and a climactic battle ending in the demon's death via a vulnerable point.",
+ "least_similar_reason": "Candidate 10 concerns an unrelated trickster figure whose sole defining deed is stealing fire from a giant for his mother's sake, sharing no structural or narrative overlap with the target's royal exile, abduction, and war epic.",
+ "set": "positive",
+ "pair": "Ramayana | Reamker",
+ "i": 281,
+ "target": "Ramayana",
+ "planted": "Reamker",
+ "cands": [
+  "Gesar",
+  "Reamker",
+  "Itzamna",
+  "Tangaroa",
+  "Dangun",
+  "Glooscap",
+  "Wisakedjak",
+  "Cangjie",
+  "Kutkh",
+  "Sosruko"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 1
+}

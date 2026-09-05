@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  8,
+  10,
+  2,
+  1,
+  3,
+  5,
+  9,
+  6,
+  7
+ ],
+ "most_similar_reason": "Candidate 4 is essentially a condensed retelling of the same epic core\u2014an exiled prince-incarnation of a god, his bow-winning marriage, forest exile, demoness rejection, wife's abduction by a demon king, and rescue with monkey allies\u2014matching the target's plot almost beat for beat.",
+ "least_similar_reason": "Candidate 7 is not a narrative at all but an abstract linguistic/theological discussion of a term for sacred power, sharing no characters, events, or motifs with the target's mythic storyline.",
+ "set": "positive",
+ "pair": "Ramakien | Ramayana",
+ "i": 316,
+ "target": "Ramakien",
+ "planted": "Ramayana",
+ "cands": [
+  "Anansi",
+  "Palamedes (mythology)",
+  "Yellow Emperor",
+  "Ramayana",
+  "Cangjie",
+  "Makunaima",
+  "Wakan Tanka",
+  "Orpheus",
+  "Bachu\u00e9",
+  "Prometheus"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

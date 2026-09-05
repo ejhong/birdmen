@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  2,
+  5,
+  10,
+  8,
+  9,
+  3,
+  6,
+  4,
+  7
+ ],
+ "most_similar_reason": "Candidate 1 is essentially the same narrative: the prince exiled by a scheming royal mother so her own son can rule, the bride won by a feat with a bow, the loyal younger brother in the forest, the demoness mutilated by having her nose and ears cut off, the golden-deer ruse and the abduction of the wife by the demon king, the alliance with the monkey-people to restore their king, the search that locates her on the demon's stronghold, and the final defeat of the demon and triumphant return.",
+ "least_similar_reason": "Candidate 7 has no hero, no plot sequence, and no comparable relationships at all\ttonly a descriptive account of rain spirits, their images on cave walls, and rituals of repainting them.",
+ "set": "positive",
+ "pair": "Reamker | Ramayana",
+ "i": 299,
+ "target": "Reamker",
+ "planted": "Ramayana",
+ "cands": [
+  "Ramayana",
+  "Amirani",
+  "Nanabozho",
+  "Baiame",
+  "Triptolemus",
+  "Adapa",
+  "Wandjina",
+  "T\u0101ne",
+  "Tagaro",
+  "Ayar Manco"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

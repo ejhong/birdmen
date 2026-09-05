@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  6,
+  4,
+  9,
+  3,
+  2,
+  7,
+  1,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 5 shares the same distinctive mythic complex as the target: a group of part-fish sage figures who serve as bringers of wisdom and civilization, associated with primeval subterranean waters, pre-flood kings, and a great god of the watery abyss who banishes and retrieves them.",
+ "least_similar_reason": "Candidate 10 is not a narrative at all but a discussion of the linguistic distribution of a sky-god's name, sharing none of the target's episodes of creating mankind from clay, flood warning, or clever divine problem-solving.",
+ "set": "related",
+ "pair": "Enki | Oannes",
+ "i": 481,
+ "target": "Enki",
+ "planted": "Oannes",
+ "cands": [
+  "Romulus and Remus",
+  "Yu the Great",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Huitzilopochtli",
+  "Oannes",
+  "Obatala",
+  "Amirani",
+  "Corn Mother",
+  "Triptolemus",
+  "Waaq"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 1
+}

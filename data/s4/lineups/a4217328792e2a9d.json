@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  7,
+  10,
+  4,
+  5,
+  2,
+  1,
+  3,
+  6,
+  9
+ ],
+ "most_similar_reason": "Candidate 8, like the target, centers on a divine culture hero who is gifted a grain crop and travels teaching humanity agriculture and sacred rites, is associated with serpents and with a role in the underworld, matching the target's civilizing-benefactor pattern of bringing grain, crafts, and knowledge to mankind.",
+ "least_similar_reason": "Candidate 9 is a revenge tale of a crippled smith who murders a king's sons and escapes by flight, with no culture-hero gifts, no variant birth accounts, no creation of mankind, and no astral or calendrical elements.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Oannes",
+ "i": 62,
+ "target": "Quetzalcoatl",
+ "planted": "Oannes",
+ "cands": [
+  "Cadmus",
+  "Ninigi-no-Mikoto",
+  "Unkulunkulu",
+  "Oduduwa",
+  "\u014ckuninushi",
+  "Amirani",
+  "Ayar Manco",
+  "Triptolemus",
+  "Wayland the Smith",
+  "Oannes"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 3
+}

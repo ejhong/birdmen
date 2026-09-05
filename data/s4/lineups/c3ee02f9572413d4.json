@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  10,
+  4,
+  7,
+  5,
+  6,
+  8,
+  1,
+  2,
+  9
+ ],
+ "most_similar_reason": "Candidate 3 shares the exact core plotline of exile by a stepmother/queen mother to enthrone her own son, winning the wife via a bow contest, the brothers accompanying into exile, a demoness whose nose and ears are cut off, a golden deer decoy, abduction of the wife, and alliance with monkey-people to restore a rival king, matching the target's most distinctive sequence of episodes almost point for point.",
+ "least_similar_reason": "Candidate 9 is a linguistic and etymological discussion of a divine name across cultures with no narrative characters, events, or plot, sharing no substantive story elements with the target's tale of exile, abduction, and heroic rescue.",
+ "set": "positive",
+ "pair": "Reamker | Ramayana",
+ "i": 293,
+ "target": "Reamker",
+ "planted": "Ramayana",
+ "cands": [
+  "Shennong",
+  "Coyote (mythology)",
+  "Ramayana",
+  "Wayland the Smith",
+  "Romulus and Remus",
+  "Ninigi-no-Mikoto",
+  "Qat (deity)",
+  "Kvasir",
+  "Waaq",
+  "Ilmarinen"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  5,
+  10,
+  7,
+  6,
+  4,
+  1,
+  2,
+  8,
+  9
+ ],
+ "most_similar_reason": "Candidate 3 shares the target's most distinctive motif-cluster: primordial amphibious beings sent/descended from the sky who require a watery environment, dive into a body of water, dispense knowledge and life-principles to humanity, and are linked to founding shrines and the first religious authority, closely paralleling the fish-sages who bring civilization and are banished into the primeval waters.",
+ "least_similar_reason": "Candidate 9 is a single musician-hero's love, underworld descent, and dismemberment story with no group of civilizing sages, no flood or primeval kings, and no watery hybrid teachers of the arts.",
+ "set": "hancock",
+ "pair": "Oannes | Nommo",
+ "i": 193,
+ "target": "Oannes",
+ "planted": "Nommo",
+ "cands": [
+  "Cadmus",
+  "Coyote (mythology)",
+  "Nommo",
+  "Bachu\u00e9",
+  "Prometheus",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Mbombo",
+  "Djanggawul",
+  "Orpheus",
+  "Yu the Great"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

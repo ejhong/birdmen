@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  7,
+  10,
+  8,
+  4,
+  9,
+  2,
+  6,
+  5,
+  1
+ ],
+ "most_similar_reason": "Candidate 3 mirrors the target's core narrative skeleton of a royal figure encountering a wandering ascetic teacher, converting despite parental opposition, and eventually renouncing rulership to pursue solitary asceticism, closely paralleling the Buddha legend's own derivative retellings.",
+ "least_similar_reason": "Candidate 1 is a trickster-creator animal myth about a raven spirit shaping the physical world through defecation, feathers, and battles with other animal spirits, sharing no teacher figure, doctrine, or narrative structure with the target.",
+ "set": "positive",
+ "pair": "Gautama Buddha | Barlaam and Josaphat",
+ "i": 323,
+ "target": "Gautama Buddha",
+ "planted": "Barlaam and Josaphat",
+ "cands": [
+  "Kutkh",
+  "Bachu\u00e9",
+  "Barlaam and Josaphat",
+  "Palamedes (mythology)",
+  "Wandjina",
+  "Glooscap",
+  "Gesar",
+  "Kvasir",
+  "Tezcatlipoca",
+  "Triptolemus"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  1,
+  3,
+  10,
+  6,
+  7,
+  9,
+  4,
+  2,
+  8
+ ],
+ "most_similar_reason": "Candidate 5 shares the same distinctive profile as the target: a serpent-associated culture hero and dynastic founder tied to a ritual calendar day name and a jaguar/darkness aspect, who divides lands, founds a city and kingdom, makes repeated journeys, and whose cult objects are ultimately burned by a religious authority.",
+ "least_similar_reason": "Candidate 8 is not a narrative at all but an abstract discussion of a term for a diffuse 'Great Spirit/Great Mystery,' with no birth story, culture-hero deeds, gifts to mankind, or any comparable episodes.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Votan",
+ "i": 150,
+ "target": "Quetzalcoatl",
+ "planted": "Votan",
+ "cands": [
+  "Glooscap",
+  "Mwari",
+  "Cadmus",
+  "Wisakedjak",
+  "Votan",
+  "R\u00edgs\u00feula",
+  "Yu the Great",
+  "Wakan Tanka",
+  "Djanggawul",
+  "Kilibob and Manup"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 1
+}

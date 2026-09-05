@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  9,
+  10,
+  8,
+  3,
+  5,
+  6,
+  2,
+  7,
+  1
+ ],
+ "most_similar_reason": "Candidate 4 shares the same Mesopotamian mythic context as the target, featuring the seven sages (apkallu) who serve as attendants of the wisdom-water deity, the tablets of destiny, temple-founding, and post-flood civilizing acts that directly echo the target's servant sages and creation/flood motifs.",
+ "least_similar_reason": "Candidate 1 is a heroic war saga about a giant king, a mutilated-horse feud, and a magic reviving cauldron with no overlap in themes of wisdom, subterranean waters, clay creation of man, or divine problem-solving that define the target.",
+ "set": "related",
+ "pair": "Enki | Oannes",
+ "i": 487,
+ "target": "Enki",
+ "planted": "Oannes",
+ "cands": [
+  "Bran the Blessed",
+  "Orpheus",
+  "Aeneas",
+  "Oannes",
+  "Palamedes (mythology)",
+  "Hiawatha",
+  "Wandjina",
+  "Triptolemus",
+  "T\u0101ne",
+  "Anansi"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  9,
+  8,
+  10,
+  1,
+  4,
+  3,
+  5,
+  6,
+  7
+ ],
+ "most_similar_reason": "Candidate 2 shares the closest cluster of specific motifs with the target\u2014a bearded, staff-and-book-carrying creator deity who rises from a lake, forms humanity from stone/clay, destroys a flawed first race by flood, teaches civilization while wandering in disguise, and finally walks across the sea and disappears, all core Quetzalcoatl-type elements paralleling the target's calendar/book invention, mankind's re-creation, and eventual self-transformation/departure.",
+ "least_similar_reason": "Candidate 7 is a Hindu-tradition tale of an ascetic sage born from a jar, married to a princess, mediating divine conflicts and drinking the ocean, sharing only generic mythic tropes (divine birth, marriage, cosmic intervention) with no specific correspondence to the feathered serpent's birth variants, star transformation, incest, or self-immolation.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Viracocha",
+ "i": 12,
+ "target": "Quetzalcoatl",
+ "planted": "Viracocha",
+ "cands": [
+  "\u014ckuninushi",
+  "Viracocha",
+  "Unkulunkulu",
+  "Ogun",
+  "Mwari",
+  "Kilibob and Manup",
+  "Agastya",
+  "Yellow Emperor",
+  "Nanabozho",
+  "Prometheus"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 1
+}

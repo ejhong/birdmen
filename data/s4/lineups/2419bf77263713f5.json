@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  5,
+  7,
+  3,
+  4,
+  6,
+  8,
+  2,
+  1,
+  10
+ ],
+ "most_similar_reason": "Candidate 9 shares the target's core profile of a civilizing god who teaches agriculture and crafts, travels among peoples bestowing crops, journeys to and is associated with the underworld, is undone by a rival/trickster god, and is sealed into a chest (box) at his death before being transfigured.",
+ "least_similar_reason": "Candidate 10 is merely an abstract note on an ancestor-turned-creator figure who makes humans from reeds and then forgets them, with no murder, dismemberment, avenging kin, agricultural teaching, or rule over the dead.",
+ "set": "hancock",
+ "pair": "Osiris | Quetzalcoatl",
+ "i": 98,
+ "target": "Osiris",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Ziusudra",
+  "Adapa",
+  "Prometheus",
+  "Wayland the Smith",
+  "Bran the Blessed",
+  "Tagaro",
+  "Kvasir",
+  "R\u00edgs\u00feula",
+  "Quetzalcoatl",
+  "Unkulunkulu"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

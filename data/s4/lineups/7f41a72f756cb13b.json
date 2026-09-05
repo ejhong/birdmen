@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  1,
+  2,
+  9,
+  7,
+  6,
+  3,
+  5,
+  10,
+  8
+ ],
+ "most_similar_reason": "Candidate 4 shares the core flood narrative structure with the target: a chief deity angered by human wickedness sends a flood, forewarns a righteous hero, who builds a vessel, survives with his family, offers thanks/sacrifice afterward, and becomes ancestor of dispersed peoples\u2014paralleling the Deucalion-like flood, ark, and post-flood repopulation in the target.",
+ "least_similar_reason": "Candidate 8 contains almost no narrative content beyond naming a supreme deity, sharing none of the flood, ark, oracle, stone-throwing, or genealogical motifs central to the target.",
+ "set": "positive",
+ "pair": "Deucalion | Noah",
+ "i": 389,
+ "target": "Deucalion",
+ "planted": "Noah",
+ "cands": [
+  "Berossus",
+  "Pachacamac",
+  "Kutkh",
+  "Noah",
+  "Nanabozho",
+  "Rama",
+  "Qat (deity)",
+  "Bumba",
+  "Tezcatlipoca",
+  "Great Peacemaker"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

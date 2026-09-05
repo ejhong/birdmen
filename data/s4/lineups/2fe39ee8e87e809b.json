@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  5,
+  10,
+  8,
+  4,
+  6,
+  9,
+  3,
+  2,
+  1
+ ],
+ "most_similar_reason": "Candidate 7 depicts the prophet identified in Islamic tradition with Enoch (Idris), sharing the exact motifs of being 'raised to a high station,' meeting the angel of death in the fourth heaven, being credited as first scribe/writer, astronomer, and inventor of measures and garments, directly paralleling Enoch's 'Great Scribe' title, ascension without death, and cosmic role.",
+ "least_similar_reason": "Candidate 1 is a creation myth about a sky goddess falling to earth and giving birth to twin creator gods who form the sun, moon, and crops from her body, sharing no structural or thematic overlap with the patriarchal ascension, scribal, and prophetic motifs of the target figure.",
+ "set": "related",
+ "pair": "Enoch (ancestor of Noah) | Idris (prophet)",
+ "i": 555,
+ "target": "Enoch (ancestor of Noah)",
+ "planted": "Idris (prophet)",
+ "cands": [
+  "Sky Woman",
+  "Makunaima",
+  "Wakan Tanka",
+  "Rama",
+  "Cangjie",
+  "Nyame",
+  "Idris (prophet)",
+  "Ninigi-no-Mikoto",
+  "Tagaro",
+  "Shennong"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

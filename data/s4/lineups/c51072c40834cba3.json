@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  7,
+  2,
+  5,
+  8,
+  6,
+  10,
+  1,
+  4,
+  9
+ ],
+ "most_similar_reason": "Candidate 3 shares the closest thematic cluster with the target: a primordial creator deity who vomits/creates humanity and animals, establishes the world order, and is linked to fire being withheld from humans until taught, echoing the target's creation-of-humanity-from-clay and fire-related motifs.",
+ "least_similar_reason": "Candidate 9 is least similar, being a historical/legendary peace-founding narrative about tribal confederation, oratory, and prophecy with no correspondence to the target's specific motifs of clay creation, trickery over sacrifice, stolen fire, Pandora-like woman, or the bound liver-eaten hero.",
+ "set": "random",
+ "pair": "Prometheus | Wayland the Smith",
+ "i": 561,
+ "target": "Prometheus",
+ "planted": "Wayland the Smith",
+ "cands": [
+  "Cangjie",
+  "Huitzilopochtli",
+  "Mbombo",
+  "Wayland the Smith",
+  "Tagaro",
+  "Baiame",
+  "Nyame",
+  "Dangun",
+  "Great Peacemaker",
+  "Heitsi-eibib"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 9
+}

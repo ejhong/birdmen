@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  9,
+  3,
+  10,
+  5,
+  4,
+  6,
+  7,
+  8,
+  2
+ ],
+ "most_similar_reason": "Candidate 1 is explicitly the Matsya avatar flood myth, with the fish-god towing the boat, seven sages, sacred scriptures, and the preserver god's incarnations, matching nearly every core motif of the target almost point for point.",
+ "least_similar_reason": "Candidate 2 contains almost no narrative content at all, merely stating that a being with two names was a supreme deity, sharing no specific motifs, events, or figures with the target's fish-flood myth.",
+ "set": "positive",
+ "pair": "Matsya | Manu (Hinduism)",
+ "i": 370,
+ "target": "Matsya",
+ "planted": "Manu (Hinduism)",
+ "cands": [
+  "Manu (Hinduism)",
+  "Bumba",
+  "Mbombo",
+  "Itzamna",
+  "Nyame",
+  "Bran the Blessed",
+  "Cangjie",
+  "Waaq",
+  "Pachacamac",
+  "Huitzilopochtli"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  4,
+  8,
+  10,
+  9,
+  2,
+  1,
+  3,
+  5,
+  6
+ ],
+ "most_similar_reason": "Candidate 7 shares the same mythic world as the target\u2014a wisdom-and-crafts god of the subterranean fresh waters who is served by a group of sages, creates humanity, and intervenes in the flood story\u2014matching the target's distinctive apkallu-and-water-god complex.",
+ "least_similar_reason": "Candidate 6 is not a narrative at all but a description of an abstract, non-acting symbol of an unknowable divine principle, sharing none of the target's sages, flood, civilizing acts, or episodic events.",
+ "set": "related",
+ "pair": "Oannes | Enki",
+ "i": 492,
+ "target": "Oannes",
+ "planted": "Enki",
+ "cands": [
+  "Wisakedjak",
+  "Bhagiratha",
+  "Sosruko",
+  "Yellow Emperor",
+  "Gesar",
+  "Sang Hyang Tunggal",
+  "Enki",
+  "Itzamna",
+  "Baiame",
+  "Glooscap"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  4,
+  10,
+  5,
+  1,
+  9,
+  6,
+  7,
+  8,
+  3
+ ],
+ "most_similar_reason": "Candidate 2, like the target, centers on a culture-bringing god who invented books/writing and the calendar, features a set of four sibling deities born to a divine couple, a journey to the underworld, and creation/restoration of life, matching many of the target's distinctive motifs.",
+ "least_similar_reason": "Candidate 3 is a doctrinal explanation of a term for a diffuse sacred power with no characters, episodes, inventions, or relationships at all, so it shares nothing with the target's narrative content.",
+ "set": "hancock",
+ "pair": "Thoth | Quetzalcoatl",
+ "i": 160,
+ "target": "Thoth",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Great Peacemaker",
+  "Quetzalcoatl",
+  "Wakan Tanka",
+  "Anansi",
+  "Ninigi-no-Mikoto",
+  "Ogun",
+  "Kokopelli",
+  "Wandjina",
+  "Bhagiratha",
+  "Ayar Manco"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 1
+}

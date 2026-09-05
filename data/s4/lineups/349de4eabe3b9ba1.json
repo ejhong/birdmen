@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  4,
+  8,
+  5,
+  10,
+  2,
+  3,
+  7,
+  1,
+  6
+ ],
+ "most_similar_reason": "Candidate 9 recounts the life of the historical founder-teacher (royal birth, renunciation, awakening, and establishment of a religious order) that underlies the target legend, sharing the core motif of a prince abandoning worldly rule for ascetic teaching.",
+ "least_similar_reason": "Candidate 6 is an extremely brief, generic statement about a creator god with no narrative of persecution, conversion, succession, or renunciation, sharing only the loosest thematic connection to the target.",
+ "set": "positive",
+ "pair": "Barlaam and Josaphat | Gautama Buddha",
+ "i": 330,
+ "target": "Barlaam and Josaphat",
+ "planted": "Gautama Buddha",
+ "cands": [
+  "Kutkh",
+  "Berossus",
+  "Glooscap",
+  "Triptolemus",
+  "Huitzilopochtli",
+  "Makunaima",
+  "Cangjie",
+  "Baiame",
+  "Gautama Buddha",
+  "Ziusudra"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

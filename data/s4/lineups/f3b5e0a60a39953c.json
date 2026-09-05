@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  6,
+  8,
+  10,
+  2,
+  4,
+  3,
+  5,
+  9,
+  1
+ ],
+ "most_similar_reason": "Candidate 7 shares the core Maui-cycle motifs directly with the target: a magic fishhook, deceiving brothers on a fishing trip that fishes up land, and the hero's role in cosmic ordering, matching the target's fishhook/fish-island episode almost point for point.",
+ "least_similar_reason": "Candidate 1 concerns a humpbacked flute-playing fertility deity tied to agriculture, moon imagery, and animal fertility with no shared motifs of birth-by-sea, underworld journey, fishhook, fire theft, or immortality quest found in the target.",
+ "set": "related",
+ "pair": "M\u0101ui (M\u0101ori mythology) | M\u0101ui (Hawaiian mythology)",
+ "i": 528,
+ "target": "M\u0101ui (M\u0101ori mythology)",
+ "planted": "M\u0101ui (Hawaiian mythology)",
+ "cands": [
+  "Kokopelli",
+  "Huitzilopochtli",
+  "Nanabozho",
+  "Pachacamac",
+  "Great Peacemaker",
+  "Maya Hero Twins",
+  "M\u0101ui (Hawaiian mythology)",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Djanggawul",
+  "Adapa"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

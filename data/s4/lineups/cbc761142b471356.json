@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  4,
+  9,
+  1,
+  5,
+  8,
+  2,
+  7,
+  3,
+  10
+ ],
+ "most_similar_reason": "Candidate 6's feathered-serpent deity shares the target's core motifs of a civilizing hero who founds a religion, is linked to wind (as in the target's 'wind' witness account), is represented by idols, and is remembered through multiple, conflicting accounts of his nature and origin.",
+ "least_similar_reason": "Candidate 10's cycle of trickster tales about world-creation, animal councils, and fishing lore shares only the broad idea of a mythic figure with many stories, but none of the specific motifs\u2014destroyed building, sacred cave, chiefs seeking wisdom, or sun temple\u2014found in the target.",
+ "set": "hancock",
+ "pair": "Bochica | Quetzalcoatl",
+ "i": 126,
+ "target": "Bochica",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Aeneas",
+  "Mbombo",
+  "Ilmarinen",
+  "Oduduwa",
+  "R\u00edgs\u00feula",
+  "Quetzalcoatl",
+  "Bhagiratha",
+  "Orpheus",
+  "Obatala",
+  "Coyote (mythology)"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

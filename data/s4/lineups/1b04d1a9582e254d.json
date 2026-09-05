@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  5,
+  9,
+  1,
+  3,
+  7,
+  6,
+  8,
+  4,
+  2
+ ],
+ "most_similar_reason": "Candidate 10 shares nearly every distinctive episode with the target: exile engineered by a stepmother-queen so her son can rule, the wife won in a bridal contest, the loyal younger brother mutilating a seductive demoness's nose and ears, the golden-deer ruse that lures the brothers away, the ten-headed island demon's abduction of the wife, the alliance with monkey-people after helping their leader defeat a rival, the monkey emissary who finds her, and the final duel and triumphant return.",
+ "least_similar_reason": "Candidate 2 has no hero, no narrative sequence of birth, exile, abduction, or battle at all, being instead a descriptive account of rain-spirit beings, their cave paintings, and repainting rituals.",
+ "set": "positive",
+ "pair": "Ramayana | Reamker",
+ "i": 283,
+ "target": "Ramayana",
+ "planted": "Reamker",
+ "cands": [
+  "R\u00edgs\u00feula",
+  "Wandjina",
+  "Wayland the Smith",
+  "Berossus",
+  "Orpheus",
+  "Coyote (mythology)",
+  "Sosruko",
+  "Ziusudra",
+  "Yu the Great",
+  "Reamker"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

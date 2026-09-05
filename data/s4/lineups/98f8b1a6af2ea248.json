@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  9,
+  8,
+  2,
+  10,
+  4,
+  7,
+  5,
+  6,
+  1
+ ],
+ "most_similar_reason": "Candidate 3 retells the same Mesopotamian flood narrative core\u2014gods swearing to destroy mankind, a wise god secretly warning the flood hero through a reed wall, building a large sealed boat, loading family and animals, a storm lasting days, and later divine remorse\u2014matching the target's plot almost beat for beat.",
+ "least_similar_reason": "Candidate 1 concerns a primordial war/metal deity's arrival, kingship struggles, and a mysterious disappearance into the earth, sharing no distinctive motifs of divine labor, human creation from clay and blood, plague-sending gods, or a flood-ship narrative found in the target.",
+ "set": "positive",
+ "pair": "Atra-Hasis | Gilgamesh flood myth",
+ "i": 247,
+ "target": "Atra-Hasis",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Ogun",
+  "Sky Woman",
+  "Gilgamesh flood myth",
+  "Huitzilopochtli",
+  "Aeneas",
+  "Orpheus",
+  "Itzamna",
+  "R\u00edgs\u00feula",
+  "Ilmarinen",
+  "Mbombo"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 1
+}

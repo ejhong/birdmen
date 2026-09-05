@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  7,
+  8,
+  2,
+  6,
+  3,
+  10,
+  1,
+  4,
+  5
+ ],
+ "most_similar_reason": "Candidate 9 shares the closest constellation of motifs with the target: a bird-associated deity, a divine marriage, transformation/departure into another realm (the daughter fleeing to the underworld as a goddess who later guides or awaits her people), and cosmogonic creation themes paralleling the goddess's role as mother of humanity and her bird-deity husband's underworld return.",
+ "least_similar_reason": "Candidate 5 is least similar, being a revenge and craftsmanship narrative about a mutilated smith who kills a king's sons and seduces his daughter, with no themes of creation, water emergence, animal transformation, or a mother goddess figure central to the target story.",
+ "set": "random",
+ "pair": "Bachu\u00e9 | T\u0101ne",
+ "i": 562,
+ "target": "Bachu\u00e9",
+ "planted": "T\u0101ne",
+ "cands": [
+  "Agastya",
+  "Prometheus",
+  "Nanabozho",
+  "Mwari",
+  "Wayland the Smith",
+  "Rama",
+  "Dangun",
+  "Qat (deity)",
+  "T\u0101ne",
+  "Shennong"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

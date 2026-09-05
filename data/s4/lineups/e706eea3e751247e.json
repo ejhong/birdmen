@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  6,
+  7,
+  8,
+  3,
+  1,
+  2,
+  5,
+  10,
+  9
+ ],
+ "most_similar_reason": "Candidate 4 is essentially a variant retelling of the same epic, sharing the archery contest for the princess, exile with brother, demoness rejection, abduction by a multi-headed demon king, alliance with monkey allies including a monkey general, causeway-building, and the final rescue and fire ordeal.",
+ "least_similar_reason": "Candidate 9 is an abstract theological discussion of a sacred concept with no narrative figures, events, or plot, sharing no concrete story elements with the target's tale of exile, abduction, and battle.",
+ "set": "positive",
+ "pair": "Ramayana | Ramakien",
+ "i": 300,
+ "target": "Ramayana",
+ "planted": "Ramakien",
+ "cands": [
+  "Ilmarinen",
+  "Itzamna",
+  "Tezcatlipoca",
+  "Ramakien",
+  "Kutkh",
+  "Amirani",
+  "Ogun",
+  "Dangun",
+  "Wakan Tanka",
+  "Nyame"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

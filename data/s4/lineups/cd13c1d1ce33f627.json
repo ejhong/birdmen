@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  4,
+  3,
+  1,
+  2,
+  6,
+  9,
+  5,
+  10,
+  8
+ ],
+ "most_similar_reason": "Candidate 7 shares the closest match to the target's flood narrative: a divine command to build a large vessel, saving family and animals, sending out birds (dove and raven) to test the receding waters, and offering sacrifice afterward.",
+ "least_similar_reason": "Candidate 8 is an abstract discussion of a spiritual concept ('Great Spirit/Mystery') with no narrative events, characters, or flood motifs corresponding to the target story.",
+ "set": "positive",
+ "pair": "Noah | Utnapishtim",
+ "i": 272,
+ "target": "Noah",
+ "planted": "Utnapishtim",
+ "cands": [
+  "Sky Woman",
+  "Mbombo",
+  "Wisakedjak",
+  "Rama",
+  "Heitsi-eibib",
+  "Nyame",
+  "Utnapishtim",
+  "Wakan Tanka",
+  "Anansi",
+  "Sosruko"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

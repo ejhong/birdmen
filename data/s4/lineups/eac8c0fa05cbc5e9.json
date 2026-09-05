@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  3,
+  6,
+  4,
+  10,
+  2,
+  5,
+  7,
+  8,
+  9
+ ],
+ "most_similar_reason": "Candidate 1 (the herb-tasting culture hero) most closely echoes the target's bundling of roles\u2014patron of medicine and agriculture, credited with a foundational written/recorded body of knowledge (365 herbs), death and subsequent deification as a healing and farming god\u2014paralleling the target deity's status as inventor of writing, patron of medicine, and governor of agriculture.",
+ "least_similar_reason": "Candidate 9 contains no narrative content at all beyond naming a deity, so it shares no discernible motifs, episodes, or relationships with the richly detailed target myth.",
+ "set": "random",
+ "pair": "Itzamna | Coyote (mythology)",
+ "i": 567,
+ "target": "Itzamna",
+ "planted": "Coyote (mythology)",
+ "cands": [
+  "Shennong",
+  "\u014ckuninushi",
+  "Mbombo",
+  "Coyote (mythology)",
+  "Amirani",
+  "Triptolemus",
+  "Djanggawul",
+  "Wayland the Smith",
+  "Abassi",
+  "Romulus and Remus"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 4
+}

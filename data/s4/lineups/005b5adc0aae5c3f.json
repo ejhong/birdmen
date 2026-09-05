@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  4,
+  2,
+  10,
+  9,
+  7,
+  1,
+  8,
+  5,
+  6
+ ],
+ "most_similar_reason": "Candidate 3 shares the target's most distinctive core: a group of primordial amphibious beings who descend from the sky, must live in water and plunge into it, impart life/knowledge to humans, are linked to the founding of shrines, and are regarded as the origin of the people's first religious authority.",
+ "least_similar_reason": "Candidate 6 is only a bare statement that a supreme deity had two names, offering no sages, no culture-bringing, no flood, kings, water-banishment or ritual figurines to compare.",
+ "set": "hancock",
+ "pair": "Oannes | Nommo",
+ "i": 197,
+ "target": "Oannes",
+ "planted": "Nommo",
+ "cands": [
+  "Ninigi-no-Mikoto",
+  "Bachu\u00e9",
+  "Nommo",
+  "Cangjie",
+  "Mwari",
+  "Bumba",
+  "Mbombo",
+  "Romulus and Remus",
+  "Bhagiratha",
+  "Wandjina"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

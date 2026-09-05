@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  9,
+  8,
+  5,
+  3,
+  1,
+  2,
+  10,
+  4,
+  6
+ ],
+ "most_similar_reason": "Candidate 7 shares the same distinctive cluster of motifs: a brother\u2013sister pair living on a sacred mountain who take a natural sign (mist/merging flames) as divine approval for their marriage, the molding of humans from clay/mud, and repair or ordering of the damaged cosmos.",
+ "least_similar_reason": "Candidate 6 is only a bare statement that a variously named creator god is recognized in a region, with no episodes, relationships, teachings, or motifs to correspond with the target's rich creation and culture-hero narrative.",
+ "set": "related",
+ "pair": "Fuxi | N\u00fcwa",
+ "i": 503,
+ "target": "Fuxi",
+ "planted": "N\u00fcwa",
+ "cands": [
+  "Triptolemus",
+  "Oduduwa",
+  "Tangaroa",
+  "Wandjina",
+  "Pachacamac",
+  "Makunaima",
+  "N\u00fcwa",
+  "Huitzilopochtli",
+  "Dangun",
+  "Kokopelli"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

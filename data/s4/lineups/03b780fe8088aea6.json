@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  5,
+  4,
+  10,
+  8,
+  1,
+  2,
+  6,
+  7,
+  9
+ ],
+ "most_similar_reason": "Candidate 3 shares the target's core plot almost point for point: a deity resolves to destroy wicked mankind with a flood, one favored man is commanded to build a great vessel, he loads family and animals, all others perish, and after the waters recede he offers a sacrifice and receives a divine blessing/covenant.",
+ "least_similar_reason": "Candidate 9 has no flood, no vessel, no quest for immortality and no divine boon\u2014only a clever warrior-prince in a military coalition and variant accounts of his murder\u2014so it shares nothing distinctive with the target.",
+ "set": "positive",
+ "pair": "Utnapishtim | Noah",
+ "i": 269,
+ "target": "Utnapishtim",
+ "planted": "Noah",
+ "cands": [
+  "Mbombo",
+  "Tagaro",
+  "Noah",
+  "Qat (deity)",
+  "Yu the Great",
+  "Ayar Manco",
+  "Rama",
+  "Bran the Blessed",
+  "Palamedes (mythology)",
+  "Maya Hero Twins"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

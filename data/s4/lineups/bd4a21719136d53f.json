@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  7,
+  5,
+  6,
+  1,
+  9,
+  3,
+  10,
+  4,
+  2
+ ],
+ "most_similar_reason": "Candidate 8 mirrors the target's core narrative of a royal figure who encounters and converts to a wandering teacher's faith, renounces rule for ascetic life, and passes leadership on before withdrawing into solitude, closely paralleling the target's themes of renunciation, religious conversion, and monastic withdrawal from worldly power.",
+ "least_similar_reason": "Candidate 2 is not a narrative at all but an abstract linguistic/conceptual discussion of a term for the sacred, sharing none of the target's biographical events, teachings, or institutional details.",
+ "set": "positive",
+ "pair": "Gautama Buddha | Barlaam and Josaphat",
+ "i": 327,
+ "target": "Gautama Buddha",
+ "planted": "Barlaam and Josaphat",
+ "cands": [
+  "Mama Ocllo",
+  "Wakan Tanka",
+  "Nyame",
+  "Wandjina",
+  "R\u00edgs\u00feula",
+  "Cadmus",
+  "Triptolemus",
+  "Barlaam and Josaphat",
+  "Glooscap",
+  "Qat (deity)"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

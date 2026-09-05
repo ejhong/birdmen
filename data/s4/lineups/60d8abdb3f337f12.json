@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  5,
+  1,
+  9,
+  4,
+  2,
+  8,
+  10,
+  3,
+  7
+ ],
+ "most_similar_reason": "Candidate 6 shares the same core Maui-type mythos: a hero with a magic fishhook (made from a relative's remains) who secretly joins his brothers fishing, hooks and raises a great fish/island that becomes land, alongside fire-theft and mortality myths, closely paralleling the target's fishhook, island-raising, and trickster-brother motifs.",
+ "least_similar_reason": "Candidate 7 is not a narrative at all but a linguistic and etymological survey of a divine name across languages, sharing no plot, characters, or motifs with the target's fishhook, island-creation, or sun-snaring story.",
+ "set": "related",
+ "pair": "M\u0101ui (Hawaiian mythology) | M\u0101ui (M\u0101ori mythology)",
+ "i": 537,
+ "target": "M\u0101ui (Hawaiian mythology)",
+ "planted": "M\u0101ui (M\u0101ori mythology)",
+ "cands": [
+  "Tezcatlipoca",
+  "Triptolemus",
+  "Corn Mother",
+  "Rama",
+  "Sosruko",
+  "M\u0101ui (M\u0101ori mythology)",
+  "Waaq",
+  "Palamedes (mythology)",
+  "Itzamna",
+  "R\u00edgs\u00feula"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

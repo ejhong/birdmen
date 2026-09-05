@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  1,
+  6,
+  8,
+  9,
+  2,
+  7,
+  10,
+  5,
+  4
+ ],
+ "most_similar_reason": "Candidate 3 is a flood narrative that mirrors the target almost point for point: a deity warns a righteous man to build a vessel, he loads it with kin and animals, the flood destroys all flesh, the boat rests on a mountain, birds (a raven then smaller birds) are released to test the waters, and the hero makes a sacrifice that leads to a divine covenant/blessing.",
+ "least_similar_reason": "Candidate 4 concerns agricultural harvest customs and a grain-spirit effigy with no flood, hero, boat, gods, or quest for immortality, making it thematically and structurally unrelated to the target.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Genesis flood narrative",
+ "i": 228,
+ "target": "Gilgamesh flood myth",
+ "planted": "Genesis flood narrative",
+ "cands": [
+  "Orpheus",
+  "Ayar Manco",
+  "Genesis flood narrative",
+  "Corn Mother",
+  "Anansi",
+  "Amirani",
+  "Tangaroa",
+  "Glooscap",
+  "Oduduwa",
+  "Baiame"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  10,
+  7,
+  6,
+  5,
+  3,
+  1,
+  4,
+  9,
+  2
+ ],
+ "most_similar_reason": "Candidate 8 shares the target's most distinctive specifics: a founding culture-hero associated with a great lake who carries a golden staff, is linked to a sun deity, travels with companions/siblings bearing his name, and establishes a city and civilization while teaching its people.",
+ "least_similar_reason": "Candidate 2 is not a narrative at all but a description of an abstract, non-acting theological symbol, sharing none of the target's siblings, migration, staff, incestuous marriage, or city-founding events.",
+ "set": "related",
+ "pair": "Manco C\u00e1pac | Viracocha",
+ "i": 433,
+ "target": "Manco C\u00e1pac",
+ "planted": "Viracocha",
+ "cands": [
+  "Prometheus",
+  "Sang Hyang Tunggal",
+  "Orpheus",
+  "White Buffalo Calf Woman",
+  "Heitsi-eibib",
+  "T\u0101ne",
+  "Rama",
+  "Viracocha",
+  "Wisakedjak",
+  "Cadmus"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

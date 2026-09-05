@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  6,
+  4,
+  9,
+  8,
+  5,
+  2,
+  7,
+  1,
+  10
+ ],
+ "most_similar_reason": "Candidate 3 shares the core motif of a wise, civilizing deity who teaches humans the arts of civilization, is linked to a great flood, and disappears across primeval waters, closely paralleling the sages' role in bringing wisdom before and after the flood.",
+ "least_similar_reason": "Candidate 10 contains no narrative content at all beyond naming a worshipped deity, sharing none of the specific motifs (sages, flood, healing poultices, fish/bird hybrids) found in the target myth.",
+ "set": "hancock",
+ "pair": "Oannes | Viracocha",
+ "i": 35,
+ "target": "Oannes",
+ "planted": "Viracocha",
+ "cands": [
+  "Bumba",
+  "Obatala",
+  "Viracocha",
+  "Palamedes (mythology)",
+  "Ninigi-no-Mikoto",
+  "Shennong",
+  "Wayland the Smith",
+  "Sky Woman",
+  "Qat (deity)",
+  "Abassi"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 1
+}

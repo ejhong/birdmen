@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  1,
+  9,
+  6,
+  5,
+  2,
+  4,
+  7,
+  10,
+  3
+ ],
+ "most_similar_reason": "Candidate 8 matches the target almost episode for episode: exile forced by a queen mother wanting her own son enthroned, the wife won in a bow/arrow contest, the loyal younger brother, the demoness whose nose and ears are cut off, her multi-headed demon-king brother sending a golden-deer decoy and abducting the wife, the alliance with monkey-people and their restored king, the devoted monkey warrior who finds her, and the final battle and triumphant return.",
+ "least_similar_reason": "Candidate 3 has no hero, no plot of exile, abduction or battle at all\ninstead describing an agricultural harvest custom of housing a grain spirit in a straw figure, sharing nothing but the vaguest supernatural framing with the target.",
+ "set": "positive",
+ "pair": "Ramayana | Reamker",
+ "i": 280,
+ "target": "Ramayana",
+ "planted": "Reamker",
+ "cands": [
+  "Palamedes (mythology)",
+  "Tezcatlipoca",
+  "Corn Mother",
+  "Coyote (mythology)",
+  "Nanabozho",
+  "Oduduwa",
+  "Kutkh",
+  "Reamker",
+  "Yu the Great",
+  "Djanggawul"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

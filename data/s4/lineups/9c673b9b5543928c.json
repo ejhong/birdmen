@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  2,
+  10,
+  9,
+  6,
+  3,
+  4,
+  8,
+  1,
+  7
+ ],
+ "most_similar_reason": "Candidate 5 matches the target's most distinctive structural details: the deity is one of four sons tied to a cardinal direction, was sent to teach humankind, named/ordered the natural world, invented a writing system, and acts as co-creator and trickster\u2014closely paralleling the target's four directional brothers, culture-hero inventions of books, and creation role.",
+ "least_similar_reason": "Candidate 7 is a description of harvest customs with a straw effigy housing a grain spirit, with no deity, no birth or creation narrative, no culture-hero inventions, and none of the target's distinctive episodes beyond the incidental presence of a grain crop.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Thoth",
+ "i": 177,
+ "target": "Quetzalcoatl",
+ "planted": "Thoth",
+ "cands": [
+  "Wayland the Smith",
+  "Thoth",
+  "Djanggawul",
+  "Kokopelli",
+  "Nanabozho",
+  "Wisakedjak",
+  "Corn Mother",
+  "Sosruko",
+  "Oduduwa",
+  "Cadmus"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 2
+}

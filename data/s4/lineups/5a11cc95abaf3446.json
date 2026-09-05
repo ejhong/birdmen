@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  9,
+  3,
+  8,
+  7,
+  1,
+  5,
+  6,
+  2,
+  10
+ ],
+ "most_similar_reason": "Candidate 4, like the target, centers on a culture hero conceived miraculously by his mother swallowing/absorbing something with a specified gestation period, who invents and teaches agriculture, gives a grain/plow and a special plant-based beverage to humanity, and dies sacrificially to become a worshipped patron deity.",
+ "least_similar_reason": "Candidate 10 concerns impersonal rain-and-cloud spirits embodied in repainted rock art rather than a personal culture hero with birth stories, inventions, underworld journey, incest, self-immolation, and astral transformation.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Bochica",
+ "i": 136,
+ "target": "Quetzalcoatl",
+ "planted": "Bochica",
+ "cands": [
+  "Kvasir",
+  "Ogun",
+  "T\u0101ne",
+  "Shennong",
+  "Kokopelli",
+  "Ninigi-no-Mikoto",
+  "Palamedes (mythology)",
+  "Glooscap",
+  "Bochica",
+  "Wandjina"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 2
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  3,
+  6,
+  4,
+  5,
+  10,
+  7,
+  9,
+  1,
+  2
+ ],
+ "most_similar_reason": "Candidate 8, like the target, centers on a divine wind-associated civilizing hero who descends to found a religion, travels among towns and peoples, is remembered in multiple conflicting accounts, and is tied to a sun temple and sacred site.",
+ "least_similar_reason": "Candidate 2 is an abstract discussion of a term for diffuse sacred power with no birth stories, deeds, gifts to humanity, or narrative events at all.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Bochica",
+ "i": 131,
+ "target": "Quetzalcoatl",
+ "planted": "Bochica",
+ "cands": [
+  "Wayland the Smith",
+  "Wakan Tanka",
+  "Prometheus",
+  "White Buffalo Calf Woman",
+  "Baiame",
+  "Qat (deity)",
+  "Ziusudra",
+  "Bochica",
+  "Sosruko",
+  "Wandjina"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

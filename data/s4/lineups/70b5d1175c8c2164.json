@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  5,
+  8,
+  7,
+  9,
+  6,
+  3,
+  1,
+  2,
+  10
+ ],
+ "most_similar_reason": "Candidate 4 shares the clearest structural echoes with the target myth: divine siblings who separate primeval realms, a culture hero who brings baskets of knowledge down from heaven (paralleling the sages bringing wisdom/tablets), and the giving of civilizing tools (canoes, hooks, nets) to humanity, alongside a fish/reptile ancestral split reminiscent of the fish-man hybrid sages.",
+ "least_similar_reason": "Candidate 10 is a simple, single-hero trickster tale about stealing fire from a giant with no multiplicity of sages, no hybrid fish/bird forms, no kings, floods, tablets, or civilizing curriculum, making it thematically the most distant from the target's complex mytho-historical framework.",
+ "set": "hancock",
+ "pair": "Oannes | Quetzalcoatl",
+ "i": 77,
+ "target": "Oannes",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Quetzalcoatl",
+  "Hiawatha",
+  "Nyame",
+  "T\u0101ne",
+  "Tagaro",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Obatala",
+  "Glooscap",
+  "Ninigi-no-Mikoto",
+  "Sosruko"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 8
+}

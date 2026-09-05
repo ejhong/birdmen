@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  5,
+  1,
+  4,
+  8,
+  2,
+  9,
+  3,
+  7,
+  10
+ ],
+ "most_similar_reason": "Candidate 6 shares the same divine milieu as the target\u2014a wisdom god of the subterranean freshwater abyss whose servants explicitly include a group of sages, who creates humanity from clay, warns of the flood, and solves problems among the gods\u2014matching the target's sages, primeval waters, and civilizing wisdom directly.",
+ "least_similar_reason": "Candidate 10 is a dynastic war-and-founding epic about a fugitive prince, his divine mother, and his descendants, with no sages, no antediluvian kings, no fish-men, and no transmission of arts or wisdom to humanity.",
+ "set": "related",
+ "pair": "Oannes | Enki",
+ "i": 490,
+ "target": "Oannes",
+ "planted": "Enki",
+ "cands": [
+  "V\u00e4in\u00e4m\u00f6inen",
+  "R\u00edgs\u00feula",
+  "Mbombo",
+  "T\u0101ne",
+  "Prometheus",
+  "Enki",
+  "Heitsi-eibib",
+  "Palamedes (mythology)",
+  "Djanggawul",
+  "Aeneas"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  8,
+  7,
+  2,
+  5,
+  1,
+  3,
+  9,
+  4,
+  6
+ ],
+ "most_similar_reason": "Candidate 10, like the target, centers on a deity known chiefly through his rock-art iconography (a distinctively rendered human figure with head ornamentation, accompanied by a related figure), with associated consorts, animal identifications, ritual/initiation involvement, and taboos concerning women and girls, rather than on a plot of adventures.",
+ "least_similar_reason": "Candidate 6 is a war-saga about a clever mortal prince, his inventions, feud, and disputed death, sharing none of the target's fertility, flute/music, rock-art imagery, animal-and-rain associations, or child-bearing motifs.",
+ "set": "random",
+ "pair": "Kokopelli | Romulus and Remus",
+ "i": 583,
+ "target": "Kokopelli",
+ "planted": "Romulus and Remus",
+ "cands": [
+  "Nyame",
+  "R\u00edgs\u00feula",
+  "Cadmus",
+  "Romulus and Remus",
+  "T\u0101ne",
+  "Palamedes (mythology)",
+  "Sosruko",
+  "Djanggawul",
+  "Adapa",
+  "Baiame"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 9
+}

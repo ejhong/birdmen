@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  9,
+  6,
+  8,
+  3,
+  10,
+  2,
+  5,
+  7,
+  4
+ ],
+ "most_similar_reason": "Candidate 1 shares the same core Chinese creation-myth complex as the target: primal siblings living on a sacred mountain, a divinely\u2011confirmed sign (fire instead of mist) sanctioning their marriage, the molding of the first humans from clay, and river/turtle-derived cosmic symbolism, closely mirroring the N\u00fcwa\u2013Fuxi cycle in the target.",
+ "least_similar_reason": "Candidate 4 provides no narrative content at all beyond naming a regional deity, sharing none of the specific creation, flood, or sibling-marriage motifs that define the target myth.",
+ "set": "related",
+ "pair": "N\u00fcwa | Fuxi",
+ "i": 511,
+ "target": "N\u00fcwa",
+ "planted": "Fuxi",
+ "cands": [
+  "Fuxi",
+  "Glooscap",
+  "Adapa",
+  "Abassi",
+  "White Buffalo Calf Woman",
+  "Oduduwa",
+  "Great Peacemaker",
+  "Obatala",
+  "Apkallu",
+  "Romulus and Remus"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

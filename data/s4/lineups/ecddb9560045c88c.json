@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  9,
+  4,
+  10,
+  3,
+  6,
+  5,
+  2,
+  7,
+  8
+ ],
+ "most_similar_reason": "Candidate 1 depicts a bearded/human-formed civilizing hero who travels between towns, retreats to a cave to be consulted by chiefs, and is honored with a sun temple and festivals\u2014closely paralleling the target's wandering teacher-god who founds cities, teaches wisdom, and is linked to sun worship.",
+ "least_similar_reason": "Candidate 8 is a localized island myth about two feuding brothers, canoe-building, and the origin of unequal technology between peoples, sharing no real motifs with the target's creator god, flood, stone-born humans, or walking-on-water disappearance.",
+ "set": "hancock",
+ "pair": "Viracocha | Bochica",
+ "i": 202,
+ "target": "Viracocha",
+ "planted": "Bochica",
+ "cands": [
+  "Bochica",
+  "Cangjie",
+  "\u014ckuninushi",
+  "Coyote (mythology)",
+  "Wayland the Smith",
+  "Heitsi-eibib",
+  "Kokopelli",
+  "Kilibob and Manup",
+  "Yellow Emperor",
+  "Cadmus"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

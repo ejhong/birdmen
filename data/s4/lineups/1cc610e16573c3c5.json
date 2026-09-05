@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  8,
+  5,
+  9,
+  7,
+  4,
+  3,
+  2,
+  1,
+  10
+ ],
+ "most_similar_reason": "Candidate 6 shares the most distinctive motifs with the target: a magic fishhook made from a family member's body part, tricking/joining brothers on a fishing trip to haul up a giant fish that becomes land, mountains and valleys forming from improper handling, and a quest for immortality and fire theft\u2014core Maui-type hero deeds paralleling the target's fishhook, island-fishing, and trickster brother motifs.",
+ "least_similar_reason": "Candidate 10 is a theological description of a supreme creator deity worshipped through mediums and oracles, with no narrative hero, fishhook, siblings, sun-snaring, sky-lifting, or eel/coconut episode, making it the least similar in content and structure.",
+ "set": "related",
+ "pair": "M\u0101ui (Hawaiian mythology) | M\u0101ui (M\u0101ori mythology)",
+ "i": 538,
+ "target": "M\u0101ui (Hawaiian mythology)",
+ "planted": "M\u0101ui (M\u0101ori mythology)",
+ "cands": [
+  "White Buffalo Calf Woman",
+  "Great Peacemaker",
+  "Cangjie",
+  "Ziusudra",
+  "Ninigi-no-Mikoto",
+  "M\u0101ui (M\u0101ori mythology)",
+  "Orpheus",
+  "Tagaro",
+  "Romulus and Remus",
+  "Mwari"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  5,
+  1,
+  8,
+  9,
+  7,
+  4,
+  2,
+  6,
+  10
+ ],
+ "most_similar_reason": "Candidate 3 is essentially the same flood narrative core as the target: a chosen righteous man is commanded by a deity to build a vessel, gathers family and animals, survives the deluge that destroys the rest of mankind, later releases birds to test the receding waters, offers sacrifice upon landing, and receives a divine blessing/covenant, mirroring the target's ark-building, animal preservation, bird-testing, and post-flood sacrifice almost beat for beat.",
+ "least_similar_reason": "Candidate 10 shares no flood, ark, or immortality-quest elements at all, instead centering on an underworld ballgame, decapitation, virgin impregnation by spittle, and twin trickster-heroes becoming celestial bodies, making it structurally and thematically the most distant from the target's flood-and-immortality myth.",
+ "set": "positive",
+ "pair": "Utnapishtim | Noah",
+ "i": 269,
+ "target": "Utnapishtim",
+ "planted": "Noah",
+ "cands": [
+  "Mbombo",
+  "Tagaro",
+  "Noah",
+  "Qat (deity)",
+  "Yu the Great",
+  "Ayar Manco",
+  "Rama",
+  "Bran the Blessed",
+  "Palamedes (mythology)",
+  "Maya Hero Twins"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 1
+}

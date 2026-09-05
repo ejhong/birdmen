@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  7,
+  5,
+  6,
+  2,
+  3,
+  4,
+  1,
+  9,
+  8
+ ],
+ "most_similar_reason": "Candidate 10 is a condensed retelling of the same epic narrative core\u2014the hero as a divine incarnation who wins a princess at an archery contest, is exiled with his brother, spurns a demoness, has his wife abducted by a multi-headed demon king, allies with monkey-people, and defeats the demon king to reclaim her\u2014mirroring the target's central plot almost point for point.",
+ "least_similar_reason": "Candidate 8 contains no narrative content at all beyond naming a deity, so it shares no discernible motifs, characters, or plot events with the richly detailed target myth.",
+ "set": "positive",
+ "pair": "Ramakien | Ramayana",
+ "i": 319,
+ "target": "Ramakien",
+ "planted": "Ramayana",
+ "cands": [
+  "Ziusudra",
+  "Huitzilopochtli",
+  "Qat (deity)",
+  "Pachacamac",
+  "Dangun",
+  "Mama Ocllo",
+  "Tezcatlipoca",
+  "Abassi",
+  "White Buffalo Calf Woman",
+  "Ramayana"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

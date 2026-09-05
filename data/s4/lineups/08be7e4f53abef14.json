@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  5,
+  3,
+  4,
+  2,
+  9,
+  7,
+  1,
+  6,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 shares the distinctive motif of a divine/spiritual teacher confronting and reforming a cannibal, directly paralleling the target's alternate telling of the god teaching his people to abandon cannibalism, along with themes of grief, ritual restoration, and unification of peoples that echo the mourning and reassembly motifs in the Osiris-like myth.",
+ "least_similar_reason": "Candidate 10 is not a narrative at all but an abstract linguistic/theological discussion of a term for the sacred, containing no gods, deaths, dismemberment, agriculture, or kinship relations found in the target myth.",
+ "set": "hancock",
+ "pair": "Osiris | Viracocha",
+ "i": 59,
+ "target": "Osiris",
+ "planted": "Viracocha",
+ "cands": [
+  "Viracocha",
+  "Ogun",
+  "Qat (deity)",
+  "Ziusudra",
+  "Sky Woman",
+  "Bumba",
+  "Gesar",
+  "Hiawatha",
+  "Adapa",
+  "Wakan Tanka"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 8
+}

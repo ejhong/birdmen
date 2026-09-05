@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  9,
+  2,
+  7,
+  5,
+  10,
+  3,
+  1,
+  6,
+  8
+ ],
+ "most_similar_reason": "Candidate 4 shares the core pattern of a culture-hero closely tied to a great deity who is given a grain crop to bestow on mankind, teaches agriculture and sacred rites while traveling among peoples, rides serpents, and is associated with the underworld at the end of his career.",
+ "least_similar_reason": "Candidate 8 is not a story of a divine figure at all but a description of harvest customs involving a straw figure made from the last sheaf, with no birth accounts, culture-hero deeds, underworld journey, or star transformation.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Bochica",
+ "i": 135,
+ "target": "Quetzalcoatl",
+ "planted": "Bochica",
+ "cands": [
+  "Tagaro",
+  "\u014ckuninushi",
+  "Romulus and Remus",
+  "Triptolemus",
+  "Aeneas",
+  "Rama",
+  "Oduduwa",
+  "Corn Mother",
+  "Bochica",
+  "Ninigi-no-Mikoto"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 2
+}

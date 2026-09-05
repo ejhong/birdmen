@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  4,
+  7,
+  3,
+  6,
+  8,
+  9,
+  10,
+  5,
+  2
+ ],
+ "most_similar_reason": "Candidate 1 shares the most distinctive structural motifs with the target: a bearded/human-like culture-bringing figure who walks on water, appears to vanish (presumed dead then reappears), teaches peace/civilization, establishes governance, and is prophesied to return, closely mirroring the target's creator god's water-walking disappearance and return prophecy.",
+ "least_similar_reason": "Candidate 2 offers only a vague, generic mention of a creator god with no shared specific motifs (no flood, no stone creation, no disguise, no walking on water, no teaching journey), making it the least similar to the richly detailed target myth.",
+ "set": "hancock",
+ "pair": "Viracocha | Oannes",
+ "i": 22,
+ "target": "Viracocha",
+ "planted": "Oannes",
+ "cands": [
+  "Great Peacemaker",
+  "Makunaima",
+  "Baiame",
+  "R\u00edgs\u00feula",
+  "Kokopelli",
+  "Maya Hero Twins",
+  "Oannes",
+  "Wisakedjak",
+  "Agastya",
+  "Ogun"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 3
+}

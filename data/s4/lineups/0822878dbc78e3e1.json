@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  1,
+  6,
+  8,
+  3,
+  7,
+  5,
+  2,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 4 shares the most distinctive structural parallels with the target\u2014an inventor of writing and the calendar, one of four sibling deities ruling cardinal directions (echoing the four gods born on the extra days), a twin/dual astral aspect, a journey to the underworld, and a role in creating mankind, all core motifs of the Thoth myth complex.",
+ "least_similar_reason": "Candidate 10 concerns cloud and rain spirits embodied in rock art with no scribe, writing, underworld judgment, or divine genealogy, sharing no specific motifs with the target beyond the generic notion of divine beings shaping the world.",
+ "set": "hancock",
+ "pair": "Thoth | Quetzalcoatl",
+ "i": 165,
+ "target": "Thoth",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Palamedes (mythology)",
+  "Ilmarinen",
+  "Aeneas",
+  "Quetzalcoatl",
+  "Ninigi-no-Mikoto",
+  "Agastya",
+  "Cadmus",
+  "\u014ckuninushi",
+  "Unkulunkulu",
+  "Wandjina"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

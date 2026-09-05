@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  5,
+  8,
+  9,
+  3,
+  6,
+  7,
+  2,
+  10,
+  4
+ ],
+ "most_similar_reason": "Candidate 1 shares the core flood-hero narrative: a chosen man commanded by a deity to build a vessel, save family and animals, survive the flood, release birds to find land, and offer sacrifice afterward, closely mirroring the target's structure and motifs.",
+ "least_similar_reason": "Candidate 4 is a theological description of a supreme deity's worship and mediums with no narrative of a flood, hero, ark, family, or covenant, making it the least similar in content.",
+ "set": "positive",
+ "pair": "Noah | Utnapishtim",
+ "i": 275,
+ "target": "Noah",
+ "planted": "Utnapishtim",
+ "cands": [
+  "Utnapishtim",
+  "Wandjina",
+  "Ayar Manco",
+  "Mwari",
+  "Cadmus",
+  "Anansi",
+  "Coyote (mythology)",
+  "Bran the Blessed",
+  "Kilibob and Manup",
+  "Shennong"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

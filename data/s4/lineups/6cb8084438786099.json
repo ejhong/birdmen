@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  8,
+  9,
+  5,
+  3,
+  10,
+  7,
+  6,
+  1,
+  4
+ ],
+ "most_similar_reason": "Candidate 2 shares the target's core plot almost point for point: a righteous man warned by a deity to build a great boat, loading his family and animals, the flood destroying all other life, the survival, the sacrifice/offering afterward, and divine blessing following the deluge.",
+ "least_similar_reason": "Candidate 4 contains no narrative at all\u2014only the bare identification of a deity\u2014so it shares none of the target's episodes, roles, or motifs.",
+ "set": "positive",
+ "pair": "Utnapishtim | Noah",
+ "i": 261,
+ "target": "Utnapishtim",
+ "planted": "Noah",
+ "cands": [
+  "Heitsi-eibib",
+  "Noah",
+  "Mama Ocllo",
+  "Abassi",
+  "Bhagiratha",
+  "Baiame",
+  "Bachu\u00e9",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Triptolemus",
+  "T\u0101ne"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 1
+}

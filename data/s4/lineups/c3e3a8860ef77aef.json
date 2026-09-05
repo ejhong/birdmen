@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  8,
+  1,
+  9,
+  7,
+  4,
+  2,
+  6,
+  5,
+  3
+ ],
+ "most_similar_reason": "Candidate 10 shares the target's most distinctive complex: divine sages who bring crafts and civilization to mankind, a pre-flood/post-flood framework, banishment into primeval subterranean waters, and a wisdom god's association with these fish-sage servants.",
+ "least_similar_reason": "Candidate 3 is least similar because it supplies no narrative at all\u2014only the bare identification of a spirit as a deity\u2014so there are no roles, actions, or motifs to correspond with the target's creation, flood-warning, and craft episodes.",
+ "set": "related",
+ "pair": "Enki | Oannes",
+ "i": 486,
+ "target": "Enki",
+ "planted": "Oannes",
+ "cands": [
+  "Unkulunkulu",
+  "Sky Woman",
+  "Abassi",
+  "Wayland the Smith",
+  "Great Peacemaker",
+  "Ayar Manco",
+  "Triptolemus",
+  "Ilmarinen",
+  "Dangun",
+  "Oannes"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

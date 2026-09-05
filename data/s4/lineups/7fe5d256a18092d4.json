@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  5,
+  6,
+  9,
+  4,
+  7,
+  1,
+  3,
+  2,
+  8
+ ],
+ "most_similar_reason": "Candidate 10 shares the distinctive motifs of an adultery accusation against a woman, a symbolic choice between two options whose consequences explain unequal fates (short vs. eternal life, mirroring the local vs. foreign goods choice), and descent/settlement myths tied to specific islands and lineages.",
+ "least_similar_reason": "Candidate 8 is a pure vomiting-creation cosmogony involving animals and plants with no brothers, adultery, transformation, canoe, or explanation of uneven technological distribution, making it structurally and thematically the most distant from the target.",
+ "set": "random",
+ "pair": "Kilibob and Manup | Ziusudra",
+ "i": 568,
+ "target": "Kilibob and Manup",
+ "planted": "Ziusudra",
+ "cands": [
+  "Obatala",
+  "Kutkh",
+  "Ilmarinen",
+  "Ziusudra",
+  "Oduduwa",
+  "Huitzilopochtli",
+  "Ayar Manco",
+  "Mbombo",
+  "Gesar",
+  "Ninigi-no-Mikoto"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 5
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  7,
+  5,
+  8,
+  3,
+  1,
+  6,
+  4,
+  2,
+  10
+ ],
+ "most_similar_reason": "Candidate 9 shares nearly identical structural and motif details with the target: a divine warning to a chosen man, a boat built to survive a flood, the flood\u2019s duration, the vessel resting on a mountain, the sequential release of birds (with the final one not returning) to test the land, and a concluding sacrifice that appeases the gods\u2014paralleling the flood, ark, bird-release, and covenant/sacrifice sequence of the target almost beat for beat.",
+ "least_similar_reason": "Candidate 10 depicts ancestral creator siblings journeying by canoe to shape a landscape and establish clans, with no flood, no divine judgment on humanity\u2019s wickedness, no vessel, and no bird-testing motif, making it thematically and structurally the most distant from the target\u2019s flood-and-covenant narrative.",
+ "set": "positive",
+ "pair": "Genesis flood narrative | Gilgamesh flood myth",
+ "i": 237,
+ "target": "Genesis flood narrative",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Baiame",
+  "Wayland the Smith",
+  "Shennong",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Glooscap",
+  "Nanabozho",
+  "Wandjina",
+  "Mbombo",
+  "Gilgamesh flood myth",
+  "Djanggawul"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

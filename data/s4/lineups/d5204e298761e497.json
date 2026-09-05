@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  7,
+  1,
+  5,
+  9,
+  3,
+  4,
+  2,
+  6,
+  8
+ ],
+ "most_similar_reason": "Candidate 10 shares the target's core pattern of a divine culture-hero conceived miraculously by his mother swallowing something (with the same odd gestation-count detail), who bestows grain and agriculture on humanity, discovers and popularizes a special plant-based beverage, and dies in a self-sacrificial way to be worshipped afterward.",
+ "least_similar_reason": "Candidate 8 is not a narrative at all but a linguistic-theological discussion of a term for sacred power, with no birth stories, culture-hero gifts, siblings, underworld journey, or any of the target's episodes.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Oannes",
+ "i": 60,
+ "target": "Quetzalcoatl",
+ "planted": "Oannes",
+ "cands": [
+  "Glooscap",
+  "Kokopelli",
+  "Bachu\u00e9",
+  "Palamedes (mythology)",
+  "Kutkh",
+  "Corn Mother",
+  "Ayar Manco",
+  "Wakan Tanka",
+  "Oannes",
+  "Shennong"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 5
+}

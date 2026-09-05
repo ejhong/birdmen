@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  9,
+  2,
+  6,
+  5,
+  10,
+  7,
+  1,
+  8,
+  3
+ ],
+ "most_similar_reason": "Candidate 4 shares the most distinctive cluster of motifs with the target: a miraculous conception by swallowing something, a hybrid/nonhuman-featured culture hero who gives crops and agriculture to mankind, invents/discovers a special beverage plant (tea paralleling the cacao-and-chocolate episode), sacrifices himself for humanity, and is afterward deified.",
+ "least_similar_reason": "Candidate 3 is not a narrative at all but a discussion of a term for a diffuse 'Great Spirit/Great Mystery' concept, with no birth story, culture hero, deeds, or events to correspond with the target's episodes.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Oannes",
+ "i": 67,
+ "target": "Quetzalcoatl",
+ "planted": "Oannes",
+ "cands": [
+  "Baiame",
+  "Great Peacemaker",
+  "Wakan Tanka",
+  "Shennong",
+  "Agastya",
+  "Oannes",
+  "Bachu\u00e9",
+  "Hiawatha",
+  "Sky Woman",
+  "Mbombo"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 4
+}

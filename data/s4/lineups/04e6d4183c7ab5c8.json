@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  1,
+  3,
+  2,
+  5,
+  7,
+  9,
+  4,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 6 matches the target most closely because it centers on a superhuman benefactor sent/acting to give humanity the arts and sciences at the dawn of time, tied to a flood hero and to the founding of ritual practice, paralleling the sages who taught civilization to antediluvian mankind and served temple cult.",
+ "least_similar_reason": "Candidate 10 is least similar because it contains no narrative at all\u2014no sages, no teaching, no flood, no events\u2014only the bare identification of a deity.",
+ "set": "hancock",
+ "pair": "Oannes | Quetzalcoatl",
+ "i": 76,
+ "target": "Oannes",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Quetzalcoatl",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Kvasir",
+  "Amirani",
+  "Mbombo",
+  "Prometheus",
+  "Palamedes (mythology)",
+  "Djanggawul",
+  "Pachacamac",
+  "Abassi"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 2
+}

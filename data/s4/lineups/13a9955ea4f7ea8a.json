@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  10,
+  6,
+  3,
+  9,
+  5,
+  4,
+  7,
+  8,
+  1
+ ],
+ "most_similar_reason": "Candidate 2 explicitly centers on a plumed/feathered serpent deity with multiple conflicting origin tales, ties to the sun, rain prediction, and sibling/twin dynamics, closely mirroring the target's core figure and structure.",
+ "least_similar_reason": "Candidate 1 describes diffuse Australian rain/cloud spirits tied to rock art and seasonal renewal with no personal birth stories, siblings, underworld journey, or human creation myth, making it the most structurally and thematically distant from the target.",
+ "set": "related",
+ "pair": "Quetzalcoatl | Kukulkan",
+ "i": 406,
+ "target": "Quetzalcoatl",
+ "planted": "Kukulkan",
+ "cands": [
+  "Wandjina",
+  "Kukulkan",
+  "Prometheus",
+  "Qat (deity)",
+  "Nyame",
+  "Shennong",
+  "\u014ckuninushi",
+  "White Buffalo Calf Woman",
+  "Yellow Emperor",
+  "Obatala"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 1
+}

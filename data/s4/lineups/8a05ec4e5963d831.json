@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  4,
+  7,
+  5,
+  3,
+  9,
+  1,
+  6,
+  10,
+  2
+ ],
+ "most_similar_reason": "Candidate 8's raven spirit is a shapeshifting, world-creating trickster who teaches humans skills, names or creates aspects of the world, and displays the same mix of selfish, thieving, foolish traits balanced by cultural gifts, closely mirroring the Great Rabbit's trickster-creator-teacher role.",
+ "least_similar_reason": "Candidate 2 is a linguistic/etymological discussion of a divine name with no narrative episodes, trickster behavior, or mythic events, making it the least similar to the target's story-driven content.",
+ "set": "random",
+ "pair": "Nanabozho | Oduduwa",
+ "i": 565,
+ "target": "Nanabozho",
+ "planted": "Oduduwa",
+ "cands": [
+  "Rama",
+  "Waaq",
+  "Mbombo",
+  "Oduduwa",
+  "Triptolemus",
+  "Bran the Blessed",
+  "Dangun",
+  "Kutkh",
+  "Orpheus",
+  "Bachu\u00e9"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 2
+}

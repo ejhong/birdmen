@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  1,
+  8,
+  3,
+  9,
+  6,
+  2,
+  4,
+  10,
+  7
+ ],
+ "most_similar_reason": "Candidate 5, like the target, features beings sent by the gods to civilize a poor humanity, teaching them arts and crafts, paired with royal/founder figures, and founding a great city with its central temple at a divinely designated spot.",
+ "least_similar_reason": "Candidate 7 is a philological account of a divine name's survival in languages, clans, and place-names, with no sages, culture-bringing, kings, flood, or any narrative episodes corresponding to the target.",
+ "set": "hancock",
+ "pair": "Oannes | Nommo",
+ "i": 196,
+ "target": "Oannes",
+ "planted": "Nommo",
+ "cands": [
+  "Nommo",
+  "Kokopelli",
+  "Hiawatha",
+  "Wayland the Smith",
+  "Mama Ocllo",
+  "Tezcatlipoca",
+  "Waaq",
+  "Glooscap",
+  "Bhagiratha",
+  "Sang Hyang Tunggal"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 2
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  8,
+  1,
+  9,
+  10,
+  6,
+  5,
+  3,
+  2,
+  4
+ ],
+ "most_similar_reason": "Candidate 7 centers on the same kind of figure \u2014 a plumed/feathered serpent deity with multiple conflicting tales about his origin, associated with wind, rain-bringing, the sun, and journeys between worlds \u2014 matching the target's serpent culture-deity with variant birth stories and wind/star associations.",
+ "least_similar_reason": "Candidate 4 concerns a mortal king's ancestral funeral-rite quest and the bringing down of a river through a god's hair, sharing none of the target's serpent-deity, multiple-birth, culture-gift, human-creation, or star-transformation motifs.",
+ "set": "related",
+ "pair": "Quetzalcoatl | Kukulkan",
+ "i": 404,
+ "target": "Quetzalcoatl",
+ "planted": "Kukulkan",
+ "cands": [
+  "Glooscap",
+  "Aeneas",
+  "Orpheus",
+  "Bhagiratha",
+  "Hiawatha",
+  "Yu the Great",
+  "Kukulkan",
+  "Yellow Emperor",
+  "Coyote (mythology)",
+  "Apkallu"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

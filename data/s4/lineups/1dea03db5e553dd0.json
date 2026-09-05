@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  3,
+  8,
+  9,
+  10,
+  5,
+  6,
+  7,
+  4,
+  1
+ ],
+ "most_similar_reason": "Candidate 2 is essentially the same figure and episode-set as the target: a pious ancestor descended from the first man who preached repentance, was renowned as a scribe of divine knowledge, and was bodily taken up to a heavenly station rather than dying an ordinary death.",
+ "least_similar_reason": "Candidate 1 is least similar because it is not a narrative at all but an iconographic description of an unknowable transcendent principle, with no prophet, no teachings brought to people, no migration, and no ascent or death episode.",
+ "set": "related",
+ "pair": "Idris (prophet) | Enoch (ancestor of Noah)",
+ "i": 541,
+ "target": "Idris (prophet)",
+ "planted": "Enoch (ancestor of Noah)",
+ "cands": [
+  "Sang Hyang Tunggal",
+  "Enoch (ancestor of Noah)",
+  "Palamedes (mythology)",
+  "Pachacamac",
+  "Wayland the Smith",
+  "Qat (deity)",
+  "Amirani",
+  "Mama Ocllo",
+  "Aeneas",
+  "White Buffalo Calf Woman"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  5,
+  2,
+  9,
+  6,
+  4,
+  7,
+  1,
+  10,
+  8
+ ],
+ "most_similar_reason": "Candidate 3 shares the target's core flood narrative almost episode for episode: a god resolves to destroy humanity, warns one chosen man to build a great vessel, the deluge covers the mountains, the ark grounds on a mountain, birds are released to test the receding waters (one not returning), and the survivor offers a sacrifice after which the god makes a blessing/covenant.",
+ "least_similar_reason": "Candidate 8 is a catalogue of a sky-creator deity's ritual patronages, iconography, and titles with no flood, no chosen survivor, no boat or birds, and no quest for immortality, sharing nothing but the generic presence of gods.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Genesis flood narrative",
+ "i": 222,
+ "target": "Gilgamesh flood myth",
+ "planted": "Genesis flood narrative",
+ "cands": [
+  "Dangun",
+  "Pachacamac",
+  "Genesis flood narrative",
+  "Ilmarinen",
+  "Kvasir",
+  "Qat (deity)",
+  "Mama Ocllo",
+  "Itzamna",
+  "Gesar",
+  "Baiame"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

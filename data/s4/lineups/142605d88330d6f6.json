@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  2,
+  8,
+  9,
+  4,
+  1,
+  5,
+  6,
+  7,
+  3
+ ],
+ "most_similar_reason": "Candidate 10 is plainly the same narrative: a divine incarnation born to destroy a demon king, winning a princess by breaking a bow at a contest, exile with a loyal brother, the mutilated demoness, the wife's abduction, alliance with monkey allies and a devoted monkey helper who finds her, and the final victory over the demon king.",
+ "least_similar_reason": "Candidate 3 is not a narrative at all but a theological description of a supreme creator approached through spirit mediums, sharing no episodes, figures, or plot with the target.",
+ "set": "positive",
+ "pair": "Ramakien | Ramayana",
+ "i": 312,
+ "target": "Ramakien",
+ "planted": "Ramayana",
+ "cands": [
+  "Glooscap",
+  "Maya Hero Twins",
+  "Mwari",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Prometheus",
+  "Ilmarinen",
+  "Bachu\u00e9",
+  "Qat (deity)",
+  "Yu the Great",
+  "Ramayana"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

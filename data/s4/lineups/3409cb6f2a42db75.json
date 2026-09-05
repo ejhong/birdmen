@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  10,
+  6,
+  8,
+  5,
+  7,
+  2,
+  1,
+  3,
+  4
+ ],
+ "most_similar_reason": "Candidate 9 shares the target's core plot almost point for point: a righteous man warned by a deity builds a great vessel to survive a world-destroying flood, saves his family and animals, the rest of mankind perishes, and after the waters recede he offers a sacrifice and receives a divine blessing/covenant.",
+ "least_similar_reason": "Candidate 4 is an ethnographic account of harvest customs with a straw figure housing a crop spirit, containing no flood, no vessel, no divine warning, no quest for immortality, and no comparable roles or episodes.",
+ "set": "positive",
+ "pair": "Utnapishtim | Noah",
+ "i": 268,
+ "target": "Utnapishtim",
+ "planted": "Noah",
+ "cands": [
+  "Mbombo",
+  "Yellow Emperor",
+  "Kokopelli",
+  "Corn Mother",
+  "Nyame",
+  "Wayland the Smith",
+  "Cangjie",
+  "Kvasir",
+  "Noah",
+  "Triptolemus"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

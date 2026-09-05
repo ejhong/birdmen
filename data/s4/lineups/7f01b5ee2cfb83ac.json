@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  6,
+  8,
+  10,
+  3,
+  1,
+  4,
+  5,
+  2,
+  7
+ ],
+ "most_similar_reason": "Candidate 9 shares the closest match with the target's murder-and-dismemberment-and-agriculture myth: a fertility/agriculture deity, associated with a goddess, chariots, teaching agriculture across lands, betrayal by jealous kings, and becoming a judge of the underworld after death.",
+ "least_similar_reason": "Candidate 7 is not a narrative at all but a linguistic/etymological discussion of a divine name's survival across cultures, sharing no plot, characters, or motifs with the target myth.",
+ "set": "hancock",
+ "pair": "Osiris | Oannes",
+ "i": 117,
+ "target": "Osiris",
+ "planted": "Oannes",
+ "cands": [
+  "Oannes",
+  "Kutkh",
+  "Sky Woman",
+  "Dangun",
+  "Anansi",
+  "Cadmus",
+  "Waaq",
+  "T\u0101ne",
+  "Triptolemus",
+  "Tezcatlipoca"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 6
+}

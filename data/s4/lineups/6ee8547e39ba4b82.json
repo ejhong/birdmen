@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  4,
+  6,
+  8,
+  3,
+  2,
+  5,
+  7,
+  10,
+  1
+ ],
+ "most_similar_reason": "Candidate 9 is unmistakably the same frame-tale tradition: a wise advisor teaching princes through nested animal fables, including a jackal minister at a lion king's court sowing distrust, the cooperative quartet of crow/mouse/turtle/deer escaping hunters, and a crow-owl war decided by counsel, matching the target's structure and specific animal cast almost exactly.",
+ "least_similar_reason": "Candidate 1 is a myth about a creator god's genealogy, failed creation of humans, and a violent struggle with a hero-son, sharing no animal-fable frame, courtly advisor structure, or specific motifs with the target.",
+ "set": "positive",
+ "pair": "Kalila wa-Dimna | Panchatantra",
+ "i": 355,
+ "target": "Kalila wa-Dimna",
+ "planted": "Panchatantra",
+ "cands": [
+  "Pachacamac",
+  "Apkallu",
+  "Heitsi-eibib",
+  "Yu the Great",
+  "Qat (deity)",
+  "Bran the Blessed",
+  "Kutkh",
+  "Maya Hero Twins",
+  "Panchatantra",
+  "Triptolemus"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

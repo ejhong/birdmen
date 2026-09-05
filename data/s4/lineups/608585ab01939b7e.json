@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  1,
+  9,
+  3,
+  8,
+  2,
+  6,
+  7,
+  4,
+  10
+ ],
+ "most_similar_reason": "Candidate 5 tells essentially the same figure's story: an early antediluvian-line prophet, descendant of the first man, praised for piety, credited as the first to use the pen and to study the stars, who is taken up bodily into the heavens (the fourth heaven) and 'raised to a high station' rather than dying an ordinary death, and who is encountered there by a later prophet during a heavenly journey.",
+ "least_similar_reason": "Candidate 10 shares no motif with the target\u2014no ascended ancestor, no heavenly scribe or teaching of secrets, no flood or genealogical patriarch\u2014only unrelated underworld ballgames, trickery, and twins becoming sun and moon.",
+ "set": "related",
+ "pair": "Enoch (ancestor of Noah) | Idris (prophet)",
+ "i": 556,
+ "target": "Enoch (ancestor of Noah)",
+ "planted": "Idris (prophet)",
+ "cands": [
+  "Berossus",
+  "T\u0101ne",
+  "Orpheus",
+  "Mwari",
+  "Idris (prophet)",
+  "Ninigi-no-Mikoto",
+  "Oduduwa",
+  "Mama Ocllo",
+  "Prometheus",
+  "Maya Hero Twins"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 1
+}

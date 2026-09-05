@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  3,
+  1,
+  2,
+  9,
+  5,
+  7,
+  10,
+  4,
+  6
+ ],
+ "most_similar_reason": "Candidate 8 is a near line-by-line parallel to the target's flood episode: a god warns a righteous man, a boat is built, all life is destroyed, birds are released to test the waters, a sacrifice is offered, and a divine covenant/blessing follows, matching the flood hero narrative almost exactly.",
+ "least_similar_reason": "Candidate 6 describes only a seasonal agricultural harvest custom involving a straw figure with no gods, heroes, flood, quest, or any of the distinctive motifs found in the target myth.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Genesis flood narrative",
+ "i": 225,
+ "target": "Gilgamesh flood myth",
+ "planted": "Genesis flood narrative",
+ "cands": [
+  "Pachacamac",
+  "Triptolemus",
+  "Yu the Great",
+  "Abassi",
+  "Ilmarinen",
+  "Corn Mother",
+  "Kutkh",
+  "Genesis flood narrative",
+  "Sky Woman",
+  "Anansi"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

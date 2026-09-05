@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  1,
+  9,
+  10,
+  8,
+  3,
+  7,
+  4,
+  2,
+  5
+ ],
+ "most_similar_reason": "Candidate 6 shares the target's core plot almost point for point: a deity angered by human wickedness resolves to wipe out mankind with a deluge, a single forewarned righteous man builds and provisions a wooden vessel, he and his family alone survive, the waters recede, he offers thanks/sacrifice to the god upon landing, and his offspring become the ancestors of the peoples who repopulate the earth.",
+ "least_similar_reason": "Candidate 5 is only a bare note that a creator figure with variant names is worshipped in a river region, containing no flood, no ark, no repopulation of humankind, and no narrative events at all to compare.",
+ "set": "positive",
+ "pair": "Deucalion | Noah",
+ "i": 382,
+ "target": "Deucalion",
+ "planted": "Noah",
+ "cands": [
+  "Yu the Great",
+  "Agastya",
+  "R\u00edgs\u00feula",
+  "Gesar",
+  "Makunaima",
+  "Noah",
+  "T\u0101ne",
+  "Huitzilopochtli",
+  "Bhagiratha",
+  "Dangun"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  2,
+  8,
+  5,
+  6,
+  1,
+  3,
+  7,
+  10,
+  9
+ ],
+ "most_similar_reason": "Candidate 4 recounts essentially the same epic: a hero exiled by a stepmother/queen who wants her own son crowned, winning his wife through an archery/bow contest, joined in forest exile by his faithful wife and loyal brother, the demoness whose nose and ears are cut off, the golden deer ruse and abduction by the demon king, the alliance with monkey-people whose king is restored against a rival, the devoted simian ally who locates the wife on the demon's island, and the final battle to recover her.",
+ "least_similar_reason": "Candidate 9 is not a narrative at all but a linguistic and etymological discussion of a word for a sky God, with no hero, abduction, quest, or any comparable episode.",
+ "set": "positive",
+ "pair": "Reamker | Ramayana",
+ "i": 296,
+ "target": "Reamker",
+ "planted": "Ramayana",
+ "cands": [
+  "Nanabozho",
+  "Gesar",
+  "Wisakedjak",
+  "Ramayana",
+  "Heitsi-eibib",
+  "Great Peacemaker",
+  "Bachu\u00e9",
+  "Romulus and Remus",
+  "Waaq",
+  "Abassi"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

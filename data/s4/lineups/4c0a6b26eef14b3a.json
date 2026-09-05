@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  10,
+  6,
+  7,
+  5,
+  1,
+  4,
+  9,
+  3,
+  2
+ ],
+ "most_similar_reason": "Candidate 8 shares the most distinctive motifs with the target: a golden staff, a hero who is the son of a sun deity paired with a fertility goddess, founding of a civilization near a great lake, and a flood narrative, closely mirroring the target's alternate origin account.",
+ "least_similar_reason": "Candidate 2 is a purely symbolic, non-narrative theological figure with no plot, siblings, journeys, or city-founding, making it the least similar to the target's rich narrative of migration, conquest, and dynastic succession.",
+ "set": "related",
+ "pair": "Manco C\u00e1pac | Viracocha",
+ "i": 433,
+ "target": "Manco C\u00e1pac",
+ "planted": "Viracocha",
+ "cands": [
+  "Prometheus",
+  "Sang Hyang Tunggal",
+  "Orpheus",
+  "White Buffalo Calf Woman",
+  "Heitsi-eibib",
+  "T\u0101ne",
+  "Rama",
+  "Viracocha",
+  "Wisakedjak",
+  "Cadmus"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

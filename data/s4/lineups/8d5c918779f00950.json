@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  2,
+  3,
+  6,
+  1,
+  10,
+  9,
+  8,
+  7,
+  4
+ ],
+ "most_similar_reason": "Candidate 5 matches the target most closely as a creator culture-hero with multiple conflicting accounts who fashions humanity, is tricked into drinking a fermented drink and commits a shameful blunder while drunk, shares creation duties with rival brother-gods, and bestows farming tools and life on mankind, plus a parallel alternate telling as a mortal king.",
+ "least_similar_reason": "Candidate 4 is a single bare sentence identifying a supreme deity with two names, offering no episodes, births, teachings, or transgressions to compare with the target's rich sequence.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Osiris",
+ "i": 84,
+ "target": "Quetzalcoatl",
+ "planted": "Osiris",
+ "cands": [
+  "Mbombo",
+  "Osiris",
+  "Triptolemus",
+  "Bumba",
+  "Obatala",
+  "Heitsi-eibib",
+  "Amirani",
+  "R\u00edgs\u00feula",
+  "Romulus and Remus",
+  "V\u00e4in\u00e4m\u00f6inen"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 2
+}

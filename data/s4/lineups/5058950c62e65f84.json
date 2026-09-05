@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  4,
+  7,
+  3,
+  8,
+  9,
+  2,
+  1,
+  5,
+  6
+ ],
+ "most_similar_reason": "Candidate 10 is a nearly episode-for-episode variant of the target: divine incarnation as hero, archery/bow contest winning the princess, forest exile with the loyal brother, the rejected demoness, the abduction by the multi-headed demon king of an island realm, the monkey allies and monkey general who finds her, and the final defeat of the demon king and return home.",
+ "least_similar_reason": "Candidate 6 is not a hero narrative at all but a description of harvest customs making a straw figure to house a grain spirit, sharing no characters, episodes, or motifs with the target.",
+ "set": "positive",
+ "pair": "Ramayana | Ramakien",
+ "i": 306,
+ "target": "Ramayana",
+ "planted": "Ramakien",
+ "cands": [
+  "Shennong",
+  "Ziusudra",
+  "Hiawatha",
+  "Gesar",
+  "Wisakedjak",
+  "Corn Mother",
+  "Cadmus",
+  "Huitzilopochtli",
+  "Tezcatlipoca",
+  "Ramakien"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

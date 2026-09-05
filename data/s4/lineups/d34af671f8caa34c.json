@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  10,
+  6,
+  4,
+  5,
+  7,
+  3,
+  8,
+  1,
+  9
+ ],
+ "most_similar_reason": "Candidate 2 shares the closest set of distinctive motifs with the target\u2014a deity who invents writing and a calendar, is linked to a cosmic body (morning/evening star) similarly to Thoth's lunar/solar barge role, participates in an underworld journey and in the creation of mankind alongside another deity, and is grouped with siblings tied to cardinal/cosmic order much like the epagomenal-day births of Osiris, Set, Isis, and Nephthys.",
+ "least_similar_reason": "Candidate 9 contains no narrative content at all beyond naming a deity, sharing none of the specific motifs\u2014writing invention, solar barge companionship, gambling for extra days, or the weighing of the heart\u2014that define the target myth.",
+ "set": "hancock",
+ "pair": "Thoth | Quetzalcoatl",
+ "i": 166,
+ "target": "Thoth",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Bumba",
+  "Quetzalcoatl",
+  "Hiawatha",
+  "Ziusudra",
+  "Yu the Great",
+  "Aeneas",
+  "Bhagiratha",
+  "Unkulunkulu",
+  "Abassi",
+  "Ayar Manco"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 1
+}

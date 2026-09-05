@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  8,
+  4,
+  5,
+  2,
+  6,
+  3,
+  1,
+  7,
+  10
+ ],
+ "most_similar_reason": "Candidate 9 shares the most distinctive motifs with the target: primordial divine beings linked to water (diving into a reservoir, needing a watery environment), a dismemberment/dispersal narrative that explains the origin of shrines, and secret mythic traditions about star-born beings\u2014paralleling the sages' fish-form, banishment into primeval waters, and their connection to protective shrine figurines.",
+ "least_similar_reason": "Candidate 10 is a localized trickster/sibling-rivalry tale about hunting, fishing, canoes, and cultural goods distribution, sharing no meaningful overlap with the target's motifs of seven wise fish/bird demigods, tablets of destiny, healing poultices, or the flood-related banishment and retrieval narrative.",
+ "set": "hancock",
+ "pair": "Oannes | Nommo",
+ "i": 192,
+ "target": "Oannes",
+ "planted": "Nommo",
+ "cands": [
+  "Djanggawul",
+  "\u014ckuninushi",
+  "Wandjina",
+  "Yu the Great",
+  "Ayar Manco",
+  "Orpheus",
+  "Mwari",
+  "Shennong",
+  "Nommo",
+  "Kilibob and Manup"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

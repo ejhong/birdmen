@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  8,
+  5,
+  2,
+  4,
+  1,
+  10,
+  9,
+  3,
+  7
+ ],
+ "most_similar_reason": "Candidate 6 shares the target's core plot almost point for point: a supreme god angered by human wickedness sends a world-destroying flood, a single favored man is forewarned and builds a wooden vessel provisioned for survival, he and his family ride out the waters, give thanks/offer sacrifice on landing, and then repopulate the earth, with his offspring becoming the ancestors of named peoples.",
+ "least_similar_reason": "Candidate 7 contains no narrative at all\u2014only the bare identification of a spirit as a deity\u2014so it shares no events, roles, or motifs with the target's flood-and-repopulation story.",
+ "set": "positive",
+ "pair": "Deucalion | Noah",
+ "i": 381,
+ "target": "Deucalion",
+ "planted": "Noah",
+ "cands": [
+  "Gesar",
+  "R\u00edgs\u00feula",
+  "Sang Hyang Tunggal",
+  "Yellow Emperor",
+  "Ayar Manco",
+  "Noah",
+  "Abassi",
+  "Glooscap",
+  "Corn Mother",
+  "Bran the Blessed"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

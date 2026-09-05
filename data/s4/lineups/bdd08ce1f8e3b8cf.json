@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  8,
+  6,
+  9,
+  3,
+  1,
+  2,
+  4,
+  7,
+  5
+ ],
+ "most_similar_reason": "Candidate 10 shares the core distinctive sequence with the target: a supreme god decides to destroy wicked humanity by a flood, one favored man builds a vessel and survives with his family, the waters recede and the vessel lands, thanks/offering is given to the god, and the survivors then repopulate the earth as ancestors of all peoples.",
+ "least_similar_reason": "Candidate 5 concerns a small, devious trickster who steals fire from a giant and is doted on by his mother, sharing no flood, covenant, patriarchal genealogy, or divine command with the target.",
+ "set": "positive",
+ "pair": "Noah | Deucalion",
+ "i": 392,
+ "target": "Noah",
+ "planted": "Deucalion",
+ "cands": [
+  "Qat (deity)",
+  "Kvasir",
+  "Kutkh",
+  "Heitsi-eibib",
+  "Sosruko",
+  "T\u0101ne",
+  "Wayland the Smith",
+  "\u014ckuninushi",
+  "Mama Ocllo",
+  "Deucalion"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

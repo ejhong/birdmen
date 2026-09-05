@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  9,
+  7,
+  3,
+  1,
+  2,
+  10,
+  6,
+  5,
+  4
+ ],
+ "most_similar_reason": "Candidate 8 shares the target's core sequence almost point for point: a supreme god decides to wipe out wicked mankind with a deluge, one favored man is forewarned and builds an ark-like wooden vessel, he and his household survive on a mountain when the waters recede, he gives thanks/offering to the god, and the earth is then repopulated through him as ancestor of peoples.",
+ "least_similar_reason": "Candidate 4 is not a narrative at all but an abstract discussion of a term for a diffuse sacred power, with no hero, no flood, no sequence of events, and no family or covenant motifs.",
+ "set": "positive",
+ "pair": "Noah | Deucalion",
+ "i": 396,
+ "target": "Noah",
+ "planted": "Deucalion",
+ "cands": [
+  "Baiame",
+  "Agastya",
+  "Itzamna",
+  "Wakan Tanka",
+  "Kokopelli",
+  "Ilmarinen",
+  "Tezcatlipoca",
+  "Deucalion",
+  "Sky Woman",
+  "Bhagiratha"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

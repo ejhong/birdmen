@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  2,
+  5,
+  10,
+  9,
+  1,
+  3,
+  4,
+  8,
+  6
+ ],
+ "most_similar_reason": "Candidate 7 matches the target's most distinctive motif\u2014a primordial being who regurgitates/vomits up the earth and celestial bodies, then produces the world's animals and landscape features and finally gives humanity light and fire before the world settles into its present form.",
+ "least_similar_reason": "Candidate 6 is a dynastic heroic epic of bow-contests, exile, and abduction with no cosmogony, no origin of animals or celestial bodies, and no creator figure withdrawing from a finished world.",
+ "set": "random",
+ "pair": "Mbombo | Romulus and Remus",
+ "i": 587,
+ "target": "Mbombo",
+ "planted": "Romulus and Remus",
+ "cands": [
+  "Kokopelli",
+  "Coyote (mythology)",
+  "R\u00edgs\u00feula",
+  "Ziusudra",
+  "Ilmarinen",
+  "Rama",
+  "Kutkh",
+  "Romulus and Remus",
+  "Prometheus",
+  "Wisakedjak"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 9
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  10,
+  1,
+  8,
+  3,
+  2,
+  6,
+  4,
+  7,
+  5
+ ],
+ "most_similar_reason": "Candidate 9 is essentially the same Osiris\u2013Isis\u2013Seth\u2013Horus myth: a slain and dismembered king-god, his sister-wife who searches for and reassembles the pieces with her sister's help, magical revival and conception, and the son's eventual vengeance against the usurping brother, matching the target's core narrative almost point for point.",
+ "least_similar_reason": "Candidate 5 is a trickster-hare origin and culture-hero tale with no divine sibling marriage, dismemberment, resurrection, or succession struggle, sharing only the loosest generic motif of a spirit teaching or shaping the world.",
+ "set": "related",
+ "pair": "Isis | Osiris",
+ "i": 479,
+ "target": "Isis",
+ "planted": "Osiris",
+ "cands": [
+  "Triptolemus",
+  "Yu the Great",
+  "Pachacamac",
+  "Hiawatha",
+  "Nanabozho",
+  "Itzamna",
+  "Agastya",
+  "Wayland the Smith",
+  "Osiris",
+  "Romulus and Remus"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

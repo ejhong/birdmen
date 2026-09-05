@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  4,
+  3,
+  9,
+  1,
+  7,
+  5,
+  6,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 2 is essentially the same narrative: a divine incarnation as a prince who wins a princess at an archery/bow contest, is exiled to the forest with his brother, spurns a demoness, has his wife abducted by a multi-headed demon king of an island realm, allies with monkey and bear allies whose scout locates her, kills the demon king, and returns home with his rescued and faithful wife.",
+ "least_similar_reason": "Candidate 10 is a single sentence merely naming a supreme deity, with no characters, actions, or plot to correspond to the target's extended heroic narrative.",
+ "set": "positive",
+ "pair": "Ramayana | Ramakien",
+ "i": 308,
+ "target": "Ramayana",
+ "planted": "Ramakien",
+ "cands": [
+  "Heitsi-eibib",
+  "Ramakien",
+  "Cadmus",
+  "Gesar",
+  "White Buffalo Calf Woman",
+  "Cangjie",
+  "Apkallu",
+  "Djanggawul",
+  "Qat (deity)",
+  "Bumba"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 1
+}

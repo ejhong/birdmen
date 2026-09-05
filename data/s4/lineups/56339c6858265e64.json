@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  2,
+  7,
+  6,
+  5,
+  10,
+  8,
+  1,
+  9,
+  3
+ ],
+ "most_similar_reason": "Candidate 4 shares the most distinctive cluster of episodes with the target: a hero raised among brothers who fights monsters, journeys to an otherworld/overseas realm to win the daughter of a hostile otherworld king, is killed and then magically revived by a woman, and ends by losing his sovereignty/freedom to a higher sky deity.",
+ "least_similar_reason": "Candidate 3 is not a narrative at all but a descriptive account of a remote supreme creator approached through mediums, with no brothers, courtship, deaths and revivals, otherworld trials, stolen treasures, renaming, or ceding of rule.",
+ "set": "random",
+ "pair": "\u014ckuninushi | Anansi",
+ "i": 604,
+ "target": "\u014ckuninushi",
+ "planted": "Anansi",
+ "cands": [
+  "R\u00edgs\u00feula",
+  "Cadmus",
+  "Mwari",
+  "Amirani",
+  "Heitsi-eibib",
+  "Glooscap",
+  "Anansi",
+  "Hiawatha",
+  "Itzamna",
+  "Bhagiratha"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 3
+}

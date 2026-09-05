@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  6,
+  5,
+  10,
+  3,
+  1,
+  8,
+  4,
+  9,
+  2
+ ],
+ "most_similar_reason": "Candidate 7 shares the target's core narrative almost point for point: a divine decision to wipe out humanity, one favored man warned to build a great vessel, the flood covering the mountains, the boat coming to rest on a mountain range, the release of birds until one fails to return, and a concluding sacrifice followed by a divine blessing/covenant.",
+ "least_similar_reason": "Candidate 2 is only a bare note that a creator god with variant names is worshipped in a river region, containing no flood, no boat, no hero's quest, and essentially no narrative events at all to compare with the target.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Genesis flood narrative",
+ "i": 220,
+ "target": "Gilgamesh flood myth",
+ "planted": "Genesis flood narrative",
+ "cands": [
+  "Yellow Emperor",
+  "Makunaima",
+  "Obatala",
+  "Mwari",
+  "Triptolemus",
+  "Wisakedjak",
+  "Genesis flood narrative",
+  "Oduduwa",
+  "Waaq",
+  "Glooscap"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

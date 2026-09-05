@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  6,
+  9,
+  5,
+  8,
+  4,
+  2,
+  7,
+  3,
+  1
+ ],
+ "most_similar_reason": "Candidate 10 shares the core Mesoamerican pattern of multiple conflicting divine-birth accounts, a hero born of a creator/sun-moon deity carrying a sacred staff, sibling incest leading to marriage with a sister, brothers eliminated or turned to stone, and a city founded and divided into four districts, closely mirroring the target's layered birth myths, sibling incest, and cardinal-direction symbolism.",
+ "least_similar_reason": "Candidate 1 is a monster-slaying hero epic involving dragons, giants, and a chained sky-god punishment with no birth-myth variants, calendar invention, twin star symbolism, or self-sacrificial ash transformation, making it thematically the most distant from the target.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Oannes",
+ "i": 68,
+ "target": "Quetzalcoatl",
+ "planted": "Oannes",
+ "cands": [
+  "Amirani",
+  "Kokopelli",
+  "Wisakedjak",
+  "Oannes",
+  "Rama",
+  "Yellow Emperor",
+  "Kutkh",
+  "Great Peacemaker",
+  "Glooscap",
+  "Ayar Manco"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 6
+}

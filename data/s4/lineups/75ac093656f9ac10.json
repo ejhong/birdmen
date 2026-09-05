@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  9,
+  5,
+  2,
+  4,
+  7,
+  3,
+  6,
+  1,
+  8
+ ],
+ "most_similar_reason": "Candidate 10 matches the target's core sequence most closely: a hero who descends to earth, gives the people their laws, traditions and religious institutions, is associated with a cave and with sacred sites where he is commemorated, and whose identity/depiction is remembered in varied, partly obscure ways.",
+ "least_similar_reason": "Candidate 8 is not about a divine or civilizing personage at all but a description of harvest customs involving a straw figure made from the last sheaf, sharing no roles, episodes, or motifs with the target.",
+ "set": "hancock",
+ "pair": "Bochica | Quetzalcoatl",
+ "i": 124,
+ "target": "Bochica",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Bumba",
+  "Prometheus",
+  "Mbombo",
+  "Yu the Great",
+  "Nanabozho",
+  "Waaq",
+  "Wisakedjak",
+  "Corn Mother",
+  "Quetzalcoatl",
+  "Baiame"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 2
+}

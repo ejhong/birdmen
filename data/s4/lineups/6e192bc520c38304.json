@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  4,
+  3,
+  6,
+  5,
+  1,
+  9,
+  2,
+  7,
+  8
+ ],
+ "most_similar_reason": "Candidate 10 shares the target's most distinctive complex: primordial semi-aquatic beings sent/descended from the divine realm who require water, emerge to bring civilization and sacred knowledge to humans, are tied to the founding of shrines/temples and cities, and are later returned into primeval waters.",
+ "least_similar_reason": "Candidate 8 is a dynastic epic of exile, marriage and abduction with no primordial creation, no twins or dismemberment, no water-dwelling sky-descended beings, and no origin of shrines or teachings.",
+ "set": "hancock",
+ "pair": "Nommo | Oannes",
+ "i": 180,
+ "target": "Nommo",
+ "planted": "Oannes",
+ "cands": [
+  "Great Peacemaker",
+  "Waaq",
+  "Romulus and Remus",
+  "Bachu\u00e9",
+  "Kokopelli",
+  "Triptolemus",
+  "Sosruko",
+  "Rama",
+  "Aeneas",
+  "Oannes"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

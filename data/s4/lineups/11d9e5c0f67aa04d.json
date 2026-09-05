@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  10,
+  4,
+  7,
+  5,
+  1,
+  2,
+  6,
+  8,
+  9
+ ],
+ "most_similar_reason": "Candidate 3 retells the same Isis-Osiris myth almost point-for-point\u2014siblings who are king and queen, murder and dismemberment by the brother, reassembly and magical revival to conceive a son who avenges the father\u2014matching the target's first telling in nearly every distinctive detail.",
+ "least_similar_reason": "Candidate 9 is an abstract discussion of a spiritual concept ('Great Spirit/Mystery') with no narrative of gods, family relations, death, dismemberment, or agriculture, sharing only the vague theme of divinity with the target.",
+ "set": "related",
+ "pair": "Osiris | Isis",
+ "i": 465,
+ "target": "Osiris",
+ "planted": "Isis",
+ "cands": [
+  "Nyame",
+  "Amirani",
+  "Isis",
+  "Pachacamac",
+  "Dangun",
+  "Hiawatha",
+  "Yellow Emperor",
+  "Abassi",
+  "Wakan Tanka",
+  "Tangaroa"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 1
+}

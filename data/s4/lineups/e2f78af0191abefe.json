@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  6,
+  1,
+  8,
+  9,
+  2,
+  3,
+  10,
+  5,
+  4
+ ],
+ "most_similar_reason": "Candidate 7 shares the target's most distinctive cluster: a mysterious teacher-figure of miraculous origin who wanders from place to place bringing the foundations of ordered communal life, performs miracles including literally walking upon a great lake, apparently perishes/vanishes into water only to reappear, and is prophesied to return in a time of trouble.",
+ "least_similar_reason": "Candidate 4 is barely a narrative at all\u2014a personified mountain, a salt flat, mummies, and a village\u2014with no creator figure, no making or destroying of humankind, no teaching of civilization, and no departure or promised return.",
+ "set": "related",
+ "pair": "Viracocha | Tunupa",
+ "i": 441,
+ "target": "Viracocha",
+ "planted": "Tunupa",
+ "cands": [
+  "Shennong",
+  "Ninigi-no-Mikoto",
+  "Aeneas",
+  "Tunupa",
+  "Amirani",
+  "Kilibob and Manup",
+  "Great Peacemaker",
+  "Hiawatha",
+  "Gesar",
+  "Palamedes (mythology)"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 10
+}

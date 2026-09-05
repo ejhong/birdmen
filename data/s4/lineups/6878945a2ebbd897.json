@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  8,
+  10,
+  3,
+  1,
+  7,
+  5,
+  6,
+  2,
+  9
+ ],
+ "most_similar_reason": "Candidate 4 shares the target's core episode almost exactly: a fish incarnation of a great god warns the first man/king of a coming deluge, instructs him to build a boat, tows it to safety, and the survivors include seven sages and the sacred scriptures, with the survivor becoming ruler of the current age.",
+ "least_similar_reason": "Candidate 9 is a bare, contentless statement that a two-named being was a people's supreme deity, offering no events, roles, or motifs to compare with the target's genealogies, flood rescue, and cycle of rulers.",
+ "set": "positive",
+ "pair": "Manu (Hinduism) | Matsya",
+ "i": 367,
+ "target": "Manu (Hinduism)",
+ "planted": "Matsya",
+ "cands": [
+  "Kvasir",
+  "Kokopelli",
+  "Baiame",
+  "Matsya",
+  "Tagaro",
+  "Ilmarinen",
+  "Tangaroa",
+  "Yellow Emperor",
+  "Bumba",
+  "Ayar Manco"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

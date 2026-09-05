@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  4,
+  10,
+  8,
+  2,
+  9,
+  7,
+  3,
+  1,
+  6
+ ],
+ "most_similar_reason": "Candidate 5 shares the target's most distinctive structural motifs: a divine culture hero who is one of four sons tied to a cardinal direction, sent by a supreme spirit to teach humanity, credited as co-creator and as the inventor of a writing system, with shapeshifting/trickster and contradictory legendary strands.",
+ "least_similar_reason": "Candidate 6 is a flood-survival narrative about a mortal king saved in a boat and granted immortality, sharing none of the target's culture-hero inventions, cardinal-direction pantheon, miraculous births, underworld journey, or star transformation.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Votan",
+ "i": 159,
+ "target": "Quetzalcoatl",
+ "planted": "Votan",
+ "cands": [
+  "Unkulunkulu",
+  "Agastya",
+  "Tagaro",
+  "Votan",
+  "Nanabozho",
+  "Ziusudra",
+  "Tangaroa",
+  "Pachacamac",
+  "Oduduwa",
+  "Prometheus"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 2
+}

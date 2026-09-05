@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  5,
+  8,
+  7,
+  3,
+  4,
+  2,
+  6,
+  9,
+  1
+ ],
+ "most_similar_reason": "Candidate 10 depicts the Mesopotamian wisdom god (Enki/Ea) who governs subterranean waters, presides over sages, creates mankind from clay, and secretly warns a human of the flood via a reed wall\u2014directly matching the target's mythological world of apkallu-sages, primeval flood kings, and the tablets-of-destiny tradition.",
+ "least_similar_reason": "Candidate 1 is a prophet-reformer narrative about converting cannibals and tyrants through moral persuasion and ceremony, sharing no specific motifs with the target's sages, flood, tablets of destiny, or fish/bird hybrid iconography.",
+ "set": "related",
+ "pair": "Oannes | Enki",
+ "i": 496,
+ "target": "Oannes",
+ "planted": "Enki",
+ "cands": [
+  "Hiawatha",
+  "Sosruko",
+  "Kokopelli",
+  "Tagaro",
+  "Cangjie",
+  "Kilibob and Manup",
+  "Anansi",
+  "Palamedes (mythology)",
+  "Djanggawul",
+  "Enki"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

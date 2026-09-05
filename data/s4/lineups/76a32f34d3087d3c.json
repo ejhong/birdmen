@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  6,
+  4,
+  9,
+  8,
+  3,
+  2,
+  5,
+  1,
+  7
+ ],
+ "most_similar_reason": "Candidate 10 shares the core narrative skeleton of the target\u2014a royal figure renouncing rule to follow a religious teacher, converting despite persecution, and ultimately withdrawing into ascetic seclusion, closely mirroring the Buddha's own life and the transmission of his teaching to disciples.",
+ "least_similar_reason": "Candidate 7 is a brief trickster tale about stealing fire from a giant with no elements of teaching, monastic order, philosophical doctrine, or royal renunciation, making it the least thematically or structurally similar to the target.",
+ "set": "positive",
+ "pair": "Gautama Buddha | Barlaam and Josaphat",
+ "i": 325,
+ "target": "Gautama Buddha",
+ "planted": "Barlaam and Josaphat",
+ "cands": [
+  "Glooscap",
+  "Tezcatlipoca",
+  "Nyame",
+  "Baiame",
+  "Amirani",
+  "Dangun",
+  "Sosruko",
+  "Aeneas",
+  "Nanabozho",
+  "Barlaam and Josaphat"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

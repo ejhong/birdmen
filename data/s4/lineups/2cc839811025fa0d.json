@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  7,
+  5,
+  10,
+  9,
+  6,
+  3,
+  8,
+  2,
+  4
+ ],
+ "most_similar_reason": "Candidate 1 shares the core flood-myth structure\u2014divine anger at humanity, a forewarned hero building a vessel, survival of the deluge, gratitude offered afterward, and repopulation of the earth through the hero's descendants\u2014closely mirroring the target's Noah narrative.",
+ "least_similar_reason": "Candidate 4 is a purely abstract theological discussion of a spiritual concept with no narrative events, characters, or actions, sharing none of the target's specific mythic plot elements like the flood, ark, covenant, or family drama.",
+ "set": "positive",
+ "pair": "Noah | Deucalion",
+ "i": 391,
+ "target": "Noah",
+ "planted": "Deucalion",
+ "cands": [
+  "Deucalion",
+  "Corn Mother",
+  "Shennong",
+  "Wakan Tanka",
+  "Sky Woman",
+  "Ogun",
+  "Tezcatlipoca",
+  "Hiawatha",
+  "Anansi",
+  "Djanggawul"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

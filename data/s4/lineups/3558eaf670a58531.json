@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  5,
+  6,
+  2,
+  3,
+  7,
+  10,
+  1,
+  8,
+  9
+ ],
+ "most_similar_reason": "Candidate 4 tells essentially the same story as the target: the first man/king is warned by a fish incarnation of a great god, builds a boat that the fish tows to safety, takes seven sages aboard, and the sacred scriptures are preserved and restored, with the survivor becoming ruler of the current age of humanity.",
+ "least_similar_reason": "Candidate 9 concerns harvest customs of making a straw figure to house a grain spirit, with no progenitor figure, no flood or rescue, no divine incarnations or dynastic ages, sharing nothing specific with the target.",
+ "set": "positive",
+ "pair": "Manu (Hinduism) | Matsya",
+ "i": 360,
+ "target": "Manu (Hinduism)",
+ "planted": "Matsya",
+ "cands": [
+  "White Buffalo Calf Woman",
+  "Wisakedjak",
+  "Dangun",
+  "Matsya",
+  "Ziusudra",
+  "Prometheus",
+  "Unkulunkulu",
+  "Orpheus",
+  "Corn Mother",
+  "Glooscap"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

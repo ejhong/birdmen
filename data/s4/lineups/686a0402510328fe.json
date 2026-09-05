@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  4,
+  9,
+  3,
+  5,
+  7,
+  1,
+  10,
+  8,
+  2
+ ],
+ "most_similar_reason": "Candidate 6 shares the target's structure of multiple conflicting origin/birth legends, a group of siblings (four brothers/sisters) linked to a divine cave of origin, a golden staff of authority, sun/moon divine parentage, and the distinctive motif of marrying one's own sister to produce a successor, closely echoing the target's conflicting births, four cardinal-direction siblings, and incestuous union.",
+ "least_similar_reason": "Candidate 2 is a purely doctrinal/linguistic discussion of a 'Great Spirit' concept with no narrative events, births, gods, or deeds, sharing none of the target's specific mythic episodes.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Oannes",
+ "i": 61,
+ "target": "Quetzalcoatl",
+ "planted": "Oannes",
+ "cands": [
+  "Kvasir",
+  "Wakan Tanka",
+  "Agastya",
+  "Bachu\u00e9",
+  "Qat (deity)",
+  "Ayar Manco",
+  "Oannes",
+  "Kokopelli",
+  "Bhagiratha",
+  "Ilmarinen"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 6
+}

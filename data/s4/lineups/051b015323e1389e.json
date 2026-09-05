@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  5,
+  3,
+  8,
+  2,
+  7,
+  9,
+  1,
+  4,
+  10
+ ],
+ "most_similar_reason": "Candidate 6 shares the closest structural and thematic core with the target: a wise, mortal-adjacent figure created by higher powers who possesses supreme wisdom, is called before chief gods, faces trickery involving deception about food/drink or life/death circumstances, and involves gods judging or laughing at the situation, paralleling the target's sage-hero, gatekeeper deception, and divine judgment scene.",
+ "least_similar_reason": "Candidate 10 is a bare one-line description of a deity with two names and shares no plot, motifs, or narrative structure with the target's detailed tale of wind-breaking, heavenly trial, and tomb-breaking.",
+ "set": "random",
+ "pair": "Adapa | Rama",
+ "i": 588,
+ "target": "Adapa",
+ "planted": "Rama",
+ "cands": [
+  "Glooscap",
+  "Romulus and Remus",
+  "Obatala",
+  "Wisakedjak",
+  "Shennong",
+  "Kvasir",
+  "Wayland the Smith",
+  "Rama",
+  "White Buffalo Calf Woman",
+  "Bumba"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 4
+}

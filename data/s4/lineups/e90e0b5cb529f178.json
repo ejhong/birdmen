@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  9,
+  10,
+  2,
+  4,
+  3,
+  1,
+  6,
+  7,
+  8
+ ],
+ "most_similar_reason": "Candidate 5 shares the target's core agricultural/fertility divine figure who teaches humanity to cultivate a crop, undergoes a death/self-sacrifice involving being sealed in a container, journeys to the underworld, and is described through multiple conflicting birth/origin accounts, closely mirroring the target's dual-tradition structure and agricultural teaching motif.",
+ "least_similar_reason": "Candidate 8 is a purely theological description of an abstract, ineffable creator deity approached through spirit mediums, containing no narrative events, family relationships, murder, dismemberment, or resurrection that could parallel the target's story.",
+ "set": "hancock",
+ "pair": "Osiris | Quetzalcoatl",
+ "i": 90,
+ "target": "Osiris",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Adapa",
+  "Gesar",
+  "Ilmarinen",
+  "Ogun",
+  "Quetzalcoatl",
+  "Mbombo",
+  "Kutkh",
+  "Mwari",
+  "Pachacamac",
+  "T\u0101ne"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

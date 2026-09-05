@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  6,
+  5,
+  4,
+  2,
+  10,
+  8,
+  7,
+  3,
+  1
+ ],
+ "most_similar_reason": "Candidate 9 tells essentially the same figure's story: an early patriarch descended from the first man who walked with the deity, preached repentance, was famed as a scribe of secrets, and was taken up bodily to a heavenly realm without ordinary death, matching the target's prophet who invented writing, urged his people to repent, and was raised to a high station in the heavens.",
+ "least_similar_reason": "Candidate 1 shares nothing distinctive with the target\u2014it concerns a creator god slain and revived, a poison contest with personified Death, and animal/trickster identifications, with no prophet, no migration, no culture-inventions, and no ascent to a heavenly station.",
+ "set": "related",
+ "pair": "Idris (prophet) | Enoch (ancestor of Noah)",
+ "i": 548,
+ "target": "Idris (prophet)",
+ "planted": "Enoch (ancestor of Noah)",
+ "cands": [
+  "Nyame",
+  "Glooscap",
+  "Bran the Blessed",
+  "Kilibob and Manup",
+  "Rama",
+  "Ziusudra",
+  "Sosruko",
+  "Maya Hero Twins",
+  "Enoch (ancestor of Noah)",
+  "Oduduwa"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

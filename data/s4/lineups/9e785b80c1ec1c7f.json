@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  9,
+  2,
+  3,
+  8,
+  6,
+  1,
+  10,
+  4,
+  5
+ ],
+ "most_similar_reason": "Candidate 7 shares the same distinctive cluster of motifs: a snake-bodied brother-sister pair who live on a sacred mountain and take an omen (merging smoke/flames rather than gathering mist) as divine approval of their marriage, and who create the first humans out of clay.",
+ "least_similar_reason": "Candidate 5 is a heroic-epic biography of a miraculously born warrior-king winning a bride by horse race and conquering fortresses, with no creation of humanity, cosmic repair, flood, or sibling-marriage motifs.",
+ "set": "related",
+ "pair": "N\u00fcwa | Fuxi",
+ "i": 510,
+ "target": "N\u00fcwa",
+ "planted": "Fuxi",
+ "cands": [
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Itzamna",
+  "Berossus",
+  "Kilibob and Manup",
+  "Gesar",
+  "Cadmus",
+  "Fuxi",
+  "Apkallu",
+  "Bachu\u00e9",
+  "Triptolemus"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

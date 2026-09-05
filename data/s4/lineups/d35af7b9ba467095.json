@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  3,
+  9,
+  8,
+  10,
+  4,
+  5,
+  6,
+  1,
+  7
+ ],
+ "most_similar_reason": "Candidate 2 is essentially the same figure and story: an early antediluvian patriarch descended from the first man, renowned for piety, worship, and inventing writing/measures, credited with esoteric knowledge, and above all 'raised to a high station' \u2014 taken up bodily through the heavens and encountered there by a later prophet, matching the target's ascension-without-ordinary-death and heavenly-attendant motifs.",
+ "least_similar_reason": "Candidate 7 is a trickster-creator animal spirit shaping the physical cosmos through defecation, sneezes, and theft of light, with no patriarchal lineage, ascension, scribal role, flood prophecy, or angelic hierarchy in common with the target.",
+ "set": "related",
+ "pair": "Enoch (ancestor of Noah) | Idris (prophet)",
+ "i": 551,
+ "target": "Enoch (ancestor of Noah)",
+ "planted": "Idris (prophet)",
+ "cands": [
+  "Ilmarinen",
+  "Idris (prophet)",
+  "Apkallu",
+  "Maya Hero Twins",
+  "Tezcatlipoca",
+  "Wayland the Smith",
+  "Kutkh",
+  "Gesar",
+  "Dangun",
+  "Unkulunkulu"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 1
+}

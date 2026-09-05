@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  1,
+  3,
+  9,
+  2,
+  6,
+  5,
+  10,
+  4,
+  8
+ ],
+ "most_similar_reason": "Candidate 7 belongs to the same Mesoamerican creator-god complex (paired culture-hero deities who alternately destroy and remake the world, transform into animal forms, and cooperate to fashion the earth from primordial waters/monster), closely paralleling the target's cycles of destroying and remaking humanity and its water-based creation and disappearance motifs.",
+ "least_similar_reason": "Candidate 8 contains no narrative content at all\u2014just a bare statement that a deity is worshipped\u2014sharing none of the specific creation, flood, teaching, or disappearance episodes that define the target myth.",
+ "set": "hancock",
+ "pair": "Viracocha | Osiris",
+ "i": 44,
+ "target": "Viracocha",
+ "planted": "Osiris",
+ "cands": [
+  "Osiris",
+  "Unkulunkulu",
+  "Oduduwa",
+  "Corn Mother",
+  "Mwari",
+  "Anansi",
+  "Tezcatlipoca",
+  "Abassi",
+  "Ninigi-no-Mikoto",
+  "Sang Hyang Tunggal"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 2
+}

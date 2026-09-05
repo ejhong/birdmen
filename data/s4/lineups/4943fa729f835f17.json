@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  7,
+  5,
+  9,
+  4,
+  3,
+  6,
+  8,
+  2,
+  1
+ ],
+ "most_similar_reason": "Candidate 10 recounts essentially the same epic: a great god incarnating as a prince to destroy a multi-headed demon king, winning a princess at a bow/archery contest, forest exile with a loyal brother, the spurned demoness, the wife's abduction, the alliance with monkey allies and the restoration of a monkey prince against his usurping brother, the devoted monkey helper who finds her, and the demon king's defeat and homecoming.",
+ "least_similar_reason": "Candidate 1 describes an agricultural harvest custom of making a straw figure to house a crop spirit, with no gods, heroes, demons, abductions or any narrative sequence resembling the target.",
+ "set": "positive",
+ "pair": "Ramakien | Ramayana",
+ "i": 314,
+ "target": "Ramakien",
+ "planted": "Ramayana",
+ "cands": [
+  "Corn Mother",
+  "Mwari",
+  "Kutkh",
+  "Tangaroa",
+  "Itzamna",
+  "R\u00edgs\u00feula",
+  "T\u0101ne",
+  "Apkallu",
+  "Nanabozho",
+  "Ramayana"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

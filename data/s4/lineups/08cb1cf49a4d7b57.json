@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  6,
+  4,
+  7,
+  3,
+  9,
+  10,
+  1,
+  5,
+  8
+ ],
+ "most_similar_reason": "Candidate 2, like the target, centers on a divine culture-hero who invents books and the calendar, gives gifts and knowledge to humanity, travels to the underworld, and is bound up with cosmic cycles and a set of sibling/quartet deities in a creation-and-death drama.",
+ "least_similar_reason": "Candidate 8 is a bare statement that a two-named being was a people's supreme deity, offering no episodes, inventions, relationships, or judgments to compare with the target's scribe-god narrative.",
+ "set": "hancock",
+ "pair": "Thoth | Quetzalcoatl",
+ "i": 169,
+ "target": "Thoth",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Quetzalcoatl",
+  "T\u0101ne",
+  "Palamedes (mythology)",
+  "Ninigi-no-Mikoto",
+  "Berossus",
+  "Kutkh",
+  "Bumba",
+  "Dangun",
+  "Mama Ocllo"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  5,
+  7,
+  3,
+  8,
+  2,
+  10,
+  9,
+  4,
+  1
+ ],
+ "most_similar_reason": "Candidate 6 shares the target's core plot almost point for point: a favored man is told by a deity to build a huge vessel, loads family and animals, survives a world-destroying flood that kills everyone else, lands on a mountain, sends out birds, and offers sacrifice, after which the deity grants him a lasting blessing.",
+ "least_similar_reason": "Candidate 1 shares nothing with the target beyond being a myth\u2014it concerns a small trickster who steals fire from a giant, with no flood, no ark, no covenant or laws, and no patriarchal ancestry of peoples.",
+ "set": "positive",
+ "pair": "Noah | Utnapishtim",
+ "i": 271,
+ "target": "Noah",
+ "planted": "Utnapishtim",
+ "cands": [
+  "Sosruko",
+  "\u014ckuninushi",
+  "Hiawatha",
+  "Tagaro",
+  "Yu the Great",
+  "Utnapishtim",
+  "Triptolemus",
+  "Baiame",
+  "Djanggawul",
+  "Romulus and Remus"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

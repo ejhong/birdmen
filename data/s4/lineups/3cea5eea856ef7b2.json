@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  2,
+  6,
+  3,
+  9,
+  4,
+  1,
+  5,
+  7,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 most closely echoes the target's core motif of a bearded, human-like civilizing god who wanders in disguise, is remembered in conflicting ways by witnesses, retreats to a cave where chiefs come seeking wisdom, and is honored with a temple to the sun and commemorative festivals\u2014paralleling the target's disguised beggar-teacher who founds cities and is later revered.",
+ "least_similar_reason": "Candidate 10 is a pure trickster-spider cycle about stealing stories, hoarding wisdom, and guessing a vegetable's name, sharing only the loosest generic resemblance (a wise/tricky figure with family) to the target's cosmogonic flood-and-creation narrative.",
+ "set": "hancock",
+ "pair": "Viracocha | Bochica",
+ "i": 201,
+ "target": "Viracocha",
+ "planted": "Bochica",
+ "cands": [
+  "T\u0101ne",
+  "Ziusudra",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Kutkh",
+  "Nyame",
+  "Triptolemus",
+  "Cangjie",
+  "Bochica",
+  "Ilmarinen",
+  "Anansi"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

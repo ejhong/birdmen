@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  1,
+  3,
+  10,
+  8,
+  9,
+  5,
+  2,
+  4,
+  7
+ ],
+ "most_similar_reason": "Candidate 6 is clearly the Panchatantra/Panchatantra-like frame tale with a wise advisor teaching princes through nested animal fables, including the jackal-at-the-lion-court treachery, the four-friends cooperation tale, and the crow-owl war of feigned loyalty\u2014matching the target's structure and specific motifs almost exactly.",
+ "least_similar_reason": "Candidate 7 describes a static mythological figure and his religious associations rather than a frame narrative of nested animal fables about kingship, trust, and betrayal, sharing no plot structure or specific motifs with the target.",
+ "set": "positive",
+ "pair": "Kalila wa-Dimna | Panchatantra",
+ "i": 357,
+ "target": "Kalila wa-Dimna",
+ "planted": "Panchatantra",
+ "cands": [
+  "Oduduwa",
+  "Ilmarinen",
+  "Cadmus",
+  "Dangun",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Panchatantra",
+  "Kokopelli",
+  "Great Peacemaker",
+  "Kilibob and Manup",
+  "Berossus"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

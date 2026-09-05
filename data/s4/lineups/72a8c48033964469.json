@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  9,
+  2,
+  1,
+  5,
+  6,
+  8,
+  4,
+  7,
+  10
+ ],
+ "most_similar_reason": "Candidate 3 shares the core motif of a civilizing culture-hero with a human, bearded appearance who wanders teaching civilization, disappears across the sea, is linked to solar/creation themes, and is remembered in multiple, sometimes contradictory forms\u2014paralleling the target's shifting identities, sun temple, and civilizing mission.",
+ "least_similar_reason": "Candidate 10 is a heroic epic about a warrior-prince in a war coalition, with no creator, civilizing, or multiple-witness mythic structure resembling the target at all.",
+ "set": "hancock",
+ "pair": "Bochica | Viracocha",
+ "i": 216,
+ "target": "Bochica",
+ "planted": "Viracocha",
+ "cands": [
+  "Makunaima",
+  "Unkulunkulu",
+  "Viracocha",
+  "Orpheus",
+  "Nyame",
+  "Anansi",
+  "Bhagiratha",
+  "Ilmarinen",
+  "Mbombo",
+  "Palamedes (mythology)"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 1
+}

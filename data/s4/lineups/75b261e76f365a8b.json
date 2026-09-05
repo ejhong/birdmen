@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  9,
+  7,
+  4,
+  3,
+  1,
+  6,
+  8,
+  2,
+  5
+ ],
+ "most_similar_reason": "Candidate 10 describes a prophet (the second after the first man) who is raised to a high heavenly station, associated with writing, astronomy, weights and measures, and is taken up in the fourth heaven by the angel of death\u2014paralleling almost every distinctive motif of the target's Enoch traditions (scribe, ascension without death, guardian/attendant role, teaching secrets).",
+ "least_similar_reason": "Candidate 5 describes a humpbacked flute-playing fertility trickster deity tied to childbirth, agriculture, and animal fertility, sharing no motifs of patriarchal lineage, ascension, scribal office, or flood prophecy found in the target.",
+ "set": "related",
+ "pair": "Enoch (ancestor of Noah) | Idris (prophet)",
+ "i": 553,
+ "target": "Enoch (ancestor of Noah)",
+ "planted": "Idris (prophet)",
+ "cands": [
+  "Agastya",
+  "Nanabozho",
+  "Bhagiratha",
+  "Romulus and Remus",
+  "Kokopelli",
+  "Hiawatha",
+  "Baiame",
+  "Sosruko",
+  "Mbombo",
+  "Idris (prophet)"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

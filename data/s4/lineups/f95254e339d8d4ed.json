@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  9,
+  1,
+  6,
+  10,
+  5,
+  4,
+  7,
+  8,
+  3
+ ],
+ "most_similar_reason": "Candidate 2 shares the target's core profile of a culture-bringing god who gives grain and a cultivated plant to humanity, is undone by a rival/brother-figure's trickery, is sealed inside a chest, journeys to the underworld, and is tied to death-and-rebirth and cult worship.",
+ "least_similar_reason": "Candidate 3 is a single sentence naming a supreme deity with no murder, dismemberment, reassembly, avenging son, or agricultural teaching, so it shares essentially no narrative content with the target.",
+ "set": "hancock",
+ "pair": "Osiris | Quetzalcoatl",
+ "i": 95,
+ "target": "Osiris",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Kvasir",
+  "Quetzalcoatl",
+  "Bumba",
+  "Berossus",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Nyame",
+  "Great Peacemaker",
+  "Anansi",
+  "Aeneas",
+  "Hiawatha"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 1
+}

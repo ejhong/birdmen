@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  9,
+  8,
+  10,
+  7,
+  6,
+  4,
+  3,
+  5,
+  2
+ ],
+ "most_similar_reason": "Candidate 1 mirrors the target's core narrative arc of a royal figure renouncing worldly power, converting to and following a wandering religious teacher's path, and ultimately retreating into ascetic seclusion, closely echoing the Buddha legend's structure of royal birth, renunciation, and monastic withdrawal (as in the Barlaam-Josaphat retelling of the Buddha's life).",
+ "least_similar_reason": "Candidate 2 is an etymological and historical essay about the linguistic evolution of a word for a sky god across cultures, containing no narrative, teacher figure, renunciation, or spiritual path, making it the least similar to the target's biographical and doctrinal content.",
+ "set": "positive",
+ "pair": "Gautama Buddha | Barlaam and Josaphat",
+ "i": 326,
+ "target": "Gautama Buddha",
+ "planted": "Barlaam and Josaphat",
+ "cands": [
+  "Barlaam and Josaphat",
+  "Waaq",
+  "Tangaroa",
+  "Bran the Blessed",
+  "Wisakedjak",
+  "R\u00edgs\u00feula",
+  "Heitsi-eibib",
+  "Prometheus",
+  "Sang Hyang Tunggal",
+  "Glooscap"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  3,
+  7,
+  6,
+  9,
+  4,
+  5,
+  10,
+  2,
+  1
+ ],
+ "most_similar_reason": "Candidate 8 depicts a civilizing culture hero with multiple conflicting identities/descriptions who founds a religion, retreats to a cave where regional chiefs seek him out, and is honored with a sun temple and festivals\u2014paralleling the target's conflicting origin accounts and Quetzalcoatl's role as civilizing, sun-linked culture hero who brings religion and knowledge to different peoples.",
+ "least_similar_reason": "Candidate 1 is a Norse-style smith-revenge tale involving captivity, mutilated princes, and seduction with no birth-myth variants, creation of mankind, calendar invention, or self-sacrifice/apotheosis, sharing no meaningful motifs with the feathered serpent deity's story.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Bochica",
+ "i": 131,
+ "target": "Quetzalcoatl",
+ "planted": "Bochica",
+ "cands": [
+  "Wayland the Smith",
+  "Wakan Tanka",
+  "Prometheus",
+  "White Buffalo Calf Woman",
+  "Baiame",
+  "Qat (deity)",
+  "Ziusudra",
+  "Bochica",
+  "Sosruko",
+  "Wandjina"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

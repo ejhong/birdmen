@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  7,
+  6,
+  10,
+  8,
+  3,
+  4,
+  2,
+  5,
+  9
+ ],
+ "most_similar_reason": "Candidate 1 shares the most distinctive episodes with the target: a culture-hero god who teaches people to sow grain crops and cultivate a fruiting vine, is undone by a rival kinsman, is enclosed and sealed in a box/chest at his death, and is thereafter bound to the underworld and to resurrection/renewal.",
+ "least_similar_reason": "Candidate 9 is least similar because it contains no narrative at all \u2014 no birth, inventions, journey, creation of humanity, or death \u2014 merely the bare identification of a deity.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Osiris",
+ "i": 86,
+ "target": "Quetzalcoatl",
+ "planted": "Osiris",
+ "cands": [
+  "Osiris",
+  "Mbombo",
+  "R\u00edgs\u00feula",
+  "Tagaro",
+  "Mwari",
+  "Obatala",
+  "Yellow Emperor",
+  "Kokopelli",
+  "Abassi",
+  "Prometheus"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

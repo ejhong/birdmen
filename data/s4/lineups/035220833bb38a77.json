@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  2,
+  1,
+  9,
+  6,
+  3,
+  5,
+  8,
+  7,
+  10
+ ],
+ "most_similar_reason": "Candidate 4 (an ibis/baboon moon-deity) shares the target's core motifs of inventing writing and the calendar, a birth of four important sibling deities (echoing the four sons ruling the cardinal directions), and a role as arbiter/judge in the underworld weighing the dead, closely mirroring the target's calendar-and-book invention, four cardinal gods, and underworld journey.",
+ "least_similar_reason": "Candidate 10 is a bare, single-sentence description of an unnamed supreme deity with no events, motifs, or narrative content to compare against the richly detailed birth, creation, incest, and self-immolation episodes of the target.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Thoth",
+ "i": 179,
+ "target": "Quetzalcoatl",
+ "planted": "Thoth",
+ "cands": [
+  "Glooscap",
+  "Mama Ocllo",
+  "Kokopelli",
+  "Thoth",
+  "Nyame",
+  "R\u00edgs\u00feula",
+  "Djanggawul",
+  "Amirani",
+  "Anansi",
+  "Bumba"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

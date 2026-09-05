@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  5,
+  2,
+  6,
+  3,
+  9,
+  10,
+  8,
+  1,
+  4
+ ],
+ "most_similar_reason": "Candidate 7 shares the target's core profile of a co-creator figure sent to teach humankind who names all the plants and animals and introduces the foundations of civilization (crafts, writing), matching the target's culture-hero wanderings and plant-naming episode.",
+ "least_similar_reason": "Candidate 4 is least similar because it contains no narrative at all/no creation, flood, teaching, or wandering episodes/only the bare identification of a spirit as a deity.",
+ "set": "related",
+ "pair": "Viracocha | Tunupa",
+ "i": 446,
+ "target": "Viracocha",
+ "planted": "Tunupa",
+ "cands": [
+  "Bumba",
+  "R\u00edgs\u00feula",
+  "Ninigi-no-Mikoto",
+  "Abassi",
+  "Ziusudra",
+  "Cangjie",
+  "Nanabozho",
+  "Tunupa",
+  "Ilmarinen",
+  "Tagaro"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 8
+}

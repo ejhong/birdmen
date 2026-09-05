@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  5,
+  10,
+  3,
+  2,
+  4,
+  7,
+  1,
+  8,
+  6
+ ],
+ "most_similar_reason": "Candidate 9 shares the same core narrative complex: a snake-bodied brother-and-sister pair living on a sacred mountain who seek an omen (merging fire smoke rather than gathering mist) to sanction their marriage, then create the first humans out of clay, alongside a male culture hero who institutes marriage and civilization.",
+ "least_similar_reason": "Candidate 6 is a single sentence naming a supreme deity with no creation of humans, no sibling marriage, no cosmic repair, and no events at all to compare.",
+ "set": "related",
+ "pair": "N\u00fcwa | Fuxi",
+ "i": 518,
+ "target": "N\u00fcwa",
+ "planted": "Fuxi",
+ "cands": [
+  "Rama",
+  "Kilibob and Manup",
+  "Nyame",
+  "Nanabozho",
+  "R\u00edgs\u00feula",
+  "Bumba",
+  "Anansi",
+  "Sang Hyang Tunggal",
+  "Fuxi",
+  "Pachacamac"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

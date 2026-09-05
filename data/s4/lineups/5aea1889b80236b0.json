@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  10,
+  5,
+  3,
+  4,
+  2,
+  7,
+  1,
+  6,
+  8
+ ],
+ "most_similar_reason": "Candidate 9 shares the target's core motif of a mythic figure remembered through multiple conflicting accounts (birth stories rather than witness descriptions) combined with a civilizing role\u2014inventing calendars/books, bringing culture, and being tied to sacred astral/temple significance, closely paralleling the target's multivocal identity and civilizing-hero arc.",
+ "least_similar_reason": "Candidate 8 describes a seasonal agricultural folk custom about a grain spirit housed in a straw figure, with no divine hero, cave, chiefs, temple, or civilizing narrative, making it structurally and thematically the most distant from the target.",
+ "set": "hancock",
+ "pair": "Bochica | Quetzalcoatl",
+ "i": 124,
+ "target": "Bochica",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Bumba",
+  "Prometheus",
+  "Mbombo",
+  "Yu the Great",
+  "Nanabozho",
+  "Waaq",
+  "Wisakedjak",
+  "Corn Mother",
+  "Quetzalcoatl",
+  "Baiame"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

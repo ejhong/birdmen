@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  8,
+  7,
+  9,
+  1,
+  10,
+  2,
+  6,
+  5,
+  4
+ ],
+ "most_similar_reason": "Candidate 3 explicitly parallels the target's figure as an Enoch-like prophet: a descendant of a patriarch who walked with God, was taken up to heaven without dying, made chief of angels, called 'Great Scribe,' associated with revelation and civilizing deeds, matching the target's Idris-Enoch identity and heavenly ascension motif almost point for point.",
+ "least_similar_reason": "Candidate 4 is a self-contained craftsman-revenge tale with no shared motifs of prophecy, migration, ascension through heavens, or civilizing inventions, making it thematically and structurally unrelated to the target.",
+ "set": "related",
+ "pair": "Idris (prophet) | Enoch (ancestor of Noah)",
+ "i": 540,
+ "target": "Idris (prophet)",
+ "planted": "Enoch (ancestor of Noah)",
+ "cands": [
+  "Mama Ocllo",
+  "Agastya",
+  "Enoch (ancestor of Noah)",
+  "Wayland the Smith",
+  "Glooscap",
+  "Heitsi-eibib",
+  "Shennong",
+  "Apkallu",
+  "Baiame",
+  "T\u0101ne"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 1
+}

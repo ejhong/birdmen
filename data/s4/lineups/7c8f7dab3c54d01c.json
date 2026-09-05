@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  1,
+  6,
+  8,
+  7,
+  5,
+  2,
+  9,
+  10,
+  4
+ ],
+ "most_similar_reason": "Candidate 3 is a nearly point-for-point parallel flood narrative: a divine warning to a single chosen man, building a great vessel to preserve life, a deluge that wipes out all flesh, the boat grounding on a mountain, the sending out of birds to test the waters (one that does not return), a post-flood sacrifice, and a divine promise/blessing afterward.",
+ "least_similar_reason": "Candidate 4 has no hero, gods, journey, catastrophe, or narrative sequence at all\\\\ninstead describing regional harvest customs of making a straw figure from the last sheaf, sharing nothing with the target beyond generic ritual offering.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Genesis flood narrative",
+ "i": 228,
+ "target": "Gilgamesh flood myth",
+ "planted": "Genesis flood narrative",
+ "cands": [
+  "Orpheus",
+  "Ayar Manco",
+  "Genesis flood narrative",
+  "Corn Mother",
+  "Anansi",
+  "Amirani",
+  "Tangaroa",
+  "Glooscap",
+  "Oduduwa",
+  "Baiame"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

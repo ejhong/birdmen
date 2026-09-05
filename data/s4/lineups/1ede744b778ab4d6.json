@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  10,
+  8,
+  9,
+  3,
+  7,
+  4,
+  5,
+  1,
+  2
+ ],
+ "most_similar_reason": "Candidate 6 shares the target's exact core episode\u2014gods secretly resolving to flood humanity, one wise god warning the chosen man through a reed wall to build a sealed boat and load family, craftsmen, and animals against a storm of set duration.",
+ "least_similar_reason": "Candidate 2 is merely a brief sketch of a small trickster figure stealing fire from a giant, with no creation of humans, no divine labor conflict, no flood, and none of the target's distinctive episodes.",
+ "set": "positive",
+ "pair": "Atra-Hasis | Gilgamesh flood myth",
+ "i": 245,
+ "target": "Atra-Hasis",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Orpheus",
+  "Sosruko",
+  "Sky Woman",
+  "Djanggawul",
+  "Ogun",
+  "Gilgamesh flood myth",
+  "Dangun",
+  "Qat (deity)",
+  "Bachu\u00e9",
+  "Kvasir"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

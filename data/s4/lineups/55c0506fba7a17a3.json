@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  3,
+  5,
+  10,
+  2,
+  4,
+  7,
+  8,
+  9,
+  1
+ ],
+ "most_similar_reason": "Candidate 6 matches the target most closely because divine beings are explicitly sent by a high god to bring civilization to a needy humanity, they teach the arts of living (building, crafts, customs), they are paired with primeval founder-rulers from whom later kings descend, and they found a great city with a temple \u2014 the same culture-bringer-plus-founding-of-cities sequence as the seven sages.",
+ "least_similar_reason": "Candidate 1 is least similar because it concerns a creator's cyclical struggle with personified Death, resurrection, and animal emblems, with no sages, no teaching of civilization to humans, no flood-era kings, and no founding of cities.",
+ "set": "hancock",
+ "pair": "Oannes | Quetzalcoatl",
+ "i": 78,
+ "target": "Oannes",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Nyame",
+  "Glooscap",
+  "Quetzalcoatl",
+  "Baiame",
+  "White Buffalo Calf Woman",
+  "Mama Ocllo",
+  "Wandjina",
+  "Ilmarinen",
+  "Heitsi-eibib",
+  "Kvasir"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 2
+}

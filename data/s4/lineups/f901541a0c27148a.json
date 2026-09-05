@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  9,
+  4,
+  5,
+  6,
+  2,
+  1,
+  3,
+  7,
+  8
+ ],
+ "most_similar_reason": "Candidate 10 shares the core motif of primordial spirit-beings who create the landscape, inhabitants, and natural phenomena (including a lightning/thunderbolt figure) before withdrawing into the heavens, closely paralleling the target's cloud/rain spirits who shape the world and punish with storms.",
+ "least_similar_reason": "Candidate 8 describes an abstract philosophical/theological symbol of an ineffable supreme principle with no landscape creation, no rain or flood punishment, and no ritual repainting, making it the most conceptually distant from the target's concrete nature-spirit mythology.",
+ "set": "random",
+ "pair": "Wandjina | Yu the Great",
+ "i": 607,
+ "target": "Wandjina",
+ "planted": "Yu the Great",
+ "cands": [
+  "Yu the Great",
+  "Maya Hero Twins",
+  "Rama",
+  "Kutkh",
+  "Apkallu",
+  "Ziusudra",
+  "Ilmarinen",
+  "Sang Hyang Tunggal",
+  "White Buffalo Calf Woman",
+  "Mbombo"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 7
+}

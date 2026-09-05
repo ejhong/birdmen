@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  7,
+  2,
+  6,
+  3,
+  4,
+  1,
+  9,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 5 retells almost the identical flood myth core of the target: a growing fish-avatar of a creator god warns a king, the boat is towed by the fish's horn to safety, seven sages and sacred scriptures are preserved, and the survivor becomes ruler of the new age\u2014mirroring the target's fish-avatar flood episode almost point for point.",
+ "least_similar_reason": "Candidate 10 concerns Aboriginal rain-cloud spirits, rock art, and seasonal repainting rituals, sharing no structural or narrative elements\u2014no first man, no ruler lineage, no flood, no fish avatar\u2014with the target's Manu/Vishnu cosmological cycle.",
+ "set": "positive",
+ "pair": "Manu (Hinduism) | Matsya",
+ "i": 363,
+ "target": "Manu (Hinduism)",
+ "planted": "Matsya",
+ "cands": [
+  "Kvasir",
+  "Yellow Emperor",
+  "Glooscap",
+  "Qat (deity)",
+  "Matsya",
+  "Obatala",
+  "Apkallu",
+  "Romulus and Remus",
+  "Kutkh",
+  "Wandjina"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  9,
+  8,
+  1,
+  6,
+  10,
+  4,
+  5,
+  3,
+  7
+ ],
+ "most_similar_reason": "Candidate 2 features a Maui-type trickster hero who uses a magic fishhook (made from a relative's bone) to fish up islands with his brothers, tricks them during the venture, and shares nearly identical mythic motifs of island creation, fishing, and sibling deception found in the target.",
+ "least_similar_reason": "Candidate 7 is a purely symbolic, non-narrative theological description with no characters, events, or plot, sharing no concrete motifs like fishing, siblings, or island creation with the target story.",
+ "set": "related",
+ "pair": "M\u0101ui (Hawaiian mythology) | M\u0101ui (M\u0101ori mythology)",
+ "i": 536,
+ "target": "M\u0101ui (Hawaiian mythology)",
+ "planted": "M\u0101ui (M\u0101ori mythology)",
+ "cands": [
+  "Bhagiratha",
+  "M\u0101ui (M\u0101ori mythology)",
+  "Berossus",
+  "Ziusudra",
+  "Apkallu",
+  "Obatala",
+  "Sang Hyang Tunggal",
+  "Adapa",
+  "Palamedes (mythology)",
+  "Aeneas"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 1
+}

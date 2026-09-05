@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  6,
+  3,
+  8,
+  2,
+  9,
+  1,
+  4,
+  5,
+  7
+ ],
+ "most_similar_reason": "Candidate 10 shares the target's structure of a mythic figure with multiple conflicting accounts of his origin/identity, who becomes a civilizing hero associated with wind, founds religious practices, and is linked to sacred temples and festivals\u2014closely paralleling the target's blend of contested witness testimony and later civilizing-hero legend.",
+ "least_similar_reason": "Candidate 7 centers on a divine figure's rivalry with brothers, underworld trials, and marriage politics, with no elements resembling the target's contested identity accounts, civilizing mission, cave retreat, or sun-temple veneration, making it the least thematically aligned.",
+ "set": "hancock",
+ "pair": "Bochica | Quetzalcoatl",
+ "i": 123,
+ "target": "Bochica",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Wandjina",
+  "Agastya",
+  "Mwari",
+  "Kutkh",
+  "Coyote (mythology)",
+  "Apkallu",
+  "\u014ckuninushi",
+  "R\u00edgs\u00feula",
+  "Sang Hyang Tunggal",
+  "Quetzalcoatl"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

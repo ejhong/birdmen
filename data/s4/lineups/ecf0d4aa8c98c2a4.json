@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  8,
+  5,
+  4,
+  7,
+  10,
+  1,
+  6,
+  2,
+  9
+ ],
+ "most_similar_reason": "Candidate 3 is an explicit retelling of the Osiris myth itself, sharing the sibling-spouse relationship, earth/sky parentage, the brother's conspiracy, dismemberment, the sisters' search and reassembly, magical revival for conception, and the son's eventual vengeance\u2014matching nearly every distinctive motif of the target.",
+ "least_similar_reason": "Candidate 9 describes a vague ancestor-creator figure who forms humans from reeds and then abandons his creation, sharing only the loosest generic 'creator deity' framework with no dismemberment, resurrection, sibling marriage, or vengeance motifs found in the target.",
+ "set": "related",
+ "pair": "Osiris | Isis",
+ "i": 467,
+ "target": "Osiris",
+ "planted": "Isis",
+ "cands": [
+  "R\u00edgs\u00feula",
+  "Djanggawul",
+  "Isis",
+  "Nyame",
+  "Prometheus",
+  "Baiame",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Tangaroa",
+  "Unkulunkulu",
+  "Agastya"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  3,
+  7,
+  10,
+  1,
+  9,
+  6,
+  5,
+  4,
+  2
+ ],
+ "most_similar_reason": "Candidate 8 shares the pattern of a civilizing hero with multiple conflicting origin/witness accounts, strong solar/celestial associations, and ritual commemoration, closest matching the target's combination of contested identity and sun-temple veneration.",
+ "least_similar_reason": "Candidate 2 describes a static fertility/flute deity defined by iconographic traits and ritual associations rather than a narrative of conflicting testimonies, travel between towns, cave retreat, or founding of a sun cult, making it the least similar in structure and content.",
+ "set": "hancock",
+ "pair": "Bochica | Quetzalcoatl",
+ "i": 120,
+ "target": "Bochica",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Glooscap",
+  "Kokopelli",
+  "Triptolemus",
+  "Sosruko",
+  "Coyote (mythology)",
+  "Unkulunkulu",
+  "Cangjie",
+  "Quetzalcoatl",
+  "Wisakedjak",
+  "Yu the Great"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

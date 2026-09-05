@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  7,
+  5,
+  2,
+  3,
+  9,
+  6,
+  8,
+  1,
+  10
+ ],
+ "most_similar_reason": "Candidate 4 shares the identical flood episode with the target: a council of great gods decrees a deluge, a clever god circumvents his oath by speaking through a reed wall to a wise man, who builds a sealed waterproof boat and loads family, animals and provisions before the storm.",
+ "least_similar_reason": "Candidate 10 is an agrarian harvest custom about a straw figure housing a grain spirit, with no hero, gods, flood, quest, or immortality motif in common with the target.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Atra-Hasis",
+ "i": 256,
+ "target": "Gilgamesh flood myth",
+ "planted": "Atra-Hasis",
+ "cands": [
+  "Kokopelli",
+  "Shennong",
+  "Bran the Blessed",
+  "Atra-Hasis",
+  "\u014ckuninushi",
+  "Ayar Manco",
+  "Amirani",
+  "Baiame",
+  "Mbombo",
+  "Corn Mother"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

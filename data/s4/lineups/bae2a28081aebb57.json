@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  4,
+  6,
+  5,
+  1,
+  9,
+  3,
+  10,
+  2,
+  7
+ ],
+ "most_similar_reason": "Candidate 8 shares the target's most distinctive specifics: a founder-hero who is son of the sun deity, carries a golden staff, emerges with siblings to found a civilization/city, is tied to a great lake, and appears in multiple competing versions of the same origin story.",
+ "least_similar_reason": "Candidate 7 is not a narrative at all but an explanation of a diffuse term for sacred power, with no creator figure, no creation of humans, no flood, journey, or teaching episodes to compare.",
+ "set": "related",
+ "pair": "Viracocha | Manco C\u00e1pac",
+ "i": 424,
+ "target": "Viracocha",
+ "planted": "Manco C\u00e1pac",
+ "cands": [
+  "Yellow Emperor",
+  "Bran the Blessed",
+  "Ilmarinen",
+  "Obatala",
+  "Tezcatlipoca",
+  "R\u00edgs\u00feula",
+  "Wakan Tanka",
+  "Manco C\u00e1pac",
+  "Ninigi-no-Mikoto",
+  "Tangaroa"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

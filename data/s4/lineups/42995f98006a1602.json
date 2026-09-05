@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  9,
+  1,
+  5,
+  10,
+  4,
+  3,
+  6,
+  2,
+  8
+ ],
+ "most_similar_reason": "Candidate 7 describes the same Mesoamerican feathered-serpent deity complex (calendar/day-name associations, twin morning-evening star, underworld journey, self-immolation/ashes, and civilizing gifts) that closely parallels the target's Quetzalcoatl-Topiltzin-like hero with his twenty day names, jaguar-darkness aspect, and ritual object burning.",
+ "least_similar_reason": "Candidate 8 focuses entirely on a smith-god's metallurgical feats and forging tales (sky dome, magic mill, golden maiden) with no correspondence to the target's themes of migration, empire-founding, calendar names, or ritual destruction of sacred objects.",
+ "set": "hancock",
+ "pair": "Votan | Quetzalcoatl",
+ "i": 144,
+ "target": "Votan",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Mama Ocllo",
+  "Djanggawul",
+  "Shennong",
+  "Heitsi-eibib",
+  "Mwari",
+  "Orpheus",
+  "Quetzalcoatl",
+  "Ilmarinen",
+  "Apkallu",
+  "Baiame"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

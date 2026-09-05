@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  1,
+  2,
+  3,
+  10,
+  5,
+  6,
+  4,
+  9,
+  7
+ ],
+ "most_similar_reason": "Candidate 8 describes a feathered/plumed serpent deity with multiple conflicting birth myths, ties to Venus (morning/evening star), and dramatic transformation myths, closely mirroring the target's plumed serpent figure told about in several tales with similar cosmic and transformative motifs.",
+ "least_similar_reason": "Candidate 7 is a Greek/Trojan-war-style hero tale about cleverness, warfare, and betrayal with no serpent deity, rain association, or any of the target's distinctive mythic motifs, making it the least similar.",
+ "set": "related",
+ "pair": "Kukulkan | Quetzalcoatl",
+ "i": 411,
+ "target": "Kukulkan",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Wandjina",
+  "Great Peacemaker",
+  "Tangaroa",
+  "Hiawatha",
+  "Qat (deity)",
+  "Rama",
+  "Palamedes (mythology)",
+  "Quetzalcoatl",
+  "Mwari",
+  "Glooscap"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

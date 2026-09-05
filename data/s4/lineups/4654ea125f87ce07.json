@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  2,
+  3,
+  9,
+  10,
+  1,
+  7,
+  6,
+  8,
+  5
+ ],
+ "most_similar_reason": "Candidate 4 shares the most distinctive Polynesian motifs with the target: a magic fishhook used to secretly fish up islands from the sea, brothers tricked and told not to look back, a hero who snares the sun to lengthen the day using a rope made from a family member's hair, and a transformation myth (eel into coconut) that mirrors the target's pattern of trickster-hero feats shaping the world.",
+ "least_similar_reason": "Candidate 5 is a purely abstract theological description of an unmoving symbolic figure representing transcendence, with no narrative events, kin relationships, or trickster deeds, making it the least similar to the target's action-driven mythic sequence.",
+ "set": "related",
+ "pair": "M\u0101ui (M\u0101ori mythology) | M\u0101ui (Hawaiian mythology)",
+ "i": 525,
+ "target": "M\u0101ui (M\u0101ori mythology)",
+ "planted": "M\u0101ui (Hawaiian mythology)",
+ "cands": [
+  "Yellow Emperor",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Glooscap",
+  "M\u0101ui (Hawaiian mythology)",
+  "Sang Hyang Tunggal",
+  "Unkulunkulu",
+  "Mbombo",
+  "Waaq",
+  "Sky Woman",
+  "Tezcatlipoca"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  1,
+  3,
+  10,
+  8,
+  2,
+  7,
+  6,
+  9,
+  5
+ ],
+ "most_similar_reason": "Candidate 4 shares the same distinctive cluster of episodes: a brother-sister pair living on a sacred mountain who seek a supernatural sign (mist/flame) to sanction their marriage, then create the first humans out of clay/mud, paired with a cosmic ordering of the collapsed sky.",
+ "least_similar_reason": "Candidate 5 is a heroic exile-and-founding epic with no cosmic creation, no sibling-spouse pair, no molding of humans, and no invention of writing, symbols, or crafts.",
+ "set": "related",
+ "pair": "Fuxi | N\u00fcwa",
+ "i": 508,
+ "target": "Fuxi",
+ "planted": "N\u00fcwa",
+ "cands": [
+  "Mama Ocllo",
+  "White Buffalo Calf Woman",
+  "Itzamna",
+  "N\u00fcwa",
+  "Aeneas",
+  "Kokopelli",
+  "Agastya",
+  "Baiame",
+  "Ziusudra",
+  "Glooscap"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

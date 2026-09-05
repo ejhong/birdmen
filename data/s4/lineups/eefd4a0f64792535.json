@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  6,
+  10,
+  8,
+  2,
+  3,
+  4,
+  9,
+  7,
+  5
+ ],
+ "most_similar_reason": "Candidate 1 is essentially a variant of the same epic, sharing nearly every distinctive motif\u2014divine incarnation to kill a demon king, monkey allies, a bow-stringing contest for a princess, exile with a loyal brother, a demoness's rejection, abduction of the wife, a causeway/bridge built by monkeys, and a final battle and fire ordeal before restoration.",
+ "least_similar_reason": "Candidate 5 is a raven-trickster creation myth focused on cosmogony (making land, light, and animals through mischief) with no royal lineage, exile, abduction, or heroic quest paralleling the target's structured epic narrative.",
+ "set": "positive",
+ "pair": "Ramayana | Ramakien",
+ "i": 307,
+ "target": "Ramayana",
+ "planted": "Ramakien",
+ "cands": [
+  "Ramakien",
+  "R\u00edgs\u00feula",
+  "Shennong",
+  "Itzamna",
+  "Kutkh",
+  "Kilibob and Manup",
+  "Nyame",
+  "Triptolemus",
+  "Anansi",
+  "Ogun"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

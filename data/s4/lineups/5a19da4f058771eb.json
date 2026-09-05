@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  8,
+  1,
+  3,
+  4,
+  9,
+  5,
+  6,
+  2,
+  10
+ ],
+ "most_similar_reason": "Candidate 7 shares the core flood-narrative structure of the target: a forewarned hero building a vessel, surviving with his wife, landing on a mountain after the waters recede, offering thanks to a god, and repopulating the earth through his children who become ancestors of peoples.",
+ "least_similar_reason": "Candidate 10 is a Polynesian sea-god genealogy and fire-theft myth with no flood, ark, covenant, or patriarchal lineage, making its content almost entirely unrelated to the target's flood and family-curse narrative.",
+ "set": "positive",
+ "pair": "Noah | Deucalion",
+ "i": 397,
+ "target": "Noah",
+ "planted": "Deucalion",
+ "cands": [
+  "Tezcatlipoca",
+  "Tangaroa",
+  "Glooscap",
+  "Coyote (mythology)",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Great Peacemaker",
+  "Deucalion",
+  "Wisakedjak",
+  "Rama",
+  "Tagaro"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

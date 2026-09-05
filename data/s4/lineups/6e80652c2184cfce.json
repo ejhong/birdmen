@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  2,
+  7,
+  6,
+  3,
+  4,
+  8,
+  10,
+  1,
+  9
+ ],
+ "most_similar_reason": "Candidate 5 is closest because, like the target, it centers on a single warrior/founder hero of a royal-political sphere who fights on behalf of a people, is caught in a succession/rivalry conflict over leadership, and whose death is told in variant, disputed accounts (violent end versus vanishing rather than dying).",
+ "least_similar_reason": "Candidate 9 is least similar because it is not a narrative at all but an explanation of a term for sacred power, with no hero, deeds, rivalry, inventions, or death.",
+ "set": "random",
+ "pair": "Palamedes (mythology) | Mama Ocllo",
+ "i": 577,
+ "target": "Palamedes (mythology)",
+ "planted": "Mama Ocllo",
+ "cands": [
+  "Kutkh",
+  "Heitsi-eibib",
+  "Kilibob and Manup",
+  "Glooscap",
+  "Ogun",
+  "Ilmarinen",
+  "Mama Ocllo",
+  "White Buffalo Calf Woman",
+  "Wakan Tanka",
+  "Mbombo"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 3
+}

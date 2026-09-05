@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  10,
+  6,
+  3,
+  7,
+  1,
+  2,
+  5,
+  4,
+  9
+ ],
+ "most_similar_reason": "Candidate 8 shares the target's core episode almost point for point: a favored man is warned by deity to build a huge vessel with prescribed dimensions, loads family and animals, survives the flood that destroys all other life, grounds on a mountain, releases birds to test the waters, and offers sacrifice after which the deity grants him blessing.",
+ "least_similar_reason": "Candidate 9 is not a narrative at all but an explanation of a term for a diffuse sacred power, with no patriarch, family, flood, covenant, or sequence of events in common with the target.",
+ "set": "positive",
+ "pair": "Noah | Utnapishtim",
+ "i": 270,
+ "target": "Noah",
+ "planted": "Utnapishtim",
+ "cands": [
+  "Huitzilopochtli",
+  "Rama",
+  "Baiame",
+  "Corn Mother",
+  "Wayland the Smith",
+  "Cadmus",
+  "Itzamna",
+  "Utnapishtim",
+  "Wakan Tanka",
+  "Dangun"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

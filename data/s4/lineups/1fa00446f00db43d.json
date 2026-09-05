@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  4,
+  2,
+  5,
+  1,
+  8,
+  6,
+  7,
+  3,
+  10
+ ],
+ "most_similar_reason": "Candidate 9 most closely matches the target's core pattern of divine culture-bringers who develop and civilize the land \u2014 especially the odd detail of a small deity arriving from the sea to help build up the world before departing, alongside dynastic pairings of rulers, banishment/withdrawal to a watery netherworld, and named transformations.",
+ "least_similar_reason": "Candidate 10 is not a narrative at all but a philological note on the spread of a sky-god name, containing no sages, kings, flood, teaching of crafts, or any comparable episode.",
+ "set": "hancock",
+ "pair": "Oannes | Osiris",
+ "i": 106,
+ "target": "Oannes",
+ "planted": "Osiris",
+ "cands": [
+  "Obatala",
+  "T\u0101ne",
+  "Makunaima",
+  "Osiris",
+  "Kutkh",
+  "Bran the Blessed",
+  "Bumba",
+  "Gesar",
+  "\u014ckuninushi",
+  "Waaq"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 2
+}

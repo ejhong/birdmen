@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  5,
+  8,
+  1,
+  2,
+  7,
+  4,
+  6,
+  3,
+  10
+ ],
+ "most_similar_reason": "Candidate 9 tells the same myth from the murdered brother-husband's perspective\u2014the sibling-spouse couple born of earth and sky deities, the jealous brother's murder and dismemberment, the wife and her sister gathering the scattered pieces, the magical revival and conception of the avenging son, and the dead king's rule in the underworld\u2014matching nearly every distinctive episode of the target.",
+ "least_similar_reason": "Candidate 10 is not a narrative at all but a linguistic and historical account of a divine name's distribution and decline, with no divine family, murder, resurrection, birth, or succession struggle.",
+ "set": "related",
+ "pair": "Isis | Osiris",
+ "i": 476,
+ "target": "Isis",
+ "planted": "Osiris",
+ "cands": [
+  "Ogun",
+  "Yu the Great",
+  "Wandjina",
+  "Kokopelli",
+  "Oduduwa",
+  "Anansi",
+  "Ziusudra",
+  "Bachu\u00e9",
+  "Osiris",
+  "Waaq"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

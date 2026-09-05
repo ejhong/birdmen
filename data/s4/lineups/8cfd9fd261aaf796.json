@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  3,
+  7,
+  6,
+  1,
+  10,
+  2,
+  5,
+  9,
+  4
+ ],
+ "most_similar_reason": "Candidate 8 matches the target's two-part structure most closely: a figure whose origins are given in several mutually contradictory accounts by different tellers, who is then presented as a descending civilizing hero associated with wind and light who founds religious practice, brings gifts and teachings to particular peoples, is linked to a sacred mountain/site, and is commemorated in cult.",
+ "least_similar_reason": "Candidate 4 shares almost nothing with the target beyond being a legendary male figure, centering instead on a small trickster's theft of fire from a giant and his doting mother, with no contradictory folk identifications, no descent to found a religion, no cave retreat or visiting chiefs, and no sacred city or temple.",
+ "set": "hancock",
+ "pair": "Bochica | Quetzalcoatl",
+ "i": 120,
+ "target": "Bochica",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Glooscap",
+  "Kokopelli",
+  "Triptolemus",
+  "Sosruko",
+  "Coyote (mythology)",
+  "Unkulunkulu",
+  "Cangjie",
+  "Quetzalcoatl",
+  "Wisakedjak",
+  "Yu the Great"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

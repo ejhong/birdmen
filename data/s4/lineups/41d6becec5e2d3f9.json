@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  2,
+  10,
+  7,
+  8,
+  6,
+  1,
+  3,
+  4,
+  5
+ ],
+ "most_similar_reason": "Candidate 9 shares nearly the entire plot skeleton with the target: a prince exiled by a scheming stepmother to secure her son's succession, a wife won by breaking a legendary bow, a loyal brother joining them, a forest demoness whose nose and ears are cut off, a golden-deer trick to lure the hero away, the wife's abduction by a demon king, an alliance with monkey-people involving restoring a usurped king, and a climactic battle to reclaim the wife.",
+ "least_similar_reason": "Candidate 5 is a raven-spirit creation myth about shaping the physical world (islands, mountains, seasons) through trickster antics with animal spirits, sharing no structural or narrative elements with the target's exile, abduction, and rescue plot.",
+ "set": "positive",
+ "pair": "Reamker | Ramayana",
+ "i": 294,
+ "target": "Reamker",
+ "planted": "Ramayana",
+ "cands": [
+  "Heitsi-eibib",
+  "Maya Hero Twins",
+  "Itzamna",
+  "Unkulunkulu",
+  "Kutkh",
+  "Adapa",
+  "Aeneas",
+  "Cadmus",
+  "Ramayana",
+  "\u014ckuninushi"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

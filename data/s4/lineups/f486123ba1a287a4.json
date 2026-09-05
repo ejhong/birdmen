@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  3,
+  5,
+  6,
+  4,
+  10,
+  8,
+  1,
+  9,
+  7
+ ],
+ "most_similar_reason": "Candidate 2 mirrors the target's minimal, abstract framing\u2014a deity recognized by a group of peoples in a region, with no accompanying narrative detail, matching the target's sparse 'creator god recognized among peoples of a region' description almost structurally identically.",
+ "least_similar_reason": "Candidate 7 is a fully narrative trickster saga about a small hero stealing fire from a giant, sharing no elements of multiple names, creator-god status, or recognition across peoples in a river-basin region.",
+ "set": "random",
+ "pair": "Makunaima | Wakan Tanka",
+ "i": 605,
+ "target": "Makunaima",
+ "planted": "Wakan Tanka",
+ "cands": [
+  "Palamedes (mythology)",
+  "Abassi",
+  "Yellow Emperor",
+  "Mbombo",
+  "Wakan Tanka",
+  "Unkulunkulu",
+  "Sosruko",
+  "Bran the Blessed",
+  "Orpheus",
+  "Prometheus"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 3
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  9,
+  7,
+  8,
+  4,
+  3,
+  2,
+  5,
+  10,
+  6
+ ],
+ "most_similar_reason": "Candidate 1 mirrors the target's second telling most closely: a fertility/agriculture deity who travels with divine companions teaching people to cultivate crops, is linked to secret mystery rites, and ultimately becomes a judge/ruler of the underworld, paralleling the god's role as teacher of agriculture and lord of the dead.",
+ "least_similar_reason": "Candidate 6 is not a narrative at all but a linguistic and etymological discussion of a word for God across cultures, sharing no actual plot, characters, or events with the target myth.",
+ "set": "hancock",
+ "pair": "Osiris | Viracocha",
+ "i": 54,
+ "target": "Osiris",
+ "planted": "Viracocha",
+ "cands": [
+  "Triptolemus",
+  "Coyote (mythology)",
+  "Kutkh",
+  "Amirani",
+  "Wisakedjak",
+  "Waaq",
+  "Prometheus",
+  "Heitsi-eibib",
+  "Viracocha",
+  "Anansi"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 2
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  6,
+  3,
+  8,
+  5,
+  1,
+  9,
+  7,
+  10,
+  2
+ ],
+ "most_similar_reason": "Candidate 4 shares the closest structural core with the target: a bearded/humanlike creator god who shapes the world, teaches humans their laws, traditions, and culture, has a wife/child treated as minor deities, is physically depicted in a specific iconographic form, and ultimately departs from the human realm (ascending to the sky, paralleling the target's disappearance across the sea) after finishing his civilizing work.",
+ "least_similar_reason": "Candidate 2 is a purely agricultural harvest-ritual folklore about a grain spirit housed in a straw figure, containing no creator deity, no cosmogony, no civilizing hero, and no flood or human-making motifs, making it the least thematically related to the target's creation-and-civilizing-god narrative.",
+ "set": "hancock",
+ "pair": "Viracocha | Oannes",
+ "i": 24,
+ "target": "Viracocha",
+ "planted": "Oannes",
+ "cands": [
+  "Nyame",
+  "Corn Mother",
+  "Djanggawul",
+  "Baiame",
+  "Romulus and Remus",
+  "Oannes",
+  "Unkulunkulu",
+  "Aeneas",
+  "Cangjie",
+  "Gesar"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 2
+}

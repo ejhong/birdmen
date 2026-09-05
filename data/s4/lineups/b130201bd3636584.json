@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  8,
+  9,
+  2,
+  10,
+  7,
+  4,
+  3,
+  6,
+  5
+ ],
+ "most_similar_reason": "Candidate 1 depicts Enki/Ea, the Mesopotamian god of wisdom and subterranean waters who created mankind, warned of the flood by speaking to a reed wall, and commanded servant-sages\u2014directly paralleling the target's Apkallu, primeval flood, and divine wisdom-bearers from the same mythological tradition.",
+ "least_similar_reason": "Candidate 5 is an abstract theological and iconographic concept representing the ineffable nature of a supreme god, with no narrative of sages, kings, floods, or civilizing acts, making it the least similar in content to the target myth.",
+ "set": "related",
+ "pair": "Oannes | Enki",
+ "i": 491,
+ "target": "Oannes",
+ "planted": "Enki",
+ "cands": [
+  "Enki",
+  "T\u0101ne",
+  "Huitzilopochtli",
+  "Pachacamac",
+  "Sang Hyang Tunggal",
+  "Bumba",
+  "Wisakedjak",
+  "Yellow Emperor",
+  "Cadmus",
+  "Kutkh"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  3,
+  10,
+  4,
+  9,
+  7,
+  5,
+  2,
+  8,
+  6
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's defining episode almost point for point: a fish-form of a great god warns the first man/king of a coming deluge, instructs him to build a boat that the fish tows to safety, with seven sages and the rescued sacred scriptures aboard, and the survivor becomes progenitor/ruler of the present human age.",
+ "least_similar_reason": "Candidate 6 is a bare statement that a supreme deity had two names, with no progenitor, flood, boat, sages, incarnations, or any narrative events to correspond with the target.",
+ "set": "positive",
+ "pair": "Manu (Hinduism) | Matsya",
+ "i": 366,
+ "target": "Manu (Hinduism)",
+ "planted": "Matsya",
+ "cands": [
+  "Matsya",
+  "Wayland the Smith",
+  "Kilibob and Manup",
+  "Unkulunkulu",
+  "Nyame",
+  "Bumba",
+  "Gesar",
+  "Abassi",
+  "Cadmus",
+  "Itzamna"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

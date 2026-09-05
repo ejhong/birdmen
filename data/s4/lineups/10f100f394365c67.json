@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  5,
+  6,
+  2,
+  8,
+  7,
+  3,
+  4,
+  1,
+  9
+ ],
+ "most_similar_reason": "Candidate 10 mirrors the Buddha legend almost point-for-point (a royal heir isolated from the world, secretly converted by a solitary holy man, later abdicating power to live as an ascetic teacher), reflecting the well-known Christianized retelling of the Buddha's biography.",
+ "least_similar_reason": "Candidate 9 is a trickster-flood-creation myth about explaining animals and landscapes, sharing no real structural or thematic overlap with the target's story of a royal renunciant's awakening, teaching mission, and textual legacy.",
+ "set": "positive",
+ "pair": "Gautama Buddha | Barlaam and Josaphat",
+ "i": 324,
+ "target": "Gautama Buddha",
+ "planted": "Barlaam and Josaphat",
+ "cands": [
+  "Wandjina",
+  "Mama Ocllo",
+  "Bran the Blessed",
+  "Djanggawul",
+  "White Buffalo Calf Woman",
+  "Apkallu",
+  "Aeneas",
+  "Oduduwa",
+  "Wisakedjak",
+  "Barlaam and Josaphat"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

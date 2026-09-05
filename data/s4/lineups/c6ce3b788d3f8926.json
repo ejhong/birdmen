@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  2,
+  3,
+  1,
+  10,
+  4,
+  7,
+  8,
+  6,
+  9
+ ],
+ "most_similar_reason": "Candidate 5 shares the target's distinctive complex: a feathered-serpent culture hero who is also a named calendar/day deity with a dark counterpart god of night, who invents the calendar, brings a crop/plant to a people, journeys and is finally consumed by fire, matching the target's serpent-named kingdom, jaguar-of-darkness title, day-name identity, and ritual burning.",
+ "least_similar_reason": "Candidate 9 is a single sentence noting a creator god's variant names among peoples of a river basin, with no hero, founding, migration, teaching, or ritual episodes to correspond with the target's detailed career.",
+ "set": "hancock",
+ "pair": "Votan | Quetzalcoatl",
+ "i": 145,
+ "target": "Votan",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Rama",
+  "Obatala",
+  "Bhagiratha",
+  "Mwari",
+  "Quetzalcoatl",
+  "Corn Mother",
+  "Waaq",
+  "Wandjina",
+  "Makunaima",
+  "Baiame"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 1
+}

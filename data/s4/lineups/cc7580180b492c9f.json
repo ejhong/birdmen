@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  9,
+  6,
+  5,
+  8,
+  3,
+  2,
+  1,
+  7,
+  10
+ ],
+ "most_similar_reason": "Candidate 4 shares the closest match to the Osiris pattern: a slain brother whose head/remains are placed in a tree, a wife\u2011figure who is impregnated by the dead god's remains, and a son (here twin sons) who grows up, defeats the murderous underworld rulers, and avenges the father, paralleling the target's dismemberment, tree burial, and son\u2011avenger motifs.",
+ "least_similar_reason": "Candidate 10 is a generic sky\u2011father creator myth focused on shaping the land and founding initiation rites, with no death, dismemberment, wife\u2011search, or avenging son, making it the least thematically connected to the Osiris narrative.",
+ "set": "hancock",
+ "pair": "Osiris | Oannes",
+ "i": 118,
+ "target": "Osiris",
+ "planted": "Oannes",
+ "cands": [
+  "Itzamna",
+  "Kokopelli",
+  "Mama Ocllo",
+  "Maya Hero Twins",
+  "Qat (deity)",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Oannes",
+  "Gesar",
+  "\u014ckuninushi",
+  "Baiame"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 9
+}

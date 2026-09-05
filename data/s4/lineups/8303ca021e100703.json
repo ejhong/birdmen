@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  6,
+  3,
+  4,
+  7,
+  8,
+  2,
+  5,
+  10,
+  1
+ ],
+ "most_similar_reason": "Candidate 9 is essentially the same myth cycle as the target: an earth/sky-descended god-king murdered and dismembered by his jealous brother, his sister-wife (aided by another goddess) searching for and reassembling the pieces, magically reviving him to conceive a son who later avenges him and defeats the usurping brother, with the god thereafter ruling the underworld.",
+ "least_similar_reason": "Candidate 1 concerns a solitary ancestor/creator figure who forms humans and animals from reeds and then forgets and abandons his creation, sharing none of the target's distinctive familial murder, dismemberment, resurrection, or maternal-protection motifs.",
+ "set": "related",
+ "pair": "Isis | Osiris",
+ "i": 470,
+ "target": "Isis",
+ "planted": "Osiris",
+ "cands": [
+  "Unkulunkulu",
+  "Hiawatha",
+  "Wayland the Smith",
+  "Tagaro",
+  "Bachu\u00e9",
+  "Obatala",
+  "T\u0101ne",
+  "Bhagiratha",
+  "Osiris",
+  "Baiame"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

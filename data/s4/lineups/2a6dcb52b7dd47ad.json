@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  4,
+  2,
+  9,
+  8,
+  6,
+  5,
+  3,
+  10,
+  1
+ ],
+ "most_similar_reason": "Candidate 7 shares the closest match with the target's flood narrative, including the secret warning through a reed wall, the gods' council to send a flood, and the building of a waterproof ship to preserve life.",
+ "least_similar_reason": "Candidate 1 is a brief statement about a deity's dual names with no narrative events, sharing no specific motifs, episodes, or relationships with the target's flood and immortality quest story.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Atra-Hasis",
+ "i": 258,
+ "target": "Gilgamesh flood myth",
+ "planted": "Atra-Hasis",
+ "cands": [
+  "Bumba",
+  "Bhagiratha",
+  "Unkulunkulu",
+  "Prometheus",
+  "Ninigi-no-Mikoto",
+  "Ilmarinen",
+  "Atra-Hasis",
+  "Bran the Blessed",
+  "Wayland the Smith",
+  "Itzamna"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

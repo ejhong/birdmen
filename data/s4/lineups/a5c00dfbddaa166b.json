@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  10,
+  4,
+  8,
+  5,
+  2,
+  1,
+  7,
+  6,
+  3
+ ],
+ "most_similar_reason": "Candidate 9 shares the identical flood episode \u2014 the assembly of high gods decreeing a deluge, the clever god secretly circumventing his oath by speaking through a reed wall to a wise man, who builds a sealed waterproof vessel and loads family and animals aboard as the storm breaks \u2014 matching the target's most distinctive details point for point.",
+ "least_similar_reason": "Candidate 3 is merely a bare note that a creator god under variant names is worshipped in a river region, containing no flood, no hero, no quest, and essentially no narrative events to compare.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Atra-Hasis",
+ "i": 252,
+ "target": "Gilgamesh flood myth",
+ "planted": "Atra-Hasis",
+ "cands": [
+  "Nyame",
+  "Agastya",
+  "Makunaima",
+  "Bhagiratha",
+  "Gesar",
+  "Anansi",
+  "Wayland the Smith",
+  "Glooscap",
+  "Atra-Hasis",
+  "Kilibob and Manup"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

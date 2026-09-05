@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  9,
+  5,
+  2,
+  4,
+  3,
+  10,
+  1,
+  8,
+  7
+ ],
+ "most_similar_reason": "Candidate 6 shares the target's core plot of a divinely parented founder who, guided by the gods' commands and prophecy, journeys with companions and sacred objects to a destined place, founds a city there, marries into rule, and becomes the ancestor of all later rulers and of a great city's founders.",
+ "least_similar_reason": "Candidate 7 has no narrative at all\u2014only the bare identification of a deity\u2014so it shares none of the target's founding journey, sibling-couple, golden rod, or civilizing instruction.",
+ "set": "random",
+ "pair": "Mama Ocllo | Wakan Tanka",
+ "i": 579,
+ "target": "Mama Ocllo",
+ "planted": "Wakan Tanka",
+ "cands": [
+  "Orpheus",
+  "Prometheus",
+  "Kvasir",
+  "Agastya",
+  "Yu the Great",
+  "Aeneas",
+  "Abassi",
+  "Wakan Tanka",
+  "Ogun",
+  "Ziusudra"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 9
+}

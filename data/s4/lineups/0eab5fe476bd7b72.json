@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  7,
+  6,
+  9,
+  5,
+  10,
+  8,
+  1,
+  3,
+  2
+ ],
+ "most_similar_reason": "Candidate 4 matches the target's core pattern most closely: divine culture-bringers deliberately sent by a god to teach humanity the arts of civilization (building, crafts, customs), who emerge from water/cave, are paired with the founding of a great city and its temple, and stand at the head of a line of primeval rulers.",
+ "least_similar_reason": "Candidate 2 is a martial birth-and-conquest epic about a single hero's races, battles, and abductions, sharing none of the target's distinctive elements of multiple sent sages, teaching of civilization, flood-era kings, or water-dwelling hybrid beings.",
+ "set": "hancock",
+ "pair": "Oannes | Osiris",
+ "i": 109,
+ "target": "Oannes",
+ "planted": "Osiris",
+ "cands": [
+  "Hiawatha",
+  "Gesar",
+  "Romulus and Remus",
+  "Mama Ocllo",
+  "Ninigi-no-Mikoto",
+  "Osiris",
+  "Dangun",
+  "Bachu\u00e9",
+  "Yu the Great",
+  "Oduduwa"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 3
+}

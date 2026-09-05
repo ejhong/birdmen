@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  5,
+  8,
+  7,
+  2,
+  3,
+  10,
+  4,
+  1,
+  6
+ ],
+ "most_similar_reason": "Candidate 9 shares the target's exact mythic cycle: a brother-and-sister pair with serpent bodies who live on a sacred mountain, take a divine omen (merging fire/mist) as permission to marry, and create humanity from clay, alongside the male partner's culture-hero inventions.",
+ "least_similar_reason": "Candidate 6 is least similar because it contains no narrative at all\u2014merely the bare identification of a deity\u2014so it shares no episodes, roles, or motifs with the target's creation, sky-mending, and sibling-marriage stories.",
+ "set": "related",
+ "pair": "N\u00fcwa | Fuxi",
+ "i": 519,
+ "target": "N\u00fcwa",
+ "planted": "Fuxi",
+ "cands": [
+  "Wakan Tanka",
+  "Nanabozho",
+  "Tagaro",
+  "Orpheus",
+  "Bachu\u00e9",
+  "Abassi",
+  "Unkulunkulu",
+  "Pachacamac",
+  "Fuxi",
+  "Gesar"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

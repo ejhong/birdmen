@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  1,
+  2,
+  7,
+  8,
+  9,
+  10,
+  5,
+  3,
+  6
+ ],
+ "most_similar_reason": "Candidate 4 matches the target's core content most closely: a royally born figure who abandons his inherited rule for the ascetic life under a teacher's path, founding/embodying the very renunciant religion that the target's prince and king adopt before withdrawing into solitude.",
+ "least_similar_reason": "Candidate 6 is a cosmogonic account of separating sky and earth, creating stars, fish and reptiles, and a death goddess, sharing none of the target's elements of prophecy, royal persecution, conversion by a hermit, or abdication.",
+ "set": "positive",
+ "pair": "Barlaam and Josaphat | Gautama Buddha",
+ "i": 339,
+ "target": "Barlaam and Josaphat",
+ "planted": "Gautama Buddha",
+ "cands": [
+  "Romulus and Remus",
+  "Hiawatha",
+  "Tagaro",
+  "Gautama Buddha",
+  "Adapa",
+  "T\u0101ne",
+  "White Buffalo Calf Woman",
+  "Yu the Great",
+  "Cangjie",
+  "Kvasir"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  6,
+  9,
+  7,
+  2,
+  4,
+  1,
+  5,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 3 explicitly features the feathered serpent deity himself, with multiple birth myths, sibling incest, underworld journey, and transformation motifs that directly parallel the target's core figure and his cave/sister and sun-related episodes.",
+ "least_similar_reason": "Candidate 10 concerns an ascetic sage born from a mud jar who marries a princess and drinks the ocean, sharing no serpent deity, sibling-cave, or sun-burning motifs with the target.",
+ "set": "related",
+ "pair": "Kukulkan | Quetzalcoatl",
+ "i": 418,
+ "target": "Kukulkan",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Hiawatha",
+  "Amirani",
+  "Quetzalcoatl",
+  "Sky Woman",
+  "Coyote (mythology)",
+  "Bachu\u00e9",
+  "Cadmus",
+  "Anansi",
+  "T\u0101ne",
+  "Agastya"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 1
+}

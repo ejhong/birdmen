@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  10,
+  4,
+  3,
+  6,
+  9,
+  5,
+  1,
+  7,
+  2
+ ],
+ "most_similar_reason": "Candidate 8 shares the core sequence: a divine decision to destroy wicked mankind by flood, a single favored hero warned to build a vessel, entering it with his wife, the waters receding and the vessel landing on a mountain, thanksgiving offering to the god, and repopulation of the earth with descendants who become ancestors of peoples.",
+ "least_similar_reason": "Candidate 2 contains no narrative at all, merely noting a deity worshipped by some people, so it shares no episodes, roles, or motifs with the flood-hero story.",
+ "set": "positive",
+ "pair": "Noah | Deucalion",
+ "i": 398,
+ "target": "Noah",
+ "planted": "Deucalion",
+ "cands": [
+  "Nyame",
+  "Abassi",
+  "Mbombo",
+  "Wisakedjak",
+  "Bran the Blessed",
+  "Tangaroa",
+  "Cangjie",
+  "Deucalion",
+  "Kvasir",
+  "Berossus"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

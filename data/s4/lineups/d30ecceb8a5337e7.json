@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  8,
+  6,
+  1,
+  3,
+  4,
+  9,
+  2,
+  10,
+  7
+ ],
+ "most_similar_reason": "Candidate 5 matches the target most closely: a crafty divine benefactor who creates humanity from clay, is credited with human arts, is tied to a flood hero, and repeatedly outwits other gods, including a fashioning of the first woman from clay.",
+ "least_similar_reason": "Candidate 7 is a single bare statement about a supreme deity with two names, containing none of the target's creation-from-clay, flood-warning, or trickster-problem-solver episodes.",
+ "set": "related",
+ "pair": "Enki | Oannes",
+ "i": 480,
+ "target": "Enki",
+ "planted": "Oannes",
+ "cands": [
+  "Cangjie",
+  "Great Peacemaker",
+  "Mbombo",
+  "Mama Ocllo",
+  "Prometheus",
+  "Itzamna",
+  "Bumba",
+  "Oannes",
+  "Qat (deity)",
+  "Wandjina"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 2
+}

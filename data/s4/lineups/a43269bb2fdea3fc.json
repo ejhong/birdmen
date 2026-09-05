@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  9,
+  3,
+  2,
+  8,
+  6,
+  10,
+  5,
+  4,
+  1
+ ],
+ "most_similar_reason": "Candidate 7 shares the same core N\u00fcwa/Fuxi complex: a primordial giant\u2019s death forming the world, sibling deities with human faces and snake bodies who marry after a divine sign, clay figures shaped and animated to become the first humans, and mythic culture-hero elements (trigrams, writing from a river creature, music, a drowned female relative) that closely parallel the target\u2019s sibling-marriage and clay-creation motifs.",
+ "least_similar_reason": "Candidate 1 (a Finnish-style hero born from a cosmic egg/sea goddess, singing contests, a stolen magical artifact, and a copper boat departure) shares only the vaguest generic motifs of creation and a hero\u2019s exit, with no clay-people creation, sky-mending, or sibling-marriage parallels found in the target.",
+ "set": "related",
+ "pair": "N\u00fcwa | Fuxi",
+ "i": 510,
+ "target": "N\u00fcwa",
+ "planted": "Fuxi",
+ "cands": [
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Itzamna",
+  "Berossus",
+  "Kilibob and Manup",
+  "Gesar",
+  "Cadmus",
+  "Fuxi",
+  "Apkallu",
+  "Bachu\u00e9",
+  "Triptolemus"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

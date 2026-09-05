@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  7,
+  3,
+  4,
+  9,
+  6,
+  1,
+  8,
+  2,
+  10
+ ],
+ "most_similar_reason": "Candidate 5, like the target, centers on a culture-bringing deity who invents writing and is bound up with the calendar (winning the five extra days), who functions in the underworld and in a myth of a god's death and restoration among a set of sibling deities born together.",
+ "least_similar_reason": "Candidate 10 has no narrative at all\u2014no births, deeds, inventions, journeys, or transformations\u2014only an abstract, non-acting symbol of an unknowable divine principle, so it shares almost nothing with the target's dense sequence of episodes.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Thoth",
+ "i": 176,
+ "target": "Quetzalcoatl",
+ "planted": "Thoth",
+ "cands": [
+  "Oduduwa",
+  "Unkulunkulu",
+  "Cadmus",
+  "Mbombo",
+  "Thoth",
+  "R\u00edgs\u00feula",
+  "Cangjie",
+  "Djanggawul",
+  "Tagaro",
+  "Sang Hyang Tunggal"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 1
+}

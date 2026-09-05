@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  4,
+  7,
+  8,
+  5,
+  2,
+  3,
+  9,
+  1,
+  6
+ ],
+ "most_similar_reason": "Candidate 10 shares the target's core content: a religious founder-teacher, royal birth, renunciation of worldly life, ascetic seclusion, and the founding of a community of followers, matching the target's themes of conversion and withdrawal into the solitary religious life.",
+ "least_similar_reason": "Candidate 6 concerns agricultural harvest customs and a crop spirit housed in a straw figure, with no ruler, teacher, conversion, persecution, or abdication motifs of any kind.",
+ "set": "positive",
+ "pair": "Barlaam and Josaphat | Gautama Buddha",
+ "i": 333,
+ "target": "Barlaam and Josaphat",
+ "planted": "Gautama Buddha",
+ "cands": [
+  "Tagaro",
+  "Yu the Great",
+  "Ziusudra",
+  "Triptolemus",
+  "Romulus and Remus",
+  "Corn Mother",
+  "Orpheus",
+  "Ninigi-no-Mikoto",
+  "Obatala",
+  "Gautama Buddha"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

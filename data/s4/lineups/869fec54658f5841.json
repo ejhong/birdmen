@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  5,
+  7,
+  4,
+  10,
+  3,
+  9,
+  8,
+  6,
+  2
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's core episode almost detail for detail: gods decreeing a flood, one wise god secretly warning a chosen man through a reed wall, the building of a sealed boat loaded with kin and animals, the days-long storm, and the divine quarrel afterward over destroying humankind.",
+ "least_similar_reason": "Candidate 2 is not a narrative at all but an explanation of a term for a diffuse sacred power, with no creation of humans, no assembly of gods, no flood, and no characters or events to compare.",
+ "set": "positive",
+ "pair": "Atra-Hasis | Gilgamesh flood myth",
+ "i": 244,
+ "target": "Atra-Hasis",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Gilgamesh flood myth",
+  "Wakan Tanka",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Kilibob and Manup",
+  "Qat (deity)",
+  "Mwari",
+  "Bachu\u00e9",
+  "Palamedes (mythology)",
+  "Bhagiratha",
+  "Maya Hero Twins"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

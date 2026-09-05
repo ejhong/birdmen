@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  3,
+  6,
+  8,
+  5,
+  10,
+  9,
+  2,
+  7,
+  4
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's most distinctive cluster: a culture-hero god who teaches humanity agriculture and civilization, is tricked by a rival into being sealed inside a box/chest, dies through that trick, is bound up with the underworld and dead, and whose story exists in multiple variant tellings.",
+ "least_similar_reason": "Candidate 4 is a single bare sentence naming a supreme deity with two names, containing no episodes, births, inventions, or relationships to compare with the target's rich sequence of events.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Osiris",
+ "i": 82,
+ "target": "Quetzalcoatl",
+ "planted": "Osiris",
+ "cands": [
+  "Osiris",
+  "Kvasir",
+  "Great Peacemaker",
+  "Bumba",
+  "Yu the Great",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Wisakedjak",
+  "Heitsi-eibib",
+  "Ilmarinen",
+  "Oduduwa"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

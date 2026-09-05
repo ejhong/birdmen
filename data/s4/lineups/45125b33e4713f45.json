@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  10,
+  3,
+  1,
+  6,
+  7,
+  2,
+  5,
+  4,
+  9
+ ],
+ "most_similar_reason": "Candidate 8 shares the core flood narrative structure almost exactly\u2014a divinely warned man builds a giant vessel, saves his family and animals, survives a devastating flood, sends out birds (dove, then a bird that does not return) to test the receding waters, offers sacrifice afterward, and receives divine favor, paralleling the target's ark, flood, bird-testing, and post-flood sacrifice.",
+ "least_similar_reason": "Candidate 9 is an abstract theological discussion of a 'Great Spirit' concept with no narrative events, characters, or plot, sharing none of the specific story elements\u2014flood, ark, sons, covenant, drunkenness, or curse\u2014found in the target.",
+ "set": "positive",
+ "pair": "Noah | Utnapishtim",
+ "i": 270,
+ "target": "Noah",
+ "planted": "Utnapishtim",
+ "cands": [
+  "Huitzilopochtli",
+  "Rama",
+  "Baiame",
+  "Corn Mother",
+  "Wayland the Smith",
+  "Cadmus",
+  "Itzamna",
+  "Utnapishtim",
+  "Wakan Tanka",
+  "Dangun"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

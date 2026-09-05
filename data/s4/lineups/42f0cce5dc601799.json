@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  10,
+  9,
+  6,
+  5,
+  3,
+  1,
+  2,
+  4,
+  8
+ ],
+ "most_similar_reason": "Candidate 7 depicts the same mythic complex as the target's N\u00fcwa/Fuxi material\u2014sibling creator deities living on a sacred mountain, a sign (mist/fire) confirming their marriage, clay-molded humans, and a goddess who mends the collapsed sky and reeds up flooding, directly mirroring the target's twin snake-bodied sibling creators and clay-human origin story.",
+ "least_similar_reason": "Candidate 8 (an epic of royal exile, bow-stringing marriage contests, and a kidnapped wife) shares no cosmogonic elements\u2014no primal being, no sibling creators, no clay humans, no trigrams or writing origin\u2014making it the least thematically related to the target's creation myth.",
+ "set": "related",
+ "pair": "Fuxi | N\u00fcwa",
+ "i": 506,
+ "target": "Fuxi",
+ "planted": "N\u00fcwa",
+ "cands": [
+  "Unkulunkulu",
+  "Triptolemus",
+  "Nyame",
+  "Anansi",
+  "Pachacamac",
+  "Bhagiratha",
+  "N\u00fcwa",
+  "Rama",
+  "Ayar Manco",
+  "Itzamna"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

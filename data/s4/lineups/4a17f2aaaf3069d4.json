@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  5,
+  9,
+  3,
+  8,
+  10,
+  1,
+  2,
+  7,
+  6
+ ],
+ "most_similar_reason": "Candidate 4 matches the target almost episode for episode: a trickster youngest brother with a magic fishhook made from a relative's body-part who secretly joins his brothers' fishing trip and hauls up a great fish that becomes land, whose brothers' disobedience spoils the result, and who also performs feats concerning fire/light, his sister, and mortality.",
+ "least_similar_reason": "Candidate 6 is least similar because it describes a static, non-narrative theological symbol with no hero, brothers, journeys, or created objects/lands\ninstead of any sequence of deeds.",
+ "set": "related",
+ "pair": "M\u0101ui (Hawaiian mythology) | M\u0101ui (M\u0101ori mythology)",
+ "i": 532,
+ "target": "M\u0101ui (Hawaiian mythology)",
+ "planted": "M\u0101ui (M\u0101ori mythology)",
+ "cands": [
+  "Palamedes (mythology)",
+  "Makunaima",
+  "Bran the Blessed",
+  "M\u0101ui (M\u0101ori mythology)",
+  "Agastya",
+  "Sang Hyang Tunggal",
+  "Corn Mother",
+  "Mbombo",
+  "Triptolemus",
+  "Baiame"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

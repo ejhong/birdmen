@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  9,
+  5,
+  3,
+  10,
+  8,
+  7,
+  2,
+  4,
+  6
+ ],
+ "most_similar_reason": "Candidate 1 repeats the target's exact plot: a divinely warned man builds a huge boat, loads family and animals, survives a world-destroying flood that kills everyone else, grounds on a mountain, sends out birds, and makes a sacrifice to the gods afterward, receiving a divine blessing.",
+ "least_similar_reason": "Candidate 6 is a cycle of spider-trickster wager and wisdom tales with no flood, no ark, no ancestral patriarch, and no covenant or peopling of the earth.",
+ "set": "positive",
+ "pair": "Noah | Utnapishtim",
+ "i": 275,
+ "target": "Noah",
+ "planted": "Utnapishtim",
+ "cands": [
+  "Utnapishtim",
+  "Wandjina",
+  "Ayar Manco",
+  "Mwari",
+  "Cadmus",
+  "Anansi",
+  "Coyote (mythology)",
+  "Bran the Blessed",
+  "Kilibob and Manup",
+  "Shennong"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

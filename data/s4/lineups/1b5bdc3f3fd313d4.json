@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  9,
+  3,
+  5,
+  1,
+  8,
+  7,
+  6,
+  4,
+  2
+ ],
+ "most_similar_reason": "Candidate 10 shares nearly all core motifs with the target\u2014exile by a scheming queen mother, a wife won through an archery feat, a loyal brother, a demoness maimed, a golden deer decoy, abduction by a ten-headed demon king, alliance with monkey-people via a succession dispute, a bridge to the island, and the demon's death via a vulnerable point\u2014making it essentially a variant retelling of the same epic.",
+ "least_similar_reason": "Candidate 2 is a purely descriptive account of ancestral rain/cloud spirits and rock-art conventions with no narrative of kings, exile, abduction, or heroic battle, sharing no distinctive plot elements with the target.",
+ "set": "positive",
+ "pair": "Ramayana | Reamker",
+ "i": 283,
+ "target": "Ramayana",
+ "planted": "Reamker",
+ "cands": [
+  "R\u00edgs\u00feula",
+  "Wandjina",
+  "Wayland the Smith",
+  "Berossus",
+  "Orpheus",
+  "Coyote (mythology)",
+  "Sosruko",
+  "Ziusudra",
+  "Yu the Great",
+  "Reamker"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  3,
+  2,
+  6,
+  8,
+  5,
+  1,
+  10,
+  9,
+  4
+ ],
+ "most_similar_reason": "Candidate 7 centers, like the target, on a divine artificer who descends and fabricates the world's features and beings with tools, metal implements and a bird, distributing craft goods (a metal blade, a farming tool) to humankind, and whose fashioned figures come out flawed \u2014 closely echoing the smith-god's serial botched castings and manufactured beings.",
+ "least_similar_reason": "Candidate 4 is not a narrative at all but a philological account of a divine name's spread and decline, sharing no craftsman, no forging, no bride-quest, and no episodic action with the target.",
+ "set": "random",
+ "pair": "Ilmarinen | Rama",
+ "i": 610,
+ "target": "Ilmarinen",
+ "planted": "Rama",
+ "cands": [
+  "Gesar",
+  "Oduduwa",
+  "Sosruko",
+  "Waaq",
+  "Rama",
+  "Yu the Great",
+  "Obatala",
+  "Tezcatlipoca",
+  "Corn Mother",
+  "R\u00edgs\u00feula"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 6
+}

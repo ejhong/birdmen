@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  6,
+  9,
+  4,
+  5,
+  8,
+  1,
+  3,
+  10,
+  2
+ ],
+ "most_similar_reason": "Candidate 7 explicitly parallels the target's alternate version of the myth, featuring a creator/culture-hero associated with a golden staff, born of a sun deity, involved in a flood, and founding civilization\u2014matching the target's Inca-style sun-god/golden-staff origin story almost point for point.",
+ "least_similar_reason": "Candidate 2 offers no narrative content at all beyond naming a worshipped deity, so it shares none of the target's specific motifs like siblings, the golden staff, city founding, or dynastic succession.",
+ "set": "related",
+ "pair": "Manco C\u00e1pac | Viracocha",
+ "i": 436,
+ "target": "Manco C\u00e1pac",
+ "planted": "Viracocha",
+ "cands": [
+  "Prometheus",
+  "Abassi",
+  "Unkulunkulu",
+  "Yu the Great",
+  "Berossus",
+  "Romulus and Remus",
+  "Viracocha",
+  "Maya Hero Twins",
+  "Cadmus",
+  "Kokopelli"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

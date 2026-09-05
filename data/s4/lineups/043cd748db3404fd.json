@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  6,
+  8,
+  4,
+  9,
+  1,
+  2,
+  5,
+  3,
+  7
+ ],
+ "most_similar_reason": "Candidate 10 shares the same distinctive flood episode: assembled high gods decree a deluge, one clever god circumvents his oath by whispering the warning through a reed wall to a favored wise man, who builds a sealed waterproof ship and loads family, animals and provisions before the storm.",
+ "least_similar_reason": "Candidate 7 has no narrative at all\u2014only a static, non-acting symbolic representation of an unknowable divine principle\u2014so it shares none of the target's characters, quest, flood, or sequence of events.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Atra-Hasis",
+ "i": 254,
+ "target": "Gilgamesh flood myth",
+ "planted": "Atra-Hasis",
+ "cands": [
+  "Tangaroa",
+  "Wandjina",
+  "Cangjie",
+  "Ayar Manco",
+  "Great Peacemaker",
+  "\u014ckuninushi",
+  "Sang Hyang Tunggal",
+  "Obatala",
+  "Nyame",
+  "Atra-Hasis"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

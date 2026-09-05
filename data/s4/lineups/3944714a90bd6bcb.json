@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  1,
+  7,
+  3,
+  8,
+  6,
+  9,
+  10,
+  4,
+  2
+ ],
+ "most_similar_reason": "Candidate 5 shares the target's exact core episode: gods secretly resolving to send a flood, a wise god warning a chosen man through a reed wall to build a sealed boat and load kin and animals, and the storm that destroys humanity.",
+ "least_similar_reason": "Candidate 2 is not a narrative at all but a philological account of a divine name's spread and decline, sharing no characters, episodes, or events with the target.",
+ "set": "positive",
+ "pair": "Atra-Hasis | Gilgamesh flood myth",
+ "i": 249,
+ "target": "Atra-Hasis",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Obatala",
+  "Waaq",
+  "\u014ckuninushi",
+  "Anansi",
+  "Gilgamesh flood myth",
+  "Maya Hero Twins",
+  "Coyote (mythology)",
+  "Agastya",
+  "Baiame",
+  "Yellow Emperor"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 1
+}

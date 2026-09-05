@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  6,
+  7,
+  3,
+  4,
+  5,
+  2,
+  10,
+  1,
+  8
+ ],
+ "most_similar_reason": "Candidate 9 shares the closest thematic cluster with the target: sage-figures bringing civilization and flood-related lore, culminating in dynastic founding and civilizing works tied to specific numbers and named achievements, mirroring the sages' role in teaching arts and founding cities after the flood.",
+ "least_similar_reason": "Candidate 8 is least similar, focusing on a mother goddess's emergence from a lake and transformation into a snake with no parallel to the seven sages, tablets of destiny, healing poultices, or post-flood civilizing mission central to the target.",
+ "set": "hancock",
+ "pair": "Oannes | Osiris",
+ "i": 109,
+ "target": "Oannes",
+ "planted": "Osiris",
+ "cands": [
+  "Hiawatha",
+  "Gesar",
+  "Romulus and Remus",
+  "Mama Ocllo",
+  "Ninigi-no-Mikoto",
+  "Osiris",
+  "Dangun",
+  "Bachu\u00e9",
+  "Yu the Great",
+  "Oduduwa"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 2
+}

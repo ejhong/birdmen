@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  10,
+  7,
+  9,
+  3,
+  4,
+  2,
+  6,
+  5,
+  8
+ ],
+ "most_similar_reason": "Candidate 1 shares the core pattern of a culture hero who is remembered through multiple divergent accounts and versions, who travels between towns teaching the foundations of civilization before ultimately disappearing, closely mirroring the target's structure of varied testimonies followed by a developed civilizing-hero narrative.",
+ "least_similar_reason": "Candidate 8 contains no narrative, actions, relationships, or motifs at all, making it essentially devoid of the story content needed to compare against the target's rich sequence of events.",
+ "set": "hancock",
+ "pair": "Bochica | Viracocha",
+ "i": 212,
+ "target": "Bochica",
+ "planted": "Viracocha",
+ "cands": [
+  "Viracocha",
+  "Glooscap",
+  "Heitsi-eibib",
+  "Mbombo",
+  "Sang Hyang Tunggal",
+  "Sosruko",
+  "Yellow Emperor",
+  "Abassi",
+  "Rama",
+  "Nanabozho"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

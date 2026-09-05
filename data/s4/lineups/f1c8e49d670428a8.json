@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  5,
+  9,
+  3,
+  10,
+  2,
+  6,
+  8,
+  4,
+  1
+ ],
+ "most_similar_reason": "Candidate 7 shares the distinctive civilizing-teacher role of a divine being sent to instruct humanity, including the specific motif of naming and classifying plants (edible/medicinal/poisonous), paralleling the target's sons who name plants and teach their properties, plus a shapeshifting creator/trickster who founds cultural institutions much like the target's beggar-disguised teacher of civilization.",
+ "least_similar_reason": "Candidate 1 provides only a bare statement that a being with two names was a supreme deity, containing none of the specific creation, flood, teaching, or disappearance motifs that define the target myth.",
+ "set": "related",
+ "pair": "Viracocha | Tunupa",
+ "i": 446,
+ "target": "Viracocha",
+ "planted": "Tunupa",
+ "cands": [
+  "Bumba",
+  "R\u00edgs\u00feula",
+  "Ninigi-no-Mikoto",
+  "Abassi",
+  "Ziusudra",
+  "Cangjie",
+  "Nanabozho",
+  "Tunupa",
+  "Ilmarinen",
+  "Tagaro"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 8
+}

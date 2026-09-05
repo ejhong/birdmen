@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  8,
+  6,
+  1,
+  10,
+  9,
+  2,
+  3,
+  7,
+  5
+ ],
+ "most_similar_reason": "Candidate 4 shares the core structural motif of a landscape deity linked to a specific sacred site (a cave with images/remains) and to natural forces (floods, lightning) that must be ritually maintained, closely paralleling the target's mountain deity, cave, and associated legend.",
+ "least_similar_reason": "Candidate 5 is a fully personal myth about a musician-hero's love, loss, and death with no connection to a personified mountain, salt flat, cave of mummies, or ancestral village, making it the least thematically related.",
+ "set": "related",
+ "pair": "Tunupa | Viracocha",
+ "i": 456,
+ "target": "Tunupa",
+ "planted": "Viracocha",
+ "cands": [
+  "Bumba",
+  "Great Peacemaker",
+  "Agastya",
+  "Wandjina",
+  "Orpheus",
+  "Makunaima",
+  "Waaq",
+  "Djanggawul",
+  "White Buffalo Calf Woman",
+  "Viracocha"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 5
+}

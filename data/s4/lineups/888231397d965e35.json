@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  3,
+  8,
+  2,
+  5,
+  10,
+  6,
+  7,
+  1,
+  9
+ ],
+ "most_similar_reason": "Candidate 4 retells the same core Ramayana narrative\u2014divine incarnation to slay a demon king, forest exile, a golden-deer trick, abduction of the wife, alliance with monkey-people, and eventual victory and reunion\u2014matching the target's plot beat for beat far more closely than any other candidate.",
+ "least_similar_reason": "Candidate 9 contains no narrative at all, merely naming a deity without any events, characters, or motifs to compare with the richly plotted target myth.",
+ "set": "positive",
+ "pair": "Ramakien | Ramayana",
+ "i": 317,
+ "target": "Ramakien",
+ "planted": "Ramayana",
+ "cands": [
+  "Corn Mother",
+  "Dangun",
+  "Prometheus",
+  "Ramayana",
+  "Yellow Emperor",
+  "Mwari",
+  "Waaq",
+  "Kvasir",
+  "Abassi",
+  "Ayar Manco"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

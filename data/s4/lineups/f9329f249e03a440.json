@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  2,
+  10,
+  7,
+  8,
+  9,
+  1,
+  4,
+  6,
+  3
+ ],
+ "most_similar_reason": "Candidate 5 most closely matches the target's core pattern of divine emissaries dispatched from the sky by a supreme god to shape the world upon primeval waters and to bring humanity into being and endow it with the arts of civilization (metal blade, farming tool, life-force), combined with a founder-king of a great city, echoing the sages paired with primeval kings and city foundations.",
+ "least_similar_reason": "Candidate 3 is a heroic war saga of marriage alliance, a maimed-horses insult, a resurrection cauldron and a talking severed head, with no culture-bringing sages, no bestowal of civilization, no flood or king-list structure.",
+ "set": "hancock",
+ "pair": "Oannes | Osiris",
+ "i": 101,
+ "target": "Oannes",
+ "planted": "Osiris",
+ "cands": [
+  "Nyame",
+  "Oduduwa",
+  "Bran the Blessed",
+  "Gesar",
+  "Obatala",
+  "Wayland the Smith",
+  "Kutkh",
+  "Palamedes (mythology)",
+  "Coyote (mythology)",
+  "Osiris"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 3
+}

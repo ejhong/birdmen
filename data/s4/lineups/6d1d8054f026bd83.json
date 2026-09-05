@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  9,
+  5,
+  4,
+  6,
+  3,
+  1,
+  7,
+  10,
+  2
+ ],
+ "most_similar_reason": "Candidate 8 shares the most distinctive Mesoamerican motifs with the target\u2014a feathered\u2011serpent deity, association with the twenty\u2011day calendar, invention of the calendar/writing, and a dramatic self\u2011destruction by fire that parallels the burning of the hero's ritual objects.",
+ "least_similar_reason": "Candidate 2 provides no narrative content at all beyond naming a deity, so it shares none of the specific episodes, relationships, or motifs found in the target story.",
+ "set": "hancock",
+ "pair": "Votan | Quetzalcoatl",
+ "i": 140,
+ "target": "Votan",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Amirani",
+  "Abassi",
+  "Kvasir",
+  "Glooscap",
+  "Bachu\u00e9",
+  "Cangjie",
+  "Wisakedjak",
+  "Quetzalcoatl",
+  "Mama Ocllo",
+  "Wandjina"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

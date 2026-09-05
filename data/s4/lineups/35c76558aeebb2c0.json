@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  1,
+  3,
+  9,
+  4,
+  2,
+  7,
+  10,
+  8,
+  6
+ ],
+ "most_similar_reason": "Candidate 5 is essentially the same frame-tale collection: a wise counselor instructs a ruler's household through nested animal fables, including the jackal at the lion king's court who destroys the lion's friendship with a large horned animal, the four friends (crow, mouse, turtle, deer), and the war between crows and owls.",
+ "least_similar_reason": "Candidate 6 concerns a creator god's struggle with personified Death and totem animals, sharing no frame-tale structure, counselor-ruler relationship, or animal fables with the target.",
+ "set": "positive",
+ "pair": "Kalila wa-Dimna | Panchatantra",
+ "i": 352,
+ "target": "Kalila wa-Dimna",
+ "planted": "Panchatantra",
+ "cands": [
+  "Apkallu",
+  "Ilmarinen",
+  "Triptolemus",
+  "Shennong",
+  "Panchatantra",
+  "Nyame",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Yu the Great",
+  "Prometheus",
+  "\u014ckuninushi"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  5,
+  7,
+  2,
+  9,
+  6,
+  1,
+  3,
+  10,
+  4
+ ],
+ "most_similar_reason": "Candidate 8 most closely matches the target's core pattern: a divine/semi-divine culture hero standing first in a series of legendary rulers, explicitly credited with bringing the arts of civilization (writing, calendar, boats, carts, houses), tied to city/dynastic foundations and to hybrid animal forms, with a later scholar compiling the tradition much as the target catalogs the sages' inventions and foundations.",
+ "least_similar_reason": "Candidate 4 is least similar because it is a bare identification of a creator god's names among peoples of a river basin, offering no sages, no teaching of civilization, no flood, kings, cities, or any narrative episodes to correspond with the target.",
+ "set": "hancock",
+ "pair": "Oannes | Quetzalcoatl",
+ "i": 74,
+ "target": "Oannes",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Mbombo",
+  "T\u0101ne",
+  "Djanggawul",
+  "Makunaima",
+  "Nanabozho",
+  "Aeneas",
+  "Quetzalcoatl",
+  "Yellow Emperor",
+  "Kilibob and Manup",
+  "Waaq"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 3
+}

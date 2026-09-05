@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  3,
+  9,
+  10,
+  4,
+  5,
+  2,
+  7,
+  1,
+  6
+ ],
+ "most_similar_reason": "Candidate 8 shares the target's core device of multiple conflicting testimonies about a single mythic figure's identity/origin, followed by a fuller narrative of a civilizing hero who founds religious practice, gives sacred knowledge, and is linked to sun/star worship, closely paralleling the target's structure of witness disagreement followed by an elaborated founding-hero account.",
+ "least_similar_reason": "Candidate 6 describes a purely abstract theological symbol with no narrative events, travels, disguises, or founding acts, sharing only the generic idea of a divine figure connected to the sun, making it the least similar in actual story content.",
+ "set": "hancock",
+ "pair": "Bochica | Quetzalcoatl",
+ "i": 121,
+ "target": "Bochica",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Kutkh",
+  "Yu the Great",
+  "Ogun",
+  "T\u0101ne",
+  "Kilibob and Manup",
+  "Sang Hyang Tunggal",
+  "Sosruko",
+  "Quetzalcoatl",
+  "Adapa",
+  "Prometheus"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  8,
+  4,
+  3,
+  5,
+  7,
+  9,
+  1,
+  10,
+  2
+ ],
+ "most_similar_reason": "Candidate 6 shares the same core epic structure: an avatar hero, archery contest for a princess who is secretly divine, exile with a brother, demoness spurned, abduction of the wife by a multi-headed demon king, alliance with monkey princes/generals, a causeway/war, and rescue and fire ordeal, mirroring the target's plot almost beat for beat.",
+ "least_similar_reason": "Candidate 2 is an abstract discussion of a spiritual concept with no narrative of a hero, king, exile, abduction, or battle, sharing no concrete plot elements with the target.",
+ "set": "positive",
+ "pair": "Ramayana | Ramakien",
+ "i": 301,
+ "target": "Ramayana",
+ "planted": "Ramakien",
+ "cands": [
+  "Tagaro",
+  "Wakan Tanka",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Orpheus",
+  "Triptolemus",
+  "Ramakien",
+  "Shennong",
+  "Aeneas",
+  "Cangjie",
+  "Oduduwa"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

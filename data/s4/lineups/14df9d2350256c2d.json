@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  2,
+  4,
+  5,
+  7,
+  8,
+  6,
+  10,
+  9,
+  3
+ ],
+ "most_similar_reason": "Candidate 1 is manifestly the same narrative: exile demanded by a stepmother/queen mother so her own son can rule, the bride won by a feat of archery/bow, the loyal younger brother in the forest, the demoness whose nose and ears are cut off, the golden-deer ruse and the wife's abduction by the demon king, the alliance with the monkey-people and restoration of their king, the search by the devoted monkey ally, and the final defeat of the demon king.",
+ "least_similar_reason": "Candidate 3 is only a bare statement that a deity had two names and was supreme, containing no episodes, relationships, or motifs at all that could correspond to the target's exile, abduction, and rescue plot.",
+ "set": "positive",
+ "pair": "Reamker | Ramayana",
+ "i": 298,
+ "target": "Reamker",
+ "planted": "Ramayana",
+ "cands": [
+  "Ramayana",
+  "Amirani",
+  "Bumba",
+  "Cadmus",
+  "Kilibob and Manup",
+  "Glooscap",
+  "Obatala",
+  "T\u0101ne",
+  "Anansi",
+  "R\u00edgs\u00feula"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

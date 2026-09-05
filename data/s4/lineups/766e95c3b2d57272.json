@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  4,
+  9,
+  2,
+  10,
+  7,
+  3,
+  8,
+  1,
+  6
+ ],
+ "most_similar_reason": "Candidate 5 shares the target's central and highly distinctive episode almost point for point: a favored man is commanded by a deity to build a huge vessel with precise dimensions, load family and animals, survive a world-destroying flood, land on a mountain, send out birds, and offer sacrifice afterward, receiving divine blessing.",
+ "least_similar_reason": "Candidate 6 is a bare one-line note that a creator god is recognized in a region, containing no flood, no ancestor, no sequence of events, and thus nothing to correspond with the target's narrative.",
+ "set": "positive",
+ "pair": "Noah | Utnapishtim",
+ "i": 276,
+ "target": "Noah",
+ "planted": "Utnapishtim",
+ "cands": [
+  "Bran the Blessed",
+  "Baiame",
+  "Ogun",
+  "Sky Woman",
+  "Utnapishtim",
+  "Makunaima",
+  "Anansi",
+  "Bachu\u00e9",
+  "Yellow Emperor",
+  "Kutkh"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  7,
+  2,
+  4,
+  5,
+  10,
+  8,
+  3,
+  6,
+  1
+ ],
+ "most_similar_reason": "Candidate 9, like the target, is purely a descriptive statement about an abstract supreme deity identified under more than one name for a people, with no narrative episodes at all, matching the target's account of a supreme god known under a conceptual name before another name came into use.",
+ "least_similar_reason": "Candidate 1 is least similar because it is a densely plotted heroic biography of a mortal warrior\u2014oaths, feigned madness, battles, and rival versions of his murder\u2014sharing none of the target's concern with an unrepresentable supreme divinity and its iconography.",
+ "set": "random",
+ "pair": "Sang Hyang Tunggal | V\u00e4in\u00e4m\u00f6inen",
+ "i": 564,
+ "target": "Sang Hyang Tunggal",
+ "planted": "V\u00e4in\u00e4m\u00f6inen",
+ "cands": [
+  "Palamedes (mythology)",
+  "Pachacamac",
+  "Amirani",
+  "Tangaroa",
+  "Berossus",
+  "Wayland the Smith",
+  "Unkulunkulu",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Bumba",
+  "Adapa"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 7
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  2,
+  5,
+  9,
+  7,
+  6,
+  3,
+  4,
+  8,
+  1
+ ],
+ "most_similar_reason": "Candidate 10 shares the most concrete mythic motifs with the target\u2014a divine culture-bringer who rises from primeval waters, creates humanity, sends a flood, teaches humans the foundations of civilization, and ultimately vanishes across the sea walking on water, closely echoing the Oannes-like fish/civilizing-sage tradition of the apkallu.",
+ "least_similar_reason": "Candidate 1 offers only a bare statement that a spirit is worshipped as a deity with no narrative, actions, or motifs of any kind, making it the least comparable to the richly detailed apkallu mythology of the target.",
+ "set": "hancock",
+ "pair": "Oannes | Viracocha",
+ "i": 38,
+ "target": "Oannes",
+ "planted": "Viracocha",
+ "cands": [
+  "Abassi",
+  "Agastya",
+  "Anansi",
+  "Mwari",
+  "\u014ckuninushi",
+  "Heitsi-eibib",
+  "Maya Hero Twins",
+  "Makunaima",
+  "Rama",
+  "Viracocha"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

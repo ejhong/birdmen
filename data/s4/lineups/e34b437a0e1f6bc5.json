@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  6,
+  8,
+  9,
+  4,
+  3,
+  1,
+  7,
+  5,
+  2
+ ],
+ "most_similar_reason": "Candidate 10 shares the same distinctive mythic complex as the target: semi-divine sages/servants of a wisdom god who emerge from primeval waters to bring civilization, associated with a pre-flood and post-flood sequence, a great god of the subterranean deep, and craft/healing knowledge.",
+ "least_similar_reason": "Candidate 2 is not a narrative at all but an explanation of a term for a diffuse sacred power, containing no creator figure, no shaping of humans from clay, no flood, and no episodes of divine problem-solving.",
+ "set": "related",
+ "pair": "Enki | Oannes",
+ "i": 483,
+ "target": "Enki",
+ "planted": "Oannes",
+ "cands": [
+  "Wandjina",
+  "Wakan Tanka",
+  "Maya Hero Twins",
+  "Triptolemus",
+  "Rama",
+  "Obatala",
+  "Gesar",
+  "T\u0101ne",
+  "Bachu\u00e9",
+  "Oannes"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

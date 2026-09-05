@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  7,
+  9,
+  3,
+  5,
+  1,
+  8,
+  2,
+  6,
+  10
+ ],
+ "most_similar_reason": "Candidate 4 shares the target's core flood narrative in near-identical detail: a divinely warned man builds a huge boat to specified dimensions, loads family and animals, all others perish, the vessel lands on a mountain, birds are sent out, and he sacrifices and receives a divine blessing afterward.",
+ "least_similar_reason": "Candidate 10 has no narrative at all \u2014 it is a descriptive account of a supreme deity's attributes and worship through mediums, with no flood, ark, family line, or sequence of events matching the target.",
+ "set": "positive",
+ "pair": "Noah | Utnapishtim",
+ "i": 274,
+ "target": "Noah",
+ "planted": "Utnapishtim",
+ "cands": [
+  "Coyote (mythology)",
+  "Nanabozho",
+  "Amirani",
+  "Utnapishtim",
+  "Agastya",
+  "Sosruko",
+  "Kilibob and Manup",
+  "Anansi",
+  "Bran the Blessed",
+  "Mwari"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

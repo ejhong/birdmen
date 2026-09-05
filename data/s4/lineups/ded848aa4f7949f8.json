@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  1,
+  9,
+  7,
+  2,
+  3,
+  10,
+  6,
+  8,
+  4
+ ],
+ "most_similar_reason": "Candidate 5 shares the core narrative arc of a royal figure encountering a religious teacher, converting despite opposition, and ultimately renouncing worldly rule to enter seclusion/asceticism\u2014paralleling the target's theme of royal renunciation for spiritual life and the master-disciple transmission of teaching.",
+ "least_similar_reason": "Candidate 4 is an extremely minimal statement about a deity with two names and contains none of the target's distinctive narrative elements\u2014no birth, renunciation, teaching, disciples, texts, or death\u2014making it impossible to compare in content.",
+ "set": "positive",
+ "pair": "Gautama Buddha | Barlaam and Josaphat",
+ "i": 328,
+ "target": "Gautama Buddha",
+ "planted": "Barlaam and Josaphat",
+ "cands": [
+  "Hiawatha",
+  "Baiame",
+  "Romulus and Remus",
+  "Bumba",
+  "Barlaam and Josaphat",
+  "Tagaro",
+  "Kvasir",
+  "Bran the Blessed",
+  "Apkallu",
+  "Heitsi-eibib"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

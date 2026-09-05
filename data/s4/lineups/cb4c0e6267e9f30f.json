@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  1,
+  7,
+  4,
+  6,
+  3,
+  5,
+  9,
+  8,
+  2
+ ],
+ "most_similar_reason": "Candidate 10 shares the target's exact mythic world\u2014a wisdom-and-crafts god of the subterranean fresh waters who has a group of sages as his servants, is bound up with the creation of humans and the great flood, and solves problems by clever schemes\u2014matching the target's sages, their divine master's temple and waters, and the flood-divided ages.",
+ "least_similar_reason": "Candidate 2 concerns a defeated creator god's family rivalry and his demotion to lord of fish, with no sages, no civilizing arts, no flood-divided king lists, and none of the target's distinctive motifs.",
+ "set": "related",
+ "pair": "Oannes | Enki",
+ "i": 497,
+ "target": "Oannes",
+ "planted": "Enki",
+ "cands": [
+  "Hiawatha",
+  "Pachacamac",
+  "Qat (deity)",
+  "Palamedes (mythology)",
+  "Ilmarinen",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Glooscap",
+  "Ninigi-no-Mikoto",
+  "Huitzilopochtli",
+  "Enki"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

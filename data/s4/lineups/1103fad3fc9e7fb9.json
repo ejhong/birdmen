@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  6,
+  4,
+  5,
+  9,
+  1,
+  10,
+  8,
+  3,
+  2
+ ],
+ "most_similar_reason": "Candidate 7 shares the target's exact cluster of motifs: a sibling brother-sister pair who live on a sacred mountain and seek an omen (mist/merging flames) to sanction their marriage, then create humans out of clay/mud, alongside cosmic repair and cosmological ordering.",
+ "least_similar_reason": "Candidate 2 is not a narrative at all but an abstract description of a transcendent, non-acting symbolic figure, with no creation events, culture-hero teachings, sibling marriage, or human-making episodes.",
+ "set": "related",
+ "pair": "Fuxi | N\u00fcwa",
+ "i": 507,
+ "target": "Fuxi",
+ "planted": "N\u00fcwa",
+ "cands": [
+  "White Buffalo Calf Woman",
+  "Sang Hyang Tunggal",
+  "Ziusudra",
+  "Mbombo",
+  "Baiame",
+  "T\u0101ne",
+  "N\u00fcwa",
+  "Orpheus",
+  "Ninigi-no-Mikoto",
+  "Kokopelli"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

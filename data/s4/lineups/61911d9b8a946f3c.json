@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  3,
+  6,
+  2,
+  4,
+  9,
+  8,
+  7,
+  10,
+  5
+ ],
+ "most_similar_reason": "Candidate 1 shares the same core mythic structure as the target's first telling: siblings who are also spouses, a jealous brother who kills and dismembers the king, the wife and her sister recovering and reassembling the pieces, magical revival for conception, and the son avenging the father, matching almost every distinctive motif.",
+ "least_similar_reason": "Candidate 5 is merely an abstract discussion of a linguistic/theological concept ('Great Spirit/Mystery') with no narrative of gods, murder, dismemberment, or family relationships, sharing no concrete story elements with the target.",
+ "set": "related",
+ "pair": "Osiris | Isis",
+ "i": 462,
+ "target": "Osiris",
+ "planted": "Isis",
+ "cands": [
+  "Isis",
+  "Agastya",
+  "Obatala",
+  "Shennong",
+  "Wakan Tanka",
+  "Palamedes (mythology)",
+  "Makunaima",
+  "Kokopelli",
+  "Baiame",
+  "Unkulunkulu"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

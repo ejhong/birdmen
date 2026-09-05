@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  5,
+  3,
+  6,
+  8,
+  10,
+  2,
+  7,
+  1,
+  4
+ ],
+ "most_similar_reason": "Candidate 9 shares the closest structural and thematic pattern with the target: a divine figure in disguise interacts with mortals, a secret is nearly revealed, a mortal child is nursed and transformed by divine power, a hero is given a special vehicle (chariot with serpents) and a destiny to spread civilization, encounters jealous or hostile kings in multiple lands, and ultimately becomes an underworld judge\u2014mirroring the target's sequence of divine disguise, secret revelation, nurturing by supernatural figures, travels through hostile and allied kingdoms, and eventual quasi-divine afterlife role.",
+ "least_similar_reason": "Candidate 4 is an extremely brief, purely descriptive statement about a creator god with no narrative elements, characters, journeys, romances, wars, or genealogical outcomes, making it structurally and thematically the most distant from the target's rich, event-filled heroic saga.",
+ "set": "random",
+ "pair": "Aeneas | Djanggawul",
+ "i": 603,
+ "target": "Aeneas",
+ "planted": "Djanggawul",
+ "cands": [
+  "Mwari",
+  "Nyame",
+  "Ilmarinen",
+  "Makunaima",
+  "Shennong",
+  "Tangaroa",
+  "Djanggawul",
+  "Ogun",
+  "Triptolemus",
+  "Itzamna"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 8
+}

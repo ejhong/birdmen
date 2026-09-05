@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  9,
+  1,
+  2,
+  3,
+  5,
+  7,
+  10,
+  8,
+  6
+ ],
+ "most_similar_reason": "Candidate 4 shares nearly every distinctive element of the target: sibling-spouse deities born of earth and sky, a jealous brother who murders and dismembers the king, the wife and her sister gathering the scattered pieces, magical revival and posthumous conception, the son who avenges his father, and the murdered god's rule in the underworld.",
+ "least_similar_reason": "Candidate 6 is not a narrative at all but a linguistic and historical discussion of a divine name's survival in words and place names, sharing no episodes, characters, or motifs with the target.",
+ "set": "related",
+ "pair": "Osiris | Isis",
+ "i": 466,
+ "target": "Osiris",
+ "planted": "Isis",
+ "cands": [
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Agastya",
+  "Bhagiratha",
+  "Isis",
+  "White Buffalo Calf Woman",
+  "Waaq",
+  "Mbombo",
+  "Wandjina",
+  "Aeneas",
+  "Baiame"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

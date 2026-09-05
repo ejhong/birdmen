@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  9,
+  6,
+  2,
+  5,
+  10,
+  3,
+  4,
+  7,
+  1
+ ],
+ "most_similar_reason": "Candidate 8 shares the closest cluster of distinctive motifs with the target\u2014a serpent-symbol kingdom, a calendar based on day-names, a jaguar/darkness deity title, and a culture-hero who makes multiple journeys and builds an empire, mirroring the feathered serpent\u2019s calendar invention, cardinal-direction rule, and dual solar/venereal identity.",
+ "least_similar_reason": "Candidate 1 contains no narrative content at all beyond naming a deity, so it shares none of the specific birth stories, cosmic roles, or ritual acts that define the target myth.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Votan",
+ "i": 156,
+ "target": "Quetzalcoatl",
+ "planted": "Votan",
+ "cands": [
+  "Abassi",
+  "Sky Woman",
+  "Kokopelli",
+  "Djanggawul",
+  "Heitsi-eibib",
+  "Great Peacemaker",
+  "Adapa",
+  "Votan",
+  "Cangjie",
+  "Qat (deity)"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

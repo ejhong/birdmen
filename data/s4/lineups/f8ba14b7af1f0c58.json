@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  5,
+  3,
+  9,
+  1,
+  6,
+  2,
+  10,
+  7,
+  4
+ ],
+ "most_similar_reason": "Candidate 8 reproduces nearly the entire plot skeleton of the target\u2014exile by a stepmother favoring her own son, a wife won through an archery/bow challenge, a loyal brother accompanying them, a forest demoness whose nose and ears are cut off, a golden-deer decoy, abduction by a demon king, alliance with monkey-people to restore a rightful ruler, and a final battle to reclaim the wife\u2014making it essentially the same narrative.",
+ "least_similar_reason": "Candidate 4 is only a one-line statement about a supreme deity with two names and shares no plot, characters, or motifs with the target's rich narrative of exile, abduction, and battle.",
+ "set": "positive",
+ "pair": "Reamker | Ramayana",
+ "i": 297,
+ "target": "Reamker",
+ "planted": "Ramayana",
+ "cands": [
+  "Heitsi-eibib",
+  "Cangjie",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Bumba",
+  "Maya Hero Twins",
+  "Ogun",
+  "Wakan Tanka",
+  "Ramayana",
+  "Pachacamac",
+  "Yellow Emperor"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

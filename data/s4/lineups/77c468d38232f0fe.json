@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  2,
+  3,
+  1,
+  10,
+  9,
+  7,
+  6,
+  8,
+  5
+ ],
+ "most_similar_reason": "Candidate 4 shares the target's exact narrative complex: a brother-sister pair with serpent bodies who live on a sacred mountain, seek an omen (fire/mist) to sanction their marriage, and create the first humans from clay, alongside the culture hero's inventions and teachings.",
+ "least_similar_reason": "Candidate 5 contains virtually no narrative at all\u2014only a bare statement that a deity had two names\u2014so it shares no episodes, motifs, or relationships with the target.",
+ "set": "related",
+ "pair": "N\u00fcwa | Fuxi",
+ "i": 517,
+ "target": "N\u00fcwa",
+ "planted": "Fuxi",
+ "cands": [
+  "Tezcatlipoca",
+  "Qat (deity)",
+  "Pachacamac",
+  "Fuxi",
+  "Bumba",
+  "Amirani",
+  "Anansi",
+  "Wayland the Smith",
+  "Wandjina",
+  "Baiame"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

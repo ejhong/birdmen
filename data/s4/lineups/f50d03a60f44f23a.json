@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  9,
+  8,
+  1,
+  2,
+  5,
+  6,
+  7,
+  3,
+  10
+ ],
+ "most_similar_reason": "Candidate 4 shares the target's central and unusual episode almost exactly: a fish incarnation of a great god warns the first man/king of a coming deluge, instructs him to build a boat towed by the fish's horn, and the boat carries seven sages and the sacred scriptures, preserving humanity and knowledge, with the survivor becoming ruler of the current age.",
+ "least_similar_reason": "Candidate 10 is a bare identification of a deity with no narrative, figures, or events at all, so it shares nothing with the target's story of progenitor rulers, flood, and rescue.",
+ "set": "positive",
+ "pair": "Manu (Hinduism) | Matsya",
+ "i": 361,
+ "target": "Manu (Hinduism)",
+ "planted": "Matsya",
+ "cands": [
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Ilmarinen",
+  "Sosruko",
+  "Matsya",
+  "Bachu\u00e9",
+  "Palamedes (mythology)",
+  "Anansi",
+  "Yellow Emperor",
+  "Ayar Manco",
+  "Abassi"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  7,
+  9,
+  8,
+  4,
+  6,
+  1,
+  2,
+  5,
+  3
+ ],
+ "most_similar_reason": "Candidate 10 directly parallels the target's own servant figures (the sages/apkallu of Enki), describing them as fish-men associated with wisdom, flood survival, tablets of destiny, and city-founding\u2014matching the target's mention of a group of sages serving the hero and echoing core Enki mythology (flood warning, creation of civilization, wisdom-bringing).",
+ "least_similar_reason": "Candidate 3 contains no narrative details at all beyond naming a deity as worshipped by a people, sharing only the barest generic notion of 'a deity' with the target's rich mythological content.",
+ "set": "related",
+ "pair": "Enki | Oannes",
+ "i": 486,
+ "target": "Enki",
+ "planted": "Oannes",
+ "cands": [
+  "Unkulunkulu",
+  "Sky Woman",
+  "Abassi",
+  "Wayland the Smith",
+  "Great Peacemaker",
+  "Ayar Manco",
+  "Triptolemus",
+  "Ilmarinen",
+  "Dangun",
+  "Oannes"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

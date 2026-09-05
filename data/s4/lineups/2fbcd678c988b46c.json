@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  2,
+  9,
+  1,
+  7,
+  5,
+  6,
+  4,
+  3,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 shares the closest cluster of distinctive motifs with the target\u2014a deity credited with inventing books/writing and the calendar, involved in the creation of mankind (including blood-based life-giving), born among divine siblings tied to cosmic order, and linked to solar/stellar transformation and cyclical death and rebirth, paralleling Thoth's invention of writing, his role in the Osiris myth, and his cosmic functions.",
+ "least_similar_reason": "Candidate 10 contains no narrative events, deities acting, or mythic episodes at all, being purely a linguistic and etymological discussion of a word for 'God,' sharing only the vaguest generic notion of a sky deity with the target.",
+ "set": "hancock",
+ "pair": "Thoth | Quetzalcoatl",
+ "i": 164,
+ "target": "Thoth",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Heitsi-eibib",
+  "Palamedes (mythology)",
+  "Abassi",
+  "Mwari",
+  "Hiawatha",
+  "Wandjina",
+  "Amirani",
+  "Quetzalcoatl",
+  "Orpheus",
+  "Waaq"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

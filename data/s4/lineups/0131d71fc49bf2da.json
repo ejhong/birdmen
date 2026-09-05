@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  4,
+  8,
+  6,
+  2,
+  10,
+  1,
+  7,
+  5,
+  9
+ ],
+ "most_similar_reason": "Candidate 3 depicts a bearded, human-appearing creator god with multiple conflicting origin and family accounts, who invents civilization, walks on water, disappears across the sea, and is linked to floods and re-creation of mankind\u2014paralleling the target's Quetzalcoatl-like feathered serpent with his many birth myths, calendar/writing invention, underworld journey, and creation of a new human race.",
+ "least_similar_reason": "Candidate 9, the tale of a vengeful crippled smith who kills a king's sons and seduces his daughter before escaping by flight, shares no meaningful motifs\u2014no divine birth accounts, calendar invention, underworld creation myth, or planetary transformation\u2014with the target's cosmogonic feathered-serpent narrative.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Viracocha",
+ "i": 17,
+ "target": "Quetzalcoatl",
+ "planted": "Viracocha",
+ "cands": [
+  "Great Peacemaker",
+  "Cadmus",
+  "Viracocha",
+  "Yellow Emperor",
+  "Wisakedjak",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Agastya",
+  "Prometheus",
+  "Wayland the Smith",
+  "Adapa"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 1
+}

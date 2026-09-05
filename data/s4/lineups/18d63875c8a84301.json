@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  10,
+  8,
+  2,
+  9,
+  5,
+  1,
+  3,
+  4,
+  6
+ ],
+ "most_similar_reason": "Candidate 7 shares the core Osirian pattern most closely: a slain figure's head/remains lodged in a tree that leads to a secret impregnation, a hidden pregnancy, and sons who grow up to avenge their father by defeating the killers in the underworld, mirroring Isis finding Osiris in the tree-pillar and Horus avenging him.",
+ "least_similar_reason": "Candidate 6 is a pure landscape-creation myth about ancestral siblings shaping terrain and founding clans, with no death, dismemberment, resurrection, or avenging-son motifs that define the target story.",
+ "set": "hancock",
+ "pair": "Osiris | Oannes",
+ "i": 115,
+ "target": "Osiris",
+ "planted": "Oannes",
+ "cands": [
+  "Ninigi-no-Mikoto",
+  "Kokopelli",
+  "Mbombo",
+  "Mwari",
+  "Oannes",
+  "Djanggawul",
+  "Maya Hero Twins",
+  "Pachacamac",
+  "Heitsi-eibib",
+  "Bran the Blessed"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 6
+}

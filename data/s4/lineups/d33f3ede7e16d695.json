@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  6,
+  8,
+  5,
+  4,
+  7,
+  3,
+  1,
+  10,
+  2
+ ],
+ "most_similar_reason": "Candidate 9 shares the exact core narrative: a god secretly warns a chosen man of a divinely decreed flood, he builds a great boat and loads it with living things, all humanity perishes, the boat grounds on a mountain, he releases birds (including a raven that does not return) to test the waters, and he then offers a sacrifice after which the gods make a binding pledge/blessing about never repeating such destruction.",
+ "least_similar_reason": "Candidate 2 has no flood, no creator-god warning, no rescue of life, and instead tells a revenge tale of a crippled smith who kills a king's sons, makes cups from their skulls, seduces the daughter and escapes by flight\u2014sharing no motif, role, or episode with the target.",
+ "set": "positive",
+ "pair": "Genesis flood narrative | Gilgamesh flood myth",
+ "i": 237,
+ "target": "Genesis flood narrative",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Baiame",
+  "Wayland the Smith",
+  "Shennong",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Glooscap",
+  "Nanabozho",
+  "Wandjina",
+  "Mbombo",
+  "Gilgamesh flood myth",
+  "Djanggawul"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  9,
+  3,
+  6,
+  1,
+  8,
+  10,
+  5,
+  7,
+  4
+ ],
+ "most_similar_reason": "Candidate 2 matches the target's most distinctive structural details: the figure is one of four sibling deities born of a primordial parental pair, he is a co-creator of the world and of humanity, he has an animal counterpart/alternate form with a second name, and he acts as a trickster who deceives and drives out a rival in a mythic confrontation.",
+ "least_similar_reason": "Candidate 4 is a bare statement that a two-named being is a supreme deity, offering no shared episodes, roles, inventions, or trickster/creation motifs to compare with the target.",
+ "set": "random",
+ "pair": "Nanabozho | Mwari",
+ "i": 574,
+ "target": "Nanabozho",
+ "planted": "Mwari",
+ "cands": [
+  "Triptolemus",
+  "Tezcatlipoca",
+  "Prometheus",
+  "Bumba",
+  "Mbombo",
+  "Dangun",
+  "Mwari",
+  "Shennong",
+  "Qat (deity)",
+  "Palamedes (mythology)"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 9
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  9,
+  10,
+  4,
+  5,
+  7,
+  6,
+  2,
+  1,
+  3
+ ],
+ "most_similar_reason": "Like the target, candidate 8 is essentially an account of how a numinous being is iconographically rendered \u2014 a diffuse, unknowable creative force depicted in a fixed frontal image ringed by radiating flames/light, mouthless and speechless in the sense that it never acts or speaks, appearing in paintings and sacred sites as a guarantee of cosmic order rather than as an actor in a plot.",
+ "least_similar_reason": "Candidate 3 is a long dynastic-heroic adventure of bow-stringing, exile, abduction and alliance-building, sharing none of the target's concerns with rain-bringing spirits, painted images, repainting rites, or landscape creation.",
+ "set": "random",
+ "pair": "Wandjina | Yu the Great",
+ "i": 607,
+ "target": "Wandjina",
+ "planted": "Yu the Great",
+ "cands": [
+  "Yu the Great",
+  "Maya Hero Twins",
+  "Rama",
+  "Kutkh",
+  "Apkallu",
+  "Ziusudra",
+  "Ilmarinen",
+  "Sang Hyang Tunggal",
+  "White Buffalo Calf Woman",
+  "Mbombo"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 9
+}

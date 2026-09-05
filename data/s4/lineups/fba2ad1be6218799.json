@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  10,
+  9,
+  6,
+  5,
+  8,
+  7,
+  2,
+  3,
+  1
+ ],
+ "most_similar_reason": "Candidate 4 shares the same Mesoamerican mythic structure as the target: a culture-founding deity/hero with multiple conflicting birth legends (divine father, cave origin, sorceress mother), a marriage to his own sister producing a successor, and a role as city-founder tied to cardinal-direction/dynastic motifs, closely paralleling Quetzalcoatl's layered birth myths and sibling incest.",
+ "least_similar_reason": "Candidate 1 is a bare, generic statement about a supreme deity with two names, sharing no specific motifs, events, or relationships with the richly detailed Quetzalcoatl narrative.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Osiris",
+ "i": 85,
+ "target": "Quetzalcoatl",
+ "planted": "Osiris",
+ "cands": [
+  "Bumba",
+  "Hiawatha",
+  "Mwari",
+  "Ayar Manco",
+  "Agastya",
+  "Kokopelli",
+  "Bran the Blessed",
+  "Kvasir",
+  "Prometheus",
+  "Osiris"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 2
+}

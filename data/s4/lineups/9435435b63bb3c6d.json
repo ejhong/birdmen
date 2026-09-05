@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  9,
+  6,
+  8,
+  10,
+  7,
+  5,
+  4,
+  3,
+  1
+ ],
+ "most_similar_reason": "Candidate 2 shares the core motif of a divine, bearded culture-bringer who teaches humanity the arts of civilization, founds a great city, is linked to a devastating flood, and later withdraws across the sea\u2014closely echoing the sages' civilizing mission, city-founding, and flood context in the target myth.",
+ "least_similar_reason": "Candidate 1 is a revenge-driven craftsman narrative about captivity, mutilation, and gruesome retribution with no reference to primeval sages, flood-era kings, tablets of destiny, or civilization-teaching, making it thematically and structurally the most distant from the target.",
+ "set": "hancock",
+ "pair": "Oannes | Viracocha",
+ "i": 37,
+ "target": "Oannes",
+ "planted": "Viracocha",
+ "cands": [
+  "Wayland the Smith",
+  "Viracocha",
+  "Kutkh",
+  "Amirani",
+  "Gesar",
+  "Anansi",
+  "Tezcatlipoca",
+  "Oduduwa",
+  "Glooscap",
+  "Ilmarinen"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 1
+}

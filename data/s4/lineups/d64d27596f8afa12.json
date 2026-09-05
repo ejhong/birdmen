@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  8,
+  1,
+  7,
+  9,
+  5,
+  10,
+  2,
+  4,
+  6
+ ],
+ "most_similar_reason": "Candidate 3 tells essentially the same story as the target: an antediluvian patriarch descended from the first man, renowned for piety and scribal invention, who was taken up to a heavenly realm without ordinary death and there given a high station, plus the same associated motifs of preaching repentance, teaching secrets, and connections to a later prophet and a coming flood.",
+ "least_similar_reason": "Candidate 6 shares nothing with the target beyond being a myth: it centers on a shapeshifting trickster who commits incest, dies and revives repeatedly, and tricks a monster into a pit, with no prophet, no teaching of arts, no migration, and no ascent to heaven.",
+ "set": "related",
+ "pair": "Idris (prophet) | Enoch (ancestor of Noah)",
+ "i": 540,
+ "target": "Idris (prophet)",
+ "planted": "Enoch (ancestor of Noah)",
+ "cands": [
+  "Mama Ocllo",
+  "Agastya",
+  "Enoch (ancestor of Noah)",
+  "Wayland the Smith",
+  "Glooscap",
+  "Heitsi-eibib",
+  "Shennong",
+  "Apkallu",
+  "Baiame",
+  "T\u0101ne"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

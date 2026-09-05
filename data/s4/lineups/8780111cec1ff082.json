@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  4,
+  10,
+  5,
+  1,
+  8,
+  7,
+  2,
+  3,
+  6
+ ],
+ "most_similar_reason": "Candidate 9 (a moon-deity scribe) shares the closest cluster of distinctive motifs with the target: invention of writing, association with a calendar (the five extra days won by gambling), a role in the underworld weighing/judgment of souls, and status as wise counselor/star-linked deity, mirroring Quetzalcoatl's invention of books/calendar, underworld journey, and star apotheosis.",
+ "least_similar_reason": "Candidate 6 describes an abstract theological symbol with no narrative actions, births, journeys, or gifts to humanity, making it the least comparable to the richly plotted mythic biography of the target deity.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Thoth",
+ "i": 173,
+ "target": "Quetzalcoatl",
+ "planted": "Thoth",
+ "cands": [
+  "Palamedes (mythology)",
+  "Hiawatha",
+  "Abassi",
+  "Tagaro",
+  "Glooscap",
+  "Sang Hyang Tunggal",
+  "Ogun",
+  "Cangjie",
+  "Thoth",
+  "Sky Woman"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

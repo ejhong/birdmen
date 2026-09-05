@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  3,
+  4,
+  9,
+  7,
+  6,
+  8,
+  2,
+  10,
+  1
+ ],
+ "most_similar_reason": "Candidate 5 is essentially the same work: a wise counselor instructing a ruler's household through nested animal-fable collections, with a scheming jackal at a lion king's court breaking the lion's friendship with a large animal, the four friends (crow, mouse, turtle, deer), and the crow-versus-owl war.",
+ "least_similar_reason": "Candidate 1 is a descriptive account of a term for a diffuse sacred power with no characters, plot, animals, or narrative events at all.",
+ "set": "positive",
+ "pair": "Kalila wa-Dimna | Panchatantra",
+ "i": 358,
+ "target": "Kalila wa-Dimna",
+ "planted": "Panchatantra",
+ "cands": [
+  "Wakan Tanka",
+  "Mwari",
+  "Pachacamac",
+  "Apkallu",
+  "Panchatantra",
+  "Tangaroa",
+  "Aeneas",
+  "Kilibob and Manup",
+  "R\u00edgs\u00feula",
+  "Wisakedjak"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 1
+}

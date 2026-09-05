@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  6,
+  9,
+  10,
+  4,
+  8,
+  7,
+  3,
+  5,
+  2
+ ],
+ "most_similar_reason": "Candidate 1 recounts essentially the same trickster demigod cycle: a youngest brother with a magic fish-hook who deceives his brothers on a fishing trip and hauls up land/islands (spoiled by the brothers' disobedience), plus other exploits performed for his mother and people.",
+ "least_similar_reason": "Candidate 2 is not a narrative at all but a lexical-historical note on a divine name's spread and decline, sharing none of the target's hero, episodes, or motifs.",
+ "set": "related",
+ "pair": "M\u0101ui (M\u0101ori mythology) | M\u0101ui (Hawaiian mythology)",
+ "i": 520,
+ "target": "M\u0101ui (M\u0101ori mythology)",
+ "planted": "M\u0101ui (Hawaiian mythology)",
+ "cands": [
+  "M\u0101ui (Hawaiian mythology)",
+  "Waaq",
+  "Wandjina",
+  "Cadmus",
+  "Wakan Tanka",
+  "Shennong",
+  "Yu the Great",
+  "Apkallu",
+  "Oduduwa",
+  "Ilmarinen"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

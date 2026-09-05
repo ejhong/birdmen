@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  7,
+  5,
+  3,
+  10,
+  1,
+  8,
+  4,
+  2,
+  6
+ ],
+ "most_similar_reason": "Candidate 9 directly parallels the target's Mesopotamian mythos, featuring the seven sage-attendants (apkallu) of the wisdom god, a sage known by two names who teaches civilization, founding of cities, tablets of destiny, and banishment/retrieval from primeval waters after a flood, matching the target's servants-as-sages and subterranean-water motifs very closely.",
+ "least_similar_reason": "Candidate 6 concerns collective, faceless rain-spirits tied to rock art and landscape creation with no individualized wisdom/craft deity, wife, attendant, clay-creation of humans, flood-warning, or trickster-outwitting motifs, making it the most structurally and thematically distant from the target.",
+ "set": "related",
+ "pair": "Enki | Oannes",
+ "i": 489,
+ "target": "Enki",
+ "planted": "Oannes",
+ "cands": [
+  "Huitzilopochtli",
+  "Gesar",
+  "Ilmarinen",
+  "Yellow Emperor",
+  "\u014ckuninushi",
+  "Wandjina",
+  "Kvasir",
+  "Oduduwa",
+  "Oannes",
+  "T\u0101ne"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

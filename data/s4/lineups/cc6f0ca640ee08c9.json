@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  2,
+  7,
+  4,
+  6,
+  8,
+  3,
+  10,
+  9,
+  1
+ ],
+ "most_similar_reason": "Candidate 5, like the target, is less a plotted narrative than a description of a deity bound to a specific sacred landscape\u2014worshipped at shrines in a range of hills and linked to an ancient stone city\u2014so that belief, place, and physical remains are fused in the same way the target ties a deity to a mountain, a salt flat, a burial cave, and a ruined village.",
+ "least_similar_reason": "Candidate 1 is a purely human tale of craftsmanship, mutilation, and revenge with no deified landform, no etiology of a natural feature, and no burial or ruin motifs tied to a named place.",
+ "set": "related",
+ "pair": "Tunupa | Viracocha",
+ "i": 454,
+ "target": "Tunupa",
+ "planted": "Viracocha",
+ "cands": [
+  "Wayland the Smith",
+  "Heitsi-eibib",
+  "Aeneas",
+  "Itzamna",
+  "Mwari",
+  "Oduduwa",
+  "Amirani",
+  "Viracocha",
+  "Corn Mother",
+  "R\u00edgs\u00feula"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 6
+}

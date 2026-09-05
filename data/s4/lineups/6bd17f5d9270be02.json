@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  7,
+  8,
+  10,
+  6,
+  5,
+  9,
+  2,
+  1,
+  4
+ ],
+ "most_similar_reason": "Candidate 3 shares the closest cluster of distinctive episodes: a culture-hero god who gives grain and other crops to mankind and teaches arts, journeys to the underworld, is entangled in a sibling/incest relationship, and is enclosed and sealed in a chest (a coffer-death) before being transfigured, echoing the target's box-murder, teaching of cultivation, and lordship over the dead.",
+ "least_similar_reason": "Candidate 4 is not a narrative at all but a static iconographic description of a flute-playing fertility trickster's attributes and associations, with no murder, dismemberment, sibling rivalry, resurrection, or succession sequence to match the target.",
+ "set": "hancock",
+ "pair": "Osiris | Quetzalcoatl",
+ "i": 96,
+ "target": "Osiris",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Qat (deity)",
+  "Gesar",
+  "Quetzalcoatl",
+  "Kokopelli",
+  "Amirani",
+  "Dangun",
+  "Ayar Manco",
+  "Kvasir",
+  "Corn Mother",
+  "Glooscap"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

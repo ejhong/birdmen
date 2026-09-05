@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  7,
+  4,
+  8,
+  6,
+  2,
+  3,
+  1,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 5 most closely parallels the target by describing a personified natural deity linked to sacred hills/mountains, worshipped through mediums, and associated with land, fertility, and geographic features, echoing the target's mountain deity explaining a natural landmark.",
+ "least_similar_reason": "Candidate 10 is least similar, focusing on a wandering deity fathering sons of different social classes through mortal unions, with no connection to a mountain, a salt flat, or any sacred cave or ancestral village.",
+ "set": "related",
+ "pair": "Tunupa | Viracocha",
+ "i": 454,
+ "target": "Tunupa",
+ "planted": "Viracocha",
+ "cands": [
+  "Wayland the Smith",
+  "Heitsi-eibib",
+  "Aeneas",
+  "Itzamna",
+  "Mwari",
+  "Oduduwa",
+  "Amirani",
+  "Viracocha",
+  "Corn Mother",
+  "R\u00edgs\u00feula"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 4
+}

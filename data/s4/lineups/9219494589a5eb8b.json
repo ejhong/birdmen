@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  6,
+  2,
+  7,
+  9,
+  8,
+  3,
+  1,
+  5,
+  10
+ ],
+ "most_similar_reason": "Candidate 4 recounts the same Mesopotamian flood tradition\u2014gods swearing a flood, a wise god warning the flood hero through a reed wall, building a sealed boat, loading animals, a storm lasting days, releasing birds, a post-flood sacrifice, and divine anger followed by reconciliation\u2014matching the target's flood narrative almost point for point.",
+ "least_similar_reason": "Candidate 10 is a set of trickster-spider tales about stealing stories, hoarding wisdom, and outwitting spirits, sharing no structural or motif overlap with the target's divine labor, human creation, plagues, or flood narrative.",
+ "set": "positive",
+ "pair": "Atra-Hasis | Gilgamesh flood myth",
+ "i": 246,
+ "target": "Atra-Hasis",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Cadmus",
+  "Huitzilopochtli",
+  "Ninigi-no-Mikoto",
+  "Gilgamesh flood myth",
+  "Bran the Blessed",
+  "Dangun",
+  "Mama Ocllo",
+  "Baiame",
+  "Ayar Manco",
+  "Anansi"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

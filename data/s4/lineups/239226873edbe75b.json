@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  2,
+  10,
+  9,
+  8,
+  3,
+  1,
+  6,
+  7,
+  4
+ ],
+ "most_similar_reason": "Candidate 5 shares the deepest and most specific Mesoamerican mythic framework with the target\u2014an actual feathered-serpent deity linked to the calendar and day-names, twin star aspects, creation of mankind, and a dramatic self-immolation/ash motif, closely paralleling the target's serpent-named kingdom, twenty-day calendar name, jaguar-deity title, and ritual-object burning.",
+ "least_similar_reason": "Candidate 4 is an abstract theological description of an omnipotent, ineffable sky god approached only through mediums, with no narrative of building, migration, kingdom-founding, or ritual objects, making it the least similar to the target's concrete heroic and dynastic story.",
+ "set": "hancock",
+ "pair": "Votan | Quetzalcoatl",
+ "i": 145,
+ "target": "Votan",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Rama",
+  "Obatala",
+  "Bhagiratha",
+  "Mwari",
+  "Quetzalcoatl",
+  "Corn Mother",
+  "Waaq",
+  "Wandjina",
+  "Makunaima",
+  "Baiame"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

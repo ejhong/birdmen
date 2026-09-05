@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  2,
+  8,
+  7,
+  1,
+  9,
+  3,
+  6,
+  10,
+  5
+ ],
+ "most_similar_reason": "Candidate 4 recounts the life of a wandering religious teacher born to royal parents who renounces worldly life, attains awakening, and founds a monastic order\u2014paralleling the target's core religious-founder framework and the Buddhist background underlying the persecution/conversion narrative, even though it omits the persecution and isolation subplot.",
+ "least_similar_reason": "Candidate 5 is not a narrative at all but a linguistic and etymological discussion of a divine name across cultures, sharing no characters, plot, or events with the target's story of persecution, conversion, and abdication.",
+ "set": "positive",
+ "pair": "Barlaam and Josaphat | Gautama Buddha",
+ "i": 332,
+ "target": "Barlaam and Josaphat",
+ "planted": "Gautama Buddha",
+ "cands": [
+  "Ogun",
+  "Gesar",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Gautama Buddha",
+  "Waaq",
+  "Aeneas",
+  "Ayar Manco",
+  "Mama Ocllo",
+  "Amirani",
+  "R\u00edgs\u00feula"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

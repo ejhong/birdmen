@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  2,
+  5,
+  6,
+  8,
+  9,
+  3,
+  4,
+  10,
+  7
+ ],
+ "most_similar_reason": "Candidate 1 shares the same overarching narrative structure as the target\u2014exile by a stepmother, winning a wife through an archery feat, a demoness mutilated by the brother, a golden deer lure, abduction of the wife by a demon king, alliance with monkey-people, and a climactic battle\u2014making it essentially a variant of the same epic.",
+ "least_similar_reason": "Candidate 7 describes ancestral rain spirits who paint themselves into rock art and control weather, sharing no plot elements\u2014no exile, wife, abduction, or battle\u2014with the target's heroic narrative.",
+ "set": "positive",
+ "pair": "Reamker | Ramayana",
+ "i": 299,
+ "target": "Reamker",
+ "planted": "Ramayana",
+ "cands": [
+  "Ramayana",
+  "Amirani",
+  "Nanabozho",
+  "Baiame",
+  "Triptolemus",
+  "Adapa",
+  "Wandjina",
+  "T\u0101ne",
+  "Tagaro",
+  "Ayar Manco"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

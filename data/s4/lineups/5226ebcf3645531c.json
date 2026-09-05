@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  4,
+  7,
+  6,
+  3,
+  8,
+  2,
+  5,
+  10,
+  1
+ ],
+ "most_similar_reason": "Candidate 9 tells essentially the same myth from the other spouse's perspective: the murdered brother-husband king, the dismembering usurper brother, the widow-goddess and her sister gathering the scattered pieces, the magical revival and posthumous conception of the avenging son, and the dead king's rule in the underworld.",
+ "least_similar_reason": "Candidate 1 is a bare ancestor/creator sketch with no family conflict, death and revival, birth of an avenger, or magical protection episodes, sharing only the vaguest notion of a divine originator.",
+ "set": "related",
+ "pair": "Isis | Osiris",
+ "i": 470,
+ "target": "Isis",
+ "planted": "Osiris",
+ "cands": [
+  "Unkulunkulu",
+  "Hiawatha",
+  "Wayland the Smith",
+  "Tagaro",
+  "Bachu\u00e9",
+  "Obatala",
+  "T\u0101ne",
+  "Bhagiratha",
+  "Osiris",
+  "Baiame"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  9,
+  7,
+  4,
+  1,
+  3,
+  5,
+  2,
+  6,
+  8
+ ],
+ "most_similar_reason": "Candidate 10 is a near-identical flood narrative: a god secretly warns a righteous man to build a great boat loaded with living creatures, the deluge destroys all humankind, the boat grounds on a mountain, birds (including one that does not return) are released to test the waters, and the survivor then offers a sacrifice that leads to divine blessing and a promise about future punishment.",
+ "least_similar_reason": "Candidate 8 shares nothing with the target's flood-and-covenant plot, being instead a musician-hero's underworld quest for his dead wife and his dismemberment.",
+ "set": "positive",
+ "pair": "Genesis flood narrative | Gilgamesh flood myth",
+ "i": 232,
+ "target": "Genesis flood narrative",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Itzamna",
+  "Anansi",
+  "Mwari",
+  "Mbombo",
+  "Djanggawul",
+  "Bran the Blessed",
+  "Kilibob and Manup",
+  "Orpheus",
+  "Prometheus",
+  "Gilgamesh flood myth"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

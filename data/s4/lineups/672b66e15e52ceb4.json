@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  1,
+  7,
+  9,
+  2,
+  6,
+  5,
+  3,
+  10,
+  8
+ ],
+ "most_similar_reason": "Candidate 4 shares the same mythic world and cast as the target: a wisdom god of the subterranean freshwater deep whose servants include a group of sages, involved in the creation of humanity from clay, the flood and the warning through a reed wall, and clever interventions among the gods\u2014matching the target's apkallu-and-water-god complex of civilizing wisdom, flood, and divine problem-solving.",
+ "least_similar_reason": "Candidate 8 is least similar because it is a bare account of a vaguely remembered ancestor-turned-creator who makes people from reeds and then forgets and abandons his creation, with no sages, no civilizing arts, no flood, no kings, no cities, and no protective images.",
+ "set": "related",
+ "pair": "Oannes | Enki",
+ "i": 494,
+ "target": "Oannes",
+ "planted": "Enki",
+ "cands": [
+  "Yellow Emperor",
+  "Huitzilopochtli",
+  "Coyote (mythology)",
+  "Enki",
+  "Wandjina",
+  "Aeneas",
+  "Glooscap",
+  "Unkulunkulu",
+  "Mbombo",
+  "Anansi"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  7,
+  3,
+  9,
+  8,
+  4,
+  6,
+  1,
+  2,
+  10
+ ],
+ "most_similar_reason": "Candidate 5 is closest because, like the target, it centers on a deity bound to specific terrain\u2014credited with creating mountains, lakes and caves, with a particular mountain whose flattened top and a nearby sacred cave containing images serve as the visible landmarks explaining the legend.",
+ "least_similar_reason": "Candidate 10 is least similar because it is a long dynastic hero-epic of war, exile, romance and city-founding with no personified mountain, no etiology of a landscape feature, and no cave burials or ancient settlement.",
+ "set": "related",
+ "pair": "Tunupa | Viracocha",
+ "i": 450,
+ "target": "Tunupa",
+ "planted": "Viracocha",
+ "cands": [
+  "Anansi",
+  "Rama",
+  "Ilmarinen",
+  "Berossus",
+  "Baiame",
+  "Great Peacemaker",
+  "Viracocha",
+  "Maya Hero Twins",
+  "\u014ckuninushi",
+  "Aeneas"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 2
+}

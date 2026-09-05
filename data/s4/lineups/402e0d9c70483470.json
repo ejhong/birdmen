@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  2,
+  8,
+  9,
+  6,
+  3,
+  1,
+  4,
+  7,
+  5
+ ],
+ "most_similar_reason": "Candidate 10 shares the target's core narrative almost point for point: a righteous man commanded by a deity to build a great vessel to survive a world-destroying flood, loading his family and animals, the destruction of all others, the landing after the waters recede, and the sacrifice/offering to the deity afterward that wins divine favor and blessing.",
+ "least_similar_reason": "Candidate 5 is merely a bare statement that a creator god is known by several names in a region, containing no flood, vessel, animals, birds, sacrifice, or quest for immortality\u2014no narrative content at all to correspond with the target.",
+ "set": "positive",
+ "pair": "Utnapishtim | Noah",
+ "i": 265,
+ "target": "Utnapishtim",
+ "planted": "Noah",
+ "cands": [
+  "Bran the Blessed",
+  "Wisakedjak",
+  "Tangaroa",
+  "Kvasir",
+  "Makunaima",
+  "Mama Ocllo",
+  "Unkulunkulu",
+  "Kilibob and Manup",
+  "Ayar Manco",
+  "Noah"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  8,
+  9,
+  3,
+  5,
+  1,
+  10,
+  6,
+  7,
+  4
+ ],
+ "most_similar_reason": "Candidate 2 shares the target's core pattern of a small band of sibling ancestors migrating from a distant point of origin carrying sacred emblems, displacing foreign people from the land, and founding the settlements and lineages whose descendants are named as clans.",
+ "least_similar_reason": "Candidate 4 is a single bare statement that a two-named being was a people's supreme deity, containing no migration, founding, sibling relations, or any narrative events to compare with the target.",
+ "set": "random",
+ "pair": "Ayar Manco | Cangjie",
+ "i": 598,
+ "target": "Ayar Manco",
+ "planted": "Cangjie",
+ "cands": [
+  "Cangjie",
+  "Djanggawul",
+  "Orpheus",
+  "Bumba",
+  "Itzamna",
+  "Tangaroa",
+  "Tagaro",
+  "Apkallu",
+  "Triptolemus",
+  "Wandjina"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 6
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  3,
+  4,
+  5,
+  6,
+  2,
+  9,
+  8,
+  1,
+  10
+ ],
+ "most_similar_reason": "Candidate 7 shares the core Polynesian-style Maui mythos most directly: a magic fishhook used to fish up an island with brothers, sibling deception, fire theft, and shapeshifting, closely paralleling the target's fishhook, island-fishing, and trickster motifs.",
+ "least_similar_reason": "Candidate 10 describes an abstract supreme creator deity approached through spirit mediums and oracles with no narrative events, heroic deeds, or family/trickster episodes corresponding to the target's concrete mythic actions.",
+ "set": "related",
+ "pair": "M\u0101ui (Hawaiian mythology) | M\u0101ui (M\u0101ori mythology)",
+ "i": 535,
+ "target": "M\u0101ui (Hawaiian mythology)",
+ "planted": "M\u0101ui (M\u0101ori mythology)",
+ "cands": [
+  "Berossus",
+  "Rama",
+  "Sosruko",
+  "Prometheus",
+  "Maya Hero Twins",
+  "Dangun",
+  "M\u0101ui (M\u0101ori mythology)",
+  "Ilmarinen",
+  "Great Peacemaker",
+  "Mwari"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

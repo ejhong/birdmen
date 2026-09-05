@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  2,
+  3,
+  5,
+  1,
+  10,
+  9,
+  6,
+  8,
+  7
+ ],
+ "most_similar_reason": "Candidate 4 shares the fish-avatar of a preserver god, the sequence of fourteen cosmic rulers, and the explicit flood story with the fish towing the boat and saving scriptures and sages, matching the target's core narrative and its 'later versions' expansions almost exactly.",
+ "least_similar_reason": "Candidate 7 involves a shapeshifting trickster-hero and a monster who kills people with a rebounding stone challenge, sharing no flood, fish-god, or growth-and-release motifs with the target.",
+ "set": "positive",
+ "pair": "Matsya | Manu (Hinduism)",
+ "i": 374,
+ "target": "Matsya",
+ "planted": "Manu (Hinduism)",
+ "cands": [
+  "Ilmarinen",
+  "Yu the Great",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Manu (Hinduism)",
+  "Kvasir",
+  "Coyote (mythology)",
+  "Heitsi-eibib",
+  "Bran the Blessed",
+  "Sky Woman",
+  "Tezcatlipoca"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

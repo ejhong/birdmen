@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  4,
+  8,
+  6,
+  3,
+  9,
+  5,
+  7,
+  10,
+  1
+ ],
+ "most_similar_reason": "Candidate 2 shares the same Mesoamerican mythological framework as the target's Quetzalcoatl/Tezcatlipoca-derived narrative, including multiple divine siblings tied to creation, successive world-ages ended by transformation or flood-like destruction, and a primordial earth-monster creation myth mirroring the target's cosmogonic structure.",
+ "least_similar_reason": "Candidate 1 concerns European agricultural folklore about a grain spirit and harvest rituals, sharing no structural or thematic overlap with the target's bearded creator deity, flood, or civilizing-teacher motifs.",
+ "set": "related",
+ "pair": "Viracocha | Tunupa",
+ "i": 445,
+ "target": "Viracocha",
+ "planted": "Tunupa",
+ "cands": [
+  "Corn Mother",
+  "Tezcatlipoca",
+  "Prometheus",
+  "Apkallu",
+  "Coyote (mythology)",
+  "Cadmus",
+  "Amirani",
+  "Yu the Great",
+  "Tangaroa",
+  "Tunupa"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 9
+}

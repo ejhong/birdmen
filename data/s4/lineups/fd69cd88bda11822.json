@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  9,
+  8,
+  4,
+  10,
+  5,
+  7,
+  6,
+  1,
+  3
+ ],
+ "most_similar_reason": "Candidate 2 draws on the same Mesoamerican mythic complex as the target, featuring a hero born of four siblings from a cave of origin, a city divided into four districts, sun/moon deity parentage, sibling marriage, and a golden staff, closely paralleling the target's Aztec-style quartet of creator deities, primordial duality, and city-founding motifs.",
+ "least_similar_reason": "Candidate 3 is a war epic centered on a clever prince's exploits and death during a siege, with no creation myth, no primordial couple, no animal transformation, no successive world-ages, and no earth-monster cosmogony, making it thematically and structurally the most distant from the target's cosmological narrative.",
+ "set": "random",
+ "pair": "Tezcatlipoca | Ayar Manco",
+ "i": 576,
+ "target": "Tezcatlipoca",
+ "planted": "Ayar Manco",
+ "cands": [
+  "Kilibob and Manup",
+  "Ayar Manco",
+  "Palamedes (mythology)",
+  "Ninigi-no-Mikoto",
+  "Baiame",
+  "Anansi",
+  "Bhagiratha",
+  "T\u0101ne",
+  "Yu the Great",
+  "Nanabozho"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 1
+}

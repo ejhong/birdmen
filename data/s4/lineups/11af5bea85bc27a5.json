@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  8,
+  10,
+  7,
+  2,
+  3,
+  5,
+  6,
+  4,
+  9
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's core sequence almost point for point: a divine decision to destroy wicked humanity by deluge, a forewarned hero who builds a wooden vessel and provisions it, survival with his wife/family, landing after the waters recede, thanksgiving offering to the god, and the repeopling of the earth whose descendants become named peoples occupying lands.",
+ "least_similar_reason": "Candidate 9 is not a narrative at all but a description of an abstract iconographic symbol of transcendence, sharing no flood, hero, spouse, repopulation, or founding events with the target.",
+ "set": "positive",
+ "pair": "Deucalion | Noah",
+ "i": 388,
+ "target": "Deucalion",
+ "planted": "Noah",
+ "cands": [
+  "Noah",
+  "Pachacamac",
+  "Bhagiratha",
+  "Bran the Blessed",
+  "Romulus and Remus",
+  "Maya Hero Twins",
+  "T\u0101ne",
+  "Yu the Great",
+  "Sang Hyang Tunggal",
+  "Qat (deity)"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

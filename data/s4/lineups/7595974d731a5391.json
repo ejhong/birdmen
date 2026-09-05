@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  9,
+  3,
+  1,
+  2,
+  5,
+  8,
+  10,
+  7,
+  6
+ ],
+ "most_similar_reason": "Candidate 4 is essentially the same Osiris myth core\u2014siblings who are also spouses, murder by a jealous brother, dismemberment, a wife's magical search and reassembly, revival to conceive a son, and the son's eventual vengeance\u2014matching nearly every distinctive motif of the target.",
+ "least_similar_reason": "Candidate 6 is not a narrative at all but a linguistic/etymological discussion of a divine name across languages, sharing no plot, characters, or motifs with the target myth.",
+ "set": "related",
+ "pair": "Osiris | Isis",
+ "i": 466,
+ "target": "Osiris",
+ "planted": "Isis",
+ "cands": [
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Agastya",
+  "Bhagiratha",
+  "Isis",
+  "White Buffalo Calf Woman",
+  "Waaq",
+  "Mbombo",
+  "Wandjina",
+  "Aeneas",
+  "Baiame"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

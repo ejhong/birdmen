@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  3,
+  2,
+  7,
+  1,
+  9,
+  6,
+  4,
+  5,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 matches the target's core pattern most closely: divine/semi-divine beings explicitly sent by the gods to teach ignorant humanity the arts of civilization, who then found a great city and establish the line of primeval rulers descended from them.",
+ "least_similar_reason": "Candidate 10 concerns a creator god's personal duel with personified Death and his rebirth as another god's soul, sharing none of the target's culture-bringing sages, antediluvian kings, flood, city-founding, or protective figurines.",
+ "set": "hancock",
+ "pair": "Oannes | Osiris",
+ "i": 108,
+ "target": "Oannes",
+ "planted": "Osiris",
+ "cands": [
+  "Osiris",
+  "White Buffalo Calf Woman",
+  "Prometheus",
+  "Coyote (mythology)",
+  "Gesar",
+  "Sky Woman",
+  "Agastya",
+  "Mama Ocllo",
+  "Djanggawul",
+  "Nyame"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 5
+}

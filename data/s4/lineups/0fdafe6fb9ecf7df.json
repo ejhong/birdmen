@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  8,
+  3,
+  2,
+  5,
+  9,
+  4,
+  6,
+  1,
+  10
+ ],
+ "most_similar_reason": "Candidate 7 reproduces the same nested-fable framework\u2014an advisor telling a lion king's court tales of a scheming jackal-like canine breaking trust, four weak animals (rodent, bird, reptile, horned animal) cooperating to escape danger, and a crow-owl/hawk war decided by loyal counsel\u2014mirroring the Panchatantra's exact structure, characters, and moral lessons almost point for point.",
+ "least_similar_reason": "Candidate 10 is a bare creation myth about a reed-born creator god who forgets and abandons his creations, containing no animal fables, no teaching of princes, and no narrative overlap with the target's content or structure.",
+ "set": "positive",
+ "pair": "Panchatantra | Kalila wa-Dimna",
+ "i": 349,
+ "target": "Panchatantra",
+ "planted": "Kalila wa-Dimna",
+ "cands": [
+  "Kilibob and Manup",
+  "Kokopelli",
+  "\u014ckuninushi",
+  "Ogun",
+  "Itzamna",
+  "Wayland the Smith",
+  "Kalila wa-Dimna",
+  "Mama Ocllo",
+  "Tangaroa",
+  "Unkulunkulu"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

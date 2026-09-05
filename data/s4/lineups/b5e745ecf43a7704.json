@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  7,
+  5,
+  10,
+  3,
+  1,
+  9,
+  8,
+  4,
+  2
+ ],
+ "most_similar_reason": "Candidate 6 comes closest because it is centrally an account of a god's identity\u2014his names, forms, and standing within a pantheon recognized by a people\u2014rather than a hero's biography, matching the target's focus on simply identifying a divine figure.",
+ "least_similar_reason": "Candidate 2 is least similar because it is an elaborate multi-episode hero epic of seduction, war, flight, wandering, romance, an underworld descent, and city-founding, with none of the target's bare identification of a locally venerated spirit.",
+ "set": "random",
+ "pair": "Abassi | Ziusudra",
+ "i": 602,
+ "target": "Abassi",
+ "planted": "Ziusudra",
+ "cands": [
+  "Prometheus",
+  "Aeneas",
+  "Ayar Manco",
+  "Romulus and Remus",
+  "Kilibob and Manup",
+  "Tezcatlipoca",
+  "Djanggawul",
+  "Yu the Great",
+  "Ziusudra",
+  "Kvasir"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 7
+}

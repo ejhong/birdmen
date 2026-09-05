@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  5,
+  7,
+  6,
+  8,
+  10,
+  2,
+  3,
+  4,
+  1
+ ],
+ "most_similar_reason": "Candidate 9 most closely echoes the target's syncretic bearded-creator narrative: a civilizing hero who appears in towns, retreats to a cave where chiefs seek his wisdom, and whose arrival is commemorated with a sun temple and festivals, paralleling the target's disguised teacher who founds civilization and is remembered in cult and prophecy.",
+ "least_similar_reason": "Candidate 1 is a Chinese dynastic culture-hero credited with calendars, writing, and dragon ancestry, sharing only the generic 'culture hero' framing with none of the target's specific flood, stone-creation, giant, or water-walking motifs.",
+ "set": "hancock",
+ "pair": "Viracocha | Bochica",
+ "i": 200,
+ "target": "Viracocha",
+ "planted": "Bochica",
+ "cands": [
+  "Yellow Emperor",
+  "Heitsi-eibib",
+  "Amirani",
+  "Wayland the Smith",
+  "Tezcatlipoca",
+  "Hiawatha",
+  "Oduduwa",
+  "Agastya",
+  "Bochica",
+  "Kutkh"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

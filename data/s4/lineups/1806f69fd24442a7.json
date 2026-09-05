@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  9,
+  3,
+  6,
+  2,
+  4,
+  5,
+  8,
+  7,
+  1
+ ],
+ "most_similar_reason": "Candidate 10 matches the target most closely because divine beings are deliberately sent by the gods to civilize a needy humanity, teaching crafts and arts, founding a great city (with a temple at its center) and standing at the head of a line of primeval kings, exactly the culture-bringer-plus-founding-king pattern of the seven sages.",
+ "least_similar_reason": "Candidate 1 is least similar because it is a purely martial hero biography of monster-slaying, resurrection and chained punishment, with no civilizing sages, no teaching of arts, no flood, no founded cities, and no fish- or bird-hybrid wisdom figures.",
+ "set": "hancock",
+ "pair": "Oannes | Quetzalcoatl",
+ "i": 72,
+ "target": "Oannes",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Amirani",
+  "Coyote (mythology)",
+  "Ninigi-no-Mikoto",
+  "Mbombo",
+  "Tagaro",
+  "Pachacamac",
+  "Corn Mother",
+  "Anansi",
+  "Quetzalcoatl",
+  "Mama Ocllo"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 2
+}

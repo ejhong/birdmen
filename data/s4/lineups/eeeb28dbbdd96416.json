@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  8,
+  1,
+  7,
+  9,
+  4,
+  6,
+  3,
+  2,
+  5
+ ],
+ "most_similar_reason": "Candidate 10 is essentially the same core myth\u2014an earth/sky-descended, brother-husband fertility god killed and dismembered by a jealous brother, reassembled and revived by his sister-wife (aided by another goddess) to conceive a son who avenges him and becomes king, matching almost every distinctive motif in the target.",
+ "least_similar_reason": "Candidate 5 describes a folk harvest custom about a grain spirit and straw figures with no divine protagonists, family relationships, death, resurrection, or any of the specific narrative events found in the target.",
+ "set": "related",
+ "pair": "Isis | Osiris",
+ "i": 472,
+ "target": "Isis",
+ "planted": "Osiris",
+ "cands": [
+  "\u014ckuninushi",
+  "Agastya",
+  "R\u00edgs\u00feula",
+  "Qat (deity)",
+  "Corn Mother",
+  "Shennong",
+  "Nyame",
+  "Ogun",
+  "Ziusudra",
+  "Osiris"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  3,
+  5,
+  8,
+  10,
+  2,
+  6,
+  9,
+  4,
+  1
+ ],
+ "most_similar_reason": "Candidate 7 recounts the same myth complex almost episode for episode: the eldest child of earth and sky deities who is brother-husband to the goddess, murdered and dismembered by a jealous brother, whose scattered pieces the goddess and her sister gather and reassemble, reviving him by magic long enough to conceive the son who later avenges him, after which he rules the underworld.",
+ "least_similar_reason": "Candidate 1 is not a narrative about divine figures at all but a description of agrarian harvest customs involving a straw figure made from the last sheaf, sharing no characters, events, or motifs with the target.",
+ "set": "related",
+ "pair": "Isis | Osiris",
+ "i": 475,
+ "target": "Isis",
+ "planted": "Osiris",
+ "cands": [
+  "Corn Mother",
+  "Heitsi-eibib",
+  "Sky Woman",
+  "Cangjie",
+  "Obatala",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Osiris",
+  "T\u0101ne",
+  "Itzamna",
+  "Tagaro"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

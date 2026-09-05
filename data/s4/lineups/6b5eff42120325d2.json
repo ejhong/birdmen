@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  1,
+  8,
+  6,
+  9,
+  5,
+  2,
+  10,
+  7,
+  3
+ ],
+ "most_similar_reason": "Candidate 4 is explicitly the Panchatantra/Kalila-wa-Dimna frame tale, matching the target's structure of a sage teaching princes through nested animal fables, including the jackal-lion court intrigue, the four cooperating weak animals, and the crow-owl war, all paralleling the target's canine schemer, friendship quartet, and bird-of-prey war motifs almost point for point.",
+ "least_similar_reason": "Candidate 3 is a purely abstract theological description of a symbolic, non-narrative divine principle with no characters, plot, or animal fable content, making it the least similar to the target's richly plotted nested animal-fable narrative.",
+ "set": "positive",
+ "pair": "Kalila wa-Dimna | Panchatantra",
+ "i": 351,
+ "target": "Kalila wa-Dimna",
+ "planted": "Panchatantra",
+ "cands": [
+  "Maya Hero Twins",
+  "Hiawatha",
+  "Sang Hyang Tunggal",
+  "Panchatantra",
+  "Kvasir",
+  "T\u0101ne",
+  "Bachu\u00e9",
+  "Sky Woman",
+  "Amirani",
+  "Gesar"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  10,
+  1,
+  3,
+  5,
+  9,
+  2,
+  7,
+  8,
+  4
+ ],
+ "most_similar_reason": "Candidate 6 is, like the target, essentially an account of the naming of a people's supreme sky god, tracing an old divine name alongside a later borrowed one\u2014the same 'one deity, two names' focus rather than a plot of deeds.",
+ "least_similar_reason": "Candidate 4 is an elaborate hero-twin saga of ballgames, decapitation, trickery and underworld vengeance, with no concern at all for a supreme deity or his alternate names.",
+ "set": "random",
+ "pair": "Bumba | Anansi",
+ "i": 563,
+ "target": "Bumba",
+ "planted": "Anansi",
+ "cands": [
+  "Shennong",
+  "Triptolemus",
+  "Anansi",
+  "Maya Hero Twins",
+  "Glooscap",
+  "Waaq",
+  "Yu the Great",
+  "Cadmus",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "\u014ckuninushi"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 4
+}

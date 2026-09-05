@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  2,
+  9,
+  1,
+  8,
+  4,
+  10,
+  7,
+  6,
+  5
+ ],
+ "most_similar_reason": "Candidate 3 matches the target most closely as a bearded civilizing hero who descends/appears among people, wanders from town to town teaching religion and the foundations of civilization, is linked to the founding of a sacred great city and sun/solar imagery, and is remembered in multiple conflicting variant accounts.",
+ "least_similar_reason": "Candidate 5 is a flood-survival and kingship-descends narrative about a boat-building ruler granted immortality, sharing none of the target's distinctive elements of a civilizing hero, cave consultations, jaguar/wind/idol identifications, or a sun temple founded to commemorate his arrival.",
+ "set": "hancock",
+ "pair": "Bochica | Viracocha",
+ "i": 211,
+ "target": "Bochica",
+ "planted": "Viracocha",
+ "cands": [
+  "Nanabozho",
+  "Tezcatlipoca",
+  "Viracocha",
+  "Oduduwa",
+  "Ziusudra",
+  "Bhagiratha",
+  "Anansi",
+  "Berossus",
+  "Ninigi-no-Mikoto",
+  "Romulus and Remus"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

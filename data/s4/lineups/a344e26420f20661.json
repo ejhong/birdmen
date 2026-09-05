@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  9,
+  8,
+  7,
+  3,
+  2,
+  10,
+  4,
+  5,
+  1
+ ],
+ "most_similar_reason": "Candidate 6 shares the target's core sequence almost point for point: a divinely conceived prince exiled to the wilderness by a hostile relative, who wins a beautiful chieftain's/king's daughter by triumphing in a public contest, later has that wife abducted by a rival king, and must campaign against demons and enemy realms to recover her.",
+ "least_similar_reason": "Candidate 1 is merely a one-line statement that a supreme deity was known by two names, with no hero, no bride-winning contest, no exile, abduction, or any narrative events at all.",
+ "set": "random",
+ "pair": "Rama | Gesar",
+ "i": 585,
+ "target": "Rama",
+ "planted": "Gesar",
+ "cands": [
+  "Bumba",
+  "Triptolemus",
+  "Ilmarinen",
+  "Wandjina",
+  "Mwari",
+  "Gesar",
+  "Yu the Great",
+  "Ayar Manco",
+  "\u014ckuninushi",
+  "Sky Woman"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

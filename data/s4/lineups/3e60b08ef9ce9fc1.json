@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  9,
+  3,
+  1,
+  6,
+  10,
+  2,
+  4,
+  5,
+  8
+ ],
+ "most_similar_reason": "Candidate 7 depicts the Mesopotamian god of wisdom and subterranean waters who creates mankind from clay, keeps sages as servants, warns a human of a flood via a reed wall, and acts as a clever problem-solver among the gods\u2014directly mirroring the target's apkallu, flood, and Enki-like figure.",
+ "least_similar_reason": "Candidate 8 is an abstract theological discussion of a 'Great Spirit/Great Mystery' concept with no sages, kings, flood, healing, or civilizing acts, sharing only the generic idea of the sacred divine.",
+ "set": "related",
+ "pair": "Oannes | Enki",
+ "i": 495,
+ "target": "Oannes",
+ "planted": "Enki",
+ "cands": [
+  "Dangun",
+  "Maya Hero Twins",
+  "Shennong",
+  "Sky Woman",
+  "Mwari",
+  "Yellow Emperor",
+  "Enki",
+  "Wakan Tanka",
+  "Ogun",
+  "Glooscap"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

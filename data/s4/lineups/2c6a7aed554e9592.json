@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  2,
+  5,
+  3,
+  1,
+  9,
+  8,
+  10,
+  4,
+  7
+ ],
+ "most_similar_reason": "Candidate 6 is essentially the same work: a wise counselor instructs royalty through nested animal fable collections featuring the scheming jackal at the lion king's court, the four friends (crow, mouse, turtle, deer), and the crow\u2013owl war.",
+ "least_similar_reason": "Candidate 7 is a static description of a flute-playing fertility trickster deity with no framed fables, animal counselors, or narrative sequence of any kind in common with the target.",
+ "set": "positive",
+ "pair": "Kalila wa-Dimna | Panchatantra",
+ "i": 357,
+ "target": "Kalila wa-Dimna",
+ "planted": "Panchatantra",
+ "cands": [
+  "Oduduwa",
+  "Ilmarinen",
+  "Cadmus",
+  "Dangun",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Panchatantra",
+  "Kokopelli",
+  "Great Peacemaker",
+  "Kilibob and Manup",
+  "Berossus"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

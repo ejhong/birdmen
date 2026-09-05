@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  10,
+  8,
+  9,
+  5,
+  2,
+  1,
+  6,
+  3,
+  4
+ ],
+ "most_similar_reason": "Candidate 7 matches the target's core plot most closely: a father figure is killed by the rulers of the underworld, his remains/head are lodged in a tree and magically produce a posthumous son, and that son (with a twin) grows up to defeat the killers and avenge his father, with the dead father associated thereafter with the realm of the dead.",
+ "least_similar_reason": "Candidate 4 is not a narrative at all but a description of an unknowable supreme creator approached through spirit mediums, sharing none of the target's fratricide, dismemberment, revival, avenging son, or agricultural teaching episodes.",
+ "set": "hancock",
+ "pair": "Osiris | Oannes",
+ "i": 115,
+ "target": "Osiris",
+ "planted": "Oannes",
+ "cands": [
+  "Ninigi-no-Mikoto",
+  "Kokopelli",
+  "Mbombo",
+  "Mwari",
+  "Oannes",
+  "Djanggawul",
+  "Maya Hero Twins",
+  "Pachacamac",
+  "Heitsi-eibib",
+  "Bran the Blessed"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 5
+}

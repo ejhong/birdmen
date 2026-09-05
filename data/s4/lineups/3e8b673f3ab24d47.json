@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  6,
+  2,
+  1,
+  4,
+  3,
+  8,
+  9,
+  7,
+  10
+ ],
+ "most_similar_reason": "Candidate 5 shares the closest cluster of distinctive motifs with the target\u2014civilizing culture-bearers (sages) who teach the arts of civilization, found or enlarge great cities, are linked to a flood and primeval waters, and impart specialized knowledge (healing poultices) much like the target's sons teaching which plants are edible, medicinal, or poisonous.",
+ "least_similar_reason": "Candidate 10 is essentially a linguistic/etymological essay about the word for 'sky god' across languages and has no narrative content\u2014no flood, creation, city-founding, disguised wanderer, or teaching episodes\u2014making it the least similar to the richly narrative target myth.",
+ "set": "hancock",
+ "pair": "Viracocha | Oannes",
+ "i": 28,
+ "target": "Viracocha",
+ "planted": "Oannes",
+ "cands": [
+  "Mbombo",
+  "T\u0101ne",
+  "Wisakedjak",
+  "Cadmus",
+  "Oannes",
+  "Hiawatha",
+  "Makunaima",
+  "Heitsi-eibib",
+  "Mwari",
+  "Waaq"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

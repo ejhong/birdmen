@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  6,
+  8,
+  4,
+  1,
+  2,
+  5,
+  3,
+  9,
+  7
+ ],
+ "most_similar_reason": "Candidate 10 shares the exact core flood-myth structure and highly distinctive details with the target\u2014divine rebellion leading to a flood decree, a wise/clever god secretly warning the flood hero by speaking through a reed wall, and the construction of a specially sealed boat to preserve life\u2014making it clearly the same mythic tradition as the target's flood-hero episode.",
+ "least_similar_reason": "Candidate 7 describes an abstract theological and iconographic concept (a symbol of ineffable divine unity depicted in art and shadow puppetry) with no narrative events, characters, quests, or flood motifs corresponding to the target story, making it the least similar.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Atra-Hasis",
+ "i": 254,
+ "target": "Gilgamesh flood myth",
+ "planted": "Atra-Hasis",
+ "cands": [
+  "Tangaroa",
+  "Wandjina",
+  "Cangjie",
+  "Ayar Manco",
+  "Great Peacemaker",
+  "\u014ckuninushi",
+  "Sang Hyang Tunggal",
+  "Obatala",
+  "Nyame",
+  "Atra-Hasis"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

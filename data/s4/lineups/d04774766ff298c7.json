@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  10,
+  5,
+  4,
+  6,
+  1,
+  3,
+  9,
+  7,
+  2
+ ],
+ "most_similar_reason": "Candidate 8 is essentially the same narrative: exile demanded by a stepmother/queen mother so her own son can rule, a wife won in a contest of a legendary bow, the loyal younger brother's mutilation of the seductive demoness's nose and ears, the golden-deer ruse and abduction by the demon king, the alliance with monkey-people after killing their king's rival, and the final battle to recover the faithful wife.",
+ "least_similar_reason": "Candidate 2 shares nothing beyond a legendary figure serving a ruler: it is a quiet account of inventing writing from animal tracks, with no exile, abduction, wife, demon adversary, or combat.",
+ "set": "positive",
+ "pair": "Reamker | Ramayana",
+ "i": 290,
+ "target": "Reamker",
+ "planted": "Ramayana",
+ "cands": [
+  "Hiawatha",
+  "Cangjie",
+  "Shennong",
+  "Glooscap",
+  "Romulus and Remus",
+  "Tagaro",
+  "Djanggawul",
+  "Ramayana",
+  "Berossus",
+  "Maya Hero Twins"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

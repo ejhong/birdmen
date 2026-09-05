@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  8,
+  1,
+  5,
+  3,
+  9,
+  4,
+  10,
+  2,
+  7
+ ],
+ "most_similar_reason": "Candidate 6 matches the target most closely because it too concerns a bearded civilizing hero who comes to earth, appears in successive towns teaching religion and civilization, is linked to a sun deity and a founded sacred city, and is remembered in several conflicting variant traditions.",
+ "least_similar_reason": "Candidate 7 is least similar because it is about a smith-artificer forging metal objects, a magic mill, and a golden bride, with none of the target's motifs of contradictory local memories, a descending religion-founder, cave consultations by chiefs, or a sun temple.",
+ "set": "hancock",
+ "pair": "Bochica | Viracocha",
+ "i": 210,
+ "target": "Bochica",
+ "planted": "Viracocha",
+ "cands": [
+  "Itzamna",
+  "Amirani",
+  "Kokopelli",
+  "Ziusudra",
+  "Unkulunkulu",
+  "Viracocha",
+  "Ilmarinen",
+  "Baiame",
+  "Gesar",
+  "Heitsi-eibib"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

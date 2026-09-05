@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  10,
+  7,
+  4,
+  8,
+  3,
+  9,
+  2,
+  5,
+  1
+ ],
+ "most_similar_reason": "Candidate 6 matches the target's most distinctive cluster: a culture-bringing god who is one of the children of earth and sky deities, teaches humanity to sow grain and cultivate crops, is fatally tricked by a rival kinsman into entering a sealed box/chest, and is thereafter bound up with death and the underworld, mirroring the target god's chest-burning death, agricultural gift, and underworld journey.",
+ "least_similar_reason": "Candidate 1 is only a bare statement that a multi-named creator god is recognized by peoples of a river basin, offering no episodes, births, inventions, or transformations to correspond with the target's dense narrative.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Osiris",
+ "i": 87,
+ "target": "Quetzalcoatl",
+ "planted": "Osiris",
+ "cands": [
+  "Makunaima",
+  "White Buffalo Calf Woman",
+  "Aeneas",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Djanggawul",
+  "Osiris",
+  "T\u0101ne",
+  "Palamedes (mythology)",
+  "Bachu\u00e9",
+  "Triptolemus"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

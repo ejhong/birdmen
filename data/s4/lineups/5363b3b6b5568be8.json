@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  9,
+  3,
+  8,
+  7,
+  2,
+  5,
+  4,
+  10,
+  1
+ ],
+ "most_similar_reason": "Candidate 6 matches the target's most distinctive elements: a set of primordial semi-divine beings sent from the gods who are amphibious fish-creatures needing/returning to primeval waters, who bring civilization and religious knowledge to humans and are linked to the founding of cities and shrines.",
+ "least_similar_reason": "Candidate 1 is a purely human warrior-biography of trickery, rivalry, and varying accounts of a death in a siege war, with no creation, sky god, primordial beings, dismemberment, or origin of shrines.",
+ "set": "hancock",
+ "pair": "Nommo | Oannes",
+ "i": 185,
+ "target": "Nommo",
+ "planted": "Oannes",
+ "cands": [
+  "Palamedes (mythology)",
+  "Sang Hyang Tunggal",
+  "T\u0101ne",
+  "Kokopelli",
+  "Corn Mother",
+  "Oannes",
+  "Yu the Great",
+  "Prometheus",
+  "Dangun",
+  "Aeneas"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

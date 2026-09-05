@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  6,
+  4,
+  2,
+  7,
+  3,
+  8,
+  5,
+  10,
+  1
+ ],
+ "most_similar_reason": "Candidate 9 is manifestly the same narrative: a prince exiled through a stepmother/queen mother's scheme, a wife won in a feat of weaponry, a loyal younger brother, a forest demoness whose nose and ears are cut off, a golden deer decoy, the abduction by the demon king, the alliance with monkey-people after deposing a rival king, the search by a devoted simian ally, and the final battle to recover the faithful wife.",
+ "least_similar_reason": "Candidate 1 is not a story at all but a philological account of a divine name's spread through languages, clans, and place-names, sharing no characters, episodes, or plot with the target.",
+ "set": "positive",
+ "pair": "Reamker | Ramayana",
+ "i": 292,
+ "target": "Reamker",
+ "planted": "Ramayana",
+ "cands": [
+  "Waaq",
+  "Ogun",
+  "Kvasir",
+  "Ayar Manco",
+  "Djanggawul",
+  "Wayland the Smith",
+  "Great Peacemaker",
+  "Sosruko",
+  "Ramayana",
+  "Bachu\u00e9"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

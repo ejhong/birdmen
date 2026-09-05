@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  9,
+  5,
+  7,
+  4,
+  3,
+  1,
+  10,
+  2,
+  8
+ ],
+ "most_similar_reason": "Candidate 6 shares the core Maui-type mythic complex with the target: a magic fish-hook (here made from a grandmother's jawbone rather than baited with a bird's wing) used secretly on a fishing trip with brothers to haul up a giant fish that becomes an island, with the brothers' disobedience/violation causing the land to form imperfectly (mountains/valleys instead of flat land) \u2014 a very close match to the target's fishing-up-of-islands episode and the brothers-disobey motif.",
+ "least_similar_reason": "Candidate 8 is a bare one-line statement about a deity's two names with no narrative events, motifs, or relationships to compare against the target's rich, multi-episode hero cycle.",
+ "set": "related",
+ "pair": "M\u0101ui (Hawaiian mythology) | M\u0101ui (M\u0101ori mythology)",
+ "i": 533,
+ "target": "M\u0101ui (Hawaiian mythology)",
+ "planted": "M\u0101ui (M\u0101ori mythology)",
+ "cands": [
+  "Obatala",
+  "Waaq",
+  "R\u00edgs\u00feula",
+  "Ayar Manco",
+  "Huitzilopochtli",
+  "M\u0101ui (M\u0101ori mythology)",
+  "Djanggawul",
+  "Bumba",
+  "Nanabozho",
+  "Corn Mother"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

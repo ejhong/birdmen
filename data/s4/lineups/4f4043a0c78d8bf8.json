@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  5,
+  3,
+  7,
+  9,
+  1,
+  2,
+  4,
+  10,
+  8
+ ],
+ "most_similar_reason": "Candidate 6 shares the closest match to the flood myth structure: divine wrath at human wickedness, a forewarned patriarch building a vessel, survival, offerings of thanks afterward, repopulation commands, and descendants dividing into peoples, mirroring the target's flood, ark-building, and post-flood repopulation themes.",
+ "least_similar_reason": "Candidate 8 is almost entirely about a shapeshifting trickster rabbit-spirit's creation deeds and a wrestling contest with a lumberjack, sharing no flood, ark, stone-throwing repopulation, or genealogical founding motifs with the target.",
+ "set": "positive",
+ "pair": "Deucalion | Noah",
+ "i": 384,
+ "target": "Deucalion",
+ "planted": "Noah",
+ "cands": [
+  "Heitsi-eibib",
+  "Unkulunkulu",
+  "Ninigi-no-Mikoto",
+  "Kutkh",
+  "Aeneas",
+  "Noah",
+  "Amirani",
+  "Nanabozho",
+  "Tagaro",
+  "Ilmarinen"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

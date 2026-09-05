@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  6,
+  9,
+  5,
+  1,
+  8,
+  4,
+  10,
+  3,
+  7
+ ],
+ "most_similar_reason": "Candidate 2 depicts a bearded, human-appearing creator/civilizing hero who wandered teaching the foundations of civilization, is described inconsistently across multiple versions of the myth (like the target's varying witness accounts), and involves themes of disappearance and later veneration, closely paralleling the target's civilizing-hero narrative.",
+ "least_similar_reason": "Candidate 7 is a straightforward flood-control and dynasty-founding hero story with no equivalent to the target's multiple contradictory witness testimonies, wind/idol/jaguar motifs, cave retreat, or sun-temple pilgrimage, making it the least thematically aligned.",
+ "set": "hancock",
+ "pair": "Bochica | Viracocha",
+ "i": 218,
+ "target": "Bochica",
+ "planted": "Viracocha",
+ "cands": [
+  "Ogun",
+  "Viracocha",
+  "Cadmus",
+  "Nanabozho",
+  "Adapa",
+  "Tezcatlipoca",
+  "Yu the Great",
+  "\u014ckuninushi",
+  "Huitzilopochtli",
+  "Djanggawul"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 1
+}

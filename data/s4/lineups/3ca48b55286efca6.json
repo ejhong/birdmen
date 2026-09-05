@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  9,
+  2,
+  5,
+  3,
+  4,
+  1,
+  6,
+  7,
+  8
+ ],
+ "most_similar_reason": "Candidate 10 depicts the same ancestral figure-type: a righteous patriarch descended from the first man who is bodily taken up to a heavenly realm without ordinary death, becomes a scribe/teacher of secrets, preaches repentance, and is linked to conveying revelation to a later prophet \u2014 matching the target's culture-hero prophet raised to a high station, first user of the pen, and soul taken in the fourth heaven.",
+ "least_similar_reason": "Candidate 8 contains no narrative at all, merely noting that a group recognizes a spirit as a deity, so it shares no episodes, roles, or motifs with the target.",
+ "set": "related",
+ "pair": "Idris (prophet) | Enoch (ancestor of Noah)",
+ "i": 545,
+ "target": "Idris (prophet)",
+ "planted": "Enoch (ancestor of Noah)",
+ "cands": [
+  "Agastya",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Obatala",
+  "Mama Ocllo",
+  "Great Peacemaker",
+  "Pachacamac",
+  "Sang Hyang Tunggal",
+  "Abassi",
+  "Yu the Great",
+  "Enoch (ancestor of Noah)"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

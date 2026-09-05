@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  9,
+  7,
+  4,
+  1,
+  5,
+  10,
+  3,
+  2,
+  6
+ ],
+ "most_similar_reason": "Candidate 8 shares the target's most distinctive episode almost verbatim \u2014 a child of the sun deity emerging with a golden staff, siblings turned to stone, founding a civilization/city in a valley, and a sacred island in a great lake \u2014 matching the target's flood-survivor founders and city-building creator.",
+ "least_similar_reason": "Candidate 6 is not a narrative at all but a terminological discussion of a diffuse 'Great Mystery' concept, with no creator figure, no creation of humans, no flood, teaching, or departure across water.",
+ "set": "related",
+ "pair": "Viracocha | Manco C\u00e1pac",
+ "i": 421,
+ "target": "Viracocha",
+ "planted": "Manco C\u00e1pac",
+ "cands": [
+  "Coyote (mythology)",
+  "Bran the Blessed",
+  "Rama",
+  "R\u00edgs\u00feula",
+  "Nyame",
+  "Wakan Tanka",
+  "Itzamna",
+  "Manco C\u00e1pac",
+  "Mbombo",
+  "White Buffalo Calf Woman"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

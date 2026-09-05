@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  7,
+  1,
+  10,
+  9,
+  4,
+  6,
+  5,
+  2,
+  3
+ ],
+ "most_similar_reason": "Candidate 8 recounts essentially the same story: exile engineered by a queen mother wanting her own son crowned, the bride won by an archery/bow contest, the faithful wife and devoted younger brother in the forest, the demoness whose nose and ears are cut off, the golden-deer ruse and the voice imitation, the abduction by the many-headed demon king, the alliance with monkey-people after helping their leader defeat a rival, the ape warrior who finds the captive wife, and the final victory over the demon.",
+ "least_similar_reason": "Candidate 3 is not a narrative at all but a linguistic and historical discussion of a divine name's survival in words and place-names, sharing no characters, episodes, or plot with the target.",
+ "set": "positive",
+ "pair": "Ramayana | Reamker",
+ "i": 286,
+ "target": "Ramayana",
+ "planted": "Reamker",
+ "cands": [
+  "Cadmus",
+  "Apkallu",
+  "Waaq",
+  "Ogun",
+  "Sosruko",
+  "Yellow Emperor",
+  "Aeneas",
+  "Reamker",
+  "Ziusudra",
+  "Triptolemus"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

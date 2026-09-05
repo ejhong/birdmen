@@ -21,7 +21,7 @@ import numpy as np
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__))); S4 = os.path.join(ROOT, "data", "s4"); RAW = os.path.join(S4, "raw")
 BL = os.path.join(S4, "blind"); LD = os.path.join(S4, "lineups"); os.makedirs(BL, exist_ok=True); os.makedirs(LD, exist_ok=True)
-client = anthropic.Anthropic(); MODELS = {"opus": "claude-opus-5", "sonnet": "claude-sonnet-5"}
+client = anthropic.Anthropic(timeout=180, max_retries=3); MODELS = {"opus": "claude-opus-5", "sonnet": "claude-sonnet-5"}
 
 class Blind(BaseModel):
     story: str          # faithful retelling with names, 200-300 words
@@ -114,7 +114,7 @@ def judge(B, t, model):
     body = "TARGET:\n" + B[t["target"]]["blind"] + "\n\n" + "\n\n".join(f"CANDIDATE {k+1}:\n{B[c]['blind']}" for k, c in enumerate(t["cands"]))
     for attempt in range(3):
         try:
-            r = client.messages.parse(model=MODELS[model], max_tokens=2000, output_format=Lineup, messages=[{"role": "user", "content": JUDGE + "\n\n" + body}])
+            r = client.messages.parse(model=MODELS[model], max_tokens=3500, output_format=Lineup, messages=[{"role": "user", "content": JUDGE + "\n\n" + body}])
             d = r.parsed_output.model_dump() if r.parsed_output else None
             if not d or sorted(int(x) for x in d["ranking"]) != list(range(1, 11)):
                 if attempt < 2: continue
@@ -160,6 +160,7 @@ def main():
     elif cmd == "plan": plan(B)
     elif cmd == "run":
         trials = json.load(open(os.path.join(S4, "lineup_plan.json"))); judges = ["opus", "sonnet"] if sys.argv[2] == "all" else [sys.argv[2]]
+        if len(sys.argv) > 3: trials = [t for t in trials if t["set"] == sys.argv[3]]
         for m in judges:
             counts = {}
             with ThreadPoolExecutor(max_workers=4) as ex:

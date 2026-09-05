@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  6,
+  3,
+  2,
+  4,
+  7,
+  5,
+  10,
+  8,
+  1
+ ],
+ "most_similar_reason": "Candidate 9 mirrors the target's entire narrative arc (exile by a jealous stepmother/queen mother, wife won via a bow challenge, loyal brother joining exile, demoness with nose/ear mutilation, golden deer lure, abduction by a demon king, alliance with monkey-people, battle and rescue), making it essentially the same epic story.",
+ "least_similar_reason": "Candidate 1 is a linguistic/etymological discussion of a divine name's cultural spread rather than a narrative with characters, events, or plot, sharing no motifs with the target's exile-abduction-rescue story.",
+ "set": "positive",
+ "pair": "Reamker | Ramayana",
+ "i": 292,
+ "target": "Reamker",
+ "planted": "Ramayana",
+ "cands": [
+  "Waaq",
+  "Ogun",
+  "Kvasir",
+  "Ayar Manco",
+  "Djanggawul",
+  "Wayland the Smith",
+  "Great Peacemaker",
+  "Sosruko",
+  "Ramayana",
+  "Bachu\u00e9"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

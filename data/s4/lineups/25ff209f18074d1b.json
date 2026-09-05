@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  1,
+  4,
+  5,
+  10,
+  3,
+  8,
+  7,
+  9,
+  2
+ ],
+ "most_similar_reason": "Candidate 6 shares the target's exact frame (an advisor instructing a ruler through a nested cycle of animal fables) and even the same distinctive episodes: scheming and contented jackal-like courtiers at a lion king's court, the four-animal friendship of rodent, black bird, shelled reptile and horned grazer, and a war between crows and a bird of prey resolved by a spy/counsel.",
+ "least_similar_reason": "Candidate 2 is a descriptive account of rain-spirit rock paintings and repainting ritual with no teacher, no pupils, no fables, and essentially no narrative sequence in common with the target.",
+ "set": "positive",
+ "pair": "Panchatantra | Kalila wa-Dimna",
+ "i": 348,
+ "target": "Panchatantra",
+ "planted": "Kalila wa-Dimna",
+ "cands": [
+  "Dangun",
+  "Wandjina",
+  "Cadmus",
+  "R\u00edgs\u00feula",
+  "T\u0101ne",
+  "Kalila wa-Dimna",
+  "Romulus and Remus",
+  "Oduduwa",
+  "Bran the Blessed",
+  "Yu the Great"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

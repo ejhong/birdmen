@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  8,
+  4,
+  5,
+  9,
+  10,
+  3,
+  6,
+  2,
+  7
+ ],
+ "most_similar_reason": "Candidate 1 shares the same distinctive feathered-serpent deity complex with multiple conflicting origin tales, a devoted sister, a cave, transformation/flight causing earthquakes, and a rain-associated, sun-scorned aspect\u2014matching the target's feathered serpent with plural birth myths and sibling relationship.",
+ "least_similar_reason": "Candidate 7 offers almost no concrete narrative content beyond naming a generic creator god, sharing none of the target's specific motifs like the four cardinal sons, morning star twin, underworld bone-creation, or incest-and-immolation episode.",
+ "set": "related",
+ "pair": "Quetzalcoatl | Kukulkan",
+ "i": 402,
+ "target": "Quetzalcoatl",
+ "planted": "Kukulkan",
+ "cands": [
+  "Kukulkan",
+  "Wayland the Smith",
+  "Baiame",
+  "Tangaroa",
+  "Triptolemus",
+  "Amirani",
+  "Makunaima",
+  "Yellow Emperor",
+  "Ziusudra",
+  "Nyame"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

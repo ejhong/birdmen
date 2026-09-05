@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  2,
+  9,
+  5,
+  8,
+  10,
+  4,
+  6,
+  7,
+  3
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's most distinctive episode almost verbatim \u2014 a child of the sun deity carrying a golden staff who emerges near a great lake and founds a civilization by establishing a city \u2014 plus the sibling/founder-with-siblings and lake-island motifs.",
+ "least_similar_reason": "Candidate 3 is not a narrative at all but a linguistic account of a divine name's spread and decline, with no creator figure, no creation or flood, no teaching of civilization, and no departure over water.",
+ "set": "related",
+ "pair": "Viracocha | Manco C\u00e1pac",
+ "i": 428,
+ "target": "Viracocha",
+ "planted": "Manco C\u00e1pac",
+ "cands": [
+  "Manco C\u00e1pac",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Waaq",
+  "Wandjina",
+  "Cangjie",
+  "Bumba",
+  "Wakan Tanka",
+  "Aeneas",
+  "Triptolemus",
+  "Romulus and Remus"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

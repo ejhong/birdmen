@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  6,
+  10,
+  4,
+  2,
+  9,
+  5,
+  3,
+  8,
+  1
+ ],
+ "most_similar_reason": "Candidate 7 shares the core flood-myth skeleton with the target\u2014a divine warning to a righteous patriarch, construction of a vessel, preservation of family, post-flood thanksgiving offering, and the survivors' sons becoming ancestors of the peoples who repopulate the earth\u2014making it the closest structural and thematic match despite the added animal and vineyard episodes.",
+ "least_similar_reason": "Candidate 1 is a purely etymological and linguistic discussion of a god's name with no narrative of a flood, hero, ark, or repopulation, sharing no concrete plot elements with the target story.",
+ "set": "positive",
+ "pair": "Deucalion | Noah",
+ "i": 385,
+ "target": "Deucalion",
+ "planted": "Noah",
+ "cands": [
+  "Waaq",
+  "Mama Ocllo",
+  "Sosruko",
+  "T\u0101ne",
+  "Wayland the Smith",
+  "Ziusudra",
+  "Noah",
+  "Cangjie",
+  "Maya Hero Twins",
+  "Qat (deity)"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

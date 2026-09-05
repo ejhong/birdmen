@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  9,
+  10,
+  7,
+  8,
+  2,
+  3,
+  6,
+  4,
+  1
+ ],
+ "most_similar_reason": "Candidate 5 shares the target's most distinctive cluster of motifs: a brother-sister pair who live on a sacred mountain, seek an omen (mist rather than merging fire smoke) to sanction their incestuous marriage, and then create the first humans from clay, with the male partner as culture hero.",
+ "least_similar_reason": "Candidate 1 concerns rain spirits embodied in repainted rock art and seasonal renewal, with no cosmic giant, no primordial egg, no sibling creator pair, no clay humans, and none of the culture-hero inventions of writing, nets, trigrams, or marriage.",
+ "set": "related",
+ "pair": "Fuxi | N\u00fcwa",
+ "i": 500,
+ "target": "Fuxi",
+ "planted": "N\u00fcwa",
+ "cands": [
+  "Wandjina",
+  "Palamedes (mythology)",
+  "Hiawatha",
+  "Gesar",
+  "N\u00fcwa",
+  "Rama",
+  "Mbombo",
+  "Apkallu",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Kutkh"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  6,
+  7,
+  5,
+  4,
+  10,
+  8,
+  2,
+  1,
+  9
+ ],
+ "most_similar_reason": "Candidate 3 is essentially the same narrative: exile forced by a stepmother/queen mother wanting her son crowned, the bow-contest bride who follows him, the loyal younger brother, the demoness whose nose and ears are cut off, the golden-deer ruse and abduction by the demon king, the alliance with the monkey-people and killing of their king's rival, the search by a devoted monkey ally, and the final defeat of the demon.",
+ "least_similar_reason": "Candidate 9 is not a narrative at all but an etymological/religious-history account of a divine name, sharing no characters, episodes, or motifs with the target.",
+ "set": "positive",
+ "pair": "Reamker | Ramayana",
+ "i": 293,
+ "target": "Reamker",
+ "planted": "Ramayana",
+ "cands": [
+  "Shennong",
+  "Coyote (mythology)",
+  "Ramayana",
+  "Wayland the Smith",
+  "Romulus and Remus",
+  "Ninigi-no-Mikoto",
+  "Qat (deity)",
+  "Kvasir",
+  "Waaq",
+  "Ilmarinen"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

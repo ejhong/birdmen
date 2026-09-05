@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  4,
+  3,
+  9,
+  8,
+  2,
+  7,
+  1,
+  6,
+  5
+ ],
+ "most_similar_reason": "Candidate 10 matches the target point for point: a righteous descendant of the first man who preached repentance, was distinguished as a scribe/first writer, and was famously taken up alive into the heavens to a high station without ordinary death.",
+ "least_similar_reason": "Candidate 5 is a bare notice that a creator deity is known under variant names in a region, with no prophet, no ascent, no inventions, and effectively no narrative at all to compare.",
+ "set": "related",
+ "pair": "Idris (prophet) | Enoch (ancestor of Noah)",
+ "i": 547,
+ "target": "Idris (prophet)",
+ "planted": "Enoch (ancestor of Noah)",
+ "cands": [
+  "Heitsi-eibib",
+  "Sosruko",
+  "Ziusudra",
+  "Hiawatha",
+  "Makunaima",
+  "Waaq",
+  "Wisakedjak",
+  "Nyame",
+  "Djanggawul",
+  "Enoch (ancestor of Noah)"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

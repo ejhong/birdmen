@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  8,
+  9,
+  7,
+  2,
+  6,
+  4,
+  10,
+  1,
+  5
+ ],
+ "most_similar_reason": "Candidate 3 is closest because its hero is chiefly a landscape-etiology figure whose deeds explain the origin of specific natural features (valleys, landforms, islands, a stone-turned figure, released waters), which matches the target's mountain-deity whose stories account for the great salt flat beside him.",
+ "least_similar_reason": "Candidate 5 is least similar because it is entirely a musician-lover's biography of charmed beasts, an underworld rescue and a dismemberment, with no personified landform, no etiology of a terrain feature, and no sacred burial or settlement site.",
+ "set": "related",
+ "pair": "Tunupa | Viracocha",
+ "i": 453,
+ "target": "Tunupa",
+ "planted": "Viracocha",
+ "cands": [
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Adapa",
+  "Glooscap",
+  "Nyame",
+  "Orpheus",
+  "Great Peacemaker",
+  "T\u0101ne",
+  "Viracocha",
+  "Ogun",
+  "Romulus and Remus"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 2
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  4,
+  9,
+  3,
+  5,
+  2,
+  1,
+  6,
+  10,
+  7
+ ],
+ "most_similar_reason": "Candidate 8 shares the target's most distinctive cluster of episodes almost point for point: a sibling pair who live on a sacred mountain and marry after a sign from heaven confirms their union, humans molded from clay and animated, and the male partner as culture-hero consort/brother.",
+ "least_similar_reason": "Candidate 7 is only a one-line note that a variously named creator god is worshipped in a river region, offering no episodes, relationships, or motifs to compare with the target's detailed creation, sibling marriage, clay humans, and inventions.",
+ "set": "related",
+ "pair": "Fuxi | N\u00fcwa",
+ "i": 504,
+ "target": "Fuxi",
+ "planted": "N\u00fcwa",
+ "cands": [
+  "Ogun",
+  "R\u00edgs\u00feula",
+  "Agastya",
+  "T\u0101ne",
+  "\u014ckuninushi",
+  "Wandjina",
+  "Makunaima",
+  "N\u00fcwa",
+  "Tezcatlipoca",
+  "Ziusudra"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  2,
+  1,
+  10,
+  9,
+  5,
+  4,
+  6,
+  8,
+  7
+ ],
+ "most_similar_reason": "Candidate 3, like the target, presents a figure known through multiple conflicting accounts who becomes a civilizing hero descending/appearing among people, teaching them, being received in towns, associated with a sun deity and the founding of a sacred city and civilization before withdrawing.",
+ "least_similar_reason": "Candidate 7 is a dynastic epic of sacrifice, ancestral curse, austerities and bringing a river down to earth, sharing none of the target's traits of contested identity, civilizing revelation, cave retreat, visiting chiefs, or sun temple.",
+ "set": "hancock",
+ "pair": "Bochica | Viracocha",
+ "i": 216,
+ "target": "Bochica",
+ "planted": "Viracocha",
+ "cands": [
+  "Makunaima",
+  "Unkulunkulu",
+  "Viracocha",
+  "Orpheus",
+  "Nyame",
+  "Anansi",
+  "Bhagiratha",
+  "Ilmarinen",
+  "Mbombo",
+  "Palamedes (mythology)"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

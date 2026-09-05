@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  1,
+  3,
+  9,
+  5,
+  2,
+  8,
+  7,
+  10,
+  4
+ ],
+ "most_similar_reason": "Candidate 6 centers on a culture-bringing deity who invents books/writing and the calendar, gives a crop, has a divine sibling/rival set born of a primordial couple, journeys to the underworld and is tied to a celestial body\u2014matching the target's inventor-of-writing, calendar/epagomenal-days, sibling-rivalry, and underworld motifs most closely.",
+ "least_similar_reason": "Candidate 4 is a bare identification of a deity with no narrative, no writing, no birth cycle, no judgment or teaching episode, so it shares nothing specific with the target.",
+ "set": "hancock",
+ "pair": "Thoth | Quetzalcoatl",
+ "i": 162,
+ "target": "Thoth",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Berossus",
+  "White Buffalo Calf Woman",
+  "T\u0101ne",
+  "Abassi",
+  "Orpheus",
+  "Quetzalcoatl",
+  "Wandjina",
+  "Amirani",
+  "Pachacamac",
+  "Makunaima"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

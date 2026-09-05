@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  8,
+  5,
+  9,
+  3,
+  6,
+  4,
+  1,
+  2,
+  10
+ ],
+ "most_similar_reason": "Candidate 7 shares the core flood narrative almost point for point: a divinity angered at human wickedness sends a deluge, a single righteous man is forewarned and builds a wooden vessel, he and his family alone survive, the vessel comes to rest on a mountain, he gives thanks/offering to the god afterward, and the earth is then repopulated from him and his offspring.",
+ "least_similar_reason": "Candidate 10 concerns a sea god's cosmic quarrel with his siblings after separating sky and earth, the origins of fish and reptiles, and a trickster's theft of fire, with no flood, no ark, no covenant, no vineyard, and no lineage of sons peopling the world.",
+ "set": "positive",
+ "pair": "Noah | Deucalion",
+ "i": 397,
+ "target": "Noah",
+ "planted": "Deucalion",
+ "cands": [
+  "Tezcatlipoca",
+  "Tangaroa",
+  "Glooscap",
+  "Coyote (mythology)",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Great Peacemaker",
+  "Deucalion",
+  "Wisakedjak",
+  "Rama",
+  "Tagaro"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

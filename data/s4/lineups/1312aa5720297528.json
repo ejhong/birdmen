@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  4,
+  3,
+  5,
+  6,
+  8,
+  7,
+  10,
+  1,
+  2
+ ],
+ "most_similar_reason": "Candidate 9 shares the target's core plot skeleton: a god murdered by jealous brothers who is restored to life, undergoes an underworld episode, becomes a culture-bringer who develops and civilizes the land with helpers, defeats his fratricidal brothers, and finally withdraws to rule the realm of the dead.",
+ "least_similar_reason": "Candidate 2 is a static iconographic description of a flute-playing fertility trickster with no murder, dismemberment, resurrection, avenging son, or rule over the dead \ruff sharing only the vaguest fertility/agriculture association.",
+ "set": "hancock",
+ "pair": "Osiris | Oannes",
+ "i": 118,
+ "target": "Osiris",
+ "planted": "Oannes",
+ "cands": [
+  "Itzamna",
+  "Kokopelli",
+  "Mama Ocllo",
+  "Maya Hero Twins",
+  "Qat (deity)",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Oannes",
+  "Gesar",
+  "\u014ckuninushi",
+  "Baiame"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 7
+}

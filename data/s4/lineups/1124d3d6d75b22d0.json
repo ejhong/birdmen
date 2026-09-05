@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  7,
+  5,
+  9,
+  10,
+  3,
+  4,
+  6,
+  8,
+  2
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's central and highly distinctive episode\u2014the wise god secretly warning the flood hero through a reed wall to build a sealed boat and load kin and animals before a divinely decreed flood destroys noisy humanity\u2014making it a direct continuation of the same narrative.",
+ "least_similar_reason": "Candidate 2 is a descriptive account of a supreme deity approached via spirit mediums, with no creation of humans from clay, no divine labor or rebellion, and no flood or shared episodes with the target.",
+ "set": "positive",
+ "pair": "Atra-Hasis | Gilgamesh flood myth",
+ "i": 241,
+ "target": "Atra-Hasis",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Gilgamesh flood myth",
+  "Mwari",
+  "Yellow Emperor",
+  "Wandjina",
+  "Huitzilopochtli",
+  "Romulus and Remus",
+  "Yu the Great",
+  "Heitsi-eibib",
+  "Glooscap",
+  "Tangaroa"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

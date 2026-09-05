@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  3,
+  9,
+  7,
+  8,
+  2,
+  6,
+  4,
+  10,
+  5
+ ],
+ "most_similar_reason": "Candidate 1 shares the closest match to the flood narrative core: a righteous hero warned by a god, building a vessel, surviving a flood that kills all life, releasing birds (raven-like and dove-like) to test the waters, landing on a mountain, and offering sacrifice afterward.",
+ "least_similar_reason": "Candidate 5 is an etymological and religious-historical discussion of a divine name with no narrative of a flood, hero, or journey, making it thematically unrelated to the target's flood-hero myth.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Genesis flood narrative",
+ "i": 227,
+ "target": "Gilgamesh flood myth",
+ "planted": "Genesis flood narrative",
+ "cands": [
+  "Genesis flood narrative",
+  "Tagaro",
+  "Rama",
+  "Ninigi-no-Mikoto",
+  "Waaq",
+  "Sky Woman",
+  "Ilmarinen",
+  "Cangjie",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Kokopelli"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

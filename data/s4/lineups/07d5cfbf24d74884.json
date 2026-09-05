@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  3,
+  8,
+  6,
+  9,
+  10,
+  2,
+  7,
+  1,
+  4
+ ],
+ "most_similar_reason": "Candidate 5 depicts a bearded, human-like creator deity (a clear Quetzalcoatl/Viracocha-type figure) who creates mankind from stones after destroying an earlier flawed race, teaches civilization, disappears across the sea while walking on water, and is expected to return\u2014closely paralleling the target's creation of the current race of mankind, teaching role, and eventual departure/transformation.",
+ "least_similar_reason": "Candidate 4 is a linguistic/etymological account of a word for 'God' across related languages and has no narrative content\u2014no birth stories, siblings, underworld journey, incest, or transformation\u2014making it the least similar to the richly mythic target.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Viracocha",
+ "i": 15,
+ "target": "Quetzalcoatl",
+ "planted": "Viracocha",
+ "cands": [
+  "Makunaima",
+  "Wayland the Smith",
+  "T\u0101ne",
+  "Waaq",
+  "Viracocha",
+  "Tagaro",
+  "Anansi",
+  "Nanabozho",
+  "Romulus and Remus",
+  "Oduduwa"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

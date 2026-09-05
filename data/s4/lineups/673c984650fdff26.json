@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  10,
+  9,
+  3,
+  7,
+  8,
+  4,
+  2,
+  5,
+  1
+ ],
+ "most_similar_reason": "Candidate 6 shares the closest thematic cluster with the target: a god of agriculture/civilization dismembered and reassembled by a devoted relative, genitals lost, magic used to revive/conceive, association with the underworld and vine/grain cultivation, and dispersal of remains creating cult centers, paralleling the target's dismemberment-adjacent self-sacrifice, blood-based creation of mankind, and agricultural gifts.",
+ "least_similar_reason": "Candidate 1 is a bare, generic statement about a creator god recognized among river-basin peoples with no matching motifs, births, siblings, underworld journey, or specific acts found in the target.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Osiris",
+ "i": 87,
+ "target": "Quetzalcoatl",
+ "planted": "Osiris",
+ "cands": [
+  "Makunaima",
+  "White Buffalo Calf Woman",
+  "Aeneas",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Djanggawul",
+  "Osiris",
+  "T\u0101ne",
+  "Palamedes (mythology)",
+  "Bachu\u00e9",
+  "Triptolemus"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

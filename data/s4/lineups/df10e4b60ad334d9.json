@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  9,
+  7,
+  10,
+  8,
+  4,
+  6,
+  3,
+  1,
+  2
+ ],
+ "most_similar_reason": "Candidate 5 shares the same core mythological complex as the target\u2014N\u00fcwa creating clay humans, mending the world after chaos, and the sibling-marriage-on-a-sacred-mountain motif confirmed by a natural sign (mist instead of fire)\u2014making it essentially a variant of the same Fuxi/N\u00fcwa tradition.",
+ "least_similar_reason": "Candidate 2 is a Greek/Trojan War hero narrative centered on political intrigue, feigned madness, and battlefield death, sharing only the generic motif of inventing writing/numbers with no cosmogonic, sibling-marriage, or clay-creation elements found in the target.",
+ "set": "related",
+ "pair": "Fuxi | N\u00fcwa",
+ "i": 500,
+ "target": "Fuxi",
+ "planted": "N\u00fcwa",
+ "cands": [
+  "Wandjina",
+  "Palamedes (mythology)",
+  "Hiawatha",
+  "Gesar",
+  "N\u00fcwa",
+  "Rama",
+  "Mbombo",
+  "Apkallu",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Kutkh"
+ ],
+ "planted_pos": 5,
+ "model": "sonnet",
+ "planted_rank": 1
+}

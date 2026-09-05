@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  10,
+  8,
+  7,
+  9,
+  2,
+  6,
+  5,
+  4,
+  1
+ ],
+ "most_similar_reason": "Candidate 3 shares the target's core figure: a civilizing hero-deity who descends/appears to found a religion, travels from town to town teaching and being consulted, and is linked to a sacred city with a sun temple commemorating his arrival, matching the target's wandering white-robed teacher who ordered a great city built.",
+ "least_similar_reason": "Candidate 1 concerns a small, devious trickster hero who steals fire from a giant and is doted on by his mother, with no creation of the world or humankind, no flood, no civilizing teaching, and no departure across water.",
+ "set": "hancock",
+ "pair": "Viracocha | Bochica",
+ "i": 203,
+ "target": "Viracocha",
+ "planted": "Bochica",
+ "cands": [
+  "Sosruko",
+  "Agastya",
+  "Bochica",
+  "Bumba",
+  "Palamedes (mythology)",
+  "Romulus and Remus",
+  "Gesar",
+  "Ziusudra",
+  "Aeneas",
+  "Obatala"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

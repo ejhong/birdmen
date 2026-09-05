@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  10,
+  4,
+  6,
+  2,
+  8,
+  1,
+  5,
+  3,
+  7
+ ],
+ "most_similar_reason": "Candidate 9 shares the core flood narrative: a supreme god destroys wicked mankind with a deluge, one favored man is forewarned, builds an ark-like vessel, rides out the waters with his wife until it lands on a mountain, gives thanks to the god afterward, and repopulates the earth, with his descendants becoming ancestors of peoples.",
+ "least_similar_reason": "Candidate 7 has no hero, no flood, no ark or covenant, and is simply a descriptive account of a supreme deity's worship through spirit mediums, sharing only the generic element of a high god.",
+ "set": "positive",
+ "pair": "Noah | Deucalion",
+ "i": 390,
+ "target": "Noah",
+ "planted": "Deucalion",
+ "cands": [
+  "Kvasir",
+  "Glooscap",
+  "Gesar",
+  "Adapa",
+  "Heitsi-eibib",
+  "Mbombo",
+  "Mwari",
+  "T\u0101ne",
+  "Deucalion",
+  "Wisakedjak"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

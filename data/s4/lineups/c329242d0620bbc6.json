@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  9,
+  3,
+  8,
+  4,
+  10,
+  5,
+  6,
+  1,
+  2
+ ],
+ "most_similar_reason": "Candidate 7 depicts the prophet raised to a high station, taught secrets, associated with writing, measures, and being taken to the fourth heaven by the angel of death\u2014paralleling Enoch/Idris traditions almost point for point, including the linkage to the earlier patriarch and a night-journey encounter in the heavens.",
+ "least_similar_reason": "Candidate 2 describes a humpbacked flute-playing fertility trickster god tied to childbirth, agriculture, and animal fertility, sharing no meaningful motifs of ascension, scribehood, celestial secrets, or flood prophecy with the target figure.",
+ "set": "related",
+ "pair": "Enoch (ancestor of Noah) | Idris (prophet)",
+ "i": 550,
+ "target": "Enoch (ancestor of Noah)",
+ "planted": "Idris (prophet)",
+ "cands": [
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Kokopelli",
+  "Ogun",
+  "Tezcatlipoca",
+  "Glooscap",
+  "Ilmarinen",
+  "Idris (prophet)",
+  "Obatala",
+  "Berossus",
+  "Huitzilopochtli"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

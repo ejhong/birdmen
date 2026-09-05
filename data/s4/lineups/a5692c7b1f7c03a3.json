@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  2,
+  4,
+  9,
+  8,
+  1,
+  10,
+  6,
+  7,
+  3
+ ],
+ "most_similar_reason": "Candidate 5 matches the target's most distinctive elements: a culture-hero deity who teaches humanity crops and arts, descends to the underworld, is undone through a rival god's trickery and a shameful union with his sister, and is sealed inside a chest before dying and being transformed into an enduring cosmic/afterlife figure.",
+ "least_similar_reason": "Candidate 3 is a bare statement that a supreme being has two names, containing no events, relationships, or motifs that could correspond to the target's death-dismemberment-resurrection narrative.",
+ "set": "hancock",
+ "pair": "Osiris | Quetzalcoatl",
+ "i": 92,
+ "target": "Osiris",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Corn Mother",
+  "T\u0101ne",
+  "Bumba",
+  "Nyame",
+  "Quetzalcoatl",
+  "Great Peacemaker",
+  "Ziusudra",
+  "Yellow Emperor",
+  "Wayland the Smith",
+  "Apkallu"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 1
+}

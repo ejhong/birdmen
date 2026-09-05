@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  10,
+  7,
+  1,
+  9,
+  2,
+  3,
+  8,
+  6,
+  4
+ ],
+ "most_similar_reason": "Candidate 5, like the target, presents a culture-hero deity whose origins are given in several mutually contradictory versions and who then, in the developed tradition, descends among a people to found religious practice, teach arts and crops, visit sacred mountain/city sites and become the focus of cult.",
+ "least_similar_reason": "Candidate 4 is a monster-slaying warrior saga of giants, dragons and divine punishment, with none of the target's variant identifications, civilizing/religion-founding mission, cave consultations, or sacred sun-temple city.",
+ "set": "hancock",
+ "pair": "Bochica | Quetzalcoatl",
+ "i": 128,
+ "target": "Bochica",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Kutkh",
+  "Mbombo",
+  "Kvasir",
+  "Amirani",
+  "Quetzalcoatl",
+  "Rama",
+  "Nanabozho",
+  "R\u00edgs\u00feula",
+  "Qat (deity)",
+  "Yellow Emperor"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 1
+}

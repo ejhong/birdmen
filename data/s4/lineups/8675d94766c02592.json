@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  7,
+  4,
+  5,
+  8,
+  6,
+  9,
+  2,
+  3,
+  1
+ ],
+ "most_similar_reason": "Candidate 10 is an explicit retelling of the Ramayana itself, matching nearly every distinctive motif in the target\u2014divine incarnation to slay a demon king, the bow-breaking marriage contest, forest exile, the demoness's mutilation, the golden-deer trick, the abduction, and alliance with monkey-people to defeat the demon king.",
+ "least_similar_reason": "Candidate 1 describes an agricultural harvest custom involving straw figures and crop spirits, sharing no gods, demons, heroes, or narrative motifs with the target myth.",
+ "set": "positive",
+ "pair": "Ramakien | Ramayana",
+ "i": 314,
+ "target": "Ramakien",
+ "planted": "Ramayana",
+ "cands": [
+  "Corn Mother",
+  "Mwari",
+  "Kutkh",
+  "Tangaroa",
+  "Itzamna",
+  "R\u00edgs\u00feula",
+  "T\u0101ne",
+  "Apkallu",
+  "Nanabozho",
+  "Ramayana"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

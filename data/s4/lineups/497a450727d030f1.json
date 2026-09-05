@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  8,
+  1,
+  5,
+  9,
+  7,
+  6,
+  2,
+  4,
+  10
+ ],
+ "most_similar_reason": "Candidate 3 is essentially the same flood narrative core (a god warns a chosen man of a coming flood, instructs him to build a large vessel, birds are released to test the receding waters, and a sacrifice and divine covenant follow), matching the target's structure almost beat for beat.",
+ "least_similar_reason": "Candidate 10 is a collection of trickster creation and mischief tales with no flood, boat, hero's journey to a flood survivor, or rejuvenation-plant motif, sharing only the broadest 'mythology' framing with the target.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Genesis flood narrative",
+ "i": 223,
+ "target": "Gilgamesh flood myth",
+ "planted": "Genesis flood narrative",
+ "cands": [
+  "Huitzilopochtli",
+  "Mwari",
+  "Genesis flood narrative",
+  "Sang Hyang Tunggal",
+  "Qat (deity)",
+  "Waaq",
+  "Djanggawul",
+  "T\u0101ne",
+  "Pachacamac",
+  "Coyote (mythology)"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  2,
+  10,
+  4,
+  3,
+  8,
+  7,
+  1,
+  5,
+  9
+ ],
+ "most_similar_reason": "Candidate 6 shares the closest match of raven-myth motifs: a culture-hero figure shaping landforms, releasing hidden animals, controlling weather/wind, creating islands by slapping a tail, painting the world, freeing water from a monster, and gifting fire, tools, nets, and canoes to humanity, paralleling the raven spirit's creation acts and gifts.",
+ "least_similar_reason": "Candidate 9 is an abstract discussion of a linguistic/theological term for a diffuse sacred power with no narrative events, creator figures, tricksters, or specific creation acts, making it the least similar to the vivid mythic episodes of the target.",
+ "set": "random",
+ "pair": "Kutkh | Cangjie",
+ "i": 608,
+ "target": "Kutkh",
+ "planted": "Cangjie",
+ "cands": [
+  "Apkallu",
+  "Sosruko",
+  "Nyame",
+  "R\u00edgs\u00feula",
+  "Bumba",
+  "Glooscap",
+  "Djanggawul",
+  "Cangjie",
+  "Wakan Tanka",
+  "Ogun"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 6
+}

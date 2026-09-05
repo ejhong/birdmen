@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  5,
+  2,
+  9,
+  6,
+  3,
+  8,
+  4,
+  1,
+  10
+ ],
+ "most_similar_reason": "Candidate 7 shares the closest cluster of motifs with the target's second telling: a dying god associated with a grain-goddess who fosters agriculture, travels the world teaching farming, rides a serpent-drawn chariot, receives sacred rites, and ultimately becomes a judge of the underworld\u2014paralleling Osiris/Dionysus's role as agricultural teacher and lord of the dead.",
+ "least_similar_reason": "Candidate 10 offers almost no narrative content beyond naming a creator god, sharing none of the distinctive plot elements\u2014murder, dismemberment, search, resurrection, or agricultural teaching\u2014that define the target myth.",
+ "set": "hancock",
+ "pair": "Osiris | Oannes",
+ "i": 119,
+ "target": "Osiris",
+ "planted": "Oannes",
+ "cands": [
+  "Cangjie",
+  "Heitsi-eibib",
+  "Kilibob and Manup",
+  "Oannes",
+  "Sky Woman",
+  "Kvasir",
+  "Triptolemus",
+  "Ninigi-no-Mikoto",
+  "Rama",
+  "Makunaima"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 8
+}

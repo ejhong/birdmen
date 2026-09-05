@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  3,
+  7,
+  1,
+  6,
+  8,
+  10,
+  5,
+  4,
+  2
+ ],
+ "most_similar_reason": "Candidate 9 shares the very distinctive structural motif of a deity who is one of four sons of a spirit father linked to a cardinal direction (paralleling the target's four sons of a creator couple ruling the cardinal directions), and like the target he is a teacher, calendar/writing\u2011inventor, co\u2011creator of the world, and culture-bringer, closely mirroring Quetzalcoatl's roles.",
+ "least_similar_reason": "Candidate 2's spider trickster who competes for ownership of stories, hoards wisdom in a container, and tricks animals for a sky god's wager shares only the loosest generic trickster/sky-deity relationship with the target and none of its distinctive birth myths, cardinal-direction sons, calendar invention, underworld journey, incest, or self-immolation motifs.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Thoth",
+ "i": 175,
+ "target": "Quetzalcoatl",
+ "planted": "Thoth",
+ "cands": [
+  "Sky Woman",
+  "Anansi",
+  "Thoth",
+  "Djanggawul",
+  "Bran the Blessed",
+  "Kvasir",
+  "Prometheus",
+  "White Buffalo Calf Woman",
+  "Nanabozho",
+  "Sosruko"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 2
+}

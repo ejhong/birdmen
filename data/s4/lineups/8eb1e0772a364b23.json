@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  9,
+  5,
+  2,
+  6,
+  8,
+  7,
+  3,
+  1,
+  4
+ ],
+ "most_similar_reason": "Candidate 10 describes Enoch (Idris) almost identically to the target\u2014son of a patriarch, taken up without dying, raised to a heavenly station as chief scribe/attendant among angels, linked to communicating divine revelation to a later prophet, mirroring the target prophet's ascension and role as the second messenger after Adam's line.",
+ "least_similar_reason": "Candidate 4 is a linguistic/etymological survey of a divine name across cultures with no narrative of a prophet, migration, revelation, or ascension, sharing no concrete motifs with the target story.",
+ "set": "related",
+ "pair": "Idris (prophet) | Enoch (ancestor of Noah)",
+ "i": 544,
+ "target": "Idris (prophet)",
+ "planted": "Enoch (ancestor of Noah)",
+ "cands": [
+  "Nyame",
+  "Yu the Great",
+  "Anansi",
+  "Waaq",
+  "Hiawatha",
+  "Prometheus",
+  "Qat (deity)",
+  "Orpheus",
+  "Apkallu",
+  "Enoch (ancestor of Noah)"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

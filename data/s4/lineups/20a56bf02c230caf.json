@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  6,
+  5,
+  2,
+  1,
+  3,
+  4,
+  10,
+  7,
+  9
+ ],
+ "most_similar_reason": "Candidate 8 matches the target almost episode for episode: a god secretly warns a chosen man of a divinely decreed flood, he builds a great boat and loads it with living creatures, the deluge destroys all humanity, the boat grounds on a mountain, birds (including a raven that does not return) are released to test the waters, and he offers a sacrifice around which the gods gather and grant a blessing.",
+ "least_similar_reason": "Candidate 9 shares nothing with the target beyond generic conflict and death \\u2014 it is a dynastic war tale of a giant king, a marriage alliance, a resurrection cauldron, and a talking severed head, with no creator god, no flood, no ark, and no covenant.",
+ "set": "positive",
+ "pair": "Genesis flood narrative | Gilgamesh flood myth",
+ "i": 233,
+ "target": "Genesis flood narrative",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Dangun",
+  "Oduduwa",
+  "\u014ckuninushi",
+  "Maya Hero Twins",
+  "Sky Woman",
+  "Wisakedjak",
+  "Anansi",
+  "Gilgamesh flood myth",
+  "Bran the Blessed",
+  "Amirani"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

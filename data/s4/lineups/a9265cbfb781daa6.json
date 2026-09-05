@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  10,
+  6,
+  8,
+  5,
+  4,
+  2,
+  3,
+  1,
+  7
+ ],
+ "most_similar_reason": "Candidate 9 shares the trickster's defining creation motifs almost point for point: a raven-trickster who creates land, mountains, and valleys through bodily acts, tricks an evil spirit to release sun and moon, and shapes the world through both cunning and folly, closely mirroring the target's episodes of world-singing, moon-defeating, and mountain-shaping tricksterism.",
+ "least_similar_reason": "Candidate 7 is a purely dynastic hero-founding narrative about twin city-founders, divine parentage, and augury-based rivalry with no trickster figure, animal transformation, or creation-through-cunning motifs found in the target.",
+ "set": "random",
+ "pair": "Coyote (mythology) | Maya Hero Twins",
+ "i": 573,
+ "target": "Coyote (mythology)",
+ "planted": "Maya Hero Twins",
+ "cands": [
+  "Yu the Great",
+  "Rama",
+  "Bhagiratha",
+  "Ninigi-no-Mikoto",
+  "R\u00edgs\u00feula",
+  "Kilibob and Manup",
+  "Romulus and Remus",
+  "Makunaima",
+  "Kutkh",
+  "Maya Hero Twins"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 2
+}

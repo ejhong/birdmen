@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  3,
+  6,
+  4,
+  2,
+  9,
+  5,
+  1,
+  10,
+  8
+ ],
+ "most_similar_reason": "Candidate 7, like the target, centers on identifying figures recognized as deity/ancestor figures tied to a specific region and its peoples, though it includes more narrative than the minimal target, it shares the closest thematic core of regional worship/identity without elaborate cosmic conflict or trickery.",
+ "least_similar_reason": "Candidate 10 is the least similar because it is a richly detailed, event-driven myth involving deception, murder, magical transformation, and invention of poetry, sharing none of the target's minimal descriptive framing of a deity simply recognized as such by a people.",
+ "set": "random",
+ "pair": "Abassi | Ziusudra",
+ "i": 602,
+ "target": "Abassi",
+ "planted": "Ziusudra",
+ "cands": [
+  "Prometheus",
+  "Aeneas",
+  "Ayar Manco",
+  "Romulus and Remus",
+  "Kilibob and Manup",
+  "Tezcatlipoca",
+  "Djanggawul",
+  "Yu the Great",
+  "Ziusudra",
+  "Kvasir"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 6
+}

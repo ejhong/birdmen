@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  8,
+  2,
+  6,
+  9,
+  5,
+  1,
+  3,
+  7,
+  4
+ ],
+ "most_similar_reason": "Candidate 10 shares the core Maui-type mythology almost exactly: a hero with a magic fishhook (made from a relative's body part) who tricks his brothers on a fishing expedition to raise land from the sea, alongside other Maui motifs like fire theft and a quest for human immortality that fails due to a companion's laughter, closely mirroring the target's fishhook, island-raising, and trickster themes.",
+ "least_similar_reason": "Candidate 4 describes an Australian Sky Father creation and initiation myth with rock art traditions and taboo names, sharing only the loose generic idea of a sky-associated creator deity and no specific motifs like the fishhook, island fishing, sun-lassoing, or eel/coconut episodes found in the target.",
+ "set": "related",
+ "pair": "M\u0101ui (Hawaiian mythology) | M\u0101ui (M\u0101ori mythology)",
+ "i": 534,
+ "target": "M\u0101ui (Hawaiian mythology)",
+ "planted": "M\u0101ui (M\u0101ori mythology)",
+ "cands": [
+  "Dangun",
+  "Huitzilopochtli",
+  "Prometheus",
+  "Baiame",
+  "Sky Woman",
+  "Ilmarinen",
+  "Nanabozho",
+  "Ninigi-no-Mikoto",
+  "Agastya",
+  "M\u0101ui (M\u0101ori mythology)"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

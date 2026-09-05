@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  6,
+  10,
+  3,
+  8,
+  4,
+  7,
+  1,
+  9,
+  2
+ ],
+ "most_similar_reason": "Candidate 5 shares the target's core plot of a conspiracy among siblings to murder a kinsman, a dismembered body cast down, and an avenging son born to settle the score, along with the god later leading and founding his people's cult centers.",
+ "least_similar_reason": "Candidate 2 is least similar because it contains no story at all\u2014merely the identification of a deity with no actions, relationships, or events to compare.",
+ "set": "hancock",
+ "pair": "Osiris | Oannes",
+ "i": 111,
+ "target": "Osiris",
+ "planted": "Oannes",
+ "cands": [
+  "Corn Mother",
+  "Abassi",
+  "Hiawatha",
+  "Oannes",
+  "Huitzilopochtli",
+  "Tagaro",
+  "Bachu\u00e9",
+  "Yellow Emperor",
+  "Kokopelli",
+  "Glooscap"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 6
+}

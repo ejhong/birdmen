@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  1,
+  9,
+  8,
+  6,
+  4,
+  2,
+  3,
+  5,
+  10
+ ],
+ "most_similar_reason": "Candidate 7 directly features the plumed/feathered serpent deity with multiple, conflicting birth and origin tales, a sister who cares for him, an episode of flying to the sun and having his tongue burned, and links to rain and wind\u2014paralleling the target's core serpent deity mythos almost exactly.",
+ "least_similar_reason": "Candidate 10 concerns Mesopotamian antediluvian sages and kings with tablets of destiny and city foundations, sharing only generic mythic elements (a flood, divine wisdom-bearers) with no serpent deity, twin star motif, or self-sacrifice narrative found in the target.",
+ "set": "related",
+ "pair": "Quetzalcoatl | Kukulkan",
+ "i": 404,
+ "target": "Quetzalcoatl",
+ "planted": "Kukulkan",
+ "cands": [
+  "Glooscap",
+  "Aeneas",
+  "Orpheus",
+  "Bhagiratha",
+  "Hiawatha",
+  "Yu the Great",
+  "Kukulkan",
+  "Yellow Emperor",
+  "Coyote (mythology)",
+  "Apkallu"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  6,
+  8,
+  1,
+  10,
+  4,
+  5,
+  3,
+  9,
+  7
+ ],
+ "most_similar_reason": "Candidate 2 shares the target's defining episodes almost point for point: a trickster demigod with a magic fishhook made from a relative's body part who sneaks along on his brothers' fishing trip and hauls up land that becomes an island, whose brothers' disobedience spoils the result, plus the same cluster of culture-hero deeds (fire, sky/underworld journeys, kin transformed and dying) that mirror the sun-snaring and sky-lifting exploits.",
+ "least_similar_reason": "Candidate 7 has no narrative at all\u2014it is an abstract description of an iconographic, non-acting symbol of transcendence\u2014so it shares none of the target's hero, family relations, fishing, land-making, or trickery episodes.",
+ "set": "related",
+ "pair": "M\u0101ui (Hawaiian mythology) | M\u0101ui (M\u0101ori mythology)",
+ "i": 536,
+ "target": "M\u0101ui (Hawaiian mythology)",
+ "planted": "M\u0101ui (M\u0101ori mythology)",
+ "cands": [
+  "Bhagiratha",
+  "M\u0101ui (M\u0101ori mythology)",
+  "Berossus",
+  "Ziusudra",
+  "Apkallu",
+  "Obatala",
+  "Sang Hyang Tunggal",
+  "Adapa",
+  "Palamedes (mythology)",
+  "Aeneas"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  3,
+  8,
+  7,
+  1,
+  5,
+  9,
+  10,
+  6,
+  4
+ ],
+ "most_similar_reason": "Candidate 2, like the target, centers on a serpent-associated culture hero of the same kind of tradition who founds/orders human affairs, invents the calendar and books, journeys and brings gifts (cacao, grain) to a people, and is tied to specific ritual and day-name symbolism.",
+ "least_similar_reason": "Candidate 4 is merely a one-line note that a creator god of variant names is worshipped in a river basin, with no hero, deeds, migrations, foundings, or any episode matching the target's narrative.",
+ "set": "hancock",
+ "pair": "Votan | Quetzalcoatl",
+ "i": 143,
+ "target": "Votan",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Nyame",
+  "Quetzalcoatl",
+  "Prometheus",
+  "Makunaima",
+  "Sosruko",
+  "Waaq",
+  "Kutkh",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Anansi",
+  "Mwari"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 1
+}

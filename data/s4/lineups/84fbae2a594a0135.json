@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  9,
+  6,
+  7,
+  2,
+  4,
+  5,
+  1,
+  3,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 shares the closest specific motifs with the target: a hero who is an avatar of a great god, born into royal lineage, whose wife must prove her chastity through a dramatic ordeal (a fire trial) after suspicion of impropriety, paralleling the target's heroine proving fidelity by surviving a self-set fire with her sons.",
+ "least_similar_reason": "Candidate 10 is a loosely connected cycle of trickster and creation tales with no royal genealogy, sacred treasures, mountain-god marriage, fire ordeal, or burial-shrine motifs, making it structurally and thematically the most distant from the target.",
+ "set": "random",
+ "pair": "Ninigi-no-Mikoto | Coyote (mythology)",
+ "i": 591,
+ "target": "Ninigi-no-Mikoto",
+ "planted": "Coyote (mythology)",
+ "cands": [
+  "Triptolemus",
+  "Agastya",
+  "Pachacamac",
+  "Tezcatlipoca",
+  "Wayland the Smith",
+  "Romulus and Remus",
+  "Baiame",
+  "Rama",
+  "Yu the Great",
+  "Coyote (mythology)"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 10
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  2,
+  8,
+  3,
+  10,
+  9,
+  7,
+  5,
+  1,
+  6
+ ],
+ "most_similar_reason": "Candidate 4 shares the target's most distinctive specifics \u2014 a divine founder-hero descended from the sun deity who carries a golden staff, emerges with siblings, founds the civilization's capital city, and is tied to a great lake with an island temple \u2014 matching the target's flood-sparing pair and city-founding episode almost point for point.",
+ "least_similar_reason": "Candidate 6 is an agricultural harvest custom about housing a grain spirit in a straw figure, with no creator deity, no human-making, flood, teaching of civilization, or departure over the sea.",
+ "set": "related",
+ "pair": "Viracocha | Manco C\u00e1pac",
+ "i": 426,
+ "target": "Viracocha",
+ "planted": "Manco C\u00e1pac",
+ "cands": [
+  "Aeneas",
+  "Apkallu",
+  "Kutkh",
+  "Manco C\u00e1pac",
+  "Kvasir",
+  "Corn Mother",
+  "Djanggawul",
+  "Prometheus",
+  "Kilibob and Manup",
+  "Tezcatlipoca"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

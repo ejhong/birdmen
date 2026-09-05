@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  6,
+  9,
+  8,
+  7,
+  4,
+  2,
+  3,
+  1,
+  5
+ ],
+ "most_similar_reason": "Candidate 10, like the target, presents a single divine founder figure through several mutually conflicting origin legends (son of a creator god, son of the sun and moon deities, miraculous royal birth), involves sibling incest, a fourfold spatial division, and civilizing/founding acts, matching the target's structure of competing birth accounts plus culture-hero and incest episodes.",
+ "least_similar_reason": "Candidate 5 is a linear heroic epic of bow-stringing, exile, and a wife's abduction with no conflicting birth traditions, no cosmological quartet or star twin, and no invention of writing, calendar, crops, or creation of humankind.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Oannes",
+ "i": 68,
+ "target": "Quetzalcoatl",
+ "planted": "Oannes",
+ "cands": [
+  "Amirani",
+  "Kokopelli",
+  "Wisakedjak",
+  "Oannes",
+  "Rama",
+  "Yellow Emperor",
+  "Kutkh",
+  "Great Peacemaker",
+  "Glooscap",
+  "Ayar Manco"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 6
+}

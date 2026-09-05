@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  4,
+  7,
+  5,
+  2,
+  10,
+  8,
+  3,
+  1,
+  6
+ ],
+ "most_similar_reason": "Candidate 9 shares the target's core: a royally-born prince who leaves palace life, a wandering teacher-founder of a religious community, renunciation of rulership, and withdrawal into ascetic seclusion, which is essentially the same legend cycle in a different guise.",
+ "least_similar_reason": "Candidate 6 offers only a bare note that a creator god is recognized under several names in a region, with no characters, events, conversion, or renunciation to compare with the target's narrative.",
+ "set": "positive",
+ "pair": "Barlaam and Josaphat | Gautama Buddha",
+ "i": 330,
+ "target": "Barlaam and Josaphat",
+ "planted": "Gautama Buddha",
+ "cands": [
+  "Kutkh",
+  "Berossus",
+  "Glooscap",
+  "Triptolemus",
+  "Huitzilopochtli",
+  "Makunaima",
+  "Cangjie",
+  "Baiame",
+  "Gautama Buddha",
+  "Ziusudra"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

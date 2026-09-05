@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  8,
+  5,
+  4,
+  6,
+  9,
+  10,
+  7,
+  2,
+  3
+ ],
+ "most_similar_reason": "Candidate 1 retells the Isis-Osiris-Horus myth almost exactly, with the same core cast (earth/sky-descended siblings, brother-husband god slain by a jealous brother, wife and sister recovering and reassembling the dismembered body, magical revival to conceive a son, and the son's eventual vengeance) mirroring the target's primary narrative in structure and specific motifs.",
+ "least_similar_reason": "Candidate 3 describes ancestral rain/cloud spirits associated with rock art and seasonal renewal rituals, sharing only the generic idea of powerful nature deities with no dismemberment, murder, resurrection, or familial conspiracy paralleling the target's distinctive plot.",
+ "set": "related",
+ "pair": "Osiris | Isis",
+ "i": 463,
+ "target": "Osiris",
+ "planted": "Isis",
+ "cands": [
+  "Isis",
+  "Mbombo",
+  "Wandjina",
+  "Wayland the Smith",
+  "Tagaro",
+  "Adapa",
+  "Yellow Emperor",
+  "Bran the Blessed",
+  "R\u00edgs\u00feula",
+  "Nanabozho"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

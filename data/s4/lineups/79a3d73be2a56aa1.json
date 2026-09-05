@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  4,
+  3,
+  9,
+  8,
+  1,
+  7,
+  10,
+  2,
+  5
+ ],
+ "most_similar_reason": "Candidate 6 most closely mirrors the target's core motif of a deity personified in and shaping the mountains, lakes, and caves of a landscape, including a specific mountain flattened by his leap and a nearby sacred cave containing depictions of him\u2014paralleling the target's mountain deity, cave, and associated origin myth for a natural feature.",
+ "least_similar_reason": "Candidate 5 is an etymological and linguistic discussion about the word for 'God' and its survival in place names, with no mountain deity, cave, mummies, or salt flat narrative, making it the least similar in content and structure.",
+ "set": "related",
+ "pair": "Tunupa | Viracocha",
+ "i": 457,
+ "target": "Tunupa",
+ "planted": "Viracocha",
+ "cands": [
+  "Bhagiratha",
+  "White Buffalo Calf Woman",
+  "Obatala",
+  "Viracocha",
+  "Waaq",
+  "Baiame",
+  "Cadmus",
+  "Apkallu",
+  "\u014ckuninushi",
+  "Wayland the Smith"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 2
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  1,
+  9,
+  10,
+  6,
+  2,
+  3,
+  4,
+  5,
+  8
+ ],
+ "most_similar_reason": "Candidate 7 shares the target's core template of a civilizing hero remembered through conflicting origin accounts, who travels between towns being welcomed, retreats/disappears at a sacred site, and is later confirmed as a peace-founder whose arrival is commemorated by an assembly of chiefs, closely mirroring the target's multiple-witness legend, cave retreat, chiefs' visits, and festival commemoration.",
+ "least_similar_reason": "Candidate 8 is not a narrative at all but an abstract discussion of a linguistic/spiritual concept, lacking any of the specific mythic events, figures, or hero journey found in the target.",
+ "set": "hancock",
+ "pair": "Bochica | Quetzalcoatl",
+ "i": 129,
+ "target": "Bochica",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Quetzalcoatl",
+  "Ogun",
+  "Agastya",
+  "Bran the Blessed",
+  "Sky Woman",
+  "Palamedes (mythology)",
+  "Great Peacemaker",
+  "Wakan Tanka",
+  "Gesar",
+  "Apkallu"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 2
+}

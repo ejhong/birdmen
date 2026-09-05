@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  8,
+  1,
+  5,
+  4,
+  9,
+  2,
+  3,
+  6,
+  7
+ ],
+ "most_similar_reason": "Candidate 10 shares the target's core flood narrative in nearly every specific beat: a favored man commanded by a deity to build a huge vessel, loading family and animals, the destruction of all other mankind, the boat coming to rest on a mountain, the sending of birds, the post-flood sacrifice accepted by the gods, and a divine blessing/reward afterward.",
+ "least_similar_reason": "Candidate 7 is a static iconographic description of a humpbacked flute-playing fertility trickster with no flood, no patriarch, no sons, no covenant, and no narrative sequence at all.",
+ "set": "positive",
+ "pair": "Noah | Utnapishtim",
+ "i": 277,
+ "target": "Noah",
+ "planted": "Utnapishtim",
+ "cands": [
+  "Mbombo",
+  "\u014ckuninushi",
+  "Wayland the Smith",
+  "Bhagiratha",
+  "Pachacamac",
+  "Heitsi-eibib",
+  "Kokopelli",
+  "Qat (deity)",
+  "Romulus and Remus",
+  "Utnapishtim"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

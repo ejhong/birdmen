@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  9,
+  6,
+  8,
+  2,
+  4,
+  7,
+  5,
+  3,
+  1
+ ],
+ "most_similar_reason": "Candidate 10 shares the flood narrative structure almost point-for-point: divine warning to a chosen hero, building of a boat, destruction of all life, birds released to test the waters (including a raven that does not return), the boat resting on a mountain, and a post-flood sacrifice that appeases the gods.",
+ "least_similar_reason": "Candidate 1 describes a creator deity's ritual functions, calendrical patronage, and mythic transformations with no flood, ark, birds, or covenant motifs, making it the least thematically related to the target story.",
+ "set": "positive",
+ "pair": "Genesis flood narrative | Gilgamesh flood myth",
+ "i": 232,
+ "target": "Genesis flood narrative",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "Itzamna",
+  "Anansi",
+  "Mwari",
+  "Mbombo",
+  "Djanggawul",
+  "Bran the Blessed",
+  "Kilibob and Manup",
+  "Orpheus",
+  "Prometheus",
+  "Gilgamesh flood myth"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 1
+}

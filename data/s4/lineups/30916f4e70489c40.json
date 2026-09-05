@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  4,
+  9,
+  10,
+  3,
+  8,
+  6,
+  5,
+  7,
+  1
+ ],
+ "most_similar_reason": "Candidate 2 is essentially the same flood-hero narrative core (a righteous man secretly warned by a god, building a vessel, loading it with life, a multi-day storm, landing on a mountain, releasing birds including a raven that does not return, and offering a sacrifice that leads the god(s) to make a covenant/blessing), mirroring nearly every major structural beat of the target's flood episode.",
+ "least_similar_reason": "Candidate 1 contains no narrative events, figures, or actions at all, being purely an etymological survey of a god's name across languages and place-names, sharing nothing of the flood-hero journey, boat-building, or serpent/plant motifs central to the target.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Genesis flood narrative",
+ "i": 229,
+ "target": "Gilgamesh flood myth",
+ "planted": "Genesis flood narrative",
+ "cands": [
+  "Waaq",
+  "Genesis flood narrative",
+  "Agastya",
+  "Prometheus",
+  "Itzamna",
+  "Hiawatha",
+  "Corn Mother",
+  "Tangaroa",
+  "Aeneas",
+  "Orpheus"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 1
+}

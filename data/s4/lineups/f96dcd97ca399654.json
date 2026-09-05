@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  9,
+  5,
+  8,
+  6,
+  7,
+  1,
+  4,
+  10,
+  2
+ ],
+ "most_similar_reason": "Candidate 3 shares the flood myth structure almost point-for-point: divine warning to build a boat, animals and family loaded aboard, days of storm, resting on a mountain, release of a raven and dove, and a post-flood sacrifice with the gods gathering and a covenant-like resolution.",
+ "least_similar_reason": "Candidate 2 is a musician-hero tale about charming nature, a doomed rescue from the underworld, and death by frenzied worshippers, sharing no flood, ark, birds, or covenant motifs with the target.",
+ "set": "positive",
+ "pair": "Genesis flood narrative | Gilgamesh flood myth",
+ "i": 231,
+ "target": "Genesis flood narrative",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "White Buffalo Calf Woman",
+  "Orpheus",
+  "Gilgamesh flood myth",
+  "Wandjina",
+  "Aeneas",
+  "T\u0101ne",
+  "Baiame",
+  "Triptolemus",
+  "Obatala",
+  "V\u00e4in\u00e4m\u00f6inen"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 1
+}

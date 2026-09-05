@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  1,
+  2,
+  3,
+  9,
+  5,
+  6,
+  7,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 4, like the target, centers on a culture-bringing god who invents writing/books and the calendar (winning the extra days), is bound up with a set of four deities born to a primordial divine couple, journeys/functions in the underworld, and supplies the magic that restores life to the dead.",
+ "least_similar_reason": "Candidate 10 is a bare statement that a two-named being was a supreme deity, with no births, inventions, gifts to humanity, or any episodes to compare with the target's rich narrative.",
+ "set": "hancock",
+ "pair": "Quetzalcoatl | Thoth",
+ "i": 179,
+ "target": "Quetzalcoatl",
+ "planted": "Thoth",
+ "cands": [
+  "Glooscap",
+  "Mama Ocllo",
+  "Kokopelli",
+  "Thoth",
+  "Nyame",
+  "R\u00edgs\u00feula",
+  "Djanggawul",
+  "Amirani",
+  "Anansi",
+  "Bumba"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

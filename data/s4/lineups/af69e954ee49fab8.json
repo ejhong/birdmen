@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  3,
+  9,
+  8,
+  10,
+  5,
+  4,
+  6,
+  1,
+  7
+ ],
+ "most_similar_reason": "Candidate 2 (the prophet Idris/Enoch figure) shares nearly all core motifs with the target: being the second prophet after Adam, raised to a high station, associated with writing, measures, and crafts, and ultimately taken bodily into the fourth heaven by the angel of death rather than dying normally, directly paralleling Enoch's translation, scribal role, and heavenly ascension.",
+ "least_similar_reason": "Candidate 7, a trickster raven creation myth involving defecation-formed lands, animal spirits, and cosmic mischief, shares no meaningful correspondence with the target's themes of patriarchal lineage, righteousness, scribal revelation, or ascension without death.",
+ "set": "related",
+ "pair": "Enoch (ancestor of Noah) | Idris (prophet)",
+ "i": 551,
+ "target": "Enoch (ancestor of Noah)",
+ "planted": "Idris (prophet)",
+ "cands": [
+  "Ilmarinen",
+  "Idris (prophet)",
+  "Apkallu",
+  "Maya Hero Twins",
+  "Tezcatlipoca",
+  "Wayland the Smith",
+  "Kutkh",
+  "Gesar",
+  "Dangun",
+  "Unkulunkulu"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 1
+}

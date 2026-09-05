@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  10,
+  2,
+  3,
+  4,
+  9,
+  1,
+  5,
+  8,
+  6
+ ],
+ "most_similar_reason": "Candidate 7's seven sages are amphibious, water-dwelling beings sent to bring civilization and wisdom, associated with primeval waters and banishment/return to water, entrusted with tablets of destiny (paralleling the target's watery star-beings who need water, give their life-principles to humans, and originate religious leadership).",
+ "least_similar_reason": "Candidate 6 is a bare one-line statement about a deity with two names and shares no specific motifs\u2014no twins, dismemberment, shrines, star-origin, or water imagery\u2014making it the least similar to the richly detailed target myth.",
+ "set": "hancock",
+ "pair": "Nommo | Oannes",
+ "i": 182,
+ "target": "Nommo",
+ "planted": "Oannes",
+ "cands": [
+  "Triptolemus",
+  "Maya Hero Twins",
+  "Shennong",
+  "Dangun",
+  "Amirani",
+  "Bumba",
+  "Oannes",
+  "Heitsi-eibib",
+  "Gesar",
+  "Glooscap"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

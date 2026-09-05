@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  1,
+  8,
+  4,
+  9,
+  5,
+  7,
+  2,
+  6,
+  3
+ ],
+ "most_similar_reason": "Candidate 10 features a wise culture hero who brings the arts of civilization (writing, calendar, houses, boats), is known by multiple names, is linked to a divine title and to the founding of a royal dynasty, and is later verified by a historian compiling oral traditions into written history\u2014closely paralleling the target's sages who teach civilization, found cities, and are later reduced to human 'experts' recorded in tradition.",
+ "least_similar_reason": "Candidate 3 is a localized sibling-rivalry origin tale about canoes and unequal distribution of goods with no sages, flood, fish/bird hybrids, tablets, or divine teaching of civilization, making it thematically the most distant from the target.",
+ "set": "hancock",
+ "pair": "Oannes | Viracocha",
+ "i": 34,
+ "target": "Oannes",
+ "planted": "Viracocha",
+ "cands": [
+  "Viracocha",
+  "Ilmarinen",
+  "Kilibob and Manup",
+  "Huitzilopochtli",
+  "Glooscap",
+  "Djanggawul",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "White Buffalo Calf Woman",
+  "T\u0101ne",
+  "Yellow Emperor"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 2
+}

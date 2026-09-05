@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  9,
+  6,
+  4,
+  8,
+  10,
+  1,
+  7,
+  5,
+  2
+ ],
+ "most_similar_reason": "Candidate 3 shares the target's core pattern of a divine figure appearing among mortals, testing two men (one destroyed for his impiety, the other chosen), and then entrusting the chosen mortal with sacred ceremonies and a sacred gift to be carried back and spread among his people.",
+ "least_similar_reason": "Candidate 2 is not a narrative at all but a philological survey of a divine name's linguistic spread, containing no hero, no teaching of a craft, and none of the target's episodes.",
+ "set": "random",
+ "pair": "Triptolemus | Nyame",
+ "i": 570,
+ "target": "Triptolemus",
+ "planted": "Nyame",
+ "cands": [
+  "Pachacamac",
+  "Waaq",
+  "White Buffalo Calf Woman",
+  "Huitzilopochtli",
+  "Nyame",
+  "Nanabozho",
+  "Heitsi-eibib",
+  "Romulus and Remus",
+  "Yellow Emperor",
+  "Rama"
+ ],
+ "planted_pos": 5,
+ "model": "opus",
+ "planted_rank": 9
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  5,
+  2,
+  9,
+  8,
+  6,
+  3,
+  10,
+  4,
+  1
+ ],
+ "most_similar_reason": "Candidate 7 centers on the same distinctive figure\u2014a plumed/feathered serpent deity with multiple variant birth and origin tales, associations with sun, wind and rain, and journeys between worlds\u2014matching the target's serpent culture hero and its conflicting mythic accounts.",
+ "least_similar_reason": "Candidate 1 contains no narrative at all, merely noting that a spirit is recognized as a deity, so it shares none of the target's births, inventions, journeys, or transformations.",
+ "set": "related",
+ "pair": "Quetzalcoatl | Kukulkan",
+ "i": 403,
+ "target": "Quetzalcoatl",
+ "planted": "Kukulkan",
+ "cands": [
+  "Abassi",
+  "Great Peacemaker",
+  "Sang Hyang Tunggal",
+  "Bumba",
+  "Nanabozho",
+  "Kvasir",
+  "Kukulkan",
+  "R\u00edgs\u00feula",
+  "Romulus and Remus",
+  "Waaq"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  8,
+  3,
+  5,
+  1,
+  9,
+  7,
+  4,
+  2,
+  6
+ ],
+ "most_similar_reason": "Candidate 10 is essentially the same work: an advisor instructs a ruler through a nested cycle of animal fables that includes the scheming jackal-type courtier at a lion king's court who destroys a friendship, the four weak friends (crow, mouse, turtle, deer) who save each other, and the war between crows and owls won by infiltration.",
+ "least_similar_reason": "Candidate 6 describes an agricultural harvest custom of making a straw figure to house a grain spirit, with no instructive frame narrative, no animal fables, and no characters at all.",
+ "set": "positive",
+ "pair": "Panchatantra | Kalila wa-Dimna",
+ "i": 341,
+ "target": "Panchatantra",
+ "planted": "Kalila wa-Dimna",
+ "cands": [
+  "Cadmus",
+  "Bachu\u00e9",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Kokopelli",
+  "\u014ckuninushi",
+  "Corn Mother",
+  "Wisakedjak",
+  "Great Peacemaker",
+  "Ziusudra",
+  "Kalila wa-Dimna"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

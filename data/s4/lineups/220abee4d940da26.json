@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  2,
+  7,
+  5,
+  4,
+  1,
+  3,
+  6,
+  9,
+  8
+ ],
+ "most_similar_reason": "Candidate 10 shares the most distinctive correspondences with the target: a culture-hero god who gives a grain crop and teaches arts to humanity, is bound to a sister-consort, is tricked by a rival deity, is sealed inside a chest, and is linked with the underworld and rebirth/afterlife.",
+ "least_similar_reason": "Candidate 8 has no comparable figures or plot at all\ttheir story is about diffuse rain spirits and the repainting of rock art, with no fratricide, dismemberment, avenging son, agricultural teaching, or rule over the dead.",
+ "set": "hancock",
+ "pair": "Osiris | Quetzalcoatl",
+ "i": 97,
+ "target": "Osiris",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Wayland the Smith",
+  "T\u0101ne",
+  "Gesar",
+  "Cadmus",
+  "Ogun",
+  "Nanabozho",
+  "Prometheus",
+  "Wandjina",
+  "Bhagiratha",
+  "Quetzalcoatl"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

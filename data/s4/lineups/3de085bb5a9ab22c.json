@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  3,
+  4,
+  8,
+  2,
+  5,
+  7,
+  1,
+  10,
+  6
+ ],
+ "most_similar_reason": "Candidate 9 shares the same distinctive trickster-hero cycle: a magic fishhook made from a relative's body part, secretly joining the brothers' fishing trip and hauling up land, the brothers' interference spoiling the result, plus fire-stealing and other feats of the same culture-hero type.",
+ "least_similar_reason": "Candidate 6 is a single-sentence note about a creator god's names and region, with no episodes, relationships, or motifs to correspond with the target's hero cycle.",
+ "set": "related",
+ "pair": "M\u0101ui (Hawaiian mythology) | M\u0101ui (M\u0101ori mythology)",
+ "i": 530,
+ "target": "M\u0101ui (Hawaiian mythology)",
+ "planted": "M\u0101ui (M\u0101ori mythology)",
+ "cands": [
+  "Kokopelli",
+  "\u014ckuninushi",
+  "Tagaro",
+  "Orpheus",
+  "Baiame",
+  "Makunaima",
+  "Itzamna",
+  "Ninigi-no-Mikoto",
+  "M\u0101ui (M\u0101ori mythology)",
+  "Mwari"
+ ],
+ "planted_pos": 9,
+ "model": "opus",
+ "planted_rank": 1
+}

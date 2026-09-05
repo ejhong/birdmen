@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  5,
+  3,
+  6,
+  2,
+  8,
+  1,
+  4,
+  10,
+  9
+ ],
+ "most_similar_reason": "Candidate 7 shares the core flood narrative almost episode for episode: a deity resolves to destroy wicked mankind by flood, commands a chosen man to build a great boat, he saves his family and animals, the rest perish, and after the waters recede he offers a sacrifice that the deity accepts and rewards with a blessing/covenant.",
+ "least_similar_reason": "Candidate 9 is a bare statement that a deity had two names, containing no flood, vessel, survivor, or quest-for-immortality content at all.",
+ "set": "positive",
+ "pair": "Utnapishtim | Noah",
+ "i": 262,
+ "target": "Utnapishtim",
+ "planted": "Noah",
+ "cands": [
+  "Anansi",
+  "Great Peacemaker",
+  "Agastya",
+  "Sosruko",
+  "Romulus and Remus",
+  "T\u0101ne",
+  "Noah",
+  "Wayland the Smith",
+  "Bumba",
+  "Kokopelli"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

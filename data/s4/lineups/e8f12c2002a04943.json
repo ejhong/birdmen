@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  3,
+  5,
+  6,
+  1,
+  9,
+  10,
+  2,
+  8,
+  7
+ ],
+ "most_similar_reason": "Candidate 4 depicts a civilizing hero who descends to found a religion, travels between towns receiving hospitality, retreats to a cave where chiefs come seeking wisdom, and is honored with a sun temple\u2014closely paralleling the target's bearded teacher-god who wanders as a civilizer, is welcomed by peoples, and is commemorated with sacred sites tied to the sun.",
+ "least_similar_reason": "Candidate 7 is almost entirely about a smith-god's technical feats of forging metal objects (sky-dome, iron, a golden maiden, a magic mill) with no cosmogonic creation of humanity, no flood, no walking on water, and no civilizing teacher motif, making it the most thematically distant from the target.",
+ "set": "hancock",
+ "pair": "Viracocha | Bochica",
+ "i": 208,
+ "target": "Viracocha",
+ "planted": "Bochica",
+ "cands": [
+  "Unkulunkulu",
+  "Kokopelli",
+  "Tezcatlipoca",
+  "Bochica",
+  "Hiawatha",
+  "Kvasir",
+  "Ilmarinen",
+  "Waaq",
+  "Tagaro",
+  "White Buffalo Calf Woman"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

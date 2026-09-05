@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  5,
+  1,
+  9,
+  10,
+  2,
+  8,
+  6,
+  7,
+  3
+ ],
+ "most_similar_reason": "Candidate 4 is essentially the same work: a wise teacher instructing royalty through nested animal fable cycles with the identical books\u2014the scheming jackal at the lion king's court destroying the lion's friendship, the crow-mouse-turtle-deer friendship, and the crow-versus-owl war won by a spy's counsel.",
+ "least_similar_reason": "Candidate 3 has no narrative at all\u2014it describes an abstract iconographic symbol of an unknowable deity\u2014so it shares no characters, events, or motifs with the target's fable cycle.",
+ "set": "positive",
+ "pair": "Kalila wa-Dimna | Panchatantra",
+ "i": 351,
+ "target": "Kalila wa-Dimna",
+ "planted": "Panchatantra",
+ "cands": [
+  "Maya Hero Twins",
+  "Hiawatha",
+  "Sang Hyang Tunggal",
+  "Panchatantra",
+  "Kvasir",
+  "T\u0101ne",
+  "Bachu\u00e9",
+  "Sky Woman",
+  "Amirani",
+  "Gesar"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

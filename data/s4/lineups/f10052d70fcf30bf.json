@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  9,
+  3,
+  4,
+  10,
+  8,
+  2,
+  5,
+  1,
+  7
+ ],
+ "most_similar_reason": "Candidate 6, like the target, centers on a wandering teacher of royal birth who renounces the world, attains awakening, and founds a monastic religious order that others convert to and retreat into, matching the target's core religious-founder/conversion/seclusion motifs.",
+ "least_similar_reason": "Candidate 7 is a trickster myth cycle about creation, animal transformations, and mischievous cosmic pranks, sharing no meaningful overlap with the target's themes of royal persecution, prophesied conversion, and religious abdication.",
+ "set": "positive",
+ "pair": "Barlaam and Josaphat | Gautama Buddha",
+ "i": 335,
+ "target": "Barlaam and Josaphat",
+ "planted": "Gautama Buddha",
+ "cands": [
+  "Sky Woman",
+  "Wakan Tanka",
+  "Oduduwa",
+  "Ayar Manco",
+  "Cangjie",
+  "Gautama Buddha",
+  "Coyote (mythology)",
+  "Waaq",
+  "Apkallu",
+  "R\u00edgs\u00feula"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

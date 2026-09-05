@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  6,
+  9,
+  10,
+  8,
+  4,
+  5,
+  2,
+  7,
+  1
+ ],
+ "most_similar_reason": "Candidate 3 shares the target's distinctive layered-mythology structure\u2014a main historical founding narrative followed by a separate 'creation tradition' and an 'outside tradition'\u2014along with themes of sibling/consort pairing, dynastic offshoots founding many kingdoms, and a divine ancestor tied to a sacred city, closely mirroring the target's three parallel hero accounts.",
+ "least_similar_reason": "Candidate 1 is not a narrative at all but a linguistic and etymological survey of a divine name across languages, sharing no plot elements, characters, or events with the target's story of siblings, conquest, and city-founding.",
+ "set": "related",
+ "pair": "Manco C\u00e1pac | Viracocha",
+ "i": 439,
+ "target": "Manco C\u00e1pac",
+ "planted": "Viracocha",
+ "cands": [
+  "Waaq",
+  "Hiawatha",
+  "Oduduwa",
+  "Nanabozho",
+  "Sky Woman",
+  "Viracocha",
+  "Mwari",
+  "Baiame",
+  "\u014ckuninushi",
+  "Ogun"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 2
+}

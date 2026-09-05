@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  10,
+  9,
+  7,
+  3,
+  6,
+  2,
+  5,
+  1,
+  4
+ ],
+ "most_similar_reason": "Candidate 8 shares the core flood-myth structure with the target: a forewarned hero building a vessel, surviving a divine flood with his wife, later making offerings and repopulating the earth, closely paralleling the ark, sacrifice, and covenant motifs of the target.",
+ "least_similar_reason": "Candidate 4 is an abstract discussion of a spiritual concept ('Great Spirit/Mystery') with no narrative events, characters, or plot, making it the least similar to the target's detailed flood and patriarch story.",
+ "set": "positive",
+ "pair": "Noah | Deucalion",
+ "i": 396,
+ "target": "Noah",
+ "planted": "Deucalion",
+ "cands": [
+  "Baiame",
+  "Agastya",
+  "Itzamna",
+  "Wakan Tanka",
+  "Kokopelli",
+  "Ilmarinen",
+  "Tezcatlipoca",
+  "Deucalion",
+  "Sky Woman",
+  "Bhagiratha"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

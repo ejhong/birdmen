@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  6,
+  10,
+  9,
+  3,
+  4,
+  7,
+  5,
+  8,
+  1
+ ],
+ "most_similar_reason": "Candidate 2 concerns the same kind of figure\u2014a plumed/winged serpent deity known through several divergent tales, associated with wind and rain, with a sister who cares for him and a journey between life and death\u2014matching the target's feathered serpent with multiple conflicting accounts, wind/light attributes, a sister, and an underworld passage.",
+ "least_similar_reason": "Candidate 1 is about landscape-forming cloud and rain spirits embodied in repainted rock art, with no comparable birth stories, culture-hero inventions, human creation, drunkenness/incest episode, or star transformation.",
+ "set": "related",
+ "pair": "Quetzalcoatl | Kukulkan",
+ "i": 406,
+ "target": "Quetzalcoatl",
+ "planted": "Kukulkan",
+ "cands": [
+  "Wandjina",
+  "Kukulkan",
+  "Prometheus",
+  "Qat (deity)",
+  "Nyame",
+  "Shennong",
+  "\u014ckuninushi",
+  "White Buffalo Calf Woman",
+  "Yellow Emperor",
+  "Obatala"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  2,
+  7,
+  3,
+  9,
+  10,
+  1,
+  4,
+  6,
+  8
+ ],
+ "most_similar_reason": "Candidate 5 shares the closest cluster of specific motifs: a divine family conflict with a jealous sibling, dismemberment/death and resurrection themes tied to a specific god, and a son avenging or continuing the father's legacy, echoing the target's core Osirian pattern of fratricide, body dispersal, and filial vengeance.",
+ "least_similar_reason": "Candidate 8 describes a monotheistic-style supreme creator worshipped through mediums and oracles with no myth of murder, dismemberment, siblings, or a vengeful son, sharing almost none of the target's distinctive narrative structure.",
+ "set": "hancock",
+ "pair": "Osiris | Viracocha",
+ "i": 52,
+ "target": "Osiris",
+ "planted": "Viracocha",
+ "cands": [
+  "Baiame",
+  "\u014ckuninushi",
+  "Viracocha",
+  "Hiawatha",
+  "Huitzilopochtli",
+  "Unkulunkulu",
+  "Heitsi-eibib",
+  "Mwari",
+  "Ilmarinen",
+  "Oduduwa"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 4
+}

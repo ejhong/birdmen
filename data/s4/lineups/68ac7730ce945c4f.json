@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  7,
+  2,
+  5,
+  9,
+  10,
+  3,
+  4,
+  1,
+  8
+ ],
+ "most_similar_reason": "Candidate 6 is a direct parallel to the target: a wise advisor teaches princes through nested animal fables, including the same jackal-schemer-in-a-lion's-court tale, the same four-animal (crow, mouse, turtle, deer) friendship cycle, and a bird-war-with-a-spy tale, matching the target's structure and specific motifs almost exactly.",
+ "least_similar_reason": "Candidate 8 is a mother-goddess origin myth about a woman emerging from a lake to populate the earth and later transforming into a serpent, sharing no advisor-frame, animal-fable structure, or betrayal/revenge motifs with the target.",
+ "set": "positive",
+ "pair": "Kalila wa-Dimna | Panchatantra",
+ "i": 354,
+ "target": "Kalila wa-Dimna",
+ "planted": "Panchatantra",
+ "cands": [
+  "Mwari",
+  "Tangaroa",
+  "Yu the Great",
+  "Ziusudra",
+  "T\u0101ne",
+  "Panchatantra",
+  "Pachacamac",
+  "Bachu\u00e9",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Orpheus"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  4,
+  5,
+  3,
+  1,
+  9,
+  8,
+  2,
+  7,
+  10
+ ],
+ "most_similar_reason": "Candidate 6 shares the target's core content of a deity bound to specific terrain\u2014creating mountains, lakes and caves, with a named mountain whose flat top and adjacent sacred cave are still pointed to as physical proof of the story\u2014matching the target's mountain-deity whose legends explain a nearby landform and whose slopes hold a sacred cave and ancient site.",
+ "least_similar_reason": "Candidate 10 is a purely human-scale revenge and escape tale of a crippled smith, with no deified landscape feature, no etiology for terrain, and no sacred cave, village or mountain.",
+ "set": "related",
+ "pair": "Tunupa | Viracocha",
+ "i": 457,
+ "target": "Tunupa",
+ "planted": "Viracocha",
+ "cands": [
+  "Bhagiratha",
+  "White Buffalo Calf Woman",
+  "Obatala",
+  "Viracocha",
+  "Waaq",
+  "Baiame",
+  "Cadmus",
+  "Apkallu",
+  "\u014ckuninushi",
+  "Wayland the Smith"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 2
+}

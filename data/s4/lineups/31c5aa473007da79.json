@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  9,
+  2,
+  8,
+  10,
+  4,
+  3,
+  5,
+  6,
+  1
+ ],
+ "most_similar_reason": "Candidate 7 matches the target most closely because it centers on a deity bound to a specific mountain whose shape is explained by his actions, with an adjacent sacred cave holding remains/images and site-specific landscape origin lore.",
+ "least_similar_reason": "Candidate 1 is least similar because it concerns a court historian inventing writing from animal tracks, with no sacred mountain, no landscape-origin explanation, no cave, and no village site.",
+ "set": "related",
+ "pair": "Tunupa | Viracocha",
+ "i": 452,
+ "target": "Tunupa",
+ "planted": "Viracocha",
+ "cands": [
+  "Cangjie",
+  "Bhagiratha",
+  "Wakan Tanka",
+  "Mwari",
+  "White Buffalo Calf Woman",
+  "Berossus",
+  "Baiame",
+  "Viracocha",
+  "Wandjina",
+  "Ogun"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 4
+}

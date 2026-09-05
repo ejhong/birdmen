@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  4,
+  3,
+  10,
+  7,
+  2,
+  6,
+  8,
+  5,
+  9
+ ],
+ "most_similar_reason": "Candidate 1 shares the target's exact core narrative: a favored man warned by deity to build a huge vessel, loading family and animals, the destruction of all other people by flood, the birds sent out to test the receding waters, landing on a mountain, and a sacrifice to the divine after survival.",
+ "least_similar_reason": "Candidate 9 is a revenge-and-escape tale about a crippled smith who murders a king's sons and seduces his daughter, with no flood, no divine command, no covenant, no ancestral line of peoples, and no shared motifs with the target.",
+ "set": "positive",
+ "pair": "Noah | Utnapishtim",
+ "i": 278,
+ "target": "Noah",
+ "planted": "Utnapishtim",
+ "cands": [
+  "Utnapishtim",
+  "Agastya",
+  "Dangun",
+  "Bhagiratha",
+  "Kvasir",
+  "Kutkh",
+  "Wandjina",
+  "Nanabozho",
+  "Wayland the Smith",
+  "T\u0101ne"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

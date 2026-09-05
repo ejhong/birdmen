@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  2,
+  4,
+  7,
+  5,
+  9,
+  10,
+  8,
+  1,
+  3
+ ],
+ "most_similar_reason": "Candidate 6 tells essentially the same figure's story: a righteous early prophet descended from the first man, credited with writing, astronomy and measures, who preaches to his people, is carried up through the heavens by an angel, and is 'raised to a high station' rather than dying an ordinary death.",
+ "least_similar_reason": "Candidate 3 concerns mouthless cloud-and-rain spirits who became rock paintings maintained by ritual repainting, sharing none of the target's motifs of a righteous ancestor taken alive to heaven, angelic office, scribal teaching, or transmitted revelation.",
+ "set": "related",
+ "pair": "Enoch (ancestor of Noah) | Idris (prophet)",
+ "i": 554,
+ "target": "Enoch (ancestor of Noah)",
+ "planted": "Idris (prophet)",
+ "cands": [
+  "Djanggawul",
+  "Ogun",
+  "Wandjina",
+  "Yellow Emperor",
+  "Heitsi-eibib",
+  "Idris (prophet)",
+  "Huitzilopochtli",
+  "Kokopelli",
+  "Anansi",
+  "Coyote (mythology)"
+ ],
+ "planted_pos": 6,
+ "model": "opus",
+ "planted_rank": 1
+}

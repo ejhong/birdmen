@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  8,
+  9,
+  5,
+  7,
+  2,
+  10,
+  3,
+  4,
+  6
+ ],
+ "most_similar_reason": "Candidate 1 matches the target most closely because it centers on a civilizing hero-deity who comes among people, orders/founds a great city, teaches religion and the arts of civilization while wandering town to town, and is remembered in multiple conflicting versions of his identity and family.",
+ "least_similar_reason": "Candidate 6 is least similar because it is a revenge tale of a crippled smith murdering a king's sons and escaping by flight, with no civilizing hero, no religious founding, no conflicting identifications, and no cave, cat, wind, or sun-temple motifs.",
+ "set": "hancock",
+ "pair": "Bochica | Viracocha",
+ "i": 214,
+ "target": "Bochica",
+ "planted": "Viracocha",
+ "cands": [
+  "Viracocha",
+  "Kutkh",
+  "Abassi",
+  "Bhagiratha",
+  "Tezcatlipoca",
+  "Wayland the Smith",
+  "Kokopelli",
+  "Nanabozho",
+  "White Buffalo Calf Woman",
+  "Waaq"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

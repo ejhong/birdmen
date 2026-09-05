@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  4,
+  7,
+  2,
+  8,
+  1,
+  9,
+  10,
+  6,
+  3
+ ],
+ "most_similar_reason": "Candidate 5 most closely echoes the target's core motif of a deity tied to a specific mountain (titled 'Great Ruler of the Central Peak') who is known under multiple names and possesses a variety of attributes, paralleling the target's mountain deity with varying attributes.",
+ "least_similar_reason": "Candidate 3 is a lengthy heroic epic about exile, marriage contests, and a kidnapping that shares no elements of a personified mountain, a salt flat origin myth, a cave of mummies, or an ancient village, making it the least similar to the target.",
+ "set": "related",
+ "pair": "Tunupa | Viracocha",
+ "i": 455,
+ "target": "Tunupa",
+ "planted": "Viracocha",
+ "cands": [
+  "Bumba",
+  "Coyote (mythology)",
+  "Rama",
+  "Glooscap",
+  "Yellow Emperor",
+  "Great Peacemaker",
+  "Kutkh",
+  "Wisakedjak",
+  "Viracocha",
+  "\u014ckuninushi"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 7
+}

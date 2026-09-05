@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  6,
+  2,
+  8,
+  5,
+  9,
+  4,
+  3,
+  7,
+  10
+ ],
+ "most_similar_reason": "Candidate 1 shares the exact frame-tale structure of the target\u2014a wise advisor teaching a ruler through nested animal fables involving a scheming jackal-like canine at a lion king's court, a group of four cooperating weak animals (rodent, bird, tortoise, deer) saving each other, and a bird-kingdom war decided by loyalty and counsel\u2014mirroring the Panchatantra's five books almost point for point.",
+ "least_similar_reason": "Candidate 10 is a sprawling heroic epic about a mortal prince's wartime deeds, divine parentage, flight from a burning city, love affairs, and eventual apotheosis, sharing no animal-fable structure, pedagogical framing, or cooperative/betrayal motifs with the target.",
+ "set": "positive",
+ "pair": "Panchatantra | Kalila wa-Dimna",
+ "i": 346,
+ "target": "Panchatantra",
+ "planted": "Kalila wa-Dimna",
+ "cands": [
+  "Kalila wa-Dimna",
+  "Nyame",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Tangaroa",
+  "Pachacamac",
+  "Sosruko",
+  "Palamedes (mythology)",
+  "Prometheus",
+  "Ayar Manco",
+  "Aeneas"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 1
+}

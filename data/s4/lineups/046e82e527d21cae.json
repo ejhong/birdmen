@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  10,
+  9,
+  6,
+  3,
+  5,
+  1,
+  7,
+  2,
+  4
+ ],
+ "most_similar_reason": "Candidate 8 features a divine being sent down by a sky god to found a city, accompanied by ministers, who teaches humans laws, arts, agriculture, and forms of healing\u2014closely paralleling the target's motif of divine sages sent to civilize humanity, found cities, and impart specialized knowledge like healing poultices.",
+ "least_similar_reason": "Candidate 4 describes a seasonal agricultural folk ritual about a grain spirit housed in a straw figure, sharing no structural or thematic overlap with the target's mythic sages, flood-era kings, or divine civilizing missions.",
+ "set": "hancock",
+ "pair": "Oannes | Quetzalcoatl",
+ "i": 73,
+ "target": "Oannes",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Coyote (mythology)",
+  "Bachu\u00e9",
+  "Pachacamac",
+  "Corn Mother",
+  "Kilibob and Manup",
+  "Ayar Manco",
+  "R\u00edgs\u00feula",
+  "Dangun",
+  "Quetzalcoatl",
+  "Prometheus"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 3
+}

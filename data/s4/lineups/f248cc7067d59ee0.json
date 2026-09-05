@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  10,
+  5,
+  1,
+  8,
+  7,
+  2,
+  4,
+  3,
+  6
+ ],
+ "most_similar_reason": "Candidate 9 shares the closest structural match: a group/set of demigod-like heroic figures with hybrid or composite origins performing feats for humanity, paired with mortal figures, involving direct combat with primeval chaotic beings (a three-headed giant/dragons) tied to waters, followed by punishment/banishment and confinement by a higher god, echoing the target's sages-in-waters banishment and chaos motif.",
+ "least_similar_reason": "Candidate 6 is least similar because it describes localized cloud/rain spirits tied to rock art, waterholes, and seasonal repainting rituals with no seven-sage structure, no primeval kings, no flood-tablet-craft narrative, and no equivalent to the specific motifs of poultices, tablets of destiny, or banishment to primeval waters.",
+ "set": "hancock",
+ "pair": "Oannes | Quetzalcoatl",
+ "i": 79,
+ "target": "Oannes",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Aeneas",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Wisakedjak",
+  "Nyame",
+  "Glooscap",
+  "Wandjina",
+  "Wayland the Smith",
+  "Sky Woman",
+  "Amirani",
+  "Quetzalcoatl"
+ ],
+ "planted_pos": 10,
+ "model": "sonnet",
+ "planted_rank": 2
+}

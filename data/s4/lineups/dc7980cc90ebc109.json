@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  4,
+  9,
+  3,
+  1,
+  7,
+  6,
+  5,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 2 is essentially a retelling of the same Ramayana narrative with names removed, preserving nearly every distinctive motif: the sky god's incarnation, the demon king's origin and abduction of the wife, the archery-contest marriage, exile with the brother, the demoness rebuffed, the monkey general and causeway-building, the fire ordeal, and even the later doubt/exile subplot.",
+ "least_similar_reason": "Candidate 10 contains only a single vague statement about a supreme being with two names and shares none of the specific events, relationships, or motifs found in the target story.",
+ "set": "positive",
+ "pair": "Ramayana | Ramakien",
+ "i": 308,
+ "target": "Ramayana",
+ "planted": "Ramakien",
+ "cands": [
+  "Heitsi-eibib",
+  "Ramakien",
+  "Cadmus",
+  "Gesar",
+  "White Buffalo Calf Woman",
+  "Cangjie",
+  "Apkallu",
+  "Djanggawul",
+  "Qat (deity)",
+  "Bumba"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 1
+}

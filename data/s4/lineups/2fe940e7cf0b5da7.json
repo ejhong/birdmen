@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  1,
+  10,
+  6,
+  2,
+  8,
+  4,
+  5,
+  3,
+  9
+ ],
+ "most_similar_reason": "Candidate 7 mirrors the Buddha legend almost point-for-point (a royal heir isolated to prevent contact with a persecuted ascetic faith, secretly converted by a holy man, later renouncing rule to live as an ascetic with his teacher), making it the clearest structural and thematic echo of the target's renunciation-and-awakening narrative.",
+ "least_similar_reason": "Candidate 9 consists of a loosely connected cycle of trickster creation and animal-transformation myths with no royal birth, renunciation, enlightenment, ethical teaching, or institutional legacy, sharing only the vague theme of a supernatural culture-figure shaping the world.",
+ "set": "positive",
+ "pair": "Gautama Buddha | Barlaam and Josaphat",
+ "i": 321,
+ "target": "Gautama Buddha",
+ "planted": "Barlaam and Josaphat",
+ "cands": [
+  "Great Peacemaker",
+  "Mama Ocllo",
+  "Wayland the Smith",
+  "Bachu\u00e9",
+  "Cangjie",
+  "Oduduwa",
+  "Barlaam and Josaphat",
+  "Romulus and Remus",
+  "Coyote (mythology)",
+  "Hiawatha"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

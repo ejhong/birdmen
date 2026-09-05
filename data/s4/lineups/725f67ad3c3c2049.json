@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  1,
+  3,
+  10,
+  4,
+  2,
+  9,
+  5,
+  6,
+  7
+ ],
+ "most_similar_reason": "Candidate 8 centers on the very same kind of figure\u2014a feathered/plumed serpent deity with multiple conflicting tales, links to the sun/morning star, wind, and a sister, plus a journey to the underworld\u2014matching the target's serpent-god cycle almost point for point.",
+ "least_similar_reason": "Candidate 7 is a purely human warrior-prince tale of oaths, battlefield cleverness, and rival treachery, sharing no serpent, sun, rain, or creation motifs with the target.",
+ "set": "related",
+ "pair": "Kukulkan | Quetzalcoatl",
+ "i": 411,
+ "target": "Kukulkan",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Wandjina",
+  "Great Peacemaker",
+  "Tangaroa",
+  "Hiawatha",
+  "Qat (deity)",
+  "Rama",
+  "Palamedes (mythology)",
+  "Quetzalcoatl",
+  "Mwari",
+  "Glooscap"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

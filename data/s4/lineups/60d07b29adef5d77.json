@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  5,
+  8,
+  1,
+  6,
+  9,
+  7,
+  4,
+  2,
+  3
+ ],
+ "most_similar_reason": "Candidate 10 belongs to the same mythic complex as the target\u2014a wisdom god of the subterranean freshwater deep who is served by a group of sages, creates and saves mankind through the flood, and dispenses crafts and incantations\u2014matching the target's sages, flood-era chronology, and divine patron in unusually specific ways.",
+ "least_similar_reason": "Candidate 3 shares nothing with the target beyond being a deity: it is a humpbacked flute-playing fertility trickster tied to childbirth, game animals, and rain, with no sages, no flood, no kings, and no bringing of civilized arts or writing.",
+ "set": "related",
+ "pair": "Oannes | Enki",
+ "i": 496,
+ "target": "Oannes",
+ "planted": "Enki",
+ "cands": [
+  "Hiawatha",
+  "Sosruko",
+  "Kokopelli",
+  "Tagaro",
+  "Cangjie",
+  "Kilibob and Manup",
+  "Anansi",
+  "Palamedes (mythology)",
+  "Djanggawul",
+  "Enki"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 1
+}

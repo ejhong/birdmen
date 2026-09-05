@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  3,
+  10,
+  8,
+  9,
+  4,
+  5,
+  2,
+  7,
+  1
+ ],
+ "most_similar_reason": "Candidate 6 features divine figures sent by a high god to civilize a needy people, teaching them construction and household arts, founding a great city and building a temple at its center\u2014paralleling the target's seven sages sent to bring wisdom and civilization, found cities, and enlarge a temple.",
+ "least_similar_reason": "Candidate 1 is a self-contained creation/death/resurrection myth about a single creator god's struggle with Death and his animal/drum symbolism, sharing no specific motifs with the seven sage-figures, flood, tablets of destiny, or fish-men imagery of the target.",
+ "set": "hancock",
+ "pair": "Oannes | Quetzalcoatl",
+ "i": 78,
+ "target": "Oannes",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Nyame",
+  "Glooscap",
+  "Quetzalcoatl",
+  "Baiame",
+  "White Buffalo Calf Woman",
+  "Mama Ocllo",
+  "Wandjina",
+  "Ilmarinen",
+  "Heitsi-eibib",
+  "Kvasir"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 2
+}

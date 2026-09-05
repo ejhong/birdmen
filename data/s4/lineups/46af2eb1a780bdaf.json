@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  9,
+  4,
+  5,
+  3,
+  1,
+  2,
+  10,
+  6,
+  7
+ ],
+ "most_similar_reason": "Candidate 8 clearly parallels the target's Fuxi/N\u00fcwa material: a creator goddess who molds humans from clay, mends the cosmos after catastrophe, marries her brother after a mountain-top sign of divine approval (mist instead of fire), and uses a fan to hide their faces during consummation, closely mirroring the sibling marriage, clay-made humans, and fire-sign courtship in the target.",
+ "least_similar_reason": "Candidate 7 offers only a vague, generic statement that a creator god exists among river-basin peoples, with no specific motifs, episodes, or relationships corresponding to the target's detailed cosmogony and cultural inventions.",
+ "set": "related",
+ "pair": "Fuxi | N\u00fcwa",
+ "i": 504,
+ "target": "Fuxi",
+ "planted": "N\u00fcwa",
+ "cands": [
+  "Ogun",
+  "R\u00edgs\u00feula",
+  "Agastya",
+  "T\u0101ne",
+  "\u014ckuninushi",
+  "Wandjina",
+  "Makunaima",
+  "N\u00fcwa",
+  "Tezcatlipoca",
+  "Ziusudra"
+ ],
+ "planted_pos": 8,
+ "model": "sonnet",
+ "planted_rank": 1
+}

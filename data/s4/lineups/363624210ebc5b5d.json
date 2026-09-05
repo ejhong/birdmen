@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  3,
+  5,
+  2,
+  9,
+  10,
+  8,
+  6,
+  4,
+  7
+ ],
+ "most_similar_reason": "Candidate 1 shares the same narrative world and episode-structure as the target: a princely warrior in a coalition war against/over a foreign city, allied kings bound to a leader, dueling great heroes, divine offspring slain, and disputes about the hero's fate after the city's fall.",
+ "least_similar_reason": "Candidate 7 is not a hero narrative at all but a description of agricultural harvest customs, sharing no figures, deeds, war, inventions, or death-by-treachery with the target.",
+ "set": "random",
+ "pair": "Palamedes (mythology) | Corn Mother",
+ "i": 586,
+ "target": "Palamedes (mythology)",
+ "planted": "Corn Mother",
+ "cands": [
+  "Aeneas",
+  "Ayar Manco",
+  "Bran the Blessed",
+  "Makunaima",
+  "Adapa",
+  "Tangaroa",
+  "Corn Mother",
+  "T\u0101ne",
+  "Maya Hero Twins",
+  "Tezcatlipoca"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 10
+}

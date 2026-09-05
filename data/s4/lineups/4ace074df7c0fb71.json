@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  4,
+  1,
+  7,
+  10,
+  6,
+  2,
+  5,
+  8,
+  9
+ ],
+ "most_similar_reason": "Candidate 3 explicitly shares the target's Andean-style motifs of a bearded creator/culture hero linked to a great lake, a golden staff, a son of the sun god founding civilization after a flood, and human origins from stones and disappearance across water, closely mirroring the target's alternate 'sun god's son with golden staff' account.",
+ "least_similar_reason": "Candidate 9 contains no narrative content at all beyond naming a deity, sharing none of the specific plot elements\u2014siblings, staff, city founding, or dynastic succession\u2014found in the target.",
+ "set": "related",
+ "pair": "Manco C\u00e1pac | Viracocha",
+ "i": 431,
+ "target": "Manco C\u00e1pac",
+ "planted": "Viracocha",
+ "cands": [
+  "Great Peacemaker",
+  "Tagaro",
+  "Viracocha",
+  "Ziusudra",
+  "Wayland the Smith",
+  "Agastya",
+  "Maya Hero Twins",
+  "Ilmarinen",
+  "Abassi",
+  "Triptolemus"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 1
+}

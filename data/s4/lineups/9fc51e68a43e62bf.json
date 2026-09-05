@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  1,
+  10,
+  4,
+  7,
+  2,
+  8,
+  6,
+  5,
+  3
+ ],
+ "most_similar_reason": "Candidate 9 shares the target's most distinctive final episode almost exactly: a defiant hero who offends the sky god and is punished by being chained to/beneath a mountain in perpetual, endlessly renewed torment (with an animal attending the punishment), plus fire/craft and eventual involvement of a strongman figure.",
+ "least_similar_reason": "Candidate 3 is not a narrative at all but a linguistic and religious history of a sky god's name, containing no hero, monsters, combat, or sequence of events comparable to the target.",
+ "set": "random",
+ "pair": "Amirani | Pachacamac",
+ "i": 592,
+ "target": "Amirani",
+ "planted": "Pachacamac",
+ "cands": [
+  "Ogun",
+  "Yellow Emperor",
+  "Waaq",
+  "Triptolemus",
+  "Kokopelli",
+  "Mbombo",
+  "Sky Woman",
+  "Cangjie",
+  "Prometheus",
+  "Pachacamac"
+ ],
+ "planted_pos": 10,
+ "model": "opus",
+ "planted_rank": 3
+}

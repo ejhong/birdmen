@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  5,
+  1,
+  8,
+  6,
+  9,
+  7,
+  4,
+  10,
+  3,
+  2
+ ],
+ "most_similar_reason": "Candidate 5 shares the target's most distinctive complex: a civilizing being (or beings) rising out of the water to teach humankind the arts of civilization and the story of creation, associated with a great flood that divides the ages, credited with founding great cities, and finally departing into the deep waters never to return.",
+ "least_similar_reason": "Candidate 2 is a dynastic war saga about a marriage alliance, a resurrection cauldron, and a talking severed head, with no creator figure, no making or destroying of humankind, no teaching of civilization, and no departure over the sea.",
+ "set": "hancock",
+ "pair": "Viracocha | Bochica",
+ "i": 205,
+ "target": "Viracocha",
+ "planted": "Bochica",
+ "cands": [
+  "Bochica",
+  "Bran the Blessed",
+  "Wayland the Smith",
+  "Kvasir",
+  "Apkallu",
+  "Tezcatlipoca",
+  "Hiawatha",
+  "Glooscap",
+  "Unkulunkulu",
+  "Sosruko"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 2
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  5,
+  8,
+  6,
+  3,
+  10,
+  4,
+  7,
+  1,
+  2
+ ],
+ "most_similar_reason": "Candidate 9 retells the same core narrative\u2014exile of the hero by a stepmother wanting her son to inherit, the wife won through a bow/arrow feat, the loyal younger brother, the demoness whose nose and ear are cut off, the golden deer ruse, the ten-headed demon king's abduction, the monkey-ally alliance, and the final battle and reunion\u2014matching the target's plot almost point for point.",
+ "least_similar_reason": "Candidate 2 is a generic trickster-creator myth about causing and then remedying a world flood, sharing no specific motifs, characters, or plot structure with the target's exile-and-abduction hero narrative.",
+ "set": "positive",
+ "pair": "Ramayana | Reamker",
+ "i": 288,
+ "target": "Ramayana",
+ "planted": "Reamker",
+ "cands": [
+  "Coyote (mythology)",
+  "Wisakedjak",
+  "Sky Woman",
+  "Great Peacemaker",
+  "Kilibob and Manup",
+  "Itzamna",
+  "Djanggawul",
+  "T\u0101ne",
+  "Reamker",
+  "Heitsi-eibib"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

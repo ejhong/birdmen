@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  5,
+  10,
+  2,
+  4,
+  3,
+  7,
+  1,
+  8,
+  6
+ ],
+ "most_similar_reason": "Candidate 9 recounts the Fuxi/N\u00fcwa creation cycle almost identically: a giant creator's death forming the world, twin sibling deities on a sacred mountain who marry after a fire-merging omen, molding clay figures into the first humans, and a drowned daughter becoming a river spirit\u2014paralleling the target's sibling-marriage, mountain, and clay-human motifs directly.",
+ "least_similar_reason": "Candidate 6 offers only a single bare statement naming a deity with no narrative, events, or motifs to compare against the target's rich creation, flood, and marriage story.",
+ "set": "related",
+ "pair": "N\u00fcwa | Fuxi",
+ "i": 518,
+ "target": "N\u00fcwa",
+ "planted": "Fuxi",
+ "cands": [
+  "Rama",
+  "Kilibob and Manup",
+  "Nyame",
+  "Nanabozho",
+  "R\u00edgs\u00feula",
+  "Bumba",
+  "Anansi",
+  "Sang Hyang Tunggal",
+  "Fuxi",
+  "Pachacamac"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

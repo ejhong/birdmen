@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  5,
+  9,
+  2,
+  1,
+  8,
+  7,
+  6,
+  3,
+  10
+ ],
+ "most_similar_reason": "Candidate 4 matches the target most closely because it is a composite of variant traditions about a single civilizing/creator hero who comes to earth, wanders teaching religion and civilization to towns, is linked to the sun and to a founded sacred city, and then withdraws/vanishes.",
+ "least_similar_reason": "Candidate 10 is least similar because it contains no narrative at all\u2014merely the bare identification of a spirit as a deity\u2014so it shares none of the target's episodes, roles, or motifs.",
+ "set": "hancock",
+ "pair": "Bochica | Viracocha",
+ "i": 215,
+ "target": "Bochica",
+ "planted": "Viracocha",
+ "cands": [
+  "Huitzilopochtli",
+  "Hiawatha",
+  "Sosruko",
+  "Viracocha",
+  "Great Peacemaker",
+  "Heitsi-eibib",
+  "Kvasir",
+  "Qat (deity)",
+  "Itzamna",
+  "Abassi"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 1
+}

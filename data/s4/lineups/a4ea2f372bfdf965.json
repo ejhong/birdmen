@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  8,
+  2,
+  3,
+  5,
+  4,
+  9,
+  6,
+  10,
+  1
+ ],
+ "most_similar_reason": "Candidate 7 shares the target's exact core: the archetypal first man/ruler of an age who is warned by a fish incarnation of a great god, builds a boat loaded with sacred scriptures, family, seven sages, and is towed by the fish to safety, within a cycle of successive world-ages headed by such rulers.",
+ "least_similar_reason": "Candidate 1 is a smith-god metallurgy cycle about forging a magic mill and a gold maiden, with no flood, no rescuing animal helper, no first man, and no preservation of humanity or scripture.",
+ "set": "positive",
+ "pair": "Matsya | Manu (Hinduism)",
+ "i": 377,
+ "target": "Matsya",
+ "planted": "Manu (Hinduism)",
+ "cands": [
+  "Ilmarinen",
+  "Kilibob and Manup",
+  "Tezcatlipoca",
+  "Qat (deity)",
+  "Itzamna",
+  "Cadmus",
+  "Manu (Hinduism)",
+  "Prometheus",
+  "Kvasir",
+  "Amirani"
+ ],
+ "planted_pos": 7,
+ "model": "opus",
+ "planted_rank": 1
+}

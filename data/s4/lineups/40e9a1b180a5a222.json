@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  4,
+  3,
+  10,
+  6,
+  8,
+  1,
+  5,
+  9,
+  2
+ ],
+ "most_similar_reason": "Candidate 7 shares the target's core creation sequence in unusually close detail: a solitary, white-formed creator amid primordial darkness and water who brings forth sun, moon and stars, produces humankind (including a white man set to rule), teaches them the arts such as fire-making, and then withdraws from the world.",
+ "least_similar_reason": "Candidate 2 is a revenge-and-escape tale about a crippled smith who murders a king's sons and seduces his daughter, containing no creation, no civilizing teaching, no flood, and no departing culture-hero figure at all.",
+ "set": "hancock",
+ "pair": "Viracocha | Bochica",
+ "i": 206,
+ "target": "Viracocha",
+ "planted": "Bochica",
+ "cands": [
+  "Cangjie",
+  "Wayland the Smith",
+  "Huitzilopochtli",
+  "Bochica",
+  "Mwari",
+  "White Buffalo Calf Woman",
+  "Mbombo",
+  "Ilmarinen",
+  "Amirani",
+  "Kutkh"
+ ],
+ "planted_pos": 4,
+ "model": "opus",
+ "planted_rank": 2
+}

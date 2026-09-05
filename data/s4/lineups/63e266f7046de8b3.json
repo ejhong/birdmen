@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  8,
+  5,
+  1,
+  9,
+  2,
+  4,
+  6,
+  7,
+  3
+ ],
+ "most_similar_reason": "Candidate 10 shares the target's most distinctive cluster: the figure is explicitly one of four sons of a primordial parental pair, has an animal alter-ego known by a special name, and acts as a co-creator of the world and teacher of humanity who also engages in a duel with a rival being.",
+ "least_similar_reason": "Candidate 3 is a purely human heroic-war legend of inventions, a personal feud, and varying accounts of a murder, with no creation of the world, no divine sibling set, no animal counterpart, and no rival co-creator shaping the earth.",
+ "set": "random",
+ "pair": "Tezcatlipoca | Ayar Manco",
+ "i": 576,
+ "target": "Tezcatlipoca",
+ "planted": "Ayar Manco",
+ "cands": [
+  "Kilibob and Manup",
+  "Ayar Manco",
+  "Palamedes (mythology)",
+  "Ninigi-no-Mikoto",
+  "Baiame",
+  "Anansi",
+  "Bhagiratha",
+  "T\u0101ne",
+  "Yu the Great",
+  "Nanabozho"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 6
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  9,
+  4,
+  3,
+  1,
+  10,
+  6,
+  8,
+  2,
+  5
+ ],
+ "most_similar_reason": "Candidate 7 recounts the same Matsya (fish-avatar) flood myth\u2014a fish warns the king, tows his boat, saves seven sages and scriptures, and grants continuity of a cosmic age\u2014matching the target's core sequence almost exactly.",
+ "least_similar_reason": "Candidate 5 describes an abstract, non-narrative theological symbol of ineffable divinity with no flood, fish, rescue, or creation-through-sacrifice motifs, making it the least similar in content to the target's concrete mythic episodes.",
+ "set": "positive",
+ "pair": "Matsya | Manu (Hinduism)",
+ "i": 376,
+ "target": "Matsya",
+ "planted": "Manu (Hinduism)",
+ "cands": [
+  "Sky Woman",
+  "Gesar",
+  "Glooscap",
+  "Tangaroa",
+  "Sang Hyang Tunggal",
+  "Ogun",
+  "Manu (Hinduism)",
+  "Mwari",
+  "Berossus",
+  "Shennong"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  5,
+  8,
+  3,
+  7,
+  2,
+  10,
+  4,
+  1,
+  6
+ ],
+ "most_similar_reason": "Candidate 9 clearly depicts the same mythic complex as the target (N\u00fcwa/Fuxi), including creation of humans from clay by a divine figure, a sibling pair who become husband-wife on a sacred mountain after a fire-based omen, and other matching cosmological motifs, making it overwhelmingly the closest match.",
+ "least_similar_reason": "Candidate 6 contains no narrative content at all\u2014only a bare statement that a deity is worshipped\u2014so it shares no discernible plot, motif, or relationship with the richly detailed target myth.",
+ "set": "related",
+ "pair": "N\u00fcwa | Fuxi",
+ "i": 519,
+ "target": "N\u00fcwa",
+ "planted": "Fuxi",
+ "cands": [
+  "Wakan Tanka",
+  "Nanabozho",
+  "Tagaro",
+  "Orpheus",
+  "Bachu\u00e9",
+  "Abassi",
+  "Unkulunkulu",
+  "Pachacamac",
+  "Fuxi",
+  "Gesar"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

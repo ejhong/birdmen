@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  9,
+  3,
+  5,
+  7,
+  2,
+  4,
+  1,
+  6,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 shares the target's core profile of a Mesoamerican-style serpent-associated culture hero-deity who founds peoples' arts, invents the calendar and day-signs, is linked to a jaguar/night god counterpart, brings crops from a distant place, and ends with his relics/body consumed by fire.",
+ "least_similar_reason": "Candidate 10 has no hero, no migration, founding, teaching, or narrative events at all\ru2014it is a static theological symbol description rather than a story.",
+ "set": "hancock",
+ "pair": "Votan | Quetzalcoatl",
+ "i": 147,
+ "target": "Votan",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Amirani",
+  "Ogun",
+  "Nanabozho",
+  "White Buffalo Calf Woman",
+  "Shennong",
+  "Makunaima",
+  "Prometheus",
+  "Quetzalcoatl",
+  "Triptolemus",
+  "Sang Hyang Tunggal"
+ ],
+ "planted_pos": 8,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  5,
+  8,
+  3,
+  1,
+  6,
+  7,
+  9,
+  10,
+  4
+ ],
+ "most_similar_reason": "Candidate 2 describes the same feathered serpent deity (Quetzalcoatl) with multiple conflicting birth/origin tales, a link to the wind/rain, and cosmic roles, matching the target's core figure and multi-story structure far more closely than any other candidate.",
+ "least_similar_reason": "Candidate 4 is an extremely generic statement about a creator god with no specific motifs, relationships, or events that correspond to the serpent deity's distinctive episodes in the target.",
+ "set": "related",
+ "pair": "Kukulkan | Quetzalcoatl",
+ "i": 413,
+ "target": "Kukulkan",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Dangun",
+  "Quetzalcoatl",
+  "Kokopelli",
+  "Makunaima",
+  "Yellow Emperor",
+  "Sosruko",
+  "Ziusudra",
+  "Obatala",
+  "Palamedes (mythology)",
+  "Bran the Blessed"
+ ],
+ "planted_pos": 2,
+ "model": "sonnet",
+ "planted_rank": 1
+}

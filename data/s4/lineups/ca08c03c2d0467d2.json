@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  6,
+  2,
+  10,
+  4,
+  1,
+  7,
+  8,
+  5,
+  3
+ ],
+ "most_similar_reason": "Candidate 9 shares the same flood myth core\u2014a clever god warning the flood hero through a reed wall, secret instructions to build a boat, gathering family and animals, and the flood as divine punishment for human noise\u2014closely mirroring the target's Utnapishtim narrative.",
+ "least_similar_reason": "Candidate 3 describes a fertility/trickster deity associated with music, childbirth, and agriculture with no flood, hero quest, or ark-building motifs, making it the least thematically connected to the target's flood and immortality narrative.",
+ "set": "positive",
+ "pair": "Gilgamesh flood myth | Atra-Hasis",
+ "i": 250,
+ "target": "Gilgamesh flood myth",
+ "planted": "Atra-Hasis",
+ "cands": [
+  "Nyame",
+  "T\u0101ne",
+  "Kokopelli",
+  "Ayar Manco",
+  "Bachu\u00e9",
+  "Oduduwa",
+  "Sosruko",
+  "Shennong",
+  "Atra-Hasis",
+  "Tagaro"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

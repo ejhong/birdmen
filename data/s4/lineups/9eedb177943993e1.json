@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  7,
+  10,
+  2,
+  6,
+  5,
+  8,
+  3,
+  9,
+  1
+ ],
+ "most_similar_reason": "Candidate 4 is explicitly the same nested Panchatantra-style frame tale, with a wise advisor teaching princes through interlinked animal fables including a jackal minister at a lion king's court, the cooperative crow-mouse-turtle-deer group, and a crow-owl war, mirroring the target's structure and specific motifs almost exactly.",
+ "least_similar_reason": "Candidate 1 is a purely etymological and historical discussion of a divine name's linguistic spread with no narrative events, characters, or plot, sharing nothing of the target's animal-fable storytelling structure or content.",
+ "set": "positive",
+ "pair": "Kalila wa-Dimna | Panchatantra",
+ "i": 353,
+ "target": "Kalila wa-Dimna",
+ "planted": "Panchatantra",
+ "cands": [
+  "Waaq",
+  "Gesar",
+  "Mwari",
+  "Panchatantra",
+  "T\u0101ne",
+  "Pachacamac",
+  "Cangjie",
+  "Bachu\u00e9",
+  "Wakan Tanka",
+  "Kvasir"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

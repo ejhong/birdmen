@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  1,
+  5,
+  7,
+  6,
+  10,
+  8,
+  2,
+  4,
+  9
+ ],
+ "most_similar_reason": "Candidate 3 most closely matches the target's core pattern of a divine culture-bringer who teaches humanity the arts of civilization (writing, calendar, crops), is tied to primeval kings/eras and a destroyed prior world, and is linked to a specific temple/city and ritual cult, echoing the sages' role as civilizers of humankind.",
+ "least_similar_reason": "Candidate 9 is not a narrative at all but a linguistic and etymological discussion of a divine name across languages, with no sages, no teaching of civilization, no flood, and no sequence of events to compare.",
+ "set": "hancock",
+ "pair": "Oannes | Quetzalcoatl",
+ "i": 75,
+ "target": "Oannes",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Prometheus",
+  "Djanggawul",
+  "Quetzalcoatl",
+  "Sang Hyang Tunggal",
+  "Kutkh",
+  "Kilibob and Manup",
+  "Tagaro",
+  "Baiame",
+  "Waaq",
+  "Mbombo"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  4,
+  1,
+  9,
+  5,
+  2,
+  6,
+  3,
+  8,
+  7,
+  10
+ ],
+ "most_similar_reason": "Candidate 4 shares the core motif of a bearded, human-like civilizing deity who is remembered through multiple divergent traditions, teaches civilization while wandering in disguise, and eventually disappears/vanishes with a promise to return\u2014paralleling the target's multiple conflicting witness accounts and its culture hero who founds religion and civilization.",
+ "least_similar_reason": "Candidate 10 contains almost no narrative content beyond naming a worshipped spirit, sharing none of the specific motifs (multiple testimonies, cave retreat, chiefs seeking wisdom, sun temple) found in the target.",
+ "set": "hancock",
+ "pair": "Bochica | Viracocha",
+ "i": 215,
+ "target": "Bochica",
+ "planted": "Viracocha",
+ "cands": [
+  "Huitzilopochtli",
+  "Hiawatha",
+  "Sosruko",
+  "Viracocha",
+  "Great Peacemaker",
+  "Heitsi-eibib",
+  "Kvasir",
+  "Qat (deity)",
+  "Itzamna",
+  "Abassi"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 1
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  9,
+  8,
+  6,
+  5,
+  7,
+  2,
+  10,
+  4,
+  1
+ ],
+ "most_similar_reason": "Candidate 3 describes Quetzalcoatl, a creator/culture-hero deity linked to light, the calendar, and civilization who creates a new race of mankind from the bones of earlier destroyed peoples and later disappears in a fiery/watery transformation, closely mirroring the target's bearded creator who forms humans from stones, destroys a flawed race by flood, teaches civilization, and vanishes across the water.",
+ "least_similar_reason": "Candidate 1 is a purely linguistic/etymological discussion of the word for 'God' across related languages with no narrative of creation, flood, teaching, or disappearance, making it structurally and thematically unrelated to the target myth.",
+ "set": "hancock",
+ "pair": "Viracocha | Quetzalcoatl",
+ "i": 3,
+ "target": "Viracocha",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Waaq",
+  "Palamedes (mythology)",
+  "Quetzalcoatl",
+  "Bumba",
+  "\u014ckuninushi",
+  "Wandjina",
+  "Agastya",
+  "Ogun",
+  "Triptolemus",
+  "Kvasir"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 1
+}

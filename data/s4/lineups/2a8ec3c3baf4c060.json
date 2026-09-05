@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  3,
+  7,
+  6,
+  5,
+  4,
+  2,
+  1,
+  8,
+  10
+ ],
+ "most_similar_reason": "Candidate 9 shares the closest cluster of distinctive motifs with the target: a fertility/agriculture deity linked to the underworld, who teaches humanity to cultivate crops, undergoes death and transformation (burned/ashes rising) reminiscent of dismemberment-resurrection, and is entangled in sibling/trickery themes, paralleling the god's dual roles as agricultural teacher and lord of the dead.",
+ "least_similar_reason": "Candidate 10 is a minimal creation myth about an ancestor figure fashioning humans and livestock from reeds and then abandoning his creation, sharing none of the target's distinctive motifs of murder, dismemberment, marital search, or resurrection.",
+ "set": "hancock",
+ "pair": "Osiris | Quetzalcoatl",
+ "i": 98,
+ "target": "Osiris",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Ziusudra",
+  "Adapa",
+  "Prometheus",
+  "Wayland the Smith",
+  "Bran the Blessed",
+  "Tagaro",
+  "Kvasir",
+  "R\u00edgs\u00feula",
+  "Quetzalcoatl",
+  "Unkulunkulu"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

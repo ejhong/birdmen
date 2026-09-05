@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  8,
+  5,
+  2,
+  6,
+  3,
+  7,
+  1,
+  4,
+  9,
+  10
+ ],
+ "most_similar_reason": "Candidate 8 shares the closest structural and motif overlap with the target: a marriage alliance between kingdoms, a vengeful mutilation (paralleling the nose/ear cutting), the abduction/abuse of a royal wife, and a brother crossing the sea to wage a rescue-war against the offending king, mirroring Rama's exile, the demoness mutilation, Sita's abduction, and the sea-crossing war for her rescue.",
+ "least_similar_reason": "Candidate 10 contains no narrative content at all beyond naming a worshipped deity, sharing no discernible plot, relationships, or motifs with the richly detailed heroic narrative of the target.",
+ "set": "random",
+ "pair": "Rama | Unkulunkulu",
+ "i": 595,
+ "target": "Rama",
+ "planted": "Unkulunkulu",
+ "cands": [
+  "Unkulunkulu",
+  "Obatala",
+  "White Buffalo Calf Woman",
+  "Nyame",
+  "\u014ckuninushi",
+  "Hiawatha",
+  "Mbombo",
+  "Bran the Blessed",
+  "Sang Hyang Tunggal",
+  "Abassi"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 7
+}

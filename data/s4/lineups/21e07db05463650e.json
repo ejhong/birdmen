@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  8,
+  6,
+  10,
+  2,
+  3,
+  4,
+  7,
+  9,
+  5
+ ],
+ "most_similar_reason": "Candidate 1 is manifestly the same epic narrative: a divine incarnation as a prince who wins a princess at an archery/bow contest, is exiled to the forest with his brother, spurns a demoness, has his wife abducted by a multi-headed demon king of an island realm, allies with monkey figures whose usurping/exiled brother-king subplot mirrors the target, recovers her after a great battle, and returns home\u2014including the wife's fidelity test.",
+ "least_similar_reason": "Candidate 5 is a cosmogonic trickster-raven cycle about the shaping of land, light, and animals with no prince, no exile, no abducted wife, and no rescue quest, sharing nothing but the generic presence of supernatural beings.",
+ "set": "positive",
+ "pair": "Ramayana | Ramakien",
+ "i": 307,
+ "target": "Ramayana",
+ "planted": "Ramakien",
+ "cands": [
+  "Ramakien",
+  "R\u00edgs\u00feula",
+  "Shennong",
+  "Itzamna",
+  "Kutkh",
+  "Kilibob and Manup",
+  "Nyame",
+  "Triptolemus",
+  "Anansi",
+  "Ogun"
+ ],
+ "planted_pos": 1,
+ "model": "opus",
+ "planted_rank": 1
+}

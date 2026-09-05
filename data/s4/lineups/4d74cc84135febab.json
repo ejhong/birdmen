@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  7,
+  9,
+  4,
+  2,
+  1,
+  5,
+  8,
+  6,
+  10
+ ],
+ "most_similar_reason": "Candidate 3, though extremely sparse, at least gestures toward a creator-figure known by multiple names associated with civilization-founding among peoples, echoing the target's theme of named sage-figures credited with civilizing humanity, making it the closest thin match among a set of largely unrelated hero/creation narratives.",
+ "least_similar_reason": "Candidate 10 is a linguistic/etymological survey of a divine name across languages and regions with no mythic narrative, sages, floods, kings, or civilizing acts, making it the least similar to the target's story content.",
+ "set": "hancock",
+ "pair": "Oannes | Osiris",
+ "i": 106,
+ "target": "Oannes",
+ "planted": "Osiris",
+ "cands": [
+  "Obatala",
+  "T\u0101ne",
+  "Makunaima",
+  "Osiris",
+  "Kutkh",
+  "Bran the Blessed",
+  "Bumba",
+  "Gesar",
+  "\u014ckuninushi",
+  "Waaq"
+ ],
+ "planted_pos": 4,
+ "model": "sonnet",
+ "planted_rank": 4
+}

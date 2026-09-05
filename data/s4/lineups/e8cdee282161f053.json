@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  3,
+  8,
+  10,
+  9,
+  5,
+  7,
+  1,
+  4,
+  6
+ ],
+ "most_similar_reason": "Candidate 2 shares the core structural motifs of the target: a primordial creator's offspring (four sons/four pairs of twins) with one sibling's death or beheading causing a violent dismemberment/dispersal (body cast down a mountain, brothers scattered into the sky as stars), directly echoing the target's rebellion-then-sacrifice-and-scattering pattern that explains cosmic/geographic origins.",
+ "least_similar_reason": "Candidate 6 describes an abstract, non-narrative theological concept (an ineffable, formless representation of ultimate reality shown as flames or an empty throne) with no creation events, twins, rebellion, dismemberment, or water-dwelling star beings, making it share only the vaguest generic notion of a 'supreme divine principle' with the target.",
+ "set": "hancock",
+ "pair": "Nommo | Oannes",
+ "i": 181,
+ "target": "Nommo",
+ "planted": "Oannes",
+ "cands": [
+  "Ninigi-no-Mikoto",
+  "Huitzilopochtli",
+  "Oannes",
+  "White Buffalo Calf Woman",
+  "Itzamna",
+  "Sang Hyang Tunggal",
+  "T\u0101ne",
+  "Wandjina",
+  "Wisakedjak",
+  "Pachacamac"
+ ],
+ "planted_pos": 3,
+ "model": "sonnet",
+ "planted_rank": 2
+}

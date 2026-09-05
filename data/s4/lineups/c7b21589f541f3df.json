@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  6,
+  9,
+  1,
+  10,
+  4,
+  8,
+  3,
+  7,
+  2,
+  5
+ ],
+ "most_similar_reason": "Candidate 6 shares the core flood-myth structure: a chief god angered by human wickedness decides to destroy mankind, forewarns a single righteous hero who builds a vessel, survives with his family, gives thanks afterward, and becomes ancestor of peoples who repopulate the earth\u2014closely mirroring the target's Deucalion-type flood narrative even though details like animal preservation and the drunkenness episode differ.",
+ "least_similar_reason": "Candidate 5 is an extremely minimal, generic statement about a creator god with no narrative events, flood, genealogy, or specific motifs corresponding to the target story.",
+ "set": "positive",
+ "pair": "Deucalion | Noah",
+ "i": 382,
+ "target": "Deucalion",
+ "planted": "Noah",
+ "cands": [
+  "Yu the Great",
+  "Agastya",
+  "R\u00edgs\u00feula",
+  "Gesar",
+  "Makunaima",
+  "Noah",
+  "T\u0101ne",
+  "Huitzilopochtli",
+  "Bhagiratha",
+  "Dangun"
+ ],
+ "planted_pos": 6,
+ "model": "sonnet",
+ "planted_rank": 1
+}

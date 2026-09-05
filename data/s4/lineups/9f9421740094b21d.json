@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  2,
+  1,
+  6,
+  10,
+  5,
+  4,
+  7,
+  9,
+  3,
+  8
+ ],
+ "most_similar_reason": "Candidate 2 is a near-identical version of the target: a divinely incarnated prince wins a princess at a bow/archery contest, is exiled to the forest with his brother, the mutilated demoness provokes the demon king's abduction of his wife, and he allies with monkey-warriors and a devoted monkey ally to defeat the demon king and reclaim her.",
+ "least_similar_reason": "Candidate 8 has no hero, no abduction or rescue, no genealogy of gods and demons\ninstead only diffuse rain-spirit beings and rock-painting ritual practice, sharing nothing distinctive with the target's narrative.",
+ "set": "positive",
+ "pair": "Ramakien | Ramayana",
+ "i": 310,
+ "target": "Ramakien",
+ "planted": "Ramayana",
+ "cands": [
+  "Aeneas",
+  "Ramayana",
+  "Dangun",
+  "Glooscap",
+  "Tezcatlipoca",
+  "V\u00e4in\u00e4m\u00f6inen",
+  "Itzamna",
+  "Wandjina",
+  "Mama Ocllo",
+  "Orpheus"
+ ],
+ "planted_pos": 2,
+ "model": "opus",
+ "planted_rank": 1
+}

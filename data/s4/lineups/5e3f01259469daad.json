@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  10,
+  9,
+  8,
+  2,
+  6,
+  5,
+  3,
+  4,
+  1,
+  7
+ ],
+ "most_similar_reason": "Candidate 10 features divine siblings sent by a high god to bring civilization and teach humans crafts, founding a city with a special marker (a rod sinking into the ground) much like the seven sages sent by the gods to teach humanity and found cities, closely paralleling the target's core motif of divinely dispatched culture-bringers who instruct and build.",
+ "least_similar_reason": "Candidate 7 describes a purely agricultural folk custom about housing a grain spirit in a straw figure, with no divine sages, no teaching of civilization, and no mythic pairing with kings or flood narrative, making it the least thematically related to the target.",
+ "set": "hancock",
+ "pair": "Oannes | Quetzalcoatl",
+ "i": 72,
+ "target": "Oannes",
+ "planted": "Quetzalcoatl",
+ "cands": [
+  "Amirani",
+  "Coyote (mythology)",
+  "Ninigi-no-Mikoto",
+  "Mbombo",
+  "Tagaro",
+  "Pachacamac",
+  "Corn Mother",
+  "Anansi",
+  "Quetzalcoatl",
+  "Mama Ocllo"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 2
+}

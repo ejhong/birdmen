@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  6,
+  5,
+  2,
+  7,
+  8,
+  3,
+  4,
+  1,
+  10
+ ],
+ "most_similar_reason": "Candidate 9 features multiple non-human beings who descend from the sky/stars into water, require a watery environment, and feed and instruct humanity, closely paralleling the fish-associated apkallu sages who bring civilization and later become tied to religious leadership.",
+ "least_similar_reason": "Candidate 10 is a heroic dragon-slaying and giant-fighting saga with no sages, civilization-teaching, fish/bird hybrids, or flood-related banishment, making it the least thematically connected to the target myth.",
+ "set": "hancock",
+ "pair": "Oannes | Nommo",
+ "i": 199,
+ "target": "Oannes",
+ "planted": "Nommo",
+ "cands": [
+  "Agastya",
+  "Baiame",
+  "Hiawatha",
+  "Unkulunkulu",
+  "Triptolemus",
+  "Kvasir",
+  "Tagaro",
+  "Maya Hero Twins",
+  "Nommo",
+  "Amirani"
+ ],
+ "planted_pos": 9,
+ "model": "sonnet",
+ "planted_rank": 1
+}

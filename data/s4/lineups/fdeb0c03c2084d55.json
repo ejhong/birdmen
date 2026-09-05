@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  9,
+  8,
+  5,
+  4,
+  3,
+  7,
+  2,
+  10,
+  6,
+  1
+ ],
+ "most_similar_reason": "Candidate 9 shares the closest structural pattern to the target myth: siblings/rivals in conflict, a hero who dies and is revived, gains a new name after trials, helps build and organize the land with divine aid, and ultimately cedes rule of the world to a rival power\u2014paralleling the target's themes of divine rivalry, transformation, world-building, and succession of rule.",
+ "least_similar_reason": "Candidate 1 is an abstract theological and iconographic description of a formless, symbolic representation of divine transcendence with no narrative of siblings, world-ages, rivalry, or physical creation acts, making it the least similar to the concrete mythic events of the target.",
+ "set": "random",
+ "pair": "Tezcatlipoca | Sang Hyang Tunggal",
+ "i": 578,
+ "target": "Tezcatlipoca",
+ "planted": "Sang Hyang Tunggal",
+ "cands": [
+  "Sang Hyang Tunggal",
+  "Aeneas",
+  "Wisakedjak",
+  "Kutkh",
+  "Kilibob and Manup",
+  "Corn Mother",
+  "Ninigi-no-Mikoto",
+  "Sky Woman",
+  "\u014ckuninushi",
+  "Agastya"
+ ],
+ "planted_pos": 1,
+ "model": "sonnet",
+ "planted_rank": 10
+}

@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  1,
+  3,
+  9,
+  10,
+  6,
+  8,
+  5,
+  2,
+  7,
+  4
+ ],
+ "most_similar_reason": "Candidate 1 is set squarely within the same Trojan War narrative universe, sharing the alliance of allied kings under a single leader, oaths sworn over a stolen queen, warriors from that same conflict, and themes of heroism, cleverness, and fate, closely mirroring the target's Palamedes-like context even though the specific plot details differ.",
+ "least_similar_reason": "Candidate 4 is merely a brief statement about a creator god in a river-basin region with no narrative events, characters, conflicts, or motifs corresponding to the target's detailed tale of war, rivalry, invention, and multiple death accounts.",
+ "set": "random",
+ "pair": "Palamedes (mythology) | Corn Mother",
+ "i": 586,
+ "target": "Palamedes (mythology)",
+ "planted": "Corn Mother",
+ "cands": [
+  "Aeneas",
+  "Ayar Manco",
+  "Bran the Blessed",
+  "Makunaima",
+  "Adapa",
+  "Tangaroa",
+  "Corn Mother",
+  "T\u0101ne",
+  "Maya Hero Twins",
+  "Tezcatlipoca"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 9
+}

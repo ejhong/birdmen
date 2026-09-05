@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  3,
+  9,
+  5,
+  4,
+  6,
+  10,
+  7,
+  8,
+  1,
+  2
+ ],
+ "most_similar_reason": "Candidate 3 matches the target almost episode for episode: a god secretly warns a chosen man of a divinely decreed flood, he builds a great boat and loads it with kin and animals, the storm destroys all humanity, the boat grounds on a mountain, birds (including a raven and a dove) are released to test the waters, and he offers a sacrifice after which the gods relent and bless him.",
+ "least_similar_reason": "Candidate 2 shares no flood, no divine destruction of humanity, no rescued righteous survivor and no covenant, instead telling of a musician's failed underworld rescue of his wife and his dismemberment.",
+ "set": "positive",
+ "pair": "Genesis flood narrative | Gilgamesh flood myth",
+ "i": 231,
+ "target": "Genesis flood narrative",
+ "planted": "Gilgamesh flood myth",
+ "cands": [
+  "White Buffalo Calf Woman",
+  "Orpheus",
+  "Gilgamesh flood myth",
+  "Wandjina",
+  "Aeneas",
+  "T\u0101ne",
+  "Baiame",
+  "Triptolemus",
+  "Obatala",
+  "V\u00e4in\u00e4m\u00f6inen"
+ ],
+ "planted_pos": 3,
+ "model": "opus",
+ "planted_rank": 1
+}

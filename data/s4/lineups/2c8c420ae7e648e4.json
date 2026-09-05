@@ -1,0 +1,36 @@
+{
+ "ranking": [
+  7,
+  8,
+  9,
+  1,
+  5,
+  3,
+  6,
+  4,
+  10,
+  2
+ ],
+ "most_similar_reason": "Candidate 7 shares the fish-avatar flood myth almost identically, including the fish towing the boat, the seven sages, sacred scriptures, and the cyclical ages of rulers tied to the same tradition as the target.",
+ "least_similar_reason": "Candidate 2 involves an island-origin sibling conflict and canoe-building myth with no flood, fish-god, or creation-via-sacrifice motifs resembling the target.",
+ "set": "positive",
+ "pair": "Matsya | Manu (Hinduism)",
+ "i": 377,
+ "target": "Matsya",
+ "planted": "Manu (Hinduism)",
+ "cands": [
+  "Ilmarinen",
+  "Kilibob and Manup",
+  "Tezcatlipoca",
+  "Qat (deity)",
+  "Itzamna",
+  "Cadmus",
+  "Manu (Hinduism)",
+  "Prometheus",
+  "Kvasir",
+  "Amirani"
+ ],
+ "planted_pos": 7,
+ "model": "sonnet",
+ "planted_rank": 1
+}
