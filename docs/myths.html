@@ -21,6 +21,7 @@ table.inv td.desc { font-family: var(--serif); font-size: .95rem; color: var(--i
 .chip { font-family: var(--mono); font-size: .68rem; border: 1px solid var(--rule); border-radius: 3px; padding: 2px 7px; color: var(--ink-soft); background: #fff; }
 .chip.on { background: var(--copper); color: var(--paper); border-color: var(--copper); }
 </style>
+<link rel="stylesheet" href="collection.css">
 </head>
 <body>
 
@@ -28,11 +29,11 @@ table.inv td.desc { font-family: var(--serif); font-size: .95rem; color: var(--i
   <div class="wrap">
     <div class="eyebrow"><a href="./" style="border:0">Deep Memory test bench</a> &middot; study 2 of 5</div>
     <h1 style="margin-top:14px">Study 2: do the myths travel together?</h1>
-    <p class="deck">A bird-headed figure with a bag, a serpent, a sacred centre called a navel: the internet finds them in Iran, Assyria, Egypt, Mexico, Anatolia, the Andes and Easter Island, and asks how that could be coincidence. We took the one part of the claim that can be tested against a complete inventory, the myths, and tested it on 926 traditions.</p>
+    <p class="deck">A bird-headed figure with a bag, a serpent, a sacred centre called a navel: the internet finds them in Iran, Assyria, Egypt, Mexico, Anatolia, the Andes and Easter Island, and asks how that could be coincidence. We took one operationalised part of the claim, broad narrative motifs in a defined catalogue, and tested it on 926 traditions.</p>
     <div class="meta">
       <span><b>Status</b> v0 &middot; narrative motifs only</span>
       <span><b>Data</b> Berezkin &amp; Duvakin catalogue, 926 traditions &times; 2,138 motifs</span>
-      <span><b>Code &amp; data</b> <a href="https://github.com/ejhong/birdmen">github.com/ejhong/birdmen</a></span>
+      <span><b>Code &amp; data</b> <a href="https://github.com/ejhong/birdmen">Repository</a></span>
       <span><b>Overview</b> <a href="./">the whole claim, all the pictures</a></span>
       <span><b>Study 1</b> <a href="https://ejhong.github.io/rongo/">Indus and rongorongo</a></span>
       <span><b>Built</b> September 2026</span>
@@ -64,6 +65,14 @@ table.inv td.desc { font-family: var(--serif); font-size: .95rem; color: var(--i
 </ol></div></nav>
 
 <main>
+<!-- study-review:start -->
+<aside class="study-review wrap" aria-label="Study scope and limitations">
+  <div class="review-box"><div class="eyebrow">Reading this investigation · updated September 2026</div>
+  <h2>Do the familiar motifs travel together?</h2>
+  <dl><div><dt>What remains useful</dt><dd>In the sampled catalogue, the three broad motif classes are widespread. Their bundle does not stand out against the study&#x27;s documentation-preserving comparisons.</dd></div><div><dt>What it cannot settle</dt><dd>Broad narrative categories are not the specific images or place names in the claim. The 2016 catalogue has uneven coverage, particularly for the ancient Near East and Rapa Nui.</dd></div></dl>
+  <div class="reading-links"><a href="./#investigations">All investigations</a> <a href="#limits">Full limitations</a> <a href="myths.html">Results &amp; method</a></div></div>
+</aside>
+<!-- study-review:end -->
 
 <section class="part" id="claim"><div class="wrap">
   <div class="part-head"><div class="n">01</div><h2>The claim</h2></div>
@@ -82,7 +91,7 @@ table.inv td.desc { font-family: var(--serif); font-size: .95rem; color: var(--i
 </div></section>
 
 <section class="part" id="verdict"><div class="wrap">
-  <div class="part-head"><div class="n">02</div><h2>The verdict, for the part that can be tested</h2></div>
+  <div class="part-head"><div class="n">02</div><h2>What this catalogue comparison found</h2></div>
   <div class="prose">
     <div class="verdict">
       <div class="eyebrow">In one paragraph</div>
@@ -223,7 +232,7 @@ python build_site.py   # docs/data/site.json for this page</pre>
 </main>
 
 <footer><div class="wrap">
-  Built by Eugene Hong with Claude, September 2026. Second case study of a test bench for claims of long-distance transmission; the first is <a href="https://ejhong.github.io/rongo/">Indus and rongorongo</a>. Corrections welcome: <a href="https://github.com/ejhong/birdmen/issues">open an issue</a>.
+  AI-assisted pilot, September 2026. Second case study of a test bench for claims of long-distance transmission; the first is <a href="https://ejhong.github.io/rongo/">Indus and rongorongo</a>. Corrections welcome: <a href="https://github.com/ejhong/birdmen/issues">open an issue</a>.
 </div></footer>
 
 <script src="app.js"></script>

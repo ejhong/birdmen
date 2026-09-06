@@ -21,6 +21,7 @@
 .tag { display: inline-block; font-family: var(--mono); font-size: .62rem; padding: 1px 6px; border: 1px solid var(--rule); border-radius: 3px; margin: 0 3px 3px 0; color: var(--ink-soft); }
 .tag.on { background: rgba(154,91,51,.12); color: var(--copper); border-color: rgba(154,91,51,.3); }
 </style>
+<link rel="stylesheet" href="collection.css">
 </head>
 <body>
 
@@ -28,20 +29,20 @@
   <div class="wrap">
     <div class="eyebrow"><a href="./" style="border:0">Deep Memory test bench</a> &middot; study 5 of 5 &middot; pilot</div>
     <h1 style="margin-top:14px">Study 5: the raven and the dove</h1>
-    <p class="deck">Flood stories are told on every continent, and the lost-civilisation literature reads them as one memory of one cataclysm at the end of the Ice Age. The alternative is older and duller: floods happen everywhere, so flood stories arise everywhere, and the details that make them look like one story are the details of one story, Genesis, carried around the world in the last five centuries. This page codes 263 flood stories for 26 details, blind, and asks which details are universal, which are regional, and which travel with the Bible.</p>
+    <p class="deck">What do flood stories share, and how do their details vary by region and recorded context? This pilot codes 263 summaries for 26 features. The patterns are useful observations; deciding whether a particular story preserves an ancient memory, reflects a local event or borrowed a detail requires further evidence.</p>
     <div class="meta">
       <span><b>Status</b> pilot &middot; pre-registered 4 Sept 2026</span>
       <span><b>Corpus</b> <span data-v="n"></span> stories &middot; 9 regions</span>
       <span><b>Pre-registration</b> <a href="study5/preregistration.md">the document</a></span>
       <span><b>Overview</b> <a href="./">all the pictures and stories</a></span>
-      <span><b>Code &amp; data</b> <a href="https://github.com/ejhong/birdmen">github.com/ejhong/birdmen</a></span>
+      <span><b>Code &amp; data</b> <a href="https://github.com/ejhong/birdmen">Repository</a></span>
     </div>
   </div>
 </header>
 
 <nav class="toc"><div class="wrap"><ol>
   <li><a href="./">&larr; Overview</a></li>
-  <li><a href="#verdict">Verdict</a></li>
+  <li><a href="#verdict">Findings</a></li>
   <li><a href="#claim">The claim</a></li>
   <li><a href="#corpus">Corpus</a></li>
   <li><a href="#coding">Coding</a></li>
@@ -53,9 +54,17 @@
 </ol></div></nav>
 
 <main>
+<!-- study-review:start -->
+<aside class="study-review wrap" aria-label="Study scope and limitations">
+  <div class="review-box"><div class="eyebrow">Reading this investigation · updated September 2026</div>
+  <h2>What is shared, and what is regional, in flood stories?</h2>
+  <dl><div><dt>What remains useful</dt><dd>The coded summaries show regional clustering and an uneven distribution of details associated with Genesis, alongside widespread generic flood motifs.</dd></div><div><dt>What it cannot settle</dt><dd>Regional structure is compatible with ancient inheritance. Recording after contact does not establish borrowing. One AI coded a compiler&#x27;s summaries, not a representative collection of original accounts.</dd></div></dl>
+  <div class="reading-links"><a href="./#investigations">All investigations</a> <a href="#limits">Full limitations</a> <a href="floods.html">Results, stories &amp; limitations</a></div></div>
+</aside>
+<!-- study-review:end -->
 
 <section class="part" id="verdict"><div class="wrap">
-  <div class="part-head"><div class="n">01</div><h2>The verdict, for the pilot</h2></div>
+  <div class="part-head"><div class="n">01</div><h2>What the coded summaries show</h2></div>
   <div class="prose">
     <div class="verdict"><div class="eyebrow">In one paragraph</div><p id="verdict-p"></p></div>
     <div class="stats" id="stats"></div>
@@ -67,14 +76,14 @@
   <div class="prose">
     <p><b>The lost-civilisation reading.</b> In <i>Fingerprints of the Gods</i> (1995), <i>Underworld</i> (2002) and <i>Magicians of the Gods</i> (2015), Graham Hancock collects flood stories from Mesopotamia, Greece, India, China, the Americas, Africa and Oceania and argues that their number and their agreement cannot be coincidence: they are, on his reading, the memory of a real, worldwide catastrophe, which he places at the end of the Younger Dryas around 11,600 years ago, when meltwater and, he argues, comet fragments raised the seas and drowned the coasts of an advanced civilisation whose survivors carried the story, and the arts of civilisation, to the rest of the world. Plato's date for the sinking of Atlantis, nine thousand years before Solon, is close to that horizon, and the coincidence is part of the case. The stories are said to agree on the essentials: a warning, a chosen survivor, a vessel, animals saved, a landing on a mountain, a bird sent to find land, a sacrifice, a promise.</p>
     <p><b>The ordinary reading.</b> Rivers flood, coasts flood, tsunamis strike, and every people that lives by water has a story about the time the water came. Frazer collected the world's flood stories in 1918 and concluded that most were local memories of local floods, some were etiological (why the rocks are shaped so, why the tribes are separate), and a number in the Americas, Africa and the Pacific had taken on details from Genesis after contact with missionaries, which is why the raven and the dove turn up in places that had never heard of Noah before the eighteenth century. The Genesis story itself has a documented ancestry: it descends, in detail, from the Babylonian flood in the <i>Epic of Gilgamesh</i>, which descends from Atra-Hasis and the Sumerian Ziusudra, a chain of transmission over two thousand years within one region. That chain is what a real transmission looks like in a text: the same bird, the same mountain, the same sacrifice, the same sequence.</p>
-    <p><b>What would tell them apart.</b> The two readings make different predictions about which details go where. If one ancient event seeded the world's stories, the specific details should be spread across regions regardless of later contact with the Bible, and the stories should not sort by region. If floods are local and Genesis was carried later, the generic details (a flood, a survivor, a mountain) should be everywhere, the Genesis-specific details (the bird, the raven or dove, the sacrifice, the rainbow, the forty days, the animals loaded) should concentrate in the Near East and in stories that themselves show Christian contact, and the rest of the world's stories should sort by region, each with its own signature: the earth-diver in North America, the sibling couple in a gourd in East and Southeast Asia, the flood from a broken vessel or an angry ancestor in Africa.</p>
+    <p><b>What the pilot can distinguish.</b> It can describe the distribution of the selected features in this collection. The original design expected an ancient common source to produce little regional structure; that is not a necessary consequence of common ancestry, since inherited stories can diversify. Concentrations of biblical-looking details can motivate a borrowing hypothesis, but source history is needed to test its direction and timing. The original expectations remain in the preregistration; they are not treated here as decisive tests.</p>
   </div>
 </div></section>
 
 <section class="part" id="corpus"><div class="wrap">
   <div class="part-head"><div class="n">03</div><h2>The corpus</h2></div>
   <div class="prose">
-    <p>Mark Isaak's <a href="https://www.talkorigins.org/faqs/flood-myths.html">Flood Stories from Around the World</a> is the largest open compendium there is: <span data-v="n"></span> summaries, each with its source (Frazer, Gaster, Vitaliano, Dundes, the ethnographies), grouped by region and, on a <a href="https://www.talkorigins.org/faqs/flood-myths-lang.html">companion page</a>, by language family. It is a secondary source of summaries, and the limits of that are stated at the end. It is also exactly the kind of collection the lost-civilisation books draw on, which makes it the right thing to test.</p>
+    <p>Mark Isaak's <a href="https://www.talkorigins.org/faqs/flood-myths.html">Flood Stories from Around the World</a> is the open compendium used here: <span data-v="n"></span> summaries, each with its source (Frazer, Gaster, Vitaliano, Dundes, the ethnographies), grouped by region and, on a <a href="https://www.talkorigins.org/faqs/flood-myths-lang.html">companion page</a>, by language family. It is a secondary source of summaries, and the limits of that are stated at the end. It is also exactly the kind of collection the lost-civilisation books draw on, which makes it the right thing to test.</p>
   </div>
   <figure><div class="frame plain"><table class="inv" id="region-table"></table></div><figcaption><b>Stories by region.</b> The "ancient" column counts stories from the ancient Near East and the classical and early Asian literate traditions, where the Genesis family and its relatives are documented in texts far older than any missionary.</figcaption></figure>
 </div></section>
@@ -98,7 +107,7 @@
   <figure><div class="frame plain" id="fig-diag"></div><figcaption id="cap-diag"></figcaption></figure>
   <div class="prose"><p id="diag-text"></p></div>
   <h3>The stories outside the ancient Near East with the most Genesis details</h3>
-  <div class="prose"><p>Every story from outside the ancient literate traditions that carries three or more of the seven diagnostic details, with its region, its diagnostic details, any Christian names or terms in the summary, and the opening of the summary. Read them: this is where the claim lives or dies. The keyword flag undercounts. The Masai story at the top of the list, which Frazer took from the German officer Moritz Merker's 1904 account, has a righteous man who "found grace in God's eyes", an ark, animals, a dove and a rainbow, and no keyword; Frazer himself doubted it was untouched by Genesis. The Altaic story has an ark on a mountain and birds sent out, from a people long in contact with Islam, whose scripture has Noah. The Zapotec, Tarascan, Popoluca and Totonac stories were recorded in Mexico centuries after the friars, and two of them name angels, saints and Noéh. What the list does not contain is any story with three or more of the seven details from a people with no known contact with the book.</p></div>
+  <div class="prose"><p>Every story from outside the ancient literate traditions that carries three or more of the seven diagnostic details, with its region, its diagnostic details, any Christian names or terms in the summary, and the opening of the summary. Read them as leads for a source-history investigation. The keyword flag undercounts. The Masai story at the top of the list, which Frazer took from the German officer Moritz Merker's 1904 account, has a righteous man who "found grace in God's eyes", an ark, animals, a dove and a rainbow, and no keyword; Frazer himself doubted it was untouched by Genesis. The Altaic story has an ark on a mountain and birds sent out, from a people long in contact with Islam, whose scripture has Noah. The Zapotec, Tarascan, Popoluca and Totonac stories were recorded in Mexico centuries after the friars, and two of them name angels, saints and Noéh. These contexts show opportunities for transmission; they do not date the first appearance of each detail or demonstrate that it was borrowed.</p></div>
   <div id="far-list"></div>
 </div></section>
 
@@ -117,18 +126,18 @@
 <section class="part" id="limits"><div class="wrap">
   <div class="part-head"><div class="n">09</div><h2>Limits</h2></div>
   <div class="prose">
-    <p><b>Summaries, not texts.</b> Isaak's entries are paragraph summaries of stories that are often much longer. A detail absent from a summary may be present in the story; that is why "unclear" exists and why prevalences are lower bounds. The right full study codes the sources themselves: Frazer's three hundred pages, Dundes's anthology, the ethnographies.</p>
+    <p><b>Summaries, not texts.</b> Isaak's entries are paragraph summaries of stories that are often much longer. A detail absent from a summary may be present in the story; the measured prevalences describe what the summaries and coder captured, not guaranteed lower bounds on the full traditions. The right full study codes the sources themselves: Frazer's three hundred pages, Dundes's anthology, the ethnographies.</p>
     <p><b>Dates are publication dates.</b> The year attached to a story is when its source was published, not when the story was first told or first recorded, and for most of the world the two are separated by contact. A proper stratigraphy needs the collection date of each telling, which the sources contain and the summaries do not.</p>
     <p><b>One coder.</b> A single model coded each story once. Study 3 showed how much two coders can disagree on images; on short texts the task is easier, and spot checks agree, but a second coder and an agreement statistic are the first improvement.</p>
-    <p><b>"Mentions the Bible" is a weak proxy for contact.</b> A story can have taken the dove from a missionary without the summary saying so, and Isaak's own notes flag suspected influence only sometimes. The proxy errs toward the lost-civilisation reading: it under-counts contact.</p>
+    <p><b>Contact is not the same as borrowing.</b> Christian words in a summary, contact with missionaries and a demonstrated history of a particular borrowed detail are different observations. The keyword flag cannot settle direction or timing. The absence of a flag is not evidence of isolation; its presence is not proof that the whole story derives from Genesis.</p>
     <p><b>The corpus is the compilers' corpus.</b> It over-represents what nineteenth- and twentieth-century English-language ethnography recorded, and North America above all. Regional comparisons are between samples of unequal size and quality.</p>
-    <p><b>What would change the verdict.</b> Diagnostic details as common outside the ancient Near East as inside it, in stories with no sign of Christian contact, recorded before contact; and no regional structure in the rest. The pre-registration says so.</p>
+    <p><b>What would improve the inference.</b> Independently check the coding against source passages, distinguish collectors’ notes from narrators’ words, and trace changes within individual traditions. A story can have both ancient ancestry and regional structure. A stronger claim of borrowing needs evidence of particular details entering later versions, not merely a post-contact publication date.</p>
   </div>
 </div></section>
 
 </main>
 
-<footer><div class="wrap">Built by Eugene Hong with Claude, September 2026. Fifth study of the <a href="./">Deep Memory test bench</a>. <a href="https://github.com/ejhong/birdmen/issues">Corrections welcome</a>.</div></footer>
+<footer><div class="wrap">AI-assisted pilot, September 2026. Fifth study of the <a href="./">Deep Memory test bench</a>. <a href="https://github.com/ejhong/birdmen/issues">Corrections welcome</a>.</div></footer>
 
 <script src="s5.js"></script>
 </body>

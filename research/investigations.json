@@ -1,0 +1,62 @@
+[
+  {
+    "id": "scripts",
+    "number": "01",
+    "title": "Indus & rongorongo",
+    "question": "When do similar signs become evidence of a connection?",
+    "status": "Companion project",
+    "url": "https://ejhong.github.io/rongo/",
+    "finding": "A comparison of sign inventories and the illustrations used to connect two undeciphered writing systems. Results and controls live in the companion project.",
+    "limitations": "A visual resemblance does not establish shared sound, meaning or descent. Inventory definitions and the fidelity of the illustrations matter.",
+    "versions": [],
+    "paths": ["https://github.com/ejhong/rongo"]
+  },
+  {
+    "id": "myths",
+    "number": "02",
+    "title": "Birds, serpents & sacred centres",
+    "question": "Do the familiar motifs travel together?",
+    "status": "Catalogue experiment",
+    "url": "myths.html",
+    "finding": "In the sampled catalogue, the three broad motif classes are widespread. Their bundle does not stand out against the study's documentation-preserving comparisons.",
+    "limitations": "Broad narrative categories are not the specific images or place names in the claim. The 2016 catalogue has uneven coverage, particularly for the ancient Near East and Rapa Nui.",
+    "versions": [{"label": "Results & method", "url": "myths.html"}],
+    "paths": ["pipeline/classes.py", "pipeline/analysis.py", "pipeline/build_site.py", "data/results/", "docs/data/site.json"]
+  },
+  {
+    "id": "pictures",
+    "number": "03",
+    "title": "The pillar & the moai",
+    "question": "Can AI measure the resemblance people see?",
+    "status": "Three image pilots",
+    "url": "pictures.html",
+    "finding": "The pilots exposed altered illustrations, unreliable feature coding and strong disagreement between judges. Matching the kinds of objects changed the lineup result.",
+    "limitations": "These models have not been shown to reproduce human judgments of resemblance. Cropping, the photograph, repeated objects and incomplete runs constrain the conclusions.",
+    "versions": [{"label": "Pilots A–C & qualifications", "url": "pictures.html"}],
+    "paths": ["pipeline/s3_*.py", "data/s3/", "docs/study3/preregistration.md", "docs/data/s3.json"]
+  },
+  {
+    "id": "civilisers",
+    "number": "04",
+    "title": "The civilisers",
+    "question": "Where does the resemblance between teaching figures come from?",
+    "status": "V1 experiment · V2 source audit",
+    "url": "civilisers.html",
+    "finding": "V1's claimed partners ranked first in 62.5% of completed lineups, versus 9% for random pairs. The new V2 audit inspects 29 source passages; it has not rerun the similarity test.",
+    "limitations": "The lineups were recognisable and used compressed modern accounts. The new audit is small, purposively selected and unblinded; neither establishes a worldwide rarity rate or a shared origin.",
+    "versions": [{"label": "V1 · Original lineups", "url": "heroes.html"}, {"label": "V2 · New source-audit pilot", "url": "civilisers.html"}],
+    "paths": ["pipeline/s4_heroes.py", "pipeline/s4_mechanical.py", "data/s4/", "docs/study4/preregistration.md", "research/civilisers/v2/"]
+  },
+  {
+    "id": "floods",
+    "number": "05",
+    "title": "The raven & the dove",
+    "question": "What is shared, and what is regional, in flood stories?",
+    "status": "Text-coding pilot",
+    "url": "floods.html",
+    "finding": "The coded summaries show regional clustering and an uneven distribution of details associated with Genesis, alongside widespread generic flood motifs.",
+    "limitations": "Regional structure is compatible with ancient inheritance. Recording after contact does not establish borrowing. One AI coded a compiler's summaries, not a representative collection of original accounts.",
+    "versions": [{"label": "Results, stories & limitations", "url": "floods.html"}],
+    "paths": ["pipeline/s5_floods.py", "pipeline/s5_analysis.py", "data/s5/", "docs/study5/preregistration.md", "docs/data/s5.json"]
+  }
+]

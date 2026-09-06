@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Study 4: The Civilisers</title>
-<meta name="description" content="Are Viracocha, Quetzalcoatl, Oannes and Osiris the same story? Blind lineups of de-identified culture-hero myths, judged by two language models against a world pool, with documented transmissions as the yardstick.">
+<title>The civilisers · V1 lineups · Deep Memory</title>
+<meta name="description" content="Original AI lineups comparing civiliser stories. The similarity signal, failed anonymity, source limitations and results are preserved alongside a new source-level audit.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -16,30 +16,31 @@
 .small { font-size: .92rem; }
 @media (max-width: 760px) { .two { grid-template-columns: 1fr; } }
 </style>
+<link rel="stylesheet" href="collection.css">
 </head>
 <body>
 
 <header class="masthead">
   <div class="wrap">
-    <div class="eyebrow"><a href="./" style="border:0">Deep Memory test bench</a> &middot; study 4 of 5 &middot; pilot</div>
+    <div class="eyebrow"><a href="./" style="border:0">Deep Memory test bench</a> &middot; investigation 4 &middot; version 1</div>
     <h1 style="margin-top:14px">Study 4: are the civilisers one story?</h1>
-    <p class="deck">Viracocha walked out of Lake Titicaca and taught the Andes to farm. Quetzalcoatl brought maize and the calendar to Mexico and left by sea, promising to return. Oannes came out of the Persian Gulf with the body of a fish and taught Sumer writing and law. Osiris civilised Egypt and was murdered by his brother. The lost-civilisation books put these side by side and ask how they can be so alike. This page asks the same question of a machine that cannot see the names: are these stories more alike than culture-hero stories ordinarily are, and are they as alike as stories that are known to share a source?</p>
+    <p class="deck">Do the civiliser accounts singled out in long-distance comparisons resemble each other more than the alternatives in a story lineup? This original pilot compared AI-compressed encyclopedia accounts with the names removed. It found a similarity signal, but the stories remained recognisable. The results stay here alongside their limitations and the source-level follow-up.</p>
     <div class="meta">
       <span><b>Status</b> pilot &middot; pre-registered 4 Sept 2026</span>
       <span><b>Corpus</b> <span data-v="n_corpus"></span> myths &middot; <span data-v="n_lineups"></span> lineups</span>
       <span><b>Pre-registration</b> <a href="study4/preregistration.md">the document</a></span>
       <span><b>Overview</b> <a href="./">all the pictures and stories</a></span>
-      <span><b>Code &amp; data</b> <a href="https://github.com/ejhong/birdmen">github.com/ejhong/birdmen</a></span>
+      <span><b>Code &amp; data</b> <a href="https://github.com/ejhong/birdmen">Repository</a></span>
     </div>
   </div>
 </header>
 
 <nav class="toc"><div class="wrap"><ol>
   <li><a href="./">&larr; Overview</a></li>
-  <li><a href="#verdict">Verdict</a></li>
+  <li><a href="#verdict">Findings</a></li>
   <li><a href="#claim">The claim</a></li>
   <li><a href="#blind">Blinding</a></li>
-  <li><a href="#mechanical">A judge that knows nothing</a></li>
+  <li><a href="#mechanical">Two wording-based comparisons</a></li>
   <li><a href="#design">Lineups</a></li>
   <li><a href="#pairs">Every pair</a></li>
   <li><a href="#beat">Who beat them</a></li>
@@ -48,9 +49,17 @@
 </ol></div></nav>
 
 <main>
+<!-- study-review:start -->
+<aside class="study-review wrap" aria-label="Study scope and limitations">
+  <div class="review-box"><div class="eyebrow">Reading this investigation · updated September 2026</div>
+  <h2>Where does the resemblance between teaching figures come from?</h2>
+  <dl><div><dt>What remains useful</dt><dd>V1&#x27;s claimed partners ranked first in 62.5% of completed lineups, versus 9% for random pairs. The new V2 audit inspects 29 source passages; it has not rerun the similarity test.</dd></div><div><dt>What it cannot settle</dt><dd>The lineups were recognisable and used compressed modern accounts. The new audit is small, purposively selected and unblinded; neither establishes a worldwide rarity rate or a shared origin.</dd></div></dl>
+  <div class="reading-links"><a href="./#investigations">All investigations</a> <a href="#limits">Full limitations</a> <a href="heroes.html">V1 · Original lineups</a> <a href="civilisers.html">V2 · New source-audit pilot</a></div></div>
+</aside>
+<!-- study-review:end -->
 
 <section class="part" id="verdict"><div class="wrap">
-  <div class="part-head"><div class="n">01</div><h2>The verdict, for the pilot</h2></div>
+  <div class="part-head"><div class="n">01</div><h2>What the lineups found</h2></div>
   <div class="prose">
     <div class="verdict"><div class="eyebrow">In one paragraph</div><p id="verdict-p"></p></div>
     <div class="stats" id="stats"></div>
@@ -73,15 +82,15 @@
   </div>
   <div class="two" id="example"></div>
   <div class="prose" style="margin-top:18px">
-    <p><b>Does the blinding hold? No.</b> A judge that recognises a story is not blind. Claude Opus 5 was shown every de-identified text and asked to name the region and the figure. It named the region correctly for <span data-v="leak_correct"></span> of <span data-v="leak_n"></span> stories, said it could not tell for <span data-v="leak_cannot"></span>, and was right with high confidence for <span data-v="leak_high_correct"></span> of the <span data-v="leak_high"></span> it was confident about. <span id="leak-text"></span> That leak is reported for every target below, and it changes what the lineups measure: not a blind reading of two texts but the model's considered judgment of two stories it knows, with the names removed. The lineups are kept because that judgment is still worth having, with the controls to calibrate it. A second instrument that cannot recognise anything is added in the next section.</p>
+    <p><b>Does the blinding hold? No.</b> A judge that recognises a story is not blind. Claude Opus 5 was shown every de-identified text and asked to name the region and the figure. It named the region correctly for <span data-v="leak_correct"></span> of <span data-v="leak_n"></span> stories, said it could not tell for <span data-v="leak_cannot"></span>, and was right with high confidence for <span data-v="leak_high_correct"></span> of the <span data-v="leak_high"></span> it was confident about. <span id="leak-text"></span> That leak is reported for every target below, and it changes what the lineups measure: not a blind reading of two texts but the model's considered judgment of two stories it knows, with the names removed. The lineups are kept because that judgment is still worth having, with the controls to calibrate it. Two wording-based comparisons are reported in the next section; neither solves the source-selection problem.</p>
   </div>
   <figure><div class="frame plain"><table class="inv" id="leak-table"></table></div><figcaption><b>The leak test on the stories that matter.</b> What Opus guessed from the blind text of each target and control, and how confident it was. A correct guess means a judge could, in principle, be reasoning from what it knows rather than from the story.</figcaption></figure>
 </div></section>
 
 <section class="part" id="mechanical"><div class="wrap">
-  <div class="part-head"><div class="n">04</div><h2>A judge that knows nothing</h2></div>
+  <div class="part-head"><div class="n">04</div><h2>Two wording-based comparisons</h2></div>
   <div class="prose">
-    <p>Because the language models recognise the stories, the same de-identified texts were also compared by two instruments that cannot: a small local sentence-embedding model (all-MiniLM-L6-v2, 22 million parameters, which maps a text to a vector by its wording and cannot name a myth) and plain TF-IDF word overlap. For every pair, the question is where the partner ranks among all other stories in the corpus by cosine similarity to the target: rank 1 means the partner is the single most similar story of the hundred-odd, rank 50 means it is in the middle. These are blunt instruments, sensitive to wording and length, and the positive controls show how blunt.</p>
+    <p>The same texts were compared with a local sentence-embedding model (all-MiniLM-L6-v2) and TF-IDF word overlap. Each partner is ranked against the other stories by cosine similarity. These comparisons are sensitive to wording, length and the preparation of the summaries. A pretrained embedding model is not knowledge-free: an inability to name a myth does not establish an absence of learned associations. TF-IDF avoids that particular issue but still inherits the source and rewriting choices.</p>
   </div>
   <figure><div class="frame plain"><table class="inv" id="mech-table"></table></div><figcaption id="cap-mech"></figcaption></figure>
 </div></section>
@@ -89,21 +98,21 @@
 <section class="part" id="design"><div class="wrap">
   <div class="part-head"><div class="n">05</div><h2>The lineups</h2></div>
   <div class="prose">
-    <p>One target story, ten candidates, all blind. One candidate is the planted partner; the other nine are random culture-hero stories from regions other than the target's and the partner's. The judge ranks all ten by story content: roles, actions, sequence, what is brought or taught, the specific motifs, weighing an odd shared episode far above "a god, a journey, a punishment". If the planted story is nothing special it ranks first one time in ten and averages 5.5; if it stands out it ranks first most of the time. Each pair is run both ways with ten different decoy draws, by two judges, Claude Opus 5 and Claude Sonnet 5.</p>
+    <p>One target story and ten candidates, with their names removed. One candidate is the planted partner; the other nine are random culture-hero stories from regions other than the target's and the partner's. The judge ranks all ten by story content: roles, actions, sequence, what is brought or taught, the specific motifs, weighing an odd shared episode far above "a god, a journey, a punishment". If the planted story is nothing special it ranks first one time in ten and averages 5.5; if it stands out it ranks first most of the time. Each pair is run both ways with ten different decoy draws, by two judges, Claude Opus 5 and Claude Sonnet 5. The code also excludes figures used in the named pair sets from the decoy pool. Decoys are not tightly matched on teaching role or source coverage. The repeated lineups reuse stories; they are not independent historical cases.</p>
     <p>Four sets. <b>The civilisers</b>: the pairs the claim rests on, Viracocha with Quetzalcoatl, Oannes and Osiris, Quetzalcoatl with Oannes and Osiris, Oannes with Osiris, and Bochica, Votan, Thoth and Nommo with their supposed counterparts. <b>Documented transmissions</b>, the yardstick: the Gilgamesh flood and the Genesis flood, Atra-Hasis and Gilgamesh, Utnapishtim and Noah, the Ramayana with the Khmer Reamker and the Thai Ramakien, the life of the Buddha and the Christian legend of Barlaam and Josaphat that was made from it, the Panchatantra and its Arabic translation Kalila wa-Dimna, Manu and Matsya, Deucalion and Noah. <b>Related by contact</b>: Quetzalcoatl and Kukulkan, Viracocha and Manco Cápac, Osiris and Isis, Enki and Oannes, Fuxi and Nüwa, the Māori and Hawaiian Māui, Idris and Enoch. <b>Random</b>: a random target and a random partner from another region, the base rate.</p>
   </div>
 </div></section>
 
 <section class="part" id="pairs"><div class="wrap">
   <div class="part-head"><div class="n">06</div><h2>Every pair</h2></div>
-  <figure><div class="frame plain"><table class="inv" id="pair-table"></table></div><figcaption><b>Every pair, both judges pooled.</b> Mean rank of the planted story (chance 5.5), how often it was ranked first (chance 10%) with a one-sided binomial p, how often in the top three (chance 30%), and whether the leak test named the region of either story with high confidence.</figcaption></figure>
+  <figure><div class="frame plain"><table class="inv" id="pair-table"></table></div><figcaption><b>Every pair, both judges pooled.</b> Mean rank of the planted story (chance 5.5), how often it was ranked first (chance 10%) with the original nominal one-sided binomial p, how often in the top three (chance 30%), and whether the leak test named the region of either story with high confidence.</figcaption></figure>
   <h3>What the judges said</h3>
   <div id="reasons"></div>
 </div></section>
 
 <section class="part" id="beat"><div class="wrap">
   <div class="part-head"><div class="n">07</div><h2>Who beat the civilisers</h2></div>
-  <div class="prose"><p>For each civiliser pair, the random decoys that were ranked above the planted partner most often. If the pair shared something specific, nothing should beat it; if civiliser stories are alike everywhere, anything with a teacher and a departure will.</p></div>
+  <div class="prose"><p>For each civiliser pair, the random decoys that were ranked above the planted partner most often. These are candidates for further inspection, not proof that a pair lacks specific correspondences. Rankings depend on the available alternatives and the judge.</p></div>
   <figure><div class="frame plain"><table class="inv" id="beat-table"></table></div></figure>
 </div></section>
 
@@ -117,16 +126,16 @@
   <div class="part-head"><div class="n">09</div><h2>Limits</h2></div>
   <div class="prose">
     <p><b>Wikipedia is a secondary source.</b> Its articles compress and select, and for the American civilisers they already carry the colonial-era framing (bearded, white, from the sea) that is itself in question. A full study retells from the primary sources: Betanzos, Cieza de León and Sarmiento for Viracocha; Sahagún and the Anales de Cuauhtitlan for Quetzalcoatl; Berossus for Oannes; Plutarch and the Pyramid Texts for Osiris.</p>
-    <p><b>The blinding leaks.</b> A large language model has read every mythology. Removing names removes the easy route to recognition, not the hard one, and the leak test shows how often the region could still be named. Where a judge recognises both stories in a pair, its ranking may be its opinion about the pair rather than its reading of two texts. The leak column in the pair table marks those cases.</p>
-    <p><b>Two judges from one company.</b> The other accounts were out of credit. Study 3 showed that judges from different companies can disagree a great deal; this page should be re-run with GPT and Gemini before its numbers are trusted.</p>
-    <p><b>Story similarity is not transmission.</b> The positive controls show what a known transmission looks like to this instrument. A civiliser pair that matched them would be alike as stories; that is necessary for the claim, not sufficient. A pair that does not match them has not been shown to be unrelated, only to be no more alike than strangers.</p>
-    <p><b>What would change the verdict.</b> A civiliser pair picked out first in more than half its lineups by both judges, with a leak test that could not name either story, and at least as often as the documented transmissions.</p>
+    <p><b>The blinding leaks.</b> The leak test shows that the model recognises many of these accounts. Removing names removes the easy route to recognition, not the hard one, and the leak test shows how often the region could still be named. Where a judge recognises both stories in a pair, its ranking may be its opinion about the pair rather than its reading of two texts. The leak column in the pair table marks those cases.</p>
+    <p><b>Two judges from one company, and uneven completion.</b> The models may share biases, and some Sonnet lineups failed. The published counts describe completed trials. More model families could help assess robustness, but cannot make recognisable summaries blind or repair a mismatched comparison pool.</p>
+    <p><b>Story similarity is not transmission.</b> Falling below the positive controls does not imply being no more similar than strangers: the claimed pairs were well above the random pairs in this setup. The controls also mix close retellings with broader proposed relationships, so their score is not a universal threshold for common ancestry.</p><p><b>Repeated trials are not independent evidence.</b> The original binomial p-values are retained for transparency, but their trial-independence assumption is not an adequate model of uncertainty across traditions, sources and judges. They should not be read as probabilities of a historical explanation.</p>
+    <p><b>What would improve the inference.</b> Trace the shared details into identified source passages, preserve variants and compare against other teaching or founding figures with comparable coverage. The <a href="civilisers.html">version 2 source audit</a> begins that work. It does not turn this pilot into a test of worldwide rarity.</p>
   </div>
 </div></section>
 
 </main>
 
-<footer><div class="wrap">Built by Eugene Hong with Claude, September 2026. Fourth study of the <a href="./">Deep Memory test bench</a>. <a href="https://github.com/ejhong/birdmen/issues">Corrections welcome</a>.</div></footer>
+<footer><div class="wrap">AI-assisted pilot, September 2026. Fourth study of the <a href="./">Deep Memory test bench</a>. <a href="https://github.com/ejhong/birdmen/issues">Corrections welcome</a>.</div></footer>
 
 <script src="s4.js"></script>
 </body>

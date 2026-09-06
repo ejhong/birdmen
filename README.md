@@ -1,48 +1,117 @@
-# Deep Memory — bird-men, handbags and the navel of the world
+# Deep Memory
 
-Case study 2 of a test bench for claims of long-distance motif transmission (case study 1:
-[Indus and rongorongo](https://github.com/ejhong/rongo)). Social-media posts pair bird-headed
-figures, serpents, "handbags" and sacred centres called navels across Iran, Assyria, Egypt,
-Mexico, Anatolia, the Andes and Easter Island. The iconography has no inventory to count over;
-the myths do. This repo tests whether bird-people, cosmic-serpent and world-centre myths
-co-occur across the world's traditions more than unrelated motifs would, using the
-Berezkin–Duvakin analytical catalogue (926 traditions × 2,138 motifs, 2016 snapshot).
+Pictures, stories and open questions about similarities across distant cultures.
+All five investigations stay together, with findings and limitations. A useful observation
+is not automatically evidence for a particular historical explanation.
 
-Site: **https://ejhong.github.io/birdmen/**
+[Public site](https://ejhong.github.io/birdmen/) · [Editorial changes](docs/REVISIONS.md) ·
+[Research conventions](research/README.md)
 
-- `docs/index.html` — the overview: every recurring picture and story (bird-men, handbags, the navel, hands on the belly, serpents, the civilisers), what the lost-source and scholarly accounts each say, what can be tested, and the design of study 3 (the pictures).
-- `docs/myths.html` — study 2: the motif co-occurrence test on the Berezkin catalogue (the results below).
-- `docs/pictures.html` — study 3, three pilots on 1,270 Commons images from ten traditions, pre-registered with a change log in `docs/study3/preregistration.md`. Pilot A: blind composition coding (failed on coder agreement). Pilot B: blind pairwise similarity scores by Claude Opus 5, Sonnet 5 and GPT-5.5 against a 1,500-pair foreign null and controls (`pipeline/s3_judge*.py`). Pilot C: blind lineups (one target, ten candidates) by five model families, with decoys matched on object type (`pipeline/s3_objtype.py`) and background-removed targets (`pipeline/s3_lineup*.py`). Data in `data/s3/` (raw images not committed).
-- Study 1, Indus and rongorongo, lives in its own repo: https://github.com/ejhong/rongo
+## Find your way around
 
-**Note: this tests myths only, on a 2016 snapshot with thin coverage of the ancient Near East and Easter Island. It does not test the similarity of the pictures, which is the stronger part of the claim and remains open.**
+| Investigation | Reading page | Research and reproducibility |
+| --- | --- | --- |
+| 01 · Indus & rongorongo | [Companion site](https://ejhong.github.io/rongo/) | [Separate repository](https://github.com/ejhong/rongo) |
+| 02 · Birds, serpents & sacred centres | [Catalogue experiment](docs/myths.html) | `pipeline/classes.py`, `analysis.py`, `build_site.py`; `data/raw/berezkin/`, `data/results/` |
+| 03 · The pillar & the moai | [Image pilots A–C](docs/pictures.html) | `pipeline/s3_*.py`; `data/s3/`; [original preregistration and changes](docs/study3/preregistration.md) |
+| 04 · The civilisers | [V1: lineups](docs/heroes.html), [V2: source audit](docs/civilisers.html) | V1: `pipeline/s4_heroes.py`, `s4_mechanical.py`, `data/s4/`, [preregistration](docs/study4/preregistration.md). V2: [method](research/civilisers/v2/method.md), [evidence ledger](research/civilisers/v2/evidence.json) |
+| 05 · The raven & the dove | [Flood-story coding](docs/floods.html) | `pipeline/s5_floods.py`, `s5_analysis.py`; `data/s5/`; [preregistration](docs/study5/preregistration.md) |
 
-Short version: all three motif classes are widespread (55%, 37%, 38% of traditions); they
-co-occur in 131 traditions, which is *fewer* than a documentation-preserving null predicts;
-the real bundle ranks 2,996 of 5,000 random bundles; two of the eight named cultures carry
-the bundle, which random matched sets match 10% of the time; and the cosmic serpent is less
-spatially clustered than a random motif of its frequency.
+The [homepage](docs/index.html) combines the study collection first and the full illustrated
+narrative below. The bird-rock/Pillar 43 comparison is in Bird-men; pigs and reptile-like
+animals follow Handbags. `docs/narrative.html` only redirects older links to the combined
+page. `research/investigations.json` supplies the same question, finding, limitations and
+version links to the collection and each local study page.
 
-## Run it
+The civiliser source audit is exploratory: 29 passages, 10 source records and 10 figure
+entries, one including two people. It is not a complete source genealogy or a global rarity
+test. Source coverage, translation and recording history remain explicit. A
+[stronger comparison protocol](research/civilisers/v3/protocol-draft.md) is a draft only;
+no V3 rankings or results have been produced.
 
+## Work on the site
+
+The site is static HTML, CSS, JavaScript and JSON. Reading saved results needs no API keys,
+build framework or paid model calls. From the repository root:
+
+```sh
+python3 pipeline/publish.py
+python3 pipeline/publish.py --check
+python3 -m unittest discover -s tests -v
+python3 -m http.server 4173 --bind 127.0.0.1 --directory docs
 ```
-python -m venv .venv && . .venv/bin/activate && pip install numpy
+
+Open `http://127.0.0.1:4173/`. These commands do not deploy the site.
+
+`publish.py` uses only Python's standard library. It updates marked generated HTML sections,
+publishes the registers and method, and copies the six supplied images unchanged. Edit
+prose outside those markers directly; edit the registers for generated content. `--check`
+reports drift without writing.
+
+Optional browser smoke tests need Node 22+ and Chromium/Chrome. Keep the local server
+running, then use `node tests/browser_smoke.mjs`. The script documents environment
+overrides for the browser executable, site URL and screenshot output directory.
+
+## Repository layout
+
+```text
+research/                     Versioned methods, source records and evidence for new work
+  investigations.json         Shared register of questions, findings and limitations
+  images.json                 Supplied-image identifications and unresolved credits
+  civilisers/v2/              Method and source-level evidence ledger
+  civilisers/v3/              Proposed comparison protocol; not run
+inputs/                       Original supplied material; preserve untouched
+pipeline/                     Existing study scripts + offline publishing entry point
+data/                         Original datasets, model responses and calculated results
+docs/                         Published static site
+  data/                       Browser-ready datasets and generated registers
+  img/                        Existing photographs + unchanged published input copies
+  study3/, study4/, study5/    Preserved preregistrations; published V2 method
+tests/                        Offline integrity tests and optional browser smoke test
+```
+
+New investigations belong in a named, versioned directory under `research/`, with their
+method, source register and evidence together. Original pipelines and data retain their
+paths so recorded commands, imports and citations continue working. Earlier experiments
+are not deleted or demoted into an inaccessible archive.
+
+## Reproduce an original experiment
+
+Publishing and research are separate operations. Original research scripts can make
+network requests, incur API charges or overwrite derived results. Inspect their commands
+and method before running them. Saved results remain readable without rerunning models.
+
+The catalogue analysis needs NumPy (`requirements.txt`). Its recorded workflow is:
+
+```sh
+python3 -m venv .venv
+source .venv/bin/activate
+python3 -m pip install -r requirements.txt
 cd pipeline
-python classes.py      # keyword rules -> data/classes.json
-python analysis.py     # -> data/results/results.json (about 30 s)
-python build_site.py   # -> docs/data/site.json
+python3 classes.py
+python3 analysis.py
+python3 build_site.py
 ```
 
-## Sources
+The image/text pilots have additional script-specific dependencies, including Pillow,
+SciPy, Pydantic and provider SDKs. The civiliser mechanical comparison also uses
+`sentence-transformers` and scikit-learn. `requirements.txt` is not a lockfile for those
+historical environments. Raw image-corpus downloads are not committed. Model availability
+and exact historical rerun behaviour are not guaranteed.
 
-- Yu. E. Berezkin & E. N. Duvakin, *Thematic classification and areal distribution of
-  folklore-mythological motifs. Analytical catalogue*, ruthenia.ru/folklore/berezkin. CC BY-NC-SA 4.0.
-- D. Nikolaev, mythology-queries (github.com/macleginn/mythology-queries): 2016 parse of the
-  catalogue into a presence matrix with coordinates (`data/raw/berezkin/`).
-- Natural Earth 110m coastlines, public domain.
-- G. Strona et al. (2014), "A fast and unbiased procedure to randomize ecological binary
-  matrices with fixed row and column totals", *Nature Communications* 5:4114 (curveball).
+`pipeline/s45_build.py` republishes saved study 4/5 results; `pipeline/s3_build.py` republishes
+study 3 and needs its image dependencies. Neither is part of the new editorial publisher.
+Do not replace an old version's evidence when creating a new version.
 
-Code and derived data: MIT. Catalogue-derived data: CC BY-NC-SA 4.0, per the source.
-- `docs/heroes.html` — study 4: blind lineups of de-identified culture-hero myths (Viracocha, Quetzalcoatl, Oannes, Osiris … vs a world pool; documented transmissions as positive controls), judged by Claude Opus 5 and Sonnet 5; `pipeline/s4_heroes.py`, data in `data/s4/`, pre-registration `docs/study4/preregistration.md`.
-- `docs/floods.html` — study 5: 263 flood stories from Mark Isaak's compendium coded blind for 26 details; which are universal, regional, or travel with Genesis; `pipeline/s5_floods.py`, `s5_analysis.py`, data in `data/s5/`, pre-registration `docs/study5/preregistration.md`.
+## Sources and rights
+
+- Berezkin & Duvakin's analytical folklore catalogue, via D. Nikolaev's 2016
+  `mythology-queries` snapshot: catalogue-derived data is CC BY-NC-SA 4.0.
+- Natural Earth 110m coastlines: public domain.
+- Original study references and limitations remain on each study page.
+- Civiliser V2 editions, passage locators and mediation are in its evidence ledger.
+- Existing photo credits remain in `docs/img/motifs/credits.json` and the illustrated
+  narrative; new photo provenance and unresolved rights are in `research/images.json`.
+
+The existing MIT designation for code and eligible derived data does not relicense
+third-party texts or photographs. Unverified photographic rights are not an open licence.

@@ -1,0 +1,829 @@
+{
+  "version": "2.0",
+  "date": "2026-09-05",
+  "status": "Exploratory source audit; not a rarity test",
+  "researcher": "AI-assisted retrieval, reading and extraction; no independent specialist validation yet.",
+  "selection": "Four named comparisons and six role-comparator entries selected purposively. One comparator entry includes two figures. Passages and figures are not independent statistical trials.",
+  "source_policy": "Early accessible accounts, not an exhaustive earliest-source claim. Original/record dates and inspected edition dates are distinguished; unknowns remain explicit.",
+  "sources": [
+    {
+      "id": "berossus",
+      "short": "Berossus via Eusebius",
+      "title": "Eusebius, Chronicle, Book I: Berossus fragments",
+      "kind": "Mediated ancient account",
+      "url": "https://www.tertullian.org/fathers/eusebius_chronicon_02_text.htm",
+      "composition": "Berossus wrote in the early third century BCE; Eusebius compiled his Chronicle in the fourth century CE. Neither date is a date for Oannes' supposed life.",
+      "edition": "Robert Bedrosian's 2008 English translation of the Armenian version; sections [4]–[7] inspected.",
+      "mediation": "Berossus → excerpting authors including Alexander Polyhistor → Eusebius → Armenian transmission → English. These are links in a chain, not independent confirmations.",
+      "open_questions": "Compare Greek fragments and specialist editions; do not treat the complete original Babyloniaca as surviving."
+    },
+    {
+      "id": "sarmiento",
+      "short": "Sarmiento, 1572 / Markham, 1907",
+      "title": "Pedro Sarmiento de Gamboa, History of the Incas",
+      "kind": "Colonial account",
+      "url": "https://www.gutenberg.org/cache/epub/20218/pg20218-images.html",
+      "composition": "1572 account, commissioned in the administration of Viceroy Toledo.",
+      "edition": "Clements R. Markham's 1907 English translation, in the Project Gutenberg transcription; chapters V–VII inspected.",
+      "mediation": "An account recorded under colonial rule, with the author's own biblical and classical interpretation. Markham's footnotes are kept separate from Sarmiento's narrative.",
+      "open_questions": "Check against the Spanish manuscript and earlier Betanzos and Cieza accounts; this is an inspected witness, not a claim of earliest attestation."
+    },
+    {
+      "id": "sahagun",
+      "short": "Sahagún, Book III",
+      "title": "Sahagún and Nahua collaborators, Historia general, Book III",
+      "kind": "Colonial collaborative account",
+      "url": "https://www.biblioteca-antologica.org/es/wp-content/uploads/2018/05/SAHAG%C3%9AN-Historia-General-de-la-Nueva-Espa%C3%B1a-I.pdf",
+      "composition": "Sixteenth-century compilation; the Florentine Codex was completed in 1577.",
+      "edition": "Spanish transcription in the linked PDF. Chapters III, IV and XII–XIV inspected; the transcription's edition provenance is not supplied clearly enough to assign an edition year.",
+      "mediation": "Nahua knowledge recorded through a Franciscan project. This audit reads Spanish, not an independent Nahuatl translation. English explanations are project paraphrases.",
+      "open_questions": "Collate the transcription with the Getty Digital Florentine Codex and the Nahuatl column. Consult the Anales de Cuauhtitlan as a separate version."
+    },
+    {
+      "id": "piedrahita",
+      "short": "Piedrahíta, 1688",
+      "title": "Lucas Fernández de Piedrahíta, Historia general de las conquistas del Nuevo Reyno de Granada",
+      "kind": "Colonial account",
+      "url": "https://idus.us.es/server/api/core/bitstreams/19b82710-7517-4058-8432-26acd67af64e/content",
+      "composition": "Published 1688; this is not a pre-contact record.",
+      "edition": "Digitised 1688 edition, Book I, chapter III, printed pp. 17–19 (PDF pp. 43–45).",
+      "mediation": "A colonial chronicler reports traditions and supplies Christian comparisons. His report and his explanation must not become one unmarked narrative.",
+      "open_questions": "Follow the account back into Pedro Simón and other earlier witnesses. Weaving and more specific directional claims require those passages, not a modern summary."
+    },
+    {
+      "id": "prometheus",
+      "short": "Prometheus Bound / Smyth, 1926",
+      "title": "Prometheus Bound, traditionally attributed to Aeschylus",
+      "kind": "Ancient literary account",
+      "url": "https://www.theoi.com/Text/AeschylusPrometheus.html",
+      "composition": "Classical Greek drama; authorship and exact dating are not resolved by this audit.",
+      "edition": "Herbert Weir Smyth's English translation, 1926, as transcribed by Theoi; lines 228–256 and 436–506 inspected.",
+      "mediation": "A literary speech about the origins of arts, not a first-person historical record. Included as a role comparator, not proof of an unrelated invention.",
+      "open_questions": "Compare other Prometheus versions and more closely matched genres."
+    },
+    {
+      "id": "demeter",
+      "short": "Hymn to Demeter / Evelyn-White, 1914",
+      "title": "Homeric Hymn to Demeter",
+      "kind": "Ancient literary account",
+      "url": "https://www.theoi.com/Text/HomericHymns1.html",
+      "composition": "Archaic Greek hymn; the collection's dating is approximate and this audit does not date the oral tradition.",
+      "edition": "H. G. Evelyn-White, 1914; lines 250–313 and 470–489 inspected.",
+      "mediation": "Anonymous hymn in English translation. A Greek comparator alongside Prometheus, not an independent statistical draw.",
+      "open_questions": "Ritual teaching is explicit; do not substitute a different story about the invention of agriculture."
+    },
+    {
+      "id": "changes",
+      "short": "Great Treatise / Legge, 1882",
+      "title": "Book of Changes, Great Treatise, second section",
+      "kind": "Received textual tradition",
+      "url": "https://sacred-texts.com/ich/sbe16app.htm",
+      "composition": "The received commentary's composition and manuscript history have not been dated in this audit. It is not a contemporary record of the legendary sovereigns.",
+      "edition": "James Legge's translation, The Yî King (1882), Appendix III, section II, chapter II, paragraphs 11–15, pp. 382–384.",
+      "mediation": "Fuxi and Shennong are two figures in the same textual sequence. They count as one source family, not two independent witnesses.",
+      "open_questions": "Collate the received Chinese text and early manuscripts; retain the distinction between commentary and the core divination text."
+    },
+    {
+      "id": "inana",
+      "short": "ETCSL 1.3.1",
+      "title": "Inana and Enki",
+      "kind": "Composite scholarly edition",
+      "url": "https://etcsl.orinst.ox.ac.uk/section1/tr131.htm",
+      "composition": "Sumerian literary tradition; exact composition and individual tablet dates are outside this initial audit.",
+      "edition": "Oxford Electronic Text Corpus of Sumerian Literature, translation 1.3.1; segments D, F and H inspected.",
+      "mediation": "A scholarly reconstruction with gaps and variant witnesses explicitly marked. A Mesopotamian local analogue to the cultural-arts theme, not an unrelated control.",
+      "open_questions": "Consult the individual tablets and bibliography before making chronological or textual-independence claims."
+    },
+    {
+      "id": "garcilaso",
+      "short": "Garcilaso / Rycaut, 1688",
+      "title": "Garcilaso de la Vega, Royal Commentaries: Manco Cápac and Mama Ocllo",
+      "kind": "Colonial account",
+      "url": "https://open.maricopa.edu/worldmythologyvolume1godsandcreation/chapter/from-the-royal-commentaries-of-the-incas-by-the-inca-garcilasso-de-la-vega/",
+      "composition": "Royal Commentaries, part I, first published 1609.",
+      "edition": "Excerpts from Paul Rycaut's 1688 translation, edited by Jared Aragona; Book I, chapters VII and XII in this edition's numbering.",
+      "mediation": "Garcilaso's account → Rycaut → edited teaching excerpt. An Andean local comparator; not independent of all traditions associated with Viracocha.",
+      "open_questions": "Compare the complete Spanish edition and other origin accounts. The excerpt is shorter and differently selected than the main cases."
+    },
+    {
+      "id": "brinton",
+      "short": "Brinton, 1882",
+      "title": "Daniel G. Brinton, American Hero-Myths",
+      "kind": "Later comparative retelling",
+      "url": "https://www.gutenberg.org/cache/epub/11029/pg11029-images.html",
+      "composition": "Published 1882.",
+      "edition": "Project Gutenberg transcription, introductory chapter's outline of the culture-hero narrative.",
+      "mediation": "A comparative author's generalisation across traditions. Not an additional Indigenous witness or proof that each named figure has every listed trait.",
+      "open_questions": "Trace each component through Brinton's cited sources; this audit does not establish when the generalised formula first appeared."
+    }
+  ],
+  "figures": [
+    {
+      "id": "viracocha",
+      "name": "Viracocha",
+      "group": "Named comparison",
+      "comparison": {
+        "arrival": {
+          "status": "not_mentioned",
+          "text": "Creator before the flood; later goes to Titicaca.",
+          "evidence": [
+            "V1",
+            "V2"
+          ]
+        },
+        "teaching": {
+          "status": "uncertain",
+          "text": "General instruction; this passage does not list the same specific crafts.",
+          "evidence": [
+            "V3"
+          ]
+        },
+        "departure": {
+          "status": "present",
+          "text": "Walks over the sea with two servants.",
+          "evidence": [
+            "V3"
+          ]
+        },
+        "return": {
+          "status": "not_mentioned",
+          "text": "Promises future messengers, not his own return.",
+          "evidence": [
+            "V4"
+          ]
+        }
+      }
+    },
+    {
+      "id": "quetzalcoatl",
+      "name": "Quetzalcoatl",
+      "group": "Named comparison",
+      "comparison": {
+        "arrival": {
+          "status": "not_mentioned",
+          "text": "The inspected episodes start with him already in Tollan.",
+          "evidence": [
+            "Q1"
+          ]
+        },
+        "teaching": {
+          "status": "present",
+          "text": "Stone-working, metalworking and other crafts.",
+          "evidence": [
+            "Q1",
+            "Q4"
+          ]
+        },
+        "departure": {
+          "status": "present",
+          "text": "Sails away on a raft of serpents.",
+          "evidence": [
+            "Q3"
+          ]
+        },
+        "return": {
+          "status": "not_mentioned",
+          "text": "No personal return promise in the closing departure paragraph.",
+          "evidence": [
+            "Q3"
+          ]
+        }
+      }
+    },
+    {
+      "id": "bochica",
+      "name": "Bochica",
+      "group": "Named comparison",
+      "comparison": {
+        "arrival": {
+          "status": "not_mentioned",
+          "text": "An inland road from the plains; sea origin is not stated.",
+          "evidence": [
+            "B3"
+          ]
+        },
+        "teaching": {
+          "status": "uncertain",
+          "text": "Preaching is reported; weaving needs an earlier witness.",
+          "evidence": [
+            "B1",
+            "B3"
+          ]
+        },
+        "departure": {
+          "status": "contradicted",
+          "text": "This ending is death and ascent to heaven, not sailing away.",
+          "evidence": [
+            "B3"
+          ]
+        },
+        "return": {
+          "status": "not_mentioned",
+          "text": "Succession is reported, not a personal return promise.",
+          "evidence": [
+            "B3"
+          ]
+        }
+      }
+    },
+    {
+      "id": "oannes",
+      "name": "Oannes",
+      "group": "Named comparison",
+      "comparison": {
+        "arrival": {
+          "status": "present",
+          "text": "A fish-bodied being emerges from the sea.",
+          "evidence": [
+            "O1"
+          ]
+        },
+        "teaching": {
+          "status": "present",
+          "text": "Writing, buildings, laws, measurement and food gathering.",
+          "evidence": [
+            "O2"
+          ]
+        },
+        "departure": {
+          "status": "present",
+          "text": "Returns to the sea each night; not a final leave-taking.",
+          "evidence": [
+            "O3"
+          ]
+        },
+        "return": {
+          "status": "not_mentioned",
+          "text": "Daily recurrence, not an explicit future-return promise.",
+          "evidence": [
+            "O3"
+          ]
+        }
+      }
+    },
+    {
+      "id": "prometheus",
+      "name": "Prometheus",
+      "group": "Role comparator",
+      "comparison": {
+        "arrival": {
+          "status": "not_mentioned",
+          "text": "No sea arrival in the inspected speeches.",
+          "evidence": [
+            "P1",
+            "P2"
+          ]
+        },
+        "teaching": {
+          "status": "present",
+          "text": "Writing, number, buildings, medicine and other arts.",
+          "evidence": [
+            "P1",
+            "P2"
+          ]
+        },
+        "departure": {
+          "status": "not_mentioned",
+          "text": "The speaker is suffering, not describing a sea departure.",
+          "evidence": [
+            "P1"
+          ]
+        },
+        "return": {
+          "status": "not_mentioned",
+          "text": "Not in these inspected speeches.",
+          "evidence": [
+            "P1",
+            "P2"
+          ]
+        }
+      }
+    },
+    {
+      "id": "demeter",
+      "name": "Demeter",
+      "group": "Role comparator",
+      "comparison": {
+        "arrival": {
+          "status": "not_mentioned",
+          "text": "Not covered by these selected teaching and departure passages.",
+          "evidence": [
+            "D1",
+            "D2"
+          ]
+        },
+        "teaching": {
+          "status": "present",
+          "text": "Ritual mysteries; growth restored after famine.",
+          "evidence": [
+            "D1"
+          ]
+        },
+        "departure": {
+          "status": "contradicted",
+          "text": "Leaves for Olympus, not over the sea, in this ending.",
+          "evidence": [
+            "D2"
+          ]
+        },
+        "return": {
+          "status": "not_mentioned",
+          "text": "Not in this closing passage.",
+          "evidence": [
+            "D2"
+          ]
+        }
+      }
+    },
+    {
+      "id": "fuxi",
+      "name": "Fuxi",
+      "group": "Role comparator",
+      "comparison": {
+        "arrival": {
+          "status": "not_mentioned",
+          "text": "A ruler in a succession account.",
+          "evidence": [
+            "F1"
+          ]
+        },
+        "teaching": {
+          "status": "present",
+          "text": "Nets for fishing and hunting; trigrams.",
+          "evidence": [
+            "F1"
+          ]
+        },
+        "departure": {
+          "status": "contradicted",
+          "text": "Dies and is succeeded; no sea departure in this sequence.",
+          "evidence": [
+            "F1",
+            "S1"
+          ]
+        },
+        "return": {
+          "status": "not_mentioned",
+          "text": "Not in the inspected paragraphs.",
+          "evidence": [
+            "F1",
+            "S1"
+          ]
+        }
+      }
+    },
+    {
+      "id": "shennong",
+      "name": "Shennong",
+      "group": "Role comparator",
+      "comparison": {
+        "arrival": {
+          "status": "not_mentioned",
+          "text": "Succeeds Fuxi; no sea arrival is stated.",
+          "evidence": [
+            "S1"
+          ]
+        },
+        "teaching": {
+          "status": "present",
+          "text": "Cultivation and markets.",
+          "evidence": [
+            "S1"
+          ]
+        },
+        "departure": {
+          "status": "contradicted",
+          "text": "Dies and is succeeded in this account.",
+          "evidence": [
+            "S1"
+          ]
+        },
+        "return": {
+          "status": "not_mentioned",
+          "text": "Not in the inspected paragraphs.",
+          "evidence": [
+            "S1"
+          ]
+        }
+      }
+    },
+    {
+      "id": "inana",
+      "name": "Inana",
+      "group": "Local analogue",
+      "comparison": {
+        "arrival": {
+          "status": "uncertain",
+          "text": "Boat journey between Eridug and Unug; not stated as arrival from the sea.",
+          "evidence": [
+            "I2"
+          ]
+        },
+        "teaching": {
+          "status": "uncertain",
+          "text": "Receives and transports crafts as divine powers; direct teaching is different.",
+          "evidence": [
+            "I1",
+            "I2"
+          ]
+        },
+        "departure": {
+          "status": "uncertain",
+          "text": "Leaves a city by boat; this is not a final departure from humanity.",
+          "evidence": [
+            "I2"
+          ]
+        },
+        "return": {
+          "status": "not_mentioned",
+          "text": "No such promise in these selected episodes.",
+          "evidence": [
+            "I2"
+          ]
+        }
+      }
+    },
+    {
+      "id": "manco",
+      "name": "Manco Cápac & Mama Ocllo",
+      "group": "Local analogue",
+      "comparison": {
+        "arrival": {
+          "status": "not_mentioned",
+          "text": "Sent by the Sun and placed at Titicaca.",
+          "evidence": [
+            "M1"
+          ]
+        },
+        "teaching": {
+          "status": "present",
+          "text": "Cultivation and waterworks; textiles attributed to Mama Ocllo.",
+          "evidence": [
+            "M2"
+          ]
+        },
+        "departure": {
+          "status": "not_mentioned",
+          "text": "No final departure in the inspected excerpts.",
+          "evidence": [
+            "M1",
+            "M2"
+          ]
+        },
+        "return": {
+          "status": "not_mentioned",
+          "text": "Not in the inspected excerpts.",
+          "evidence": [
+            "M1",
+            "M2"
+          ]
+        }
+      }
+    }
+  ],
+  "passages": [
+    {
+      "id": "V1",
+      "figure": "viracocha",
+      "source": "sarmiento",
+      "title": "A creator who also destroys",
+      "locator": "Chapter VI, initial creation and flood",
+      "excerpt": "a general flood",
+      "paraphrase": "Viracocha precedes creation and destroys a disobedient population; the text then recounts differing survival stories.",
+      "qualification": "This account does not begin with an ordinary visitor arriving from overseas.",
+      "checked": "Linked edition text inspected, September 2026."
+    },
+    {
+      "id": "V2",
+      "figure": "viracocha",
+      "source": "sarmiento",
+      "title": "The lake is a destination in this version",
+      "locator": "Chapter VII, opening paragraphs",
+      "excerpt": "went, with his servants",
+      "paraphrase": "After the flood, Viracocha goes with servants to Titicaca and creates the luminaries.",
+      "qualification": "Do not turn a journey to a lake into emergence from it; other versions need separate records.",
+      "checked": "Linked edition text inspected, September 2026."
+    },
+    {
+      "id": "V3",
+      "figure": "viracocha",
+      "source": "sarmiento",
+      "title": "Instruction followed by a sea departure",
+      "locator": "Chapter VII, final Viracocha episode",
+      "excerpt": "travelling over the water",
+      "paraphrase": "He instructs people, reaches the coast, and departs over the water with two servants.",
+      "qualification": "The passage describes general instruction, not Oannes' same named curriculum.",
+      "checked": "Linked edition text inspected, September 2026."
+    },
+    {
+      "id": "V4",
+      "figure": "viracocha",
+      "source": "sarmiento",
+      "title": "Messengers, rather than his own return",
+      "locator": "Chapter VII, speech before departure",
+      "excerpt": "he would send his messengers",
+      "paraphrase": "He warns against false claimants and says future messengers will protect and teach.",
+      "qualification": "That is a future-contact motif; it is not an explicit promise to return personally.",
+      "checked": "Linked edition text inspected, September 2026."
+    },
+    {
+      "id": "V5",
+      "figure": "viracocha",
+      "source": "sarmiento",
+      "title": "The chronicler's Atlantis framework",
+      "locator": "Chapter V, concluding discussion of American origins",
+      "excerpt": "primeval Mesopotamians and Chaldæans",
+      "paraphrase": "Sarmiento himself connects American origins to Atlantis and Mesopotamia.",
+      "qualification": "This is the author's framework, not an Indigenous quotation and not proof that he invented each reported detail.",
+      "checked": "Linked edition text inspected, September 2026."
+    },
+    {
+      "id": "Q1",
+      "figure": "quetzalcoatl",
+      "source": "sahagun",
+      "title": "The arts are explicitly attributed to him",
+      "locator": "Book III, chapter III; PDF p. 148",
+      "excerpt": "estas artes todas hovieron origen",
+      "paraphrase": "Stone-working and metalworking among Quetzalcoatl's followers are traced to him.",
+      "qualification": "An explicit origin-of-crafts claim survives; it is not merely an inference from a prosperous reign.",
+      "checked": "PDF page visually checked; English explanation is a project paraphrase.",
+      "language": "es",
+      "url": "https://www.biblioteca-antologica.org/es/wp-content/uploads/2018/05/SAHAG%C3%9AN-Historia-General-de-la-Nueva-Espa%C3%B1a-I.pdf#page=148"
+    },
+    {
+      "id": "Q2",
+      "figure": "quetzalcoatl",
+      "source": "sahagun",
+      "title": "Prosperity is not itself a teaching episode",
+      "locator": "Book III, chapter III; PDF pp. 148–149",
+      "excerpt": "el maíz era abundantíssimo",
+      "paraphrase": "The description celebrates plentiful maize and naturally coloured cotton.",
+      "qualification": "Abundant crops alone do not state that the figure introduced agriculture.",
+      "checked": "PDF page visually checked; English explanation is a project paraphrase.",
+      "language": "es",
+      "url": "https://www.biblioteca-antologica.org/es/wp-content/uploads/2018/05/SAHAG%C3%9AN-Historia-General-de-la-Nueva-Espa%C3%B1a-I.pdf#page=148"
+    },
+    {
+      "id": "Q3",
+      "figure": "quetzalcoatl",
+      "source": "sahagun",
+      "title": "A departure with its own unusual vehicle",
+      "locator": "Book III, chapter XIV, final paragraph; PDF p. 157",
+      "excerpt": "una balsa hecha de culebras",
+      "paraphrase": "At the coast, Quetzalcoatl has a serpent raft made and sails away.",
+      "qualification": "This is departure by sea. No personal return promise appears in this closing paragraph.",
+      "checked": "PDF page visually checked; English explanation is a project paraphrase.",
+      "language": "es",
+      "url": "https://www.biblioteca-antologica.org/es/wp-content/uploads/2018/05/SAHAG%C3%9AN-Historia-General-de-la-Nueva-Espa%C3%B1a-I.pdf#page=157"
+    },
+    {
+      "id": "Q4",
+      "figure": "quetzalcoatl",
+      "source": "sahagun",
+      "title": "The arts stay behind",
+      "locator": "Book III, chapter XIII; PDF pp. 155–156",
+      "excerpt": "dexad todas las artes mecánicas",
+      "paraphrase": "Opponents demand that he leave metal, stone, wood, painting and featherwork skills behind.",
+      "qualification": "Read within his flight from Tollan, not as arrival after a worldwide flood.",
+      "checked": "PDF text inspected; English explanation is a project paraphrase.",
+      "language": "es",
+      "url": "https://www.biblioteca-antologica.org/es/wp-content/uploads/2018/05/SAHAG%C3%9AN-Historia-General-de-la-Nueva-Espa%C3%B1a-I.pdf#page=156"
+    },
+    {
+      "id": "R1",
+      "figure": "quetzalcoatl",
+      "source": "brinton",
+      "title": "A later author builds a shared outline",
+      "locator": "Chapter I, introductory outline of the hero-god",
+      "excerpt": "the useful arts",
+      "paraphrase": "Brinton assembles an outline of a teaching figure who leaves after establishing human institutions.",
+      "qualification": "This is a comparative synthesis; it cannot verify every trait for each named figure.",
+      "checked": "Linked edition text inspected, September 2026."
+    },
+    {
+      "id": "R2",
+      "figure": "quetzalcoatl",
+      "source": "brinton",
+      "title": "Return becomes part of the general formula",
+      "locator": "Chapter I, paragraph after the introductory outline",
+      "excerpt": "awaiting the appointed time",
+      "paraphrase": "Brinton's generalised hero comes from the east and awaits a future reappearance.",
+      "qualification": "A useful witness to nineteenth-century comparison, not an additional early Quetzalcoatl account.",
+      "checked": "Linked edition text inspected, September 2026."
+    },
+    {
+      "id": "B1",
+      "figure": "bochica",
+      "source": "piedrahita",
+      "title": "One stranger, or several?",
+      "locator": "Book I, chapter III, printed p. 17 (PDF p. 43)",
+      "excerpt": "vn hombre estrangero",
+      "paraphrase": "The chronicler reports one stranger with three names, but notes a version with three preachers.",
+      "qualification": "Do not silently collapse the variant figures into one individual.",
+      "language": "es",
+      "url": "https://idus.us.es/server/api/core/bitstreams/19b82710-7517-4058-8432-26acd67af64e/content#page=43",
+      "checked": "Original printed page visually checked. Long-s normalised to s; English explanation is a project paraphrase."
+    },
+    {
+      "id": "B2",
+      "figure": "bochica",
+      "source": "piedrahita",
+      "title": "A staff opens a route for floodwater",
+      "locator": "Book I, chapter III, printed p. 18 (PDF p. 44)",
+      "excerpt": "abrió camino a las aguas",
+      "paraphrase": "Bochica drains the flooded plain by opening a mountain with his staff; Huytháca is implicated in the flood.",
+      "qualification": "This is flood relief, not arrival as a survivor. Other versions may assign the flood differently.",
+      "language": "es",
+      "url": "https://idus.us.es/server/api/core/bitstreams/19b82710-7517-4058-8432-26acd67af64e/content#page=44",
+      "checked": "Original printed page visually checked. Long-s normalised to s; English explanation is a project paraphrase."
+    },
+    {
+      "id": "B3",
+      "figure": "bochica",
+      "source": "piedrahita",
+      "title": "Death, ascent and an inland route",
+      "locator": "Book I, chapter III, printed p. 19 (PDF p. 45)",
+      "excerpt": "murió en Sogamoso",
+      "paraphrase": "Bochica dies at Sogamoso and is taken to heaven; an inland road is associated with his coming.",
+      "qualification": "The account also reports teaching and succession. It does not supply the same sea-departure episode.",
+      "language": "es",
+      "url": "https://idus.us.es/server/api/core/bitstreams/19b82710-7517-4058-8432-26acd67af64e/content#page=45",
+      "checked": "Original printed page visually checked. Long-s normalised to s; English explanation is a project paraphrase."
+    },
+    {
+      "id": "B4",
+      "figure": "bochica",
+      "source": "piedrahita",
+      "title": "The chronicler identifies an apostle",
+      "locator": "Book I, chapter III, printed p. 19 (PDF p. 45)",
+      "excerpt": "a San Bartolomé",
+      "paraphrase": "Piedrahíta proposes Saint Bartholomew as the explanation for Bochica.",
+      "qualification": "The apostolic identification is the author's argument, not an unmediated Indigenous statement.",
+      "language": "es",
+      "url": "https://idus.us.es/server/api/core/bitstreams/19b82710-7517-4058-8432-26acd67af64e/content#page=45",
+      "checked": "Original printed page visually checked. Long-s normalised to s; English explanation is a project paraphrase."
+    },
+    {
+      "id": "O1",
+      "figure": "oannes",
+      "source": "berossus",
+      "title": "An explicit emergence from the sea",
+      "locator": "Book I, [4], Oannes paragraph",
+      "excerpt": "emerged from the Red Sea",
+      "paraphrase": "Oannes enters from the sea with a fish body, a human head and human feet.",
+      "qualification": "The translation's sea name is retained rather than silently modernised to a precise coastline.",
+      "checked": "Linked edition text inspected, September 2026."
+    },
+    {
+      "id": "O2",
+      "figure": "oannes",
+      "source": "berossus",
+      "title": "Named skills, not just wise rule",
+      "locator": "Book I, [4], instruction paragraph",
+      "excerpt": "letters and the techniques",
+      "paraphrase": "The passage lists writing, building cities and temples, laws, measurement and gathering seeds and fruit.",
+      "qualification": "A catalogue of arts is explicit. It is not a dated record of their historical introduction.",
+      "checked": "Linked edition text inspected, September 2026."
+    },
+    {
+      "id": "O3",
+      "figure": "oannes",
+      "source": "berossus",
+      "title": "A nightly return",
+      "locator": "Book I, [4], sunset paragraph",
+      "excerpt": "when the sun went down",
+      "paraphrase": "Oannes spends daylight with people and returns to the sea overnight.",
+      "qualification": "This is a recurring routine, not a final departure or a promise of a distant future return.",
+      "checked": "Linked edition text inspected, September 2026."
+    },
+    {
+      "id": "O4",
+      "figure": "oannes",
+      "source": "berossus",
+      "title": "The flood belongs later in the chronology",
+      "locator": "Book I, [6]–[7], Xisuthrus account",
+      "excerpt": "during which time the great Flood occurred",
+      "paraphrase": "The flood is assigned to Xisuthrus after the earlier kings and teaching beings.",
+      "qualification": "Oannes is not introduced here as a survivor arriving after that flood.",
+      "checked": "Linked edition text inspected, September 2026."
+    },
+    {
+      "id": "P1",
+      "figure": "prometheus",
+      "source": "prometheus",
+      "title": "A surprisingly extensive curriculum",
+      "locator": "Lines 436–471",
+      "excerpt": "the combining of letters",
+      "paraphrase": "Prometheus claims buildings, seasonal knowledge, writing, number, animal harnessing and ships.",
+      "qualification": "Specific technical instruction is not confined to the four named civilisers.",
+      "checked": "Linked edition text inspected, September 2026."
+    },
+    {
+      "id": "P2",
+      "figure": "prometheus",
+      "source": "prometheus",
+      "title": "The wider package includes medicine",
+      "locator": "Lines 477–506",
+      "excerpt": "mix soothing remedies",
+      "paraphrase": "The speech adds medicine, divination and metals, then credits Prometheus with every human art.",
+      "qualification": "A broad arts list can overlap Oannes without establishing either independence or a shared ancestor.",
+      "checked": "Linked edition text inspected, September 2026."
+    },
+    {
+      "id": "D1",
+      "figure": "demeter",
+      "source": "demeter",
+      "title": "Instruction after a crisis",
+      "locator": "Hymn II, lines 301–313 and 470–482",
+      "excerpt": "taught them all her mysteries",
+      "paraphrase": "Demeter causes crop failure; later she restores growth and teaches ritual mysteries.",
+      "qualification": "Here the crisis is famine, not flood, and the named instruction is ritual.",
+      "checked": "Linked edition text inspected, September 2026."
+    },
+    {
+      "id": "D2",
+      "figure": "demeter",
+      "source": "demeter",
+      "title": "Departure to Olympus",
+      "locator": "Hymn II, lines 483–489",
+      "excerpt": "they went to Olympus",
+      "paraphrase": "Following the instruction, the goddesses leave for Olympus.",
+      "qualification": "Teacher, crisis and departure can form a loose parallel while the particular events differ.",
+      "checked": "Linked edition text inspected, September 2026."
+    },
+    {
+      "id": "F1",
+      "figure": "fuxi",
+      "source": "changes",
+      "title": "Nets and trigrams",
+      "locator": "Appendix III, section II, chapter II, §§11–12; pp. 382–383",
+      "excerpt": "hunting and fishing",
+      "paraphrase": "Fuxi (Pâo-hsî) is credited with trigrams and making nets.",
+      "qualification": "An invention account, not a sea-arrival episode. His death introduces the successor in §13.",
+      "checked": "Linked edition text inspected, September 2026."
+    },
+    {
+      "id": "S1",
+      "figure": "shennong",
+      "source": "changes",
+      "title": "Ploughs and markets",
+      "locator": "Appendix III, section II, chapter II, §§13–15; pp. 383–384",
+      "excerpt": "ploughing and weeding",
+      "paraphrase": "Shennong succeeds Fuxi, teaches cultivation and establishes markets; later rulers follow his death.",
+      "qualification": "Same source family as Fuxi. The succession should not be turned into a mysterious disappearance.",
+      "checked": "Linked edition text inspected, September 2026."
+    },
+    {
+      "id": "I1",
+      "figure": "inana",
+      "source": "inana",
+      "title": "A cargo of cultural powers",
+      "locator": "Segment D, lines 10–13",
+      "excerpt": "the craft of the scribe",
+      "paraphrase": "Inana receives a list of crafts, including carpentry, metalwork, scribal work and building.",
+      "qualification": "Receiving or transporting powers is not identical to personally teaching each craft.",
+      "checked": "Linked edition text inspected, September 2026."
+    },
+    {
+      "id": "I2",
+      "figure": "inana",
+      "source": "inana",
+      "title": "A boat, a dispute, a city",
+      "locator": "Segment F, lines 1–13; segment H, lines 218–248",
+      "excerpt": "the Boat of Heaven",
+      "paraphrase": "Inana takes the powers by boat toward Unug; Enki's attempts to retrieve them form the journey's conflict.",
+      "qualification": "This is a named inter-city transfer, not evidence of an overseas visitor to an unknown people.",
+      "checked": "Linked edition text inspected, September 2026."
+    },
+    {
+      "id": "M1",
+      "figure": "manco",
+      "source": "garcilaso",
+      "title": "A lake, two envoys and a golden object",
+      "locator": "Book I, chapter VII in the linked Rycaut excerpts",
+      "excerpt": "a little wedge of Gold",
+      "paraphrase": "The Sun sends a son and daughter, places them at Titicaca and gives a gold object to locate their settlement.",
+      "qualification": "A local Andean comparator; the lake and paired founders should not be silently merged with Viracocha.",
+      "checked": "Linked edition text inspected, September 2026."
+    },
+    {
+      "id": "M2",
+      "figure": "manco",
+      "source": "garcilaso",
+      "title": "The instruction is divided between figures",
+      "locator": "Book I, chapter XII in the linked Rycaut excerpts",
+      "excerpt": "spinning and weaving",
+      "paraphrase": "Manco teaches cultivation and waterworks; Mama Ocllo is credited with textile instruction.",
+      "qualification": "A compressed biography can wrongly assign all skills to one male civiliser.",
+      "checked": "Linked edition text inspected, September 2026."
+    }
+  ],
+  "unresolved": [
+    "Earlier Bochica witnesses, especially Pedro Simón, have not yet been collated.",
+    "Betanzos and Cieza de León need comparison with Sarmiento.",
+    "The Sahagún Spanish transcription needs manuscript and Nahuatl collation.",
+    "Additional versions of Quetzalcoatl need separate entries, especially the Anales de Cuauhtitlan.",
+    "The small role-comparator collection is not a matched statistical sample.",
+    "No global significance, transmission probability or prehistoric age is estimated."
+  ]
+}

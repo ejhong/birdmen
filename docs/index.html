@@ -3,81 +3,78 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Deep Memory: Bird-men, Handbags and the Navel of the World</title>
-<meta name="description" content="The recurring pictures and stories behind claims of a lost common source: bird-men, handbags, the navel of the world, hands on the belly, serpents, and the civilisers who came from the sea. What each camp says, what is actually known, and what can be tested.">
+<title>Deep Memory · Pictures, stories & open questions</title>
+<meta name="description" content="Bird-men, handbags, sacred centres and the civilisers. Five investigations into striking ancient similarities, with the evidence, findings and limitations of each kept in view.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
-<style>
-.gal { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 14px; margin: 24px 0 10px; }
-.gal figure { margin: 0; background: #fff; border: 1px solid var(--rule); border-radius: 6px; padding: 8px; }
-.gal .ph { height: 250px; display: flex; align-items: center; justify-content: center; overflow: hidden; background: var(--paper-2); border-radius: 3px; }
-.gal .ph img { max-height: 250px; width: auto; max-width: 100%; object-fit: contain; }
-.gal figcaption { padding: 8px 2px 2px; font-size: .74rem; }
-.gal figcaption b { display: block; margin-bottom: 2px; }
-.gal figcaption .when { color: var(--copper); }
-.gal.big .ph { height: 420px; } .gal.big .ph img { max-height: 420px; }
-.studies { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; margin: 24px 0; }
-.study { background: var(--paper-2); border: 1px solid var(--rule); border-radius: 6px; padding: 20px 22px; }
-.study .eyebrow { margin-bottom: 8px; }
-.study h3 { margin: 0 0 8px; font-size: 1.3rem; }
-.study p { font-size: .98rem; margin: 0 0 10px; }
-.study .verdict-line { font-family: var(--mono); font-size: .76rem; color: var(--ink-soft); border-top: 1px solid var(--rule); padding-top: 10px; margin-top: 10px; }
-.two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; }
-@media (max-width: 800px) { .two-col { grid-template-columns: 1fr; } }
-.camp { background: #fff; border: 1px solid var(--rule); border-radius: 6px; padding: 20px 22px; }
-.camp h3 { margin: 0 0 10px; }
-.camp ul { padding-left: 1.1em; margin: 0; } .camp li { margin: .4em 0; font-size: .97rem; }
-table.myths { width: 100%; border-collapse: collapse; font-size: .92rem; }
-table.myths th, table.myths td { text-align: left; vertical-align: top; padding: 9px 10px; border-bottom: 1px solid var(--rule); }
-table.myths th { font-family: var(--mono); font-size: .68rem; letter-spacing: .05em; text-transform: uppercase; color: var(--faint); font-weight: 500; }
-table.myths td.who { font-weight: 600; white-space: nowrap; }
-table.myths td.src { font-family: var(--mono); font-size: .72rem; color: var(--ink-soft); }
-.credits { font-family: var(--mono); font-size: .7rem; color: var(--faint); line-height: 1.6; columns: 2; column-gap: 30px; }
-@media (max-width: 800px) { .credits { columns: 1; } }
-.sources li { margin: .3em 0; font-size: .9rem; }
-.sources { padding-left: 1.2em; }
-</style>
+<link rel="stylesheet" href="collection.css">
+<script src="home.js" defer></script>
 </head>
 <body>
-
-<header class="masthead">
-  <div class="wrap">
-    <div class="eyebrow">Deep Memory &middot; a test bench for claims of long-distance transmission</div>
-    <h1 style="margin-top:14px">Bird-men, handbags and the navel of the world</h1>
-    <p class="deck">A bird-headed figure carrying a bag. A serpent. A sacred centre called the navel. Hands folded on the belly of a stone giant. A stranger who came from the sea and taught the arts. These recur from Anatolia to Iran, Mesopotamia, Egypt, Mexico, the Andes and Easter Island, and a large public is convinced they cannot be coincidence. This page collects the pictures and the stories, sets out what each camp says, and separates the parts that can be tested from the parts that cannot. Two tests are done; the third is designed.</p>
-    <div class="meta">
-      <span><b>Studies</b> <a href="https://ejhong.github.io/rongo/">1 · Indus and rongorongo</a> &middot; <a href="myths.html">2 · The myths</a> &middot; <a href="pictures.html">3 · The pictures (pilots)</a> &middot; <a href="heroes.html">4 · The civilisers</a> &middot; <a href="floods.html">5 · The flood</a></span>
-      <span><b>Code &amp; data</b> <a href="https://github.com/ejhong/birdmen">github.com/ejhong/birdmen</a></span>
-      <span><b>Updated</b> September 2026</span>
-    </div>
-  </div>
-</header>
-
-<nav class="toc"><div class="wrap"><ol>
-  <li><a href="#pattern">The pattern</a></li>
-  <li><a href="#birdmen">Bird-men</a></li>
-  <li><a href="#handbags">Handbags</a></li>
-  <li><a href="#navel">The navel</a></li>
-  <li><a href="#hands">Hands on the belly</a></li>
-  <li><a href="#serpents">Serpents</a></li>
-  <li><a href="#civilisers">The civilisers</a></li>
-  <li><a href="#camps">Two accounts</a></li>
-  <li><a href="#tests">What can be tested</a></li>
-  <li><a href="#study3">Study 3</a></li>
-  <li><a href="#flood">The flood</a></li>
-  <li><a href="#study45">Studies 4 and 5</a></li>
-  <li><a href="#sources">Sources</a></li>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="masthead"><div class="wrap">
+  <div class="eyebrow">Deep Memory · pictures, stories &amp; open questions</div>
+  <h1 style="margin-top:14px">Bird-men, handbags and the navel of the world</h1>
+  <p class="deck collection-deck">Distant places. Familiar forms. How much of the resemblance belongs to a shared past—and how much to the ways people make images, tell stories and look for connections?</p>
+  <div class="reading-links"><a href="#investigations">Explore the investigations ↓</a><a href="#narrative">Jump to the illustrated narrative ↓</a></div>
+  <div class="meta"><span><b>Updated</b> September 2026</span><span><a href="https://github.com/ejhong/birdmen">Code, sources &amp; data</a></span></div>
+</div></header>
+<nav class="toc" aria-label="On this page"><div class="wrap"><ol>
+  <li><a href="#investigations">Studies</a></li><li><a href="#narrative">Narrative</a></li><li><a href="#birdmen">Bird-men</a></li><li><a href="#handbags">Handbags</a></li><li><a href="#animals">Pigs &amp; lizards</a></li><li><a href="#navel">The navel</a></li><li><a href="#hands">Hands</a></li><li><a href="#serpents">Serpents</a></li><li><a href="#civilisers">Civilisers</a></li><li><a href="#flood">Floods</a></li><li><a href="#camps">Explanations</a></li><li><a href="#sources">Sources</a></li>
 </ol></div></nav>
-
-<main>
-
+<main id="main">
+<section class="part" id="investigations"><div class="wrap">
+  <div class="part-head"><div class="n">Studies</div><h2>Five investigations</h2></div>
+  <div class="prose"><p>Each investigation keeps its question, finding and limitations together. The numbers identify the studies; they do not rank their importance. Earlier versions remain part of the record.</p></div>
+  <!-- investigations:start -->
+<div class="collection-grid">
+<article class="investigation" aria-labelledby="study-scripts">
+  <div class="eyebrow">01 · Companion project</div>
+  <h3 id="study-scripts"><a href="https://ejhong.github.io/rongo/">Indus &amp; rongorongo</a></h3>
+  <p class="question">When do similar signs become evidence of a connection?</p>
+  <dl><dt>Finding / scope</dt><dd>A comparison of sign inventories and the illustrations used to connect two undeciphered writing systems. Results and controls live in the companion project.</dd><dt>Limitations</dt><dd>A visual resemblance does not establish shared sound, meaning or descent. Inventory definitions and the fidelity of the illustrations matter.</dd></dl>
+  <div class="versions"><a href="https://ejhong.github.io/rongo/">Read the companion investigation ↗</a></div>
+</article>
+<article class="investigation" aria-labelledby="study-myths">
+  <div class="eyebrow">02 · Catalogue experiment</div>
+  <h3 id="study-myths"><a href="myths.html">Birds, serpents &amp; sacred centres</a></h3>
+  <p class="question">Do the familiar motifs travel together?</p>
+  <dl><dt>Finding / scope</dt><dd>In the sampled catalogue, the three broad motif classes are widespread. Their bundle does not stand out against the study&#x27;s documentation-preserving comparisons.</dd><dt>Limitations</dt><dd>Broad narrative categories are not the specific images or place names in the claim. The 2016 catalogue has uneven coverage, particularly for the ancient Near East and Rapa Nui.</dd></dl>
+  <div class="versions"><a href="myths.html">Results &amp; method</a></div>
+</article>
+<article class="investigation" aria-labelledby="study-pictures">
+  <div class="eyebrow">03 · Three image pilots</div>
+  <h3 id="study-pictures"><a href="pictures.html">The pillar &amp; the moai</a></h3>
+  <p class="question">Can AI measure the resemblance people see?</p>
+  <dl><dt>Finding / scope</dt><dd>The pilots exposed altered illustrations, unreliable feature coding and strong disagreement between judges. Matching the kinds of objects changed the lineup result.</dd><dt>Limitations</dt><dd>These models have not been shown to reproduce human judgments of resemblance. Cropping, the photograph, repeated objects and incomplete runs constrain the conclusions.</dd></dl>
+  <div class="versions"><a href="pictures.html">Pilots A–C &amp; qualifications</a></div>
+</article>
+<article class="investigation" aria-labelledby="study-civilisers">
+  <div class="eyebrow">04 · V1 experiment · V2 source audit</div>
+  <h3 id="study-civilisers"><a href="civilisers.html">The civilisers</a></h3>
+  <p class="question">Where does the resemblance between teaching figures come from?</p>
+  <dl><dt>Finding / scope</dt><dd>V1&#x27;s claimed partners ranked first in 62.5% of completed lineups, versus 9% for random pairs. The new V2 audit inspects 29 source passages; it has not rerun the similarity test.</dd><dt>Limitations</dt><dd>The lineups were recognisable and used compressed modern accounts. The new audit is small, purposively selected and unblinded; neither establishes a worldwide rarity rate or a shared origin.</dd></dl>
+  <div class="versions"><a href="heroes.html">V1 · Original lineups</a> <a href="civilisers.html">V2 · New source-audit pilot</a></div>
+</article>
+<article class="investigation" aria-labelledby="study-floods">
+  <div class="eyebrow">05 · Text-coding pilot</div>
+  <h3 id="study-floods"><a href="floods.html">The raven &amp; the dove</a></h3>
+  <p class="question">What is shared, and what is regional, in flood stories?</p>
+  <dl><dt>Finding / scope</dt><dd>The coded summaries show regional clustering and an uneven distribution of details associated with Genesis, alongside widespread generic flood motifs.</dd><dt>Limitations</dt><dd>Regional structure is compatible with ancient inheritance. Recording after contact does not establish borrowing. One AI coded a compiler&#x27;s summaries, not a representative collection of original accounts.</dd></dl>
+  <div class="versions"><a href="floods.html">Results, stories &amp; limitations</a></div>
+</article>
+</div>
+<!-- investigations:end -->
+</div></section>
+<div id="narrative">
 <section class="part" id="pattern"><div class="wrap">
+  <div class="eyebrow narrative-label">The illustrated narrative</div>
   <div class="part-head"><div class="n">01</div><h2>The pattern people see</h2></div>
   <div class="prose">
-    <p class="lede">Put the images side by side and the effect is real. An eagle-headed genie on an Assyrian palace wall holds a bucket; a figure on an Olmec boulder holds a bag; three handled shapes run across the top of a pillar carved eleven and a half thousand years ago in Turkey. A man in a bird costume rides a feathered serpent in a Mexican mural; men in bird costumes race for an egg on Easter Island; a bird-headed man lies beside a bison at Lascaux. The Greeks, the Incas, the Rapanui and the Jews each called their sacred centre the navel of the world. The stone giants of Göbekli Tepe and of Rapa Nui both fold their hands over the belly. And in Mesopotamia, Mexico and the Andes, a stranger arrives from the sea, teaches agriculture, laws and writing, and leaves.</p>
-    <p>The question is not whether these resemblances exist. They do. The question is what a resemblance is worth when it has been assembled from the whole of world art and world myth after the fact, by people looking for it. That is a question with a method, and the method is the same one applied on this site to the Indus and rongorongo scripts: find the closed inventory, count everything, and see whether the famous cases stand out from the ordinary ones. The sections below gather the material first. The tests come after.</p>
+    <p class="lede">Put the images side by side and it is easy to see why people stop and look. A bird-headed figure, a handled shape, hands resting across a stone body: distant objects can share a surprisingly familiar visual grammar.</p>
+    <p>A resemblance is a starting observation. Its historical meaning depends on the objects' dates, contexts, differences and possible connections. The investigations on this site explore pieces of that question with different methods. None is a verdict on the whole of ancient history. <a href="#investigations">Read the experiments and their limitations</a>.</p>
   </div>
   <div class="gal big">
     <figure><div class="ph"><img src="img/motifs/apkallu.jpg" alt="Eagle-headed apkallu with bucket and cone, Nimrud" loading="lazy"></div><figcaption><b>Eagle-headed genie with bucket and cone</b><span class="when">Nimrud, Assyria, 883–859 BCE.</span> Palace of Ashurnasirpal II. British Museum.</figcaption></figure>
@@ -90,10 +87,16 @@ table.myths td.src { font-family: var(--mono); font-size: .72rem; color: var(--i
 <section class="part" id="birdmen"><div class="wrap">
   <div class="part-head"><div class="n">02</div><h2>Bird-men</h2></div>
   <div class="prose">
-    <p>A human with the head, wings or costume of a bird is among the oldest images people made and among the most widespread. The Lascaux shaft scene, about 17,000 years old, shows a stick-figure man with a bird's head and a bird on a staff beside a wounded bison; it is the only human figure in the cave and is usually read as a shaman or a dying hunter. At Nevalı Çori and Göbekli Tepe in south-east Turkey, 9,500 to 8,500 BCE, birds perch on human heads in totem-like sculptures and vultures dominate the carved pillars. At Çatalhöyük, around 7000 BCE, vultures with human legs swoop at headless bodies in wall paintings. Egypt gave falcon-headed Horus, ibis-headed Thoth, and the <em>ba</em>, the soul as a human-headed bird. Assyria carved eagle-headed winged genii at palace doorways, and the Hindu-Buddhist world Garuda, the eagle-man who carries Vishnu.</p>
-    <p>In the Americas the theme arises again with no plausible bridge. The Cacaxtla Bird Man mural, about 700 CE, shows a lord in a bird costume standing on a feathered serpent. The Mississippian Birdman of the American Midwest, 1000 to 1400 CE, appears on the Cahokia tablet and on the Rogan and Wulfing copper plates as a falcon-costumed dancer with a forked eye, tied to the hero Red Horn and to the Morning Star. And on Rapa Nui, from about 1680 until missionaries ended it in 1866, the <em>tangata manu</em> competition sent men swimming to Motu Nui for the first sooty-tern egg of spring, the winner ruling for a year as the birdman under the god Makemake. Hundreds of birdman petroglyphs cover the rocks at Orongo, and two of them were carved onto the back of the statue now in the British Museum.</p>
-    <p>Among the world's myths the pattern is the same. In the Berezkin catalogue, stories of people who are, become or marry birds occur in <b>55%</b> of 926 documented traditions (<a href="myths.html#maps">map</a>). Bird costumes and bird transformation are stock elements of Siberian and North American shamanism, which is the reason the Lascaux figure is read as it is. The bird-man is not rare enough to be evidence of anything by itself.</p>
+    <p>The examples below range from a bird-headed figure in the Lascaux shaft scene to Egyptian gods, Assyrian genii, costumed figures in the Americas and the birdman imagery of Rapa Nui. They invite comparison, but “bird-man” is a broad description: a deity with a bird's head, a person wearing feathers and a person transforming into a bird need not be the same idea.</p>
+    <p>The <a href="myths.html">catalogue experiment</a> finds its broad bird-person class in 55% of the 926 sampled traditions. That helps establish a baseline for that category; it does not tell us how often a particular pose, object and arrangement occur together. The <a href="pictures.html">image pilots</a> tried to get closer to composition, while exposing how differently AI judges can see the same material.</p>
   </div>
+  <h3 id="bird-detail">The bird, the bent limb and the circle</h3>
+  <div class="gal paired">
+    <figure><div class="ph"><a href="img/inputs/bird-figure.jpeg"><img src="img/inputs/bird-figure.jpeg" alt="Bird-headed figure with a bent limb near a small rounded object, outlined by dark markings" loading="lazy"></a></div><figcaption><b>A bird-headed figure with a rounded object</b>Supplied reference. Object provenance and the nature of the dark surface markings still need checking.</figcaption></figure>
+    <figure><div class="ph"><a href="img/inputs/pillar43-bird-detail.jpeg"><img src="img/inputs/pillar43-bird-detail.jpeg" alt="Close view of the bird on Pillar 43, its extended wing and the disc above it" loading="lazy"></a></div><figcaption><b>The bird and disc on Pillar 43</b>Supplied crop. The disc's position is visible; calling it an egg, sun or held object adds an interpretation.</figcaption></figure>
+  </div>
+  <div class="comparison-note"><p>The interesting comparison is relational: a profile head, a bent or extended limb, and a rounded form nearby. That is more specific than simply finding a bird in both pictures. The shapes, contact points and surrounding scene should be checked against complete, securely identified objects.</p></div>
+  <h3>Bird-men across the gallery</h3>
   <div class="gal">
     <figure><div class="ph"><img src="img/motifs/lascaux.jpg" alt="Lascaux shaft scene" loading="lazy"></div><figcaption><b>The shaft scene</b><span class="when">Lascaux, France, c. 17,000 BP.</span> Bird-headed man, bison, bird on a staff.</figcaption></figure>
     <figure><div class="ph"><img src="img/motifs/nevali.jpg" alt="Nevalı Çori totem sculpture with bird" loading="lazy"></div><figcaption><b>Totem with bird on a human head</b><span class="when">Nevalı Çori, Turkey, c. 8500 BCE.</span> Şanlıurfa Museum, with reconstruction drawing.</figcaption></figure>
@@ -111,9 +114,8 @@ table.myths td.src { font-family: var(--mono); font-size: .72rem; color: var(--i
 <section class="part" id="handbags"><div class="wrap">
   <div class="part-head"><div class="n">03</div><h2>The handbags</h2></div>
   <div class="prose">
-    <p>The "handbag of the gods" is the single most shared image in this whole complex, and it is built from four objects. At the top of Pillar 43 at Göbekli Tepe run three arched shapes over rectangles, each with a small animal beside it. On the Assyrian reliefs the winged and eagle-headed genii carry a bucket in one hand and a cone in the other. From the Halil Rud valley near Jiroft in Iran come dozens of chlorite objects shaped exactly like a handbag, carved with heroes, snakes and eagles, about 2500 BCE. And on La Venta Monument 19 the seated Olmec figure holds a small handled pouch.</p>
-    <p>Graham Hancock's reading, in <em>Magicians of the Gods</em> (2015), is that the bag is a badge of office carried by the civilising agents of a lost Ice Age culture, and that its appearance at Göbekli Tepe, in Assyria and in Mexico marks their passage. The archaeologists' readings are specific and unglamorous. The Assyrian object is named in ritual texts: the <em>banduddû</em>, a bucket, and the <em>mullilu</em>, a purifier, used to sprinkle water in a rite that protected doorways; the genii who carry them stand at doors because texts prescribe such figures to block the entry of the enemy into a house. The Jiroft objects are the one class that are genuinely bag-shaped, and wear analysis by Vidale and Micheli shows heavy polish on the handle and along the contour, consistent with an object hung on a cord and rubbed for years; they are usually catalogued as weights or handled stones of uncertain use. The Olmec pouch is generally taken as a bag for copal incense. The three shapes on Pillar 43 are, in the excavators' words, of uncertain function; they have suggested they may be the enclosures themselves seen from the side.</p>
-    <p>Two things are worth holding onto. First, a container with a handle is the simplest object a person carries, and drawn in profile every such container is a rectangle with an arc on top. The design space is tiny. Second, only one of the four is a bag, and the other three are identified by their own cultures' texts or contexts as something else. The resemblance is between drawings, not between things.</p>
+    <p>The comparison joins the three arched forms on Pillar 43, a bucket carried by Assyrian genii, handled chlorite objects from the Halil Rud region and the small object held by the figure on La Venta Monument 19. The recurring outline is worth looking at closely.</p>
+    <p>Shape and function are separate questions. Assyrian ritual context supports a bucket-and-purifier interpretation; the function of the Göbekli forms remains uncertain. A handle is also a practical solution that can recur independently. A useful investigation would compare handle attachment, proportions, decoration and accompanying figures, while retaining uncertainty about what each object was for. See the excavation team's <a href="https://www.dainst.blog/the-tepe-telegrams/2016/10/14/of-animals-and-a-headless-man-gobekli-tepe-pillar-43/">Pillar 43 discussion</a> and the <a href="https://ijas.usb.ac.ir/article_1442.html">Halil Rud wear study</a>.</p>
   </div>
   <div class="gal">
     <figure><div class="ph"><img src="img/motifs/pillar43.jpg" alt="Pillar 43 top register" loading="lazy"></div><figcaption><b>Pillar 43, the top register</b><span class="when">Göbekli Tepe, c. 9500 BCE.</span> Three arched objects with small animals; function unknown.</figcaption></figure>
@@ -123,11 +125,28 @@ table.myths td.src { font-family: var(--mono); font-size: .72rem; color: var(--i
   </div>
 </div></section>
 
+<section class="part" id="animals"><div class="wrap">
+  <div class="part-head"><div class="n">04</div><h2>Pigs, lizards &amp; other stone animals</h2></div>
+  <div class="prose"><p>The animal comparisons extend beyond bird-headed figures. Rounded bodies, projecting snouts and splayed limbs can make distant carvings feel familiar. These reference photographs are observations to investigate, not results from the earlier image corpus. Open a photograph to inspect the supplied original.</p></div>
+  <h3 id="pigs">Pigs, boars and a compact stone silhouette</h3>
+  <div class="gal paired">
+    <figure><div class="ph"><a href="img/inputs/boar-museum.jpeg"><img src="img/inputs/boar-museum.jpeg" alt="Boar-like stone sculpture in a museum case, with a raised back and projecting snout" loading="lazy"></a></div><figcaption><b>A boar-like museum sculpture</b>Supplied photograph. The visible form can be compared now; the museum and object number still need verification.</figcaption></figure>
+    <figure><div class="ph"><a href="img/inputs/lingjiatan-pig.jpeg"><img src="img/inputs/lingjiatan-pig.jpeg" alt="Pig-form carving with a Chinese caption identifying Lingjiatan tomb 07M23" loading="lazy"></a></div><figcaption><b>The Lingjiatan comparison</b>The supplied Chinese caption identifies tomb 07M23 and a weight of 88 kg. Those details are caption-derived, not independently verified here.</figcaption></figure>
+  </div>
+  <div class="comparison-note"><p>The low, rounded body, raised back, lowered head and projecting snout make an immediately legible visual rhyme. The mouth treatment and outline differ, and the photographs do not establish equal scale. Both anatomy and carving choices could contribute: the next useful comparison is with other securely identified pig and boar sculptures.</p></div>
+  <h3 id="lizards">Reptile-like forms—and the animal in its setting</h3>
+  <div class="gal paired context">
+    <figure><div class="ph"><a href="img/inputs/animal-montage.jpeg"><img src="img/inputs/animal-montage.jpeg" alt="Montage of crouched, snarling and downward-facing animal sculptures and reliefs labelled Göbekli Tepe" loading="lazy"></a></div><figcaption><b>Crouched bodies, open jaws, emphatic limbs</b>The supplied montage brings several objects together. Its images need individual identifications before they become a comparison dataset.</figcaption></figure>
+    <figure><div class="ph"><a href="img/inputs/animal-in-context.jpeg"><img src="img/inputs/animal-in-context.jpeg" alt="Crouched stone animal in an excavated structure with a perforated slab behind it" loading="lazy"></a></div><figcaption><b>The setting matters too</b>The arrangement is consistent with the Göbekli Tepe Enclosure C entrance discussed by the excavators; the precise photograph credit remains unverified.</figcaption></figure>
+  </div>
+  <div class="comparison-note"><p>The splayed limbs, low bodies and pronounced jaws are worth following as a family of forms. “Lizard” should remain a proposed identification where the animal is uncertain. The excavation team's <a href="https://www.dainst.blog/the-tepe-telegrams/2016/07/15/boars-in-gobekli-tepes-enclosure-c-just-a-story-of-hunters-and-prey/">discussion of Enclosure C</a> distinguishes boars from snarling predators and considers their arrangement together. That context may be as informative as an isolated silhouette.</p></div>
+</div></section>
+
 <section class="part" id="navel"><div class="wrap">
-  <div class="part-head"><div class="n">04</div><h2>The navel of the world</h2></div>
+  <div class="part-head"><div class="n">05</div><h2>The navel of the world</h2></div>
   <div class="prose">
-    <p>Delphi kept an <em>omphalos</em>, a navel stone, in the sanctuary of Apollo, at the spot where two eagles released by Zeus from the ends of the earth were said to have met. Jerusalem's Temple Mount is the navel of the earth in Ezekiel and in medieval maps. The Incas' capital, Cusco, is glossed as "navel" in Garcilaso de la Vega's <em>Royal Commentaries</em> of 1609, though Quechua scholars dispute the etymology and an older reading gives "owl-stone." The Rapanui name for their island, Te Pito o te Henua, is usually translated "navel of the world," but <em>pito</em> also means end, and "the end of the land" is equally possible for the most remote inhabited place on earth. On the island's north coast an 80-centimetre spherical stone, Te Pito Kura, "navel of light," is said in a modern telling to have been brought by the founding king Hotu Matu'a from the homeland Hiva; it is iron-rich, warms in the sun, and deflects a compass. And Göbekli Tepe means "potbelly hill" or "navel hill" in Turkish, a farmers' name for the mound's rounded profile, with no connection to what anyone called the place in 9500 BCE.</p>
-    <p>To these one can add Mount Meru, Mount Kailash, Kunlun, Uluru, the Kaaba, Chiang Rai, and China itself, the Middle Kingdom. Mircea Eliade built a theory on this in the 1950s: every inhabited world has a centre, an <em>axis mundi</em> where sky, earth and underworld meet, and communities name and build it. His critics find the theory too universal to be falsifiable, but as a description of a habit it holds. Calling your holy place the centre of the world is what holy places are for. Two cultures doing it is not a coincidence any more than two cultures having a word for "here."</p>
+    <p>A sacred centre described as a navel is an evocative parallel. It is also a linguistic claim that needs its own source history. The Greek <em>omphalos</em>, the gloss of Cusco in Garcilaso's account, Rapanui <em>Te Pito o te Henua</em> and the modern Turkish name Göbekli Tepe are not interchangeable kinds of evidence.</p>
+    <p>For each, the questions are: what does the expression mean in its language, when is that meaning first recorded, and was it a name the ancient builders used? The <a href="myths.html#scope">myth experiment's scope note</a> matters here: a catalogue category for a world axis does not directly test a place-name etymology. Shared bodily metaphors are possible; a particular inherited usage would need more specific evidence.</p>
   </div>
   <div class="gal">
     <figure><div class="ph"><img src="img/motifs/omphalos.jpg" alt="Omphalos of Delphi" loading="lazy"></div><figcaption><b>The omphalos</b><span class="when">Delphi, Greece; Hellenistic or Roman copy.</span> Archaeological Museum of Delphi. Netted stone marking the meeting point of Zeus's eagles.</figcaption></figure>
@@ -137,14 +156,14 @@ table.myths td.src { font-family: var(--mono); font-size: .72rem; color: var(--i
 </div></section>
 
 <section class="part" id="hands"><div class="wrap">
-  <div class="part-head"><div class="n">05</div><h2>Hands on the belly</h2></div>
+  <div class="part-head"><div class="n">06</div><h2>Hands on the belly</h2></div>
   <div class="prose">
-    <p>The central pillars of Enclosure D at Göbekli Tepe are people. Arms run down their flanks, hands with long fingers meet above a belt on the front, a fox pelt hangs as a loincloth. The Urfa Man, a life-size limestone statue from the same region and age, holds both hands over his genitals; the newly found Karahan Tepe figure grips his phallus with both hands. On Rapa Nui, the moai fold their long-fingered hands across the abdomen just above a carved belt, and the same pose is standard in Marquesan and other Polynesian tiki, where the belly is said to hold genealogy and ritual knowledge. The Ponce monolith at Tiwanaku holds its objects to its chest. Hancock and Hugh Newman call this the "navel-bracing posture" and list Turkey, Costa Rica, Indonesia and Easter Island.</p>
-    <p>The plain explanation is that a standing figure carved from a block has nowhere else to put its arms. Arms that hang free would have to be cut away from the body, which is difficult and fragile; arms folded to the front stay inside the stone. Where the hands end up, at chest, belly or groin, is then a matter of proportion and local convention. That is why the posture is found in Neolithic Anatolia, Iron Age Sardinia, Bronze Age Iberia, Polynesia and Costa Rica alike. It is a constraint of the medium before it is a symbol, and any test of the symbol has to control for the medium.</p>
+    <p>The hands and arms are part of what makes these monuments feel related. Compare where the hands meet, the direction and length of the fingers, the belt, and whether the figure holds anything. A hand across the abdomen and a hand at the groin are close in outline but different observations.</p>
+    <p>Carving limbs against a stone body can protect them from breakage, making material constraints a plausible contributor to the pose. That does not settle its symbolic meaning. The useful comparison includes both the particular gesture and other figures made in the same medium, rather than assuming either common descent or coincidence from posture alone.</p>
   </div>
   <div class="gal">
     <figure><div class="ph"><img src="img/motifs/gobekli_pillar.jpg" alt="Göbekli Tepe T-pillar with fox relief" loading="lazy"></div><figcaption><b>T-pillar with fox</b><span class="when">Göbekli Tepe, c. 9500 BCE.</span> The T is a stylised head; the shaft a body. Arms and hands are carved on the central pillars of Enclosure D.</figcaption></figure>
-    <figure><div class="ph"><img src="img/motifs/urfa_man.jpg" alt="Urfa Man statue" loading="lazy"></div><figcaption><b>Urfa Man</b><span class="when">Şanlıurfa, c. 9000 BCE.</span> The oldest life-size human statue known, hands over the genitals.</figcaption></figure>
+    <figure><div class="ph"><img src="img/motifs/urfa_man.jpg" alt="Urfa Man statue" loading="lazy"></div><figcaption><b>Urfa Man</b><span class="when">Şanlıurfa, c. 9000 BCE.</span> An early life-size human statue, hands over the genitals.</figcaption></figure>
     <figure><div class="ph"><img src="img/motifs/karahan_man.jpg" alt="Karahan Tepe statue" loading="lazy"></div><figcaption><b>Karahan Tepe figure</b><span class="when">c. 9000 BCE.</span> Sister site of Göbekli Tepe; both hands on the phallus.</figcaption></figure>
     <figure><div class="ph"><img src="img/motifs/tongariki.jpg" alt="Moai at Ahu Tongariki" loading="lazy"></div><figcaption><b>Moai</b><span class="when">Ahu Tongariki, Rapa Nui, c. 1250–1500 CE.</span> Hands meet on the abdomen above the belt; the Polynesian tiki convention.</figcaption></figure>
     <figure><div class="ph"><img src="img/motifs/ponce.jpg" alt="Ponce monolith, Tiwanaku" loading="lazy"></div><figcaption><b>Ponce monolith</b><span class="when">Tiwanaku, Bolivia, c. 500–900 CE.</span> Hands to the chest holding a beaker and a snuff tablet.</figcaption></figure>
@@ -152,10 +171,10 @@ table.myths td.src { font-family: var(--mono); font-size: .72rem; color: var(--i
 </div></section>
 
 <section class="part" id="serpents"><div class="wrap">
-  <div class="part-head"><div class="n">06</div><h2>Serpents, and the feathered serpent</h2></div>
+  <div class="part-head"><div class="n">07</div><h2>Serpents, and the feathered serpent</h2></div>
   <div class="prose">
-    <p>Snakes wind through Pillar 43 and through half the pillars at Göbekli Tepe; they flank the hero on the Jiroft bag; a serpent rises behind the seated man at La Venta, with a feather crest that makes it the oldest known ancestor of Quetzalcoatl, the Feathered Serpent of Teotihuacan, Tula and the Aztecs, and of Kukulkan among the Maya. In the Old World the serpent is Apophis and the uraeus in Egypt, Tiamat and the <em>mušḫuššu</em> dragon in Mesopotamia, the Rainbow Serpent in Australia, the Midgard serpent, the Chinese dragon.</p>
-    <p>The catalogue numbers again say how ordinary this is. Cosmic serpents, meaning serpents that hold up the sky, arch as the rainbow, carry the earth, or are the Milky Way, appear in <b>37%</b> of documented traditions, and their distribution is <em>less</em> geographically clustered than a random motif of the same frequency (<a href="myths.html#r3">study 2</a>). That is the statistical signature of a thing invented independently wherever there are snakes and rainbows. The feathered serpent specifically, a serpent joined to a bird, is a Mesoamerican compound with a continuous 2,500-year local history, and it has no counterpart on the Assyrian or Anatolian side of the comparison.</p>
+    <p>Serpents appear alongside other figures on the objects below; the feathered serpent of Mesoamerica is a more specific combination than the broad category “snake.” A comparison should preserve that distinction, including feathers, head shape, body arrangement and the relationship to a human figure.</p>
+    <p>The <a href="myths.html#r3">catalogue analysis</a> reports a broad cosmic-serpent class in 37% of its sampled traditions. Its geographical result describes that selected category and dataset. It cannot, by itself, distinguish independent invention from very old transmission or establish the ancestry of an individual carving.</p>
   </div>
   <div class="gal">
     <figure><div class="ph"><img src="img/motifs/teotihuacan.jpg" alt="Feathered Serpent head, Teotihuacan" loading="lazy"></div><figcaption><b>Feathered Serpent</b><span class="when">Teotihuacan, Mexico, c. 150–250 CE.</span> Temple of the Feathered Serpent.</figcaption></figure>
@@ -165,123 +184,45 @@ table.myths td.src { font-family: var(--mono); font-size: .72rem; color: var(--i
 </div></section>
 
 <section class="part" id="civilisers"><div class="wrap">
-  <div class="part-head"><div class="n">07</div><h2>The people who brought the arts</h2></div>
+  <div class="part-head"><div class="n">08</div><h2>The people who brought the arts</h2></div>
   <div class="prose">
-    <p>Behind the pictures stands a story, and it is the story that does the persuading. A stranger, often from the sea, often bearded, teaches a people agriculture, building, law and writing, and then departs, promising or not promising to return. The Babylonian priest Berossus, writing in Greek around 280 BCE, told it of Oannes: a being with the body of a fish, a second, human head beneath the fish's head, and human feet, who came out of the Persian Gulf in the first year of the world, spent his days among men without eating, and "gave them an insight into letters and sciences, and every kind of art; taught them to construct houses, to found temples, to compile laws, and explained to them the principles of geometrical knowledge," returning to the sea each sunset. Behind Oannes stand the seven <em>apkallu</em>, the antediluvian sages of Sumerian and Akkadian tradition, servants of the wisdom god Ea, whose fish-cloaked images are the ones actually named in texts. Hancock, and Zecharia Sitchin before him, take Berossus literally and make the sages the survivors of a drowned world.</p>
-    <p>Every literate region has a version. Egypt credited Osiris with teaching agriculture and law and Thoth with inventing writing; Greece had Prometheus bring fire and Cadmus letters; China's Three Sovereigns, Fuxi, Nüwa and Shennong, and the Yellow Emperor and his minister Cangjie account between them for fishing, marriage, farming, medicine, silk, the calendar and script. In the Andes, Viracocha rose from Lake Titicaca, made humans from stone, wandered as a beggar teaching them, and walked away across the Pacific. In Mesoamerica, Quetzalcoatl gave maize, the calendar and books and departed eastward over the sea. Among the Muisca of Colombia, Bochica came from the east, taught weaving and law, and opened the Tequendama falls to drain a flood. On Rapa Nui, Hotu Matu'a sailed from Hiva with the founding families. The type is so common that folklorists have a name for it, the culture hero, and Berezkin's catalogue codes its variants, from fire-theft to the origin of maize, across every continent.</p>
-    <p>Two specific claims attached to the American versions have been examined closely and have not survived. The <b>white, bearded</b> Viracocha and Quetzalcoatl are first described that way by Spanish chroniclers, Cieza de León in 1553 and López de Gómara in 1552, a generation after the conquest; Camilla Townsend and Matthew Restall have shown that there is no pre-conquest evidence that the Mexica took Cortés for a returning god, and that the "returning white god" was a Spanish narrative that served Spanish purposes. Juan Cobo Betancourt's 2024 study of Bochica traces the same expansion from a 1563 mention of "an idol" to the full civilising hero of a 1688 chronicle. Thor Heyerdahl's 1947 Kon-Tiki voyage was built on the bearded-Viracocha story and on the idea that white culture-bearers settled Polynesia from Peru; the genetics of Rapa Nui and of Polynesia generally show Polynesian ancestry, with a small and real Native American admixture around 1150 to 1200 CE that runs the other way from Heyerdahl's story. What is left, once the colonial layer is peeled away, is still a widespread culture-hero type, which is interesting on its own terms and is exactly what the second study on this site counts.</p>
+    <p>The narrative parallel is just as arresting as the visual one: a figure brings knowledge, changes human life and departs. Oannes, Viracocha, Quetzalcoatl and Bochica recur in these comparisons. But the exact arrival, teaching and departure need to be read in each account, rather than supplied by a composite biography.</p>
+    <p>The <a href="heroes.html">original AI lineups</a> did find a similarity signal under their conditions, with serious limits. The <a href="civilisers.html">source-level follow-up</a> opens the passages themselves: sea arrival and sea departure, particular crafts, catastrophe sequence and return promises. It keeps earlier accounts and later retellings separate. A colonial recording date is a reason to examine mediation, not proof that every detail was invented by a chronicler.</p>
   </div>
-  <figure class="wide">
-    <div class="frame plain"><table class="myths">
-      <tr><th>Figure</th><th>Where</th><th>Came from</th><th>Taught</th><th>Left</th><th>Earliest source</th></tr>
-      <tr><td class="who">Oannes and the seven sages</td><td>Sumer, Babylon</td><td>The sea (Persian Gulf)</td><td>Letters, sciences, arts, houses, temples, laws, geometry, seeds</td><td>Into the sea each night; the sages before the Flood</td><td class="src">Berossus c. 280 BCE, after Sumerian and Akkadian apkallu texts</td></tr>
-      <tr><td class="who">Osiris, Thoth</td><td>Egypt</td><td>Divine</td><td>Agriculture, law; writing, measure</td><td>Osiris killed and made king of the dead</td><td class="src">Pyramid Texts c. 2400 BCE; Diodorus 1st c. BCE</td></tr>
-      <tr><td class="who">Prometheus, Cadmus</td><td>Greece</td><td>Titan; Phoenicia</td><td>Fire and crafts; the alphabet</td><td>Bound; founded Thebes</td><td class="src">Hesiod c. 700 BCE; Herodotus</td></tr>
-      <tr><td class="who">Fuxi, Shennong, Huangdi, Cangjie</td><td>China</td><td>Sovereigns</td><td>Fishing, trigrams, marriage; farming, medicine; silk, calendar; script</td><td>Reigned and died</td><td class="src">Zhou and Han texts, 1st millennium BCE</td></tr>
-      <tr><td class="who">Viracocha</td><td>Andes</td><td>Lake Titicaca; Tiwanaku</td><td>Civilisation, order, miracles</td><td>Walked west across the sea</td><td class="src">Betanzos 1551, Cieza de León 1553, Sarmiento 1572</td></tr>
-      <tr><td class="who">Quetzalcoatl, Kukulkan</td><td>Mesoamerica</td><td>Tollan; the east</td><td>Maize, calendar, books, crafts</td><td>East across the sea on a raft of serpents</td><td class="src">Codices and Sahagún, 16th c.; feathered serpent from 900 BCE</td></tr>
-      <tr><td class="who">Bochica</td><td>Muisca, Colombia</td><td>The east</td><td>Weaving, agriculture, law</td><td>Into a cave at Toya</td><td class="src">1563 record; Piedrahita 1688</td></tr>
-      <tr><td class="who">Hotu Matu'a</td><td>Rapa Nui</td><td>Hiva, by canoe</td><td>Settlement, the founding lineages</td><td>Died on the island</td><td class="src">Oral tradition recorded 1880s–1930s</td></tr>
-    </table></div>
-    <figcaption><b>The civilisers.</b> The "from the sea" and "bearded" elements are unevenly attested; the bearded Andean and Mexican versions are colonial. Earliest-source dates are for the surviving written form, not the story.</figcaption>
-  </figure>
   <div class="gal">
     <figure><div class="ph"><img src="img/motifs/fish_apkallu.jpg" alt="Ea with fish-cloaked apkallu" loading="lazy"></div><figcaption><b>Ea and a fish-cloaked sage</b><span class="when">Assyria, 1st millennium BCE.</span> The <em>apkallu</em> type that the texts actually name; Oannes in Berossus.</figcaption></figure>
     <figure><div class="ph"><img src="img/motifs/gate_sun.jpg" alt="Gate of the Sun, Tiwanaku" loading="lazy"></div><figcaption><b>Gate of the Sun</b><span class="when">Tiwanaku, Bolivia, c. 500–900 CE.</span> The central staff-bearer, often called Viracocha; the identification is modern.</figcaption></figure>
-    <figure><div class="ph"><img src="img/motifs/moche_beards.jpg" alt="Moche vessels of bearded men" loading="lazy"></div><figcaption><b>Bearded men, Moche</b><span class="when">Peru, c. 100–700 CE.</span> Pre-Columbian beards exist; the "white bearded god" is a Spanish-era gloss.</figcaption></figure>
+    <figure><div class="ph"><img src="img/motifs/moche_beards.jpg" alt="Moche vessels of bearded men" loading="lazy"></div><figcaption><b>Bearded men, Moche</b><span class="when">Peru, c. 100–700 CE.</span> Facial hair on pre-Columbian objects should be distinguished from the source history of a particular civiliser story.</figcaption></figure>
     <figure><div class="ph"><img src="img/motifs/bochica.jpg" alt="Bochica" loading="lazy"></div><figcaption><b>Bochica</b><span class="when">Modern statue, Cuítiva, Colombia.</span> The Muisca civiliser as reimagined in the 20th century.</figcaption></figure>
   </div>
 </div></section>
 
+<section class="part" id="flood"><div class="wrap">
+  <div class="part-head"><div class="n">09</div><h2>What survives the water?</h2></div>
+  <div class="prose"><p>Flood stories raise several different questions: whether people remember local disasters, whether particular stories travelled, and whether traditions preserve much older environmental knowledge. None requires every version to retain the same details or to lose its regional character.</p><p>The <a href="floods.html">flood experiment</a> maps details in 263 summaries. Its regional patterns are useful observations. Establishing the age of a memory, or showing that a particular detail was borrowed from Genesis, needs additional source and historical evidence. Its limitations now make that distinction explicit.</p></div>
+</div></section>
+
 <section class="part" id="camps"><div class="wrap">
-  <div class="part-head"><div class="n">08</div><h2>Two accounts of the same material</h2></div>
+  <div class="part-head"><div class="n">10</div><h2>Several histories could produce a resemblance</h2></div>
   <div class="two-col">
-    <div class="camp">
-      <h3>The lost-source account</h3>
-      <ul>
-        <li><b>Lineage.</b> Ignatius Donnelly's <em>Atlantis</em> (1882); Grafton Elliot Smith's "heliolithic" theory that all civilisation spread from Egypt (1911–1930s); Thor Heyerdahl's Kon-Tiki (1947); Erich von Däniken's astronaut gods (1968); Zecharia Sitchin's Anunnaki (1976); Graham Hancock's <em>Fingerprints of the Gods</em> (1995), <em>Magicians of the Gods</em> (2015), <em>America Before</em> (2019) and Netflix's <em>Ancient Apocalypse</em> (2022–24).</li>
-        <li><b>The thesis, in Hancock's current form.</b> A sophisticated civilisation existed before the end of the Ice Age and was destroyed by a comet impact that began the Younger Dryas about 12,800 years ago. Survivors seeded Göbekli Tepe, and their memory survives as Oannes, Viracocha and Quetzalcoatl. The handbag is their badge; the navel sites are their centres; the folded hands and the bird-men are their signature.</li>
-        <li><b>The astronomical reading.</b> Martin Sweatman and Dimitrios Tsikritsis (2017) read Pillar 43 as a star map recording the impact date, with the vulture as Sagittarius, the scorpion as Scorpius and the disc as the sun.</li>
-        <li><b>Its strength.</b> It takes the resemblances seriously, it is vivid, and it names testable things: dates, a catastrophe, a path.</li>
-        <li><b>Its weakness.</b> Every element is chosen after the fact from all of world art and myth, definitions stretch to fit (a bucket, a weight and a pouch become one bag), and the dated chain has gaps of thousands of years and thousands of miles with nothing in between. The Younger Dryas impact hypothesis has failed repeated tests of its physical evidence. When Flint Dibble put the archaeological record to Hancock on the Joe Rogan show in 2024, the absence of any material trace of the civilisation was the whole four hours.</li>
-      </ul>
-    </div>
-    <div class="camp">
-      <h3>The scholarly account</h3>
-      <ul>
-        <li><b>Specific identifications.</b> The bucket and cone are the <em>banduddû</em> and <em>mullilu</em> of Assyrian purification rites. The Jiroft objects are handled chlorite weights worn from suspension. Pillar 43 is, to its excavators, a narrative relief of the early Neolithic death cult, its headless man phallic and therefore not simply dead, its top objects of unknown use; the constellation reading was rejected by the excavation team because it selects some animals and ignores others and assumes constellations 6,000 years before the earliest known ones. Hoa Hakananai'a's back carvings were added centuries after the statue was made, during the Orongo birdman cult, and every element on it, birdmen, tern, komari, paddles, is accounted for by that cult's own ethnography.</li>
-        <li><b>Convergence and the body.</b> Birds fly to the sky, snakes come from the ground, handled containers are the simplest thing to carry, a block-carved figure folds its arms. Cognitive science of religion and Eliade's centre-of-the-world habit explain why these recur without anyone travelling.</li>
-        <li><b>Deep transmission where it can be shown.</b> Mainstream scholarship does not deny that myths travel over enormous distances and times. Yuri Berezkin's catalogue shows motif distributions that follow the peopling of the Americas from Siberia; Julien d'Huy's phylogenetic reconstructions trace the Cosmic Hunt and Polyphemus tales to the Palaeolithic; Michael Witzel's <em>Origins of the World's Mythologies</em> (2012) argues, controversially, for a "Laurasian" story-line 40,000 years old. These are claims about hunter-gatherer migration, tested against inventories, not about a lost civilisation.</li>
-        <li><b>The colonial layer.</b> Restall, Townsend and Cobo Betancourt show that the bearded white civiliser of the Americas is a 16th- and 17th-century Spanish construction.</li>
-        <li><b>Its weakness.</b> It has rarely bothered to count. "Everyone has bird-men" is true, but until the second study on this site nobody had put a number on it, and the dismissal by assertion is part of why the other account thrives.</li>
-      </ul>
-    </div>
+    <div class="camp"><h3>Transmission and inheritance</h3><p>People carry images, stories and skills. A connection becomes more informative when there are dated intermediates, a plausible route, or distinctive details that occur together and predict further evidence. Regional change is compatible with a much older shared inheritance.</p><p>A lost-civilisation account adds stronger claims about the source, its date and its capabilities. Similarity alone cannot establish those additions.</p></div>
+    <div class="camp"><h3>Convergence and retelling</h3><p>Similar materials, animals, bodies and problems can produce similar forms. Stories can also become more alike through translation, borrowing and comparative writing. These possibilities need evidence too; calling something an archetype is not a complete explanation.</p><p>The best next question is often small: which detail is shared, how early is it attested, and what else would we expect to find if the connection were real?</p></div>
   </div>
 </div></section>
 
-<section class="part" id="tests"><div class="wrap">
-  <div class="part-head"><div class="n">09</div><h2>What can be tested, and what has been</h2></div>
-  <div class="prose">
-    <p>A resemblance becomes evidence only when it is measured against a fair null: everything that could have been compared, compared the same way, so that the famous pair can be ranked among the ordinary ones. That needs a closed inventory. Where one exists, the test can be run today. Where none exists, it has to be built first. The five studies on this site follow that rule.</p>
+<section class="part" id="approach"><div class="wrap">
+  <div class="part-head"><div class="n">11</div><h2>Keep the wonder. Open the evidence.</h2></div>
+  <div class="prose"><p>A common source, long-distance contact, independent invention and later retelling are different explanations. More than one can be true in different cases. The work here is to make the relevant evidence easier to see and the uncertainties harder to miss.</p></div>
+  <div class="principles">
+    <div><h3>Look at the thing itself</h3><p>A complete object, an identifiable passage, an honest caption. Keep the original beside its interpretation.</p></div>
+    <div><h3>Ask a question that can change</h3><p>Include plausible alternatives and the strongest differences. An unexpected match or an unresolved source is worth reporting.</p></div>
+    <div><h3>Keep the whole record</h3><p>Publish methods, results, qualifications and earlier versions. A useful experiment can also be a limited one.</p></div>
   </div>
-  <div class="studies">
-    <div class="study">
-      <div class="eyebrow">Study 1 · done</div>
-      <h3><a href="https://ejhong.github.io/rongo/">Indus and rongorongo</a></h3>
-      <p>Do the Indus script and Easter Island's rongorongo share more sign shapes than two unrelated scripts do? Both complete catalogues were digitised (417 and 604 signs), 22 control scripts rendered, every sign reduced to a skeleton, and every script pair scored the same way.</p>
-      <div class="verdict-line">Rank 25 of 55 pairs. Indus's edge as rongorongo's best partner vanished once controls were given hand-drawn wobble. 1 of the chart's 24 pairs is a real match.</div>
-    </div>
-    <div class="study">
-      <div class="eyebrow">Study 2 · done</div>
-      <h3><a href="myths.html">The myths</a></h3>
-      <p>Do bird-people, cosmic-serpent and world-centre myths cluster in the named cultures beyond chance and beyond geography? Tested on the Berezkin catalogue: 926 traditions, 2,138 motifs, with maps.</p>
-      <div class="verdict-line">All three classes near-universal (55%, 37%, 38%). Co-occurrence below the documentation-preserving null; rank 2,996 of 5,000 random bundles; the serpent is less clustered than random. Data thin for Sumer and Easter Island; pictures untested.</div>
-    </div>
-    <div class="study">
-      <div class="eyebrow">Study 3 · three pilots run</div>
-      <h3><a href="pictures.html">The pictures</a></h3>
-      <p>Is the back of Hoa Hakananai'a unusually like Pillar 43? Five vision models (Claude Opus 5 and Sonnet 5, GPT-5.5, Gemini 3.1 Pro, Grok 4.6) judged blind: pairs scored side by side against 1,500 random foreign pairs, and lineups of one target and ten candidates, with decoys matched on object type and backgrounds removed.</p>
-      <div class="verdict-line">In object-type-matched lineups the moai was never ranked closest to Pillar 43 (0 of 116; chance one in ten), and Pillar 43 was picked for the moai 7% of the time; a same-tradition monolith is picked out 51% of the time. Side by side the pair scores about 3 of 10, inside the range of ordinary foreign pairs. The first lineups gave a false positive that the judges' own reasons exposed: both are carved standing stones among wall reliefs. Provisional: a review found real weaknesses (the judges disagree about the alternatives, some controls compared photographs of one object, candidates were shown small), answered on the page.</div>
-    </div>
-    <div class="study">
-      <div class="eyebrow">Study 4 · pilot</div>
-      <h3><a href="heroes.html">The civilisers</a></h3>
-      <p>Are Viracocha, Quetzalcoatl, Oannes and Osiris one story? Blind lineups of de-identified culture-hero myths, judged by two language models against a world pool, with documented transmissions (Gilgamesh and Genesis, Buddha and Josaphat, Ramayana and Reamker) as the yardstick.</p>
-      <div class="verdict-line" id="card-s4">Results on the page.</div>
-    </div>
-    <div class="study">
-      <div class="eyebrow">Study 5 · pilot</div>
-      <h3><a href="floods.html">The raven and the dove</a></h3>
-      <p>263 flood stories from every continent, coded blind for 26 details. Which details are universal, which are regional, and which travel with the Bible?</p>
-      <div class="verdict-line" id="card-s5">Results on the page.</div>
-    </div>
-  </div>
-</div></section>
-
-<section class="part" id="study3"><div class="wrap">
-  <div class="part-head"><div class="n">10</div><h2>Study 3: putting the pictures under test</h2></div>
-  <div class="prose">
-    <p>The strongest single image in the whole complex is the pairing of Göbekli Tepe's Pillar 43 with the carved back of the moai Hoa Hakananai'a: two decorated stone slabs, 11,000 years and half a planet apart, both with birds, a disc or ring, a band, and figures. It is also the case most worth testing properly, because it cannot be dismissed by pointing at a base rate. Nobody has counted decorated monoliths.</p>
-    <h3>Step one: what were we looking at?</h3>
-    <p>The poster that circulates is not two photographs. It is a rendering. Set beside the British Museum's photographs of the real statue and the excavation photograph of the real pillar, the moai's back in the poster has a single large figure with raised arms that is not on the stone. The real back, documented by the 2014 photogrammetry study (Pitts, Miles, Pagi and Earl), carries two facing birdmen with a small sooty tern between their beaks, a ring above the girdle, komari, and paddles on the ears, all added to a much older statue during the Orongo cult. The real pillar carries three arched objects with small animals, a band of V-shapes, a vulture with a disc, a scorpion, snakes, other birds and a headless ithyphallic man. Some correspondences survive the switch from poster to object: birds high on both, a circle on both, a horizontal band on both. Others do not: the raised-arm figure, the "matching" bird poses, the shared vertical layout of the poster's version.</p>
-  </div>
-  <figure>
-    <div class="frame"><img src="img/fidelity_poster_vs_real.jpg" alt="The poster beside the real moai back and the real Pillar 43" loading="lazy"></div>
-    <figcaption><b>Poster, object, object.</b> Left: the circulating comparison. Centre: the back of Hoa Hakananai'a photographed in the British Museum (James Miles, CC BY-SA 4.0). Right: Pillar 43 in Enclosure D (CC BY-SA 2.0). The poster's moai does not match the stone.</figcaption>
-  </figure>
-  <div class="prose">
-    <p><b>Three pilots have now been run.</b> Their results, every judgment and every lineup, are on the <a href="pictures.html">study 3 page</a>. The short version: feature coding (pilot A) failed because two blind coders could not agree on the features that matter; direct blind scoring by three models (pilot B) puts the pair at about 3 of 10, inside the ordinary range for unrelated panels; and blind lineups (pilot C), once the decoys were matched on object type and the backgrounds removed, never ranked the moai closest to Pillar 43 in 116 attempts, while a same-tradition monolith is picked out half the time. The first round of lineups had said otherwise, and the judges' reasons showed why: two carved standing stones in a crowd of wall reliefs. That correction is the most useful thing the pilots produced.</p>
-    <h3>Step two: the closed inventory of compositions</h3>
-    <p>The design follows the two finished studies. <b>Fixed sample:</b> every published relief pillar from Göbekli Tepe and the Taş Tepeler sites, not just Pillar 43; every recorded Rapa Nui birdman surface, meaning the Orongo petroglyph corpus catalogued by Georgia Lee and the few moai with back carvings; and, chosen before coding, complete bird-heavy relief or painting corpora from fifteen to twenty unrelated traditions: Çatalhöyük and Nevalı Çori, Egyptian stelae, Assyrian genie panels, Izapa and Moche, Nazca textiles, Northwest Coast crest art, Scandinavian picture stones, Shang bronzes, Aboriginal rock art, and the Mississippian Birdman plates, an independent birdman tradition with well-documented local meaning that shows what convergence looks like.</p>
-    <p><b>Fixed feature list, written before coding:</b> not just what is present but how it is arranged. Number of registers; vertical order of classes (bird, human, hybrid, reptile, disc, container, geometric band); facing pairs and bilateral symmetry; disc present and where; bird posture; hybrid type (bird-headed human versus bird with human limbs); position and size of the anthropomorph; container-shaped objects and their position. <b>Blind coding</b> by two or three vision models and a human subset, with any feature scoring below 0.67 inter-coder agreement dropped before analysis.</p>
-    <p><b>The right null.</b> The moai was chosen as Pillar 43's match from all of world art, so the question is not how similar these two are but how similar any panel is to its best match in an unrelated culture. Compute compositional distance for every cross-culture pair, take each panel's nearest foreign neighbour, and see where Pillar 43 and Hoa Hakananai'a fall in that distribution. Report Pillar 43's actual nearest neighbours as well; if they are other Göbekli pillars, then Çatalhöyük, then Egypt, that is informative on its own.</p>
-    <p><b>Predictions, so the test can lose.</b> Ours: at least half the poster's correspondences vanish against the real objects (already true); Pillar 43's nearest neighbour outside Anatolia is not on Rapa Nui; the pair sits inside the central 90% of nearest-neighbour similarities; and every element on the moai's back is accounted for by Orongo ethnography without an external source. The other side's win condition: the pair in the top 5%, driven by arbitrary features, meaning identical register order, the same handle-shaped objects across the top of both real panels, or a facing-bird-and-disc configuration, and not by "birds up, snakes down," which is near-universal vertical cosmology. If that happens it is news, and this site will say so.</p>
-    <p>What would make this a strong test rather than a merely fair one is the same thing that made the first study strong: a positive control. Related relief traditions with documented descent, Assyrian to Achaemenid, Olmec to Maya, Chavín to Moche, must come out as neighbours before the method's verdict on the disputed pair is trusted.</p>
-  </div>
+  <p class="small"><a href="https://github.com/ejhong/birdmen/issues">Corrections and better sources are welcome</a>. AI assists the research; its output is not a substitute for the evidence.</p>
 </div></section>
 
 <section class="part" id="sources"><div class="wrap">
-  <div class="part-head"><div class="n">11</div><h2>Sources</h2></div>
+  <div class="part-head"><div class="n">12</div><h2>Sources</h2></div>
   <div class="two-col">
     <div>
       <h3>Objects and sites</h3>
@@ -320,60 +261,15 @@ table.myths td.src { font-family: var(--mono); font-size: .72rem; color: var(--i
         <li>Holliday, V. T. et al. (2023). Comprehensive refutation of the Younger Dryas impact hypothesis. <em>Earth-Science Reviews</em> 247.</li>
         <li>Timeline Auctions, The handbag that wasn't: the truth about the "handbags of the gods". <a href="https://timelineauctions.com/stories/the-handbag-that-wasnt-the-truth-about-the-handbags-of-the-gods/126/">link</a>.</li>
       </ul>
+  <details class="collection-credits"><summary>Image provenance and reuse</summary><p>The six additional reference photographs are reproduced unchanged for commentary. Their original files remain in <code>inputs/</code>; unresolved object identities and photographic credits are recorded in the <a href="data/image-register.json">image register</a>. No new dates, measurements or licences are inferred from appearance. Their unresolved credits are separate from the existing gallery credits below.</p></details>
       <h3>Image credits</h3>
       <div class="credits" id="credits"></div>
-      <p class="small" style="margin-top:12px">The tweet screenshots on the study pages are reproduced for commentary. All other images are from Wikimedia Commons under the licences listed, or public domain.</p>
+      <p class="small" style="margin-top:12px">The tweet screenshots on the study pages are reproduced for commentary. The existing gallery photographs are from Wikimedia Commons under the licences listed, or public domain. The additional bird and animal reference photographs have separate, partly unresolved credits in the image register.</p>
     </div>
   </div>
 </div></section>
-
-<section class="part" id="flood"><div class="wrap">
-  <div class="part-head"><div class="n">12</div><h2>The flood: the claim's centrepiece</h2></div>
-  <div class="prose">
-    <p>Behind the bird-men and the handbags stands a larger story, and it is the one the lost-civilisation books lead with: the flood. Every continent has flood stories. Mesopotamia has Ziusudra, Atra-Hasis and Utnapishtim, warned by a god, building a boat, loading animals, landing on a mountain, sending out birds, offering sacrifice. Genesis has Noah. Greece has Deucalion and Pyrrha, who repopulate the world by throwing stones over their shoulders. India has Manu, warned by a fish. China has Nüwa mending the sky and Yu draining the waters. The Americas have hundreds: the Hopi emerging through a reed, the Ojibwe muskrat diving for a grain of earth, the Aztec couple in a hollow log, the Inca flood that Viracocha sent. Australia, Africa and the Pacific have their own. Frazer counted them in 1918; Isaak's open compendium, used in study 5, has 263.</p>
-    <p><b>What the lost-source account says.</b> Graham Hancock's <i>Fingerprints of the Gods</i> (1995) opens with the flood stories and returns to them in <i>Underworld</i> (2002), <i>Magicians of the Gods</i> (2015) and <i>America Before</i> (2019). The argument has three parts. First, agreement: the stories share too many specifics, the warning, the chosen survivor, the vessel, the animals, the mountain, the birds, to be independent inventions. Second, a real event: the end of the last Ice Age saw the seas rise by 120 metres, with pulses of rapid melt, and Hancock adopts the Younger Dryas impact hypothesis, the proposal that fragments of a comet struck the North American ice sheet about 12,800 years ago, to supply a single sudden cataclysm around the time Plato's Egyptian priests date the sinking of Atlantis (nine thousand years before Solon, roughly 9600 BC). Third, the survivors: a seafaring civilisation drowned on the coasts, and its survivors carried the memory of the flood and the arts of civilisation to the hunter-gatherers of the world, which is where the civiliser myths of study 4 come in. Göbekli Tepe, built within a few centuries of that horizon, is read as the survivors' work, and Pillar 43 as a date stone for the impact.</p>
-    <p><b>What the scholarship says.</b> Flood stories are the most studied class of myth there is. The Mesopotamian chain from Ziusudra to Genesis is a documented transmission, in texts, over two thousand years, and is the model of what a real transmission looks like: the same bird, the same mountain, the same sacrifice. Beyond that chain, Frazer's conclusion has held: most flood stories are local, about a river, a lake or a coast the tellers knew, many are etiological, explaining a landscape or the separation of peoples, and a large share of those recorded in the Americas, Africa and Oceania in the eighteenth to twentieth centuries carry details of Genesis that arrived with missionaries, which is why the raven and the dove appear in places that had no dove. Alan Dundes's <i>The Flood Myth</i> (1988) collects the arguments. The Younger Dryas impact hypothesis is a live but minority position in geology; its critics say the supposed impact markers are inconsistent and the climate reversal is explained by meltwater. Sea-level rise at the end of the Ice Age was real and, for coastal peoples, catastrophic, but it was spread over millennia, with the fastest pulses still measured in centuries, and it is the ordinary reading, not the lost-source one, that expects it to leave flood stories everywhere.</p>
-    <p><b>What can be tested.</b> The two accounts predict different geographies of detail. If the world's flood stories are one memory, the specific details should be spread across regions regardless of contact with the Bible, and the stories should not sort by region. If floods are local and Genesis travelled, the generic details should be universal, the Genesis-specific ones should sit in the Near East and in stories that show Christian contact, and the rest should sort by region with local signatures: the earth-diver in North America, the sibling couple in a gourd in East and Southeast Asia. Study 5 runs that test on Isaak's 263 stories. Study 4 runs the companion test on the civilisers: blind lineups of de-identified myths, with the Gilgamesh-to-Genesis chain as the yardstick for what a shared source looks like.</p>
-  </div>
-</div></section>
-
-<section class="part" id="study45"><div class="wrap">
-  <div class="part-head"><div class="n">13</div><h2>Studies 4 and 5: the stories, tested</h2></div>
-  <div class="prose">
-    <p>Study 3 showed how easily a vision model is led by what a photograph is of rather than what is carved on it. Language is where these models are strongest, so the next two studies move the question to text. <a href="heroes.html">Study 4</a> takes the civiliser myths the books put side by side, strips every name from them, and asks a judge that cannot see the names to pick each one's supposed twin out of a lineup of nine strangers, with stories known to share a source (the Gilgamesh flood and Genesis, the Buddha's life and the Christian Barlaam and Josaphat) as the yardstick. <a href="floods.html">Study 5</a> codes 263 flood stories for 26 details and asks which are universal, which are regional, and which travel with the Bible. Both are pilots, both are pre-registered with change logs, and both report their own leaks and limits first.</p>
-    <p id="s45-summary"></p>
-  </div>
-</div></section>
-
+</div>
 </main>
-
-<footer><div class="wrap">
-  Built by Eugene Hong with Claude, September 2026. The Deep Memory test bench applies one discipline to every claim of long-distance transmission: find the closed inventory, count everything, rank the famous case among the ordinary ones, and publish the lot. <a href="https://github.com/ejhong/birdmen/issues">Corrections welcome</a>.
-</div></footer>
-
-<script>
-{ const o = new URLSearchParams(location.search).get("off"); if (o) document.body.style.marginTop = (-parseInt(o, 10)) + "px"; }
-fetch("img/motifs/credits.json").then(r => r.json()).then(c => {
-  const box = document.getElementById("credits");
-  for (const [k, v] of Object.entries(c)) {
-    const a = document.createElement("div");
-    a.innerHTML = `<a href="${v.page}">${v.file.replace(/\.(jpg|JPG|jpeg|png)$/, "")}</a> — ${v.artist || "unknown"}, ${v.license}`;
-    box.append(a);
-  }
-});
-</script>
-<script>
-(async function () {
-  const pc = x => (x == null) ? "–" : (100 * x).toFixed(0) + "%", f1 = x => (x == null) ? "–" : Number(x).toFixed(1), f2 = x => (x == null) ? "–" : Number(x).toFixed(2);
-  try { const R = await (await fetch("data/s4.json")).json(); const g = s => R.by_set[s] && R.by_set[s].all; const h = g("hancock"), p = g("positive"), z = g("random");
-    const M = R.mechanical && R.mechanical.summary;
-    document.getElementById("card-s4").textContent = `With the names removed, the civiliser pairs were picked out of a lineup ${pc(h.share_rank1)} of the time (chance 10%), against ${pc(p.share_rank1)} for stories with a documented common source and ${pc(z.share_rank1)} for random pairs. But Opus still named the region of ${R.leak.region_correct} of ${R.leak.n} de-identified stories, so that is the model's judgment of stories it knows. A local embedding model that cannot recognise a myth ranks the civiliser partner a median ${M ? M.hancock.emb_median : "–"}th of ${R.mechanical ? R.mechanical.n_corpus : "–"} stories, against ${M ? M.positive.emb_median : "–"}th for documented transmissions and ${M ? M.random.emb_median : "–"}th for random pairs.`;
-    window._s4 = { h, p, z, leak: R.leak }; } catch (e) {}
-  try { const R = await (await fetch("data/s5.json")).json(); const J = R.jaccard;
-    document.getElementById("card-s5").textContent = `A bird sent to find land appears in ${pc(R.ancient_share_birds)} of ancient Near Eastern and classical flood stories and ${pc(R.far_share_birds)} of the rest; of the ${R.far_birds.n} far stories with a bird, ${R.far_birds.n_bible} say they know Noah or the missionaries. Stories from the same region share ${pc(J.within_region)} of their details, from different regions ${pc(J.between_region)}. Universal floods, regional stories, one story that travelled with a book.`;
-    const s4 = window._s4; const el = document.getElementById("s45-summary");
-    el.textContent = `In brief: ${s4 ? `the civiliser pairs were picked out blind ${pc(s4.h.share_rank1)} of the time against ${pc(s4.p.share_rank1)} for documented transmissions and ${pc(s4.z.share_rank1)} for random pairs; ` : ""}the Genesis-specific flood details sit where Genesis is (${pc(R.ancient_share_birds)} of ancient Near Eastern and classical stories send out a bird, ${pc(R.far_share_birds)} of the rest), while the generic ones are everywhere and the rest of the stories sort by region.`; } catch (e) {}
-})();
-</script>
+<footer><div class="wrap">Deep Memory · pictures, stories &amp; open questions.<br><a href="#investigations">All investigations</a> · <a href="#sources">Sources &amp; image credits</a> · <a href="REVISIONS.md">Editorial change record</a> · <a href="https://github.com/ejhong/birdmen">Research, code &amp; data</a>.</div></footer>
 </body>
 </html>
