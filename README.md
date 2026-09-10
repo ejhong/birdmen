@@ -54,7 +54,7 @@ publishes the registers, method and thread transcript, and copies the supplied i
 unchanged. Edit prose outside those markers directly; edit the registers for generated
 content. `--check` reports drift without writing.
 
-Five pictures from the Fenton thread exist only inside phone screenshots. Their crop boxes
+Five pictures from the Fenton thread, and one from a post on Nan Madol, exist only inside phone screenshots. Their crop boxes
 are recorded in `research/images.json` and cut by `pipeline/crop_inputs.py`, which needs
 Pillow (`/usr/local/bin/python3 pipeline/crop_inputs.py`); `publish.py` only checks that the
 crops exist. `pipeline/fenton_map.py` redraws `docs/img/fenton-map.svg`, the map of the

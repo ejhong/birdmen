@@ -77,3 +77,6 @@ Original pipelines, raw responses, result datasets and preregistrations retain t
 - Bird-men gained a supplied photograph of the whole Gate of the Sun at Tiwanaku, registered as the
   seventh reference image, with a caption and a note on its forty-eight winged attendants, sixteen
   of them bird-headed, and on what a comparison with the Assyrian genii would need.
+- Civilisers gained "A navigator in Micronesia": a reported Pohnpeian tradition of a teacher who arrived
+  and left, with the post's two pictures cropped from its screenshot, set beside the recorded Nan Madol
+  traditions (Olisihpa and Olosohpa; Isokelekel) and marked as unsourced until a recorded telling is found.
