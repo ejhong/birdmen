@@ -131,6 +131,8 @@ Do not replace an old version's evidence when creating a new version.
 
 ## Sources and rights
 
+- The cover image is AI-generated editorial artwork made for the companion site
+  [Aletheia](https://ejhong.github.io/aletheia/); it illustrates an idea and is not evidence.
 - Berezkin & Duvakin's analytical folklore catalogue, via D. Nikolaev's 2016
   `mythology-queries` snapshot: catalogue-derived data is CC BY-NC-SA 4.0.
 - Natural Earth 110m coastlines: public domain.

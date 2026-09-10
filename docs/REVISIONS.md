@@ -92,3 +92,9 @@ Original pipelines, raw responses, result datasets and preregistrations retain t
   results reproduces it exactly. No result, scan or crop was changed.
 - The study card, the catalogue page and the README now link to the local page, which carries the
   same scope-and-limitations panel as the other studies. Its page copy no longer names people.
+
+# Title and cover — 10 September 2026
+
+- The site is titled Deep Memory; the former title, "Bird-men, handbags and the navel of the world",
+  opens the deck. The masthead carries the Deep Memory cover from the companion site Aletheia,
+  labelled as AI-generated editorial artwork, and every page now has link-preview tags that use it.

@@ -38,6 +38,9 @@
 .comparison-note p { margin: 0 0 .7em; }
 .collection-credits { font-family: var(--mono); font-size: .7rem; line-height: 1.6; color: var(--ink-soft); }
 .narrative-label { margin-bottom: 24px; }
+.hero-figure { max-width: 1064px; }
+.hero-figure img { width: 100%; height: auto; display: block; border-radius: 3px; }
+.hero-figure figcaption { max-width: 760px; }
 .two-col { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px; }
 .camp { background: #fff; border: 1px solid var(--rule); border-radius: 6px; padding: 20px 22px; }
 .camp h3 { margin: 0 0 10px; }
