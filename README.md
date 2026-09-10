@@ -11,7 +11,7 @@ is not automatically evidence for a particular historical explanation.
 
 | Investigation | Reading page | Research and reproducibility |
 | --- | --- | --- |
-| 01 · Indus & rongorongo | [Companion site](https://ejhong.github.io/rongo/) | [Separate repository](https://github.com/ejhong/rongo) |
+| 01 · Indus & rongorongo | [Study page](docs/rongo/index.html) | `pipeline/rongo/`, `data/rongo/`, `inputs/rongo/`; [method and run order](research/rongo/README.md) |
 | 02 · Birds, serpents & sacred centres | [Catalogue experiment](docs/myths.html) | `pipeline/classes.py`, `analysis.py`, `build_site.py`; `data/raw/berezkin/`, `data/results/` |
 | 03 · The pillar & the moai | [Image pilots A–C](docs/pictures.html) | `pipeline/s3_*.py`; `data/s3/`; [original preregistration and changes](docs/study3/preregistration.md) |
 | 04 · The civilisers | [V1: lineups](docs/heroes.html), [V2: source audit](docs/civilisers.html) | V1: `pipeline/s4_heroes.py`, `s4_mechanical.py`, `data/s4/`, [preregistration](docs/study4/preregistration.md). V2: [method](research/civilisers/v2/method.md), [evidence ledger](research/civilisers/v2/evidence.json) |
@@ -73,11 +73,16 @@ research/                     Versioned methods, source records and evidence for
   civilisers/v2/              Method and source-level evidence ledger
   civilisers/v3/              Proposed comparison protocol; not run
   fenton/                     Transcript and screenshot inventory of Fenton's thread
+  rongo/                      Method, run order and article draft of the Indus / rongorongo study
 inputs/                       Original supplied material; preserve untouched
   fenton/                     Screenshots and attachments of the thread (33 files) and one later screenshot
+  rongo/                      The tweet screenshots and research briefs that started study 01
 pipeline/                     Existing study scripts + offline publishing entry point
+  rongo/                      Study 01's pipeline, in run order (see research/rongo/README.md)
 data/                         Original datasets, model responses and calculated results
+  rongo/                      Study 01's scans, glyph crops, skeletons, results and fidelity review
 docs/                         Published static site
+  rongo/                      Study 01's page, script and site data (served at /rongo/)
   data/                       Browser-ready datasets and generated registers
   img/                        Existing photographs, published input copies, the route map
     inputs/fenton/            Nine unchanged attachments and five registered crops
@@ -95,6 +100,12 @@ are not deleted or demoted into an inaccessible archive.
 Publishing and research are separate operations. Original research scripts can make
 network requests, incur API charges or overwrite derived results. Inspect their commands
 and method before running them. Saved results remain readable without rerunning models.
+
+Study 01, Indus / rongorongo, was merged from its own repository on 10 September 2026 with its
+history; the original repository, `ejhong/rongo`, is archived and its page redirects here. The
+scripts now read `data/rongo/` and `inputs/rongo/` and write `docs/rongo/`, and run from this
+repository's root (`python3 pipeline/rongo/build_site.py` rebuilds the page from saved results).
+The full run order and its heavier dependencies are in `research/rongo/README.md`.
 
 The catalogue analysis needs NumPy (`requirements.txt`). Its recorded workflow is:
 

@@ -52,12 +52,14 @@ def cards(studies):
     return "\n".join(out + ["</div>"])
 
 
-def review(s):
+def review(s, prefix=''):
+    up = (lambda url: url if url.startswith(('http', '#')) else prefix + url)
+    versions = ' '.join(link(up(v['url']), v['label']) for v in s['versions'])
     return f'''<aside class="study-review wrap" aria-label="Study scope and limitations">
   <div class="review-box"><div class="eyebrow">Reading this investigation · updated September 2026</div>
   <h2>{esc(s['question'])}</h2>
   <dl><div><dt>What remains useful</dt><dd>{esc(s['finding'])}</dd></div><div><dt>What it cannot settle</dt><dd>{esc(s['limitations'])}</dd></div></dl>
-  <div class="reading-links">{link('./#investigations', 'All investigations')} {link('#limits', 'Full limitations')} {links(s['versions'])}</div></div>
+  <div class="reading-links">{link(prefix + '#investigations' if prefix else './#investigations', 'All investigations')} {link('#limits', 'Full limitations')} {versions}</div></div>
 </aside>'''
 
 
@@ -156,12 +158,15 @@ def build(check=False):
             pages.append('heroes.html')
         for page in pages:
             path = DOCS / page
+            if path.is_dir():
+                path = path / 'index.html'
+            prefix = '../' * (len(path.relative_to(DOCS).parts) - 1)
             text = pending.get(path, path.read_text())
             if '<!-- study-review:start -->' not in text:
                 text = text.replace('<main>', '<main>\n<!-- study-review:start -->\n<!-- study-review:end -->', 1)
-            text = replace_region(text, 'study-review', review(s))
-            if 'href="collection.css"' not in text:
-                text = text.replace('</head>', '<link rel="stylesheet" href="collection.css">\n</head>')
+            text = replace_region(text, 'study-review', review(s, prefix))
+            if f'href="{prefix}collection.css"' not in text:
+                text = text.replace('</head>', f'<link rel="stylesheet" href="{prefix}collection.css">\n</head>')
             pending[path] = text
     for name, obj in [('investigations.json', studies), ('image-register.json', images), ('civilisers-v2.json', data)]:
         pending[DOCS / 'data' / name] = json.dumps(obj, ensure_ascii=False, indent=2) + '\n'

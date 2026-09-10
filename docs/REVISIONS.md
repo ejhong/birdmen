@@ -80,3 +80,15 @@ Original pipelines, raw responses, result datasets and preregistrations retain t
 - Civilisers gained "A navigator in Micronesia": a reported Pohnpeian tradition of a teacher who arrived
   and left, with the post's two pictures cropped from its screenshot, set beside the recorded Nan Madol
   traditions (Olisihpa and Olosohpa; Isokelekel) and marked as unsourced until a recorded telling is found.
+
+# Indus & rongorongo merged into this repository — 10 September 2026
+
+- Investigation 01 no longer lives in a separate repository. The `ejhong/rongo` repository was
+  merged here with its history: its page is `docs/rongo/`, its pipeline `pipeline/rongo/`, its data
+  `data/rongo/`, its starting screenshots and briefs `inputs/rongo/`, its method and run order
+  `research/rongo/README.md`. The original repository is archived and its page redirects here.
+- The study's recorded paths were rewritten to the new locations (`data/rongo/…`,
+  `inputs/rongo/…`) in the scripts and the data manifests; rebuilding the page from the saved
+  results reproduces it exactly. No result, scan or crop was changed.
+- The study card, the catalogue page and the README now link to the local page, which carries the
+  same scope-and-limitations panel as the other studies. Its page copy no longer names people.

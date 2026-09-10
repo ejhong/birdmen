@@ -17,6 +17,9 @@ README maps those paths to the corresponding investigation.
 - `civilisers/v2/`: source-level follow-up to the original culture-hero lineups.
 - `civilisers/v3/`: draft for a source-grounded, role-matched comparison. Proposed only;
   the comparison collection and main ranking pass have not been completed.
+- `rongo/`: method, run order and article draft of the Indus / rongorongo study, investigation 01,
+  merged from its own repository on 10 September 2026. Its pipeline is `pipeline/rongo/`, its data
+  `data/rongo/`, its page `docs/rongo/`.
 - `fenton/`: verbatim transcript and screenshot inventory of Bruce R. Fenton's thread of
   24–26 February 2025, the source of the narrative's "A theory from the south" section. It
   records the claims; no comparison or test of them has been run.

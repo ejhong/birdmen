@@ -4,13 +4,21 @@
     "number": "01",
     "title": "Indus & rongorongo",
     "question": "When do similar signs become evidence of a connection?",
-    "status": "Companion project",
-    "url": "https://ejhong.github.io/rongo/",
-    "finding": "A comparison of sign inventories and the illustrations used to connect two undeciphered writing systems. Results and controls live in the companion project.",
-    "limitations": "A visual resemblance does not establish shared sound, meaning or descent. Inventory definitions and the fidelity of the illustrations matter.",
-    "versions": [],
+    "status": "Catalogue-level similarity test",
+    "url": "rongo/",
+    "finding": "Measured against both complete sign catalogues and twenty-two control scripts, the Indus–rongorongo pair is ordinary: its apparent edge disappears once font-rendered controls are given hand-drawn wobble, and the famous chart's 24 pairs mostly owe their punch to the redrawing.",
+    "limitations": "A visual resemblance does not establish shared sound, meaning or descent. The metric is coarse, as its independent-rendition validation shows; inventory definitions and the fidelity of the illustrations matter.",
+    "versions": [
+      {
+        "label": "Results, method & inventories",
+        "url": "rongo/"
+      }
+    ],
     "paths": [
-      "https://github.com/ejhong/rongo"
+      "pipeline/rongo/",
+      "data/rongo/",
+      "inputs/rongo/",
+      "research/rongo/README.md"
     ]
   },
   {

@@ -73,7 +73,7 @@ class SiteTests(unittest.TestCase):
     def setUpClass(cls):
         cls.data = json.loads((ROOT / "research/civilisers/v2/evidence.json").read_text())
         cls.studies = json.loads((ROOT / "research/investigations.json").read_text())
-        cls.pages = {path: Page(path) for path in DOCS.glob("*.html")}
+        cls.pages = {path: Page(path) for path in list(DOCS.glob("*.html")) + [DOCS / "rongo/index.html"]}
 
     def test_evidence_integrity(self):
         publish.validate(self.data)
@@ -122,7 +122,10 @@ class SiteTests(unittest.TestCase):
             for field in ("question", "finding", "limitations"):
                 self.assertTrue(study[field])
             if not study["url"].startswith("https:"):
-                page = (DOCS / study["url"]).read_text()
+                path = DOCS / study["url"]
+                if path.is_dir():
+                    path /= "index.html"
+                page = path.read_text()
                 self.assertEqual(page.count('class="study-review wrap"'), 1)
                 self.assertIn('id="limits"', page)
 
@@ -196,6 +199,20 @@ class SiteTests(unittest.TestCase):
         credits = json.loads((DOCS / "img/motifs/credits.json").read_text())
         self.assertEqual(credits["pillar43_bird"]["page"], credits["pillar43"]["page"])
         self.assertEqual(jpeg_size(DOCS / "img/motifs/pillar43_bird.jpg"), (credits["pillar43_bird"]["w"], credits["pillar43_bird"]["h"]))
+
+    def test_rongo_study_lives_in_this_repository(self):
+        page = (DOCS / "rongo/index.html").read_text()
+        self.assertIn('href="../collection.css"', page)
+        self.assertIn('href="../#investigations"', page)
+        self.assertNotIn("github.com/ejhong/rongo", page)
+        for name in ("build_site.py", "similarity.py", "fidelity.py"):
+            self.assertTrue((ROOT / "pipeline/rongo" / name).is_file())
+        for rel in ("data/rongo/results/results.json", "data/rongo/glyphs/indus_manifest.json", "inputs/rongo/claim_1.png", "research/rongo/README.md"):
+            self.assertTrue((ROOT / rel).is_file(), rel)
+        manifest = json.loads((ROOT / "data/rongo/glyphs/indus_manifest.json").read_text())
+        self.assertTrue((ROOT / manifest[0]["file"]).is_file(), manifest[0]["file"])
+        for text in ((DOCS / "index.html").read_text(), (DOCS / "myths.html").read_text(), (ROOT / "README.md").read_text()):
+            self.assertNotIn("ejhong.github.io/rongo", text)
 
     def test_narrative_bookmark_page_does_not_duplicate_content(self):
         page = self.pages[DOCS / "narrative.html"]
