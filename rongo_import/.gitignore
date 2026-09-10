@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.DS_Store
+data/features/*.npz
+data/glyphs/*/
+!data/glyphs/indus/
+!data/glyphs/rongorongo/
+data/norm/*/
+!data/norm/indus/
+!data/norm/rongorongo/

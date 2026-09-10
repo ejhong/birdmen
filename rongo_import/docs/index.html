@@ -1,0 +1,293 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Indus and Rongorongo: a fair test</title>
+<meta name="description" content="A blind, quantitative comparison of the Indus script and Easter Island's rongorongo against twenty-two other scripts, with every step published.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="masthead">
+  <div class="wrap">
+    <div class="eyebrow"><a href="https://ejhong.github.io/birdmen/" style="border:0">Deep Memory test bench</a> &middot; study 1 of 3 &middot; a fair test of a beautiful coincidence</div>
+    <h1 style="margin-top:14px">Do Easter Island and the Indus Valley share a script?</h1>
+    <p class="deck">Twenty-four look-alike signs have circulated for ninety years. We digitised both complete sign inventories, twenty-two unrelated scripts, and measured them all the same way. Here is what the numbers say, and everything needed to check them.</p>
+    <div class="meta">
+      <span><b>Status</b> v0 &middot; catalogue-level comparison</span>
+      <span><b>Data</b> 1,021 target signs &middot; 7,000+ control signs</span>
+      <span><b>Code &amp; data</b> <a href="https://github.com/ejhong/rongo">github.com/ejhong/rongo</a></span>
+      <span><b>Built</b> September 2026</span>
+    </div>
+  </div>
+</header>
+
+<nav class="toc"><div class="wrap"><ol>
+  <li><a href="#claim">The claim</a></li>
+  <li><a href="#verdict">Verdict</a></li>
+  <li><a href="#data">Data</a></li>
+  <li><a href="#method">Method</a></li>
+  <li><a href="#r1">Special match?</a></li>
+  <li><a href="#r2">Drawing style</a></li>
+  <li><a href="#r3">Blind tournament</a></li>
+  <li><a href="#r4">The 24 pairs</a></li>
+  <li><a href="#r5">Known relatives</a></li>
+  <li><a href="#limits">Limits</a></li>
+  <li><a href="#repro">Reproduce</a></li>
+  <li><a href="#inventory">Inventories</a></li>
+</ol></div></nav>
+
+<main>
+
+<section class="part" id="claim"><div class="wrap">
+  <div class="part-head"><div class="n">01</div><h2>The claim, and why eyes are the wrong instrument</h2></div>
+  <div class="two">
+    <div class="prose">
+      <p class="lede">In 1932 a Hungarian engineer, Guillaume de Hevesy, told the Paris Académie that dozens of signs from the Indus Valley seals matched the rongorongo glyphs of Easter Island. The chart below, a later redrawing, still circulates. On 3 September 2026 it was posted again, and a historian replied that twenty-four look-alikes out of some five hundred signs is "4.8% similarity", and that the drawings were made by hand by someone trying to highlight resemblances.</p>
+      <p>Both sides are half right. Twenty-four selected pairs prove nothing on their own, because two inventories of 400 to 600 signs offer a quarter of a million candidate pairings, and a motivated eye will find look-alikes in any two pictographic systems. But dividing 24 by 500 is not a test either. The only honest question is: <em>are the Indus and rongorongo inventories more alike than two unrelated scripts are, when every script gets the same chance?</em></p>
+      <p>Nobody had run that test. The sign lists exist, in scans anyone can download. So we ran it, in the open, and this page is the result. Every number here is produced by code in the repository, from public sources, with the choices explained.</p>
+    </div>
+    <figure class="hero-figure">
+      <div class="frame"><img src="img/fig/chart.jpg" alt="The circulating chart of 24 Indus and Easter Island sign pairs"></div>
+      <figcaption><b>The circulating chart.</b> Three rows of Indus signs above three rows of rongorongo glyphs, redrawn by hand. Its ancestry runs back to de Hevesy's comparison tables of 1932 to 1938; the version most people have seen is the redrawing in Andrew Robinson's histories of writing. Nothing on it is a photograph, and it gives no catalogue numbers.</figcaption>
+    </figure>
+  </div>
+</div></section>
+
+<section class="part" id="verdict"><div class="wrap">
+  <div class="part-head"><div class="n">02</div><h2>The verdict</h2></div>
+  <div class="prose">
+    <div class="verdict">
+      <div class="eyebrow">In one paragraph</div>
+      <p>Measured against the complete catalogues rather than the hand-drawn chart, the Indus script and rongorongo are <b>not</b> unusually alike. Their overall similarity lands in the middle of the pack of unrelated script pairs (rank <span data-v="rank_best24"></span> of 55 on the main statistic), far below the one pair in the set that is genuinely related (Linear A and Linear B). One thing did stand out at first: among the controls, Indus was rongorongo's single best match, winning <span data-v="lineup_indus_pct"></span> of the nearest-neighbour lineup where chance is 10%. That advantage vanished when the control scripts were given hand-drawn wobble to match the two scanned sources, dropping to <span data-v="lineup_w_indus_pct"></span>: it was the drawing style, not the signs. And of the 24 famous pairs, the chart drawings resemble each other more than the catalogue signs they depict in <span data-v="fid_inflated"></span> cases; only <span data-v="fid_match"></span> catalogue pair (the figure-eight) clears the match threshold.</p>
+    </div>
+    <div class="stats">
+      <div class="stat"><div class="num"><span data-v="rank_best24"></span><small> / 55</small></div><div class="lbl">Rank of Indus–rongorongo among all pairs of the eleven large scripts, by best-24 similarity. Middle of the distribution.</div></div>
+      <div class="stat"><div class="num"><span data-v="lineup_indus_pct"></span> → <span data-v="lineup_w_indus_pct"></span></div><div class="lbl">Share of rongorongo glyphs whose nearest neighbour is Indus, with clean controls and then with hand-drawn-style controls. Chance is 10%.</div></div>
+      <div class="stat"><div class="num"><span data-v="fid_match"></span><small> of 24</small></div><div class="lbl">Chart pairs whose real catalogue signs score as a match (top 0.1% of random cross-script pairs). The figure-eight.</div></div>
+      <div class="stat"><div class="num"><span data-v="fid_inflated"></span><small> of 24</small></div><div class="lbl">Chart pairs where the two drawings are more alike than the catalogue signs they stand for. The redrawing did some of the work.</div></div>
+    </div>
+    <p>Three caveats travel with this verdict, and they are spelled out in <a href="#limits">section 10</a>: this compares catalogue drawings, not photographs of tablets and seals; the controls are font renderings; and shape similarity, however measured, can never establish or exclude historical contact by itself. What it can do is answer the narrow question the chart raises, and the answer is that the resemblance is ordinary.</p>
+  </div>
+</div></section>
+
+<section class="part" id="data"><div class="wrap">
+  <div class="part-head"><div class="n">03</div><h2>What was compared</h2></div>
+  <div class="prose">
+    <p>Two target inventories and twenty-two controls. The two targets come from the standard scholarly catalogues, scanned: Iravatham Mahadevan's 1977 sign list of 417 Indus signs (the archive.org scan of <em>The Indus Script: Texts, Concordance and Tables</em>, book pages 32 to 35), and Thomas Barthel's 1958 <em>Formentafeln</em>, the eight plates of numbered rongorongo glyph drawings that every later study cites (the kohaumotu.org scan, 391 pixels per inch). Every sign was cut out by code and its number read from the page, then checked visually on contact sheets and against the list of Barthel numbers used by the kohaumotu glyph library.</p>
+    <p>The controls are the sign inventories of twenty-two other scripts, rendered from Google's Noto fonts: every encoded character of the script's Unicode block. They span five thousand years, four continents, pictographic and abstract systems, and inventory sizes from 22 to 1,165. Two of them, Linear A and Linear B, are known to be related; several small alphabets (Phoenician, Old Italic, Carian, Lycian, Runic) are known relatives too. Those pairs are the positive controls: any method that cannot see them has no business judging the Indus pair.</p>
+  </div>
+  <figure>
+    <div class="frame plain"><table class="inv" id="inv-table"></table></div>
+    <figcaption><b>Every inventory used.</b> Fourteen random signs from each, drawn as they enter the pipeline. Two are scans of hand drawings; the rest are font glyphs. That difference matters, and section 6 deals with it.</figcaption>
+  </figure>
+  <div class="prose">
+    <h3>How the two scanned inventories were extracted</h3>
+    <p>Barthel's plates set each glyph to the right of its code number in a fixed grid: the units digit is the column, the tens digit the row, the hundreds digit the plate. The extractor finds every typeset numeral by size, groups them into labels, snaps the labels to the grid, derives each glyph's number from its grid position, and reads the label with OCR as an independent check. Mahadevan's list is a ten-column grid with numbers running consecutively, so position alone fixes the number and OCR again serves as the check. The overlays below are what the code saw; the coloured boxes are its decisions. Green means the position-derived number and the OCR agree.</p>
+  </div>
+  <figure>
+    <div class="frame"><img src="img/fig/barthel_overlay6.jpg" alt="Barthel plate 6 with extraction overlays" loading="lazy"></div>
+    <figcaption><b>Barthel, Formentafel 6 (glyphs 500 to 599), with the extractor's decisions.</b> Blue boxes are the glyph crops; green labels are numbers confirmed by OCR; amber ones are position-derived numbers the OCR could not confirm, checked by eye. 604 glyph drawings were recovered from the eight plates; the one Barthel number missing (199) does not appear on the plates.</figcaption>
+  </figure>
+  <figure>
+    <div class="frame"><img src="img/fig/mahadevan_overlay32.jpg" alt="Mahadevan sign list page 32 with extraction overlays" loading="lazy" style="max-width:640px"></div>
+    <figcaption><b>Mahadevan, sign list page 32 (signs 1 to 110).</b> All 417 signs were recovered from four pages. Contact sheets of every crop are in the repository under <code>data/qa/</code>.</figcaption>
+  </figure>
+</div></section>
+
+<section class="part" id="method"><div class="wrap">
+  <div class="part-head"><div class="n">04</div><h2>How every sign was measured</h2></div>
+  <div class="prose">
+    <p>The three sources are drawn differently. Barthel's glyphs are hollow outline drawings, Mahadevan's are thin line drawings, and font glyphs are filled silhouettes. Compared directly, the numbers would mostly measure drawing style. So every sign, from every script, is first reduced to the same thing: its medial skeleton, a one-pixel-wide stick version of the shape, rendered into a 64-pixel box. Outline drawings have the gap between their double contour closed first, with a radius set from the measured gap on the Barthel scan; nothing else is source-specific.</p>
+  </div>
+  <figure>
+    <div class="frame"><img src="img/fig/norm_check.png" alt="Raw signs beside their skeletons" loading="lazy"></div>
+    <figcaption><b>Raw sign and its skeleton, for random rongorongo, Indus, Egyptian and Linear A signs.</b> The skeleton is what gets compared. Beside each pair are the complexity counts read off the skeleton: total length, endpoints, junctions, enclosed loops.</figcaption>
+  </figure>
+  <div class="prose">
+    <p>Three independent similarity measures are then computed between skeletons, and combined by averaging their z-scores. The z-scores use a mean and standard deviation fixed once, from 200,000 random sign pairs drawn across all scripts, so the combination is identical for every pair and was never tuned on the Indus–rongorongo pair.</p>
+    <ol class="steps">
+      <li><b>Chamfer distance.</b> The average distance from each pixel of one skeleton to the nearest pixel of the other, in both directions, turned into a similarity with <code>exp(-d/4)</code>. The purest geometric measure. A horizontal mirror is allowed, for every pair alike, since chart-makers allow it.</li>
+      <li><b>Histogram of oriented gradients.</b> A classic hand-engineered descriptor of local stroke directions, compared by cosine similarity.</li>
+      <li><b>DINOv2 embedding.</b> A frozen, general-purpose vision model (ViT-S/14, trained on natural images, never fine-tuned here) applied to the skeleton image, compared by cosine similarity. It is one channel among three, not a judge; no language model looks at any pair.</li>
+    </ol>
+    <p><b>What counts as a match.</b> A threshold <span class="mono" data-v="T"></span> was fixed as the combined similarity exceeded by only 0.1% of random cross-script sign pairs. A pair at or above it is called a match. <b>Complexity</b> is the skeleton's length; "complex" signs are those above the median across the large scripts (<span class="mono" data-v="Lmed"></span> pixels).</p>
+    <p><b>Statistics per script pair.</b> Inventories differ in size, and a bigger inventory offers more chances of a fluke, so every statistic is computed on both scripts subsampled to 200 signs, twenty times over, and averaged. The main one is the <b>best-24 score</b>: the mean similarity of the 24 best one-to-one matches, chosen greedily, which is exactly what a chart-maker does. Alongside it: the <b>match rate</b> (matches per 10,000 candidate pairs), the mean nearest-neighbour similarity, and both restricted to complex signs.</p>
+    <p><b>Does the method see relatedness at all?</b> Yes. Linear B was adapted from Linear A around 1450 BCE. Their best-24 score is the highest of the 55 pairs, and their top matches are, to the eye, the same signs.</p>
+  </div>
+  <div class="prose">
+    <p><b>Does the metric recognise a glyph it has seen drawn differently?</b> The kohaumotu glyph library holds an independent rendition of the same Barthel glyphs at 24 by 40 pixels, about a tenth of the resolution of the plates. Used as queries against the 604-glyph inventory, the combined metric returns the true glyph first 75% of the time and within the top five 89% of the time; chance is 0.17%. Chamfer and HOG alone do as well or better (72% and 81% top-one); the DINOv2 channel alone manages only 12%, which is why it carries a third of the weight and not more, and why the per-metric results in section 5 matter. The script is <code>pipeline/validate_metric.py</code>.</p>
+    <p><b>Where the metric is coarse.</b> It works on skeletons in a 64-pixel box, so it under-weights small distinguishing details: an oval with a plain stroke and an oval with a forked stroke score almost alike, as do a figure-eight and a barred rectangle. That coarseness makes the metric <em>generous</em> to look-alikes, not stingy, so it biases the test toward finding similarity. In the audit of the 24 chart pairs (section 8) it meant the reviewer overrode the automatic identification in eleven cases, usually promoting the second- to fifth-ranked candidate; the outright misses were the blurry, thumbnail-sized chart drawings of the figure-eight and the U.</p>
+  </div>
+  <figure>
+    <div class="frame"><img src="img/fig/top_lineara_linearb.png" alt="Top 24 matches between Linear A and Linear B" loading="lazy"></div>
+    <figcaption><b>Positive control: the 24 best one-to-one matches between Linear A and Linear B.</b> Each cell shows the raw glyphs and their skeletons, with the combined score and the three components. This is what related scripts look like to the method.</figcaption>
+  </figure>
+</div></section>
+
+<section class="part" id="r1"><div class="wrap">
+  <div class="part-head"><div class="n">05</div><h2>Result 1: is Indus a special match for rongorongo?</h2></div>
+  <div class="prose">
+    <p>Eleven scripts have at least 197 signs and can be subsampled fairly: the two targets and nine controls. That gives 55 script pairs, all scored identically. The chart plots them on one axis.</p>
+  </div>
+  <figure>
+    <div class="chart-controls"><span>Statistic</span><select class="select" id="stat-select"></select><span id="stat-help" class="kicker"></span></div>
+    <div class="frame plain" id="fig-allpairs"></div>
+    <figcaption id="cap-allpairs"></figcaption>
+  </figure>
+  <div class="prose">
+    <p>Two readings of the same numbers, and both matter. Ranked against every other pair, Indus–rongorongo is unremarkable. But look only at rongorongo's partners and Indus comes first on nearly every statistic; look only at Indus's partners and rongorongo comes near the bottom. Rongorongo is far from everything, and Indus is a little less far from it than the font-rendered scripts are.</p>
+  </div>
+  <figure>
+    <div class="frame plain" id="fig-vs"></div>
+    <figcaption><b>The same statistic, from each target's point of view.</b> Left: every large script scored against rongorongo. Right: every large script scored against Indus. Bars are means over 20 subsamples; whiskers are one standard deviation.</figcaption>
+  </figure>
+  <div class="prose">
+    <p>That asymmetry is the interesting thing in this data, and there is an obvious mundane explanation for it. The Indus and rongorongo inventories are the only two that are scanned hand drawings. Every control is a crisp font. If "looks hand-drawn" leaks through skeletonisation into the measures, Indus would be rongorongo's best match for a reason that has nothing to do with the signs. Section 6 tests exactly that.</p>
+  </div>
+</div></section>
+
+<section class="part" id="r2"><div class="wrap">
+  <div class="part-head"><div class="n">06</div><h2>Result 2: the drawing-style confound, tested</h2></div>
+  <div class="prose">
+    <p>Every font-rendered control glyph was passed through a random elastic distortion and a scanner-like blur before entering the pipeline, with one fixed set of parameters for all scripts and no tuning. The result looks like a hand copy of the printed sign. Then the comparisons against both targets were repeated with the wobbled controls.</p>
+  </div>
+  <figure>
+    <div class="frame"><img src="img/fig/wobble_check.png" alt="Font glyphs before and after wobble" loading="lazy"></div>
+    <figcaption><b>Wobbled controls.</b> Each pair shows the wobbled glyph as it enters the pipeline and the skeleton that comes out.</figcaption>
+  </figure>
+  <figure>
+    <div class="frame plain" id="fig-lineup"></div>
+    <figcaption><b>The lineup test.</b> For each of the 604 rongorongo glyphs, which script holds its single nearest neighbour, when every candidate script is subsampled to 200 signs? With ten candidate scripts, chance is 10% each. Top: clean font controls. Bottom: the same controls, wobbled. Indus's share falls from <span data-v="lineup_indus_pct"></span> to <span data-v="lineup_w_indus_pct"></span>, level with Egyptian and Anatolian and below cuneiform.</figcaption>
+  </figure>
+  <figure>
+    <div class="frame plain" id="fig-vs-w"></div>
+    <figcaption><b>Best-24 score against rongorongo (left) and against Indus (right), with wobbled controls.</b> Egyptian now edges Indus as rongorongo's closest partner; the ordering among the rest is essentially noise. Use the selector in section 5 to see other statistics.</figcaption>
+  </figure>
+  <div class="prose">
+    <p>The conclusion is not subtle. Almost all of Indus's apparent edge as rongorongo's best partner was the shared texture of hand-drawn scans. What remains after wobbling the controls is within the spread of unrelated scripts. This is the kind of artefact that a chart of twenty-four drawings can never reveal and a full-inventory comparison exposes immediately.</p>
+  </div>
+</div></section>
+
+<section class="part" id="r3"><div class="wrap">
+  <div class="part-head"><div class="n">07</div><h2>Result 3: the blind best-24 tournament</h2></div>
+  <div class="prose">
+    <p>The circulating chart is a "best 24" for one pair of scripts, chosen by a person. Here every pair of large scripts gets its own best 24, chosen by the same algorithm from the full inventories, drawn in the same style. The labels are hidden. Judge which panels look like related scripts, then reveal.</p>
+  </div>
+  <figure>
+    <div class="chart-controls">
+      <button class="btn" id="btn-shuffle">Shuffle</button>
+      <button class="btn" id="btn-reveal">Reveal all</button>
+      <button class="btn" id="btn-hide">Hide all</button>
+      <span class="kicker">Twelve panels are shown at a time, from the 55 pairs of large scripts plus the wobbled-control pairs against rongorongo. The Indus–rongorongo panel and the Linear A–Linear B panel are always among them.</span>
+    </div>
+    <div class="tournament" id="tournament"></div>
+    <figcaption><b>Each panel: the 24 best one-to-one matches between two scripts, from their complete inventories.</b> The small number under each pair is the combined similarity.</figcaption>
+  </figure>
+</div></section>
+
+<section class="part" id="r4"><div class="wrap">
+  <div class="part-head"><div class="n">08</div><h2>Result 4: the 24 chart pairs, audited</h2></div>
+  <div class="prose">
+    <p>Finally, the chart itself. Each of its 48 drawings was cut out and run through the same pipeline, and the nearest catalogue signs were listed. A reviewer then recorded which catalogue sign each drawing depicts, keeping the automatic pick unless it was plainly wrong, and flagging the identifications that remain uncertain. Every decision is in <code>data/fidelity/mapping.json</code>, with the runners-up shown on each card so you can disagree.</p>
+    <p>Two numbers per pair. <b>Chart</b> is the similarity of the two drawings on the chart to each other. <b>Catalogue</b> is the similarity of the two real signs they depict, and the percentile of that value among all <span data-v="n_pairs"></span> Indus–rongorongo catalogue pairs.</p>
+    <div class="stats">
+      <div class="stat"><div class="num"><span data-v="fid_mean_chart"></span> → <span data-v="fid_mean_catalog"></span></div><div class="lbl">Mean similarity of the 24 pairs: as drawn on the chart, then as the catalogue signs. The redrawing adds about half a standard deviation.</div></div>
+      <div class="stat"><div class="num"><span data-v="fid_median_pct"></span><small>th</small></div><div class="lbl">Median percentile of the catalogue pairs among all Indus–rongorongo pairs. Good look-alikes, but not the extremes of the cross-product.</div></div>
+      <div class="stat"><div class="num"><span data-v="fid_match"></span><small> match</small></div><div class="lbl">Catalogue pairs at or above the match threshold. It is the figure-eight, which is also the single most similar pair of the entire 417 × 604 cross-product, and the only reciprocal nearest neighbour.</div></div>
+    </div>
+  </div>
+  <figure>
+    <div class="fid-grid" id="fidelity"></div>
+    <figcaption><b>Reading a card.</b> Left to right: the Indus drawing on the chart, the Indus catalogue sign it depicts, the rongorongo catalogue sign, the rongorongo drawing on the chart. Tags mark identifications that were reviewed by hand or remain weak. Runners-up are the next-nearest catalogue signs the pipeline found.</figcaption>
+  </figure>
+  <figure>
+    <div class="frame plain" id="fig-hist"></div>
+    <figcaption><b>All <span data-v="n_pairs"></span> Indus–rongorongo catalogue pairs, by combined similarity.</b> The dashed line is the match threshold; the ticks mark where the 24 chart pairs' catalogue signs fall. Most sit in the upper tail, as chosen look-alikes should, but the tail of a quarter-million pairs is a crowded place: <span data-v="target_matches"></span> pairs in the whole cross-product clear the threshold, and only one of them is on the chart.</figcaption>
+  </figure>
+  <div class="prose">
+    <p>The bottom row of the chart, the "nearly identical" simple shapes, is where the real matches are: the figure-eight, the oval with a stroke, the crescent, the lollipop, the fir tree. Those are also the signs with the least design space, the ones every pictographic system contains. The anthropomorphic rows, which would carry real weight if they matched as families, mostly resolve to catalogue signs that are ordinary Indus stick figures and ordinary rongorongo figures, alike at the level of "a person with something at the right hand" and not much beyond.</p>
+  </div>
+</div></section>
+
+<section class="part" id="r5"><div class="wrap">
+  <div class="part-head"><div class="n">09</div><h2>Result 5: small alphabets and known relatives</h2></div>
+  <div class="prose">
+    <p>The eleven large scripts leave out thirteen small ones, including the alphabets whose family trees are documented. A second panel scores every pair of all 24 scripts at the size of the smallest inventory (22 signs, best-8 matching, 40 repeats). It is a noisier statistic, but it puts the known relatives on the same axis as the Indus pair.</p>
+  </div>
+  <figure>
+    <div class="frame plain" id="fig-small"></div>
+    <figcaption><b>All 276 pairs of the 24 scripts, best-8 similarity at 22 signs each.</b> Green: pairs with a documented historical relationship. Copper: Indus–rongorongo (rank <span data-v="small_rank"></span> of 276). The known relatives cluster at the top; the Indus pair does not.</figcaption>
+  </figure>
+</div></section>
+
+<section class="part" id="limits"><div class="wrap">
+  <div class="part-head"><div class="n">10</div><h2>What this does and does not show</h2></div>
+  <div class="prose">
+    <p><b>It is a catalogue-level test.</b> Barthel's tables and Mahadevan's list are themselves normalised drawings by careful scholars, not photographs of tablets and seals. That is a large step up from an advocate's chart, and it is the level at which the claim has always been argued, but a photo-level version, using the Corpus of Indus Seals and Inscriptions and the new 3D tablet models from Bologna, is the obvious next step. The pipeline is built to take it.</p>
+    <p><b>The controls are fonts.</b> Font designers regularise shapes; scribes do not. The wobble experiment shows how much that matters, and it matters a lot. The clean fix is a scanned, hand-drawn sign list of an unrelated script as a control, and we would welcome pointers to one with a regular enough layout to extract.</p>
+    <p><b>Sign counting is contested.</b> Barthel's 600 forms include variants and compounds; Pozdniakov argues for about 52 basic signs. Mahadevan's 417 has its own splitting decisions. A version at the level of basic signs and modifiers, and a test of whether base-plus-modifier families map across the scripts, is in the research plan and not done here.</p>
+    <p><b>Shape cannot settle history.</b> Even a strong graphic anomaly would not show contact, and a null result does not prove independence of every individual sign. What this test answers is the narrow, falsifiable question the chart poses: whether these two inventories resemble each other more than unrelated inventories do, under a method that demonstrably detects real relatedness. They do not.</p>
+    <p><b>What would change the verdict.</b> An Indus–rongorongo score in the top few of the 55 pairs after wobbled controls; an excess of reciprocal, high-complexity matches; or a mapping of sign families that survives permutation. None of those appeared. The data and code are here for anyone who thinks a different, pre-specified measure would find them.</p>
+  </div>
+</div></section>
+
+<section class="part" id="repro"><div class="wrap">
+  <div class="part-head"><div class="n">11</div><h2>Reproduce it</h2></div>
+  <div class="two">
+    <div class="prose">
+      <p>Everything runs on a laptop in under an hour. The repository holds the raw scans, the fonts, every intermediate file, the QA contact sheets, and the results. The steps, in order:</p>
+<pre>python -m venv .venv &amp;&amp; . .venv/bin/activate
+pip install -r requirements.txt        # numpy scipy scikit-image opencv pillow fonttools torch
+brew install tesseract                 # OCR check of the catalogue numbers
+
+python pipeline/extract_barthel.py     # 8 plates  -> data/glyphs/rongorongo/*.png
+python pipeline/extract_mahadevan.py   # 4 pages   -> data/glyphs/indus/*.png
+python pipeline/render_fonts.py        # 22 fonts  -> data/glyphs/&lt;script&gt;/*.png
+python pipeline/normalize.py &lt;scripts&gt; # skeletons -> data/norm/
+python pipeline/features.py  &lt;scripts&gt; # chamfer, HOG, DINOv2 -> data/features/
+python pipeline/wobble.py    &lt;scripts&gt; # scan-like controls
+python pipeline/experiments.py         # every statistic -> data/results/results.json
+python pipeline/fidelity.py            # cut the chart, nearest catalogue signs
+python pipeline/fidelity_stats.py      # score the 24 pairs -> data/fidelity/pairs.json
+python pipeline/build_site.py          # this page's data and images</pre>
+      <p>Random seeds are fixed in the code. The only manual step is <code>data/fidelity/mapping.json</code>, the reviewer's identification of the 24 chart drawings, and the automatic candidates are kept alongside it so the step can be audited or replaced.</p>
+    </div>
+    <div>
+      <table class="inv">
+        <tr><th>Source</th><th>Used for</th></tr>
+        <tr><td><a href="https://archive.org/details/TheIndusScript.TextConcordanceAndTablesIravathanMahadevan">Mahadevan 1977, archive.org scan</a></td><td>417 Indus signs (book pp. 32–35)</td></tr>
+        <tr><td><a href="https://kohaumotu.org/Rongorongo/Barthel/index.html">Barthel 1958 Formentafeln, kohaumotu.org scan</a></td><td>604 rongorongo glyphs (8 plates)</td></tr>
+        <tr><td><a href="https://kohaumotu.org/Rongorongo/Glyph_Library/index.html">kohaumotu glyph library</a></td><td>List of Barthel numbers, cross-check</td></tr>
+        <tr><td><a href="https://github.com/google/fonts/tree/main/ofl">Noto fonts (OFL)</a></td><td>22 control inventories</td></tr>
+        <tr><td><a href="https://github.com/facebookresearch/dinov2">DINOv2 ViT-S/14</a></td><td>Frozen embedding channel</td></tr>
+        <tr><td><a href="https://www.persee.fr/doc/bspf_0249-7638_1933_num_30_7_12178">de Hevesy 1933, Persée</a></td><td>History; the text only, plates not reproduced there</td></tr>
+        <tr><td><a href="https://www.nature.com/articles/s41598-024-53063-7">Ferrara et al. 2024</a></td><td>Tablet dating context</td></tr>
+      </table>
+      <p class="small" style="margin-top:14px">Catalogue images are reproduced for scholarly comparison from the sources above; the code and derived data are released under the MIT licence.</p>
+    </div>
+  </div>
+</div></section>
+
+<section class="part" id="inventory"><div class="wrap">
+  <div class="part-head"><div class="n">12</div><h2>The inventories</h2></div>
+  <div class="prose"><p>Every sign as extracted, with its catalogue number. Hover a sign to see its skeleton and complexity counts.</p></div>
+  <h3>Indus, Mahadevan 1977 <span class="kicker" id="n-indus"></span></h3>
+  <div class="inv-grid" id="inv-indus"></div>
+  <h3>Rongorongo, Barthel 1958 <span class="kicker" id="n-rongorongo"></span></h3>
+  <div class="inv-grid" id="inv-rongorongo"></div>
+</div></section>
+
+</main>
+
+<footer><div class="wrap">
+  Built by Eugene Hong with Claude, September 2026, as the first case study of a test bench for claims of long-distance sign transmission. Corrections and better controls are welcome: <a href="https://github.com/ejhong/rongo/issues">open an issue</a>.
+</div></footer>
+
+<script src="app.js"></script>
+</body>
+</html>
