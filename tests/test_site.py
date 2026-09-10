@@ -7,12 +7,32 @@ from pathlib import Path
 import re
 import unittest
 from urllib.parse import unquote, urlsplit
+import struct
 
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / "docs"
 spec = importlib.util.spec_from_file_location("publish", ROOT / "pipeline/publish.py")
 publish = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(publish)
+
+
+def jpeg_size(path):
+    """Width and height from a JPEG's first frame header; standard library only."""
+    data = path.read_bytes()
+    assert data[:2] == b"\xff\xd8", path
+    i = 2
+    while i < len(data):
+        assert data[i] == 0xFF, path
+        marker = data[i + 1]
+        if marker in (0xD8, 0x01) or 0xD0 <= marker <= 0xD7:
+            i += 2
+            continue
+        length = struct.unpack(">H", data[i + 2:i + 4])[0]
+        if marker in (0xC0, 0xC1, 0xC2):
+            height, width = struct.unpack(">HH", data[i + 5:i + 9])
+            return width, height
+        i += 2 + length
+    raise ValueError(f"No frame header: {path}")
 
 
 class Page(HTMLParser):
@@ -108,11 +128,21 @@ class SiteTests(unittest.TestCase):
 
     def test_images_preserve_inputs(self):
         manifest = json.loads((ROOT / "research/images.json").read_text())
-        self.assertEqual(len(manifest), 6)
+        self.assertEqual(len(manifest), 20)
+        self.assertEqual(len({item["output"] for item in manifest}), 20)
+        self.assertEqual(sum(1 for item in manifest if not item["input"].startswith("fenton/")), 6)
         for item in manifest:
             with self.subTest(image=item["input"]):
-                self.assertEqual((ROOT / "inputs" / item["input"]).read_bytes(),
-                                 (DOCS / "img/inputs" / item["output"]).read_bytes())
+                src = ROOT / "inputs" / item["input"]
+                dst = DOCS / "img/inputs" / item["output"]
+                for field in ("description", "identification", "credit", "section"):
+                    self.assertTrue(item[field], field)
+                if item.get("crop"):
+                    left, top, right, bottom = item["crop"]
+                    self.assertTrue(src.is_file())
+                    self.assertEqual(jpeg_size(dst), (right - left, bottom - top))
+                else:
+                    self.assertEqual(src.read_bytes(), dst.read_bytes())
 
     def test_studies_precede_the_integrated_narrative(self):
         page = self.pages[DOCS / "index.html"]
@@ -123,12 +153,34 @@ class SiteTests(unittest.TestCase):
 
     def test_reference_images_are_in_their_topics_once(self):
         page = self.pages[DOCS / "index.html"]
+        manifest = json.loads((ROOT / "research/images.json").read_text())
         images = [image for image in page.images if image.get("src", "").startswith("img/inputs/")]
-        self.assertEqual(len(images), 6)
-        self.assertEqual(len({image["src"] for image in images}), 6)
-        for image in images:
-            expected = "birdmen" if "bird" in image["src"] else "animals"
-            self.assertEqual(image["section"], expected, image["src"])
+        self.assertEqual(len(images), len(manifest))
+        by_src = {image["src"]: image for image in images}
+        self.assertEqual(len(by_src), len(manifest))
+        for item in manifest:
+            with self.subTest(image=item["output"]):
+                image = by_src["img/inputs/" + item["output"]]
+                self.assertEqual(image["section"], item["section"])
+                self.assertIn(f'href="img/inputs/{item["output"]}"', (DOCS / "index.html").read_text())
+
+    def test_fenton_theory_is_stated_with_its_record(self):
+        page = self.pages[DOCS / "index.html"]
+        home = (DOCS / "index.html").read_text()
+        self.assertEqual(page.sections.index("fenton"), page.sections.index("pattern") + 1)
+        self.assertIn("https://x.com/GenomicSETI/status/1894160610822426795", home)
+        self.assertIn('href="data/fenton-thread.md"', home)
+        self.assertIn('src="img/fenton-map.svg"', home)
+        self.assertEqual(len(re.findall(r'<article class="claim(?: flip)?"', home)), 13)
+        self.assertEqual(home.count('class="note fenton-note"'), 6)
+        transcript = (ROOT / "research/fenton/thread.md").read_text()
+        self.assertEqual(transcript, (DOCS / "data/fenton-thread.md").read_text())
+        self.assertIn("[GAP:", transcript)
+        for item in json.loads((ROOT / "research/images.json").read_text()):
+            if item["section"] == "fenton":
+                self.assertIn(Path(item["output"]).name, transcript)
+        for anchor in ("fenton-bird", "fenton-buckets", "fenton-t", "fenton-snakes", "fenton-feathers", "fenton-olmec", "fenton-lore", "fenton-sunda"):
+            self.assertIn(anchor, page.ids)
 
     def test_narrative_bookmark_page_does_not_duplicate_content(self):
         page = self.pages[DOCS / "narrative.html"]
@@ -140,7 +192,8 @@ class SiteTests(unittest.TestCase):
         for path, page in self.pages.items():
             with self.subTest(page=path.name):
                 text = " ".join(page.text)
-                self.assertNotRegex(text, r"(?i)\b(?:built by|a project by|deep memory, by)\b")
+                # a cited article title ("was Göbekli Tepe built by Aboriginal Australians?") is not a byline
+                self.assertNotRegex(text, r"(?i)\b(?:built by(?! aboriginal)|a project by|deep memory, by)\b")
 
     def test_new_audit_is_not_presented_as_a_completed_redo(self):
         study = next(s for s in self.studies if s["id"] == "civilisers")

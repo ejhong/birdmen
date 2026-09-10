@@ -35,3 +35,24 @@ Original pipelines, raw responses, result datasets and preregistrations retain t
 - Civilisers V2 is explicitly identified as the new source-audit pilot, not a new run of
   the original similarity experiment. A stronger comparison has a separately labelled
   draft protocol; it has not been run and contributes no new results.
+
+# Fenton's theory added to the narrative — 9 September 2026
+
+- The illustrated narrative now has a second section, "A theory from the south", which states
+  Bruce R. Fenton's account of a southern origin for the Göbekli Tepe symbols as he states it,
+  in his order, with the fourteen pictures from his X thread of 24–26 February 2025 and short
+  quotations. Each claim carries a note of what the thread does and does not supply. The
+  later sections are renumbered; no section was removed or reworded beyond the pointers below.
+- Bird-men, Handbags, Hands, Serpents, Civilisers and Floods each gained a short "Fenton's
+  reading" pointer to the relevant claim. Explanations gained a third column, "A southern
+  source", beside transmission and convergence.
+- A verbatim transcript of the thread, with one passage marked as missing from the supplied
+  screenshots, is kept in `research/fenton/thread.md` and published as
+  `docs/data/fenton-thread.md`. The screenshots and attachments are preserved in
+  `inputs/fenton/`.
+- The image register now records a section for every supplied picture. Nine attachments are
+  published unchanged; five pictures captured only inside screenshots are published as crops
+  with their boxes recorded. A map of the claimed movements, drawn by this project, is
+  labelled as the thread's claims rather than evidence.
+- Sources gained a list for the theory and the studies it cites, including the excavation
+  team's 2017 reply.

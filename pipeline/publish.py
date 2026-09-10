@@ -4,7 +4,9 @@
     python3 pipeline/publish.py --check
 
 Only marked generated sections and explicitly listed publishing assets are written.
-Original experiment data, prompts and preregistrations are never modified.
+Original experiment data, prompts and preregistrations are never modified. Supplied
+images are copied unchanged; crops of supplied screenshots are made separately by
+crop_inputs.py and only checked for presence here.
 """
 import argparse
 import html
@@ -165,6 +167,7 @@ def build(check=False):
         pending[DOCS / 'data' / name] = json.dumps(obj, ensure_ascii=False, indent=2) + '\n'
     pending[DOCS / 'study4/source-method.md'] = (ROOT / 'research/civilisers/v2/method.md').read_text()
     pending[DOCS / 'study4/redo-protocol-draft.md'] = (ROOT / 'research/civilisers/v3/protocol-draft.md').read_text()
+    pending[DOCS / 'data/fenton-thread.md'] = (ROOT / 'research/fenton/thread.md').read_text()
     changed = []
     for path, content in pending.items():
         if not path.exists() or path.read_text() != content:
@@ -177,6 +180,10 @@ def build(check=False):
         dst = DOCS / 'img/inputs' / item['output']
         if not src.is_file():
             raise ValueError(f'Missing original image: {src}')
+        if item.get('crop'):
+            if not dst.is_file():
+                raise ValueError(f'Missing crop {dst}; run pipeline/crop_inputs.py with Pillow')
+            continue
         if not dst.is_file() or src.read_bytes() != dst.read_bytes():
             changed.append(str(dst.relative_to(ROOT)))
             if not check:

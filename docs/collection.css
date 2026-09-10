@@ -92,3 +92,48 @@
   .evidence-card { padding: 18px; }
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+/* A theory from the south: Fenton's account, stated with its pictures */
+.theory-lede { max-width: 760px; }
+.theory-box { background: var(--paper-2); border: 1px solid var(--rule); border-radius: 6px; padding: 24px 28px 22px; margin: 26px 0 6px; }
+.theory-box .eyebrow { margin-bottom: 10px; }
+.theory-box ol { margin: .4em 0 0 1.25em; padding: 0; }
+.theory-box li { margin: .5em 0; font-size: 1.02rem; line-height: 1.5; }
+.theory-box li b { font-weight: 600; }
+.route-map { margin: 32px 0 6px; }
+.route-map .frame { padding: 8px; background: #fff; }
+.route-map img { width: 100%; height: auto; display: block; }
+.route-map figcaption { font-size: .74rem; }
+.route-map figcaption b { display: block; margin-bottom: 4px; }
+.claims { counter-reset: claim; margin-top: 26px; }
+.claim { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 6fr); gap: 36px; align-items: start; border-top: 1px solid var(--rule); padding: 34px 0 30px; }
+.claim.flip .claim-text { order: 2; }
+.claim h3 { margin: 0 0 12px; font-size: 1.45rem; }
+.claim h3::before { counter-increment: claim; content: counter(claim, decimal-leading-zero); display: block; font-family: var(--mono); font-size: .74rem; font-weight: 400; color: var(--copper); letter-spacing: .12em; margin-bottom: 8px; }
+.claim p { margin: 0 0 .9em; }
+.claim .said { border-left: 2px solid var(--copper-soft); padding: 2px 0 2px 16px; margin: 14px 0 16px; font-style: italic; color: var(--ink-2); font-size: 1.02rem; }
+.claim .said cite { display: block; font-style: normal; font-family: var(--mono); font-size: .66rem; color: var(--faint); margin-top: 6px; letter-spacing: .03em; }
+.claim .aside { font-size: .95rem; color: var(--ink-soft); }
+.claim .aside b { color: var(--ink); font-weight: 600; }
+.claim .pointer { font-family: var(--mono); font-size: .7rem; color: var(--faint); margin: 10px 0 0; line-height: 1.6; }
+.claim figure { margin: 0; background: #fff; border: 1px solid var(--rule); border-radius: 6px; padding: 8px; min-width: 0; }
+.claim figure .ph { background: var(--paper-2); border-radius: 3px; overflow: hidden; }
+.claim figure .ph a { border: 0; display: block; }
+.claim figure img { width: 100%; height: auto; display: block; }
+.claim figure .pair { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; align-items: start; }
+.claim figcaption { padding: 10px 3px 2px; font-size: .72rem; }
+.claim figcaption b { display: block; margin-bottom: 4px; }
+.claim figcaption .when { color: var(--copper); }
+.theory-reading { margin-top: 36px; }
+.theory-reading h3 { margin-top: 0; font-size: 1.15rem; }
+.theory-reading p { font-size: .98rem; margin: 0 0 .7em; }
+.reading-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 26px; }
+.reading-grid > div { background: #fff; border: 1px solid var(--rule); border-radius: 6px; padding: 20px 22px; min-width: 0; }
+.camps { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 22px; }
+.note.fenton-note { margin: 22px 0 8px; max-width: 780px; }
+.note.fenton-note p { margin: 0; font-size: .98rem; }
+@media (max-width: 900px) {
+  .claim { grid-template-columns: 1fr; gap: 20px; }
+  .claim.flip .claim-text { order: 0; }
+  .reading-grid, .camps { grid-template-columns: 1fr; }
+}

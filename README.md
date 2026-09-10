@@ -18,8 +18,11 @@ is not automatically evidence for a particular historical explanation.
 | 05 · The raven & the dove | [Flood-story coding](docs/floods.html) | `pipeline/s5_floods.py`, `s5_analysis.py`; `data/s5/`; [preregistration](docs/study5/preregistration.md) |
 
 The [homepage](docs/index.html) combines the study collection first and the full illustrated
-narrative below. The bird-rock/Pillar 43 comparison is in Bird-men; pigs and reptile-like
-animals follow Handbags. `docs/narrative.html` only redirects older links to the combined
+narrative below. The narrative's second section states Bruce R. Fenton's theory of a southern
+origin for the Göbekli Tepe symbols, in his order and with his pictures, from his X thread of
+24–26 February 2025; a verbatim transcript with one marked gap is in
+[`research/fenton/thread.md`](research/fenton/thread.md). The bird-rock/Pillar 43 comparison
+is in Bird-men; pigs and reptile-like animals follow Handbags. `docs/narrative.html` only redirects older links to the combined
 page. `research/investigations.json` supplies the same question, finding, limitations and
 version links to the collection and each local study page.
 
@@ -44,9 +47,15 @@ python3 -m http.server 4173 --bind 127.0.0.1 --directory docs
 Open `http://127.0.0.1:4173/`. These commands do not deploy the site.
 
 `publish.py` uses only Python's standard library. It updates marked generated HTML sections,
-publishes the registers and method, and copies the six supplied images unchanged. Edit
-prose outside those markers directly; edit the registers for generated content. `--check`
-reports drift without writing.
+publishes the registers, method and thread transcript, and copies the supplied images
+unchanged. Edit prose outside those markers directly; edit the registers for generated
+content. `--check` reports drift without writing.
+
+Five pictures from the Fenton thread exist only inside phone screenshots. Their crop boxes
+are recorded in `research/images.json` and cut by `pipeline/crop_inputs.py`, which needs
+Pillow (`/usr/local/bin/python3 pipeline/crop_inputs.py`); `publish.py` only checks that the
+crops exist. `pipeline/fenton_map.py` redraws `docs/img/fenton-map.svg`, the map of the
+movements the thread claims, from the coastlines already in `docs/data/site.json`.
 
 Optional browser smoke tests need Node 22+ and Chromium/Chrome. Keep the local server
 running, then use `node tests/browser_smoke.mjs`. The script documents environment
@@ -60,12 +69,15 @@ research/                     Versioned methods, source records and evidence for
   images.json                 Supplied-image identifications and unresolved credits
   civilisers/v2/              Method and source-level evidence ledger
   civilisers/v3/              Proposed comparison protocol; not run
+  fenton/                     Transcript and screenshot inventory of Fenton's thread
 inputs/                       Original supplied material; preserve untouched
+  fenton/                     Screenshots and attachments of the thread (33 files)
 pipeline/                     Existing study scripts + offline publishing entry point
 data/                         Original datasets, model responses and calculated results
 docs/                         Published static site
   data/                       Browser-ready datasets and generated registers
-  img/                        Existing photographs + unchanged published input copies
+  img/                        Existing photographs, published input copies, the route map
+    inputs/fenton/            Nine unchanged attachments and five registered crops
   study3/, study4/, study5/    Preserved preregistrations; published V2 method
 tests/                        Offline integrity tests and optional browser smoke test
 ```
@@ -112,6 +124,9 @@ Do not replace an old version's evidence when creating a new version.
 - Civiliser V2 editions, passage locators and mediation are in its evidence ledger.
 - Existing photo credits remain in `docs/img/motifs/credits.json` and the illustrated
   narrative; new photo provenance and unresolved rights are in `research/images.json`.
+- The pictures and quotations from Bruce R. Fenton's thread are reproduced for commentary.
+  The photographers of the pictures he posted are mostly unidentified in the thread and are
+  recorded as unresolved.
 
 The existing MIT designation for code and eligible derived data does not relicense
 third-party texts or photographs. Unverified photographic rights are not an open licence.
