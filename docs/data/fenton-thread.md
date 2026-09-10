@@ -5,7 +5,9 @@ Thread start: <https://x.com/GenomicSETI/status/1894160610822426795>.
 The wording below was transcribed from 33 phone screenshots supplied on 9 September 2026
 (`inputs/fenton/IMG_8503`–`IMG_8535`). Spelling and punctuation follow the posts. Square
 brackets mark editorial notes. One passage was not captured by the screenshots and is marked
-as a gap; nothing has been supplied in its place.
+as a gap; nothing has been supplied in its place. A later exchange of September 2026, captured in one
+further screenshot, is transcribed in the addendum at the end, followed by the identifications this
+project has made since publication.
 
 Images attached to the posts are listed by their published file names
 (`docs/img/inputs/fenton/`). Nine are the original attachments saved from the posts and are
@@ -359,3 +361,64 @@ and a caption on the chromosome 2 fusion.
 | IMG_8535.PNG | Screenshot: Post C composite enlarged |
 
 IMG_8510 is absent from the supplied sequence.
+
+## Addendum · 9–10 September 2026 · the V-neck
+
+A later exchange on X, captured in one screenshot supplied on 10 September 2026
+(`inputs/fenton/Screenshot 2026-09-10 at 4.43.40 AM.png`; the file name has macOS's narrow no-break space
+before "AM"). Both posts showed "7h" when the
+screenshot was taken; their URLs are truncated in it. Fenton's post quotes an earlier post of his
+(`x.com/GenomicSETI/st…`) and carries a photograph of Urfa Man.
+
+Bruce R. Fenton (@GenomicSETI):
+
+> For anyone doubtful that pillar 43 also depicts an amphropomorthic bird-man or bird-lady just
+> look closer, note the V-neck top it is wearing, this same outfit is represented on the oldest
+> life-size human statue in the world – Urfa man from 11,000 years ago, Sanliurfa, Turkey.
+> x.com/GenomicSETI/st…
+
+Archaic Lens (@ArchaicLens), quoting the above:
+
+> Agreed, the bird on pillar 43 is not only wearing a v-neck robe it's knees are bent at front
+> which of course birds knees bend backwards
+
+Image: a photograph of Urfa Man (Şanlıurfa Museum), head and torso, showing the V-shaped double
+line at the neck; photographer not credited. Not republished: the site uses its own Commons
+photograph of the statue. The two claims are examined on the main page under "Bird, or bird-man?".
+
+| File | Content |
+| --- | --- |
+| Screenshot 2026-09-10 at 4.43.40 AM.png | Screenshot: Archaic Lens's reply quoting Fenton's post, with the Urfa Man photograph |
+
+## Identifications and checks made since publication · 10 September 2026
+
+Made by this project by text search and by comparing the pictures with published images. None of
+this comes from the thread.
+
+- `yinganna.jpg`: the Yingarna painting on Injalak Hill beside Gunbalanya (Oenpelli), western
+  Arnhem Land. The rock face, the headband and the fifteen striped dilly bags match a photograph
+  published in 2007 and the published descriptions of the painting. Taçon, May, Jalandoni and
+  Mungulda (2026, *Australian Archaeology*) count it among the region's recent, post-contact
+  Rainbow Serpent paintings.
+- `churinga-symbols.jpg`: the painted man is Wellcome Collection reference 21428i, "A shaman or
+  medicine man with extensive body painting, Worgaia, Central Australia", a process print
+  captioned "The wizard of the Worgaia, a great medicine man of Central Australia, as the signs
+  on his body show. He instructs tribes in mysteries." Its date and first publication are not
+  recorded there.
+- `australasian-signal.jpg`: the text is Kaleena Fraga's article "Ancient Australian DNA found in
+  Indigenous South American tribes", *All That's Interesting*, 2 April 2021; the maps are figures
+  from Castro e Silva et al. (2021).
+- `bush-bucket.jpg`: a Google Books search inside Lommel, *The Unambal* (1997) returns one page
+  for "bush buckets", which supports the attribution; the page itself was not inspected.
+- `t-shapes.jpg`: the headdress photographs match the subjects and style of Spencer and Gillen's
+  Arrernte ceremony photographs of the 1890s (compare the Commons file `Corroboree.jpg`, before
+  1900); the exact plates were not identified. The rock painting was not found.
+- `olmec-heads.jpg`: matched to museum photographs as San Lorenzo Colossal Head 1 (top left,
+  Xalapa) and Head 6 (top right, Mexico City); the lower two resemble Head 5 and Head 3 (Xalapa)
+  but are less certain.
+- Not identified: the Arnhem Land painting in `bird-and-ball.jpg`; the two paintings in
+  `birthing-figure.jpg`; three of the four carvings in `serpent-heads.jpg`; the stone head and
+  the two paintings in `feathered-serpents.jpg`.
+- Checked: Urfa Man's V-shaped double line is described in the reference literature as a collar or
+  necklace. The excavation team's published description of Pillar 43 calls the large bird a
+  vulture lifting one wing and does not discuss its neck lines or legs.

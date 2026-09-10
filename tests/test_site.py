@@ -176,11 +176,26 @@ class SiteTests(unittest.TestCase):
         transcript = (ROOT / "research/fenton/thread.md").read_text()
         self.assertEqual(transcript, (DOCS / "data/fenton-thread.md").read_text())
         self.assertIn("[GAP:", transcript)
+        self.assertIn("## Addendum", transcript)
+        self.assertIn("Screenshot 2026-09-10 at 4.43.40 AM.png", transcript)
+        self.assertNotIn('class="claim flip"', home)
         for item in json.loads((ROOT / "research/images.json").read_text()):
             if item["section"] == "fenton":
                 self.assertIn(Path(item["output"]).name, transcript)
         for anchor in ("fenton-bird", "fenton-buckets", "fenton-t", "fenton-snakes", "fenton-feathers", "fenton-olmec", "fenton-lore", "fenton-sunda"):
             self.assertIn(anchor, page.ids)
+
+    def test_bird_man_details_are_stated_with_pictures(self):
+        page = self.pages[DOCS / "index.html"]
+        home = (DOCS / "index.html").read_text()
+        self.assertIn("bird-or-birdman", page.ids)
+        self.assertLess(page.ids.index("bird-detail"), page.ids.index("bird-or-birdman"))
+        self.assertLess(page.ids.index("bird-or-birdman"), page.ids.index("handbags"))
+        self.assertIn('src="img/motifs/pillar43_bird.jpg"', home)
+        self.assertIn('href="#bird-or-birdman"', home)
+        credits = json.loads((DOCS / "img/motifs/credits.json").read_text())
+        self.assertEqual(credits["pillar43_bird"]["page"], credits["pillar43"]["page"])
+        self.assertEqual(jpeg_size(DOCS / "img/motifs/pillar43_bird.jpg"), (credits["pillar43_bird"]["w"], credits["pillar43_bird"]["h"]))
 
     def test_narrative_bookmark_page_does_not_duplicate_content(self):
         page = self.pages[DOCS / "narrative.html"]

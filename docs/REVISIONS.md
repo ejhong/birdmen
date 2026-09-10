@@ -56,3 +56,21 @@ Original pipelines, raw responses, result datasets and preregistrations retain t
   labelled as the thread's claims rather than evidence.
 - Sources gained a list for the theory and the studies it cites, including the excavation
   team's 2017 reply.
+
+# Bird-man details, picture frames and identifications — 10 September 2026
+
+- Bird-men gained "Bird, or bird-man? Two details on Pillar 43": the V-shaped line at the
+  bird's throat, which Fenton matched to Urfa Man's collar on 9 September 2026, and the
+  forward-bent knee a reader added. The page states what the photographs show, what the
+  excavators' description says, and what would settle it. A detail of the site's own Pillar 43
+  photograph was added beside the Urfa Man photograph already in Hands.
+- The pictures in "A theory from the south" now use the same framed-print treatment as the
+  galleries: a fixed-height mount with the picture contained, and the caption inside the frame.
+  Text and picture still sit side by side; the alternating left–right layout was dropped.
+- Identifications after text and image searches, recorded in the image register, the captions
+  and the transcript's addendum: the Yinganna painting is the Yingarna figure on Injalak Hill,
+  a recent painting; the painted man in the churinga montage is a Wellcome Collection print;
+  the news graphic is an All That's Interesting article of 2 April 2021; the four Olmec heads
+  are San Lorenzo heads; the bush-bucket passage is confirmed in Lommel's book by a search
+  inside it. What was not found is also recorded.
+- The transcript has an addendum with the September 2026 exchange and its screenshot.

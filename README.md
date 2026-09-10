@@ -22,7 +22,10 @@ narrative below. The narrative's second section states Bruce R. Fenton's theory 
 origin for the Göbekli Tepe symbols, in his order and with his pictures, from his X thread of
 24–26 February 2025; a verbatim transcript with one marked gap is in
 [`research/fenton/thread.md`](research/fenton/thread.md). The bird-rock/Pillar 43 comparison
-is in Bird-men; pigs and reptile-like animals follow Handbags. `docs/narrative.html` only redirects older links to the combined
+is in Bird-men, which also examines the V-neck and knee of the Pillar 43 bird raised in September
+2026; pigs and reptile-like animals follow Handbags. Pictures from the thread identified since
+publication (the Injalak Hill Yingarna painting, a Wellcome Collection print, a news article, four
+Olmec heads) are recorded in `research/images.json` and in the transcript's addendum. `docs/narrative.html` only redirects older links to the combined
 page. `research/investigations.json` supplies the same question, finding, limitations and
 version links to the collection and each local study page.
 
@@ -71,7 +74,7 @@ research/                     Versioned methods, source records and evidence for
   civilisers/v3/              Proposed comparison protocol; not run
   fenton/                     Transcript and screenshot inventory of Fenton's thread
 inputs/                       Original supplied material; preserve untouched
-  fenton/                     Screenshots and attachments of the thread (33 files)
+  fenton/                     Screenshots and attachments of the thread (33 files) and one later screenshot
 pipeline/                     Existing study scripts + offline publishing entry point
 data/                         Original datasets, model responses and calculated results
 docs/                         Published static site
