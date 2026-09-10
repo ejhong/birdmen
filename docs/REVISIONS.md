@@ -74,3 +74,6 @@ Original pipelines, raw responses, result datasets and preregistrations retain t
   are San Lorenzo heads; the bush-bucket passage is confirmed in Lommel's book by a search
   inside it. What was not found is also recorded.
 - The transcript has an addendum with the September 2026 exchange and its screenshot.
+- Bird-men gained a supplied photograph of the whole Gate of the Sun at Tiwanaku, registered as the
+  seventh reference image, with a caption and a note on its forty-eight winged attendants, sixteen
+  of them bird-headed, and on what a comparison with the Assyrian genii would need.

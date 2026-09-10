@@ -128,9 +128,9 @@ class SiteTests(unittest.TestCase):
 
     def test_images_preserve_inputs(self):
         manifest = json.loads((ROOT / "research/images.json").read_text())
-        self.assertEqual(len(manifest), 20)
-        self.assertEqual(len({item["output"] for item in manifest}), 20)
-        self.assertEqual(sum(1 for item in manifest if not item["input"].startswith("fenton/")), 6)
+        self.assertEqual(len(manifest), 21)
+        self.assertEqual(len({item["output"] for item in manifest}), 21)
+        self.assertEqual(sum(1 for item in manifest if not item["input"].startswith("fenton/")), 7)
         for item in manifest:
             with self.subTest(image=item["input"]):
                 src = ROOT / "inputs" / item["input"]
