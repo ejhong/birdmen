@@ -228,6 +228,106 @@ Historical ranking: <b>not permitted</b>. This purposive pilot does not estimate
     return '\n'.join(out)
 
 
+def context_objects(register):
+    sources = {s['id']: s for s in register['sources']}
+    seen = set()
+    out = []
+    for obj in register['objects']:
+        if obj['id'] in seen or not set(obj['sources']) <= set(sources):
+            raise ValueError('Invalid context object identity or source')
+        seen.add(obj['id'])
+        if any(not (ROOT / image).is_file() for image in obj['images']):
+            raise ValueError('Missing context photograph')
+        out.append(f'<details class="context-record" id="object-{esc(obj["id"])}"><summary>{esc(obj["name"])}'
+                   f'<span>{esc(obj["region"])} · {esc(obj["record"])} · {esc(obj["inspection"])}</span></summary><dl>')
+        for key, title in [('context', 'Context'), ('date_scope', 'What is dated?'), ('observation', 'Observation'), ('relevance', 'Why include it?')]:
+            out.append(f'<dt>{title}</dt><dd>{esc(obj[key])}</dd>')
+        out.append('</dl><p class="source-inline">' + ' · '.join(link('#source-' + s, sources[s]['title']) for s in obj['sources']) + '</p></details>')
+    return '\n'.join(out)
+
+
+def view_summary(result):
+    out = ['<div class="trial-conditions">']
+    for condition in result['conditions']:
+        p, a, bird = condition['primary'], condition['all'], condition['avian']
+        label = 'One photograph' if condition['views'] == 'single' else 'Two photographs'
+        out.append(f'<article class="trial-condition"><div class="eyebrow">{esc(condition["effort"].title())} reasoning · {label}</div>'
+                   f'<div class="trial-score">{p["correct"]}<span> / {p["total"]}</span></div><p>primary labels matched</p>'
+                   f'<div class="trial-bar" aria-hidden="true"><span style="width:{100*p["correct"]/p["total"]:.0f}%"></span></div>'
+                   f'<p class="source-inline">{p["wrong"]} wrong · {p["uncertain"]} uncertain · {p["missing"]} missing<br>'
+                   f'Bird labels: {bird["correct"]}/{bird["total"]}<br>All feature labels: {a["correct"]}/{a["total"]}</p></article>')
+    out.append('</div>')
+    out.append(f'<p class="source-inline">{result["completed_requests"]}/{result["planned_requests"]} requests completed. '
+               f'Estimated API cost: ${result["estimated_cost_usd"]:.2f}. Same model snapshot throughout: {esc(result["model"])}. '
+               'All uncertainty and missing answers stay in the denominators. These counts include incorrectly located features.</p>')
+    out.append('<h3>What changed when one factor changed?</h3><div class="result-table-wrap" tabindex="0" role="region" aria-label="Paired changes in primary feature labels"><table class="read-table"><caption class="source-inline">Primary checks only. Compare the same object and first photograph; no significance test or population claim.</caption><thead><tr><th scope="col">Change</th><th scope="col">Became correct</th><th scope="col">Became incorrect or uncertain</th><th scope="col">No change in correctness</th></tr></thead><tbody>')
+    for factor, fixed, label in [('views', 'low', 'Add a view · low reasoning'), ('views', 'high', 'Add a view · high reasoning'),
+                                  ('effort', 'single', 'Raise reasoning · one photograph'), ('effort', 'paired', 'Raise reasoning · two photographs')]:
+        selected = [t for t in result['transitions'] if t['factor'] == factor and t['fixed'] == fixed and t['primary']]
+        values = [sum(t['change'] == kind for t in selected) for kind in ('improved', 'worsened', 'no_correctness_change')]
+        out.append(f'<tr><th scope="row">{label}</th>' + ''.join(f'<td>{v}</td>' for v in values) + '</tr>')
+    out.append('</tbody></table></div><p class="source-inline">An incorrect answer becoming uncertain is not counted as correct. Two correct labels can still differ in their descriptions and locations.</p>')
+    return '\n'.join(out)
+
+
+def view_locations(audit, result):
+    positives = {r['id']: r for r in result['rows'] if r['object'] == 'p43' and r.get('observation') and r['observation']['scorpion']['answer'] == 'present'}
+    if {c['request'] for c in audit['cases']} != set(positives) or len(audit['cases']) != len(positives):
+        raise ValueError('Location audit must show all positive Pillar 43 scorpion responses')
+    out = ['<p class="location-key"><span class="model-key">Model’s scorpion box</span><span class="source-key">Source-assisted scorpion guide</span></p><div class="audit-photos">']
+    for case in audit['cases']:
+        row = positives[case['request']]
+        if case['model_box'] != row['observation']['scorpion']['box'] or case['path'] != row['path']:
+            raise ValueError('Location audit differs from saved response')
+        out.append(f'<figure><div class="recognition-photo"><img src="{esc(case["path"].removeprefix("docs/"))}" alt="Pillar 43: model box on upper panel; source guide on the lower shaft" loading="lazy">')
+        for key, css, label in [('model_box', 'audit-model', 'Model'), ('source_guide', 'audit-source', 'Source guide')]:
+            left, top, right, bottom = case[key]
+            if not 0 <= left < right <= 1 or not 0 <= top < bottom <= 1:
+                raise ValueError('Invalid location guide')
+            out.append(f'<div class="audit-box {css}" aria-hidden="true" style="left:{left*100}%;top:{top*100}%;width:{(right-left)*100}%;height:{(bottom-top)*100}%"><span>{label}</span></div>')
+        views = 'One photograph' if row['views'] == 'single' else 'Two photographs'
+        out.append(f'</div><figcaption><b>High reasoning · {views.lower()} · {"A" if row["order"] == 1 else "B"} first</b>'
+                   f'{link("#request-" + row["id"], "Inspect this response")} · {link(case["path"].removeprefix("docs/"), "Photograph without overlays")}</figcaption></figure>')
+    out.append('</div><p class="source-inline">Photographs © DAI / Göbekli Tepe Project; credits retained from the original study. Boxes locate areas, not individual carved lines. '
+               + link(audit['source_url'], 'Excavation-team description') + ' · ' + link('data/pillar-moai/v3/location-audit.json', 'Audit scope and observations') + '.</p>')
+    return '\n'.join(out)
+
+
+def view_records(result):
+    names = dict(avian='Bird / bird-headed figure', large_face='Large human face', scorpion='Scorpion', round_motif='Standalone round motif', three_arches='Three arched forms')
+    out, previous = [], None
+    for row in result['rows']:
+        if row['object'] != previous:
+            out.append(f'<h3 class="trial-object" id="responses-{esc(row["object"])}">{esc(row["label"])}</h3>')
+            previous = row['object']
+        observation = row['observation'] or {}
+        score = sum(c['outcome'] == 'correct' for c in row['cells'].values())
+        views = 'one photograph' if row['views'] == 'single' else 'two photographs'
+        label = f'{row["effort"].title()} reasoning · {views} · {"A" if row["order"] == 1 else "B"} first'
+        out.append(f'<details class="recognition-record" id="request-{esc(row["id"])}"><summary>{esc(label)} <span>{score}/{len(row["cells"])} labels matched</span></summary><div class="recognition-body"><figure>')
+        out.append(f'<div class="recognition-photo"><img src="{esc(row["path"].removeprefix("docs/"))}" alt="First input: {esc(row["label"])}" loading="lazy"><div class="model-box" hidden></div></div>'
+                   '<figcaption>First input. Every model box refers to this photograph.</figcaption><button class="btn clear-box" type="button">Clear location box</button>')
+        if row['second_path']:
+            out.append(f'<img class="second-input" src="{esc(row["second_path"].removeprefix("docs/"))}" alt="Second input: alternate photograph of {esc(row["label"])}" loading="lazy"><figcaption>Second input, supplied only in the paired condition.</figcaption>')
+        out.append('</figure><div><table class="read-table"><thead><tr><th scope="col">Feature</th><th scope="col">Reference</th><th scope="col">Answer</th></tr></thead><tbody>')
+        for feature, name in names.items():
+            cell = row['cells'][feature]
+            value = observation.get(feature, {})
+            answer = esc(cell['answer'] or 'missing')
+            if value.get('box'):
+                answer = f'<button type="button" class="box-link" data-box="{esc(",".join(map(str, value["box"])))}" aria-label="Show model location for {esc(name)}">{answer} ↗</button>'
+            out.append(f'<tr><th scope="row">{name}{" *" if cell["primary"] else ""}</th><td>{esc(cell["expected"])}</td><td class="outcome-{esc(cell["outcome"])}">{answer}</td></tr>')
+        out.append('</tbody></table><p class="source-inline">* Primary check. A matching label does not validate the location.</p>')
+        out.append(f'<h4>Description · {esc(row["status"])}</h4><p>{esc(observation.get("description", "No valid model response received."))}</p>')
+        if observation:
+            out.append('<details><summary>Feature explanations and limitations</summary><dl class="observation-notes">')
+            for feature, name in names.items():
+                out.append(f'<dt>{name}</dt><dd>{esc(observation[feature]["evidence"])}</dd>')
+            out.append('</dl><p>' + esc(observation['limitations']) + '</p></details>')
+        out.append('<p class="source-inline">' + link(f'data/pillar-moai/v3/raw/{row["id"]}.json', 'Full saved request and response record') + '</p></div></div></details>')
+    return '\n'.join(out)
+
+
 def build(check=False):
     studies = json.loads((ROOT / 'research/investigations.json').read_text())
     images = json.loads((ROOT / 'research/images.json').read_text())
@@ -280,6 +380,34 @@ def build(check=False):
     for source in (ROOT / 'data/pillar-moai/v2/raw').glob('*.json'):
         pending[DOCS / 'data/pillar-moai/raw' / source.name] = source.read_text()
     pending[DOCS / 'data/pillar-moai/recognition.py'] = (ROOT / 'pipeline/recognition.py').read_text()
+    context = json.loads((ROOT / 'research/pillar-moai/context.json').read_text())
+    validate_case(context)
+    context_page = (DOCS / 'local-context.html').read_text()
+    for name, content in [('context-objects', context_objects(context)), ('context-sources', case_sources(context)), ('context-images', case_images(context))]:
+        context_page = replace_region(context_page, name, content)
+    pending[DOCS / 'local-context.html'] = context_page
+    pending[DOCS / 'data/pillar-moai/context.json'] = json.dumps(context, ensure_ascii=False, indent=2) + '\n'
+    try:
+        from pipeline import view_trial
+    except ModuleNotFoundError:
+        import view_trial
+    if not (view_trial.DATA / 'freeze.json').is_file():
+        raise ValueError('View trial must already be frozen; publishing cannot create an experiment')
+    frozen = view_trial.freeze()
+    trial = json.loads((view_trial.DATA / 'results.json').read_text())
+    computed = view_trial.evaluate(view_trial.manifest(), view_trial.load_records(frozen))
+    if any(trial[key] != value for key, value in computed.items()):
+        raise ValueError('View trial report differs from raw responses')
+    audit = json.loads((view_trial.RESEARCH / 'location-audit.json').read_text())
+    trial_page = (DOCS / 'view-trial.html').read_text()
+    for name, content in [('view-summary', view_summary(trial)), ('view-locations', view_locations(audit, trial)), ('view-records', view_records(trial))]:
+        trial_page = replace_region(trial_page, name, content)
+    pending[DOCS / 'view-trial.html'] = trial_page
+    for source in list(view_trial.RESEARCH.glob('*.json')) + [view_trial.RESEARCH / 'protocol.md'] + list(view_trial.DATA.glob('*.json')):
+        pending[DOCS / 'data/pillar-moai/v3' / source.name] = source.read_text()
+    for source in (view_trial.DATA / 'raw').glob('*.json'):
+        pending[DOCS / 'data/pillar-moai/v3/raw' / source.name] = source.read_text()
+    pending[DOCS / 'data/pillar-moai/v3/view_trial.py'] = (ROOT / 'pipeline/view_trial.py').read_text()
     changed = []
     for path, content in pending.items():
         if not path.exists() or path.read_text() != content:

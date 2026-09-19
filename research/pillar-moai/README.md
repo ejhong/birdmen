@@ -21,6 +21,33 @@ One request failed with APIConnectionError inside the sandbox before returning a
 model response. The resumed run kept that failure and completed the other 19
 planned requests; there was no replacement of an inconvenient model answer.
 
+## Follow-up: view trial 3.0
+
+`v3/protocol.md` and `v3/reference.json` were frozen before 24 new requests.
+The trial crosses low/high reasoning with one/two views, using the same GPT-5.5
+snapshot and six unchanged images. Each condition includes both primary-image
+orders; these are different inputs, not stochastic repeats. All requests completed.
+
+Primary label matches: low/single 3/10, low/paired 4/10, high/single 7/10,
+high/paired 9/10. Full labels: 20/30, 22/30, 26/30, 28/30. Uncertainty stays in
+the denominator. The estimated usage cost was USD 1.25556, within the USD 8 cap.
+
+**The labels overstate verified recognition.** After the run, all three positive
+Pillar 43 scorpion answers were inspected against the source and photograph.
+Their boxes lie in the upper bird area; the scorpion is on the lower shaft.
+`v3/location-audit.json` records this post-run check. It is AI-assisted, not expert
+review, and does not silently replace the frozen categorical results.
+
+`pipeline/view_trial.py report` reproduces the report offline. `run` requires
+the OpenAI SDK, certifi and credentials, and only executes cells without an existing
+record. Inputs, code and observations in this run are immutable. New experiments
+need a new version. The reading page is `docs/view-trial.html`.
+
+`context.json` is a separate, editable register of nine focal/local objects and
+new image sources. It is not a scored corpus. The local study appears at
+`docs/local-context.html`. The Orongo rock’s 1919 reproduction and the existing
+Mata Ngarau image represent the same photograph/surface; do not count them twice.
+
 ## What remains scientifically open
 
 The dossier now identifies the boulder, separates carving episodes, distinguishes

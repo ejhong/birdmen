@@ -65,6 +65,28 @@ The full pre-revision site and its wording can be inspected in
 [commit c02aee5](https://github.com/ejhong/birdmen/tree/c02aee5/docs).
 Original pipelines, raw responses, result datasets and preregistrations retain their paths.
 
+## 19 September 2026 · controlled follow-up and local context
+
+- Published the preceding presentation and recognition audit in commit `cd51bbdb`.
+- Ran a separately frozen 24-request view/reasoning experiment on the same three
+  focal objects. All calls completed; estimated API usage cost USD 1.25556.
+- Primary label matches were 3/10 (low/single), 4/10 (low/paired), 7/10
+  (high/single) and 9/10 (high/paired). Uncertainty remains in the denominators.
+- Audited every positive Pillar 43 scorpion answer after the run. All three boxes
+  lie in the upper bird area rather than the lower shaft. The new report shows
+  those locations explicitly; categorical scores are preserved and must not be
+  read as validated perception accuracy. Independent review remains incomplete.
+- Added the illustrated local-context study and nine-object register. New assets
+  include Teomancimit’s licensed Pillar 2 photograph, an archival reproduction of
+  the existing Mata Ngarau photograph, and a credited preview of Factum Foundation’s
+  3D recording of the Rapa Nui museum’s painted birdman slab. The duplicate rock
+  photograph is explicitly one surface, not another independent example.
+- Recorded the broader catalogue proposal: claimed anomalous similarities as the
+  main collection, known diffusion/local examples as linked controls, gallery,
+  map/timeline, motif collections and focused graph views. This is a concept, not
+  a claim that the catalogue or worldwide search has been completed.
+
+
 ## Follow-up layout and clarity fixes
 
 - One combined main page: all five studies first, then the illustrated narrative.

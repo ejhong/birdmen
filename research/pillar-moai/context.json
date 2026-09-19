@@ -1,0 +1,275 @@
+{
+  "version": "1.0",
+  "checked": "2026-09-19",
+  "scope": "A purposive context register; not a sampled comparison corpus or an ancestry ranking.",
+  "independent_review": "not_reviewed",
+  "sources": [
+    {
+      "id": "cranes",
+      "title": "Dances with Cranes: animal masquerade in Pre-Pottery Neolithic ritual",
+      "author": "Jens Notroff / German Archaeological Institute",
+      "date": "14 December 2016",
+      "url": "https://www.dainst.org/blogs/dances-with-cranes-animal-masquerade-in-pre-pottery/592",
+      "note": "Excavation-team discussion of Pillars 2, 33, 38 and 56. Masking, dance and transformation are interpretations; the carved birds are observations. Indexed full text checked; direct host did not resolve in this session."
+    },
+    {
+      "id": "p43",
+      "title": "Of animals and a headless man: Pillar 43",
+      "author": "Oliver Dietrich / Göbekli Tepe Research Project",
+      "date": "2016; updated 2017",
+      "url": "https://www.dainst.blog/the-tepe-telegrams/2016/10/14/of-animals-and-a-headless-man-gobekli-tepe-pillar-43/",
+      "note": "Motifs and competing readings of the disc. The author’s 17 October 2016 reply discusses possible later regional continuities while stressing missing links."
+    },
+    {
+      "id": "mapse",
+      "title": "Painted slabs from the ceremonial village of Orongo",
+      "author": "Museo Antropológico Padre Sebastián Englert, Rapa Nui",
+      "date": "Museum collection page; checked September 2026",
+      "url": "https://www.museorapanui.gob.cl/multimedia/coleccion-de-lajas-pintadas-de-la-aldea-ceremonial-de-orongo-2",
+      "note": "Identifies MAPSE 17-00-1312 as two facing tangata manu from a house at Orongo, brought to the museum in 1974 during restoration. That is a collection event, not the painting date."
+    },
+    {
+      "id": "factum",
+      "title": "Rapa Nui MAPSE 17-00-1312 · 3D recording",
+      "author": "Factum Foundation; linked by the Rapa Nui museum",
+      "date": "Model published 3 May 2020",
+      "url": "https://sketchfab.com/3d-models/rapa-nui-mapse-17-00-1312-ef9cd5ca251743c898850591666f6bfb",
+      "note": "Model identity, creator and preview verified through the public Sketchfab API. The preview is a textured 3D rendering, not an excavation photograph or an AI reconstruction. No open reuse licence is stated."
+    },
+    {
+      "id": "routledge",
+      "title": "The Mystery of Easter Island · figures 110 and 112; pages 261–263",
+      "author": "Katherine Routledge / Mana Expedition",
+      "date": "1919, reporting work in 1914–15",
+      "url": "https://readingroo.ms/6/9/8/0/69807/69807-h/69807-h.htm",
+      "note": "Historical photographs and interpreted birdman traditions, recorded through Rapanui interlocutors. Figure 110 reproduces the same carved surface as the existing Mata Ngarau image; these are not independent examples."
+    },
+    {
+      "id": "bm-hoa",
+      "title": "Hoa Hakananai’a · Oc1869,1005.1",
+      "author": "British Museum",
+      "date": "Collection record",
+      "url": "https://www.britishmuseum.org/collection/object/E_Oc1869-1005-1",
+      "note": "Identity and carved motifs; distinguish the statue from subsequent carving episodes. Exact motif dates are unresolved."
+    },
+    {
+      "id": "boulder",
+      "title": "Birdman boulder · Oc1920,0506.1",
+      "author": "British Museum / Google Arts & Culture",
+      "date": "Collection record",
+      "url": "https://artsandculture.google.com/asset/birdman-boulder/-QEzFc9ehfO2ng",
+      "note": "Orongo provenance and egg interpretation. The catalogue range 1750–1875 is approximate, not a direct measurement of carving age."
+    },
+    {
+      "id": "miles",
+      "title": "Update on the Hoa Hakananai’a statue",
+      "author": "James Miles / Archaeological Computing Research Group, Southampton",
+      "date": "1 August 2014",
+      "url": "https://acrg.soton.ac.uk/blog/4091/",
+      "note": "Research team’s photogrammetry and reflectance-transformation imaging. The original top-back RTI link returned HTTP 403 on this check; its existence does not mean the dataset was successfully examined here."
+    },
+    {
+      "id": "atakuman",
+      "title": "From Monuments to Miniatures: Emergence of Stamps and Related Image-bearing Objects during the Neolithic",
+      "author": "Çiğdem Atakuman",
+      "date": "Cambridge Archaeological Journal 25(4), 759–788 (2015)",
+      "url": "https://avesis.metu.edu.tr/yayin/13a45327-90c7-4a05-aec7-96b68f7a8bdc/from-monuments-to-miniatures-emergence-of-stamps-and-related-image-bearing-objects-during-the-neolithic",
+      "note": "Author’s university record and abstract checked, DOI 10.1017/S0959774315000396. A regional continuity lead; its full object sequence has not been audited for this project."
+    }
+  ],
+  "objects": [
+    {
+      "id": "gt-p43",
+      "name": "Pillar 43",
+      "region": "Anatolia",
+      "context": "Göbekli Tepe · Building D",
+      "record": "Pillar 43",
+      "date_scope": "Early Neolithic context; site broadly tenth–ninth millennium BCE. Context is not a direct carving date.",
+      "observation": "Prominent bird, disc above an extended wing, another nearby bird; scorpion and three arched forms elsewhere on the surface.",
+      "relevance": "The focal bird-and-disc composition. Its disc has several published interpretations.",
+      "inspection": "Photographs and excavation-team description",
+      "sources": [
+        "p43"
+      ],
+      "images": [
+        "docs/img/case/pillar43.jpg",
+        "docs/img/case/pillar43-alt.jpg"
+      ]
+    },
+    {
+      "id": "gt-p2",
+      "name": "Pillar 2",
+      "region": "Anatolia",
+      "context": "Göbekli Tepe · Building A",
+      "record": "Pillar 2",
+      "date_scope": "Early Neolithic site context; no motif-specific date established here.",
+      "observation": "A crane below a fox and aurochs. The excavation team discusses its unusual legs.",
+      "relevance": "Birds with humanlike traits have a local comparison beyond Pillar 43.",
+      "inspection": "Photograph and excavation-team description",
+      "sources": [
+        "cranes"
+      ],
+      "images": [
+        "docs/img/case/pillar2-web.jpg",
+        "docs/img/case/pillar2.jpg"
+      ]
+    },
+    {
+      "id": "gt-p33",
+      "name": "Pillar 33",
+      "region": "Anatolia",
+      "context": "Göbekli Tepe",
+      "record": "Pillar 33",
+      "date_scope": "Early Neolithic site context; no motif-specific date established here.",
+      "observation": "The source illustrates a crane with thick, bent legs.",
+      "relevance": "A second local anatomical variant. Species and performance interpretations need checking against the carving.",
+      "inspection": "Source description; new photograph not acquired",
+      "sources": [
+        "cranes"
+      ],
+      "images": []
+    },
+    {
+      "id": "gt-p38",
+      "name": "Pillar 38",
+      "region": "Anatolia",
+      "context": "Göbekli Tepe",
+      "record": "Pillar 38",
+      "date_scope": "Early Neolithic site context; no motif-specific date established here.",
+      "observation": "The source describes three birds, at least two with unusual legs.",
+      "relevance": "Repeated birds within the same site; not three independent artefacts.",
+      "inspection": "Source description; new photograph not acquired",
+      "sources": [
+        "cranes"
+      ],
+      "images": []
+    },
+    {
+      "id": "gt-p56",
+      "name": "Pillar 56",
+      "region": "Anatolia",
+      "context": "Göbekli Tepe",
+      "record": "Pillar 56",
+      "date_scope": "Early Neolithic site context; no motif-specific date established here.",
+      "observation": "The source contrasts these birds’ more naturalistic legs with those on other pillars.",
+      "relevance": "A local contrast, useful for testing a broad claim that all the birds are humans in costume.",
+      "inspection": "Source description; new photograph not acquired",
+      "sources": [
+        "cranes"
+      ],
+      "images": []
+    },
+    {
+      "id": "rn-hoa",
+      "name": "Hoa Hakananai’a · back",
+      "region": "Rapa Nui",
+      "context": "Orongo · formerly in the house Taura Renga",
+      "record": "BM Oc1869,1005.1",
+      "date_scope": "Birdman carvings are later than the original statue. Removed from Rapa Nui in 1868; exact carving dates uncertain.",
+      "observation": "Two principal birdman figures, a smaller central bird and a large ring below the main figures.",
+      "relevance": "An arrangement of figures and symbols; the ring is not visibly held like the boulder’s rounded object.",
+      "inspection": "Photographs and museum / digital-study records",
+      "sources": [
+        "bm-hoa",
+        "miles"
+      ],
+      "images": [
+        "docs/img/case/hoa-back.jpg",
+        "docs/img/case/hoa-back-alt.jpg"
+      ]
+    },
+    {
+      "id": "rn-boulder",
+      "name": "Birdman boulder",
+      "region": "Rapa Nui",
+      "context": "Orongo · collected in 1914–15",
+      "record": "BM Oc1920,0506.1",
+      "date_scope": "Carved by its 1914 excavation; catalogue range 1750–1875 is approximate.",
+      "observation": "A bird-headed figure with a rounded object at the hand, interpreted as an egg.",
+      "relevance": "The more specific comparison with Pillar 43: a birdlike figure next to a rounded object and an extended limb.",
+      "inspection": "Museum record; modern and 1919 photographs",
+      "sources": [
+        "boulder",
+        "routledge"
+      ],
+      "images": [
+        "docs/img/case/orongo-1919.jpg",
+        "docs/img/inputs/bird-figure.jpeg"
+      ]
+    },
+    {
+      "id": "rn-mata-ngarau",
+      "name": "Mata Ngarau rock",
+      "region": "Rapa Nui",
+      "context": "Orongo · carved rock surface",
+      "record": "BM photograph Oc,G.T.1647; Routledge figure 110",
+      "date_scope": "Present when photographed during the 1914–15 expedition. Carving date not established here.",
+      "observation": "Three bird-headed figures occur together on the photographed surface.",
+      "relevance": "Local repetition of the figure type. The two reproductions count as one surface.",
+      "inspection": "Two reproductions of the same historic photograph",
+      "sources": [
+        "routledge"
+      ],
+      "images": [
+        "docs/img/motifs/orongo.jpg",
+        "docs/img/case/orongo-rock-1919.jpg"
+      ]
+    },
+    {
+      "id": "rn-mapse-1312",
+      "name": "Painted Orongo slab",
+      "region": "Rapa Nui",
+      "context": "Orongo house; now Museo Rapa Nui",
+      "record": "MAPSE 17-00-1312",
+      "date_scope": "Moved to the museum in 1974. The consulted record does not specify the painting date.",
+      "observation": "Two facing tangata manu, identified by the Rapa Nui museum.",
+      "relevance": "The paired birdman arrangement appears on another local object and in a different medium.",
+      "inspection": "Museum record and preview of Factum Foundation’s 3D recording",
+      "sources": [
+        "mapse",
+        "factum"
+      ],
+      "images": [
+        "docs/img/case/orongo-painted-slab.jpeg"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "path": "docs/img/case/pillar2.jpg",
+      "source": "cranes",
+      "origin": "https://www.worldhistory.org/image/13199/gobekli-tepe---layer-iii-enclosure-a-pillar-2/download/",
+      "credit": "Teomancimit, 6 September 2011. Original on Wikimedia Commons; downloaded from World History Encyclopedia",
+      "rights": "CC BY-SA 3.0; https://creativecommons.org/licenses/by-sa/3.0/",
+      "transformation": "Original bytes unchanged; SHA-1 matches Commons c177bdb4d9b1f116476fef0c55019cbee012ce0b",
+      "sha256": "f4e7eea8f08a17ea960eab10da7db2fedad0b61ccee9c64eeeb73f3801e13f42"
+    },
+    {
+      "path": "docs/img/case/pillar2-web.jpg",
+      "source": "cranes",
+      "origin": "https://www.worldhistory.org/img/r/p/750x750/13199.jpg?v=1645513203",
+      "credit": "Teomancimit / World History Encyclopedia",
+      "rights": "CC BY-SA 3.0; https://creativecommons.org/licenses/by-sa/3.0/",
+      "transformation": "Publisher-provided 498 × 750 display rendition, downloaded unchanged; no crop added by this project",
+      "sha256": "9266b261d0451f2a06b003e6ce676e8c2f8697b880e089928b91b205e9238bf3"
+    },
+    {
+      "path": "docs/img/case/orongo-rock-1919.jpg",
+      "source": "routledge",
+      "origin": "https://readingroo.ms/6/9/8/0/69807/69807-h/images/f_110.jpg",
+      "credit": "Mana Expedition; published in Katherine Routledge (1919), figure 110; digitised by Project Gutenberg",
+      "rights": "Public-domain publication",
+      "transformation": "Downloaded bytes unchanged; printed reproduction of the same photograph already represented by orongo.jpg",
+      "sha256": "cd3209415b22aedd7cbe28e4af83a14f398d35a1cef26ef6628089006dd7429d"
+    },
+    {
+      "path": "docs/img/case/orongo-painted-slab.jpeg",
+      "source": "factum",
+      "origin": "https://media.sketchfab.com/models/ef9cd5ca251743c898850591666f6bfb/thumbnails/44738d3f4fc34114ba2e5091a53c4bef/b2574dcdd6264d798b031d18969d362d.jpeg",
+      "credit": "Factum Foundation / Museo Rapa Nui; preview of 3D recording MAPSE 17-00-1312",
+      "rights": "No open licence stated; small source preview reproduced for identification and critical comparison, not offered as a freely licensed asset",
+      "transformation": "Source-provided textured 3D preview; downloaded unchanged; not an AI reconstruction",
+      "sha256": "f72b0e3b0fd2aad1be9ca3a20ba592a4f196954463f770f68bec37284ae45103"
+    }
+  ]
+}

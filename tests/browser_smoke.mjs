@@ -154,7 +154,7 @@ try {
 
   await navigate('recognition.html');
   assert.equal(await client.evaluate(`document.querySelectorAll('.recognition-record').length`), 10);
-  assert.ok(await client.evaluate(`document.querySelector('.lab-summary').textContent.includes('19 of 20')`));
+  assert.ok(await client.evaluate(`document.querySelector('#results .lab-summary').textContent.includes('19 of 20')`));
   await client.evaluate(`document.querySelector('#result-boulder-1919').open = true; document.querySelector('#result-boulder-1919').scrollIntoView()`);
   await waitFor(`document.querySelector('#result-boulder-1919 img').complete && document.querySelector('#result-boulder-1919 img').naturalWidth > 0`);
   await client.evaluate(`document.querySelector('#result-boulder-1919 [data-box]').click()`);
@@ -167,6 +167,35 @@ try {
   await screenshot('recognition-mobile.png');
   await navigate('research-review.html', 390, 844);
   await screenshot('review-mobile.png');
+  await navigate('local-context.html');
+  await waitFor(`[...document.querySelectorAll('.context-gallery img')].every(image => image.complete && image.naturalWidth > 0)`);
+  assert.equal(await client.evaluate(`document.querySelectorAll('.context-record').length`), 9);
+  await client.evaluate(`document.querySelector('#neighbours').scrollIntoView()`);
+  await screenshot('local-context-desktop.png');
+  await navigate('local-context.html', 390, 844);
+  await client.evaluate(`document.querySelector('#object-rn-mapse-1312').open = true; document.querySelector('#object-rn-mapse-1312').scrollIntoView()`);
+  await screenshot('context-record-mobile.png');
+  await navigate('view-trial.html');
+  assert.equal(await client.evaluate(`document.querySelectorAll('.trial-condition').length`), 4);
+  assert.equal(await client.evaluate(`document.querySelectorAll('.recognition-record').length`), 24);
+  await client.evaluate(`document.querySelector('#results').scrollIntoView()`);
+  await screenshot('view-trial-desktop.png');
+  await client.evaluate(`document.querySelector('#location').scrollIntoView()`);
+  await waitFor(`[...document.querySelectorAll('.audit-photos img')].every(image => image.complete && image.naturalWidth > 0)`);
+  assert.equal(await client.evaluate(`document.querySelectorAll('.audit-model').length`), 3);
+  assert.equal(await client.evaluate(`document.querySelectorAll('.audit-source').length`), 3);
+  await screenshot('location-audit-desktop.png');
+  await navigate('view-trial.html#request-p43-high-paired-1', 390, 844);
+  await waitFor(`document.querySelector('#request-p43-high-paired-1').open`);
+  assert.equal(await client.evaluate(`document.querySelectorAll('#request-p43-high-paired-1 img').length`), 2);
+  await client.evaluate(`document.querySelector('#request-p43-high-paired-1 [data-box]').click()`);
+  assert.equal(await client.evaluate(`document.querySelector('#request-p43-high-paired-1 .model-box').hidden`), false);
+  await client.evaluate(`document.querySelector('#request-p43-high-paired-1 .clear-box').click()`);
+  assert.equal(await client.evaluate(`document.querySelector('#request-p43-high-paired-1 .model-box').hidden`), true);
+  await screenshot('view-request-mobile.png');
+  await navigate('view-trial.html', 390, 844);
+  await client.evaluate(`document.querySelector('#results').scrollIntoView()`);
+  await screenshot('view-trial-mobile.png');
   await navigate('fenton.html', 390, 844);
   await screenshot('fenton-mobile.png');
 
@@ -222,6 +251,9 @@ try {
   await navigate('pillar-and-moai.html', 390, 844);
   assert.equal(await client.evaluate(`document.querySelectorAll('.hypothesis:not([hidden])').length`), 4);
   assert.equal(await client.evaluate(`document.querySelectorAll('.compare-panel img').length`), 2);
+  await navigate('view-trial.html', 390, 844);
+  assert.equal(await client.evaluate(`document.querySelectorAll('.trial-condition').length`), 4);
+  assert.equal(await client.evaluate(`document.querySelectorAll('.audit-source').length`), 3);
   await client.send('Emulation.setScriptExecutionDisabled', {value: false});
 
   const exceptions = client.events.filter(event => event.method === 'Runtime.exceptionThrown');
@@ -230,7 +262,7 @@ try {
     event.params.response.url.startsWith(base.origin) && event.params.response.status >= 400 &&
     !event.params.response.url.endsWith('/favicon.ico')).map(event => event.params.response.url);
   assert.deepEqual(failedLocalResponses, [], 'Failed local asset requests');
-  console.log(`Browser smoke checks passed: desktop/mobile layout, comparison modes, zoom, guides, linked scrolling, hypotheses, recognition records, five studies, filters, legacy bookmarks and no-script evidence.\nScreenshots: ${screenshots}`);
+  console.log(`Browser smoke checks passed: desktop/mobile layout, comparison modes, zoom, guides, linked scrolling, hypotheses, both recognition trials, location audit, local context, five studies, filters, legacy bookmarks and no-script evidence.\nScreenshots: ${screenshots}`);
 } finally {
   client?.close();
   browserClient?.close();

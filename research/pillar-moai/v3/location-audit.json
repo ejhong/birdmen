@@ -1,0 +1,65 @@
+{
+  "version": "3.0",
+  "reviewed_at": "2026-09-19T16:15:44.675025+00:00",
+  "review_type": "Post-run, source-assisted visual audit by the implementing AI; not independent expert review",
+  "scope": "All Pillar 43 responses in this trial that answered scorpion present. Other feature locations have not been systematically audited.",
+  "source_url": "https://www.dainst.blog/the-tepe-telegrams/2016/10/14/of-animals-and-a-headless-man-gobekli-tepe-pillar-43/",
+  "score_policy": "The frozen categorical scores are retained unchanged. This additional audit shows why they must not be treated as verified perception accuracy.",
+  "guides": "Approximate location boxes adapted from the dossier’s existing guides; not archaeological tracings or specialist ground truth.",
+  "cases": [
+    {
+      "request": "p43-high-single-1",
+      "image": "p43",
+      "path": "docs/img/case/pillar43.jpg",
+      "model_box": [
+        0.62,
+        0.21,
+        0.78,
+        0.36
+      ],
+      "source_guide": [
+        0.18,
+        0.53,
+        0.61,
+        0.77
+      ],
+      "finding": "Model box is on the upper panel, near a bird; the scorpion identified by the excavation team is on the lower shaft. The two boxes do not overlap."
+    },
+    {
+      "request": "p43-high-paired-1",
+      "image": "p43",
+      "path": "docs/img/case/pillar43.jpg",
+      "model_box": [
+        0.62,
+        0.23,
+        0.76,
+        0.38
+      ],
+      "source_guide": [
+        0.18,
+        0.53,
+        0.61,
+        0.77
+      ],
+      "finding": "Model box is on the upper panel, near a bird; the scorpion identified by the excavation team is on the lower shaft. The two boxes do not overlap."
+    },
+    {
+      "request": "p43-high-paired-2",
+      "image": "p43-alt",
+      "path": "docs/img/case/pillar43-alt.jpg",
+      "model_box": [
+        0.55,
+        0.27,
+        0.76,
+        0.45
+      ],
+      "source_guide": [
+        0.29,
+        0.54,
+        0.55,
+        0.76
+      ],
+      "finding": "Model box is on the upper panel, near a bird; the scorpion identified by the excavation team is on the lower shaft. The two boxes do not overlap."
+    }
+  ]
+}

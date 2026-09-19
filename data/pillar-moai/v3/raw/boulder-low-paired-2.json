@@ -1,0 +1,357 @@
+{
+  "id": "boulder-low-paired-2",
+  "object": "boulder",
+  "effort": "low",
+  "views": "paired",
+  "order": 2,
+  "started_at": "2026-09-19T16:09:15.835717+00:00",
+  "status": "complete",
+  "freeze_sha256": "972845a1b31b4b02797c0c244d3ba61bb43bb824b86999ef702482854e1cc6fe",
+  "estimated_cost_usd": 0.018995,
+  "response": {
+    "id": "resp_087dfc6746a6cef3016aaeb3abfad087d08e463066c95388e8",
+    "created_at": 1789834156.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.5-2026-04-23",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_087dfc6746a6cef3016aaeb3ac971487d0b9bc630fffd3f64f",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description\":\"The first photograph shows an oval stone with a dark painted or shadowed relief-like carving of a crouching creature in profile. It has a rounded body, bent limbs, a small head with a circular eye, and a long curved beak- or snout-like projection reaching toward a separate set of curved marks and a circular element on the right.\",\"avian\":{\"answer\":\"present\",\"evidence\":\"The figure has a clearly birdlike head with a long curved beak and a circular eye, attached to an animal-like body.\",\"box\":[0.14,0.12,0.83,0.87]},\"large_face\":{\"answer\":\"absent\",\"evidence\":\"No large human face with facial features is visible on the main surface; the visible head is animal or birdlike, not human.\",\"box\":null},\"scorpion\":{\"answer\":\"absent\",\"evidence\":\"There is no clear scorpion form with multiple legs and a segmented upturned tail.\",\"box\":null},\"round_motif\":{\"answer\":\"present\",\"evidence\":\"A distinct circular ring appears to the right of the beak among the curved carved marks, separate from the figure's eye.\",\"box\":[0.66,0.49,0.74,0.63]},\"three_arches\":{\"answer\":\"uncertain\",\"evidence\":\"There are several curved repeated marks on the right, but they are not clearly three arch-topped forms arranged side by side in a row.\",\"box\":null},\"limitations\":\"The photograph is low contrast and appears monochrome, with dark coating or shadow emphasizing some grooves; surface wear and rough texture make it difficult to separate carving from stain or damage.\"}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "conversation": null,
+    "max_output_tokens": 6000,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "effort": "low",
+      "generate_summary": null,
+      "summary": null,
+      "context": "current_turn",
+      "mode": "standard"
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "view_trial",
+        "schema_": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "description": {
+              "type": "string"
+            },
+            "avian": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "answer": {
+                  "type": "string",
+                  "enum": [
+                    "present",
+                    "absent",
+                    "uncertain"
+                  ]
+                },
+                "evidence": {
+                  "type": "string"
+                },
+                "box": {
+                  "anyOf": [
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "number"
+                      },
+                      "minItems": 4,
+                      "maxItems": 4
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "answer",
+                "evidence",
+                "box"
+              ]
+            },
+            "large_face": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "answer": {
+                  "type": "string",
+                  "enum": [
+                    "present",
+                    "absent",
+                    "uncertain"
+                  ]
+                },
+                "evidence": {
+                  "type": "string"
+                },
+                "box": {
+                  "anyOf": [
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "number"
+                      },
+                      "minItems": 4,
+                      "maxItems": 4
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "answer",
+                "evidence",
+                "box"
+              ]
+            },
+            "scorpion": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "answer": {
+                  "type": "string",
+                  "enum": [
+                    "present",
+                    "absent",
+                    "uncertain"
+                  ]
+                },
+                "evidence": {
+                  "type": "string"
+                },
+                "box": {
+                  "anyOf": [
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "number"
+                      },
+                      "minItems": 4,
+                      "maxItems": 4
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "answer",
+                "evidence",
+                "box"
+              ]
+            },
+            "round_motif": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "answer": {
+                  "type": "string",
+                  "enum": [
+                    "present",
+                    "absent",
+                    "uncertain"
+                  ]
+                },
+                "evidence": {
+                  "type": "string"
+                },
+                "box": {
+                  "anyOf": [
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "number"
+                      },
+                      "minItems": 4,
+                      "maxItems": 4
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "answer",
+                "evidence",
+                "box"
+              ]
+            },
+            "three_arches": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "answer": {
+                  "type": "string",
+                  "enum": [
+                    "present",
+                    "absent",
+                    "uncertain"
+                  ]
+                },
+                "evidence": {
+                  "type": "string"
+                },
+                "box": {
+                  "anyOf": [
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "number"
+                      },
+                      "minItems": 4,
+                      "maxItems": 4
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "answer",
+                "evidence",
+                "box"
+              ]
+            },
+            "limitations": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "description",
+            "avian",
+            "large_face",
+            "scorpion",
+            "round_motif",
+            "three_arches",
+            "limitations"
+          ]
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1729,
+      "input_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0
+      },
+      "output_tokens": 345,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 2074
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1789834160,
+    "frequency_penalty": 0.0,
+    "moderation": null,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  },
+  "observation": {
+    "description": "The first photograph shows an oval stone with a dark painted or shadowed relief-like carving of a crouching creature in profile. It has a rounded body, bent limbs, a small head with a circular eye, and a long curved beak- or snout-like projection reaching toward a separate set of curved marks and a circular element on the right.",
+    "avian": {
+      "answer": "present",
+      "evidence": "The figure has a clearly birdlike head with a long curved beak and a circular eye, attached to an animal-like body.",
+      "box": [
+        0.14,
+        0.12,
+        0.83,
+        0.87
+      ]
+    },
+    "large_face": {
+      "answer": "absent",
+      "evidence": "No large human face with facial features is visible on the main surface; the visible head is animal or birdlike, not human.",
+      "box": null
+    },
+    "scorpion": {
+      "answer": "absent",
+      "evidence": "There is no clear scorpion form with multiple legs and a segmented upturned tail.",
+      "box": null
+    },
+    "round_motif": {
+      "answer": "present",
+      "evidence": "A distinct circular ring appears to the right of the beak among the curved carved marks, separate from the figure's eye.",
+      "box": [
+        0.66,
+        0.49,
+        0.74,
+        0.63
+      ]
+    },
+    "three_arches": {
+      "answer": "uncertain",
+      "evidence": "There are several curved repeated marks on the right, but they are not clearly three arch-topped forms arranged side by side in a row.",
+      "box": null
+    },
+    "limitations": "The photograph is low contrast and appears monochrome, with dark coating or shadow emphasizing some grooves; surface wear and rough texture make it difficult to separate carving from stain or damage."
+  },
+  "finished_at": "2026-09-19T16:09:20.462519+00:00"
+}

@@ -1,0 +1,370 @@
+{
+  "id": "p43-high-single-2",
+  "object": "p43",
+  "effort": "high",
+  "views": "single",
+  "order": 2,
+  "started_at": "2026-09-19T16:09:20.464179+00:00",
+  "status": "complete",
+  "freeze_sha256": "972845a1b31b4b02797c0c244d3ba61bb43bb824b86999ef702482854e1cc6fe",
+  "estimated_cost_usd": 0.06514,
+  "response": {
+    "id": "resp_051437e750e8b809016aaeb3b08e7c87d0b7705df3033fc493",
+    "created_at": 1789834160.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.5-2026-04-23",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_051437e750e8b809016aaeb3b12ec487d090b15671bbdb8b26",
+        "summary": [],
+        "type": "reasoning",
+        "content": [],
+        "encrypted_content": "gAAAAABqrrPF7RDyQ1DHA5QD5XUOZbUp0U2hmF4mQlr3Loi6bRbFZsLAJFvSonyrnr5rUVCty6u942Yw2od3I2E5KzNXe88Lod-uw2MNLHcBHshUMBv3wrXZTtdS4iTxylqsWhng5rGbpGic--eiYx1Io6C_zbzcaMzDv7Ws1KoAK11zrLUUr8eJPyvLSC_Duiwp4xzWMnkxjZtKemmhjYvHwcXp7Ff998NAQ4NO2NzfWxJQtxp2pPRELKjWct6NBUDnK0J635gSYMZ9Jp4CDfFfAQqxxgpTdw77SHNqHT_ZsJ5mA6R3EBu4XL2YeAfm2t1WN99091aF8-xlvOLAY2oq9NM8AG6dSYTJTah4BPNkgw5I0ux8GvhmXQQt_O-3uHAX388jtRSOQpj4xzUoOGsP7kfxxfkHx1OeInxxd2P1bl9ITqJzldkMdDh3yKSEKxtc80G7bpPNyOb1izqq_khbtVzJQt18_qkOxUbd7ubq_WNclUT3AzlPTI_YeTjxqkhdarFTB4oIVBLdHSw_-NNdN5dcnDSrur7_2_7lzVxtlkZ11qghDlKOwVU6-1EdFFBiIhQ3Zmmd_0rbq6iT0d_INqTTxQeragv6raLmcnerFG1D9lHg9erRteWbyWpJrJZAHBTgxQYCCRhmU1su-ReDZjdCsOdxnuOpnXxBXaRDjBJcpk1oA3mVGaE84I58Qc4FpZweU58jcKoKKwkwlAUy061gxYxogBwD50Vmy20SKI9rr7avDp13ywTpcaG92uhSIbn0y0tjKLDc0BkydaQ7xPSWSmfkWGyIZGTdVsuPHfOtOYbUpGVeewV-N3cd0fFNlV2htkgqjLN44wA8lnb3GbyjocIXs1IonaT4RWyJ4BCHI0Um0VqrtHbWyhmOCIK_cyYLAIRPfWTY_Lw1P4tGjNl1YN6ydGd1q2sdgGrrIJnZNkMt-v8iIUbGYrAhNJuH2v_zTt6kAD9QWJK3E7Lz4F3IuuIErJL8mmu-jpIytyOBFMdBCLqv_PSps-SyzYvsyH90JMyINQVjotTTmJGfbIH4skCPRZtWk5AFMeKCQYqQAoRQZiMh17PB5MfFhAUYN-BJjjwusEfz6tKmS91YLVh60tT5oHj_gh-JkzkLh7uitIsqdw53OGgiI1G8rWCkE8jFSPGz_mn_g3npHpFk-kWMdwlIbDaafu9uBltRpMCwfyNFTPQwU8q5fbcudmaaG1d_L7UDXJqyJ070JZ_x14aZO9DmiwxC_jpg_4AUtGtyTK0RttN5QIPtundxNtfllaslQzvDrPOt3S02jsjQF4LjVSqtqgPNwkSjZppt2K9eyoLep_6w2XfC7GI09xQpfECofIvRuJDI_MDLnLm2eDkcm0gw4tOqX47iRk6yka18VAtVchWjya7F6gwtssys7VZkacuDGtmw97KGhHkHgWSX6aGnjhvinhFBL_CIi7Ygz7-2dR_ApQZ60x6Al50gTas0Fnf1G9y_5iuYvHqaFGPWXKKmFxiY0DrOGhYMrI2S2cssWXTAAyzzoUlc7f2aNi5Y5SjsgFxyljIFrHJkfMOy7HaOyGkBYP-QSuo0UOTKOGg5rHfT7d9eNbK3JnCYhhHuOw5wYZAy52bqoqCl61shxxgn60xjyZfCNVRY-UPhedH-2YTxWCHNXOc5GmlS2V_ISRGyE0v8ri28veZGF3iQt5kaBQWj5TEmPTXazO_BqE0Ok637doEhDatNRQMWmZmH_qjUUzpbGUon6yIgGX4dtk_HO0JXGWXt7yWQDliqBgjwrwYPvX9qqREkfnwno63tzcYptJwJBxSdketumtzDGWIzzsaVax94pV0PGdd-Z6CxxpYlTlOHgP6qe2T5r9wNy0IBaq1jFAhm36B-ASLIsljU95SOy4Um24_l75_BUU7Afh2ukSqzuTM2LxXbQL8qfr5lYCXdPks6VkBrZ__Uy_abKcHQ9joqmo2D_J3DVC3NZDqTCD3PVudI__d4hd46kfg1cF0bxajhONyx3KzGYBNsNInIpU7_Jnl0H-_10ugu_vJTmR4F9F-NzqY7iuheHx3ZKG9G2jr1Iky1ASxRCMPZuHiBcjFwoQz2pU9te4t1FC4Tuma0LWPXJQ_NsK5TDoYUnIylH9BDUXNU_eU9h6mPQTWGhThBigiO1mY9yOWt-bCcAbK9baey_FocMq0E5_EFMNWw6pzvZavS3jn1r6IRzTPzgbLp64Ke2mjztP_emKMr9zEfPvulfJVSLfoh6BOsd8IOHQikKyKrkOL4CIctfSLo_msuduXGjn5xQVCGl73g5l4NgtmW_RCbkSzHpkkJcHR4voMHUlh5OX2XnaoSempd7hr1EmDl6oGJOQgwsl0-sNx1l_6RdCqq9eMQEozLhyA4u21CLazLj8-a5hQsK9POWdY3VAEg2ksSJwMZ7g5us9FfzCykWMAJ15HJT-lSdpJ3yXz6PhFpRvaUPw7IpPBqUo2Dpz_ZPJFV1yJttkIhd5hBl8igmnDE6R-3IWfabemwoiczhNQKWlLdGi7wl1A3vmel98h2WAtk3MaRv3MmVTbLJ_KngJnAiN3WFwLD4zUVpsRWJMolcsce2GhYfpsvVIdBy_7YztcxVCu8DBj4YgEIPi7vjeXV4PiPming4CCbLIS-m5G553FdvmjXTvhztNAdlPK7gmEH0l2otgitCys0yHXgHKBATT8UDPnM4qz14vd-jcRqW6erzpwPBnFj5MQAPY6tgQmz87errQnikyRpOGgiJ8if1YysCA1MIXDQJalCjGcaByGD1DtMn-5MAnmv5PXtVAAIBi8qz3Uoe-KhrWmf9RlcmzwCovfjn0Fnq_k_hXSU7UKVARq7ycbHYKVtLP2pKrfP9SOTi1bQWR87K5r5oTJpA4TgWhW4kXgdGDWUScj0doP1MBGiM8Zb_e7GwnLBcV4m0jaMuq6z2xSbgZK_335JMG356JgssT0Dz0fsUb1h4YSJCeqmeG0t8NwAWS1T3c_1iJRH89jBF2_qzFQ9wmXjK1HsVLULQDx_8n_5zDN6bYO4lJ8lkYyZpHg-weuyBpqMxsmsj-oZDCgUzmZCagvOwv551_geaHsThc80CpTtbMZTmZRCrTj-ax56LtV2EwPEwnjDSbWVHLl0cKH4or3FWNBLHNNlnvFJVjStx9HuQSe4qxkq2UXW3hE0Mcar6Cf2wgTlXcuvyOjgvsGvd6RWWHL_Rnog3lR9ZwaJXpI0MZm5uB40RS9aMdAw-_b3ta8AvPWyENIUpi3Ue-CBHJaOHYpCUEsoYnVxHOWx_LR3mxdiOYBluU7sTYw3CAw-IxCLG9DOjEuqtfg8I30C9P5vXHfF9m2rq6qsJh-jNfXl1OSJSyWMpbr3OC3bIFRB0f0HkK0tbvKhRdcg-s2fOHYnEWr8MAmS88TXM5FWWPT5VdfEjbLpBIf1u13VZEFxEbWhvOISv-wtNwSQGhppsifFdlXpcDeapmRuJNzXi2r-Q7rAZAGCjAstfcTIqk3mDITOlr9JCzP2i-QbEOazQ40k87UCQhxmmrtoSC6QBKup-BQJDzk-6c9FhtaeUiOqNUKkkUDlog2kquR_OqtzwPQjB_jBJyo3qkPgd27cci3V7xg_rkLSJnoV0zbD8GKAE2QmLZiyHELtLmNtLICyERn0lfS_vUSEHXeZCNV_pli6LRKSrw2g1wvVLz4sZoX6wZm4XIafci82IduKFHnSV8xgJrlo_O2yabU6eQnXlTKTZSL3sr0jLfjd-bLDAhVcRyDYcFah56aWfdpw64LBuOk5juzgBJRbTOiREzthBFo5-hThUpb3545v3OKj6Np2d3SD0ESna9yYgtlkY-WzSyDY27yVQkokhUJ8Ij_7Ds4h33fWb_MfcrOn5GJ77SGNZOvOsHEi0p3jXmjZK8muMQAzcWj9LAM_gQasll-d-9KMm_1fUviwufnrwYl3u6s6RIGUMDs04QDA19yPI5eq2Jgvxn58iGBoZCs9nX0CIg_ioE5CpRx0CBEvdN6XarKts5cxNnD2ArEMLzkQfr2dek2tZDQ3Wdd2axIqT-EUUN1SYnWVtzKb4G5vpL8YjSMJ9v9Mb8PK-RDk-0-2dFptj5WJ7eQgM82RYG_K0CMG_q_vsxXuPG6aGNlnwRRZmRmTcn8Owg1D45tfAI_yVDL4HAohb-R3ZZ35Z8punRdR4R0fCVQnKenw4tlQbv59wtQq0Fsz31i8syJux-SBn1jswU-TEMC0knn4jKJ-BNMx1h-SOSoXEpLbyDW_q_p4zSG0TS2Q2Jq9SHqsTzYq_3pNDrfJ7jbi8cSNs4HNuGNgKlvOvvbTsRp98rXJt8HsHL7TQSwntAIoEB6INhHQ0izBj_ehOXFFMoLFoCh_6U_CKF4KvKpBvu4p6H0dLaJeotoLahupOEs5PdGFn3inAI_hCyXnG-GCFhonTvv_3YvXoyjmjp58OYmBok_FhGo-vSBHfs_312snoH8juWB7f8c0kSIJX0Vdh5raIwGCiriwkaRwfLRYbGkwsGQFNU0leUjWoVIT8Hzc0IHCKD2G71ABFH3Nn2KNoxZLlYjhYIFWXYrSOr1BHVFAodj75zlHO1ELG7H_P5PG9k5CgVq3qED4wG0U9ezkjzLYaGJEshxmn9foWnthnpbkjQ2T--ReEIkIGY12i5bmHaaKkFSG95ou9MwlfaxPkrRmpuaFKjBfyxGJ6_vUMRFmZgo_b3c73Go2Mtyi797EkvKj0nSq4AauuO3tGyG181JtMfr9ahbiwpyCIlhp4q-_VrqWSoWgZVQRLaF1rP7G8j9bE1vExvn8ZesDDwqhqPAXLVUIeAN1gt8PG9z0YIDMB3ZkHtLKSUue6G6s7q_WUuVLwKnZs8XqOv_wsSVJV0eGJZu0Ei3KV3BhXDyuv3uruu0_y1zEJDNeh4AmX5nwxqxAmPZ_o_Se8QrRVAYXibAQ9CQclQV9oloDWOv2f3COqBcC6LnFkv9JXQiDosib1fTDFkCPZi7NhB-V984YiPl2LFaQRjcnf7O3SWKbRnHKnDWWudM7fKVWQwG1qWuxFkIQC3Xe-OCHGri5LIvw9R30ekygmI9MvhY-zcnfPGwUpTmtWQO3ce0oxk81P8rMHCR5L0bxtT8q0QCd86yOU881QJRn4YIYtzK8-gJJC1cnsKK0rYJAN3r_D8w4j5aoo1wcLjD9xbHmyRRUoJ-NN4Rc8j2HHIbB-u_6vIu5vLAGnIVeSO3Kz-fQijVNLPzaP7LOMejWL7vsRZ6LUUtv1kf6Y3VPSQsAQ9AFVyn8ekKHMbXbh1HmIXxN6-KO7_LWFyV559jjpUNxUbxGgflgG2AFQZsWiZpo8hwNqf5noMBYNGQ-qNPYtNueUgg76G5atGKXPqfvS-Lk7O3D8-Nt0dgD9URKyBqzeoxbofwZKEPWKnKMwqJDxRXtpUVEdhPrPpHqrH8oU7MYwOq_5qXYbnk5kXn1W38kWdC-VbwVyXdTeLrd48yfkQB7n5nceLw_h7gQYQP9n_vFHp83BEIhGSGNdfIuhPBSjvL6um23RtmJa2iCH1iIOYBUtuFLu_9UqsdvtfwtaoxDYfPFHEWw_7564b3h9purQJ_DHhDZj9swgP_vXpNjZ0cMm3sk3-VqXkbuKr-E-cWdOgQxPkxhEBzWOFxsetuqvs-CukICkuJKZutGdGuYsQIpY5owpnkWZVKyx8T-o-M-XXFu6MXE3ypBJUcUsVw0QJvMxWPOh_IGm8g2WI4k04_3VS7M-rEcrX7NLSJB-WsMPC6xsyxaozGxVGPsndhi1xSWgpp3Dnpl7ZW_ELjeSE4Nv_YBv0eMkvgI_H0oXwL8nP5AlpyqNZ3YdVWeSjy4mvCExXf2O0X8r0kHhfBfN2ROJcrkNdO3fD55Yh3gjaGgez2w1_Cn1KXJZyF25Fm8wBEY0zbZ-A5kNKurEQ3rK95oTktR9M6dsNTnsoaOvVgO5fvjYg-lP7ZgFLJnPOiyJdO7SOjjg_jha7PElotWqkkeZfqOy4pCzu9loLSUN8DBVDZHSRqsK391kG53Lgx95jFYqlEjFlZLHISsgxNnCQPPY0AgYtIT1flpvE5s13JkVx_mxjUSIO8odXkisWfdkmF_9F1iiKrE_2c4ySpHiC-av9r_CLfelu7B9_19mkgrKKIGba_V6VzETrltF6-VVJsCm3Y3Q15XXsZEOkyAA66t49R0KfScllD9Ozja0M1sCfiy-n79rkNgNFUmJTfDIqke0fG7rBF2U9cdmcY7S0vMrkzMJpwekrE3wYxINTlFcBKd3gtRyjfwNqtbkk3WR47XEr2ObwG7VHvcB22I8BwuI1LW_dH64emQO1K-aIF3UN4026PKZ71yZcUjahzm5MBLIAiR4JPKyS0IfZGWLDf_3hKX3FFuBt0TIhMF7mci6Mog35VmmSyAmwEyelVnCU2SdGZraq75v7lR4duXFoSym-NuVx9w6NcFJyWJGnEGgTx9KSnm6_K1t-FC3l3v9HXQPXAsYFyCqPvrshR9Ecvcp4LzJr2HWL8UD66W5RcDLX-lDHo0wJLiQMaOQhh_ymUDNm1hLvKzu4ur_tWmGxfhzL0_M8hPlw3uS7j6GjWEZGJc1IFZo9Lvu4-p0An7eWTjw8r8Xi73l0LcV5hDSq-ujIAtFqwuBnTl3nUjkoktftrtftkpyqmLf5y0GIBKSTYOOlIAmIHvs4zTKA0wiLQw_olpegTRvkxpJrMv7rc8dY6SvM-YW2XD1U9vEfNY2N2Za9yOrGuE58oeI2PjWRzKs6L0jxuu999u6b9h16k8v8ahk1NboMh3AnlaB57eC5NVIvTRhZsbALacIrrqJuoP69IsOn_FC0cwLYLZ0MvxiFsxYYR9dv12j2zLg4Tijacc9LC2iNnX-7rTwXqRatXgTfIV-9DbevzQlMGjpX2gnaXRFmR5kBLnuwspiywjkhfdXdEYsv_YRfI8Z1KiFP5dTlIv0608rkE9amRcn0Iwu6zViU2VptKmNQh2VYqapzU8wd_MhgtDRey6MXF4l-jI9V0AkyxteVlzD_XK3E4ODu6hsXpezrRjJGcXff_3P9RrXiglW4h88I-SEVZEDHXWfQjNQs1IYz30-sbJiHu6FG_y_o5Z-5UphxFmCRDlptAZLza2dcI_dGiJOeb68YpLqiW7aZK4CPNKgaBOgrvCWJlNkXaKnjCCzUMZdRhGWplDUYAZh2IGEjAJfKHKap1HUl28H-6muMbbiUZNKWG6PCTdwhJSrWGJLaVX3TzbLDBfpN_TLh_HjocKId73NXtOIwcKyWnewkRwljlU4KYd-ZK0edPa2CgFol_5eJliC12oZw_ZEqRDKg7LM9kGELbt1TDfxABdqQl4q938KddICHwsdW-BIrnpxe6fulHExYxPfilp0po2kqKWdaHs_6pU1u0KAP5P76ZuCDguZgGNbkbDGwPqolJgcgMBtmqRv1es7vsCw8rLWK9pl78xM08zu26AS4ji_8jsZsazQKU5P_OvSTuiRcQq88jMm4JR6-IpbMT2I7eqP8XAc9gweRnkdmCUUD7dAofRouklvuUrOFr613Bp_853qWqzQkUv2gCELQNrf8D0TVSw4959WmUWfwjOZwY3NcNTcDrdvibceuotmcs10BBfX3L_EYTAzSq3Ath7Ngd8YHFmMH5QhinwTkx8tmcLngEe1nghHV8APb2xZaTIMMYfpHD5jPM2WCD-v-J4cpOYyGdT28Sj_m1EWbyguefCX_8KuYL-S0EDfpW9AKINVtturDSvEY7ntSsdDPsaT0mB_wkqEzGb7p-b5i9hJsUqoUfUxDw7GB3y4YzpMUNQh9YVbEHN-7LPpoP5bxXMySn14QvKAuhYwAsKz7kr9Q9aFMQ6nanBU1PjHgomwsZ0yykfbTk-2rYJD06-kFdWg-6Tb9TWEAoiaJFmUJJOio-CLkQCjfXUIkJ5pavP_2H4zAqTznxE0_lL8qJRZKig9o9aXBvx_NM9TUc9oQqHFb_DbJQBQUSQkBPKSh_HhrL3S3eB-Xtnf1UAh82H3p1a4c7PmtaEejWK_UnSlWOUtg7DKeRe2q8ebi4Q2iTUV0Za_fXbLD6LAdAS8xQmBLeZt6jpVap0QJL6MeID7AEzvTvSFrZk-gQakwhHEukbzNiPGmUpUl4r5rJycvRXcK_V_43_Zxrdv2ZiM3DOEuDajUi4p33hc_f7tnCZBji5_nekoRZ2gTLZAze0sTSZPff2JxjALRaiq6pjREh_IfLe4qgUYb043weyXTQAGGWoN0WkcnaCC9WZ8OVu2CA7b6STfiNjjT04Muyp0Ar-KC_OcpdjGMlpr4PURf_A9cgdUbHxzw6I0s5lPEzsoaEHAh7iqPMapyFyi074EZbpfuindUaZXwPrlFu2ygOiRxAMgW9GBJkPQowss7QIhQkpyZ-V1ClJm-BVuI8kTi7F_n7n2DdwzFs1hkkyldSIlDPsMOIgbR5P9ehIQDo3pg8Kg5VY1iwdQ4BDL0JQkQkjRRvH1VtFp_mK7Sc34csTU4dIS6q_6aoWvhBN2dqwAgitwiqytuFaGTnDKsh0nY9SFV5iXepwoqMi3W6LuQGCatodD6nac9dJeXVZG--hRswuBe7wFjTHz2JXU4p9bDmyyXjiCWxG5IrTUGqnBRpBTG9MUKl4PYyIe5GIrFb5vufrEB45dQY2wzAaW3qIpZ0-Xf8VHVsEuIbCjFLSBmu4KzHzeHIE06tzaOAWq8ef1MpCbAAkk1u2-SvhZj98rpqQBi_5_XRbxUsvmkrBkilh0CtyXQ4oz2PA5iS6PVF0dsAweXLDKU7gL15U6_tv4E-e3kZAmouDJi_d4O0QlsUU5NBGuRRo_lxxJVhtvyl9awksgzf1zZ037l2mO0cvHNagG9qdYtD7KeleayOlxBgfDv7ngeDUGFXmokfXPYqwBTn1BB0ZsRYXEr-xr2m5SSEFDaDaz5ucnDedAAovEC73gLic6K82vwEiNuEzkNlt5UEgZKicwOv9u6-JDwyXyBt0NsTpL0hPv2RBzArIjqUFC9F5gV9abYQ5AOG0mU8Z1g9M6Snw6SZwLC4KZv-3LZ4GMviAQVaEdwbgufzJ6eKKjW0w63Nvhhf1qG9DGGnCd5R0M5uJtpL-L6xNmyEAjE5zx6gYqBAnD5p8ISzHACMUNIK7Y77AZRgzyvkyROnkweicydGcKHCvRHMLN0dqr5YL9tPQak3ZWF_YxWNGAKtQsYZuv1cxK0dvshQd8as0P73_CoAC23AXCuHN5zoyFJsCfkOmS9VaElbzwlryPr70-X62guE3ynspw-2V7jMCm4wqwy_OukDtmqqdMchD7JfQcQfY_hf_RmkgJ6wcKIBvSooswYutlj8Bmjw6fVI6ugbUZW3IBC4O28hazRTLucbLbquTwARKGsG0kXOn-PqFqV-G7z0nlb1kJ969JGiCOulyKl6OE2gJ9NQdhBHL_x2ebuVwxHAk9I1JjUya9lX1RsMci6DDMaPHC-WxtLfJF8DGU-WpY46ia5qUV6ievl5tkSomhnEgeS58NIn3hS8Y_X8Gl6AO2yvylYaboT7ZcU5dXftl11o0qag7zs2pOkp9gWcAC_uqbp_cwgSmBmVOnmGEg66lDbqBLsrfFlFjhxSufBSDhZsc_yMUUJOg9ypox5q7Bfz3Qtuv6kQtu4OeD1-VvOhkqy1xv5xYR-Qe8I1oe2znSiuWdslqifamg7oohHjYiKTaMCqBoQ-ECVQUUHgCz7C5G4ceff6_qmUcJNa6i147nuTwLtJvlSqV1tZ-0ohkGlewTsAF0iF3OxrXA44spKNTFB250vZsFN_jv2jnBqSaGfXM3oTwGBsKmfBLSRiaR0naDA3bWwvG1SnWIICMHYzhY605MktrBBod6LNJth4eDGbl_RCR3ZKmv76vAUw96-vrbuP8Nex0R0PiUiVg4Q1M1P5QCsWgd785kJ55Ht14herdXV3f3oBcdjQ4BYfKuI0wS_6A0y8_Jbry53GSeUhLN4lE3voXHksT_-YbQ4Z_aysgqRatt-n7_YkCpDFuWCLutIHJUKg2sfvE02kQXF8Kt1QQLcFexL7Rfe6LyK2Evmo4_pEvhgP-a82dtZyBYP9NYZ2tRP9POMmsbD_7Edd9hGh34sA3ZHnbMXN85ZB3x4C_PWj53Q52UUiukx8aUXucsWtxlHslEx0qcb6PSlI2EwrWRoWH3qhnyq0Dua7-QGqaqzd78z2Zu0dNIsGip2XUWiXZfSActqQBvJxajRXtXXKqs0T5l02770qX7dcWCQklD4cfuIbXIxWFHsOyiny-ZpI9oUgZ5wWGdxIKR63M3IgAffB7GhTn_aN4ohEYM4uUcOmG70RUvd9Vupk5llCqK6FtDxO5TOYOSS2cJa353xRgpIXIk_NoL7XvEGbLA19hOy0i9ECuClE3Fa9V0lKR7DM8MrclBFc8WTPH6tPZr2qkM7SG2RsQYLuEi4uDo54SgInS6BfD0jWZ0KUkC35jKPYxgRHj7pf6Cm4u6Ao-7RKYqaBZhdJjzEPA-Nd_MXVtx6xkzKmMyyhorrdJhrWrzzP7IQz76bjNybYPNTAiOE9uAINAQdV1xPyQHpDhpFRDMyRbEcFN66KrV91XfmrUyz0u117uagmUyNOrgh_T5SIMKsBxgmq1GZizUvrxsF8eMI9lvsCetWpJYbtgPE99xhKrnCFWxX7VNeIeojKdQQZ3Y4J9Pz-Xm_SWIbMsfnYURA==",
+        "status": null
+      },
+      {
+        "id": "msg_051437e750e8b809016aaeb3c1ea5087d0bf4c5ec53cab356c",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description\":\"The stone surface shows shallow relief carvings arranged in horizontal bands, with several arch-topped shapes along the upper band and animal-like figures below. On the middle area there are birdlike profiles, a small round disk-like carving, and other worn incised forms; the lower part is partly blocked and harder to read.\",\"avian\":{\"answer\":\"present\",\"evidence\":\"A birdlike figure with a long neck and beak is visible on the middle-right of the carved surface, with a body and legs/wing-like lines.\",\"box\":[0.52,0.33,0.70,0.58]},\"large_face\":{\"answer\":\"absent\",\"evidence\":\"No large front-facing or oblique human face with facial features is visible on the main carved surface.\",\"box\":null},\"scorpion\":{\"answer\":\"uncertain\",\"evidence\":\"There are faint multi-legged or segmented-looking incisions on the lower central surface, but the shape is worn and partly obscured, and an upturned tail cannot be read reliably.\",\"box\":null},\"round_motif\":{\"answer\":\"present\",\"evidence\":\"A distinct small circular raised motif appears near the middle of the upper carved panel, separate from eyes or nostrils.\",\"box\":[0.38,0.46,0.45,0.54]},\"three_arches\":{\"answer\":\"present\",\"evidence\":\"Three repeated arch-topped forms are arranged side by side across the upper band of the visible surface.\",\"box\":[0.17,0.07,0.72,0.33]},\"limitations\":\"The relief is shallow, weathered, and unevenly lit; parts of the lower surface are obscured by nearby stones and the camera angle makes some incised forms difficult to distinguish.\"}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "conversation": null,
+    "max_output_tokens": 6000,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "effort": "high",
+      "generate_summary": null,
+      "summary": null,
+      "context": "current_turn",
+      "mode": "standard"
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "view_trial",
+        "schema_": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "description": {
+              "type": "string"
+            },
+            "avian": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "answer": {
+                  "type": "string",
+                  "enum": [
+                    "present",
+                    "absent",
+                    "uncertain"
+                  ]
+                },
+                "evidence": {
+                  "type": "string"
+                },
+                "box": {
+                  "anyOf": [
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "number"
+                      },
+                      "minItems": 4,
+                      "maxItems": 4
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "answer",
+                "evidence",
+                "box"
+              ]
+            },
+            "large_face": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "answer": {
+                  "type": "string",
+                  "enum": [
+                    "present",
+                    "absent",
+                    "uncertain"
+                  ]
+                },
+                "evidence": {
+                  "type": "string"
+                },
+                "box": {
+                  "anyOf": [
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "number"
+                      },
+                      "minItems": 4,
+                      "maxItems": 4
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "answer",
+                "evidence",
+                "box"
+              ]
+            },
+            "scorpion": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "answer": {
+                  "type": "string",
+                  "enum": [
+                    "present",
+                    "absent",
+                    "uncertain"
+                  ]
+                },
+                "evidence": {
+                  "type": "string"
+                },
+                "box": {
+                  "anyOf": [
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "number"
+                      },
+                      "minItems": 4,
+                      "maxItems": 4
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "answer",
+                "evidence",
+                "box"
+              ]
+            },
+            "round_motif": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "answer": {
+                  "type": "string",
+                  "enum": [
+                    "present",
+                    "absent",
+                    "uncertain"
+                  ]
+                },
+                "evidence": {
+                  "type": "string"
+                },
+                "box": {
+                  "anyOf": [
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "number"
+                      },
+                      "minItems": 4,
+                      "maxItems": 4
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "answer",
+                "evidence",
+                "box"
+              ]
+            },
+            "three_arches": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "answer": {
+                  "type": "string",
+                  "enum": [
+                    "present",
+                    "absent",
+                    "uncertain"
+                  ]
+                },
+                "evidence": {
+                  "type": "string"
+                },
+                "box": {
+                  "anyOf": [
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "number"
+                      },
+                      "minItems": 4,
+                      "maxItems": 4
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "answer",
+                "evidence",
+                "box"
+              ]
+            },
+            "limitations": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "description",
+            "avian",
+            "large_face",
+            "scorpion",
+            "round_motif",
+            "three_arches",
+            "limitations"
+          ]
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1514,
+      "input_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0
+      },
+      "output_tokens": 1919,
+      "output_tokens_details": {
+        "reasoning_tokens": 1552
+      },
+      "total_tokens": 3433
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1789834181,
+    "frequency_penalty": 0.0,
+    "moderation": null,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  },
+  "observation": {
+    "description": "The stone surface shows shallow relief carvings arranged in horizontal bands, with several arch-topped shapes along the upper band and animal-like figures below. On the middle area there are birdlike profiles, a small round disk-like carving, and other worn incised forms; the lower part is partly blocked and harder to read.",
+    "avian": {
+      "answer": "present",
+      "evidence": "A birdlike figure with a long neck and beak is visible on the middle-right of the carved surface, with a body and legs/wing-like lines.",
+      "box": [
+        0.52,
+        0.33,
+        0.7,
+        0.58
+      ]
+    },
+    "large_face": {
+      "answer": "absent",
+      "evidence": "No large front-facing or oblique human face with facial features is visible on the main carved surface.",
+      "box": null
+    },
+    "scorpion": {
+      "answer": "uncertain",
+      "evidence": "There are faint multi-legged or segmented-looking incisions on the lower central surface, but the shape is worn and partly obscured, and an upturned tail cannot be read reliably.",
+      "box": null
+    },
+    "round_motif": {
+      "answer": "present",
+      "evidence": "A distinct small circular raised motif appears near the middle of the upper carved panel, separate from eyes or nostrils.",
+      "box": [
+        0.38,
+        0.46,
+        0.45,
+        0.54
+      ]
+    },
+    "three_arches": {
+      "answer": "present",
+      "evidence": "Three repeated arch-topped forms are arranged side by side across the upper band of the visible surface.",
+      "box": [
+        0.17,
+        0.07,
+        0.72,
+        0.33
+      ]
+    },
+    "limitations": "The relief is shallow, weathered, and unevenly lit; parts of the lower surface are obscured by nearby stones and the camera angle makes some incised forms difficult to distinguish."
+  },
+  "finished_at": "2026-09-19T16:09:41.442655+00:00"
+}

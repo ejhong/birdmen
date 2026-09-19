@@ -1,0 +1,357 @@
+{
+  "id": "hoa-low-single-1",
+  "object": "hoa",
+  "effort": "low",
+  "views": "single",
+  "order": 1,
+  "started_at": "2026-09-19T16:06:39.601855+00:00",
+  "status": "complete",
+  "freeze_sha256": "972845a1b31b4b02797c0c244d3ba61bb43bb824b86999ef702482854e1cc6fe",
+  "estimated_cost_usd": 0.02937,
+  "response": {
+    "id": "resp_06185efa1b40188e016aaeb30ff31887d0b3b3eff9299c3767",
+    "created_at": 1789834000.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.5-2026-04-23",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_06185efa1b40188e016aaeb3110b9487d0926c3230dba53e66",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description\":\"The visible stone surface shows a large carved human-like torso or head-and-body form with a prominent face-like area: two deep oval depressions, a raised circular element below them, and broad curved incised bands beneath. The upper part has worn vertical and curved incisions, including smaller face-like or body-like relief details, but many lines are shallow and eroded.\",\"avian\":{\"answer\":\"absent\",\"evidence\":\"I do not see a clear carved bird or birdlike head/beak on the main stone surface; the bird shapes at the right are background objects, not carving on the stone.\",\"box\":null},\"large_face\":{\"answer\":\"present\",\"evidence\":\"A large face-like arrangement is visible on the main front surface, with two deep eye-like oval depressions and a central raised circular feature, occupying much of the upper front of the lower stone body.\",\"box\":[0.18,0.4,0.74,0.68]},\"scorpion\":{\"answer\":\"absent\",\"evidence\":\"No carved form with multiple legs and a segmented upturned tail is visible on the stone surface.\",\"box\":null},\"round_motif\":{\"answer\":\"present\",\"evidence\":\"There is a distinct raised circular motif below the two oval depressions on the front surface; it is separate from an eye or nostril.\",\"box\":[0.393,0.544,0.545,0.636]},\"three_arches\":{\"answer\":\"absent\",\"evidence\":\"I do not see three repeated arch-topped forms arranged side by side in a row; the curved bands are long arcs, not three separate arch forms.\",\"box\":null},\"limitations\":\"The stone is rough, dark, and heavily worn, with shallow eroded lines and uneven lighting that make some upper carvings difficult to read.\"}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "conversation": null,
+    "max_output_tokens": 6000,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "effort": "low",
+      "generate_summary": null,
+      "summary": null,
+      "context": "current_turn",
+      "mode": "standard"
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "view_trial",
+        "schema_": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "description": {
+              "type": "string"
+            },
+            "avian": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "answer": {
+                  "type": "string",
+                  "enum": [
+                    "present",
+                    "absent",
+                    "uncertain"
+                  ]
+                },
+                "evidence": {
+                  "type": "string"
+                },
+                "box": {
+                  "anyOf": [
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "number"
+                      },
+                      "minItems": 4,
+                      "maxItems": 4
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "answer",
+                "evidence",
+                "box"
+              ]
+            },
+            "large_face": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "answer": {
+                  "type": "string",
+                  "enum": [
+                    "present",
+                    "absent",
+                    "uncertain"
+                  ]
+                },
+                "evidence": {
+                  "type": "string"
+                },
+                "box": {
+                  "anyOf": [
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "number"
+                      },
+                      "minItems": 4,
+                      "maxItems": 4
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "answer",
+                "evidence",
+                "box"
+              ]
+            },
+            "scorpion": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "answer": {
+                  "type": "string",
+                  "enum": [
+                    "present",
+                    "absent",
+                    "uncertain"
+                  ]
+                },
+                "evidence": {
+                  "type": "string"
+                },
+                "box": {
+                  "anyOf": [
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "number"
+                      },
+                      "minItems": 4,
+                      "maxItems": 4
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "answer",
+                "evidence",
+                "box"
+              ]
+            },
+            "round_motif": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "answer": {
+                  "type": "string",
+                  "enum": [
+                    "present",
+                    "absent",
+                    "uncertain"
+                  ]
+                },
+                "evidence": {
+                  "type": "string"
+                },
+                "box": {
+                  "anyOf": [
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "number"
+                      },
+                      "minItems": 4,
+                      "maxItems": 4
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "answer",
+                "evidence",
+                "box"
+              ]
+            },
+            "three_arches": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "answer": {
+                  "type": "string",
+                  "enum": [
+                    "present",
+                    "absent",
+                    "uncertain"
+                  ]
+                },
+                "evidence": {
+                  "type": "string"
+                },
+                "box": {
+                  "anyOf": [
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "number"
+                      },
+                      "minItems": 4,
+                      "maxItems": 4
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "answer",
+                "evidence",
+                "box"
+              ]
+            },
+            "limitations": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "description",
+            "avian",
+            "large_face",
+            "scorpion",
+            "round_motif",
+            "three_arches",
+            "limitations"
+          ]
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 3624,
+      "input_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0
+      },
+      "output_tokens": 375,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 3999
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1789834004,
+    "frequency_penalty": 0.0,
+    "moderation": null,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  },
+  "observation": {
+    "description": "The visible stone surface shows a large carved human-like torso or head-and-body form with a prominent face-like area: two deep oval depressions, a raised circular element below them, and broad curved incised bands beneath. The upper part has worn vertical and curved incisions, including smaller face-like or body-like relief details, but many lines are shallow and eroded.",
+    "avian": {
+      "answer": "absent",
+      "evidence": "I do not see a clear carved bird or birdlike head/beak on the main stone surface; the bird shapes at the right are background objects, not carving on the stone.",
+      "box": null
+    },
+    "large_face": {
+      "answer": "present",
+      "evidence": "A large face-like arrangement is visible on the main front surface, with two deep eye-like oval depressions and a central raised circular feature, occupying much of the upper front of the lower stone body.",
+      "box": [
+        0.18,
+        0.4,
+        0.74,
+        0.68
+      ]
+    },
+    "scorpion": {
+      "answer": "absent",
+      "evidence": "No carved form with multiple legs and a segmented upturned tail is visible on the stone surface.",
+      "box": null
+    },
+    "round_motif": {
+      "answer": "present",
+      "evidence": "There is a distinct raised circular motif below the two oval depressions on the front surface; it is separate from an eye or nostril.",
+      "box": [
+        0.393,
+        0.544,
+        0.545,
+        0.636
+      ]
+    },
+    "three_arches": {
+      "answer": "absent",
+      "evidence": "I do not see three repeated arch-topped forms arranged side by side in a row; the curved bands are long arcs, not three separate arch forms.",
+      "box": null
+    },
+    "limitations": "The stone is rough, dark, and heavily worn, with shallow eroded lines and uneven lighting that make some upper carvings difficult to read."
+  },
+  "finished_at": "2026-09-19T16:06:44.858123+00:00"
+}

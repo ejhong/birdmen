@@ -1,0 +1,144 @@
+{
+  "version": "3.0",
+  "annotation_status": "AI-assembled provisional references; no independent expert review",
+  "independent_review": "not_reviewed",
+  "objects": [
+    {
+      "id": "p43",
+      "label": "Pillar 43",
+      "images": [
+        {
+          "id": "p43",
+          "label": "Pillar 43 · first photograph",
+          "group": "p43",
+          "path": "docs/img/case/pillar43.jpg",
+          "source": "dai",
+          "expected": {
+            "avian": "present",
+            "large_face": "absent",
+            "scorpion": "present",
+            "round_motif": "present",
+            "three_arches": "present"
+          },
+          "critical": [],
+          "reference_basis": "Source description plus visual inspection of this photograph; negative answers apply only to the visible surface.",
+          "source_url": "https://www.dainst.blog/the-tepe-telegrams/2016/10/14/of-animals-and-a-headless-man-gobekli-tepe-pillar-43/"
+        },
+        {
+          "id": "p43-alt",
+          "label": "Pillar 43 · second photograph",
+          "group": "p43",
+          "path": "docs/img/case/pillar43-alt.jpg",
+          "source": "dai",
+          "expected": {
+            "avian": "present",
+            "large_face": "absent",
+            "scorpion": "present",
+            "round_motif": "present",
+            "three_arches": "present"
+          },
+          "critical": [],
+          "reference_basis": "Source description plus visual inspection of this photograph; negative answers apply only to the visible surface.",
+          "source_url": "https://www.dainst.blog/the-tepe-telegrams/2016/10/14/of-animals-and-a-headless-man-gobekli-tepe-pillar-43/"
+        }
+      ],
+      "primary": [
+        "avian",
+        "scorpion"
+      ]
+    },
+    {
+      "id": "hoa",
+      "label": "Hoa Hakananai’a · back",
+      "images": [
+        {
+          "id": "hoa-back",
+          "label": "Hoa Hakananai’a · back, Miles",
+          "group": "hoa-back",
+          "path": "docs/img/case/hoa-back.jpg",
+          "source": "bm-hoa",
+          "expected": {
+            "avian": "present",
+            "large_face": "absent",
+            "scorpion": "absent",
+            "round_motif": "present",
+            "three_arches": "absent"
+          },
+          "critical": [
+            "avian",
+            "large_face"
+          ],
+          "reference_basis": "Source description plus visual inspection of this photograph; negative answers apply only to the visible surface.",
+          "source_url": "https://www.britishmuseum.org/collection/object/E_Oc1869-1005-1"
+        },
+        {
+          "id": "hoa-back-alt",
+          "label": "Hoa Hakananai’a · back, Sanjay ach",
+          "group": "hoa-back",
+          "path": "docs/img/case/hoa-back-alt.jpg",
+          "source": "bm-hoa",
+          "expected": {
+            "avian": "present",
+            "large_face": "absent",
+            "scorpion": "absent",
+            "round_motif": "present",
+            "three_arches": "absent"
+          },
+          "critical": [
+            "avian",
+            "large_face"
+          ],
+          "reference_basis": "Source description plus visual inspection of this photograph; negative answers apply only to the visible surface.",
+          "source_url": "https://www.britishmuseum.org/collection/object/E_Oc1869-1005-1"
+        }
+      ],
+      "primary": [
+        "avian",
+        "large_face"
+      ]
+    },
+    {
+      "id": "boulder",
+      "label": "Orongo boulder",
+      "images": [
+        {
+          "id": "boulder-1919",
+          "label": "Orongo boulder · published 1919",
+          "group": "boulder",
+          "path": "docs/img/case/orongo-1919.jpg",
+          "source": "routledge",
+          "expected": {
+            "avian": "present",
+            "large_face": "absent",
+            "scorpion": "absent",
+            "round_motif": "present",
+            "three_arches": "absent"
+          },
+          "critical": [],
+          "reference_basis": "Source description plus visual inspection of this photograph; negative answers apply only to the visible surface.",
+          "source_url": "https://readingroo.ms/6/9/8/0/69807/69807-h/69807-h.htm"
+        },
+        {
+          "id": "boulder-modern",
+          "label": "Orongo boulder · supplied modern photograph",
+          "group": "boulder",
+          "path": "docs/img/inputs/bird-figure.jpeg",
+          "source": "boulder",
+          "expected": {
+            "avian": "present",
+            "large_face": "absent",
+            "scorpion": "absent",
+            "round_motif": "present",
+            "three_arches": "absent"
+          },
+          "critical": [],
+          "reference_basis": "Source description plus visual inspection of this photograph; negative answers apply only to the visible surface.",
+          "source_url": "https://artsandculture.google.com/asset/birdman-boulder/-QEzFc9ehfO2ng"
+        }
+      ],
+      "primary": [
+        "avian"
+      ]
+    }
+  ]
+}

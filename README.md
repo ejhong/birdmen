@@ -40,6 +40,27 @@ benchmark. The protocol, prompt, images and references were frozen before reques
 individual responses and locations are inspectable. See
 [the frozen protocol](research/pillar-moai/v2/protocol.md).
 
+The [controlled follow-up](docs/view-trial.html) crosses one/two photographs with
+low/high reasoning effort on the same three focal objects. All 24 requests completed
+for an estimated $1.26. Primary categorical matches were 3/10, 4/10, 7/10 and 9/10,
+respectively. These are **label matches, not verified perception accuracy**:
+all three positive Pillar 43 scorpion answers pointed to the upper bird area rather
+than the lower shaft. The separate post-run location audit makes this visible and
+leaves the original categorical readout intact. Nothing authorizes historical ranking.
+
+The [local context study](docs/local-context.html) adds a nine-object register,
+a licensed Pillar 2 photograph, the 1919 reproduction of the existing Orongo rock
+photograph, and the Rapa Nui museum’s paired painted birdmen. The latter image is
+a source-provided preview of a 3D recording. Dates of collection are distinguished
+from dates of making; duplicate photographs are not new objects. This is a purposive
+context collection, not a representative baseline.
+
+The proposed next direction is a broad, source-linked catalogue of **claimed anomalous
+similarities**, with local parallels and known diffusion as linked controls. The
+[catalogue concept](research/catalogue/CONCEPT.md) records its scope, browsing views,
+provenance requirements and map/timeline conventions. It is a design proposal, not
+a claim that a worldwide search or catalogue has already been completed.
+
 The civiliser source audit is exploratory: 29 passages, 10 source records and 10 figure
 entries, one including two people. It is not a complete source genealogy or a global rarity
 test. Source coverage, translation and recording history remain explicit. A
@@ -85,6 +106,9 @@ research/                     Versioned methods, source records and evidence for
   civilisers/v3/              Proposed comparison protocol; not run
   fenton/                     Transcript and screenshot inventory of Fenton's thread
   pillar-moai/v2/             Frozen recognition protocol, provisional references, sources and audit
+  pillar-moai/v3/             Frozen view/reasoning trial; separate post-run location audit
+  pillar-moai/context.json    Local object identities, evidence, image rights and date limits
+  catalogue/CONCEPT.md        Proposed anomaly catalogue and browsing design
   rongo/                      Method, run order and article draft of the Indus / rongorongo study
 inputs/                       Original supplied material; preserve untouched
   fenton/                     Screenshots and attachments of the thread (33 files) and one later screenshot
@@ -93,10 +117,13 @@ pipeline/                     Existing study scripts + offline publishing entry 
   rongo/                      Study 01's pipeline, in run order (see research/rongo/README.md)
 data/                         Original datasets, model responses and calculated results
   pillar-moai/v2/             Freeze, raw request records and diagnostic results
+  pillar-moai/v3/             Freeze, all 24 raw responses and controlled-trial readout
   rongo/                      Study 01's scans, glyph crops, skeletons, results and fidelity review
 docs/                         Published static site
   pillar-and-moai.html        Main source dossier and comparison viewer
   recognition.html           New diagnostic, all responses and model boxes
+  view-trial.html             Controlled follow-up and visible location failures
+  local-context.html          Illustrated local comparisons and object register
   research-review.html       Audit and redesign requirements for all five studies
   atlas.html, fenton.html     Wider comparisons and separate Fenton essay
   rongo/                      Study 01's page, script and site data (served at /rongo/)

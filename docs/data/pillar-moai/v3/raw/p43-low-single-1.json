@@ -1,0 +1,357 @@
+{
+  "id": "p43-low-single-1",
+  "object": "p43",
+  "effort": "low",
+  "views": "single",
+  "order": 1,
+  "started_at": "2026-09-19T16:11:09.334332+00:00",
+  "status": "complete",
+  "freeze_sha256": "972845a1b31b4b02797c0c244d3ba61bb43bb824b86999ef702482854e1cc6fe",
+  "estimated_cost_usd": 0.01944,
+  "response": {
+    "id": "resp_0297630d88563e49016aaeb41da9ec87d0beb84bab7b969d6d",
+    "created_at": 1789834269.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.5-2026-04-23",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_0297630d88563e49016aaeb41e918087d09108e9df90006101",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description\":\"The visible stone face is divided into horizontal bands with relief carvings: at the top are three large arch-topped shapes, below them are incised repeated strokes and animal or birdlike figures. In the lower portion there is a large elongated birdlike head and neck with a small circular eye-like detail, plus other worn linear forms and partial limbs or bodies.\",\"avian\":{\"answer\":\"present\",\"evidence\":\"A clear birdlike head with a curved beak and long neck is carved near the lower left of the main surface; another birdlike form with outstretched body is visible in the middle band.\",\"box\":[0.18,0.76,0.39,0.98]},\"large_face\":{\"answer\":\"absent\",\"evidence\":\"No large human face with facial features is visible on the main carved surface; the visible heads are birdlike or too worn/partial.\",\"box\":null},\"scorpion\":{\"answer\":\"absent\",\"evidence\":\"I do not see a carved scorpion with multiple legs or a segmented upturned tail on the visible surface.\",\"box\":null},\"round_motif\":{\"answer\":\"absent\",\"evidence\":\"The only distinct small round mark appears to be an eye on the lower birdlike head, which is excluded; no separate circular motif is visible.\",\"box\":null},\"three_arches\":{\"answer\":\"present\",\"evidence\":\"Across the top band there are three repeated arch-topped forms arranged side by side.\",\"box\":[0.08,0.03,0.75,0.22]},\"limitations\":\"Strong sunlight and shadows, surface wear, broken edges, and overlapping relief lines make some details difficult to read.\"}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "conversation": null,
+    "max_output_tokens": 6000,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "effort": "low",
+      "generate_summary": null,
+      "summary": null,
+      "context": "current_turn",
+      "mode": "standard"
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "view_trial",
+        "schema_": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "description": {
+              "type": "string"
+            },
+            "avian": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "answer": {
+                  "type": "string",
+                  "enum": [
+                    "present",
+                    "absent",
+                    "uncertain"
+                  ]
+                },
+                "evidence": {
+                  "type": "string"
+                },
+                "box": {
+                  "anyOf": [
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "number"
+                      },
+                      "minItems": 4,
+                      "maxItems": 4
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "answer",
+                "evidence",
+                "box"
+              ]
+            },
+            "large_face": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "answer": {
+                  "type": "string",
+                  "enum": [
+                    "present",
+                    "absent",
+                    "uncertain"
+                  ]
+                },
+                "evidence": {
+                  "type": "string"
+                },
+                "box": {
+                  "anyOf": [
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "number"
+                      },
+                      "minItems": 4,
+                      "maxItems": 4
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "answer",
+                "evidence",
+                "box"
+              ]
+            },
+            "scorpion": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "answer": {
+                  "type": "string",
+                  "enum": [
+                    "present",
+                    "absent",
+                    "uncertain"
+                  ]
+                },
+                "evidence": {
+                  "type": "string"
+                },
+                "box": {
+                  "anyOf": [
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "number"
+                      },
+                      "minItems": 4,
+                      "maxItems": 4
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "answer",
+                "evidence",
+                "box"
+              ]
+            },
+            "round_motif": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "answer": {
+                  "type": "string",
+                  "enum": [
+                    "present",
+                    "absent",
+                    "uncertain"
+                  ]
+                },
+                "evidence": {
+                  "type": "string"
+                },
+                "box": {
+                  "anyOf": [
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "number"
+                      },
+                      "minItems": 4,
+                      "maxItems": 4
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "answer",
+                "evidence",
+                "box"
+              ]
+            },
+            "three_arches": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "answer": {
+                  "type": "string",
+                  "enum": [
+                    "present",
+                    "absent",
+                    "uncertain"
+                  ]
+                },
+                "evidence": {
+                  "type": "string"
+                },
+                "box": {
+                  "anyOf": [
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "number"
+                      },
+                      "minItems": 4,
+                      "maxItems": 4
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "answer",
+                "evidence",
+                "box"
+              ]
+            },
+            "limitations": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "description",
+            "avian",
+            "large_face",
+            "scorpion",
+            "round_motif",
+            "three_arches",
+            "limitations"
+          ]
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1806,
+      "input_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0
+      },
+      "output_tokens": 347,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 2153
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1789834274,
+    "frequency_penalty": 0.0,
+    "moderation": null,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  },
+  "observation": {
+    "description": "The visible stone face is divided into horizontal bands with relief carvings: at the top are three large arch-topped shapes, below them are incised repeated strokes and animal or birdlike figures. In the lower portion there is a large elongated birdlike head and neck with a small circular eye-like detail, plus other worn linear forms and partial limbs or bodies.",
+    "avian": {
+      "answer": "present",
+      "evidence": "A clear birdlike head with a curved beak and long neck is carved near the lower left of the main surface; another birdlike form with outstretched body is visible in the middle band.",
+      "box": [
+        0.18,
+        0.76,
+        0.39,
+        0.98
+      ]
+    },
+    "large_face": {
+      "answer": "absent",
+      "evidence": "No large human face with facial features is visible on the main carved surface; the visible heads are birdlike or too worn/partial.",
+      "box": null
+    },
+    "scorpion": {
+      "answer": "absent",
+      "evidence": "I do not see a carved scorpion with multiple legs or a segmented upturned tail on the visible surface.",
+      "box": null
+    },
+    "round_motif": {
+      "answer": "absent",
+      "evidence": "The only distinct small round mark appears to be an eye on the lower birdlike head, which is excluded; no separate circular motif is visible.",
+      "box": null
+    },
+    "three_arches": {
+      "answer": "present",
+      "evidence": "Across the top band there are three repeated arch-topped forms arranged side by side.",
+      "box": [
+        0.08,
+        0.03,
+        0.75,
+        0.22
+      ]
+    },
+    "limitations": "Strong sunlight and shadows, surface wear, broken edges, and overlapping relief lines make some details difficult to read."
+  },
+  "finished_at": "2026-09-19T16:11:14.315761+00:00"
+}

@@ -1,0 +1,3469 @@
+{
+  "conditions": [
+    {
+      "effort": "low",
+      "views": "single",
+      "all": {
+        "correct": 20,
+        "wrong": 7,
+        "uncertain": 3,
+        "missing": 0,
+        "total": 30
+      },
+      "primary": {
+        "correct": 3,
+        "wrong": 5,
+        "uncertain": 2,
+        "missing": 0,
+        "total": 10
+      },
+      "avian": {
+        "correct": 3,
+        "wrong": 2,
+        "uncertain": 1,
+        "missing": 0,
+        "total": 6
+      }
+    },
+    {
+      "effort": "low",
+      "views": "paired",
+      "all": {
+        "correct": 22,
+        "wrong": 1,
+        "uncertain": 7,
+        "missing": 0,
+        "total": 30
+      },
+      "primary": {
+        "correct": 4,
+        "wrong": 1,
+        "uncertain": 5,
+        "missing": 0,
+        "total": 10
+      },
+      "avian": {
+        "correct": 4,
+        "wrong": 0,
+        "uncertain": 2,
+        "missing": 0,
+        "total": 6
+      }
+    },
+    {
+      "effort": "high",
+      "views": "single",
+      "all": {
+        "correct": 26,
+        "wrong": 2,
+        "uncertain": 2,
+        "missing": 0,
+        "total": 30
+      },
+      "primary": {
+        "correct": 7,
+        "wrong": 1,
+        "uncertain": 2,
+        "missing": 0,
+        "total": 10
+      },
+      "avian": {
+        "correct": 5,
+        "wrong": 1,
+        "uncertain": 0,
+        "missing": 0,
+        "total": 6
+      }
+    },
+    {
+      "effort": "high",
+      "views": "paired",
+      "all": {
+        "correct": 28,
+        "wrong": 0,
+        "uncertain": 2,
+        "missing": 0,
+        "total": 30
+      },
+      "primary": {
+        "correct": 9,
+        "wrong": 0,
+        "uncertain": 1,
+        "missing": 0,
+        "total": 10
+      },
+      "avian": {
+        "correct": 6,
+        "wrong": 0,
+        "uncertain": 0,
+        "missing": 0,
+        "total": 6
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "p43-low-single-1",
+      "object": "p43",
+      "effort": "low",
+      "views": "single",
+      "order": 1,
+      "label": "Pillar 43",
+      "image": "p43",
+      "path": "docs/img/case/pillar43.jpg",
+      "second_path": null,
+      "status": "complete",
+      "cells": {
+        "avian": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": true
+        },
+        "large_face": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        },
+        "scorpion": {
+          "expected": "present",
+          "answer": "absent",
+          "outcome": "wrong",
+          "primary": true
+        },
+        "round_motif": {
+          "expected": "present",
+          "answer": "absent",
+          "outcome": "wrong",
+          "primary": false
+        },
+        "three_arches": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": false
+        }
+      },
+      "observation": {
+        "description": "The visible stone face is divided into horizontal bands with relief carvings: at the top are three large arch-topped shapes, below them are incised repeated strokes and animal or birdlike figures. In the lower portion there is a large elongated birdlike head and neck with a small circular eye-like detail, plus other worn linear forms and partial limbs or bodies.",
+        "avian": {
+          "answer": "present",
+          "evidence": "A clear birdlike head with a curved beak and long neck is carved near the lower left of the main surface; another birdlike form with outstretched body is visible in the middle band.",
+          "box": [
+            0.18,
+            0.76,
+            0.39,
+            0.98
+          ]
+        },
+        "large_face": {
+          "answer": "absent",
+          "evidence": "No large human face with facial features is visible on the main carved surface; the visible heads are birdlike or too worn/partial.",
+          "box": null
+        },
+        "scorpion": {
+          "answer": "absent",
+          "evidence": "I do not see a carved scorpion with multiple legs or a segmented upturned tail on the visible surface.",
+          "box": null
+        },
+        "round_motif": {
+          "answer": "absent",
+          "evidence": "The only distinct small round mark appears to be an eye on the lower birdlike head, which is excluded; no separate circular motif is visible.",
+          "box": null
+        },
+        "three_arches": {
+          "answer": "present",
+          "evidence": "Across the top band there are three repeated arch-topped forms arranged side by side.",
+          "box": [
+            0.08,
+            0.03,
+            0.75,
+            0.22
+          ]
+        },
+        "limitations": "Strong sunlight and shadows, surface wear, broken edges, and overlapping relief lines make some details difficult to read."
+      }
+    },
+    {
+      "id": "p43-low-single-2",
+      "object": "p43",
+      "effort": "low",
+      "views": "single",
+      "order": 2,
+      "label": "Pillar 43",
+      "image": "p43-alt",
+      "path": "docs/img/case/pillar43-alt.jpg",
+      "second_path": null,
+      "status": "complete",
+      "cells": {
+        "avian": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": true
+        },
+        "large_face": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        },
+        "scorpion": {
+          "expected": "present",
+          "answer": "uncertain",
+          "outcome": "uncertain",
+          "primary": true
+        },
+        "round_motif": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": false
+        },
+        "three_arches": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": false
+        }
+      },
+      "observation": {
+        "description": "The visible face of the stone has shallow relief carvings divided into horizontal bands. Along the upper band are several arch-topped shapes, and below them are multiple animal-like figures with long necks or beak-like heads, plus small rounded depressions or circles. The lower visible area continues with worn animal-like and linear carvings, partly obscured by adjacent stones and damage.",
+        "avian": {
+          "answer": "present",
+          "evidence": "Several figures have birdlike long necks and beak-like heads; one is clearly visible on the lower left of the main carved face.",
+          "box": [
+            0.28,
+            0.74,
+            0.45,
+            0.93
+          ]
+        },
+        "large_face": {
+          "answer": "absent",
+          "evidence": "No large human face with eyes, nose, and mouth is visible on the main surface; the carvings appear to be animals, arches, and abstract/linear forms.",
+          "box": null
+        },
+        "scorpion": {
+          "answer": "uncertain",
+          "evidence": "Some worn linear animal forms could be read in different ways, but I cannot clearly identify a scorpion with legs and a segmented upturned tail.",
+          "box": null
+        },
+        "round_motif": {
+          "answer": "present",
+          "evidence": "A distinct small circular motif is visible near the middle of the carved surface, separate from any clear eye or nostril.",
+          "box": [
+            0.38,
+            0.38,
+            0.45,
+            0.44
+          ]
+        },
+        "three_arches": {
+          "answer": "present",
+          "evidence": "The top band contains three or more repeated arch-topped forms side by side.",
+          "box": [
+            0.19,
+            0.08,
+            0.73,
+            0.29
+          ]
+        },
+        "limitations": "The relief is worn and low-contrast, lighting is uneven, and parts of the stone are obscured by foreground rocks and edge damage, making some figures ambiguous."
+      }
+    },
+    {
+      "id": "p43-low-paired-1",
+      "object": "p43",
+      "effort": "low",
+      "views": "paired",
+      "order": 1,
+      "label": "Pillar 43",
+      "image": "p43",
+      "path": "docs/img/case/pillar43.jpg",
+      "second_path": "docs/img/case/pillar43-alt.jpg",
+      "status": "complete",
+      "cells": {
+        "avian": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": true
+        },
+        "large_face": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        },
+        "scorpion": {
+          "expected": "present",
+          "answer": "uncertain",
+          "outcome": "uncertain",
+          "primary": true
+        },
+        "round_motif": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": false
+        },
+        "three_arches": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": false
+        }
+      },
+      "observation": {
+        "description": "The first photograph shows a tall carved stone surface with shallow relief figures, including three arch-topped shapes along the upper band and several animal-like forms below. In the middle and lower areas there are birdlike heads with curved beaks, a small circular disk-like carving, and other worn linear incisions. Some edges and details are obscured by erosion, shadow, and adjacent stones.",
+        "avian": {
+          "answer": "present",
+          "evidence": "Several carved figures have birdlike heads or hooked beaks, especially the large lower-left figure with a clear curved beak and eye on the visible stone surface.",
+          "box": [
+            0.18,
+            0.72,
+            0.36,
+            0.97
+          ]
+        },
+        "large_face": {
+          "answer": "absent",
+          "evidence": "No large human face with facial features is visible on the main surface; the visible figures are animal-like or abstract rather than a large human face.",
+          "box": null
+        },
+        "scorpion": {
+          "answer": "uncertain",
+          "evidence": "There are curved and segmented-looking incisions among the animal figures, but no clearly readable scorpion with both legs and/or an upturned segmented tail can be identified reliably.",
+          "box": null
+        },
+        "round_motif": {
+          "answer": "present",
+          "evidence": "A distinct small round carved disk appears near the center of the upper main panel, separate from eyes or nostrils.",
+          "box": [
+            0.35,
+            0.39,
+            0.44,
+            0.48
+          ]
+        },
+        "three_arches": {
+          "answer": "present",
+          "evidence": "Three repeated arch-topped forms are arranged side by side across the top band of the carved surface.",
+          "box": [
+            0.05,
+            0.02,
+            0.79,
+            0.25
+          ]
+        },
+        "limitations": "The relief is weathered and unevenly lit, with strong shadows, worn lines, and some obstruction by adjacent stones near the lower left, making fine details difficult to read."
+      }
+    },
+    {
+      "id": "p43-low-paired-2",
+      "object": "p43",
+      "effort": "low",
+      "views": "paired",
+      "order": 2,
+      "label": "Pillar 43",
+      "image": "p43-alt",
+      "path": "docs/img/case/pillar43-alt.jpg",
+      "second_path": "docs/img/case/pillar43.jpg",
+      "status": "complete",
+      "cells": {
+        "avian": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": true
+        },
+        "large_face": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        },
+        "scorpion": {
+          "expected": "present",
+          "answer": "absent",
+          "outcome": "wrong",
+          "primary": true
+        },
+        "round_motif": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": false
+        },
+        "three_arches": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": false
+        }
+      },
+      "observation": {
+        "description": "The visible face of the stone has a top band with three arch-topped rectangular forms, above a horizontal divider. Below are several low-relief animal-like and birdlike figures with long necks or beaks, a distinct small circular disk near the center, and additional incised limbs or bodies on the lower portion partly obscured by stones.",
+        "avian": {
+          "answer": "present",
+          "evidence": "Several carved figures have birdlike heads or beaks, including a long-necked head with a pointed beak in the lower left of the visible surface.",
+          "box": [
+            0.27,
+            0.72,
+            0.43,
+            0.92
+          ]
+        },
+        "large_face": {
+          "answer": "absent",
+          "evidence": "No large human face with eyes, nose, and mouth is visible on the main carved surface; the figures are animal/birdlike or abstract.",
+          "box": null
+        },
+        "scorpion": {
+          "answer": "absent",
+          "evidence": "I do not see a scorpion form with multiple legs and a segmented upturned tail on the visible carved surface.",
+          "box": null
+        },
+        "round_motif": {
+          "answer": "present",
+          "evidence": "A distinct round carved disk appears near the center of the upper main panel, separate from eyes or nostrils.",
+          "box": [
+            0.4,
+            0.4,
+            0.5,
+            0.47
+          ]
+        },
+        "three_arches": {
+          "answer": "present",
+          "evidence": "The top band shows three repeated arch-topped forms arranged side by side.",
+          "box": [
+            0.18,
+            0.04,
+            0.77,
+            0.27
+          ]
+        },
+        "limitations": "The stone surface is worn and uneven, with shadows, perspective distortion, and some lower-left carving partly hidden by surrounding stones."
+      }
+    },
+    {
+      "id": "p43-high-single-1",
+      "object": "p43",
+      "effort": "high",
+      "views": "single",
+      "order": 1,
+      "label": "Pillar 43",
+      "image": "p43",
+      "path": "docs/img/case/pillar43.jpg",
+      "second_path": null,
+      "status": "complete",
+      "cells": {
+        "avian": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": true
+        },
+        "large_face": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        },
+        "scorpion": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": true
+        },
+        "round_motif": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": false
+        },
+        "three_arches": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": false
+        }
+      },
+      "observation": {
+        "description": "The main stone face shows a top row of three arch-topped rectangular forms, with vertical separators and textured interiors. Below them are bands of repeated short strokes and V-shaped marks, plus several shallow animal-like figures including long-necked birdlike forms and elongated linear shapes. A lower panel contains a larger long-necked birdlike carving and other partial low-relief outlines.",
+        "avian": {
+          "answer": "present",
+          "evidence": "A clear long-necked figure with a pointed beak and small round eye is carved in the lower left part of the main stone surface.",
+          "box": [
+            0.18,
+            0.74,
+            0.4,
+            0.98
+          ]
+        },
+        "large_face": {
+          "answer": "absent",
+          "evidence": "No large human face with visible facial features appears on the main carved surface.",
+          "box": null
+        },
+        "scorpion": {
+          "answer": "present",
+          "evidence": "In the right middle area there is a small carved creature with a compact body, multiple leg-like projections, and a curved raised tail-like form.",
+          "box": [
+            0.62,
+            0.21,
+            0.78,
+            0.36
+          ]
+        },
+        "round_motif": {
+          "answer": "present",
+          "evidence": "A distinct rounded disk or oval is carved in the central panel, separate from the visible bird eyes.",
+          "box": [
+            0.35,
+            0.34,
+            0.45,
+            0.42
+          ]
+        },
+        "three_arches": {
+          "answer": "present",
+          "evidence": "Three similar arch-topped forms are arranged side by side across the top of the carved surface.",
+          "box": [
+            0.04,
+            0.02,
+            0.76,
+            0.24
+          ]
+        },
+        "limitations": "Strong sunlight, shadows, erosion, and partial damage make some shallow lines and animal details difficult to read."
+      }
+    },
+    {
+      "id": "p43-high-single-2",
+      "object": "p43",
+      "effort": "high",
+      "views": "single",
+      "order": 2,
+      "label": "Pillar 43",
+      "image": "p43-alt",
+      "path": "docs/img/case/pillar43-alt.jpg",
+      "second_path": null,
+      "status": "complete",
+      "cells": {
+        "avian": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": true
+        },
+        "large_face": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        },
+        "scorpion": {
+          "expected": "present",
+          "answer": "uncertain",
+          "outcome": "uncertain",
+          "primary": true
+        },
+        "round_motif": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": false
+        },
+        "three_arches": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": false
+        }
+      },
+      "observation": {
+        "description": "The stone surface shows shallow relief carvings arranged in horizontal bands, with several arch-topped shapes along the upper band and animal-like figures below. On the middle area there are birdlike profiles, a small round disk-like carving, and other worn incised forms; the lower part is partly blocked and harder to read.",
+        "avian": {
+          "answer": "present",
+          "evidence": "A birdlike figure with a long neck and beak is visible on the middle-right of the carved surface, with a body and legs/wing-like lines.",
+          "box": [
+            0.52,
+            0.33,
+            0.7,
+            0.58
+          ]
+        },
+        "large_face": {
+          "answer": "absent",
+          "evidence": "No large front-facing or oblique human face with facial features is visible on the main carved surface.",
+          "box": null
+        },
+        "scorpion": {
+          "answer": "uncertain",
+          "evidence": "There are faint multi-legged or segmented-looking incisions on the lower central surface, but the shape is worn and partly obscured, and an upturned tail cannot be read reliably.",
+          "box": null
+        },
+        "round_motif": {
+          "answer": "present",
+          "evidence": "A distinct small circular raised motif appears near the middle of the upper carved panel, separate from eyes or nostrils.",
+          "box": [
+            0.38,
+            0.46,
+            0.45,
+            0.54
+          ]
+        },
+        "three_arches": {
+          "answer": "present",
+          "evidence": "Three repeated arch-topped forms are arranged side by side across the upper band of the visible surface.",
+          "box": [
+            0.17,
+            0.07,
+            0.72,
+            0.33
+          ]
+        },
+        "limitations": "The relief is shallow, weathered, and unevenly lit; parts of the lower surface are obscured by nearby stones and the camera angle makes some incised forms difficult to distinguish."
+      }
+    },
+    {
+      "id": "p43-high-paired-1",
+      "object": "p43",
+      "effort": "high",
+      "views": "paired",
+      "order": 1,
+      "label": "Pillar 43",
+      "image": "p43",
+      "path": "docs/img/case/pillar43.jpg",
+      "second_path": "docs/img/case/pillar43-alt.jpg",
+      "status": "complete",
+      "cells": {
+        "avian": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": true
+        },
+        "large_face": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        },
+        "scorpion": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": true
+        },
+        "round_motif": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": false
+        },
+        "three_arches": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": false
+        }
+      },
+      "observation": {
+        "description": "The visible face of the stone is carved with a row of three arch-topped rectangular forms near the top, with a band of short vertical and zigzag strokes below it. Beneath the band are several low-relief animal/profile figures and a distinct round motif near the middle, and the lower shaft shows a larger birdlike profile near the bottom. The carving is worn and some edges are interrupted by shadows and adjacent stones.",
+        "avian": {
+          "answer": "present",
+          "evidence": "A figure on the lower left of the shaft has a rounded birdlike head with a small eye and projecting beak, attached to a larger body.",
+          "box": [
+            0.14,
+            0.7,
+            0.37,
+            0.92
+          ]
+        },
+        "large_face": {
+          "answer": "absent",
+          "evidence": "No large human face with facial features is visible on the main carved surface; the visible figures are animal-like or geometric.",
+          "box": null
+        },
+        "scorpion": {
+          "answer": "present",
+          "evidence": "On the upper right panel there is a compact carved figure with small leg-like projections and a curved upturned tail-like form.",
+          "box": [
+            0.62,
+            0.23,
+            0.76,
+            0.38
+          ]
+        },
+        "round_motif": {
+          "answer": "present",
+          "evidence": "A distinct circular raised or outlined motif is visible near the middle of the upper slab, separate from any eye or nostril.",
+          "box": [
+            0.31,
+            0.34,
+            0.42,
+            0.43
+          ]
+        },
+        "three_arches": {
+          "answer": "present",
+          "evidence": "Three repeated arch-topped forms are arranged side by side across the top of the stone face.",
+          "box": [
+            0.03,
+            0.02,
+            0.78,
+            0.24
+          ]
+        },
+        "limitations": "Strong sunlight, shadow, surface wear, chips, and partial obstruction along the left and lower edges make some shallow carving details difficult to read."
+      }
+    },
+    {
+      "id": "p43-high-paired-2",
+      "object": "p43",
+      "effort": "high",
+      "views": "paired",
+      "order": 2,
+      "label": "Pillar 43",
+      "image": "p43-alt",
+      "path": "docs/img/case/pillar43-alt.jpg",
+      "second_path": "docs/img/case/pillar43.jpg",
+      "status": "complete",
+      "cells": {
+        "avian": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": true
+        },
+        "large_face": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        },
+        "scorpion": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": true
+        },
+        "round_motif": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": false
+        },
+        "three_arches": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": false
+        }
+      },
+      "observation": {
+        "description": "The visible carved surface has a row of three arch-topped, rectangular forms across the upper part, with bands of short incised strokes below them. In the middle area there are several low-relief animal-like figures, including birdlike forms with beaks, a central round disk, and a smaller figure at the right. The lower visible section also has faint carved linear and animal-like forms, partly hidden by surrounding stones and shadow.",
+        "avian": {
+          "answer": "present",
+          "evidence": "A birdlike figure with a curved head, pointed beak, and feather-like body/wing incisions is visible in the middle-left of the carved surface.",
+          "box": [
+            0.22,
+            0.31,
+            0.62,
+            0.58
+          ]
+        },
+        "large_face": {
+          "answer": "absent",
+          "evidence": "No large human face with a clear arrangement of human facial features is visible on the main carved surface.",
+          "box": null
+        },
+        "scorpion": {
+          "answer": "present",
+          "evidence": "On the right side of the middle carved field there is a small creature with a curved, upturned tail-like form and leg-like projections, consistent visually with a scorpion.",
+          "box": [
+            0.55,
+            0.27,
+            0.76,
+            0.45
+          ]
+        },
+        "round_motif": {
+          "answer": "present",
+          "evidence": "A distinct circular raised/outlined motif appears near the center of the middle field, separate from animal eyes or other small facial details.",
+          "box": [
+            0.39,
+            0.39,
+            0.5,
+            0.47
+          ]
+        },
+        "three_arches": {
+          "answer": "present",
+          "evidence": "Three repeated arch-topped forms are arranged side by side across the top row of the carved surface.",
+          "box": [
+            0.17,
+            0.06,
+            0.76,
+            0.3
+          ]
+        },
+        "limitations": "The carving is low-contrast and weathered, with oblique viewing angle, shadows, and parts of the lower surface obscured by adjacent stones and debris."
+      }
+    },
+    {
+      "id": "hoa-low-single-1",
+      "object": "hoa",
+      "effort": "low",
+      "views": "single",
+      "order": 1,
+      "label": "Hoa Hakananai’a · back",
+      "image": "hoa-back",
+      "path": "docs/img/case/hoa-back.jpg",
+      "second_path": null,
+      "status": "complete",
+      "cells": {
+        "avian": {
+          "expected": "present",
+          "answer": "absent",
+          "outcome": "wrong",
+          "primary": true
+        },
+        "large_face": {
+          "expected": "absent",
+          "answer": "present",
+          "outcome": "wrong",
+          "primary": true
+        },
+        "scorpion": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        },
+        "round_motif": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": false
+        },
+        "three_arches": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        }
+      },
+      "observation": {
+        "description": "The visible stone surface shows a large carved human-like torso or head-and-body form with a prominent face-like area: two deep oval depressions, a raised circular element below them, and broad curved incised bands beneath. The upper part has worn vertical and curved incisions, including smaller face-like or body-like relief details, but many lines are shallow and eroded.",
+        "avian": {
+          "answer": "absent",
+          "evidence": "I do not see a clear carved bird or birdlike head/beak on the main stone surface; the bird shapes at the right are background objects, not carving on the stone.",
+          "box": null
+        },
+        "large_face": {
+          "answer": "present",
+          "evidence": "A large face-like arrangement is visible on the main front surface, with two deep eye-like oval depressions and a central raised circular feature, occupying much of the upper front of the lower stone body.",
+          "box": [
+            0.18,
+            0.4,
+            0.74,
+            0.68
+          ]
+        },
+        "scorpion": {
+          "answer": "absent",
+          "evidence": "No carved form with multiple legs and a segmented upturned tail is visible on the stone surface.",
+          "box": null
+        },
+        "round_motif": {
+          "answer": "present",
+          "evidence": "There is a distinct raised circular motif below the two oval depressions on the front surface; it is separate from an eye or nostril.",
+          "box": [
+            0.393,
+            0.544,
+            0.545,
+            0.636
+          ]
+        },
+        "three_arches": {
+          "answer": "absent",
+          "evidence": "I do not see three repeated arch-topped forms arranged side by side in a row; the curved bands are long arcs, not three separate arch forms.",
+          "box": null
+        },
+        "limitations": "The stone is rough, dark, and heavily worn, with shallow eroded lines and uneven lighting that make some upper carvings difficult to read."
+      }
+    },
+    {
+      "id": "hoa-low-single-2",
+      "object": "hoa",
+      "effort": "low",
+      "views": "single",
+      "order": 2,
+      "label": "Hoa Hakananai’a · back",
+      "image": "hoa-back-alt",
+      "path": "docs/img/case/hoa-back-alt.jpg",
+      "second_path": null,
+      "status": "complete",
+      "cells": {
+        "avian": {
+          "expected": "present",
+          "answer": "absent",
+          "outcome": "wrong",
+          "primary": true
+        },
+        "large_face": {
+          "expected": "absent",
+          "answer": "present",
+          "outcome": "wrong",
+          "primary": true
+        },
+        "scorpion": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        },
+        "round_motif": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": false
+        },
+        "three_arches": {
+          "expected": "absent",
+          "answer": "present",
+          "outcome": "wrong",
+          "primary": false
+        }
+      },
+      "observation": {
+        "description": "The stone surface shows a tall, roughly human-shaped figure with shallow incised lines and worn relief. On the upper front there is a large face-like arrangement with brow, nose, and mouth marks, and on the torso there are several curved and circular incisions, including a prominent round ringed motif near the center. A broad band of three nested curved arches spans across the lower torso area.",
+        "avian": {
+          "answer": "absent",
+          "evidence": "No carved bird body or birdlike head/beak is visible on the main stone surface.",
+          "box": null
+        },
+        "large_face": {
+          "answer": "present",
+          "evidence": "The upper front has a large human face-like carving with brow/eye area, vertical nose, and mouth marks.",
+          "box": [
+            0.35,
+            0.18,
+            0.64,
+            0.43
+          ]
+        },
+        "scorpion": {
+          "answer": "absent",
+          "evidence": "I do not see a scorpion form with multiple legs or a segmented upturned tail.",
+          "box": null
+        },
+        "round_motif": {
+          "answer": "present",
+          "evidence": "A distinct circular/ringed carved motif is visible near the center of the torso, separate from facial features.",
+          "box": [
+            0.397,
+            0.526,
+            0.526,
+            0.603
+          ]
+        },
+        "three_arches": {
+          "answer": "present",
+          "evidence": "Three repeated nested arch-shaped bands run side by side across the lower torso.",
+          "box": [
+            0.238,
+            0.626,
+            0.659,
+            0.725
+          ]
+        },
+        "limitations": "The carving is very worn and unevenly lit, with shallow incisions that make some lines difficult to distinguish from surface texture."
+      }
+    },
+    {
+      "id": "hoa-low-paired-1",
+      "object": "hoa",
+      "effort": "low",
+      "views": "paired",
+      "order": 1,
+      "label": "Hoa Hakananai’a · back",
+      "image": "hoa-back",
+      "path": "docs/img/case/hoa-back.jpg",
+      "second_path": "docs/img/case/hoa-back-alt.jpg",
+      "status": "complete",
+      "cells": {
+        "avian": {
+          "expected": "present",
+          "answer": "uncertain",
+          "outcome": "uncertain",
+          "primary": true
+        },
+        "large_face": {
+          "expected": "absent",
+          "answer": "uncertain",
+          "outcome": "uncertain",
+          "primary": true
+        },
+        "scorpion": {
+          "expected": "absent",
+          "answer": "uncertain",
+          "outcome": "uncertain",
+          "primary": false
+        },
+        "round_motif": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": false
+        },
+        "three_arches": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        }
+      },
+      "observation": {
+        "description": "The first photograph shows a tall carved stone figure with a head-like upper portion, a broad torso, and shallow incised details. On the front are two small recessed oval features, a central raised circular ring, curving parallel bands below it, and several faint linear or animal-like incisions on the chest and neck area. The surface is worn and uneven, making many lines hard to distinguish.",
+        "avian": {
+          "answer": "uncertain",
+          "evidence": "Some faint incised shapes near the upper chest could be read as animal-like, but no clear bird head or beak is reliably visible on the carved surface in the first photograph.",
+          "box": null
+        },
+        "large_face": {
+          "answer": "uncertain",
+          "evidence": "The overall upper stone form may suggest a head, but clear facial features forming a large human face are not visible enough on the main front surface.",
+          "box": null
+        },
+        "scorpion": {
+          "answer": "uncertain",
+          "evidence": "There are curving and segmented-looking incisions around the central chest area, but legs and an upturned segmented tail are not clear enough to identify a scorpion.",
+          "box": null
+        },
+        "round_motif": {
+          "answer": "present",
+          "evidence": "A distinct circular raised ring or round motif is visible near the center of the torso, separate from the small recessed ovals above.",
+          "box": [
+            0.385,
+            0.505,
+            0.56,
+            0.59
+          ]
+        },
+        "three_arches": {
+          "answer": "absent",
+          "evidence": "Although there are broad curved parallel bands below the central circle, there are not three repeated arch-topped forms arranged side by side in a row.",
+          "box": null
+        },
+        "limitations": "The stone surface is heavily worn and pitted, with shallow low-contrast carving and uneven lighting; background objects overlap visually near the right edge but were ignored."
+      }
+    },
+    {
+      "id": "hoa-low-paired-2",
+      "object": "hoa",
+      "effort": "low",
+      "views": "paired",
+      "order": 2,
+      "label": "Hoa Hakananai’a · back",
+      "image": "hoa-back-alt",
+      "path": "docs/img/case/hoa-back-alt.jpg",
+      "second_path": "docs/img/case/hoa-back.jpg",
+      "status": "complete",
+      "cells": {
+        "avian": {
+          "expected": "present",
+          "answer": "uncertain",
+          "outcome": "uncertain",
+          "primary": true
+        },
+        "large_face": {
+          "expected": "absent",
+          "answer": "uncertain",
+          "outcome": "uncertain",
+          "primary": true
+        },
+        "scorpion": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        },
+        "round_motif": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": false
+        },
+        "three_arches": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        }
+      },
+      "observation": {
+        "description": "The first photograph shows a tall carved stone with a broad lower body and a narrower upper head/neck area. On the visible front are shallow incised and raised lines, including paired eye-like hollows, curving bands across the lower front, a central raised circular disk, and several worn linear figures near the upper section. The surface is rough and eroded, making some details hard to read.",
+        "avian": {
+          "answer": "uncertain",
+          "evidence": "There are worn linear carvings on the upper front, but no clearly readable bird body or birdlike head/beak is visible in the first photograph.",
+          "box": null
+        },
+        "large_face": {
+          "answer": "uncertain",
+          "evidence": "The front has two eye-like hollows and curved lines that could suggest a face-like arrangement, but distinct human facial features are not clearly carved enough to identify a large human face.",
+          "box": null
+        },
+        "scorpion": {
+          "answer": "absent",
+          "evidence": "No carved figure with multiple legs and a segmented upturned tail is visible on the main stone surface.",
+          "box": null
+        },
+        "round_motif": {
+          "answer": "present",
+          "evidence": "A distinct raised circular disk is carved near the middle of the front, separate from the eye-like hollows and lower repair-like mark.",
+          "box": [
+            0.401,
+            0.535,
+            0.554,
+            0.619
+          ]
+        },
+        "three_arches": {
+          "answer": "absent",
+          "evidence": "Although there are multiple curved bands near the lower front, they are nested arcs rather than three arch-topped forms side by side in a row.",
+          "box": null
+        },
+        "limitations": "Warm lighting, erosion, rough stone texture, and shallow worn incisions make the upper carvings and possible figures difficult to interpret."
+      }
+    },
+    {
+      "id": "hoa-high-single-1",
+      "object": "hoa",
+      "effort": "high",
+      "views": "single",
+      "order": 1,
+      "label": "Hoa Hakananai’a · back",
+      "image": "hoa-back",
+      "path": "docs/img/case/hoa-back.jpg",
+      "second_path": null,
+      "status": "complete",
+      "cells": {
+        "avian": {
+          "expected": "present",
+          "answer": "absent",
+          "outcome": "wrong",
+          "primary": true
+        },
+        "large_face": {
+          "expected": "absent",
+          "answer": "uncertain",
+          "outcome": "uncertain",
+          "primary": true
+        },
+        "scorpion": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        },
+        "round_motif": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": false
+        },
+        "three_arches": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        }
+      },
+      "observation": {
+        "description": "The main stone surface shows shallow, weathered relief with a block-like upper section over a broader front panel. On the broader panel there are two round depressions, a central circular disk-like carving, curving incised bands, and other faint symmetrical lines. The worn texture and uneven lighting make several details hard to separate from damage.",
+        "avian": {
+          "answer": "absent",
+          "evidence": "No clear carved bird body, bird head, or beak is visible on the main stone surface.",
+          "box": null
+        },
+        "large_face": {
+          "answer": "uncertain",
+          "evidence": "There are round depressions and curved lines that could read as face-like, but no clear large human face with definite facial features is visible.",
+          "box": null
+        },
+        "scorpion": {
+          "answer": "absent",
+          "evidence": "I do not see a scorpion form with legs or a segmented upturned tail on the carved stone surface.",
+          "box": null
+        },
+        "round_motif": {
+          "answer": "present",
+          "evidence": "A distinct circular disk-like carving is visible near the center of the broader front panel, separate from the smaller round depressions.",
+          "box": [
+            0.35,
+            0.51,
+            0.58,
+            0.63
+          ]
+        },
+        "three_arches": {
+          "answer": "absent",
+          "evidence": "Although there are broad curved bands, I do not see three distinct arch-topped forms arranged side by side in a row.",
+          "box": null
+        },
+        "limitations": "The carving is heavily worn, low-contrast, and partly shadowed; background artworks are visible but ignored."
+      }
+    },
+    {
+      "id": "hoa-high-single-2",
+      "object": "hoa",
+      "effort": "high",
+      "views": "single",
+      "order": 2,
+      "label": "Hoa Hakananai’a · back",
+      "image": "hoa-back-alt",
+      "path": "docs/img/case/hoa-back-alt.jpg",
+      "second_path": null,
+      "status": "complete",
+      "cells": {
+        "avian": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": true
+        },
+        "large_face": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": true
+        },
+        "scorpion": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        },
+        "round_motif": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": false
+        },
+        "three_arches": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        }
+      },
+      "observation": {
+        "description": "The visible stone surface is rough and rounded, with shallow incised lines across the upper and middle back. Curving grooves form looping shapes, a distinct ring-like circle near the lower middle, and broad nested curved bands below it. The top block shows vertical and angular grooves, but the visible side does not show a clear face.",
+        "avian": {
+          "answer": "present",
+          "evidence": "Worn incised figures on the upper back include pointed, beak-like projections attached to body-like outlines.",
+          "box": [
+            0.31,
+            0.43,
+            0.7,
+            0.65
+          ]
+        },
+        "large_face": {
+          "answer": "absent",
+          "evidence": "The visible head area appears to be the back or side of the head, without clear eyes, nose, and mouth facing the viewer.",
+          "box": null
+        },
+        "scorpion": {
+          "answer": "absent",
+          "evidence": "No carved form with multiple legs and a segmented upturned tail is visible.",
+          "box": null
+        },
+        "round_motif": {
+          "answer": "present",
+          "evidence": "A distinct circular ring-like carving is visible near the lower middle of the stone surface.",
+          "box": [
+            0.39,
+            0.53,
+            0.54,
+            0.64
+          ]
+        },
+        "three_arches": {
+          "answer": "absent",
+          "evidence": "There are broad curved bands, but not three arch-topped forms arranged side by side in a row.",
+          "box": null
+        },
+        "limitations": "Warm lighting, erosion, rough stone texture, and shallow worn incisions make some carved outlines difficult to read precisely."
+      }
+    },
+    {
+      "id": "hoa-high-paired-1",
+      "object": "hoa",
+      "effort": "high",
+      "views": "paired",
+      "order": 1,
+      "label": "Hoa Hakananai’a · back",
+      "image": "hoa-back",
+      "path": "docs/img/case/hoa-back.jpg",
+      "second_path": "docs/img/case/hoa-back-alt.jpg",
+      "status": "complete",
+      "cells": {
+        "avian": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": true
+        },
+        "large_face": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": true
+        },
+        "scorpion": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        },
+        "round_motif": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": false
+        },
+        "three_arches": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        }
+      },
+      "observation": {
+        "description": "The visible stone surface shows a tall, worn figure seen from the back, with shallow incised and raised carvings on the upper back and torso. A distinct circular motif sits near the center of the torso above several broad curved bands, with other faint curving figures and lines around it.",
+        "avian": {
+          "answer": "present",
+          "evidence": "Worn incised figures around the upper torso include curved, beak-like heads and body lines, especially around the area above and beside the central circular motif.",
+          "box": [
+            0.28,
+            0.38,
+            0.68,
+            0.61
+          ]
+        },
+        "large_face": {
+          "answer": "absent",
+          "evidence": "The main surface shows the back of a head/body; no large front-facing or oblique human face with facial features is visible.",
+          "box": null
+        },
+        "scorpion": {
+          "answer": "absent",
+          "evidence": "No clear carved scorpion with legs or a segmented upturned tail is visible on the main stone surface.",
+          "box": null
+        },
+        "round_motif": {
+          "answer": "present",
+          "evidence": "A clear raised circular/round motif is visible near the center of the torso, separate from the small holes and not an eye or nostril.",
+          "box": [
+            0.36,
+            0.5,
+            0.56,
+            0.62
+          ]
+        },
+        "three_arches": {
+          "answer": "absent",
+          "evidence": "There are several broad curved bands, but not three repeated arch-topped forms arranged side by side in one row.",
+          "box": null
+        },
+        "limitations": "The stone is heavily worn and unevenly lit, and many incised lines are shallow or eroded, making some figure outlines difficult to read."
+      }
+    },
+    {
+      "id": "hoa-high-paired-2",
+      "object": "hoa",
+      "effort": "high",
+      "views": "paired",
+      "order": 2,
+      "label": "Hoa Hakananai’a · back",
+      "image": "hoa-back-alt",
+      "path": "docs/img/case/hoa-back-alt.jpg",
+      "second_path": "docs/img/case/hoa-back.jpg",
+      "status": "complete",
+      "cells": {
+        "avian": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": true
+        },
+        "large_face": {
+          "expected": "absent",
+          "answer": "uncertain",
+          "outcome": "uncertain",
+          "primary": true
+        },
+        "scorpion": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        },
+        "round_motif": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": false
+        },
+        "three_arches": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        }
+      },
+      "observation": {
+        "description": "The visible stone surface has weathered incised and low-relief lines over a blocky upright form, with faint vertical grooves and narrow shapes on the upper portion. On the broader lower surface there are two dark oval depressions, curling incised lines, a distinct raised circular motif near the center, and several broad curved bands below it.",
+        "avian": {
+          "answer": "present",
+          "evidence": "A faint incised figure on the upper-middle back has a hooked, beak-like head with an elongated body/limb-like lines.",
+          "box": [
+            0.43,
+            0.31,
+            0.58,
+            0.48
+          ]
+        },
+        "large_face": {
+          "answer": "uncertain",
+          "evidence": "The lower carvings have a face-like arrangement of paired hollows, a central circle, and curved bands, but the features are too abstract and weathered to identify clearly as a human face.",
+          "box": null
+        },
+        "scorpion": {
+          "answer": "absent",
+          "evidence": "No carved form with multiple legs and a segmented upturned tail is visible on the stone surface.",
+          "box": null
+        },
+        "round_motif": {
+          "answer": "present",
+          "evidence": "A distinct raised circular ring-like motif is carved in the middle of the broad lower surface.",
+          "box": [
+            0.39,
+            0.53,
+            0.56,
+            0.64
+          ]
+        },
+        "three_arches": {
+          "answer": "absent",
+          "evidence": "The visible arcing bands are concentric curves, not three separate arch-topped forms arranged side by side in a row.",
+          "box": null
+        },
+        "limitations": "The carving is heavily weathered, low contrast, and partly obscured by uneven lighting and surface texture, making some incised figures difficult to read."
+      }
+    },
+    {
+      "id": "boulder-low-single-1",
+      "object": "boulder",
+      "effort": "low",
+      "views": "single",
+      "order": 1,
+      "label": "Orongo boulder",
+      "image": "boulder-1919",
+      "path": "docs/img/case/orongo-1919.jpg",
+      "second_path": null,
+      "status": "complete",
+      "cells": {
+        "avian": {
+          "expected": "present",
+          "answer": "uncertain",
+          "outcome": "uncertain",
+          "primary": true
+        },
+        "large_face": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        },
+        "scorpion": {
+          "expected": "absent",
+          "answer": "uncertain",
+          "outcome": "uncertain",
+          "primary": false
+        },
+        "round_motif": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": false
+        },
+        "three_arches": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        }
+      },
+      "observation": {
+        "description": "The visible carving shows a low-relief animal-like or composite figure facing right, with a rounded body, a neck/head area, and a prominent circular eye-like depression near the upper right. Curving segmented forms appear along the right edge and lower right, while surface wear and high contrast obscure some details.",
+        "avian": {
+          "answer": "uncertain",
+          "evidence": "The right-facing head has a projecting snout or beak-like form, but it is too worn and ambiguous to identify clearly as birdlike.",
+          "box": null
+        },
+        "large_face": {
+          "answer": "absent",
+          "evidence": "No large human face with clear facial features is visible on the main carved surface.",
+          "box": null
+        },
+        "scorpion": {
+          "answer": "uncertain",
+          "evidence": "There are segmented curved forms on the right side that could suggest a tail or appendages, but legs and a definite scorpion body are not clear.",
+          "box": null
+        },
+        "round_motif": {
+          "answer": "present",
+          "evidence": "A distinct circular carved depression or ring is visible near the upper right of the figure, separate from any confirmed facial interpretation.",
+          "box": [
+            0.627,
+            0.122,
+            0.69,
+            0.239
+          ]
+        },
+        "three_arches": {
+          "answer": "absent",
+          "evidence": "There is no row of three repeated arch-topped forms visible.",
+          "box": null
+        },
+        "limitations": "The photograph is high-contrast black and white, with glare, shadow, rough stone texture, and worn or broken edges making several carved lines ambiguous."
+      }
+    },
+    {
+      "id": "boulder-low-single-2",
+      "object": "boulder",
+      "effort": "low",
+      "views": "single",
+      "order": 2,
+      "label": "Orongo boulder",
+      "image": "boulder-modern",
+      "path": "docs/img/inputs/bird-figure.jpeg",
+      "second_path": null,
+      "status": "complete",
+      "cells": {
+        "avian": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": true
+        },
+        "large_face": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        },
+        "scorpion": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        },
+        "round_motif": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": false
+        },
+        "three_arches": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        }
+      },
+      "observation": {
+        "description": "The visible carved/painted design on the stone shows a dark animal-like figure in profile with a rounded body, bent legs, and a long projecting head or beak. Near the head is a separate rounded/circular dark motif with adjacent curved strokes, while another ring-like circle appears near the top of the head area.",
+        "avian": {
+          "answer": "present",
+          "evidence": "A profile figure has a distinctly long pointed beak-like head and birdlike outline, despite an animal-like body.",
+          "box": [
+            0.12,
+            0.08,
+            0.83,
+            0.9
+          ]
+        },
+        "large_face": {
+          "answer": "absent",
+          "evidence": "No large human face with facial features is visible on the main stone surface.",
+          "box": null
+        },
+        "scorpion": {
+          "answer": "absent",
+          "evidence": "There is no clear scorpion form with multiple legs and a segmented upturned tail.",
+          "box": null
+        },
+        "round_motif": {
+          "answer": "present",
+          "evidence": "A distinct circular ring motif is visible near the upper head area, separate from an eye interpretation.",
+          "box": [
+            0.56,
+            0.07,
+            0.66,
+            0.19
+          ]
+        },
+        "three_arches": {
+          "answer": "absent",
+          "evidence": "There are not three repeated arch-topped forms arranged side by side.",
+          "box": null
+        },
+        "limitations": "The carving is high-contrast but worn and irregular; some dark areas may be pigment or shadow, making exact boundaries and identification uncertain."
+      }
+    },
+    {
+      "id": "boulder-low-paired-1",
+      "object": "boulder",
+      "effort": "low",
+      "views": "paired",
+      "order": 1,
+      "label": "Orongo boulder",
+      "image": "boulder-1919",
+      "path": "docs/img/case/orongo-1919.jpg",
+      "second_path": "docs/img/inputs/bird-figure.jpeg",
+      "status": "complete",
+      "cells": {
+        "avian": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": true
+        },
+        "large_face": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        },
+        "scorpion": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        },
+        "round_motif": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": false
+        },
+        "three_arches": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        }
+      },
+      "observation": {
+        "description": "The first photograph shows a rough oval stone with a dark painted or carved figure in profile across the surface. The figure has a rounded body, bent limbs, a head at the upper right with a circular eye-like hollow, and a long projecting beak- or snout-like form curving down toward the right; several curved grooves appear near the lower right.",
+        "avian": {
+          "answer": "present",
+          "evidence": "The main figure has a birdlike head with a long beak-like projection visible in profile at the upper right.",
+          "box": [
+            0.55,
+            0.12,
+            0.93,
+            0.73
+          ]
+        },
+        "large_face": {
+          "answer": "absent",
+          "evidence": "No large human face with recognizable facial features is visible on the main surface; the visible head is profile-like and bird/animal-like rather than a human face.",
+          "box": null
+        },
+        "scorpion": {
+          "answer": "absent",
+          "evidence": "There is no clear scorpion form with multiple legs and a segmented upturned tail.",
+          "box": null
+        },
+        "round_motif": {
+          "answer": "present",
+          "evidence": "A distinct circular carved/painted ring appears near the top of the head area, separate from the main outlines; although it could function as an eye, it is visibly a round motif, but eyes are excluded, so another small round form near the lower right is used.",
+          "box": [
+            0.73,
+            0.64,
+            0.8,
+            0.78
+          ]
+        },
+        "three_arches": {
+          "answer": "absent",
+          "evidence": "There are no three repeated arch-topped forms arranged side by side in a row.",
+          "box": null
+        },
+        "limitations": "The first image is high-contrast black and white with glare, shadow, and worn rough texture, making it hard to separate carving, paint, and damage. Some outlines are ambiguous, especially around the head and lower right curved details."
+      }
+    },
+    {
+      "id": "boulder-low-paired-2",
+      "object": "boulder",
+      "effort": "low",
+      "views": "paired",
+      "order": 2,
+      "label": "Orongo boulder",
+      "image": "boulder-modern",
+      "path": "docs/img/inputs/bird-figure.jpeg",
+      "second_path": "docs/img/case/orongo-1919.jpg",
+      "status": "complete",
+      "cells": {
+        "avian": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": true
+        },
+        "large_face": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        },
+        "scorpion": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        },
+        "round_motif": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": false
+        },
+        "three_arches": {
+          "expected": "absent",
+          "answer": "uncertain",
+          "outcome": "uncertain",
+          "primary": false
+        }
+      },
+      "observation": {
+        "description": "The first photograph shows an oval stone with a dark painted or shadowed relief-like carving of a crouching creature in profile. It has a rounded body, bent limbs, a small head with a circular eye, and a long curved beak- or snout-like projection reaching toward a separate set of curved marks and a circular element on the right.",
+        "avian": {
+          "answer": "present",
+          "evidence": "The figure has a clearly birdlike head with a long curved beak and a circular eye, attached to an animal-like body.",
+          "box": [
+            0.14,
+            0.12,
+            0.83,
+            0.87
+          ]
+        },
+        "large_face": {
+          "answer": "absent",
+          "evidence": "No large human face with facial features is visible on the main surface; the visible head is animal or birdlike, not human.",
+          "box": null
+        },
+        "scorpion": {
+          "answer": "absent",
+          "evidence": "There is no clear scorpion form with multiple legs and a segmented upturned tail.",
+          "box": null
+        },
+        "round_motif": {
+          "answer": "present",
+          "evidence": "A distinct circular ring appears to the right of the beak among the curved carved marks, separate from the figure's eye.",
+          "box": [
+            0.66,
+            0.49,
+            0.74,
+            0.63
+          ]
+        },
+        "three_arches": {
+          "answer": "uncertain",
+          "evidence": "There are several curved repeated marks on the right, but they are not clearly three arch-topped forms arranged side by side in a row.",
+          "box": null
+        },
+        "limitations": "The photograph is low contrast and appears monochrome, with dark coating or shadow emphasizing some grooves; surface wear and rough texture make it difficult to separate carving from stain or damage."
+      }
+    },
+    {
+      "id": "boulder-high-single-1",
+      "object": "boulder",
+      "effort": "high",
+      "views": "single",
+      "order": 1,
+      "label": "Orongo boulder",
+      "image": "boulder-1919",
+      "path": "docs/img/case/orongo-1919.jpg",
+      "second_path": null,
+      "status": "complete",
+      "cells": {
+        "avian": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": true
+        },
+        "large_face": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        },
+        "scorpion": {
+          "expected": "absent",
+          "answer": "present",
+          "outcome": "wrong",
+          "primary": false
+        },
+        "round_motif": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": false
+        },
+        "three_arches": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        }
+      },
+      "observation": {
+        "description": "The relief shows a worn, pale raised figure stretching horizontally, with a large rounded body at the left and a head-like area at the upper right with a circular eye and projecting beak- or snout-like form. On the right side there is a separate-looking curved segmented form with small adjoining raised shapes, and a rounded disk-like element near the lower right. The carving is heavily abraded and the black-and-white photograph has strong shadows, so some boundaries are hard to separate.",
+        "avian": {
+          "answer": "present",
+          "evidence": "A large carved figure has a birdlike head with a round eye and projecting beak-like front, attached to a larger body.",
+          "box": [
+            0.1,
+            0.07,
+            0.82,
+            0.86
+          ]
+        },
+        "large_face": {
+          "answer": "absent",
+          "evidence": "No large human face with recognizable facial features is visible on the main carved surface.",
+          "box": null
+        },
+        "scorpion": {
+          "answer": "present",
+          "evidence": "At the right is a curved segmented appendage and clustered body/leg-like raised forms resembling a scorpion with an upturned tail.",
+          "box": [
+            0.63,
+            0.25,
+            0.95,
+            0.8
+          ]
+        },
+        "round_motif": {
+          "answer": "present",
+          "evidence": "There is a distinct rounded disk-like carved form near the lower right, separate from the eye at the upper right.",
+          "box": [
+            0.73,
+            0.62,
+            0.8,
+            0.75
+          ]
+        },
+        "three_arches": {
+          "answer": "absent",
+          "evidence": "I do not see three repeated arch-topped forms arranged side by side in a row.",
+          "box": null
+        },
+        "limitations": "The relief is worn and partly washed out by glare, with deep shadows and low photographic resolution obscuring fine lines and making some adjoining forms difficult to distinguish."
+      }
+    },
+    {
+      "id": "boulder-high-single-2",
+      "object": "boulder",
+      "effort": "high",
+      "views": "single",
+      "order": 2,
+      "label": "Orongo boulder",
+      "image": "boulder-modern",
+      "path": "docs/img/inputs/bird-figure.jpeg",
+      "second_path": null,
+      "status": "complete",
+      "cells": {
+        "avian": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": true
+        },
+        "large_face": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        },
+        "scorpion": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        },
+        "round_motif": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": false
+        },
+        "three_arches": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        }
+      },
+      "observation": {
+        "description": "The visible surface shows a dark carved or painted figure with a bulky body, bent legs, a rounded head, and a long curved beak-like projection pointing down toward the right. Near the beak are several smaller dark curving marks, including a separate circular ring-like mark on the lower right area. The stone surface is rough and uneven, so some edges of the carving are indistinct.",
+        "avian": {
+          "answer": "present",
+          "evidence": "A main figure has a rounded head with a long curved beak-like projection and a body with limb-like forms.",
+          "box": [
+            0.08,
+            0.09,
+            0.79,
+            0.82
+          ]
+        },
+        "large_face": {
+          "answer": "absent",
+          "evidence": "No large human face with facial features is visible on the main surface.",
+          "box": null
+        },
+        "scorpion": {
+          "answer": "absent",
+          "evidence": "There is no clear scorpion form with multiple legs or a segmented upturned tail.",
+          "box": null
+        },
+        "round_motif": {
+          "answer": "present",
+          "evidence": "A distinct circular ring-like mark appears near the lower right of the carved design, separate from the birdlike head's eye.",
+          "box": [
+            0.65,
+            0.47,
+            0.73,
+            0.61
+          ]
+        },
+        "three_arches": {
+          "answer": "absent",
+          "evidence": "There are not three repeated arch-topped forms arranged side by side in a row.",
+          "box": null
+        },
+        "limitations": "The image is grainy and high-contrast, and the rough stone surface and worn edges make some carved lines difficult to read."
+      }
+    },
+    {
+      "id": "boulder-high-paired-1",
+      "object": "boulder",
+      "effort": "high",
+      "views": "paired",
+      "order": 1,
+      "label": "Orongo boulder",
+      "image": "boulder-1919",
+      "path": "docs/img/case/orongo-1919.jpg",
+      "second_path": "docs/img/inputs/bird-figure.jpeg",
+      "status": "complete",
+      "cells": {
+        "avian": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": true
+        },
+        "large_face": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        },
+        "scorpion": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        },
+        "round_motif": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": false
+        },
+        "three_arches": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        }
+      },
+      "observation": {
+        "description": "The first photograph shows an oval stone surface with a high-contrast carved figure spanning most of it. The figure has a rounded body to the left, bent limb-like forms below, and a head at the upper right with a circular eye and a projecting hooked beak. A separate small circular form is visible near the lower right part of the figure.",
+        "avian": {
+          "answer": "present",
+          "evidence": "A birdlike head with a round eye and projecting hooked beak is visible at the upper right, attached to a larger body.",
+          "box": [
+            0.11,
+            0.08,
+            0.92,
+            0.89
+          ]
+        },
+        "large_face": {
+          "answer": "absent",
+          "evidence": "No large human face with human facial features is visible; the prominent head appears birdlike rather than human.",
+          "box": null
+        },
+        "scorpion": {
+          "answer": "absent",
+          "evidence": "I do not see a distinct scorpion with legs or a segmented upturned tail on the visible carved surface.",
+          "box": null
+        },
+        "round_motif": {
+          "answer": "present",
+          "evidence": "Besides the eye, there is a distinct small round/circular carved form near the lower right of the figure.",
+          "box": [
+            0.73,
+            0.59,
+            0.81,
+            0.72
+          ]
+        },
+        "three_arches": {
+          "answer": "absent",
+          "evidence": "There is no row of three repeated arch-topped forms visible.",
+          "box": null
+        },
+        "limitations": "The first photograph is very high contrast and worn, with glare and rough texture obscuring some carved lines; the second photograph helps clarify the birdlike beak and circular forms but does not add features outside the first image."
+      }
+    },
+    {
+      "id": "boulder-high-paired-2",
+      "object": "boulder",
+      "effort": "high",
+      "views": "paired",
+      "order": 2,
+      "label": "Orongo boulder",
+      "image": "boulder-modern",
+      "path": "docs/img/inputs/bird-figure.jpeg",
+      "second_path": "docs/img/case/orongo-1919.jpg",
+      "status": "complete",
+      "cells": {
+        "avian": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": true
+        },
+        "large_face": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        },
+        "scorpion": {
+          "expected": "absent",
+          "answer": "absent",
+          "outcome": "correct",
+          "primary": false
+        },
+        "round_motif": {
+          "expected": "present",
+          "answer": "present",
+          "outcome": "correct",
+          "primary": false
+        },
+        "three_arches": {
+          "expected": "absent",
+          "answer": "uncertain",
+          "outcome": "uncertain",
+          "primary": false
+        }
+      },
+      "observation": {
+        "description": "The visible carving shows a dark crouching figure facing right, with a long downward-curving beak-like head, a circular eye, a rounded body, and bent limbs. In front of the beak and lower right side there is a separate cluster of curved dark lines with a distinct circular ring-like element.",
+        "avian": {
+          "answer": "present",
+          "evidence": "The main figure has a clearly birdlike head with a long curved beak and a circular eye, attached to a crouched body.",
+          "box": [
+            0.08,
+            0.07,
+            0.84,
+            0.86
+          ]
+        },
+        "large_face": {
+          "answer": "absent",
+          "evidence": "No large human face with eyes, nose, and mouth is visible on the main carved surface; the prominent head is birdlike.",
+          "box": null
+        },
+        "scorpion": {
+          "answer": "absent",
+          "evidence": "I do not see a recognizable scorpion body with multiple legs or a segmented upturned tail.",
+          "box": null
+        },
+        "round_motif": {
+          "answer": "present",
+          "evidence": "Besides the birdlike figure’s eye, there is a distinct circular ring-like element in the lower right cluster near the beak.",
+          "box": [
+            0.67,
+            0.44,
+            0.77,
+            0.61
+          ]
+        },
+        "three_arches": {
+          "answer": "uncertain",
+          "evidence": "There are several curved parallel marks near the right side, but they are not clearly three separate arch-topped forms arranged in a row.",
+          "box": null
+        },
+        "limitations": "The photograph is low-contrast and appears to have dark highlighting over a rough stone surface, making some incised details hard to separate from shadow or pigment."
+      }
+    }
+  ],
+  "transitions": [
+    {
+      "factor": "views",
+      "fixed": "low",
+      "object": "p43",
+      "order": 1,
+      "feature": "avian",
+      "primary": true,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "low",
+      "object": "p43",
+      "order": 1,
+      "feature": "large_face",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "low",
+      "object": "p43",
+      "order": 1,
+      "feature": "scorpion",
+      "primary": true,
+      "before": "wrong",
+      "after": "uncertain",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "low",
+      "object": "p43",
+      "order": 1,
+      "feature": "round_motif",
+      "primary": false,
+      "before": "wrong",
+      "after": "correct",
+      "change": "improved"
+    },
+    {
+      "factor": "views",
+      "fixed": "low",
+      "object": "p43",
+      "order": 1,
+      "feature": "three_arches",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "low",
+      "object": "p43",
+      "order": 2,
+      "feature": "avian",
+      "primary": true,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "low",
+      "object": "p43",
+      "order": 2,
+      "feature": "large_face",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "low",
+      "object": "p43",
+      "order": 2,
+      "feature": "scorpion",
+      "primary": true,
+      "before": "uncertain",
+      "after": "wrong",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "low",
+      "object": "p43",
+      "order": 2,
+      "feature": "round_motif",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "low",
+      "object": "p43",
+      "order": 2,
+      "feature": "three_arches",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "high",
+      "object": "p43",
+      "order": 1,
+      "feature": "avian",
+      "primary": true,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "high",
+      "object": "p43",
+      "order": 1,
+      "feature": "large_face",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "high",
+      "object": "p43",
+      "order": 1,
+      "feature": "scorpion",
+      "primary": true,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "high",
+      "object": "p43",
+      "order": 1,
+      "feature": "round_motif",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "high",
+      "object": "p43",
+      "order": 1,
+      "feature": "three_arches",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "high",
+      "object": "p43",
+      "order": 2,
+      "feature": "avian",
+      "primary": true,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "high",
+      "object": "p43",
+      "order": 2,
+      "feature": "large_face",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "high",
+      "object": "p43",
+      "order": 2,
+      "feature": "scorpion",
+      "primary": true,
+      "before": "uncertain",
+      "after": "correct",
+      "change": "improved"
+    },
+    {
+      "factor": "views",
+      "fixed": "high",
+      "object": "p43",
+      "order": 2,
+      "feature": "round_motif",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "high",
+      "object": "p43",
+      "order": 2,
+      "feature": "three_arches",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "low",
+      "object": "hoa",
+      "order": 1,
+      "feature": "avian",
+      "primary": true,
+      "before": "wrong",
+      "after": "uncertain",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "low",
+      "object": "hoa",
+      "order": 1,
+      "feature": "large_face",
+      "primary": true,
+      "before": "wrong",
+      "after": "uncertain",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "low",
+      "object": "hoa",
+      "order": 1,
+      "feature": "scorpion",
+      "primary": false,
+      "before": "correct",
+      "after": "uncertain",
+      "change": "worsened"
+    },
+    {
+      "factor": "views",
+      "fixed": "low",
+      "object": "hoa",
+      "order": 1,
+      "feature": "round_motif",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "low",
+      "object": "hoa",
+      "order": 1,
+      "feature": "three_arches",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "low",
+      "object": "hoa",
+      "order": 2,
+      "feature": "avian",
+      "primary": true,
+      "before": "wrong",
+      "after": "uncertain",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "low",
+      "object": "hoa",
+      "order": 2,
+      "feature": "large_face",
+      "primary": true,
+      "before": "wrong",
+      "after": "uncertain",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "low",
+      "object": "hoa",
+      "order": 2,
+      "feature": "scorpion",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "low",
+      "object": "hoa",
+      "order": 2,
+      "feature": "round_motif",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "low",
+      "object": "hoa",
+      "order": 2,
+      "feature": "three_arches",
+      "primary": false,
+      "before": "wrong",
+      "after": "correct",
+      "change": "improved"
+    },
+    {
+      "factor": "views",
+      "fixed": "high",
+      "object": "hoa",
+      "order": 1,
+      "feature": "avian",
+      "primary": true,
+      "before": "wrong",
+      "after": "correct",
+      "change": "improved"
+    },
+    {
+      "factor": "views",
+      "fixed": "high",
+      "object": "hoa",
+      "order": 1,
+      "feature": "large_face",
+      "primary": true,
+      "before": "uncertain",
+      "after": "correct",
+      "change": "improved"
+    },
+    {
+      "factor": "views",
+      "fixed": "high",
+      "object": "hoa",
+      "order": 1,
+      "feature": "scorpion",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "high",
+      "object": "hoa",
+      "order": 1,
+      "feature": "round_motif",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "high",
+      "object": "hoa",
+      "order": 1,
+      "feature": "three_arches",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "high",
+      "object": "hoa",
+      "order": 2,
+      "feature": "avian",
+      "primary": true,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "high",
+      "object": "hoa",
+      "order": 2,
+      "feature": "large_face",
+      "primary": true,
+      "before": "correct",
+      "after": "uncertain",
+      "change": "worsened"
+    },
+    {
+      "factor": "views",
+      "fixed": "high",
+      "object": "hoa",
+      "order": 2,
+      "feature": "scorpion",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "high",
+      "object": "hoa",
+      "order": 2,
+      "feature": "round_motif",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "high",
+      "object": "hoa",
+      "order": 2,
+      "feature": "three_arches",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "low",
+      "object": "boulder",
+      "order": 1,
+      "feature": "avian",
+      "primary": true,
+      "before": "uncertain",
+      "after": "correct",
+      "change": "improved"
+    },
+    {
+      "factor": "views",
+      "fixed": "low",
+      "object": "boulder",
+      "order": 1,
+      "feature": "large_face",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "low",
+      "object": "boulder",
+      "order": 1,
+      "feature": "scorpion",
+      "primary": false,
+      "before": "uncertain",
+      "after": "correct",
+      "change": "improved"
+    },
+    {
+      "factor": "views",
+      "fixed": "low",
+      "object": "boulder",
+      "order": 1,
+      "feature": "round_motif",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "low",
+      "object": "boulder",
+      "order": 1,
+      "feature": "three_arches",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "low",
+      "object": "boulder",
+      "order": 2,
+      "feature": "avian",
+      "primary": true,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "low",
+      "object": "boulder",
+      "order": 2,
+      "feature": "large_face",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "low",
+      "object": "boulder",
+      "order": 2,
+      "feature": "scorpion",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "low",
+      "object": "boulder",
+      "order": 2,
+      "feature": "round_motif",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "low",
+      "object": "boulder",
+      "order": 2,
+      "feature": "three_arches",
+      "primary": false,
+      "before": "correct",
+      "after": "uncertain",
+      "change": "worsened"
+    },
+    {
+      "factor": "views",
+      "fixed": "high",
+      "object": "boulder",
+      "order": 1,
+      "feature": "avian",
+      "primary": true,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "high",
+      "object": "boulder",
+      "order": 1,
+      "feature": "large_face",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "high",
+      "object": "boulder",
+      "order": 1,
+      "feature": "scorpion",
+      "primary": false,
+      "before": "wrong",
+      "after": "correct",
+      "change": "improved"
+    },
+    {
+      "factor": "views",
+      "fixed": "high",
+      "object": "boulder",
+      "order": 1,
+      "feature": "round_motif",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "high",
+      "object": "boulder",
+      "order": 1,
+      "feature": "three_arches",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "high",
+      "object": "boulder",
+      "order": 2,
+      "feature": "avian",
+      "primary": true,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "high",
+      "object": "boulder",
+      "order": 2,
+      "feature": "large_face",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "high",
+      "object": "boulder",
+      "order": 2,
+      "feature": "scorpion",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "high",
+      "object": "boulder",
+      "order": 2,
+      "feature": "round_motif",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "views",
+      "fixed": "high",
+      "object": "boulder",
+      "order": 2,
+      "feature": "three_arches",
+      "primary": false,
+      "before": "correct",
+      "after": "uncertain",
+      "change": "worsened"
+    },
+    {
+      "factor": "effort",
+      "fixed": "single",
+      "object": "p43",
+      "order": 1,
+      "feature": "avian",
+      "primary": true,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "single",
+      "object": "p43",
+      "order": 1,
+      "feature": "large_face",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "single",
+      "object": "p43",
+      "order": 1,
+      "feature": "scorpion",
+      "primary": true,
+      "before": "wrong",
+      "after": "correct",
+      "change": "improved"
+    },
+    {
+      "factor": "effort",
+      "fixed": "single",
+      "object": "p43",
+      "order": 1,
+      "feature": "round_motif",
+      "primary": false,
+      "before": "wrong",
+      "after": "correct",
+      "change": "improved"
+    },
+    {
+      "factor": "effort",
+      "fixed": "single",
+      "object": "p43",
+      "order": 1,
+      "feature": "three_arches",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "single",
+      "object": "p43",
+      "order": 2,
+      "feature": "avian",
+      "primary": true,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "single",
+      "object": "p43",
+      "order": 2,
+      "feature": "large_face",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "single",
+      "object": "p43",
+      "order": 2,
+      "feature": "scorpion",
+      "primary": true,
+      "before": "uncertain",
+      "after": "uncertain",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "single",
+      "object": "p43",
+      "order": 2,
+      "feature": "round_motif",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "single",
+      "object": "p43",
+      "order": 2,
+      "feature": "three_arches",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "paired",
+      "object": "p43",
+      "order": 1,
+      "feature": "avian",
+      "primary": true,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "paired",
+      "object": "p43",
+      "order": 1,
+      "feature": "large_face",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "paired",
+      "object": "p43",
+      "order": 1,
+      "feature": "scorpion",
+      "primary": true,
+      "before": "uncertain",
+      "after": "correct",
+      "change": "improved"
+    },
+    {
+      "factor": "effort",
+      "fixed": "paired",
+      "object": "p43",
+      "order": 1,
+      "feature": "round_motif",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "paired",
+      "object": "p43",
+      "order": 1,
+      "feature": "three_arches",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "paired",
+      "object": "p43",
+      "order": 2,
+      "feature": "avian",
+      "primary": true,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "paired",
+      "object": "p43",
+      "order": 2,
+      "feature": "large_face",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "paired",
+      "object": "p43",
+      "order": 2,
+      "feature": "scorpion",
+      "primary": true,
+      "before": "wrong",
+      "after": "correct",
+      "change": "improved"
+    },
+    {
+      "factor": "effort",
+      "fixed": "paired",
+      "object": "p43",
+      "order": 2,
+      "feature": "round_motif",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "paired",
+      "object": "p43",
+      "order": 2,
+      "feature": "three_arches",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "single",
+      "object": "hoa",
+      "order": 1,
+      "feature": "avian",
+      "primary": true,
+      "before": "wrong",
+      "after": "wrong",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "single",
+      "object": "hoa",
+      "order": 1,
+      "feature": "large_face",
+      "primary": true,
+      "before": "wrong",
+      "after": "uncertain",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "single",
+      "object": "hoa",
+      "order": 1,
+      "feature": "scorpion",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "single",
+      "object": "hoa",
+      "order": 1,
+      "feature": "round_motif",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "single",
+      "object": "hoa",
+      "order": 1,
+      "feature": "three_arches",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "single",
+      "object": "hoa",
+      "order": 2,
+      "feature": "avian",
+      "primary": true,
+      "before": "wrong",
+      "after": "correct",
+      "change": "improved"
+    },
+    {
+      "factor": "effort",
+      "fixed": "single",
+      "object": "hoa",
+      "order": 2,
+      "feature": "large_face",
+      "primary": true,
+      "before": "wrong",
+      "after": "correct",
+      "change": "improved"
+    },
+    {
+      "factor": "effort",
+      "fixed": "single",
+      "object": "hoa",
+      "order": 2,
+      "feature": "scorpion",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "single",
+      "object": "hoa",
+      "order": 2,
+      "feature": "round_motif",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "single",
+      "object": "hoa",
+      "order": 2,
+      "feature": "three_arches",
+      "primary": false,
+      "before": "wrong",
+      "after": "correct",
+      "change": "improved"
+    },
+    {
+      "factor": "effort",
+      "fixed": "paired",
+      "object": "hoa",
+      "order": 1,
+      "feature": "avian",
+      "primary": true,
+      "before": "uncertain",
+      "after": "correct",
+      "change": "improved"
+    },
+    {
+      "factor": "effort",
+      "fixed": "paired",
+      "object": "hoa",
+      "order": 1,
+      "feature": "large_face",
+      "primary": true,
+      "before": "uncertain",
+      "after": "correct",
+      "change": "improved"
+    },
+    {
+      "factor": "effort",
+      "fixed": "paired",
+      "object": "hoa",
+      "order": 1,
+      "feature": "scorpion",
+      "primary": false,
+      "before": "uncertain",
+      "after": "correct",
+      "change": "improved"
+    },
+    {
+      "factor": "effort",
+      "fixed": "paired",
+      "object": "hoa",
+      "order": 1,
+      "feature": "round_motif",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "paired",
+      "object": "hoa",
+      "order": 1,
+      "feature": "three_arches",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "paired",
+      "object": "hoa",
+      "order": 2,
+      "feature": "avian",
+      "primary": true,
+      "before": "uncertain",
+      "after": "correct",
+      "change": "improved"
+    },
+    {
+      "factor": "effort",
+      "fixed": "paired",
+      "object": "hoa",
+      "order": 2,
+      "feature": "large_face",
+      "primary": true,
+      "before": "uncertain",
+      "after": "uncertain",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "paired",
+      "object": "hoa",
+      "order": 2,
+      "feature": "scorpion",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "paired",
+      "object": "hoa",
+      "order": 2,
+      "feature": "round_motif",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "paired",
+      "object": "hoa",
+      "order": 2,
+      "feature": "three_arches",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "single",
+      "object": "boulder",
+      "order": 1,
+      "feature": "avian",
+      "primary": true,
+      "before": "uncertain",
+      "after": "correct",
+      "change": "improved"
+    },
+    {
+      "factor": "effort",
+      "fixed": "single",
+      "object": "boulder",
+      "order": 1,
+      "feature": "large_face",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "single",
+      "object": "boulder",
+      "order": 1,
+      "feature": "scorpion",
+      "primary": false,
+      "before": "uncertain",
+      "after": "wrong",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "single",
+      "object": "boulder",
+      "order": 1,
+      "feature": "round_motif",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "single",
+      "object": "boulder",
+      "order": 1,
+      "feature": "three_arches",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "single",
+      "object": "boulder",
+      "order": 2,
+      "feature": "avian",
+      "primary": true,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "single",
+      "object": "boulder",
+      "order": 2,
+      "feature": "large_face",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "single",
+      "object": "boulder",
+      "order": 2,
+      "feature": "scorpion",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "single",
+      "object": "boulder",
+      "order": 2,
+      "feature": "round_motif",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "single",
+      "object": "boulder",
+      "order": 2,
+      "feature": "three_arches",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "paired",
+      "object": "boulder",
+      "order": 1,
+      "feature": "avian",
+      "primary": true,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "paired",
+      "object": "boulder",
+      "order": 1,
+      "feature": "large_face",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "paired",
+      "object": "boulder",
+      "order": 1,
+      "feature": "scorpion",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "paired",
+      "object": "boulder",
+      "order": 1,
+      "feature": "round_motif",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "paired",
+      "object": "boulder",
+      "order": 1,
+      "feature": "three_arches",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "paired",
+      "object": "boulder",
+      "order": 2,
+      "feature": "avian",
+      "primary": true,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "paired",
+      "object": "boulder",
+      "order": 2,
+      "feature": "large_face",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "paired",
+      "object": "boulder",
+      "order": 2,
+      "feature": "scorpion",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "paired",
+      "object": "boulder",
+      "order": 2,
+      "feature": "round_motif",
+      "primary": false,
+      "before": "correct",
+      "after": "correct",
+      "change": "no_correctness_change"
+    },
+    {
+      "factor": "effort",
+      "fixed": "paired",
+      "object": "boulder",
+      "order": 2,
+      "feature": "three_arches",
+      "primary": false,
+      "before": "uncertain",
+      "after": "uncertain",
+      "change": "no_correctness_change"
+    }
+  ],
+  "independent_review": "not_reviewed",
+  "historical_ranking_permitted": false,
+  "protocol": "view-trial-3.0",
+  "model": "gpt-5.5-2026-04-23",
+  "frozen_at": "2026-09-19T16:05:07.810578+00:00",
+  "freeze_sha256": "972845a1b31b4b02797c0c244d3ba61bb43bb824b86999ef702482854e1cc6fe",
+  "planned_requests": 24,
+  "completed_requests": 24,
+  "estimated_cost_usd": 1.25556
+}
