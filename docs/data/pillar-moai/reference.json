@@ -1,0 +1,184 @@
+{
+  "version": "2.0",
+  "annotation_status": "AI-assembled provisional references; no independent expert review",
+  "independent_review": "not_reviewed",
+  "unit_note": "10 images; 7 surface groups; 6 objects/rock surfaces. Two groups are different sides of one moai.",
+  "images": [
+    {
+      "id": "p43",
+      "label": "Pillar 43 · first photograph",
+      "group": "p43",
+      "path": "docs/img/case/pillar43.jpg",
+      "source": "dai",
+      "expected": {
+        "avian": "present",
+        "large_face": "absent",
+        "scorpion": "present",
+        "round_motif": "present",
+        "three_arches": "present"
+      },
+      "critical": [],
+      "reference_basis": "Source description plus visual inspection of this photograph; negative answers apply only to the visible surface.",
+      "source_url": "https://www.dainst.blog/the-tepe-telegrams/2016/10/14/of-animals-and-a-headless-man-gobekli-tepe-pillar-43/"
+    },
+    {
+      "id": "p43-alt",
+      "label": "Pillar 43 · second photograph",
+      "group": "p43",
+      "path": "docs/img/case/pillar43-alt.jpg",
+      "source": "dai",
+      "expected": {
+        "avian": "present",
+        "large_face": "absent",
+        "scorpion": "present",
+        "round_motif": "present",
+        "three_arches": "present"
+      },
+      "critical": [],
+      "reference_basis": "Source description plus visual inspection of this photograph; negative answers apply only to the visible surface.",
+      "source_url": "https://www.dainst.blog/the-tepe-telegrams/2016/10/14/of-animals-and-a-headless-man-gobekli-tepe-pillar-43/"
+    },
+    {
+      "id": "hoa-back",
+      "label": "Hoa Hakananai’a · back, Miles",
+      "group": "hoa-back",
+      "path": "docs/img/case/hoa-back.jpg",
+      "source": "bm-hoa",
+      "expected": {
+        "avian": "present",
+        "large_face": "absent",
+        "scorpion": "absent",
+        "round_motif": "present",
+        "three_arches": "absent"
+      },
+      "critical": [
+        "avian",
+        "large_face"
+      ],
+      "reference_basis": "Source description plus visual inspection of this photograph; negative answers apply only to the visible surface.",
+      "source_url": "https://www.britishmuseum.org/collection/object/E_Oc1869-1005-1"
+    },
+    {
+      "id": "hoa-back-alt",
+      "label": "Hoa Hakananai’a · back, Sanjay ach",
+      "group": "hoa-back",
+      "path": "docs/img/case/hoa-back-alt.jpg",
+      "source": "bm-hoa",
+      "expected": {
+        "avian": "present",
+        "large_face": "absent",
+        "scorpion": "absent",
+        "round_motif": "present",
+        "three_arches": "absent"
+      },
+      "critical": [
+        "avian",
+        "large_face"
+      ],
+      "reference_basis": "Source description plus visual inspection of this photograph; negative answers apply only to the visible surface.",
+      "source_url": "https://www.britishmuseum.org/collection/object/E_Oc1869-1005-1"
+    },
+    {
+      "id": "hoa-front",
+      "label": "Hoa Hakananai’a · front",
+      "group": "hoa-front",
+      "path": "docs/img/motifs/hoa_front.jpg",
+      "source": "bm-hoa",
+      "expected": {
+        "avian": "absent",
+        "large_face": "present",
+        "scorpion": "absent",
+        "round_motif": "absent",
+        "three_arches": "absent"
+      },
+      "critical": [],
+      "reference_basis": "Source description plus visual inspection of this photograph; negative answers apply only to the visible surface.",
+      "source_url": "https://www.britishmuseum.org/collection/object/E_Oc1869-1005-1"
+    },
+    {
+      "id": "boulder-1919",
+      "label": "Orongo boulder · published 1919",
+      "group": "boulder",
+      "path": "docs/img/case/orongo-1919.jpg",
+      "source": "routledge",
+      "expected": {
+        "avian": "present",
+        "large_face": "absent",
+        "scorpion": "absent",
+        "round_motif": "present",
+        "three_arches": "absent"
+      },
+      "critical": [],
+      "reference_basis": "Source description plus visual inspection of this photograph; negative answers apply only to the visible surface.",
+      "source_url": "https://readingroo.ms/6/9/8/0/69807/69807-h/69807-h.htm"
+    },
+    {
+      "id": "boulder-modern",
+      "label": "Orongo boulder · supplied modern photograph",
+      "group": "boulder",
+      "path": "docs/img/inputs/bird-figure.jpeg",
+      "source": "boulder",
+      "expected": {
+        "avian": "present",
+        "large_face": "absent",
+        "scorpion": "absent",
+        "round_motif": "present",
+        "three_arches": "absent"
+      },
+      "critical": [],
+      "reference_basis": "Source description plus visual inspection of this photograph; negative answers apply only to the visible surface.",
+      "source_url": "https://artsandculture.google.com/asset/birdman-boulder/-QEzFc9ehfO2ng"
+    },
+    {
+      "id": "orongo",
+      "label": "Mata Ngarau · three birdman figures",
+      "group": "orongo",
+      "path": "docs/img/motifs/orongo.jpg",
+      "source": "routledge",
+      "expected": {
+        "avian": "present",
+        "large_face": "absent",
+        "scorpion": "absent",
+        "round_motif": null,
+        "three_arches": "absent"
+      },
+      "critical": [],
+      "reference_basis": "Source description plus visual inspection of this photograph; negative answers apply only to the visible surface.",
+      "source_url": "https://commons.wikimedia.org/wiki/File:View_of_an_in_relief_carving_of_three_birdman_figures;_Mata_Ngarau,_Oc,G.T.1647,_Mana_Expedition_to_Easter_Island,_British_Museum.jpg"
+    },
+    {
+      "id": "urfa",
+      "label": "Urfa Man · face control",
+      "group": "urfa",
+      "path": "docs/img/motifs/urfa_man.jpg",
+      "source": "visual",
+      "expected": {
+        "avian": "absent",
+        "large_face": "present",
+        "scorpion": "absent",
+        "round_motif": null,
+        "three_arches": "absent"
+      },
+      "critical": [],
+      "reference_basis": "Source description plus visual inspection of this photograph; negative answers apply only to the visible surface.",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Urfa_museum_Urfa_man_sept_2019_4711.jpg"
+    },
+    {
+      "id": "omphalos",
+      "label": "Delphi omphalos · geometric control",
+      "group": "omphalos",
+      "path": "docs/img/motifs/omphalos.jpg",
+      "source": "visual",
+      "expected": {
+        "avian": "absent",
+        "large_face": "absent",
+        "scorpion": "absent",
+        "round_motif": null,
+        "three_arches": "absent"
+      },
+      "critical": [],
+      "reference_basis": "Source description plus visual inspection of this photograph; negative answers apply only to the visible surface.",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Omphalos,_AM_of_Delphi,_201424.jpg"
+    }
+  ]
+}

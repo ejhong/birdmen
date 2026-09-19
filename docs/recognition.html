@@ -1,0 +1,490 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Can the model see the carvings? · Deep Memory</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="collection.css">
+<script src="recognition.js" defer></script>
+
+<link rel="stylesheet" href="case.css">
+<meta name="description" content="A frozen recognition diagnostic with every image, answer, mistake and model location open to inspection.">
+<meta property="og:title" content="Can the model see the carvings? · Deep Memory">
+<meta property="og:description" content="A frozen recognition diagnostic with every image, answer, mistake and model location open to inspection.">
+<meta property="og:type" content="article">
+<meta property="og:image" content="https://ejhong.github.io/birdmen/img/case/hoa-back.jpg">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+<body class="case-site"><a class="skip-link" href="#main">Skip to content</a><div class="sitebar wrap"><a class="brand" href="./">Deep Memory<span> / The research notebook</span></a><div class="site-links"><a href="pillar-and-moai.html">The case</a><a href="research-review.html">Audit</a></div></div><header class="case-heading wrap"><div class="eyebrow">New experiment / recognition 2.0</div><h1>Can the model see<br>the carvings?</h1><p class="deck">Before asking how alike two things are, check whether the observer can describe each one. A small diagnostic with every answer open to inspection.</p></header>
+<nav class="toc" aria-label="Pilot chapters"><div class="wrap"><ol><li><a href="#method">The question</a></li><li><a href="#results">All results</a></li><li><a href="#mistakes">Inspect the mistakes</a></li><li><a href="#limits">What this means</a></li><li><a href="#record">Full record</a></li></ol></div></nav>
+<main id="main">
+<section class="part" id="method"><div class="wrap essay-grid"><div><div class="eyebrow">A test of the instrument</div><h2>A small test with a specific purpose.</h2></div><div class="prose"><p>We showed GPT-5.5 ten unlabelled photographs, one at a time, in two fresh requests per photograph. We asked for a literal description and five visible features: an avian figure, a large human face, a scorpion, a standalone round motif and three arch-topped forms. “Uncertain” was an allowed answer. We did not ask about historical connection.</p><p>The images include alternate views of Pillar 43, the moai’s back and the Orongo boulder; a moai front, another Orongo carving, Urfa Man and a geometric stone provide additional checks. Ten photographs represent six objects or rock surfaces, with the moai’s two sides counted as separate views of one object.</p><p>The reference answers were assembled by AI from source records and visual inspection. They have <b>not been independently reviewed</b>. This is a diagnostic against provisional references, not expert certification or a representative accuracy benchmark.</p><p>The protocol, prompt, image checksums, answers and decision rule were frozen before the requests. Nineteen completed; one connection failure is kept in the record. No failed model answer was retried or replaced.</p><p class="source-inline"><a href="data/pillar-moai/protocol.md">Read the protocol</a> · <a href="data/pillar-moai/reference.json">Reference answers and sources</a> · <a href="data/pillar-moai/freeze.json">Dated freeze</a>.</p></div></div></section>
+<section class="part" id="results"><div class="wrap"><div class="part-head"><div class="n">Readout</div><h2>Every image, both requests.</h2></div><p class="prose">Expand an image to see its input, answers and literal descriptions. Select an answer with an arrow to display the model’s proposed location. A box is part of its answer; its correctness has not been independently scored.</p>
+<!-- recognition-results:start -->
+<div class="lab-summary"><div class="eyebrow">Frozen diagnostic · gpt-5.5</div>
+<h3>The recognition screen was not passed.</h3>
+<p><b>19 of 20 planned responses</b> completed.
+73 of 94 scorable answers matched the provisional references (77.7%, counting missing answers).
+Among received scorable answers, 73 of 89 matched (82.0%).</p>
+<p>4 wrong · 12 uncertain · 5 missing.
+The missing answers come from a request that failed with a connection error; they are not model perception errors.
+The received answers also fall below the frozen 90% threshold.</p>
+<p>Independent review: <b>not reviewed</b>.
+Historical ranking: <b>not permitted</b>. This purposive pilot does not estimate the model’s general accuracy or the resemblance’s rarity.</p></div>
+<div class="recognition-records">
+<details class="recognition-record" id="result-p43"><summary>Pillar 43 · first photograph <span>8/10 reference matches</span></summary><div class="recognition-body">
+<figure><div class="recognition-photo"><img src="img/case/pillar43.jpg" alt="Pillar 43 · first photograph" loading="lazy"><div class="model-box" hidden></div></div><figcaption>Unaltered input photograph. <a href="https://www.dainst.blog/the-tepe-telegrams/2016/10/14/of-animals-and-a-headless-man-gobekli-tepe-pillar-43/">Reference source</a>. Model boxes are unverified claims of location.</figcaption><button class="btn clear-box" type="button">Clear location box</button></figure><div>
+<table class="read-table"><thead><tr><th scope="col">Feature</th><th scope="col">Reference</th><th scope="col">Run 1</th><th scope="col">Run 2</th></tr></thead><tbody>
+<tr><th scope="row">Bird / bird-headed figure</th><td>present</td>
+<td class="outcome-correct"><button type="button" class="box-link" data-box="0.15,0.73,0.36,0.96" aria-label="Show run 1 location for Bird / bird-headed figure">present ↗</button></td>
+<td class="outcome-correct"><button type="button" class="box-link" data-box="0.18,0.76,0.38,0.97" aria-label="Show run 2 location for Bird / bird-headed figure">present ↗</button></td>
+</tr>
+<tr><th scope="row">Large human face</th><td>absent</td>
+<td class="outcome-correct">absent</td>
+<td class="outcome-correct">absent</td>
+</tr>
+<tr><th scope="row">Scorpion</th><td>present</td>
+<td class="outcome-wrong">absent</td>
+<td class="outcome-abstained">uncertain</td>
+</tr>
+<tr><th scope="row">Standalone round motif</th><td>present</td>
+<td class="outcome-correct"><button type="button" class="box-link" data-box="0.246,0.782,0.267,0.803" aria-label="Show run 1 location for Standalone round motif">present ↗</button></td>
+<td class="outcome-correct"><button type="button" class="box-link" data-box="0.245,0.77,0.275,0.795" aria-label="Show run 2 location for Standalone round motif">present ↗</button></td>
+</tr>
+<tr><th scope="row">Three arched forms</th><td>present</td>
+<td class="outcome-correct"><button type="button" class="box-link" data-box="0.056,0.031,0.753,0.256" aria-label="Show run 1 location for Three arched forms">present ↗</button></td>
+<td class="outcome-correct"><button type="button" class="box-link" data-box="0.085,0.045,0.735,0.245" aria-label="Show run 2 location for Three arched forms">present ↗</button></td>
+</tr>
+</tbody></table>
+<h4>Run 1 · complete</h4>
+<p>The main stone surface shows shallow relief carvings divided by a horizontal break, with several animal-like and abstract shapes. Along the top edge are three adjacent arch-topped rectangular forms, and below them are elongated forms including birdlike heads, bodies, limbs, and incised lines. The lower section has a large upright birdlike figure with a curved beak and other faint linear carvings, partly worn and interrupted by damage.</p>
+<details><summary>Feature explanations and limitations</summary><dl class="observation-notes">
+<dt>Bird / bird-headed figure</dt><dd>A large lower figure has a clear birdlike head with a curved beak; additional birdlike heads/forms are visible in the middle register.</dd>
+<dt>Large human face</dt><dd>No large human face with clear facial features is visible on the main carved surface; the visible faces are animal/birdlike or too small/ambiguous.</dd>
+<dt>Scorpion</dt><dd>I do not see a carved form with multiple legs and a segmented upturned tail.</dd>
+<dt>Standalone round motif</dt><dd>A distinct small circular carved mark appears on the lower birdlike figure, separate from the visible eye/beak area.</dd>
+<dt>Three arched forms</dt><dd>Three repeated arch-topped forms are arranged side by side along the upper part of the stone.</dd>
+</dl><p>The stone is worn, unevenly lit, and partly damaged or broken, making some carved lines faint and ambiguous.</p></details>
+<p class="source-inline"><a href="data/pillar-moai/raw/p43-1.json">Full saved response / request record</a></p>
+<h4>Run 2 · complete</h4>
+<p>The main stone surface shows several shallow relief carvings, including three arch-topped rectangular forms across the upper band and multiple animal- or humanlike figures below. A large birdlike profile with a long curved beak is visible near the lower left, and other elongated figures and incised lines occupy the center and right portions.</p>
+<details><summary>Feature explanations and limitations</summary><dl class="observation-notes">
+<dt>Bird / bird-headed figure</dt><dd>A clear birdlike head with a long curved beak and rounded body is carved on the lower left of the main stone surface.</dd>
+<dt>Large human face</dt><dd>No large front-facing or oblique human face with facial features is visible on the main carved surface; the visible figures are mostly profiles or abstract/animal-like forms.</dd>
+<dt>Scorpion</dt><dd>There are curved and segmented-looking incisions in the lower and middle areas, but no clearly readable scorpion with identifiable legs and an upturned segmented tail can be confirmed.</dd>
+<dt>Standalone round motif</dt><dd>A small distinct circular carved mark appears on the lower-left birdlike figure’s upper body/head area, separate from an obvious eye or nostril reading is not certain from the image.</dd>
+<dt>Three arched forms</dt><dd>Three repeated arch-topped rectangular forms are arranged side by side along the upper part of the stone.</dd>
+</dl><p>Uneven lighting, weathered stone texture, partial damage, and overlapping shallow incisions make some motifs difficult to read confidently.</p></details>
+<p class="source-inline"><a href="data/pillar-moai/raw/p43-2.json">Full saved response / request record</a></p>
+</div></div></details>
+<details class="recognition-record" id="result-p43-alt"><summary>Pillar 43 · second photograph <span>8/10 reference matches</span></summary><div class="recognition-body">
+<figure><div class="recognition-photo"><img src="img/case/pillar43-alt.jpg" alt="Pillar 43 · second photograph" loading="lazy"><div class="model-box" hidden></div></div><figcaption>Unaltered input photograph. <a href="https://www.dainst.blog/the-tepe-telegrams/2016/10/14/of-animals-and-a-headless-man-gobekli-tepe-pillar-43/">Reference source</a>. Model boxes are unverified claims of location.</figcaption><button class="btn clear-box" type="button">Clear location box</button></figure><div>
+<table class="read-table"><thead><tr><th scope="col">Feature</th><th scope="col">Reference</th><th scope="col">Run 1</th><th scope="col">Run 2</th></tr></thead><tbody>
+<tr><th scope="row">Bird / bird-headed figure</th><td>present</td>
+<td class="outcome-correct"><button type="button" class="box-link" data-box="0.27,0.73,0.48,0.93" aria-label="Show run 1 location for Bird / bird-headed figure">present ↗</button></td>
+<td class="outcome-correct"><button type="button" class="box-link" data-box="0.23,0.34,0.48,0.54" aria-label="Show run 2 location for Bird / bird-headed figure">present ↗</button></td>
+</tr>
+<tr><th scope="row">Large human face</th><td>absent</td>
+<td class="outcome-correct">absent</td>
+<td class="outcome-correct">absent</td>
+</tr>
+<tr><th scope="row">Scorpion</th><td>present</td>
+<td class="outcome-abstained">uncertain</td>
+<td class="outcome-abstained">uncertain</td>
+</tr>
+<tr><th scope="row">Standalone round motif</th><td>present</td>
+<td class="outcome-correct"><button type="button" class="box-link" data-box="0.38,0.43,0.47,0.51" aria-label="Show run 1 location for Standalone round motif">present ↗</button></td>
+<td class="outcome-correct"><button type="button" class="box-link" data-box="0.393,0.411,0.457,0.468" aria-label="Show run 2 location for Standalone round motif">present ↗</button></td>
+</tr>
+<tr><th scope="row">Three arched forms</th><td>present</td>
+<td class="outcome-correct"><button type="button" class="box-link" data-box="0.17,0.07,0.69,0.29" aria-label="Show run 1 location for Three arched forms">present ↗</button></td>
+<td class="outcome-correct"><button type="button" class="box-link" data-box="0.174,0.08,0.724,0.292" aria-label="Show run 2 location for Three arched forms">present ↗</button></td>
+</tr>
+</tbody></table>
+<h4>Run 1 · complete</h4>
+<p>The main stone surface shows shallow relief carving divided into horizontal zones, with a top row of repeated arch-topped shapes and several animal-like profile figures below. Some figures have long curved necks or hooked beak-like heads, and there are a few small round carved circles among the worn lines.</p>
+<details><summary>Feature explanations and limitations</summary><dl class="observation-notes">
+<dt>Bird / bird-headed figure</dt><dd>A profile figure with a rounded body and a distinct beak-like head is visible on the lower front of the stone.</dd>
+<dt>Large human face</dt><dd>I do not see a large human face with eyes, nose, and mouth on the main visible surface; the visible carvings are mostly animals, lines, and arch-topped forms.</dd>
+<dt>Scorpion</dt><dd>There are worn linear carvings that could be read as small segmented or leg-like forms, but I cannot clearly see a scorpion with legs and an upturned tail.</dd>
+<dt>Standalone round motif</dt><dd>A distinct small circular carved motif appears in the middle area, separate from any obvious eye or nostril.</dd>
+<dt>Three arched forms</dt><dd>The upper band shows at least three repeated arch-topped forms arranged side by side.</dd>
+</dl><p>The stone is worn and unevenly lit, and some carvings are shallow or partly obscured by the angle and surrounding stones, making fine details difficult to read.</p></details>
+<p class="source-inline"><a href="data/pillar-moai/raw/p43-alt-1.json">Full saved response / request record</a></p>
+<h4>Run 2 · complete</h4>
+<p>The main stone surface shows shallow relief carvings divided into horizontal bands. Along the upper band are several arch-topped vertical shapes; below them are animal-like figures, including birdlike profiles with beaks, and a few small circular depressions or rings. The surface is worn and partly shadowed, with the lower left partly obscured by adjacent stones.</p>
+<details><summary>Feature explanations and limitations</summary><dl class="observation-notes">
+<dt>Bird / bird-headed figure</dt><dd>Several carved figures have clear birdlike heads with curved beaks, including one on the mid-left of the upper visible panel and another lower on the slab.</dd>
+<dt>Large human face</dt><dd>I do not see a large human face with eyes, nose, and mouth on the main visible surface; the carvings are mostly animals, arch forms, and abstract marks.</dd>
+<dt>Scorpion</dt><dd>Some worn linear animal-like carvings could suggest legs or a tail, but no clearly identifiable scorpion with legs and a segmented upturned tail is visible.</dd>
+<dt>Standalone round motif</dt><dd>There is a distinct small round carved motif on the central panel, separate from facial features.</dd>
+<dt>Three arched forms</dt><dd>The top band contains repeated arch-topped vertical forms arranged side by side in a row.</dd>
+</dl><p>The relief is worn and low-contrast, lighting is uneven, and parts of the stone are obscured by rubble or the edge angle, making some figures difficult to read.</p></details>
+<p class="source-inline"><a href="data/pillar-moai/raw/p43-alt-2.json">Full saved response / request record</a></p>
+</div></div></details>
+<details class="recognition-record" id="result-hoa-back"><summary>Hoa Hakananai’a · back, Miles <span>3/10 reference matches</span></summary><div class="recognition-body">
+<figure><div class="recognition-photo"><img src="img/case/hoa-back.jpg" alt="Hoa Hakananai’a · back, Miles" loading="lazy"><div class="model-box" hidden></div></div><figcaption>Unaltered input photograph. <a href="https://www.britishmuseum.org/collection/object/E_Oc1869-1005-1">Reference source</a>. Model boxes are unverified claims of location.</figcaption><button class="btn clear-box" type="button">Clear location box</button></figure><div>
+<table class="read-table"><thead><tr><th scope="col">Feature</th><th scope="col">Reference</th><th scope="col">Run 1</th><th scope="col">Run 2</th></tr></thead><tbody>
+<tr><th scope="row">Bird / bird-headed figure</th><td>present</td>
+<td class="outcome-missing">missing</td>
+<td class="outcome-wrong">absent</td>
+</tr>
+<tr><th scope="row">Large human face</th><td>absent</td>
+<td class="outcome-missing">missing</td>
+<td class="outcome-abstained">uncertain</td>
+</tr>
+<tr><th scope="row">Scorpion</th><td>absent</td>
+<td class="outcome-missing">missing</td>
+<td class="outcome-correct">absent</td>
+</tr>
+<tr><th scope="row">Standalone round motif</th><td>present</td>
+<td class="outcome-missing">missing</td>
+<td class="outcome-correct"><button type="button" class="box-link" data-box="0.385,0.535,0.572,0.651" aria-label="Show run 2 location for Standalone round motif">present ↗</button></td>
+</tr>
+<tr><th scope="row">Three arched forms</th><td>absent</td>
+<td class="outcome-missing">missing</td>
+<td class="outcome-correct">absent</td>
+</tr>
+</tbody></table>
+<h4>Run 1 · error</h4>
+<p>No model description was received.</p>
+<p class="source-inline"><a href="data/pillar-moai/raw/hoa-back-1.json">Full saved response / request record</a></p>
+<h4>Run 2 · complete</h4>
+<p>The main stone surface shows a tall carved figure-like form with a smaller upper portion and broad lower front. On the lower front there are two deep circular depressions, a central raised circular disk, curving parallel bands below it, and shallow curved/linear incisions around them. The upper visible surface is worn and includes vertical and curved carved lines, but many details are indistinct.</p>
+<details><summary>Feature explanations and limitations</summary><dl class="observation-notes">
+<dt>Bird / bird-headed figure</dt><dd>No clearly carved bird body or birdlike head/beak is visible on the main stone surface; birdlike shapes in the background are ignored.</dd>
+<dt>Large human face</dt><dd>The broad lower area has two round depressions and a central round disk that could be read as facial features, but they are not clearly a human face and the surface is very worn.</dd>
+<dt>Scorpion</dt><dd>I do not see a carved scorpion with legs or a segmented upturned tail on the stone surface.</dd>
+<dt>Standalone round motif</dt><dd>A distinct raised circular motif is visible near the center of the lower front surface, separate from the two deep depressions.</dd>
+<dt>Three arched forms</dt><dd>There are curved parallel bands, but not three arch-topped forms arranged side by side in a row.</dd>
+</dl><p>The stone is dark, rough, and heavily worn; lighting and shadow obscure shallow incisions, and some carvings are ambiguous.</p></details>
+<p class="source-inline"><a href="data/pillar-moai/raw/hoa-back-2.json">Full saved response / request record</a></p>
+</div></div></details>
+<details class="recognition-record" id="result-hoa-back-alt"><summary>Hoa Hakananai’a · back, Sanjay ach <span>6/10 reference matches</span></summary><div class="recognition-body">
+<figure><div class="recognition-photo"><img src="img/case/hoa-back-alt.jpg" alt="Hoa Hakananai’a · back, Sanjay ach" loading="lazy"><div class="model-box" hidden></div></div><figcaption>Unaltered input photograph. <a href="https://www.britishmuseum.org/collection/object/E_Oc1869-1005-1">Reference source</a>. Model boxes are unverified claims of location.</figcaption><button class="btn clear-box" type="button">Clear location box</button></figure><div>
+<table class="read-table"><thead><tr><th scope="col">Feature</th><th scope="col">Reference</th><th scope="col">Run 1</th><th scope="col">Run 2</th></tr></thead><tbody>
+<tr><th scope="row">Bird / bird-headed figure</th><td>present</td>
+<td class="outcome-abstained">uncertain</td>
+<td class="outcome-abstained">uncertain</td>
+</tr>
+<tr><th scope="row">Large human face</th><td>absent</td>
+<td class="outcome-correct">absent</td>
+<td class="outcome-correct">absent</td>
+</tr>
+<tr><th scope="row">Scorpion</th><td>absent</td>
+<td class="outcome-abstained">uncertain</td>
+<td class="outcome-correct">absent</td>
+</tr>
+<tr><th scope="row">Standalone round motif</th><td>present</td>
+<td class="outcome-correct"><button type="button" class="box-link" data-box="0.395,0.543,0.514,0.625" aria-label="Show run 1 location for Standalone round motif">present ↗</button></td>
+<td class="outcome-correct"><button type="button" class="box-link" data-box="0.396,0.554,0.536,0.641" aria-label="Show run 2 location for Standalone round motif">present ↗</button></td>
+</tr>
+<tr><th scope="row">Three arched forms</th><td>absent</td>
+<td class="outcome-abstained">uncertain</td>
+<td class="outcome-correct">absent</td>
+</tr>
+</tbody></table>
+<h4>Run 1 · complete</h4>
+<p>The visible carved surface shows a tall rounded stone form with shallow incised lines and raised/eroded relief. Near the upper middle there are faint vertical and curved marks; across the midsection there are several small circular or oval depressions and a clearer circular ring, with broad curved band-like arcs below. The lower surface is mostly plain and worn, with one small oval mark near the bottom.</p>
+<details><summary>Feature explanations and limitations</summary><dl class="observation-notes">
+<dt>Bird / bird-headed figure</dt><dd>There are faint irregular incisions on the upper and middle surface, but no clearly readable bird body or distinct birdlike head/beak can be identified from the visible carving alone.</dd>
+<dt>Large human face</dt><dd>No large front or oblique human face with eyes, nose, and mouth is visible on the main carved surface; the visible marks are mostly abstract lines, circles, and arcs.</dd>
+<dt>Scorpion</dt><dd>Some faint curving and branching lines appear on the midsection, but legs and a segmented upturned tail are not clearly legible.</dd>
+<dt>Standalone round motif</dt><dd>A distinct carved circular ring is visible near the center of the stone surface, separate from facial features or repair marks.</dd>
+<dt>Three arched forms</dt><dd>There are broad repeated curved bands across the lower middle, but they do not clearly form three separate arch-topped forms side by side.</dd>
+</dl><p>The stone is heavily worn and unevenly lit, with shallow eroded carving and surface texture making many lines ambiguous; background objects were ignored.</p></details>
+<p class="source-inline"><a href="data/pillar-moai/raw/hoa-back-alt-1.json">Full saved response / request record</a></p>
+<h4>Run 2 · complete</h4>
+<p>The main stone surface shows a blocky upper form with shallow incised vertical and curved lines, and a broader lower surface with worn relief carving. On the lower visible surface there is a distinct circular ring-like motif near the center, flanked by shallow curved and angular marks, with several broad arcing bands below it.</p>
+<details><summary>Feature explanations and limitations</summary><dl class="observation-notes">
+<dt>Bird / bird-headed figure</dt><dd>Some shallow marks on the upper and middle surface are irregular, but I cannot clearly identify a carved bird body or a birdlike head/beak from the visible carving alone.</dd>
+<dt>Large human face</dt><dd>No large front or oblique human face with clear eyes, nose, and mouth is visible on the main carved surface; the upper block has worn lines but not a readable face.</dd>
+<dt>Scorpion</dt><dd>I do not see a carved form with multiple legs or a segmented upturned tail.</dd>
+<dt>Standalone round motif</dt><dd>A distinct circular ring-like carved motif is visible near the middle of the lower front surface, separate from facial features or repair.</dd>
+<dt>Three arched forms</dt><dd>There are broad curved bands near the lower middle, but not three repeated arch-topped forms arranged side by side in a row.</dd>
+</dl><p>The stone is heavily worn and rough, with shallow low-contrast carving and warm uneven lighting; some lines are eroded or broken, making identification uncertain.</p></details>
+<p class="source-inline"><a href="data/pillar-moai/raw/hoa-back-alt-2.json">Full saved response / request record</a></p>
+</div></div></details>
+<details class="recognition-record" id="result-hoa-front"><summary>Hoa Hakananai’a · front <span>10/10 reference matches</span></summary><div class="recognition-body">
+<figure><div class="recognition-photo"><img src="img/motifs/hoa_front.jpg" alt="Hoa Hakananai’a · front" loading="lazy"><div class="model-box" hidden></div></div><figcaption>Unaltered input photograph. <a href="https://www.britishmuseum.org/collection/object/E_Oc1869-1005-1">Reference source</a>. Model boxes are unverified claims of location.</figcaption><button class="btn clear-box" type="button">Clear location box</button></figure><div>
+<table class="read-table"><thead><tr><th scope="col">Feature</th><th scope="col">Reference</th><th scope="col">Run 1</th><th scope="col">Run 2</th></tr></thead><tbody>
+<tr><th scope="row">Bird / bird-headed figure</th><td>absent</td>
+<td class="outcome-correct">absent</td>
+<td class="outcome-correct">absent</td>
+</tr>
+<tr><th scope="row">Large human face</th><td>present</td>
+<td class="outcome-correct"><button type="button" class="box-link" data-box="0.35,0.17,0.63,0.45" aria-label="Show run 1 location for Large human face">present ↗</button></td>
+<td class="outcome-correct"><button type="button" class="box-link" data-box="0.35,0.17,0.66,0.51" aria-label="Show run 2 location for Large human face">present ↗</button></td>
+</tr>
+<tr><th scope="row">Scorpion</th><td>absent</td>
+<td class="outcome-correct">absent</td>
+<td class="outcome-correct">absent</td>
+</tr>
+<tr><th scope="row">Standalone round motif</th><td>absent</td>
+<td class="outcome-correct">absent</td>
+<td class="outcome-correct">absent</td>
+</tr>
+<tr><th scope="row">Three arched forms</th><td>absent</td>
+<td class="outcome-correct">absent</td>
+<td class="outcome-correct">absent</td>
+</tr>
+</tbody></table>
+<h4>Run 1 · complete</h4>
+<p>The main stone carving shows a standing humanlike figure with a very large head, deep eye sockets, a prominent nose, and a projecting brow/mouth area. The torso is simplified with raised breasts or nipples, a rounded belly, and arms held close to the sides; the lower portion is partly hidden by the pedestal.</p>
+<details><summary>Feature explanations and limitations</summary><dl class="observation-notes">
+<dt>Bird / bird-headed figure</dt><dd>No carved bird, beak-like bird head, wings, or birdlike figure is visible on the main stone surface.</dd>
+<dt>Large human face</dt><dd>A large front/oblique human face with eye sockets, nose, brow, and mouth area occupies the upper part of the carving.</dd>
+<dt>Scorpion</dt><dd>No small figure with legs or a segmented upturned tail is visible on the carved surface.</dd>
+<dt>Standalone round motif</dt><dd>Apart from facial features and body nipples/navel-like forms, no distinct separate circular motif is visible.</dd>
+<dt>Three arched forms</dt><dd>There are no three repeated arch-topped forms arranged side by side on the visible carved surface.</dd>
+</dl><p>Lighting is bright from above and the stone surface is rough, with the lower body partly obscured by the pedestal; shallow or worn details could be difficult to read.</p></details>
+<p class="source-inline"><a href="data/pillar-moai/raw/hoa-front-1.json">Full saved response / request record</a></p>
+<h4>Run 2 · complete</h4>
+<p>The main stone object shows a tall carved humanlike figure with a large head, heavy brow ridges, deep eye sockets, a broad nose, and a protruding mouth. The torso is simplified, with small raised chest details and arms carved close to the sides; the lower portion is partly hidden by the display base.</p>
+<details><summary>Feature explanations and limitations</summary><dl class="observation-notes">
+<dt>Bird / bird-headed figure</dt><dd>No carved bird, beak, wings, or birdlike-headed figure is visible on the main stone surface.</dd>
+<dt>Large human face</dt><dd>A large human face with brow, eye sockets, nose, and mouth is carved on the upper front of the figure.</dd>
+<dt>Scorpion</dt><dd>No scorpion form, legs, pincers, or segmented upturned tail is visible.</dd>
+<dt>Standalone round motif</dt><dd>The only small rounded features visible appear to be chest details or facial features, which are excluded; no separate distinct circular motif is visible.</dd>
+<dt>Three arched forms</dt><dd>There are no three repeated arch-topped forms arranged side by side on the visible carved surface.</dd>
+</dl><p>Strong overhead lighting, shadows in the eye area, rough stone texture, and the display base obscuring the lower part of the figure make some details harder to read.</p></details>
+<p class="source-inline"><a href="data/pillar-moai/raw/hoa-front-2.json">Full saved response / request record</a></p>
+</div></div></details>
+<details class="recognition-record" id="result-boulder-1919"><summary>Orongo boulder · published 1919 <span>7/10 reference matches</span></summary><div class="recognition-body">
+<figure><div class="recognition-photo"><img src="img/case/orongo-1919.jpg" alt="Orongo boulder · published 1919" loading="lazy"><div class="model-box" hidden></div></div><figcaption>Unaltered input photograph. <a href="https://readingroo.ms/6/9/8/0/69807/69807-h/69807-h.htm">Reference source</a>. Model boxes are unverified claims of location.</figcaption><button class="btn clear-box" type="button">Clear location box</button></figure><div>
+<table class="read-table"><thead><tr><th scope="col">Feature</th><th scope="col">Reference</th><th scope="col">Run 1</th><th scope="col">Run 2</th></tr></thead><tbody>
+<tr><th scope="row">Bird / bird-headed figure</th><td>present</td>
+<td class="outcome-wrong">absent</td>
+<td class="outcome-correct"><button type="button" class="box-link" data-box="0.11,0.12,0.88,0.87" aria-label="Show run 2 location for Bird / bird-headed figure">present ↗</button></td>
+</tr>
+<tr><th scope="row">Large human face</th><td>absent</td>
+<td class="outcome-correct">absent</td>
+<td class="outcome-correct">absent</td>
+</tr>
+<tr><th scope="row">Scorpion</th><td>absent</td>
+<td class="outcome-wrong"><button type="button" class="box-link" data-box="0.38,0.11,0.93,0.84" aria-label="Show run 1 location for Scorpion">present ↗</button></td>
+<td class="outcome-abstained">uncertain</td>
+</tr>
+<tr><th scope="row">Standalone round motif</th><td>present</td>
+<td class="outcome-correct"><button type="button" class="box-link" data-box="0.63,0.16,0.69,0.26" aria-label="Show run 1 location for Standalone round motif">present ↗</button></td>
+<td class="outcome-correct"><button type="button" class="box-link" data-box="0.723,0.627,0.793,0.751" aria-label="Show run 2 location for Standalone round motif">present ↗</button></td>
+</tr>
+<tr><th scope="row">Three arched forms</th><td>absent</td>
+<td class="outcome-correct">absent</td>
+<td class="outcome-correct">absent</td>
+</tr>
+</tbody></table>
+<h4>Run 1 · complete</h4>
+<p>The carved surface shows a low-relief animal-like figure in side view, with a rounded head or body mass on the left and limbs or projecting forms below. On the right side there is a curled, segmented tail-like form and a small circular carved depression near the upper part of the figure. The surface is worn and high-contrast, making some lines difficult to separate from damage or shadow.</p>
+<details><summary>Feature explanations and limitations</summary><dl class="observation-notes">
+<dt>Bird / bird-headed figure</dt><dd>No clearly carved bird or birdlike head with a beak is visible; the visible form is more quadruped/scorpion-like and lacks a distinct beak.</dd>
+<dt>Large human face</dt><dd>There is no large human face with eyes, nose, and mouth on the main visible surface.</dd>
+<dt>Scorpion</dt><dd>The right side shows a segmented upturned tail-like form, with lower appendage-like forms consistent with a carved scorpion shape.</dd>
+<dt>Standalone round motif</dt><dd>A distinct circular carved depression is visible near the upper right portion of the figure, not identifiable as an eye or nostril from the carving alone.</dd>
+<dt>Three arched forms</dt><dd>There are no three repeated arch-topped forms arranged side by side in a row.</dd>
+</dl><p>The photograph is monochrome, grainy, and strongly lit, with worn relief and shadows that make carved lines and damaged areas hard to distinguish.</p></details>
+<p class="source-inline"><a href="data/pillar-moai/raw/boulder-1919-1.json">Full saved response / request record</a></p>
+<h4>Run 2 · complete</h4>
+<p>The visible carved surface shows a raised animal-like figure in side view, with a large rounded body to the left, legs below, and a head at the upper right with a circular eye-like depression and projecting beak- or snout-like front. On the right side there is a curved, segmented form and smaller carved shapes beneath it, but the surface is worn and high-contrast, making some outlines hard to separate.</p>
+<details><summary>Feature explanations and limitations</summary><dl class="observation-notes">
+<dt>Bird / bird-headed figure</dt><dd>The main figure has a side-view head with a distinct circular eye-like feature and a projecting beak-like front, attached to an animal body.</dd>
+<dt>Large human face</dt><dd>No large human face with facial features is visible on the main carved surface.</dd>
+<dt>Scorpion</dt><dd>A curved segmented form on the right could suggest an upturned tail, but the legs and body are not clear enough to identify it confidently as a scorpion.</dd>
+<dt>Standalone round motif</dt><dd>There is a distinct round carved form near the lower right, separate from the eye-like circle on the head.</dd>
+<dt>Three arched forms</dt><dd>I do not see three repeated arch-topped forms arranged side by side in a row.</dd>
+</dl><p>The photograph is monochrome with strong glare/shadow and a worn, rough carved surface, so some incised boundaries and smaller shapes are difficult to read.</p></details>
+<p class="source-inline"><a href="data/pillar-moai/raw/boulder-1919-2.json">Full saved response / request record</a></p>
+</div></div></details>
+<details class="recognition-record" id="result-boulder-modern"><summary>Orongo boulder · supplied modern photograph <span>10/10 reference matches</span></summary><div class="recognition-body">
+<figure><div class="recognition-photo"><img src="img/inputs/bird-figure.jpeg" alt="Orongo boulder · supplied modern photograph" loading="lazy"><div class="model-box" hidden></div></div><figcaption>Unaltered input photograph. <a href="https://artsandculture.google.com/asset/birdman-boulder/-QEzFc9ehfO2ng">Reference source</a>. Model boxes are unverified claims of location.</figcaption><button class="btn clear-box" type="button">Clear location box</button></figure><div>
+<table class="read-table"><thead><tr><th scope="col">Feature</th><th scope="col">Reference</th><th scope="col">Run 1</th><th scope="col">Run 2</th></tr></thead><tbody>
+<tr><th scope="row">Bird / bird-headed figure</th><td>present</td>
+<td class="outcome-correct"><button type="button" class="box-link" data-box="0.2,0.07,0.84,0.78" aria-label="Show run 1 location for Bird / bird-headed figure">present ↗</button></td>
+<td class="outcome-correct"><button type="button" class="box-link" data-box="0.126,0.078,0.838,0.865" aria-label="Show run 2 location for Bird / bird-headed figure">present ↗</button></td>
+</tr>
+<tr><th scope="row">Large human face</th><td>absent</td>
+<td class="outcome-correct">absent</td>
+<td class="outcome-correct">absent</td>
+</tr>
+<tr><th scope="row">Scorpion</th><td>absent</td>
+<td class="outcome-correct">absent</td>
+<td class="outcome-correct">absent</td>
+</tr>
+<tr><th scope="row">Standalone round motif</th><td>present</td>
+<td class="outcome-correct"><button type="button" class="box-link" data-box="0.526,0.066,0.652,0.19" aria-label="Show run 1 location for Standalone round motif">present ↗</button></td>
+<td class="outcome-correct"><button type="button" class="box-link" data-box="0.546,0.104,0.653,0.211" aria-label="Show run 2 location for Standalone round motif">present ↗</button></td>
+</tr>
+<tr><th scope="row">Three arched forms</th><td>absent</td>
+<td class="outcome-correct">absent</td>
+<td class="outcome-correct">absent</td>
+</tr>
+</tbody></table>
+<h4>Run 1 · complete</h4>
+<p>The main stone surface shows a dark carved/painted animal-like figure with a rounded body, bent legs, and a prominent head projecting to the right with a long beak-like snout. Near the right side there is a small human-like face or head form with circular eye-like marks and radiating/curved lines, close to the beak. The stone and image are rough and high-contrast, so some edges of the carving are indistinct.</p>
+<details><summary>Feature explanations and limitations</summary><dl class="observation-notes">
+<dt>Bird / bird-headed figure</dt><dd>A figure with a clear birdlike head and long beak-like projection is visible on the upper right of the carved surface.</dd>
+<dt>Large human face</dt><dd>There is a small face-like motif near the right side, but no large human face occupying the main visible surface.</dd>
+<dt>Scorpion</dt><dd>No form with multiple legs and a segmented upturned tail is visible.</dd>
+<dt>Standalone round motif</dt><dd>A distinct circular ring appears on the head area, separate from nostrils or a navel; another circular mark may be within the small face-like motif.</dd>
+<dt>Three arched forms</dt><dd>There are no three repeated arch-topped forms arranged side by side in a row.</dd>
+</dl><p>The carving is rough, worn, and rendered in high-contrast dark areas on an uneven stone surface, making some boundaries and smaller details hard to read.</p></details>
+<p class="source-inline"><a href="data/pillar-moai/raw/boulder-modern-1.json">Full saved response / request record</a></p>
+<h4>Run 2 · complete</h4>
+<p>The main stone surface shows a dark carved or painted-in relief of a crouched animal-like figure with a rounded body, bent legs, and a projecting head with a long pointed beak-like snout. There is a small circular ring near the top of the head area, and another round ring-like form near the right side among several short curved/angled marks.</p>
+<details><summary>Feature explanations and limitations</summary><dl class="observation-notes">
+<dt>Bird / bird-headed figure</dt><dd>The main figure has a clearly birdlike head with a long beak projecting to the right, attached to an animal/humanlike crouched body.</dd>
+<dt>Large human face</dt><dd>No large human face with eyes, nose, and mouth is visible on the main carved surface; the visible head is beak-like rather than a human face.</dd>
+<dt>Scorpion</dt><dd>I do not see a scorpion body with multiple legs or a segmented upturned tail.</dd>
+<dt>Standalone round motif</dt><dd>A distinct circular ring is visible near the top of the birdlike head, separate from obvious facial features such as an eye.</dd>
+<dt>Three arched forms</dt><dd>There are no three repeated arch-topped forms arranged side by side in a row.</dd>
+</dl><p>The image is low-resolution and high-contrast, with worn stone texture and dark filled areas that make some incised details hard to distinguish.</p></details>
+<p class="source-inline"><a href="data/pillar-moai/raw/boulder-modern-2.json">Full saved response / request record</a></p>
+</div></div></details>
+<details class="recognition-record" id="result-orongo"><summary>Mata Ngarau · three birdman figures <span>5/8 reference matches</span></summary><div class="recognition-body">
+<figure><div class="recognition-photo"><img src="img/motifs/orongo.jpg" alt="Mata Ngarau · three birdman figures" loading="lazy"><div class="model-box" hidden></div></div><figcaption>Unaltered input photograph. <a href="https://commons.wikimedia.org/wiki/File:View_of_an_in_relief_carving_of_three_birdman_figures;_Mata_Ngarau,_Oc,G.T.1647,_Mana_Expedition_to_Easter_Island,_British_Museum.jpg">Reference source</a>. Model boxes are unverified claims of location.</figcaption><button class="btn clear-box" type="button">Clear location box</button></figure><div>
+<table class="read-table"><thead><tr><th scope="col">Feature</th><th scope="col">Reference</th><th scope="col">Run 1</th><th scope="col">Run 2</th></tr></thead><tbody>
+<tr><th scope="row">Bird / bird-headed figure</th><td>present</td>
+<td class="outcome-correct"><button type="button" class="box-link" data-box="0.38,0.12,0.67,0.78" aria-label="Show run 1 location for Bird / bird-headed figure">present ↗</button></td>
+<td class="outcome-abstained">uncertain</td>
+</tr>
+<tr><th scope="row">Large human face</th><td>absent</td>
+<td class="outcome-abstained">uncertain</td>
+<td class="outcome-correct">absent</td>
+</tr>
+<tr><th scope="row">Scorpion</th><td>absent</td>
+<td class="outcome-abstained">uncertain</td>
+<td class="outcome-correct">absent</td>
+</tr>
+<tr><th scope="row">Standalone round motif</th><td>not scored</td>
+<td class="outcome-unscored"><button type="button" class="box-link" data-box="0.36,0.55,0.45,0.67" aria-label="Show run 1 location for Standalone round motif">present ↗</button></td>
+<td class="outcome-unscored"><button type="button" class="box-link" data-box="0.38,0.57,0.44,0.67" aria-label="Show run 2 location for Standalone round motif">present ↗</button></td>
+</tr>
+<tr><th scope="row">Three arched forms</th><td>absent</td>
+<td class="outcome-correct">absent</td>
+<td class="outcome-correct">absent</td>
+</tr>
+</tbody></table>
+<h4>Run 1 · complete</h4>
+<p>The main stone surface shows a rough relief carving with several recessed shapes and raised outlines. Near the center is a figure-like form with a pointed or beak-like head area, a rounded body, and incised vertical marks below; on both sides are additional worn circular and curved carvings.</p>
+<details><summary>Feature explanations and limitations</summary><dl class="observation-notes">
+<dt>Bird / bird-headed figure</dt><dd>A central carved figure has a pointed, beak-like head/projection and a body-like form, making it visually birdlike on the visible surface.</dd>
+<dt>Large human face</dt><dd>There are circular depressions and curved cuts that could suggest facial parts, especially left of center, but no clear large human face with definite facial features is visible.</dd>
+<dt>Scorpion</dt><dd>Some curved and segmented-looking incisions appear on the right and lower central areas, but legs and an upturned segmented tail are not clear enough to identify as a scorpion.</dd>
+<dt>Standalone round motif</dt><dd>Distinct circular recessed motifs are visible, including one near the lower-left/central area that is not clearly an eye, nostril, or navel.</dd>
+<dt>Three arched forms</dt><dd>I do not see three repeated arch-topped forms arranged side by side in a row on the visible carved surface.</dd>
+</dl><p>The stone is heavily worn and pitted, the photograph is monochrome and low contrast, and parts of the carving are obscured by shadow and foreground stone, making some shapes ambiguous.</p></details>
+<p class="source-inline"><a href="data/pillar-moai/raw/orongo-1.json">Full saved response / request record</a></p>
+<h4>Run 2 · complete</h4>
+<p>The main stone surface shows shallow relief carving with several worn figures and grooves across a rough, pitted face. Near the center is a figure with a rounded head and raised limbs beside incised curved lines, and to the right there are additional looped or curved forms partly blocked by another stone.</p>
+<details><summary>Feature explanations and limitations</summary><dl class="observation-notes">
+<dt>Bird / bird-headed figure</dt><dd>The central figure has a rounded head and body-like shape, but I cannot clearly see a birdlike beak or bird head; erosion makes the identity ambiguous.</dd>
+<dt>Large human face</dt><dd>No large front-facing or oblique human face with clear facial features is visible on the main carved surface.</dd>
+<dt>Scorpion</dt><dd>I do not see a clear scorpion with multiple legs and/or a segmented upturned tail; the visible curved grooves do not form a reliable scorpion shape.</dd>
+<dt>Standalone round motif</dt><dd>There are distinct circular/round carved depressions or ring-like motifs, including one near the lower center-left of the carved area.</dd>
+<dt>Three arched forms</dt><dd>I do not see three repeated arch-topped forms arranged side by side in a row.</dd>
+</dl><p>The carving is heavily weathered and low-contrast, the photograph is monochrome, and parts of the lower and right carved surface are obscured by foreground stone, making some shapes difficult to read.</p></details>
+<p class="source-inline"><a href="data/pillar-moai/raw/orongo-2.json">Full saved response / request record</a></p>
+</div></div></details>
+<details class="recognition-record" id="result-urfa"><summary>Urfa Man · face control <span>8/8 reference matches</span></summary><div class="recognition-body">
+<figure><div class="recognition-photo"><img src="img/motifs/urfa_man.jpg" alt="Urfa Man · face control" loading="lazy"><div class="model-box" hidden></div></div><figcaption>Unaltered input photograph. <a href="https://commons.wikimedia.org/wiki/File:Urfa_museum_Urfa_man_sept_2019_4711.jpg">Reference source</a>. Model boxes are unverified claims of location.</figcaption><button class="btn clear-box" type="button">Clear location box</button></figure><div>
+<table class="read-table"><thead><tr><th scope="col">Feature</th><th scope="col">Reference</th><th scope="col">Run 1</th><th scope="col">Run 2</th></tr></thead><tbody>
+<tr><th scope="row">Bird / bird-headed figure</th><td>absent</td>
+<td class="outcome-correct">absent</td>
+<td class="outcome-correct">absent</td>
+</tr>
+<tr><th scope="row">Large human face</th><td>present</td>
+<td class="outcome-correct"><button type="button" class="box-link" data-box="0.411,0.051,0.946,0.571" aria-label="Show run 1 location for Large human face">present ↗</button></td>
+<td class="outcome-correct"><button type="button" class="box-link" data-box="0.372,0.043,0.957,0.547" aria-label="Show run 2 location for Large human face">present ↗</button></td>
+</tr>
+<tr><th scope="row">Scorpion</th><td>absent</td>
+<td class="outcome-correct">absent</td>
+<td class="outcome-correct">absent</td>
+</tr>
+<tr><th scope="row">Standalone round motif</th><td>not scored</td>
+<td class="outcome-unscored">absent</td>
+<td class="outcome-unscored">absent</td>
+</tr>
+<tr><th scope="row">Three arched forms</th><td>absent</td>
+<td class="outcome-correct">absent</td>
+<td class="outcome-correct">absent</td>
+</tr>
+</tbody></table>
+<h4>Run 1 · complete</h4>
+<p>The main stone surface shows a carved upper humanlike figure with a large head, hollow dark eye openings, a projecting damaged nose, and a simple mouth/chin area. Below the head are a neck, shoulders, and shallow carved V-shaped folds or bands across the chest. The surface is rough, worn, and chipped, especially around the nose and edges of the face.</p>
+<details><summary>Feature explanations and limitations</summary><dl class="observation-notes">
+<dt>Bird / bird-headed figure</dt><dd>No carved bird, beak-headed figure, wings, or birdlike body is visible on the main stone surface.</dd>
+<dt>Large human face</dt><dd>A large front-facing human face with eye openings, nose, and mouth/chin area dominates the visible carved surface.</dd>
+<dt>Scorpion</dt><dd>No scorpion form with legs or a segmented upturned tail is visible.</dd>
+<dt>Standalone round motif</dt><dd>I do not see a distinct circular motif apart from facial openings/features and surface damage.</dd>
+<dt>Three arched forms</dt><dd>There are no three repeated arch-topped forms arranged side by side in a row.</dd>
+</dl><p>The stone is worn and uneven, with damage around the nose and shadowed eye cavities; lighting creates strong shadows that may obscure shallow carving.</p></details>
+<p class="source-inline"><a href="data/pillar-moai/raw/urfa-1.json">Full saved response / request record</a></p>
+<h4>Run 2 · complete</h4>
+<p>The main stone surface shows the upper part of a carved humanlike figure with a large head, hollow dark eye sockets, a protruding damaged nose, and a simplified mouth/jaw area. Below the neck are shallow carved folds or V-shaped lines across the chest/garment. The surface is worn and pitted, with breaks around the nose and edges.</p>
+<details><summary>Feature explanations and limitations</summary><dl class="observation-notes">
+<dt>Bird / bird-headed figure</dt><dd>No bird or birdlike beak/head is visible on the carved surface; the visible figure is humanlike.</dd>
+<dt>Large human face</dt><dd>A large human face with two eye sockets, nose, and lower facial outline dominates the visible surface.</dd>
+<dt>Scorpion</dt><dd>No scorpion shape, legs, or upturned segmented tail is visible.</dd>
+<dt>Standalone round motif</dt><dd>No distinct circular carved motif is visible apart from facial openings/features and surface pitting.</dd>
+<dt>Three arched forms</dt><dd>There are no three repeated arch-topped forms arranged side by side.</dd>
+</dl><p>Strong side lighting, shadows in the eye sockets, erosion, and damage to the nose and surface make fine carving details difficult to read.</p></details>
+<p class="source-inline"><a href="data/pillar-moai/raw/urfa-2.json">Full saved response / request record</a></p>
+</div></div></details>
+<details class="recognition-record" id="result-omphalos"><summary>Delphi omphalos · geometric control <span>8/8 reference matches</span></summary><div class="recognition-body">
+<figure><div class="recognition-photo"><img src="img/motifs/omphalos.jpg" alt="Delphi omphalos · geometric control" loading="lazy"><div class="model-box" hidden></div></div><figcaption>Unaltered input photograph. <a href="https://commons.wikimedia.org/wiki/File:Omphalos,_AM_of_Delphi,_201424.jpg">Reference source</a>. Model boxes are unverified claims of location.</figcaption><button class="btn clear-box" type="button">Clear location box</button></figure><div>
+<table class="read-table"><thead><tr><th scope="col">Feature</th><th scope="col">Reference</th><th scope="col">Run 1</th><th scope="col">Run 2</th></tr></thead><tbody>
+<tr><th scope="row">Bird / bird-headed figure</th><td>absent</td>
+<td class="outcome-correct">absent</td>
+<td class="outcome-correct">absent</td>
+</tr>
+<tr><th scope="row">Large human face</th><td>absent</td>
+<td class="outcome-correct">absent</td>
+<td class="outcome-correct">absent</td>
+</tr>
+<tr><th scope="row">Scorpion</th><td>absent</td>
+<td class="outcome-correct">absent</td>
+<td class="outcome-correct">absent</td>
+</tr>
+<tr><th scope="row">Standalone round motif</th><td>not scored</td>
+<td class="outcome-unscored"><button type="button" class="box-link" data-box="0.28,0.24,0.35,0.31" aria-label="Show run 1 location for Standalone round motif">present ↗</button></td>
+<td class="outcome-unscored"><button type="button" class="box-link" data-box="0.274,0.253,0.344,0.327" aria-label="Show run 2 location for Standalone round motif">present ↗</button></td>
+</tr>
+<tr><th scope="row">Three arched forms</th><td>absent</td>
+<td class="outcome-correct">absent</td>
+<td class="outcome-correct">absent</td>
+</tr>
+</tbody></table>
+<h4>Run 1 · complete</h4>
+<p>The visible carved surface is covered with repeated raised plant-like forms: rounded disks or bosses, elongated ribbed pods, and petal or leaf shapes linked by curving stems. The decoration wraps around the curved stone in horizontal bands, with some areas worn, broken, or filled by lighter repair material.</p>
+<details><summary>Feature explanations and limitations</summary><dl class="observation-notes">
+<dt>Bird / bird-headed figure</dt><dd>I do not see a carved bird or any figure with a birdlike head or beak among the visible plant-like motifs.</dd>
+<dt>Large human face</dt><dd>No large human face with eyes, nose, and mouth is visible on the main carved surface.</dd>
+<dt>Scorpion</dt><dd>No scorpion form with legs or a segmented upturned tail is visible; the carvings appear to be leaves, pods, and round bosses.</dd>
+<dt>Standalone round motif</dt><dd>Several distinct raised circular motifs appear on the carved surface, such as a round boss near the upper-left central area.</dd>
+<dt>Three arched forms</dt><dd>I do not see three repeated arch-topped forms arranged side by side in a row.</dd>
+</dl><p>The stone is curved, worn, and patchily restored with light material, and some carvings are broken or partially obscured by the viewing angle.</p></details>
+<p class="source-inline"><a href="data/pillar-moai/raw/omphalos-1.json">Full saved response / request record</a></p>
+<h4>Run 2 · complete</h4>
+<p>The main stone surface is covered with raised carving of looping stems, leaves, and flower-like forms across the rounded upper area and a lower band. Several smooth pale restored patches interrupt the carved surface, and there are multiple rounded buds or circular centers within the plant pattern. The bottom portion is rougher and less decorated, with broken stone areas visible.</p>
+<details><summary>Feature explanations and limitations</summary><dl class="observation-notes">
+<dt>Bird / bird-headed figure</dt><dd>No carved bird body, birdlike head, or beak is visible on the main carved surface.</dd>
+<dt>Large human face</dt><dd>There is no large human face with eyes, nose, and mouth on the visible carved surface.</dd>
+<dt>Scorpion</dt><dd>No scorpion form with legs or an upturned segmented tail is visible.</dd>
+<dt>Standalone round motif</dt><dd>A distinct raised circular disk or round flower center is visible within the carved plant pattern on the upper-left area of the stone.</dd>
+<dt>Three arched forms</dt><dd>The carving shows repeated leaves and flowers, but not three arch-topped forms arranged side by side in a row.</dd>
+</dl><p>The surface is worn, broken, and partly restored with pale fill, which obscures or interrupts some carved details; lighting and curvature of the stone also make shallow lines harder to read.</p></details>
+<p class="source-inline"><a href="data/pillar-moai/raw/omphalos-2.json">Full saved response / request record</a></p>
+</div></div></details>
+</div>
+<p class="source-inline">Repeat disagreement: 8 scorable image-feature pairs changed answer between completed repeats. Cross-view consistency: 19/25 available feature comparisons agreed across two photographs in the same repeat. Agreement can still be wrong. <a href="data/pillar-moai/results.json">Complete machine-readable readout</a>.</p>
+<!-- recognition-results:end -->
+</div></section>
+<section class="part" id="mistakes"><div class="wrap essay-grid"><div><div class="eyebrow">The failures matter</div><h2>A good-looking average can hide the exact mistake we care about.</h2></div><div class="prose"><p>The new requests do not reliably recover the scene in every photograph. That is the practical result to carry into future similarity tests.</p><ol class="research-steps"><li><b>The moai’s back.</b> One completed response missed the bird figures and was uncertain about a large face. The other photograph produced different readings. <a href="#result-hoa-back">Inspect the first view</a> and <a href="#result-hoa-back-alt">the alternate view</a>.</li><li><b>The pillar’s scorpion.</b> In the first photograph, one response said absent and the other uncertain. The excavation-team description and photograph provide a direct check. <a href="#result-p43">Inspect the answers</a>.</li><li><b>The historic boulder.</b> One response missed the bird and called a curled feature a scorpion; the repeat recognised the bird. A question list can also suggest interpretations to a model. <a href="#result-boulder-1919">Compare both readings</a>.</li></ol><p>These examples demonstrate errors and instability. They do not show that every answer is wrong, or that a model can never help. Source work, alternate views and explicit verification remain necessary.</p></div></div></section>
+<section class="part" id="limits"><div class="wrap essay-grid"><div><div class="eyebrow">Interpretation</div><h2>Recognition is necessary. It is only the beginning.</h2></div><div class="prose"><p><b>This pilot does not score resemblance.</b> A failure to recognise a bird cannot support either independent invention or a lost common source. A correct identification would not establish those histories either.</p><p><b>The images were chosen because the earlier tests had problems.</b> They are a development set, not a held-out sample. The same model family was involved in the old pilots, and the source-informed annotations here were assembled by AI. A fresh human review remains essential.</p><p><b>Answers are correlated.</b> The five questions share an image; repeated photographs share an object. We report counts and disagreements rather than treating 94 answers as 94 independent archaeological cases.</p><p><b>Uncertainty stays visible.</b> The model was correct on a larger share of answers when it chose present or absent, but excluding its abstentions would conceal its difficulty with the important images. The main readout keeps uncertain and missing answers in view.</p><p><b>The screening rule was an engineering choice.</b> Ninety percent correct and no failed critical moai-back answers would have allowed development of a broader validation set. It would still not have authorised historical ranking. The next stage needs independent review, better local collections, and a held-out benchmark.</p><p><a href="pillar-and-moai.html#next">Return to the historical question →</a></p></div></div></section>
+<section class="part" id="record"><div class="wrap"><div class="part-head"><div class="n">Record</div><h2>Reproduce, inspect, improve.</h2></div><div class="prose"><p><a href="data/pillar-moai/protocol.md">Protocol and future comparison design</a> · <a href="data/pillar-moai/freeze.json">Frozen prompt, schema, settings and hashes</a> · <a href="data/pillar-moai/results.json">Complete results</a> · <a href="data/pillar-moai/reference.json">Image references</a> · <a href="data/pillar-moai/sources.json">Sources and image rights</a>.</p><p>Each image above links to the full saved response. The run used a $5 estimated-cost ceiling. The recorded total is about $0.62: about $0.39 from returned token usage, plus a conservative $0.23 reservation for the failed request. Model output and explanations are retained without editorial rewriting.</p><p class="source-inline">The <a href="data/pillar-moai/recognition.py">runner</a> has explicit freeze, run and report commands. Publishing and offline site tests make no model calls. <a href="https://developers.openai.com/api/docs/models/gpt-5.5">Model and pricing documentation</a>.</p></div></div></section>
+</main><footer><div class="wrap"><a href="./">Deep Memory</a> · <a href="pillar-and-moai.html">The photographic case</a> · <a href="pictures.html">Earlier image pilots</a> · <a href="research-review.html">Audit of the research</a></div></footer></body></html>

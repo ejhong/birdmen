@@ -115,23 +115,61 @@ try {
 
   await navigate('index.html');
   assert.equal(await client.evaluate(`document.querySelectorAll('.investigation').length`), 5);
-  assert.equal(await client.evaluate(`document.querySelector('main section').id`), 'investigations');
-  assert.equal(await client.evaluate(`document.querySelector('#animals').previousElementSibling.id`), 'handbags');
-  assert.equal(await client.evaluate(`document.querySelector('img[src="img/inputs/bird-figure.jpeg"]').closest('section').id`), 'birdmen');
+  assert.equal(await client.evaluate(`document.querySelectorAll('.cover-pair img').length`), 2);
+  await waitFor(`[...document.querySelectorAll('.cover-pair img')].every(image => image.complete && image.naturalWidth > 0)`);
   assert.ok(await client.evaluate(`getComputedStyle(document.body).fontFamily.includes('Newsreader')`));
   await screenshot('home-desktop.png');
   await client.evaluate(`document.querySelector('#investigations').scrollIntoView()`);
   await screenshot('investigations-desktop.png');
-  await client.evaluate(`document.querySelector('#bird-detail').scrollIntoView()`);
-  await waitFor(`[...document.querySelectorAll('#birdmen img[src^="img/inputs/"]')].every(image => image.complete && image.naturalWidth > 0)`);
-  await screenshot('bird-detail-desktop.png');
-  await client.evaluate(`document.querySelector('#pigs').scrollIntoView()`);
-  await waitFor(`[...document.querySelectorAll('img[src*="boar-museum"], img[src*="lingjiatan"]')].every(image => image.complete && image.naturalWidth > 0)`);
-  await screenshot('animals-desktop.png');
   await navigate('index.html', 390, 844);
   await screenshot('home-mobile.png');
-  await client.evaluate(`document.querySelector('#investigations').scrollIntoView()`);
-  await screenshot('investigations-mobile.png');
+
+  await navigate('pillar-and-moai.html');
+  await waitFor(`[...document.querySelectorAll('.compare-panel img')].every(image => image.complete && image.naturalWidth > 0)`);
+  await client.evaluate(`document.querySelector('#compare').scrollIntoView()`);
+  await screenshot('case-desktop.png');
+  for (const mode of ['alternate', 'boulder', 'archive', 'local', 'whole']) {
+    await client.evaluate(`document.querySelector('#comparison-select').value = '${mode}'; document.querySelector('#comparison-select').dispatchEvent(new Event('change'));`);
+    await waitFor(`[...document.querySelectorAll('.compare-panel img')].every(image => image.complete && image.naturalWidth > 0)`);
+    assert.ok(await client.evaluate(`document.querySelector('#compare-note').textContent.length > 40`));
+  }
+  await client.evaluate(`document.querySelector('#zoom').value = 200; document.querySelector('#zoom').dispatchEvent(new Event('input')); document.querySelector('#show-annotations').click();`);
+  assert.equal(await client.evaluate(`document.querySelector('#zoom-value').value`), '200%');
+  assert.equal(await client.evaluate(`document.querySelector('#annotation-key').hidden`), false);
+  assert.ok(await client.evaluate(`document.querySelectorAll('.marker:not([hidden])').length >= 4`));
+  await client.evaluate(`document.querySelector('#sync-scroll').click(); document.querySelector('.compare-window').scrollTop = 250;`);
+  await waitFor(`document.querySelectorAll('.compare-window')[1].scrollTop > 0`);
+  await client.evaluate(`document.querySelector('#reset-view').click()`);
+  assert.equal(await client.evaluate(`document.querySelector('#zoom-value').value`), '100%');
+  assert.equal(await client.evaluate(`document.querySelector('.compare-window').scrollTop`), 0);
+  await client.evaluate(`document.querySelector('[data-hyp="contact"]').click()`);
+  assert.equal(await client.evaluate(`document.querySelector('#hyp-contact').hidden`), false);
+  assert.equal(await client.evaluate(`document.querySelector('#hyp-inheritance').hidden`), true);
+  await navigate('pillar-and-moai.html', 390, 844);
+  await client.evaluate(`document.querySelector('#compare').scrollIntoView()`);
+  await screenshot('case-mobile.png');
+  await client.evaluate(`document.querySelector('#comparison-select').value = 'boulder'; document.querySelector('#comparison-select').dispatchEvent(new Event('change'));`);
+  await waitFor(`[...document.querySelectorAll('.compare-panel img')].every(image => image.complete && image.naturalWidth > 0)`);
+  await screenshot('boulder-mobile.png');
+
+  await navigate('recognition.html');
+  assert.equal(await client.evaluate(`document.querySelectorAll('.recognition-record').length`), 10);
+  assert.ok(await client.evaluate(`document.querySelector('.lab-summary').textContent.includes('19 of 20')`));
+  await client.evaluate(`document.querySelector('#result-boulder-1919').open = true; document.querySelector('#result-boulder-1919').scrollIntoView()`);
+  await waitFor(`document.querySelector('#result-boulder-1919 img').complete && document.querySelector('#result-boulder-1919 img').naturalWidth > 0`);
+  await client.evaluate(`document.querySelector('#result-boulder-1919 [data-box]').click()`);
+  assert.equal(await client.evaluate(`document.querySelector('#result-boulder-1919 .model-box').hidden`), false);
+  await screenshot('recognition-desktop.png');
+  await client.evaluate(`document.querySelector('#result-boulder-1919 .clear-box').click()`);
+  assert.equal(await client.evaluate(`document.querySelector('#result-boulder-1919 .model-box').hidden`), true);
+  await navigate('recognition.html#result-hoa-back', 390, 844);
+  await waitFor(`document.querySelector('#result-hoa-back').open`);
+  await screenshot('recognition-mobile.png');
+  await navigate('research-review.html', 390, 844);
+  await screenshot('review-mobile.png');
+  await navigate('fenton.html', 390, 844);
+  await screenshot('fenton-mobile.png');
+
   await navigate('civilisers.html');
   await waitFor(`document.querySelector('#evidence-count').textContent.includes('29 of 29')`);
   await screenshot('civilisers-desktop.png');
@@ -151,7 +189,7 @@ try {
   await client.evaluate(`document.querySelector('#passages').scrollIntoView()`);
   await screenshot('passages-mobile.png');
   await navigate('narrative.html', 390, 844);
-  await waitFor(`!location.pathname.endsWith('/narrative.html') && location.hash === '#narrative' && !!document.querySelector('#pattern')`);
+  await waitFor(`!location.pathname.endsWith('/narrative.html') && location.hash === '#pattern' && !!document.querySelector('#pattern')`);
   await screenshot('narrative-mobile.png');
   await client.evaluate(`document.querySelector('#animals').scrollIntoView()`);
   await screenshot('animals-mobile.png');
@@ -160,6 +198,7 @@ try {
   assert.ok(await client.evaluate(`document.documentElement.scrollWidth <= innerWidth + 1`), 'Source credits cause mobile overflow');
 
   const rendered = {
+    'rongo/': `document.querySelector('[data-v=rank_best24]').textContent.length > 0`,
     'myths.html': `document.querySelector('#class-tables').children.length > 0`,
     'pictures.html': `document.querySelector('#verdict-b').textContent.length > 40`,
     'heroes.html': `document.querySelector('#verdict-p').textContent.includes('62.5')`,
@@ -170,11 +209,20 @@ try {
     await waitFor(condition);
   }
   await navigate('index.html#birdmen');
-  await waitFor(`location.pathname.endsWith('/index.html') && location.hash === '#birdmen'`);
+  await waitFor(`location.pathname.endsWith('/atlas.html') && location.hash === '#birdmen'`);
   await navigate('narrative.html#handbags');
   await waitFor(`!location.pathname.endsWith('/narrative.html') && location.hash === '#handbags' && !!document.querySelector('#handbags')`);
   await navigate('index.html#new-comparisons');
   await waitFor(`location.hash === '#animals'`);
+
+  await navigate('index.html#fenton-bird');
+  await waitFor(`location.pathname.endsWith('/fenton.html') && location.hash === '#fenton-bird'`);
+  // Core evidence remains available when scripting is disabled.
+  await client.send('Emulation.setScriptExecutionDisabled', {value: true});
+  await navigate('pillar-and-moai.html', 390, 844);
+  assert.equal(await client.evaluate(`document.querySelectorAll('.hypothesis:not([hidden])').length`), 4);
+  assert.equal(await client.evaluate(`document.querySelectorAll('.compare-panel img').length`), 2);
+  await client.send('Emulation.setScriptExecutionDisabled', {value: false});
 
   const exceptions = client.events.filter(event => event.method === 'Runtime.exceptionThrown');
   assert.deepEqual(exceptions, [], 'Uncaught browser JavaScript exceptions');
@@ -182,7 +230,7 @@ try {
     event.params.response.url.startsWith(base.origin) && event.params.response.status >= 400 &&
     !event.params.response.url.endsWith('/favicon.ico')).map(event => event.params.response.url);
   assert.deepEqual(failedLocalResponses, [], 'Failed local asset requests');
-  console.log(`Browser smoke checks passed: desktop/mobile layout, 5 studies, passage filters, hash links, legacy charts and bookmarks.\nScreenshots: ${screenshots}`);
+  console.log(`Browser smoke checks passed: desktop/mobile layout, comparison modes, zoom, guides, linked scrolling, hypotheses, recognition records, five studies, filters, legacy bookmarks and no-script evidence.\nScreenshots: ${screenshots}`);
 } finally {
   client?.close();
   browserClient?.close();

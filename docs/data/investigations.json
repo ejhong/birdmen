@@ -4,10 +4,10 @@
     "number": "01",
     "title": "Indus & rongorongo",
     "question": "When do similar signs become evidence of a connection?",
-    "status": "Catalogue-level similarity test",
+    "status": "Exploratory shape metric",
     "url": "rongo/",
-    "finding": "Measured against both complete sign catalogues and twenty-two control scripts, the Indus–rongorongo pair is ordinary: its apparent edge disappears once font-rendered controls are given hand-drawn wobble, and the famous chart's 24 pairs mostly owe their punch to the redrawing.",
-    "limitations": "A visual resemblance does not establish shared sound, meaning or descent. The metric is coarse, as its independent-rendition validation shows; inventory definitions and the fidelity of the illustrations matter.",
+    "finding": "Under this catalogue metric, the pair ranked near the middle of the comparison set. Rankings changed when font controls were distorted to resemble scanned drawings; the famous chart also differs from the catalogue forms.",
+    "limitations": "The combined metric retrieved the correct independent rendition first in about 75% of validation queries, below HOG alone at about 81%. Its results describe this representation and metric; they do not settle perceived resemblance, linguistic affinity or historical contact.",
     "versions": [
       {
         "label": "Results, method & inventories",
@@ -29,7 +29,7 @@
     "status": "Catalogue experiment",
     "url": "myths.html",
     "finding": "In the sampled catalogue, the three broad motif classes are widespread. Their bundle does not stand out against the study's documentation-preserving comparisons.",
-    "limitations": "Broad narrative categories are not the specific images or place names in the claim. The 2016 catalogue has uneven coverage, particularly for the ancient Near East and Rapa Nui.",
+    "limitations": "Broad keyword classes are not a test of this bird-and-disc composition. Coverage is uneven, and missing catalogue entries are not evidence of absence. Geographic dispersion alone cannot distinguish invention from transmission.",
     "versions": [
       {
         "label": "Results & method",
@@ -49,14 +49,22 @@
     "number": "03",
     "title": "The pillar & the moai",
     "question": "Can AI measure the resemblance people see?",
-    "status": "Three image pilots",
+    "status": "Historical interpretation suspended",
     "url": "pictures.html",
-    "finding": "The pilots exposed altered illustrations, unreliable feature coding and strong disagreement between judges. Matching the kinds of objects changed the lineup result.",
-    "limitations": "These models have not been shown to reproduce human judgments of resemblance. Cropping, the photograph, repeated objects and incomplete runs constrain the conclusions.",
+    "finding": "The saved responses expose perception errors as well as prompt and presentation effects. Opus placed the pair near the top of its distant comparisons; GPT-5.5 ranked many more alternatives above it. Those disagreeing observations remain available.",
+    "limitations": "Some judges described a face on the moai’s back or missed its bird figures. The prompts also mixed visible similarity with shared-origin judgments. These pilots cannot establish that the resemblance is ordinary, exceptional or historically explained.",
     "versions": [
       {
-        "label": "Pilots A–C & qualifications",
-        "url": "pictures.html"
+        "url": "pillar-and-moai.html",
+        "label": "New photographic dossier"
+      },
+      {
+        "url": "recognition.html",
+        "label": "New recognition diagnostic"
+      },
+      {
+        "url": "pictures.html",
+        "label": "Original pilots A–C"
       }
     ],
     "paths": [

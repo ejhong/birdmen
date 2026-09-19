@@ -17,17 +17,28 @@ is not automatically evidence for a particular historical explanation.
 | 04 · The civilisers | [V1: lineups](docs/heroes.html), [V2: source audit](docs/civilisers.html) | V1: `pipeline/s4_heroes.py`, `s4_mechanical.py`, `data/s4/`, [preregistration](docs/study4/preregistration.md). V2: [method](research/civilisers/v2/method.md), [evidence ledger](research/civilisers/v2/evidence.json) |
 | 05 · The raven & the dove | [Flood-story coding](docs/floods.html) | `pipeline/s5_floods.py`, `s5_analysis.py`; `data/s5/`; [preregistration](docs/study5/preregistration.md) |
 
-The [homepage](docs/index.html) combines the study collection first and the full illustrated
-narrative below. The narrative's second section states Bruce R. Fenton's theory of a southern
-origin for the Göbekli Tepe symbols, in his order and with his pictures, from his X thread of
-24–26 February 2025; a verbatim transcript with one marked gap is in
-[`research/fenton/thread.md`](research/fenton/thread.md). The bird-rock/Pillar 43 comparison
-is in Bird-men, which also examines the V-neck and knee of the Pillar 43 bird raised in September
-2026; pigs and reptile-like animals follow Handbags. Pictures from the thread identified since
-publication (the Injalak Hill Yingarna painting, a Wellcome Collection print, a news article, four
-Olmec heads) are recorded in `research/images.json` and in the transcript's addendum. `docs/narrative.html` only redirects older links to the combined
-page. `research/investigations.json` supplies the same question, finding, limitations and
-version links to the collection and each local study page.
+The [homepage](docs/index.html) now leads with the actual Pillar 43 and moai
+photographs. The [central dossier](docs/pillar-and-moai.html) adds the identified
+Orongo birdman boulder, a newly sourced 1919 photograph, alternate views, a zoomable
+comparison viewer, feature observations, chronology, and competing explanations.
+The [atlas](docs/atlas.html) retains the wider illustrated comparisons. Hancock and
+Fenton receive comparable introductions on the homepage; Fenton's full illustrated
+argument and preserved thread live in [their own essay](docs/fenton.html).
+Old homepage and `narrative.html` bookmarks redirect to the corresponding chapters.
+
+The [research review](docs/research-review.html) audits all five studies. Original
+results remain intact; the reading pages qualify conclusions their methods cannot
+support. `research/investigations.json` supplies the shared summaries and scope panels.
+
+The new [recognition diagnostic](docs/recognition.html) is separate from the original
+similarity studies: 10 photographs of 6 objects/rock surfaces, 20 planned GPT-5.5
+requests, 19 completed and 1 connection failure. Against provisional AI-assembled
+source-informed references, 73 of 94 scorable answers matched, 4 were wrong, 12
+uncertain and 5 missing. The recognition screen failed. This is not a historical
+similarity result, a representative accuracy estimate or an independently reviewed
+benchmark. The protocol, prompt, images and references were frozen before requests;
+individual responses and locations are inspectable. See
+[the frozen protocol](research/pillar-moai/v2/protocol.md).
 
 The civiliser source audit is exploratory: 29 passages, 10 source records and 10 figure
 entries, one including two people. It is not a complete source genealogy or a global rarity
@@ -50,7 +61,7 @@ python3 -m http.server 4173 --bind 127.0.0.1 --directory docs
 Open `http://127.0.0.1:4173/`. These commands do not deploy the site.
 
 `publish.py` uses only Python's standard library. It updates marked generated HTML sections,
-publishes the registers, method and thread transcript, and copies the supplied images
+publishes the registers, method, recognition records and thread transcript, and copies the supplied images
 unchanged. Edit prose outside those markers directly; edit the registers for generated
 content. `--check` reports drift without writing.
 
@@ -73,6 +84,7 @@ research/                     Versioned methods, source records and evidence for
   civilisers/v2/              Method and source-level evidence ledger
   civilisers/v3/              Proposed comparison protocol; not run
   fenton/                     Transcript and screenshot inventory of Fenton's thread
+  pillar-moai/v2/             Frozen recognition protocol, provisional references, sources and audit
   rongo/                      Method, run order and article draft of the Indus / rongorongo study
 inputs/                       Original supplied material; preserve untouched
   fenton/                     Screenshots and attachments of the thread (33 files) and one later screenshot
@@ -80,8 +92,13 @@ inputs/                       Original supplied material; preserve untouched
 pipeline/                     Existing study scripts + offline publishing entry point
   rongo/                      Study 01's pipeline, in run order (see research/rongo/README.md)
 data/                         Original datasets, model responses and calculated results
+  pillar-moai/v2/             Freeze, raw request records and diagnostic results
   rongo/                      Study 01's scans, glyph crops, skeletons, results and fidelity review
 docs/                         Published static site
+  pillar-and-moai.html        Main source dossier and comparison viewer
+  recognition.html           New diagnostic, all responses and model boxes
+  research-review.html       Audit and redesign requirements for all five studies
+  atlas.html, fenton.html     Wider comparisons and separate Fenton essay
   rongo/                      Study 01's page, script and site data (served at /rongo/)
   data/                       Browser-ready datasets and generated registers
   img/                        Existing photographs, published input copies, the route map
@@ -95,6 +112,23 @@ method, source register and evidence together. Original pipelines and data retai
 paths so recorded commands, imports and citations continue working. Earlier experiments
 are not deleted or demoted into an inaccessible archive.
 
+## Recognition diagnostic: inspect before rerunning
+
+`python3 pipeline/recognition.py report` recomputes the saved diagnostic without
+model calls and checks the frozen inputs. `run` needs the OpenAI SDK, certifi and
+`OPENAI_API_KEY`; it resumes only missing requests, never replaces a recorded
+response, uses no automatic retries, and stops after an API failure. The completed
+version is frozen: create a new version to change images, references, prompt,
+model, settings or the runner. Publishing has no API dependency.
+
+The run's estimate is about USD 0.62 including a USD 0.23 reservation for the failed
+connection; returned usage accounts for about USD 0.39. This is not a billing receipt.
+The future comparison design and requirement for independent review are in the
+protocol. No broader similarity experiment has been run in this revision.
+
+`python3 pipeline/case_map.py` redraws the geographic context map using the existing
+Natural Earth data. It shows approximate locations, without a transmission route.
+
 ## Reproduce an original experiment
 
 Publishing and research are separate operations. Original research scripts can make
@@ -104,7 +138,7 @@ and method before running them. Saved results remain readable without rerunning 
 Study 01, Indus / rongorongo, was merged from its own repository on 10 September 2026 with its
 history; the original repository, `ejhong/rongo`, is archived and its page redirects here. The
 scripts now read `data/rongo/` and `inputs/rongo/` and write `docs/rongo/`, and run from this
-repository's root (`python3 pipeline/rongo/build_site.py` rebuilds the page from saved results).
+repository's root (`python3 pipeline/rongo/build_site.py` refreshes published data and thumbnails from saved results).
 The full run order and its heavier dependencies are in `research/rongo/README.md`.
 
 The catalogue analysis needs NumPy (`requirements.txt`). Its recorded workflow is:
@@ -131,15 +165,16 @@ Do not replace an old version's evidence when creating a new version.
 
 ## Sources and rights
 
-- The cover image is AI-generated editorial artwork made for the companion site
-  [Aletheia](https://ejhong.github.io/aletheia/); it illustrates an idea and is not evidence.
+- The new opening uses photographs. The older AI-generated cover remains an archival
+  asset; it is not archaeological evidence.
 - Berezkin & Duvakin's analytical folklore catalogue, via D. Nikolaev's 2016
   `mythology-queries` snapshot: catalogue-derived data is CC BY-NC-SA 4.0.
 - Natural Earth 110m coastlines: public domain.
 - Original study references and limitations remain on each study page.
 - Civiliser V2 editions, passage locators and mediation are in its evidence ledger.
-- Existing photo credits remain in `docs/img/motifs/credits.json` and the illustrated
-  narrative; new photo provenance and unresolved rights are in `research/images.json`.
+- Existing photo credits remain in `docs/img/motifs/credits.json` and the atlas. Central-case sources and unchanged photo hashes are in
+  `research/pillar-moai/v2/sources.json`; supplied-photo identities and unresolved
+  rights remain in `research/images.json`.
 - The pictures and quotations from Bruce R. Fenton's thread are reproduced for commentary.
   The photographers of the pictures he posted are mostly unidentified in the thread and are
   recorded as unresolved.

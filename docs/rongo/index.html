@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Indus and Rongorongo: a fair test</title>
-<meta name="description" content="A blind, quantitative comparison of the Indus script and Easter Island's rongorongo against twenty-two other scripts, with every step published.">
+<title>Indus and rongorongo: an exploratory shape comparison</title>
+<meta name="description" content="An exploratory quantitative comparison of the Indus script and Easter Island's rongorongo against twenty-two other scripts, with every step published.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -15,7 +15,7 @@
 
 <header class="masthead">
   <div class="wrap">
-    <div class="eyebrow"><a href="../" style="border:0">Deep Memory</a> &middot; investigation 01 &middot; a fair test of a beautiful coincidence</div>
+    <div class="eyebrow"><a href="../" style="border:0">Deep Memory</a> &middot; investigation 01 &middot; an exploratory comparison of sign shapes</div>
     <h1 style="margin-top:14px">Do Easter Island and the Indus Valley share a script?</h1>
     <p class="deck">Twenty-four look-alike signs have circulated for ninety years. We digitised both complete sign inventories, twenty-two unrelated scripts, and measured them all the same way. Here is what the numbers say, and everything needed to check them.</p>
     <div class="meta">
@@ -47,18 +47,18 @@
 <aside class="study-review wrap" aria-label="Study scope and limitations">
   <div class="review-box"><div class="eyebrow">Reading this investigation · updated September 2026</div>
   <h2>When do similar signs become evidence of a connection?</h2>
-  <dl><div><dt>What remains useful</dt><dd>Measured against both complete sign catalogues and twenty-two control scripts, the Indus–rongorongo pair is ordinary: its apparent edge disappears once font-rendered controls are given hand-drawn wobble, and the famous chart&#x27;s 24 pairs mostly owe their punch to the redrawing.</dd></div><div><dt>What it cannot settle</dt><dd>A visual resemblance does not establish shared sound, meaning or descent. The metric is coarse, as its independent-rendition validation shows; inventory definitions and the fidelity of the illustrations matter.</dd></div></dl>
+  <dl><div><dt>What remains useful</dt><dd>Under this catalogue metric, the pair ranked near the middle of the comparison set. Rankings changed when font controls were distorted to resemble scanned drawings; the famous chart also differs from the catalogue forms.</dd></div><div><dt>What it cannot settle</dt><dd>The combined metric retrieved the correct independent rendition first in about 75% of validation queries, below HOG alone at about 81%. Its results describe this representation and metric; they do not settle perceived resemblance, linguistic affinity or historical contact.</dd></div></dl>
   <div class="reading-links"><a href="../#investigations">All investigations</a> <a href="#limits">Full limitations</a> <a href="../rongo/">Results, method &amp; inventories</a></div></div>
 </aside>
 <!-- study-review:end -->
 
 <section class="part" id="claim"><div class="wrap">
-  <div class="part-head"><div class="n">01</div><h2>The claim, and why eyes are the wrong instrument</h2></div>
+  <div class="part-head"><div class="n">01</div><h2>The claim, and a metric that also needs testing</h2></div>
   <div class="two">
     <div class="prose">
       <p class="lede">In 1932 a Hungarian engineer, Guillaume de Hevesy, told the Paris Académie that dozens of signs from the Indus Valley seals matched the rongorongo glyphs of Easter Island. The chart below, a later redrawing, still circulates. On 3 September 2026 it was posted again, and a historian replied that twenty-four look-alikes out of some five hundred signs is "4.8% similarity", and that the drawings were made by hand by someone trying to highlight resemblances.</p>
       <p>Both sides are half right. Twenty-four selected pairs prove nothing on their own, because two inventories of 400 to 600 signs offer a quarter of a million candidate pairings, and a motivated eye will find look-alikes in any two pictographic systems. But dividing 24 by 500 is not a test either. The only honest question is: <em>are the Indus and rongorongo inventories more alike than two unrelated scripts are, when every script gets the same chance?</em></p>
-      <p>Nobody had run that test. The sign lists exist, in scans anyone can download. So we ran it, in the open, and this page is the result. Every number here is produced by code in the repository, from public sources, with the choices explained.</p>
+      <p>We built an exploratory test from scanned sign catalogues, and this page records the result. Every number here is produced by code in the repository, from public sources, with the choices explained.</p>
     </div>
     <figure class="hero-figure">
       <div class="frame"><img src="img/fig/chart.jpg" alt="The circulating chart of 24 Indus and Easter Island sign pairs"></div>
@@ -72,7 +72,7 @@
   <div class="prose">
     <div class="verdict">
       <div class="eyebrow">In one paragraph</div>
-      <p>Measured against the complete catalogues rather than the hand-drawn chart, the Indus script and rongorongo are <b>not</b> unusually alike. Their overall similarity lands in the middle of the pack of unrelated script pairs (rank <span data-v="rank_best24"></span> of 55 on the main statistic), far below the one pair in the set that is genuinely related (Linear A and Linear B). One thing did stand out at first: among the controls, Indus was rongorongo's single best match, winning <span data-v="lineup_indus_pct"></span> of the nearest-neighbour lineup where chance is 10%. That advantage vanished when the control scripts were given hand-drawn wobble to match the two scanned sources, dropping to <span data-v="lineup_w_indus_pct"></span>: it was the drawing style, not the signs. And of the 24 famous pairs, the chart drawings resemble each other more than the catalogue signs they depict in <span data-v="fid_inflated"></span> cases; only <span data-v="fid_match"></span> catalogue pair (the figure-eight) clears the match threshold.</p>
+      <p>Under this metric applied to the selected catalogue drawings, the Indus–rongorongo pair did not stand out. Their overall similarity lands in the middle of the pack of unrelated script pairs (rank <span data-v="rank_best24"></span> of 55 on the main statistic), far below the one pair in the set that is genuinely related (Linear A and Linear B). One thing did stand out at first: among the controls, Indus was rongorongo's single best match, winning <span data-v="lineup_indus_pct"></span> of the nearest-neighbour lineup where chance is 10%. That advantage vanished when the control scripts were given hand-drawn wobble to match the two scanned sources, dropping to <span data-v="lineup_w_indus_pct"></span>: the ranking was sensitive to the drawing-style intervention. And of the 24 famous pairs, the chart drawings resemble each other more than the catalogue signs they depict in <span data-v="fid_inflated"></span> cases; only <span data-v="fid_match"></span> catalogue pair (the figure-eight) clears the match threshold.</p>
     </div>
     <div class="stats">
       <div class="stat"><div class="num"><span data-v="rank_best24"></span><small> / 55</small></div><div class="lbl">Rank of Indus–rongorongo among all pairs of the eleven large scripts, by best-24 similarity. Middle of the distribution.</div></div>
@@ -80,7 +80,7 @@
       <div class="stat"><div class="num"><span data-v="fid_match"></span><small> of 24</small></div><div class="lbl">Chart pairs whose real catalogue signs score as a match (top 0.1% of random cross-script pairs). The figure-eight.</div></div>
       <div class="stat"><div class="num"><span data-v="fid_inflated"></span><small> of 24</small></div><div class="lbl">Chart pairs where the two drawings are more alike than the catalogue signs they stand for. The redrawing did some of the work.</div></div>
     </div>
-    <p>Three caveats travel with this verdict, and they are spelled out in <a href="#limits">section 10</a>: this compares catalogue drawings, not photographs of tablets and seals; the controls are font renderings; and shape similarity, however measured, can never establish or exclude historical contact by itself. What it can do is answer the narrow question the chart raises, and the answer is that the resemblance is ordinary.</p>
+    <p>Three caveats travel with this verdict, and they are spelled out in <a href="#limits">section 10</a>: this compares catalogue drawings, not photographs of tablets and seals; the controls are font renderings; and shape similarity, however measured, can never establish or exclude historical contact by itself. The independent-rendition check also limits interpretation: the combined metric retrieved the correct sign first in about 75% of queries, below HOG alone at about 81%. This is a result about a particular representation and metric; human-visible similarity needs its own validation.</p>
   </div>
 </div></section>
 
@@ -219,7 +219,7 @@
     <figcaption><b>All <span data-v="n_pairs"></span> Indus–rongorongo catalogue pairs, by combined similarity.</b> The dashed line is the match threshold; the ticks mark where the 24 chart pairs' catalogue signs fall. Most sit in the upper tail, as chosen look-alikes should, but the tail of a quarter-million pairs is a crowded place: <span data-v="target_matches"></span> pairs in the whole cross-product clear the threshold, and only one of them is on the chart.</figcaption>
   </figure>
   <div class="prose">
-    <p>The bottom row of the chart, the "nearly identical" simple shapes, is where the real matches are: the figure-eight, the oval with a stroke, the crescent, the lollipop, the fir tree. Those are also the signs with the least design space, the ones every pictographic system contains. The anthropomorphic rows, which would carry real weight if they matched as families, mostly resolve to catalogue signs that are ordinary Indus stick figures and ordinary rongorongo figures, alike at the level of "a person with something at the right hand" and not much beyond.</p>
+    <p>The bottom row of the chart, the "nearly identical" simple shapes, is where the real matches are: the figure-eight, the oval with a stroke, the crescent, the lollipop, the fir tree. Those are also the signs with the least design space, forms with many opportunities to recur in graphic systems. The anthropomorphic rows, which would carry real weight if they matched as families, mostly resolve to catalogue signs that are ordinary Indus stick figures and ordinary rongorongo figures, alike at the level of "a person with something at the right hand" and not much beyond.</p>
   </div>
 </div></section>
 

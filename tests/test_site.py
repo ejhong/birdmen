@@ -112,7 +112,7 @@ class SiteTests(unittest.TestCase):
     def test_published_outputs_are_current(self):
         self.assertEqual(publish.build(check=True), 0)
 
-    def test_all_studies_have_equal_card_structure(self):
+    def test_all_studies_remain_accessible_with_scope(self):
         self.assertEqual(len(self.studies), 5)
         self.assertEqual(len({s["id"] for s in self.studies}), 5)
         home = (DOCS / "index.html").read_text()
@@ -147,17 +147,17 @@ class SiteTests(unittest.TestCase):
                 else:
                     self.assertEqual(src.read_bytes(), dst.read_bytes())
 
-    def test_studies_precede_the_integrated_narrative(self):
+    def test_central_case_and_archive_are_accessible(self):
         page = self.pages[DOCS / "index.html"]
-        self.assertEqual(page.sections[0], "investigations")
-        self.assertLess(page.sections.index("investigations"), page.sections.index("pattern"))
-        self.assertEqual(page.sections.index("animals"), page.sections.index("handbags") + 1)
-        self.assertNotIn("new-comparisons", page.sections)
+        for target in ('pillar-and-moai.html', 'atlas.html', 'recognition.html', 'research-review.html', 'fenton.html'):
+            self.assertIn(target, page.links)
+        self.assertIn('investigations', page.ids)
+        self.assertNotIn('fenton', page.sections)
 
     def test_reference_images_are_in_their_topics_once(self):
-        page = self.pages[DOCS / "index.html"]
         manifest = json.loads((ROOT / "research/images.json").read_text())
-        images = [image for image in page.images if image.get("src", "").startswith("img/inputs/")]
+        pages = [self.pages[DOCS / name] for name in ['atlas.html', 'fenton.html']]
+        images = [image for page in pages for image in page.images if image.get("src", "").startswith("img/inputs/")]
         self.assertEqual(len(images), len(manifest))
         by_src = {image["src"]: image for image in images}
         self.assertEqual(len(by_src), len(manifest))
@@ -165,17 +165,16 @@ class SiteTests(unittest.TestCase):
             with self.subTest(image=item["output"]):
                 image = by_src["img/inputs/" + item["output"]]
                 self.assertEqual(image["section"], item["section"])
-                self.assertIn(f'href="img/inputs/{item["output"]}"', (DOCS / "index.html").read_text())
+                target = 'fenton.html' if item['section'] == 'fenton' else 'atlas.html'
+                self.assertIn(f'href="img/inputs/{item["output"]}"', (DOCS / target).read_text())
 
     def test_fenton_theory_is_stated_with_its_record(self):
-        page = self.pages[DOCS / "index.html"]
-        home = (DOCS / "index.html").read_text()
-        self.assertEqual(page.sections.index("fenton"), page.sections.index("pattern") + 1)
+        page = self.pages[DOCS / "fenton.html"]
+        home = (DOCS / "fenton.html").read_text()
         self.assertIn("https://x.com/GenomicSETI/status/1894160610822426795", home)
         self.assertIn('href="data/fenton-thread.md"', home)
         self.assertIn('src="img/fenton-map.svg"', home)
         self.assertEqual(len(re.findall(r'<article class="claim(?: flip)?"', home)), 13)
-        self.assertEqual(home.count('class="note fenton-note"'), 6)
         transcript = (ROOT / "research/fenton/thread.md").read_text()
         self.assertEqual(transcript, (DOCS / "data/fenton-thread.md").read_text())
         self.assertIn("[GAP:", transcript)
@@ -189,8 +188,8 @@ class SiteTests(unittest.TestCase):
             self.assertIn(anchor, page.ids)
 
     def test_bird_man_details_are_stated_with_pictures(self):
-        page = self.pages[DOCS / "index.html"]
-        home = (DOCS / "index.html").read_text()
+        page = self.pages[DOCS / "atlas.html"]
+        home = (DOCS / "atlas.html").read_text()
         self.assertIn("bird-or-birdman", page.ids)
         self.assertLess(page.ids.index("bird-detail"), page.ids.index("bird-or-birdman"))
         self.assertLess(page.ids.index("bird-or-birdman"), page.ids.index("handbags"))
@@ -217,7 +216,7 @@ class SiteTests(unittest.TestCase):
     def test_narrative_bookmark_page_does_not_duplicate_content(self):
         page = self.pages[DOCS / "narrative.html"]
         self.assertEqual(page.images, [])
-        self.assertIn("./#narrative", page.links)
+        self.assertIn("atlas.html#pattern", page.links)
         self.assertIn("location.replace(destination.href)", (DOCS / "narrative.html").read_text())
 
     def test_personal_bylines_are_removed(self):
@@ -254,7 +253,7 @@ class SiteTests(unittest.TestCase):
                         self.assertIn(unquote(parts.fragment), self.pages[target].ids)
 
     def test_new_pages_have_image_alternatives(self):
-        for name in ("index.html", "narrative.html", "civilisers.html"):
+        for name in ("index.html", "narrative.html", "civilisers.html", "atlas.html", "fenton.html", "pillar-and-moai.html", "recognition.html", "research-review.html"):
             for image in self.pages[DOCS / name].images:
                 self.assertTrue(image.get("alt"), (name, image.get("src")))
 

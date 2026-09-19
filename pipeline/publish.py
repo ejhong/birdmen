@@ -10,6 +10,7 @@ crop_inputs.py and only checked for presence here.
 """
 import argparse
 import html
+import hashlib
 import json
 from pathlib import Path
 import re
@@ -137,6 +138,96 @@ def validate(data):
                 raise ValueError(f"Mismatched figure evidence: {f['id']}")
 
 
+def validate_case(register):
+    ids = [s['id'] for s in register['sources']]
+    if len(ids) != len(set(ids)):
+        raise ValueError('Duplicate case source')
+    for item in register['images']:
+        if item['source'] not in ids:
+            raise ValueError('Unsupported case image')
+        path = ROOT / item['path']
+        if hashlib.sha256(path.read_bytes()).hexdigest() != item['sha256']:
+            raise ValueError(f'Case photograph changed: {path}')
+        if not all(item.get(k) for k in ['credit', 'rights', 'transformation', 'origin']):
+            raise ValueError('Incomplete image provenance')
+
+
+def case_sources(register):
+    return '<div class="case-sources">' + '\n'.join(
+        f'<article id="source-{esc(s["id"])}"><h3>{link(s["url"], s["title"])}</h3>'
+        f'<p class="source-inline">{esc(s["author"])} · {esc(s["date"])}</p><p>{esc(s["note"])}</p></article>'
+        for s in register['sources']) + '</div>'
+
+
+def case_images(register):
+    sources = {s['id']: s for s in register['sources']}
+    return '<ul class="source-inline">' + '\n'.join(
+        f'<li>{link(i["path"].removeprefix("docs/"), Path(i["path"]).name)} — '
+        f'{esc(i["credit"])}. {esc(i["rights"])}. {esc(i["transformation"])}. '
+        f'{link(sources[i["source"]]["url"], "Context / record")}.</li>'
+        for i in register['images']) + '</ul>'
+
+
+def recognition_results(result, reference):
+    t = result['totals']
+    all_pct = f'{100 * result["accuracy_all"]:.1f}%'
+    received = result['scorable'] - t['missing']
+    observed_pct = f'{100 * t["correct"] / received:.1f}%' if received else 'not available'
+    out = [f'''<div class="lab-summary"><div class="eyebrow">Frozen diagnostic · {esc(result['model'])}</div>
+<h3>The recognition screen was {'passed' if result['screening_pass'] else 'not passed'}.</h3>
+<p><b>{result['completed_requests']} of {result['planned_requests']} planned responses</b> completed.
+{t['correct']} of {result['scorable']} scorable answers matched the provisional references ({all_pct}, counting missing answers).
+Among received scorable answers, {t['correct']} of {received} matched ({observed_pct}).</p>
+<p>{t['wrong']} wrong · {t['abstained']} uncertain · {t['missing']} missing.
+The missing answers come from a request that failed with a connection error; they are not model perception errors.
+The received answers also fall below the frozen 90% threshold.</p>
+<p>Independent review: <b>{esc(result['independent_review'].replace('_', ' '))}</b>.
+Historical ranking: <b>not permitted</b>. This purposive pilot does not estimate the model’s general accuracy or the resemblance’s rarity.</p></div>''']
+    names = dict(avian='Bird / bird-headed figure', large_face='Large human face', scorpion='Scorpion', round_motif='Standalone round motif', three_arches='Three arched forms')
+    out.append('<div class="recognition-records">')
+    for im in reference['images']:
+        rows = [r for r in result['rows'] if r['id'] == im['id']]
+        score = sum(c['outcome'] == 'correct' for r in rows for c in r['cells'].values())
+        count = sum(len(r['cells']) for r in rows)
+        out.append(f'<details class="recognition-record" id="result-{esc(im["id"])}"><summary>{esc(im["label"])} <span>{score}/{count} reference matches</span></summary><div class="recognition-body">')
+        out.append(f'<figure><div class="recognition-photo"><img src="{esc(im["path"].removeprefix("docs/"))}" alt="{esc(im["label"])}" loading="lazy"><div class="model-box" hidden></div></div><figcaption>Unaltered input photograph. {link(im["source_url"], "Reference source")}. Model boxes are unverified claims of location.</figcaption><button class="btn clear-box" type="button">Clear location box</button></figure><div>')
+        out.append('<table class="read-table"><thead><tr><th scope="col">Feature</th><th scope="col">Reference</th><th scope="col">Run 1</th><th scope="col">Run 2</th></tr></thead><tbody>')
+        for f, label in names.items():
+            expected = im['expected'][f] or 'not scored'
+            out.append(f'<tr><th scope="row">{label}</th><td>{esc(expected)}</td>')
+            for row in rows:
+                cell = row['cells'].get(f, {})
+                obs = row.get('observation', {}).get(f, {})
+                answer = obs.get('answer', cell.get('answer')) or 'missing'
+                box = obs.get('box')
+                content = esc(answer)
+                if box:
+                    content = f'<button type="button" class="box-link" data-box="{esc(",".join(map(str, box)))}" aria-label="Show run {row["repeat"]} location for {esc(label)}">{content} ↗</button>'
+                out.append(f'<td class="outcome-{esc(cell.get("outcome", "unscored"))}">{content}</td>')
+            out.append('</tr>')
+        out.append('</tbody></table>')
+        for row in rows:
+            out.append(f'<h4>Run {row["repeat"]} · {esc(row["status"].replace("_", " "))}</h4>')
+            if row['description']:
+                out.append(f'<p>{esc(row["description"])}</p>')
+            else:
+                out.append('<p>No model description was received.</p>')
+            if row['observation']:
+                out.append('<details><summary>Feature explanations and limitations</summary><dl class="observation-notes">')
+                for f, label in names.items():
+                    out.append(f'<dt>{label}</dt><dd>{esc(row["observation"][f]["evidence"])}</dd>')
+                out.append(f'</dl><p>{esc(row["observation"]["limitations"])}</p></details>')
+            raw_link = link(f'data/pillar-moai/raw/{im["id"]}-{row["repeat"]}.json', 'Full saved response / request record')
+            out.append(f'<p class="source-inline">{raw_link}</p>')
+        out.append('</div></div></details>')
+    out.append('</div>')
+    cross = result['cross_view']
+    consistent = sum(v['consistent'] is True for v in cross)
+    available = sum(v['consistent'] is not None for v in cross)
+    out.append(f'<p class="source-inline">Repeat disagreement: {len(result["repeat_disagreements"])} scorable image-feature pairs changed answer between completed repeats. Cross-view consistency: {consistent}/{available} available feature comparisons agreed across two photographs in the same repeat. Agreement can still be wrong. {link("data/pillar-moai/results.json", "Complete machine-readable readout")}.</p>')
+    return '\n'.join(out)
+
+
 def build(check=False):
     studies = json.loads((ROOT / 'research/investigations.json').read_text())
     images = json.loads((ROOT / 'research/images.json').read_text())
@@ -173,6 +264,22 @@ def build(check=False):
     pending[DOCS / 'study4/source-method.md'] = (ROOT / 'research/civilisers/v2/method.md').read_text()
     pending[DOCS / 'study4/redo-protocol-draft.md'] = (ROOT / 'research/civilisers/v3/protocol-draft.md').read_text()
     pending[DOCS / 'data/fenton-thread.md'] = (ROOT / 'research/fenton/thread.md').read_text()
+    case = ROOT / 'research/pillar-moai/v2'
+    register = json.loads((case / 'sources.json').read_text())
+    validate_case(register)
+    case_page = (DOCS / 'pillar-and-moai.html').read_text()
+    case_page = replace_region(case_page, 'case-sources', case_sources(register))
+    pending[DOCS / 'pillar-and-moai.html'] = replace_region(case_page, 'case-images', case_images(register))
+    result = json.loads((ROOT / 'data/pillar-moai/v2/results.json').read_text())
+    reference = json.loads((case / 'reference.json').read_text())
+    if result['historical_ranking_permitted'] or result['independent_review'] != 'not_reviewed':
+        raise ValueError('This diagnostic has no independent review and cannot permit historical ranking')
+    pending[DOCS / 'recognition.html'] = replace_region((DOCS / 'recognition.html').read_text(), 'recognition-results', recognition_results(result, reference))
+    for source in list(case.glob('*.json')) + [case / 'protocol.md'] + list((ROOT / 'data/pillar-moai/v2').glob('*.json')):
+        pending[DOCS / 'data/pillar-moai' / source.name] = source.read_text()
+    for source in (ROOT / 'data/pillar-moai/v2/raw').glob('*.json'):
+        pending[DOCS / 'data/pillar-moai/raw' / source.name] = source.read_text()
+    pending[DOCS / 'data/pillar-moai/recognition.py'] = (ROOT / 'pipeline/recognition.py').read_text()
     changed = []
     for path, content in pending.items():
         if not path.exists() or path.read_text() != content:

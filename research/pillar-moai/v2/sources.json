@@ -1,0 +1,140 @@
+{
+  "checked": "2026-09-19",
+  "sources": [
+    {
+      "id": "dai",
+      "author": "Oliver Dietrich · Göbekli Tepe Research Project",
+      "title": "Of animals and a headless man: Pillar 43",
+      "url": "https://www.dainst.blog/the-tepe-telegrams/2016/10/14/of-animals-and-a-headless-man-gobekli-tepe-pillar-43/",
+      "date": "2016; updated 2017",
+      "note": "Excavation-team account. Separates visible motifs from alternative readings of the disc and arched forms."
+    },
+    {
+      "id": "dai-site",
+      "author": "Göbekli Tepe Research Project",
+      "title": "Our project: site and research context",
+      "url": "https://www.dainst.blog/the-tepe-telegrams/home/",
+      "date": "Project description",
+      "note": "Places the site in the tenth and ninth millennia BCE. Contextual site chronology is not a direct measurement of every carving."
+    },
+    {
+      "id": "bm-hoa",
+      "author": "British Museum",
+      "title": "Hoa Hakananai’a · Oc1869,1005.1",
+      "url": "https://www.britishmuseum.org/collection/object/E_Oc1869-1005-1",
+      "date": "Collection record",
+      "note": "Object identity and carvings. Exact chronology of successive carving episodes remains uncertain; an object date must not date every later mark."
+    },
+    {
+      "id": "bm-context",
+      "author": "British Museum",
+      "title": "Moai: history and Rapanui relationships",
+      "url": "https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection/moai",
+      "date": "Collection context",
+      "note": "Ancestral significance, removal from Orongo in 1868, and the living relationship with Rapanui communities. Direct page intermittently returns 403; indexed text checked in the source review."
+    },
+    {
+      "id": "pitts2014",
+      "author": "Mike Pitts, James Miles, Hembo Pagi & Graeme Earl",
+      "title": "Hoa Hakananai’a: a new study",
+      "url": "https://doi.org/10.1017/S0003581514000201",
+      "date": "Antiquaries Journal 94 (2014)",
+      "note": "Digital recording and carving sequence. The proposed fledgling narrative is an interpretation, not the only reading."
+    },
+    {
+      "id": "pitts2026",
+      "author": "Mike Pitts",
+      "title": "Back stories: new insights into the Rapa Nui statues",
+      "url": "https://mikepitts.wordpress.com/2026/06/03/back-stories-new-insights-into-the-rapa-nui-statues-in-the-british-museum/",
+      "date": "3 June 2026",
+      "note": "Researcher’s account of the 1917 geological sampling. The small plugged hole low on the right of the back is distinct from the large central ring."
+    },
+    {
+      "id": "boulder",
+      "author": "British Museum / Google Arts & Culture",
+      "title": "Birdman boulder · Oc1920,0506.1",
+      "url": "https://artsandculture.google.com/asset/birdman-boulder/-QEzFc9ehfO2ng",
+      "date": "Collection record",
+      "note": "Orongo provenance, Routledge collection, dimensions and an egg interpretation; catalogue creation range 1750–1875 is approximate."
+    },
+    {
+      "id": "routledge",
+      "author": "Katherine Routledge",
+      "title": "The Mystery of Easter Island · figure 112; pp. 261–263",
+      "url": "https://readingroo.ms/6/9/8/0/69807/69807-h/69807-h.htm",
+      "date": "1919; records the 1914–15 expedition",
+      "note": "Early photograph and reported accounts of the birdman competition. A colonial-period, mediated record; it does not exhaust Rapanui knowledge."
+    },
+    {
+      "id": "genomes",
+      "author": "Moreno-Mayar et al.",
+      "title": "Ancient Rapanui genomes reveal resilience and pre-European contact with the Americas",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11390480/",
+      "date": "Nature (2024)",
+      "note": "Genetic evidence for Native American ancestry and contact before European arrival. Does not connect a particular motif to Anatolia. Open full text of the Nature paper, DOI 10.1038/s41586-024-07881-4."
+    },
+    {
+      "id": "mapse",
+      "author": "Museo Antropológico Padre Sebastián Englert",
+      "title": "Painted slabs from the ceremonial village of Orongo",
+      "url": "https://www.museorapanui.gob.cl/multimedia/coleccion-de-lajas-pintadas-de-la-aldea-ceremonial-de-orongo-2",
+      "date": "Rapa Nui museum collection",
+      "note": "Local comparative material: painted birdman figures. A useful next reference set alongside the rock carvings."
+    },
+    {
+      "id": "hancock",
+      "author": "Graham Hancock",
+      "title": "Magicians of the Gods: author’s account",
+      "url": "https://grahamhancock.com/magicians/",
+      "date": "2015",
+      "note": "Primary source for his proposed lost Ice Age civilisation and travelling survivors. A statement of a hypothesis, not independent corroboration."
+    }
+  ],
+  "images": [
+    {
+      "path": "docs/img/case/pillar43.jpg",
+      "origin": "data/s3/raw/targets/p43_full_dai.jpg",
+      "source": "dai",
+      "credit": "DAI / K. Schmidt",
+      "rights": "Copyright DAI; retained for criticism and commentary, not freely licensed",
+      "transformation": "None: copied or downloaded bytes unchanged",
+      "sha256": "25dd338ef57f1ff2aa9b5689f9e2354a72499551f38b4810fa029d758231ef84"
+    },
+    {
+      "path": "docs/img/case/pillar43-alt.jpg",
+      "origin": "data/s3/raw/targets/p43_full_dai2.jpg",
+      "source": "dai",
+      "credit": "DAI / Göbekli Tepe Project; original study attribution",
+      "rights": "Copyright DAI; retained for criticism and commentary, not freely licensed",
+      "transformation": "None: copied or downloaded bytes unchanged",
+      "sha256": "0582b75a16dfad807e935eecfd678a21bd69f40fe8bcd797a46f94df298e8a39"
+    },
+    {
+      "path": "docs/img/case/hoa-back.jpg",
+      "origin": "data/s3/raw/rapa_nui/rapa_nui_0113.jpg",
+      "source": "bm-hoa",
+      "credit": "James Miles",
+      "rights": "CC BY-SA 4.0",
+      "transformation": "None: copied or downloaded bytes unchanged",
+      "sha256": "6423650349c94eea361953a047faf662b60f59c0b192911921f6f946a89b19fd"
+    },
+    {
+      "path": "docs/img/case/hoa-back-alt.jpg",
+      "origin": "data/s3/raw/rapa_nui/rapa_nui_0004.jpg",
+      "source": "bm-hoa",
+      "credit": "Sanjay ach",
+      "rights": "CC BY-SA 4.0",
+      "transformation": "None: copied or downloaded bytes unchanged",
+      "sha256": "b940280c011d0e3278261a690bd771454e42a8d9fea51d4c6235b62d405ca2e2"
+    },
+    {
+      "path": "docs/img/case/orongo-1919.jpg",
+      "origin": "https://readingroo.ms/6/9/8/0/69807/69807-h/images/f_112.jpg",
+      "source": "routledge",
+      "credit": "Photograph published in Katherine Routledge, The Mystery of Easter Island (1919), fig. 112; digitised by Project Gutenberg",
+      "rights": "Public-domain publication",
+      "transformation": "None: copied or downloaded bytes unchanged",
+      "sha256": "759e3b5f7f0685f3246007a2abeef791df006800bd8f283231ee30102de59727"
+    }
+  ]
+}

@@ -1,3 +1,44 @@
+# The pillar, the moai and the bird — 19 September 2026
+
+This edition centres the general question of ancient resemblance on the actual
+objects. It does not claim to solve their historical relationship.
+
+- New photographic homepage and central dossier, with alternate views, zoom,
+  optional location guides, linked scrolling, a geographic context map and a
+  chronology that separates the moai from later carving episodes.
+- Identified the supplied bird-and-round-object rock as the British Museum's Orongo
+  birdman boulder, Oc1920,0506.1. Added Routledge's 1919 figure 112 as an earlier
+  photographic witness. Dark lines on the modern reference remain unexplained.
+- Retained a wider atlas and moved Fenton's full illustrated thread into a separate
+  essay. Hancock and Fenton have comparable, sourced introductions on the homepage.
+  Guest authors on Hancock's site are not attributed to him.
+- Added a comparison of visible features and alternative explanations. The central
+  ring and the small modern sampling plug on the moai are distinguished. Recent
+  evidence of Polynesian–American contact is included without implying an Anatolian
+  connection. No generated imagery is used as evidence.
+- Audited all five studies. Removed the claim that the old image pilots answered
+  the resemblance question, corrected the use of historically loaded sub-scores
+  as an independent resemblance test, qualified blinding, and removed causal claims
+  drawn from geographical dispersion alone. Original statistics and responses remain.
+- Ran a frozen recognition diagnostic: 20 planned requests, 19 completed and one
+  connection failure. Of 94 scorable feature answers, 73 matched provisional
+  source-informed references, four were wrong, 12 uncertain and five missing.
+  It did not pass the perception screen. References and model locations have not
+  been independently reviewed; no historical ranking is permitted.
+- Published every request record, input/reference register, prompt/schema/settings
+  freeze and result. Errors are preserved. The four older responses selected for
+  the audit demonstrate failures; they are not a measured failure rate.
+- Updated offline and browser checks for source integrity, missing/uncertain
+  answers, critical perception failures, accessible image controls, mobile layouts,
+  old bookmarks and pages readable without JavaScript. Fixed the old browser test
+  that waited for a lazy-loaded image outside the scrolled-to region.
+
+New edition source files are in `research/pillar-moai/v2/`; new response files are
+in `data/pillar-moai/v2/`. Old data and original protocol/change logs are untouched.
+The earlier layout notes below describe earlier editions, not the present navigation.
+
+---
+
 # Editorial and research revisions — 5 September 2026
 
 All five investigations remain equally accessible. This is not a deletion, a ranking of

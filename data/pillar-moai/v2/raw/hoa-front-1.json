@@ -1,0 +1,349 @@
+{
+  "image": "hoa-front",
+  "repeat": 1,
+  "started_at": "2026-09-19T15:27:17.341627+00:00",
+  "status": "complete",
+  "freeze_sha256": "0d010e51497570b33a65782c30eee8604df90143136b68c648503bf353ef62b9",
+  "estimated_cost_usd": 0.017265,
+  "response": {
+    "id": "resp_07874879ce415111016aaea9d57e8087d09424ddfd7fae33c7",
+    "created_at": 1789831637.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.5-2026-04-23",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_07874879ce415111016aaea9d68b2487d0a2dc24410aa74bea",
+        "content": [
+          {
+            "annotations": [],
+            "text": "{\"description\":\"The main stone carving shows a standing humanlike figure with a very large head, deep eye sockets, a prominent nose, and a projecting brow/mouth area. The torso is simplified with raised breasts or nipples, a rounded belly, and arms held close to the sides; the lower portion is partly hidden by the pedestal.\",\"avian\":{\"answer\":\"absent\",\"evidence\":\"No carved bird, beak-like bird head, wings, or birdlike figure is visible on the main stone surface.\",\"box\":null},\"large_face\":{\"answer\":\"present\",\"evidence\":\"A large front/oblique human face with eye sockets, nose, brow, and mouth area occupies the upper part of the carving.\",\"box\":[0.35,0.17,0.63,0.45]},\"scorpion\":{\"answer\":\"absent\",\"evidence\":\"No small figure with legs or a segmented upturned tail is visible on the carved surface.\",\"box\":null},\"round_motif\":{\"answer\":\"absent\",\"evidence\":\"Apart from facial features and body nipples/navel-like forms, no distinct separate circular motif is visible.\",\"box\":null},\"three_arches\":{\"answer\":\"absent\",\"evidence\":\"There are no three repeated arch-topped forms arranged side by side on the visible carved surface.\",\"box\":null},\"limitations\":\"Lighting is bright from above and the stone surface is rough, with the lower body partly obscured by the pedestal; shallow or worn details could be difficult to read.\"}",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "conversation": null,
+    "max_output_tokens": 3500,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "effort": "low",
+      "generate_summary": null,
+      "summary": null,
+      "context": "current_turn",
+      "mode": "standard"
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "name": "recognition",
+        "schema_": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "description": {
+              "type": "string"
+            },
+            "avian": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "answer": {
+                  "type": "string",
+                  "enum": [
+                    "present",
+                    "absent",
+                    "uncertain"
+                  ]
+                },
+                "evidence": {
+                  "type": "string"
+                },
+                "box": {
+                  "anyOf": [
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "number"
+                      },
+                      "minItems": 4,
+                      "maxItems": 4
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "answer",
+                "evidence",
+                "box"
+              ]
+            },
+            "large_face": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "answer": {
+                  "type": "string",
+                  "enum": [
+                    "present",
+                    "absent",
+                    "uncertain"
+                  ]
+                },
+                "evidence": {
+                  "type": "string"
+                },
+                "box": {
+                  "anyOf": [
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "number"
+                      },
+                      "minItems": 4,
+                      "maxItems": 4
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "answer",
+                "evidence",
+                "box"
+              ]
+            },
+            "scorpion": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "answer": {
+                  "type": "string",
+                  "enum": [
+                    "present",
+                    "absent",
+                    "uncertain"
+                  ]
+                },
+                "evidence": {
+                  "type": "string"
+                },
+                "box": {
+                  "anyOf": [
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "number"
+                      },
+                      "minItems": 4,
+                      "maxItems": 4
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "answer",
+                "evidence",
+                "box"
+              ]
+            },
+            "round_motif": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "answer": {
+                  "type": "string",
+                  "enum": [
+                    "present",
+                    "absent",
+                    "uncertain"
+                  ]
+                },
+                "evidence": {
+                  "type": "string"
+                },
+                "box": {
+                  "anyOf": [
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "number"
+                      },
+                      "minItems": 4,
+                      "maxItems": 4
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "answer",
+                "evidence",
+                "box"
+              ]
+            },
+            "three_arches": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "answer": {
+                  "type": "string",
+                  "enum": [
+                    "present",
+                    "absent",
+                    "uncertain"
+                  ]
+                },
+                "evidence": {
+                  "type": "string"
+                },
+                "box": {
+                  "anyOf": [
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "number"
+                      },
+                      "minItems": 4,
+                      "maxItems": 4
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "answer",
+                "evidence",
+                "box"
+              ]
+            },
+            "limitations": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "description",
+            "avian",
+            "large_face",
+            "scorpion",
+            "round_motif",
+            "three_arches",
+            "limitations"
+          ]
+        },
+        "type": "json_schema",
+        "description": null,
+        "strict": true
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1599,
+      "input_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0
+      },
+      "output_tokens": 309,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1908
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1789831642,
+    "frequency_penalty": 0.0,
+    "moderation": null,
+    "presence_penalty": 0.0,
+    "store": false,
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    }
+  },
+  "observation": {
+    "description": "The main stone carving shows a standing humanlike figure with a very large head, deep eye sockets, a prominent nose, and a projecting brow/mouth area. The torso is simplified with raised breasts or nipples, a rounded belly, and arms held close to the sides; the lower portion is partly hidden by the pedestal.",
+    "avian": {
+      "answer": "absent",
+      "evidence": "No carved bird, beak-like bird head, wings, or birdlike figure is visible on the main stone surface.",
+      "box": null
+    },
+    "large_face": {
+      "answer": "present",
+      "evidence": "A large front/oblique human face with eye sockets, nose, brow, and mouth area occupies the upper part of the carving.",
+      "box": [
+        0.35,
+        0.17,
+        0.63,
+        0.45
+      ]
+    },
+    "scorpion": {
+      "answer": "absent",
+      "evidence": "No small figure with legs or a segmented upturned tail is visible on the carved surface.",
+      "box": null
+    },
+    "round_motif": {
+      "answer": "absent",
+      "evidence": "Apart from facial features and body nipples/navel-like forms, no distinct separate circular motif is visible.",
+      "box": null
+    },
+    "three_arches": {
+      "answer": "absent",
+      "evidence": "There are no three repeated arch-topped forms arranged side by side on the visible carved surface.",
+      "box": null
+    },
+    "limitations": "Lighting is bright from above and the stone surface is rough, with the lower body partly obscured by the pedestal; shallow or worn details could be difficult to read."
+  },
+  "finished_at": "2026-09-19T15:27:22.249236+00:00"
+}

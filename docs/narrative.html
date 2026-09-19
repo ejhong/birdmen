@@ -8,9 +8,9 @@
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="collection.css">
 <script>
-const destination = new URL("./", location.href);
+const destination = new URL(location.hash.startsWith("#fenton") ? "fenton.html" : "atlas.html", location.href);
 destination.search = location.search;
-destination.hash = location.hash || "#narrative";
+destination.hash = location.hash === "#new-comparisons" ? "#animals" : location.hash === "#narrative" ? "#pattern" : location.hash || "#pattern";
 location.replace(destination.href);
 </script>
 <meta property="og:type" content="website">
@@ -29,10 +29,10 @@ location.replace(destination.href);
 </head>
 <body>
 <main class="wrap">
-  <h1 style="margin-top:64px">One page, all the evidence.</h1>
-  <p>The illustrated narrative now follows the studies on the main page.</p>
-  <p><a href="./#narrative">Continue to the narrative →</a></p>
-  <nav aria-label="Narrative sections"><p><a href="./#birdmen">Bird-men</a> · <a href="./#handbags">Handbags</a> · <a href="./#animals">Pigs &amp; lizards</a> · <a href="./#navel">The navel</a> · <a href="./#civilisers">Civilisers</a> · <a href="./#sources">Sources</a></p></nav>
+  <h1 style="margin-top:64px">The illustrated atlas.</h1>
+  <p>The wider comparisons now have their own atlas. The pillar, moai and birdman boulder lead the main inquiry.</p>
+  <p><a href="atlas.html#pattern">Continue to the narrative →</a></p>
+  <nav aria-label="Narrative sections"><p><a href="atlas.html#birdmen">Bird-men</a> · <a href="atlas.html#handbags">Handbags</a> · <a href="atlas.html#animals">Pigs &amp; lizards</a> · <a href="atlas.html#navel">The navel</a> · <a href="atlas.html#civilisers">Civilisers</a> · <a href="atlas.html#sources">Sources</a></p></nav>
 </main>
 </body>
 </html>

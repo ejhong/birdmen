@@ -1,0 +1,316 @@
+{
+  "protocol": "recognition-2.0",
+  "model": "gpt-5.5",
+  "reasoning": "low",
+  "detail": "high",
+  "max_output_tokens": 3500,
+  "estimated_budget_usd": 5,
+  "reservation_per_request_usd": 0.23,
+  "input_per_million_usd": 5,
+  "output_per_million_usd": 30,
+  "prompt": "Look only at the carved surface of the main stone object in this photograph.\nIgnore objects, people, labels and artworks in the background. Describe the visible\ncarving in two or three literal sentences before answering the feature questions.\nDo not infer features from recognising an object. Separate what you can see from\nwhat you might know. Do not discuss origin, date, meaning, historical connection,\nor similarity to any other artwork.\nFor each feature report present, absent, or uncertain, with a short visual reason:\navian: a carved bird or figure with a birdlike head/beak (natural or humanlike body).\nlarge_face: a large human face, with facial features, on the main visible surface\n(a front or oblique front view counts; a blank back of a head does not).\nscorpion: a carved scorpion, including legs and/or a segmented upturned tail.\nround_motif: a distinct round/circular motif other than an eye, nostril, navel or\nobvious modern repair. Do not assume that its meaning is an egg or celestial body.\nthree_arches: three repeated arch-topped forms arranged side by side in a row.\nIf the image is too ambiguous, say uncertain, not absent. For present features,\ngive one bounding box [left, top, right, bottom], coordinates 0 to 1 relative to\nthe whole photograph. Use null if you cannot locate it reliably. Do not trace or\nreconstruct lost lines. In limitations, note anything which makes reading difficult.",
+  "schema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "description": {
+        "type": "string"
+      },
+      "avian": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "answer": {
+            "type": "string",
+            "enum": [
+              "present",
+              "absent",
+              "uncertain"
+            ]
+          },
+          "evidence": {
+            "type": "string"
+          },
+          "box": {
+            "anyOf": [
+              {
+                "type": "array",
+                "items": {
+                  "type": "number"
+                },
+                "minItems": 4,
+                "maxItems": 4
+              },
+              {
+                "type": "null"
+              }
+            ]
+          }
+        },
+        "required": [
+          "answer",
+          "evidence",
+          "box"
+        ]
+      },
+      "large_face": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "answer": {
+            "type": "string",
+            "enum": [
+              "present",
+              "absent",
+              "uncertain"
+            ]
+          },
+          "evidence": {
+            "type": "string"
+          },
+          "box": {
+            "anyOf": [
+              {
+                "type": "array",
+                "items": {
+                  "type": "number"
+                },
+                "minItems": 4,
+                "maxItems": 4
+              },
+              {
+                "type": "null"
+              }
+            ]
+          }
+        },
+        "required": [
+          "answer",
+          "evidence",
+          "box"
+        ]
+      },
+      "scorpion": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "answer": {
+            "type": "string",
+            "enum": [
+              "present",
+              "absent",
+              "uncertain"
+            ]
+          },
+          "evidence": {
+            "type": "string"
+          },
+          "box": {
+            "anyOf": [
+              {
+                "type": "array",
+                "items": {
+                  "type": "number"
+                },
+                "minItems": 4,
+                "maxItems": 4
+              },
+              {
+                "type": "null"
+              }
+            ]
+          }
+        },
+        "required": [
+          "answer",
+          "evidence",
+          "box"
+        ]
+      },
+      "round_motif": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "answer": {
+            "type": "string",
+            "enum": [
+              "present",
+              "absent",
+              "uncertain"
+            ]
+          },
+          "evidence": {
+            "type": "string"
+          },
+          "box": {
+            "anyOf": [
+              {
+                "type": "array",
+                "items": {
+                  "type": "number"
+                },
+                "minItems": 4,
+                "maxItems": 4
+              },
+              {
+                "type": "null"
+              }
+            ]
+          }
+        },
+        "required": [
+          "answer",
+          "evidence",
+          "box"
+        ]
+      },
+      "three_arches": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "answer": {
+            "type": "string",
+            "enum": [
+              "present",
+              "absent",
+              "uncertain"
+            ]
+          },
+          "evidence": {
+            "type": "string"
+          },
+          "box": {
+            "anyOf": [
+              {
+                "type": "array",
+                "items": {
+                  "type": "number"
+                },
+                "minItems": 4,
+                "maxItems": 4
+              },
+              {
+                "type": "null"
+              }
+            ]
+          }
+        },
+        "required": [
+          "answer",
+          "evidence",
+          "box"
+        ]
+      },
+      "limitations": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "description",
+      "avian",
+      "large_face",
+      "scorpion",
+      "round_motif",
+      "three_arches",
+      "limitations"
+    ]
+  },
+  "sha256": {
+    "research/pillar-moai/v2/protocol.md": "7607b018bec95714e297175bac3f74d58f0494210aa661674110f7097195cc7e",
+    "research/pillar-moai/v2/reference.json": "e8d44ea776ce383925d9f75c8f0230daff498c80576eff103328829a6e26d3f8",
+    "pipeline/recognition.py": "f8c3e3934535b259b368d67b0d04bfa270cdbec5e84da5b39020b80db8a7d09f",
+    "docs/img/case/pillar43.jpg": "25dd338ef57f1ff2aa9b5689f9e2354a72499551f38b4810fa029d758231ef84",
+    "docs/img/case/pillar43-alt.jpg": "0582b75a16dfad807e935eecfd678a21bd69f40fe8bcd797a46f94df298e8a39",
+    "docs/img/case/hoa-back.jpg": "6423650349c94eea361953a047faf662b60f59c0b192911921f6f946a89b19fd",
+    "docs/img/case/hoa-back-alt.jpg": "b940280c011d0e3278261a690bd771454e42a8d9fea51d4c6235b62d405ca2e2",
+    "docs/img/motifs/hoa_front.jpg": "23949304418b43fd339d6bf58067fd04a06d1c3857ed3d4e4e1cb112ab3c616c",
+    "docs/img/case/orongo-1919.jpg": "759e3b5f7f0685f3246007a2abeef791df006800bd8f283231ee30102de59727",
+    "docs/img/inputs/bird-figure.jpeg": "68d0d01c27bff764934ac8650922a1414a83fdb8eaff59c7d37c4472e4cb370c",
+    "docs/img/motifs/orongo.jpg": "d986cecdfe64e607a6f30d6e974f5269b134a8a6536cb727a4f20203d95aef9e",
+    "docs/img/motifs/urfa_man.jpg": "47c6140448e3ff2e22647646b0bafc643f8629033ad8cbb728440c7ac8de1938",
+    "docs/img/motifs/omphalos.jpg": "a757a8ce4325284c9366e2b81f7ae6ebd5b93f39354e210148b3d90007369e9c"
+  },
+  "request_order": [
+    [
+      "hoa-back",
+      1
+    ],
+    [
+      "omphalos",
+      1
+    ],
+    [
+      "boulder-modern",
+      1
+    ],
+    [
+      "p43-alt",
+      2
+    ],
+    [
+      "hoa-front",
+      1
+    ],
+    [
+      "hoa-back-alt",
+      1
+    ],
+    [
+      "p43",
+      1
+    ],
+    [
+      "orongo",
+      2
+    ],
+    [
+      "hoa-back-alt",
+      2
+    ],
+    [
+      "boulder-1919",
+      2
+    ],
+    [
+      "urfa",
+      1
+    ],
+    [
+      "p43-alt",
+      1
+    ],
+    [
+      "hoa-back",
+      2
+    ],
+    [
+      "boulder-modern",
+      2
+    ],
+    [
+      "urfa",
+      2
+    ],
+    [
+      "omphalos",
+      2
+    ],
+    [
+      "hoa-front",
+      2
+    ],
+    [
+      "orongo",
+      1
+    ],
+    [
+      "p43",
+      2
+    ],
+    [
+      "boulder-1919",
+      1
+    ]
+  ],
+  "frozen_at": "2026-09-19T15:26:12.048396+00:00"
+}

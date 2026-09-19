@@ -1,25 +1,215 @@
 [
-  {"input":"G2ton0sW4AAvNeJ.jpeg","output":"bird-figure.jpeg","section":"birdmen","description":"Bird-headed figure with a bent limb and rounded object; user-supplied photograph.","identification":"Object, collection and surface markings not yet verified.","credit":"User-supplied reference; original photographer and licence unresolved. Included for commentary, not offered under the code licence."},
-  {"input":"G2ton0wWsAAAUG8.jpeg","output":"pillar43-bird-detail.jpeg","section":"birdmen","description":"Crop of the bird and disc on Göbekli Tepe Pillar 43.","identification":"Pillar identification consistent with the excavation team's photographs; the crop's photographic credit is unresolved.","credit":"User-supplied reference; original photographic credit unresolved. Included for commentary."},
-  {"input":"GyOrhvIWEAANDih.jpeg","output":"boar-museum.jpeg","section":"animals","description":"Compact boar-like stone sculpture photographed in a museum case.","identification":"Museum, object identifier and find context not independently verified from this photograph.","credit":"User-supplied reference; original photographer and licence unresolved. Included for commentary."},
-  {"input":"GyOrl3JWQAA4Z2k.jpeg","output":"lingjiatan-pig.jpeg","section":"animals","description":"Pig-form carving with a Chinese caption identifying Lingjiatan tomb 07M23 and a weight of 88 kg.","identification":"Identification and weight are transcribed from the supplied caption, not an independent object-catalogue verification. The caption's superlative claims are not adopted.","credit":"User-supplied reference; original photographer and licence unresolved. Included for commentary."},
-  {"input":"GyOru5ObUAEerOZ.jpeg","output":"animal-in-context.jpeg","section":"animals","description":"Crouched animal sculpture in an architectural setting, with a perforated slab behind it.","identification":"Consistent with the Göbekli Tepe Enclosure C entrance discussed by the excavation team. Exact photograph attribution remains unverified; do not label it a boar solely by appearance.","credit":"User-supplied reference; likely excavation photography, original credit unresolved. Included for commentary."},
-  {"input":"GyOtfJvWEAARt4O.jpeg","output":"animal-montage.jpeg","section":"animals","description":"Montage of animal sculptures and reliefs captioned in Chinese as animals found at the site; Göbekli Tepe is also named.","identification":"Several distinct objects and potentially several animal identifications. Individual images are not independent provenanced records; do not code the whole montage as lizards.","credit":"User-supplied montage; underlying photographers and rights unresolved. Included for commentary."},
-
-  {"input":"HR2iM6gbYAId30i.jpeg","output":"gate-of-the-sun.jpeg","section":"birdmen","description":"The Gate of the Sun at Tiwanaku from the front: the monolithic gateway with its cracked lintel, the central staff-bearer above the doorway and three rows of small winged attendants running towards it on either side.","identification":"The monument is securely identified: the Gate of the Sun (Puerta del Sol), Tiwanaku, Bolivia, a single block about 3 m high and 4 m wide, Tiwanaku period, c. 500–950 CE. The frieze has 48 attendant figures, 16 of them with bird heads, all running towards the central figure; identifying the central figure as Viracocha is a modern reading. The photograph was not matched to a Wikimedia Commons file.","credit":"User-supplied reference from a post on X by Jason Wilde (@JasonWilde108), quoted by Archaic Lens (@ArchaicLens) on 10 September 2026; the screenshot is preserved in inputs/. Original photographer and licence unresolved. Included for commentary, not offered under the code licence."},
-  {"input":"Screenshot 2026-09-06 at 6.11.46 AM.png","crop":[98,385,1134,1178],"output":"nan-madol-navigator.jpg","section":"civilisers","description":"Left: a carved hardwood figure with a round head and arms akimbo, standing on a base indoors. Right: a video still of Nan Madol's basalt walls above a tidal pool, with palms. Both attached to a post by Archaic Lens (@ArchaicLens) of 6 September 2026 reporting a Pohnpeian oral tradition of 'the navigator'.","identification":"The right-hand picture is consistent with the basalt islets of Nan Madol, Pohnpei. The carving is not identified: the poster calls it an effigy of 'the navigator'; its maker, date and the tradition it belongs to are not given. Carvers from Kapingamarangi living in Kolonia are known for hardwood figures, which is a resemblance, not an identification. The published Pohnpeian founding traditions checked (Olisihpa and Olosohpa; Isokelekel) do not use the name.","credit":"Screenshot of a post by Archaic Lens (@ArchaicLens), 6 September 2026, cropped to its two pictures without other changes; the photographs are the poster's own. Reproduced for commentary."},
-  {"input":"fenton/IMG_8503.JPG","output":"fenton/bird-and-ball.jpg","section":"fenton","description":"Left: a rock painting from northern Australia of a striped, upright figure with a rayed disc beside its head. Right: the bird and disc on Göbekli Tepe Pillar 43. The opening image of Bruce R. Fenton's thread of 24 February 2025.","identification":"Fenton describes the painting as sacred art from Arnhem Land and says it is older than the pillar. The painting's site, style and date are not given in the thread; text and image searches in September 2026 did not find it. The Pillar 43 detail matches the excavation team's photographs.","credit":"Image as posted by Bruce R. Fenton (@GenomicSETI, 24 February 2025); underlying photographers unresolved. Reproduced unchanged for commentary."},
-  {"input":"fenton/IMG_8506.JPG","output":"fenton/bush-bucket.jpg","section":"fenton","description":"A drawing of a painted bark bush bucket, a detail of one handled shape on Pillar 43, and a printed excerpt of Kimberley lore about the ancestor Wúrulawúrula, his bucket of yams and the Ungud serpent.","identification":"The excerpt is unattributed in the post. Its rivers, orthography and the Wóndjina and Ungud terms match Andreas Lommel's ethnography of the Unambal (Wunambal) of the north-west Kimberley (German edition 1952, English edition 1997); that attribution is this project's inference, supported by a Google Books search inside the 1997 edition, which returns one page for 'bush buckets' (page not inspected). The drawing's source is not given.","credit":"Image as posted by Bruce R. Fenton; drawing and text from an unnamed publication. Reproduced unchanged for commentary."},
-  {"input":"fenton/IMG_8508.JPG","output":"fenton/churinga-symbols.jpg","section":"fenton","description":"Montage: a Göbekli Tepe pillar with a bracket-and-disc glyph, a man with a painted chest design of similar form, a pillar relief with bracketed shapes, and an incised churinga (tjurunga).","identification":"The painted man is a process print in the Wellcome Collection (reference 21428i), captioned 'The wizard of the Worgaia, a great medicine man of Central Australia, as the signs on his body show. He instructs tribes in mysteries.', identified by image comparison in September 2026; its date and first publication are not recorded there. Pillar numbers and the churinga's collection are not identified in the post. Churinga are sacred objects of Central Australia rather than Arnhem Land.","credit":"Montage as posted by Bruce R. Fenton; underlying photographers unresolved. Reproduced unchanged for commentary."},
-  {"input":"fenton/IMG_8511.JPG","output":"fenton/t-shapes.jpg","section":"fenton","description":"Fenton's captioned montage: early photographs of men in tall ceremonial headdresses, a Göbekli Tepe animal relief and an illuminated T-pillar, a group photograph with painted chest designs, and a rock painting he reads as a T-shaped column with legs.","identification":"The '1920's publication' is not named. The headdress photographs match the subjects and style of Spencer and Gillen's Arrernte ceremony photographs of the 1890s (compare the Commons file Corroboree.jpg, before 1900), but the exact plates were not identified by image comparison in September 2026. The rock painting's site is not given and was not found.","credit":"Montage by Bruce R. Fenton (AncientNews.com) as posted; underlying photographers unresolved. Reproduced unchanged for commentary."},
-  {"input":"fenton/IMG_8513.JPG","output":"fenton/yinganna.jpg","section":"fenton","description":"A large rock painting under an overhang: a round head with two eyes above radiating, banded limbs in red and white ochre.","identification":"Fenton identifies the figure as Yinganna (Yingarna), the creation mother of western Arnhem Land. Identified by image comparison in September 2026 as the Yingarna painting on Injalak Hill beside Gunbalanya (Oenpelli): the rock face, the headband and the fifteen striped dilly bags match a photograph published in 2007 and the published descriptions. Taçon, May, Jalandoni and Mungulda (2026) count it among the region's recent, post-contact Rainbow Serpent paintings. The site is on Kunwinjku country and is visited with local guides; the post gives none of this.","credit":"Photograph as posted by Bruce R. Fenton; photographer unresolved. Reproduced unchanged for commentary."},
-  {"input":"fenton/IMG_8515.JPG","output":"fenton/birthing-figure.jpg","section":"fenton","description":"Top left: the incised squatting woman from Göbekli Tepe's Lion Pillar Building. Top right: an Arnhem Land painting of a figure in a similar posture above a field of rounded plant forms. Bottom: a bark painting of a Rainbow Serpent with plants sprouting from its back and two projections on its head.","identification":"The excavators describe the Göbekli Tepe figure as a later graffito on a slab, not part of the original decoration. The Arnhem Land painting and the bark painting are not identified in the post, and an image search in September 2026 did not find them.","credit":"Montage as posted by Bruce R. Fenton; underlying photographers and the bark painter unresolved. Reproduced unchanged for commentary."},
-  {"input":"fenton/IMG_8517.JPG","output":"fenton/serpent-heads.jpg","section":"fenton","description":"Four carved serpents from Pre-Pottery Neolithic south-east Anatolia with broad, flattened heads: on a standing stone, on Pillar 43, on a sculpture and on a pillar.","identification":"Object identifications are not given in the post; the Pillar 43 detail is recognisable. Which of the four come from Göbekli Tepe rather than related sites has not been verified; an image search in September 2026 did not settle it.","credit":"Montage as posted by Bruce R. Fenton; underlying photographers unresolved. Reproduced unchanged for commentary."},
-  {"input":"fenton/IMG_8522.JPG","output":"fenton/seafaring-article.jpg","section":"fenton","description":"Screenshot of a Popular Mechanics article by Tim Newcomb on Pleistocene seafaring technology in Island Southeast Asia, above a topographic map of the Indian Ocean region.","identification":"The article reports Fuentes and Pawlik (2025), Journal of Archaeological Science: Reports.","credit":"Popular Mechanics page as posted by Bruce R. Fenton. Reproduced unchanged for commentary."},
-  {"input":"fenton/IMG_8524.JPG","output":"fenton/sunda-shelf.jpg","section":"fenton","description":"Two paragraphs from the same article above a bathymetric map on which the continental shelves exposed at lowered sea level are coloured red.","identification":"Map source not given in the post; the red areas correspond to the Sunda and Sahul shelves and other shelves at roughly glacial sea level.","credit":"Image as posted by Bruce R. Fenton; map maker unresolved. Reproduced unchanged for commentary."},
-  {"input":"fenton/IMG_8519.PNG","crop":[198,1620,1152,2340],"output":"fenton/cereal-map.jpg","section":"fenton","description":"Map of the distribution of wild einkorn, emmer and barley with markers of the Göbekli Tepe 'ritual community' (communal buildings, T-pillar sites, decorated shaft straighteners, Jerf el Ahmar plaquettes, Hallan Çemi vessels, Nemrik sceptres), photographed on a screen.","identification":"Credited on the map to Th. Götzelt, German Archaeological Institute (DAI).","credit":"DAI map as posted by Bruce R. Fenton, cropped from the supplied screenshot without other changes. Reproduced for commentary."},
-  {"input":"fenton/IMG_8528.PNG","crop":[0,1053,1206,1887],"output":"fenton/australasian-signal.jpg","section":"fenton","description":"News graphic: pie charts of Neanderthal, Denisovan and shared archaic ancestry in South American genomes, text on the University of São Paulo study of the Australasian 'Y' signal, and a map with arrows.","identification":"Identified from its wording as the All That's Interesting article by Kaleena Fraga, 2 April 2021, 'Ancient Australian DNA found in Indigenous South American tribes'; the maps are figures from Castro e Silva et al. (2021), PNAS.","credit":"Graphic as posted by Bruce R. Fenton, cropped from the supplied screenshot without other changes. Reproduced for commentary."},
-  {"input":"fenton/IMG_8530.PNG","crop":[0,801,1206,2139],"output":"fenton/olmec-heads.jpg","section":"fenton","description":"Four Olmec colossal heads.","identification":"Not identified in the post. Matched by comparison with museum photographs in September 2026 to San Lorenzo Colossal Head 1 (top left, Museo de Antropología de Xalapa), Head 6 (top right, Museo Nacional de Antropología, Mexico City) and, less certainly, Head 5 (bottom left, Xalapa) and Head 3 (bottom right, Xalapa). The San Lorenzo heads are conventionally dated to c. 1200–900 BCE from their archaeological contexts.","credit":"Photographs as posted by Bruce R. Fenton, cropped from the supplied screenshot without other changes. Reproduced for commentary."},
-  {"input":"fenton/IMG_8532.PNG","crop":[0,1117,1206,1823],"output":"fenton/feathered-serpents.jpg","section":"fenton","description":"Aerial view of Serpent Mound, Ohio; a nineteenth-century survey plan of the mound; a Mesoamerican feathered-serpent head; two Rainbow Serpent rock paintings.","identification":"The plan resembles Squier and Davis (1848). The paintings' sites and the sculpture's museum are not given, and an image search in September 2026 did not identify them.","credit":"Montage as posted by Bruce R. Fenton, cropped from the supplied screenshot without other changes. Reproduced for commentary."},
-  {"input":"fenton/IMG_8535.PNG","crop":[0,866,1206,2074],"output":"fenton/bottleneck.jpg","section":"fenton","description":"Composite: a Natural History Museum news page on the Early–Middle Pleistocene bottleneck study, a map of Sunda and Sahul with the Wallace, Weber and Lydekker lines, a brain-size chart, a 'tangled family tree' and a caption on the chromosome 2 fusion.","identification":"The study reported is Hu et al. (2023), Science. The other graphics' sources are not given.","credit":"Composite as posted by Bruce R. Fenton (26 February 2025), cropped from the supplied screenshot without other changes. Reproduced for commentary."}
+  {
+    "input": "G2ton0sW4AAvNeJ.jpeg",
+    "output": "bird-figure.jpeg",
+    "section": "birdmen",
+    "description": "Bird-headed figure with a bent limb and rounded object; user-supplied photograph.",
+    "identification": "Matched to British Museum Orongo birdman boulder Oc1920,0506.1, recorded in Routledge 1919 figure 112 and the museum’s Google Arts & Culture record. Modern photograph has dark line emphasis; its date and the history of the markings are unresolved. The underlying low-relief figure is visible in the 1919 photograph.",
+    "credit": "User-supplied reference; original photographer and licence unresolved. Included for commentary, not offered under the code licence.",
+    "source": "https://artsandculture.google.com/asset/birdman-boulder/-QEzFc9ehfO2ng"
+  },
+  {
+    "input": "G2ton0wWsAAAUG8.jpeg",
+    "output": "pillar43-bird-detail.jpeg",
+    "section": "birdmen",
+    "description": "Crop of the bird and disc on Göbekli Tepe Pillar 43.",
+    "identification": "Pillar identification consistent with the excavation team's photographs; the crop's photographic credit is unresolved.",
+    "credit": "User-supplied reference; original photographic credit unresolved. Included for commentary."
+  },
+  {
+    "input": "GyOrhvIWEAANDih.jpeg",
+    "output": "boar-museum.jpeg",
+    "section": "animals",
+    "description": "Compact boar-like stone sculpture photographed in a museum case.",
+    "identification": "Museum, object identifier and find context not independently verified from this photograph.",
+    "credit": "User-supplied reference; original photographer and licence unresolved. Included for commentary."
+  },
+  {
+    "input": "GyOrl3JWQAA4Z2k.jpeg",
+    "output": "lingjiatan-pig.jpeg",
+    "section": "animals",
+    "description": "Pig-form carving with a Chinese caption identifying Lingjiatan tomb 07M23 and a weight of 88 kg.",
+    "identification": "Identification and weight are transcribed from the supplied caption, not an independent object-catalogue verification. The caption's superlative claims are not adopted.",
+    "credit": "User-supplied reference; original photographer and licence unresolved. Included for commentary."
+  },
+  {
+    "input": "GyOru5ObUAEerOZ.jpeg",
+    "output": "animal-in-context.jpeg",
+    "section": "animals",
+    "description": "Crouched animal sculpture in an architectural setting, with a perforated slab behind it.",
+    "identification": "Consistent with the Göbekli Tepe Enclosure C entrance discussed by the excavation team. Exact photograph attribution remains unverified; do not label it a boar solely by appearance.",
+    "credit": "User-supplied reference; likely excavation photography, original credit unresolved. Included for commentary."
+  },
+  {
+    "input": "GyOtfJvWEAARt4O.jpeg",
+    "output": "animal-montage.jpeg",
+    "section": "animals",
+    "description": "Montage of animal sculptures and reliefs captioned in Chinese as animals found at the site; Göbekli Tepe is also named.",
+    "identification": "Several distinct objects and potentially several animal identifications. Individual images are not independent provenanced records; do not code the whole montage as lizards.",
+    "credit": "User-supplied montage; underlying photographers and rights unresolved. Included for commentary."
+  },
+  {
+    "input": "HR2iM6gbYAId30i.jpeg",
+    "output": "gate-of-the-sun.jpeg",
+    "section": "birdmen",
+    "description": "The Gate of the Sun at Tiwanaku from the front: the monolithic gateway with its cracked lintel, the central staff-bearer above the doorway and three rows of small winged attendants running towards it on either side.",
+    "identification": "The monument is securely identified: the Gate of the Sun (Puerta del Sol), Tiwanaku, Bolivia, a single block about 3 m high and 4 m wide, Tiwanaku period, c. 500–950 CE. The frieze has 48 attendant figures, 16 of them with bird heads, all running towards the central figure; identifying the central figure as Viracocha is a modern reading. The photograph was not matched to a Wikimedia Commons file.",
+    "credit": "User-supplied reference from a post on X by Jason Wilde (@JasonWilde108), quoted by Archaic Lens (@ArchaicLens) on 10 September 2026; the screenshot is preserved in inputs/. Original photographer and licence unresolved. Included for commentary, not offered under the code licence."
+  },
+  {
+    "input": "Screenshot 2026-09-06 at 6.11.46 AM.png",
+    "crop": [
+      98,
+      385,
+      1134,
+      1178
+    ],
+    "output": "nan-madol-navigator.jpg",
+    "section": "civilisers",
+    "description": "Left: a carved hardwood figure with a round head and arms akimbo, standing on a base indoors. Right: a video still of Nan Madol's basalt walls above a tidal pool, with palms. Both attached to a post by Archaic Lens (@ArchaicLens) of 6 September 2026 reporting a Pohnpeian oral tradition of 'the navigator'.",
+    "identification": "The right-hand picture is consistent with the basalt islets of Nan Madol, Pohnpei. The carving is not identified: the poster calls it an effigy of 'the navigator'; its maker, date and the tradition it belongs to are not given. Carvers from Kapingamarangi living in Kolonia are known for hardwood figures, which is a resemblance, not an identification. The published Pohnpeian founding traditions checked (Olisihpa and Olosohpa; Isokelekel) do not use the name.",
+    "credit": "Screenshot of a post by Archaic Lens (@ArchaicLens), 6 September 2026, cropped to its two pictures without other changes; the photographs are the poster's own. Reproduced for commentary."
+  },
+  {
+    "input": "fenton/IMG_8503.JPG",
+    "output": "fenton/bird-and-ball.jpg",
+    "section": "fenton",
+    "description": "Left: a rock painting from northern Australia of a striped, upright figure with a rayed disc beside its head. Right: the bird and disc on Göbekli Tepe Pillar 43. The opening image of Bruce R. Fenton's thread of 24 February 2025.",
+    "identification": "Fenton describes the painting as sacred art from Arnhem Land and says it is older than the pillar. The painting's site, style and date are not given in the thread; text and image searches in September 2026 did not find it. The Pillar 43 detail matches the excavation team's photographs.",
+    "credit": "Image as posted by Bruce R. Fenton (@GenomicSETI, 24 February 2025); underlying photographers unresolved. Reproduced unchanged for commentary."
+  },
+  {
+    "input": "fenton/IMG_8506.JPG",
+    "output": "fenton/bush-bucket.jpg",
+    "section": "fenton",
+    "description": "A drawing of a painted bark bush bucket, a detail of one handled shape on Pillar 43, and a printed excerpt of Kimberley lore about the ancestor Wúrulawúrula, his bucket of yams and the Ungud serpent.",
+    "identification": "The excerpt is unattributed in the post. Its rivers, orthography and the Wóndjina and Ungud terms match Andreas Lommel's ethnography of the Unambal (Wunambal) of the north-west Kimberley (German edition 1952, English edition 1997); that attribution is this project's inference, supported by a Google Books search inside the 1997 edition, which returns one page for 'bush buckets' (page not inspected). The drawing's source is not given.",
+    "credit": "Image as posted by Bruce R. Fenton; drawing and text from an unnamed publication. Reproduced unchanged for commentary."
+  },
+  {
+    "input": "fenton/IMG_8508.JPG",
+    "output": "fenton/churinga-symbols.jpg",
+    "section": "fenton",
+    "description": "Montage: a Göbekli Tepe pillar with a bracket-and-disc glyph, a man with a painted chest design of similar form, a pillar relief with bracketed shapes, and an incised churinga (tjurunga).",
+    "identification": "The painted man is a process print in the Wellcome Collection (reference 21428i), captioned 'The wizard of the Worgaia, a great medicine man of Central Australia, as the signs on his body show. He instructs tribes in mysteries.', identified by image comparison in September 2026; its date and first publication are not recorded there. Pillar numbers and the churinga's collection are not identified in the post. Churinga are sacred objects of Central Australia rather than Arnhem Land.",
+    "credit": "Montage as posted by Bruce R. Fenton; underlying photographers unresolved. Reproduced unchanged for commentary."
+  },
+  {
+    "input": "fenton/IMG_8511.JPG",
+    "output": "fenton/t-shapes.jpg",
+    "section": "fenton",
+    "description": "Fenton's captioned montage: early photographs of men in tall ceremonial headdresses, a Göbekli Tepe animal relief and an illuminated T-pillar, a group photograph with painted chest designs, and a rock painting he reads as a T-shaped column with legs.",
+    "identification": "The '1920's publication' is not named. The headdress photographs match the subjects and style of Spencer and Gillen's Arrernte ceremony photographs of the 1890s (compare the Commons file Corroboree.jpg, before 1900), but the exact plates were not identified by image comparison in September 2026. The rock painting's site is not given and was not found.",
+    "credit": "Montage by Bruce R. Fenton (AncientNews.com) as posted; underlying photographers unresolved. Reproduced unchanged for commentary."
+  },
+  {
+    "input": "fenton/IMG_8513.JPG",
+    "output": "fenton/yinganna.jpg",
+    "section": "fenton",
+    "description": "A large rock painting under an overhang: a round head with two eyes above radiating, banded limbs in red and white ochre.",
+    "identification": "Fenton identifies the figure as Yinganna (Yingarna), the creation mother of western Arnhem Land. Identified by image comparison in September 2026 as the Yingarna painting on Injalak Hill beside Gunbalanya (Oenpelli): the rock face, the headband and the fifteen striped dilly bags match a photograph published in 2007 and the published descriptions. Taçon, May, Jalandoni and Mungulda (2026) count it among the region's recent, post-contact Rainbow Serpent paintings. The site is on Kunwinjku country and is visited with local guides; the post gives none of this.",
+    "credit": "Photograph as posted by Bruce R. Fenton; photographer unresolved. Reproduced unchanged for commentary."
+  },
+  {
+    "input": "fenton/IMG_8515.JPG",
+    "output": "fenton/birthing-figure.jpg",
+    "section": "fenton",
+    "description": "Top left: the incised squatting woman from Göbekli Tepe's Lion Pillar Building. Top right: an Arnhem Land painting of a figure in a similar posture above a field of rounded plant forms. Bottom: a bark painting of a Rainbow Serpent with plants sprouting from its back and two projections on its head.",
+    "identification": "The excavators describe the Göbekli Tepe figure as a later graffito on a slab, not part of the original decoration. The Arnhem Land painting and the bark painting are not identified in the post, and an image search in September 2026 did not find them.",
+    "credit": "Montage as posted by Bruce R. Fenton; underlying photographers and the bark painter unresolved. Reproduced unchanged for commentary."
+  },
+  {
+    "input": "fenton/IMG_8517.JPG",
+    "output": "fenton/serpent-heads.jpg",
+    "section": "fenton",
+    "description": "Four carved serpents from Pre-Pottery Neolithic south-east Anatolia with broad, flattened heads: on a standing stone, on Pillar 43, on a sculpture and on a pillar.",
+    "identification": "Object identifications are not given in the post; the Pillar 43 detail is recognisable. Which of the four come from Göbekli Tepe rather than related sites has not been verified; an image search in September 2026 did not settle it.",
+    "credit": "Montage as posted by Bruce R. Fenton; underlying photographers unresolved. Reproduced unchanged for commentary."
+  },
+  {
+    "input": "fenton/IMG_8522.JPG",
+    "output": "fenton/seafaring-article.jpg",
+    "section": "fenton",
+    "description": "Screenshot of a Popular Mechanics article by Tim Newcomb on Pleistocene seafaring technology in Island Southeast Asia, above a topographic map of the Indian Ocean region.",
+    "identification": "The article reports Fuentes and Pawlik (2025), Journal of Archaeological Science: Reports.",
+    "credit": "Popular Mechanics page as posted by Bruce R. Fenton. Reproduced unchanged for commentary."
+  },
+  {
+    "input": "fenton/IMG_8524.JPG",
+    "output": "fenton/sunda-shelf.jpg",
+    "section": "fenton",
+    "description": "Two paragraphs from the same article above a bathymetric map on which the continental shelves exposed at lowered sea level are coloured red.",
+    "identification": "Map source not given in the post; the red areas correspond to the Sunda and Sahul shelves and other shelves at roughly glacial sea level.",
+    "credit": "Image as posted by Bruce R. Fenton; map maker unresolved. Reproduced unchanged for commentary."
+  },
+  {
+    "input": "fenton/IMG_8519.PNG",
+    "crop": [
+      198,
+      1620,
+      1152,
+      2340
+    ],
+    "output": "fenton/cereal-map.jpg",
+    "section": "fenton",
+    "description": "Map of the distribution of wild einkorn, emmer and barley with markers of the Göbekli Tepe 'ritual community' (communal buildings, T-pillar sites, decorated shaft straighteners, Jerf el Ahmar plaquettes, Hallan Çemi vessels, Nemrik sceptres), photographed on a screen.",
+    "identification": "Credited on the map to Th. Götzelt, German Archaeological Institute (DAI).",
+    "credit": "DAI map as posted by Bruce R. Fenton, cropped from the supplied screenshot without other changes. Reproduced for commentary."
+  },
+  {
+    "input": "fenton/IMG_8528.PNG",
+    "crop": [
+      0,
+      1053,
+      1206,
+      1887
+    ],
+    "output": "fenton/australasian-signal.jpg",
+    "section": "fenton",
+    "description": "News graphic: pie charts of Neanderthal, Denisovan and shared archaic ancestry in South American genomes, text on the University of São Paulo study of the Australasian 'Y' signal, and a map with arrows.",
+    "identification": "Identified from its wording as the All That's Interesting article by Kaleena Fraga, 2 April 2021, 'Ancient Australian DNA found in Indigenous South American tribes'; the maps are figures from Castro e Silva et al. (2021), PNAS.",
+    "credit": "Graphic as posted by Bruce R. Fenton, cropped from the supplied screenshot without other changes. Reproduced for commentary."
+  },
+  {
+    "input": "fenton/IMG_8530.PNG",
+    "crop": [
+      0,
+      801,
+      1206,
+      2139
+    ],
+    "output": "fenton/olmec-heads.jpg",
+    "section": "fenton",
+    "description": "Four Olmec colossal heads.",
+    "identification": "Not identified in the post. Matched by comparison with museum photographs in September 2026 to San Lorenzo Colossal Head 1 (top left, Museo de Antropología de Xalapa), Head 6 (top right, Museo Nacional de Antropología, Mexico City) and, less certainly, Head 5 (bottom left, Xalapa) and Head 3 (bottom right, Xalapa). The San Lorenzo heads are conventionally dated to c. 1200–900 BCE from their archaeological contexts.",
+    "credit": "Photographs as posted by Bruce R. Fenton, cropped from the supplied screenshot without other changes. Reproduced for commentary."
+  },
+  {
+    "input": "fenton/IMG_8532.PNG",
+    "crop": [
+      0,
+      1117,
+      1206,
+      1823
+    ],
+    "output": "fenton/feathered-serpents.jpg",
+    "section": "fenton",
+    "description": "Aerial view of Serpent Mound, Ohio; a nineteenth-century survey plan of the mound; a Mesoamerican feathered-serpent head; two Rainbow Serpent rock paintings.",
+    "identification": "The plan resembles Squier and Davis (1848). The paintings' sites and the sculpture's museum are not given, and an image search in September 2026 did not identify them.",
+    "credit": "Montage as posted by Bruce R. Fenton, cropped from the supplied screenshot without other changes. Reproduced for commentary."
+  },
+  {
+    "input": "fenton/IMG_8535.PNG",
+    "crop": [
+      0,
+      866,
+      1206,
+      2074
+    ],
+    "output": "fenton/bottleneck.jpg",
+    "section": "fenton",
+    "description": "Composite: a Natural History Museum news page on the Early–Middle Pleistocene bottleneck study, a map of Sunda and Sahul with the Wallace, Weber and Lydekker lines, a brain-size chart, a 'tangled family tree' and a caption on the chromosome 2 fusion.",
+    "identification": "The study reported is Hu et al. (2023), Science. The other graphics' sources are not given.",
+    "credit": "Composite as posted by Bruce R. Fenton (26 February 2025), cropped from the supplied screenshot without other changes. Reproduced for commentary."
+  }
 ]
