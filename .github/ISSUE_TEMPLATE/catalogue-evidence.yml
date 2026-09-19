@@ -1,0 +1,32 @@
+name: Add evidence or request a catalogue search
+description: Suggest an image, source, cultural cluster or new comparison.
+title: "Catalogue: "
+body:
+  - type: dropdown
+    id: request
+    attributes:
+      label: What would help?
+      options:
+        - Add a photograph or source
+        - Search for more examples in an existing cluster
+        - Propose a new cultural connection
+        - Correct an identification, date or interpretation
+    validations:
+      required: true
+  - type: textarea
+    id: comparison
+    attributes:
+      label: Which traditions, groups or comparison threads?
+      description: Link an existing dossier if possible, or describe the proposed resemblance.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Images, links and source details
+      description: Attach images here or link the original source. Include a museum number, photographer or page number if known. Unknown details can stay unknown.
+  - type: textarea
+    id: question
+    attributes:
+      label: What should we look for or check?
+      description: For example, additional local variants, a date for the carving, or whether a circulating picture is a reconstruction.

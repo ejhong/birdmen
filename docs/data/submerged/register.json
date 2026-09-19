@@ -1,0 +1,336 @@
+{
+  "edition": "2026-09-19",
+  "scope": "Initial assessment and research opportunities; not a completed worldwide inventory or a dated reconstruction of all ancient coasts.",
+  "sources": [
+    {
+      "id": "subnordica",
+      "title": "SUBNORDICA: beyond submerged landscapes",
+      "url": "https://projects.au.dk/subnordica/about",
+      "kind": "active project",
+      "checked": "2026-09-19",
+      "note": "Official project period: April 2024–March 2030. Uses North Sea and Baltic data to develop methods for identifying archaeological targets."
+    },
+    {
+      "id": "northsea-peats",
+      "title": "Global sea-level rise in the early Holocene revealed from North Sea peats",
+      "url": "https://www.nature.com/articles/s41586-025-08769-7",
+      "kind": "research paper",
+      "checked": "2026-09-19",
+      "note": "Hijma et al., 2025. Dated peat sequences, regional land-motion corrections and uncertainty; a route toward a defensible regional reconstruction."
+    },
+    {
+      "id": "northsea-data",
+      "title": "North Sea peats: supplementary information and data",
+      "url": "https://zenodo.org/records/10801302",
+      "kind": "open data",
+      "checked": "2026-09-19",
+      "note": "Repository API checked: CC BY 4.0. Contains the HOLSEA spreadsheet, age-calibration scripts, core photographs, technical documentation and model grids. Files listed; scientific contents not yet independently reanalysed."
+    },
+    {
+      "id": "cambay",
+      "title": "Major marine archaeological discovery in the Gulf of Cambay and its significance",
+      "url": "https://www.asiaoceania.org/amos/pdf/2004/57-OBG-M239.pdf",
+      "kind": "proposing researchers’ abstract",
+      "checked": "2026-09-19",
+      "note": "Kathiroli and NIOT colleagues, 2004 conference abstract. Reports sonar patterns, palaeochannel-like features and grab/dredge samples. The source proposes structures; it is not an independent confirmation of that interpretation."
+    },
+    {
+      "id": "pavlopetri",
+      "title": "Pavlopetri Underwater Archaeology Project: research impact record",
+      "url": "https://impact.ref.ac.uk/casestudies/CaseStudy.aspx?Id=28862",
+      "kind": "institutional research record",
+      "checked": "2026-09-19",
+      "note": "Documents the project begun in 2009, mapped buildings and ceramics indicating occupation from about 3500 BCE through the Bronze Age. Historical project record; current fieldwork not verified."
+    },
+    {
+      "id": "pavlopetri-survey",
+      "title": "Pavlopetri: 2010 field report",
+      "url": "https://chronique.efa.gr/?id=1893&r=report",
+      "kind": "field report",
+      "checked": "2026-09-19",
+      "note": "Reports structural survey, sector-scan sonar and stereo photogrammetry. A useful example of multiple recording methods applied to the same identified site."
+    },
+    {
+      "id": "murujuga",
+      "title": "Aboriginal artefacts on the continental shelf reveal ancient drowned cultural landscapes in northwest Australia",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233912",
+      "kind": "research paper",
+      "checked": "2026-09-19",
+      "note": "Benjamin et al., 2020. Reports Cape Bruguieres and Flying Foam Passage, combining remote sensing and diver inspection. Site-formation and sea-level reasoning must accompany the artefact claims."
+    },
+    {
+      "id": "baltic-wall",
+      "title": "A submerged Stone Age hunting architecture from the Western Baltic Sea",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38346187/",
+      "kind": "research paper / indexed abstract",
+      "checked": "2026-09-19",
+      "note": "Geersen et al., 2024; DOI 10.1073/pnas.2312008121. Hydroacoustic, sediment and optical observations support an anthropogenic wall interpretation. Hunting use and age are contextual inferences."
+    },
+    {
+      "id": "sunda",
+      "title": "Prehistoric human migration between Sundaland and South Asia was driven by sea-level rise",
+      "url": "https://www.nature.com/articles/s42003-023-04510-0",
+      "kind": "research paper",
+      "checked": "2026-09-19",
+      "note": "2023 study combining sea-level and population models. The reconstructed landscape is relevant to targeting; it is not a discovery of a submerged city."
+    },
+    {
+      "id": "lambeck",
+      "title": "Sea level and global ice volumes from the Last Glacial Maximum to the Holocene",
+      "url": "https://doi.org/10.1073/PNAS.1411762111",
+      "kind": "research paper",
+      "checked": "2026-09-19",
+      "note": "Lambeck et al., 2014. Global ice-volume and sea-level history distinguishes the glacial maximum from later deglaciation and regional relative sea level."
+    },
+    {
+      "id": "gebco",
+      "title": "GEBCO_2025 Grid and Type Identifier grid",
+      "url": "https://www.gebco.net/data-products-gridded-bathymetry-data/gebco2025-grid",
+      "kind": "dataset documentation",
+      "checked": "2026-09-19",
+      "note": "Versioned global 15 arc-second elevation compilation. The TID grid identifies input-data types; spatial grid spacing must not be treated as uniform survey accuracy."
+    },
+    {
+      "id": "emodnet",
+      "title": "EMODnet Bathymetry DTM 2024 release",
+      "url": "https://emodnet.ec.europa.eu/en/emodnet-bathymetry-dtm-2024-release",
+      "kind": "dataset documentation",
+      "checked": "2026-09-19",
+      "note": "Release announcement dated 24 March 2025. European grid at 1/16 arc-minute spacing, with multiple contributing survey methods."
+    },
+    {
+      "id": "emodnet-api",
+      "title": "EMODnet DTM 2024: ERDDAP data access",
+      "url": "https://erddap.emodnet.eu/erddap/griddap/bathymetry_dtm_2024.html",
+      "kind": "data service",
+      "checked": "2026-09-19",
+      "note": "Metadata endpoint checked. Variables include elevation, source index, count and interpolation flag; these help audit provenance rather than treating every pixel as measured."
+    },
+    {
+      "id": "etopo",
+      "title": "NOAA ETOPO1: versioned ERDDAP relief dataset",
+      "url": "https://coastwatch.pfeg.noaa.gov/erddap/info/etopo180/index.html",
+      "kind": "data service",
+      "checked": "2026-09-19",
+      "note": "The demonstrator uses small subsamples of this older 2009 global relief model. Four actual NetCDF downloads and hashes are retained. Mean-sea-level elevations; not an ancient coastline model."
+    },
+    {
+      "id": "ncei",
+      "title": "NCEI Marine Trackline Geophysical Data",
+      "url": "https://www.ncei.noaa.gov/products/marine-trackline-geophysical-data",
+      "kind": "data archive",
+      "checked": "2026-09-19",
+      "note": "Searchable bathymetry, sub-bottom, side-scan, magnetic, gravity and seismic records. Coverage and acquisition quality vary by survey; some files require additional handling."
+    },
+    {
+      "id": "satellites",
+      "title": "ESA: satellite-derived bathymetry",
+      "url": "https://knowledge-hub-gda.esa.int/eo_capability/bathymetry/",
+      "kind": "method documentation",
+      "checked": "2026-09-19",
+      "note": "Optical shallow-water method sensitive to clarity, clouds, glint and bottom properties. Different from inferring broad seafloor relief through satellite altimetry."
+    },
+    {
+      "id": "satellite-study",
+      "title": "Space-borne bathymetry with ICESat-2 and Sentinel-2",
+      "url": "https://ntrs.nasa.gov/citations/20210011367",
+      "kind": "research record",
+      "checked": "2026-09-19",
+      "note": "NASA-hosted 2021 study describes calibration and validation of shallow, clear-water bathymetry. No universal depth limit or archaeological-detection capability is implied."
+    },
+    {
+      "id": "copernicus",
+      "title": "Copernicus Data Space Ecosystem",
+      "url": "https://dataspace.copernicus.eu/",
+      "kind": "data access portal",
+      "checked": "2026-09-19",
+      "note": "Portal for Sentinel observations. This edition links acquisition access; no satellite scene has yet been processed for this programme."
+    }
+  ],
+  "projects": [
+    {
+      "id": "doggerland",
+      "name": "Doggerland & the North Sea",
+      "label": "A landscape we can begin to reconstruct",
+      "status": "Active programme + published landscape evidence",
+      "activity": "SUBNORDICA · April 2024–March 2030",
+      "lat": 54.5,
+      "lon": 3.0,
+      "region": "northsea",
+      "precision": "regional anchor",
+      "finding": "Peat, buried channels and surveyed landscapes offer a way to recover former environments. SUBNORDICA is developing a systematic route from such evidence to archaeological targets.",
+      "limit": "A mapped river or dated peat bed does not by itself identify a settlement. Modern seabed relief may overlie a buried land surface.",
+      "next": "Start with the open sea-level database and source-quality layers; reproduce a regional reconstruction before ranking candidate habitats.",
+      "sources": [
+        "subnordica",
+        "northsea-peats",
+        "northsea-data"
+      ]
+    },
+    {
+      "id": "cambay",
+      "name": "Gulf of Khambhat / Cambay",
+      "label": "A claim that needs its original context",
+      "status": "Disputed structure interpretation",
+      "activity": "NIOT reports from the early 2000s; a current excavation programme was not verified",
+      "lat": 21.2,
+      "lon": 72.5,
+      "region": "khambhat",
+      "precision": "regional anchor, not an exact feature position",
+      "finding": "The proposing researchers report sonar geometries, channel-like features and recovered samples in a strongly dynamic marine setting.",
+      "limit": "The source’s grab/dredge samples do not, on their own, establish that dated material belongs to a human-built feature. This edition has not independently verified the reported city interpretation.",
+      "next": "Seek original georeferenced sonar lines, processing history, repeat surveys and sample-context records. Separate a natural-feature test from a chronology test.",
+      "sources": [
+        "cambay"
+      ]
+    },
+    {
+      "id": "pavlopetri",
+      "name": "Pavlopetri, Greece",
+      "label": "A submerged settlement, recorded in detail",
+      "status": "Documented archaeological site",
+      "activity": "Published survey and excavation programme begun in 2009; ongoing work not asserted",
+      "lat": 36.518,
+      "lon": 22.989,
+      "region": "world",
+      "precision": "approximate site",
+      "finding": "Mapped buildings, streets and ceramics provide archaeological evidence for a settlement spanning the Final Neolithic and Bronze Age.",
+      "limit": "This is a much later settlement than 12,000 years ago. Its submergence history cannot be applied to every shelf or monument.",
+      "next": "Use the survey as a positive control for recording methods: which architectural features survive in bathymetry, sonar and diver photography?",
+      "sources": [
+        "pavlopetri",
+        "pavlopetri-survey"
+      ]
+    },
+    {
+      "id": "murujuga",
+      "name": "Murujuga’s submerged country",
+      "label": "Stone artefacts in a drowned coastal landscape",
+      "status": "Published archaeological discoveries",
+      "activity": "Deep History of Sea Country research reported in 2020; current field status not checked",
+      "lat": -20.5,
+      "lon": 116.7,
+      "region": "world",
+      "precision": "regional anchor",
+      "finding": "The study reports underwater stone artefacts at Cape Bruguieres and a find near a submerged freshwater feature at Flying Foam Passage, using remote sensing and diver investigation.",
+      "limit": "Transport, erosion and site formation matter. The inferred exposure history is not direct dating of every stone artefact.",
+      "next": "Follow the published landscape-prediction method and engage the relevant Traditional Owners before any field-oriented extension.",
+      "sources": [
+        "murujuga"
+      ]
+    },
+    {
+      "id": "baltic",
+      "name": "The Baltic stone alignment",
+      "label": "A testable interpretation beneath 21 metres of water",
+      "status": "Published structure; function inferred",
+      "activity": "Geersen and colleagues · 2024 study",
+      "lat": 54.1,
+      "lon": 11.5,
+      "region": "world",
+      "precision": "regional anchor",
+      "finding": "A roughly kilometre-long stone alignment was recorded using hydroacoustic surveys, optical imagery and sediment evidence. The authors interpret it as prehistoric hunting architecture.",
+      "limit": "The existence and layout of stones are observations. Hunting function and the timing of construction depend on contextual arguments.",
+      "next": "Compare the arrangement with natural glacial features and inspect the dated surrounding sediment sequence, not just the striking sonar image.",
+      "sources": [
+        "baltic-wall"
+      ]
+    },
+    {
+      "id": "sundaland",
+      "name": "The Sunda shelf",
+      "label": "A very large landscape with a much thinner archaeological record",
+      "status": "Reconstructed landscape / targeting opportunity",
+      "activity": "Published sea-level and population modelling, including a 2023 study",
+      "lat": 1.0,
+      "lon": 108.0,
+      "region": "sunda",
+      "precision": "regional anchor",
+      "finding": "Lower sea levels exposed extensive shelf areas between today’s islands. Published modelling explores connections between inundation and population history.",
+      "limit": "Exposed terrain is not evidence of a lost city or of one connected civilisation. Local preservation, sediment burial and survey coverage remain decisive.",
+      "next": "Identify accessible seismic and sediment datasets, then test palaeochannels and freshwater margins against a dated regional model.",
+      "sources": [
+        "sunda",
+        "lambeck"
+      ]
+    }
+  ],
+  "datasets": [
+    {
+      "id": "northsea-history",
+      "name": "North Sea sea-level records",
+      "coverage": "North Sea / Doggerland",
+      "resolution": "Dated point observations, uncertainty, core logs and model grids",
+      "access": "CC BY 4.0 repository; file list and licence checked",
+      "use": "Reproduce regional relative sea-level constraints, distinguish limiting points from index points, and propagate age/elevation uncertainty.",
+      "limit": "The scientific spreadsheets and grids have not yet been independently reanalysed here. Some grids are large; start with the database and documentation.",
+      "sources": [
+        "northsea-data",
+        "northsea-peats"
+      ]
+    },
+    {
+      "id": "gebco-relief",
+      "name": "GEBCO_2025 + source types",
+      "coverage": "Global",
+      "resolution": "15 arc-second grid spacing; effective survey resolution varies",
+      "access": "Open downloads and regional subsets under GEBCO terms",
+      "use": "Screen shelf morphology and inspect the Type Identifier layer before deciding where higher-quality data are needed.",
+      "limit": "A fine-looking grid can incorporate inferred or interpolated depths. It cannot resolve or authenticate small archaeological structures by itself.",
+      "sources": [
+        "gebco"
+      ]
+    },
+    {
+      "id": "emodnet-relief",
+      "name": "EMODnet DTM 2024",
+      "coverage": "European seas, plus a separate Caribbean product",
+      "resolution": "1/16 arc-minute spacing; about 115 m north–south",
+      "access": "Open portal and ERDDAP; service metadata checked",
+      "use": "Combine elevations with source indices and interpolation flags. Search for finer contributing surveys around a chosen study area.",
+      "limit": "Datum, interpolation, acquisition dates and effective resolution need checking. Modern depths alone are not buried palaeotopography.",
+      "sources": [
+        "emodnet",
+        "emodnet-api"
+      ]
+    },
+    {
+      "id": "survey-lines",
+      "name": "NCEI survey and trackline archive",
+      "coverage": "Worldwide, uneven survey coverage",
+      "resolution": "Survey-specific: single/multibeam, sonar and seismic products",
+      "access": "Searchable archive with downloadable formats; inspect each cruise’s metadata",
+      "use": "Locate actual survey lines and sub-bottom records, distinguish measured coverage from a seamless-looking global basemap.",
+      "limit": "A catalogue hit is not yet an analysis-ready dataset. Navigation, instruments, processing and time/depth conversion can matter.",
+      "sources": [
+        "ncei"
+      ]
+    },
+    {
+      "id": "optical",
+      "name": "Sentinel-2 + ICESat-2 opportunities",
+      "coverage": "Suitable shallow, clear-water coasts",
+      "resolution": "Sensor- and method-specific; optical pixels are not depth accuracy",
+      "access": "Sentinel portal linked; method papers checked; no local scenes processed yet",
+      "use": "Pilot shallow-water depth estimation where water clarity and validation soundings make it appropriate.",
+      "limit": "Cloud, turbidity, glint, depth and bottom reflectance limit optical recovery. This is not a method to see through arbitrary deep or muddy water.",
+      "sources": [
+        "copernicus",
+        "satellites",
+        "satellite-study"
+      ]
+    },
+    {
+      "id": "prototype",
+      "name": "This explorer’s retained relief grids",
+      "coverage": "World, North Sea, Sunda and Gujarat subsets",
+      "resolution": "Subsampled ETOPO1: 20′ global; 3′ North Sea; 6′ Sunda; 2′ Gujarat",
+      "access": "Actual downloaded NetCDF source files retained; compact grids and hashes published",
+      "use": "Understand shelf geometry and explore how changing a depth threshold alters the area highlighted.",
+      "limit": "Older 2009 relief compilation; deliberately coarse. It is an orientation tool, not a dated shoreline or an archaeological detector.",
+      "sources": [
+        "etopo"
+      ]
+    }
+  ]
+}

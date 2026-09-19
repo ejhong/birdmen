@@ -1,7 +1,21 @@
 # A catalogue of claimed anomalous similarities
 
-Design notes from the 19 September 2026 discussion. This is the proposed next
-direction, not a completed worldwide search or implemented application.
+Design notes from the 19 September 2026 discussion, updated after the first build.
+The collection, cultural connections, map, timeline, theme browsing and standalone
+dossiers are now implemented. A comprehensive worldwide search and deeper corpus
+coverage remain future work.
+
+The first edition has 19 comparison threads and 4 optional controls, joining 35
+curated groups across 23 cultural/context clusters. There are 36 evidence records,
+27 image records and 40 sources. A record can represent a surface, an account or
+a contextual summary; these counts are not numbers of independent artefacts.
+
+The primary structure is **cultural traditions → comparison threads → curated
+groups → objects, surfaces or narrative witnesses → photographs and sources**.
+The culture view shows the proposed relationships and the range of registered
+dated episodes, without pretending that range is a culture's complete lifespan.
+Standalone dossier links preserve the collection selection. Records and all core
+evidence remain readable without scripting.
 
 ## Purpose
 
@@ -24,6 +38,8 @@ discoveries after their original correction is forgotten.
 
 | Record | Why it needs its own identity |
 | --- | --- |
+| Cultural tradition / period / regional lead | A navigable cluster with qualified identity and chronology; not automatically a homogeneous culture. |
+| Curated group | Several examples selected for a stated motif or question, with a membership rationale. |
 | Physical object / archaeological surface | One object may have many photographs, decorated surfaces and carving episodes. |
 | Tradition / account / passage | A story, its earliest surviving witness, a translation and a modern paraphrase are different evidence. |
 | Image / recording / illustration | Photography, casts, reconstructions, tracings and generated illustrations can change a comparison. |

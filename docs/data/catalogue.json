@@ -1,0 +1,3962 @@
+{
+  "schema_version": 1,
+  "edition": "2026-09-19",
+  "title": "Deep Memory · A catalogue of distant resemblances",
+  "scope": "A first curated collection of claimed anomalies, with optional local and transmission controls. Not a completed worldwide survey.",
+  "date_convention": "Signed historical years: -1 = 1 BCE, +1 = 1 CE; no year zero. Intervals include their endpoints. Dates retain their event type and uncertainty; a null range means unresolved.",
+  "sources": [
+    {
+      "id": "p43",
+      "title": "Pillar 43: of animals and a headless man",
+      "url": "https://www.dainst.blog/the-tepe-telegrams/2016/10/14/of-animals-and-a-headless-man-gobekli-tepe-pillar-43/",
+      "kind": "excavation",
+      "note": "Excavation-team discussion of the depicted animals and competing readings of the disc and upper forms.",
+      "author": "Oliver Dietrich / DAI",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "gt-dates",
+      "title": "The Göbekli Tepe research project",
+      "url": "https://www.dainst.blog/the-tepe-telegrams/home/",
+      "kind": "excavation",
+      "note": "Site chronology: tenth and ninth millennia BCE. This is a context range, not a direct date of every carving.",
+      "author": "DAI",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "hoa",
+      "title": "Hoa Hakananai’a: collection record",
+      "url": "https://www.britishmuseum.org/collection/object/E_Oc1869-1005-1",
+      "kind": "museum",
+      "note": "Identifies the statue and back carvings; construction and later carving episodes must be separated.",
+      "author": "British Museum",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "moai",
+      "title": "Moai: objects, histories and Rapanui perspectives",
+      "url": "https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection/moai",
+      "kind": "museum",
+      "note": "Museum account gives an early traditional statue date and a later birdman tradition. Its settlement chronology differs from recent research.",
+      "author": "British Museum",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "boulder",
+      "title": "Birdman boulder · Oc1920,0506.1",
+      "url": "https://artsandculture.google.com/asset/birdman-boulder/-QEzFc9ehfO2ng",
+      "kind": "museum",
+      "note": "Orongo provenance, birdman with rounded object, and an approximate 1750–1875 catalogue date.",
+      "author": "British Museum / Google Arts & Culture",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "routledge",
+      "title": "The Mystery of Easter Island (1919)",
+      "url": "https://readingroo.ms/6/9/8/0/69807/69807-h/69807-h.htm",
+      "kind": "primary-text",
+      "note": "Figures 110 and 112 preserve photographs of the Orongo rock and birdman boulder. Publication dates are not carving dates.",
+      "author": "Katherine Routledge",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "miles",
+      "title": "Hoa Hakananai’a: 3D and reflectance imaging",
+      "url": "https://acrg.soton.ac.uk/blog/4091/",
+      "kind": "research",
+      "note": "Project page for surface-recording work. The older interactive viewer returned 403 during this review; its underlying data were not examined.",
+      "author": "University of Southampton",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "cranes",
+      "title": "Dances with cranes: animal masquerade",
+      "url": "https://www.dainst.org/blogs/dances-with-cranes-animal-masquerade-in-pre-pottery/592",
+      "kind": "excavation",
+      "note": "Discusses birds and possible human-like legs on regional pillars. Interpretation as masquerade remains a proposal.",
+      "author": "Jens Notroff / DAI",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "painted-slab",
+      "title": "Painted slabs from Orongo · MAPSE 17-00-1312",
+      "url": "https://www.museorapanui.gob.cl/multimedia/coleccion-de-lajas-pintadas-de-la-aldea-ceremonial-de-orongo-2",
+      "kind": "museum",
+      "note": "Two facing tangata manu on a house slab; the 1974 move to the museum does not date the painting.",
+      "author": "Museo Antropológico Padre Sebastián Englert",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "met-apkallu",
+      "title": "Eagle-headed relief · 32.143.7",
+      "url": "https://www.metmuseum.org/art/collection/search/322614",
+      "kind": "museum",
+      "note": "Exact object pictured here: Nimrud, reign of Ashurnasirpal II, ca. 883–859 BCE. Bucket and cone in a protective ritual context.",
+      "author": "The Metropolitan Museum of Art",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "laventa",
+      "title": "La Venta Monument 19 in El Tlacuache 1199",
+      "url": "https://inah.gob.mx/images/suplementos/tlacuache/1199/web/20251002_Tlacuache_1199.pdf",
+      "kind": "research",
+      "note": "Page 18, figure 17: figure within a serpent and a possible copal bag. This does not establish the meaning of distant handled forms.",
+      "author": "INAH",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "laventa-site",
+      "title": "La Venta: archaeological site",
+      "url": "https://lugares.inah.gob.mx/es/node/4311",
+      "kind": "heritage",
+      "note": "Provides site context and a principal 900–400 BCE horizon, used as a broad context range rather than an individual monument date.",
+      "author": "INAH",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "cacaxtla",
+      "title": "Cacaxtla–Xochitécatl",
+      "url": "https://lugares.inah.gob.mx/en/node/4332",
+      "kind": "heritage",
+      "note": "Epiclassic context, 650–900 CE, with documented regional exchange.",
+      "author": "INAH",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "cacaxtla-bird",
+      "title": "The discovery of the Cacaxtla murals",
+      "url": "https://inah.gob.mx/boletines/el-inah-organiza-conferencias-por-el-47-aniversario-del-hallazgo-de-las-pinturas-murales-de-cacaxtla",
+      "kind": "excavation",
+      "note": "Institutional account featuring the eagle-man mural; helps distinguish a costumed human from an anatomical bird-human hybrid.",
+      "author": "INAH",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "newman",
+      "title": "Megalithic origins: Göbekli Tepe and Peru",
+      "url": "https://grahamhancock.com/newmanh2/",
+      "kind": "claim",
+      "note": "Guest article, 29 March 2014. Specific comparisons include hands toward the abdomen, sacred centres and distant statuary.",
+      "author": "Hugh Newman; hosted by Graham Hancock",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "paqui",
+      "title": "Karahan Tepe’s figure and the moai kavakava",
+      "url": "https://grahamhancock.com/paquil1/",
+      "kind": "claim",
+      "note": "Guest article, 19 October 2024. Proposes ribbed-figure and bird-with-rounded-object parallels. Its medical and ancestral interpretations are not established by the photographs.",
+      "author": "Lee Paqui; hosted by Graham Hancock",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "seven",
+      "title": "Secret of the Gods: stone handbags",
+      "url": "https://grahamhancock.com/sevenr1/",
+      "kind": "claim",
+      "note": "Guest article, 11 March 2019. Proposes a shared geometric reading of handled forms, including Göbekli Tepe.",
+      "author": "Ryan Seven; hosted by Graham Hancock",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "cassaro",
+      "title": "The ancient Egyptians and Mayans: ten parallels",
+      "url": "https://grahamhancock.com/cassaror4/",
+      "kind": "claim",
+      "note": "Author presents a set of proposed Egypt–Maya correspondences; the first pairs the Saqqara and Kukulkan step pyramids.",
+      "author": "Richard Cassaro; hosted by Graham Hancock",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "hancock",
+      "title": "Fingerprints of the Gods: author’s account",
+      "url": "https://grahamhancock.com/fingerprints/",
+      "kind": "claim",
+      "note": "Primary source for Hancock’s broad proposed relationship between Old and New World monuments and traditions, not a source for each guest author’s claim.",
+      "author": "Graham Hancock",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "fenton",
+      "title": "Preserved Fenton comparison thread",
+      "url": "data/fenton-thread.md",
+      "kind": "claim",
+      "note": "The project retains the supplied thread with known gaps, images and later source checks.",
+      "author": "Bruce Fenton",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "atlas",
+      "title": "The project’s illustrated comparison archive",
+      "url": "atlas.html",
+      "kind": "project",
+      "note": "Records comparisons assembled from this repository and supplied material. An external first proposer has not been traced for every pair.",
+      "author": "Deep Memory",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "central",
+      "title": "The pillar, the moai and the bird: source dossier",
+      "url": "pillar-and-moai.html",
+      "kind": "project",
+      "note": "Object-level inquiry, alternate views and chronology; the starting point for the central catalogue claims.",
+      "author": "Deep Memory",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "inputs",
+      "title": "Supplied-image identity register",
+      "url": "data/image-register.json",
+      "kind": "project",
+      "note": "Preserves captions, uncertainties and supplied images. A social caption is not an independent archaeological identification.",
+      "author": "Deep Memory",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "script-study",
+      "title": "Indus and rongorongo: the comparison-chart audit",
+      "url": "rongo/",
+      "kind": "project",
+      "note": "Scanned sign inventories, the circulating chart and metric limitations. Recognition was imperfect; rankings do not settle historical relationship.",
+      "author": "Deep Memory",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "met-indus",
+      "title": "Indus seal · 49.40.1",
+      "url": "https://www.metmuseum.org/art/collection/search/324062",
+      "kind": "museum",
+      "note": "Exact pictured seal and modern impression, dated ca. 2600–1900 BCE. This photograph is an example, not the inventory used for the old metric.",
+      "author": "The Metropolitan Museum of Art",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "rongo-bm",
+      "title": "Rongorongo tablet · Oc1903,-.150",
+      "url": "https://artsandculture.google.com/asset/wooden-tablet-with-rongorongo-inscription/YQFZoZpx2-hP1Q",
+      "kind": "museum",
+      "note": "Specific object has a 1700–1850 catalogue range. The older account of script origins is not a settled chronology of the whole tradition.",
+      "author": "British Museum",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "rongo-dates",
+      "title": "New radiocarbon dates on rongorongo",
+      "url": "https://www.nature.com/articles/s41598-024-53063-7",
+      "kind": "research",
+      "note": "Four tablets dated; one has earlier wood. Wood age and inscription age must be distinguished. This does not date every sign or settle an Indus connection.",
+      "author": "Ferrara et al., 2024",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "karahan",
+      "title": "2023 Karahantepe and Göbeklitepe discoveries",
+      "url": "https://basin.ktb.gov.tr/TR-350158/tarihin-sifir-noktasinda-ilk-boyali-heykel-bulundu.html",
+      "kind": "excavation",
+      "note": "30 September 2023: 2.3 m human statue with emphasized ribs and spine, described as seated; the article’s “standing” label needs care.",
+      "author": "Türkiye Ministry of Culture and Tourism",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "kavakava",
+      "title": "Moai kavakava · Oc,+.2595",
+      "url": "https://www.britishmuseum.org/collection/object/E_Oc-2595",
+      "kind": "museum",
+      "note": "A documented example of the type, late eighteenth to mid-nineteenth century. Not an established identification of the figure in the catalogue’s historical photograph.",
+      "author": "British Museum",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "kavakava-photo",
+      "title": "Historic front and side views · Oc,G.T.1730",
+      "url": "https://commons.wikimedia.org/wiki/File:Two_images_spliced_together;_a_front_and_side_view_of_the_same_wooden_moai_Kavakava_anthropomorphic_figure_carving_representing_akuaku_spirits,_supported_on_a_base._Oc,G.T.1730,_British_Museum.jpg",
+      "kind": "image-record",
+      "note": "The linked image identifier contains 1730; it is not a demonstrated collection year. Individual sculpture identity and age remain to be tied to a collection record.",
+      "author": "British Museum photographic collection / Wikimedia Commons",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "civilisers",
+      "title": "Teaching figures: primary-source audit",
+      "url": "civilisers.html",
+      "kind": "project",
+      "note": "29 inspected passages. The sea-arrival, teaching, departure and promised-return motifs do not all occur together in the compared accounts.",
+      "author": "Deep Memory",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "berossus",
+      "title": "Berossus through Eusebius, Chronicle I",
+      "url": "https://www.tertullian.org/fathers/eusebius_chronicon_02_text.htm",
+      "kind": "primary-text",
+      "note": "Oannes appears from the sea, teaches and returns to it at night. Berossus’s work survives through later witnesses and translation.",
+      "author": "Berossus / Eusebius",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "sarmiento",
+      "title": "History of the Incas (1572)",
+      "url": "https://www.gutenberg.org/cache/epub/20218/pg20218-images.html",
+      "kind": "primary-text",
+      "note": "Colonial witness for Viracocha; the recording date is not the origin date of the tradition.",
+      "author": "Pedro Sarmiento de Gamboa",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "sahagun",
+      "title": "Historia general / Florentine Codex",
+      "url": "https://www.biblioteca-antologica.org/es/wp-content/uploads/2018/05/SAHAG%C3%9AN-Historia-General-de-la-Nueva-Espa%C3%B1a-I.pdf",
+      "kind": "primary-text",
+      "note": "Sixteenth-century witness. See the project’s Q1–Q4 locators for teachings and departure, with translation qualifications.",
+      "author": "Bernardino de Sahagún and Nahua collaborators",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "piedrahita",
+      "title": "Historia general (1688)",
+      "url": "https://idus.us.es/server/api/core/bitstreams/19b82710-7517-4058-8432-26acd67af64e/content",
+      "kind": "primary-text",
+      "note": "Colonial witness for Bochica. The audited arrival is inland, not from the sea.",
+      "author": "Lucas Fernández de Piedrahita",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "flood-tablet",
+      "title": "Flood Tablet · K.3375",
+      "url": "https://www.britishmuseum.org/collection/object/W_K-3375",
+      "kind": "museum",
+      "note": "Seventh-century BCE tablet from Nineveh, preserving Gilgamesh XI. The date is of the surviving tablet, not the birth of the flood story.",
+      "author": "British Museum",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "manu",
+      "title": "Śatapatha Brāhmaṇa 1.8.1: Manu and the fish",
+      "url": "https://sacred-texts.com/hin/sbr/sbe12/sbe1234.htm",
+      "kind": "primary-text",
+      "note": "The fish warns Manu and guides his boat. The bird-release sequence is not part of this inspected episode.",
+      "author": "Julius Eggeling translation",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "flood-study",
+      "title": "Flood stories: text-coding pilot",
+      "url": "floods.html",
+      "kind": "project",
+      "note": "Source selection and coding limitations are retained. This study is not a worldwide proof of independent invention or one original event.",
+      "author": "Deep Memory",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "dna",
+      "title": "Ancient Rapanui genomes and contact with the Americas",
+      "url": "https://www.nature.com/articles/s41586-024-07881-4",
+      "kind": "research",
+      "note": "Ancient-genome evidence supports pre-European admixture dated about 1250–1430 CE. It does not establish a route for a particular motif.",
+      "author": "Moreno-Mayar et al., 2024",
+      "checked": "2026-09-19"
+    },
+    {
+      "id": "indus-trade",
+      "title": "South and Southeast Asian art: Indus trade",
+      "url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/sseasia.pdf",
+      "kind": "museum",
+      "note": "Indus seals in Mesopotamian contexts and the reverse support exchange. A useful control for what independent contact evidence looks like.",
+      "author": "The Metropolitan Museum of Art",
+      "checked": "2026-09-19"
+    }
+  ],
+  "places": [
+    {
+      "id": "gobekli",
+      "name": "Göbekli Tepe",
+      "region": "West Asia",
+      "lat": 37.223,
+      "lon": 38.922,
+      "precision": "site",
+      "note": "Approximate site location; not a surveyed object position."
+    },
+    {
+      "id": "orongo",
+      "name": "Orongo · Rapa Nui",
+      "region": "Pacific",
+      "lat": -27.186,
+      "lon": -109.436,
+      "precision": "site",
+      "note": "Approximate site location; not a surveyed object position."
+    },
+    {
+      "id": "rapanui",
+      "name": "Rapa Nui",
+      "region": "Pacific",
+      "lat": -27.12,
+      "lon": -109.35,
+      "precision": "region",
+      "note": "Island-level attribution. The location does not identify where a tradition originated."
+    },
+    {
+      "id": "nimrud",
+      "name": "Nimrud",
+      "region": "West Asia",
+      "lat": 36.098,
+      "lon": 43.328,
+      "precision": "site",
+      "note": "Approximate site location; not a surveyed object position."
+    },
+    {
+      "id": "laventa",
+      "name": "La Venta",
+      "region": "Mesoamerica",
+      "lat": 18.103,
+      "lon": -94.041,
+      "precision": "site",
+      "note": "Approximate site location; not a surveyed object position."
+    },
+    {
+      "id": "urfa",
+      "name": "Şanlıurfa",
+      "region": "West Asia",
+      "lat": 37.15,
+      "lon": 38.79,
+      "precision": "site",
+      "note": "Approximate site location; not a surveyed object position."
+    },
+    {
+      "id": "tiwanaku",
+      "name": "Tiwanaku",
+      "region": "South America",
+      "lat": -16.555,
+      "lon": -68.673,
+      "precision": "site",
+      "note": "Approximate site location; not a surveyed object position."
+    },
+    {
+      "id": "cacaxtla",
+      "name": "Cacaxtla",
+      "region": "Mesoamerica",
+      "lat": 19.243,
+      "lon": -98.339,
+      "precision": "site",
+      "note": "Approximate site location; not a surveyed object position."
+    },
+    {
+      "id": "cahokia",
+      "name": "Cahokia",
+      "region": "North America",
+      "lat": 38.655,
+      "lon": -90.062,
+      "precision": "site",
+      "note": "Approximate site location; not a surveyed object position."
+    },
+    {
+      "id": "delphi",
+      "name": "Delphi",
+      "region": "Europe",
+      "lat": 38.482,
+      "lon": 22.501,
+      "precision": "site",
+      "note": "Approximate site location; not a surveyed object position."
+    },
+    {
+      "id": "tepitokura",
+      "name": "Te Pito Kura · Rapa Nui",
+      "region": "Pacific",
+      "lat": -27.067,
+      "lon": -109.318,
+      "precision": "site",
+      "note": "Approximate site location; not a surveyed object position."
+    },
+    {
+      "id": "indus",
+      "name": "Indus region",
+      "region": "South Asia",
+      "lat": 28.3,
+      "lon": 69.1,
+      "precision": "region",
+      "note": "Regional anchor for a distributed corpus; not the findspot of every seal."
+    },
+    {
+      "id": "jiroft",
+      "name": "Jiroft region",
+      "region": "West Asia",
+      "lat": 28.7,
+      "lon": 57.7,
+      "precision": "region",
+      "note": "Regional attribution of the photographed object; individual excavated provenance not established in this edition."
+    },
+    {
+      "id": "lingjiatan",
+      "name": "Lingjiatan, as captioned",
+      "region": "East Asia",
+      "lat": 31.5,
+      "lon": 118.0,
+      "precision": "region",
+      "note": "Caption-level attribution; exact object registration and provenance still to check."
+    },
+    {
+      "id": "arnhem",
+      "name": "Arnhem Land, as attributed",
+      "region": "Australia",
+      "lat": -12.7,
+      "lon": 133.5,
+      "precision": "region",
+      "note": "Broad attribution in the proposing source. No exact rock shelter or panel has been verified."
+    },
+    {
+      "id": "mesopotamia",
+      "name": "Mesopotamia",
+      "region": "West Asia",
+      "lat": 33.5,
+      "lon": 44.0,
+      "precision": "region",
+      "note": "Regional tradition; not a known event location or place of composition."
+    },
+    {
+      "id": "andes",
+      "name": "Central Andes",
+      "region": "South America",
+      "lat": -13.5,
+      "lon": -72.0,
+      "precision": "region",
+      "note": "Regional tradition in a colonial witness; a map anchor is not an event location."
+    },
+    {
+      "id": "central-mexico",
+      "name": "Central Mexico",
+      "region": "Mesoamerica",
+      "lat": 19.5,
+      "lon": -99.0,
+      "precision": "region",
+      "note": "Regional tradition, not a known point of origin."
+    },
+    {
+      "id": "muisca",
+      "name": "Muisca region",
+      "region": "South America",
+      "lat": 4.8,
+      "lon": -74.0,
+      "precision": "region",
+      "note": "Regional tradition documented by colonial writers."
+    },
+    {
+      "id": "pohnpei",
+      "name": "Pohnpei, as captioned",
+      "region": "Pacific",
+      "lat": 6.9,
+      "lon": 158.2,
+      "precision": "region",
+      "note": "The supplied collage names the island; the wooden figure and narrative attribution remain unverified."
+    },
+    {
+      "id": "india",
+      "name": "South Asia · Manu account",
+      "region": "South Asia",
+      "lat": 26.0,
+      "lon": 80.0,
+      "precision": "region",
+      "note": "Broad textual tradition. No precise place of composition is assigned."
+    },
+    {
+      "id": "karahan",
+      "name": "Karahantepe",
+      "region": "West Asia",
+      "lat": 37.091,
+      "lon": 39.302,
+      "precision": "site",
+      "note": "Approximate site location; not a surveyed object position."
+    },
+    {
+      "id": "saqqara",
+      "name": "Saqqara",
+      "region": "North Africa",
+      "lat": 29.871,
+      "lon": 31.216,
+      "precision": "site",
+      "note": "Approximate site location; not a surveyed object position."
+    },
+    {
+      "id": "chichen",
+      "name": "Chichén Itzá",
+      "region": "Mesoamerica",
+      "lat": 20.683,
+      "lon": -88.569,
+      "precision": "site",
+      "note": "Approximate site location; not a surveyed object position."
+    },
+    {
+      "id": "americas",
+      "name": "Americas · contact counterpart",
+      "region": "South America",
+      "lat": -12,
+      "lon": -76,
+      "precision": "region",
+      "note": "Schematic regional anchor only. This point does not claim a departure port, route or precise ancestral homeland."
+    }
+  ],
+  "entities": [
+    {
+      "id": "pillar43",
+      "label": "Pillar 43",
+      "kind": "object",
+      "place": "gobekli",
+      "media": "p43",
+      "dates": [
+        {
+          "start": -10000,
+          "end": -8001,
+          "label": "10th–9th millennia BCE",
+          "kind": "site context",
+          "source": "gt-dates",
+          "note": "Broad published site context. No direct measurement dates this individual motif."
+        }
+      ],
+      "sources": [
+        "p43",
+        "gt-dates"
+      ],
+      "note": "One carved surface contains several animals and signs. The disc’s meaning and the upper arched forms remain disputed.",
+      "text": "",
+      "physical_id": "pillar43",
+      "culture": "neolithic-anatolia",
+      "alternate_media": [
+        "p43-alternate"
+      ]
+    },
+    {
+      "id": "hoa-back",
+      "label": "Hoa Hakananai’a · back",
+      "kind": "surface",
+      "place": "orongo",
+      "media": "hoa-back",
+      "dates": [
+        {
+          "start": null,
+          "end": null,
+          "label": "Date unresolved",
+          "kind": "unresolved",
+          "source": null,
+          "note": "Later birdman carving episode. Do not assign the museum’s original statue date to the back motifs."
+        }
+      ],
+      "sources": [
+        "hoa",
+        "moai",
+        "miles"
+      ],
+      "note": "The birdmen were added to an existing ancestral statue. Multiple carving episodes matter more than a single “age of the moai”.",
+      "text": "",
+      "physical_id": "hoa-hakananai-a",
+      "culture": "rapanui",
+      "alternate_media": [
+        "hoa-alternate"
+      ]
+    },
+    {
+      "id": "boulder",
+      "label": "Orongo birdman boulder",
+      "kind": "object",
+      "place": "orongo",
+      "media": "boulder",
+      "dates": [
+        {
+          "start": 1750,
+          "end": 1875,
+          "label": "c. 1750–1875 CE",
+          "kind": "catalogue estimate",
+          "source": "boulder",
+          "note": "Approximate museum date; not direct dating of the motif."
+        }
+      ],
+      "sources": [
+        "boulder",
+        "routledge"
+      ],
+      "note": "Museum number Oc1920,0506.1. A rounded form is close to the bent hand; the source reads it as an egg.",
+      "text": "",
+      "physical_id": "boulder",
+      "culture": "rapanui"
+    },
+    {
+      "id": "apkallu",
+      "label": "Nimrud protective figure",
+      "kind": "object",
+      "place": "nimrud",
+      "media": "met-apkallu",
+      "dates": [
+        {
+          "start": -883,
+          "end": -859,
+          "label": "c. 883–859 BCE",
+          "kind": "production",
+          "source": "met-apkallu",
+          "note": "Museum attribution to the palace of Ashurnasirpal II."
+        }
+      ],
+      "sources": [
+        "met-apkallu"
+      ],
+      "note": "Met 32.143.7. This is a specific Assyrian relief, distinct from the Pergamon panel shown in the earlier atlas.",
+      "text": "",
+      "physical_id": "apkallu",
+      "culture": "assyria"
+    },
+    {
+      "id": "laventa19",
+      "label": "La Venta · Monument 19",
+      "kind": "object",
+      "place": "laventa",
+      "media": "laventa19",
+      "dates": [
+        {
+          "start": -900,
+          "end": -400,
+          "label": "c. 900–400 BCE · site context",
+          "kind": "site context",
+          "source": "laventa-site",
+          "note": "Broad principal La Venta horizon; an individual monument date remains to be tightened."
+        }
+      ],
+      "sources": [
+        "laventa",
+        "laventa-site"
+      ],
+      "note": "A seated figure sits within a serpent and carries a small handled form. The INAH discussion considers a copal bag.",
+      "text": "",
+      "physical_id": "laventa19",
+      "culture": "olmec"
+    },
+    {
+      "id": "urfa-man",
+      "label": "Urfa Man",
+      "kind": "object",
+      "place": "urfa",
+      "media": "urfa_man",
+      "dates": [
+        {
+          "start": null,
+          "end": null,
+          "label": "Date unresolved",
+          "kind": "unresolved",
+          "source": null,
+          "note": "Early Neolithic attribution is retained as context, but an object-level dating source has not yet been checked for this entry."
+        }
+      ],
+      "sources": [
+        "newman",
+        "atlas"
+      ],
+      "note": "The actual meeting place of the hands needs to be described from full views rather than assumed from a “navel” caption.",
+      "text": "",
+      "physical_id": "urfa-man",
+      "culture": "neolithic-anatolia"
+    },
+    {
+      "id": "hoa-front",
+      "label": "Hoa Hakananai’a · front",
+      "kind": "surface",
+      "place": "orongo",
+      "media": "hoa_front",
+      "dates": [
+        {
+          "start": 1000,
+          "end": 1200,
+          "label": "c. 1000–1200 CE · museum estimate",
+          "kind": "disputed catalogue estimate",
+          "source": "moai",
+          "note": "Museum’s traditional statue date; recent settlement research gives a later island chronology. This range is disputed context, not a direct measurement."
+        }
+      ],
+      "sources": [
+        "hoa",
+        "moai",
+        "dna"
+      ],
+      "note": "Same physical statue as the back-surface entry. Separate records describe different surfaces and carving episodes, not independent statues.",
+      "text": "",
+      "physical_id": "hoa-hakananai-a",
+      "culture": "rapanui"
+    },
+    {
+      "id": "ponce",
+      "label": "Ponce monolith",
+      "kind": "object",
+      "place": "tiwanaku",
+      "media": "ponce",
+      "dates": [
+        {
+          "start": null,
+          "end": null,
+          "label": "Date unresolved",
+          "kind": "unresolved",
+          "source": null,
+          "note": "An individual monument chronology has not been source-checked in this edition."
+        }
+      ],
+      "sources": [
+        "atlas"
+      ],
+      "note": "The hands hold objects. That relationship differs from hands lying empty across a torso.",
+      "text": "",
+      "physical_id": "ponce",
+      "culture": "tiwanaku"
+    },
+    {
+      "id": "cacaxtla-bird",
+      "label": "Cacaxtla bird-costumed figure",
+      "kind": "surface",
+      "place": "cacaxtla",
+      "media": "cacaxtla",
+      "dates": [
+        {
+          "start": 650,
+          "end": 900,
+          "label": "650–900 CE · site context",
+          "kind": "site context",
+          "source": "cacaxtla",
+          "note": "Epiclassic context, not a direct pigment date."
+        }
+      ],
+      "sources": [
+        "cacaxtla",
+        "cacaxtla-bird"
+      ],
+      "note": "Painted human figure wearing bird elements. Costuming and anatomical hybridity should be separate features.",
+      "text": "",
+      "physical_id": "cacaxtla-bird",
+      "culture": "cacaxtla"
+    },
+    {
+      "id": "cahokia-bird",
+      "label": "Cahokia birdman tablet",
+      "kind": "object",
+      "place": "cahokia",
+      "media": "cahokia",
+      "dates": [
+        {
+          "start": null,
+          "end": null,
+          "label": "Date unresolved",
+          "kind": "unresolved",
+          "source": null,
+          "note": "Mississippian context; object-level collection and dating records remain to be checked."
+        }
+      ],
+      "sources": [
+        "atlas"
+      ],
+      "note": "The displayed image is a modern illustration, not a primary object photograph. That limits a fine-grained shape comparison.",
+      "text": "",
+      "physical_id": "cahokia-bird",
+      "culture": "mississippian"
+    },
+    {
+      "id": "omphalos",
+      "label": "Delphi omphalos",
+      "kind": "object",
+      "place": "delphi",
+      "media": "omphalos",
+      "dates": [
+        {
+          "start": null,
+          "end": null,
+          "label": "Date unresolved",
+          "kind": "unresolved",
+          "source": null,
+          "note": "The photographed museum object needs an exact accession record and date; a tradition’s age is not the age of this example."
+        }
+      ],
+      "sources": [
+        "atlas"
+      ],
+      "note": "A sacred-centre comparison involving both an object and a name. The picture alone cannot establish an ancient shared concept.",
+      "text": "",
+      "physical_id": "omphalos",
+      "culture": "delphi"
+    },
+    {
+      "id": "te-pito",
+      "label": "Te Pito Kura stone",
+      "kind": "object",
+      "place": "tepitokura",
+      "media": "tepitokura2",
+      "dates": [
+        {
+          "start": null,
+          "end": null,
+          "label": "Date unresolved",
+          "kind": "unresolved",
+          "source": null,
+          "note": "No date established for this stone’s shaping, placement or association with the modern label."
+        }
+      ],
+      "sources": [
+        "atlas",
+        "moai"
+      ],
+      "note": "The island name and this particular rounded stone must not be treated as the same historical evidence.",
+      "text": "",
+      "physical_id": "te-pito",
+      "culture": "rapanui"
+    },
+    {
+      "id": "indus-signs",
+      "label": "Indus signs",
+      "kind": "corpus",
+      "place": "indus",
+      "media": "met-indus",
+      "dates": [
+        {
+          "start": -2600,
+          "end": -1900,
+          "label": "c. 2600–1900 BCE",
+          "kind": "corpus context",
+          "source": "met-indus",
+          "note": "Museum date for the pictured example, compatible with the Mature Harappan corpus; not a date for each sign."
+        }
+      ],
+      "sources": [
+        "met-indus",
+        "script-study"
+      ],
+      "note": "A seal and modern impression stand for a much larger sign corpus. Metric tests used catalogue drawings, not this photograph.",
+      "text": "",
+      "physical_id": "indus-signs",
+      "culture": "indus"
+    },
+    {
+      "id": "rongorongo",
+      "label": "Rongorongo signs",
+      "kind": "corpus",
+      "place": "rapanui",
+      "media": "rongo-sheet",
+      "dates": [
+        {
+          "start": null,
+          "end": null,
+          "label": "Date unresolved",
+          "kind": "unresolved",
+          "source": null,
+          "note": "There is no single date for this sign corpus. Dated wood, carving episodes and nineteenth-century collecting are different events."
+        }
+      ],
+      "sources": [
+        "rongo-dates",
+        "rongo-bm",
+        "script-study"
+      ],
+      "note": "A plate of catalogue drawings is shown. The 2024 wood-dating study neither dates every inscription nor establishes a script relationship.",
+      "text": "",
+      "physical_id": "rongorongo",
+      "culture": "rapanui"
+    },
+    {
+      "id": "jiroft-object",
+      "label": "Jiroft handled object",
+      "kind": "object",
+      "place": "jiroft",
+      "media": "jiroft",
+      "dates": [
+        {
+          "start": null,
+          "end": null,
+          "label": "Date unresolved",
+          "kind": "unresolved",
+          "source": null,
+          "note": "The circulating image’s Bronze Age attribution needs an object-level record and excavated provenance check."
+        }
+      ],
+      "sources": [
+        "atlas"
+      ],
+      "note": "A real photographed object can still have unresolved archaeological provenance. Its figures and snakes are not automatically a feathered serpent.",
+      "text": "",
+      "physical_id": "jiroft-object",
+      "culture": "jiroft"
+    },
+    {
+      "id": "boar-unidentified",
+      "label": "Museum boar · identity open",
+      "kind": "object",
+      "place": null,
+      "media": "boar",
+      "dates": [
+        {
+          "start": null,
+          "end": null,
+          "label": "Date unresolved",
+          "kind": "unresolved",
+          "source": null,
+          "note": "Museum, accession and findspot unresolved."
+        }
+      ],
+      "sources": [
+        "inputs"
+      ],
+      "note": "No geographical pin is assigned from resemblance alone.",
+      "text": "",
+      "physical_id": "boar-unidentified",
+      "culture": "unassigned"
+    },
+    {
+      "id": "lingjiatan-pig",
+      "label": "Lingjiatan pig · caption lead",
+      "kind": "object",
+      "place": "lingjiatan",
+      "media": "pig",
+      "dates": [
+        {
+          "start": null,
+          "end": null,
+          "label": "Date unresolved",
+          "kind": "unresolved",
+          "source": null,
+          "note": "Supplied caption and tomb number need confirmation against a collection or excavation record."
+        }
+      ],
+      "sources": [
+        "inputs"
+      ],
+      "note": "The 07M23 and weight claims remain caption-level leads, not verified catalogue facts.",
+      "text": "",
+      "physical_id": "lingjiatan-pig",
+      "culture": "lingjiatan"
+    },
+    {
+      "id": "arnhem-painting",
+      "label": "Arnhem Land painting · panel unknown",
+      "kind": "surface",
+      "place": "arnhem",
+      "media": "arnhem-bird",
+      "dates": [
+        {
+          "start": null,
+          "end": null,
+          "label": "Date unresolved",
+          "kind": "unresolved",
+          "source": null,
+          "note": "The exact panel, artist/tradition attribution and age have not been verified."
+        }
+      ],
+      "sources": [
+        "fenton",
+        "inputs"
+      ],
+      "note": "A regional rock-art tradition’s long duration cannot date an unlocated individual painting.",
+      "text": "",
+      "physical_id": "arnhem-painting",
+      "culture": "arnhem"
+    },
+    {
+      "id": "serpent-montage",
+      "label": "Serpent montage · mixed sources",
+      "kind": "image-group",
+      "place": null,
+      "media": "serpent-montage",
+      "dates": [
+        {
+          "start": null,
+          "end": null,
+          "label": "Date unresolved",
+          "kind": "unresolved",
+          "source": null,
+          "note": "Several different surfaces and source photographs; no common date can be assigned."
+        }
+      ],
+      "sources": [
+        "fenton",
+        "inputs"
+      ],
+      "note": "Some component images remain unidentified; the montage is one claim presentation, not one ancient object.",
+      "text": "",
+      "physical_id": "serpent-montage",
+      "culture": "unassigned"
+    },
+    {
+      "id": "oannes",
+      "label": "Oannes",
+      "kind": "account",
+      "place": "mesopotamia",
+      "media": null,
+      "dates": [
+        {
+          "start": -300,
+          "end": -201,
+          "label": "3rd century BCE · composition",
+          "kind": "composition",
+          "source": "berossus",
+          "note": "Approximate period of Berossus’s writing; surviving evidence is mediated by later authors."
+        },
+        {
+          "start": 300,
+          "end": 399,
+          "label": "4th century CE · compilation",
+          "kind": "witness",
+          "source": "berossus",
+          "note": "Eusebius’s compilation is later than the attributed original work."
+        }
+      ],
+      "sources": [
+        "berossus",
+        "civilisers"
+      ],
+      "note": "A literary figure whose surviving account passes through several witnesses. No life date is plotted.",
+      "text": "A being from the sea teaches people, then returns to the water at night.",
+      "physical_id": "oannes",
+      "culture": "mesopotamian-accounts"
+    },
+    {
+      "id": "viracocha",
+      "label": "Viracocha",
+      "kind": "account",
+      "place": "andes",
+      "media": null,
+      "dates": [
+        {
+          "start": 1572,
+          "end": 1572,
+          "label": "1572 CE · written witness",
+          "kind": "recording",
+          "source": "sarmiento",
+          "note": "Colonial recording, not the origin date of the tradition."
+        }
+      ],
+      "sources": [
+        "sarmiento",
+        "civilisers"
+      ],
+      "note": "The inspected account begins inland; walking away across the sea is a different motif from arriving by sea.",
+      "text": "A creator and teacher travels through the Andes and departs across the sea.",
+      "physical_id": "viracocha",
+      "culture": "andean-accounts"
+    },
+    {
+      "id": "quetzalcoatl",
+      "label": "Quetzalcoatl",
+      "kind": "account",
+      "place": "central-mexico",
+      "media": null,
+      "dates": [
+        {
+          "start": 1577,
+          "end": 1577,
+          "label": "1577 CE · codex witness",
+          "kind": "witness",
+          "source": "sahagun",
+          "note": "Completion context of the Florentine Codex, not the first existence of the tradition."
+        }
+      ],
+      "sources": [
+        "sahagun",
+        "civilisers"
+      ],
+      "note": "The source audit keeps the teaching and departure passages separate. It does not import a return promise from a modern compressed retelling.",
+      "text": "Crafts and teachings are associated with Tollan; a later departure uses a serpent raft.",
+      "physical_id": "quetzalcoatl",
+      "culture": "nahua-accounts"
+    },
+    {
+      "id": "bochica",
+      "label": "Bochica",
+      "kind": "account",
+      "place": "muisca",
+      "media": null,
+      "dates": [
+        {
+          "start": 1688,
+          "end": 1688,
+          "label": "1688 CE · publication",
+          "kind": "witness",
+          "source": "piedrahita",
+          "note": "Colonial published witness, not an event or origin date."
+        }
+      ],
+      "sources": [
+        "piedrahita",
+        "civilisers"
+      ],
+      "note": "The audited route arrives inland. Modern statues are not ancient portraits, so this entry leads with the text.",
+      "text": "A teaching figure arrives by an inland route in the inspected colonial account.",
+      "physical_id": "bochica",
+      "culture": "muisca"
+    },
+    {
+      "id": "navigator",
+      "label": "Pohnpei navigator · story untraced",
+      "kind": "account",
+      "place": "pohnpei",
+      "media": "navigator",
+      "dates": [
+        {
+          "start": null,
+          "end": null,
+          "label": "Date unresolved",
+          "kind": "unresolved",
+          "source": null,
+          "note": "Neither the figure’s age nor the story’s earliest witness is verified."
+        }
+      ],
+      "sources": [
+        "inputs"
+      ],
+      "note": "The collage joins a wooden figure and architecture without demonstrating their relationship.",
+      "text": "A social-media caption links a navigator figure with monumental construction.",
+      "physical_id": "navigator",
+      "culture": "pohnpei"
+    },
+    {
+      "id": "gilgamesh-flood",
+      "label": "Gilgamesh XI · Flood Tablet",
+      "kind": "account",
+      "place": "mesopotamia",
+      "media": null,
+      "dates": [
+        {
+          "start": -700,
+          "end": -601,
+          "label": "7th century BCE · tablet",
+          "kind": "witness",
+          "source": "flood-tablet",
+          "note": "Age of this material witness, not the beginning of the story."
+        }
+      ],
+      "sources": [
+        "flood-tablet",
+        "flood-study"
+      ],
+      "note": "The preserved tablet carries a sequence of bird releases as well as a warning and a boat.",
+      "text": "A warning, a vessel, survival through a flood, then birds sent out to seek land.",
+      "physical_id": "gilgamesh-flood",
+      "culture": "mesopotamian-accounts"
+    },
+    {
+      "id": "manu-flood",
+      "label": "Manu and the fish",
+      "kind": "account",
+      "place": "india",
+      "media": null,
+      "dates": [
+        {
+          "start": null,
+          "end": null,
+          "label": "Date unresolved",
+          "kind": "unresolved",
+          "source": null,
+          "note": "An early composition range and manuscript witness history have not been audited for this entry."
+        }
+      ],
+      "sources": [
+        "manu"
+      ],
+      "note": "The inspected passage is Śatapatha Brāhmaṇa 1.8.1. A modern translation is a route to that text, not a date for the event.",
+      "text": "A fish warns Manu, has him prepare a boat, and guides it through the flood.",
+      "physical_id": "manu-flood",
+      "culture": "vedic"
+    },
+    {
+      "id": "karahan-ribs",
+      "label": "Karahantepe ribbed figure",
+      "kind": "object",
+      "place": "karahan",
+      "media": "karahan_man",
+      "dates": [
+        {
+          "start": null,
+          "end": null,
+          "label": "Date unresolved",
+          "kind": "unresolved",
+          "source": null,
+          "note": "Neolithic attribution is established in the discovery context; this review has not tied the individual carving to a dated stratum."
+        }
+      ],
+      "sources": [
+        "karahan",
+        "paqui"
+      ],
+      "note": "The official discovery account describes a seated figure. The montage contains three views of one statue.",
+      "text": "",
+      "physical_id": "karahan-ribs",
+      "culture": "neolithic-anatolia"
+    },
+    {
+      "id": "kavakava",
+      "label": "Moai kavakava · historic photograph",
+      "kind": "object",
+      "place": "rapanui",
+      "media": "kavakava-photo",
+      "dates": [
+        {
+          "start": null,
+          "end": null,
+          "label": "Date unresolved",
+          "kind": "unresolved",
+          "source": null,
+          "note": "The exact photographed sculpture’s collection identity and date remain unresolved. Oc,G.T.1730 is an image identifier, not a secure collection year."
+        }
+      ],
+      "sources": [
+        "kavakava-photo",
+        "kavakava",
+        "paqui"
+      ],
+      "note": "A separate museum record establishes the wooden figure type. Its date must not be silently assigned to this photograph.",
+      "text": "",
+      "physical_id": "kavakava",
+      "culture": "rapanui"
+    },
+    {
+      "id": "saqqara-pyramid",
+      "label": "Djoser’s Step Pyramid",
+      "kind": "monument",
+      "place": "saqqara",
+      "media": null,
+      "dates": [
+        {
+          "start": null,
+          "end": null,
+          "label": "Date unresolved",
+          "kind": "unresolved",
+          "source": null,
+          "note": "Object chronology and restoration history need a primary heritage-source check in this entry."
+        }
+      ],
+      "sources": [
+        "cassaro"
+      ],
+      "note": "A discovery lead awaiting independently sourced full views and construction history.",
+      "text": "A stepped masonry monument at Saqqara, Egypt.",
+      "physical_id": "saqqara-pyramid",
+      "culture": "egypt"
+    },
+    {
+      "id": "kukulkan",
+      "label": "Temple of Kukulkan",
+      "kind": "monument",
+      "place": "chichen",
+      "media": null,
+      "dates": [
+        {
+          "start": null,
+          "end": null,
+          "label": "Date unresolved",
+          "kind": "unresolved",
+          "source": null,
+          "note": "Building phases and restorations need source checking before numerical dates are entered."
+        }
+      ],
+      "sources": [
+        "cassaro"
+      ],
+      "note": "The proposed comparison needs specific architectural features beyond a broad stepped outline.",
+      "text": "A stepped temple platform at Chichén Itzá, Mexico.",
+      "physical_id": "kukulkan",
+      "culture": "maya"
+    },
+    {
+      "id": "orongo-slab",
+      "label": "Orongo painted slab",
+      "kind": "object",
+      "place": "orongo",
+      "media": "painted-slab",
+      "dates": [
+        {
+          "start": null,
+          "end": null,
+          "label": "Date unresolved",
+          "kind": "unresolved",
+          "source": null,
+          "note": "The 1974 museum transfer and 2020 digital recording do not date the painting."
+        }
+      ],
+      "sources": [
+        "painted-slab"
+      ],
+      "note": "MAPSE 17-00-1312. The displayed image is a textured 3D record of a surface.",
+      "text": "",
+      "physical_id": "orongo-slab",
+      "culture": "rapanui"
+    },
+    {
+      "id": "mata-ngarau",
+      "label": "Mata Ngarau birdmen",
+      "kind": "surface",
+      "place": "orongo",
+      "media": "orongo",
+      "dates": [
+        {
+          "start": null,
+          "end": null,
+          "label": "Date unresolved",
+          "kind": "unresolved",
+          "source": null,
+          "note": "A photograph published in 1919 gives a latest possible existence date, not an origin date."
+        }
+      ],
+      "sources": [
+        "routledge"
+      ],
+      "note": "Three relief birdmen belong to an Orongo rock surface; another printed view is not a new independent object.",
+      "text": "",
+      "physical_id": "mata-ngarau",
+      "culture": "rapanui"
+    },
+    {
+      "id": "pillar2",
+      "label": "Pillar 2",
+      "kind": "object",
+      "place": "gobekli",
+      "media": "p2",
+      "dates": [
+        {
+          "start": -10000,
+          "end": -8001,
+          "label": "10th–9th millennia BCE",
+          "kind": "site context",
+          "source": "gt-dates",
+          "note": "Broad published site context. No direct measurement dates this individual motif."
+        }
+      ],
+      "sources": [
+        "cranes",
+        "gt-dates"
+      ],
+      "note": "A local comparator for birds and animal combinations; it does not duplicate Pillar 43’s composition.",
+      "text": "",
+      "physical_id": "pillar2",
+      "culture": "neolithic-anatolia"
+    },
+    {
+      "id": "rapanui-contact",
+      "label": "Rapanui population evidence",
+      "kind": "population",
+      "place": "rapanui",
+      "media": null,
+      "dates": [
+        {
+          "start": 1250,
+          "end": 1430,
+          "label": "c. 1250–1430 CE · inferred contact",
+          "kind": "modelled interval",
+          "source": "dna",
+          "note": "Published admixture-time estimate, not an observed journey or motif date."
+        }
+      ],
+      "sources": [
+        "dna"
+      ],
+      "note": "The population-level evidence does not assign specific carvings to contact.",
+      "text": "Ancient genomes preserve evidence of contact with people from the Americas.",
+      "physical_id": "rapanui-contact",
+      "culture": "rapanui"
+    },
+    {
+      "id": "american-contact",
+      "label": "American ancestry counterpart",
+      "kind": "population",
+      "place": "americas",
+      "media": null,
+      "dates": [
+        {
+          "start": 1250,
+          "end": 1430,
+          "label": "c. 1250–1430 CE · same event",
+          "kind": "modelled interval",
+          "source": "dna",
+          "note": "The same estimated contact episode as the linked Rapanui record, not a second independent event."
+        }
+      ],
+      "sources": [
+        "dna"
+      ],
+      "note": "Map position is a broad visual anchor, not a port of origin.",
+      "text": "An independent genetic line of evidence changes the question of complete isolation.",
+      "physical_id": "american-contact",
+      "culture": "american-contact"
+    },
+    {
+      "id": "indus-exchange-record",
+      "label": "Seals across trading regions",
+      "kind": "research",
+      "place": "mesopotamia",
+      "media": null,
+      "dates": [
+        {
+          "start": null,
+          "end": null,
+          "label": "Bronze Age exchange · individual finds pending",
+          "kind": "undated register summary",
+          "source": "indus-trade",
+          "note": "The source discusses exchanged seals. Individual find contexts and dated assemblages have not yet been entered, so no numerical range is assigned to this summary."
+        }
+      ],
+      "sources": [
+        "indus-trade"
+      ],
+      "note": "The Met’s survey describes Indus seals found in Mesopotamian cities and Mesopotamian seals at Indus sites. This record summarises that evidence; it is not an individual object or a count of exchanged seals.",
+      "text": "Seals found outside their producing regions provide material evidence of exchange.",
+      "physical_id": "indus-exchange-record",
+      "culture": "mesopotamian-exchange"
+    }
+  ],
+  "media": [
+    {
+      "id": "p43",
+      "path": "img/case/pillar43.jpg",
+      "caption": "Pillar 43, western carved face, photographed at Göbekli Tepe",
+      "alt": "Pillar 43, western carved face, photographed at Göbekli Tepe",
+      "credit": "DAI / K. Schmidt",
+      "rights": "Copyright; reproduced for critical comparison",
+      "url": "https://www.dainst.blog/the-tepe-telegrams/2016/10/14/of-animals-and-a-headless-man-gobekli-tepe-pillar-43/",
+      "kind": "photograph",
+      "transformation": "Existing source image; displayed uncropped. No generated reconstruction.",
+      "sha256": "25dd338ef57f1ff2aa9b5689f9e2354a72499551f38b4810fa029d758231ef84"
+    },
+    {
+      "id": "hoa-back",
+      "path": "img/case/hoa-back.jpg",
+      "caption": "Birdman carvings on the back of Hoa Hakananai’a",
+      "alt": "Birdman carvings on the back of Hoa Hakananai’a",
+      "credit": "James Miles",
+      "rights": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Petroglyphs_on_the_back_of_the_Hoa_Hakananai%27a_Statue.jpg",
+      "kind": "photograph",
+      "transformation": "Existing source image; displayed uncropped. No generated reconstruction.",
+      "sha256": "6423650349c94eea361953a047faf662b60f59c0b192911921f6f946a89b19fd"
+    },
+    {
+      "id": "boulder",
+      "path": "img/case/orongo-1919.jpg",
+      "caption": "The Orongo birdman boulder, photograph published in 1919",
+      "alt": "The Orongo birdman boulder, photograph published in 1919",
+      "credit": "Katherine Routledge / Mana Expedition",
+      "rights": "Public domain",
+      "url": "https://readingroo.ms/6/9/8/0/69807/69807-h/69807-h.htm",
+      "kind": "historical photograph",
+      "transformation": "Existing source image; displayed uncropped. No generated reconstruction.",
+      "sha256": "759e3b5f7f0685f3246007a2abeef791df006800bd8f283231ee30102de59727"
+    },
+    {
+      "id": "met-apkallu",
+      "path": "img/catalogue/assyrian-met.jpg",
+      "caption": "Eagle-headed protective figure holding a bucket; Met 32.143.7",
+      "alt": "Eagle-headed protective figure holding a bucket; Met 32.143.7",
+      "credit": "The Metropolitan Museum of Art",
+      "rights": "Public domain / Open Access",
+      "url": "https://www.metmuseum.org/art/collection/search/322614",
+      "kind": "photograph",
+      "transformation": "Museum web-large photograph downloaded unchanged (DP375422).",
+      "sha256": "156949860d18363c83a96c6825cc6b0b14f2649218c9100f00798147b0aba3b6"
+    },
+    {
+      "id": "met-indus",
+      "path": "img/catalogue/indus-met.jpg",
+      "caption": "Indus stamp seal and a modern impression; Met 49.40.1",
+      "alt": "Indus stamp seal and a modern impression; Met 49.40.1",
+      "credit": "The Metropolitan Museum of Art",
+      "rights": "Public domain / Open Access",
+      "url": "https://www.metmuseum.org/art/collection/search/324062",
+      "kind": "photograph",
+      "transformation": "Museum web-large photograph downloaded unchanged (DP23101). The impression is modern.",
+      "sha256": "e508f962b21503e64cf1c154bbc6d6b4a57fad35e4b8195a3b707b6f86d2133c"
+    },
+    {
+      "id": "kavakava-photo",
+      "path": "img/catalogue/kavakava-archive.jpg",
+      "caption": "Front and side views of one wooden moai kavakava, historic museum photograph",
+      "alt": "Front and side views of one wooden moai kavakava, historic museum photograph",
+      "credit": "British Museum photographic collection; reproduction in Lee Paqui’s article",
+      "rights": "Public domain historical photograph; original record linked",
+      "url": "https://commons.wikimedia.org/wiki/File:Two_images_spliced_together;_a_front_and_side_view_of_the_same_wooden_moai_Kavakava_anthropomorphic_figure_carving_representing_akuaku_spirits,_supported_on_a_base._Oc,G.T.1730,_British_Museum.jpg",
+      "kind": "historical photograph",
+      "transformation": "Reproduced image downloaded unchanged from https://grahamhancock.com/wp-content/uploads/2024/08/paquil1_html_m669eb558.jpg . Two views, one object; the individual sculpture identity is unresolved.",
+      "sha256": "28ff4ee43c44125f568884058a67e74a3b0399ec037ff047c420363872633a97"
+    },
+    {
+      "id": "laventa19",
+      "path": "img/motifs/laventa19.jpg",
+      "caption": "La Venta Monument 19: seated figure inside a serpent",
+      "alt": "La Venta Monument 19: seated figure inside a serpent",
+      "credit": "Gary Todd",
+      "rights": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:Olmec_Monument_19,_La_Venta,_1300-400_BC.jpg",
+      "kind": "photograph",
+      "transformation": "Existing source image; displayed uncropped. No generated reconstruction.",
+      "sha256": "0c8601513ee18ba24e2a94cf7b277d901f3e0a393ff977f5b77781c7b1885fcb"
+    },
+    {
+      "id": "urfa_man",
+      "path": "img/motifs/urfa_man.jpg",
+      "caption": "The Balıklıgöl statue, commonly called Urfa Man",
+      "alt": "The Balıklıgöl statue, commonly called Urfa Man",
+      "credit": "Dosseman",
+      "rights": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Urfa_museum_Urfa_man_sept_2019_4711.jpg",
+      "kind": "photograph",
+      "transformation": "Existing source image; displayed uncropped. No generated reconstruction.",
+      "sha256": "47c6140448e3ff2e22647646b0bafc643f8629033ad8cbb728440c7ac8de1938"
+    },
+    {
+      "id": "hoa_front",
+      "path": "img/motifs/hoa_front.jpg",
+      "caption": "Front and side of Hoa Hakananai’a",
+      "alt": "Front and side of Hoa Hakananai’a",
+      "credit": "James Miles",
+      "rights": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Angled_View_of_the_Hoa_Hakananai%27a_Statue.JPG",
+      "kind": "photograph",
+      "transformation": "Existing source image; displayed uncropped. No generated reconstruction.",
+      "sha256": "23949304418b43fd339d6bf58067fd04a06d1c3857ed3d4e4e1cb112ab3c616c"
+    },
+    {
+      "id": "ponce",
+      "path": "img/motifs/ponce.jpg",
+      "caption": "Ponce monolith at Tiwanaku",
+      "alt": "Ponce monolith at Tiwanaku",
+      "credit": "P. Hughes",
+      "rights": "CC BY 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Tiwanaku_-_Ponce_monolith.jpg",
+      "kind": "photograph",
+      "transformation": "Existing source image; displayed uncropped. No generated reconstruction.",
+      "sha256": "3e3347b4be9ff758d9d54ce75f9b744d034ef6bb8f61c61115a1d59249cb7086"
+    },
+    {
+      "id": "cacaxtla",
+      "path": "img/motifs/cacaxtla.jpg",
+      "caption": "Cacaxtla’s bird-costumed human in a painted mural",
+      "alt": "Cacaxtla’s bird-costumed human in a painted mural",
+      "credit": "Tim Zaman",
+      "rights": "CC BY 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:VestidosDeSacerdotes(Hombre-Ave).jpg",
+      "kind": "photograph",
+      "transformation": "Existing source image; displayed uncropped. No generated reconstruction.",
+      "sha256": "d1678e0155c0cb69247f24339db9b0c0273c74324a222a778eae1c4a9c0f9e49"
+    },
+    {
+      "id": "cahokia",
+      "path": "img/motifs/cahokia.jpg",
+      "caption": "Modern illustration of the Cahokia birdman tablet",
+      "alt": "Modern illustration of the Cahokia birdman tablet",
+      "credit": "Herb Roe, www.chromesun.com",
+      "rights": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Cahokia_Birdman_tablet_HRoe_2012.jpg",
+      "kind": "modern illustration",
+      "transformation": "Existing source image; displayed uncropped. No generated reconstruction.",
+      "sha256": "41bcc75d4f6fb7c459c063ef27920bc1f17a83e1457c41bca7b0234df3ae61be"
+    },
+    {
+      "id": "omphalos",
+      "path": "img/motifs/omphalos.jpg",
+      "caption": "An omphalos in the Delphi museum",
+      "alt": "An omphalos in the Delphi museum",
+      "credit": "Zde",
+      "rights": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Omphalos,_AM_of_Delphi,_201424.jpg",
+      "kind": "photograph",
+      "transformation": "Existing source image; displayed uncropped. No generated reconstruction.",
+      "sha256": "a757a8ce4325284c9366e2b81f7ae6ebd5b93f39354e210148b3d90007369e9c"
+    },
+    {
+      "id": "tepitokura2",
+      "path": "img/motifs/tepitokura2.jpg",
+      "caption": "Rounded stone called the navel of the world at Te Pito Kura",
+      "alt": "Rounded stone called the navel of the world at Te Pito Kura",
+      "credit": "Bjørn Christian Tørrissen",
+      "rights": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Navel-of-the-World-2013.jpg",
+      "kind": "photograph",
+      "transformation": "Existing source image; displayed uncropped. No generated reconstruction.",
+      "sha256": "c1b94897f1f6993777c2f26bcc9d6afca49bee03e6c77f79f33fd0078d9e63ce"
+    },
+    {
+      "id": "jiroft",
+      "path": "img/motifs/jiroft.jpg",
+      "caption": "Handled chlorite object attributed to Jiroft, with a figure and serpents",
+      "alt": "Handled chlorite object attributed to Jiroft, with a figure and serpents",
+      "credit": "Nationalmuseumofiran",
+      "rights": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Chlorite_object_Jiroft,_Kerman_ca._2500_BCE,_Bronze_Age_I,_National_Museum_of_Iran.jpg",
+      "kind": "photograph",
+      "transformation": "Existing source image; displayed uncropped. No generated reconstruction.",
+      "sha256": "4791c0ccf72cefa27beb77f0acce2cd20f295a341eef90ec3b557876b78deec1"
+    },
+    {
+      "id": "karahan_man",
+      "path": "img/motifs/karahan_man.jpg",
+      "caption": "Three views of the same ribbed human statue at Karahantepe",
+      "alt": "Three views of the same ribbed human statue at Karahantepe",
+      "credit": "Marco Restano",
+      "rights": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Karahan_Tepe_man.jpg",
+      "kind": "photographic montage",
+      "transformation": "Existing source image; displayed uncropped. No generated reconstruction.",
+      "sha256": "321af9965acd97107bf9abdceb671da8fd8669dcae3f66012643862cda4c2b13"
+    },
+    {
+      "id": "orongo",
+      "path": "img/motifs/orongo.jpg",
+      "caption": "Three birdman figures at Mata Ngarau; historic photograph",
+      "alt": "Three birdman figures at Mata Ngarau; historic photograph",
+      "credit": "Photographer not identified; Mana Expedition / British Museum archive",
+      "rights": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:View_of_an_in_relief_carving_of_three_birdman_figures;_Mata_Ngarau,_Oc,G.T.1647,_Mana_Expedition_to_Easter_Island,_British_Museum.jpg",
+      "kind": "historical photograph",
+      "transformation": "Existing source image; displayed uncropped. No generated reconstruction.",
+      "sha256": "d986cecdfe64e607a6f30d6e974f5269b134a8a6536cb727a4f20203d95aef9e"
+    },
+    {
+      "id": "boar",
+      "path": "img/inputs/boar-museum.jpeg",
+      "caption": "Supplied photograph of a boar-like sculpture in a museum",
+      "alt": "Supplied photograph of a boar-like sculpture in a museum",
+      "credit": "Photographer unresolved",
+      "rights": "Rights unresolved; supplied image for critical comparison",
+      "url": "data/image-register.json",
+      "kind": "photograph",
+      "transformation": "Existing source image; displayed uncropped. No generated reconstruction.",
+      "sha256": "895f426a0331e924a6e5d0e0ae374d425b3f6ba26165bb7fa242cf9558985dc8"
+    },
+    {
+      "id": "pig",
+      "path": "img/inputs/lingjiatan-pig.jpeg",
+      "caption": "Supplied photograph captioned as the Lingjiatan stone pig",
+      "alt": "Supplied photograph captioned as the Lingjiatan stone pig",
+      "credit": "Photographer unresolved",
+      "rights": "Rights unresolved; supplied image for critical comparison",
+      "url": "data/image-register.json",
+      "kind": "photograph",
+      "transformation": "Existing source image; displayed uncropped. No generated reconstruction.",
+      "sha256": "7fa3baaa34f320317ecbe2106eb1a5b7c5132b9bdf0ee6dc1d232483fb8471f1"
+    },
+    {
+      "id": "arnhem-bird",
+      "path": "img/inputs/fenton/bird-and-ball.jpg",
+      "caption": "Bird-and-rounded-form painting attributed to Arnhem Land in the claim",
+      "alt": "Bird-and-rounded-form painting attributed to Arnhem Land in the claim",
+      "credit": "Photographer and panel unresolved",
+      "rights": "Rights unresolved; supplied claim image",
+      "url": "fenton.html#fenton-bird",
+      "kind": "photograph",
+      "transformation": "Existing source image; displayed uncropped. No generated reconstruction.",
+      "sha256": "92b5b722732cd72c7b03e5380b02427cec10d31e2ed1bfbe998f7542cd621b84"
+    },
+    {
+      "id": "serpent-montage",
+      "path": "img/inputs/fenton/feathered-serpents.jpg",
+      "caption": "The supplied comparison montage of serpent forms",
+      "alt": "The supplied comparison montage of serpent forms",
+      "credit": "Individual photographers unresolved",
+      "rights": "Rights unresolved; supplied claim image",
+      "url": "fenton.html#fenton-feathers",
+      "kind": "claim montage",
+      "transformation": "Existing supplied montage; its parts have unequal source resolution.",
+      "sha256": "61353361d63dac32a6fb45786dd283b18e37e1779735917ec5783d1b40a30529"
+    },
+    {
+      "id": "navigator",
+      "path": "img/inputs/nan-madol-navigator.jpg",
+      "caption": "Supplied social-media collage linking a wooden figure with Nan Madol",
+      "alt": "Supplied social-media collage linking a wooden figure with Nan Madol",
+      "credit": "Archaic Lens post; underlying photographer unresolved",
+      "rights": "Rights unresolved; supplied image for critical comparison",
+      "url": "data/image-register.json",
+      "kind": "claim montage",
+      "transformation": "Existing source image; displayed uncropped. No generated reconstruction.",
+      "sha256": "38f56f7aa2c5e76c9d892a6e09fe18e5b136c111c24044722021841c0fffd5a0"
+    },
+    {
+      "id": "rongo-sheet",
+      "path": "rongo/img/fig/barthel_plate6.jpg",
+      "caption": "A printed rongorongo sign plate from Barthel’s catalogue, not a photograph of a tablet",
+      "alt": "A printed rongorongo sign plate from Barthel’s catalogue, not a photograph of a tablet",
+      "credit": "Thomas S. Barthel, 1958; scan retained by the earlier study",
+      "rights": "Copyright catalogue excerpt, reproduced for critical comparison",
+      "url": "rongo/",
+      "kind": "catalogue drawing",
+      "transformation": "Existing source image; displayed uncropped. No generated reconstruction.",
+      "sha256": "964c17bc7d09eb1e902b7b6fdc6d85e46fb559406f8e691aa4b5fc6322d165c3"
+    },
+    {
+      "id": "painted-slab",
+      "path": "img/case/orongo-painted-slab.jpeg",
+      "caption": "Textured 3D preview of an Orongo slab bearing two facing birdmen",
+      "alt": "Textured 3D preview of an Orongo slab bearing two facing birdmen",
+      "credit": "Factum Foundation / Museo Rapa Nui",
+      "rights": "No open licence stated; small preview reproduced for critical comparison",
+      "url": "https://www.museorapanui.gob.cl/multimedia/coleccion-de-lajas-pintadas-de-la-aldea-ceremonial-de-orongo-2",
+      "kind": "3D record",
+      "transformation": "Unchanged publisher preview; a recorded surface, not an AI reconstruction.",
+      "sha256": "f72b0e3b0fd2aad1be9ca3a20ba592a4f196954463f770f68bec37284ae45103"
+    },
+    {
+      "id": "p2",
+      "path": "img/case/pillar2-web.jpg",
+      "caption": "Pillar 2 at Göbekli Tepe, with a bird below quadrupeds",
+      "alt": "Pillar 2 at Göbekli Tepe, with a bird below quadrupeds",
+      "credit": "Teomancimit",
+      "rights": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Gobekli_Tepe_2.jpg",
+      "kind": "photograph",
+      "transformation": "Unchanged 750-pixel display rendition from World History Encyclopedia; original retained by the project.",
+      "sha256": "9266b261d0451f2a06b003e6ce676e8c2f8697b880e089928b91b205e9238bf3"
+    },
+    {
+      "credit": "DAI / Göbekli Tepe Project; original study attribution",
+      "rights": "Copyright DAI; retained for criticism and commentary, not freely licensed",
+      "transformation": "None: copied or downloaded bytes unchanged",
+      "sha256": "0582b75a16dfad807e935eecfd678a21bd69f40fe8bcd797a46f94df298e8a39",
+      "id": "p43-alternate",
+      "path": "img/case/pillar43-alt.jpg",
+      "caption": "Pillar 43 in a second photograph; the same carved face",
+      "alt": "Pillar 43 in a second photograph; the same carved face",
+      "url": "https://www.dainst.blog/the-tepe-telegrams/2016/10/14/of-animals-and-a-headless-man-gobekli-tepe-pillar-43/",
+      "kind": "photograph"
+    },
+    {
+      "credit": "Sanjay ach",
+      "rights": "CC BY-SA 4.0",
+      "transformation": "None: copied or downloaded bytes unchanged",
+      "sha256": "b940280c011d0e3278261a690bd771454e42a8d9fea51d4c6235b62d405ca2e2",
+      "id": "hoa-alternate",
+      "path": "img/case/hoa-back-alt.jpg",
+      "caption": "The back of Hoa Hakananai’a photographed in different light",
+      "alt": "The back of Hoa Hakananai’a photographed in different light",
+      "url": "https://commons.wikimedia.org/wiki/File:Back_side_of_Hoa_Hakananai%27a_stone_moai.jpg",
+      "kind": "photograph"
+    }
+  ],
+  "groups": [
+    {
+      "id": "anatolian-birds",
+      "label": "Bird imagery in Neolithic Anatolia",
+      "members": [
+        "pillar43",
+        "pillar2"
+      ],
+      "description": "Carved birds among animal ensembles at Göbekli Tepe.",
+      "membership_reason": "Two documented local examples, selected to examine variation. They are not a representative count of all Neolithic birds.",
+      "sources": [
+        "p43",
+        "cranes"
+      ],
+      "cultures": [
+        "neolithic-anatolia"
+      ]
+    },
+    {
+      "id": "rapanui-birdmen",
+      "label": "The Rapanui birdman repertoire",
+      "members": [
+        "hoa-back",
+        "boulder",
+        "mata-ngarau",
+        "orongo-slab"
+      ],
+      "description": "Statue, boulder, rock surface and painted house slab.",
+      "membership_reason": "Selected expressions of the tangata manu tradition. Shared local context is documented; identical dates and meanings are not assumed.",
+      "sources": [
+        "hoa",
+        "boulder",
+        "routledge",
+        "painted-slab"
+      ],
+      "cultures": [
+        "rapanui"
+      ]
+    },
+    {
+      "id": "p43-composition",
+      "label": "Pillar 43 · bird and disc",
+      "members": [
+        "pillar43"
+      ],
+      "description": "One composition within the wider Anatolian repertoire.",
+      "membership_reason": "A deliberately narrow subset, used to inspect the specific relation between a bird and a rounded form.",
+      "sources": [
+        "p43"
+      ],
+      "cultures": [
+        "neolithic-anatolia"
+      ]
+    },
+    {
+      "id": "boulder-composition",
+      "label": "Orongo · birdman and rounded form",
+      "members": [
+        "boulder"
+      ],
+      "description": "The carved boulder in a museum record and an early photograph.",
+      "membership_reason": "One physical object, even when several photographs are consulted.",
+      "sources": [
+        "boulder",
+        "routledge"
+      ],
+      "cultures": [
+        "rapanui"
+      ]
+    },
+    {
+      "id": "nimrud",
+      "label": "Nimrud protective figures",
+      "members": [
+        "apkallu"
+      ],
+      "description": "A documented example from a larger Assyrian relief tradition.",
+      "membership_reason": "This first edition includes one museum-identified panel. Additional panels must be registered before claims about frequency.",
+      "sources": [
+        "met-apkallu"
+      ],
+      "cultures": [
+        "assyria"
+      ]
+    },
+    {
+      "id": "olmec",
+      "label": "La Venta’s figure and serpent",
+      "members": [
+        "laventa19"
+      ],
+      "description": "Monument 19, with its figure, serpent and handled object.",
+      "membership_reason": "One monument represents a wider proposed tradition. Its different features can participate in different comparisons.",
+      "sources": [
+        "laventa"
+      ],
+      "cultures": [
+        "olmec"
+      ]
+    },
+    {
+      "id": "torso-anatolia",
+      "label": "Anatolian torso gestures",
+      "members": [
+        "urfa-man"
+      ],
+      "description": "The Balıklıgöl statue in the hand-position comparison.",
+      "membership_reason": "One example so far. Its exact posture must be checked before expanding the group.",
+      "sources": [
+        "newman"
+      ],
+      "cultures": [
+        "neolithic-anatolia"
+      ]
+    },
+    {
+      "id": "torso-rapanui",
+      "label": "Rapanui torso gestures",
+      "members": [
+        "hoa-front"
+      ],
+      "description": "The frontal surface of Hoa Hakananai’a.",
+      "membership_reason": "A different surface of the statue already included in the birdman group; not a second independent statue.",
+      "sources": [
+        "hoa"
+      ],
+      "cultures": [
+        "rapanui"
+      ]
+    },
+    {
+      "id": "torso-andes",
+      "label": "Andean torso gestures",
+      "members": [
+        "ponce"
+      ],
+      "description": "The Ponce monolith at Tiwanaku.",
+      "membership_reason": "Included as a proposed analogue; the held objects are a difference requiring explicit coding.",
+      "sources": [
+        "atlas"
+      ],
+      "cultures": [
+        "tiwanaku"
+      ]
+    },
+    {
+      "id": "cacaxtla",
+      "label": "Mesoamerican bird costumes",
+      "members": [
+        "cacaxtla-bird"
+      ],
+      "description": "A mural tradition at Cacaxtla.",
+      "membership_reason": "One painted example; costume is coded separately from a hybrid body.",
+      "sources": [
+        "cacaxtla-bird"
+      ],
+      "cultures": [
+        "cacaxtla"
+      ]
+    },
+    {
+      "id": "cahokia",
+      "label": "Mississippian bird imagery",
+      "members": [
+        "cahokia-bird"
+      ],
+      "description": "The Cahokia tablet as represented in a modern illustration.",
+      "membership_reason": "A lead group awaiting primary object photography and a collection record.",
+      "sources": [
+        "atlas"
+      ],
+      "cultures": [
+        "mississippian"
+      ]
+    },
+    {
+      "id": "navel-delphi",
+      "label": "Delphi sacred centre",
+      "members": [
+        "omphalos"
+      ],
+      "description": "A museum omphalos and its sacred-centre interpretation.",
+      "membership_reason": "Object identity and the history of the term require separate checks.",
+      "sources": [
+        "atlas"
+      ],
+      "cultures": [
+        "delphi"
+      ]
+    },
+    {
+      "id": "navel-rapanui",
+      "label": "Rapanui sacred centre",
+      "members": [
+        "te-pito"
+      ],
+      "description": "The Te Pito Kura stone and associated name.",
+      "membership_reason": "Do not equate an island name with an ancient date for this particular stone.",
+      "sources": [
+        "atlas"
+      ],
+      "cultures": [
+        "rapanui"
+      ]
+    },
+    {
+      "id": "indus-writing",
+      "label": "The Indus sign corpus",
+      "members": [
+        "indus-signs"
+      ],
+      "description": "A distributed body of inscriptions.",
+      "membership_reason": "The entity represents a corpus; its display image is only an example, not the full sample.",
+      "sources": [
+        "met-indus",
+        "script-study"
+      ],
+      "cultures": [
+        "indus"
+      ]
+    },
+    {
+      "id": "rongo-writing",
+      "label": "The rongorongo corpus",
+      "members": [
+        "rongorongo"
+      ],
+      "description": "Inscribed Rapanui objects and their sign inventories.",
+      "membership_reason": "A corpus-level group. Drawings, photographs, individual tablets and wood dates must stay distinguishable.",
+      "sources": [
+        "rongo-dates",
+        "script-study"
+      ],
+      "cultures": [
+        "rapanui"
+      ]
+    },
+    {
+      "id": "jiroft",
+      "label": "Jiroft handled forms",
+      "members": [
+        "jiroft-object"
+      ],
+      "description": "A handled chlorite object with human and animal imagery.",
+      "membership_reason": "One photographed example; archaeological provenance has not been established here.",
+      "sources": [
+        "atlas"
+      ],
+      "cultures": [
+        "jiroft"
+      ]
+    },
+    {
+      "id": "unknown-boar",
+      "label": "Unidentified museum animal",
+      "members": [
+        "boar-unidentified"
+      ],
+      "description": "One supplied photograph.",
+      "membership_reason": "Membership records a caption lead, not an archaeological attribution.",
+      "sources": [
+        "inputs"
+      ],
+      "cultures": [
+        "unassigned"
+      ]
+    },
+    {
+      "id": "china-pig",
+      "label": "Lingjiatan animal sculpture",
+      "members": [
+        "lingjiatan-pig"
+      ],
+      "description": "A supplied image attributed to Lingjiatan.",
+      "membership_reason": "Awaiting object-level confirmation of the caption.",
+      "sources": [
+        "inputs"
+      ],
+      "cultures": [
+        "lingjiatan"
+      ]
+    },
+    {
+      "id": "arnhem",
+      "label": "Arnhem Land comparison lead",
+      "members": [
+        "arnhem-painting"
+      ],
+      "description": "A painting featured in Fenton’s argument.",
+      "membership_reason": "An unresolved panel, not a sample of the entire Aboriginal rock-art tradition.",
+      "sources": [
+        "fenton"
+      ],
+      "cultures": [
+        "arnhem"
+      ]
+    },
+    {
+      "id": "serpents-unresolved",
+      "label": "Distant serpent images",
+      "members": [
+        "serpent-montage"
+      ],
+      "description": "Several regions combined in the supplied montage.",
+      "membership_reason": "A provisional image group. It will be split into object records as component identities are established.",
+      "sources": [
+        "fenton"
+      ],
+      "cultures": [
+        "unassigned"
+      ]
+    },
+    {
+      "id": "teachers-mesopotamia",
+      "label": "Mesopotamian teaching figures",
+      "members": [
+        "oannes"
+      ],
+      "description": "The Oannes account surviving through later witnesses.",
+      "membership_reason": "One source family; retellings are not independent traditions.",
+      "sources": [
+        "berossus"
+      ],
+      "cultures": [
+        "mesopotamian-accounts"
+      ]
+    },
+    {
+      "id": "teachers-andes",
+      "label": "Andean teaching figures",
+      "members": [
+        "viracocha"
+      ],
+      "description": "Viracocha in the inspected colonial witness.",
+      "membership_reason": "One selected witness, not all Andean versions.",
+      "sources": [
+        "sarmiento"
+      ],
+      "cultures": [
+        "andean-accounts"
+      ]
+    },
+    {
+      "id": "teachers-mexico",
+      "label": "Mesoamerican teaching figures",
+      "members": [
+        "quetzalcoatl"
+      ],
+      "description": "Quetzalcoatl in the source-audit passages.",
+      "membership_reason": "One selected source family with distinct teaching and departure episodes.",
+      "sources": [
+        "sahagun"
+      ],
+      "cultures": [
+        "nahua-accounts"
+      ]
+    },
+    {
+      "id": "teachers-muisca",
+      "label": "Muisca teaching figures",
+      "members": [
+        "bochica"
+      ],
+      "description": "Bochica in the inspected colonial source.",
+      "membership_reason": "A witness with inland arrival; sea-arrival paraphrases need correction.",
+      "sources": [
+        "piedrahita"
+      ],
+      "cultures": [
+        "muisca"
+      ]
+    },
+    {
+      "id": "teachers-pohnpei",
+      "label": "Pohnpei navigator lead",
+      "members": [
+        "navigator"
+      ],
+      "description": "A story attached to a social image.",
+      "membership_reason": "Neither the narrative witness nor the object relation is traced.",
+      "sources": [
+        "inputs"
+      ],
+      "cultures": [
+        "pohnpei"
+      ]
+    },
+    {
+      "id": "flood-mesopotamia",
+      "label": "Mesopotamian flood accounts",
+      "members": [
+        "gilgamesh-flood"
+      ],
+      "description": "Gilgamesh XI as preserved on the Flood Tablet.",
+      "membership_reason": "One material witness, not the whole history of the tradition.",
+      "sources": [
+        "flood-tablet"
+      ],
+      "cultures": [
+        "mesopotamian-accounts"
+      ]
+    },
+    {
+      "id": "flood-india",
+      "label": "South Asian flood accounts",
+      "members": [
+        "manu-flood"
+      ],
+      "description": "Manu and the fish in Śatapatha Brāhmaṇa 1.8.1.",
+      "membership_reason": "One inspected episode; later versions should be separate records.",
+      "sources": [
+        "manu"
+      ],
+      "cultures": [
+        "vedic"
+      ]
+    },
+    {
+      "id": "ribs-anatolia",
+      "label": "Anatolian ribbed figures",
+      "members": [
+        "karahan-ribs"
+      ],
+      "description": "The large Karahantepe statue.",
+      "membership_reason": "One statue shown in three photographs; no frequency claim.",
+      "sources": [
+        "karahan"
+      ],
+      "cultures": [
+        "neolithic-anatolia"
+      ]
+    },
+    {
+      "id": "ribs-rapanui",
+      "label": "Rapanui moai kavakava",
+      "members": [
+        "kavakava"
+      ],
+      "description": "Small wooden figures with pronounced ribs.",
+      "membership_reason": "One historical example pictured; a separate museum record supplies type context, not its exact identity.",
+      "sources": [
+        "kavakava",
+        "kavakava-photo"
+      ],
+      "cultures": [
+        "rapanui"
+      ]
+    },
+    {
+      "id": "pyramids-egypt",
+      "label": "Egyptian stepped architecture",
+      "members": [
+        "saqqara-pyramid"
+      ],
+      "description": "Djoser’s monument in the proposing comparison.",
+      "membership_reason": "Initial architectural lead; independently sourced views and phases still needed.",
+      "sources": [
+        "cassaro"
+      ],
+      "cultures": [
+        "egypt"
+      ]
+    },
+    {
+      "id": "pyramids-maya",
+      "label": "Maya stepped architecture",
+      "members": [
+        "kukulkan"
+      ],
+      "description": "The Kukulkan temple in the proposing comparison.",
+      "membership_reason": "One specific building, not all Mesoamerican monumental architecture.",
+      "sources": [
+        "cassaro"
+      ],
+      "cultures": [
+        "maya"
+      ]
+    },
+    {
+      "id": "contact-pacific",
+      "label": "Rapanui population history",
+      "members": [
+        "rapanui-contact"
+      ],
+      "description": "Ancient-genome study.",
+      "membership_reason": "An independent kind of evidence; not a visual resemblance.",
+      "sources": [
+        "dna"
+      ],
+      "cultures": [
+        "rapanui"
+      ]
+    },
+    {
+      "id": "contact-americas",
+      "label": "American ancestry evidence",
+      "members": [
+        "american-contact"
+      ],
+      "description": "The other side of the same inferred contact episode.",
+      "membership_reason": "A paired description of the same evidence, not an independent replication.",
+      "sources": [
+        "dna"
+      ],
+      "cultures": [
+        "american-contact"
+      ]
+    },
+    {
+      "id": "p43-arches",
+      "label": "Pillar 43 · upper arched forms",
+      "members": [
+        "pillar43"
+      ],
+      "description": "The upper register of one Neolithic pillar.",
+      "membership_reason": "A specific feature subset; the same pillar also appears in the bird comparisons.",
+      "sources": [
+        "p43"
+      ],
+      "cultures": [
+        "neolithic-anatolia"
+      ]
+    },
+    {
+      "id": "mesopotamian-exchange",
+      "label": "Mesopotamian exchange evidence",
+      "members": [
+        "indus-exchange-record"
+      ],
+      "description": "A source-based summary of seals found across the two regions.",
+      "membership_reason": "This is a contextual evidence record. It does not use a later Assyrian carving as a proxy for Bronze Age trade.",
+      "sources": [
+        "indus-trade"
+      ],
+      "cultures": [
+        "mesopotamian-exchange"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "birdmen-worlds",
+      "title": "Birdmen across two worlds",
+      "dek": "Birds, bent limbs and rounded forms, across a vast interval in place and time.",
+      "motifs": [
+        "birds"
+      ],
+      "members": [
+        "pillar43",
+        "pillar2",
+        "hoa-back",
+        "boulder",
+        "mata-ngarau",
+        "orongo-slab"
+      ],
+      "status": "examined",
+      "kind": "claim",
+      "anomaly": "The recurring features invite a comparison between repertoires, rather than a single fortunate pairing. A historical link would have to bridge a very large chronology gap.",
+      "features": [
+        "Both groups include bird imagery in complex carved or painted scenes.",
+        "The narrow bird-and-rounded-form correspondence is strongest for Pillar 43 and the Orongo boulder; it is not equally present in every group member."
+      ],
+      "differences": [
+        "The Rapanui group includes human–bird hybrids; the Pillar 43 figure is generally described as a vulture.",
+        "The moai’s ring is below the birdmen; the boulder’s rounded object is at a bent hand; Pillar 43’s disc lies above a wing.",
+        "The group samples were selected for this inquiry. They do not establish how common or rare the combination is."
+      ],
+      "diffusion": {
+        "status": "unestablished",
+        "note": "No transmission sequence for this specific comparison has been established in the sources reviewed. That is not proof that contact was impossible."
+      },
+      "origin": {
+        "source": "central",
+        "note": "Starting comparison from the supplied project material; Lee Paqui’s 2024 article independently states the narrower bird-and-rounded-object parallel."
+      },
+      "sources": [
+        "p43",
+        "hoa",
+        "boulder",
+        "cranes",
+        "painted-slab",
+        "paqui"
+      ],
+      "next_steps": [
+        "Build dated local sequences on both sides.",
+        "Use expert-reviewed feature locations and relations before any similarity ranking.",
+        "Add a documented comparison corpus selected independently of the proposed match."
+      ],
+      "links": [
+        {
+          "url": "pillar-and-moai.html",
+          "label": "Open the full photographic investigation"
+        }
+      ],
+      "controls": [
+        "local-rapanui",
+        "local-anatolia",
+        "pacific-contact"
+      ],
+      "review": {
+        "date": "2026-09-19",
+        "reviewer": "Deep Memory editorial / AI-assisted source review",
+        "note": "Provisional editorial record; no independent specialist sign-off. Status describes review depth, not the probability of a historical connection."
+      },
+      "groups": [
+        "anatolian-birds",
+        "rapanui-birdmen"
+      ],
+      "cultures": [
+        "neolithic-anatolia",
+        "rapanui"
+      ]
+    },
+    {
+      "id": "bird-and-disc",
+      "title": "A bird, a hand, a rounded form",
+      "dek": "The precise composition that makes the central puzzle worth a closer look.",
+      "motifs": [
+        "birds"
+      ],
+      "members": [
+        "pillar43",
+        "boulder"
+      ],
+      "status": "examined",
+      "kind": "claim",
+      "anomaly": "A bird beside a rounded shape is broad; a particular posture and placement could be more distinctive. This is a focused subcomparison within the larger birdman inquiry.",
+      "features": [
+        "A projecting bird head, bent lower limb and nearby rounded form can be inspected in both images."
+      ],
+      "differences": [
+        "Wing and human-like arm are different anatomical relations.",
+        "The meaning of the Pillar 43 disc remains open; calling both forms eggs would decide the issue prematurely."
+      ],
+      "diffusion": {
+        "status": "unestablished",
+        "note": "No transmission sequence for this specific comparison has been established in the sources reviewed. That is not proof that contact was impossible."
+      },
+      "origin": {
+        "source": "paqui",
+        "note": "The section “Birds, eggs, and birdmen with eggs” explicitly compares these two carvings."
+      },
+      "sources": [
+        "p43",
+        "boulder",
+        "routledge"
+      ],
+      "next_steps": [
+        "Code posture, attachment, contact and surrounding scene separately.",
+        "Check full surfaces and independent images before judging the silhouette."
+      ],
+      "links": [
+        {
+          "url": "pillar-and-moai.html",
+          "label": "Open the full photographic investigation"
+        }
+      ],
+      "controls": [
+        "local-rapanui",
+        "local-anatolia"
+      ],
+      "review": {
+        "date": "2026-09-19",
+        "reviewer": "Deep Memory editorial / AI-assisted source review",
+        "note": "Provisional editorial record; no independent specialist sign-off. Status describes review depth, not the probability of a historical connection."
+      },
+      "groups": [
+        "p43-composition",
+        "boulder-composition"
+      ],
+      "cultures": [
+        "neolithic-anatolia",
+        "rapanui"
+      ],
+      "parent": "birdmen-worlds"
+    },
+    {
+      "id": "handled-forms",
+      "title": "The so-called handbags",
+      "dek": "Arched forms and carried containers: how much of the resemblance survives context?",
+      "motifs": [
+        "handled"
+      ],
+      "members": [
+        "pillar43",
+        "apkallu",
+        "laventa19"
+      ],
+      "status": "source-check",
+      "kind": "claim",
+      "anomaly": "The same compact outline is pointed out across ancient Anatolia, Assyria and Mesoamerica. The time gaps and distant contexts motivate the proposed anomaly.",
+      "features": [
+        "An arch or handle rises over a roughly enclosed lower form in the selected images."
+      ],
+      "differences": [
+        "Pillar 43’s forms are arranged overhead and are not visibly carried.",
+        "The Nimrud bucket belongs to a cone-and-bucket ritual ensemble.",
+        "La Venta’s small carried object has its own local interpretation; shared shape does not establish shared function."
+      ],
+      "diffusion": {
+        "status": "unestablished",
+        "note": "No transmission sequence for this specific comparison has been established in the sources reviewed. That is not proof that contact was impossible."
+      },
+      "origin": {
+        "source": "seven",
+        "note": "Seven explicitly develops the Göbekli Tepe / West Asian handled-form proposal. The project archive preserves the extension to La Venta; the earliest proposer of that three-way version is untraced."
+      },
+      "sources": [
+        "p43",
+        "met-apkallu",
+        "laventa",
+        "atlas"
+      ],
+      "next_steps": [
+        "Collect handled forms and plausible non-container alternatives without selecting only good matches.",
+        "Trace each interpretation to an object-specific source."
+      ],
+      "links": [
+        {
+          "url": "atlas.html#handbags",
+          "label": "Read the illustrated handled-form essay"
+        }
+      ],
+      "controls": [
+        "indus-trade"
+      ],
+      "review": {
+        "date": "2026-09-19",
+        "reviewer": "Deep Memory editorial / AI-assisted source review",
+        "note": "Provisional editorial record; no independent specialist sign-off. Status describes review depth, not the probability of a historical connection."
+      },
+      "groups": [
+        "p43-arches",
+        "nimrud",
+        "olmec"
+      ],
+      "cultures": [
+        "neolithic-anatolia",
+        "assyria",
+        "olmec"
+      ]
+    },
+    {
+      "id": "hands-across-torsos",
+      "title": "Hands drawn toward the body",
+      "dek": "Anatolian, Pacific and Andean figures invite a comparison of gesture.",
+      "motifs": [
+        "bodies"
+      ],
+      "members": [
+        "urfa-man",
+        "hoa-front",
+        "ponce"
+      ],
+      "status": "source-check",
+      "kind": "claim",
+      "anomaly": "A similar resting arrangement is proposed as a persistent convention across disconnected sculptural traditions.",
+      "features": [
+        "Arms descend beside a frontal body; the hands converge or act near the torso."
+      ],
+      "differences": [
+        "The Ponce figure holds objects; the other poses need separate descriptions.",
+        "The hands are not necessarily directed at the same anatomical point.",
+        "Similar human bodies constrain the number of comfortable or legible sculptural poses."
+      ],
+      "diffusion": {
+        "status": "unestablished",
+        "note": "No transmission sequence for this specific comparison has been established in the sources reviewed. That is not proof that contact was impossible."
+      },
+      "origin": {
+        "source": "newman",
+        "note": "Newman explicitly compares Urfa Man with distant torso gestures including moai. The Ponce example is the project’s additional proposed comparison, not a claim that Newman identified this exact statue."
+      },
+      "sources": [
+        "newman",
+        "hoa",
+        "atlas"
+      ],
+      "next_steps": [
+        "Trace object dates and acquisition identities.",
+        "Code exact hand positions, held objects and local sculptural predecessors."
+      ],
+      "links": [
+        {
+          "url": "atlas.html#hands",
+          "label": "Hand-position archive"
+        }
+      ],
+      "controls": [],
+      "review": {
+        "date": "2026-09-19",
+        "reviewer": "Deep Memory editorial / AI-assisted source review",
+        "note": "Provisional editorial record; no independent specialist sign-off. Status describes review depth, not the probability of a historical connection."
+      },
+      "groups": [
+        "torso-anatolia",
+        "torso-rapanui",
+        "torso-andes"
+      ],
+      "cultures": [
+        "neolithic-anatolia",
+        "rapanui",
+        "tiwanaku"
+      ]
+    },
+    {
+      "id": "ribs-across-oceans",
+      "title": "Bodies with visible ribs",
+      "dek": "Karahantepe’s stone figure and the moai kavakava repertoire.",
+      "motifs": [
+        "bodies"
+      ],
+      "members": [
+        "karahan-ribs",
+        "kavakava"
+      ],
+      "status": "source-check",
+      "kind": "claim",
+      "anomaly": "The highlighted ribs, prominent facial features and bodily posture make a more specific comparison than generic standing statues.",
+      "features": [
+        "Both selected examples emphasize ribs and the human body."
+      ],
+      "differences": [
+        "The stone statue is monumental; the wooden figures are small and portable.",
+        "The official discovery account calls the Karahantepe figure seated.",
+        "The circulating historical photograph’s “1730” identifier should not become a collection date."
+      ],
+      "diffusion": {
+        "status": "unestablished",
+        "note": "No transmission sequence for this specific comparison has been established in the sources reviewed. That is not proof that contact was impossible."
+      },
+      "origin": {
+        "source": "paqui",
+        "note": "Paqui explicitly proposes this comparison. Her physiological and shared-ancestry explanations require evidence beyond sculpted anatomy."
+      },
+      "sources": [
+        "karahan",
+        "kavakava",
+        "kavakava-photo"
+      ],
+      "next_steps": [
+        "Identify the exact photographed wooden figure.",
+        "Compare local variants and funerary interpretations before inferring shared meaning."
+      ],
+      "links": [],
+      "controls": [],
+      "review": {
+        "date": "2026-09-19",
+        "reviewer": "Deep Memory editorial / AI-assisted source review",
+        "note": "Provisional editorial record; no independent specialist sign-off. Status describes review depth, not the probability of a historical connection."
+      },
+      "groups": [
+        "ribs-anatolia",
+        "ribs-rapanui"
+      ],
+      "cultures": [
+        "neolithic-anatolia",
+        "rapanui"
+      ]
+    },
+    {
+      "id": "assyria-rapanui-birdmen",
+      "title": "Human bodies, bird heads",
+      "dek": "Two repertoires transform the human figure in visibly different ways.",
+      "motifs": [
+        "birds"
+      ],
+      "members": [
+        "apkallu",
+        "hoa-back",
+        "boulder",
+        "mata-ngarau",
+        "orongo-slab"
+      ],
+      "status": "source-check",
+      "kind": "claim",
+      "anomaly": "The combination of a human-like body and bird head appears on opposite sides of the world. Whether finer structure also matches is the useful question.",
+      "features": [
+        "Bird heads combine with human-like bodies in each group."
+      ],
+      "differences": [
+        "The Assyrian figure is winged, dressed and upright, with a ritual bucket.",
+        "Rapanui examples often bend their limbs and vary in their associated forms."
+      ],
+      "diffusion": {
+        "status": "unestablished",
+        "note": "No transmission sequence for this specific comparison has been established in the sources reviewed. That is not proof that contact was impossible."
+      },
+      "origin": {
+        "source": "atlas",
+        "note": "The project’s illustrated archive assembles this comparison; an original external proposer of the exact pictured pairing has not been traced."
+      },
+      "sources": [
+        "met-apkallu",
+        "hoa",
+        "boulder",
+        "painted-slab"
+      ],
+      "next_steps": [
+        "Compare anatomical structure and ritual relationships across several identified examples per group."
+      ],
+      "links": [],
+      "controls": [
+        "local-rapanui"
+      ],
+      "review": {
+        "date": "2026-09-19",
+        "reviewer": "Deep Memory editorial / AI-assisted source review",
+        "note": "Provisional editorial record; no independent specialist sign-off. Status describes review depth, not the probability of a historical connection."
+      },
+      "groups": [
+        "nimrud",
+        "rapanui-birdmen"
+      ],
+      "cultures": [
+        "assyria",
+        "rapanui"
+      ]
+    },
+    {
+      "id": "cacaxtla-rapanui",
+      "title": "Costume or transformation?",
+      "dek": "A bird-costumed mural figure beside the Rapanui birdman tradition.",
+      "motifs": [
+        "birds"
+      ],
+      "members": [
+        "cacaxtla-bird",
+        "hoa-back",
+        "boulder",
+        "mata-ngarau",
+        "orongo-slab"
+      ],
+      "status": "source-check",
+      "kind": "claim",
+      "anomaly": "The resemblance attracts attention across Mesoamerica and the Pacific, but a bird costume and a hybrid being may encode different ideas.",
+      "features": [
+        "Human and avian features are combined in both selected repertoires."
+      ],
+      "differences": [
+        "Cacaxtla retains a human face within a costume.",
+        "Medium, posture, accessories and surrounding scenes differ."
+      ],
+      "diffusion": {
+        "status": "unestablished",
+        "note": "No transmission sequence for this specific comparison has been established in the sources reviewed. That is not proof that contact was impossible."
+      },
+      "origin": {
+        "source": "atlas",
+        "note": "Retained from the project’s broad birdman comparison; exact external proposal history is not yet traced."
+      },
+      "sources": [
+        "cacaxtla",
+        "cacaxtla-bird",
+        "boulder"
+      ],
+      "next_steps": [
+        "Record full mural context and each Rapanui variant.",
+        "Keep regional Mesoamerican transmission as a separate control."
+      ],
+      "links": [],
+      "controls": [
+        "pacific-contact"
+      ],
+      "review": {
+        "date": "2026-09-19",
+        "reviewer": "Deep Memory editorial / AI-assisted source review",
+        "note": "Provisional editorial record; no independent specialist sign-off. Status describes review depth, not the probability of a historical connection."
+      },
+      "groups": [
+        "cacaxtla",
+        "rapanui-birdmen"
+      ],
+      "cultures": [
+        "cacaxtla",
+        "rapanui"
+      ]
+    },
+    {
+      "id": "cahokia-rapanui",
+      "title": "A birdman on a small tablet",
+      "dek": "A North American lead, with the image’s status kept in view.",
+      "motifs": [
+        "birds"
+      ],
+      "members": [
+        "cahokia-bird",
+        "boulder"
+      ],
+      "status": "lead",
+      "kind": "claim",
+      "anomaly": "The circulated illustration suggests a distant bird-human parallel. Fine comparison must wait for an independently identified primary image.",
+      "features": [
+        "Both presentations suggest avian and human elements."
+      ],
+      "differences": [
+        "The Cahokia display is a modern illustration; the boulder is shown in a historical photograph.",
+        "A small tablet and a relief boulder have different compositional constraints."
+      ],
+      "diffusion": {
+        "status": "unassessed",
+        "note": "The comparison is not yet identified or dated well enough to exclude ordinary transmission, later borrowing or an image-selection effect."
+      },
+      "origin": {
+        "source": "atlas",
+        "note": "The earlier atlas assembled this lead. An external first proposer and museum object record still need tracing."
+      },
+      "sources": [
+        "atlas",
+        "boulder"
+      ],
+      "next_steps": [
+        "Acquire a museum object record and unmodified object photographs.",
+        "Audit what the illustration emphasizes or restores."
+      ],
+      "links": [],
+      "controls": [],
+      "review": {
+        "date": "2026-09-19",
+        "reviewer": "Deep Memory editorial / AI-assisted source review",
+        "note": "Provisional editorial record; no independent specialist sign-off. Status describes review depth, not the probability of a historical connection."
+      },
+      "groups": [
+        "cahokia",
+        "boulder-composition"
+      ],
+      "cultures": [
+        "mississippian",
+        "rapanui"
+      ]
+    },
+    {
+      "id": "sacred-navels",
+      "title": "Stones at the centre of the world",
+      "dek": "Delphi and Rapa Nui: a visual comparison intertwined with language.",
+      "motifs": [
+        "centres"
+      ],
+      "members": [
+        "omphalos",
+        "te-pito"
+      ],
+      "status": "lead",
+      "kind": "claim",
+      "anomaly": "A rounded sacred stone and the metaphor of a world’s navel could suggest a shared concept, if both associations can be established historically.",
+      "features": [
+        "Modern presentations associate both places with a navel or sacred centre."
+      ],
+      "differences": [
+        "The Delphi object is shaped and decorated; the Rapanui stone’s modification and placement history need checking.",
+        "An island name does not date the modern identification of a particular stone."
+      ],
+      "diffusion": {
+        "status": "unassessed",
+        "note": "The comparison is not yet identified or dated well enough to exclude ordinary transmission, later borrowing or an image-selection effect."
+      },
+      "origin": {
+        "source": "atlas",
+        "note": "This pairing is preserved in the project archive. Newman’s article provides a broader proposed “world navels” comparison, not the object-level proof."
+      },
+      "sources": [
+        "atlas",
+        "newman",
+        "moai"
+      ],
+      "next_steps": [
+        "Find early Rapanui-language and collection witnesses.",
+        "Separate object history, place-name etymology and modern visitor interpretation."
+      ],
+      "links": [],
+      "controls": [],
+      "review": {
+        "date": "2026-09-19",
+        "reviewer": "Deep Memory editorial / AI-assisted source review",
+        "note": "Provisional editorial record; no independent specialist sign-off. Status describes review depth, not the probability of a historical connection."
+      },
+      "groups": [
+        "navel-delphi",
+        "navel-rapanui"
+      ],
+      "cultures": [
+        "delphi",
+        "rapanui"
+      ]
+    },
+    {
+      "id": "indus-rongorongo",
+      "title": "Two unread scripts",
+      "dek": "Does the resemblance survive beyond the famous selected signs?",
+      "motifs": [
+        "scripts"
+      ],
+      "members": [
+        "indus-signs",
+        "rongorongo"
+      ],
+      "status": "examined",
+      "kind": "claim",
+      "anomaly": "Selected sign charts propose affinities across a large gap in time and geography. A script relationship should predict more than a few convincing outlines.",
+      "features": [
+        "Some selected signs appear similar when drawn and aligned."
+      ],
+      "differences": [
+        "The circulating chart and published inventories do not always depict the same forms.",
+        "The old metric’s retrieval validation was imperfect; its rankings cannot settle the human-visible comparison.",
+        "A corpus’s writing system, language and chronology are separate questions."
+      ],
+      "diffusion": {
+        "status": "unestablished",
+        "note": "No transmission sequence for this specific comparison has been established in the sources reviewed. That is not proof that contact was impossible."
+      },
+      "origin": {
+        "source": "script-study",
+        "note": "The project audits the circulating comparison chart and historical attribution to de Hevesy; the original proposing publication still deserves a complete source review."
+      },
+      "sources": [
+        "script-study",
+        "met-indus",
+        "rongo-dates"
+      ],
+      "next_steps": [
+        "Compare untouched inscriptions as well as drawings.",
+        "Test recurring sign sequences and structural correspondences with specialists.",
+        "Maintain wood dates and engraving dates separately."
+      ],
+      "links": [
+        {
+          "url": "rongo/",
+          "label": "Inspect the sign inventories and earlier experiment"
+        }
+      ],
+      "controls": [
+        "indus-trade"
+      ],
+      "review": {
+        "date": "2026-09-19",
+        "reviewer": "Deep Memory editorial / AI-assisted source review",
+        "note": "Provisional editorial record; no independent specialist sign-off. Status describes review depth, not the probability of a historical connection."
+      },
+      "groups": [
+        "indus-writing",
+        "rongo-writing"
+      ],
+      "cultures": [
+        "indus",
+        "rapanui"
+      ]
+    },
+    {
+      "id": "jiroft-olmec",
+      "title": "Figures within serpentine worlds",
+      "dek": "Handled forms, human figures and snakes in the Jiroft–La Venta comparison.",
+      "motifs": [
+        "serpents",
+        "handled"
+      ],
+      "members": [
+        "jiroft-object",
+        "laventa19"
+      ],
+      "status": "lead",
+      "kind": "claim",
+      "anomaly": "The proposed resemblance combines several features instead of relying on a lone snake or container.",
+      "features": [
+        "Both selected images combine a human figure with serpentine elements."
+      ],
+      "differences": [
+        "Jiroft’s central figure holds flanking animals; La Venta’s seated figure lies within a larger creature.",
+        "The apparent “bag” is the whole Jiroft object but a small depicted object at La Venta."
+      ],
+      "diffusion": {
+        "status": "unassessed",
+        "note": "The comparison is not yet identified or dated well enough to exclude ordinary transmission, later borrowing or an image-selection effect."
+      },
+      "origin": {
+        "source": "atlas",
+        "note": "The earlier picture study and atlas preserve this proposed pair. The original external proposer and Jiroft object provenance remain open."
+      },
+      "sources": [
+        "atlas",
+        "laventa"
+      ],
+      "next_steps": [
+        "Trace the Jiroft object to a museum accession and acquisition history.",
+        "Compare whole-object function separately from depicted motifs."
+      ],
+      "links": [],
+      "controls": [],
+      "review": {
+        "date": "2026-09-19",
+        "reviewer": "Deep Memory editorial / AI-assisted source review",
+        "note": "Provisional editorial record; no independent specialist sign-off. Status describes review depth, not the probability of a historical connection."
+      },
+      "groups": [
+        "jiroft",
+        "olmec"
+      ],
+      "cultures": [
+        "jiroft",
+        "olmec"
+      ]
+    },
+    {
+      "id": "boars-east-west",
+      "title": "Two animals, two uncertain captions",
+      "dek": "A boar comparison that begins with identity rather than a verdict.",
+      "motifs": [
+        "animals"
+      ],
+      "members": [
+        "boar-unidentified",
+        "lingjiatan-pig"
+      ],
+      "status": "lead",
+      "kind": "claim",
+      "anomaly": "The supplied photographs invite a comparison between distant animal sculptures, but one findspot and the other caption remain unverified.",
+      "features": [
+        "Each photograph shows a low, elongated animal form."
+      ],
+      "differences": [
+        "The museum object’s identity is unresolved.",
+        "Material, size, condition and reconstruction are not yet securely comparable."
+      ],
+      "diffusion": {
+        "status": "unassessed",
+        "note": "The comparison is not yet identified or dated well enough to exclude ordinary transmission, later borrowing or an image-selection effect."
+      },
+      "origin": {
+        "source": "inputs",
+        "note": "Two supplied images prompted this comparison. Their captions are retained as leads."
+      },
+      "sources": [
+        "inputs"
+      ],
+      "next_steps": [
+        "Identify both exact objects and obtain collection or excavation records.",
+        "Check whether repairs or display angles change the apparent silhouette."
+      ],
+      "links": [],
+      "controls": [],
+      "review": {
+        "date": "2026-09-19",
+        "reviewer": "Deep Memory editorial / AI-assisted source review",
+        "note": "Provisional editorial record; no independent specialist sign-off. Status describes review depth, not the probability of a historical connection."
+      },
+      "groups": [
+        "unknown-boar",
+        "china-pig"
+      ],
+      "cultures": [
+        "unassigned",
+        "lingjiatan"
+      ]
+    },
+    {
+      "id": "arnhem-pillar43",
+      "title": "Another bird and rounded form",
+      "dek": "The Australian painting in Fenton’s proposed connection.",
+      "motifs": [
+        "birds"
+      ],
+      "members": [
+        "arnhem-painting",
+        "pillar43"
+      ],
+      "status": "lead",
+      "kind": "claim",
+      "anomaly": "The proposal connects a northern Australian painting with Neolithic Anatolia; the Australian panel’s age is central to testing it.",
+      "features": [
+        "The claim image places a bird-like figure near a rounded form."
+      ],
+      "differences": [
+        "The exact panel and source photograph are unresolved.",
+        "Different paint marks could change the interpretation of contact, holding or adjacency."
+      ],
+      "diffusion": {
+        "status": "unassessed",
+        "note": "The comparison is not yet identified or dated well enough to exclude ordinary transmission, later borrowing or an image-selection effect."
+      },
+      "origin": {
+        "source": "fenton",
+        "note": "A specific comparison in the preserved thread. This is a record of that proposal, not an endorsement of its route."
+      },
+      "sources": [
+        "fenton",
+        "p43",
+        "inputs"
+      ],
+      "next_steps": [
+        "Trace the panel through Aboriginal custodians’ and specialist records.",
+        "Establish permissible documentation, attribution and a panel-specific chronology."
+      ],
+      "links": [
+        {
+          "url": "fenton.html#fenton-bird",
+          "label": "Read the preserved claim and image checks"
+        }
+      ],
+      "controls": [],
+      "review": {
+        "date": "2026-09-19",
+        "reviewer": "Deep Memory editorial / AI-assisted source review",
+        "note": "Provisional editorial record; no independent specialist sign-off. Status describes review depth, not the probability of a historical connection."
+      },
+      "groups": [
+        "arnhem",
+        "p43-composition"
+      ],
+      "cultures": [
+        "arnhem",
+        "neolithic-anatolia"
+      ]
+    },
+    {
+      "id": "serpents-across-worlds",
+      "title": "When does a serpent become the same serpent?",
+      "dek": "A widely shared creature needs a precise comparison.",
+      "motifs": [
+        "serpents"
+      ],
+      "members": [
+        "serpent-montage",
+        "laventa19"
+      ],
+      "status": "lead",
+      "kind": "claim",
+      "anomaly": "The proposing montage links distant serpent forms through extra features such as feathers, horns or relations to people.",
+      "features": [
+        "Elongated, curving creatures recur in the assembled presentations."
+      ],
+      "differences": [
+        "Some component images are unlocated and undated.",
+        "Horns, feathers, beaks and crest-like forms should not be merged into one binary feature."
+      ],
+      "diffusion": {
+        "status": "unassessed",
+        "note": "The comparison is not yet identified or dated well enough to exclude ordinary transmission, later borrowing or an image-selection effect."
+      },
+      "origin": {
+        "source": "fenton",
+        "note": "The preserved thread provides the distant montage. La Venta is a separately sourced example for inspection, not proof of the proposed route."
+      },
+      "sources": [
+        "fenton",
+        "laventa",
+        "inputs"
+      ],
+      "next_steps": [
+        "Split the montage into independently sourced surfaces.",
+        "Document local serpent traditions before testing a shared bundle of features."
+      ],
+      "links": [
+        {
+          "url": "fenton.html#fenton-feathers",
+          "label": "Inspect the original montage"
+        }
+      ],
+      "controls": [],
+      "review": {
+        "date": "2026-09-19",
+        "reviewer": "Deep Memory editorial / AI-assisted source review",
+        "note": "Provisional editorial record; no independent specialist sign-off. Status describes review depth, not the probability of a historical connection."
+      },
+      "groups": [
+        "serpents-unresolved",
+        "olmec"
+      ],
+      "cultures": [
+        "unassigned",
+        "olmec"
+      ]
+    },
+    {
+      "id": "teachers-across-oceans",
+      "title": "Teachers from another world",
+      "dek": "Oannes, Viracocha and Quetzalcoatl, compared at the level of passages.",
+      "motifs": [
+        "teachers"
+      ],
+      "members": [
+        "oannes",
+        "viracocha",
+        "quetzalcoatl"
+      ],
+      "status": "examined",
+      "kind": "claim",
+      "anomaly": "Lists of teachers, civilisers and sea journeys suggest a shared story. Source-level comparison asks which elements actually travel together.",
+      "features": [
+        "Teaching or institutions are associated with each figure.",
+        "Water or sea departures occur in different parts of the selected accounts."
+      ],
+      "differences": [
+        "Arrival from the sea, nightly return to the sea and final departure across it are different events.",
+        "Recording dates are not the dates at which the traditions began.",
+        "The compared accounts do not establish one matching promise of personal return."
+      ],
+      "diffusion": {
+        "status": "unestablished",
+        "note": "No transmission sequence for this specific comparison has been established in the sources reviewed. That is not proof that contact was impossible."
+      },
+      "origin": {
+        "source": "civilisers",
+        "note": "The project’s source audit tests the familiar proposed “civilisers” bundle. Hancock’s broader proposal is linked as context rather than as authorship of each formulation."
+      },
+      "sources": [
+        "berossus",
+        "sarmiento",
+        "sahagun",
+        "hancock",
+        "civilisers"
+      ],
+      "next_steps": [
+        "Expand local versions and indigenous-language witnesses.",
+        "Blindly code event sequences with independently checked translations."
+      ],
+      "links": [
+        {
+          "url": "civilisers.html",
+          "label": "Read all 29 inspected source passages"
+        }
+      ],
+      "controls": [],
+      "review": {
+        "date": "2026-09-19",
+        "reviewer": "Deep Memory editorial / AI-assisted source review",
+        "note": "Provisional editorial record; no independent specialist sign-off. Status describes review depth, not the probability of a historical connection."
+      },
+      "groups": [
+        "teachers-mesopotamia",
+        "teachers-andes",
+        "teachers-mexico"
+      ],
+      "cultures": [
+        "mesopotamian-accounts",
+        "andean-accounts",
+        "nahua-accounts"
+      ]
+    },
+    {
+      "id": "bochica-oannes",
+      "title": "A sea journey that changes in the telling",
+      "dek": "Bochica shows why compressed retellings need checking.",
+      "motifs": [
+        "teachers"
+      ],
+      "members": [
+        "bochica",
+        "oannes"
+      ],
+      "status": "corrected",
+      "kind": "claim",
+      "anomaly": "The proposed parallel depends partly on details added or collapsed in modern summaries. The underlying teaching resemblance remains available to examine.",
+      "features": [
+        "Both accounts concern figures associated with instruction."
+      ],
+      "differences": [
+        "The inspected Bochica witness has an inland arrival, not a sea arrival.",
+        "Oannes’s nightly sea return is not the same as a final voyage or promised return."
+      ],
+      "diffusion": {
+        "status": "unassessed",
+        "note": "The comparison is not yet identified or dated well enough to exclude ordinary transmission, later borrowing or an image-selection effect."
+      },
+      "origin": {
+        "source": "civilisers",
+        "note": "The original lineup used modern summaries; the later source audit corrects the claimed bundle."
+      },
+      "sources": [
+        "piedrahita",
+        "berossus",
+        "civilisers"
+      ],
+      "next_steps": [
+        "Trace earlier Bochica witnesses and separately code weaving, preaching, arrival and departure."
+      ],
+      "links": [
+        {
+          "url": "civilisers.html",
+          "label": "See the source correction"
+        }
+      ],
+      "controls": [],
+      "review": {
+        "date": "2026-09-19",
+        "reviewer": "Deep Memory editorial / AI-assisted source review",
+        "note": "Provisional editorial record; no independent specialist sign-off. Status describes review depth, not the probability of a historical connection."
+      },
+      "groups": [
+        "teachers-muisca",
+        "teachers-mesopotamia"
+      ],
+      "cultures": [
+        "muisca",
+        "mesopotamian-accounts"
+      ]
+    },
+    {
+      "id": "pohnpei-teachers",
+      "title": "The navigator in the collage",
+      "dek": "An intriguing caption, still looking for its source.",
+      "motifs": [
+        "teachers"
+      ],
+      "members": [
+        "navigator",
+        "oannes"
+      ],
+      "status": "lead",
+      "kind": "claim",
+      "anomaly": "A supplied post places a navigator figure alongside monumental building. Before comparison, the figure and story must be linked through a traceable source.",
+      "features": [
+        "The post proposes a knowledge-bearing visitor."
+      ],
+      "differences": [
+        "The wooden figure is not yet identified.",
+        "The collage does not establish an archaeological relationship between the figure and Nan Madol."
+      ],
+      "diffusion": {
+        "status": "unassessed",
+        "note": "The comparison is not yet identified or dated well enough to exclude ordinary transmission, later borrowing or an image-selection effect."
+      },
+      "origin": {
+        "source": "inputs",
+        "note": "Preserved supplied social post, rather than a primary narrative witness."
+      },
+      "sources": [
+        "inputs",
+        "berossus"
+      ],
+      "next_steps": [
+        "Identify the statue and the earliest recorded account.",
+        "Keep the architecture, image and tradition as separate records."
+      ],
+      "links": [],
+      "controls": [],
+      "review": {
+        "date": "2026-09-19",
+        "reviewer": "Deep Memory editorial / AI-assisted source review",
+        "note": "Provisional editorial record; no independent specialist sign-off. Status describes review depth, not the probability of a historical connection."
+      },
+      "groups": [
+        "teachers-pohnpei",
+        "teachers-mesopotamia"
+      ],
+      "cultures": [
+        "pohnpei",
+        "mesopotamian-accounts"
+      ]
+    },
+    {
+      "id": "flood-survivors",
+      "title": "A warning, a boat, a world remade",
+      "dek": "Manu and Mesopotamian flood traditions, without compressing their differences.",
+      "motifs": [
+        "floods"
+      ],
+      "members": [
+        "gilgamesh-flood",
+        "manu-flood"
+      ],
+      "status": "source-check",
+      "kind": "claim",
+      "anomaly": "A common sequence is often presented as deep shared memory. South and West Asia also require a serious regional-transmission check.",
+      "features": [
+        "A warning and prepared vessel enable survival through a flood."
+      ],
+      "differences": [
+        "Manu’s guiding fish differs from the Mesopotamian divine warning.",
+        "Bird releases belong to the inspected Gilgamesh account, not to this Manu episode."
+      ],
+      "diffusion": {
+        "status": "plausible",
+        "note": "Regional transmission is a live possibility, not excluded by this catalogue. Retained as a boundary case for the anomaly claim."
+      },
+      "origin": {
+        "source": "flood-study",
+        "note": "The project’s broad flood inquiry motivates the comparison; this entry narrows it to two inspectable source families."
+      },
+      "sources": [
+        "manu",
+        "flood-tablet",
+        "flood-study"
+      ],
+      "next_steps": [
+        "Audit early witnesses and possible pathways between these regions.",
+        "Compare unusual event sequences rather than a generic flood label."
+      ],
+      "links": [
+        {
+          "url": "floods.html",
+          "label": "Read the earlier flood study and its limits"
+        }
+      ],
+      "controls": [],
+      "review": {
+        "date": "2026-09-19",
+        "reviewer": "Deep Memory editorial / AI-assisted source review",
+        "note": "Provisional editorial record; no independent specialist sign-off. Status describes review depth, not the probability of a historical connection."
+      },
+      "groups": [
+        "flood-mesopotamia",
+        "flood-india"
+      ],
+      "cultures": [
+        "mesopotamian-accounts",
+        "vedic"
+      ]
+    },
+    {
+      "id": "stepped-monuments",
+      "title": "Distant worlds, stepped monuments",
+      "dek": "A proposed Egypt–Maya resemblance enters as a clearly marked research lead.",
+      "motifs": [
+        "architecture"
+      ],
+      "members": [
+        "saqqara-pyramid",
+        "kukulkan"
+      ],
+      "status": "lead",
+      "kind": "claim",
+      "anomaly": "A similar stepped outline across an ocean motivates a claim of shared architectural inheritance. Building sequence, use and structural constraints are essential tests.",
+      "features": [
+        "The proposing article compares visibly stepped monumental forms."
+      ],
+      "differences": [
+        "A funerary monument and a temple platform cannot be assumed to share a function.",
+        "Phases, internal construction and restoration history are not yet compared in this entry."
+      ],
+      "diffusion": {
+        "status": "unassessed",
+        "note": "The comparison is not yet identified or dated well enough to exclude ordinary transmission, later borrowing or an image-selection effect."
+      },
+      "origin": {
+        "source": "cassaro",
+        "note": "Cassaro explicitly pairs the Saqqara and Kukulkan monuments. This is a guest author’s claim, not automatically Hancock’s."
+      },
+      "sources": [
+        "cassaro"
+      ],
+      "next_steps": [
+        "Obtain heritage records, original photographs and construction-phase plans.",
+        "Define detailed architectural predictions before selecting more examples."
+      ],
+      "links": [],
+      "controls": [],
+      "review": {
+        "date": "2026-09-19",
+        "reviewer": "Deep Memory editorial / AI-assisted source review",
+        "note": "Provisional editorial record; no independent specialist sign-off. Status describes review depth, not the probability of a historical connection."
+      },
+      "groups": [
+        "pyramids-egypt",
+        "pyramids-maya"
+      ],
+      "cultures": [
+        "egypt",
+        "maya"
+      ]
+    },
+    {
+      "id": "local-rapanui",
+      "title": "A birdman’s local family",
+      "dek": "The moai back belongs beside Rapanui rocks, boulders and painted slabs.",
+      "motifs": [
+        "birds"
+      ],
+      "members": [
+        "hoa-back",
+        "boulder",
+        "mata-ngarau",
+        "orongo-slab"
+      ],
+      "status": "source-check",
+      "kind": "control",
+      "anomaly": "Local context provides a necessary control: related motifs occur within a documented cultural setting.",
+      "features": [
+        "Human–bird figures recur on several media within the Orongo repertoire."
+      ],
+      "differences": [
+        "Objects are not necessarily contemporary.",
+        "A recurring birdman does not require every associated round form to mean the same thing."
+      ],
+      "diffusion": {
+        "status": "local",
+        "note": "Documented local cultural context. This does not by itself explain every feature of each carving."
+      },
+      "origin": {
+        "source": "central",
+        "note": "A local comparison built from museum and early photographic records."
+      },
+      "sources": [
+        "hoa",
+        "boulder",
+        "routledge",
+        "painted-slab"
+      ],
+      "next_steps": [
+        "Build a dated sequence rather than assuming all local imagery belongs to one phase."
+      ],
+      "links": [
+        {
+          "url": "local-context.html",
+          "label": "Read the local-context study"
+        }
+      ],
+      "controls": [],
+      "review": {
+        "date": "2026-09-19",
+        "reviewer": "Deep Memory editorial / AI-assisted source review",
+        "note": "Provisional editorial record; no independent specialist sign-off. Status describes review depth, not the probability of a historical connection."
+      },
+      "groups": [
+        "rapanui-birdmen"
+      ],
+      "cultures": [
+        "rapanui"
+      ]
+    },
+    {
+      "id": "local-anatolia",
+      "title": "Birds in a Neolithic landscape",
+      "dek": "Pillar 43 considered alongside another local animal ensemble.",
+      "motifs": [
+        "birds"
+      ],
+      "members": [
+        "pillar43",
+        "pillar2"
+      ],
+      "status": "source-check",
+      "kind": "control",
+      "anomaly": "This control asks which elements already belong to the local image world.",
+      "features": [
+        "Birds occur with other animals on more than one Göbekli Tepe pillar."
+      ],
+      "differences": [
+        "Pillar 2 does not duplicate the disc-and-wing composition.",
+        "Two examples cannot establish motif rarity."
+      ],
+      "diffusion": {
+        "status": "local",
+        "note": "Shared site context is established. More regional examples and their stratigraphy are still needed."
+      },
+      "origin": {
+        "source": "cranes",
+        "note": "Excavation-team discussion motivates the local comparison."
+      },
+      "sources": [
+        "p43",
+        "cranes",
+        "gt-dates"
+      ],
+      "next_steps": [
+        "Add Pillars 33, 38 and 56 only with traceable images and object-level records."
+      ],
+      "links": [
+        {
+          "url": "local-context.html",
+          "label": "Explore regional context"
+        }
+      ],
+      "controls": [],
+      "review": {
+        "date": "2026-09-19",
+        "reviewer": "Deep Memory editorial / AI-assisted source review",
+        "note": "Provisional editorial record; no independent specialist sign-off. Status describes review depth, not the probability of a historical connection."
+      },
+      "groups": [
+        "anatolian-birds"
+      ],
+      "cultures": [
+        "neolithic-anatolia"
+      ]
+    },
+    {
+      "id": "pacific-contact",
+      "title": "What independent contact evidence looks like",
+      "dek": "Rapa Nui and the Americas, through ancient genomes.",
+      "motifs": [
+        "contact"
+      ],
+      "members": [
+        "rapanui-contact",
+        "american-contact"
+      ],
+      "status": "source-check",
+      "kind": "control",
+      "anomaly": "A positive control: evidence of contact need not depend on deciding whether two images look alike.",
+      "features": [
+        "A genetic study supports a pre-European contact episode."
+      ],
+      "differences": [
+        "Genetic admixture does not identify which cultural motifs, if any, crossed with people.",
+        "It supplies no Neolithic Anatolia-to-Pacific route."
+      ],
+      "diffusion": {
+        "status": "documented",
+        "note": "Independent genetic evidence supports pre-European contact with the Americas. The exact voyage and transmission of specific motifs remain separate questions."
+      },
+      "origin": {
+        "source": "dna",
+        "note": "A research control added for the question of isolation, not a visual anomaly."
+      },
+      "sources": [
+        "dna"
+      ],
+      "next_steps": [
+        "Test any iconographic transmission claim against object chronology and geographic specificity."
+      ],
+      "links": [],
+      "controls": [],
+      "review": {
+        "date": "2026-09-19",
+        "reviewer": "Deep Memory editorial / AI-assisted source review",
+        "note": "Provisional editorial record; no independent specialist sign-off. Status describes review depth, not the probability of a historical connection."
+      },
+      "groups": [
+        "contact-pacific",
+        "contact-americas"
+      ],
+      "cultures": [
+        "rapanui",
+        "american-contact"
+      ]
+    },
+    {
+      "id": "indus-trade",
+      "title": "Objects that really travelled",
+      "dek": "The Indus world and Mesopotamia as a documented exchange control.",
+      "motifs": [
+        "contact",
+        "scripts"
+      ],
+      "members": [
+        "indus-signs",
+        "indus-exchange-record"
+      ],
+      "status": "source-check",
+      "kind": "control",
+      "anomaly": "Ordinary exchange has material evidence. This control explains the standard that distant resemblance hypotheses should aim to meet.",
+      "features": [
+        "Indus and Mesopotamian finds support long-distance exchange in the Bronze Age."
+      ],
+      "differences": [
+        "The displayed Met seal illustrates Indus writing; it is not claimed here to be one of the exported seals.",
+        "The counterpart is a summary of exchange evidence. Individual imported finds and their archaeological contexts remain to be catalogued."
+      ],
+      "diffusion": {
+        "status": "documented",
+        "note": "Regional trade is supported by finds in the other region, independently of similarity. The Met education source describes that evidence."
+      },
+      "origin": {
+        "source": "indus-trade",
+        "note": "Institutional discussion of actual exchanged seals; this entry is a context control, not an artefact pair."
+      },
+      "sources": [
+        "indus-trade",
+        "met-indus"
+      ],
+      "next_steps": [
+        "Register excavated traded seals with findspots, dated contexts and photographs, distinguishing Indus, Gulf and locally adapted forms."
+      ],
+      "links": [],
+      "controls": [],
+      "review": {
+        "date": "2026-09-19",
+        "reviewer": "Deep Memory editorial / AI-assisted source review",
+        "note": "Provisional editorial record; no independent specialist sign-off. Status describes review depth, not the probability of a historical connection."
+      },
+      "groups": [
+        "indus-writing",
+        "mesopotamian-exchange"
+      ],
+      "cultures": [
+        "indus",
+        "mesopotamian-exchange"
+      ]
+    }
+  ],
+  "motifs": [
+    {
+      "id": "birds",
+      "label": "Birds & birdmen",
+      "note": "Bird bodies, human transformations and the placement of rounded forms."
+    },
+    {
+      "id": "handled",
+      "label": "Handled forms",
+      "note": "Containers, arches and the things called handbags."
+    },
+    {
+      "id": "bodies",
+      "label": "Bodies & gestures",
+      "note": "Hands, ribs, posture and the grammar of a carved body."
+    },
+    {
+      "id": "scripts",
+      "label": "Signs & scripts",
+      "note": "Individual shapes, whole inventories and repeated sequences."
+    },
+    {
+      "id": "serpents",
+      "label": "Serpents & creatures",
+      "note": "Which extra features make a familiar animal distinctive?"
+    },
+    {
+      "id": "centres",
+      "label": "Sacred centres",
+      "note": "Objects, place names and the metaphor of a world’s navel."
+    },
+    {
+      "id": "teachers",
+      "label": "Teachers & voyagers",
+      "note": "Teaching figures, sea journeys and the history of a retelling."
+    },
+    {
+      "id": "floods",
+      "label": "Floods & renewal",
+      "note": "Warnings, vessels, surviving life and the search for land."
+    },
+    {
+      "id": "architecture",
+      "label": "Monuments",
+      "note": "Construction, geometry and the purpose of a building."
+    },
+    {
+      "id": "animals",
+      "label": "Animal sculpture",
+      "note": "Specific creatures, uncertain captions and full-object comparisons."
+    },
+    {
+      "id": "contact",
+      "label": "Contact evidence",
+      "note": "Independent evidence useful for testing a proposed transmission."
+    }
+  ],
+  "cultures": [
+    {
+      "id": "neolithic-anatolia",
+      "label": "Neolithic Anatolia",
+      "members": [
+        "pillar43",
+        "pillar2",
+        "urfa-man",
+        "karahan-ribs"
+      ],
+      "note": "Regional grouping, not a claim that every site or carving belongs to one homogeneous culture."
+    },
+    {
+      "id": "rapanui",
+      "label": "Rapanui traditions",
+      "members": [
+        "hoa-back",
+        "hoa-front",
+        "boulder",
+        "mata-ngarau",
+        "orongo-slab",
+        "rongorongo",
+        "kavakava",
+        "te-pito",
+        "rapanui-contact"
+      ],
+      "note": "Different media and episodes in Rapa Nui’s history. Statue construction, later carving, texts and modern records remain separate."
+    },
+    {
+      "id": "assyria",
+      "label": "Assyrian imagery",
+      "members": [
+        "apkallu"
+      ],
+      "note": "A documented Neo-Assyrian palace context. Earlier Mesopotamian literature is a separate cluster."
+    },
+    {
+      "id": "olmec",
+      "label": "Olmec La Venta",
+      "members": [
+        "laventa19"
+      ],
+      "note": "This edition represents La Venta with one monument; it cannot estimate variation across Olmec imagery."
+    },
+    {
+      "id": "tiwanaku",
+      "label": "Tiwanaku",
+      "members": [
+        "ponce"
+      ],
+      "note": "A selected monumental figure; wider Andean traditions are not collapsed into this cluster."
+    },
+    {
+      "id": "cacaxtla",
+      "label": "Epiclassic Cacaxtla",
+      "members": [
+        "cacaxtla-bird"
+      ],
+      "note": "A local painted repertoire within a connected Mesoamerican world."
+    },
+    {
+      "id": "mississippian",
+      "label": "Mississippian Cahokia",
+      "members": [
+        "cahokia-bird"
+      ],
+      "note": "A provisional object lead, currently illustrated by a modern drawing."
+    },
+    {
+      "id": "delphi",
+      "label": "Greek Delphi",
+      "members": [
+        "omphalos"
+      ],
+      "note": "The sacred-centre tradition and the date of the pictured museum object need separate sources."
+    },
+    {
+      "id": "indus",
+      "label": "Indus / Harappan",
+      "members": [
+        "indus-signs"
+      ],
+      "note": "A geographically distributed corpus with changing phases, represented here by one museum example and a sign-study archive."
+    },
+    {
+      "id": "jiroft",
+      "label": "Jiroft region",
+      "members": [
+        "jiroft-object"
+      ],
+      "note": "Provisional regional attribution, not an excavated object context or a fully described culture."
+    },
+    {
+      "id": "lingjiatan",
+      "label": "Lingjiatan",
+      "members": [
+        "lingjiatan-pig"
+      ],
+      "note": "A caption-based lead awaiting collection and excavation checks."
+    },
+    {
+      "id": "arnhem",
+      "label": "Arnhem Land · attribution open",
+      "members": [
+        "arnhem-painting"
+      ],
+      "note": "A geographic lead, not one culture. Community, artist, site and chronology remain unresolved."
+    },
+    {
+      "id": "mesopotamian-accounts",
+      "label": "Mesopotamian accounts",
+      "members": [
+        "oannes",
+        "gilgamesh-flood"
+      ],
+      "note": "Literary traditions with multiple periods and surviving witnesses; their recording dates do not date the narrated events."
+    },
+    {
+      "id": "andean-accounts",
+      "label": "Andean accounts",
+      "members": [
+        "viracocha"
+      ],
+      "note": "Selected colonial witness to a tradition whose earlier history needs separate evidence."
+    },
+    {
+      "id": "nahua-accounts",
+      "label": "Nahua accounts",
+      "members": [
+        "quetzalcoatl"
+      ],
+      "note": "Sources shaped by Nahua collaborators and colonial recording; no single origin date is assigned."
+    },
+    {
+      "id": "muisca",
+      "label": "Muisca accounts",
+      "members": [
+        "bochica"
+      ],
+      "note": "A selected colonial source family, not the whole living or historical tradition."
+    },
+    {
+      "id": "pohnpei",
+      "label": "Pohnpei · story untraced",
+      "members": [
+        "navigator"
+      ],
+      "note": "An unverified narrative lead, not an authenticated catalogue of Pohnpeian tradition."
+    },
+    {
+      "id": "vedic",
+      "label": "Vedic textual tradition",
+      "members": [
+        "manu-flood"
+      ],
+      "note": "One inspected Śatapatha Brāhmaṇa episode; composition and manuscript chronology remain to be audited."
+    },
+    {
+      "id": "egypt",
+      "label": "Old Kingdom Egypt",
+      "members": [
+        "saqqara-pyramid"
+      ],
+      "note": "An architectural comparison lead awaiting its independent object-level source dossier."
+    },
+    {
+      "id": "maya",
+      "label": "Maya Chichén Itzá",
+      "members": [
+        "kukulkan"
+      ],
+      "note": "A particular monument with multiple building phases, not all Maya architecture."
+    },
+    {
+      "id": "american-contact",
+      "label": "Americas · ancestry evidence",
+      "members": [
+        "american-contact"
+      ],
+      "note": "A research category, not a single culture. Exact ancestral locality is not asserted."
+    },
+    {
+      "id": "unassigned",
+      "label": "Identity still open",
+      "members": [
+        "boar-unidentified",
+        "serpent-montage"
+      ],
+      "note": "Unresolved records stay discoverable without invented cultural attribution."
+    },
+    {
+      "id": "mesopotamian-exchange",
+      "label": "Mesopotamian exchange contexts",
+      "members": [
+        "indus-exchange-record"
+      ],
+      "note": "A regional context for the documented Indus trade control. Individual finds and phases remain to be registered."
+    }
+  ]
+}

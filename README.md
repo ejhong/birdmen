@@ -1,11 +1,28 @@
 # Deep Memory
 
-Pictures, stories and open questions about similarities across distant cultures.
-All five investigations stay together, with findings and limitations. A useful observation
-is not automatically evidence for a particular historical explanation.
+An open inquiry into similarities across distant cultures and the human landscapes
+now beneath the sea. Source-linked photographs, cultural connections, maps, dated
+records and research that makes its limits inspectable.
 
 [Public site](https://ejhong.github.io/birdmen/) · [Editorial changes](docs/REVISIONS.md) ·
 [Research conventions](research/README.md)
+
+The [comparison collection](https://ejhong.github.io/birdmen/catalogue.html) has
+19 comparison threads, 4 optional controls, 35 curated groups, 23 cultural/context
+clusters and 40 source records. Browse photographs, cultural connections, a map,
+timeline or themes. This first edition combines the existing archive with new
+source checks; it is not yet a systematic worldwide survey.
+
+The [submerged-worlds programme](https://ejhong.github.io/birdmen/submerged.html)
+opens with six research locations, six data entry points and an interactive depth
+explorer using retained NOAA relief data. Its world and three regional views are
+**modern-depth experiments with no ancient date assigned**. A validated regional
+reconstruction around 12,000 BP remains a next phase.
+
+To grow the collection, describe a cultural connection and ask for more examples,
+or supply a photograph or source. See [adding evidence](research/catalogue/ADDING-EVIDENCE.md)
+and [repository instructions](AGENTS.md). New photographs attach to existing object
+records where appropriate; multiple views do not become independent artefacts.
 
 ## Find your way around
 
@@ -55,11 +72,14 @@ a source-provided preview of a 3D recording. Dates of collection are distinguish
 from dates of making; duplicate photographs are not new objects. This is a purposive
 context collection, not a representative baseline.
 
-The proposed next direction is a broad, source-linked catalogue of **claimed anomalous
-similarities**, with local parallels and known diffusion as linked controls. The
-[catalogue concept](research/catalogue/CONCEPT.md) records its scope, browsing views,
-provenance requirements and map/timeline conventions. It is a design proposal, not
-a claim that a worldwide search or catalogue has already been completed.
+The maintained [catalogue register](research/catalogue/catalogue.json) separates
+cultures, groups, objects/surfaces/accounts, images, sources and comparison claims.
+The [design notes](research/catalogue/CONCEPT.md) distinguish the implemented first
+edition from its longer-term ambitions. Dossiers include the proposing source,
+specific correspondences, differences, transmission assessment and next tests.
+The [underwater programme](research/submerged/PROGRAMME.md) records an initial
+assessment and a proposed North Sea investigation; [data preparation](research/submerged/DATA.md)
+documents exactly what the prototype maps contain.
 
 The civiliser source audit is exploratory: 29 passages, 10 source records and 10 figure
 entries, one including two people. It is not a complete source genealogy or a global rarity
@@ -76,6 +96,7 @@ build framework or paid model calls. From the repository root:
 python3 pipeline/publish.py
 python3 pipeline/publish.py --check
 python3 -m unittest discover -s tests -v
+node --test tests/catalogue.test.mjs tests/submerged.test.mjs
 python3 -m http.server 4173 --bind 127.0.0.1 --directory docs
 ```
 
@@ -84,7 +105,10 @@ Open `http://127.0.0.1:4173/`. These commands do not deploy the site.
 `publish.py` uses only Python's standard library. It updates marked generated HTML sections,
 publishes the registers, method, recognition records and thread transcript, and copies the supplied images
 unchanged. Edit prose outside those markers directly; edit the registers for generated
-content. `--check` reports drift without writing.
+content. The entire catalogue and submerged page are generated from their maintained
+registers and `pipeline/catalogue.py` / `pipeline/submerged.py`. `--check` reports
+drift without writing. The separate relief conversion step needs SciPy and NumPy;
+publication, saved data checks and page viewing do not.
 
 Five pictures from the Fenton thread, and one from a post on Nan Madol, exist only inside phone screenshots. Their crop boxes
 are recorded in `research/images.json` and cut by `pipeline/crop_inputs.py`, which needs
@@ -108,7 +132,8 @@ research/                     Versioned methods, source records and evidence for
   pillar-moai/v2/             Frozen recognition protocol, provisional references, sources and audit
   pillar-moai/v3/             Frozen view/reasoning trial; separate post-run location audit
   pillar-moai/context.json    Local object identities, evidence, image rights and date limits
-  catalogue/CONCEPT.md        Proposed anomaly catalogue and browsing design
+  catalogue/                 Maintained catalogue, design notes and acquisition workflow
+  submerged/                 Project/data register, map provenance and research programme
   rongo/                      Method, run order and article draft of the Indus / rongorongo study
 inputs/                       Original supplied material; preserve untouched
   fenton/                     Screenshots and attachments of the thread (33 files) and one later screenshot
@@ -118,8 +143,11 @@ pipeline/                     Existing study scripts + offline publishing entry 
 data/                         Original datasets, model responses and calculated results
   pillar-moai/v2/             Freeze, raw request records and diagnostic results
   pillar-moai/v3/             Freeze, all 24 raw responses and controlled-trial readout
+  submerged/etopo1/          Original downloaded NOAA NetCDF subsets
   rongo/                      Study 01's scans, glyph crops, skeletons, results and fidelity review
 docs/                         Published static site
+  catalogue.html, catalogue/  Collection explorer and generated comparison dossiers
+  submerged.html             Landscape explorer, projects and open-data assessment
   pillar-and-moai.html        Main source dossier and comparison viewer
   recognition.html           New diagnostic, all responses and model boxes
   view-trial.html             Controlled follow-up and visible location failures
@@ -197,6 +225,13 @@ Do not replace an old version's evidence when creating a new version.
 - Berezkin & Duvakin's analytical folklore catalogue, via D. Nikolaev's 2016
   `mythology-queries` snapshot: catalogue-derived data is CC BY-NC-SA 4.0.
 - Natural Earth 110m coastlines: public domain.
+- Catalogue image sources, credits, transformations and byte hashes are in
+  `research/catalogue/catalogue.json`. Museum public-domain images, licensed
+  photographs, historical scans and unresolved claim imagery are distinguished.
+- The submerged explorer uses NOAA ETOPO1 (2009) under the serving dataset's free
+  use/redistribution terms. Retained files, request URLs and hashes are recorded in
+  `research/submerged/grids.json`. GEBCO/EMODnet and satellite products are assessed
+  as future inputs, not silently substituted for the displayed dataset.
 - Original study references and limitations remain on each study page.
 - Civiliser V2 editions, passage locators and mediation are in its evidence ledger.
 - Existing photo credits remain in `docs/img/motifs/credits.json` and the atlas. Central-case sources and unchanged photo hashes are in

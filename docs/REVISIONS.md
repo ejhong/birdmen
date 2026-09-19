@@ -1,3 +1,43 @@
+# A collection of connections, and submerged worlds — 19 September 2026
+
+- Built the first group-based catalogue: 19 comparison threads and 4 optional
+  controls, 35 curated groups, 23 cultural/context clusters, 36 evidence records,
+  27 image records and 40 sources. These are editorial record counts, not counts
+  of independent objects or verified unexplained historical connections.
+- Added image-led comparisons, cultural connections, map, timeline and theme
+  browsing, with shared filters and URLs. Dossiers preserve the selected collection
+  view when returning. The core evidence remains readable without JavaScript.
+- Kept the pillar–moai–boulder inquiry central while expanding the Anatolia/Rapa
+  Nui repertoire. Alternate photographs live within an object's record. Narrow
+  subcomparisons are linked to their parents; repeated views do not inflate the
+  culture-connection count. Dated episodes remain separate from culture lifetimes.
+- Added traceable Met photographs of an Assyrian protective figure and Indus seal,
+  and a historical kavakava photograph. Guest authors Lee Paqui, Hugh Newman,
+  Ryan Seven and Richard Cassaro are attributed separately from Graham Hancock.
+  Caption leads, unresolved rights and missing architectural photographs remain
+  visibly incomplete. No new paid visual ranking was run.
+- Added the submerged-landscapes strand: six places/projects, six data entry
+  points and 18 sources. Actual retained NOAA relief data drive world, North Sea,
+  Sunda and Gujarat/Khambhat depth experiments. Numbered project locations are
+  approximate; the gold depth interval has no ancient date assigned.
+- Distinguished ongoing SUBNORDICA work, published archaeological discoveries,
+  landscape models and disputed Khambhat structure claims. Listed concrete data
+  access and satellite opportunities. The North Sea is the initial research
+  priority; a defensible regional reconstruction around 12,000 BP remains future
+  work, not a result of this demonstrator.
+- Added root `AGENTS.md`, a catalogue acquisition guide and contribution form,
+  and underwater programme/data documentation. The homepage now opens both
+  strands; previous essays, experiments and bookmarks remain accessible.
+- Extended checks for group membership, source and image integrity, dates,
+  filtering, nested comparisons, original/derived grid hashes, geographic
+  orientation, map behaviour, navigation, mobile layouts and static fallbacks.
+
+This is the first working edition of the wider resource. A systematic worldwide
+search, larger local repertoires, independent specialist review and dated regional
+palaeolandscapes remain substantial next stages.
+
+---
+
 # The pillar, the moai and the bird — 19 September 2026
 
 This edition centres the general question of ancient resemblance on the actual

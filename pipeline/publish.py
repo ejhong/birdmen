@@ -408,6 +408,16 @@ def build(check=False):
     for source in (view_trial.DATA / 'raw').glob('*.json'):
         pending[DOCS / 'data/pillar-moai/v3/raw' / source.name] = source.read_text()
     pending[DOCS / 'data/pillar-moai/v3/view_trial.py'] = (ROOT / 'pipeline/view_trial.py').read_text()
+    try:
+        from pipeline import catalogue
+    except ModuleNotFoundError:
+        import catalogue
+    pending.update(catalogue.outputs())
+    try:
+        from pipeline import submerged
+    except ModuleNotFoundError:
+        import submerged
+    pending.update(submerged.outputs())
     changed = []
     for path, content in pending.items():
         if not path.exists() or path.read_text() != content:
