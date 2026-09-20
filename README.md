@@ -8,13 +8,20 @@ records and research that makes its limits inspectable.
 [Research conventions](research/README.md)
 
 The [collection](https://ejhong.github.io/birdmen/catalogue.html) now opens with
-19 motif families across cultural traditions. Schema 2 separates 45 source-linked
+19 motif families across cultural traditions. Schema 2 separates 51 source-linked
 or provisional observations from 20 proposed comparison threads, 4 optional controls
-and 22 intake leads. Its 37 entity records and 50 images span 23 cultural/context
+and 22 intake leads. Its 43 entity records and 56 images span 24 cultural/context
 groups; these are not counts of independently verified artefacts. The
 [input audit](https://ejhong.github.io/birdmen/input-audit.html) accounts for all
 68 supplied files, including duplicates, modern reception and unresolved images.
 A systematic worldwide survey remains future work.
+
+The new [visual investigation](https://ejhong.github.io/birdmen/fieldwork.html)
+brings together 22 physical objects, five explicit feature questions and nine dated
+evidence records. Compare photographs with annotation regions, inspect ordinary
+museum variants, and follow what each date actually establishes. The published
+reading of the moai’s older ring as a possible egg now receives explicit treatment.
+This is a source-informed exploratory study, not a new AI ranking or rarity estimate.
 
 The [submerged-worlds programme](https://ejhong.github.io/birdmen/submerged.html)
 opens with six research locations, seven data entry points and an interactive depth
@@ -108,7 +115,7 @@ build framework or paid model calls. From the repository root:
 python3 pipeline/publish.py
 python3 pipeline/publish.py --check
 python3 -m unittest discover -s tests -v
-node --test tests/catalogue.test.mjs tests/submerged.test.mjs
+node --test tests/catalogue.test.mjs tests/submerged.test.mjs tests/fieldwork.test.mjs
 python3 -m http.server 4173 --bind 127.0.0.1 --directory docs
 ```
 
@@ -119,7 +126,9 @@ publishes the registers, method, recognition records and thread transcript, and 
 unchanged. Edit prose outside those markers directly; edit the registers for generated
 content. The entire catalogue and submerged page are generated from their maintained
 registers and `pipeline/catalogue.py` / `pipeline/family_pages.py` / `pipeline/submerged.py`.
-`pipeline/research_updates.py` publishes the descriptive audits. `--check` reports
+`pipeline/research_updates.py` publishes the descriptive audits;
+`pipeline/fieldwork.py` publishes the visual study and replays saved museum selections.
+`--check` reports
 drift without writing. The separate relief conversion step needs SciPy and NumPy;
 publication, saved data checks and page viewing do not.
 
@@ -158,6 +167,7 @@ research/                     Versioned methods, source records and evidence for
   pillar-moai/v2/             Frozen recognition protocol, provisional references, sources and audit
   pillar-moai/v3/             Frozen view/reasoning trial; separate post-run location audit
   pillar-moai/context.json    Local object identities, evidence, image rights and date limits
+  pillar-moai/fieldwork/      Exploratory image observations, selection rules and historical search log
   catalogue/                 Maintained catalogue, design notes and acquisition workflow
   submerged/                 Project/data register, map provenance and research programme
   rongo/                      Method, run order and article draft of the Indus / rongorongo study
@@ -169,6 +179,7 @@ pipeline/                     Existing study scripts + offline publishing entry 
 data/                         Original datasets, model responses and calculated results
   pillar-moai/v2/             Freeze, raw request records and diagnostic results
   pillar-moai/v3/             Freeze, all 24 raw responses and controlled-trial readout
+  pillar-moai/fieldwork/      Unchanged museum API responses and selection provenance
   submerged/etopo1/          Original downloaded NOAA NetCDF subsets
   submerged/baltic/          Original CC BY 4.0 AUV archive and provenance
   rongo/                      Study 01's scans, glyph crops, skeletons, results and fidelity review
@@ -180,6 +191,7 @@ docs/                         Published static site
   recognition.html           New diagnostic, all responses and model boxes
   view-trial.html             Controlled follow-up and visible location failures
   local-context.html          Illustrated local comparisons and object register
+  fieldwork.html              22-object comparison, feature filters and dated historical evidence
   research-review.html       Audit and redesign requirements for all five studies
   signal-audit.html          Read-only breakdown of the teaching-figure signal
   bathymetry-lab.html         Measured resolution loss in the Baltic AUV survey
@@ -258,6 +270,10 @@ Do not replace an old version's evidence when creating a new version.
 - Catalogue image sources, credits, transformations and byte hashes are in
   `research/catalogue/catalogue.json`. Museum public-domain images, licensed
   photographs, historical scans and unresolved claim imagery are distinguished.
+- The new visual study adds unchanged DAI publisher photographs and Met Open Access
+  images. Its [register](research/pillar-moai/fieldwork/register.json) records rights,
+  sources and hashes; the [raw-data notes](data/pillar-moai/fieldwork/README.md) explain
+  the museum searches and exclusions. DAI copyright is retained.
 - The submerged explorer uses NOAA ETOPO1 (2009) under the serving dataset's free
   use/redistribution terms. Retained files, request URLs and hashes are recorded in
   `research/submerged/grids.json`. GEBCO/EMODnet and satellite products are assessed

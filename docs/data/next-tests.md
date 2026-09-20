@@ -6,11 +6,18 @@ resolution audit are new, explicitly post-run/descriptive analyses, without API 
 
 ## 1. Locate before comparing — the central visual case
 
-**Question:** can an observer distinguish a bird above a ring from a bird holding
-a rounded form, and locate the relevant features in the photograph?
+**Question:** can an observer locate a beaked figure, its limb and a rounded form,
+and distinguish adjacency, apparent contact and unresolved contours?
 
-Start with the three central objects and six close local/foreign alternatives,
-not hundreds of unrelated images. Acquire two faithful views per physical object,
+**New development material:** the [22-object study](https://ejhong.github.io/birdmen/fieldwork.html)
+provides source-informed annotations and a replayable museum selection. It retains
+ordinary variants, incomplete views and uncertain readings. The moai’s possible
+egg interpretation is recorded alongside the damaged limbs. These readings are
+not independent reference labels or a new model test; this already-inspected
+collection cannot become an unseen confirmation set by renaming it.
+
+For the diagnostic, select the three central objects and six close local/foreign
+alternatives from the development collection. Acquire two faithful views per physical object,
 with comparable available detail. No generative enhancement. Select the alternatives
 for concrete confusions (wing vs hand, ring below vs disc above), before scoring.
 

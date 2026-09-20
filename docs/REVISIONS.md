@@ -1,3 +1,28 @@
+# A closer visual investigation — 20 September 2026
+
+- Added a 22-object study with interchangeable photographs, source-informed
+  annotation regions, five explicit feature questions and shareable filters.
+  Uncertain, unseen and unresolved features remain distinct; new AI rankings
+  or independently certified reference labels are not claimed.
+- Acquired unchanged DAI photographs of Pillars 33, 38 and 56 and twelve public-domain
+  Met photographs. Saved title queries, metadata, selection amendments and exclusions
+  make the museum retrieval replayable. Ordinary variants and incomplete scenes
+  remain visible. The previous Assyrian eagle-headed figure is a named anchor,
+  separate from the new selections. This is not a global rarity sample.
+- Corrected the moai ring discussion. Pitts et al. (2014) propose an egg role for
+  the older ring in the later birdman scene. Damaged limbs make the earlier
+  categorical held/not-held description too strong. Frozen test material is unchanged.
+- Added nine dated historical records and a bounded search log, with distinct
+  context, object, model-estimate and documentary date types. The Egyptian object
+  ranges are plotted separately; collection dates are not carving dates. The
+  checked sources do not establish a motif transmission chain to Rapa Nui.
+- Added six objects and six motif attestations to the main collection, including
+  a separate Late/Ptolemaic Egyptian context for three newly sourced bird figures.
+  The catalogue now holds 43 entities, 51 scoped observations and 56 images across
+  24 cultural/context groups. The 68 original input files remain untouched.
+- Linked the study from the homepage, central dossier, local context, relevant
+  motif families and research review. Added maintenance and follow-up instructions.
+
 # Motif families, complete intake and smaller, better tests — 20 September 2026
 
 - Tightened the homepage by 59%, research overview by 45%, central case by 16%

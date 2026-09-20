@@ -33,6 +33,13 @@ browse; implementation details belong in research records, not the reading flow.
   Resolution loss is not AI detection, survey accuracy or wall recovery.
   New experiment proposals belong in `research/NEXT-TESTS.md`; freeze a separate
   protocol before any new model runs, without rewriting the old protocols.
+- `research/pillar-moai/fieldwork/` maintains the exploratory visual study.
+  `pipeline/fieldwork.py` replays saved museum selections and generates
+  `docs/fieldwork.html`. Preserve physical identities, per-view feature states,
+  image hashes and date kinds. Unknown dates and API zero placeholders are not
+  ancient dates. Source-informed editorial annotations are development material,
+  not independently reviewed ground truth or new model results. Changes to
+  selection rules need a recorded amendment; keep exclusions and ordinary variants.
 
 ## Evidence rules
 
@@ -80,7 +87,7 @@ Run checks appropriate to the change:
 python3 pipeline/publish.py
 python3 -m unittest discover -s tests
 python3 pipeline/publish.py --check
-node --test tests/catalogue.test.mjs tests/submerged.test.mjs
+node --test tests/catalogue.test.mjs tests/submerged.test.mjs tests/fieldwork.test.mjs
 ```
 
 For browser checks, serve `docs/`, then run `tests/browser_smoke.mjs` with

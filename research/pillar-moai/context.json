@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "checked": "2026-09-19",
+  "checked": "2026-09-20",
   "scope": "A purposive context register; not a sampled comparison corpus or an ancestry ranking.",
   "independent_review": "not_reviewed",
   "sources": [
@@ -10,7 +10,7 @@
       "author": "Jens Notroff / German Archaeological Institute",
       "date": "14 December 2016",
       "url": "https://www.dainst.org/blogs/dances-with-cranes-animal-masquerade-in-pre-pottery/592",
-      "note": "Excavation-team discussion of Pillars 2, 33, 38 and 56. Masking, dance and transformation are interpretations; the carved birds are observations. Indexed full text checked; direct host did not resolve in this session."
+      "note": "Excavation-team discussion of Pillars 2, 33, 38 and 56. All four source photographs now inspected. Dance, costume and transformation are interpretations."
     },
     {
       "id": "p43",
@@ -75,6 +75,14 @@
       "date": "Cambridge Archaeological Journal 25(4), 759–788 (2015)",
       "url": "https://avesis.metu.edu.tr/yayin/13a45327-90c7-4a05-aec7-96b68f7a8bdc/from-monuments-to-miniatures-emergence-of-stamps-and-related-image-bearing-objects-during-the-neolithic",
       "note": "Author’s university record and abstract checked, DOI 10.1017/S0959774315000396. A regional continuity lead; its full object sequence has not been audited for this project."
+    },
+    {
+      "id": "pitts2014",
+      "title": "Hoa Hakananai’a: a new study",
+      "author": "Pitts, Miles, Pagi & Earl",
+      "date": "2014; checked 20 September 2026",
+      "url": "https://doi.org/10.1017/S0003581514000201",
+      "note": "The study proposes that arms reach toward an older ring, possibly reinterpreted as an egg in the later composition. Exact contacts and meaning remain open."
     }
   ],
   "objects": [
@@ -123,11 +131,13 @@
       "date_scope": "Early Neolithic site context; no motif-specific date established here.",
       "observation": "The source illustrates a crane with thick, bent legs.",
       "relevance": "A second local anatomical variant. Species and performance interpretations need checking against the carving.",
-      "inspection": "Source description; new photograph not acquired",
+      "inspection": "Excavation-team photograph acquired and inspected, 20 September 2026",
       "sources": [
         "cranes"
       ],
-      "images": []
+      "images": [
+        "docs/img/fieldwork/pillar33.jpg"
+      ]
     },
     {
       "id": "gt-p38",
@@ -138,11 +148,13 @@
       "date_scope": "Early Neolithic site context; no motif-specific date established here.",
       "observation": "The source describes three birds, at least two with unusual legs.",
       "relevance": "Repeated birds within the same site; not three independent artefacts.",
-      "inspection": "Source description; new photograph not acquired",
+      "inspection": "Excavation-team photograph acquired and inspected, 20 September 2026",
       "sources": [
         "cranes"
       ],
-      "images": []
+      "images": [
+        "docs/img/fieldwork/pillar38.jpg"
+      ]
     },
     {
       "id": "gt-p56",
@@ -153,11 +165,13 @@
       "date_scope": "Early Neolithic site context; no motif-specific date established here.",
       "observation": "The source contrasts these birds’ more naturalistic legs with those on other pillars.",
       "relevance": "A local contrast, useful for testing a broad claim that all the birds are humans in costume.",
-      "inspection": "Source description; new photograph not acquired",
+      "inspection": "Excavation-team photograph acquired and inspected, 20 September 2026",
       "sources": [
         "cranes"
       ],
-      "images": []
+      "images": [
+        "docs/img/fieldwork/pillar56.jpg"
+      ]
     },
     {
       "id": "rn-hoa",
@@ -167,11 +181,12 @@
       "record": "BM Oc1869,1005.1",
       "date_scope": "Birdman carvings are later than the original statue. Removed from Rapa Nui in 1868; exact carving dates uncertain.",
       "observation": "Two principal birdman figures, a smaller central bird and a large ring below the main figures.",
-      "relevance": "An arrangement of figures and symbols; the ring is not visibly held like the boulder’s rounded object.",
+      "relevance": "The 2014 study proposes that an older ring gained an egg-like role in the later birdman composition. Damaged arms make a categorical held/not-held reading premature.",
       "inspection": "Photographs and museum / digital-study records",
       "sources": [
         "bm-hoa",
-        "miles"
+        "miles",
+        "pitts2014"
       ],
       "images": [
         "docs/img/case/hoa-back.jpg",
@@ -270,6 +285,33 @@
       "rights": "No open licence stated; small source preview reproduced for identification and critical comparison, not offered as a freely licensed asset",
       "transformation": "Source-provided textured 3D preview; downloaded unchanged; not an AI reconstruction",
       "sha256": "f72b0e3b0fd2aad1be9ca3a20ba592a4f196954463f770f68bec37284ae45103"
+    },
+    {
+      "path": "docs/img/fieldwork/pillar33.jpg",
+      "source": "cranes",
+      "origin": "https://www.dainst.org/_assets/e/8/csm_p33-scaled_fccddd0d8b.jpg",
+      "credit": "DAI / K. Schmidt",
+      "rights": "Copyright DAI; source photograph for critical comparison.",
+      "transformation": "Source-provided rendition; downloaded bytes unchanged. Annotations are separate SVG overlays.",
+      "sha256": "797c555aff8ad9e131f0bb134be7c85914350ef8da676793711ced3e890eaaf0"
+    },
+    {
+      "path": "docs/img/fieldwork/pillar38.jpg",
+      "source": "cranes",
+      "origin": "https://www.dainst.org/_assets/6/a/csm_p38r_6eeb54350e.jpg",
+      "credit": "DAI / Göbekli Tepe Project",
+      "rights": "Copyright DAI; source photograph for critical comparison.",
+      "transformation": "Source-provided rendition; downloaded bytes unchanged. Annotations are separate SVG overlays.",
+      "sha256": "79f5cd4027c55dd88bbafd117b98d82ac9ec8fe90a4ecd6c020cf246341caddd"
+    },
+    {
+      "path": "docs/img/fieldwork/pillar56.jpg",
+      "source": "cranes",
+      "origin": "https://www.dainst.org/_assets/4/4/csm_p56_529a9334b6.jpg",
+      "credit": "DAI / N. Becker",
+      "rights": "Copyright DAI; source photograph for critical comparison.",
+      "transformation": "Source-provided rendition; downloaded bytes unchanged. Annotations are separate SVG overlays.",
+      "sha256": "88265b051325cdfbf2c82d1a0e75bc27e76e72041cccfc05e6efb93448720a21"
     }
   ]
 }

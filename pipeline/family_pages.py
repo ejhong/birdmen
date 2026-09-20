@@ -69,6 +69,8 @@ def family_page(f, data, idx):
         cells=''.join(f'<td>{"Recorded" if o["status"]=="documented" else "Provisional"}</td>' if fid in o['features'] else '<td><span aria-label="Not recorded">—</span></td>' for fid in features)
         table_rows.append(f'<tr><th scope="row"><a href="#record-{o["id"]}">{esc(e["label"])}</a><small>{esc(o["scope"])}</small></th>{cells}</tr>')
     matrix=f'<details class="family-matrix"><summary>Compare the recorded features</summary><p>Each row describes one object, surface or textual scope. A dash means “not recorded”, not “absent”. Features across different rows do not establish co-occurrence.</p><div class="table-scroll"><table class="feature-matrix"><thead><tr><th>Record &amp; scope</th>{"".join(f"<th>{esc(v)}</th>" for v in features.values())}</tr></thead><tbody>{"".join(table_rows)}</tbody></table></div></details>' if obs else ''
+    if f['id'] in ('bird-figures', 'bird-round-form'):
+        matrix = '<p class="family-scope"><a href="../fieldwork.html">A closer study: compare 22 objects, visual relationships and dated histories →</a></p>' + matrix
     leads=[l for l in data['leads'] if f['id'] in l['families']]
     questions=[l for l in leads if l['kind']=='claim']
     controls=[l for l in leads if l['kind']!='claim']

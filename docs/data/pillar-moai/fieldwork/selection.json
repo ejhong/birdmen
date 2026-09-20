@@ -1,0 +1,298 @@
+{
+  "status": "Exploratory retrieval audit; not a random sample or AI result",
+  "rules_sha256": "7f93ccd7b9890e3cfaf1c627fec9e676119c81cda16c825a8463e1f334b8daea",
+  "batches": [
+    {
+      "query": "Horus",
+      "returned": 117,
+      "inspected": [
+        {
+          "id": 243744,
+          "title": "Faience amulet of Isis and Horus",
+          "date": "664–334 BCE",
+          "decision": "included",
+          "reason": "Eligible in ID order",
+          "path": "data/pillar-moai/fieldwork/met-243744.json",
+          "sha256": "4839eb6bb00f21de9fc5310a1facaa0a2dfa87c7221d8f7388021714af27df68"
+        },
+        {
+          "id": 243745,
+          "title": "Faience amulet of Isis and Horus",
+          "date": "664–334 BCE",
+          "decision": "included",
+          "reason": "Eligible in ID order",
+          "path": "data/pillar-moai/fieldwork/met-243745.json",
+          "sha256": "3300fdfb772149389ac23f698f8bbf94d276dddfd5728b5347f2c65e0a6de0c0"
+        },
+        {
+          "id": 243746,
+          "title": "Faience amulet of Isis suckling the infant Horus",
+          "date": "664–334 BCE",
+          "decision": "included",
+          "reason": "Eligible in ID order",
+          "path": "data/pillar-moai/fieldwork/met-243746.json",
+          "sha256": "7c2128055c812cebc775133e96764efc46e81e2a7d01f6b9161931b66164b240"
+        },
+        {
+          "id": 244461,
+          "title": "Bronze statuette of Isis with infant Horus",
+          "date": "664–31 BCE",
+          "decision": "included",
+          "reason": "Eligible in ID order",
+          "path": "data/pillar-moai/fieldwork/met-244461.json",
+          "sha256": "88d268218e9d2e05236994010057c24398d7e79d56be09611c6314150ca33213"
+        }
+      ],
+      "selected": [
+        243744,
+        243745,
+        243746,
+        244461
+      ],
+      "path": "data/pillar-moai/fieldwork/search-horus.json",
+      "sha256": "c3ebe42dc6ca41e348b00cd8b0dee824858b3fc73f9fb7f87fb38146c1bbdb9a"
+    },
+    {
+      "query": "Thoth",
+      "returned": 25,
+      "inspected": [
+        {
+          "id": 329907,
+          "title": "Striding Thoth",
+          "date": "664–332 BCE",
+          "decision": "included",
+          "reason": "Eligible in ID order",
+          "path": "data/pillar-moai/fieldwork/met-329907.json",
+          "sha256": "959bd8fa30647793705ac2f973bd93ed0ee490cf61b2ea0edce842ff0975c0b8"
+        },
+        {
+          "id": 544092,
+          "title": "Striding Thoth",
+          "date": "332–30 BCE",
+          "decision": "included",
+          "reason": "Eligible in ID order",
+          "path": "data/pillar-moai/fieldwork/met-544092.json",
+          "sha256": "21beac3ca22385050720ee8f2bba00cc9e39da7c133d20d1bf3d6f5090ef5909"
+        },
+        {
+          "id": 544093,
+          "title": "Inlay depicting Thoth as the ibis with a Maat feather",
+          "date": "360–343 BCE",
+          "decision": "included",
+          "reason": "Eligible in ID order",
+          "path": "data/pillar-moai/fieldwork/met-544093.json",
+          "sha256": "8fe7522f243fb73838955353aaef6430c280c8fa596987402d3457ca84920e85"
+        },
+        {
+          "id": 545440,
+          "title": "Shabti of the High Priest of Thoth Djehutyirdis, born of Nephthysiti",
+          "date": "380–362 BCE",
+          "decision": "excluded",
+          "reason": "The title depicts a priest, not Thoth",
+          "path": "data/pillar-moai/fieldwork/met-545440.json",
+          "sha256": "73dc166dab3a8a60662e6f5b1a68c35838a1fb61cc70aae0eb2c411f463375ce"
+        },
+        {
+          "id": 545441,
+          "title": "Shabti of the High Priest of Thoth Djehutyirdis, born of Nepthysiti",
+          "date": "380–362 BCE",
+          "decision": "excluded",
+          "reason": "The title depicts a priest, not Thoth",
+          "path": "data/pillar-moai/fieldwork/met-545441.json",
+          "sha256": "59dccf1da00c36b0ca37dfd9903cb3d6e0d7d5dd805232a073f835e3d81eaba8"
+        },
+        {
+          "id": 545855,
+          "title": "Thoth amulet",
+          "date": "ca. 2110–2030 BCE",
+          "decision": "included",
+          "reason": "Eligible in ID order",
+          "path": "data/pillar-moai/fieldwork/met-545855.json",
+          "sha256": "c4d63bf8fe0479bf20eb4a231e186a17bf267de7a3adfe9250f6dfd9704dceb5"
+        }
+      ],
+      "selected": [
+        329907,
+        544092,
+        544093,
+        545855
+      ],
+      "path": "data/pillar-moai/fieldwork/search-thoth.json",
+      "sha256": "9e845339afd82980789a021a1ba0272c95e1a7b81d45ed3c68340ee723896778"
+    },
+    {
+      "query": "winged protective spirit",
+      "returned": 1,
+      "inspected": [
+        {
+          "id": 891642,
+          "title": "Locket with Assyrian winged protective figure",
+          "date": "second half of 19th century",
+          "decision": "excluded",
+          "reason": "Numeric dates missing; zero is not an ancient date",
+          "path": "data/pillar-moai/fieldwork/met-891642.json",
+          "sha256": "416917ba6220700239bc8b367f8e6c88381465f6dbad241e768b43b0091636b1"
+        }
+      ],
+      "selected": [],
+      "path": "data/pillar-moai/fieldwork/search-spirit.json",
+      "sha256": "1c2b643aba569114d917e254e95d28c7fb9efaf25825a58bd2f38dbde8da85c0"
+    },
+    {
+      "query": "Relief panel",
+      "returned": 34,
+      "inspected": [
+        {
+          "id": 44791,
+          "title": "Tomb Panel with Relief of Figures in a Pavilion",
+          "date": "early 2nd century",
+          "decision": "excluded",
+          "reason": "Outside the documented Assyrian replacement batch",
+          "path": "data/pillar-moai/fieldwork/met-44791.json",
+          "sha256": "107562d9c285cccb908430b58018cdb77da3802c97807ed97dfc96ddfca47220"
+        },
+        {
+          "id": 77159,
+          "title": "Relief Panel Depicting a Seated Sadhu",
+          "date": "17th–18th century",
+          "decision": "excluded",
+          "reason": "Outside the documented Assyrian replacement batch",
+          "path": "data/pillar-moai/fieldwork/met-77159.json",
+          "sha256": "48482543ba8ca9879a3e3b9a81f718b19feb85485341f09a28c82f797161b13c"
+        },
+        {
+          "id": 245831,
+          "title": "Stucco relief panel",
+          "date": "mid-1st century CE",
+          "decision": "excluded",
+          "reason": "Outside the documented Assyrian replacement batch",
+          "path": "data/pillar-moai/fieldwork/met-245831.json",
+          "sha256": "1d314488e3b705a0b95417315f2e3eb2a5e1dc93fb1f1a73d69c9e1dff49d3dc"
+        },
+        {
+          "id": 245832,
+          "title": "Stucco relief panel",
+          "date": "2nd half of 1st century CE",
+          "decision": "excluded",
+          "reason": "Outside the documented Assyrian replacement batch",
+          "path": "data/pillar-moai/fieldwork/met-245832.json",
+          "sha256": "71d20446ba24b4aa0e9b7438608d7ef7b62332336b8488de459d1e7f7ae77cfe"
+        },
+        {
+          "id": 245833,
+          "title": "Stucco relief panel",
+          "date": "2nd half of 1st century CE",
+          "decision": "excluded",
+          "reason": "Outside the documented Assyrian replacement batch",
+          "path": "data/pillar-moai/fieldwork/met-245833.json",
+          "sha256": "fbb00d29ba07d0f2ada078ed1cc1aa87a0f7b343bed80938797fde7257582851"
+        },
+        {
+          "id": 245834,
+          "title": "Stucco relief panel",
+          "date": "2nd half of 1st century CE",
+          "decision": "excluded",
+          "reason": "Outside the documented Assyrian replacement batch",
+          "path": "data/pillar-moai/fieldwork/met-245834.json",
+          "sha256": "d0554d35046ef9ccaaf40759426ef929ece481d8b0e46a2d8448da20ef239718"
+        },
+        {
+          "id": 245835,
+          "title": "Stucco relief panel",
+          "date": "2nd half of 1st century CE",
+          "decision": "excluded",
+          "reason": "Outside the documented Assyrian replacement batch",
+          "path": "data/pillar-moai/fieldwork/met-245835.json",
+          "sha256": "9fe2eeabc379aea455d7c3d19e8448a20f4734b9b43d849c126d960550168fe4"
+        },
+        {
+          "id": 245836,
+          "title": "Stucco relief panel",
+          "date": "2nd half of 1st century CE",
+          "decision": "excluded",
+          "reason": "Outside the documented Assyrian replacement batch",
+          "path": "data/pillar-moai/fieldwork/met-245836.json",
+          "sha256": "b141375559b70a92348075f8d2559537031fd5b24668d823843fbd8dd6abe459"
+        },
+        {
+          "id": 245837,
+          "title": "Stucco relief panel",
+          "date": "2nd half of 1st century CE",
+          "decision": "excluded",
+          "reason": "Outside the documented Assyrian replacement batch",
+          "path": "data/pillar-moai/fieldwork/met-245837.json",
+          "sha256": "1aa9e4904b242fe9849f2029ec75fb76cb9f2a7052ca81522df14ede3fb8f95c"
+        },
+        {
+          "id": 245839,
+          "title": "Stucco relief panel",
+          "date": "2nd half of 1st century CE",
+          "decision": "excluded",
+          "reason": "Outside the documented Assyrian replacement batch",
+          "path": "data/pillar-moai/fieldwork/met-245839.json",
+          "sha256": "917475aaf7ea03dc3969160cfbffbb324f826776bf3e2a807f162274878aa3de"
+        },
+        {
+          "id": 321613,
+          "title": "Relief panel",
+          "date": "ca. 883–859 BCE",
+          "decision": "included",
+          "reason": "Eligible in ID order",
+          "path": "data/pillar-moai/fieldwork/met-321613.json",
+          "sha256": "e0f0484169632413a193642b906596ecac09e286a3b9a2a70e24caec896cb674"
+        },
+        {
+          "id": 322486,
+          "title": "Relief panel",
+          "date": "ca. 883–859 BCE",
+          "decision": "included",
+          "reason": "Eligible in ID order",
+          "path": "data/pillar-moai/fieldwork/met-322486.json",
+          "sha256": "2144a6da2026c9a182876269abdcbaf517e6d26b546ae8bb118fd135805a73ca"
+        },
+        {
+          "id": 322487,
+          "title": "Relief panel",
+          "date": "ca. 883–859 BCE",
+          "decision": "included",
+          "reason": "Eligible in ID order",
+          "path": "data/pillar-moai/fieldwork/met-322487.json",
+          "sha256": "e7649226dab58c2e110edfd01bc81d73081526c7597021c25e4b178f388393c0"
+        },
+        {
+          "id": 322488,
+          "title": "Relief panel",
+          "date": "ca. 883–859 BCE",
+          "decision": "included",
+          "reason": "Eligible in ID order",
+          "path": "data/pillar-moai/fieldwork/met-322488.json",
+          "sha256": "6fa2ce17fbaffdeaaa3c8f0f15dd7036f175153ced29f9048d912da995bb6eaa"
+        }
+      ],
+      "selected": [
+        321613,
+        322486,
+        322487,
+        322488
+      ],
+      "path": "data/pillar-moai/fieldwork/search-panel.json",
+      "sha256": "2b8c6186a381b2777b170fb389b2e025bc4d35a863da0dd440d9641ebec78fc8"
+    }
+  ],
+  "selected": [
+    243744,
+    243745,
+    243746,
+    244461,
+    321613,
+    322486,
+    322487,
+    322488,
+    329907,
+    544092,
+    544093,
+    545855
+  ],
+  "prior_anchor": 322614,
+  "note": "The twelve new museum objects are separate from nine focal/local records and one previously proposed Assyrian anchor. Prefetched records beyond the stopping point are not extra observations."
+}

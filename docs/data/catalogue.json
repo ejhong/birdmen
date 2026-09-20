@@ -382,6 +382,42 @@
       "kind": "institutional archive",
       "author": "University of Sydney Archives",
       "checked": "2026-09-20"
+    },
+    {
+      "id": "pitts2014",
+      "title": "Hoa Hakananai’a: a new study",
+      "url": "https://doi.org/10.1017/S0003581514000201",
+      "kind": "research paper",
+      "author": "Pitts, Miles, Pagi & Earl",
+      "checked": "2026-09-20",
+      "note": "2014 digital study, pp. 308–309 and 316–318: arms reaching toward an older ring, with a proposed egg reinterpretation. Author-uploaded full text inspected."
+    },
+    {
+      "id": "met-329907",
+      "title": "Striding Thoth · 2021.41.128",
+      "url": "https://www.metmuseum.org/art/collection/search/329907",
+      "kind": "museum",
+      "author": "The Metropolitan Museum of Art",
+      "checked": "2026-09-20",
+      "note": "Museum identity, date and public-domain photograph checked in the bounded fieldwork collection."
+    },
+    {
+      "id": "met-544092",
+      "title": "Striding Thoth · 26.7.860",
+      "url": "https://www.metmuseum.org/art/collection/search/544092",
+      "kind": "museum",
+      "author": "The Metropolitan Museum of Art",
+      "checked": "2026-09-20",
+      "note": "Museum identity, date and public-domain photograph checked in the bounded fieldwork collection."
+    },
+    {
+      "id": "met-544093",
+      "title": "Inlay depicting Thoth as the ibis with a Maat feather · 26.7.992",
+      "url": "https://www.metmuseum.org/art/collection/search/544093",
+      "kind": "museum",
+      "author": "The Metropolitan Museum of Art",
+      "checked": "2026-09-20",
+      "note": "Museum identity, date and public-domain photograph checked in the bounded fieldwork collection."
     }
   ],
   "places": [
@@ -1539,6 +1575,153 @@
       "physical_id": "gate-of-the-sun",
       "culture": "tiwanaku",
       "alternate_media": []
+    },
+    {
+      "id": "pillar33",
+      "label": "Pillar 33",
+      "kind": "object",
+      "place": "gobekli",
+      "media": "fieldwork-pillar33",
+      "dates": [
+        {
+          "start": -10000,
+          "end": -8001,
+          "label": "10th–9th millennia BCE",
+          "kind": "site context",
+          "source": "gt-dates",
+          "note": "Broad published site context. No direct measurement dates this individual motif."
+        }
+      ],
+      "sources": [
+        "cranes",
+        "gt-dates"
+      ],
+      "note": "The robust bent legs matter to the local bird–human interpretation.",
+      "text": "",
+      "physical_id": "pillar33",
+      "culture": "neolithic-anatolia"
+    },
+    {
+      "id": "pillar38",
+      "label": "Pillar 38",
+      "kind": "object",
+      "place": "gobekli",
+      "media": "fieldwork-pillar38",
+      "dates": [
+        {
+          "start": -10000,
+          "end": -8001,
+          "label": "10th–9th millennia BCE",
+          "kind": "site context",
+          "source": "gt-dates",
+          "note": "Broad published site context. No direct measurement dates this individual motif."
+        }
+      ],
+      "sources": [
+        "cranes",
+        "gt-dates"
+      ],
+      "note": "Multiple birds belong to one pillar, not several independent artefacts.",
+      "text": "",
+      "physical_id": "pillar38",
+      "culture": "neolithic-anatolia"
+    },
+    {
+      "id": "pillar56",
+      "label": "Pillar 56",
+      "kind": "object",
+      "place": "gobekli",
+      "media": "fieldwork-pillar56",
+      "dates": [
+        {
+          "start": -10000,
+          "end": -8001,
+          "label": "10th–9th millennia BCE",
+          "kind": "site context",
+          "source": "gt-dates",
+          "note": "Broad published site context. No direct measurement dates this individual motif."
+        }
+      ],
+      "sources": [
+        "cranes",
+        "gt-dates"
+      ],
+      "note": "A local anatomical contrast; the source treats these legs as more naturalistic.",
+      "text": "",
+      "physical_id": "pillar56",
+      "culture": "neolithic-anatolia"
+    },
+    {
+      "id": "met-329907",
+      "label": "Striding Thoth",
+      "kind": "object",
+      "place": null,
+      "media": "met-329907",
+      "dates": [
+        {
+          "start": -664,
+          "end": -332,
+          "label": "664–332 BCE",
+          "kind": "production",
+          "source": "met-329907",
+          "note": "Museum attribution; provenance and production place are not inferred from the modern collection."
+        }
+      ],
+      "sources": [
+        "met-329907"
+      ],
+      "note": "A beaked human form with a substantially different pose.",
+      "text": "",
+      "physical_id": "met-329907",
+      "culture": "late-egypt"
+    },
+    {
+      "id": "met-544092",
+      "label": "Striding Thoth",
+      "kind": "object",
+      "place": null,
+      "media": "met-544092",
+      "dates": [
+        {
+          "start": -332,
+          "end": -30,
+          "label": "332–30 BCE",
+          "kind": "production",
+          "source": "met-544092",
+          "note": "Museum attribution; provenance and production place are not inferred from the modern collection."
+        }
+      ],
+      "sources": [
+        "met-544092"
+      ],
+      "note": "A closer anatomical parallel than a shared arrangement.",
+      "text": "",
+      "physical_id": "met-544092",
+      "culture": "late-egypt"
+    },
+    {
+      "id": "met-544093",
+      "label": "Thoth as an ibis",
+      "kind": "object",
+      "place": null,
+      "media": "met-544093",
+      "dates": [
+        {
+          "start": -360,
+          "end": -343,
+          "label": "360–343 BCE",
+          "kind": "production",
+          "source": "met-544093",
+          "note": "Museum attribution; provenance and production place are not inferred from the modern collection."
+        }
+      ],
+      "sources": [
+        "met-544093"
+      ],
+      "note": "A bird beside an emblem: similar ingredients, different anatomical relation.",
+      "text": "",
+      "physical_id": "met-544093",
+      "culture": "late-egypt"
     }
   ],
   "media": [
@@ -2141,6 +2324,78 @@
       "kind": "supplied image",
       "transformation": "Existing archived image; original transformation recorded in image register.",
       "sha256": "f447f9478e7fcbd4ab8d403b52921e9aee5bf494698102f676e1ef6c502a97c2"
+    },
+    {
+      "id": "fieldwork-pillar33",
+      "path": "img/fieldwork/pillar33.jpg",
+      "caption": "Pillar 33 · source photograph from the excavation team",
+      "alt": "Pillar 33. Bird in the source’s detail photograph",
+      "credit": "DAI / K. Schmidt",
+      "rights": "Copyright DAI; source photograph for critical comparison.",
+      "url": "https://www.dainst.org/_assets/e/8/csm_p33-scaled_fccddd0d8b.jpg",
+      "kind": "photograph",
+      "transformation": "Source-provided rendition; downloaded bytes unchanged. Annotations are separate SVG overlays.",
+      "sha256": "797c555aff8ad9e131f0bb134be7c85914350ef8da676793711ced3e890eaaf0"
+    },
+    {
+      "id": "fieldwork-pillar38",
+      "path": "img/fieldwork/pillar38.jpg",
+      "caption": "Pillar 38 · source photograph from the excavation team",
+      "alt": "Pillar 38. Bird group in the photographed surface",
+      "credit": "DAI / Göbekli Tepe Project",
+      "rights": "Copyright DAI; source photograph for critical comparison.",
+      "url": "https://www.dainst.org/_assets/6/a/csm_p38r_6eeb54350e.jpg",
+      "kind": "photograph",
+      "transformation": "Source-provided rendition; downloaded bytes unchanged. Annotations are separate SVG overlays.",
+      "sha256": "79f5cd4027c55dd88bbafd117b98d82ac9ec8fe90a4ecd6c020cf246341caddd"
+    },
+    {
+      "id": "fieldwork-pillar56",
+      "path": "img/fieldwork/pillar56.jpg",
+      "caption": "Pillar 56 · source photograph from the excavation team",
+      "alt": "Pillar 56. Long-legged birds among the relief animals",
+      "credit": "DAI / N. Becker",
+      "rights": "Copyright DAI; source photograph for critical comparison.",
+      "url": "https://www.dainst.org/_assets/4/4/csm_p56_529a9334b6.jpg",
+      "kind": "photograph",
+      "transformation": "Source-provided rendition; downloaded bytes unchanged. Annotations are separate SVG overlays.",
+      "sha256": "88265b051325cdfbf2c82d1a0e75bc27e76e72041cccfc05e6efb93448720a21"
+    },
+    {
+      "id": "met-329907",
+      "path": "img/fieldwork/met-329907.jpg",
+      "caption": "Striding Thoth · 2021.41.128",
+      "alt": "Striding Thoth",
+      "credit": "The Metropolitan Museum of Art",
+      "rights": "Public domain / Open Access.",
+      "url": "https://www.metmuseum.org/art/collection/search/329907",
+      "kind": "photograph",
+      "transformation": "Source-provided rendition; downloaded bytes unchanged. Annotations are separate SVG overlays.",
+      "sha256": "75d67d2852a114b6c859debef5dc73d67befacb4c3a0dc075047a34b9fd196a7"
+    },
+    {
+      "id": "met-544092",
+      "path": "img/fieldwork/met-544092.jpg",
+      "caption": "Striding Thoth · 26.7.860",
+      "alt": "Striding Thoth",
+      "credit": "The Metropolitan Museum of Art",
+      "rights": "Public domain / Open Access.",
+      "url": "https://www.metmuseum.org/art/collection/search/544092",
+      "kind": "photograph",
+      "transformation": "Source-provided rendition; downloaded bytes unchanged. Annotations are separate SVG overlays.",
+      "sha256": "ca22fc3976dc05f64838188fef402209398e2261a24f27322bde18f33e438d6e"
+    },
+    {
+      "id": "met-544093",
+      "path": "img/fieldwork/met-544093.jpg",
+      "caption": "Inlay depicting Thoth as the ibis with a Maat feather · 26.7.992",
+      "alt": "Inlay depicting Thoth as the ibis with a Maat feather",
+      "credit": "The Metropolitan Museum of Art",
+      "rights": "Public domain / Open Access.",
+      "url": "https://www.metmuseum.org/art/collection/search/544093",
+      "kind": "photograph",
+      "transformation": "Source-provided rendition; downloaded bytes unchanged. Annotations are separate SVG overlays.",
+      "sha256": "add87042bb26046a819ae0c66a135e35a5ae2019b55e05c338e95913c72f1d5d"
     }
   ],
   "groups": [
@@ -2149,10 +2404,13 @@
       "label": "Bird imagery in Neolithic Anatolia",
       "members": [
         "pillar43",
-        "pillar2"
+        "pillar2",
+        "pillar33",
+        "pillar38",
+        "pillar56"
       ],
       "description": "Carved birds among animal ensembles at Göbekli Tepe.",
-      "membership_reason": "Two documented local examples, selected to examine variation. They are not a representative count of all Neolithic birds.",
+      "membership_reason": "Five named local pillars from the excavation-team accounts, retained together to examine variation. They are not a representative count of all Neolithic birds.",
       "sources": [
         "p43",
         "cranes"
@@ -2709,6 +2967,9 @@
       "members": [
         "pillar43",
         "pillar2",
+        "pillar33",
+        "pillar38",
+        "pillar56",
         "hoa-back",
         "boulder",
         "mata-ngarau",
@@ -3887,7 +4148,10 @@
       ],
       "members": [
         "pillar43",
-        "pillar2"
+        "pillar2",
+        "pillar33",
+        "pillar38",
+        "pillar56"
       ],
       "status": "source-check",
       "kind": "control",
@@ -4167,7 +4431,10 @@
         "pillar43",
         "pillar2",
         "urfa-man",
-        "karahan-ribs"
+        "karahan-ribs",
+        "pillar33",
+        "pillar38",
+        "pillar56"
       ],
       "note": "Regional grouping, not a claim that every site or carving belongs to one homogeneous culture."
     },
@@ -4357,6 +4624,16 @@
         "indus-exchange-record"
       ],
       "note": "A regional context for the documented Indus trade control. Individual finds and phases remain to be registered."
+    },
+    {
+      "id": "late-egypt",
+      "label": "Late & Ptolemaic Egypt",
+      "members": [
+        "met-329907",
+        "met-544092",
+        "met-544093"
+      ],
+      "note": "Three source-linked museum objects from distinct Late Period and Ptolemaic contexts. Their shared iconography does not make the periods interchangeable."
     }
   ],
   "families": [
@@ -5040,9 +5317,10 @@
       "sources": [
         "hoa",
         "moai",
-        "miles"
+        "miles",
+        "pitts2014"
       ],
-      "note": "The ring lies lower on the back, separate from the upper birdmen. It is not the boulder’s hand-held arrangement."
+      "note": "An older ring lies below the paired birdmen. Pitts et al. propose arms reaching around it and possible reinterpretation as an egg; the exact grip remains uncertain."
     },
     {
       "id": "handled-forms-pillar43",
@@ -5609,6 +5887,113 @@
         "cassaro"
       ],
       "note": "Broad architectural form, with individual construction phases not yet entered."
+    },
+    {
+      "id": "bird-figures-pillar33",
+      "family": "bird-figures",
+      "entity": "pillar33",
+      "features": [
+        "bird"
+      ],
+      "status": "documented",
+      "scope": "photographed pillar surface",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "cranes",
+        "gt-dates"
+      ],
+      "note": "The robust bent legs matter to the local bird–human interpretation."
+    },
+    {
+      "id": "bird-figures-pillar38",
+      "family": "bird-figures",
+      "entity": "pillar38",
+      "features": [
+        "bird"
+      ],
+      "status": "documented",
+      "scope": "photographed pillar surface",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "cranes",
+        "gt-dates"
+      ],
+      "note": "Multiple birds belong to one pillar, not several independent artefacts."
+    },
+    {
+      "id": "bird-figures-pillar56",
+      "family": "bird-figures",
+      "entity": "pillar56",
+      "features": [
+        "bird"
+      ],
+      "status": "documented",
+      "scope": "photographed pillar surface",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "cranes",
+        "gt-dates"
+      ],
+      "note": "A local anatomical contrast; the source treats these legs as more naturalistic."
+    },
+    {
+      "id": "bird-figures-met-329907",
+      "family": "bird-figures",
+      "entity": "met-329907",
+      "features": [
+        "bird",
+        "human"
+      ],
+      "status": "documented",
+      "scope": "single figure in museum photograph",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "met-329907"
+      ],
+      "note": "A beaked human form with a substantially different pose."
+    },
+    {
+      "id": "bird-figures-met-544092",
+      "family": "bird-figures",
+      "entity": "met-544092",
+      "features": [
+        "bird",
+        "human"
+      ],
+      "status": "documented",
+      "scope": "single figure in museum photograph",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "met-544092"
+      ],
+      "note": "A closer anatomical parallel than a shared arrangement."
+    },
+    {
+      "id": "bird-figures-met-544093",
+      "family": "bird-figures",
+      "entity": "met-544093",
+      "features": [
+        "bird"
+      ],
+      "status": "documented",
+      "scope": "single figure in museum photograph",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "met-544093"
+      ],
+      "note": "A bird beside an emblem: similar ingredients, different anatomical relation."
     }
   ],
   "leads": [

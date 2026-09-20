@@ -1,0 +1,1871 @@
+{
+  "version": "1.0",
+  "edition": "2026-09-20",
+  "title": "The resemblance, under a closer light",
+  "status": "Exploratory source and image study; no new model scoring",
+  "review": "Source-informed editorial observations prepared with AI; independent review outstanding.",
+  "selection": "SELECTION.md",
+  "features": [
+    {
+      "id": "beak",
+      "label": "Beaked figure",
+      "definition": "A beaked head on the selected figure; a museum deity name alone is insufficient."
+    },
+    {
+      "id": "reach",
+      "label": "Arm or wing extends forward",
+      "definition": "A limb projects in front of the selected beaked figure. An arm and a wing remain different anatomical readings."
+    },
+    {
+      "id": "round",
+      "label": "Separate rounded form",
+      "definition": "A disc, ring or compact rounded object, excluding an eye, body outline or suspension hole."
+    },
+    {
+      "id": "relation",
+      "label": "Rounded form at the limb",
+      "definition": "The same beaked figure’s arm or wing reaches to the rounded form. Nearness does not prove a grip or shared meaning."
+    },
+    {
+      "id": "pair",
+      "label": "Facing beaked figures",
+      "definition": "Two beaked figures face one another within the same scene. Separate objects never create this feature."
+    }
+  ],
+  "sources": [
+    {
+      "id": "p43",
+      "title": "Pillar 43 · excavation-team account",
+      "url": "https://www.dainst.org/en/blogs/of-animals-and-a-headless-man-goebekli-tepe-pillar-43/599",
+      "note": "Oliver Dietrich, 2016; updated 2017. Egg, celestial body and human head are alternative readings of the disc, not identifications.",
+      "locator": "Main bird scene and disc discussion",
+      "kind": "excavation",
+      "checked": "2026-09-20"
+    },
+    {
+      "id": "cranes",
+      "title": "Birds on Pillars 2, 33, 38 and 56",
+      "url": "https://www.dainst.org/blogs/dances-with-cranes-animal-masquerade-in-pre-pottery/592",
+      "note": "Jens Notroff, DAI, 2016. New photographs checked against the labelled figures. Humanlike anatomy and performance remain interpretations.",
+      "locator": "Figures 1, 2, 4 and 5",
+      "kind": "excavation",
+      "checked": "2026-09-20"
+    },
+    {
+      "id": "mapse",
+      "title": "Painted Orongo slab · MAPSE 17-00-1312",
+      "url": "https://www.museorapanui.gob.cl/multimedia/coleccion-de-lajas-pintadas-de-la-aldea-ceremonial-de-orongo-2",
+      "note": "Museo Rapa Nui identifies two facing tangata manu. The 1974 date concerns transfer to the museum.",
+      "locator": "Collection record",
+      "kind": "museum",
+      "checked": "2026-09-20"
+    },
+    {
+      "id": "routledge",
+      "title": "The Mystery of Easter Island",
+      "url": "https://readingroo.ms/6/9/8/0/69807/69807-h/69807-h.htm",
+      "note": "Katherine Routledge, 1919. Historical photographs and accounts mediated through the expedition and its Rapanui interlocutors.",
+      "locator": "Figures 110, 112; pp. 261–265",
+      "kind": "historical witness",
+      "checked": "2026-09-20"
+    },
+    {
+      "id": "boulder",
+      "title": "Birdman boulder · Oc1920,0506.1",
+      "url": "https://artsandculture.google.com/asset/birdman-boulder/-QEzFc9ehfO2ng",
+      "note": "British Museum record: birdman holding an egg; approximate catalogue range 1750–1875. This is not a direct carving-age measurement.",
+      "locator": "Object description and metadata",
+      "kind": "museum",
+      "checked": "2026-09-20"
+    },
+    {
+      "id": "bm-hoa",
+      "title": "Hoa Hakananai’a · Oc1869,1005.1",
+      "url": "https://www.britishmuseum.org/collection/object/E_Oc1869-1005-1",
+      "note": "Object identity and carved motifs; the statue and its later decoration need separate dates. Direct page access remains intermittent.",
+      "locator": "Collection record; indexed text",
+      "kind": "museum",
+      "checked": "2026-09-20"
+    },
+    {
+      "id": "pitts2014",
+      "title": "Hoa Hakananai’a: a new study",
+      "url": "https://doi.org/10.1017/S0003581514000201",
+      "note": "Pitts, Miles, Pagi & Earl (2014). Digital study and a proposed reading of the later birdman composition. Author-uploaded full text inspected; exact carving dates remain unresolved.",
+      "locator": "pp. 303–309, 316–318; figs. 8–17",
+      "kind": "research paper",
+      "checked": "2026-09-20"
+    },
+    {
+      "id": "pitts-copy",
+      "title": "Author-uploaded 2014 paper",
+      "url": "https://www.researchgate.net/publication/283719794_Hoa_hakananai%27a_A_new_study_of_an_Easter_Island_statue_in_the_British_Museum",
+      "note": "Access copy of the same Pitts et al. paper, not an independent source.",
+      "locator": "Author manuscript text and figure captions",
+      "kind": "access copy",
+      "checked": "2026-09-20"
+    },
+    {
+      "id": "miles",
+      "title": "Digital recording and original viewers",
+      "url": "https://acrg.soton.ac.uk/blog/4091/",
+      "note": "James Miles, Southampton (2014). RTI and photogrammetry document surface detail; the linked legacy viewers have access limitations.",
+      "locator": "Researcher’s account",
+      "kind": "research team",
+      "checked": "2026-09-20"
+    },
+    {
+      "id": "crane-wing",
+      "title": "Dance of the Cranes",
+      "url": "https://doi.org/10.1017/S0003598X00092516",
+      "note": "Russell & McGowan (2003). A modified crane wing is physical evidence; costume use is a proposed explanation.",
+      "locator": "pp. 446–448; space 73, unit 1347",
+      "kind": "research paper",
+      "checked": "2026-09-20"
+    },
+    {
+      "id": "crane-copy",
+      "title": "Crane-wing paper · publisher PDF",
+      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3C18328C07ADA2B99B968F89EEFE90EF/S0003598X00092516a.pdf/dance-of-the-cranes-crane-symbolism-at-catalhoyuk-and-beyond.pdf",
+      "note": "Access copy of Russell & McGowan (2003), downloaded and read.",
+      "locator": "pp. 445–448",
+      "kind": "access copy",
+      "checked": "2026-09-20"
+    },
+    {
+      "id": "rapanui-museum",
+      "title": "Orongo in its island context",
+      "url": "https://www.museorapanui.gob.cl/conozca-rapa-nui",
+      "note": "Museo Rapa Nui’s account connects Orongo’s petroglyphs with the tangata manu competition.",
+      "locator": "Aldea de Orongo",
+      "kind": "museum",
+      "checked": "2026-09-20"
+    },
+    {
+      "id": "genomes",
+      "title": "Ancient Rapanui genomes",
+      "url": "https://www.nature.com/articles/s41586-024-07881-4",
+      "note": "Moreno-Mayar et al. (2024). Pre-European American ancestry and an estimated admixture interval; this does not trace an Anatolian motif.",
+      "locator": "Abstract and contact-date analysis",
+      "kind": "research paper",
+      "checked": "2026-09-20"
+    },
+    {
+      "id": "met-api",
+      "title": "The Met collection API",
+      "url": "https://metmuseum.github.io/",
+      "note": "Museum metadata and public-domain image URLs. Exact query responses and inspected candidate records are retained.",
+      "locator": "Search and object endpoints",
+      "kind": "collection data",
+      "checked": "2026-09-20"
+    },
+    {
+      "id": "met-243744",
+      "title": "Faience amulet of Isis and Horus · 74.51.4476",
+      "url": "https://www.metmuseum.org/art/collection/search/243744",
+      "note": "The Metropolitan Museum of Art. Museum title, date, accession and source-provided photograph checked.",
+      "locator": "Object metadata and photograph",
+      "kind": "museum",
+      "checked": "2026-09-20"
+    },
+    {
+      "id": "met-243745",
+      "title": "Faience amulet of Isis and Horus · 74.51.4477",
+      "url": "https://www.metmuseum.org/art/collection/search/243745",
+      "note": "The Metropolitan Museum of Art. Museum title, date, accession and source-provided photograph checked.",
+      "locator": "Object metadata and photograph",
+      "kind": "museum",
+      "checked": "2026-09-20"
+    },
+    {
+      "id": "met-243746",
+      "title": "Faience amulet of Isis suckling the infant Horus · 74.51.4478",
+      "url": "https://www.metmuseum.org/art/collection/search/243746",
+      "note": "The Metropolitan Museum of Art. Museum title, date, accession and source-provided photograph checked.",
+      "locator": "Object metadata and photograph",
+      "kind": "museum",
+      "checked": "2026-09-20"
+    },
+    {
+      "id": "met-244461",
+      "title": "Bronze statuette of Isis with infant Horus · 74.51.5582",
+      "url": "https://www.metmuseum.org/art/collection/search/244461",
+      "note": "The Metropolitan Museum of Art. Museum title, date, accession and source-provided photograph checked.",
+      "locator": "Object metadata and photograph",
+      "kind": "museum",
+      "checked": "2026-09-20"
+    },
+    {
+      "id": "met-329907",
+      "title": "Striding Thoth · 2021.41.128",
+      "url": "https://www.metmuseum.org/art/collection/search/329907",
+      "note": "The Metropolitan Museum of Art. Museum title, date, accession and source-provided photograph checked.",
+      "locator": "Object metadata and photograph",
+      "kind": "museum",
+      "checked": "2026-09-20"
+    },
+    {
+      "id": "met-544092",
+      "title": "Striding Thoth · 26.7.860",
+      "url": "https://www.metmuseum.org/art/collection/search/544092",
+      "note": "The Metropolitan Museum of Art. Museum title, date, accession and source-provided photograph checked.",
+      "locator": "Object metadata and photograph",
+      "kind": "museum",
+      "checked": "2026-09-20"
+    },
+    {
+      "id": "met-544093",
+      "title": "Inlay depicting Thoth as the ibis with a Maat feather · 26.7.992",
+      "url": "https://www.metmuseum.org/art/collection/search/544093",
+      "note": "The Metropolitan Museum of Art. Museum title, date, accession and source-provided photograph checked.",
+      "locator": "Object metadata and photograph",
+      "kind": "museum",
+      "checked": "2026-09-20"
+    },
+    {
+      "id": "met-545855",
+      "title": "Thoth amulet · 65.46.4",
+      "url": "https://www.metmuseum.org/art/collection/search/545855",
+      "note": "The Metropolitan Museum of Art. Museum title, date, accession and source-provided photograph checked.",
+      "locator": "Object metadata and photograph",
+      "kind": "museum",
+      "checked": "2026-09-20"
+    },
+    {
+      "id": "met-321613",
+      "title": "Relief panel · 84.11",
+      "url": "https://www.metmuseum.org/art/collection/search/321613",
+      "note": "The Metropolitan Museum of Art. Museum title, date, accession and source-provided photograph checked.",
+      "locator": "Object metadata and photograph",
+      "kind": "museum",
+      "checked": "2026-09-20"
+    },
+    {
+      "id": "met-322486",
+      "title": "Relief panel · 17.190.2077",
+      "url": "https://www.metmuseum.org/art/collection/search/322486",
+      "note": "The Metropolitan Museum of Art. Museum title, date, accession and source-provided photograph checked.",
+      "locator": "Object metadata and photograph",
+      "kind": "museum",
+      "checked": "2026-09-20"
+    },
+    {
+      "id": "met-322487",
+      "title": "Relief panel · 17.190.2078",
+      "url": "https://www.metmuseum.org/art/collection/search/322487",
+      "note": "The Metropolitan Museum of Art. Museum title, date, accession and source-provided photograph checked.",
+      "locator": "Object metadata and photograph",
+      "kind": "museum",
+      "checked": "2026-09-20"
+    },
+    {
+      "id": "met-322488",
+      "title": "Relief panel · 17.190.2079",
+      "url": "https://www.metmuseum.org/art/collection/search/322488",
+      "note": "The Metropolitan Museum of Art. Museum title, date, accession and source-provided photograph checked.",
+      "locator": "Object metadata and photograph",
+      "kind": "museum",
+      "checked": "2026-09-20"
+    },
+    {
+      "id": "met-322614",
+      "title": "Relief panel · 32.143.7",
+      "url": "https://www.metmuseum.org/art/collection/search/322614",
+      "note": "The Metropolitan Museum of Art. Museum title, date, accession and source-provided photograph checked.",
+      "locator": "Object metadata and photograph",
+      "kind": "museum",
+      "checked": "2026-09-20"
+    }
+  ],
+  "objects": [
+    {
+      "id": "gt-p43",
+      "label": "Pillar 43",
+      "group": "focal",
+      "culture": "Neolithic Anatolia",
+      "scope": "Large bird in the upper-left scene",
+      "date": {
+        "label": "10th–9th millennium BCE · site context",
+        "start": -10000,
+        "end": -8001,
+        "kind": "context",
+        "note": "Broad Early Neolithic context, not a direct date for these particular cuts."
+      },
+      "sources": [
+        "p43"
+      ],
+      "image": {
+        "path": "img/case/pillar43.jpg",
+        "width": 778,
+        "height": 1181,
+        "sha256": "25dd338ef57f1ff2aa9b5689f9e2354a72499551f38b4810fa029d758231ef84",
+        "credit": "DAI / K. Schmidt",
+        "rights": "Copyright DAI; used for critical comparison.",
+        "origin": "https://www.dainst.org/en/blogs/of-animals-and-a-headless-man-goebekli-tepe-pillar-43/599",
+        "transformation": "Source-provided rendition; downloaded bytes unchanged. Annotations are separate SVG overlays.",
+        "annotations": [
+          {
+            "id": "bird",
+            "label": "Bird",
+            "box": [
+              0.145,
+              0.25,
+              0.32,
+              0.27
+            ],
+            "note": "The large bird’s head and body; its wing is not automatically a human arm."
+          },
+          {
+            "id": "round",
+            "label": "Disc",
+            "box": [
+              0.337,
+              0.327,
+              0.118,
+              0.078
+            ],
+            "note": "The disc is above the end of the forward wing. Its meaning is unresolved."
+          },
+          {
+            "id": "limb",
+            "label": "Forward wing",
+            "box": [
+              0.21,
+              0.38,
+              0.263,
+              0.062
+            ],
+            "note": "Inspect the edge and the gap. Proximity does not establish a grasp."
+          }
+        ]
+      },
+      "observations": {
+        "beak": {
+          "state": "present",
+          "note": "Beak and bird body are visible."
+        },
+        "reach": {
+          "state": "present",
+          "note": "The forward wing extends toward the disc."
+        },
+        "round": {
+          "state": "present",
+          "note": "A disc lies above the wing tip."
+        },
+        "relation": {
+          "state": "present",
+          "note": "Disc above the extended wing; touching or holding is not established."
+        },
+        "pair": {
+          "state": "not-seen",
+          "note": "Other birds occur, but this is not the moai’s opposed pair."
+        }
+      },
+      "reading": "A strong correspondence in arrangement; the type of limb and the disc’s meaning remain open.",
+      "number": "Pillar 43",
+      "catalogue_entity": "pillar43",
+      "physical_id": "pillar43"
+    },
+    {
+      "id": "rn-boulder",
+      "label": "Orongo birdman boulder",
+      "group": "focal",
+      "culture": "Rapanui traditions",
+      "scope": "Single birdman relief",
+      "date": {
+        "label": "1750–1875 · catalogue estimate",
+        "start": 1750,
+        "end": 1875,
+        "kind": "estimate",
+        "note": "Routledge’s figure 112 independently documents the carving by its 1914 excavation."
+      },
+      "sources": [
+        "boulder",
+        "routledge"
+      ],
+      "image": {
+        "path": "img/case/orongo-1919.jpg",
+        "width": 950,
+        "height": 631,
+        "sha256": "759e3b5f7f0685f3246007a2abeef791df006800bd8f283231ee30102de59727",
+        "credit": "Mana Expedition / Routledge (1919), fig. 112",
+        "rights": "Public-domain publication.",
+        "origin": "https://readingroo.ms/6/9/8/0/69807/69807-h/images/f_112.jpg",
+        "transformation": "Source-provided rendition; downloaded bytes unchanged. Annotations are separate SVG overlays.",
+        "annotations": [
+          {
+            "id": "bird",
+            "label": "Birdman",
+            "box": [
+              0.537,
+              0.11,
+              0.373,
+              0.495
+            ],
+            "note": "The beaked head and bent neck belong to the crouched figure."
+          },
+          {
+            "id": "round",
+            "label": "Rounded object",
+            "box": [
+              0.701,
+              0.615,
+              0.116,
+              0.174
+            ],
+            "note": "An egg according to the museum and the early published caption."
+          },
+          {
+            "id": "limb",
+            "label": "Forearm and hand",
+            "box": [
+              0.445,
+              0.675,
+              0.354,
+              0.176
+            ],
+            "note": "A low-reaching arm/hand is adjacent to the rounded object; exact fingers are difficult in this reproduction."
+          }
+        ]
+      },
+      "observations": {
+        "beak": {
+          "state": "present",
+          "note": "A long beak is visible."
+        },
+        "reach": {
+          "state": "present",
+          "note": "The crouched figure extends an arm low in front."
+        },
+        "round": {
+          "state": "present",
+          "note": "A compact rounded object is separate from the head and torso."
+        },
+        "relation": {
+          "state": "present",
+          "note": "The early caption and museum identify an egg in the hand."
+        },
+        "pair": {
+          "state": "not-seen",
+          "note": "One figure in this relief."
+        }
+      },
+      "reading": "The best-documented focal case of a beaked figure with a rounded object at its hand.",
+      "number": "Oc1920,0506.1",
+      "catalogue_entity": "boulder",
+      "physical_id": "boulder"
+    },
+    {
+      "id": "rn-hoa",
+      "label": "Hoa Hakananai’a · back",
+      "group": "focal",
+      "culture": "Rapanui traditions",
+      "scope": "Later birdman scene and older central ring",
+      "date": {
+        "label": "Carvings present by 1868",
+        "start": null,
+        "end": 1868,
+        "kind": "upper-bound",
+        "note": "A documentary upper bound. The interval between original statue, ring and later carvings is not directly dated here."
+      },
+      "sources": [
+        "bm-hoa",
+        "pitts2014",
+        "pitts-copy"
+      ],
+      "image": {
+        "path": "img/case/hoa-back.jpg",
+        "width": 1280,
+        "height": 1933,
+        "sha256": "6423650349c94eea361953a047faf662b60f59c0b192911921f6f946a89b19fd",
+        "credit": "James Miles",
+        "rights": "CC BY-SA 4.0.",
+        "origin": "https://www.britishmuseum.org/collection/object/E_Oc1869-1005-1",
+        "transformation": "Source-provided rendition; downloaded bytes unchanged. Annotations are separate SVG overlays.",
+        "annotations": [
+          {
+            "id": "pair",
+            "label": "Facing birdmen",
+            "box": [
+              0.25,
+              0.375,
+              0.472,
+              0.163
+            ],
+            "note": "Two beaked figures flank the scene; exact limb readings are affected by damage."
+          },
+          {
+            "id": "round",
+            "label": "Older ring",
+            "box": [
+              0.374,
+              0.494,
+              0.205,
+              0.103
+            ],
+            "note": "Pitts et al. propose that this older ring was incorporated into the later composition, possibly as an egg."
+          },
+          {
+            "id": "limb",
+            "label": "Arms near the ring",
+            "box": [
+              0.31,
+              0.466,
+              0.357,
+              0.09
+            ],
+            "note": "The 2014 study reads arms reaching around the ring. This photograph does not resolve every contact."
+          }
+        ]
+      },
+      "observations": {
+        "beak": {
+          "state": "present",
+          "note": "Two prominent bird-headed figures."
+        },
+        "reach": {
+          "state": "uncertain",
+          "note": "The study reads arms reaching toward the ring; damaged anatomy limits this view."
+        },
+        "round": {
+          "state": "present",
+          "note": "A large ring is below the birdmen."
+        },
+        "relation": {
+          "state": "uncertain",
+          "note": "A published egg/reuse reading exists; a literal grip remains uncertain."
+        },
+        "pair": {
+          "state": "present",
+          "note": "The two main birdmen face inward."
+        }
+      },
+      "reading": "The older ring may have gained a new role in a later birdman composition. That is a published interpretation, not a settled reading.",
+      "number": "Oc1869,1005.1",
+      "catalogue_entity": "hoa-back",
+      "physical_id": "hoa-hakananai-a"
+    },
+    {
+      "id": "gt-p2",
+      "label": "Pillar 2",
+      "group": "local",
+      "culture": "Neolithic Anatolia",
+      "scope": "Lower bird, beneath the fox",
+      "date": {
+        "label": "10th–9th millennium BCE · site context",
+        "start": -10000,
+        "end": -8001,
+        "kind": "context",
+        "note": "Broad Early Neolithic context, not a direct date for these particular cuts."
+      },
+      "sources": [
+        "cranes"
+      ],
+      "image": {
+        "path": "img/case/pillar2-web.jpg",
+        "width": 498,
+        "height": 750,
+        "sha256": "9266b261d0451f2a06b003e6ce676e8c2f8697b880e089928b91b205e9238bf3",
+        "credit": "Teomancimit / World History Encyclopedia",
+        "rights": "CC BY-SA 3.0.",
+        "origin": "https://www.worldhistory.org/img/r/p/750x750/13199.jpg?v=1645513203",
+        "transformation": "Source-provided rendition; downloaded bytes unchanged. Annotations are separate SVG overlays.",
+        "annotations": []
+      },
+      "observations": {
+        "beak": {
+          "state": "present",
+          "note": "A long-beaked bird occupies the lower scene."
+        },
+        "reach": {
+          "state": "not-seen",
+          "note": "No arm reaching to an object is resolved."
+        },
+        "round": {
+          "state": "not-seen",
+          "note": "No separate rounded motif is identified in this bird scene."
+        },
+        "relation": {
+          "state": "not-seen",
+          "note": "The specific relation is not seen in this view."
+        },
+        "pair": {
+          "state": "not-seen",
+          "note": "One bird in the selected scene."
+        }
+      },
+      "reading": "A local example of the bird anatomy discussed by the excavation team.",
+      "number": "Pillar 2",
+      "catalogue_entity": "pillar2",
+      "physical_id": "pillar2"
+    },
+    {
+      "id": "gt-p33",
+      "label": "Pillar 33",
+      "group": "local",
+      "culture": "Neolithic Anatolia",
+      "scope": "Bird in the source’s detail photograph",
+      "date": {
+        "label": "10th–9th millennium BCE · site context",
+        "start": -10000,
+        "end": -8001,
+        "kind": "context",
+        "note": "Broad Early Neolithic context, not a direct date for these particular cuts."
+      },
+      "sources": [
+        "cranes"
+      ],
+      "image": {
+        "path": "img/fieldwork/pillar33.jpg",
+        "width": 803,
+        "height": 1200,
+        "sha256": "797c555aff8ad9e131f0bb134be7c85914350ef8da676793711ced3e890eaaf0",
+        "credit": "DAI / K. Schmidt",
+        "rights": "Copyright DAI; source photograph for critical comparison.",
+        "origin": "https://www.dainst.org/_assets/e/8/csm_p33-scaled_fccddd0d8b.jpg",
+        "transformation": "Source-provided rendition; downloaded bytes unchanged. Annotations are separate SVG overlays.",
+        "annotations": []
+      },
+      "observations": {
+        "beak": {
+          "state": "present",
+          "note": "Long neck and beak are visible."
+        },
+        "reach": {
+          "state": "not-seen",
+          "note": "Legs are visible; a forward object-bearing arm is not."
+        },
+        "round": {
+          "state": "not-seen",
+          "note": "No separate rounded form is identified in this detail."
+        },
+        "relation": {
+          "state": "not-seen",
+          "note": "The target relation is not resolved."
+        },
+        "pair": {
+          "state": "not-seen",
+          "note": "One bird in this detail."
+        }
+      },
+      "reading": "The robust bent legs matter to the local bird–human interpretation.",
+      "number": "Pillar 33",
+      "catalogue_entity": "pillar33",
+      "physical_id": "pillar33"
+    },
+    {
+      "id": "gt-p38",
+      "label": "Pillar 38",
+      "group": "local",
+      "culture": "Neolithic Anatolia",
+      "scope": "Bird group in the photographed surface",
+      "date": {
+        "label": "10th–9th millennium BCE · site context",
+        "start": -10000,
+        "end": -8001,
+        "kind": "context",
+        "note": "Broad Early Neolithic context, not a direct date for these particular cuts."
+      },
+      "sources": [
+        "cranes"
+      ],
+      "image": {
+        "path": "img/fieldwork/pillar38.jpg",
+        "width": 820,
+        "height": 615,
+        "sha256": "79f5cd4027c55dd88bbafd117b98d82ac9ec8fe90a4ecd6c020cf246341caddd",
+        "credit": "DAI / Göbekli Tepe Project",
+        "rights": "Copyright DAI; source photograph for critical comparison.",
+        "origin": "https://www.dainst.org/_assets/6/a/csm_p38r_6eeb54350e.jpg",
+        "transformation": "Source-provided rendition; downloaded bytes unchanged. Annotations are separate SVG overlays.",
+        "annotations": []
+      },
+      "observations": {
+        "beak": {
+          "state": "present",
+          "note": "Several beaked figures occur."
+        },
+        "reach": {
+          "state": "uncertain",
+          "note": "Limb contours are weathered."
+        },
+        "round": {
+          "state": "not-seen",
+          "note": "No separate rounded motif is identified."
+        },
+        "relation": {
+          "state": "not-seen",
+          "note": "No disc-at-limb relation is resolved."
+        },
+        "pair": {
+          "state": "not-seen",
+          "note": "The pictured birds do not form a clear facing pair."
+        }
+      },
+      "reading": "Multiple birds belong to one pillar, not several independent artefacts.",
+      "number": "Pillar 38",
+      "catalogue_entity": "pillar38",
+      "physical_id": "pillar38"
+    },
+    {
+      "id": "gt-p56",
+      "label": "Pillar 56",
+      "group": "local",
+      "culture": "Neolithic Anatolia",
+      "scope": "Long-legged birds among the relief animals",
+      "date": {
+        "label": "10th–9th millennium BCE · site context",
+        "start": -10000,
+        "end": -8001,
+        "kind": "context",
+        "note": "Broad Early Neolithic context, not a direct date for these particular cuts."
+      },
+      "sources": [
+        "cranes"
+      ],
+      "image": {
+        "path": "img/fieldwork/pillar56.jpg",
+        "width": 798,
+        "height": 1199,
+        "sha256": "88265b051325cdfbf2c82d1a0e75bc27e76e72041cccfc05e6efb93448720a21",
+        "credit": "DAI / N. Becker",
+        "rights": "Copyright DAI; source photograph for critical comparison.",
+        "origin": "https://www.dainst.org/_assets/4/4/csm_p56_529a9334b6.jpg",
+        "transformation": "Source-provided rendition; downloaded bytes unchanged. Annotations are separate SVG overlays.",
+        "annotations": []
+      },
+      "observations": {
+        "beak": {
+          "state": "present",
+          "note": "Beaked figures appear on the lower part."
+        },
+        "reach": {
+          "state": "not-seen",
+          "note": "Visible limbs are primarily legs."
+        },
+        "round": {
+          "state": "not-seen",
+          "note": "The rounded field stone outside the pillar is not a carving."
+        },
+        "relation": {
+          "state": "not-seen",
+          "note": "No object-at-wing relation is resolved."
+        },
+        "pair": {
+          "state": "not-seen",
+          "note": "No opposed pair is identified in the selected bird scenes."
+        }
+      },
+      "reading": "A local anatomical contrast; the source treats these legs as more naturalistic.",
+      "number": "Pillar 56",
+      "catalogue_entity": "pillar56",
+      "physical_id": "pillar56"
+    },
+    {
+      "id": "rn-mata-ngarau",
+      "label": "Mata Ngarau rock",
+      "group": "local",
+      "culture": "Rapanui traditions",
+      "scope": "Birdmen on the photographed surface",
+      "date": {
+        "label": "Photographed in 1914–15",
+        "start": null,
+        "end": 1915,
+        "kind": "upper-bound",
+        "note": "Publication in 1919 is later than the expedition photograph; the carving date is unknown."
+      },
+      "sources": [
+        "routledge"
+      ],
+      "image": {
+        "path": "img/case/orongo-rock-1919.jpg",
+        "width": 894,
+        "height": 670,
+        "sha256": "cd3209415b22aedd7cbe28e4af83a14f398d35a1cef26ef6628089006dd7429d",
+        "credit": "Mana Expedition / Routledge (1919), fig. 110",
+        "rights": "Public-domain publication.",
+        "origin": "https://readingroo.ms/6/9/8/0/69807/69807-h/images/f_110.jpg",
+        "transformation": "Source-provided rendition; downloaded bytes unchanged. Annotations are separate SVG overlays.",
+        "annotations": []
+      },
+      "observations": {
+        "beak": {
+          "state": "present",
+          "note": "Several long-beaked heads are visible."
+        },
+        "reach": {
+          "state": "uncertain",
+          "note": "Arms and fingers overlap other contours."
+        },
+        "round": {
+          "state": "not-seen",
+          "note": "The prominent circular forms are eyes, not detached discs."
+        },
+        "relation": {
+          "state": "not-seen",
+          "note": "No separate egg is confidently identified in this photograph."
+        },
+        "pair": {
+          "state": "not-seen",
+          "note": "Multiple birdmen, without a clear opposed pair here."
+        }
+      },
+      "reading": "A local concentration of birdmen. This is the same surface as the earlier atlas photograph.",
+      "number": "Routledge fig. 110",
+      "catalogue_entity": "mata-ngarau",
+      "physical_id": "mata-ngarau"
+    },
+    {
+      "id": "rn-mapse-1312",
+      "label": "Painted Orongo slab",
+      "group": "local",
+      "culture": "Rapanui traditions",
+      "scope": "Two painted facing birdmen",
+      "date": {
+        "label": "At the museum by 1974",
+        "start": null,
+        "end": 1974,
+        "kind": "upper-bound",
+        "note": "Collection event, not a date of the painting."
+      },
+      "sources": [
+        "mapse"
+      ],
+      "image": {
+        "path": "img/case/orongo-painted-slab.jpeg",
+        "width": 1024,
+        "height": 576,
+        "sha256": "f72b0e3b0fd2aad1be9ca3a20ba592a4f196954463f770f68bec37284ae45103",
+        "credit": "Factum Foundation / Museo Rapa Nui",
+        "rights": "No open licence stated; source preview for critical comparison.",
+        "origin": "https://sketchfab.com/3d-models/rapa-nui-mapse-17-00-1312-ef9cd5ca251743c898850591666f6bfb",
+        "transformation": "Source-provided rendition; downloaded bytes unchanged. Annotations are separate SVG overlays.",
+        "annotations": []
+      },
+      "observations": {
+        "beak": {
+          "state": "present",
+          "note": "Both painted figures have beaked heads."
+        },
+        "reach": {
+          "state": "uncertain",
+          "note": "Arm/wing detail is not fully resolved in this preview."
+        },
+        "round": {
+          "state": "not-seen",
+          "note": "Circular eyes do not count as separate rounded objects."
+        },
+        "relation": {
+          "state": "not-seen",
+          "note": "No detached object at a limb is established."
+        },
+        "pair": {
+          "state": "present",
+          "note": "The museum explicitly identifies two facing tangata manu."
+        }
+      },
+      "reading": "A paired arrangement recurs locally in painting as well as carving.",
+      "number": "MAPSE 17-00-1312",
+      "catalogue_entity": "orongo-slab",
+      "physical_id": "orongo-slab"
+    },
+    {
+      "id": "met-243744",
+      "label": "Isis and infant Horus",
+      "group": "museum",
+      "culture": "Egyptian traditions",
+      "scope": "Preserved figure or scene in the primary museum photograph",
+      "date": {
+        "label": "664–334 BCE",
+        "start": -664,
+        "end": -334,
+        "kind": "production",
+        "note": "Museum attribution; not a direct radiometric measurement."
+      },
+      "sources": [
+        "met-243744"
+      ],
+      "image": {
+        "path": "img/fieldwork/met-243744.jpg",
+        "width": 468,
+        "height": 624,
+        "sha256": "8a5de64341c59945df7b5041445765d06126ac5ad9a81c28e277ae65a44067ed",
+        "credit": "The Metropolitan Museum of Art",
+        "rights": "Public domain / Open Access.",
+        "origin": "https://images.metmuseum.org/CRDImages/gr/web-large/DP121819.jpg",
+        "transformation": "Source-provided rendition; downloaded bytes unchanged. Annotations are separate SVG overlays.",
+        "annotations": []
+      },
+      "observations": {
+        "beak": {
+          "state": "not-seen",
+          "note": "The named Horus is an infant, not a beaked figure."
+        },
+        "reach": {
+          "state": "not-applicable",
+          "note": "No beaked figure for this relation."
+        },
+        "round": {
+          "state": "present",
+          "note": "A disc-like element is between the headdress horns."
+        },
+        "relation": {
+          "state": "not-applicable",
+          "note": "The rounded form is on the adult’s head."
+        },
+        "pair": {
+          "state": "not-seen",
+          "note": "An adult and infant, not two facing birds."
+        }
+      },
+      "reading": "A deity-name search can return a scene with no bird head.",
+      "number": "74.51.4476",
+      "catalogue_entity": null,
+      "physical_id": "met-243744"
+    },
+    {
+      "id": "met-243745",
+      "label": "Isis and infant Horus",
+      "group": "museum",
+      "culture": "Egyptian traditions",
+      "scope": "Preserved figure or scene in the primary museum photograph",
+      "date": {
+        "label": "664–334 BCE",
+        "start": -664,
+        "end": -334,
+        "kind": "production",
+        "note": "Museum attribution; not a direct radiometric measurement."
+      },
+      "sources": [
+        "met-243745"
+      ],
+      "image": {
+        "path": "img/fieldwork/met-243745.jpg",
+        "width": 468,
+        "height": 624,
+        "sha256": "c3088b362ce99d4fa73ad705a38049abd5eb3f7c978e75fb348e43c5c5535355",
+        "credit": "The Metropolitan Museum of Art",
+        "rights": "Public domain / Open Access.",
+        "origin": "https://images.metmuseum.org/CRDImages/gr/web-large/DP121840.jpg",
+        "transformation": "Source-provided rendition; downloaded bytes unchanged. Annotations are separate SVG overlays.",
+        "annotations": []
+      },
+      "observations": {
+        "beak": {
+          "state": "not-seen",
+          "note": "The adult and child have human forms."
+        },
+        "reach": {
+          "state": "not-applicable",
+          "note": "No beaked figure for this relation."
+        },
+        "round": {
+          "state": "present",
+          "note": "A disc is framed by the crown’s horns."
+        },
+        "relation": {
+          "state": "not-applicable",
+          "note": "The disc is a headdress element."
+        },
+        "pair": {
+          "state": "not-seen",
+          "note": "An adult and infant."
+        }
+      },
+      "reading": "The headdress is a useful alternative location for a round motif.",
+      "number": "74.51.4477",
+      "catalogue_entity": null,
+      "physical_id": "met-243745"
+    },
+    {
+      "id": "met-243746",
+      "label": "Isis suckling Horus",
+      "group": "museum",
+      "culture": "Egyptian traditions",
+      "scope": "Preserved figure or scene in the primary museum photograph",
+      "date": {
+        "label": "664–334 BCE",
+        "start": -664,
+        "end": -334,
+        "kind": "production",
+        "note": "Museum attribution; not a direct radiometric measurement."
+      },
+      "sources": [
+        "met-243746"
+      ],
+      "image": {
+        "path": "img/fieldwork/met-243746.jpg",
+        "width": 445,
+        "height": 625,
+        "sha256": "c7587458ff57e77ba8f898123d63a6773ea5cc0b01963b8827caa3dd876ea69d",
+        "credit": "The Metropolitan Museum of Art",
+        "rights": "Public domain / Open Access.",
+        "origin": "https://images.metmuseum.org/CRDImages/gr/web-large/74514478.jpg",
+        "transformation": "Source-provided rendition; downloaded bytes unchanged. Annotations are separate SVG overlays.",
+        "annotations": []
+      },
+      "observations": {
+        "beak": {
+          "state": "not-seen",
+          "note": "No bird head is identified in the worn profile."
+        },
+        "reach": {
+          "state": "not-applicable",
+          "note": "No beaked figure for this relation."
+        },
+        "round": {
+          "state": "not-seen",
+          "note": "The conspicuous circular opening is a suspension hole."
+        },
+        "relation": {
+          "state": "not-applicable",
+          "note": "The hole is not an object held in the scene."
+        },
+        "pair": {
+          "state": "not-seen",
+          "note": "One adult-and-infant group."
+        }
+      },
+      "reading": "A real hole can look like a ring in a small photograph.",
+      "number": "74.51.4478",
+      "catalogue_entity": null,
+      "physical_id": "met-243746"
+    },
+    {
+      "id": "met-244461",
+      "label": "Isis with infant Horus",
+      "group": "museum",
+      "culture": "Egyptian traditions",
+      "scope": "Preserved figure or scene in the primary museum photograph",
+      "date": {
+        "label": "664–31 BCE",
+        "start": -664,
+        "end": -31,
+        "kind": "production",
+        "note": "Museum attribution; not a direct radiometric measurement."
+      },
+      "sources": [
+        "met-244461"
+      ],
+      "image": {
+        "path": "img/fieldwork/met-244461.jpg",
+        "width": 571,
+        "height": 624,
+        "sha256": "b55c127b28e16b1003cdc61efb1e96c2f04bf9c20be4a9bade40d671780edaa1",
+        "credit": "The Metropolitan Museum of Art",
+        "rights": "Public domain / Open Access.",
+        "origin": "https://images.metmuseum.org/CRDImages/gr/web-large/DP20096.jpg",
+        "transformation": "Source-provided rendition; downloaded bytes unchanged. Annotations are separate SVG overlays.",
+        "annotations": []
+      },
+      "observations": {
+        "beak": {
+          "state": "not-seen",
+          "note": "Both figures have human heads."
+        },
+        "reach": {
+          "state": "not-applicable",
+          "note": "No beaked figure for this relation."
+        },
+        "round": {
+          "state": "uncertain",
+          "note": "The headdress is incomplete in this view."
+        },
+        "relation": {
+          "state": "not-applicable",
+          "note": "No disc-at-bird-limb relation applies."
+        },
+        "pair": {
+          "state": "not-seen",
+          "note": "An adult holds an infant."
+        }
+      },
+      "reading": "Retained by the selection rule even though it offers no obvious birdman match.",
+      "number": "74.51.5582",
+      "catalogue_entity": null,
+      "physical_id": "met-244461"
+    },
+    {
+      "id": "met-329907",
+      "label": "Striding Thoth",
+      "group": "museum",
+      "culture": "Egyptian traditions",
+      "scope": "Preserved figure or scene in the primary museum photograph",
+      "date": {
+        "label": "664–332 BCE",
+        "start": -664,
+        "end": -332,
+        "kind": "production",
+        "note": "Museum attribution; not a direct radiometric measurement."
+      },
+      "sources": [
+        "met-329907"
+      ],
+      "image": {
+        "path": "img/fieldwork/met-329907.jpg",
+        "width": 416,
+        "height": 624,
+        "sha256": "75d67d2852a114b6c859debef5dc73d67befacb4c3a0dc075047a34b9fd196a7",
+        "credit": "The Metropolitan Museum of Art",
+        "rights": "Public domain / Open Access.",
+        "origin": "https://images.metmuseum.org/CRDImages/eg/web-large/LC-2021_41_128_EGDP032165.jpg",
+        "transformation": "Source-provided rendition; downloaded bytes unchanged. Annotations are separate SVG overlays.",
+        "annotations": []
+      },
+      "observations": {
+        "beak": {
+          "state": "present",
+          "note": "A long beak descends in front of the chest."
+        },
+        "reach": {
+          "state": "not-seen",
+          "note": "Both arms hang alongside the body."
+        },
+        "round": {
+          "state": "not-seen",
+          "note": "No separate rounded object is identified."
+        },
+        "relation": {
+          "state": "not-seen",
+          "note": "No object-at-extended-limb relation is seen."
+        },
+        "pair": {
+          "state": "not-seen",
+          "note": "One figure."
+        }
+      },
+      "reading": "A beaked human form with a substantially different pose.",
+      "number": "2021.41.128",
+      "catalogue_entity": "met-329907",
+      "physical_id": "met-329907"
+    },
+    {
+      "id": "met-544092",
+      "label": "Striding Thoth",
+      "group": "museum",
+      "culture": "Egyptian traditions",
+      "scope": "Preserved figure or scene in the primary museum photograph",
+      "date": {
+        "label": "332–30 BCE",
+        "start": -332,
+        "end": -30,
+        "kind": "production",
+        "note": "Museum attribution; not a direct radiometric measurement."
+      },
+      "sources": [
+        "met-544092"
+      ],
+      "image": {
+        "path": "img/fieldwork/met-544092.jpg",
+        "width": 470,
+        "height": 624,
+        "sha256": "ca22fc3976dc05f64838188fef402209398e2261a24f27322bde18f33e438d6e",
+        "credit": "The Metropolitan Museum of Art",
+        "rights": "Public domain / Open Access.",
+        "origin": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-39665-005.jpg",
+        "transformation": "Source-provided rendition; downloaded bytes unchanged. Annotations are separate SVG overlays.",
+        "annotations": []
+      },
+      "observations": {
+        "beak": {
+          "state": "present",
+          "note": "The side view clearly shows the projecting beak."
+        },
+        "reach": {
+          "state": "not-seen",
+          "note": "The arms hang down, rather than reaching forward."
+        },
+        "round": {
+          "state": "not-seen",
+          "note": "No detached rounded object is identified."
+        },
+        "relation": {
+          "state": "not-seen",
+          "note": "The narrow relationship is not seen."
+        },
+        "pair": {
+          "state": "not-seen",
+          "note": "One figure."
+        }
+      },
+      "reading": "A closer anatomical parallel than a shared arrangement.",
+      "number": "26.7.860",
+      "catalogue_entity": "met-544092",
+      "physical_id": "met-544092"
+    },
+    {
+      "id": "met-544093",
+      "label": "Thoth as an ibis",
+      "group": "museum",
+      "culture": "Egyptian traditions",
+      "scope": "Preserved figure or scene in the primary museum photograph",
+      "date": {
+        "label": "360–343 BCE",
+        "start": -360,
+        "end": -343,
+        "kind": "production",
+        "note": "Museum attribution; not a direct radiometric measurement."
+      },
+      "sources": [
+        "met-544093"
+      ],
+      "image": {
+        "path": "img/fieldwork/met-544093.jpg",
+        "width": 467,
+        "height": 624,
+        "sha256": "add87042bb26046a819ae0c66a135e35a5ae2019b55e05c338e95913c72f1d5d",
+        "credit": "The Metropolitan Museum of Art",
+        "rights": "Public domain / Open Access.",
+        "origin": "https://images.metmuseum.org/CRDImages/eg/web-large/DP234740.jpg",
+        "transformation": "Source-provided rendition; downloaded bytes unchanged. Annotations are separate SVG overlays.",
+        "annotations": [
+          {
+            "id": "beak",
+            "label": "Beak and feather",
+            "box": [
+              0.115,
+              0.264,
+              0.354,
+              0.198
+            ],
+            "note": "The beak meets the upright Maat feather; no forward hand supports it."
+          }
+        ]
+      },
+      "observations": {
+        "beak": {
+          "state": "present",
+          "note": "A long curved beak meets a feather-like element."
+        },
+        "reach": {
+          "state": "not-seen",
+          "note": "The bird’s visible wing is folded against its body."
+        },
+        "round": {
+          "state": "not-seen",
+          "note": "The museum identifies the upright element as a Maat feather."
+        },
+        "relation": {
+          "state": "not-seen",
+          "note": "The beak, not a forward arm or wing, reaches the emblem."
+        },
+        "pair": {
+          "state": "not-seen",
+          "note": "One bird."
+        }
+      },
+      "reading": "A bird beside an emblem: similar ingredients, different anatomical relation.",
+      "number": "26.7.992",
+      "catalogue_entity": "met-544093",
+      "physical_id": "met-544093"
+    },
+    {
+      "id": "met-545855",
+      "label": "Thoth amulet",
+      "group": "museum",
+      "culture": "Egyptian traditions",
+      "scope": "Preserved figure or scene in the primary museum photograph",
+      "date": {
+        "label": "ca. 2110–2030 BCE",
+        "start": -2110,
+        "end": -2030,
+        "kind": "production",
+        "note": "Museum display text gives 2110–2030 BCE; API numeric dates collapse the interval to 2110 BCE. Display text retained here."
+      },
+      "sources": [
+        "met-545855"
+      ],
+      "image": {
+        "path": "img/fieldwork/met-545855.jpg",
+        "width": 478,
+        "height": 625,
+        "sha256": "5c30796b0362f0e32b31b6713210db3f36e5253339cb75f2ab9a19f228d45610",
+        "credit": "The Metropolitan Museum of Art",
+        "rights": "Public domain / Open Access.",
+        "origin": "https://images.metmuseum.org/CRDImages/eg/web-large/65-46-4.jpg",
+        "transformation": "Source-provided rendition; downloaded bytes unchanged. Annotations are separate SVG overlays.",
+        "annotations": []
+      },
+      "observations": {
+        "beak": {
+          "state": "not-seen",
+          "note": "This view shows a rounded muzzle rather than an ibis beak."
+        },
+        "reach": {
+          "state": "not-applicable",
+          "note": "No beaked figure is resolved."
+        },
+        "round": {
+          "state": "not-seen",
+          "note": "The large opening passes through the amulet."
+        },
+        "relation": {
+          "state": "not-applicable",
+          "note": "A suspension hole does not establish a held disc."
+        },
+        "pair": {
+          "state": "not-seen",
+          "note": "One figure."
+        }
+      },
+      "reading": "The title “Thoth” does not guarantee a bird-headed representation.",
+      "number": "65.46.4",
+      "catalogue_entity": null,
+      "physical_id": "met-545855"
+    },
+    {
+      "id": "met-321613",
+      "label": "Winged figure · fragment",
+      "group": "museum",
+      "culture": "Assyria",
+      "scope": "Preserved figure or scene in the primary museum photograph",
+      "date": {
+        "label": "ca. 883–859 BCE",
+        "start": -883,
+        "end": -859,
+        "kind": "production",
+        "note": "Museum attribution; not a direct radiometric measurement."
+      },
+      "sources": [
+        "met-321613"
+      ],
+      "image": {
+        "path": "img/fieldwork/met-321613.jpg",
+        "width": 599,
+        "height": 493,
+        "sha256": "ae6a39a7aecec862bde9dd8f09bf86f47bee742793be37cf536eae74fdc30123",
+        "credit": "The Metropolitan Museum of Art",
+        "rights": "Public domain / Open Access.",
+        "origin": "https://images.metmuseum.org/CRDImages/an/web-large/DP355692.jpg",
+        "transformation": "Source-provided rendition; downloaded bytes unchanged. Annotations are separate SVG overlays.",
+        "annotations": []
+      },
+      "observations": {
+        "beak": {
+          "state": "not-seen",
+          "note": "The preserved face is human and bearded."
+        },
+        "reach": {
+          "state": "unresolved",
+          "note": "Hands are outside the surviving fragment."
+        },
+        "round": {
+          "state": "unresolved",
+          "note": "An object could be missing with the lower body."
+        },
+        "relation": {
+          "state": "unresolved",
+          "note": "Fragmentary preservation prevents this check."
+        },
+        "pair": {
+          "state": "not-seen",
+          "note": "Only one head survives."
+        }
+      },
+      "reading": "Missing stone must stay unknown, not become an absent motif.",
+      "number": "84.11",
+      "catalogue_entity": null,
+      "physical_id": "met-321613"
+    },
+    {
+      "id": "met-322486",
+      "label": "Winged figure with cone",
+      "group": "museum",
+      "culture": "Assyria",
+      "scope": "Preserved figure or scene in the primary museum photograph",
+      "date": {
+        "label": "ca. 883–859 BCE",
+        "start": -883,
+        "end": -859,
+        "kind": "production",
+        "note": "Museum attribution; not a direct radiometric measurement."
+      },
+      "sources": [
+        "met-322486"
+      ],
+      "image": {
+        "path": "img/fieldwork/met-322486.jpg",
+        "width": 493,
+        "height": 624,
+        "sha256": "668e5ba129b58b2ce89d90f1aa709d24fd071767ceb65eda3ab37dd2de46d871",
+        "credit": "The Metropolitan Museum of Art",
+        "rights": "Public domain / Open Access.",
+        "origin": "https://images.metmuseum.org/CRDImages/an/web-large/DP355702.jpg",
+        "transformation": "Source-provided rendition; downloaded bytes unchanged. Annotations are separate SVG overlays.",
+        "annotations": [
+          {
+            "id": "hand",
+            "label": "Hand and cone",
+            "box": [
+              0.048,
+              0.146,
+              0.229,
+              0.126
+            ],
+            "note": "A compact textured object is visibly grasped."
+          },
+          {
+            "id": "round",
+            "label": "Wrist rosette",
+            "box": [
+              0.204,
+              0.227,
+              0.098,
+              0.098
+            ],
+            "note": "The wrist rosette is separate from the held cone."
+          }
+        ]
+      },
+      "observations": {
+        "beak": {
+          "state": "not-seen",
+          "note": "The bearded head is human."
+        },
+        "reach": {
+          "state": "not-applicable",
+          "note": "The raised arm belongs to a human-headed figure."
+        },
+        "round": {
+          "state": "present",
+          "note": "A compact textured cone-like object is in the raised hand."
+        },
+        "relation": {
+          "state": "not-applicable",
+          "note": "A useful gesture comparison, but the figure is not beaked."
+        },
+        "pair": {
+          "state": "not-seen",
+          "note": "One figure."
+        }
+      },
+      "reading": "The hand-and-object gesture also occurs on a human-headed palace figure.",
+      "number": "17.190.2077",
+      "catalogue_entity": null,
+      "physical_id": "met-322486"
+    },
+    {
+      "id": "met-322487",
+      "label": "Winged figure with raised hand",
+      "group": "museum",
+      "culture": "Assyria",
+      "scope": "Preserved figure or scene in the primary museum photograph",
+      "date": {
+        "label": "ca. 883–859 BCE",
+        "start": -883,
+        "end": -859,
+        "kind": "production",
+        "note": "Museum attribution; not a direct radiometric measurement."
+      },
+      "sources": [
+        "met-322487"
+      ],
+      "image": {
+        "path": "img/fieldwork/met-322487.jpg",
+        "width": 453,
+        "height": 625,
+        "sha256": "6bd4ea53a6d012262e3bfcc1e0ddff024aee0b3b9d8461569f0cafab99dbf5f8",
+        "credit": "The Metropolitan Museum of Art",
+        "rights": "Public domain / Open Access.",
+        "origin": "https://images.metmuseum.org/CRDImages/an/web-large/DP355703.jpg",
+        "transformation": "Source-provided rendition; downloaded bytes unchanged. Annotations are separate SVG overlays.",
+        "annotations": []
+      },
+      "observations": {
+        "beak": {
+          "state": "not-seen",
+          "note": "Human bearded head."
+        },
+        "reach": {
+          "state": "not-applicable",
+          "note": "A human-headed figure raises an open hand."
+        },
+        "round": {
+          "state": "not-seen",
+          "note": "Rosettes are on the wrists; the raised hand appears empty."
+        },
+        "relation": {
+          "state": "not-applicable",
+          "note": "A wrist rosette is not an object held at the fingertips."
+        },
+        "pair": {
+          "state": "not-seen",
+          "note": "One figure."
+        }
+      },
+      "reading": "An open hand and a nearby rosette can be confused with a held disc.",
+      "number": "17.190.2078",
+      "catalogue_entity": null,
+      "physical_id": "met-322487"
+    },
+    {
+      "id": "met-322488",
+      "label": "Palace attendant with flowers",
+      "group": "museum",
+      "culture": "Assyria",
+      "scope": "Preserved figure or scene in the primary museum photograph",
+      "date": {
+        "label": "ca. 883–859 BCE",
+        "start": -883,
+        "end": -859,
+        "kind": "production",
+        "note": "Museum attribution; not a direct radiometric measurement."
+      },
+      "sources": [
+        "met-322488"
+      ],
+      "image": {
+        "path": "img/fieldwork/met-322488.jpg",
+        "width": 495,
+        "height": 624,
+        "sha256": "b45550b2c18a3ff399e16de00ed2ee661f7516ace8660be72f6b2467670818b2",
+        "credit": "The Metropolitan Museum of Art",
+        "rights": "Public domain / Open Access.",
+        "origin": "https://images.metmuseum.org/CRDImages/an/web-large/DP355704.jpg",
+        "transformation": "Source-provided rendition; downloaded bytes unchanged. Annotations are separate SVG overlays.",
+        "annotations": []
+      },
+      "observations": {
+        "beak": {
+          "state": "not-seen",
+          "note": "A human head with straight nose."
+        },
+        "reach": {
+          "state": "not-applicable",
+          "note": "The extended hands belong to a human figure."
+        },
+        "round": {
+          "state": "present",
+          "note": "A circular flower head is above the hand."
+        },
+        "relation": {
+          "state": "not-applicable",
+          "note": "A stem joins the flower to the hands; no beaked figure."
+        },
+        "pair": {
+          "state": "not-seen",
+          "note": "One figure."
+        }
+      },
+      "reading": "A rounded object near a hand can be a flower rather than an egg.",
+      "number": "17.190.2079",
+      "catalogue_entity": null,
+      "physical_id": "met-322488"
+    },
+    {
+      "id": "met-322614",
+      "label": "Eagle-headed protective figure",
+      "group": "anchor",
+      "culture": "Assyria",
+      "scope": "Preserved figure or scene in the primary museum photograph",
+      "date": {
+        "label": "ca. 883–859 BCE",
+        "start": -883,
+        "end": -859,
+        "kind": "production",
+        "note": "Museum attribution; not a direct radiometric measurement."
+      },
+      "sources": [
+        "met-322614"
+      ],
+      "image": {
+        "path": "img/catalogue/assyrian-met.jpg",
+        "width": 445,
+        "height": 625,
+        "sha256": "156949860d18363c83a96c6825cc6b0b14f2649218c9100f00798147b0aba3b6",
+        "credit": "The Metropolitan Museum of Art",
+        "rights": "Public domain / Open Access.",
+        "origin": "https://images.metmuseum.org/CRDImages/an/web-large/DP375422.jpg",
+        "transformation": "Source-provided rendition; downloaded bytes unchanged. Annotations are separate SVG overlays.",
+        "annotations": []
+      },
+      "observations": {
+        "beak": {
+          "state": "present",
+          "note": "An eagle-like beak is clearly carved."
+        },
+        "reach": {
+          "state": "present",
+          "note": "One arm is raised in front of the head."
+        },
+        "round": {
+          "state": "uncertain",
+          "note": "The museum describes a cone; its contour is difficult in this rendition."
+        },
+        "relation": {
+          "state": "uncertain",
+          "note": "The source describes a held cone, but this view does not cleanly resolve it."
+        },
+        "pair": {
+          "state": "not-seen",
+          "note": "One figure."
+        }
+      },
+      "reading": "A serious wider comparison. Keep the museum’s cone reading and the photograph’s ambiguity together.",
+      "number": "32.143.7",
+      "catalogue_entity": "apkallu",
+      "physical_id": "apkallu"
+    }
+  ],
+  "events": [
+    {
+      "id": "anatolia",
+      "lane": "Anatolia",
+      "label": "Bird imagery at Göbekli Tepe",
+      "when": "10th–9th millennium BCE",
+      "start": -10000,
+      "end": -8001,
+      "kind": "context",
+      "finding": "Several local pillars show birds with varied anatomy.",
+      "limit": "Site context does not directly date a particular carved feature.",
+      "sources": [
+        "p43",
+        "cranes"
+      ],
+      "objects": [
+        "gt-p43",
+        "gt-p2",
+        "gt-p33",
+        "gt-p38",
+        "gt-p56"
+      ],
+      "chart_label": "Göbekli Tepe birds"
+    },
+    {
+      "id": "wing",
+      "lane": "Anatolia",
+      "label": "A modified crane wing at Çatalhöyük",
+      "when": "Neolithic East Mound · broad context",
+      "start": -7300,
+      "end": -6200,
+      "kind": "context",
+      "finding": "Cuts on wing bones were interpreted as attachment work; costume use is one proposed explanation.",
+      "limit": "Not a bird-and-disc image or a demonstrated link to Rapa Nui. This broad range dates the mound context, not the individual wing.",
+      "sources": [
+        "crane-wing",
+        "crane-copy"
+      ],
+      "objects": [],
+      "chart_label": "Çatalhöyük crane wing"
+    },
+    {
+      "id": "egypt",
+      "lane": "Comparative traditions",
+      "label": "Thoth in several forms",
+      "when": "Selected objects: c. 2110–30 BCE",
+      "start": -2110,
+      "end": -30,
+      "kind": "selected range",
+      "finding": "The selected museum objects include a beaked human and an ibis beside a feather.",
+      "limit": "Separate objects and widely separated dates. They do not establish an intermediate route.",
+      "sources": [
+        "met-545855",
+        "met-329907",
+        "met-544092",
+        "met-544093"
+      ],
+      "objects": [
+        "met-545855",
+        "met-329907",
+        "met-544092",
+        "met-544093"
+      ],
+      "chart_label": "Selected Thoth objects"
+    },
+    {
+      "id": "nimrud",
+      "lane": "Comparative traditions",
+      "label": "A local repertoire at Nimrud",
+      "when": "c. 883–859 BCE",
+      "start": -883,
+      "end": -859,
+      "kind": "production",
+      "finding": "Eagle-headed and human-headed figures share the palace’s protective imagery.",
+      "limit": "Related reliefs from one palace are not independent cultural origins.",
+      "sources": [
+        "met-322614",
+        "met-322486",
+        "met-322487"
+      ],
+      "objects": [
+        "met-322614",
+        "met-321613",
+        "met-322486",
+        "met-322487",
+        "met-322488"
+      ],
+      "chart_label": "Nimrud palace reliefs"
+    },
+    {
+      "id": "contact",
+      "lane": "Rapa Nui",
+      "label": "Independent evidence of Pacific contact",
+      "when": "c. 1250–1430 CE · estimated admixture",
+      "start": 1250,
+      "end": 1430,
+      "kind": "model estimate",
+      "finding": "Ancient genomes support pre-European American ancestry in Rapanui.",
+      "limit": "This dates an ancestry event, not these carvings or a connection with Anatolia.",
+      "sources": [
+        "genomes"
+      ],
+      "objects": [],
+      "chart_label": "Pacific–American ancestry"
+    },
+    {
+      "id": "hoa",
+      "lane": "Rapa Nui",
+      "label": "The moai’s sequence has an endpoint",
+      "when": "By 1868 · photographed after removal",
+      "start": null,
+      "end": 1868,
+      "kind": "upper-bound",
+      "finding": "The study uses early photographs alongside surface recording to examine later carving and damage.",
+      "limit": "The ring predates the birdman composition in the study’s reading. The carving episodes still lack precise absolute dates.",
+      "sources": [
+        "pitts2014",
+        "pitts-copy"
+      ],
+      "objects": [
+        "rn-hoa"
+      ],
+      "chart_label": "Moai: by the 1868 record"
+    },
+    {
+      "id": "boulder",
+      "lane": "Rapa Nui",
+      "label": "The boulder in an early photograph",
+      "when": "Exhumed 1914 · published 1919",
+      "start": 1914,
+      "end": 1914,
+      "kind": "documentary observation",
+      "finding": "Routledge’s figure 112 already shows the birdman and identifies the egg.",
+      "limit": "This proves the carving existed by 1914. It does not directly establish the approximate museum date range.",
+      "sources": [
+        "routledge",
+        "boulder"
+      ],
+      "objects": [
+        "rn-boulder"
+      ],
+      "chart_label": "Boulder: 1914 excavation"
+    },
+    {
+      "id": "egg",
+      "lane": "Rapa Nui",
+      "label": "A recorded local meaning",
+      "when": "Recorded 1914–15 · published 1919",
+      "start": 1914,
+      "end": 1915,
+      "kind": "historical witness",
+      "finding": "Routledge describes carrying the egg on the upturned hand and records local birdman traditions.",
+      "limit": "A mediated historical account; it cannot supply the unknown meaning of the Neolithic disc.",
+      "sources": [
+        "routledge",
+        "rapanui-museum"
+      ],
+      "objects": [
+        "rn-boulder",
+        "rn-mata-ngarau"
+      ],
+      "chart_label": "Egg: 1914–15 account"
+    },
+    {
+      "id": "slab",
+      "lane": "Rapa Nui",
+      "label": "The paired scene in another medium",
+      "when": "Museum transfer in 1974",
+      "start": 1974,
+      "end": 1974,
+      "kind": "collection",
+      "finding": "The museum identifies two facing tangata manu on a painted Orongo slab.",
+      "limit": "1974 is a transfer date. No production date is supplied in the inspected record.",
+      "sources": [
+        "mapse"
+      ],
+      "objects": [
+        "rn-mapse-1312"
+      ],
+      "chart_label": "Slab: 1974 museum transfer"
+    }
+  ],
+  "hypotheses": [
+    {
+      "id": "local",
+      "title": "Local development and recurrence",
+      "prediction": "Local variants connect the figures to particular practices; broad ingredients recur with different arrangements and meanings.",
+      "evidence": "Local bird repertoires are documented on both sides. The egg has a Rapanui historical context; the Neolithic disc remains ambiguous.",
+      "missing": "A fuller regional sequence and a defined comparison collection are still needed. Local context alone does not rule out older inheritance.",
+      "next": "Acquire further dated Orongo scenes and nearby Anatolian bird compositions, preserving less similar examples.",
+      "sources": [
+        "cranes",
+        "routledge",
+        "mapse"
+      ]
+    },
+    {
+      "id": "transmission",
+      "title": "Transmission through intermediates",
+      "prediction": "Several specific details recur together in a dated sequence, with independent evidence supporting the proposed connections.",
+      "evidence": "Pacific–American contact has independent support. The selected Egyptian and Assyrian parallels are comparisons, not a demonstrated route from Anatolia.",
+      "missing": "No connected sequence for this precise motif has been established by this investigation.",
+      "next": "Search dated intermediates for the whole arrangement, including its unusual differences, and log unsuccessful searches.",
+      "sources": [
+        "genomes",
+        "met-322614"
+      ]
+    },
+    {
+      "id": "inheritance",
+      "title": "A much older shared inheritance",
+      "prediction": "The specific arrangement is attested early enough, persists or transforms through intervening traditions, and comes with evidence beyond generic resemblance.",
+      "evidence": "The large chronological separation leaves a question, but does not itself supply a line of descent.",
+      "missing": "Earlier Pacific attestations and a transmission history for the motif have not been established here. This small corpus cannot prove global absence.",
+      "next": "Specify the expected inherited details and regions before expanding the search. Seek independent chronological and material support.",
+      "sources": [
+        "p43",
+        "pitts2014"
+      ]
+    },
+    {
+      "id": "presentation",
+      "title": "Selection and presentation amplify the match",
+      "prediction": "Similarity changes with view, cropping, feature definition or the alternatives included.",
+      "evidence": "The museum queries returned ordinary variants, holes, headdresses and incomplete figures. The three focal objects differ in limb, arrangement and certainty of meaning.",
+      "missing": "The annotations need independent review; the current set was assembled for exploration and cannot estimate worldwide rarity.",
+      "next": "Review the reference regions, then freeze a new recognition test using alternate views and close visual alternatives.",
+      "sources": [
+        "met-api",
+        "pitts2014"
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "title": "The arrangement is the sharper question.",
+      "text": "Pillar 43 and the boulder both place a rounded form at an extended limb of a beaked figure. Their limbs, poses and evidential support for meaning differ.",
+      "sources": [
+        "p43",
+        "boulder",
+        "routledge"
+      ]
+    },
+    {
+      "title": "The ring deserves its published alternative.",
+      "text": "The 2014 study proposes that the moai’s older ring was absorbed into the later birdman scene, perhaps as an egg. Damaged arms make a simple “held / not held” verdict too strong.",
+      "sources": [
+        "pitts2014",
+        "pitts-copy"
+      ]
+    },
+    {
+      "title": "The historical bridge is still missing.",
+      "text": "The examples make specific resemblances inspectable. They do not yet supply a dated chain carrying this arrangement between Anatolia and Rapa Nui.",
+      "sources": [
+        "p43",
+        "pitts2014",
+        "genomes"
+      ]
+    }
+  ]
+}

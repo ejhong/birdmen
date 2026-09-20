@@ -48,6 +48,25 @@ new image sources. It is not a scored corpus. The local study appears at
 `docs/local-context.html`. The Orongo rock’s 1919 reproduction and the existing
 Mata Ngarau image represent the same photograph/surface; do not count them twice.
 
+## Expanded visual study — 20 September 2026
+
+`fieldwork/register.json` now records 22 distinct physical objects: the nine
+focal/local examples, twelve museum selections and the previously proposed
+Assyrian eagle-headed figure. Three new DAI photographs resolve the missing
+views of Pillars 33, 38 and 56. Twelve unchanged Met images add ordinary variants
+under the documented [selection rules](fieldwork/SELECTION.md).
+
+`docs/fieldwork.html` compares five literal features, with image-relative regions,
+per-view observations, sources and date qualifications. These AI-prepared editorial
+readings still require independent review. No new model requests or historical
+similarity scores were produced. [The study notes](fieldwork/README.md) explain
+its scope; [the historical search log](fieldwork/SEARCH-LOG.md) records the trail.
+
+The 2014 digital study proposes that the moai’s older ring became part of the
+later birdman composition, possibly as an egg. The damaged arms make our earlier
+categorical held/not-held language too strong. Mutable reading pages now reflect
+that interpretation and its uncertainty; frozen V2/V3 references remain untouched.
+
 ## What remains scientifically open
 
 The dossier now identifies the boulder, separates carving episodes, distinguishes

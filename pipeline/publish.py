@@ -422,6 +422,11 @@ def build(check=False):
     except ModuleNotFoundError:
         import research_updates
     pending.update(research_updates.outputs())
+    try:
+        from pipeline import fieldwork
+    except ModuleNotFoundError:
+        import fieldwork
+    pending.update(fieldwork.outputs())
     changed = []
     for path, content in pending.items():
         if not path.exists() or path.read_text() != content:
