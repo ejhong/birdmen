@@ -5,10 +5,14 @@ The collection, cultural connections, map, timeline, theme browsing and standalo
 dossiers are now implemented. A comprehensive worldwide search and deeper corpus
 coverage remain future work.
 
-Schema 2 adds 19 motif families, 45 explicit observations and 22 intake leads.
-It retains 20 comparison threads and 4 optional controls across 23 cultural/context
+Schema 2 adds 19 motif families, 51 explicit observations and 22 intake leads.
+It retains 20 comparison threads and 4 optional controls across 24 cultural/context
 clusters. All 68 inputs are mapped, including unresolved fragments and contextual
 arguments. See [SCHEMA.md](SCHEMA.md) for what each record means.
+
+The [20 September assessment and expansion plan](RESEARCH-EXPANSION.md) records
+coverage gaps and proposed changes. In particular, map, timeline and culture views
+still use comparison threads rather than the full set of family observations.
 
 The primary structure is **motif families → cultural contexts → observations on
 objects, surfaces or narrative witnesses → photographs and sources**. Attributed
