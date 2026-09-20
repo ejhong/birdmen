@@ -7,17 +7,28 @@ records and research that makes its limits inspectable.
 [Public site](https://ejhong.github.io/birdmen/) · [Editorial changes](docs/REVISIONS.md) ·
 [Research conventions](research/README.md)
 
-The [comparison collection](https://ejhong.github.io/birdmen/catalogue.html) has
-19 comparison threads, 4 optional controls, 35 curated groups, 23 cultural/context
-clusters and 40 source records. Browse photographs, cultural connections, a map,
-timeline or themes. This first edition combines the existing archive with new
-source checks; it is not yet a systematic worldwide survey.
+The [collection](https://ejhong.github.io/birdmen/catalogue.html) now opens with
+19 motif families across cultural traditions. Schema 2 separates 45 source-linked
+or provisional observations from 20 proposed comparison threads, 4 optional controls
+and 22 intake leads. Its 37 entity records and 50 images span 23 cultural/context
+groups; these are not counts of independently verified artefacts. The
+[input audit](https://ejhong.github.io/birdmen/input-audit.html) accounts for all
+68 supplied files, including duplicates, modern reception and unresolved images.
+A systematic worldwide survey remains future work.
 
 The [submerged-worlds programme](https://ejhong.github.io/birdmen/submerged.html)
-opens with six research locations, six data entry points and an interactive depth
+opens with six research locations, seven data entry points and an interactive depth
 explorer using retained NOAA relief data. Its world and three regional views are
 **modern-depth experiments with no ancient date assigned**. A validated regional
 reconstruction around 12,000 BP remains a next phase.
+
+The [first survey experiment](https://ejhong.github.io/birdmen/bathymetry-lab.html)
+measures resolution loss in the published 0.5 m Baltic AUV data. At 115 m, block
+averaging retains 0.3% of the defined local-relief variance; this is a numerical
+diagnostic, not AI detection or wall recovery. A new
+[teaching-figure audit](https://ejhong.github.io/birdmen/signal-audit.html) unpacks
+the 62.5% result into its 11 repeated pairings. The
+[next tests](research/NEXT-TESTS.md) remain proposals; no new paid model calls ran.
 
 To grow the collection, describe a cultural connection and ask for more examples,
 or supply a photograph or source. See [adding evidence](research/catalogue/ADDING-EVIDENCE.md)
@@ -73,7 +84,8 @@ from dates of making; duplicate photographs are not new objects. This is a purpo
 context collection, not a representative baseline.
 
 The maintained [catalogue register](research/catalogue/catalogue.json) separates
-cultures, groups, objects/surfaces/accounts, images, sources and comparison claims.
+motif families, explicit observations, cultures, groups, objects/surfaces/accounts,
+images, sources, intake leads and comparison claims. See [schema 2](research/catalogue/SCHEMA.md).
 The [design notes](research/catalogue/CONCEPT.md) distinguish the implemented first
 edition from its longer-term ambitions. Dossiers include the proposing source,
 specific correspondences, differences, transmission assessment and next tests.
@@ -106,9 +118,23 @@ Open `http://127.0.0.1:4173/`. These commands do not deploy the site.
 publishes the registers, method, recognition records and thread transcript, and copies the supplied images
 unchanged. Edit prose outside those markers directly; edit the registers for generated
 content. The entire catalogue and submerged page are generated from their maintained
-registers and `pipeline/catalogue.py` / `pipeline/submerged.py`. `--check` reports
+registers and `pipeline/catalogue.py` / `pipeline/family_pages.py` / `pipeline/submerged.py`.
+`pipeline/research_updates.py` publishes the descriptive audits. `--check` reports
 drift without writing. The separate relief conversion step needs SciPy and NumPy;
 publication, saved data checks and page viewing do not.
+
+The optional Baltic reproduction uses NumPy, SciPy, Pillow and Matplotlib:
+
+```sh
+python3 pipeline/bathymetry_resolution.py
+python3 -m unittest discover -s tests -p test_bathymetry_resolution.py
+python3 pipeline/publish.py
+```
+
+Use an interpreter with those scientific dependencies installed. The standard-library
+test run skips its three numerical checks otherwise; run them in the scientific
+environment before changing the analysis. Source ZIP and figure hashes are checked
+by publication without those dependencies. See [survey provenance](data/submerged/baltic/README.md).
 
 Five pictures from the Fenton thread, and one from a post on Nan Madol, exist only inside phone screenshots. Their crop boxes
 are recorded in `research/images.json` and cut by `pipeline/crop_inputs.py`, which needs
@@ -144,15 +170,19 @@ data/                         Original datasets, model responses and calculated 
   pillar-moai/v2/             Freeze, raw request records and diagnostic results
   pillar-moai/v3/             Freeze, all 24 raw responses and controlled-trial readout
   submerged/etopo1/          Original downloaded NOAA NetCDF subsets
+  submerged/baltic/          Original CC BY 4.0 AUV archive and provenance
   rongo/                      Study 01's scans, glyph crops, skeletons, results and fidelity review
 docs/                         Published static site
   catalogue.html, catalogue/  Collection explorer and generated comparison dossiers
+  families/, input-audit.html Motif families and complete input coverage
   submerged.html             Landscape explorer, projects and open-data assessment
   pillar-and-moai.html        Main source dossier and comparison viewer
   recognition.html           New diagnostic, all responses and model boxes
   view-trial.html             Controlled follow-up and visible location failures
   local-context.html          Illustrated local comparisons and object register
   research-review.html       Audit and redesign requirements for all five studies
+  signal-audit.html          Read-only breakdown of the teaching-figure signal
+  bathymetry-lab.html         Measured resolution loss in the Baltic AUV survey
   atlas.html, fenton.html     Wider comparisons and separate Fenton essay
   rongo/                      Study 01's page, script and site data (served at /rongo/)
   data/                       Browser-ready datasets and generated registers

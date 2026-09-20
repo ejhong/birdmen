@@ -5,10 +5,10 @@ or links if you have them, and describe the feature that caught your eye. “Fin
 more securely identified Rapanui bird-and-rounded-form examples” is a useful
 research request. The site also links a GitHub issue form for asynchronous leads.
 
-The hierarchy is **cultural traditions → comparison threads → curated groups →
-objects, surfaces or narrative witnesses → images and sources**. A comparison can
-join several groups. The culture view aggregates those threads; it does not
-convert their number into an anomaly score or a claim of independent evidence.
+Begin with a **motif family → cultural contexts → explicit observations on
+objects, surfaces or narrative witnesses → images and sources**. Attributed
+comparison threads link any number of curated groups alongside this structure.
+See [schema 2](SCHEMA.md); claim tags must never become automatic object features.
 
 ## Editorial workflow
 
@@ -25,12 +25,15 @@ convert their number into an anomaly score or a claim of independent evidence.
 3. Trace identity, provenance, image creator/rights and object-specific dates.
    Mark incomplete checks explicitly. For unknown images, do not infer findspots
    or dates from similarity. Keep modern illustrations and reconstructions labelled.
-4. Add or update the maintained `catalogue.json` register. Sources, media, entities,
-   groups, cultures and claims use stable IDs. Groups state a selection reason;
-   a culture can span many dated episodes without making them contemporary.
-5. Assign the image to a documented entity and the entity to the relevant curated
-   group. A single example can participate in several feature comparisons without
-   implying it matches everything in either cultural repertoire.
+4. Add or update `catalogue.json`. An unidentified image can enter `leads` with
+   family links, its original input, a check note and next step. Montage panels
+   retain separate identity statuses; captions do not create verified cultures.
+   Add every supplied file and its hash to `input-coverage.json`, including extra
+   views and contextual material. The publisher checks that nothing is missed.
+5. Attach identified images to entities. Record each family `attestation` with
+   its explicit feature subset, scope, sources, status and relevant date indices.
+   Do not combine features on different objects into a supposed co-occurring set.
+   Update groups and cultures only when supported; dates can remain unknown.
 6. Review all affected claims. Add correspondence, difference and next-test notes,
    and link controls. Keep a narrow subcomparison's `parent` reference so its
    culture-connection count does not masquerade as another independent family.

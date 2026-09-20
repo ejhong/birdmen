@@ -1,0 +1,38 @@
+{
+  "baseline_commit": "7224b0726850b1386b75221d4fad562bf4bfe539",
+  "date": "2026-09-20",
+  "method": "Unicode word tokens in HTML text, including collapsed and initially hidden content; excluding script/style contents. Comparison is against the baseline commit with the same parser.",
+  "pages": [
+    {
+      "page": "index.html",
+      "before": 1511,
+      "after": 617,
+      "change_percent": -59.2
+    },
+    {
+      "page": "submerged.html",
+      "before": 2572,
+      "after": 2099,
+      "change_percent": -18.4
+    },
+    {
+      "page": "pillar-and-moai.html",
+      "before": 2648,
+      "after": 2217,
+      "change_percent": -16.3
+    },
+    {
+      "page": "research-review.html",
+      "before": 1041,
+      "after": 571,
+      "change_percent": -45.1
+    },
+    {
+      "page": "catalogue.html",
+      "before": 1592,
+      "after": 1942,
+      "change_percent": 22.0
+    }
+  ],
+  "note": "The catalogue adds families and retains comparison cards, so its total document text grows. This measure is not first-screen reading length."
+}

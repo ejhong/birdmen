@@ -15,10 +15,24 @@ browse; implementation details belong in research records, not the reading flow.
 - `research/catalogue/catalogue.json` is the maintained catalogue source. Generated
   `docs/catalogue.html`, `docs/catalogue/*.html` and `docs/data/catalogue.json`
   must be changed through the register or publisher, not hand-edited.
+- Schema 2 adds motif `families`, explicit `attestations` and unresolved `leads`.
+  `pipeline/family_pages.py` generates `docs/families/` and `docs/input-audit.html`.
+  Never infer an object's features from a claim's motif tags or from another
+  object in the same culture. An attestation names its scope, feature subset,
+  source and dated episode; separate observations do not prove a co-occurring set.
+- Account for every supplied file in `research/catalogue/input-coverage.json`,
+  including extra views, unresolved fragments and context-only material. Hash
+  originals; never turn unverified montage captions into dated culture records.
 - `research/submerged/` holds the underwater assessment and grid provenance.
   `pipeline/submerged.py` generates `docs/submerged.html`, its JSON registers and
   static map fallbacks. `pipeline/submerged_grid.py` is a separate, optional
   SciPy preparation step from retained original NetCDF downloads.
+- `pipeline/research_updates.py` publishes the descriptive teaching-figure audit
+  and `docs/bathymetry-lab.html`. `pipeline/bathymetry_resolution.py` is the optional
+  scientific step from the retained AUV ZIP. Publishing uses saved results only.
+  Resolution loss is not AI detection, survey accuracy or wall recovery.
+  New experiment proposals belong in `research/NEXT-TESTS.md`; freeze a separate
+  protocol before any new model runs, without rewriting the old protocols.
 
 ## Evidence rules
 

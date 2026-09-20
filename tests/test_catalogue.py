@@ -51,6 +51,19 @@ class CatalogueTests(unittest.TestCase):
         self.assertEqual(len(idx['entities']['hoa-back']['alternate_media']),1)
         d=deepcopy(self.data);d['entities'][0]['alternate_media']=[d['entities'][0]['media']]
         with self.assertRaisesRegex(ValueError,'Repeated primary'):catalogue.validate(d,False)
+    def test_motif_observations_require_real_features_and_episodes(self):
+        for key,value in [('features',['made-up']),('date_indices',[100]),('status','verified-by-ai'),('scope','')]:
+            d=deepcopy(self.data);d['attestations'][0][key]=value
+            with self.subTest(key=key),self.assertRaises(ValueError):catalogue.validate(d,False)
+    def test_input_coverage_is_complete_and_duplicate_panels_share_identity(self):
+        from pipeline.family_pages import validate_coverage
+        coverage=json.loads((ROOT/'research/catalogue/input-coverage.json').read_text())
+        validate_coverage(coverage,catalogue.index(self.data))
+        broken=deepcopy(coverage);broken['files'].pop()
+        with self.assertRaisesRegex(ValueError,'Inputs added or removed'):validate_coverage(broken,catalogue.index(self.data))
+        lead=next(l for l in self.data['leads'] if l['id']=='enclosing-caption')
+        self.assertEqual([p['entity'] for p in lead['panels'] if p['entity']],['laventa19','laventa19'])
+        self.assertEqual(next(l for l in self.data['leads'] if l['id']=='lion-reception')['kind'],'control')
     def test_generated_dossiers_are_current_and_local_links_resolve(self):
         outputs=catalogue.outputs();parsed={}
         for path,text in outputs.items():

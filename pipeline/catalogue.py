@@ -33,11 +33,13 @@ def a(url, label, prefix=''):
 
 def index(data):
     return {key: {row['id']: row for row in data[key]} for key in
-            ('sources', 'places', 'media', 'entities', 'groups', 'claims', 'motifs', 'cultures')}
+            ('sources', 'places', 'media', 'entities', 'groups', 'claims', 'motifs', 'cultures', 'families', 'attestations', 'leads')}
 
 
 def validate(data, check_files=True):
     idx = index(data)
+    if data['schema_version'] != 2:
+        raise ValueError('Expected catalogue schema 2')
     for key, records in idx.items():
         if len(records) != len(data[key]):
             raise ValueError(f'Duplicate {key}')
@@ -121,6 +123,36 @@ def validate(data, check_files=True):
             raise ValueError('Invalid comparison parent')
         if not all(c.get(k) for k in ['features', 'differences', 'anomaly', 'next_steps', 'review']):
             raise ValueError('Incomplete comparison')
+    for f in data['families']:
+        refs(f, 'motifs', 'motifs')
+        refs(f, 'claims', 'claims', False)
+        features = [v['id'] for v in f['features']]
+        if not features or len(features) != len(set(features)) or not f.get('summary'):
+            raise ValueError('Invalid family features')
+        if f['cover'] is not None and f['cover'] not in idx['media']:
+            raise ValueError('Missing family cover')
+    for row in data['attestations']:
+        if row['family'] not in idx['families'] or row['entity'] not in idx['entities']:
+            raise ValueError('Missing attestation subject')
+        allowed = {v['id'] for v in idx['families'][row['family']]['features']}
+        if not row['features'] or len(set(row['features'])) != len(row['features']) or not set(row['features']) <= allowed:
+            raise ValueError('Invalid attestation features')
+        if row['status'] not in ('documented', 'provisional') or not row.get('scope') or not row.get('note'):
+            raise ValueError('Unqualified attestation')
+        dates = idx['entities'][row['entity']]['dates']
+        if not row['date_indices'] or any(type(n) is not int or not 0 <= n < len(dates) for n in row['date_indices']):
+            raise ValueError('Invalid attestation episode')
+        refs(row, 'sources', 'sources')
+    for row in data['leads']:
+        for field, target in [('families', 'families'), ('sources', 'sources'), ('media', 'media'), ('claims', 'claims')]:
+            refs(row, field, target, field not in ('media', 'claims'))
+        if row['kind'] not in ('claim', 'control', 'context') or row['status'] not in ('unresolved', 'corrected') or not row.get('next_step'):
+            raise ValueError('Unqualified intake lead')
+        if len({p['id'] for p in row['panels']}) != len(row['panels']):
+            raise ValueError('Duplicate montage panel')
+        for p in row['panels']:
+            if p.get('entity') is not None and p['entity'] not in idx['entities']:
+                raise ValueError('Unknown montage object')
 
 
 def representative(group, idx):
@@ -156,7 +188,7 @@ def shell(title, description, body, prefix='', extra=''):
 <title>{esc(title)} · Deep Memory</title><meta name="description" content="{esc(description)}">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="{prefix}style.css"><link rel="stylesheet" href="{prefix}catalogue.css">{extra}</head>
+<link rel="stylesheet" href="{prefix}style.css"><link rel="stylesheet" href="{prefix}catalogue.css?v=2">{extra}</head>
 <body class="catalogue-site"><a class="skip-link" href="#main">Skip to content</a>
 <div class="cat-masthead cat-wrap"><a class="cat-brand" href="{prefix}index.html">Deep Memory<span>Clues to a deeper past</span></a><nav aria-label="Main navigation"><a href="{prefix}catalogue.html">The collection</a><a href="{prefix}submerged.html">Submerged worlds</a><a href="{prefix}research-review.html">Research</a></nav></div>
 {body}
@@ -184,7 +216,7 @@ def dossier(c, idx):
                 for mid in e['alternate_media']:
                     alt = idx['media'][mid]
                     views.append(f'<figure><a href="../{esc(alt["path"])}"><img src="../{esc(alt["path"])}" alt="{esc(alt["alt"])}" loading="lazy"></a><figcaption>{esc(alt["caption"])}<br>{esc(alt["credit"])} · {esc(alt["rights"])} · {a(alt["url"], "Image record", "../")}<br>{esc(alt["transformation"])}</figcaption></figure>')
-                alternate_html = f'<details class="alternate-views"><summary>Another view of this example</summary><p>Additional photographs help us see the surface. They do not add independent objects to this group.</p>{"".join(views)}</details>'
+                alternate_html = f'<details class="alternate-views"><summary>Another view of this example</summary>{"".join(views)}</details>'
             members.append(f'''<article class="group-member" id="example-{esc(eid)}"><div class="member-image">{media_html}</div>
 <div class="member-copy"><span class="micro">{esc(e['kind'])} · {esc(p['name'] if p else 'Place unresolved')}</span><h3>{esc(e['label'])}</h3>
 <p>{esc(e['note'])}</p><details><summary>Dates, sources &amp; image record</summary><ul class="date-records">{date_html}</ul>{credit}<p class="micro">{' · '.join(a(idx['sources'][id]['url'], idx['sources'][id]['title'], '../') for id in e['sources'])}</p></details>{alternate_html}</div></article>''')
@@ -198,10 +230,11 @@ def dossier(c, idx):
     related.sort(key=lambda r: -len(set(r['members']) & set(c['members'])))
     control_html += ''.join(f'<a class="related-item" href="{r["id"]}.html"><span class="micro">Comparison thread</span><strong>{esc(r["title"])}</strong><span>Open →</span></a>' for r in related[:3])
     cultures_query = '&'.join(f'{"culture" if i == 0 else "with"}={id}' for i, id in enumerate(c['cultures'][:2]))
-    body = f'''<main id="main"><header class="dossier-heading cat-wrap"><a class="back-link" href="../catalogue.html">← All comparisons</a>
+    family_links = ' · '.join(a('../families/'+f['id']+'.html', f['label']) for f in idx['families'].values() if c['id'] in f['claims'])
+    body = f'''<main id="main"><header class="dossier-heading cat-wrap"><a class="back-link" href="../catalogue.html?view=gallery">← All comparisons</a>
 <div class="micro">{'Context control' if c['kind']=='control' else STATUS[c['status']]} · {' / '.join(esc(idx['motifs'][id]['label']) for id in c['motifs'])}</div>
 <h1>{esc(c['title'])}</h1><p class="dossier-deck">{esc(c['dek'])}</p><div class="dossier-meta">{len(c['groups'])} groups · {len(c['members'])} registered records · reviewed {esc(c['review']['date'])}</div>
-<div class="dossier-links">{a('../catalogue.html?view=cultures&'+cultures_query, 'See the cultural connections')} {a('../catalogue.html?view=map&focus='+c['id'], 'Locate this comparison')} {a('../catalogue.html?view=time&focus='+c['id'], 'See the dates')}{''.join(a(l['url'],l['label'],'../') for l in c['links'])}</div>
+<div class="dossier-links">{a('../catalogue.html?view=cultures&'+cultures_query, 'Cultural connections')} {a('../catalogue.html?view=map&focus='+c['id'], 'Map')} {a('../catalogue.html?view=time&focus='+c['id'], 'Dates')}{''.join(a(l['url'],l['label'],'../') for l in c['links'])}</div><p class="micro">Motif families: {family_links}</p>
 {f'<p class="micro">A focused subcomparison of {a(c["parent"]+".html",idx["claims"][c["parent"]]["title"])}. It is not independent evidence for the same proposed link.</p>' if c.get('parent') else ''}</header>
 <div class="dossier-groups cat-wrap">{''.join(group_html)}</div>
 <section class="dossier-reading cat-wrap"><div><div class="micro">The proposed connection</div><h2>What makes it a question?</h2></div><div><p class="reading-lead">{esc(c['anomaly'])}</p><p class="origin-note">{esc(c['origin']['note'])}<br>{a(origin['url'], origin['title'], '../')}</p></div></section>
@@ -213,26 +246,30 @@ def dossier(c, idx):
 
 
 def landing(data, idx):
+    try:
+        from pipeline.family_pages import family_card
+    except ModuleNotFoundError:
+        from family_pages import family_card
     total = sum(c['kind'] == 'claim' for c in data['claims'])
     controls = len(data['claims']) - total
     options = lambda rows: ''.join(f'<option value="{esc(r["id"])}">{esc(r["label"])}</option>' for r in rows)
     regions = sorted({p['region'] for p in data['places']})
     cards = '\n'.join(card(c,idx) for c in data['claims'])
     body = f'''<main id="main">
-<header class="catalogue-intro cat-wrap"><div><div class="micro">The collection · First edition</div><h1>Distant worlds.<br><em>Familiar forms.</em></h1></div><div class="intro-copy"><p>A growing atlas of the similarities that make people wonder about our past.</p><p>Explore cultural traditions, follow a comparison, and look closely at the evidence.</p><div class="edition-counts">{total} comparison threads <span>·</span> {len(data['groups'])} groups <span>·</span> {len(data['sources'])} source records</div></div></header>
+<header class="catalogue-intro cat-wrap"><div><div class="micro">The collection</div><h1>Distant worlds.<br><em>Familiar forms.</em></h1></div><div class="intro-copy"><p>Follow a motif across cultures. Look closely at the objects, dates and stories behind the resemblance.</p><div class="edition-counts">{len(data['families'])} motif families <span>·</span> {total} proposed connections</div></div></header>
 <section class="catalogue-feature cat-wrap" aria-labelledby="feature-title"><a class="feature-visual" href="catalogue/birdmen-worlds.html" aria-label="Explore the Anatolia and Rapa Nui birdman groups"><figure><img src="img/case/pillar43.jpg" alt="Pillar 43 at Göbekli Tepe" fetchpriority="high"><figcaption>Neolithic Anatolia</figcaption></figure><div class="feature-middle" aria-hidden="true">↔</div><figure><img src="img/case/hoa-back.jpg" alt="The carved back of Hoa Hakananai’a" fetchpriority="high"><figcaption>Rapanui traditions</figcaption></figure></a><div class="feature-copy"><div class="micro">Begin with a question</div><h2 id="feature-title">The pillar. <br>The moai. <br>The bird.</h2><p>Two cultural worlds, separated by an ocean and millennia. A resemblance becomes more interesting when we place it among the objects around it.</p><a class="quiet-action" href="catalogue/birdmen-worlds.html">Explore the two groups <span>↗</span></a><a class="feature-secondary" href="catalogue.html?view=cultures&amp;culture=neolithic-anatolia&amp;with=rapanui">Follow all their comparison threads →</a></div></section>
 <section id="explore" class="explore-section cat-wrap"><div class="explore-top"><div><div class="micro">Find your way in</div><h2>Follow the resemblance.</h2></div><p>Images first. Sources always within reach.</p></div>
-<form id="catalogue-filters" class="catalogue-filters" hidden><div class="filter-primary"><label class="search-label"><span class="sr-only">Search the collection</span><svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="10" cy="10" r="6.5"/><path d="m15 15 5 5"/></svg><input id="search" name="q" type="search" placeholder="Search objects, traditions, ideas…" autocomplete="off"></label><label><span class="sr-only">Theme</span><select name="motif" id="motif"><option value="">Every theme</option>{options(data['motifs'])}</select></label><label><span class="sr-only">Cultural tradition</span><select id="culture" name="culture"><option value="">Every cultural tradition</option>{options(data['cultures'])}</select></label><button type="button" id="more-filters" aria-expanded="false" aria-controls="filter-details">Refine <span aria-hidden="true">+</span></button></div>
-<div id="filter-details" class="filter-details" hidden><label>Compare with<select id="with-culture" name="with"><option value="">Any other tradition</option>{options(data['cultures'])}</select></label><label>Region<select id="region" name="region"><option value="">Every region</option>{''.join(f'<option>{esc(r)}</option>' for r in regions)}</select></label><label>Review depth<select id="review" name="review"><option value="">All stages</option>{''.join(f'<option value="{k}">{v}</option>' for k,v in STATUS.items())}</select></label><label>Transmission check<select id="diffusion" name="diffusion"><option value="">Every status</option>{''.join(f'<option value="{k}">{v}</option>' for k,v in DIFFUSION.items())}</select></label><fieldset class="date-filter"><legend>Date interval</legend><label>From<input name="from" id="date-from" type="number" min="-12000" max="2026" placeholder="−10000"></label><label>To<input name="to" id="date-to" type="number" min="-12000" max="2026" placeholder="2026"></label><p>Negative years = BCE. Any recorded interval may overlap; witness dates are labelled. No year zero.</p></fieldset><div class="check-filters"><label><input id="unknown" type="checkbox" name="unknown" checked> Include examples with unresolved dates</label><label><input id="controls" type="checkbox" name="controls"> Include {controls} context controls</label></div></div><p id="filter-error" class="filter-error" role="alert" hidden></p></form>
-<div class="view-toolbar" id="view-toolbar" hidden><nav class="view-buttons" aria-label="Browse the collection"><button type="button" data-view="gallery" aria-pressed="true">Comparisons</button><button type="button" data-view="cultures" aria-pressed="false">Cultures</button><button type="button" data-view="map" aria-pressed="false">Map</button><button type="button" data-view="time" aria-pressed="false">Timeline</button><button type="button" data-view="themes" aria-pressed="false">Themes</button></nav><button type="button" id="reset-filters">Clear filters</button></div>
-<div class="results-line"><p id="result-count" role="status" aria-live="polite">{total} comparison threads · {controls} optional context controls</p><button type="button" id="copy-view" hidden>Copy this view ↗</button></div><p id="active-filters" class="active-filters" hidden></p><p class="filter-explanation" id="date-filter-note" hidden></p>
-<div id="gallery-view" class="catalogue-grid">{cards}</div><section id="cultures-view" class="view-panel" hidden aria-label="Cultural connections"></section><section id="map-view" class="view-panel" hidden aria-label="Map of comparisons"></section><section id="time-view" class="view-panel" hidden aria-label="Comparison chronology"></section><section id="themes-view" class="view-panel" hidden aria-label="Motif collections"></section>
-<div id="empty-state" class="empty-state" hidden><h3>No comparisons in this view.</h3><p>Try a broader theme or date interval. Unresolved dates and context controls can be included under Refine.</p><button type="button" id="empty-reset">Clear filters</button></div>
-<noscript><p class="catalogue-message">All comparison dossiers are available below. Map, timeline and filtering need JavaScript.</p></noscript><p id="load-error" class="catalogue-message" role="status" hidden>The interactive views could not load. You can still open every comparison below.</p>
+<form id="catalogue-filters" class="catalogue-filters" hidden><div class="filter-primary"><label class="search-label"><span class="sr-only">Search the collection</span><svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="10" cy="10" r="6.5"/><path d="m15 15 5 5"/></svg><input id="search" name="q" type="search" placeholder="Search objects, traditions, ideas…" autocomplete="off"></label><label><span class="sr-only">Theme</span><select name="motif" id="motif"><option value="">Every theme</option>{options(data['motifs'])}</select></label><label><span class="sr-only">Cultural tradition</span><select id="culture" name="culture"><option value="">All cultures</option>{options(data['cultures'])}</select></label><button type="button" id="more-filters" aria-expanded="false" aria-controls="filter-details">Refine <span aria-hidden="true">+</span></button></div>
+<div id="filter-details" class="filter-details" hidden><label>Compare with<select id="with-culture" name="with"><option value="">Any other tradition</option>{options(data['cultures'])}</select></label><label>Region<select id="region" name="region"><option value="">Every region</option>{''.join(f'<option>{esc(r)}</option>' for r in regions)}</select></label><label>Review depth<select id="review" name="review"><option value="">All stages</option>{''.join(f'<option value="{k}">{v}</option>' for k,v in STATUS.items())}</select></label><label>Transmission check<select id="diffusion" name="diffusion"><option value="">Every status</option>{''.join(f'<option value="{k}">{v}</option>' for k,v in DIFFUSION.items())}</select></label><fieldset class="date-filter"><legend>Date interval</legend><label>From<input name="from" id="date-from" type="number" min="-12000" max="2026" placeholder="−10000"></label><label>To<input name="to" id="date-to" type="number" min="-12000" max="2026" placeholder="2026"></label><p>Negative years = BCE. Any recorded interval may overlap; witness dates are labelled. No year zero.</p></fieldset><div class="check-filters"><label><input id="unknown" type="checkbox" name="unknown" checked> Include examples with unresolved dates</label><label><input id="controls" type="checkbox" name="controls"> Include context &amp; controls</label></div></div><p id="filter-error" class="filter-error" role="alert" hidden></p></form>
+<div class="view-toolbar" id="view-toolbar" hidden><nav class="view-buttons" aria-label="Browse the collection"><button type="button" data-view="families" aria-pressed="true">Motif families</button><button type="button" data-view="gallery" aria-pressed="false">Comparisons</button><button type="button" data-view="cultures" aria-pressed="false">Cultures</button><button type="button" data-view="map" aria-pressed="false">Map</button><button type="button" data-view="time" aria-pressed="false">Timeline</button></nav><button type="button" id="reset-filters">Clear filters</button></div>
+<div class="results-line"><p id="result-count" role="status" aria-live="polite">{len(data['families'])} motif families · {total} comparison threads</p><button type="button" id="copy-view" hidden>Copy this view ↗</button></div><p id="active-filters" class="active-filters" hidden></p><p class="filter-explanation" id="date-filter-note" hidden></p>
+<div id="families-view" class="family-grid">{''.join(family_card(f,data,idx) for f in data['families'])}</div><div id="gallery-view" class="catalogue-grid" hidden>{cards}</div><section id="cultures-view" class="view-panel" hidden aria-label="Cultural connections"></section><section id="map-view" class="view-panel" hidden aria-label="Map of comparisons"></section><section id="time-view" class="view-panel" hidden aria-label="Comparison chronology"></section><section id="themes-view" class="view-panel" hidden aria-label="Motif collections"></section>
+<div id="empty-state" class="empty-state" hidden><h3>No matches in this view.</h3><p>Try a broader theme or date interval. Unresolved dates and context controls can be included under Refine.</p><button type="button" id="empty-reset">Clear filters</button></div>
+<noscript><p class="catalogue-message">Open a motif family for its examples and comparisons. Interactive filters need JavaScript.</p></noscript><p id="load-error" class="catalogue-message" role="status" hidden>Interactive views could not load. The motif families remain available.</p>
 </section>
-<section id="about" class="collection-about cat-wrap"><div><div class="micro">An open collection</div><h2>Room for wonder.<br>Room for scrutiny.</h2></div><div><p>We collect <strong>claimed anomalous similarities</strong>: comparisons that people believe reach beyond ordinary transmission. Inclusion records a question. It does not certify an unexplained historical connection.</p><p>The main clusters are cultural traditions, with dated examples inside them. Comparisons can connect whole groups, narrow subsets or particular objects. One object can belong to several threads without becoming several independent pieces of evidence.</p><details><summary>How to read the catalogue</summary><p><b>Evidence examined</b> means a specific source or image audit exists. <b>Sources partly checked</b> means some identities or passages have been traced. <b>Research lead</b> means substantial verification remains. <b>Claim corrected</b> preserves a comparison whose stated details changed under review. These are review stages, not anomaly scores.</p><p>The map uses approximate original contexts, not museum destinations. Its lines connect comparisons, not voyages. The timeline distinguishes object dates, broad site context, composition and later witnesses; unresolved dates remain visible.</p><p>This first edition is curated from the project archive and a new source search. It is not yet a systematic worldwide survey. Groups may contain only one registered example, and motif frequency cannot be inferred from these selected records. No generated image is used as archaeological evidence.</p></details><div class="about-links"><a href="data/catalogue.json">Download the complete register ↗</a><a href="https://github.com/ejhong/birdmen/issues/new">Suggest a comparison or better source ↗</a></div></div></section>
+<section id="about" class="collection-about cat-wrap"><div><div class="micro">An open collection</div><h2>A resemblance.<br>A question to pursue.</h2></div><div><p>We catalogue proposed anomalies, with ordinary transmission and local examples as optional controls. Inclusion records a question, not an established historical connection.</p><p>Families gather examples across any number of cultures. Each observation names its object and features; a culture does not inherit every motif found in its comparison partners.</p><details><summary>Reading the evidence</summary><p>Review stages describe source checks, not anomaly scores. “Documented” observations are source-linked editorial readings; they are not independent expert certification. Unidentified images remain leads.</p><p>Map lines connect comparisons. Date bands describe particular objects or witnesses. Unknown dates stay unknown. Selected examples cannot establish worldwide motif frequencies.</p></details><div class="about-links"><a href="input-audit.html">What was captured from the inputs ↗</a><a href="data/catalogue.json">Download the register ↗</a><a href="https://github.com/ejhong/birdmen/issues/new">Contribute a source ↗</a></div></div></section>
 </main>'''
-    return shell('Distant worlds. Familiar forms.', 'Explore claimed anomalous similarities across cultural traditions, with photographs, sources, maps and careful chronology.',body,extra='<script type="module" src="catalogue.js"></script>')
+    return shell('Distant worlds. Familiar forms.', 'Explore claimed anomalous similarities across cultural traditions, with photographs, sources, maps and careful chronology.',body,extra='<script type="module" src="catalogue.js?v=2"></script>')
 
 
 def outputs():
@@ -250,6 +287,11 @@ def outputs():
            DOCS / 'data/catalogue-coast.json': json.dumps(dict(source='Natural Earth 1:110m coastline; public domain. Modern coastlines, not palaeogeography.',lines=lines),separators=(',',':'))+'\n'}
     for c in data['claims']:
         out[DOCS / 'catalogue' / (c['id'] + '.html')] = dossier(c,idx)
+    try:
+        from pipeline.family_pages import outputs as family_outputs
+    except ModuleNotFoundError:
+        from family_pages import outputs as family_outputs
+    out.update(family_outputs(data,idx))
     return out
 
 

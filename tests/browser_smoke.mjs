@@ -36,7 +36,7 @@ class CDP {
       if (!pending) return;
       clearTimeout(pending.timer);
       this.pending.delete(message.id);
-      if (message.error) pending.reject(new Error(JSON.stringify(message.error)));
+      if (message.error) pending.reject(new Error(`${pending.method}: ${JSON.stringify(message.error)}`));
       else pending.resolve(message.result);
     });
   }
@@ -55,7 +55,7 @@ class CDP {
         this.pending.delete(id);
         reject(new Error(`Timed out: ${method}`));
       }, 15000);
-      this.pending.set(id, {resolve, reject, timer});
+      this.pending.set(id, {resolve, reject, timer, method});
       this.socket.send(JSON.stringify({id, method, params}));
     });
   }
@@ -92,19 +92,36 @@ try {
   await client.send('Network.enable');
   await client.send('Emulation.setEmulatedMedia', {features: [{name: 'prefers-reduced-motion', value: 'reduce'}]});
 
-  async function waitFor(expression) {
+  async function poll(check, description) {
     const deadline = Date.now() + 12000;
     do {
-      if (await client.evaluate(expression)) return;
+      try {
+        if (await check()) return;
+      } catch (error) {
+        // Redirects can replace a document between two CDP messages. Retry only
+        // those transient contexts; ordinary script and protocol errors fail.
+        if (!/Execution context was destroyed|Cannot find context with specified id|Inspected target navigated or closed/.test(error.message)) throw error;
+      }
       await new Promise(resolve => setTimeout(resolve, 100));
     } while (Date.now() < deadline);
-    throw new Error(`Page condition did not resolve: ${expression}`);
+    throw new Error(`Page condition did not resolve: ${description}`);
+  }
+  async function waitFor(expression) {
+    await poll(() => client.evaluate(expression), expression);
   }
   async function navigate(path, width = 1440, height = 1050) {
     await client.send('Emulation.setDeviceMetricsOverride', {width, height, deviceScaleFactor: 1, mobile: false});
-    await client.send('Page.navigate', {url: new URL(path, base).href});
+    const firstEvent = client.events.length;
+    const navigation = await client.send('Page.navigate', {url: new URL(path, base).href});
+    assert.ok(!navigation.errorText, `${path}: ${navigation.errorText}`);
+    if (navigation.loaderId) {
+      // Do not mistake the outgoing document's readyState for the new page.
+      await poll(() => client.events.slice(firstEvent).some(event =>
+        event.method === 'Page.frameNavigated' && event.params.frame.id === navigation.frameId &&
+        event.params.frame.loaderId === navigation.loaderId), `${path}: navigation committed`);
+    }
     await waitFor(`document.readyState === 'complete'`);
-    await client.evaluate(`Promise.race([document.fonts.ready, new Promise(resolve => setTimeout(resolve, 2500))]).then(() => true)`);
+    await waitFor(`document.readyState === 'complete' && Promise.race([document.fonts.ready, new Promise(resolve => setTimeout(resolve, 2500))]).then(() => true)`);
     assert.ok(await client.evaluate(`document.documentElement.scrollWidth <= innerWidth + 1`), `${path}: horizontal page overflow at ${width}px`);
   }
   async function screenshot(name, full = false) {
@@ -116,7 +133,7 @@ try {
   await navigate('submerged.html?region=northsea&depth=30');
   await waitFor(`document.body.dataset.waterReady==='true' && document.querySelector('#water-status').textContent.includes('North Sea')`);
   assert.equal(await client.evaluate(`document.querySelectorAll('.water-project').length`),6);
-  assert.equal(await client.evaluate(`document.querySelectorAll('.water-dataset').length`),6);
+  assert.equal(await client.evaluate(`document.querySelectorAll('.water-dataset').length`),7);
   assert.equal(await client.evaluate(`document.querySelector('#modern-canvas').width`),381);
   assert.equal(await client.evaluate(`document.querySelector('#water-depth').value`),'30');
   await screenshot('submerged-desktop.png');
@@ -152,16 +169,21 @@ try {
 
   await navigate('catalogue.html');
   await waitFor(`document.body.classList.contains('catalogue-ready')`);
-  assert.equal(await client.evaluate(`document.querySelectorAll('.catalogue-card:not([hidden])').length`), 19);
+  assert.equal(await client.evaluate(`document.body.dataset.catalogueView`), 'families');
+  assert.equal(await client.evaluate(`document.querySelectorAll('.family-card:not([hidden])').length`),19);
   await waitFor(`[...document.querySelectorAll('.feature-visual img')].every(image => image.complete && image.naturalWidth > 0)`);
   await screenshot('catalogue-desktop.png');
   await client.evaluate(`document.querySelector('#explore').scrollIntoView()`);
+  await waitFor(`[...document.querySelectorAll('.family-card:not([hidden]) img')].slice(0,4).every(image=>image.complete&&image.naturalWidth>0)`);
+  await screenshot('catalogue-families-desktop.png');
+  await client.evaluate(`document.querySelector('[data-view=gallery]').click()`);
+  assert.equal(await client.evaluate(`document.querySelectorAll('.catalogue-card:not([hidden])').length`),20);
   await waitFor(`[...document.querySelectorAll('.catalogue-card:not([hidden]) img')].slice(0,6).every(image=>image.complete&&image.naturalWidth>0)`);
   await screenshot('catalogue-gallery-desktop.png');
   await client.evaluate(`document.querySelector('#more-filters').click(); document.querySelector('#culture').value='neolithic-anatolia'; document.querySelector('#culture').dispatchEvent(new Event('input',{bubbles:true})); document.querySelector('#with-culture').value='rapanui'; document.querySelector('#with-culture').dispatchEvent(new Event('input',{bubbles:true}));`);
   assert.equal(await client.evaluate(`document.querySelectorAll('.catalogue-card:not([hidden])').length`), 4);
   await client.evaluate(`document.querySelector('[data-view=cultures]').click()`);
-  assert.ok(await client.evaluate(`document.querySelector('.culture-neighbour').textContent.includes('3 comparison families')`));
+  assert.ok(await client.evaluate(`document.querySelector('.culture-neighbour').textContent.includes('3 comparison threads')`));
   await screenshot('catalogue-cultures-desktop.png');
   await client.evaluate(`document.querySelector('[data-view=map]').click()`);
   await waitFor(`!!document.querySelector('#map-view svg')`);
@@ -176,7 +198,7 @@ try {
   await client.evaluate(`document.querySelector('#reset-filters').click(); document.querySelector('#search').value='impossible-collection-xyz'; document.querySelector('#search').dispatchEvent(new Event('input',{bubbles:true}))`);
   await waitFor(`!document.querySelector('#empty-state').hidden`);
   await client.evaluate(`document.querySelector('#empty-reset').click(); document.querySelector('#controls').click()`);
-  assert.equal(await client.evaluate(`document.querySelectorAll('.catalogue-card:not([hidden])').length`), 23);
+  assert.equal(await client.evaluate(`document.querySelectorAll('.catalogue-card:not([hidden])').length`), 24);
   await navigate('catalogue.html?view=gallery&culture=rapanui&with=neolithic-anatolia',390,844);
   await waitFor(`document.body.classList.contains('catalogue-ready')`);
   assert.equal(await client.evaluate(`document.querySelectorAll('.catalogue-card:not([hidden])').length`),4);
@@ -208,6 +230,41 @@ try {
   await navigate('catalogue.html?view=themes',390,844);
   await waitFor(`document.body.classList.contains('catalogue-ready')`);
   assert.ok(await client.evaluate(`document.querySelectorAll('.theme-card').length >= 9`));
+  await navigate('catalogue.html?q=San+Agustin',390,844);
+  await waitFor(`document.body.classList.contains('catalogue-ready')`);
+  assert.equal(await client.evaluate(`document.querySelectorAll('.family-card:not([hidden])').length`),1);
+  await client.evaluate(`document.querySelector('#explore').scrollIntoView()`);
+  await screenshot('catalogue-family-search-mobile.png');
+  await client.evaluate(`document.querySelector('.family-card:not([hidden]) .family-link').click()`);
+  await waitFor(`document.querySelector('.back-link')?.textContent.includes('your collection')`);
+  await client.evaluate(`document.querySelector('.back-link').click()`);
+  await waitFor(`document.body.classList.contains('catalogue-ready')`);
+  assert.equal(await client.evaluate(`document.querySelector('#search').value`),'San Agustin');
+  await navigate('families/bird-figures.html');
+  assert.ok(await client.evaluate(`document.querySelectorAll('.family-culture').length > 3`));
+  await screenshot('motif-family-desktop.png');
+  await navigate('families/bird-round-form.html',390,844);
+  await client.evaluate(`document.querySelector('.family-matrix').open=true`);
+  assert.equal(await client.evaluate(`document.querySelectorAll('.family-member').length`),3);
+  assert.ok(await client.evaluate(`document.documentElement.scrollWidth<=innerWidth+1`));
+  await screenshot('motif-family-mobile.png');
+  await navigate('families/enclosing-creature.html',390,844);
+  await client.evaluate(`document.querySelector('.intake-lead details').open=true; document.querySelector('.intake-lead').scrollIntoView()`);
+  await waitFor(`document.querySelector('.intake-images img').complete&&document.querySelector('.intake-images img').naturalWidth>0`);
+  await screenshot('input-correction-mobile.png');
+  await navigate('input-audit.html');
+  await client.evaluate(`document.querySelector('.coverage-register').open=true`);
+  assert.equal(await client.evaluate(`document.querySelectorAll('.coverage-register tbody tr').length`),68);
+  await screenshot('input-audit-desktop.png');
+  await navigate('bathymetry-lab.html');
+  await client.evaluate(`document.querySelector('.survey-figure').scrollIntoView()`);
+  await waitFor(`document.querySelector('.survey-figure img').complete&&document.querySelector('.survey-figure img').naturalWidth>0`);
+  await screenshot('bathymetry-lab-desktop.png');
+  await navigate('bathymetry-lab.html',390,844);
+  await screenshot('bathymetry-lab-mobile.png');
+  await navigate('signal-audit.html',390,844);
+  assert.equal(await client.evaluate(`document.querySelectorAll('.signal-table tbody tr').length`),11);
+  await screenshot('signal-audit-mobile.png');
   await navigate('index.html');
   assert.equal(await client.evaluate(`document.querySelectorAll('.investigation').length`), 5);
   assert.equal(await client.evaluate(`document.querySelectorAll('.cover-pair img').length`), 2);
@@ -353,7 +410,8 @@ try {
   assert.equal(await client.evaluate(`document.querySelectorAll('.water-project').length`),6);
   await waitFor(`document.querySelector('#depth-fallback').complete && document.querySelector('#depth-fallback').naturalWidth>0`);
   await navigate('catalogue.html',390,844);
-  assert.equal(await client.evaluate(`document.querySelectorAll('.catalogue-card').length`),23);
+  assert.equal(await client.evaluate(`document.querySelectorAll('.family-card').length`),19);
+  assert.ok(await client.evaluate(`!document.querySelector('#families-view').hidden`));
   assert.ok(await client.evaluate(`document.querySelector('#catalogue-filters').hidden`));
   await navigate('catalogue/birdmen-worlds.html',390,844);
   assert.equal(await client.evaluate(`document.querySelectorAll('.group-member').length`),6);

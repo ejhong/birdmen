@@ -1,0 +1,294 @@
+{
+  "status": "Post-run descriptive audit, not a rerun or preregistered test",
+  "completed": 397,
+  "first": 248,
+  "rate": 0.6246851385390428,
+  "directed_pairings": 22,
+  "unordered_pairings": 11,
+  "equal_pair_mean": 0.617692945491807,
+  "pairs": [
+    {
+      "names": [
+        "Quetzalcoatl",
+        "Viracocha"
+      ],
+      "completed": 37,
+      "first": 36,
+      "directions": [
+        {
+          "target": "Quetzalcoatl",
+          "partner": "Viracocha",
+          "completed": 20,
+          "first": 19,
+          "rate": 0.95
+        },
+        {
+          "target": "Viracocha",
+          "partner": "Quetzalcoatl",
+          "completed": 17,
+          "first": 17,
+          "rate": 1.0
+        }
+      ],
+      "rate": 0.972972972972973
+    },
+    {
+      "names": [
+        "Bochica",
+        "Viracocha"
+      ],
+      "completed": 37,
+      "first": 35,
+      "directions": [
+        {
+          "target": "Bochica",
+          "partner": "Viracocha",
+          "completed": 19,
+          "first": 19,
+          "rate": 1.0
+        },
+        {
+          "target": "Viracocha",
+          "partner": "Bochica",
+          "completed": 18,
+          "first": 16,
+          "rate": 0.8888888888888888
+        }
+      ],
+      "rate": 0.9459459459459459
+    },
+    {
+      "names": [
+        "Osiris",
+        "Quetzalcoatl"
+      ],
+      "completed": 36,
+      "first": 31,
+      "directions": [
+        {
+          "target": "Osiris",
+          "partner": "Quetzalcoatl",
+          "completed": 16,
+          "first": 16,
+          "rate": 1.0
+        },
+        {
+          "target": "Quetzalcoatl",
+          "partner": "Osiris",
+          "completed": 20,
+          "first": 15,
+          "rate": 0.75
+        }
+      ],
+      "rate": 0.8611111111111112
+    },
+    {
+      "names": [
+        "Quetzalcoatl",
+        "Votan"
+      ],
+      "completed": 34,
+      "first": 29,
+      "directions": [
+        {
+          "target": "Quetzalcoatl",
+          "partner": "Votan",
+          "completed": 17,
+          "first": 14,
+          "rate": 0.8235294117647058
+        },
+        {
+          "target": "Votan",
+          "partner": "Quetzalcoatl",
+          "completed": 17,
+          "first": 15,
+          "rate": 0.8823529411764706
+        }
+      ],
+      "rate": 0.8529411764705882
+    },
+    {
+      "names": [
+        "Nommo",
+        "Oannes"
+      ],
+      "completed": 37,
+      "first": 31,
+      "directions": [
+        {
+          "target": "Nommo",
+          "partner": "Oannes",
+          "completed": 17,
+          "first": 14,
+          "rate": 0.8235294117647058
+        },
+        {
+          "target": "Oannes",
+          "partner": "Nommo",
+          "completed": 20,
+          "first": 17,
+          "rate": 0.85
+        }
+      ],
+      "rate": 0.8378378378378378
+    },
+    {
+      "names": [
+        "Quetzalcoatl",
+        "Thoth"
+      ],
+      "completed": 37,
+      "first": 28,
+      "directions": [
+        {
+          "target": "Quetzalcoatl",
+          "partner": "Thoth",
+          "completed": 18,
+          "first": 11,
+          "rate": 0.6111111111111112
+        },
+        {
+          "target": "Thoth",
+          "partner": "Quetzalcoatl",
+          "completed": 19,
+          "first": 17,
+          "rate": 0.8947368421052632
+        }
+      ],
+      "rate": 0.7567567567567568
+    },
+    {
+      "names": [
+        "Bochica",
+        "Quetzalcoatl"
+      ],
+      "completed": 39,
+      "first": 27,
+      "directions": [
+        {
+          "target": "Bochica",
+          "partner": "Quetzalcoatl",
+          "completed": 20,
+          "first": 17,
+          "rate": 0.85
+        },
+        {
+          "target": "Quetzalcoatl",
+          "partner": "Bochica",
+          "completed": 19,
+          "first": 10,
+          "rate": 0.5263157894736842
+        }
+      ],
+      "rate": 0.6923076923076923
+    },
+    {
+      "names": [
+        "Oannes",
+        "Viracocha"
+      ],
+      "completed": 35,
+      "first": 24,
+      "directions": [
+        {
+          "target": "Oannes",
+          "partner": "Viracocha",
+          "completed": 20,
+          "first": 16,
+          "rate": 0.8
+        },
+        {
+          "target": "Viracocha",
+          "partner": "Oannes",
+          "completed": 15,
+          "first": 8,
+          "rate": 0.5333333333333333
+        }
+      ],
+      "rate": 0.6857142857142857
+    },
+    {
+      "names": [
+        "Oannes",
+        "Quetzalcoatl"
+      ],
+      "completed": 39,
+      "first": 5,
+      "directions": [
+        {
+          "target": "Oannes",
+          "partner": "Quetzalcoatl",
+          "completed": 20,
+          "first": 5,
+          "rate": 0.25
+        },
+        {
+          "target": "Quetzalcoatl",
+          "partner": "Oannes",
+          "completed": 19,
+          "first": 0,
+          "rate": 0.0
+        }
+      ],
+      "rate": 0.1282051282051282
+    },
+    {
+      "names": [
+        "Osiris",
+        "Viracocha"
+      ],
+      "completed": 31,
+      "first": 1,
+      "directions": [
+        {
+          "target": "Osiris",
+          "partner": "Viracocha",
+          "completed": 17,
+          "first": 1,
+          "rate": 0.058823529411764705
+        },
+        {
+          "target": "Viracocha",
+          "partner": "Osiris",
+          "completed": 14,
+          "first": 0,
+          "rate": 0.0
+        }
+      ],
+      "rate": 0.03225806451612903
+    },
+    {
+      "names": [
+        "Oannes",
+        "Osiris"
+      ],
+      "completed": 35,
+      "first": 1,
+      "directions": [
+        {
+          "target": "Oannes",
+          "partner": "Osiris",
+          "completed": 19,
+          "first": 1,
+          "rate": 0.05263157894736842
+        },
+        {
+          "target": "Osiris",
+          "partner": "Oannes",
+          "completed": 16,
+          "first": 0,
+          "rate": 0.0
+        }
+      ],
+      "rate": 0.02857142857142857
+    }
+  ],
+  "limitations": [
+    "The same figures recur across pairings; even the 11 pairs are not independent cultural histories.",
+    "Unequal completed lineups, modern summaries, recognisability and mismatched narrative roles remain.",
+    "Direction reversals used different candidate lineups; differences cannot be attributed to order alone.",
+    "No new AI judgments, revised p-values or worldwide rarity estimate."
+  ],
+  "source_path": "data/s4/results.json",
+  "source_sha256": "0dc8bc5dbe7d4b3b2e023b0b6a0342cc03296e8fcbc9d92cef3eb9d5fabcb5e9"
+}

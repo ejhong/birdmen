@@ -14,6 +14,11 @@ README maps those paths to the corresponding investigation.
 
 ## New work
 
+- `catalogue/`: motif families, scoped observations, comparison claims and a
+  complete input-coverage ledger. Schema 2 keeps unverified montage leads separate.
+- `submerged/`: landscape/data assessment and the completed Baltic resolution audit.
+- `NEXT-TESTS.md`: proposed visual-localization, source-episode and archaeological
+  detection benchmarks; remaining prerequisites are explicit.
 - `civilisers/v2/`: source-level follow-up to the original culture-hero lineups.
 - `civilisers/v3/`: draft for a source-grounded, role-matched comparison. Proposed only;
   the comparison collection and main ranking pass have not been completed.

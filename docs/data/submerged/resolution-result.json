@@ -1,0 +1,91 @@
+{
+  "status": "Exploratory numerical resolution audit; no AI model or archaeological detector run",
+  "source": {
+    "title": "Geersen 2024 AUV multibeam survey",
+    "url": "https://doi.iow.de/10.12754/DATA-2024-0001",
+    "download": "https://doi.iow.de/doi/2024/data-2024-0001/data-2024-0001.zip",
+    "license": "CC BY 4.0",
+    "credit": "J. Geersen; AUV data acquired by DLR during Littorina cruise L0123 (2023)",
+    "path": "data/submerged/baltic/data-2024-0001.zip",
+    "sha256": "a4bb3cede3fb922bfd033507b6a0a8681a9830efe541d73d18be9eed70c09ea5",
+    "grid_sha256": "1dc4f7e91a31ab164c5ce6ae1bd140d1d7117811afd7fedb93a3ec0eb4a25172"
+  },
+  "grid": {
+    "width": 2355,
+    "height": 742,
+    "spacing_m": 0.5,
+    "crs": "EPSG:32632 \u00b7 WGS 84 / UTM zone 32N",
+    "upper_left_m": [
+      660882.4098479152,
+      6005336.889486528
+    ],
+    "valid_cells": 663281,
+    "total_cells": 1747410,
+    "depth_min_m": -21.940000534057617,
+    "depth_max_m": -20.209999084472656,
+    "vertical_datum": "Not resolved from the GeoTIFF metadata; within-survey relative relief only"
+  },
+  "method": {
+    "block_origin": "upper left of the original grid",
+    "aggregation": "arithmetic mean of valid source cells; partial blocks retained; no interpolation into missing areas",
+    "local_relief": "original depth minus normalised Gaussian mean, sigma 10 metres; retain centres with at least 95% observed Gaussian support; block-average this fixed residual field",
+    "local_support_cells": 502232,
+    "local_variance_m2": 0.0006220831755827508,
+    "missing": "Masked, never interpreted as absence of archaeology",
+    "comparison": "RMSE at the same original observed cells. Local variance at the same supported cells; descriptive, not a detection rate."
+  },
+  "results": [
+    {
+      "spacing_m": 0.5,
+      "valid_blocks": 663281,
+      "depth_rmse_m": 0.0,
+      "depth_max_abs_error_m": 0.0,
+      "local_variance_retained": 1.0
+    },
+    {
+      "spacing_m": 2.0,
+      "valid_blocks": 42081,
+      "depth_rmse_m": 0.01796945254200685,
+      "depth_max_abs_error_m": 0.7253381013870239,
+      "local_variance_retained": 0.49109398231534096
+    },
+    {
+      "spacing_m": 5.0,
+      "valid_blocks": 6900,
+      "depth_rmse_m": 0.021390519112916062,
+      "depth_max_abs_error_m": 0.9352803802490222,
+      "local_variance_retained": 0.3316685495050253
+    },
+    {
+      "spacing_m": 10.0,
+      "valid_blocks": 1802,
+      "depth_rmse_m": 0.026396281459915946,
+      "depth_max_abs_error_m": 1.0713956260681137,
+      "local_variance_retained": 0.17746052303041124
+    },
+    {
+      "spacing_m": 25.0,
+      "valid_blocks": 322,
+      "depth_rmse_m": 0.04153026904808674,
+      "depth_max_abs_error_m": 1.0569691543579118,
+      "local_variance_retained": 0.045663081063170394
+    },
+    {
+      "spacing_m": 115.0,
+      "valid_blocks": 24,
+      "depth_rmse_m": 0.1264137188748301,
+      "depth_max_abs_error_m": 0.8408852864037257,
+      "local_variance_retained": 0.0032291071711556
+    }
+  ],
+  "limitations": [
+    "One known-site survey, selected after publication; no blind or independent archaeological labels.",
+    "115 m square blocks illustrate loss of detail; they do not reproduce EMODnet\u2019s angular grid, original measurements, interpolation or datum.",
+    "No recovery model, AI classification, wall trace or new archaeological feature is claimed.",
+    "Different grid origins, survey noise, object size and relief affect these measurements."
+  ],
+  "figure": {
+    "path": "img/submerged/baltic-resolution.png",
+    "sha256": "4a781a493a90c5d46722840fc0503480d2a1875a1122150a5694725d3d455a90"
+  }
+}

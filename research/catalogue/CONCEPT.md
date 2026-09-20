@@ -1,17 +1,19 @@
 # A catalogue of claimed anomalous similarities
 
-Design notes from the 19 September 2026 discussion, updated after the first build.
+Design notes from the 19 September 2026 discussion, updated 20 September.
 The collection, cultural connections, map, timeline, theme browsing and standalone
 dossiers are now implemented. A comprehensive worldwide search and deeper corpus
 coverage remain future work.
 
-The first edition has 19 comparison threads and 4 optional controls, joining 35
-curated groups across 23 cultural/context clusters. There are 36 evidence records,
-27 image records and 40 sources. A record can represent a surface, an account or
-a contextual summary; these counts are not numbers of independent artefacts.
+Schema 2 adds 19 motif families, 45 explicit observations and 22 intake leads.
+It retains 20 comparison threads and 4 optional controls across 23 cultural/context
+clusters. All 68 inputs are mapped, including unresolved fragments and contextual
+arguments. See [SCHEMA.md](SCHEMA.md) for what each record means.
 
-The primary structure is **cultural traditions → comparison threads → curated
-groups → objects, surfaces or narrative witnesses → photographs and sources**.
+The primary structure is **motif families → cultural contexts → observations on
+objects, surfaces or narrative witnesses → photographs and sources**. Attributed
+comparison threads remain a separate layer connecting curated groups; a family
+does not require a pair, a proposed route or every feature on every member.
 The culture view shows the proposed relationships and the range of registered
 dated episodes, without pretending that range is a culture's complete lifespan.
 Standalone dossier links preserve the collection selection. Records and all core
@@ -78,7 +80,11 @@ montage. A faithful image does not establish a connection. Avoid a single opaque
 
 ## Browsing and visualisation
 
-**Visual gallery (default).** Comparison cards show the actual pairs or small
+**Motif families (default).** Browse every represented tradition within a family,
+inspect its feature matrix and dated records, and follow unresolved image leads.
+Only explicitly recorded observations supply membership, never shared claim tags.
+
+**Comparison gallery.** Comparison cards show the actual pairs or small
 groups, a one-sentence anomaly claim, locations, date ranges and source status.
 Filter by motif, place, period, medium, kind of evidence and diffusion status.
 Opening a card keeps the current filters and opens its full dossier.

@@ -46,9 +46,8 @@ def cards(studies):
         out.append(f'''<article class="investigation" aria-labelledby="study-{esc(s['id'])}">
   <div class="eyebrow">{esc(s['number'])} · {esc(s['status'])}</div>
   <h3 id="study-{esc(s['id'])}">{link(s['url'], s['title'])}</h3>
-  <p class="question">{esc(s['question'])}</p>
-  <dl><dt>Finding / scope</dt><dd>{esc(s['finding'])}</dd><dt>Limitations</dt><dd>{esc(s['limitations'])}</dd></dl>
-  <div class="versions">{links(s['versions']) if s['versions'] else link(s['url'], 'Read the companion investigation ↗')}</div>
+  <p>{esc(s['summary'])}</p>
+  <div class="versions">{link(s['url'], 'Evidence & method →')}</div>
 </article>''')
     return "\n".join(out + ["</div>"])
 
@@ -418,6 +417,11 @@ def build(check=False):
     except ModuleNotFoundError:
         import submerged
     pending.update(submerged.outputs())
+    try:
+        from pipeline import research_updates
+    except ModuleNotFoundError:
+        import research_updates
+    pending.update(research_updates.outputs())
     changed = []
     for path, content in pending.items():
         if not path.exists() or path.read_text() != content:

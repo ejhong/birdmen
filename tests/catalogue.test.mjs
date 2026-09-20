@@ -1,7 +1,7 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
-import {defaults,readState,stateURL,makeIndex,filterClaims,dateOverlaps,culturalEdges,escapeHTML} from '../docs/catalogue-model.mjs';
+import {defaults,readState,stateURL,makeIndex,filterClaims,filterFamilies,hasRecordedBundle,dateOverlaps,culturalEdges,escapeHTML} from '../docs/catalogue-model.mjs';
 const data=JSON.parse(await readFile(new URL('../research/catalogue/catalogue.json',import.meta.url),'utf8'));
 const idx=makeIndex(data);
 test('controls stay optional and filters combine across culture, motif and region',()=>{
@@ -31,7 +31,7 @@ test('shareable state preserves selection, booleans and date ranges; invalid IDs
   const state={...defaults,culture:'rapanui',with:'neolithic-anatolia',view:'time',focus:'birdmen-worlds',unknown:false,controls:true,from:'-10000',q:'bird & disc',scale:'recent'};
   assert.deepEqual(readState(stateURL(state),data),state);
   const invalid=readState('?culture=missing&view=script&from=0&controls=false&with=missing&focus=missing',data);
-  assert.equal(invalid.culture,'');assert.equal(invalid.from,'');assert.equal(invalid.view,'gallery');assert.equal(invalid.controls,false);
+  assert.equal(invalid.culture,'');assert.equal(invalid.from,'');assert.equal(invalid.view,'families');assert.equal(invalid.controls,false);
 });
 test('cultural edges preserve group relationships and deduplicate nested comparison families',()=>{
   const edges=culturalEdges(filterClaims(data,defaults,idx));
@@ -42,4 +42,35 @@ test('cultural edges preserve group relationships and deduplicate nested compari
 });
 test('untrusted source text is rendered as text',()=>{
   assert.equal(escapeHTML('<img src=x onerror="alert(1)">'), '&lt;img src=x onerror=&quot;alert(1)&quot;&gt;');
+});
+test('families span many cultures and retain unresolved input leads without inventing cultures',()=>{
+  const all=filterFamilies(data,defaults,idx);
+  assert.equal(all.length,data.families.length);
+  assert.ok(all.some(f=>f.id==='animal-on-human'));
+  assert.ok(filterFamilies(data,{...defaults,q:'San Agustin'},idx).some(f=>f.id==='animal-on-human'));
+  assert.ok(!filterFamilies(data,{...defaults,q:'San Agustin',culture:'neolithic-anatolia'},idx).some(f=>f.id==='animal-on-human'));
+  const selected=filterFamilies(data,{...defaults,culture:'rapanui',with:'assyria'},idx);
+  assert.ok(selected.some(f=>f.id==='bird-figures'));
+  assert.ok(!filterFamilies(data,{...defaults,unknown:false},idx).some(f=>f.id==='animal-on-human'));
+});
+test('bundle membership needs one explicit observation scope, not culture or claim tag unions',()=>{
+  assert.equal(hasRecordedBundle(data,'bird-round-form','pillar43',['bird','round','wing']),true);
+  assert.equal(hasRecordedBundle(data,'bird-round-form','hoa-back',['bird','hand']),false);
+  assert.equal(hasRecordedBundle(data,'handled-forms','pillar43',['arched','held']),false);
+  assert.equal(hasRecordedBundle(data,'teaching-figures','bochica',['teaching']),false);
+  assert.equal(hasRecordedBundle(data,'teaching-figures','bochica',['teaching'],{provisional:true}),true);
+  const split={attestations:[{family:'f',entity:'e',features:['bird'],status:'documented'}, {family:'f',entity:'e',features:['disc'],status:'documented'}]};
+  assert.equal(hasRecordedBundle(split,'f','e',['bird','disc']),false);
+});
+test('family date filtering uses the selected carving episode, not an older object date',()=>{
+  const fixture=structuredClone(data);
+  fixture.families=fixture.families.filter(f=>f.id==='bird-round-form');
+  fixture.leads=[];
+  fixture.attestations=[{family:'bird-round-form',entity:'hoa-back',features:['bird'],status:'documented',date_indices:[0]}];
+  fixture.entities.find(e=>e.id==='hoa-back').dates=[{start:1700,end:1800},{start:-9500,end:-9000}];
+  assert.deepEqual(filterFamilies(fixture,{...defaults,from:'-10000',to:'-8000',unknown:false}),[]);
+});
+test('context and modern reception leads do not silently enter the anomaly search',()=>{
+  assert.equal(filterFamilies(data,{...defaults,q:'Sydney'},idx).length,0);
+  assert.ok(filterFamilies(data,{...defaults,q:'Sydney',controls:true},idx).some(f=>f.id==='paired-flankers'));
 });

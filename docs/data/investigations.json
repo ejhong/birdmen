@@ -19,7 +19,8 @@
       "data/rongo/",
       "inputs/rongo/",
       "research/rongo/README.md"
-    ]
+    ],
+    "summary": "Rankings change with drawing style. The combined metric performed worse than a simpler one in the rendition check."
   },
   {
     "id": "myths",
@@ -42,7 +43,8 @@
       "pipeline/build_site.py",
       "data/results/",
       "docs/data/site.json"
-    ]
+    ],
+    "summary": "Broad motif categories recur widely. They do not test the specific bird-and-disc scene."
   },
   {
     "id": "pictures",
@@ -72,7 +74,8 @@
       "data/s3/",
       "docs/study3/preregistration.md",
       "docs/data/s3.json"
-    ]
+    ],
+    "summary": "Models disagreed and sometimes misread the carvings. Both high and low similarity scores need perception checks."
   },
   {
     "id": "civilisers",
@@ -99,7 +102,8 @@
       "data/s4/",
       "docs/study4/preregistration.md",
       "research/civilisers/v2/"
-    ]
+    ],
+    "summary": "Claimed partners ranked first in 62.5% of lineups. Source quality, repeated pairs and recognisable summaries limit the inference."
   },
   {
     "id": "floods",
@@ -122,6 +126,7 @@
       "data/s5/",
       "docs/study5/preregistration.md",
       "docs/data/s5.json"
-    ]
+    ],
+    "summary": "The selected summaries show regional patterns. Those patterns alone cannot distinguish borrowing from older inheritance."
   }
 ]

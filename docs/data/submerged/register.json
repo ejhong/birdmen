@@ -1,5 +1,5 @@
 {
-  "edition": "2026-09-19",
+  "edition": "2026-09-20",
   "scope": "Initial assessment and research opportunities; not a completed worldwide inventory or a dated reconstruction of all ancient coasts.",
   "sources": [
     {
@@ -95,8 +95,8 @@
       "title": "EMODnet Bathymetry DTM 2024 release",
       "url": "https://emodnet.ec.europa.eu/en/emodnet-bathymetry-dtm-2024-release",
       "kind": "dataset documentation",
-      "checked": "2026-09-19",
-      "note": "Release announcement dated 24 March 2025. European grid at 1/16 arc-minute spacing, with multiple contributing survey methods."
+      "checked": "2026-09-20",
+      "note": "DTM 2024: 1/16 arc-minute spacing, approximately 115 m north–south. Depths referenced to Lowest Astronomical Tide, not mean sea level. Source and interpolation flags matter."
     },
     {
       "id": "emodnet-api",
@@ -145,6 +145,22 @@
       "kind": "data access portal",
       "checked": "2026-09-19",
       "note": "Portal for Sentinel observations. This edition links acquisition access; no satellite scene has yet been processed for this programme."
+    },
+    {
+      "id": "baltic-auv",
+      "title": "Baltic AUV survey · 0.5 m grid",
+      "url": "https://doi.iow.de/10.12754/DATA-2024-0001",
+      "kind": "downloaded primary dataset",
+      "checked": "2026-09-20",
+      "note": "Geersen 2024, DLR AUV survey in 2023, CC BY 4.0. Original ZIP retained with SHA-256; local resolution audit completed. Vertical datum unresolved in GeoTIFF metadata."
+    },
+    {
+      "id": "subnordica-ai",
+      "title": "SUBNORDICA: AI for Stone Age archaeology",
+      "url": "https://projects.au.dk/subnordica/research/work-package-3",
+      "kind": "project methods",
+      "checked": "2026-09-20",
+      "note": "Official work package includes testing AI/ML methods for archaeological targets. It does not supply validation for this project’s analyses."
     }
   ],
   "projects": [
@@ -158,13 +174,14 @@
       "lon": 3.0,
       "region": "northsea",
       "precision": "regional anchor",
-      "finding": "Peat, buried channels and surveyed landscapes offer a way to recover former environments. SUBNORDICA is developing a systematic route from such evidence to archaeological targets.",
+      "finding": "Peat records, buried channels and surveys constrain former landscapes. SUBNORDICA is developing methods to identify archaeological targets.",
       "limit": "A mapped river or dated peat bed does not by itself identify a settlement. Modern seabed relief may overlie a buried land surface.",
       "next": "Start with the open sea-level database and source-quality layers; reproduce a regional reconstruction before ranking candidate habitats.",
       "sources": [
         "subnordica",
         "northsea-peats",
-        "northsea-data"
+        "northsea-data",
+        "subnordica-ai"
       ]
     },
     {
@@ -177,7 +194,7 @@
       "lon": 72.5,
       "region": "khambhat",
       "precision": "regional anchor, not an exact feature position",
-      "finding": "The proposing researchers report sonar geometries, channel-like features and recovered samples in a strongly dynamic marine setting.",
+      "finding": "NIOT researchers report sonar geometries and dredged samples. A dated, in-situ settlement has not been independently verified here.",
       "limit": "The source’s grab/dredge samples do not, on their own, establish that dated material belongs to a human-built feature. This edition has not independently verified the reported city interpretation.",
       "next": "Seek original georeferenced sonar lines, processing history, repeat surveys and sample-context records. Separate a natural-feature test from a chronology test.",
       "sources": [
@@ -194,7 +211,7 @@
       "lon": 22.989,
       "region": "world",
       "precision": "approximate site",
-      "finding": "Mapped buildings, streets and ceramics provide archaeological evidence for a settlement spanning the Final Neolithic and Bronze Age.",
+      "finding": "Buildings, streets and ceramics document a settlement spanning the Final Neolithic and Bronze Age.",
       "limit": "This is a much later settlement than 12,000 years ago. Its submergence history cannot be applied to every shelf or monument.",
       "next": "Use the survey as a positive control for recording methods: which architectural features survive in bathymetry, sonar and diver photography?",
       "sources": [
@@ -212,7 +229,7 @@
       "lon": 116.7,
       "region": "world",
       "precision": "regional anchor",
-      "finding": "The study reports underwater stone artefacts at Cape Bruguieres and a find near a submerged freshwater feature at Flying Foam Passage, using remote sensing and diver investigation.",
+      "finding": "Underwater stone artefacts at Cape Bruguieres and Flying Foam Passage show the potential of surveyed drowned landscapes.",
       "limit": "Transport, erosion and site formation matter. The inferred exposure history is not direct dating of every stone artefact.",
       "next": "Follow the published landscape-prediction method and engage the relevant Traditional Owners before any field-oriented extension.",
       "sources": [
@@ -229,11 +246,12 @@
       "lon": 11.5,
       "region": "world",
       "precision": "regional anchor",
-      "finding": "A roughly kilometre-long stone alignment was recorded using hydroacoustic surveys, optical imagery and sediment evidence. The authors interpret it as prehistoric hunting architecture.",
+      "finding": "Hydroacoustic, optical and sediment surveys document a roughly kilometre-long stone alignment. The authors interpret it as hunting architecture.",
       "limit": "The existence and layout of stones are observations. Hunting function and the timing of construction depend on contextual arguments.",
-      "next": "Compare the arrangement with natural glacial features and inspect the dated surrounding sediment sequence, not just the striking sonar image.",
+      "next": "The local resolution audit now measures detail loss. Next: independent feature labels and natural look-alikes for a detection benchmark.",
       "sources": [
-        "baltic-wall"
+        "baltic-wall",
+        "baltic-auv"
       ]
     },
     {
@@ -246,7 +264,7 @@
       "lon": 108.0,
       "region": "sunda",
       "precision": "regional anchor",
-      "finding": "Lower sea levels exposed extensive shelf areas between today’s islands. Published modelling explores connections between inundation and population history.",
+      "finding": "Lower sea levels exposed extensive terrain between today’s islands. Published models examine inundation and population history.",
       "limit": "Exposed terrain is not evidence of a lost city or of one connected civilisation. Local preservation, sediment burial and survey coverage remain decisive.",
       "next": "Identify accessible seismic and sediment datasets, then test palaeochannels and freshwater margins against a dated regional model.",
       "sources": [
@@ -256,6 +274,19 @@
     }
   ],
   "datasets": [
+    {
+      "id": "baltic-auv",
+      "name": "Baltic AUV survey",
+      "coverage": "Blinkerwall, Baltic Sea",
+      "resolution": "0.5 × 0.5 m grid; 663,281 valid cells",
+      "access": "CC BY 4.0; GeoTIFF downloaded and retained. Reproducible resolution audit completed.",
+      "use": "A real survey for testing detail loss before developing an archaeological detector.",
+      "limit": "One known site, without independent training/test labels. Datum metadata unresolved; within-survey relief only.",
+      "sources": [
+        "baltic-auv",
+        "baltic-wall"
+      ]
+    },
     {
       "id": "northsea-history",
       "name": "North Sea sea-level records",
@@ -288,7 +319,7 @@
       "resolution": "1/16 arc-minute spacing; about 115 m north–south",
       "access": "Open portal and ERDDAP; service metadata checked",
       "use": "Combine elevations with source indices and interpolation flags. Search for finer contributing surveys around a chosen study area.",
-      "limit": "Datum, interpolation, acquisition dates and effective resolution need checking. Modern depths alone are not buried palaeotopography.",
+      "limit": "Depths use Lowest Astronomical Tide. Align vertical datums before comparison with mean-sea-level grids; inspect source and interpolation flags.",
       "sources": [
         "emodnet",
         "emodnet-api"

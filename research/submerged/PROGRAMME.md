@@ -6,8 +6,8 @@ resource. This document records the initial scope and the first implementation.
 
 ## Implemented first assessment
 
-`docs/submerged.html` now combines six project/place records, six data entry
-points and 18 sources with a real relief explorer. World, North Sea, Sunda and
+`docs/submerged.html` now combines six project/place records, seven data entry
+points and 20 sources with a real relief explorer. World, North Sea, Sunda and
 Gujarat/Khambhat views use retained, subsampled NOAA ETOPO1 downloads. The slider
 changes a modern elevation threshold between 0 and −120 m. No prehistoric date
 is assigned, and no archaeological detection was performed. See [DATA.md](DATA.md)
@@ -19,6 +19,20 @@ periods are explicit. The dataset register covers open North Sea peat records,
 GEBCO, EMODnet, NCEI surveys, satellite opportunities and the prototype's actual
 relief data. “Access checked” means the documented level of checking, not that
 every scientific file has been downloaded or validated.
+
+## First completed data experiment · 20 September
+
+The published 0.5 m Baltic AUV grid is now downloaded, retained and analysed.
+`docs/bathymetry-lab.html` shows a reproducible averaging experiment: 663,281
+observed cells, six spacings, depth disagreement and a fixed local-relief diagnostic.
+At 115 m, 0.3% of the defined local variance remains. This is not a wall-detection
+score, an accuracy estimate or a new AI result. The original ZIP, GeoTIFF hash,
+method and figure are inspectable. [Provenance](../../data/submerged/baltic/README.md).
+
+The next bounded AI task is a detection benchmark across multiple surveys with
+independent labels, difficult natural controls and held-out survey areas. It needs
+those data before a model score can be meaningful. See [NEXT-TESTS.md](../NEXT-TESTS.md).
+SUBNORDICA's official work package 3 offers a relevant active research context.
 
 ## First research choice
 

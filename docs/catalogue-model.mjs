@@ -1,8 +1,8 @@
 /** Pure catalogue queries. A comparison is an editorial relationship, not contact. */
-export const views = ['gallery', 'cultures', 'map', 'time', 'themes'];
-export const defaults = Object.freeze({q:'', motif:'', culture:'', with:'', region:'', review:'', diffusion:'', from:'', to:'', unknown:true, controls:false, view:'gallery', focus:'', hub:'', scale:'all'});
+export const views = ['families', 'gallery', 'cultures', 'map', 'time', 'themes'];
+export const defaults = Object.freeze({q:'', motif:'', culture:'', with:'', region:'', review:'', diffusion:'', from:'', to:'', unknown:true, controls:false, view:'families', focus:'', hub:'', scale:'all'});
 export function makeIndex(data) {
-  return Object.fromEntries(['entities','groups','claims','cultures','motifs','media','places','sources'].map(key => [key, new Map(data[key].map(row=>[row.id,row]))]));
+  return Object.fromEntries(['entities','groups','claims','cultures','motifs','media','places','sources','families','attestations','leads'].map(key => [key, new Map(data[key].map(row=>[row.id,row]))]));
 }
 export function readState(search, data) {
   const params = new URLSearchParams(search), state = {...defaults};
@@ -10,7 +10,7 @@ export function readState(search, data) {
   state.unknown = params.get('unknown') !== '0';
   state.controls = params.get('controls') === '1';
   state.q = state.q.slice(0,200);
-  if (!views.includes(state.view)) state.view = 'gallery';
+  if (!views.includes(state.view)) state.view = defaults.view;
   if (!['all','recent'].includes(state.scale)) state.scale='all';
   for (const [key,collection] of [['motif','motifs'],['culture','cultures'],['with','cultures'],['focus','claims'],['hub','cultures']]) {
     if (!data[collection].some(row=>row.id===state[key])) state[key]='';
@@ -18,6 +18,7 @@ export function readState(search, data) {
   if (state.with===state.culture) state.with='';
   if (!['','examined','source-check','lead','corrected'].includes(state.review)) state.review='';
   if (!['','unestablished','unassessed','plausible','local','documented'].includes(state.diffusion)) state.diffusion='';
+  if (state.view==='families') {state.review='';state.diffusion='';}
   if (!data.places.some(p=>p.region===state.region)) state.region='';
   for (const key of ['from','to']) if (!/^-?\d{1,5}$/.test(state[key]) || Number(state[key])===0 || Number(state[key]) < -12000 || Number(state[key])>2026) state[key]='';
   return state;
@@ -63,6 +64,36 @@ export function filterClaims(data,state,idx=makeIndex(data)) {
 }
 export function visibleEntities(claims,idx) {
   return [...new Set(claims.flatMap(c=>c.members))].map(id=>idx.entities.get(id));
+}
+/** A family is an n-way collection of explicit observations, never a pairwise edge. */
+export function familyObservations(data, family) {
+  return data.attestations.filter(o=>o.family===family.id);
+}
+export function filterFamilies(data,state,idx=makeIndex(data)) {
+  const from=state.from===''?-Infinity:Number(state.from),to=state.to===''?Infinity:Number(state.to);
+  if(from>to)return [];
+  const terms=normalize(state.q).split(/\s+/).filter(Boolean);
+  return data.families.filter(f=>{
+    if(state.motif&&!f.motifs.includes(state.motif))return false;
+    const obs=familyObservations(data,f),entities=obs.map(o=>idx.entities.get(o.entity));
+    const cultures=new Set(entities.map(e=>e.culture));
+    if(state.culture&&!cultures.has(state.culture)||state.with&&!cultures.has(state.with))return false;
+    if(state.region&&!entities.some(e=>idx.places.get(e.place)?.region===state.region))return false;
+    const leads=data.leads.filter(l=>l.families.includes(f.id)&&(state.controls||l.kind==='claim'));
+    // Only the attested episode's dates apply, not every date attached to the object.
+    const dates=obs.flatMap(o=>o.date_indices.map(n=>idx.entities.get(o.entity).dates[n]));
+    if(!dates.some(d=>dateOverlaps(d,from,to))&&!(state.unknown&&(dates.some(d=>d.start===null)||leads.length)))return false;
+    if(terms.length){
+      const hay=normalize([f.label,f.summary,...f.features.map(v=>v.label),...entities.flatMap(e=>[e.label,e.note,idx.cultures.get(e.culture).label]),...obs.map(o=>o.note),...leads.flatMap(l=>[l.title,l.note,...l.panels.map(p=>p.label)])].join(' '));
+      if(!terms.every(t=>hay.includes(t)))return false;
+    }
+    return true;
+  });
+}
+/** Features must occur in ONE recorded scope; a culture-wide union is not a bundle. */
+export function hasRecordedBundle(data,family,entity,features,{provisional=false}={}) {
+  if(!features.length)return false;
+  return data.attestations.some(o=>o.family===family&&o.entity===entity&&(provisional||o.status==='documented')&&features.every(f=>o.features.includes(f)));
 }
 export function culturalEdges(claims) {
   const edges=new Map();

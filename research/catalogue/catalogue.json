@@ -1,8 +1,8 @@
 {
-  "schema_version": 1,
-  "edition": "2026-09-19",
+  "schema_version": 2,
+  "edition": "2026-09-20",
   "title": "Deep Memory · A catalogue of distant resemblances",
-  "scope": "A first curated collection of claimed anomalies, with optional local and transmission controls. Not a completed worldwide survey.",
+  "scope": "Motif families across cultural traditions, with explicit observations, attributed comparisons and unresolved source leads. Selected examples, not a worldwide prevalence survey.",
   "date_convention": "Signed historical years: -1 = 1 BCE, +1 = 1 CE; no year zero. Intervals include their endpoints. Dates retain their event type and uncertainty; a null range means unresolved.",
   "sources": [
     {
@@ -364,6 +364,24 @@
       "note": "Indus seals in Mesopotamian contexts and the reverse support exchange. A useful control for what independent contact evidence looks like.",
       "author": "The Metropolitan Museum of Art",
       "checked": "2026-09-19"
+    },
+    {
+      "id": "intake",
+      "title": "Input coverage and identification audit",
+      "url": "input-audit.html",
+      "note": "Every supplied file is accounted for. Coverage is separate from verification; unresolved montages remain leads.",
+      "kind": "supplied material",
+      "author": "Supplied project archive",
+      "checked": "2026-09-20"
+    },
+    {
+      "id": "sydney",
+      "title": "Gilgamesh at the University of Sydney",
+      "url": "https://university-history.sydney.edu.au/university-archives-70-years-70-stories-week-11/",
+      "note": "The university archive records the sculpture’s unveiling on 15 October 2000, a gift from the Assyrian community of Australia.",
+      "kind": "institutional archive",
+      "author": "University of Sydney Archives",
+      "checked": "2026-09-20"
     }
   ],
   "places": [
@@ -1495,6 +1513,32 @@
       "text": "Seals found outside their producing regions provide material evidence of exchange.",
       "physical_id": "indus-exchange-record",
       "culture": "mesopotamian-exchange"
+    },
+    {
+      "id": "gate-sun",
+      "label": "Gate of the Sun · frieze",
+      "kind": "surface",
+      "place": "tiwanaku",
+      "media": "gate-input",
+      "dates": [
+        {
+          "start": null,
+          "end": null,
+          "label": "Carving date unresolved here",
+          "kind": "unresolved",
+          "source": null,
+          "note": "The input register gives a broad Tiwanaku-period attribution. No object-specific dating source has been checked for this entry."
+        }
+      ],
+      "sources": [
+        "inputs",
+        "intake"
+      ],
+      "note": "A central staff-bearer is surrounded by rows of attendants, including bird-headed figures. The supplied post’s name “Viracocha” is an interpretation, not an inscriptional identification.",
+      "text": "",
+      "physical_id": "gate-of-the-sun",
+      "culture": "tiwanaku",
+      "alternate_media": []
     }
   ],
   "media": [
@@ -1821,6 +1865,282 @@
       "alt": "The back of Hoa Hakananai’a photographed in different light",
       "url": "https://commons.wikimedia.org/wiki/File:Back_side_of_Hoa_Hakananai%27a_stone_moai.jpg",
       "kind": "photograph"
+    },
+    {
+      "id": "gate-input",
+      "path": "img/inputs/gate-of-the-sun.jpeg",
+      "caption": "Gate of the Sun, Tiwanaku: central staff-bearing figure and rows of attendants.",
+      "alt": "Gate of the Sun, Tiwanaku: central staff-bearing figure and rows of attendants.",
+      "credit": "Supplied reference; original photographer or compiler uncredited unless stated in the audit.",
+      "rights": "Rights unresolved; retained for source criticism. Not covered by the code licence.",
+      "url": "input-audit.html",
+      "kind": "supplied image",
+      "transformation": "Existing published reference; consult the original image register for its transformation history.",
+      "sha256": "96e6fa0715fa97b15fb26b19c0569bea4154373c24c91202fcc898acfb034ac0"
+    },
+    {
+      "id": "staff-montage",
+      "path": "img/intake/staff-montage.jpeg",
+      "caption": "Supplied 21-panel montage of figures with staffs, animals and flanking forms. Its regional captions are unverified.",
+      "alt": "Supplied 21-panel montage of figures with staffs, animals and flanking forms. Its regional captions are unverified.",
+      "credit": "Supplied reference; original photographer or compiler uncredited unless stated in the audit.",
+      "rights": "Rights unresolved; retained for source criticism. Not covered by the code licence.",
+      "url": "input-audit.html",
+      "kind": "supplied image",
+      "transformation": "Original supplied bytes; displayed without cropping or reconstruction.",
+      "sha256": "4c69f2f40fc04474feeef62621c9c761398a9e661fe1aaeca5eb2a04ff757e72"
+    },
+    {
+      "id": "lion-pair",
+      "path": "img/intake/lion-pair.jpeg",
+      "caption": "Modern Sydney Gilgamesh sculpture beside an Assyrian hero holding a lion.",
+      "alt": "Modern Sydney Gilgamesh sculpture beside an Assyrian hero holding a lion.",
+      "credit": "Supplied reference; original photographer or compiler uncredited unless stated in the audit.",
+      "rights": "Rights unresolved; retained for source criticism. Not covered by the code licence.",
+      "url": "input-audit.html",
+      "kind": "supplied image",
+      "transformation": "Original supplied bytes; displayed without cropping or reconstruction.",
+      "sha256": "e2b84dd3d5c300518ecaefd6d084c6617923c281ff0e991010e2b555f71b327d"
+    },
+    {
+      "id": "enclosing-montage",
+      "path": "img/intake/enclosing-montage.jpeg",
+      "caption": "Four-panel serpent comparison. Two panels repeat La Venta Monument 19 under inconsistent labels.",
+      "alt": "Four-panel serpent comparison. Two panels repeat La Venta Monument 19 under inconsistent labels.",
+      "credit": "Supplied reference; original photographer or compiler uncredited unless stated in the audit.",
+      "rights": "Rights unresolved; retained for source criticism. Not covered by the code licence.",
+      "url": "input-audit.html",
+      "kind": "supplied image",
+      "transformation": "Original supplied bytes; displayed without cropping or reconstruction.",
+      "sha256": "f18b55711d6ffc2ca2e4dec273b88c091b3fbbe398c30efb4f32d8e1f3e2050b"
+    },
+    {
+      "id": "animal-back-pair",
+      "path": "img/intake/animal-back-pair.png",
+      "caption": "Post comparing animal-on-human-back sculptures attributed to San Agustín and Karahantepe.",
+      "alt": "Post comparing animal-on-human-back sculptures attributed to San Agustín and Karahantepe.",
+      "credit": "Supplied reference; original photographer or compiler uncredited unless stated in the audit.",
+      "rights": "Rights unresolved; retained for source criticism. Not covered by the code licence.",
+      "url": "input-audit.html",
+      "kind": "supplied image",
+      "transformation": "Original supplied bytes; displayed without cropping or reconstruction.",
+      "sha256": "593141494d17d09ac5bbba67fcb3b47b718d128f22acd767588ac540429e4dd9"
+    },
+    {
+      "id": "bird-mask-front",
+      "path": "img/intake/bird-mask-front.jpeg",
+      "caption": "Frontal carved bird mask; site and object unverified.",
+      "alt": "Frontal carved bird mask; site and object unverified.",
+      "credit": "Supplied reference; original photographer or compiler uncredited unless stated in the audit.",
+      "rights": "Rights unresolved; retained for source criticism. Not covered by the code licence.",
+      "url": "input-audit.html",
+      "kind": "supplied image",
+      "transformation": "Original supplied bytes; displayed without cropping or reconstruction.",
+      "sha256": "ff88d559551d17e134765ca668cba58842a04b29ad3bf79b4602306f42c11126"
+    },
+    {
+      "id": "bird-mask-profile",
+      "path": "img/intake/bird-mask-profile.jpeg",
+      "caption": "Human face below a birdlike beak, side view; site unverified.",
+      "alt": "Human face below a birdlike beak, side view; site unverified.",
+      "credit": "Supplied reference; original photographer or compiler uncredited unless stated in the audit.",
+      "rights": "Rights unresolved; retained for source criticism. Not covered by the code licence.",
+      "url": "input-audit.html",
+      "kind": "supplied image",
+      "transformation": "Original supplied bytes; displayed without cropping or reconstruction.",
+      "sha256": "7d43d7d2e0ae8d7fd5f7975e94800fd1d3a39868018c4d04b1fb1599246b4e16"
+    },
+    {
+      "id": "bird-mask-oblique",
+      "path": "img/intake/bird-mask-oblique.jpeg",
+      "caption": "Oblique view of a human face inside a birdlike form; identity unverified.",
+      "alt": "Oblique view of a human face inside a birdlike form; identity unverified.",
+      "credit": "Supplied reference; original photographer or compiler uncredited unless stated in the audit.",
+      "rights": "Rights unresolved; retained for source criticism. Not covered by the code licence.",
+      "url": "input-audit.html",
+      "kind": "supplied image",
+      "transformation": "Original supplied bytes; displayed without cropping or reconstruction.",
+      "sha256": "bd04bd62fb0a8bbd34c2b5a8e37d627437131556d951c0fa4e279cfb4290773b"
+    },
+    {
+      "id": "thoth-input",
+      "path": "img/intake/thoth-input.png",
+      "caption": "Ibis-headed Egyptian-style figure in a supplied image; object and authenticity unresolved.",
+      "alt": "Ibis-headed Egyptian-style figure in a supplied image; object and authenticity unresolved.",
+      "credit": "Supplied reference; original photographer or compiler uncredited unless stated in the audit.",
+      "rights": "Rights unresolved; retained for source criticism. Not covered by the code licence.",
+      "url": "input-audit.html",
+      "kind": "supplied image",
+      "transformation": "Original supplied bytes; displayed without cropping or reconstruction.",
+      "sha256": "3344ef0562c1b78f68b9407cca611ecb3de12d62700df75b134c2f20f5908b8f"
+    },
+    {
+      "id": "apkallu-input",
+      "path": "img/intake/apkallu-input.png",
+      "caption": "Bird-headed protective figure with bucket and cone; exact relief record untraced.",
+      "alt": "Bird-headed protective figure with bucket and cone; exact relief record untraced.",
+      "credit": "Supplied reference; original photographer or compiler uncredited unless stated in the audit.",
+      "rights": "Rights unresolved; retained for source criticism. Not covered by the code licence.",
+      "url": "input-audit.html",
+      "kind": "supplied image",
+      "transformation": "Original supplied bytes; displayed without cropping or reconstruction.",
+      "sha256": "b7ca4b895c3fe1f9b8c4dd2c8c8e90068e1a22e82e84193a512ccc1834990e5a"
+    },
+    {
+      "id": "costume-input",
+      "path": "img/intake/costume-input.png",
+      "caption": "Modern feather-regalia photograph used in a post’s bird-costume argument; community and event unverified.",
+      "alt": "Modern feather-regalia photograph used in a post’s bird-costume argument; community and event unverified.",
+      "credit": "Supplied reference; original photographer or compiler uncredited unless stated in the audit.",
+      "rights": "Rights unresolved; retained for source criticism. Not covered by the code licence.",
+      "url": "input-audit.html",
+      "kind": "supplied image",
+      "transformation": "Original supplied bytes; displayed without cropping or reconstruction.",
+      "sha256": "918353e34ccc3afc279b88a37f2820316fc7f75588a33fe4fe759aa3a9cb4c21"
+    },
+    {
+      "id": "jiroft-10",
+      "path": "img/intake/jiroft-10.png",
+      "caption": "Handled stone object attributed in the post to Jiroft; individual provenance unresolved.",
+      "alt": "Handled stone object attributed in the post to Jiroft; individual provenance unresolved.",
+      "credit": "Supplied reference; original photographer or compiler uncredited unless stated in the audit.",
+      "rights": "Rights unresolved; retained for source criticism. Not covered by the code licence.",
+      "url": "input-audit.html",
+      "kind": "supplied image",
+      "transformation": "Original supplied bytes; displayed without cropping or reconstruction.",
+      "sha256": "e8ff3b62611869a8f1c4ec66dbf66cb9733f46b2d7655d471ee8a1f41a3289bb"
+    },
+    {
+      "id": "jiroft-16",
+      "path": "img/intake/jiroft-16.png",
+      "caption": "Handled stone object attributed in the post to Jiroft; individual provenance unresolved.",
+      "alt": "Handled stone object attributed in the post to Jiroft; individual provenance unresolved.",
+      "credit": "Supplied reference; original photographer or compiler uncredited unless stated in the audit.",
+      "rights": "Rights unresolved; retained for source criticism. Not covered by the code licence.",
+      "url": "input-audit.html",
+      "kind": "supplied image",
+      "transformation": "Original supplied bytes; displayed without cropping or reconstruction.",
+      "sha256": "5ce90db8b01cd9973e503419b35e6a3e233f5b4bb1aa0265c79a13921b014cda"
+    },
+    {
+      "id": "jiroft-22",
+      "path": "img/intake/jiroft-22.png",
+      "caption": "Handled stone object attributed in the post to Jiroft; individual provenance unresolved.",
+      "alt": "Handled stone object attributed in the post to Jiroft; individual provenance unresolved.",
+      "credit": "Supplied reference; original photographer or compiler uncredited unless stated in the audit.",
+      "rights": "Rights unresolved; retained for source criticism. Not covered by the code licence.",
+      "url": "input-audit.html",
+      "kind": "supplied image",
+      "transformation": "Original supplied bytes; displayed without cropping or reconstruction.",
+      "sha256": "bb215314ce93dc586caf28ee999998b0f7eadf4b51c7c39e8f79160735e09b30"
+    },
+    {
+      "id": "jiroft-27",
+      "path": "img/intake/jiroft-27.png",
+      "caption": "Handled stone object attributed in the post to Jiroft; individual provenance unresolved.",
+      "alt": "Handled stone object attributed in the post to Jiroft; individual provenance unresolved.",
+      "credit": "Supplied reference; original photographer or compiler uncredited unless stated in the audit.",
+      "rights": "Rights unresolved; retained for source criticism. Not covered by the code licence.",
+      "url": "input-audit.html",
+      "kind": "supplied image",
+      "transformation": "Original supplied bytes; displayed without cropping or reconstruction.",
+      "sha256": "f09020c4213473713dc8b1a239984c0ed1171257c30ae5254e8016bbf6e98a02"
+    },
+    {
+      "id": "bucket-input",
+      "path": "img/inputs/fenton/bush-bucket.jpg",
+      "caption": "Bark bucket, Pillar 43 and an ethnographic excerpt in Fenton’s comparison.",
+      "alt": "Bark bucket, Pillar 43 and an ethnographic excerpt in Fenton’s comparison.",
+      "credit": "Supplied archive; see original image register.",
+      "rights": "Underlying rights unresolved; reproduced for commentary.",
+      "url": "data/image-register.json",
+      "kind": "supplied image",
+      "transformation": "Existing archived image; original transformation recorded in image register.",
+      "sha256": "6fbf7f2c1922a3909e2912ac0014e9aff6de64156abec2df231ff37098bd9826"
+    },
+    {
+      "id": "body-sign-input",
+      "path": "img/inputs/fenton/churinga-symbols.jpg",
+      "caption": "Fenton’s montage of pillar signs, body painting and an incised sacred object.",
+      "alt": "Fenton’s montage of pillar signs, body painting and an incised sacred object.",
+      "credit": "Supplied archive; see original image register.",
+      "rights": "Underlying rights unresolved; reproduced for commentary.",
+      "url": "data/image-register.json",
+      "kind": "supplied image",
+      "transformation": "Existing archived image; original transformation recorded in image register.",
+      "sha256": "5e70a9b0250a427616281be1c6ac3bc4bfb262403751f8381df46f2040fe8e4a"
+    },
+    {
+      "id": "t-shape-input",
+      "path": "img/inputs/fenton/t-shapes.jpg",
+      "caption": "Fenton’s comparison of ceremonial headdresses, pillars and a rock painting.",
+      "alt": "Fenton’s comparison of ceremonial headdresses, pillars and a rock painting.",
+      "credit": "Supplied archive; see original image register.",
+      "rights": "Underlying rights unresolved; reproduced for commentary.",
+      "url": "data/image-register.json",
+      "kind": "supplied image",
+      "transformation": "Existing archived image; original transformation recorded in image register.",
+      "sha256": "3535dff593df5a6e95eea1baf010e4540094505b915769629c54ac194c1b9a7c"
+    },
+    {
+      "id": "birth-input",
+      "path": "img/inputs/fenton/birthing-figure.jpg",
+      "caption": "Fenton’s comparison of squatting figures and a Rainbow Serpent painting.",
+      "alt": "Fenton’s comparison of squatting figures and a Rainbow Serpent painting.",
+      "credit": "Supplied archive; see original image register.",
+      "rights": "Underlying rights unresolved; reproduced for commentary.",
+      "url": "data/image-register.json",
+      "kind": "supplied image",
+      "transformation": "Existing archived image; original transformation recorded in image register.",
+      "sha256": "5e5b4b08fafa16b13cdb4451a52d6027f3dd286b3095cc8ea81bbbbc5b8e1012"
+    },
+    {
+      "id": "yingarna-input",
+      "path": "img/inputs/fenton/yinganna.jpg",
+      "caption": "Yingarna painting at Injalak Hill; bags and creation narrative are part of the comparison.",
+      "alt": "Yingarna painting at Injalak Hill; bags and creation narrative are part of the comparison.",
+      "credit": "Supplied archive; see original image register.",
+      "rights": "Underlying rights unresolved; reproduced for commentary.",
+      "url": "data/image-register.json",
+      "kind": "supplied image",
+      "transformation": "Existing archived image; original transformation recorded in image register.",
+      "sha256": "0b209fca0722bc9d249617fc8faf5b1abf01d71ac370187a44d943b5d4fc685a"
+    },
+    {
+      "id": "snake-head-input",
+      "path": "img/inputs/fenton/serpent-heads.jpg",
+      "caption": "Four broad-headed serpent carvings; three object identities remain untraced.",
+      "alt": "Four broad-headed serpent carvings; three object identities remain untraced.",
+      "credit": "Supplied archive; see original image register.",
+      "rights": "Underlying rights unresolved; reproduced for commentary.",
+      "url": "data/image-register.json",
+      "kind": "supplied image",
+      "transformation": "Existing archived image; original transformation recorded in image register.",
+      "sha256": "227695ccfbdfa04ea0fe43f3ee86b042302df63ed952e18a6e45fbe147631eac"
+    },
+    {
+      "id": "animals-input",
+      "path": "img/inputs/animal-montage.jpeg",
+      "caption": "Montage of several animal sculptures and reliefs; individual identities need separation.",
+      "alt": "Montage of several animal sculptures and reliefs; individual identities need separation.",
+      "credit": "Supplied archive; see original image register.",
+      "rights": "Underlying rights unresolved; reproduced for commentary.",
+      "url": "data/image-register.json",
+      "kind": "supplied image",
+      "transformation": "Existing archived image; original transformation recorded in image register.",
+      "sha256": "c217cba50926fb75409470e080f8382e1e6772b848f890283f5993e13a8f24d2"
+    },
+    {
+      "id": "entrance-input",
+      "path": "img/inputs/animal-in-context.jpeg",
+      "caption": "Animal sculpture in an architectural setting; exact photograph untraced.",
+      "alt": "Animal sculpture in an architectural setting; exact photograph untraced.",
+      "credit": "Supplied archive; see original image register.",
+      "rights": "Underlying rights unresolved; reproduced for commentary.",
+      "url": "data/image-register.json",
+      "kind": "supplied image",
+      "transformation": "Existing archived image; original transformation recorded in image register.",
+      "sha256": "f447f9478e7fcbd4ab8d403b52921e9aee5bf494698102f676e1ef6c502a97c2"
     }
   ],
   "groups": [
@@ -2359,6 +2679,22 @@
       ],
       "cultures": [
         "mesopotamian-exchange"
+      ]
+    },
+    {
+      "id": "gate-attendants",
+      "label": "Tiwanaku’s bird-headed attendants",
+      "members": [
+        "gate-sun"
+      ],
+      "description": "The Gate of the Sun’s frieze.",
+      "membership_reason": "One identified monument selected from the supplied comparison; repeated attendants are not independent monuments.",
+      "sources": [
+        "inputs",
+        "intake"
+      ],
+      "cultures": [
+        "tiwanaku"
       ]
     }
   ],
@@ -3701,6 +4037,69 @@
         "indus",
         "mesopotamian-exchange"
       ]
+    },
+    {
+      "id": "tiwanaku-birdmen",
+      "title": "Bird-headed attendants across traditions",
+      "dek": "The Gate of the Sun joins the wider birdman question.",
+      "motifs": [
+        "birds"
+      ],
+      "members": [
+        "gate-sun",
+        "apkallu",
+        "hoa-back",
+        "boulder",
+        "mata-ngarau",
+        "orongo-slab"
+      ],
+      "status": "source-check",
+      "kind": "claim",
+      "anomaly": "A supplied post places Tiwanaku’s bird-headed attendants within a wider birdman comparison. Their poses, attributes and local histories need separate comparison.",
+      "features": [
+        "Bird-headed figures occur in all three selected groups."
+      ],
+      "differences": [
+        "Staff-bearing attendants, protective figures and Rapanui birdmen occupy different scenes and contexts.",
+        "“Viracocha” in the supplied caption is an interpretive identification."
+      ],
+      "diffusion": {
+        "status": "unassessed",
+        "note": "This input-led extension has not established or excluded a transmission route."
+      },
+      "origin": {
+        "source": "intake",
+        "note": "Archaic Lens quoting Jason Wilde in the supplied 10 September 2026 screenshot; the wider grouping is an editorial cross-reference."
+      },
+      "sources": [
+        "inputs",
+        "met-apkallu",
+        "hoa",
+        "intake"
+      ],
+      "next_steps": [
+        "Trace the Tiwanaku carving’s chronology and iconographic scholarship.",
+        "Compare the literal pose and held attributes before comparing divine names."
+      ],
+      "links": [],
+      "controls": [
+        "local-rapanui"
+      ],
+      "review": {
+        "date": "2026-09-20",
+        "reviewer": "Deep Memory editorial",
+        "note": "Source-led catalogue extension, not an independent specialist review."
+      },
+      "groups": [
+        "gate-attendants",
+        "nimrud",
+        "rapanui-birdmen"
+      ],
+      "cultures": [
+        "tiwanaku",
+        "assyria",
+        "rapanui"
+      ]
     }
   ],
   "motifs": [
@@ -3808,7 +4207,8 @@
       "id": "tiwanaku",
       "label": "Tiwanaku",
       "members": [
-        "ponce"
+        "ponce",
+        "gate-sun"
       ],
       "note": "A selected monumental figure; wider Andean traditions are not collapsed into this cluster."
     },
@@ -3957,6 +4357,1990 @@
         "indus-exchange-record"
       ],
       "note": "A regional context for the documented Indus trade control. Individual finds and phases remain to be registered."
+    }
+  ],
+  "families": [
+    {
+      "id": "bird-figures",
+      "label": "Birds & human forms",
+      "summary": "Bird bodies, human limbs, costumes and attendants. Which combinations recur?",
+      "motifs": [
+        "birds"
+      ],
+      "features": [
+        {
+          "id": "bird",
+          "label": "Bird form"
+        },
+        {
+          "id": "human",
+          "label": "Human-shaped body or limbs"
+        },
+        {
+          "id": "costume",
+          "label": "Bird costume"
+        }
+      ],
+      "claims": [
+        "birdmen-worlds",
+        "assyria-rapanui-birdmen",
+        "cacaxtla-rapanui",
+        "cahokia-rapanui",
+        "arnhem-pillar43",
+        "tiwanaku-birdmen"
+      ],
+      "cover": "p43"
+    },
+    {
+      "id": "bird-round-form",
+      "label": "The bird & the rounded form",
+      "summary": "A narrower question: where is the rounded form, and how does the bird relate to it?",
+      "motifs": [
+        "birds"
+      ],
+      "features": [
+        {
+          "id": "bird",
+          "label": "Bird form"
+        },
+        {
+          "id": "round",
+          "label": "Rounded form in the scene"
+        },
+        {
+          "id": "wing",
+          "label": "Above a wing"
+        },
+        {
+          "id": "hand",
+          "label": "At a bent hand"
+        }
+      ],
+      "claims": [
+        "bird-and-disc",
+        "birdmen-worlds"
+      ],
+      "cover": "boulder"
+    },
+    {
+      "id": "handled-forms",
+      "label": "Handled forms",
+      "summary": "An arch is visible. A shared object, use or meaning still needs evidence.",
+      "motifs": [
+        "handled"
+      ],
+      "features": [
+        {
+          "id": "arched",
+          "label": "Arched or handled outline"
+        },
+        {
+          "id": "held",
+          "label": "Held by a figure"
+        }
+      ],
+      "claims": [
+        "handled-forms",
+        "jiroft-olmec"
+      ],
+      "cover": "met-apkallu"
+    },
+    {
+      "id": "paired-flankers",
+      "label": "Figures, staffs & flanking animals",
+      "summary": "Central figures with something on each side: one broad family, several distinct arrangements.",
+      "motifs": [
+        "bodies",
+        "animals"
+      ],
+      "features": [
+        {
+          "id": "central",
+          "label": "Central figure"
+        },
+        {
+          "id": "bilateral",
+          "label": "Paired flanking attributes"
+        },
+        {
+          "id": "staffs",
+          "label": "Two staffs"
+        }
+      ],
+      "claims": [],
+      "cover": "staff-montage"
+    },
+    {
+      "id": "animal-on-human",
+      "label": "An animal over a human back",
+      "summary": "The San Agustín–Karahantepe comparison, awaiting object records.",
+      "motifs": [
+        "bodies",
+        "animals"
+      ],
+      "features": [
+        {
+          "id": "human",
+          "label": "Human figure"
+        },
+        {
+          "id": "back",
+          "label": "Creature over the back"
+        }
+      ],
+      "claims": [],
+      "cover": "animal-back-pair"
+    },
+    {
+      "id": "enclosing-creature",
+      "label": "Within a creature’s curve",
+      "summary": "Figures framed by a serpent or a creature’s open form. The captions need checking.",
+      "motifs": [
+        "serpents",
+        "bodies"
+      ],
+      "features": [
+        {
+          "id": "figure",
+          "label": "Human figure"
+        },
+        {
+          "id": "curve",
+          "label": "Surrounding creature"
+        }
+      ],
+      "claims": [
+        "jiroft-olmec"
+      ],
+      "cover": "laventa19"
+    },
+    {
+      "id": "torso-gestures",
+      "label": "Hands across the torso",
+      "summary": "Similar poses across stone figures; the objects and carving episodes stay separate.",
+      "motifs": [
+        "bodies"
+      ],
+      "features": [
+        {
+          "id": "torso",
+          "label": "Hands at torso"
+        },
+        {
+          "id": "paired",
+          "label": "Both arms represented"
+        }
+      ],
+      "claims": [
+        "hands-across-torsos"
+      ],
+      "cover": "hoa_front"
+    },
+    {
+      "id": "ribbed-figures",
+      "label": "Ribs & lean bodies",
+      "summary": "Prominent ribs in Anatolian sculpture and Rapanui wooden figures.",
+      "motifs": [
+        "bodies"
+      ],
+      "features": [
+        {
+          "id": "ribs",
+          "label": "Prominent ribs"
+        },
+        {
+          "id": "human",
+          "label": "Human figure"
+        }
+      ],
+      "claims": [
+        "ribs-across-oceans"
+      ],
+      "cover": "karahan_man"
+    },
+    {
+      "id": "neck-lines",
+      "label": "Marks at the neck",
+      "summary": "Urfa Man’s collar and the proposed “V-neck” on Pillar 43.",
+      "motifs": [
+        "bodies",
+        "birds"
+      ],
+      "features": [
+        {
+          "id": "neck",
+          "label": "Lines at neck"
+        },
+        {
+          "id": "v",
+          "label": "V-shaped arrangement"
+        }
+      ],
+      "claims": [],
+      "cover": "urfa_man"
+    },
+    {
+      "id": "t-shaped-figures",
+      "label": "T-shaped forms",
+      "summary": "Pillars, headdresses and painted figures in a proposed Australian connection.",
+      "motifs": [
+        "bodies",
+        "architecture"
+      ],
+      "features": [
+        {
+          "id": "t",
+          "label": "T-shaped outline"
+        }
+      ],
+      "claims": [],
+      "cover": "t-shape-input"
+    },
+    {
+      "id": "body-signs",
+      "label": "Signs on bodies & stones",
+      "summary": "Bracketed marks, body painting and incised objects in the supplied thread.",
+      "motifs": [
+        "scripts",
+        "bodies"
+      ],
+      "features": [
+        {
+          "id": "bracket",
+          "label": "Bracketed geometric forms"
+        }
+      ],
+      "claims": [],
+      "cover": "body-sign-input"
+    },
+    {
+      "id": "birthing-figures",
+      "label": "Squatting & birthing figures",
+      "summary": "A posture comparison whose identities, episodes and meanings need untangling.",
+      "motifs": [
+        "bodies"
+      ],
+      "features": [
+        {
+          "id": "squat",
+          "label": "Squatting posture"
+        }
+      ],
+      "claims": [],
+      "cover": "birth-input"
+    },
+    {
+      "id": "serpent-beings",
+      "label": "Serpents & composite creatures",
+      "summary": "Head shapes, feathers and body curves: keep the specific feature in view.",
+      "motifs": [
+        "serpents"
+      ],
+      "features": [
+        {
+          "id": "serpent",
+          "label": "Serpentlike form"
+        },
+        {
+          "id": "head",
+          "label": "Broad or elaborate head"
+        }
+      ],
+      "claims": [
+        "serpents-across-worlds",
+        "jiroft-olmec"
+      ],
+      "cover": "serpent-montage"
+    },
+    {
+      "id": "animal-sculpture",
+      "label": "Animal sculpture",
+      "summary": "Boars, pigs and unseparated animal images from the inputs.",
+      "motifs": [
+        "animals"
+      ],
+      "features": [
+        {
+          "id": "animal",
+          "label": "Animal form"
+        }
+      ],
+      "claims": [
+        "boars-east-west"
+      ],
+      "cover": "boar"
+    },
+    {
+      "id": "sacred-centres",
+      "label": "Centres of the world",
+      "summary": "Stones, place names and claims of a sacred centre are different kinds of evidence.",
+      "motifs": [
+        "centres"
+      ],
+      "features": [
+        {
+          "id": "centre",
+          "label": "Centre or navel association"
+        }
+      ],
+      "claims": [
+        "sacred-navels"
+      ],
+      "cover": "omphalos"
+    },
+    {
+      "id": "sign-systems",
+      "label": "Signs & scripts",
+      "summary": "From selected look-alikes to whole repertoires and families of signs.",
+      "motifs": [
+        "scripts"
+      ],
+      "features": [
+        {
+          "id": "signs",
+          "label": "Repeated graphic signs"
+        }
+      ],
+      "claims": [
+        "indus-rongorongo"
+      ],
+      "cover": "met-indus"
+    },
+    {
+      "id": "teaching-figures",
+      "label": "Teachers & travellers",
+      "summary": "Arrivals, instruction and departures, checked against particular witnesses.",
+      "motifs": [
+        "teachers"
+      ],
+      "features": [
+        {
+          "id": "arrival",
+          "label": "Arrival"
+        },
+        {
+          "id": "teaching",
+          "label": "Teaching"
+        },
+        {
+          "id": "departure",
+          "label": "Departure"
+        }
+      ],
+      "claims": [
+        "teachers-across-oceans",
+        "bochica-oannes",
+        "pohnpei-teachers"
+      ],
+      "cover": null
+    },
+    {
+      "id": "flood-sequences",
+      "label": "Floods & survivors",
+      "summary": "A boat is a broad resemblance. A sequence of actions is a more precise question.",
+      "motifs": [
+        "floods"
+      ],
+      "features": [
+        {
+          "id": "warning",
+          "label": "Warning"
+        },
+        {
+          "id": "boat",
+          "label": "Boat or vessel"
+        },
+        {
+          "id": "birds",
+          "label": "Bird-release sequence"
+        }
+      ],
+      "claims": [
+        "flood-survivors"
+      ],
+      "cover": null
+    },
+    {
+      "id": "stepped-monuments",
+      "label": "Stepped monuments",
+      "summary": "Similar profiles invite comparison of construction, use and local predecessors.",
+      "motifs": [
+        "architecture"
+      ],
+      "features": [
+        {
+          "id": "steps",
+          "label": "Stepped profile"
+        }
+      ],
+      "claims": [
+        "stepped-monuments"
+      ],
+      "cover": null
+    }
+  ],
+  "attestations": [
+    {
+      "id": "bird-figures-pillar43",
+      "family": "bird-figures",
+      "entity": "pillar43",
+      "features": [
+        "bird"
+      ],
+      "status": "documented",
+      "scope": "single surface",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "p43",
+        "gt-dates"
+      ],
+      "note": "Excavation description identifies birds; a human–bird hybrid is disputed."
+    },
+    {
+      "id": "bird-figures-pillar2",
+      "family": "bird-figures",
+      "entity": "pillar2",
+      "features": [
+        "bird"
+      ],
+      "status": "documented",
+      "scope": "single surface",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "cranes",
+        "gt-dates"
+      ],
+      "note": "Local carved bird imagery, not the same bird-and-disc arrangement."
+    },
+    {
+      "id": "bird-figures-hoa-back",
+      "family": "bird-figures",
+      "entity": "hoa-back",
+      "features": [
+        "bird",
+        "human"
+      ],
+      "status": "documented",
+      "scope": "single surface",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "hoa",
+        "moai",
+        "miles"
+      ],
+      "note": "Birdman carvings on the back; not the older statue’s frontal hands."
+    },
+    {
+      "id": "bird-figures-boulder",
+      "family": "bird-figures",
+      "entity": "boulder",
+      "features": [
+        "bird",
+        "human"
+      ],
+      "status": "documented",
+      "scope": "single surface",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "boulder",
+        "routledge"
+      ],
+      "note": "Bird-headed human form documented in the museum record and 1919 photograph."
+    },
+    {
+      "id": "bird-figures-mata-ngarau",
+      "family": "bird-figures",
+      "entity": "mata-ngarau",
+      "features": [
+        "bird",
+        "human"
+      ],
+      "status": "documented",
+      "scope": "single surface",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "routledge"
+      ],
+      "note": "A selected local birdman surface, not a complete Rapanui census."
+    },
+    {
+      "id": "bird-figures-orongo-slab",
+      "family": "bird-figures",
+      "entity": "orongo-slab",
+      "features": [
+        "bird",
+        "human"
+      ],
+      "status": "documented",
+      "scope": "single surface",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "painted-slab"
+      ],
+      "note": "Painted birdman from the Orongo repertoire."
+    },
+    {
+      "id": "bird-figures-apkallu",
+      "family": "bird-figures",
+      "entity": "apkallu",
+      "features": [
+        "bird",
+        "human"
+      ],
+      "status": "documented",
+      "scope": "single surface",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "met-apkallu"
+      ],
+      "note": "Museum-documented bird-headed protective figure."
+    },
+    {
+      "id": "bird-figures-cacaxtla-bird",
+      "family": "bird-figures",
+      "entity": "cacaxtla-bird",
+      "features": [
+        "bird",
+        "human",
+        "costume"
+      ],
+      "status": "documented",
+      "scope": "single surface",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "cacaxtla",
+        "cacaxtla-bird"
+      ],
+      "note": "A human figure wearing bird costume in the mural."
+    },
+    {
+      "id": "bird-figures-cahokia-bird",
+      "family": "bird-figures",
+      "entity": "cahokia-bird",
+      "features": [
+        "bird",
+        "human"
+      ],
+      "status": "documented",
+      "scope": "single surface",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "atlas"
+      ],
+      "note": "Birdman tablet; local identity and meaning remain part of the dossier."
+    },
+    {
+      "id": "bird-figures-gate-sun",
+      "family": "bird-figures",
+      "entity": "gate-sun",
+      "features": [
+        "bird",
+        "human"
+      ],
+      "status": "documented",
+      "scope": "single surface",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "inputs",
+        "intake"
+      ],
+      "note": "Bird-headed attendants are visible in the frieze; the central figure is a separate motif."
+    },
+    {
+      "id": "bird-figures-arnhem-painting",
+      "family": "bird-figures",
+      "entity": "arnhem-painting",
+      "features": [
+        "bird"
+      ],
+      "status": "provisional",
+      "scope": "single surface",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "fenton",
+        "inputs"
+      ],
+      "note": "Birdlike reading comes from the proposing montage; exact panel untraced."
+    },
+    {
+      "id": "bird-round-form-pillar43",
+      "family": "bird-round-form",
+      "entity": "pillar43",
+      "features": [
+        "bird",
+        "round",
+        "wing"
+      ],
+      "status": "documented",
+      "scope": "single surface",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "p43",
+        "gt-dates"
+      ],
+      "note": "The disc is above the wing, rather than held in a human hand."
+    },
+    {
+      "id": "bird-round-form-boulder",
+      "family": "bird-round-form",
+      "entity": "boulder",
+      "features": [
+        "bird",
+        "round",
+        "hand"
+      ],
+      "status": "documented",
+      "scope": "single surface",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "boulder",
+        "routledge"
+      ],
+      "note": "The rounded object meets a bent hand. Its meaning is interpreted through the birdman context."
+    },
+    {
+      "id": "bird-round-form-hoa-back",
+      "family": "bird-round-form",
+      "entity": "hoa-back",
+      "features": [
+        "bird",
+        "round"
+      ],
+      "status": "documented",
+      "scope": "single surface",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "hoa",
+        "moai",
+        "miles"
+      ],
+      "note": "The ring lies lower on the back, separate from the upper birdmen. It is not the boulder’s hand-held arrangement."
+    },
+    {
+      "id": "handled-forms-pillar43",
+      "family": "handled-forms",
+      "entity": "pillar43",
+      "features": [
+        "arched"
+      ],
+      "status": "documented",
+      "scope": "single surface",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "p43",
+        "gt-dates"
+      ],
+      "note": "Three arched forms at the top; no hand holds them. Calling them bags is an interpretation."
+    },
+    {
+      "id": "handled-forms-apkallu",
+      "family": "handled-forms",
+      "entity": "apkallu",
+      "features": [
+        "arched",
+        "held"
+      ],
+      "status": "documented",
+      "scope": "single surface",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "met-apkallu"
+      ],
+      "note": "A handled bucket is held beside the body."
+    },
+    {
+      "id": "handled-forms-laventa19",
+      "family": "handled-forms",
+      "entity": "laventa19",
+      "features": [
+        "arched",
+        "held"
+      ],
+      "status": "documented",
+      "scope": "single surface",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "laventa",
+        "laventa-site"
+      ],
+      "note": "Small handled form associated with the seated figure; use is not identified here."
+    },
+    {
+      "id": "handled-forms-jiroft-object",
+      "family": "handled-forms",
+      "entity": "jiroft-object",
+      "features": [
+        "arched"
+      ],
+      "status": "provisional",
+      "scope": "single surface",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "atlas"
+      ],
+      "note": "Supplied image and attribution; exact provenance and date unresolved."
+    },
+    {
+      "id": "paired-flankers-gate-sun",
+      "family": "paired-flankers",
+      "entity": "gate-sun",
+      "features": [
+        "central",
+        "bilateral",
+        "staffs"
+      ],
+      "status": "documented",
+      "scope": "single surface",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "inputs",
+        "intake"
+      ],
+      "note": "Two staffs flank the central figure; the surrounding bird-headed attendants are another part of the scene."
+    },
+    {
+      "id": "enclosing-creature-laventa19",
+      "family": "enclosing-creature",
+      "entity": "laventa19",
+      "features": [
+        "figure",
+        "curve"
+      ],
+      "status": "documented",
+      "scope": "single surface",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "laventa",
+        "laventa-site"
+      ],
+      "note": "The serpent curves around the seated figure. The repeated montage panels reference this same object."
+    },
+    {
+      "id": "torso-gestures-urfa-man",
+      "family": "torso-gestures",
+      "entity": "urfa-man",
+      "features": [
+        "torso",
+        "paired"
+      ],
+      "status": "documented",
+      "scope": "single surface",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "newman",
+        "atlas"
+      ],
+      "note": "Visible torso gesture; this does not assert identical pose or meaning."
+    },
+    {
+      "id": "torso-gestures-hoa-front",
+      "family": "torso-gestures",
+      "entity": "hoa-front",
+      "features": [
+        "torso",
+        "paired"
+      ],
+      "status": "documented",
+      "scope": "single surface",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "hoa",
+        "moai",
+        "dna"
+      ],
+      "note": "Visible torso gesture; this does not assert identical pose or meaning."
+    },
+    {
+      "id": "torso-gestures-ponce",
+      "family": "torso-gestures",
+      "entity": "ponce",
+      "features": [
+        "torso",
+        "paired"
+      ],
+      "status": "documented",
+      "scope": "single surface",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "atlas"
+      ],
+      "note": "Visible torso gesture; this does not assert identical pose or meaning."
+    },
+    {
+      "id": "ribbed-figures-karahan-ribs",
+      "family": "ribbed-figures",
+      "entity": "karahan-ribs",
+      "features": [
+        "ribs",
+        "human"
+      ],
+      "status": "documented",
+      "scope": "single surface",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "karahan",
+        "paqui"
+      ],
+      "note": "Ribs are visible; dating and function require their own source records."
+    },
+    {
+      "id": "ribbed-figures-kavakava",
+      "family": "ribbed-figures",
+      "entity": "kavakava",
+      "features": [
+        "ribs",
+        "human"
+      ],
+      "status": "documented",
+      "scope": "single surface",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "kavakava-photo",
+        "kavakava",
+        "paqui"
+      ],
+      "note": "Ribs are visible; dating and function require their own source records."
+    },
+    {
+      "id": "neck-lines-urfa-man",
+      "family": "neck-lines",
+      "entity": "urfa-man",
+      "features": [
+        "neck",
+        "v"
+      ],
+      "status": "documented",
+      "scope": "single surface",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "newman",
+        "atlas"
+      ],
+      "note": "The V-shaped collar/necklace is visible; a garment interpretation is not required."
+    },
+    {
+      "id": "neck-lines-pillar43",
+      "family": "neck-lines",
+      "entity": "pillar43",
+      "features": [
+        "neck"
+      ],
+      "status": "provisional",
+      "scope": "single surface",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "p43",
+        "gt-dates"
+      ],
+      "note": "Fenton reads the bird’s neck pattern as a V-neck garment; that reading is unresolved."
+    },
+    {
+      "id": "t-shaped-figures-pillar43",
+      "family": "t-shaped-figures",
+      "entity": "pillar43",
+      "features": [
+        "t"
+      ],
+      "status": "documented",
+      "scope": "whole object",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "p43",
+        "gt-dates"
+      ],
+      "note": "The pillar’s overall shape; not a claim that a headdress is represented."
+    },
+    {
+      "id": "serpent-beings-laventa19",
+      "family": "serpent-beings",
+      "entity": "laventa19",
+      "features": [
+        "serpent",
+        "head"
+      ],
+      "status": "documented",
+      "scope": "single surface",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "laventa",
+        "laventa-site"
+      ],
+      "note": "The surrounding creature has an elaborate head; a shared name or mythology is not inferred."
+    },
+    {
+      "id": "serpent-beings-serpent-montage",
+      "family": "serpent-beings",
+      "entity": "serpent-montage",
+      "features": [
+        "serpent"
+      ],
+      "status": "provisional",
+      "scope": "unseparated montage",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "fenton",
+        "inputs"
+      ],
+      "note": "A heterogeneous montage awaits object-by-object separation."
+    },
+    {
+      "id": "animal-sculpture-boar-unidentified",
+      "family": "animal-sculpture",
+      "entity": "boar-unidentified",
+      "features": [
+        "animal"
+      ],
+      "status": "provisional",
+      "scope": "whole object",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "inputs"
+      ],
+      "note": "Animal form visible; precise identity, source and dates remain under review."
+    },
+    {
+      "id": "animal-sculpture-lingjiatan-pig",
+      "family": "animal-sculpture",
+      "entity": "lingjiatan-pig",
+      "features": [
+        "animal"
+      ],
+      "status": "provisional",
+      "scope": "whole object",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "inputs"
+      ],
+      "note": "Animal form visible; precise identity, source and dates remain under review."
+    },
+    {
+      "id": "sacred-centres-omphalos",
+      "family": "sacred-centres",
+      "entity": "omphalos",
+      "features": [
+        "centre"
+      ],
+      "status": "documented",
+      "scope": "object and reported association",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "atlas"
+      ],
+      "note": "Association follows the comparison’s source dossier; object date and the age of the name are separate."
+    },
+    {
+      "id": "sacred-centres-te-pito",
+      "family": "sacred-centres",
+      "entity": "te-pito",
+      "features": [
+        "centre"
+      ],
+      "status": "documented",
+      "scope": "object and reported association",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "atlas",
+        "moai"
+      ],
+      "note": "Association follows the comparison’s source dossier; object date and the age of the name are separate."
+    },
+    {
+      "id": "sign-systems-indus-signs",
+      "family": "sign-systems",
+      "entity": "indus-signs",
+      "features": [
+        "signs"
+      ],
+      "status": "documented",
+      "scope": "corpus overview",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "met-indus",
+        "script-study"
+      ],
+      "note": "Corpus record, not an attestation of every chart pairing."
+    },
+    {
+      "id": "sign-systems-rongorongo",
+      "family": "sign-systems",
+      "entity": "rongorongo",
+      "features": [
+        "signs"
+      ],
+      "status": "documented",
+      "scope": "corpus overview",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "rongo-dates",
+        "rongo-bm",
+        "script-study"
+      ],
+      "note": "Corpus record, not an attestation of every chart pairing."
+    },
+    {
+      "id": "teaching-figures-oannes",
+      "family": "teaching-figures",
+      "entity": "oannes",
+      "features": [
+        "arrival",
+        "teaching",
+        "departure"
+      ],
+      "status": "documented",
+      "scope": "named textual witness",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "civilisers"
+      ],
+      "note": "The mediated Berossus account records emergence, instruction and return to the sea. These are events within this witness, not three independent attestations."
+    },
+    {
+      "id": "teaching-figures-viracocha",
+      "family": "teaching-figures",
+      "entity": "viracocha",
+      "features": [
+        "departure"
+      ],
+      "status": "documented",
+      "scope": "named textual witness",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "civilisers"
+      ],
+      "note": "Departure over the sea is explicit in V3 of the source audit. The teaching claim is uncertain in the inspected passage."
+    },
+    {
+      "id": "teaching-figures-quetzalcoatl",
+      "family": "teaching-figures",
+      "entity": "quetzalcoatl",
+      "features": [
+        "teaching",
+        "departure"
+      ],
+      "status": "documented",
+      "scope": "named textual witness",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "civilisers"
+      ],
+      "note": "Teaching and departure are recorded in the inspected witness; arrival from overseas and a personal return promise are not established there."
+    },
+    {
+      "id": "teaching-figures-bochica",
+      "family": "teaching-figures",
+      "entity": "bochica",
+      "features": [
+        "teaching"
+      ],
+      "status": "provisional",
+      "scope": "named textual witness",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "civilisers"
+      ],
+      "note": "The inspected account supports a teaching-figure comparison only provisionally; some craft claims need earlier witnesses. It describes disappearance, not a departure over the sea."
+    },
+    {
+      "id": "teaching-figures-navigator",
+      "family": "teaching-figures",
+      "entity": "navigator",
+      "features": [
+        "arrival",
+        "teaching"
+      ],
+      "status": "provisional",
+      "scope": "modern retelling",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "inputs"
+      ],
+      "note": "Only the modern supplied post reports this unnamed tradition; an underlying witness has not been traced."
+    },
+    {
+      "id": "flood-sequences-gilgamesh-flood",
+      "family": "flood-sequences",
+      "entity": "gilgamesh-flood",
+      "features": [
+        "warning",
+        "boat",
+        "birds"
+      ],
+      "status": "documented",
+      "scope": "textual episode",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "flood-tablet",
+        "flood-study"
+      ],
+      "note": "Flood Tablet witness includes a vessel and bird-release sequence; those birds do not transfer to every flood story."
+    },
+    {
+      "id": "flood-sequences-manu-flood",
+      "family": "flood-sequences",
+      "entity": "manu-flood",
+      "features": [
+        "warning",
+        "boat"
+      ],
+      "status": "documented",
+      "scope": "textual episode",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "manu"
+      ],
+      "note": "Fish warning and boat in the cited passage; no bird-release claim entered."
+    },
+    {
+      "id": "stepped-monuments-saqqara-pyramid",
+      "family": "stepped-monuments",
+      "entity": "saqqara-pyramid",
+      "features": [
+        "steps"
+      ],
+      "status": "documented",
+      "scope": "monument",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "cassaro"
+      ],
+      "note": "Broad architectural form, with individual construction phases not yet entered."
+    },
+    {
+      "id": "stepped-monuments-kukulkan",
+      "family": "stepped-monuments",
+      "entity": "kukulkan",
+      "features": [
+        "steps"
+      ],
+      "status": "documented",
+      "scope": "monument",
+      "date_indices": [
+        0
+      ],
+      "sources": [
+        "cassaro"
+      ],
+      "note": "Broad architectural form, with individual construction phases not yet entered."
+    }
+  ],
+  "leads": [
+    {
+      "id": "staff-holder-montage",
+      "title": "Staff holders and “masters of animals”",
+      "families": [
+        "paired-flankers"
+      ],
+      "media": [
+        "staff-montage"
+      ],
+      "inputs": [
+        "HR9-AR_XwAMVrSt.jpeg"
+      ],
+      "note": "The seven headings mix countries and huge regions. Similar flanking layouts do not establish that every figure holds animals or two staffs. Repeated views may occur.",
+      "next_step": "Identify each panel against a collection or excavation record; compare held animals, staffs and free-standing attendants separately.",
+      "claims": [],
+      "kind": "claim",
+      "panels": [
+        {
+          "id": "r1-c1",
+          "label": "Bolivia",
+          "identity": "matched",
+          "entity": "gate-sun",
+          "note": "Top-left is the Gate of the Sun; the montage’s remaining identities and repetitions require source matching."
+        },
+        {
+          "id": "r1-c2",
+          "label": "Peru",
+          "identity": "unverified",
+          "entity": null,
+          "note": "Regional heading transcribed, not adopted as an object identification."
+        },
+        {
+          "id": "r1-c3",
+          "label": "Costa Rica",
+          "identity": "unverified",
+          "entity": null,
+          "note": "Regional heading transcribed, not adopted as an object identification."
+        },
+        {
+          "id": "r1-c4",
+          "label": "“Columbia” (caption spelling)",
+          "identity": "unverified",
+          "entity": null,
+          "note": "Regional heading transcribed, not adopted as an object identification."
+        },
+        {
+          "id": "r1-c5",
+          "label": "Indo-Pacific",
+          "identity": "unverified",
+          "entity": null,
+          "note": "Regional heading transcribed, not adopted as an object identification."
+        },
+        {
+          "id": "r1-c6",
+          "label": "Egypt",
+          "identity": "unverified",
+          "entity": null,
+          "note": "Regional heading transcribed, not adopted as an object identification."
+        },
+        {
+          "id": "r1-c7",
+          "label": "Mediterranean",
+          "identity": "unverified",
+          "entity": null,
+          "note": "Regional heading transcribed, not adopted as an object identification."
+        },
+        {
+          "id": "r2-c1",
+          "label": "Bolivia",
+          "identity": "unverified",
+          "entity": null,
+          "note": "Regional heading transcribed, not adopted as an object identification."
+        },
+        {
+          "id": "r2-c2",
+          "label": "Peru",
+          "identity": "unverified",
+          "entity": null,
+          "note": "Regional heading transcribed, not adopted as an object identification."
+        },
+        {
+          "id": "r2-c3",
+          "label": "Costa Rica",
+          "identity": "unverified",
+          "entity": null,
+          "note": "Regional heading transcribed, not adopted as an object identification."
+        },
+        {
+          "id": "r2-c4",
+          "label": "“Columbia” (caption spelling)",
+          "identity": "unverified",
+          "entity": null,
+          "note": "Regional heading transcribed, not adopted as an object identification."
+        },
+        {
+          "id": "r2-c5",
+          "label": "Indo-Pacific",
+          "identity": "unverified",
+          "entity": null,
+          "note": "Regional heading transcribed, not adopted as an object identification."
+        },
+        {
+          "id": "r2-c6",
+          "label": "Egypt",
+          "identity": "unverified",
+          "entity": null,
+          "note": "Regional heading transcribed, not adopted as an object identification."
+        },
+        {
+          "id": "r2-c7",
+          "label": "Mediterranean",
+          "identity": "unverified",
+          "entity": null,
+          "note": "Regional heading transcribed, not adopted as an object identification."
+        },
+        {
+          "id": "r3-c1",
+          "label": "Bolivia",
+          "identity": "unverified",
+          "entity": null,
+          "note": "Regional heading transcribed, not adopted as an object identification."
+        },
+        {
+          "id": "r3-c2",
+          "label": "Peru",
+          "identity": "unverified",
+          "entity": null,
+          "note": "Regional heading transcribed, not adopted as an object identification."
+        },
+        {
+          "id": "r3-c3",
+          "label": "Costa Rica",
+          "identity": "unverified",
+          "entity": null,
+          "note": "Regional heading transcribed, not adopted as an object identification."
+        },
+        {
+          "id": "r3-c4",
+          "label": "“Columbia” (caption spelling)",
+          "identity": "unverified",
+          "entity": null,
+          "note": "Regional heading transcribed, not adopted as an object identification."
+        },
+        {
+          "id": "r3-c5",
+          "label": "Indo-Pacific",
+          "identity": "unverified",
+          "entity": null,
+          "note": "Regional heading transcribed, not adopted as an object identification."
+        },
+        {
+          "id": "r3-c6",
+          "label": "Egypt",
+          "identity": "unverified",
+          "entity": null,
+          "note": "Regional heading transcribed, not adopted as an object identification."
+        },
+        {
+          "id": "r3-c7",
+          "label": "Mediterranean",
+          "identity": "unverified",
+          "entity": null,
+          "note": "Regional heading transcribed, not adopted as an object identification."
+        }
+      ],
+      "sources": [
+        "intake"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "id": "animal-over-back",
+      "title": "San Agustín and Karahantepe · animal over a human back",
+      "families": [
+        "animal-on-human"
+      ],
+      "media": [
+        "animal-back-pair"
+      ],
+      "inputs": [
+        "Screenshot 2026-09-13 at 5.14.08 AM.png"
+      ],
+      "note": "The two locations are the poster’s attributions. Object numbers, photo credits, dates and original contexts have not been verified here.",
+      "next_step": "Trace both sculptures to museum or excavation records; document the creature’s position and whether the human carries or wears it.",
+      "claims": [],
+      "kind": "claim",
+      "panels": [
+        {
+          "id": "left",
+          "label": "San Agustín, Colombia · caption",
+          "identity": "unverified",
+          "entity": null
+        },
+        {
+          "id": "right",
+          "label": "Karahantepe · caption",
+          "identity": "unverified",
+          "entity": null
+        }
+      ],
+      "sources": [
+        "intake"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "id": "enclosing-caption",
+      "title": "Egypt, Mexico and a Māori-labelled drawing",
+      "families": [
+        "enclosing-creature",
+        "serpent-beings"
+      ],
+      "media": [
+        "enclosing-montage"
+      ],
+      "inputs": [
+        "HSoBoZ3awAAjXof.jpeg"
+      ],
+      "note": "The two Mexican panels show the same Olmec monument, La Venta 19. “South America” and “Aztecs, Toltecs” mislabel it. The Egyptian “Hapi” and Māori attributions remain untraced. “Quetzalcoatl” is not a verified identification of the seated figure.",
+      "next_step": "Find the Egyptian object and original Māori illustration; retain the two Mexican views under one physical identity.",
+      "claims": [
+        "jiroft-olmec",
+        "serpents-across-worlds"
+      ],
+      "kind": "claim",
+      "panels": [
+        {
+          "id": "top-left",
+          "label": "“Egyptian god Hapi” · caption",
+          "identity": "unverified",
+          "entity": null
+        },
+        {
+          "id": "top-right",
+          "label": "La Venta Monument 19",
+          "identity": "matched",
+          "entity": "laventa19"
+        },
+        {
+          "id": "bottom-left",
+          "label": "La Venta Monument 19 · another view",
+          "identity": "matched",
+          "entity": "laventa19"
+        },
+        {
+          "id": "bottom-right",
+          "label": "“Māori New Zealand” · caption",
+          "identity": "unverified",
+          "entity": null
+        }
+      ],
+      "sources": [
+        "intake",
+        "laventa",
+        "laventa-site"
+      ],
+      "status": "corrected"
+    },
+    {
+      "id": "bird-mask-views",
+      "title": "Faces within birdlike masks",
+      "families": [
+        "bird-figures",
+        "enclosing-creature"
+      ],
+      "media": [
+        "bird-mask-front",
+        "bird-mask-profile",
+        "bird-mask-oblique"
+      ],
+      "inputs": [
+        "HR8a1UQWYAMKmRJ.jpeg",
+        "HR8a1UvaIAAYYKT.jpeg",
+        "HR8a1UvacAANypP.jpeg"
+      ],
+      "note": "Three views may include the same architectural carving. No site, period or collection identity has been adopted from resemblance alone.",
+      "next_step": "Match the architecture and carving to a site record before splitting these into separate objects.",
+      "claims": [],
+      "kind": "claim",
+      "panels": [],
+      "sources": [
+        "intake"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "id": "lion-reception",
+      "title": "A lion-holder with a modern afterlife",
+      "families": [
+        "paired-flankers"
+      ],
+      "media": [
+        "lion-pair"
+      ],
+      "inputs": [
+        "HSWTVsSWMAAp-sG.jpeg"
+      ],
+      "note": "The left figure is Sydney’s modern Gilgamesh, unveiled in 2000. The right is an Assyrian hero type; its exact Louvre accession needs image matching. This is a useful modern reception control, not an independent ancient Australian parallel.",
+      "next_step": "Trace the modern artist’s sources and identify the particular Assyrian relief.",
+      "claims": [],
+      "kind": "control",
+      "panels": [],
+      "sources": [
+        "intake",
+        "sydney"
+      ],
+      "status": "corrected"
+    },
+    {
+      "id": "egyptian-bird-figure",
+      "title": "The Egyptian-style ibis-headed figure",
+      "families": [
+        "bird-figures"
+      ],
+      "media": [
+        "thoth-input"
+      ],
+      "inputs": [
+        "Screenshot 2026-09-03 at 5.42.17 AM.png"
+      ],
+      "note": "The image resembles Thoth iconography. It has no object identifier or provenance; a modern reproduction remains possible.",
+      "next_step": "Find the original object or maker before assigning an ancient date.",
+      "claims": [],
+      "kind": "claim",
+      "panels": [],
+      "sources": [
+        "intake"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "id": "assyrian-extra-view",
+      "title": "Another bird-headed protective relief",
+      "families": [
+        "bird-figures",
+        "handled-forms"
+      ],
+      "media": [
+        "apkallu-input"
+      ],
+      "inputs": [
+        "Screenshot 2026-09-03 at 5.42.11 AM.png"
+      ],
+      "note": "Bucket, cone and bird-headed figure are visible. It is not assumed to be the Met panel already registered.",
+      "next_step": "Identify the museum relief and attach this image to its correct object.",
+      "claims": [
+        "assyria-rapanui-birdmen",
+        "handled-forms"
+      ],
+      "kind": "claim",
+      "panels": [],
+      "sources": [
+        "intake"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "id": "bird-costume-context",
+      "title": "Modern feather regalia in a bird-costume argument",
+      "families": [
+        "bird-figures"
+      ],
+      "media": [
+        "costume-input"
+      ],
+      "inputs": [
+        "Screenshot 2026-09-03 at 5.42.52 AM.png"
+      ],
+      "note": "The post proposes that bird figures represent costumed people. A modern performance photograph does not identify the meaning of an ancient carving; community and event are unverified.",
+      "next_step": "Trace the photograph and relevant community interpretation.",
+      "claims": [],
+      "kind": "context",
+      "panels": [],
+      "sources": [
+        "intake"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "id": "jiroft-variants",
+      "title": "Four Jiroft-labelled handled objects",
+      "families": [
+        "handled-forms",
+        "paired-flankers",
+        "serpent-beings"
+      ],
+      "media": [
+        "jiroft-10",
+        "jiroft-16",
+        "jiroft-22",
+        "jiroft-27"
+      ],
+      "inputs": [
+        "Screenshot 2026-09-03 at 5.43.10 AM.png",
+        "Screenshot 2026-09-03 at 5.43.16 AM.png",
+        "Screenshot 2026-09-03 at 5.43.22 AM.png",
+        "Screenshot 2026-09-03 at 5.43.27 AM.png"
+      ],
+      "note": "The screenshots extend the single Jiroft record with several designs. Their caption’s “3000 BC” is not an independently checked date; exact provenance and authenticity remain open.",
+      "next_step": "Match each design to an inventory and find context; establish whether any image repeats the existing record.",
+      "claims": [
+        "jiroft-olmec",
+        "handled-forms"
+      ],
+      "kind": "claim",
+      "panels": [],
+      "sources": [
+        "intake"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "id": "bark-buckets",
+      "title": "Kimberley bark buckets and Pillar 43",
+      "families": [
+        "handled-forms"
+      ],
+      "media": [
+        "bucket-input"
+      ],
+      "inputs": [
+        "fenton/IMG_8505.PNG",
+        "fenton/IMG_8506.JPG"
+      ],
+      "note": "Fenton compares a bark bucket with the pillar’s upper forms. The ethnographic excerpt appears to concern Wunambal country in the Kimberley, not the Arnhem Land painting’s context.",
+      "next_step": "Verify the publication page and illustration, then record the container separately from the pillar’s uncertain interpretation.",
+      "claims": [
+        "handled-forms"
+      ],
+      "kind": "claim",
+      "panels": [],
+      "sources": [
+        "intake",
+        "fenton"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "id": "marked-bodies",
+      "title": "Body painting, tjurunga and pillar signs",
+      "families": [
+        "body-signs"
+      ],
+      "media": [
+        "body-sign-input"
+      ],
+      "inputs": [
+        "fenton/IMG_8507.PNG",
+        "fenton/IMG_8508.JPG"
+      ],
+      "note": "The archive traces the body-painting print to Wellcome 21428i; the pillar numbers and sacred-object collection remain untraced. The proposed relation is geometric, not a demonstrated common meaning.",
+      "next_step": "Consult the underlying collection records and appropriate community scholarship before coding the symbols.",
+      "claims": [],
+      "kind": "claim",
+      "panels": [],
+      "sources": [
+        "intake",
+        "fenton",
+        "inputs"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "id": "headdresses-pillars",
+      "title": "T-shaped headdresses and pillars",
+      "families": [
+        "t-shaped-figures"
+      ],
+      "media": [
+        "t-shape-input"
+      ],
+      "inputs": [
+        "fenton/IMG_8509.PNG",
+        "fenton/IMG_8511.JPG"
+      ],
+      "note": "Photographs resemble early Arrernte ceremony records, but the exact plates and rock painting remain unidentified. They are not evidence for a single Australian cultural unit.",
+      "next_step": "Identify the plates, communities and painting; compare outline separately from use.",
+      "claims": [],
+      "kind": "claim",
+      "panels": [],
+      "sources": [
+        "intake",
+        "fenton",
+        "inputs"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "id": "yingarna-bags",
+      "title": "Yingarna, bags and creation",
+      "families": [
+        "handled-forms",
+        "birthing-figures",
+        "serpent-beings"
+      ],
+      "media": [
+        "yingarna-input"
+      ],
+      "inputs": [
+        "fenton/IMG_8512.PNG",
+        "fenton/IMG_8513.JPG"
+      ],
+      "note": "The archive identifies the Injalak Hill painting and reports scholarship placing it among recent, post-contact paintings. It cannot be assigned the pillar’s Neolithic age.",
+      "next_step": "Follow the local interpretation and earliest documentation; separate the painting’s age from the age of the tradition.",
+      "claims": [],
+      "kind": "claim",
+      "panels": [],
+      "sources": [
+        "intake",
+        "fenton",
+        "inputs"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "id": "birth-posture",
+      "title": "Lion Building graffito and Australian paintings",
+      "families": [
+        "birthing-figures"
+      ],
+      "media": [
+        "birth-input"
+      ],
+      "inputs": [
+        "fenton/IMG_8514.PNG",
+        "fenton/IMG_8515.JPG"
+      ],
+      "note": "The excavation description treats the squatting figure as a later graffito. Two Australian paintings remain unidentified; “birthing” is a proposed interpretation.",
+      "next_step": "Identify and date each depicted surface independently.",
+      "claims": [],
+      "kind": "claim",
+      "panels": [],
+      "sources": [
+        "intake",
+        "fenton",
+        "inputs"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "id": "snake-heads",
+      "title": "Serpent heads, yam leaves and Rainbow Serpents",
+      "families": [
+        "serpent-beings"
+      ],
+      "media": [
+        "snake-head-input",
+        "birth-input"
+      ],
+      "inputs": [
+        "fenton/IMG_8516.PNG",
+        "fenton/IMG_8517.JPG"
+      ],
+      "note": "One of four carvings is recognisable on Pillar 43; the other identities are unresolved. The yam-leaf analogy and shared-meaning proposal need separate tests.",
+      "next_step": "Identify the carvings, then compare literal head outlines against local snake and plant imagery.",
+      "claims": [],
+      "kind": "claim",
+      "panels": [],
+      "sources": [
+        "intake",
+        "fenton",
+        "inputs"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "id": "serpent-mound",
+      "title": "Serpent Mound and feathered-serpent imagery",
+      "families": [
+        "serpent-beings"
+      ],
+      "media": [
+        "serpent-montage"
+      ],
+      "inputs": [
+        "fenton/IMG_8531.PNG",
+        "fenton/IMG_8532.PNG"
+      ],
+      "note": "The thread compares a landscape monument with several creature images. The montage’s stone head and paintings remain unidentified; it is not a set of dated equivalent objects.",
+      "next_step": "Separate the mound, sculpture and paintings; obtain excavation and image sources for each.",
+      "claims": [
+        "serpents-across-worlds"
+      ],
+      "kind": "claim",
+      "panels": [],
+      "sources": [
+        "intake",
+        "fenton",
+        "inputs"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "id": "neck-claim",
+      "title": "The “V-neck” comparison",
+      "families": [
+        "neck-lines"
+      ],
+      "media": [],
+      "inputs": [
+        "fenton/Screenshot 2026-09-10 at 4.43.40 AM.png"
+      ],
+      "note": "Fenton compares the Pillar 43 bird’s neck pattern with Urfa Man’s collar. The archive preserves the claim; the bird’s identity as a dressed human remains disputed.",
+      "next_step": "Compare the actual neck marks, local birds and local collars without assuming a shared garment.",
+      "claims": [],
+      "kind": "claim",
+      "panels": [],
+      "sources": [
+        "intake",
+        "fenton",
+        "central"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "id": "unseparated-animals",
+      "title": "Animal images still to separate",
+      "families": [
+        "animal-sculpture"
+      ],
+      "media": [
+        "animals-input",
+        "entrance-input"
+      ],
+      "inputs": [
+        "GyOtfJvWEAARt4O.jpeg",
+        "GyOru5ObUAEerOZ.jpeg"
+      ],
+      "note": "The architectural photograph and multi-object montage were in the atlas but absent from the catalogue. The montage cannot be coded wholesale as lizards or boars.",
+      "next_step": "Identify each distinct object and its original source; deduplicate repeat views.",
+      "claims": [
+        "boars-east-west"
+      ],
+      "kind": "claim",
+      "panels": [],
+      "sources": [
+        "intake",
+        "inputs"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "id": "poster-fidelity",
+      "title": "The circulating pillar–moai poster",
+      "families": [
+        "bird-figures",
+        "bird-round-form"
+      ],
+      "media": [],
+      "inputs": [
+        "Screenshot 2026-09-03 at 5.44.04 AM.png"
+      ],
+      "note": "The moai image differs from the documented back. The supplied planning text calls it AI-generated, but its production history has not been proved. It is excluded as an archaeological photograph.",
+      "next_step": "Keep the poster as a presentation audit and compare only documented photographs.",
+      "claims": [
+        "birdmen-worlds",
+        "bird-and-disc"
+      ],
+      "kind": "claim",
+      "panels": [],
+      "sources": [
+        "intake",
+        "central"
+      ],
+      "status": "corrected"
+    },
+    {
+      "id": "sacred-centre-extensions",
+      "title": "Cusco, Jerusalem and the name Göbekli Tepe",
+      "families": [
+        "sacred-centres"
+      ],
+      "media": [],
+      "inputs": [
+        "chat_1.md"
+      ],
+      "note": "The supplied planning note also mentions these centre/navel associations. No specific dated witness was supplied; the modern place name is not a Neolithic inscription.",
+      "next_step": "Trace each naming tradition to dated sources before adding cultural attestations.",
+      "claims": [
+        "sacred-navels"
+      ],
+      "kind": "claim",
+      "panels": [],
+      "sources": [
+        "intake"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "id": "script-origin-extensions",
+      "title": "Other proposed rongorongo affinities",
+      "families": [
+        "sign-systems"
+      ],
+      "media": [],
+      "inputs": [
+        "rongo/research_1.md"
+      ],
+      "note": "The supplied AI research draft mentions Cuna/Guna pictographs, Chinese “Yü Pei” signs, Egyptian hieroglyphs, Shang oracle-bone signs, Sumatran ship-cloths, South American systems and Rapanui kai-kai. These are unverified bibliographic leads, not accepted identifications or explanations.",
+      "next_step": "Locate the original proposing publications; add specific signs and witnesses only after source checks.",
+      "claims": [
+        "indus-rongorongo"
+      ],
+      "kind": "claim",
+      "panels": [],
+      "sources": [
+        "intake"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "id": "suggested-visual-controls",
+      "title": "Local corpora and proposed comparison controls",
+      "families": [
+        "bird-figures"
+      ],
+      "media": [],
+      "inputs": [
+        "chat_1.md"
+      ],
+      "note": "The planning note proposes Çatalhöyük, Nevalı Çori, Egyptian stelae, Izapa, Moche, Nazca, Northwest Coast crest art, Norse stones, Shang bronzes and Etowah plates, alongside already registered Assyrian, Australian and Cahokia material. These suggestions are not a completed corpus or evidence of independent invention.",
+      "next_step": "Select bounded, documented corpora before collecting similarity scores.",
+      "claims": [],
+      "kind": "context",
+      "panels": [],
+      "sources": [
+        "intake"
+      ],
+      "status": "unresolved"
     }
   ]
 }

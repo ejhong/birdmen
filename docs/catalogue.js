@@ -1,4 +1,4 @@
-import {defaults,views,makeIndex,readState,stateURL,filterClaims,visibleEntities,culturalEdges,yearLabel,escapeHTML as esc,project,coastPath} from './catalogue-model.mjs';
+import {defaults,views,makeIndex,readState,stateURL,filterClaims,filterFamilies,visibleEntities,culturalEdges,yearLabel,escapeHTML as esc,project,coastPath} from './catalogue-model.mjs?v=2';
 
 const $=s=>document.querySelector(s);
 const form=$('#catalogue-filters');
@@ -7,10 +7,12 @@ let mapVersion=0;
 const path=id=>`catalogue/${encodeURIComponent(id)}.html${stateURL(state)?`?from=${encodeURIComponent(stateURL(state))}`:''}`;
 const sourceLink=s=>`<a href="${esc(s.url)}">${esc(s.title)}</a>`;
 const resultNodes=[...document.querySelectorAll('[data-claim]')];
+const familyNodes=[...document.querySelectorAll('[data-family]')];
 const controls={q:$('#search'),motif:$('#motif'),culture:$('#culture'),with:$('#with-culture'),region:$('#region'),review:$('#review'),diffusion:$('#diffusion'),from:$('#date-from'),to:$('#date-to'),unknown:$('#unknown'),controls:$('#controls')};
 
 function setState(changes,{replace=false,scroll=false}={}) {
   state={...state,...changes};
+  if(state.view==='families'){state.review='';state.diffusion='';}
   if(state.culture && state.culture===state.with) state.with='';
   const url=stateURL(state);
   if(location.search!==url) history[replace?'replaceState':'pushState']({},'',location.pathname+url+location.hash);
@@ -21,6 +23,8 @@ function syncForm() {
   for(const [key,node] of Object.entries(controls)) {
     if(node.type==='checkbox') node.checked=state[key]; else node.value=state[key];
   }
+  controls.review.disabled=state.view==='families';
+  controls.diffusion.disabled=state.view==='families';
 }
 function selected(claims) {return claims.find(c=>c.id===state.focus)||claims[0];}
 function claimSelect(claims,label='Inspect a comparison') {
@@ -32,22 +36,28 @@ function threadList(claims) {
 }
 function render() {
   const claims=filterClaims(data,state,idx), ids=new Set(claims.map(c=>c.id));
+  const families=filterFamilies(data,state,idx),familyIDs=new Set(families.map(f=>f.id)),isFamily=state.view==='families';
+  const hasResults=isFamily?families.length:claims.length;
   document.body.dataset.catalogueView=state.view;
   for(const node of resultNodes) {
     node.hidden=!ids.has(node.dataset.claim);
     node.querySelector('.card-link').href=path(node.dataset.claim);
   }
-  for(const view of views) $(`#${view}-view`).hidden=state.view!==view||!claims.length;
+  for(const node of familyNodes){
+    node.hidden=!familyIDs.has(node.dataset.family);
+    node.querySelector('.family-link').href=`families/${node.dataset.family}.html${stateURL(state)?`?from=${encodeURIComponent(stateURL(state))}`:''}`;
+  }
+  for(const view of views) $(`#${view}-view`).hidden=state.view!==view||!hasResults;
   for(const button of document.querySelectorAll('[data-view]')) button.setAttribute('aria-pressed',button.dataset.view===state.view);
   const counts=claims.filter(c=>c.kind==='claim').length, extra=claims.length-counts;
-  $('#result-count').textContent=`${counts} comparison ${counts===1?'thread':'threads'}${extra?` · ${extra} context controls`:''} · ${visibleEntities(claims,idx).length} records`;
+  $('#result-count').textContent=isFamily?`${families.length} motif ${families.length===1?'family':'families'} · open one to explore its cultures and sources`:`${counts} comparison ${counts===1?'thread':'threads'}${extra?` · ${extra} context controls`:''} · ${visibleEntities(claims,idx).length} records`;
   const labels=[state.culture&&idx.cultures.get(state.culture).label,state.with&&'↔ '+idx.cultures.get(state.with).label,state.motif&&idx.motifs.get(state.motif).label,state.region,state.review&&state.review.replace('-',' '),state.controls&&'Context controls included'].filter(Boolean);
   $('#active-filters').textContent=labels.join(' · ');
   $('#active-filters').hidden=!labels.length;
-  $('#empty-state').hidden=!!claims.length;
+  $('#empty-state').hidden=!!hasResults;
   $('#date-filter-note').hidden=!(state.from||state.to||!state.unknown);
-  $('#date-filter-note').textContent=`Date filter: includes a comparison if any recorded interval overlaps ${state.from?yearLabel(+state.from):'the earliest date'} to ${state.to?yearLabel(+state.to):'the latest date'}.${state.unknown?' Comparisons with an unresolved date are also included.':''} This does not require the two traditions to be contemporary.`;
-  if(!claims.length) return;
+  $('#date-filter-note').textContent=`Includes a ${isFamily?'family':'comparison'} if any ${isFamily?'attested episode':'recorded interval'} overlaps ${state.from?yearLabel(+state.from):'the earliest date'} to ${state.to?yearLabel(+state.to):'the latest date'}.${state.unknown?' Undated records and leads are included.':''} This does not imply that the traditions coexisted.`;
+  if(!hasResults||isFamily) return;
   if(state.view==='map') renderMap(claims);
   if(state.view==='time') renderTime(claims);
   if(state.view==='cultures') renderCultures(claims);
@@ -64,7 +74,7 @@ function renderCultures(claims) {
   const dateSummary=memberDates.length?`Registered dated episodes: ${yearLabel(Math.min(...memberDates.map(d=>d.start)))} to ${yearLabel(Math.max(...memberDates.map(d=>d.end)))}. Gaps and unresolved dates remain; this is not the lifetime of the culture.`:'No numerical episode dates are yet verified for this cluster.';
   $('#cultures-view').innerHTML=`<div class="panel-heading"><div><h3>Cultural worlds, connected by questions.</h3><p>Choose a tradition to see the proposed connections around it. Counts refer to comparison threads, never the strength or independence of the evidence.</p></div></div>
   <div class="culture-picker" aria-label="Choose a cultural cluster">${ids.map(id=>`<button type="button" data-hub="${id}" aria-pressed="${id===hub}">${esc(idx.cultures.get(id).label)}</button>`).join('')}</div>
-  <div class="culture-network"><div class="culture-hub"><div class="micro">Selected cultural cluster</div><h3>${esc(culture.label)}</h3><p>${esc(culture.note)}</p><p class="culture-dates">${esc(dateSummary)}</p></div><div class="culture-neighbours">${neighbours.map(e=>{const other=idx.cultures.get(e.a===hub?e.b:e.a);const motifs=[...new Set(e.claims.flatMap(id=>idx.claims.get(id).motifs))];return `<a class="culture-neighbour" href="catalogue.html${esc(stateURL({...defaults,culture:hub,with:other.id,controls:state.controls}))}" data-pair="${hub},${other.id}"><div class="micro">↔ Proposed comparison</div><h4>${esc(other.label)}</h4><p>${motifs.map(id=>esc(idx.motifs.get(id).label)).join(' · ')}</p><span class="connection-count">${e.families.length} comparison ${e.families.length===1?'family':'families'}${e.claims.length!==e.families.length?` · ${e.claims.length} including subcomparisons`:''} →</span></a>`;}).join('')||'<p class="view-note">No second cultural cluster is identified for this selection. Local context and unresolved records remain in the comparison list.</p>'}</div></div>
+  <div class="culture-network"><div class="culture-hub"><div class="micro">Selected cultural cluster</div><h3>${esc(culture.label)}</h3><p>${esc(culture.note)}</p><p class="culture-dates">${esc(dateSummary)}</p></div><div class="culture-neighbours">${neighbours.map(e=>{const other=idx.cultures.get(e.a===hub?e.b:e.a);const motifs=[...new Set(e.claims.flatMap(id=>idx.claims.get(id).motifs))];return `<a class="culture-neighbour" href="catalogue.html${esc(stateURL({...defaults,view:'gallery',culture:hub,with:other.id,controls:state.controls}))}" data-pair="${hub},${other.id}"><div class="micro">↔ Proposed comparison</div><h4>${esc(other.label)}</h4><p>${motifs.map(id=>esc(idx.motifs.get(id).label)).join(' · ')}</p><span class="connection-count">${e.families.length} comparison ${e.families.length===1?'thread':'threads'}${e.claims.length!==e.families.length?` · ${e.claims.length} including subcomparisons`:''} →</span></a>`;}).join('')||'<p class="view-note">No second cultural cluster is identified for this selection. Local context and unresolved records remain in the comparison list.</p>'}</div></div>
   <p class="view-note">A resemblance can cross different periods. Shared motifs do not imply overlapping dates or a demonstrated migration. Geographic lead groups with unresolved community attribution are explicitly labelled.</p>${local.length?'<h3>Within this tradition</h3>'+threadList(local):''}`;
 }
 async function renderMap(claims) {
@@ -113,7 +123,7 @@ function renderThemes(claims) {
 }
 async function start() {
   try {
-    const response=await fetch('data/catalogue.json'); if(!response.ok) throw Error('Catalogue unavailable');
+    const response=await fetch('data/catalogue.json?v=2'); if(!response.ok) throw Error('Catalogue unavailable');
     data=await response.json(); idx=makeIndex(data); state=readState(location.search,data);
     syncForm(); render();
     form.hidden=false; $('#view-toolbar').hidden=false; $('#copy-view').hidden=false;

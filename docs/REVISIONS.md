@@ -1,3 +1,44 @@
+# Motif families, complete intake and smaller, better tests — 20 September 2026
+
+- Tightened the homepage by 59%, research overview by 45%, central case by 16%
+  and submerged assessment by 18%, counting document text including disclosures
+  but excluding scripts/styles. Original quotations, protocols and raw results
+  remain intact. The catalogue gains new records, so its total document text grows.
+- Made motif families the main entrance: 19 families across cultural traditions,
+  with 45 explicit, scoped observations. Claim tags no longer have to stand in
+  for object-level motif evidence. Date filters use each observation's relevant
+  episode; unknowns and provisional readings remain explicit. Comparisons, cultures,
+  map and timeline remain available, with old shared URLs preserved.
+- Audited all 68 input files. Added the Gate of the Sun to the comparison register
+  and recorded 22 intake leads, including the staff-holder montage, animal-over-back
+  comparison, Egyptian bird figure, bird-mask views and smaller Fenton comparisons.
+  All 21 staff-montage panels have intake slots; most still lack verified identities.
+  AI planning documents and contextual genetic/seafaring arguments are accounted
+  for without being promoted to independent motif evidence.
+- Corrected two particularly useful examples: Sydney's Gilgamesh is modern
+  (unveiled in 2000), and two panels in the new serpent montage repeat the same
+  Olmec La Venta Monument 19 under conflicting labels. Egyptian and Māori panel
+  identities remain unresolved. Original files and new published copies are unchanged.
+- Added a descriptive breakdown of the civiliser signal: 248/397 completed lineups
+  reuse 11 pairs in two directions. Equal weighting of pooled pair rates gives
+  61.8%; the pair-specific variation is now visible. This is not a new AI run,
+  independence claim or revised significance test.
+- Downloaded and retained the CC BY 4.0 Geersen/DLR Baltic AUV survey. A reproducible
+  numerical experiment measures resolution loss at six scales. The 115 m averaging
+  retains about 0.3% of a defined local-relief variance. That quantity includes noise
+  and natural relief and is not wall recovery, survey accuracy or an archaeological
+  detection score. Raw ZIP, hashes, method, measurements and figure are published.
+- Proposed bounded next tests for visual localization, source-based narrative
+  comparison and archaeological detection across independently labelled surveys.
+  Their outstanding corpus/reference requirements are explicit. No new paid model
+  requests or archaeological discoveries are claimed.
+- Updated AGENTS, schema/acquisition instructions and the research programme.
+  Added checks for scoped motif bundles, carving-date selection, input coverage,
+  duplicated panels, aggregation of repeated lineups and numerical handling of
+  missing survey cells. Browser checks cover new pages and desktop/mobile navigation.
+
+---
+
 # A collection of connections, and submerged worlds — 19 September 2026
 
 - Built the first group-based catalogue: 19 comparison threads and 4 optional
