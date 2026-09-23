@@ -7,6 +7,12 @@ records and research that makes its limits inspectable.
 [Public site](https://ejhong.github.io/birdmen/) · [Editorial changes](docs/REVISIONS.md) ·
 [Research conventions](research/README.md)
 
+Every page now shares one header and one footer site map, a single type scale with
+nothing set below 12 px, and AA colour contrast. Four evidence images were replaced
+with openly licensed photographs of the same objects — including an actual photograph
+of the Cahokia birdman tablet in place of a modern illustration — with each previous
+image kept as a second view.
+
 The [collection](https://ejhong.github.io/birdmen/catalogue.html) now opens with
 19 motif families across cultural traditions. Schema 2 separates 51 source-linked
 or provisional observations from 20 proposed comparison threads, 4 optional controls
@@ -15,6 +21,15 @@ groups; these are not counts of independently verified artefacts. The
 [input audit](https://ejhong.github.io/birdmen/input-audit.html) accounts for all
 68 supplied files, including duplicates, modern reception and unresolved images.
 A systematic worldwide survey remains future work.
+
+The new [cluster index](https://ejhong.github.io/birdmen/clusters.html) asks which
+cultural traditions keep meeting. Derived from the same register, it holds 23 culture
+pairs and 19 distinct comparisons, 18 of them with no transmission route established
+in this review, ordered by how many stay open *after* a source check rather than by
+evidence strength. Göbekli Tepe and Rapa Nui lead with three separate lines of
+comparison; each pair has a page setting the two traditions side by side, line by
+line. A cluster is an index entry, not a finding of contact, and a subcomparison is
+counted inside its parent line because it is not separate evidence.
 
 The new [visual investigation](https://ejhong.github.io/birdmen/fieldwork.html)
 brings together 22 physical objects, five explicit feature questions and nine dated
@@ -48,6 +63,7 @@ records where appropriate; multiple views do not become independent artefacts.
 | --- | --- | --- |
 | 01 · Indus & rongorongo | [Study page](docs/rongo/index.html) | `pipeline/rongo/`, `data/rongo/`, `inputs/rongo/`; [method and run order](research/rongo/README.md) |
 | 02 · Birds, serpents & sacred centres | [Catalogue experiment](docs/myths.html) | `pipeline/classes.py`, `analysis.py`, `build_site.py`; `data/raw/berezkin/`, `data/results/` |
+| — · Culture clusters | [Cluster index](docs/clusters.html) | `pipeline/clusters.py`; mirrored by `clusters()` in `docs/catalogue-model.mjs` |
 | 03 · The pillar & the moai | [Image pilots A–C](docs/pictures.html) | `pipeline/s3_*.py`; `data/s3/`; [original preregistration and changes](docs/study3/preregistration.md) |
 | 04 · The civilisers | [V1: lineups](docs/heroes.html), [V2: source audit](docs/civilisers.html) | V1: `pipeline/s4_heroes.py`, `s4_mechanical.py`, `data/s4/`, [preregistration](docs/study4/preregistration.md). V2: [method](research/civilisers/v2/method.md), [evidence ledger](research/civilisers/v2/evidence.json) |
 | 05 · The raven & the dove | [Flood-story coding](docs/floods.html) | `pipeline/s5_floods.py`, `s5_analysis.py`; `data/s5/`; [preregistration](docs/study5/preregistration.md) |

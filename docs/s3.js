@@ -6,7 +6,7 @@
   const NS = "http://www.w3.org/2000/svg";
   const sv = (tag, attrs = {}, text) => { const e = document.createElementNS(NS, tag); for (const [k, v] of Object.entries(attrs)) e.setAttribute(k, v); if (text != null) e.textContent = text; return e; };
   const svg = (w, h) => { const s = sv("svg", { viewBox: `0 0 ${w} ${h}`, width: "100%" }); s.style.maxWidth = w + "px"; s.style.display = "block"; return s; };
-  const COL = { ink: "#201b12", soft: "#4c453a", faint: "#877e6c", rule: "#d9d0be", copper: "#9a5b33", moss: "#47705f", rust: "#8e4a38" };
+  const COL = { ink: "#201b12", soft: "#4c453a", faint: "#6e6556", rule: "#d9d0be", copper: "#92552e", moss: "#47705f", rust: "#8e4a38" };
   const label = g => (G[g] ? G[g].label : g);
   const short = g => label(g).split(" (")[0];
   const f2 = x => (x == null || Number.isNaN(x)) ? "–" : Number(x).toFixed(2);
@@ -101,7 +101,7 @@
     t.append(el("tr", {}, el("th", {}, "Feature"), el("th", {}, "Pillar 43"), el("th", {}, "Moai back"), el("th", {}, "Match"), el("th", {}, "Corpus share of this value")));
     let m = 0, mm = 0, rare = 0, dis = 0;
     for (const [ft, v] of Object.entries(tg.drivers)) {
-      const a = v.p43, b = v.hoa; if (a == null || b == null) { dis++; t.append(el("tr", { style: "opacity:.55" }, el("td", { class: "mono" }, ft), el("td", { class: "v" }, a ?? "coders disagree"), el("td", { class: "v" }, b ?? "coders disagree"), el("td", {}, "–"), el("td", {}, ""))); continue; }
+      const a = v.p43, b = v.hoa; if (a == null || b == null) { dis++; t.append(el("tr", { style: "opacity:.82" }, el("td", { class: "mono" }, ft), el("td", { class: "v" }, a ?? "coders disagree"), el("td", { class: "v" }, b ?? "coders disagree"), el("td", {}, "–"), el("td", {}, ""))); continue; }
       const match = a === b; if (match) m++; else mm++;
       const share = match ? (tg.base_rates[ft] || {})[a] : null; if (match && share != null && share < 0.25) rare++;
       t.append(el("tr", { class: match ? "match" : "mismatch" }, el("td", { class: "mono" }, ft), el("td", { class: "v" }, String(a)), el("td", { class: "v" }, String(b)), el("td", { class: "mono" }, match ? "yes" : "no"), el("td", { class: "v" }, match && share != null ? `${(100 * share).toFixed(0)}%${share < 0.25 ? " · rare" : share > 0.5 ? " · common" : ""}` : "")));
@@ -133,7 +133,7 @@
   const NS = "http://www.w3.org/2000/svg";
   const sv = (tag, attrs = {}, text) => { const e = document.createElementNS(NS, tag); for (const [k, v] of Object.entries(attrs)) e.setAttribute(k, v); if (text != null) e.textContent = text; return e; };
   const svg = (w, h) => { const s = sv("svg", { viewBox: `0 0 ${w} ${h}`, width: "100%" }); s.style.maxWidth = w + "px"; s.style.display = "block"; return s; };
-  const COL = { ink: "#201b12", soft: "#4c453a", faint: "#877e6c", rule: "#d9d0be", copper: "#9a5b33", moss: "#47705f", rust: "#8e4a38", slate: "#5d6672" };
+  const COL = { ink: "#201b12", soft: "#4c453a", faint: "#6e6556", rule: "#d9d0be", copper: "#92552e", moss: "#47705f", rust: "#8e4a38", slate: "#5d6672" };
   const short = g => (G[g] ? G[g].label : g).split(" (")[0];
   const f1 = x => (x == null || Number.isNaN(x)) ? "–" : Number(x).toFixed(1);
   const f0 = x => (x == null || Number.isNaN(x)) ? "–" : Number(x).toFixed(0);
@@ -233,7 +233,7 @@
   const NS = "http://www.w3.org/2000/svg";
   const sv = (tag, attrs = {}, text) => { const e = document.createElementNS(NS, tag); for (const [k, v] of Object.entries(attrs)) e.setAttribute(k, v); if (text != null) e.textContent = text; return e; };
   const svg = (w, h) => { const s = sv("svg", { viewBox: `0 0 ${w} ${h}`, width: "100%" }); s.style.maxWidth = w + "px"; s.style.display = "block"; return s; };
-  const COL = { ink: "#201b12", soft: "#4c453a", faint: "#877e6c", rule: "#d9d0be", copper: "#9a5b33", moss: "#47705f", rust: "#8e4a38", slate: "#5d6672" };
+  const COL = { ink: "#201b12", soft: "#4c453a", faint: "#6e6556", rule: "#d9d0be", copper: "#92552e", moss: "#47705f", rust: "#8e4a38", slate: "#5d6672" };
   const SN0 = { same_control_diffobj: "Control: same tradition, random decoys, same-object trials removed", same_control_monoliths_diffobj: "Control: same-tradition monolith among monoliths, same-object trials removed" };
   const SN = { ...SN0, moai_among_random: "Moai's back among 9 random decoys (target: Pillar 43)", moai_close_among_random: "Moai's back, close view, among 9 random decoys", moai_iso_among_random: "Isolated moai among 9 random decoys (target: isolated Pillar 43)", moai_iso_among_monoliths: "Isolated moai among 9 monoliths and statues", p43_among_random: "Pillar 43 among 9 random decoys (target: moai's back)", p43_iso_among_monoliths: "Isolated Pillar 43 among 9 monoliths (target: isolated moai)", hard: "Moai vs Opus's 9 best foreign matches for Pillar 43", related_control: "Control: Assyrian panel among random decoys (target: Persepolis)", same_control: "Control: same-tradition panel among random decoys", same_control_monoliths: "Control: same-tradition monolith among monoliths" };
   const JN = { opus: "Opus 5", gpt: "GPT-5.5", gemini: "Gemini 3.1 Pro", sonnet: "Sonnet 5", grok: "Grok 4.6", all: "All judges" };

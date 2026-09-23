@@ -105,6 +105,36 @@ export function culturalEdges(claims) {
   }
   return [...edges.values()].map(e=>({...e,families:[...e.families]}));
 }
+/** Culture pairs: an editorial index of where the questions concentrate, never a score.
+ *  A "line" is one root comparison; its subcomparisons are not independent evidence. */
+export const OPEN_TRANSMISSION = ['unestablished', 'unassessed'];
+export function clusters(claims, data, idx) {
+  const present = new Set(claims.map(c => c.id)), found = new Map();
+  for (const c of claims) {
+    if (c.kind !== 'claim') continue;
+    const cultures = [...new Set(c.cultures)].sort();
+    const root = c.parent && present.has(c.parent) ? c.parent : c.id;
+    for (let i = 0; i < cultures.length; i++) for (let j = i + 1; j < cultures.length; j++) {
+      const key = `${cultures[i]}--${cultures[j]}`;
+      if (!found.has(key)) found.set(key, {id: key, a: cultures[i], b: cultures[j], lines: new Map()});
+      const lines = found.get(key).lines;
+      if (!lines.has(root)) lines.set(root, []);
+      if (c.id !== root && !lines.get(root).includes(c.id)) lines.get(root).push(c.id);
+    }
+  }
+  return [...found.values()].map(cluster => {
+    const lines = [...cluster.lines].map(([root, children]) => ({root, children: children.sort()}));
+    const roots = lines.map(l => idx.claims.get(l.root));
+    const open = roots.filter(c => OPEN_TRANSMISSION.includes(c.diffusion.status));
+    const threads = lines.flatMap(l => [l.root, ...l.children]);
+    const records = new Set(threads.flatMap(id => idx.claims.get(id).members.map(m => idx.entities.get(m).physical_id)));
+    return {id: cluster.id, a: cluster.a, b: cluster.b, lines, threads,
+      families: [...new Set(roots.flatMap(c => data.families.filter(f => f.claims.includes(c.id)).map(f => f.id)))],
+      open: open.length, checked: open.filter(c => c.status !== 'lead').length,
+      examined: roots.filter(c => c.status === 'examined').length, records: records.size};
+  }).sort((x, y) => y.checked - x.checked || y.open - x.open || y.lines.length - x.lines.length ||
+    y.families.length - x.families.length || y.records - x.records || x.id.localeCompare(y.id));
+}
 export function yearLabel(n) {return `${Math.abs(n).toLocaleString('en')} ${n<0?'BCE':'CE'}`;}
 export function escapeHTML(value) {return String(value).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
 // Equirectangular map; display precision does not imply archaeological precision.

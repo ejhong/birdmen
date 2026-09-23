@@ -19,6 +19,20 @@ import shutil
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / "docs"
 
+try:
+    from pipeline.sitemap import footer as site_footer, nav as site_nav
+except ModuleNotFoundError:
+    from sitemap import footer as site_footer, nav as site_nav
+
+# Every hand-written page ends with the same generated site map.
+SITEMAP_PAGES = {"index.html": "", "atlas.html": "", "fenton.html": "",
+                 "local-context.html": "", "pillar-and-moai.html": "",
+                 "research-review.html": "research-review.html",
+                 "recognition.html": "research-review.html", "view-trial.html": "research-review.html",
+                 "myths.html": "research-review.html", "floods.html": "research-review.html",
+                 "heroes.html": "research-review.html", "pictures.html": "research-review.html",
+                 "civilisers.html": "research-review.html", "rongo/index.html": "research-review.html"}
+
 
 def esc(value):
     return html.escape(str(value), quote=True)
@@ -427,6 +441,12 @@ def build(check=False):
     except ModuleNotFoundError:
         import fieldwork
     pending.update(fieldwork.outputs())
+    # Applied last, so generated and static pages end with the same site map.
+    for name in SITEMAP_PAGES:
+        path = DOCS / name
+        prefix = '../' if '/' in name else ''
+        page = replace_region(pending.get(path, path.read_text()), 'sitemap', site_footer(prefix))
+        pending[path] = replace_region(page, 'sitenav', site_nav(prefix, SITEMAP_PAGES[name]))
     changed = []
     for path, content in pending.items():
         if not path.exists() or path.read_text() != content:

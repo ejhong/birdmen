@@ -1,4 +1,4 @@
-import {defaults,views,makeIndex,readState,stateURL,filterClaims,filterFamilies,visibleEntities,culturalEdges,yearLabel,escapeHTML as esc,project,coastPath} from './catalogue-model.mjs?v=2';
+import {defaults,views,makeIndex,readState,stateURL,filterClaims,filterFamilies,visibleEntities,clusters,OPEN_TRANSMISSION,yearLabel,escapeHTML as esc,project,coastPath} from './catalogue-model.mjs?v=3';
 
 const $=s=>document.querySelector(s);
 const form=$('#catalogue-filters');
@@ -63,19 +63,54 @@ function render() {
   if(state.view==='cultures') renderCultures(claims);
   if(state.view==='themes') renderThemes(claims);
 }
+const STATUS_LABEL={examined:'Evidence examined','source-check':'Sources partly checked',lead:'Research lead',corrected:'Claim corrected'};
+const DIFFUSION_LABEL={unestablished:'No route established in this review',unassessed:'Transmission not yet assessed',plausible:'Regional transmission remains possible',local:'Documented local context',documented:'Independent contact evidence'};
+function plate(entity) {
+  if(!entity) return '<figure class="plate plate-empty"><div class="plate-mount"><i aria-hidden="true">∿</i></div></figure>';
+  const media=idx.media.get(entity.media);
+  const inner=media?`<img src="${esc(media.path)}" alt="${esc(media.alt)}" loading="lazy" decoding="async">`
+    :`<div class="text-specimen"><span>${entity.kind==='account'?'Account · editorial paraphrase':'Research evidence'}</span><p>${esc(entity.text||entity.label)}</p><i aria-hidden="true">∿</i></div>`;
+  return `<figure class="plate"><div class="plate-mount">${inner}</div></figure>`;
+}
+function sideRecords(cluster,culture) {
+  const seen=new Set();
+  return cluster.threads.flatMap(id=>idx.claims.get(id).members).map(id=>idx.entities.get(id))
+    .filter(e=>e.culture===culture&&!seen.has(e.id)&&seen.add(e.id));
+}
+function representative(cluster,culture) {
+  const records=sideRecords(cluster,culture);
+  return records.find(e=>e.media)||records[0]||null;
+}
+function clusterCounts(cluster) {
+  const lines=cluster.lines.length, families=cluster.families.length;
+  return `${lines} line${lines===1?'':'s'} of comparison · ${cluster.open} without an established route · ${families} motif famil${families===1?'y':'ies'} · ${cluster.records} registered object${cluster.records===1?'':'s'}`;
+}
+function ledger(cluster) {
+  return `<ol class="cluster-ledger">${cluster.lines.map(line=>{
+    const c=idx.claims.get(line.root), open=OPEN_TRANSMISSION.includes(c.diffusion.status);
+    return `<li class="line-${open?'open':'context'}"><b>${esc(c.title)}</b><span>${esc(STATUS_LABEL[c.status])} · ${esc(DIFFUSION_LABEL[c.diffusion.status])}</span></li>`;
+  }).join('')}</ol>`;
+}
+/** The cluster view: culture pairs ranked by open comparisons, never by evidence strength. */
 function renderCultures(claims) {
-  const edges=culturalEdges(claims), ids=[...new Set(claims.flatMap(c=>c.cultures))].filter(id=>id!=='unassigned');
-  const hub=ids.includes(state.hub)?state.hub:ids.includes(state.culture)?state.culture:ids.includes('neolithic-anatolia')?'neolithic-anatolia':ids[0];
-  const culture=idx.cultures.get(hub);
-  if(!culture) {$('#cultures-view').innerHTML='<p class="view-note">Cultural identities remain unresolved for these records. Open their dossiers to inspect the leads.</p>'+threadList(claims); return;}
-  const neighbours=edges.filter(e=>e.a===hub||e.b===hub).sort((a,b)=>b.families.length-a.families.length);
-  const local=claims.filter(c=>c.cultures.length===1&&c.cultures[0]===hub);
-  const memberDates=culture.members.flatMap(id=>idx.entities.get(id).dates).filter(d=>d.start!==null);
-  const dateSummary=memberDates.length?`Registered dated episodes: ${yearLabel(Math.min(...memberDates.map(d=>d.start)))} to ${yearLabel(Math.max(...memberDates.map(d=>d.end)))}. Gaps and unresolved dates remain; this is not the lifetime of the culture.`:'No numerical episode dates are yet verified for this cluster.';
-  $('#cultures-view').innerHTML=`<div class="panel-heading"><div><h3>Cultural worlds, connected by questions.</h3><p>Choose a tradition to see the proposed connections around it. Counts refer to comparison threads, never the strength or independence of the evidence.</p></div></div>
-  <div class="culture-picker" aria-label="Choose a cultural cluster">${ids.map(id=>`<button type="button" data-hub="${id}" aria-pressed="${id===hub}">${esc(idx.cultures.get(id).label)}</button>`).join('')}</div>
-  <div class="culture-network"><div class="culture-hub"><div class="micro">Selected cultural cluster</div><h3>${esc(culture.label)}</h3><p>${esc(culture.note)}</p><p class="culture-dates">${esc(dateSummary)}</p></div><div class="culture-neighbours">${neighbours.map(e=>{const other=idx.cultures.get(e.a===hub?e.b:e.a);const motifs=[...new Set(e.claims.flatMap(id=>idx.claims.get(id).motifs))];return `<a class="culture-neighbour" href="catalogue.html${esc(stateURL({...defaults,view:'gallery',culture:hub,with:other.id,controls:state.controls}))}" data-pair="${hub},${other.id}"><div class="micro">↔ Proposed comparison</div><h4>${esc(other.label)}</h4><p>${motifs.map(id=>esc(idx.motifs.get(id).label)).join(' · ')}</p><span class="connection-count">${e.families.length} comparison ${e.families.length===1?'thread':'threads'}${e.claims.length!==e.families.length?` · ${e.claims.length} including subcomparisons`:''} →</span></a>`;}).join('')||'<p class="view-note">No second cultural cluster is identified for this selection. Local context and unresolved records remain in the comparison list.</p>'}</div></div>
-  <p class="view-note">A resemblance can cross different periods. Shared motifs do not imply overlapping dates or a demonstrated migration. Geographic lead groups with unresolved community attribution are explicitly labelled.</p>${local.length?'<h3>Within this tradition</h3>'+threadList(local):''}`;
+  // A chosen pair stays the subject: its threads may also reach a third tradition.
+  const rows=clusters(claims,data,idx).filter(cluster=>
+    (!state.culture||cluster.a===state.culture||cluster.b===state.culture) &&
+    (!state.with||cluster.a===state.with||cluster.b===state.with));
+  const heading=`<div class="panel-heading"><div><h3>Where the questions concentrate.</h3><p>Culture pairs in this selection, ordered by how many separate comparisons stay open after a source check. Counting comparisons never makes them independent, and no pairing below establishes that two traditions met.</p></div></div>`;
+  if(!rows.length) {$('#cultures-view').innerHTML=heading+'<p class="view-note">No two identified traditions are joined in this selection. Open a thread to follow its unresolved records.</p>'+threadList(claims); return;}
+  $('#cultures-view').innerHTML=heading+`<ol class="cluster-list">${rows.map((cluster,n)=>{
+    const depth=cluster.examined?'examined in depth':cluster.checked?'source checks begun':'awaiting identification';
+    const families=cluster.families.map(id=>esc(idx.families.get(id).label)).join(' · ')||'No motif family assigned yet';
+    return `<li class="cluster-row"><a class="cluster-link" href="clusters/${esc(cluster.id)}.html">
+      <div class="cluster-plates">${plate(representative(cluster,cluster.a))}<span class="plate-join" aria-hidden="true">↔</span>${plate(representative(cluster,cluster.b))}</div>
+      <div class="cluster-copy"><div class="micro">${String(n+1).padStart(2,'0')} · ${depth}</div>
+      <h3>${esc(idx.cultures.get(cluster.a).label)} ↔ ${esc(idx.cultures.get(cluster.b).label)}</h3><p>${families}</p>${ledger(cluster)}
+      <div class="cluster-foot">${esc(clusterCounts(cluster))}<span>Open the cluster →</span></div></div></a>
+      <div class="cluster-actions"><button type="button" data-pair="${esc(cluster.a)},${esc(cluster.b)}">Show its ${cluster.threads.length} thread${cluster.threads.length===1?'':'s'} in this view →</button></div></li>`;
+  }).join('')}</ol>
+  <p class="view-note">A line of comparison is one proposed resemblance; its subcomparisons are counted inside it, because they are not separate evidence. “Open” records the state of this review, and an unchecked lead is weaker than a checked one, not stronger.${state.culture||state.with?' A thread listed here may also reach a third tradition; its cluster page names them.':''}</p>
+  <p class="view-note"><a href="clusters.html">Open the full cluster index, with the table of resemblances →</a></p>`;
 }
 async function renderMap(claims) {
   const version=++mapVersion, c=selected(claims), allEntities=visibleEntities(claims,idx);
@@ -123,7 +158,7 @@ function renderThemes(claims) {
 }
 async function start() {
   try {
-    const response=await fetch('data/catalogue.json?v=2'); if(!response.ok) throw Error('Catalogue unavailable');
+    const response=await fetch('data/catalogue.json?v=3'); if(!response.ok) throw Error('Catalogue unavailable');
     data=await response.json(); idx=makeIndex(data); state=readState(location.search,data);
     syncForm(); render();
     form.hidden=false; $('#view-toolbar').hidden=false; $('#copy-view').hidden=false;
@@ -144,11 +179,10 @@ async function start() {
     if(e.target.type==='search'||e.target.type==='number') timer=setTimeout(apply,180); else apply();
   });
   document.addEventListener('click',e=>{
-    const view=e.target.closest('[data-view]'),hub=e.target.closest('[data-hub]'),pair=e.target.closest('[data-pair]'),theme=e.target.closest('[data-theme]'),scale=e.target.closest('[data-scale]');
+    const view=e.target.closest('[data-view]'),pair=e.target.closest('[data-pair]'),theme=e.target.closest('[data-theme]'),scale=e.target.closest('[data-scale]');
     if(view) setState({view:view.dataset.view});
-    if(hub) setState({hub:hub.dataset.hub});
     if(scale) setState({scale:scale.dataset.scale});
-    if(pair && !e.metaKey && !e.ctrlKey && !e.shiftKey && !e.altKey) {e.preventDefault(); const [culture,other]=pair.dataset.pair.split(',');setState({culture,with:other,view:'gallery'});}
+    if(pair) {e.preventDefault(); const [culture,other]=pair.dataset.pair.split(',');setState({culture,with:other,view:'gallery'});}
     if(theme && !e.metaKey && !e.ctrlKey && !e.shiftKey && !e.altKey) {e.preventDefault();setState({motif:theme.dataset.theme,view:'gallery'});}
   });
   document.addEventListener('change',e=>{if(e.target.matches('[data-focus]')) setState({focus:e.target.value});});

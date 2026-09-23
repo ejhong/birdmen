@@ -6,8 +6,8 @@
   --ink: #201b12;
   --ink-2: #171310;
   --ink-soft: #4c453a;
-  --faint: #877e6c;
-  --copper: #9a5b33;
+  --faint: #6e6556;
+  --copper: #92552e;
   --copper-soft: #b8895f;
   --rust: #8e4a38;
   --moss: #47705f;
@@ -56,7 +56,7 @@ section.part { padding: 64px 0 24px; border-bottom: 1px solid var(--rule); }
 .part-head { display: grid; grid-template-columns: 90px 1fr; gap: 20px; align-items: baseline; margin-bottom: 18px; }
 .part-head .n { font-family: var(--mono); font-size: .8rem; color: var(--copper); letter-spacing: .12em; }
 .two { display: grid; grid-template-columns: minmax(0, 700px) minmax(0, 1fr); gap: 48px; align-items: start; }
-@media (max-width: 900px) { .two { grid-template-columns: 1fr; } .part-head { grid-template-columns: 1fr; gap: 6px; } }
+@media (max-width: 900px) { .two { grid-template-columns: minmax(0, 1fr); } .part-head { grid-template-columns: minmax(0, 1fr); gap: 6px; } }
 
 /* callouts */
 .verdict { background: var(--paper-2); border: 1px solid var(--rule); border-radius: 6px; padding: 26px 30px; margin: 26px 0; }
@@ -153,3 +153,10 @@ details summary { cursor: pointer; font-family: var(--mono); font-size: .8rem; c
 .small { font-size: .9rem; color: var(--ink-soft); }
 
 table.inv td.sample { min-width: 460px; }
+
+@media (max-width: 860px) {
+  /* Wide data tables scroll inside themselves instead of stretching the page. */
+  table.inv { display: block; max-width: 100%; overflow-x: auto; }
+  table.inv td.sample { min-width: 300px; }
+}
+.stat { overflow-wrap: anywhere; }

@@ -1,3 +1,49 @@
+# Better photographs, one type scale, one site map — 22 September 2026
+
+- Replaced four weak evidence images with openly licensed photographs of the same
+  objects, keeping each previous image as a second view. The Cahokia birdman tablet
+  is now a photograph of the object rather than a modern illustration. The Lingjiatan
+  pig gains a museum-display photograph whose caption independently repeats the 88 kg
+  weight and tomb 07M23; an excavation report is still the check that would settle
+  them. The Gate of the Sun and the front of Hoa Hakananai'a replace a rights-unresolved
+  supplied screenshot and a dim gallery view. Credits, rights, source URLs, hashes and
+  transformations are recorded; the tablet crop is the only local change to any file.
+- Rebuilt the type scale. The most-used text on several pages was 9-pixel monospace;
+  small type now starts at 12 px, and explanatory sentences moved from the monospace
+  into the reading serif. The monospace keeps labels, counts, dates, credits and
+  controls. No wording changed.
+- Fixed colour contrast throughout. Muted grey, the accent copper and the labels on
+  dark panels all now pass WCAG AA for their size. One lede on the homepage's dark
+  section had been rendering near-black on near-black at 1.25:1.
+- Gave every page the same header and the same site map. All twenty-four pages, in
+  three different page shells, now carry one navigation with the current section
+  marked, and one footer listing the whole site by section.
+- Fixed horizontal overflow on phones. A grid minimum blew out the two-column study
+  layout, wide data tables now scroll inside themselves, and long credit lines wrap.
+
+# The cluster index — 22 September 2026
+
+- Added a culture-pair cluster index, derived entirely from the maintained register:
+  23 pairs, 19 distinct comparisons, 18 of them with no route established in this
+  review. Each pair has its own page setting the two traditions side by side, line
+  by line, with what corresponds, what differs, the transmission check, the dated
+  episodes on each side and the ordinary explanations already on the table.
+- Ordered the index by how many comparisons stay open *after* a source check, never
+  by evidence strength. A subcomparison is counted inside its parent line, because
+  it is not separate evidence. Göbekli Tepe and Rapa Nui lead with three separate
+  lines of comparison; that is a property of what has been collected here, not a
+  measurement of the world or a finding of contact.
+- Published a sparse culture-by-culture table: 23 of 210 possible pairings carry a
+  comparison. Its numbers count lines of comparison, and the ranked index below it
+  carries the same information as text.
+- Replaced the catalogue's "Cultures" view with the same cluster ranking, keeping
+  every existing `?view=cultures` link working. The collection's landing page now
+  opens the three densest clusters directly.
+- Gave every catalogue photograph the framed-plate treatment used elsewhere on the
+  site — a hairline frame and a light mount instead of a beige field — across the
+  comparison cards, motif families, dossiers, homepage pair and intake images. No
+  image bytes, credits or crops changed.
+
 # A closer visual investigation — 20 September 2026
 
 - Added a 22-object study with interchangeable photographs, source-informed

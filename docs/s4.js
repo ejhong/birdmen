@@ -4,7 +4,7 @@
   const el = (tag, attrs = {}, ...kids) => { const e = document.createElement(tag); for (const [k, v] of Object.entries(attrs)) { if (k === "class") e.className = v; else if (k === "html") e.innerHTML = v; else e.setAttribute(k, v); } for (const k of kids) if (k != null) e.append(k); return e; };
   const NS = "http://www.w3.org/2000/svg"; const sv = (tag, attrs = {}, text) => { const e = document.createElementNS(NS, tag); for (const [k, v] of Object.entries(attrs)) e.setAttribute(k, v); if (text != null) e.textContent = text; return e; };
   const svg = (w, h) => { const s = sv("svg", { viewBox: `0 0 ${w} ${h}`, width: "100%" }); s.style.maxWidth = w + "px"; s.style.display = "block"; return s; };
-  const COL = { ink: "#201b12", soft: "#4c453a", faint: "#877e6c", rule: "#d9d0be", copper: "#9a5b33", moss: "#47705f", rust: "#8e4a38", slate: "#5d6672" };
+  const COL = { ink: "#201b12", soft: "#4c453a", faint: "#6e6556", rule: "#d9d0be", copper: "#92552e", moss: "#47705f", rust: "#8e4a38", slate: "#5d6672" };
   const pc = x => (x == null) ? "–" : (100 * x).toFixed(0) + "%", f2 = x => (x == null) ? "–" : Number(x).toFixed(2);
   const SN = { hancock: "The civilisers (lost-civilisation pairs)", positive: "Designated positive controls", related: "Designated related pairs", random: "Random pairs (base rate)" };
   const C = R.corpus, BS = R.by_set, BP = R.by_pair, LK = R.leak;

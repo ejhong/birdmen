@@ -14,18 +14,18 @@
 .pcard { background: #fff; border: 1px solid var(--rule); border-radius: 6px; padding: 10px; }
 .pcard .ph { height: 300px; display: flex; align-items: center; justify-content: center; background: var(--paper-2); border-radius: 3px; overflow: hidden; }
 .pcard .ph img { max-height: 300px; max-width: 100%; object-fit: contain; }
-.pcard .cap { font-family: var(--mono); font-size: .72rem; color: var(--ink-soft); margin-top: 8px; line-height: 1.5; }
+.pcard .cap { font-family: var(--mono); font-size:0.875rem; color: var(--ink-soft); margin-top: 8px; line-height: 1.5; }
 .pcard .cap b { color: var(--ink); }
 .nn-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 12px; }
 .nn { background: #fff; border: 1px solid var(--rule); border-radius: 6px; padding: 8px; }
 .nn .two { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; align-items: center; }
 .nn .ph { height: 150px; display: flex; align-items: center; justify-content: center; background: var(--paper-2); border-radius: 3px; overflow: hidden; }
 .nn .ph img { max-height: 150px; max-width: 100%; object-fit: contain; }
-.nn .cap { font-family: var(--mono); font-size: .64rem; color: var(--ink-soft); margin-top: 6px; line-height: 1.5; }
-table.feat td.v { font-family: var(--mono); font-size: .74rem; }
+.nn .cap { font-family: var(--mono); font-size:0.8125rem; color: var(--ink-soft); margin-top: 6px; line-height: 1.5; }
+table.feat td.v { font-family: var(--mono); font-size:0.74rem; }
 table.feat tr.match td { background: rgba(71, 112, 95, .10); }
 table.feat tr.mismatch td { background: rgba(142, 74, 56, .07); }
-.heat { display: grid; gap: 2px; font-family: var(--mono); font-size: .62rem; }
+.heat { display: grid; gap: 2px; font-family: var(--mono); font-size:0.8125rem; }
 .heat div { padding: 6px 2px; text-align: center; border-radius: 2px; color: var(--ink); }
 .heat .lbl { text-align: right; padding-right: 6px; color: var(--ink-soft); background: transparent; }
 .heat .top { writing-mode: vertical-rl; transform: rotate(180deg); height: 96px; background: transparent; color: var(--ink-soft); }
@@ -47,6 +47,9 @@ table.feat tr.mismatch td { background: rgba(142, 74, 56, .07); }
 </head>
 <body>
 
+<div class="sitebar wrap"><a class="brand" href="./">Deep Memory<span>/ Investigation 03</span></a><nav class="site-links" aria-label="Main navigation"><!-- sitenav:start -->
+<a href="catalogue.html">The collection</a><a href="clusters.html">Clusters</a><a href="submerged.html">Submerged worlds</a><a href="research-review.html" aria-current="page">Research</a>
+<!-- sitenav:end --></nav></div>
 <header class="masthead">
   <div class="wrap">
     <div class="eyebrow"><a href="./" style="border:0">Deep Memory test bench</a> &middot; study 3 of 5 &middot; pilot</div>
@@ -222,7 +225,16 @@ table.feat tr.mismatch td { background: rgba(142, 74, 56, .07); }
 
 </main>
 
-<footer><div class="wrap">AI-assisted pilot, September 2026. Third study of the <a href="./">Deep Memory test bench</a>. <a href="https://github.com/ejhong/birdmen/issues">Corrections welcome</a>.</div></footer>
+<!-- sitemap:start -->
+<footer class="site-footer">
+<div class="footer-inner">
+<div class="footer-brand"><a class="footer-mark" href="./">Deep Memory</a>
+<p>An open inquiry into resemblance across distant cultural traditions, and the human landscapes now beneath the sea. Every comparison keeps its source, its date and its unresolved questions.</p></div>
+<nav class="footer-column" aria-label="The collection"><h2>The collection</h2><ul><li><a href="catalogue.html">Motif families</a></li><li><a href="clusters.html">Culture clusters</a></li><li><a href="catalogue.html?view=gallery">Comparison threads</a></li><li><a href="catalogue.html?view=map">Map &amp; chronology</a></li><li><a href="input-audit.html">Input coverage audit</a></li></ul></nav><nav class="footer-column" aria-label="The central case"><h2>The central case</h2><ul><li><a href="pillar-and-moai.html">The pillar, the moai &amp; the bird</a></li><li><a href="fieldwork.html">Visual investigation</a></li><li><a href="local-context.html">Local context</a></li><li><a href="atlas.html">Illustrated atlas</a></li><li><a href="fenton.html">A proposed southern route</a></li></ul></nav><nav class="footer-column" aria-label="Submerged worlds"><h2>Submerged worlds</h2><ul><li><a href="submerged.html">The programme</a></li><li><a href="bathymetry-lab.html">Bathymetry lab</a></li><li><a href="research-review.html">Findings &amp; next tests</a></li><li><a href="signal-audit.html">Teaching-figure audit</a></li></ul></nav><nav class="footer-column" aria-label="The five studies"><h2>The five studies</h2><ul><li><a href="rongo/">Indus &amp; rongorongo</a></li><li><a href="myths.html">Birds, serpents &amp; centres</a></li><li><a href="pictures.html">The pillar &amp; the moai</a></li><li><a href="civilisers.html">The civilisers</a></li><li><a href="floods.html">The raven &amp; the dove</a></li><li><a href="recognition.html">Recognition trials</a></li></ul></nav></div>
+<div class="footer-base"><p>A living research notebook · edition September 2026. Inclusion records a question, never an established historical connection.</p>
+<p><a href="REVISIONS.md">Editorial record</a> · <a href="https://github.com/ejhong/birdmen">Research, code &amp; data</a> · <a href="https://github.com/ejhong/birdmen/issues/new">Corrections and better sources</a></p></div>
+</footer>
+<!-- sitemap:end -->
 
 <script src="s3.js"></script>
 </body>

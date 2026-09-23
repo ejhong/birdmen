@@ -5,7 +5,7 @@
 .water-hero h1 em { font-weight:400; color:#d5b984; }
 .water-intro { display:grid; grid-template-columns:1fr 1fr; gap:65px; max-width:1050px; }
 .water-intro p { font-size:1.3rem; color:#d9dfd4; line-height:1.5; margin:0 0 25px; }
-.water-hero nav { display:flex; flex-wrap:wrap; gap:18px 40px; border-top:1px solid #ffffff2c; padding-top:23px; margin-top:12px; font:.66rem var(--mono); }
+.water-hero nav { display:flex; flex-wrap:wrap; gap:18px 40px; border-top:1px solid #ffffff2c; padding-top:23px; margin-top:12px; font:0.875rem var(--mono); }
 .water-hero nav a { color:#e7e6d6; border:0; }
 .water-explorer { padding-block:55px; }
 .water-explorer .section-top { align-items:start; }
@@ -13,57 +13,57 @@
 .water-explorer .section-top b { color:var(--copper); font-weight:400; }
 .water-tools { display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:20px 40px; border:1px solid var(--rule); border-bottom:0; padding:17px 20px; }
 .region-buttons { display:flex; flex-wrap:wrap; gap:8px; }
-.region-buttons button { font:.61rem var(--mono); border:0; padding:9px 10px; }
+.region-buttons button { font:0.8125rem var(--mono); border:0; padding:9px 10px; }
 .region-buttons button[aria-pressed=true] { background:var(--water); color:var(--paper); }
-.depth-control { display:flex; align-items:center; flex-wrap:wrap; gap:12px; font:.64rem var(--mono); }
+.depth-control { display:flex; align-items:center; flex-wrap:wrap; gap:12px; font:0.8125rem var(--mono); }
 .depth-control output { color:var(--copper); min-width:34px; }
 .depth-control input { accent-color:var(--copper); width:145px; }
 .water-map-pair { display:grid; grid-template-columns:1fr 1fr; gap:2px; background:var(--rule); border:1px solid var(--rule); }
 .water-map-pair figure { margin:0; background:var(--water); min-width:0; display:flex; flex-direction:column; }
 .water-map-pair canvas,.water-fallback { width:100%; height:auto; display:block; }
-.map-overline { background:var(--paper-2); padding:12px 16px; font:.6rem var(--mono); }
-.water-map-pair figcaption { font:.58rem/1.6 var(--mono); background:var(--water); color:#d3ddd1; padding:13px 16px; margin-top:auto; }
-.water-map-legend { display:flex; flex-wrap:wrap; gap:10px 25px; margin:19px 0; font:.58rem var(--mono); color:var(--faint); }
+.map-overline { background:var(--paper-2); padding:12px 16px; font:0.8125rem var(--mono); }
+.water-map-pair figcaption { font:0.75rem/1.6 var(--mono); background:var(--water); color:#d3ddd1; padding:13px 16px; margin-top:auto; }
+.water-map-legend { display:flex; flex-wrap:wrap; gap:10px 25px; margin:19px 0; font:0.75rem var(--mono); color:var(--faint); }
 .water-map-legend span::before { content:''; display:inline-block; width:12px; height:8px; background:#d6d4b9; margin-right:7px; }
 .water-map-legend span:nth-child(2)::before { background:#d4a763; }
 .water-map-legend span:nth-child(3)::before { background:var(--water); }
-.water-map-status { font:.64rem/1.8 var(--mono); color:var(--faint); margin:15px 0; }
-.water-project-locations { display:flex; flex-wrap:wrap; gap:12px 24px; padding:15px 0; border-block:1px solid var(--rule); font:.62rem/1.7 var(--mono); }
+.water-map-status { font:0.8125rem/1.8 var(--mono); color:var(--faint); margin:15px 0; }
+.water-project-locations { display:flex; flex-wrap:wrap; gap:12px 24px; padding:15px 0; border-block:1px solid var(--rule); font:0.8125rem/1.7 var(--mono); }
 .water-project-locations a { border:0; }
 .water-project-locations span { color:var(--copper); padding-right:3px; }
 .depth-explanation { font:1.02rem/1.6 var(--serif); max-width:100ch; color:var(--ink-soft); border-left:2px solid var(--copper); padding-left:20px; }
 .water-method { border-top:1px solid var(--rule); padding-top:12px; margin-top:25px; }
-.water-method summary { font:.68rem var(--mono); color:var(--copper); padding:10px 0; cursor:pointer; }
+.water-method summary { font:0.875rem var(--mono); color:var(--copper); padding:10px 0; cursor:pointer; }
 .water-method p { max-width:95ch; font-size:1.04rem; line-height:1.6; }
 .water-scope { display:grid; grid-template-columns:.8fr 1fr; gap:85px; border-top:1px solid var(--rule); padding-block:60px; }
 .water-scope h2 { font-size:2.5rem; max-width:19ch; margin-top:18px; }
 .water-scope p { font-size:1.18rem; line-height:1.55; margin-top:0; }
-.water-scope p>a { font-size:.9rem; }
+.water-scope p>a { font-size:0.9rem; }
 .water-section { padding-block:50px; border-top:1px solid var(--rule); }
 .water-projects { display:grid; grid-template-columns:1fr 1fr; gap:40px 50px; }
 .water-project { display:grid; grid-template-columns:32px 1fr; gap:18px; border-top:1px solid var(--rule); padding-top:26px; }
-.project-number { font:.7rem var(--mono); color:var(--copper); padding-top:4px; }
+.project-number { font:0.875rem var(--mono); color:var(--copper); padding-top:4px; }
 .water-project h3 { font-size:1.9rem; margin:10px 0 14px; }
-.water-project .micro { font-size:.56rem; }
+.water-project .micro { font-size:0.75rem; }
 .water-project p { font-size:1.04rem; line-height:1.6; color:var(--ink-soft); }
 .water-project .project-lead { font-size:1.14rem; color:var(--ink); }
-.water-project summary,.water-dataset summary { font:.62rem/1.7 var(--mono); color:var(--copper); cursor:pointer; padding:10px 0; }
-.water-project dl,.water-dataset dl { font:.68rem/1.8 var(--mono); }
+.water-project summary,.water-dataset summary { font:0.8125rem/1.7 var(--mono); color:var(--copper); cursor:pointer; padding:10px 0; }
+.water-project dl,.water-dataset dl { font:0.875rem/1.8 var(--mono); }
 .water-project dt,.water-dataset dt { font-weight:500; margin-top:15px; }
 .water-project dd,.water-dataset dd { margin:5px 0 15px; color:var(--faint); }
-.water-project .water-sources,.water-sources { font:.61rem/1.8 var(--mono); color:var(--faint); overflow-wrap:anywhere; }
-.project-map-link { font:.62rem var(--mono); display:inline-block; margin-top:8px; }
+.water-project .water-sources,.water-sources { font:0.8125rem/1.8 var(--mono); color:var(--faint); overflow-wrap:anywhere; }
+.project-map-link { font:0.8125rem var(--mono); display:inline-block; margin-top:8px; }
 .water-data-section { background:#e6e8df; }
 .water-data-grid { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:30px; }
 .water-dataset { border-top:2px solid #8f9d8a; padding-top:21px; }
 .water-dataset h3 { font-size:1.65rem; margin:11px 0; }
 .water-dataset p { font-size:1rem; line-height:1.55; }
-.water-dataset .water-sources { font-size:.6rem; }
+.water-dataset .water-sources { font-size:0.8125rem; }
 .water-steps { list-style:none; padding:0; display:grid; grid-template-columns:1fr 1fr; gap:28px 60px; counter-reset:steps; }
 .water-steps li { border-top:1px solid var(--rule); padding-top:25px; counter-increment:steps; }
-.water-steps li::before { content:'0' counter(steps); display:block; font:.7rem var(--mono); color:var(--copper); margin-bottom:15px; }
+.water-steps li::before { content:'0' counter(steps); display:block; font:0.875rem var(--mono); color:var(--copper); margin-bottom:15px; }
 .water-steps b { font:1.65rem var(--serif); }
 .water-steps p { font-size:1.09rem; line-height:1.55; color:var(--ink-soft); }
-.water-programme-links { display:flex; flex-wrap:wrap; gap:16px 35px; font:.65rem/1.8 var(--mono); margin-top:30px; }
+.water-programme-links { display:flex; flex-wrap:wrap; gap:16px 35px; font:0.8125rem/1.8 var(--mono); margin-top:30px; }
 @media(max-width:900px) { .water-hero { padding-top:42px; } .water-intro { gap:30px; } .water-data-grid { grid-template-columns:1fr 1fr; } .water-projects { gap:30px; } .water-scope { gap:40px; } .water-project { grid-template-columns:1fr; gap:8px; } }
-@media(max-width:760px) { .water-hero h1 { font-size:4rem; } .water-intro { grid-template-columns:1fr; gap:0; } .water-intro p { font-size:1.2rem; margin-bottom:18px; } .water-hero nav { gap:16px 25px; font-size:.6rem; } .water-explorer { padding-block:35px; } .water-explorer .section-top p { text-align:left; } .water-tools { padding:14px; gap:16px; } .region-buttons { gap:4px; } .region-buttons button { font-size:.56rem; padding:8px; } .depth-control { width:100%; justify-content:space-between; gap:8px; font-size:.6rem; } .depth-control input { flex:1; } .water-map-pair { grid-template-columns:1fr; } .water-map-legend { gap:10px 16px; } .water-map-legend span { font-size:.51rem; } .water-scope { grid-template-columns:1fr; gap:20px; padding-block:35px; } .water-scope h2 { font-size:2.1rem; max-width:24ch; } .water-scope p { font-size:1.1rem; } .water-section { padding-block:35px; } .water-projects,.water-data-grid,.water-steps { grid-template-columns:1fr; gap:25px; } .water-project h3 { font-size:1.75rem; } .water-steps b { font-size:1.5rem; } .water-programme-links { flex-direction:column; align-items:start; } }
+@media(max-width:760px) { .water-hero h1 { font-size:4rem; } .water-intro { grid-template-columns:1fr; gap:0; } .water-intro p { font-size:1.2rem; margin-bottom:18px; } .water-hero nav { gap:16px 25px; font-size:0.8125rem; } .water-explorer { padding-block:35px; } .water-explorer .section-top p { text-align:left; } .water-tools { padding:14px; gap:16px; } .region-buttons { gap:4px; } .region-buttons button { font-size:0.75rem; padding:8px; } .depth-control { width:100%; justify-content:space-between; gap:8px; font-size:0.8125rem; } .depth-control input { flex:1; } .water-map-pair { grid-template-columns:1fr; } .water-map-legend { gap:10px 16px; } .water-map-legend span { font-size:0.75rem; } .water-scope { grid-template-columns:1fr; gap:20px; padding-block:35px; } .water-scope h2 { font-size:2.1rem; max-width:24ch; } .water-scope p { font-size:1.1rem; } .water-section { padding-block:35px; } .water-projects,.water-data-grid,.water-steps { grid-template-columns:1fr; gap:25px; } .water-project h3 { font-size:1.75rem; } .water-steps b { font-size:1.5rem; } .water-programme-links { flex-direction:column; align-items:start; } }

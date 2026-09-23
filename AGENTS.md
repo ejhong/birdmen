@@ -8,10 +8,22 @@ browse; implementation details belong in research records, not the reading flow.
 ## Project structure
 
 - `docs/` is the GitHub Pages site. It uses native HTML, CSS, JavaScript and JSON.
+  `pipeline/sitemap.py` holds the one navigation and the one footer site map; the
+  catalogue shell and `pipeline/publish.py` both render them, so a new page joins the
+  site by using `shell()` or by carrying `sitenav`/`sitemap` regions. Type: the serif
+  carries reading text, the monospace only labels, counts, dates, credits and controls,
+  and no text is set below 12 px. Keep colour contrast at WCAG AA; `--faint`, `--copper`
+  and `--copper-lit` are tuned for that and should not be lightened.
 - `research/` holds maintained source registers, editorial decisions and protocols.
 - `data/` holds experimental inputs and saved results. Preserve raw responses.
 - `pipeline/publish.py` generates marked regions and publishes source registers.
 - `pipeline/catalogue.py` validates the catalogue and generates its HTML dossiers.
+  `pipeline/clusters.py` derives the culture-pair index from that same register and
+  generates `docs/clusters.html`, `docs/clusters/*.html` and `docs/data/clusters.json`.
+  A cluster counts comparison lines and never scores an anomaly, ranks evidence
+  strength or asserts contact. A subcomparison belongs inside its parent line.
+  `clusters()` there mirrors `clusters()` in `docs/catalogue-model.mjs`; the node
+  tests compare the published index with the browser model, so change both together.
 - `research/catalogue/catalogue.json` is the maintained catalogue source. Generated
   `docs/catalogue.html`, `docs/catalogue/*.html` and `docs/data/catalogue.json`
   must be changed through the register or publisher, not hand-edited.

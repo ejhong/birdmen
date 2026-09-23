@@ -183,8 +183,12 @@ try {
   await client.evaluate(`document.querySelector('#more-filters').click(); document.querySelector('#culture').value='neolithic-anatolia'; document.querySelector('#culture').dispatchEvent(new Event('input',{bubbles:true})); document.querySelector('#with-culture').value='rapanui'; document.querySelector('#with-culture').dispatchEvent(new Event('input',{bubbles:true}));`);
   assert.equal(await client.evaluate(`document.querySelectorAll('.catalogue-card:not([hidden])').length`), 4);
   await client.evaluate(`document.querySelector('[data-view=cultures]').click()`);
-  assert.ok(await client.evaluate(`document.querySelector('.culture-neighbour').textContent.includes('3 comparison threads')`));
-  await screenshot('catalogue-cultures-desktop.png');
+  assert.equal(await client.evaluate(`document.querySelectorAll('#cultures-view .cluster-row').length`),1);
+  assert.ok(await client.evaluate(`document.querySelector('#cultures-view .cluster-copy h3').textContent.includes('Rapanui')`));
+  assert.ok(await client.evaluate(`document.querySelector('#cultures-view .cluster-foot').textContent.includes('3 lines of comparison')`));
+  assert.equal(await client.evaluate(`document.querySelectorAll('#cultures-view .cluster-ledger li').length`),3);
+  await waitFor(`[...document.querySelectorAll('#cultures-view .plate img')].every(image=>image.complete&&image.naturalWidth>0)`);
+  await screenshot('catalogue-clusters-desktop.png');
   await client.evaluate(`document.querySelector('[data-view=map]').click()`);
   await waitFor(`!!document.querySelector('#map-view svg')`);
   assert.ok(await client.evaluate(`document.querySelectorAll('.map-connection').length > 0`));
@@ -210,7 +214,8 @@ try {
   assert.equal(await client.evaluate(`document.querySelectorAll('.catalogue-card:not([hidden])').length`),4);
   await screenshot('catalogue-gallery-mobile.png');
   await client.evaluate(`document.querySelector('[data-view=cultures]').click()`);
-  await screenshot('catalogue-cultures-mobile.png');
+  assert.ok(await client.evaluate(`document.documentElement.scrollWidth <= innerWidth+1`));
+  await screenshot('catalogue-clusters-mobile.png');
   await client.evaluate(`document.querySelector('[data-view=map]').click()`);
   await waitFor(`!!document.querySelector('#map-view svg')`);
   assert.ok(await client.evaluate(`document.documentElement.scrollWidth <= innerWidth+1`));
@@ -218,6 +223,23 @@ try {
   await client.evaluate(`document.querySelector('[data-view=time]').click()`);
   assert.ok(await client.evaluate(`document.documentElement.scrollWidth <= innerWidth+1`));
   await screenshot('catalogue-time-mobile.png');
+  await navigate('clusters.html');
+  assert.equal(await client.evaluate(`document.querySelectorAll('.cluster-list .cluster-row').length`),23);
+  assert.ok(await client.evaluate(`document.querySelector('.cluster-row .cluster-link').getAttribute('href')==='clusters/neolithic-anatolia--rapanui.html'`));
+  assert.equal(await client.evaluate(`document.querySelectorAll('.cluster-matrix tbody tr').length`),21);
+  assert.ok(await client.evaluate(`document.querySelectorAll('.matrix-cell').length===46`));
+  await waitFor(`[...document.querySelectorAll('.flagship-plates img')].every(image=>image.complete&&image.naturalWidth>0)`);
+  await screenshot('clusters-desktop.png');
+  await navigate('clusters.html',390,844);
+  assert.ok(await client.evaluate(`document.documentElement.scrollWidth <= innerWidth+1`));
+  await screenshot('clusters-mobile.png');
+  await navigate('clusters/neolithic-anatolia--rapanui.html');
+  assert.equal(await client.evaluate(`document.querySelectorAll('.cluster-line').length`),3);
+  assert.ok(await client.evaluate(`document.querySelector('.line-children').textContent.includes('not as separate evidence')`));
+  await waitFor(`[...document.querySelectorAll('.line-plates img')].every(image=>image.complete&&image.naturalWidth>0)`);
+  await screenshot('cluster-dossier-desktop.png');
+  await navigate('clusters/neolithic-anatolia--rapanui.html',390,844);
+  await screenshot('cluster-dossier-mobile.png');
   await navigate('catalogue/birdmen-worlds.html');
   assert.equal(await client.evaluate(`document.querySelectorAll('.dossier-group').length`),2);
   assert.equal(await client.evaluate(`document.querySelectorAll('.group-member').length`),9);
@@ -504,7 +526,7 @@ try {
     event.params.response.url.startsWith(base.origin) && event.params.response.status >= 400 &&
     !event.params.response.url.endsWith('/favicon.ico')).map(event => event.params.response.url);
   assert.deepEqual(failedLocalResponses, [], 'Failed local asset requests');
-  console.log(`Browser smoke checks passed: catalogue views, shared filters and return links, submerged grids and depth changes, network fallback, desktop/mobile layouts, comparison controls, recognition trials, five studies, legacy bookmarks and no-script evidence.\nScreenshots: ${screenshots}`);
+  console.log(`Browser smoke checks passed: catalogue views, cluster index and pair dossiers, shared filters and return links, submerged grids and depth changes, network fallback, desktop/mobile layouts, comparison controls, recognition trials, five studies, legacy bookmarks and no-script evidence.\nScreenshots: ${screenshots}`);
 } finally {
   client?.close();
   browserClient?.close();

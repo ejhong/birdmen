@@ -418,6 +418,42 @@
       "author": "The Metropolitan Museum of Art",
       "checked": "2026-09-20",
       "note": "Museum identity, date and public-domain photograph checked in the bounded fieldwork collection."
+    },
+    {
+      "id": "commons-cahokia",
+      "title": "Birdman Tablet, Cahokia Mounds State Historic Site (photograph)",
+      "url": "https://commons.wikimedia.org/wiki/File:Birdman_Tablet.jpg",
+      "kind": "photograph",
+      "author": "Paul Sableman",
+      "note": "A photograph of the object on display, replacing a modern illustration. The uploader's caption is not an excavation or accession record.",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "commons-lingjiatan-pig",
+      "title": "Jade (stone) pig, Lingjiatan site museum display",
+      "author": "Cangminzho",
+      "url": "https://commons.wikimedia.org/wiki/File:%E7%8E%89%EF%BC%88%E7%9F%B3%EF%BC%89%E7%8C%AA1264.jpg",
+      "kind": "museum",
+      "note": "A museum-display photograph whose caption independently gives about 88 kg and tomb 07M23, matching the supplied caption. Two caption-level sources still are not an excavation report.",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "commons-gate-sun",
+      "title": "Gate of the Sun, central figure and attendant rows (detail)",
+      "author": "Dennis G. Jarvis",
+      "url": "https://commons.wikimedia.org/wiki/File:Bolivia_-_Gate_of_the_Sun_detail_-_Tiwanaku_or_Tiahuanaco_01.jpg",
+      "kind": "photograph",
+      "note": "An openly licensed detail of the carved lintel. The uploader's identification of the central figure as Viracocha is a traditional reading, not an inscription.",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "commons-hoa-front",
+      "title": "Hoa Hakananai'a, front view (British Museum Oc1869,1005.1)",
+      "author": "Andreas Praefcke",
+      "url": "https://commons.wikimedia.org/wiki/File:Hoa_Hakananai%27a_BM_Oc1869_1005_1.jpg",
+      "kind": "photograph",
+      "note": "A public-domain frontal photograph showing the arms and hands against the torso more clearly than the previous view.",
+      "checked": "2026-09-22"
     }
   ],
   "places": [
@@ -809,7 +845,7 @@
       "label": "Hoa Hakananai’a · front",
       "kind": "surface",
       "place": "orongo",
-      "media": "hoa_front",
+      "media": "hoa-front-photo",
       "dates": [
         {
           "start": 1000,
@@ -823,12 +859,16 @@
       "sources": [
         "hoa",
         "moai",
-        "dna"
+        "dna",
+        "commons-hoa-front"
       ],
       "note": "Same physical statue as the back-surface entry. Separate records describe different surfaces and carving episodes, not independent statues.",
       "text": "",
       "physical_id": "hoa-hakananai-a",
-      "culture": "rapanui"
+      "culture": "rapanui",
+      "alternate_media": [
+        "hoa_front"
+      ]
     },
     {
       "id": "ponce",
@@ -884,7 +924,7 @@
       "label": "Cahokia birdman tablet",
       "kind": "object",
       "place": "cahokia",
-      "media": "cahokia",
+      "media": "cahokia-photo",
       "dates": [
         {
           "start": null,
@@ -896,12 +936,16 @@
         }
       ],
       "sources": [
-        "atlas"
+        "atlas",
+        "commons-cahokia"
       ],
-      "note": "The displayed image is a modern illustration, not a primary object photograph. That limits a fine-grained shape comparison.",
+      "note": "A photograph of the object now replaces the modern illustration; the drawing is kept as a second view. Mississippian context; accession and dating records remain to be checked.",
       "text": "",
       "physical_id": "cahokia-bird",
-      "culture": "mississippian"
+      "culture": "mississippian",
+      "alternate_media": [
+        "cahokia"
+      ]
     },
     {
       "id": "omphalos",
@@ -1053,10 +1097,10 @@
     },
     {
       "id": "lingjiatan-pig",
-      "label": "Lingjiatan pig · caption lead",
+      "label": "Lingjiatan jade pig",
       "kind": "object",
       "place": "lingjiatan",
-      "media": "pig",
+      "media": "lingjiatan-pig-photo",
       "dates": [
         {
           "start": null,
@@ -1068,12 +1112,16 @@
         }
       ],
       "sources": [
-        "inputs"
+        "inputs",
+        "commons-lingjiatan-pig"
       ],
-      "note": "The 07M23 and weight claims remain caption-level leads, not verified catalogue facts.",
+      "note": "A museum-display photograph now carries the record. Its caption independently repeats the 88 kg weight and tomb 07M23; an excavation report is still the check that would settle them.",
       "text": "",
       "physical_id": "lingjiatan-pig",
-      "culture": "lingjiatan"
+      "culture": "lingjiatan",
+      "alternate_media": [
+        "pig"
+      ]
     },
     {
       "id": "arnhem-painting",
@@ -1555,7 +1603,7 @@
       "label": "Gate of the Sun · frieze",
       "kind": "surface",
       "place": "tiwanaku",
-      "media": "gate-input",
+      "media": "gate-sun-photo",
       "dates": [
         {
           "start": null,
@@ -1568,13 +1616,16 @@
       ],
       "sources": [
         "inputs",
-        "intake"
+        "intake",
+        "commons-gate-sun"
       ],
-      "note": "A central staff-bearer is surrounded by rows of attendants, including bird-headed figures. The supplied post’s name “Viracocha” is an interpretation, not an inscriptional identification.",
+      "note": "An openly licensed detail now carries the record, with the supplied post image kept as a second view. A central staff-bearer is surrounded by rows of attendants, including bird-headed figures. The name “Viracocha” is an interpretation, not an inscriptional identification.",
       "text": "",
       "physical_id": "gate-of-the-sun",
       "culture": "tiwanaku",
-      "alternate_media": []
+      "alternate_media": [
+        "gate-input"
+      ]
     },
     {
       "id": "pillar33",
@@ -2396,6 +2447,54 @@
       "kind": "photograph",
       "transformation": "Source-provided rendition; downloaded bytes unchanged. Annotations are separate SVG overlays.",
       "sha256": "add87042bb26046a819ae0c66a135e35a5ae2019b55e05c338e95913c72f1d5d"
+    },
+    {
+      "id": "cahokia-photo",
+      "path": "img/catalogue/cahokia-birdman-tablet.jpg",
+      "caption": "The Cahokia birdman tablet on display, showing the beaked profile and wing",
+      "alt": "A small stone tablet on a museum mount, incised with a beaked human profile above a wing",
+      "credit": "Paul Sableman",
+      "rights": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Birdman_Tablet.jpg",
+      "kind": "photograph",
+      "transformation": "Cropped from the source photograph to the tablet and its mount, then reduced to 1000 px wide. No other change.",
+      "sha256": "95e1896994151ca7ee9fe269a237f8a6138d01301fed6ad2ffa288e9cc1024c5"
+    },
+    {
+      "id": "lingjiatan-pig-photo",
+      "path": "img/catalogue/lingjiatan-jade-pig.jpg",
+      "caption": "The Lingjiatan jade (stone) pig on museum display",
+      "alt": "A large pale stone pig carved with a blunt snout and ridged back, lit on a museum plinth",
+      "credit": "Cangminzho",
+      "rights": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E7%8E%89%EF%BC%88%E7%9F%B3%EF%BC%89%E7%8C%AA1264.jpg",
+      "kind": "photograph",
+      "transformation": "Wikimedia Commons server-rendered JPEG at 1920 px wide; not cropped.",
+      "sha256": "b273db9511a6c11d7ec5ce318629a9422b8f5548617ed79735f7a8e189203804"
+    },
+    {
+      "id": "gate-sun-photo",
+      "path": "img/catalogue/gate-of-the-sun-detail.jpg",
+      "caption": "Gate of the Sun: the central staff-bearing figure and its rows of attendants",
+      "alt": "Carved andesite lintel: a central frontal figure with a rayed head holds a staff in each hand, flanked by rows of smaller winged attendants",
+      "credit": "Dennis G. Jarvis",
+      "rights": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Bolivia_-_Gate_of_the_Sun_detail_-_Tiwanaku_or_Tiahuanaco_01.jpg",
+      "kind": "photograph",
+      "transformation": "Wikimedia Commons server-rendered JPEG at 1920 px wide; not cropped.",
+      "sha256": "c8b5cf645625354fff675fe53cf05c59cba797533fd69417abd43f6f0349ae7b"
+    },
+    {
+      "id": "hoa-front-photo",
+      "path": "img/catalogue/hoa-front-bm.jpg",
+      "caption": "Hoa Hakananai'a from the front, arms and hands against the torso",
+      "alt": "A basalt moai photographed frontally in a museum: heavy brow, long nose, and slender arms whose hands meet low on the torso",
+      "credit": "Andreas Praefcke",
+      "rights": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Hoa_Hakananai%27a_BM_Oc1869_1005_1.jpg",
+      "kind": "photograph",
+      "transformation": "Wikimedia Commons server-rendered JPEG at 1280 px wide; not cropped.",
+      "sha256": "0e3f57804629a2d8e1690866e119e3040fe88e20fb7ce2f8595e84ec6732c411"
     }
   ],
   "groups": [
@@ -2567,10 +2666,11 @@
       "members": [
         "cahokia-bird"
       ],
-      "description": "The Cahokia tablet as represented in a modern illustration.",
-      "membership_reason": "A lead group awaiting primary object photography and a collection record.",
+      "description": "The Cahokia tablet photographed on display, with the modern illustration kept as a second view.",
+      "membership_reason": "A lead group awaiting a collection record and a dated context.",
       "sources": [
-        "atlas"
+        "atlas",
+        "commons-cahokia"
       ],
       "cultures": [
         "mississippian"
@@ -3416,7 +3516,7 @@
         "Both presentations suggest avian and human elements."
       ],
       "differences": [
-        "The Cahokia display is a modern illustration; the boulder is shown in a historical photograph.",
+        "Both are now shown in photographs; the modern illustration of the tablet is kept as a second view, and the boulder's only image remains a 1919 photograph.",
         "A small tablet and a relief boulder have different compositional constraints."
       ],
       "diffusion": {
@@ -3432,8 +3532,8 @@
         "boulder"
       ],
       "next_steps": [
-        "Acquire a museum object record and unmodified object photographs.",
-        "Audit what the illustration emphasizes or restores."
+        "Acquire a museum accession record and dated context for the tablet.",
+        "Compare the photograph with the illustration to see what the drawing restores or emphasises."
       ],
       "links": [],
       "controls": [],
@@ -3640,7 +3740,8 @@
         "Each photograph shows a low, elongated animal form."
       ],
       "differences": [
-        "The museum object’s identity is unresolved.",
+        "The museum object on the other side of the comparison remains unidentified.",
+        "The Lingjiatan weight and tomb number now have a second caption-level source, not an excavation report.",
         "Material, size, condition and reconstruction are not yet securely comparable."
       ],
       "diffusion": {
@@ -3655,7 +3756,8 @@
         "inputs"
       ],
       "next_steps": [
-        "Identify both exact objects and obtain collection or excavation records.",
+        "Identify the unresolved museum object and obtain its collection record.",
+        "Trace the Lingjiatan pig to an excavation publication for tomb 07M23.",
         "Check whether repairs or display angles change the apparent silhouette."
       ],
       "links": [],
@@ -4325,7 +4427,7 @@
       ],
       "differences": [
         "Staff-bearing attendants, protective figures and Rapanui birdmen occupy different scenes and contexts.",
-        "“Viracocha” in the supplied caption is an interpretive identification."
+        "“Viracocha” is a traditional identification of the central figure, not an inscription."
       ],
       "diffusion": {
         "status": "unassessed",
@@ -4493,7 +4595,7 @@
       "members": [
         "cahokia-bird"
       ],
-      "note": "A provisional object lead, currently illustrated by a modern drawing."
+      "note": "A provisional object lead. The tablet now has a photograph; its accession and dating records are still to be checked."
     },
     {
       "id": "delphi",

@@ -21,7 +21,7 @@
   const SVGNS = "http://www.w3.org/2000/svg";
   const svg = (w, h) => { const s = document.createElementNS(SVGNS, "svg"); s.setAttribute("viewBox", `0 0 ${w} ${h}`); s.setAttribute("width", "100%"); s.style.maxWidth = w + "px"; s.style.display = "block"; return s; };
   const sv = (tag, attrs = {}, text) => { const e = document.createElementNS(SVGNS, tag); for (const [k, v] of Object.entries(attrs)) e.setAttribute(k, v); if (text != null) e.textContent = text; return e; };
-  const COL = { ink: "#201b12", soft: "#4c453a", faint: "#877e6c", rule: "#d9d0be", copper: "#9a5b33", moss: "#47705f", rust: "#8e4a38", slate: "#5d6672", paper2: "#efe8da" };
+  const COL = { ink: "#201b12", soft: "#4c453a", faint: "#6e6556", rule: "#d9d0be", copper: "#92552e", moss: "#47705f", rust: "#8e4a38", slate: "#5d6672", paper2: "#efe8da" };
 
   // ---------- numbers in the prose ----------
   const R = D.results;

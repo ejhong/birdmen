@@ -1,0 +1,518 @@
+{
+  "edition": "2026-09-20",
+  "scope": "Derived culture-pair index. Counts record comparisons in this collection, never evidence strength, independence or contact.",
+  "clusters": [
+    {
+      "id": "neolithic-anatolia--rapanui",
+      "a": "neolithic-anatolia",
+      "b": "rapanui",
+      "lines": [
+        {
+          "root": "birdmen-worlds",
+          "children": [
+            "bird-and-disc"
+          ]
+        },
+        {
+          "root": "hands-across-torsos",
+          "children": []
+        },
+        {
+          "root": "ribs-across-oceans",
+          "children": []
+        }
+      ],
+      "threads": [
+        "birdmen-worlds",
+        "bird-and-disc",
+        "hands-across-torsos",
+        "ribs-across-oceans"
+      ],
+      "families": [
+        "bird-figures",
+        "bird-round-form",
+        "torso-gestures",
+        "ribbed-figures"
+      ],
+      "open": 3,
+      "checked": 3,
+      "examined": 1,
+      "records": 13
+    },
+    {
+      "id": "rapanui--tiwanaku",
+      "a": "rapanui",
+      "b": "tiwanaku",
+      "lines": [
+        {
+          "root": "hands-across-torsos",
+          "children": []
+        },
+        {
+          "root": "tiwanaku-birdmen",
+          "children": []
+        }
+      ],
+      "threads": [
+        "hands-across-torsos",
+        "tiwanaku-birdmen"
+      ],
+      "families": [
+        "torso-gestures",
+        "bird-figures"
+      ],
+      "open": 2,
+      "checked": 2,
+      "examined": 0,
+      "records": 8
+    },
+    {
+      "id": "assyria--rapanui",
+      "a": "assyria",
+      "b": "rapanui",
+      "lines": [
+        {
+          "root": "assyria-rapanui-birdmen",
+          "children": []
+        },
+        {
+          "root": "tiwanaku-birdmen",
+          "children": []
+        }
+      ],
+      "threads": [
+        "assyria-rapanui-birdmen",
+        "tiwanaku-birdmen"
+      ],
+      "families": [
+        "bird-figures"
+      ],
+      "open": 2,
+      "checked": 2,
+      "examined": 0,
+      "records": 6
+    },
+    {
+      "id": "assyria--tiwanaku",
+      "a": "assyria",
+      "b": "tiwanaku",
+      "lines": [
+        {
+          "root": "tiwanaku-birdmen",
+          "children": []
+        }
+      ],
+      "threads": [
+        "tiwanaku-birdmen"
+      ],
+      "families": [
+        "bird-figures"
+      ],
+      "open": 1,
+      "checked": 1,
+      "examined": 0,
+      "records": 6
+    },
+    {
+      "id": "cacaxtla--rapanui",
+      "a": "cacaxtla",
+      "b": "rapanui",
+      "lines": [
+        {
+          "root": "cacaxtla-rapanui",
+          "children": []
+        }
+      ],
+      "threads": [
+        "cacaxtla-rapanui"
+      ],
+      "families": [
+        "bird-figures"
+      ],
+      "open": 1,
+      "checked": 1,
+      "examined": 0,
+      "records": 5
+    },
+    {
+      "id": "andean-accounts--mesopotamian-accounts",
+      "a": "andean-accounts",
+      "b": "mesopotamian-accounts",
+      "lines": [
+        {
+          "root": "teachers-across-oceans",
+          "children": []
+        }
+      ],
+      "threads": [
+        "teachers-across-oceans"
+      ],
+      "families": [
+        "teaching-figures"
+      ],
+      "open": 1,
+      "checked": 1,
+      "examined": 1,
+      "records": 3
+    },
+    {
+      "id": "andean-accounts--nahua-accounts",
+      "a": "andean-accounts",
+      "b": "nahua-accounts",
+      "lines": [
+        {
+          "root": "teachers-across-oceans",
+          "children": []
+        }
+      ],
+      "threads": [
+        "teachers-across-oceans"
+      ],
+      "families": [
+        "teaching-figures"
+      ],
+      "open": 1,
+      "checked": 1,
+      "examined": 1,
+      "records": 3
+    },
+    {
+      "id": "assyria--neolithic-anatolia",
+      "a": "assyria",
+      "b": "neolithic-anatolia",
+      "lines": [
+        {
+          "root": "handled-forms",
+          "children": []
+        }
+      ],
+      "threads": [
+        "handled-forms"
+      ],
+      "families": [
+        "handled-forms"
+      ],
+      "open": 1,
+      "checked": 1,
+      "examined": 0,
+      "records": 3
+    },
+    {
+      "id": "assyria--olmec",
+      "a": "assyria",
+      "b": "olmec",
+      "lines": [
+        {
+          "root": "handled-forms",
+          "children": []
+        }
+      ],
+      "threads": [
+        "handled-forms"
+      ],
+      "families": [
+        "handled-forms"
+      ],
+      "open": 1,
+      "checked": 1,
+      "examined": 0,
+      "records": 3
+    },
+    {
+      "id": "mesopotamian-accounts--nahua-accounts",
+      "a": "mesopotamian-accounts",
+      "b": "nahua-accounts",
+      "lines": [
+        {
+          "root": "teachers-across-oceans",
+          "children": []
+        }
+      ],
+      "threads": [
+        "teachers-across-oceans"
+      ],
+      "families": [
+        "teaching-figures"
+      ],
+      "open": 1,
+      "checked": 1,
+      "examined": 1,
+      "records": 3
+    },
+    {
+      "id": "neolithic-anatolia--olmec",
+      "a": "neolithic-anatolia",
+      "b": "olmec",
+      "lines": [
+        {
+          "root": "handled-forms",
+          "children": []
+        }
+      ],
+      "threads": [
+        "handled-forms"
+      ],
+      "families": [
+        "handled-forms"
+      ],
+      "open": 1,
+      "checked": 1,
+      "examined": 0,
+      "records": 3
+    },
+    {
+      "id": "neolithic-anatolia--tiwanaku",
+      "a": "neolithic-anatolia",
+      "b": "tiwanaku",
+      "lines": [
+        {
+          "root": "hands-across-torsos",
+          "children": []
+        }
+      ],
+      "threads": [
+        "hands-across-torsos"
+      ],
+      "families": [
+        "torso-gestures"
+      ],
+      "open": 1,
+      "checked": 1,
+      "examined": 0,
+      "records": 3
+    },
+    {
+      "id": "indus--rapanui",
+      "a": "indus",
+      "b": "rapanui",
+      "lines": [
+        {
+          "root": "indus-rongorongo",
+          "children": []
+        }
+      ],
+      "threads": [
+        "indus-rongorongo"
+      ],
+      "families": [
+        "sign-systems"
+      ],
+      "open": 1,
+      "checked": 1,
+      "examined": 1,
+      "records": 2
+    },
+    {
+      "id": "mesopotamian-accounts--muisca",
+      "a": "mesopotamian-accounts",
+      "b": "muisca",
+      "lines": [
+        {
+          "root": "bochica-oannes",
+          "children": []
+        }
+      ],
+      "threads": [
+        "bochica-oannes"
+      ],
+      "families": [
+        "teaching-figures"
+      ],
+      "open": 1,
+      "checked": 1,
+      "examined": 0,
+      "records": 2
+    },
+    {
+      "id": "jiroft--olmec",
+      "a": "jiroft",
+      "b": "olmec",
+      "lines": [
+        {
+          "root": "jiroft-olmec",
+          "children": []
+        }
+      ],
+      "threads": [
+        "jiroft-olmec"
+      ],
+      "families": [
+        "handled-forms",
+        "enclosing-creature",
+        "serpent-beings"
+      ],
+      "open": 1,
+      "checked": 0,
+      "examined": 0,
+      "records": 2
+    },
+    {
+      "id": "arnhem--neolithic-anatolia",
+      "a": "arnhem",
+      "b": "neolithic-anatolia",
+      "lines": [
+        {
+          "root": "arnhem-pillar43",
+          "children": []
+        }
+      ],
+      "threads": [
+        "arnhem-pillar43"
+      ],
+      "families": [
+        "bird-figures"
+      ],
+      "open": 1,
+      "checked": 0,
+      "examined": 0,
+      "records": 2
+    },
+    {
+      "id": "delphi--rapanui",
+      "a": "delphi",
+      "b": "rapanui",
+      "lines": [
+        {
+          "root": "sacred-navels",
+          "children": []
+        }
+      ],
+      "threads": [
+        "sacred-navels"
+      ],
+      "families": [
+        "sacred-centres"
+      ],
+      "open": 1,
+      "checked": 0,
+      "examined": 0,
+      "records": 2
+    },
+    {
+      "id": "egypt--maya",
+      "a": "egypt",
+      "b": "maya",
+      "lines": [
+        {
+          "root": "stepped-monuments",
+          "children": []
+        }
+      ],
+      "threads": [
+        "stepped-monuments"
+      ],
+      "families": [
+        "stepped-monuments"
+      ],
+      "open": 1,
+      "checked": 0,
+      "examined": 0,
+      "records": 2
+    },
+    {
+      "id": "lingjiatan--unassigned",
+      "a": "lingjiatan",
+      "b": "unassigned",
+      "lines": [
+        {
+          "root": "boars-east-west",
+          "children": []
+        }
+      ],
+      "threads": [
+        "boars-east-west"
+      ],
+      "families": [
+        "animal-sculpture"
+      ],
+      "open": 1,
+      "checked": 0,
+      "examined": 0,
+      "records": 2
+    },
+    {
+      "id": "mesopotamian-accounts--pohnpei",
+      "a": "mesopotamian-accounts",
+      "b": "pohnpei",
+      "lines": [
+        {
+          "root": "pohnpei-teachers",
+          "children": []
+        }
+      ],
+      "threads": [
+        "pohnpei-teachers"
+      ],
+      "families": [
+        "teaching-figures"
+      ],
+      "open": 1,
+      "checked": 0,
+      "examined": 0,
+      "records": 2
+    },
+    {
+      "id": "mississippian--rapanui",
+      "a": "mississippian",
+      "b": "rapanui",
+      "lines": [
+        {
+          "root": "cahokia-rapanui",
+          "children": []
+        }
+      ],
+      "threads": [
+        "cahokia-rapanui"
+      ],
+      "families": [
+        "bird-figures"
+      ],
+      "open": 1,
+      "checked": 0,
+      "examined": 0,
+      "records": 2
+    },
+    {
+      "id": "olmec--unassigned",
+      "a": "olmec",
+      "b": "unassigned",
+      "lines": [
+        {
+          "root": "serpents-across-worlds",
+          "children": []
+        }
+      ],
+      "threads": [
+        "serpents-across-worlds"
+      ],
+      "families": [
+        "serpent-beings"
+      ],
+      "open": 1,
+      "checked": 0,
+      "examined": 0,
+      "records": 2
+    },
+    {
+      "id": "mesopotamian-accounts--vedic",
+      "a": "mesopotamian-accounts",
+      "b": "vedic",
+      "lines": [
+        {
+          "root": "flood-survivors",
+          "children": []
+        }
+      ],
+      "threads": [
+        "flood-survivors"
+      ],
+      "families": [
+        "flood-sequences"
+      ],
+      "open": 0,
+      "checked": 0,
+      "examined": 0,
+      "records": 2
+    }
+  ]
+}

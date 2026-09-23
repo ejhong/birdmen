@@ -6,6 +6,10 @@ generated from it, and remain readable without JavaScript.
 import hashlib
 import html
 import json
+try:
+    from pipeline.sitemap import nav, footer
+except ModuleNotFoundError:
+    from sitemap import nav, footer
 from pathlib import Path
 import re
 from urllib.parse import urlsplit
@@ -182,17 +186,17 @@ def card(c, idx):
 <div class="card-foot">{len(groups)} {'group' if len(groups) == 1 else 'groups'} · {count} registered {'example' if count == 1 else 'examples'} <span>Explore →</span></div></div></a></article>'''
 
 
-def shell(title, description, body, prefix='', extra=''):
+def shell(title, description, body, prefix='', extra='', current='catalogue.html'):
     return f'''<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{esc(title)} · Deep Memory</title><meta name="description" content="{esc(description)}">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="{prefix}style.css"><link rel="stylesheet" href="{prefix}catalogue.css?v=2">{extra}</head>
+<link rel="stylesheet" href="{prefix}style.css"><link rel="stylesheet" href="{prefix}catalogue.css?v=3">{extra}</head>
 <body class="catalogue-site"><a class="skip-link" href="#main">Skip to content</a>
-<div class="cat-masthead cat-wrap"><a class="cat-brand" href="{prefix}index.html">Deep Memory<span>Clues to a deeper past</span></a><nav aria-label="Main navigation"><a href="{prefix}catalogue.html">The collection</a><a href="{prefix}submerged.html">Submerged worlds</a><a href="{prefix}research-review.html">Research</a></nav></div>
+<div class="sitebar cat-wrap"><a class="brand" href="{prefix or './'}">Deep Memory<span>/ Clues to a deeper past</span></a><nav class="site-links" aria-label="Main navigation">{nav(prefix, current)}</nav></div>
 {body}
-<footer class="cat-footer cat-wrap"><div>Deep Memory<span>A living collection. A question kept open.</span></div><p><a href="{prefix}catalogue.html#about">About this collection</a> · <a href="{prefix}data/catalogue.json">Download the register</a><br><a href="https://github.com/ejhong/birdmen">Research &amp; code</a> · <a href="https://github.com/ejhong/birdmen/issues/new">Contribute a source or correction</a></p></footer>
+{footer(prefix)}
 </body></html>'''
 
 
@@ -229,12 +233,14 @@ def dossier(c, idx):
     related = [r for r in idx['claims'].values() if r['id'] != c['id'] and r['kind'] == 'claim' and set(r['cultures']) & set(c['cultures'])]
     related.sort(key=lambda r: -len(set(r['members']) & set(c['members'])))
     control_html += ''.join(f'<a class="related-item" href="{r["id"]}.html"><span class="micro">Comparison thread</span><strong>{esc(r["title"])}</strong><span>Open →</span></a>' for r in related[:3])
-    cultures_query = '&'.join(f'{"culture" if i == 0 else "with"}={id}' for i, id in enumerate(c['cultures'][:2]))
+    # Only proposed comparisons produce a culture-pair cluster; controls are context.
+    pair = sorted(c['cultures'])[:2]
+    cluster_link = a('../clusters/' + '--'.join(pair) + '.html', 'The ' + ' / '.join(idx['cultures'][id]['label'] for id in pair) + ' cluster') if c['kind'] == 'claim' and len(pair) == 2 else ''
     family_links = ' · '.join(a('../families/'+f['id']+'.html', f['label']) for f in idx['families'].values() if c['id'] in f['claims'])
     body = f'''<main id="main"><header class="dossier-heading cat-wrap"><a class="back-link" href="../catalogue.html?view=gallery">← All comparisons</a>
 <div class="micro">{'Context control' if c['kind']=='control' else STATUS[c['status']]} · {' / '.join(esc(idx['motifs'][id]['label']) for id in c['motifs'])}</div>
 <h1>{esc(c['title'])}</h1><p class="dossier-deck">{esc(c['dek'])}</p><div class="dossier-meta">{len(c['groups'])} groups · {len(c['members'])} registered records · reviewed {esc(c['review']['date'])}</div>
-<div class="dossier-links">{a('../catalogue.html?view=cultures&'+cultures_query, 'Cultural connections')} {a('../catalogue.html?view=map&focus='+c['id'], 'Map')} {a('../catalogue.html?view=time&focus='+c['id'], 'Dates')}{''.join(a(l['url'],l['label'],'../') for l in c['links'])}</div><p class="micro">Motif families: {family_links}</p>
+<div class="dossier-links">{cluster_link} {a('../catalogue.html?view=map&focus='+c['id'], 'Map')} {a('../catalogue.html?view=time&focus='+c['id'], 'Dates')}{''.join(a(l['url'],l['label'],'../') for l in c['links'])}</div><p class="micro">Motif families: {family_links}</p>
 {f'<p class="micro">A focused subcomparison of {a(c["parent"]+".html",idx["claims"][c["parent"]]["title"])}. It is not independent evidence for the same proposed link.</p>' if c.get('parent') else ''}</header>
 <div class="dossier-groups cat-wrap">{''.join(group_html)}</div>
 <section class="dossier-reading cat-wrap"><div><div class="micro">The proposed connection</div><h2>What makes it a question?</h2></div><div><p class="reading-lead">{esc(c['anomaly'])}</p><p class="origin-note">{esc(c['origin']['note'])}<br>{a(origin['url'], origin['title'], '../')}</p></div></section>
@@ -248,8 +254,12 @@ def dossier(c, idx):
 def landing(data, idx):
     try:
         from pipeline.family_pages import family_card
+        from pipeline.clusters import clusters, cluster_row
     except ModuleNotFoundError:
         from family_pages import family_card
+        from clusters import clusters, cluster_row
+    pairs = clusters(data, idx)
+    strip = ''.join(cluster_row(c, n + 1, idx) for n, c in enumerate(pairs[:3]))
     total = sum(c['kind'] == 'claim' for c in data['claims'])
     controls = len(data['claims']) - total
     options = lambda rows: ''.join(f'<option value="{esc(r["id"])}">{esc(r["label"])}</option>' for r in rows)
@@ -257,11 +267,13 @@ def landing(data, idx):
     cards = '\n'.join(card(c,idx) for c in data['claims'])
     body = f'''<main id="main">
 <header class="catalogue-intro cat-wrap"><div><div class="micro">The collection</div><h1>Distant worlds.<br><em>Familiar forms.</em></h1></div><div class="intro-copy"><p>Follow a motif across cultures. Look closely at the objects, dates and stories behind the resemblance.</p><div class="edition-counts">{len(data['families'])} motif families <span>·</span> {total} proposed connections</div></div></header>
-<section class="catalogue-feature cat-wrap" aria-labelledby="feature-title"><a class="feature-visual" href="catalogue/birdmen-worlds.html" aria-label="Explore the Anatolia and Rapa Nui birdman groups"><figure><img src="img/case/pillar43.jpg" alt="Pillar 43 at Göbekli Tepe" fetchpriority="high"><figcaption>Neolithic Anatolia</figcaption></figure><div class="feature-middle" aria-hidden="true">↔</div><figure><img src="img/case/hoa-back.jpg" alt="The carved back of Hoa Hakananai’a" fetchpriority="high"><figcaption>Rapanui traditions</figcaption></figure></a><div class="feature-copy"><div class="micro">Begin with a question</div><h2 id="feature-title">The pillar. <br>The moai. <br>The bird.</h2><p>Two cultural worlds, separated by an ocean and millennia. A resemblance becomes more interesting when we place it among the objects around it.</p><a class="quiet-action" href="catalogue/birdmen-worlds.html">Explore the two groups <span>↗</span></a><a class="feature-secondary" href="catalogue.html?view=cultures&amp;culture=neolithic-anatolia&amp;with=rapanui">Follow all their comparison threads →</a></div></section>
+<section class="catalogue-feature cat-wrap" aria-labelledby="feature-title"><a class="feature-visual" href="catalogue/birdmen-worlds.html" aria-label="Explore the Anatolia and Rapa Nui birdman groups"><figure><img src="img/case/pillar43.jpg" alt="Pillar 43 at Göbekli Tepe" fetchpriority="high"><figcaption>Neolithic Anatolia</figcaption></figure><div class="feature-middle" aria-hidden="true">↔</div><figure><img src="img/case/hoa-back.jpg" alt="The carved back of Hoa Hakananai’a" fetchpriority="high"><figcaption>Rapanui traditions</figcaption></figure></a><div class="feature-copy"><div class="micro">Begin with a question</div><h2 id="feature-title">The pillar. <br>The moai. <br>The bird.</h2><p>Two cultural worlds, separated by an ocean and millennia. A resemblance becomes more interesting when we place it among the objects around it.</p><a class="quiet-action" href="catalogue/birdmen-worlds.html">Explore the two groups <span>↗</span></a><a class="feature-secondary" href="clusters/neolithic-anatolia--rapanui.html">Follow all three lines of comparison →</a></div></section>
+<section class="cluster-strip cat-wrap" aria-labelledby="cluster-strip-title"><div class="section-top"><div><div class="micro">The cluster index</div><h2 id="cluster-strip-title">Which cultures keep meeting?</h2></div><p>Culture pairs, ordered by how many separate comparisons stay open after a source check. An index entry, never a verdict.</p></div>
+<ol class="cluster-list">{strip}</ol><p class="strip-more"><a href="clusters.html">All {len(pairs)} culture pairs, and the table of resemblances →</a></p></section>
 <section id="explore" class="explore-section cat-wrap"><div class="explore-top"><div><div class="micro">Find your way in</div><h2>Follow the resemblance.</h2></div><p>Images first. Sources always within reach.</p></div>
 <form id="catalogue-filters" class="catalogue-filters" hidden><div class="filter-primary"><label class="search-label"><span class="sr-only">Search the collection</span><svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="10" cy="10" r="6.5"/><path d="m15 15 5 5"/></svg><input id="search" name="q" type="search" placeholder="Search objects, traditions, ideas…" autocomplete="off"></label><label><span class="sr-only">Theme</span><select name="motif" id="motif"><option value="">Every theme</option>{options(data['motifs'])}</select></label><label><span class="sr-only">Cultural tradition</span><select id="culture" name="culture"><option value="">All cultures</option>{options(data['cultures'])}</select></label><button type="button" id="more-filters" aria-expanded="false" aria-controls="filter-details">Refine <span aria-hidden="true">+</span></button></div>
 <div id="filter-details" class="filter-details" hidden><label>Compare with<select id="with-culture" name="with"><option value="">Any other tradition</option>{options(data['cultures'])}</select></label><label>Region<select id="region" name="region"><option value="">Every region</option>{''.join(f'<option>{esc(r)}</option>' for r in regions)}</select></label><label>Review depth<select id="review" name="review"><option value="">All stages</option>{''.join(f'<option value="{k}">{v}</option>' for k,v in STATUS.items())}</select></label><label>Transmission check<select id="diffusion" name="diffusion"><option value="">Every status</option>{''.join(f'<option value="{k}">{v}</option>' for k,v in DIFFUSION.items())}</select></label><fieldset class="date-filter"><legend>Date interval</legend><label>From<input name="from" id="date-from" type="number" min="-12000" max="2026" placeholder="−10000"></label><label>To<input name="to" id="date-to" type="number" min="-12000" max="2026" placeholder="2026"></label><p>Negative years = BCE. Any recorded interval may overlap; witness dates are labelled. No year zero.</p></fieldset><div class="check-filters"><label><input id="unknown" type="checkbox" name="unknown" checked> Include examples with unresolved dates</label><label><input id="controls" type="checkbox" name="controls"> Include context &amp; controls</label></div></div><p id="filter-error" class="filter-error" role="alert" hidden></p></form>
-<div class="view-toolbar" id="view-toolbar" hidden><nav class="view-buttons" aria-label="Browse the collection"><button type="button" data-view="families" aria-pressed="true">Motif families</button><button type="button" data-view="gallery" aria-pressed="false">Comparisons</button><button type="button" data-view="cultures" aria-pressed="false">Cultures</button><button type="button" data-view="map" aria-pressed="false">Map</button><button type="button" data-view="time" aria-pressed="false">Timeline</button></nav><button type="button" id="reset-filters">Clear filters</button></div>
+<div class="view-toolbar" id="view-toolbar" hidden><nav class="view-buttons" aria-label="Browse the collection"><button type="button" data-view="families" aria-pressed="true">Motif families</button><button type="button" data-view="gallery" aria-pressed="false">Comparisons</button><button type="button" data-view="cultures" aria-pressed="false">Clusters</button><button type="button" data-view="map" aria-pressed="false">Map</button><button type="button" data-view="time" aria-pressed="false">Timeline</button></nav><button type="button" id="reset-filters">Clear filters</button></div>
 <div class="results-line"><p id="result-count" role="status" aria-live="polite">{len(data['families'])} motif families · {total} comparison threads</p><button type="button" id="copy-view" hidden>Copy this view ↗</button></div><p id="active-filters" class="active-filters" hidden></p><p class="filter-explanation" id="date-filter-note" hidden></p>
 <div id="families-view" class="family-grid">{''.join(family_card(f,data,idx) for f in data['families'])}</div><div id="gallery-view" class="catalogue-grid" hidden>{cards}</div><section id="cultures-view" class="view-panel" hidden aria-label="Cultural connections"></section><section id="map-view" class="view-panel" hidden aria-label="Map of comparisons"></section><section id="time-view" class="view-panel" hidden aria-label="Comparison chronology"></section><section id="themes-view" class="view-panel" hidden aria-label="Motif collections"></section>
 <div id="empty-state" class="empty-state" hidden><h3>No matches in this view.</h3><p>Try a broader theme or date interval. Unresolved dates and context controls can be included under Refine.</p><button type="button" id="empty-reset">Clear filters</button></div>
@@ -269,7 +281,7 @@ def landing(data, idx):
 </section>
 <section id="about" class="collection-about cat-wrap"><div><div class="micro">An open collection</div><h2>A resemblance.<br>A question to pursue.</h2></div><div><p>We catalogue proposed anomalies, with ordinary transmission and local examples as optional controls. Inclusion records a question, not an established historical connection.</p><p>Families gather examples across any number of cultures. Each observation names its object and features; a culture does not inherit every motif found in its comparison partners.</p><details><summary>Reading the evidence</summary><p>Review stages describe source checks, not anomaly scores. “Documented” observations are source-linked editorial readings; they are not independent expert certification. Unidentified images remain leads.</p><p>Map lines connect comparisons. Date bands describe particular objects or witnesses. Unknown dates stay unknown. Selected examples cannot establish worldwide motif frequencies.</p></details><div class="about-links"><a href="input-audit.html">What was captured from the inputs ↗</a><a href="data/catalogue.json">Download the register ↗</a><a href="https://github.com/ejhong/birdmen/issues/new">Contribute a source ↗</a></div></div></section>
 </main>'''
-    return shell('Distant worlds. Familiar forms.', 'Explore claimed anomalous similarities across cultural traditions, with photographs, sources, maps and careful chronology.',body,extra='<script type="module" src="catalogue.js?v=2"></script>')
+    return shell('Distant worlds. Familiar forms.', 'Explore claimed anomalous similarities across cultural traditions, with photographs, sources, maps and careful chronology.',body,extra='<link rel="stylesheet" href="clusters.css"><script type="module" src="catalogue.js?v=3"></script>')
 
 
 def outputs():
@@ -289,9 +301,12 @@ def outputs():
         out[DOCS / 'catalogue' / (c['id'] + '.html')] = dossier(c,idx)
     try:
         from pipeline.family_pages import outputs as family_outputs
+        from pipeline.clusters import outputs as cluster_outputs
     except ModuleNotFoundError:
         from family_pages import outputs as family_outputs
+        from clusters import outputs as cluster_outputs
     out.update(family_outputs(data,idx))
+    out.update(cluster_outputs(data,idx))
     return out
 
 
@@ -299,4 +314,4 @@ if __name__ == '__main__':
     for path, content in outputs().items():
         path.parent.mkdir(parents=True,exist_ok=True)
         path.write_text(content)
-    print('Published catalogue and all comparison dossiers')
+    print('Published the catalogue, cluster index and all comparison dossiers')

@@ -1,7 +1,7 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
-import {defaults,readState,stateURL,makeIndex,filterClaims,filterFamilies,hasRecordedBundle,dateOverlaps,culturalEdges,escapeHTML} from '../docs/catalogue-model.mjs';
+import {defaults,readState,stateURL,makeIndex,filterClaims,filterFamilies,hasRecordedBundle,dateOverlaps,culturalEdges,clusters,escapeHTML} from '../docs/catalogue-model.mjs';
 const data=JSON.parse(await readFile(new URL('../research/catalogue/catalogue.json',import.meta.url),'utf8'));
 const idx=makeIndex(data);
 test('controls stay optional and filters combine across culture, motif and region',()=>{
@@ -39,6 +39,25 @@ test('cultural edges preserve group relationships and deduplicate nested compari
   assert.ok(edge.claims.includes('bird-and-disc'));
   assert.ok(edge.claims.includes('birdmen-worlds'));
   assert.equal(edge.claims.length,4);assert.equal(edge.families.length,3);
+});
+test('the published cluster index matches the browser model exactly',async()=>{
+  const published=JSON.parse(await readFile(new URL('../docs/data/clusters.json',import.meta.url),'utf8'));
+  assert.deepEqual(published.clusters,clusters(filterClaims(data,defaults,idx),data,idx));
+  const top=published.clusters[0];
+  assert.equal(top.id,'neolithic-anatolia--rapanui');
+  // A subcomparison shares its parent's line; it is never counted as separate evidence.
+  assert.equal(top.threads.length,4);
+  assert.equal(top.lines.length,3);
+  assert.deepEqual(top.lines[0],{root:'birdmen-worlds',children:['bird-and-disc']});
+  assert.equal(top.open,3);
+  assert.ok(published.clusters.every(c=>c.a<c.b));
+});
+test('filters narrow the clusters, and controls never become comparison lines',()=>{
+  const birds=clusters(filterClaims(data,{...defaults,motif:'bodies'},idx),data,idx);
+  assert.ok(!birds.some(c=>c.lines.some(l=>l.root==='birdmen-worlds')));
+  const withControls=clusters(filterClaims(data,{...defaults,controls:true},idx),data,idx);
+  assert.deepEqual(withControls.map(c=>c.id),clusters(filterClaims(data,defaults,idx),data,idx).map(c=>c.id));
+  assert.equal(clusters(filterClaims(data,{...defaults,culture:'delphi',with:'olmec'},idx),data,idx).length,0);
 });
 test('untrusted source text is rendered as text',()=>{
   assert.equal(escapeHTML('<img src=x onerror="alert(1)">'), '&lt;img src=x onerror=&quot;alert(1)&quot;&gt;');

@@ -6,7 +6,7 @@
   const NS = "http://www.w3.org/2000/svg";
   const sv = (tag, attrs = {}, text) => { const e = document.createElementNS(NS, tag); for (const [k, v] of Object.entries(attrs)) e.setAttribute(k, v); if (text != null) e.textContent = text; return e; };
   const svg = (w, h) => { const s = sv("svg", { viewBox: `0 0 ${w} ${h}`, width: "100%" }); s.style.maxWidth = w + "px"; s.style.display = "block"; return s; };
-  const COL = { ink: "#201b12", soft: "#4c453a", faint: "#877e6c", rule: "#d9d0be", copper: "#9a5b33", moss: "#47705f", rust: "#8e4a38", slate: "#5d6672", gold: "#96731f" };
+  const COL = { ink: "#201b12", soft: "#4c453a", faint: "#6e6556", rule: "#d9d0be", copper: "#92552e", moss: "#47705f", rust: "#8e4a38", slate: "#5d6672", gold: "#96731f" };
   const pct = x => (100 * x).toFixed(0) + "%";
   const ord = n => { n = Math.round(n); const s = ["th", "st", "nd", "rd"], v = n % 100; return n + (s[(v - 20) % 10] || s[v] || s[0]); };
   const CL = { bird_people: "Bird-people", cosmic_serpent: "Cosmic serpent", world_centre: "World centre" };
@@ -26,7 +26,7 @@
   // ---------- maps ----------
   const W = 1040, H = 520;
   const px = lon => (lon + 180) / 360 * W, py = lat => (90 - lat) / 180 * H;
-  const AREA_COL = ["#9a5b33", "#47705f", "#5d6672", "#96731f", "#8e4a38", "#6b7a3a", "#7a5a8a", "#3f6f8a", "#b06a3e", "#4c453a", "#877e6c", "#2f6b5e", "#a3473c", "#5b6a9c", "#7f6a2c", "#3a5f52"];
+  const AREA_COL = ["#92552e", "#47705f", "#5d6672", "#96731f", "#8e4a38", "#6b7a3a", "#7a5a8a", "#3f6f8a", "#b06a3e", "#4c453a", "#6e6556", "#2f6b5e", "#a3473c", "#5b6a9c", "#7f6a2c", "#3a5f52"];
   function baseMap() {
     const s = svg(W, H); s.classList.add("map");
     s.append(sv("rect", { x: 0, y: 0, width: W, height: H, fill: "#f6f1e8" }));
@@ -71,7 +71,7 @@
       const t = el("table", { class: "inv" });
       t.append(el("tr", {}, el("th", {}, "Code"), el("th", {}, "Motif"), el("th", {}, "Definition"), el("th", {}, "Traditions")));
       for (const x of kept.sort((a, b) => b.n - a.n)) t.append(el("tr", {}, el("td", { class: "mono" }, x.code), el("td", {}, x.name), el("td", { class: "desc" }, x.description), el("td", { class: "n" }, String(x.n))));
-      for (const x of exc) t.append(el("tr", { style: "opacity:.55" }, el("td", { class: "mono" }, el("s", {}, x.code)), el("td", {}, el("s", {}, x.name)), el("td", { class: "desc" }, "Excluded: " + x.excluded), el("td", { class: "n" }, String(x.n))));
+      for (const x of exc) t.append(el("tr", { style: "opacity:.82" }, el("td", { class: "mono" }, el("s", {}, x.code)), el("td", {}, el("s", {}, x.name)), el("td", { class: "desc" }, "Excluded: " + x.excluded), el("td", { class: "n" }, String(x.n))));
       box.append(el("div", { class: "frame plain", style: "margin-bottom:26px" }, t));
     }
   })();
