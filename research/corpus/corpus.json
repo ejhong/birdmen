@@ -1,0 +1,2044 @@
+{
+  "schema_version": 1,
+  "edition": "2026-09-23",
+  "title": "Every stone we could find",
+  "description": "Two carved repertoires side by side: every openly licensed photograph of a Neolithic Anatolian and a Rapanui carved surface we could register, with what is legible on each.",
+  "deck": "The comparison at the centre of this collection sets one Neolithic pillar beside one Pacific boulder. This page puts each of them back among its neighbours.",
+  "deck_2": "Filter both walls at once. Nothing is removed — the stones that do not carry the feature stay on the wall, dimmed, because they are the reason the question is worth asking at all.",
+  "filter_note": "Every count below describes the registered photographs, not the published corpus and not the objects. Several photographs may show the same surface, and an uncertain reading is never counted as a match.",
+  "anchor_note": "These are the two carvings the Göbekli Tepe–Rapa Nui comparison actually rests on. Seen alone they are striking. The walls above are the context that decides how much that is worth.",
+  "context_note": "Before a resemblance can cross an ocean it has to survive the question of why each side would produce it anyway. The two answers here are not symmetrical.",
+  "gap_note": "Only dates already registered in this collection are drawn. An unresolved date cannot be plotted, and is listed below instead.",
+  "anchors": [
+    "an-01",
+    "ra-01"
+  ],
+  "finding": "That asymmetry is the result of the exercise. Birds are the dominant subject of the Rapanui carvings registered here and an occasional one among the Anatolian animals — and in this sample the Anatolian half of the comparison rests on a single stone, photographed three times. None of that decides whether the resemblance means anything. It does decide what the resemblance is between: not two bird-centred repertoires, but one pillar and a tradition.",
+  "review": {
+    "date": "2026-09-23",
+    "reviewer": "Deep Memory editorial / AI-assisted visual reading",
+    "note": "Feature states are source-informed editorial readings of each registered photograph, prepared with AI; independent review is outstanding. “Legible” means the feature can be seen in that photograph. “Not legible in this view” is not a finding that the object lacks the feature, and this page cannot be used to argue that anything is absent."
+  },
+  "selection": {
+    "harvested": "2026-09-23",
+    "rule": "Files were listed from fixed Wikimedia Commons categories for each tradition, before any of them were looked at. A file was kept if it is a photograph in which one carved or painted surface is the subject and legible enough to say what is and is not visible on it. Undecorated pillars were kept deliberately: they belong to the population the question is asked against.",
+    "caveat": "Photographic coverage is not corpus coverage. The published corpora are far larger than what Commons holds — Göbekli Tepe’s excavated pillars are catalogued by the excavation team, and the Orongo petroglyphs were surveyed in the standard Rapa Nui rock-art corpus. Neither total is reproduced here, so no frequency on this page is a frequency in either tradition.",
+    "categories": {
+      "anatolia": [
+        "Göbekli Tepe",
+        "Göbeklitepe Building A–F",
+        "Göbekli Tepe before the roof cover",
+        "Göbekli Tepe finds and replicas in museums",
+        "Karahan Tepe",
+        "Karahan Tepe man",
+        "Karahantepe finds from the Neolithic age",
+        "Nevalı Çori"
+      ],
+      "rapanui": [
+        "Petroglyphs in Orongo area",
+        "Petroglyphs on Easter Island",
+        "Orongo",
+        "Hoa Hakananai'a",
+        "Historical photographs of Orongo",
+        "Historical drawings of Orongo",
+        "Moai kavakava",
+        "Moai pa'a pa'a",
+        "Moai tangata",
+        "Moai tangata manu",
+        "Pu o Hiro",
+        "Rongorongo"
+      ]
+    },
+    "excluded": [
+      {
+        "reason": "Site views in which no single carved surface can be attributed",
+        "count": 96
+      },
+      {
+        "reason": "Maps, plans, diagrams, transcriptions and modern drawings",
+        "count": 41
+      },
+      {
+        "reason": "Museum rooms, signage, visitors and landscape without carving",
+        "count": 63
+      },
+      {
+        "reason": "Later-period museum holdings outside the Neolithic sites",
+        "count": 370
+      },
+      {
+        "reason": "Further photographs of surfaces already registered",
+        "count": 97
+      },
+      {
+        "reason": "Dropped on inspection: rock with no legible carving, montages, annotated composites and one illustration",
+        "count": 19
+      }
+    ],
+    "exclusion_note": "Counts are of files listed, not of objects. Every photograph that survived the rule was then opened at full size and checked; eighteen were dropped at that stage, including a modern illustration of a bull, two annotated composites and eleven views of rock in which no carving could actually be read. The \"further photographs\" group is the honest reservoir: a second batch can register more surfaces without changing the rule."
+  },
+  "features": [
+    {
+      "id": "bird",
+      "label": "A bird or bird-headed figure"
+    },
+    {
+      "id": "round",
+      "label": "A rounded form"
+    },
+    {
+      "id": "human",
+      "label": "A human figure"
+    },
+    {
+      "id": "animal",
+      "label": "Another animal"
+    },
+    {
+      "id": "sign",
+      "label": "Abstract or geometric signs"
+    },
+    {
+      "id": "ribs",
+      "label": "Prominent ribs"
+    },
+    {
+      "id": "hands",
+      "label": "Hands drawn to the torso"
+    }
+  ],
+  "corpora": [
+    {
+      "id": "anatolia",
+      "label": "Neolithic Anatolia",
+      "period": "10th–9th millennia BCE · Pre-Pottery Neolithic",
+      "sites": "Göbekli Tepe, Karahan Tepe and Nevalı Çori, with finds held in the Şanlıurfa museum.",
+      "context": "The carved repertoire here is overwhelmingly animal: foxes, boars, aurochs, snakes, scorpions, spiders, leopards and cranes, arranged on and around T-shaped pillars that are themselves abstracted human bodies, with arms, hands and belts. Birds are one animal among many rather than the subject of the imagery, and no documented ritual explains the disc on Pillar 43. What the carvings meant is exactly what the excavators say remains open.",
+      "context_source": {
+        "title": "Pillar 43: of animals and a headless man",
+        "url": "https://www.dainst.blog/the-tepe-telegrams/2016/10/14/of-animals-and-a-headless-man-gobekli-tepe-pillar-43/",
+        "note": "The excavation team’s own discussion of the animals and the competing readings of the disc."
+      }
+    },
+    {
+      "id": "rapanui",
+      "label": "Rapanui traditions",
+      "period": "Later carvings · second millennium CE",
+      "sites": "Orongo and the wider island, with carvings held in the British Museum and other collections.",
+      "context": "Rapa Nui has a documented reason to carve birdmen holding rounded forms. At Orongo, an annual competition sent servants to swim to the islet of Motu Nui and return with the first egg of the manutara, the sooty tern; the sponsor of the winner became the tangata manu, the birdman, for that year. The densest birdman carvings cluster at Mata Ngarau, the ceremonial outcrop above that competition. A bird beside an egg is the subject of the ritual itself.",
+      "context_source": {
+        "title": "Hoa Hakananai'a: collection record",
+        "url": "https://www.britishmuseum.org/collection/object/E_Oc1869-1005-1",
+        "note": "The museum record for the statue taken from Orongo, and its later birdman carvings."
+      }
+    }
+  ],
+  "chronology": [
+    {
+      "side": "anatolia",
+      "row": 0,
+      "start": -10000,
+      "end": -8001,
+      "label": "Göbekli Tepe · site context",
+      "note": "Broad published site context for the enclosures. No direct measurement dates an individual carving."
+    },
+    {
+      "side": "rapanui",
+      "row": 1,
+      "start": 1000,
+      "end": 1200,
+      "label": "Hoa Hakananai'a · statue",
+      "note": "Museum estimate for the making of the statue; the catalogue estimate is itself disputed."
+    },
+    {
+      "side": "rapanui",
+      "row": 2,
+      "start": 1750,
+      "end": 1875,
+      "label": "Orongo birdman boulder",
+      "note": "Catalogue estimate for the boulder with a rounded form at the bent hand."
+    },
+    {
+      "side": "rapanui",
+      "row": 3,
+      "start": null,
+      "end": null,
+      "label": "The birdmen on the statue’s back",
+      "note": "Date unresolved. The carvings were added to an older statue; the statue’s date is not theirs."
+    }
+  ],
+  "items": [
+    {
+      "id": "an-01",
+      "corpus": "anatolia",
+      "label": "Pillar 43",
+      "context": "Göbekli Tepe, Enclosure D",
+      "note": "The vulture, the disc, the arched forms, a scorpion and a headless figure share one face.",
+      "features": {
+        "bird": "1",
+        "round": "1",
+        "human": "1",
+        "animal": "1",
+        "sign": "1",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-2d57a658.jpg",
+        "credit": "Guérin Nicolas",
+        "rights": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:G%C3%B6bekli_Tepe_-_T%C3%BCrkei_2011_174.jpg",
+        "date": "2011-06-12 16:28:57",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "a16d945bf92aa0bf3ea34316cfaa226ab8e8c9c83a5f59191166f38450d69fb4"
+      },
+      "physical": "gt-pillar43"
+    },
+    {
+      "id": "an-02",
+      "corpus": "anatolia",
+      "label": "Pillar 43 · the carved face",
+      "context": "Göbekli Tepe, Enclosure D",
+      "note": "The same surface, framed on the carving.",
+      "features": {
+        "bird": "1",
+        "round": "1",
+        "human": "1",
+        "animal": "1",
+        "sign": "1",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-5bc41f81.jpg",
+        "credit": "Sue Fleckney",
+        "rights": "CC BY-SA 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Vulture_Stone,_Gobekli_Tepe,_Sanliurfa,_South-east_Anatolia,_Turkey.jpg",
+        "date": "2013-08-20 11:21:18",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "59b5080a51113acd20e564969b7b569e32be019ca5cdb1cda6c9e24b1d16b793"
+      },
+      "physical": "gt-pillar43"
+    },
+    {
+      "id": "an-03",
+      "corpus": "anatolia",
+      "label": "Pillar 43 from the front",
+      "context": "Göbekli Tepe, Enclosure D",
+      "note": "A third view of the same pillar.",
+      "features": {
+        "bird": "1",
+        "round": "1",
+        "human": "1",
+        "animal": "1",
+        "sign": "1",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-b0a2a097.jpg",
+        "credit": "Klaus-Peter Simon",
+        "rights": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:G%C3%B6bekli2012-18.jpg",
+        "date": "2012-05-13",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "8c1c8140daa81c212829ccaa88be835ea3b93cc3d90c7a3f8f08976996b6be20"
+      },
+      "physical": "gt-pillar43"
+    },
+    {
+      "id": "an-04",
+      "corpus": "anatolia",
+      "label": "Pillar 2",
+      "context": "Göbekli Tepe, Enclosure A",
+      "note": "A stacked register of animals; a long-legged bird is legible among them.",
+      "features": {
+        "bird": "1",
+        "round": "0",
+        "human": "0",
+        "animal": "1",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-04362f25.jpg",
+        "credit": "Klaus-Peter Simon",
+        "rights": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:G%C3%B6bekli2012-1.jpg",
+        "date": "2012-05-13",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "623eb9dd9f48659c1dec43856ad1f239b7a50434d427995ba70465723e0889f0"
+      },
+      "physical": "an-04"
+    },
+    {
+      "id": "an-05",
+      "corpus": "anatolia",
+      "label": "Pillar 12",
+      "context": "Göbekli Tepe, Enclosure C",
+      "note": "Birds in a vertical register.",
+      "features": {
+        "bird": "1",
+        "round": "0",
+        "human": "0",
+        "animal": "1",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-6c4ba2f0.jpg",
+        "credit": "Klaus-Peter Simon",
+        "rights": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:G%C3%B6bekli2012-3.jpg",
+        "date": "2012-05-13",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "2efcbc2b4a5655b77f6094434ad2055852d288818c3f71df65d91f5bd9848909"
+      },
+      "physical": "an-05"
+    },
+    {
+      "id": "an-06",
+      "corpus": "anatolia",
+      "label": "Pillar 37",
+      "context": "Göbekli Tepe, Enclosure C",
+      "note": "An animal relief on the shaft.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "0",
+        "animal": "?",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-0de194d5.jpg",
+        "credit": "Klaus-Peter Simon",
+        "rights": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:G%C3%B6bekli2012-11.jpg",
+        "date": "2012-05-13",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "1720d8ec62307fcd9f9ed415657e1913f4ad859c5c15c9e4fa01c3cade907d1c"
+      },
+      "physical": "an-06"
+    },
+    {
+      "id": "an-07",
+      "corpus": "anatolia",
+      "label": "Pillar 27 · crouching predator",
+      "context": "Göbekli Tepe",
+      "note": "A predator in high relief, described by the source as a lion or panther.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "0",
+        "animal": "1",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-6cb9d897.jpg",
+        "credit": "Dosseman",
+        "rights": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Animal_hunting_scene._Gobekli_Tepe.jpg",
+        "date": "2025-08-21",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "5a98d7d070b69a579c8fc49db8a04d9e25af36725c08f28c22f9383a68ef7747"
+      },
+      "physical": "an-07"
+    },
+    {
+      "id": "an-08",
+      "corpus": "anatolia",
+      "label": "Pillar with arm and fox",
+      "context": "Göbekli Tepe",
+      "note": "A stylised arm runs down the shaft beside a fox.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "1",
+        "animal": "1",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-a7ffc4b0.jpg",
+        "credit": "Guérin Nicolas",
+        "rights": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:G%C3%B6bekli_Tepe_Pilar_Arm_and_Fox.JPG",
+        "date": "2011-06-12 17:01:29",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "9b0f22cda187b28845bc4cd0e9e834b3ed89ade08262c4747fef50468b110aab"
+      },
+      "physical": "an-08"
+    },
+    {
+      "id": "an-09",
+      "corpus": "anatolia",
+      "label": "Animal sculpture",
+      "context": "Göbekli Tepe",
+      "note": "A free-standing predator; the source is unsure whether fox or wolverine.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "0",
+        "animal": "1",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-3834eee1.jpg",
+        "credit": "Uploader not stated",
+        "rights": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:GobeklitepeHeykel.jpg",
+        "date": "2008-05",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "1409aeb07ec7b4e976ce00b4e66a9d285fefc6da2c1e4f7e8afac5f1b8b57928"
+      },
+      "physical": "an-09"
+    },
+    {
+      "id": "an-10",
+      "corpus": "anatolia",
+      "label": "Animal sculpture on a pillar",
+      "context": "Göbekli Tepe",
+      "note": "A crouching animal carved in the round on a pillar edge.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "0",
+        "animal": "1",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-b9a8ecee.jpg",
+        "credit": "Erkcan",
+        "rights": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Gobeklitepe_animal_sculpture,_circa_9000_BCE.jpg",
+        "date": "2019-04-27 13:42:00",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "6e5f38f1c1db9912933b7f63cebd692457e12c467bd6beb3c92cc73a8b570ac0"
+      },
+      "physical": "an-10"
+    },
+    {
+      "id": "an-11",
+      "corpus": "anatolia",
+      "label": "Animal reliefs",
+      "context": "Göbekli Tepe, Layer III",
+      "note": "Several animals on one block.",
+      "features": {
+        "bird": "?",
+        "round": "0",
+        "human": "0",
+        "animal": "1",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-c35aa4d7.jpg",
+        "credit": "Klaus-Peter Simon",
+        "rights": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Reliefs_of_animals,_G%C3%B6bekli_Tepe_Layer_III,_circa_9000_BCE.jpg",
+        "date": "2019-04-27",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "7847b5a369e0f80080093cdcfd1f233d26f2bcbfb346c06d7c59ffeea34f5a4d"
+      },
+      "physical": "an-11"
+    },
+    {
+      "id": "an-12",
+      "corpus": "anatolia",
+      "label": "Enclosure D pillar · birds",
+      "context": "Göbekli Tepe, Enclosure D",
+      "note": "A row of birds above other animals.",
+      "features": {
+        "bird": "1",
+        "round": "0",
+        "human": "0",
+        "animal": "1",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-a8cb533b.jpg",
+        "credit": "Dosseman",
+        "rights": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:G%C3%B6beklitepe_Building_D_5391.jpg",
+        "date": "2019-09-22 11:26:27",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "0a738b522487b0f22231362e4151df749fe9c493a1c4522ebc678069081579a5"
+      },
+      "physical": "gt-d-birds"
+    },
+    {
+      "id": "an-13",
+      "corpus": "anatolia",
+      "label": "Enclosure D pillar · birds, closer",
+      "context": "Göbekli Tepe, Enclosure D",
+      "note": "The same register, closer.",
+      "features": {
+        "bird": "1",
+        "round": "0",
+        "human": "0",
+        "animal": "1",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-f385eff6.jpg",
+        "credit": "Dosseman",
+        "rights": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:G%C3%B6beklitepe_Building_D_5392.jpg",
+        "date": "2019-09-22 11:26:35",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "050e2ad7238477fcd5c7ed7d2ea76e6ff67f258d003232519f8376768a21b505"
+      },
+      "physical": "gt-d-birds"
+    },
+    {
+      "id": "an-14",
+      "corpus": "anatolia",
+      "label": "Enclosure D pillar · animal register",
+      "context": "Göbekli Tepe, Enclosure D",
+      "note": "Animals in relief; the upper forms are hard to resolve.",
+      "features": {
+        "bird": "?",
+        "round": "0",
+        "human": "0",
+        "animal": "1",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-614a142a.jpg",
+        "credit": "Dosseman",
+        "rights": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:G%C3%B6beklitepe_Building_D_5393.jpg",
+        "date": "2019-09-22 11:26:43",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "a11ec4bdcf43565fce1ac8efa5b104ef587c1645a0096eba2781db1e78a3f912"
+      },
+      "physical": "an-14"
+    },
+    {
+      "id": "an-15",
+      "corpus": "anatolia",
+      "label": "Enclosure C pillar head",
+      "context": "Göbekli Tepe, Enclosure C",
+      "note": "Animal relief with net-like and abstract forms.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "0",
+        "animal": "1",
+        "sign": "1",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-8b06bb76.jpg",
+        "credit": "Dosseman",
+        "rights": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:G%C3%B6beklitepe_Building_C_5372.jpg",
+        "date": "2019-09-22 11:20:39",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "ddc0906b4123eb6d963270a8901f70684c397500763bb3d7d10ced2972488bc8"
+      },
+      "physical": "an-15"
+    },
+    {
+      "id": "an-16",
+      "corpus": "anatolia",
+      "label": "Enclosure C pillar · quadruped",
+      "context": "Göbekli Tepe, Enclosure C",
+      "note": "A quadruped along the pillar head.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "0",
+        "animal": "1",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-f73f638b.jpg",
+        "credit": "Dosseman",
+        "rights": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:G%C3%B6beklitepe_Building_C_5379.jpg",
+        "date": "2019-09-22 11:22:25",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "e9de9c93a57ca90de7dc3160e306002d2db02991a8dcb099dcb93c51fe426495"
+      },
+      "physical": "gt-c-quadruped"
+    },
+    {
+      "id": "an-17",
+      "corpus": "anatolia",
+      "label": "Enclosure C pillar · quadruped, wider",
+      "context": "Göbekli Tepe, Enclosure C",
+      "note": "The same relief in its wall context.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "0",
+        "animal": "1",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-50530841.jpg",
+        "credit": "Dosseman",
+        "rights": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:G%C3%B6beklitepe_Building_C_5380.jpg",
+        "date": "2019-09-22 11:22:43",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "da4203bb75378a3aab68bbb92ed68af0522d3dc6cf97c53d446451aef4d58bd8"
+      },
+      "physical": "gt-c-quadruped"
+    },
+    {
+      "id": "an-18",
+      "corpus": "anatolia",
+      "label": "Enclosure D shaft · vertical relief",
+      "context": "Göbekli Tepe, Enclosure D",
+      "note": "A long vertical form, possibly a snake.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "0",
+        "animal": "?",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-0abc6569.jpg",
+        "credit": "Dosseman",
+        "rights": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:G%C3%B6beklitepe_Building_D_5387.jpg",
+        "date": "2019-09-22 11:25:25",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "05d00a8c4d5371a300d722c010c5c78b6a48a3094828afd4471416ee6da3fa22"
+      },
+      "physical": "an-18"
+    },
+    {
+      "id": "an-19",
+      "corpus": "anatolia",
+      "label": "Enclosure D pillar · fox",
+      "context": "Göbekli Tepe, Enclosure D",
+      "note": "A fox in relief on the shaft.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "0",
+        "animal": "1",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-4de6ef67.jpg",
+        "credit": "Dosseman",
+        "rights": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:G%C3%B6beklitepe_Building_D_5320.jpg",
+        "date": "2019-09-22 10:49:11",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "5ab227aadcabc41778b3722a308f0f42a1710e82d2d882cc37540780613144aa"
+      },
+      "physical": "an-19"
+    },
+    {
+      "id": "an-20",
+      "corpus": "anatolia",
+      "label": "Enclosure D pillar · abstract signs",
+      "context": "Göbekli Tepe, Enclosure D",
+      "note": "H-shaped and crescent signs.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "0",
+        "animal": "0",
+        "sign": "1",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-3219acc2.jpg",
+        "credit": "Dosseman",
+        "rights": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:G%C3%B6beklitepe_Building_D_5323.jpg",
+        "date": "2019-09-22 10:50:05",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "9358132b6485179bda068f6cb1d8becb95f3101c09f9073c73b569fe91d6e80b"
+      },
+      "physical": "an-20"
+    },
+    {
+      "id": "an-21",
+      "corpus": "anatolia",
+      "label": "Enclosure C · plain pillar",
+      "context": "Göbekli Tepe, Enclosure C",
+      "note": "A T-pillar with no carving legible in this view.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "0",
+        "animal": "0",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-897d0aa7.jpg",
+        "credit": "Dosseman",
+        "rights": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:G%C3%B6beklitepe_Building_C_5301.jpg",
+        "date": "2019-09-22 10:44:44",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "1d9ebe84fed1c2cf9cfe973311a23693d82c38fcd3208879ee9e0411d45902d3"
+      },
+      "physical": "an-21"
+    },
+    {
+      "id": "an-22",
+      "corpus": "anatolia",
+      "label": "Enclosure D · plain pillar",
+      "context": "Göbekli Tepe, Enclosure D",
+      "note": "No carving legible in this view.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "0",
+        "animal": "0",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-1302e46f.jpg",
+        "credit": "Dosseman",
+        "rights": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:G%C3%B6beklitepe_Building_D_5311.jpg",
+        "date": "2019-09-22 10:47:00",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "0426d82dc0c8d4be3c825c4112adb8572a8a766fe66c4ebeabcda83d6eb2dda5"
+      },
+      "physical": "an-22"
+    },
+    {
+      "id": "an-23",
+      "corpus": "anatolia",
+      "label": "Enclosure A pillar",
+      "context": "Göbekli Tepe, Enclosure A",
+      "note": "An animal relief in the enclosure wall.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "0",
+        "animal": "1",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-16989bbf.jpg",
+        "credit": "Dosseman",
+        "rights": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Urfa_Gobeklitepe_Building_A_sept_2019_5337.jpg",
+        "date": "2019-09-22 10:52:45",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "bf44d742c782b8fa8f9ecbf248066acefc120bf9c42ae6cd518f7490d5eb54ef"
+      },
+      "physical": "an-23"
+    },
+    {
+      "id": "an-24",
+      "corpus": "anatolia",
+      "label": "Vulture",
+      "context": "Karahan Tepe (Şanlıurfa Museum)",
+      "note": "A bird carved in the round.",
+      "features": {
+        "bird": "1",
+        "round": "0",
+        "human": "0",
+        "animal": "0",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-3936fc79.jpg",
+        "credit": "Marco Restano",
+        "rights": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Karahan_Tepe_vulture._%C5%9Eanl%C4%B1urfa_-_Archeology_Museum,_July_2025.jpg",
+        "date": "2025-06-29 10:40:10",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "19e92f2b4805a7793606b6f416b7de3c426bacae4eb8479d668c8e800028807c"
+      },
+      "physical": "an-24"
+    },
+    {
+      "id": "an-25",
+      "corpus": "anatolia",
+      "label": "Vulture statue",
+      "context": "Karahan Tepe (Şanlıurfa Museum)",
+      "note": "A second vulture sculpture.",
+      "features": {
+        "bird": "?",
+        "round": "0",
+        "human": "0",
+        "animal": "0",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-57b0c73d.jpg",
+        "credit": "Dosseman",
+        "rights": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Urfa_museum_Karahantepe_Statue_of_Vulture_Neolithic_age_in_2024_7313.jpg",
+        "date": "2024-10-15 12:13:46",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "51989b7617cb3cbf870bf63d065fb0a69dbd1698bd3ea2dc4499d75913ec72fb"
+      },
+      "physical": "an-25"
+    },
+    {
+      "id": "an-26",
+      "corpus": "anatolia",
+      "label": "Bird statue",
+      "context": "Karahan Tepe (Şanlıurfa Museum)",
+      "note": "A bird sculpture.",
+      "features": {
+        "bird": "?",
+        "round": "0",
+        "human": "0",
+        "animal": "0",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-37e2c814.jpg",
+        "credit": "Dosseman",
+        "rights": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Urfa_museum_Karahantepe_Statue_of_Bird_Neolithic_age_in_2024_7312.jpg",
+        "date": "2024-10-15 12:13:34",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "aeaef4f3e31978e56a5cb7bcf8577da90784f3ec7728046732dded670aee0fd3"
+      },
+      "physical": "an-26"
+    },
+    {
+      "id": "an-27",
+      "corpus": "anatolia",
+      "label": "The Karahan Tepe man, closer",
+      "context": "Karahan Tepe",
+      "note": "The same figure, framed on the torso.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "1",
+        "animal": "0",
+        "sign": "0",
+        "ribs": "1",
+        "hands": "1"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-20af03fb.jpg",
+        "credit": "Marco Restano",
+        "rights": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Karahan_Tepe_man_1100.jpg",
+        "date": "30 June 2025",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "10da1b653c5e08e98c9f65fbbdeda8e5630c42c98d47aa08ff511c4f7ccf295f"
+      },
+      "physical": "an-27"
+    },
+    {
+      "id": "an-28",
+      "corpus": "anatolia",
+      "label": "Carved human head",
+      "context": "Karahan Tepe",
+      "note": "A head emerging from the rock.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "1",
+        "animal": "0",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-bfa333e0.jpg",
+        "credit": "Frantisek Trampota",
+        "rights": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Karahan_Tepe_human_face.jpg",
+        "date": "2024-11-06 10:54:14",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "5529d2da92305b9a666d8fa87783f9aac993467ea4a9e6ad0339561b6793abe8"
+      },
+      "physical": "kt-head"
+    },
+    {
+      "id": "an-29",
+      "corpus": "anatolia",
+      "label": "Carved head, lit",
+      "context": "Karahan Tepe",
+      "note": "The same head with the shadow lifted by the uploader.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "1",
+        "animal": "0",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-f8e2e192.jpg",
+        "credit": "Dosseman",
+        "rights": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Karahan_Tepe_head_(de-shadowed).jpg",
+        "date": "2025-08-21",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "2beebf308eb21c70663c06188e124987f5505a85b16dfd7375a3968f34ced785"
+      },
+      "physical": "kt-head"
+    },
+    {
+      "id": "an-30",
+      "corpus": "anatolia",
+      "label": "Figure seated on a leopard",
+      "context": "Karahan Tepe",
+      "note": "A human figure above an animal.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "1",
+        "animal": "1",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-1c9303c8.jpg",
+        "credit": "Unknown author Unknown author",
+        "rights": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:AC_9000_Persona_sentada_sobre_un_leopardo_01.jpg",
+        "date": "-900",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "5684c6ff8ff9f3b8b810756300590a69104a8d539d40edff94076cb3e1b9f585"
+      },
+      "physical": "an-30"
+    },
+    {
+      "id": "an-31",
+      "corpus": "anatolia",
+      "label": "Leopard sculpture",
+      "context": "Karahan Tepe (museum)",
+      "note": "A predator carved in the round.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "0",
+        "animal": "1",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-5ca1fe13.jpg",
+        "credit": "Bautsch",
+        "rights": "CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Leopardenskulptur.Karahantepe.MNR.25966.P1067778.jpg",
+        "date": "2026-03-05 11:51:18",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "db0d548ece59f6a4b4fd4ae66203c4410e9bb546960ee2abb4841e2f3bf37c77"
+      },
+      "physical": "an-31"
+    },
+    {
+      "id": "an-32",
+      "corpus": "anatolia",
+      "label": "Gazelle",
+      "context": "Karahan Tepe",
+      "note": "An incised gazelle.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "0",
+        "animal": "1",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-3c46e198.jpg",
+        "credit": "Frantisek Trampota",
+        "rights": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Karahan_Tepe_gazelle_petroglyph.jpg",
+        "date": "2024-11-06 10:48:25",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "20e8f078fb054bd8fa6d224a648df84394ed217893de07b1e58b5133b58ed8d6"
+      },
+      "physical": "an-32"
+    },
+    {
+      "id": "an-33",
+      "corpus": "anatolia",
+      "label": "Pillar carving · fox",
+      "context": "Karahan Tepe, Structure AD",
+      "note": "A fox on a pillar.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "0",
+        "animal": "1",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-c88ab662.jpg",
+        "credit": "Tobey Travel",
+        "rights": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Structure_AD,_Pillar_Carving,_animal_relief_(Fox),_Karahantepe_(Karahan_Tepe),_Turkey.jpg",
+        "date": "2025",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "d8fd17fda383ba68006589937bc3e1226e2810842f213217f020be0c7ea0ba1e"
+      },
+      "physical": "an-33"
+    },
+    {
+      "id": "an-34",
+      "corpus": "anatolia",
+      "label": "Pillar carving · human figure",
+      "context": "Karahan Tepe, Structure AD",
+      "note": "A human figure on a pillar.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "1",
+        "animal": "0",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-95711d92.jpg",
+        "credit": "tobeytravels",
+        "rights": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Structure_AD,_Pillar_Carvings,_Human_Figure,_Karahantepe_(Karahan_Tepe),_Turkey_(1).jpg",
+        "date": "2025-06-17 09:41:42",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "3b0ad5c9becd878a68b7f6305e72b2d2c5835f9a3e055ead53fa6be0822b9000"
+      },
+      "physical": "an-34"
+    },
+    {
+      "id": "an-35",
+      "corpus": "anatolia",
+      "label": "Porthole stone and statue",
+      "context": "Karahan Tepe, Area 08",
+      "note": "A pierced stone; the opening is a worked circular form.",
+      "features": {
+        "bird": "0",
+        "round": "1",
+        "human": "1",
+        "animal": "0",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-4d9eacf9.jpg",
+        "credit": "Tobey Travel",
+        "rights": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Porthole_Stone_and_Phallic_Statue_(front),_Area_08,_Karahantepe_(Karahan_Tepe),_Turkey.jpg",
+        "date": "2025",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "cda23b6cfc7bb9cc717c1066e957c7bbb2bb7f8e739c09a23f05db46b3df8871"
+      },
+      "physical": "an-35"
+    },
+    {
+      "id": "an-36",
+      "corpus": "anatolia",
+      "label": "Head with a snake",
+      "context": "Nevalı Çori (Şanlıurfa Museum)",
+      "note": "A human head with a snake down the back.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "1",
+        "animal": "1",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-5cc0c381.jpg",
+        "credit": "Marco Restano",
+        "rights": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Neval%C4%B1_%C3%87ori_statue_of_head_with_snake_on_the_back._%C5%9Eanl%C4%B1urfa_-_Archeology_Museum,_July_2025_-_54640820206.jpg",
+        "date": "2025-06-29 11:22:46",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "59cdf2fa71167be66813e6abaa0331f5d234ed86478d4df7998cf9fa4ca21cb8"
+      },
+      "physical": "an-36"
+    },
+    {
+      "id": "an-37",
+      "corpus": "anatolia",
+      "label": "Totem head",
+      "context": "Nevalı Çori (Şanlıurfa Museum)",
+      "note": "Stacked figures; the uppermost reading is disputed.",
+      "features": {
+        "bird": "?",
+        "round": "0",
+        "human": "1",
+        "animal": "?",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-73f48541.jpg",
+        "credit": "Marco Restano",
+        "rights": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Totem_head._Neval%C4%B1_%C3%87ori_(8400-8100_BCE)_%C5%9Eanl%C4%B1urfa_-_Archeology_Museum,_July_2025.jpg",
+        "date": "2025-06-29 11:23:43",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "66b332fc588e338a6c5d6f9bf7a3dad4fa6ef934c344bf03799c77bc8b2e05a3"
+      },
+      "physical": "an-37"
+    },
+    {
+      "id": "an-38",
+      "corpus": "anatolia",
+      "label": "Stela",
+      "context": "Nevalı Çori (Şanlıurfa Museum)",
+      "note": "A worked stela.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "?",
+        "animal": "0",
+        "sign": "1",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-40f7ef61.jpg",
+        "credit": "Marco Restano",
+        "rights": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Neval%C4%B1_%C3%87ori_stela._%C5%9Eanl%C4%B1urfa_-_Archeology_Museum,_July_2025.jpg",
+        "date": "2025-06-29 11:20:34",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "d44081267f4c5eadb24c052ab22b32e98c98334dca193c583d088f8c53ec9ce0"
+      },
+      "physical": "an-38"
+    },
+    {
+      "id": "an-39",
+      "corpus": "anatolia",
+      "label": "Stela",
+      "context": "Karahan Tepe (Şanlıurfa Museum)",
+      "note": "A worked stela.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "0",
+        "animal": "0",
+        "sign": "?",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/anatolia/an-ac77e4f6.jpg",
+        "credit": "Marco Restano",
+        "rights": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Karahan_Tepe_stela._%C5%9Eanl%C4%B1urfa_-_Archeology_Museum,_July_2025.jpg",
+        "date": "2025-06-29 10:52:45",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "dd4cf2494e561d27872a203669884df448fb6868500fc5546e58482fbf9b838a"
+      },
+      "physical": "an-39"
+    },
+    {
+      "id": "ra-01",
+      "corpus": "rapanui",
+      "label": "The Orongo birdman boulder",
+      "context": "Orongo, Rapa Nui",
+      "note": "A birdman in low relief with a rounded form at the bent hand; the 1919 caption reads it as an egg.",
+      "features": {
+        "bird": "1",
+        "round": "1",
+        "human": "1",
+        "animal": "0",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-083af105.jpg",
+        "credit": "Unknown author Unknown author",
+        "rights": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Stone_Exhumed_From_Orongo,_1914._Bird-man_in_low_relief_with_egg_in_hand._Length_of_carving,_36.5_cm._British_Museum,_The_Mystery_of_Easter_Island,_published_1919.jpg",
+        "date": "1914, published in 1919",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "2555efe50287a219a3b43ddd8730744e221472da2238519280b6fb1abcca7e81"
+      },
+      "physical": "ra-01"
+    },
+    {
+      "id": "ra-02",
+      "corpus": "rapanui",
+      "label": "Orongo rock with birdmen",
+      "context": "Orongo, Rapa Nui",
+      "note": "Several birdman figures on one outcrop.",
+      "features": {
+        "bird": "1",
+        "round": "?",
+        "human": "1",
+        "animal": "0",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-ca30bc0d.jpg",
+        "credit": "Unknown author Unknown author",
+        "rights": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:A_Rock_At_Orongo_Carved_With_Figures_Of_Bird-Men,_The_Mystery_of_Easter_Island,_published_1919.jpg",
+        "date": "between 1914 and 1915 date QS:P,+1914-00-00T00:00:00Z/8,P1319,+1914-00-00T00:00:00Z/9,P1326,+1915-00-00T00:00:00Z/9",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "bf384b45b061f7c9cb2e957dd3814fd62636d0283c2e81a3ca6e2d1ce7608c2b"
+      },
+      "physical": "ra-02"
+    },
+    {
+      "id": "ra-03",
+      "corpus": "rapanui",
+      "label": "Three birdmen · Mata Ngarau",
+      "context": "Orongo, Rapa Nui",
+      "note": "Three birdman figures in relief, photographed by the Mana Expedition.",
+      "features": {
+        "bird": "1",
+        "round": "?",
+        "human": "1",
+        "animal": "0",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-61933373.jpg",
+        "credit": "Unknown author Unknown author",
+        "rights": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:View_of_an_in_relief_carving_of_three_birdman_figures;_Mata_Ngarau,_Oc,G.T.1647,_Mana_Expedition_to_Easter_Island,_British_Museum.jpg",
+        "date": "between 1914 and 1915 date QS:P,+1914-00-00T00:00:00Z/8,P1319,+1914-00-00T00:00:00Z/9,P1326,+1915-00-00T00:00:00Z/9",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "e1135242a593022a00732fee161493f11a1a6d22dea6a476b3213f8da826c998"
+      },
+      "physical": "ra-03"
+    },
+    {
+      "id": "ra-04",
+      "corpus": "rapanui",
+      "label": "Birdman petroglyph",
+      "context": "Orongo, Rapa Nui",
+      "note": "A birdman pecked into the rock.",
+      "features": {
+        "bird": "1",
+        "round": "0",
+        "human": "1",
+        "animal": "0",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-daab8003.jpg",
+        "credit": "Dennis G. Jarvis",
+        "rights": "CC BY-SA 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Chile-03385_-_Bird-man_Petroglyph_(49073336967).jpg",
+        "date": "Taken on 20 October 2019, 11:15",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "e54db7f00be0c5155e1c29842a161e1383db30b754a4988e917464bde56a9262"
+      },
+      "physical": "ra-04"
+    },
+    {
+      "id": "ra-05",
+      "corpus": "rapanui",
+      "label": "Birdman",
+      "context": "Rapa Nui",
+      "note": "A birdman figure.",
+      "features": {
+        "bird": "1",
+        "round": "0",
+        "human": "1",
+        "animal": "0",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-4fc35ea8.jpg",
+        "credit": "Dennis G. Jarvis",
+        "rights": "CC BY-SA 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Chile-03420_-_Bird-man_(49072590913).jpg",
+        "date": "Taken on 20 October 2019, 11:53",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "647e4fcd854267563047d03c9c9f18ee5bea87a5875d707320ae361a9b6077e5"
+      },
+      "physical": "ra-05"
+    },
+    {
+      "id": "ra-06",
+      "corpus": "rapanui",
+      "label": "Birdman, carved panel",
+      "context": "Rapa Nui",
+      "note": "A birdman on a carved panel.",
+      "features": {
+        "bird": "1",
+        "round": "0",
+        "human": "1",
+        "animal": "0",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-ea716737.jpg",
+        "credit": "Dennis G. Jarvis",
+        "rights": "CC BY-SA 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Chile-03689_-_Bird-man_(49072507368).jpg",
+        "date": "Taken on 20 October 2019, 20:40",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "eb9f37d5203c9aff11a7593ff1b293cd9f89134fe8d0c251ccaf4042b8558fae"
+      },
+      "physical": "ra-06"
+    },
+    {
+      "id": "ra-07",
+      "corpus": "rapanui",
+      "label": "Birdmen at Orongo village",
+      "context": "Orongo, Rapa Nui",
+      "note": "Hook-nosed bird-men in the rock.",
+      "features": {
+        "bird": "1",
+        "round": "?",
+        "human": "1",
+        "animal": "0",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-f0b884b6.jpg",
+        "credit": "nieznany",
+        "rights": "CC BY-SA 3.0 pl",
+        "url": "https://commons.wikimedia.org/wiki/File:%E2%80%9CLudzie_-_ptaki%E2%80%9D-_ryty_naskalne_z_haczykowatym_nosem_-_Wie%C5%9B_Oronga_-_002003s.jpg",
+        "date": "1992 date QS:P571,+1992-00-00T00:00:00Z/9",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "f201b58abbd1172d9900f82a76eafd2ca9a4ea3b3803c081978426f34093baf4"
+      },
+      "physical": "ra-07"
+    },
+    {
+      "id": "ra-08",
+      "corpus": "rapanui",
+      "label": "Makemake face",
+      "context": "Rapa Nui",
+      "note": "A large-eyed face; the eyes are carved as rings.",
+      "features": {
+        "bird": "0",
+        "round": "1",
+        "human": "1",
+        "animal": "0",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-b4b317db.jpg",
+        "credit": "Makemake at de.wikipedia",
+        "rights": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Makemake.jpg",
+        "date": "Taken in March 2000",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "7e196abdebc4080bd23b77faf7793e96a56eca99f192290628d22992638fdc48"
+      },
+      "physical": "rn-makemake-a"
+    },
+    {
+      "id": "ra-09",
+      "corpus": "rapanui",
+      "label": "Makemake face, second view",
+      "context": "Rapa Nui",
+      "note": "A second carved face.",
+      "features": {
+        "bird": "0",
+        "round": "1",
+        "human": "1",
+        "animal": "0",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-104d4cea.jpg",
+        "credit": "Rivi",
+        "rights": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Makemake.jpeg",
+        "date": "Taken on 30 March 2006",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "5ace3e3c142e029339f66d599749c8b1fed9ec950d0632300f9d9c449c07e54c"
+      },
+      "physical": "rn-makemake-b"
+    },
+    {
+      "id": "ra-10",
+      "corpus": "rapanui",
+      "label": "Make-make",
+      "context": "Rapa Nui",
+      "note": "A carved face with ringed eyes.",
+      "features": {
+        "bird": "0",
+        "round": "1",
+        "human": "1",
+        "animal": "0",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-875c6345.jpg",
+        "credit": "Dennis G. Jarvis",
+        "rights": "CC BY-SA 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Chile-03609_-_Make-make_(49072531058).jpg",
+        "date": "Taken on 20 October 2019, 16:11",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "8b132880c28488324025f0b85e7e91f4840419da27060a6055a3033b27e66605"
+      },
+      "physical": "ra-10"
+    },
+    {
+      "id": "ra-11",
+      "corpus": "rapanui",
+      "label": "Papa Vaka",
+      "context": "Rapa Nui",
+      "note": "Canoe and fish carvings; a different repertoire from Orongo.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "0",
+        "animal": "1",
+        "sign": "1",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-e9ddc80d.jpg",
+        "credit": "Pavel Špindler",
+        "rights": "CC BY 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Papa_Vaka_-_petroglyfy_na_Velikono%C4%8Dn%C3%ADm_ostrov%C4%9B_-_panoramio.jpg",
+        "date": "Taken on 12 October 2008",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "77cb3e2efd6add8af569a9230caad346ce537da68d9f6510c7fdb3c117dd3418"
+      },
+      "physical": "rn-papavaka"
+    },
+    {
+      "id": "ra-12",
+      "corpus": "rapanui",
+      "label": "Papa Vaka, second view",
+      "context": "Rapa Nui",
+      "note": "More of the same panel.",
+      "features": {
+        "bird": "0",
+        "round": "?",
+        "human": "0",
+        "animal": "1",
+        "sign": "1",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-77a86bae.jpg",
+        "credit": "Pavel Špindler",
+        "rights": "CC BY 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Velikono%C4%8Dn%C3%AD_ostrov_-_Papa_Vaka_-_petroglyfy_-_panoramio.jpg",
+        "date": "Taken on 12 October 2008",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "428801fbc095c75bad07d8b6a989d5503de3eea2e2dbbe2d8f60f087dfddbca6"
+      },
+      "physical": "rn-papavaka"
+    },
+    {
+      "id": "ra-13",
+      "corpus": "rapanui",
+      "label": "Rapa Nui petroglyphs 01",
+      "context": "Rapa Nui",
+      "note": "Carved rock surface.",
+      "features": {
+        "bird": "?",
+        "round": "?",
+        "human": "?",
+        "animal": "0",
+        "sign": "1",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-b1e4c530.jpg",
+        "credit": "Yastay",
+        "rights": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Petroglifos_Rapa_Nui_01.jpg",
+        "date": "2012-08-26 11:33:46",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "04a2eda734ff2b1dd92cc3b28dd53fb65ef3889a1983830a88f779fff149e822"
+      },
+      "physical": "ra-13"
+    },
+    {
+      "id": "ra-14",
+      "corpus": "rapanui",
+      "label": "Rapa Nui petroglyphs 03",
+      "context": "Rapa Nui",
+      "note": "Carved rock surface.",
+      "features": {
+        "bird": "?",
+        "round": "?",
+        "human": "?",
+        "animal": "?",
+        "sign": "1",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-21f0b00f.jpg",
+        "credit": "Yastay",
+        "rights": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Petroglifos_Rapa_Nui_03.jpg",
+        "date": "2012-08-26 11:46:03",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "ff7162b11d2a4b7688b13ac1cd4b279e5520c80289b6e8acd05de7d3990e6eae"
+      },
+      "physical": "ra-14"
+    },
+    {
+      "id": "ra-15",
+      "corpus": "rapanui",
+      "label": "Rapa Nui petroglyphs 05",
+      "context": "Rapa Nui",
+      "note": "Carved rock surface.",
+      "features": {
+        "bird": "?",
+        "round": "?",
+        "human": "?",
+        "animal": "?",
+        "sign": "1",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-41eccb56.jpg",
+        "credit": "Yastay",
+        "rights": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Petroglifos_Rapa_Nui_05.jpg",
+        "date": "2012-08-26 11:46:48",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "ee0b7cf57c3fd214961134176d89d15b6e48cb64dc6e08978d1b525c6bff89dd"
+      },
+      "physical": "ra-15"
+    },
+    {
+      "id": "ra-16",
+      "corpus": "rapanui",
+      "label": "Petroglyphs, Isla de Pascua",
+      "context": "Rapa Nui",
+      "note": "Carved rock surface.",
+      "features": {
+        "bird": "?",
+        "round": "?",
+        "human": "?",
+        "animal": "?",
+        "sign": "1",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-be55d5f7.jpg",
+        "credit": "Sznegra",
+        "rights": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Petroglifos_Isla_de_Pascua.jpg",
+        "date": "Taken on 20 December 2009, 18:47:43",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "52244411bd9b2cc25db8d90ab23503837118e40832cd0615065a636b754b17a8"
+      },
+      "physical": "ra-16"
+    },
+    {
+      "id": "ra-17",
+      "corpus": "rapanui",
+      "label": "Petroglyph at Ahu Tongariki",
+      "context": "Rapa Nui",
+      "note": "A carving beside the platform.",
+      "features": {
+        "bird": "0",
+        "round": "?",
+        "human": "?",
+        "animal": "1",
+        "sign": "1",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-0ef52f20.jpg",
+        "credit": "Ian Sewell",
+        "rights": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Ahu-Tongariki-4-Petroglyph.JPG",
+        "date": "2006-07",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "f68212f90b8091a61efd9ebeab3d40ea8b4580374ce2eb79d9e52a98be41ea92"
+      },
+      "physical": "ra-17"
+    },
+    {
+      "id": "ra-18",
+      "corpus": "rapanui",
+      "label": "Pu o Hiro",
+      "context": "Rapa Nui",
+      "note": "A worked stone with bored holes and carved forms.",
+      "features": {
+        "bird": "0",
+        "round": "1",
+        "human": "0",
+        "animal": "0",
+        "sign": "1",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-1fab7e47.jpg",
+        "credit": "Joe Ross (Joseph Ross) from Lansing, Michigan",
+        "rights": "CC BY-SA 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Pu_o_Hiro_(Trumpet_of_Hiro)_in_Easter_Island_2018.jpg",
+        "date": "Taken on 2 February 2018, 16:06",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "1e12dc05512df3d42c15e60af84ff9c14eed275eb4a91b1a438bf887b4049a02"
+      },
+      "physical": "ra-18"
+    },
+    {
+      "id": "ra-19",
+      "corpus": "rapanui",
+      "label": "Hoa Hakananai'a · back",
+      "context": "British Museum (from Orongo)",
+      "note": "Birdmen above a ring and curved bands.",
+      "features": {
+        "bird": "1",
+        "round": "1",
+        "human": "1",
+        "animal": "0",
+        "sign": "1",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-69b04f6e.jpg",
+        "credit": "James Miles",
+        "rights": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Petroglyphs_on_the_back_of_the_Hoa_Hakananai%27a_Statue.jpg",
+        "date": "2012-02-15 18:03:32",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "a7b2192347e22793e2ef5038f7a5f621e61e136c80038f8b378382fe02fd5d60"
+      },
+      "physical": "hoa-hakananaia"
+    },
+    {
+      "id": "ra-20",
+      "corpus": "rapanui",
+      "label": "Hoa Hakananai'a · back, second view",
+      "context": "British Museum (from Orongo)",
+      "note": "The same surface in different light.",
+      "features": {
+        "bird": "1",
+        "round": "1",
+        "human": "1",
+        "animal": "0",
+        "sign": "1",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-19da4f6b.jpg",
+        "credit": "Sanjay ach",
+        "rights": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Back_side_of_Hoa_Hakananai%27a_stone_moai.jpg",
+        "date": "2023-06-30 17:01:31",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "51b011465367bba74b382cc64f360519fd4d31ebc83e5d7f2f7c6454bf00e2ba"
+      },
+      "physical": "hoa-hakananaia"
+    },
+    {
+      "id": "ra-21",
+      "corpus": "rapanui",
+      "label": "Hoa Hakananai'a · front",
+      "context": "British Museum (from Orongo)",
+      "note": "The frontal figure, hands against the torso.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "1",
+        "animal": "0",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "1"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-d565c259.jpg",
+        "credit": "Photo: Andreas Praefcke",
+        "rights": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Hoa_Hakananai%27a_BM_Oc1869_1005_1.jpg",
+        "date": "2011-06-15",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "bc6f8550e7407d14c9762ce24f0731515c6558d4a27d628d299f4b58f4530cc8"
+      },
+      "physical": "hoa-hakananaia"
+    },
+    {
+      "id": "ra-22",
+      "corpus": "rapanui",
+      "label": "Hoa Hakananai'a · lower back",
+      "context": "British Museum (from Orongo)",
+      "note": "The ring and the curved bands, framed close.",
+      "features": {
+        "bird": "?",
+        "round": "1",
+        "human": "?",
+        "animal": "0",
+        "sign": "1",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-7fb7ec07.jpg",
+        "credit": "James Miles and Hembo Pagi",
+        "rights": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Lower_Back_of_Hoa_Hakananai%27a.jpg",
+        "date": "2012-02-15 09:03:21",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "ab2af19fed130f4b976a95dde7e727881c898a7fc804526dfb6e4b49de7eb34c"
+      },
+      "physical": "hoa-hakananaia"
+    },
+    {
+      "id": "ra-23",
+      "corpus": "rapanui",
+      "label": "Hoa Hakananai'a · rear of head",
+      "context": "British Museum (from Orongo)",
+      "note": "Carvings across the back of the head.",
+      "features": {
+        "bird": "1",
+        "round": "0",
+        "human": "?",
+        "animal": "0",
+        "sign": "1",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-dba713f9.jpg",
+        "credit": "Fæ",
+        "rights": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Hoa_Hakananai%27a_rear_of_head.jpg",
+        "date": "2011-03-03",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "3996a74816416d3955289b56d001800f4eaae97596a6e26d030be61cf4c44d14"
+      },
+      "physical": "hoa-hakananaia"
+    },
+    {
+      "id": "ra-24",
+      "corpus": "rapanui",
+      "label": "Hoa Hakananai'a · hands",
+      "context": "British Museum (from Orongo)",
+      "note": "The damaged hands at the torso.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "1",
+        "animal": "0",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "1"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-fe6b949c.jpg",
+        "credit": "James Miles",
+        "rights": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Front_hand_damage.jpg",
+        "date": "2012-02-15 20:03:41",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "27f7023c810f6db159efe4fcb335f2cafaac4396dc8e9b3f46d51013f1b0cc8e"
+      },
+      "physical": "hoa-hakananaia"
+    },
+    {
+      "id": "ra-25",
+      "corpus": "rapanui",
+      "label": "Moai kavakava",
+      "context": "Rapa Nui (museum)",
+      "note": "A wooden figure with prominent ribs and hands at the torso.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "1",
+        "animal": "0",
+        "sign": "0",
+        "ribs": "1",
+        "hands": "1"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-765a1daf.jpg",
+        "credit": "Bjørn Christian Tørrissen",
+        "rights": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Moai_Kavakava.jpg",
+        "date": "2009-01-18",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "9d152db9a96adca6cdb8bf7193f4be4b3400556adab145a620f88af2062d4e2d"
+      },
+      "physical": "ra-25"
+    },
+    {
+      "id": "ra-26",
+      "corpus": "rapanui",
+      "label": "Moai kavakava, standing figure",
+      "context": "Rapa Nui (museum)",
+      "note": "Ribs and a spinal ridge.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "1",
+        "animal": "0",
+        "sign": "0",
+        "ribs": "1",
+        "hands": "1"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-438faae2.jpg",
+        "credit": "Sailko",
+        "rights": "CC BY 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Isola_di_pasqua,_figura_maschile_stante_moai_kavakava,_xvii-xviii_sec..JPG",
+        "date": "2013-12-03 14:11:13",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "5168c6a6e987665e1259b12b8abe2cfa4fee4db13b6cbd221dfc3e724ef87500"
+      },
+      "physical": "ra-26"
+    },
+    {
+      "id": "ra-27",
+      "corpus": "rapanui",
+      "label": "Moai kavakava, skeletal figure",
+      "context": "Rapa Nui (museum)",
+      "note": "A markedly ribbed figure.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "1",
+        "animal": "0",
+        "sign": "0",
+        "ribs": "1",
+        "hands": "1"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-f6eaf4c0.jpg",
+        "credit": "WereSpielChequers",
+        "rights": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Skeletal_easter_island_statue.JPG",
+        "date": "2009-09-01",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "77070069c1d2ad5dfe48e9e7f2412196ad9563932360f85f4e2ee6c3f815849b"
+      },
+      "physical": "ra-27"
+    },
+    {
+      "id": "ra-28",
+      "corpus": "rapanui",
+      "label": "Moai pa'a pa'a",
+      "context": "Rapa Nui (Bishop Museum)",
+      "note": "A flat figure with arms to the body.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "1",
+        "animal": "0",
+        "sign": "0",
+        "ribs": "?",
+        "hands": "1"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-dd9bd8a2.jpg",
+        "credit": "Hiart",
+        "rights": "CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Moai_pa%27a_pa%27a_(flat_female_figure),_Rappa_Nui_(Easter_Island),_Bishop_Museum.JPG",
+        "date": "photo 2019",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "856d23ff5f880328a8c859608958d23e0bac9909df07cfb9412fbfbd4889dea8"
+      },
+      "physical": "ra-28"
+    },
+    {
+      "id": "ra-29",
+      "corpus": "rapanui",
+      "label": "Moai tangata manu",
+      "context": "Rapa Nui (museum)",
+      "note": "A carved birdman figure.",
+      "features": {
+        "bird": "1",
+        "round": "0",
+        "human": "1",
+        "animal": "0",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-c4df7e46.jpg",
+        "credit": "nieznany",
+        "rights": "CC BY-SA 3.0 pl",
+        "url": "https://commons.wikimedia.org/wiki/File:%E2%80%9EMaoi_tongata_manu%E2%80%9D_-_Wyspy_Wielkanocne_-_002009s.jpg",
+        "date": "1992 date QS:P571,+1992-00-00T00:00:00Z/9",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "87759af769c3f42b6d5781a9ceb0c9e0b5044fb9ee66d3bb8157de1c90195c19"
+      },
+      "physical": "ra-29"
+    },
+    {
+      "id": "ra-30",
+      "corpus": "rapanui",
+      "label": "Birdman dance mask",
+      "context": "Rapa Nui (museum)",
+      "note": "A birdman carving described as a ritual dance mask.",
+      "features": {
+        "bird": "1",
+        "round": "0",
+        "human": "1",
+        "animal": "0",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-21c5924c.jpg",
+        "credit": "nieznany",
+        "rights": "CC BY-SA 3.0 pl",
+        "url": "https://commons.wikimedia.org/wiki/File:%E2%80%9EMoai_tangatu_manu%E2%80%9D_%E2%80%93_cz%C5%82owiek_ptak-_maska_do_rytualnych_ta%C5%84c%C3%B3w_-_Wyspy_Wielkanocne_-_002011s.jpg",
+        "date": "1992 date QS:P571,+1992-00-00T00:00:00Z/9",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "112ea69dd795226486602d5e9fa55482e5f7224db2e9d7ff0af61977c59a73b2"
+      },
+      "physical": "ra-30"
+    },
+    {
+      "id": "ra-31",
+      "corpus": "rapanui",
+      "label": "Rongorongo · birdman glyphs",
+      "context": "Rapa Nui",
+      "note": "Birdman-shaped glyphs in an incised script.",
+      "features": {
+        "bird": "1",
+        "round": "0",
+        "human": "1",
+        "animal": "0",
+        "sign": "1",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-940903f0.jpg",
+        "credit": "unknown (for GFDL, cite source above as old copyright holder)",
+        "rights": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Rongorongo_X_Birdman.jpg",
+        "date": "before 1860 date QS:P,+1860-00-00T00:00:00Z/7,P1326,+1860-00-00T00:00:00Z/9",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "cbff791a55f0e94686f3851be767ff18a817dd1bd4d2e8046151e5ac024ebf14"
+      },
+      "physical": "ra-31"
+    },
+    {
+      "id": "ra-32",
+      "corpus": "rapanui",
+      "label": "Rongorongo tablet",
+      "context": "Rapa Nui (museum)",
+      "note": "An incised tablet.",
+      "features": {
+        "bird": "?",
+        "round": "0",
+        "human": "?",
+        "animal": "0",
+        "sign": "?",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-712984ea.jpg",
+        "credit": "VIGNERON",
+        "rights": "CC BY 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Tablette_rongo-rongo_-_mus%C3%A9e_Champollion.JPG",
+        "date": "2013-08-01 15:30:02",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "eadab518f91cab38517fca1f4df36d5aeffad29c813eed244afb82557e0ffb3e"
+      },
+      "physical": "ra-32"
+    },
+    {
+      "id": "ra-33",
+      "corpus": "rapanui",
+      "label": "Moai tangata moko",
+      "context": "Rapa Nui (museum)",
+      "note": "A lizard-headed human figure.",
+      "features": {
+        "bird": "0",
+        "round": "0",
+        "human": "1",
+        "animal": "1",
+        "sign": "0",
+        "ribs": "0",
+        "hands": "0"
+      },
+      "media": {
+        "path": "img/corpus/rapanui/ra-2a7608b9.jpg",
+        "credit": "Caroline Léna Becker",
+        "rights": "CC BY 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Moai_Tangata_Moko.jpg",
+        "date": "2018-11-03 18:13:01",
+        "transformation": "Wikimedia Commons server-rendered JPEG at up to 1100 px wide, re-encoded at quality 82 for the web. Not cropped, retouched or enhanced.",
+        "sha256": "1ded9814e37bd4fa48b948f90dea8c4273edc0c0ae229a90f03b8d7d7a3160b6"
+      },
+      "physical": "ra-33"
+    }
+  ]
+}

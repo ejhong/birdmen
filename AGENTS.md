@@ -24,6 +24,12 @@ browse; implementation details belong in research records, not the reading flow.
   strength or asserts contact. A subcomparison belongs inside its parent line.
   `clusters()` there mirrors `clusters()` in `docs/catalogue-model.mjs`; the node
   tests compare the published index with the browser model, so change both together.
+  `pipeline/corpus.py` publishes `docs/corpus.html` from `research/corpus/corpus.json`: two
+  populations of carved surfaces harvested from named Commons categories by a rule fixed
+  before looking. A feature state is what is legible in ONE photograph; `0` never means the
+  object lacks the feature, and no count is a frequency in a tradition. Keep undecorated and
+  unmatched surfaces — they are the denominator. Several photographs may share a `physical`
+  identity, and object counts must use it. Filtering highlights; it must never remove.
 - `research/catalogue/catalogue.json` is the maintained catalogue source. Generated
   `docs/catalogue.html`, `docs/catalogue/*.html` and `docs/data/catalogue.json`
   must be changed through the register or publisher, not hand-edited.

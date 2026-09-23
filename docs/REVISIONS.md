@@ -1,3 +1,32 @@
+# Two repertoires, side by side — 23 September 2026
+
+- Added [the two walls](https://ejhong.github.io/birdmen/corpus.html): 72 openly licensed
+  photographs of carved surfaces, 39 from Göbekli Tepe, Karahan Tepe and Nevalı Çori and
+  33 from Orongo and the wider Rapa Nui, each with what is legible on it. Filtering
+  highlights and never removes, because the stones that carry nothing are the population
+  the question is asked against.
+- Stated the selection rule before looking: files were listed from fixed Wikimedia Commons
+  categories, then kept if one carved surface is the subject and legible enough to say what
+  is and is not visible. Undecorated pillars were kept deliberately. Every survivor was then
+  opened at full size; nineteen were dropped at that stage, including a modern illustration
+  of a bull, two annotated composites and eleven views of rock in which no carving could be
+  read. All exclusions are published with their counts.
+- Recorded a result the collection could not previously see. A bird and a rounded form share
+  one surface in 3 of the 39 Anatolian photographs — and those three are one object, Pillar
+  43. On the Rapanui side the same combination appears in 3 photographs across 2 objects,
+  inside a repertoire where birds are the dominant subject (13 of 33 photographs, against 8
+  of 39). The comparison is not between two bird-centred repertoires; it is between one
+  pillar and a tradition.
+- Set the two local explanations beside each other. Rapa Nui has a documented reason to
+  carve a birdman holding a rounded form: the tangata manu competition at Orongo, and the
+  first manutara egg brought back from Motu Nui. Neolithic Anatolia has no documented
+  meaning for the disc on Pillar 43, and its carved repertoire is overwhelmingly animal.
+- Drew the interval once. Every registered date on a single scale from 10,000 BCE to 2000 CE,
+  with the unresolved birdman-carving date listed rather than plotted.
+- Feature states record what is legible in one photograph. "Not legible in this view" is not
+  a finding that an object lacks the feature, and no count on the page is a frequency in
+  either tradition: photographic coverage is not corpus coverage.
+
 # Better photographs, one type scale, one site map — 22 September 2026
 
 - Replaced four weak evidence images with openly licensed photographs of the same

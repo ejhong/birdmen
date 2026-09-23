@@ -441,6 +441,11 @@ def build(check=False):
     except ModuleNotFoundError:
         import fieldwork
     pending.update(fieldwork.outputs())
+    try:
+        from pipeline import corpus
+    except ModuleNotFoundError:
+        import corpus
+    pending.update(corpus.outputs())
     # Applied last, so generated and static pages end with the same site map.
     for name in SITEMAP_PAGES:
         path = DOCS / name

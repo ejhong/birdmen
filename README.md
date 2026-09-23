@@ -22,6 +22,14 @@ groups; these are not counts of independently verified artefacts. The
 68 supplied files, including duplicates, modern reception and unresolved images.
 A systematic worldwide survey remains future work.
 
+The new [two walls](https://ejhong.github.io/birdmen/corpus.html) put the flagship
+comparison back among its neighbours: 72 openly licensed photographs of carved surfaces,
+39 Anatolian and 33 Rapanui, filtered together so the stones that carry nothing stay
+visible. A bird and a rounded form share one surface in 3 of the 39 Anatolian photographs,
+and those three are one object; on the Rapanui side the same combination appears across 2
+objects inside a repertoire where birds dominate. Counts describe registered photographs,
+never the published corpus.
+
 The new [cluster index](https://ejhong.github.io/birdmen/clusters.html) asks which
 cultural traditions keep meeting. Derived from the same register, it holds 23 culture
 pairs and 19 distinct comparisons, 18 of them with no transmission route established

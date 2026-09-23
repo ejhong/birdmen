@@ -19,6 +19,7 @@ SECTIONS = [
     ('The central case', [
         ('pillar-and-moai.html', 'The pillar, the moai &amp; the bird'),
         ('fieldwork.html', 'Visual investigation'),
+        ('corpus.html', 'The two repertoires'),
         ('local-context.html', 'Local context'),
         ('atlas.html', 'Illustrated atlas'),
         ('fenton.html', 'A proposed southern route'),

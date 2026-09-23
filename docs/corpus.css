@@ -1,0 +1,65 @@
+/* Two walls of carved stone. The unmatched stones stay on the wall; they are the point. */
+.corpus-intro em { color:var(--copper); font-weight:400; }
+.wall-controls { padding-block:18px 34px; border-top:1px solid var(--rule); }
+.feature-filters { display:flex; flex-wrap:wrap; gap:9px; margin:4px 0 22px; }
+.feature-filters button { border:1px solid var(--rule); background:var(--paper); padding:10px 15px; font:0.8125rem var(--mono); color:var(--ink-soft); transition:background .15s,color .15s,border-color .15s; }
+.feature-filters button:hover { border-color:var(--copper-soft); color:var(--copper); }
+.feature-filters button[aria-pressed=true] { background:var(--deep); border-color:var(--deep); color:#f3eee2; }
+#wall-reset { margin-left:auto; border-style:dashed; }
+.wall-readout { font:0.8125rem/1.7 var(--mono); color:var(--faint); margin:0 0 14px; }
+.wall-readout b { color:var(--copper); }
+.wall-headline { font-size:1.12rem; line-height:1.55; color:var(--ink); max-width:76ch; margin:0; padding-left:18px; border-left:3px solid var(--copper); }
+.wall-headline b { font-weight:600; color:var(--copper); }
+
+.walls { display:grid; grid-template-columns:1fr 1fr; gap:56px; padding-block:14px 60px; align-items:start; }
+.wall-head { border-top:2px solid var(--copper); padding-top:20px; margin-bottom:20px; }
+.wall-head h2 { font-size:2.1rem; margin:11px 0 8px; max-width:20ch; }
+.wall-head p { font-size:1.02rem; line-height:1.5; color:var(--ink-soft); margin:0 0 6px; max-width:44ch; }
+.wall-count { font:0.8125rem var(--mono) !important; color:var(--faint) !important; }
+.wall-grid { list-style:none; margin:0; padding:0; display:grid; grid-template-columns:repeat(auto-fill,minmax(118px,1fr)); gap:10px 9px; }
+.wall-item { min-width:0; transition:opacity .28s ease, filter .28s ease; }
+.wall-plate { display:block; aspect-ratio:1; background:var(--plate); border:1px solid var(--rule); padding:6px; border-bottom-width:1px; transition:border-color .15s, box-shadow .15s; }
+.wall-plate img { width:100%; height:100%; object-fit:contain; }
+.wall-item:hover .wall-plate { border-color:var(--copper-soft); box-shadow:0 5px 18px -12px rgba(32,27,18,.6); }
+.wall-caption { font:0.75rem/1.45 var(--mono); color:var(--faint); margin-top:7px; overflow:hidden; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; }
+.wall-caption b { display:block; font-weight:500; color:var(--ink-soft); }
+.wall-item.is-dim { opacity:.15; filter:saturate(.15); }
+.wall-item.is-hit .wall-plate { border-color:var(--copper); box-shadow:0 0 0 2px rgba(146,85,46,.16); }
+body.wall-filtered .wall-item:not(.is-hit) .wall-caption { color:transparent; }
+
+.anchor-section,.context-section,.gap-section { padding-block:54px; border-top:1px solid var(--rule); }
+.anchor-pair { display:grid; grid-template-columns:1fr 1fr; gap:38px; margin-top:8px; }
+.anchor { margin:0; background:var(--paper); border:1px solid var(--rule); }
+.anchor a { display:block; border:0; background:var(--plate); padding:22px; }
+.anchor img { width:100%; height:440px; object-fit:contain; }
+.anchor figcaption { border-top:1px solid var(--rule); padding:16px 20px; font:0.8125rem/1.7 var(--mono); color:var(--faint); }
+.anchor figcaption b { display:block; font:1.25rem var(--serif); font-weight:500; color:var(--ink); margin-bottom:4px; }
+
+.context-grid { display:grid; grid-template-columns:1fr 1fr; gap:48px; margin-top:8px; }
+.context-panel h3 { font-size:1.9rem; margin:11px 0 14px; }
+.context-panel p { font-size:1.08rem; line-height:1.6; color:var(--ink-soft); margin:0 0 14px; }
+.context-source { font:0.8125rem/1.75 var(--mono) !important; color:var(--faint) !important; }
+
+.gap-figure { background:var(--paper-2); border:1px solid var(--rule); padding:26px 24px 18px; margin:10px 0 22px; }
+.gap-figure svg { width:100%; height:auto; display:block; overflow:visible; }
+.gap-tick { stroke:#cfc5b1; stroke-width:1; }
+.gap-year { font:11px var(--mono); fill:var(--faint); text-anchor:middle; }
+.gap-band.gap-anatolia { fill:var(--copper); }
+.gap-band.gap-rapanui { fill:var(--deep); }
+.gap-label { font:12px var(--mono); fill:var(--ink-soft); dominant-baseline:middle; }
+.exclusion-list { list-style:none; margin:14px 0; padding:0; display:grid; gap:9px; font:0.8125rem/1.6 var(--mono); }
+.exclusion-list li { display:flex; justify-content:space-between; gap:18px; border-bottom:1px solid var(--rule); padding-bottom:9px; }
+.exclusion-list b { font-weight:400; color:var(--ink-soft); }
+.exclusion-list span { color:var(--copper); white-space:nowrap; }
+
+@media(max-width:1100px) {
+  .walls { gap:40px; }
+  .anchor img { height:340px; }
+}
+@media(max-width:860px) {
+  .walls,.anchor-pair,.context-grid { grid-template-columns:1fr; gap:38px; }
+  .wall-grid { grid-template-columns:repeat(auto-fill,minmax(104px,1fr)); }
+  .anchor img { height:300px; }
+  #wall-reset { margin-left:0; }
+}
+.wall-finding { font-size:1.08rem; line-height:1.6; color:var(--ink-soft); max-width:74ch; margin:18px 0 0; padding-left:18px; }

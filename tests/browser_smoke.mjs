@@ -223,6 +223,25 @@ try {
   await client.evaluate(`document.querySelector('[data-view=time]').click()`);
   assert.ok(await client.evaluate(`document.documentElement.scrollWidth <= innerWidth+1`));
   await screenshot('catalogue-time-mobile.png');
+  await navigate('corpus.html');
+  assert.equal(await client.evaluate(`document.querySelectorAll('.wall').length`),2);
+  assert.equal(await client.evaluate(`document.querySelectorAll('.wall-item').length`),72);
+  await waitFor(`[...document.querySelectorAll('.wall-item img')].slice(0,12).every(i=>i.complete&&i.naturalWidth>0)`);
+  await screenshot('corpus-desktop.png');
+  // Filtering highlights and never removes: every stone stays on the wall.
+  await client.evaluate(`document.querySelector('[data-feature=bird]').click()`);
+  assert.equal(await client.evaluate(`document.querySelectorAll('.wall-item').length`),72);
+  assert.ok(await client.evaluate(`document.querySelectorAll('.wall-item.is-hit').length>0`));
+  assert.ok(await client.evaluate(`document.querySelectorAll('.wall-item.is-dim').length>0`));
+  assert.ok(await client.evaluate(`document.querySelector('#wall-readout').textContent.includes('Neolithic Anatolia')`));
+  await client.evaluate(`document.querySelector('[data-feature=round]').click()`);
+  assert.equal(await client.evaluate(`[...document.querySelectorAll('.wall[data-corpus=anatolia] .wall-item.is-hit')].length`),3);
+  await screenshot('corpus-filtered-desktop.png');
+  await client.evaluate(`document.querySelector('#wall-reset').click()`);
+  assert.equal(await client.evaluate(`document.querySelectorAll('.wall-item.is-dim').length`),0);
+  await navigate('corpus.html',390,844);
+  assert.ok(await client.evaluate(`document.documentElement.scrollWidth <= innerWidth+1`));
+  await screenshot('corpus-mobile.png');
   await navigate('clusters.html');
   assert.equal(await client.evaluate(`document.querySelectorAll('.cluster-list .cluster-row').length`),23);
   assert.ok(await client.evaluate(`document.querySelector('.cluster-row .cluster-link').getAttribute('href')==='clusters/neolithic-anatolia--rapanui.html'`));
@@ -526,7 +545,7 @@ try {
     event.params.response.url.startsWith(base.origin) && event.params.response.status >= 400 &&
     !event.params.response.url.endsWith('/favicon.ico')).map(event => event.params.response.url);
   assert.deepEqual(failedLocalResponses, [], 'Failed local asset requests');
-  console.log(`Browser smoke checks passed: catalogue views, cluster index and pair dossiers, shared filters and return links, submerged grids and depth changes, network fallback, desktop/mobile layouts, comparison controls, recognition trials, five studies, legacy bookmarks and no-script evidence.\nScreenshots: ${screenshots}`);
+  console.log(`Browser smoke checks passed: catalogue views, cluster index, the two repertoire walls and pair dossiers, shared filters and return links, submerged grids and depth changes, network fallback, desktop/mobile layouts, comparison controls, recognition trials, five studies, legacy bookmarks and no-script evidence.\nScreenshots: ${screenshots}`);
 } finally {
   client?.close();
   browserClient?.close();

@@ -261,7 +261,7 @@ def dossier(cluster, data, idx):
     body = f'''<main id="main"><header class="dossier-heading cat-wrap"><a class="back-link" href="../clusters.html">← Cluster index</a>
 <div class="micro">Cluster · {esc(counts(cluster))}</div><h1>{pair_title(cluster, idx, '<br><span aria-hidden="true">↔</span><br>')}</h1>
 <p class="dossier-deck">{len(cluster['lines'])} separate line{'' if len(cluster['lines']) == 1 else 's'} of comparison join these two traditions in this collection. {cluster['open']} of them {'has' if cluster['open'] == 1 else 'have'} no established route.</p>
-<div class="dossier-links">{a('../' + state_url(cluster), 'All threads in the collection')} {a('../' + state_url(cluster, 'map'), 'Map')} {a('../' + state_url(cluster, 'time'), 'Dates')}</div>
+<div class="dossier-links">{a('../' + state_url(cluster), 'All threads in the collection')} {a('../' + state_url(cluster, 'map'), 'Map')} {a('../' + state_url(cluster, 'time'), 'Dates')}{a('../corpus.html', 'Both repertoires, every stone') if cluster['id'] == FLAGSHIP else ''}</div>
 <p class="micro">Motif families: {' · '.join(a('../families/' + id + '.html', idx['families'][id]['label']) for id in cluster['families']) or 'none assigned yet'}</p></header>
 <section class="cluster-sides cat-wrap">{side(culture_a, left_records)}{side(culture_b, right_records)}</section>
 <section class="cluster-lines cat-wrap">{''.join(line_block(cluster, line, n + 1, idx) for n, line in enumerate(cluster['lines']))}</section>
